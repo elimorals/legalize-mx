@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2009-02-10"
+last_updated: "2012-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -97,9 +97,9 @@ VIII. La Contraloría del Estado;
 
 IX. Las secretarías, dependencias y entidades paraestatales del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-X. Los ayuntamientos y sus dependencias y entidades paramunicipales;
+X. Los ayuntamientos, sus dependencias y entidades paramunicipales;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
@@ -227,7 +227,7 @@ VI. Firma autógrafa del denunciante o los denunciantes.
 
 #### Sección Segunda. Del examen previo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2004)</small>
 
 ###### Artículo 12.
 
@@ -239,7 +239,7 @@ Cuando la denuncia no sea ratificada dentro del plazo previsto, se tendrá como 
 
 Una vez ratificada la denuncia, no procede el desistimiento. El órgano técnico de Responsabilidades la remitirá al Pleno de la Asamblea para su conocimiento y para que, previo acuerdo, sea turnada a la Comisión de Responsabilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 13.
 
@@ -443,7 +443,7 @@ Para declarar que ha lugar a ejercitar la acción penal, es necesario que exista
 
 Cuando el ministerio público concluya una averiguación previa y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el procurador general de justicia del Estado deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2004)</small>
 
 ###### Artículo 35.
 
@@ -571,7 +571,7 @@ El juez de primera instancia, el ministerio público o la autoridad municipal re
 
 Para la práctica de las diligencias, todas las comunicaciones se entregarán personalmente o, en su defecto, se enviarán por correo, en pieza certificada y con acuse de recibo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2004)</small>
 
 ###### Artículo 52.
 
@@ -657,11 +657,15 @@ En todos los casos no previstos en el presente ordenamiento, para las discusione
 
 Las declaraciones de procedencia o las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes; y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
 
-En todos los casos relativos a la materia sustantiva o adjetiva no previstos en la presente ley, se aplicarán, en lo conducente, las disposiciones aplicables del Código Penal y Código de Procedimientos Penales del Estado.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+En todos los casos relativos a la materia sustantiva o adjetiva no previstos en los Títulos Segundo, Tercero y Cuarto de la presente ley, se aplicarán, en lo conducente, las disposiciones aplicables del Código Penal y del Código de Procedimientos Penales del Estado.
 
 ## TÍTULO QUINTO. RESPONSABILIDADES ADMINISTRATIVAS
 
-### Capítulo I. DE LAS OBLIGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+### Capítulo I. DISPOSICIONES GENERALES
 
 ###### Artículo 61.
 
@@ -769,7 +773,7 @@ XXIV. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, 
 
 XXV. Respetar el derecho de petición de los particulares en los términos del artículo 8° de la Constitución Política de los Estados Unidos Mexicanos.
 
-Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por las administrados;
+Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por los administrados;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
@@ -791,239 +795,409 @@ XXIX. Abstenerse de utilizar los vehículos propiedad de las autoridades a las q
 
 XXX. Atender la colaboración, requerimientos y apercibimientos fundados y motivados que les hagan las dependencias estatales, federales, municipales y organismo públicos descentralizados;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-XXXI. Consultar el Registro Policial previo al ingreso de toda persona a cualquier institución, y
+XXXI. Consultar el Registro Policial y el registro de las inhabilitaciones que refiere el artículo 80 de la presente ley, antes del ingreso de toda persona a cualquier institución;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-XXXII. Las demás que le impongan las leyes y reglamentos.
+XXXII. Actuar de conformidad con las disposiciones legales o reglamentarias aplicables al caso, sin incurrir en silencio administrativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
+
+XXXIII. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a las que se refiere el artículo 63 de la presente ley y de evitar que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para la no presentación de quejas y denuncias, o que, con motivo de ello realice cualquier conducta injusta u omita una justa y debida conducta que lesione los intereses legítimos de quienes las presenten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
+
+XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de las autoridades descritas en el articulo 3.° de esta ley, el cambio de domicilio particular, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
+
+XXXV. Las demás que le impongan las leyes y reglamentos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 62.
 
-Incurren en responsabilidad administrativa los servidores públicos que comentan actos u omisiones en contravención de cualquier disposición legal relacionada con el cumplimiento de sus obligaciones.
+Incurren en responsabilidad administrativa los servidores públicos que cometan actos u omisiones en contravención a lo dispuesto por el artículo 61 y de cualquier disposición legal relacionada con el cumplimiento de sus obligaciones.
 
-Cualquier persona, mediante la presentación de elementos de prueba, podrá denunciar actos y omisiones que impliquen responsabilidad de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas.
-
-En las dependencias y organismos de la administración pública estatal, así como en los ayuntamientos, se establecerán unidades específicas a las que el público en general tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por el incumplimiento de las obligaciones establecidas en el artículo anterior, con las que se podrán iniciar, en su caso, los procedimientos disciplinarios correspondientes.
-
-En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3º de esta ley estarán facultadas para establecer las normas y procedimientos para los efectos de que las instancias públicas sean atendidas y resueltas de manera pronta y expedita; quedando obligadas a turnar a la autoridad correspondiente aquellas que no sean de su competencia, orientando al particular la instancia y el seguimiento que corresponda.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE JUNIO DE 2008)</small>
+Cuando las conductas u omisiones a las que se refiere el párrafo anterior devengan en el pago de prestaciones económicas por parte de la entidad pública, se impondrá preferentemente la sanción pecuniaria prevista en la fracción III del artículo 72 de esta ley.
 
 ###### Artículo 62 Bis.
 
-De igual forma, incurrirán en responsabilidad administrativa los servidores públicos que causen un silencio administrativo en contravención a las disposiciones legales o reglamentarias aplicables al caso.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### Artículo 62 Ter.
 
-El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándole las pruebas e información que estime pertinentes. Dicha dependencia debe manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 63.
 
-La contraloría del Estado, el superior jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+Cualquier persona, mediante la presentación de elementos de prueba, podrá denunciar actos y omisiones que impliquen responsabilidad administrativa de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas. La denuncia de responsabilidad administrativa podrá formularse de forma oral o por escrito. Cuando la denuncia sea de forma oral, se hará constar en acta que levantará el servidor público del órgano de control disciplinario que la reciba. Cuando sean por escrito, deberán contener el domicilio y la firma o huella digital del que la presente.
 
-Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la presentación de quejas y denuncias, o que, con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses legítimos de quienes las presenten.
+En ningún caso será necesaria la ratificación de la queja o denuncia interpuesta.
+
+Los órganos de control disciplinario, de oficio, podrán deslindar causas de responsabilidad administrativa a través de los procedimientos establecidos en el presente título.
+
+Las autoridades señaladas en el artículo 3.° de esta ley establecerán los órganos de control disciplinario a los que el público en general tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias en contra de servidores públicos que presumiblemente incurran en responsabilidad administrativa, responsabilidad que deberá deslindarse conforme a los procedimientos contemplados en el presente título. El denunciante puede coadyuvar con la autoridad que instruya la investigación administrativa o el procedimiento sancionatorio, aportándole las pruebas e información que estime pertinentes. El órgano de control disciplinario debe manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia en el procedimiento de investigación, o bien, en el acuerdo que determine dar vista al titular de la entidad pública para el desarrollo del procedimiento sancionatorio.
+
+Recibida la denuncia o queja, el órgano de control disciplinario deberá emitir el primer acuerdo del procedimiento de investigación administrativa o del procedimiento sancionatorio, según sea el caso, en un término no mayor de quince días hábiles contados a partir del día siguiente de haberla recibido. La inactividad procesal o el desahogo del procedimiento administrativo que no se ajuste a los términos o plazos legales establecidos por la ley, será causa de responsabilidad administrativa.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 64.
 
-Las sanciones por faltas administrativas consistirán en:
+En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3.° de esta ley deberán establecer en sus normas la instancia o dependencia que fungirá como órgano disciplinario que atienda las quejas y denuncias de manera pronta y expedita; quedando obligadas a turnar a la autoridad correspondiente aquellas que no sean de su competencia, orientando al particular la instancia y el seguimiento que corresponda.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-I. Apercibimiento;
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-II. Amonestación por escrito;
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-III. Suspensión en el empleo, cargo o comisión, hasta por ocho días;
-
-IV. Destitución;
-
-V. Destitución con inhabilitación hasta por seis años para desempeñar empleos, cargos o comisiones en el servicio público; y
-
-VI. Sanción pecuniaria.
-
-El apercibimiento y la amonestación podrán hacerse en forma pública o privada, según lo considere prudente el superior jerárquico.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
-
-La suspensión del empleo, cargo a comisión no podrá ser menor de tres días, ni mayor de ocho.
-
-La inhabilitación temporal para ejercer empleo, cargo o comisión dentro del servicio público no podrá ser inferior de tres meses, ni mayor de seis años.
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de uno a tres años si el monto de aquéllos no excede de cien veces el salario mínimo vigente en la zona económica correspondiente, y de tres a seis años si excede de dicho límite.
-
-Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación líquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal. Estas sanciones constituyen créditos fiscales y se harán efectivas mediante el procedimiento administrativo de ejecución.
-
-Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en salarios mínimos vigentes al día de su pago. Se otorgará un plazo máximo de tres años para que el servidor público pague la sanción pecuniaria que se le imponga, pero en ningún caso, los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
-
-Para que una persona que hubiere sido inhabilitada en los términos de esta ley por un plazo mayor de tres años, pueda volver a desempeñar empleo, cargo o comisión en el servicio público, una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia, secretaría, departamento o entidad paraestatal o municipal mayoritaria a la que pretende ingresar, dé aviso en forma razonada y justificada de tal circunstancia para que se autorice su ingreso.
-
-La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 65.
 
-Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses si el daño causado no excede de cincuenta veces el salario mínimo vigente en la zona metropolitana de Guadalajara o si la responsabilidad fuese leve y no estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiere cesado si fuere de carácter continuo. En los demás casos, prescribirán en tres años con tres meses.
+Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses si el daño causado no excede de cincuenta veces el salario mínimo vigente en la zona metropolitana de Guadalajara o si la responsabilidad fuere leve y no estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiere cesado si fuere de carácter continuo. En los demás casos, prescribirán en tres años con tres meses. Prescribe en treinta días hábiles la atribución del superior jerárquico de la dependencia de que se trate, sobre la imposición del apercibimiento y la amonestación. La prescripción contará a partir del día siguiente del acto irregular a sancionar.
 
-Los términos de prescripción se interrumpirán cuando se practiquen investigaciones administrativas para comprobar la infracción y de ello queden constancias fehacientes.
+Los términos de prescripción se interrumpirán cuando se practique el procedimiento de investigación administrativa para comprobar la infracción y de ello queden constancias fehacientes, sin pasar del límite de tiempo establecido por el artículo 84 de esta ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 66.
 
-Las autoridades a que se refiere el artículo 3° de la presente ley, serán competentes para imponer las sanciones previstas en el capítulo 11 (sic) del presente titulo y las previstas en el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, bajo las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
-
-I. El apercibimiento, la amonestación y la suspensión en el empleo, cargo o comisión por un período no menor de tres ni mayor a treinta días, serán aplicadas por el superior jerárquico;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
-
-II. La destitución del empleo, cargo o comisión de los servidores públicos de base, se determinará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas;
-
-III. La suspensión del empleo, cargo o comisión y la destitución o cese de los servidores públicos de confianza, se aplicará por el titular de la entidad pública, secretaría, dependencia, o entidad paraestatal o municipal mayoritaria, o por conducto de las contralorías u órganos equivalentes.
-
-La Contraloría del Estado promoverá los procedimientos contenidos en las fracciones II y III del presente artículo, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
-
-IV. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución que dicte la autoridad competente para hacerlo dentro de cada uno de los poderes; ayuntamientos, dependencias municipales y sus descentralizadas, conforme a lo que se establezca en sus leyes orgánicas y reglamentos; y
-
-V. Las sanciones económicas serán aplicadas por los titulares de las entidades públicas, secretarías, dependencias, ayuntamientos del Estado, entidades descentralizadas, estatales y municipales o por quienes adquieran dicha función de acuerdo a sus leyes.
-
-###### Artículo 67.
-
-Serán competentes para la aplicación de sanciones:
-
-I. En el Poder Ejecutivo:
-
-a) El Gobernador del Estado;
-
-b) El superior jerárquico dentro de cada una de las secretarías, dependencias, o entidades paraestatales en caso que ameriten apercibimiento o amonestación.
-
-c) La Contraloría del Estado será competente para aplicar cualquiera de las sanciones a que se refiere el artículo 64 de esta ley, cuando las infracciones que las motiven se detecten de los hechos que tenga conocimiento en el ejercicio de sus atribuciones, con las salvedades que la misma ley establece;
-
-d) Los titulares de las secretarías, dependencias o entidades paraestatales, para imponer la sanción pecuniaria cuando los beneficios económicos obtenidos por el responsable y los daños y perjuicios, causados por éste, no excedan de cien veces el salario mínimo diario vigente en la zona económica correspondiente; y, en los demás casos, la Contraloría del Estado.
-
-II. En el Poder Legislativo:
-
-a) La Asamblea legislativa, mediante la aprobación de los dictámenes provenientes de las comisiones de tesorería, inspección, responsabilidades y especiales que para el efecto se integren, para aplicar las sanciones a que se refiere el artículo 64 de esta ley, y será la única facultada para aplicar la destitución con inhabilitación;
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
-
-b) El titular de la Comisión de Administración, el Secretario General, y auditor superior del estado, de acuerdo a lo que al efecto regulen sus leyes y reglamentos, podrán imponer el apercibimiento, amonestación, suspensión en el empleo hasta por tres días y la sanción pecuniaria cuando de su aplicación no se exceda de cien veces el salario mínimo diario vigente en la zona económica, y en los demás casos la Asamblea;
-
-III. En el Poder Judicial, incluyéndose los organismos jurisdiccionales autónomos, por los órganos que determinen sus propias leyes orgánicas y reglamentos;
-
-IV. En los gobiernos municipales, incluyendo los organismos públicos descentralizados o asociaciones de participación municipal mayoritaria, los órganos y autoridades que establezcan sus propias leyes y reglamentos;
-
-V. En la Comisión Estatal de Derechos Humanos, el presidente como titular del organismo y sus directores o equivalentes como superiores jerárquicos, conforme a la presente ley, la suya propia y sus reglamentos; y (sic)
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-VI. En el Instituto Electoral y de Participación Ciudadana del Estado, los órganos y autoridades que establezcan sus propias leyes, reglamentos y estatutos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2009)</small>
-
-VII. En el Instituto de Transparencia e Información Pública del Estado, el Consejo, y la Junta Ejecutiva del mismo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
-
-Cuando alguno de los servidores públicos que integran los entes públicos a que se refiere este artículo incurran en responsabilidad administrativa, deberá instaurarse por la autoridad correspondiente el procedimiento que establece esta ley, sancionándolos de conformidad con la misma, sin más limitaciones que las establecidas en la legislación aplicable a la materia.
-
-###### Artículo 68.
-
-Los funcionarios que conforme a la presente ley deban aplicar las sanciones a los servidores públicos por violaciones a la misma, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de cien veces el salario mínimo diario vigente en la zona económica correspondiente y en su caso sea reparado el daño al Estado o Municipio.
+Los titulares de las entidades públicas que conforme a la presente ley deban aplicar las sanciones a los servidores públicos por responsabilidades administrativas, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de cien veces el salario mínimo diario vigente en la zona económica correspondiente y, en su caso, sea reparado el daño a la respectiva autoridad que refiere el artículo 3.° de la presente ley.
 
 Incurrirán en responsabilidad administrativa los servidores públicos que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 67.
+
+Para efectos del presente título, se entenderá por titulares de las entidades públicas:
+
+I. En el Poder Legislativo:
+
+a) En el Congreso del Estado, representado por el Secretario General;
+
+b) En la Auditoría Superior del Estado de Jalisco, representado por el Auditor Superior.
+
+II. En el Poder Ejecutivo y la administración pública estatal, el Gobernador del Estado, y en general en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo dispongan su Ley Orgánica y su reglamento interior;
+
+III. En el Poder Judicial:
+
+a) En el Supremo Tribunal de Justicia, el pleno, representado por el Magistrado Presidente, y (sic)
+
+b) En el Tribunal de lo Administrativo, su respectivo pleno, representado por su Presidente.
+
+c) En el Tribunal Electoral, el pleno, representado por su Presidente;
+
+IV. En el Instituto Electoral y de Participación Ciudadana del Estado, el pleno, representado por su Presidente;
+
+V. En el Consejo de la Judicatura del Estado, el pleno, representado por su Presidente;
+
+VI. En el Instituto de Justicia Alternativa del Estado de Jalisco, el Consejo, representado por su Presidente;
+
+VII. En el Tribunal de Arbitraje y Escalafón del Estado, el pleno, representado por su Presidente;
+
+VIII. En los municipios, el Ayuntamiento, representado por el Presidente Municipal;
+
+IX. En la Comisión Estatal de Derechos Humanos, el Consejo, representado por su Presidente;
+
+X. En el Instituto de Transparencia e Información Pública del Estado, el Consejo, representado por su Presidente, y
+
+XI. En los organismos descentralizados y empresas de participación estatal o municipal mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 68.
+
+Para efectos del presente título, se entenderá por superior jerárquico, al servidor público de mayor jerarquía dentro de una dependencia, dirección, unidad administrativa u oficina perteneciente a una entidad pública.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 69.
 
-El procedimiento para la aplicación de sanciones, a excepción del apercibimiento y de la amonestación, estará sujeto a las siguientes reglas:
+Los órganos de control disciplinario tendrán un libro de gobierno anual donde se registrarán las quejas y denuncias contra servidores públicos; en éste se asentarán:
 
-I. Conocida una irregularidad por la autoridad competente, le solicitará informe al servidor público presunto responsable de la misma, dándole a conocer los hechos y la conducta sancionable que se le imputa, haciéndole llegar, en su caso, copia del acuerdo en el que se incoe el procedimiento emitido por la propia autoridad competente, así como de la denuncia y de la documentación en la que se motive, concediéndole un término de cinco días hábiles para que produzca por escrito su contestación y ofrezca pruebas, las cuales podrá presentar, dentro de los quince días hábiles siguientes.
+I. El nombre del denunciante;
 
-La autoridad competente notificará además, a la dependencia o entidad pública en la que el acusado preste sus servicios;
+II. El número de expediente asignado;
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+III. El nombre, puesto y lugar de asignación dentro de la entidad pública del servidor público denunciado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+IV. La fecha de la denuncia;
 
-II. TRANSCURRIDO EL TÉRMINO MENCIONADO EN LA FRACCIÓN QUE ANTECEDE SE CORRERÁ TRASLADO INMEDIATAMENTE AL DENUNCIANTE DEL INFORME RENDIDO POR EL SERVIDOR PÚBLICO ASÍ CONO DE LAS PRUEBAS OFERTADAS, PARA QUE DENTRO DE LOS QUINCE DÍAS SIGUIENTES SE SEÑALE DÍA Y HORA PARA LA CELEBRACIÓN DE UNA AUDIENCIA, EN LA QUE SE DESAHOGARÁN LAS PRUEBAS OFRECIDAS Y SE EXPRESARÁN LOS ALEGATOS, CITÁNDOSE AL DENUNCIANTE, A LA AUTORIDAD QUE HUBIERE PRACTICADO LA AUDITORIA, A LA DEPENDENCIA O ENTIDAD PÚBLICA EN QUE EL PRESUNTO RESPONSABLE PRESTE SUS SERVICIOS Y AL SERVIDOR PÚBLICO DENUNCIADO. EL ORDEN DE LA AUDIENCIA SERÁ EL SIGUIENTE:
+V. Los hechos y circunstancias que se denuncian, y
 
-a) Se dará cuenta con el acuerdo en el que se establece la incoación del procedimiento administrativo.
+VI. El nombre del servidor público del órgano de control disciplinario, que tendrá bajo resguardo el expediente como responsable de su instrucción.
 
-b) Se dará lectura al informe que haya presentado el servidor público denunciado.
+La información contenida en el libro anterior es considerada como reservada en términos de la Ley de Información Pública del Estado de Jalisco y sus Municipios. La actualización y resguardo del libro será responsabilidad del superior jerárquico o del encargado del órgano de control disciplinario respectivo.
 
-c) Se recibirán las pruebas en el orden en que se hayan ofrecido.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
-
-D) LAS PARTES EXPRESARÁN ALEGATOS LOS CUALES PODRÁN SER FORMULADOS EN FORMA VERBAL O POR ESCRITO. AL CONCLUIR, SE DECLARARÁ POR VISTO EL ASUNTO Y SE TURNARÁ PARA SU RESOLUCIÓN.
-
-III. La audiencia a que se refiere la fracción anterior podrá ser suspendida o prorrogada en los siguientes casos:
-
-a) Cuando la autoridad a quien competa realizarla se encuentre imposibilitada de funcionar por causas de fuerza mayor.
-
-b) Por el hecho de que alguna autoridad no entregue o remita la documentación o constancias que como pruebas haya ofrecido el servidor público presunto responsable.
-
-c) Por contradicción de dictámenes periciales, encontrándose la necesidad de nombrar un perito tercero en discordia.
-
-d) Por la ausencia del servidor público denunciado, de peritos o testigos, siempre que esté motivada por alguna causa justificada.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III, PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
-
-SI DE LA DENUNCIA SE DESPRENDE QUE NO EXISTEN ELEMENTOS SUFICIENTES PARA RESOLVER O SE DESCUBRE QUE EXISTEN ALGUNOS QUE IMPLIQUEN NUEVA RESPONSABILIDAD DEL SERVIDOR PÚBLICO DENUNCIADO O DE OTRAS PERSONAS, PARA MEJOR PROVEER, SE PODRÁ DISPONER LA PRÁCTICA DE NUEVAS DILIGENCIAS Y CITAR PARA OTRA U OTRAS AUDIENCIAS, ASÍ COMO INCOAR NUEVOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA EN CONTRA DE LOS SERVIDORES PÚBLICOS INVOLUCRADOS, DE CUYAS CIRCUNSTANCIAS SE NOTIFICARÁ OPORTUNAMENTE AL DENUNCIANTE A EFECTO DE QUE ÉSTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTE.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-IV. DESAHOGADAS LAS PRUEBAS Y EXPRESADOS LOS ALEGATOS, SE RESOLVERÁ DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES, SOBRE LA EXISTENCIA O INEXISTENCIA DE RESPONSABILIDAD, IMPONIENDO AL INFRACTOR, EN SU CASO, LAS SANCIONES ADMINISTRATIVAS CORRESPONDIENTES. LA RESOLUCIÓN DEBERÁ NOTIFICARSE DE FORMA PERSONAL AL SERVIDOR PÚBLICO PROCESADO, AL SUPERIOR JERÁRQUICO, AL ÓRGANO ENCARGADO DEL REGISTRO DE SANCIONES DISCIPLINARIAS Y AL DENUNCIANTE, DENTRO DE LAS SETENTA Y DOS HORAS SIGUIENTES AL MOMENTO EN QUE SE PRONUNCIE LA RESOLUCIÓN;
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-V. DE TODAS LAS DILIGENCIAS QUE SE PRACTIQUEN, ASÍ COMO DE SUS RESULTADOS SE INFORMARÁ CON OPORTUNIDAD AL DENUNCIANTE A EFECTO DE QUE ÉSTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTES, SE LEVANTARÁN ACTAS CIRCUNSTANCIADAS QUE DEBERÁN FIRMAR QUIENES EN ELLA INTERVENGAN. EN CASO DE NEGATIVA, SE ASENTARÁ TAL CIRCUNSTANCIA, SIN QUE ESTO AFECTE SU VALOR PROBATORIO; Y
-
-VI. Si el servidor público reconociera su responsabilidad en la audiencia, son aplicables las siguientes disposiciones:
-
-a) Se procederá de inmediato a dictar resolución.
-
-b) Se impondrá al infractor dos tercios de la sanción aplicable si fuere de naturaleza económica, pero, en todo caso, deberá ser suficiente para cubrir la indemnización por daños causados.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI, INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
-
-C) DE CONFORMIDAD CON LA GRAVEDAD DE LA FALTA, LA AUTORIDAD QUE RESUELVE PODRÁ ABSTENERSE DE SANCIONAR AL INFRACTOR POR UNA SOLA VEZ, SIEMPRE QUE SE TRATE DE HECHOS QUE NO CONSTITUYAN DELITO, LO AMERITEN LOS ANTECEDENTES Y CIRCUNSTANCIAS PARTICULARES DEL INFRACTOR Y EL DAÑO CAUSADO NO EXCEDA DE CINCUENTA VECES EL SALARIO MÍNIMO VIGENTE EN LA ZONA ECONÓMICA CORRESPONDIENTE Y, EN SU CASO, SEA REPARADO EL DAÑO.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 70.
 
-Al iniciarse el procedimiento, si así conviene para la conducción y continuación de las investigaciones y cuando la falta sea grave y pueda ser sancionada con destitución, la autoridad competente podrá determinar la reubicación provisional del servidor público denunciado de su empleo, cargo o comisión, sin afectar el salario o pago de las percepciones del servidor público suspendido. La reubicación regirá desde el momento en que sea notificada al interesado y cesará cuando así lo resuelva la autoridad instructora o hasta que se resuelva en definitiva el procedimiento. La reubicación de ninguna manera prejuzga sobre la responsabilidad imputada.
+Las autoridades deberán expedir, a solicitud de cualquier interesado, constancias que acrediten la no existencia de sanción administrativa.
 
-Si el servidor público reubicado provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de sus derechos.
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 71.
 
-Se requerirá autorización del gobernador del Estado para la suspensión provisional a que se refiere el artículo anterior, si el nombramiento del servidor público de que se trate incumbe directamente a éste. Asimismo, se requerirá de autorización del Congreso del Estado, si el nombramiento requirió ratificación de éste en los términos de la Constitución Política del Estado.
+Para lo no dispuesto por el presente título, servirá de norma supletoria la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. En ausencia de una institución jurídica procedimental a suplir, servirá de apoyo el Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco.
 
-### Capítulo II. DE LAS SANCIONES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+### Capítulo II. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Primera. Sanciones administrativas
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 72.
+
+Las sanciones por responsabilidades administrativas consistirán en:
+
+I. Apercibimiento;
+
+III. Amonestación por escrito;
+
+III. Sanción pecuniaria;
+
+IV. Suspensión en el empleo, cargo o comisión sin goce de sueldo, de tres a treinta días laborables;
+
+V. Destitución;
+
+VI. Inhabilitación de tres meses a seis años para desempeñar empleos, cargos o comisiones en el servicio público, y
+
+VII. Destitución con inhabilitación hasta por seis años para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Segunda. Apercibimiento
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 73.
+
+El apercibimiento podrá hacerse en forma pública ante dos testigos, o privada, según lo considere prudente el superior jerárquico, quien tendrá la atribución de imponer la sanción sin necesidad de procedimiento previo alguno.
+
+El apercibimiento es una llamada de atención o advertencia que se hace de forma oral al servidor público, y la misma es una advertencia que se hace para que cesen las indisciplinas.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Tercera. Amonestación
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 74.
+
+La amonestación deberá levantarse por escrito por el superior jerárquico del servidor público implicado, sin necesidad de procedimiento previo alguno. En el documento deberá constar la intervención del servidor público, en la que manifieste lo que a su derecho corresponda.
+
+La amonestación deberá suscribirse por el superior jerárquico, por el servidor público sancionado y por al menos dos testigos de asistencia a los que les consten los hechos cometidos.
+
+Si el servidor público sancionado se negare a intervenir y suscribir la amonestación, se asentará dicha negativa en el documento.
+
+Se entregará una copia de la amonestación al sancionado y una más se insertará al expediente personal que obre en el área de recursos humanos de la entidad pública.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Cuarta. Sanciones pecuniarias
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 75.
+
+Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por el servidor público presunto responsable a las autoridades descritas en el artículo 3.° de esta ley, por el incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación líquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal.
+
+Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en salarios mínimos vigentes al día de su pago. Se otorgará un plazo máximo de tres años para que el servidor público pague la sanción pecuniaria que se le imponga, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
+
+Esta sanción será aplicada por el titular de la entidad pública, a través del procedimiento sancionatorio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 76.
+
+Las sanciones pecuniarias constituirán créditos fiscales a favor del erario estatal o municipal, según sea el caso. Se harán efectivas mediante el procedimiento económico coactivo de ejecución y tendrán la prelación prevista para dichos créditos, sujetándose en todo a las disposiciones fiscales aplicables en esta materia.
+
+###### Artículo 76 Bis.
+
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Quinta. De la suspensión sin goce de sueldo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 77.
+
+La suspensión en el empleo, cargo o comisión sin goce de sueldo, será de tres a treinta días laborables.
+
+La presente sanción se aplicará a los servidores públicos por el titular de la entidad pública a través del procedimiento sancionatorio.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Sexta. Destitución
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 78.
+
+La destitución del empleo, cargo o comisión de los servidores públicos, se determinará por el titular de la entidad pública de acuerdo con el procedimiento sancionatorio.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Séptima. Inhabilitación
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 79.
+
+La inhabilitación para ejercer empleo, cargo o comisión dentro del servicio público no podrá ser inferior de tres meses, ni mayor de seis años.
+
+La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución que dicte el titular de la entidad pública de que se trate a través del procedimiento sancionatorio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 80.
+
+La Contraloría del Estado administrará y actualizará el Registro Estatal de las inhabilitaciones que impongan los titulares de las entidades públicas. El registro deberá elaborarse de forma física y electrónica, de manera anual y por la autoridad respectiva. Dicha información es clasificada como información fundamental, de conformidad con lo establecido en la Ley de Transparencia e Información Pública del Estado de Jalisco; para tales efectos, deberá disponer el registro, entre otros medios, en su página de Internet, para consulta electrónica.
+
+La responsabilidad del manejo, actualización y publicación del registro de las inhabilitaciones será del Contralor del Estado, o la persona que éste designe mediante acuerdo, El manejo inadecuado y la falta de actualización del registro será causa de responsabilidad administrativa en términos del presente título.
+
+El titular de la entidad pública, al imponer la inhabilitación al servidor público responsable, deberá informarle a la Contraloría del Estado y enviarle la copia certificada de la resolución respectiva, en un término no mayor de diez días hábiles contados a partir del día siguiente de que causó estado la resolución. La omisión de dicho informe será causa de responsabilidad administrativa.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+#### Sección Octava. Reubicación
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81.
+
+Al iniciarse el procedimiento de investigación administrativa o el procedimiento sancionatorio, si así conviene para la debida conducción y continuación de los mismos y la falta cometida fuere grave, pudiendo aplicarse las sanciones establecidas en las fracciones V, VI y VII del artículo 72 de la presente ley, la autoridad competente podrá determinar la reubicación provisional de su empleo, cargo o comisión del servidor público denunciado, sin afectar su salario o pago de las percepciones. La reubicación regirá desde el momento en que sea notificada al interesado y cesará cuando así lo resuelva la autoridad instructora o hasta que se resuelva en definitiva el procedimiento respectivo. La reubicación de ninguna manera prejuzga sobre la responsabilidad imputada.
+
+Si el servidor público reubicado provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de sus derechos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE E 2012)</small>
+
+### Capítulo III. DE LA INVESTIGACION ADMINISTRATIVA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 82.
+
+El órgano de control disciplinario podrá integrar el procedimiento de investigación administrativa para allegarse de elementos suficientes para la instauración del procedimiento sancionatorio en contra del servidor público presunto responsable.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 83.
+
+El órgano de control disciplinario podrá solicitar la comparecencia de quien estime conveniente, recabará y requerirá la información o documentación que a su juicio sea necesaria para la integración de la investigación, así como la realización de las diligencias que considere oportunas para deslindar presuntas causas de responsabilidad administrativa.
+
+Las dependencias, direcciones, unidades administrativas u oficinas de las autoridades que refiere el artículo 3.° de la presente ley, deberán remitir o realizar lo solicitado por su órgano de control disciplinario. Ante la negativa de la cooperación, el órgano de control disciplinario podrá aplicar gradualmente el medio de apremio establecido en el artículo 90, fracción I, de la presente ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 84.
+
+La investigación administrativa no excederá de sesenta días naturales contados a partir del día siguiente de su avocamiento. De cumplirse dicho término y de no existir pronunciamiento por parte del órgano de control disciplinario, se entenderá que dicho procedimiento ha caducado y concluirá de forma anticipada sin responsabilidad para el servidor público presunto responsable.
+
+La inactividad procesal y el incumplimiento de dicho término por parte del órgano disciplinario, será causa de responsabilidad administrativa.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 85.
+
+Una vez realizada la investigación y de no resultar elementos jurídicos suficientes para presumir una responsabilidad administrativa, el órgano de control disciplinario podrá acordar el archivo del expediente como asunto concluido, fundamentando y motivando los razonamientos de causa.
+
+De existir elementos para sancionar al servidor público responsable, el órgano de control disciplinario dará vista al titular de la entidad pública para el inicio del procedimiento sancionatorio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 86.
+
+La resolución que declare el no inicio del procedimiento sancionatorio, puede ser impugnada por el denunciante a través del recurso de revisión, que deberá presentar dentro de los quince días hábiles siguientes a la fecha en que le sea notificada la resolución, en escrito que contenga expresión de agravios, acompañado con copia de la notificación.
+
+El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión turnando la instancia a la autoridad máxima de la autoridad respectiva señalada en el artículo 3.° de esta ley, para su resolución definitiva que deberá emitir dentro de los treinta días siguientes a aquel en que le fue turnado el recurso.
+
+La resolución extemporánea del recurso de revisión, será causa de responsabilidad administrativa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+### Capítulo IV. PROCEDIMIENTO SANCIONATORIO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 87.
+
+El procedimiento sancionatorio estará sujeto a las siguientes reglas:
+
+I. Conocida una irregularidad por el titular de la entidad pública, le solicitará un informe al servidor público presunto responsable, dándole a conocer los hechos y la conducta sancionable que se le imputa, haciéndole llegar;
+
+a) Copia del acuerdo en el que se incoe el procedimiento;
+
+b) Copia de la denuncia que dio origen al procedimiento;
+
+c) La documentación que integra el expediente, y
+
+d) Las probanzas ofrecidas por el quejoso en las que funda y motiva sus señalamientos.
+
+El presunto responsable contará con un término de cinco días hábiles para que produzca por escrito su informe y ofrezca pruebas.
+
+También deberá notificarse a la dependencia en la que el presunto responsable preste sus servicios.
+
+Para el desahogo del procedimiento sancionatorio, el titular de la entidad pública podrá apoyarse en el personal que estime conveniente para la correcta prosecución del procedimiento; ello no implica una delegación de facultades, sino simplemente la ayuda en la instrumentación de las actuaciones.
+
+II. Las pruebas ofrecidas por el presunto responsable en el Informe, deberán presentarse dentro de los quince días hábiles siguientes a la conclusión del término establecido en la fracción anterior;
+
+III. Transcurrido el término de la fracción que antecede, el titular de la entidad pública, dentro de los quince días hábiles siguientes, señalará día y hora para la celebración de la audiencia en la que se desahogarán las pruebas ofrecidas y se expresen los alegatos por las partes.
+
+A dicha audiencia se citará al denunciante, a quien se le correrá traslado del informe presentado por el servidor público denunciado; al superior jerárquico de la dependencia en la que el presunto responsable preste sus servicios; y al servidor público denunciado.
+
+El desahogo de la audiencia será en el siguiente orden:
+
+a) Se dará cuenta del acuerdo en el que se establece la incoación del procedimiento sancionatorio;
+
+b) Se dará lectura al informe que haya presentado el servidor público denunciado, en su caso;
+
+c) Se recibirán las pruebas en el orden en que se hayan ofrecido y presentado, tanto por el denunciante como las del servidor público presunto responsable;
+
+d) Se desahogarán las pruebas ofertadas por las partes;
+
+e) El denunciante y el servidor público presunto responsable expresarán alegatos, los cuales podrán ser formulados en forma verbal o por escrito, y
+
+f) Se declarará por visto el asunto, reservándose el titular de la entidad pública los autos para la resolución.
+
+IV. La audiencia referida podrá ser suspendida o prorrogada en los siguientes casos:
+
+a) Cuando el titular de la entidad pública se encuentre imposibilitado de funcionar por causas de fuerza mayor;
+
+b) Por el hecho de que alguna autoridad o dependencia no entregue o remita la documentación o constancias que como pruebas haya ofrecido el servidor público presunto responsable;
+
+c) Por contradicción de dictámenes periciales, encontrándose la necesidad de nombrar un perito tercero en discordia, y
+
+d) Por la ausencia del servidor público denunciado, de peritos o testigos, siempre que esté motivada por alguna causa justificada.
+
+V. Desahogadas las pruebas y expresados los alegatos, se resolverá dentro de los treinta días naturales siguientes, sobre la existencia o inexistencia de responsabilidad, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes. La resolución deberá notificarse de forma personal al servidor público procesado, al superior jerárquico, al órgano encargado del registro de sanciones disciplinarias en caso de inhabilitación y al denunciante, dentro de las setenta y dos horas siguientes al momento en que se pronuncie la resolución. Las resoluciones que impongan sanciones deberán ser adjuntadas al expediente personal del servidor público para sus antecedentes disciplinarios;
+
+VI. Si de la denuncia se desprende que no existen elementos suficientes para resolver o se descubre que existen algunos que impliquen nueva responsabilidad del servidor público denunciado o de otras personas, para mejor proveer, se podrá disponer la práctica de nuevas diligencias y citar para otra u otras audiencias, así como incoar nuevos procedimientos de responsabilidad administrativa en contra de los servidores públicos involucrados, de cuyas circunstancias se notificará oportunamente al denunciante a efecto de que emita las observaciones que juzgue convenientes.
+
+De todas las diligencias que se practiquen se levantarán actas circunstanciadas que deberán firmar quienes en ella intervengan. En caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 88.
+
+Si el servidor público en su informe o en la audiencia reconociera la responsabilidad imputada, se procederá de inmediato a dictar resolución y:
+
+I. Se impondrán al infractor dos tercios de la sanción aplicable si fuere de naturaleza económica, la que deberá ser suficiente para cubrir la indemnización por daños causados, o
+
+II. De conformidad con la gravedad de la falta, el titular de la entidad pública podrá abstenerse de sancionar al infractor por una sola vez, siempre que se trate de hechos que no constituyan delito, lo ameriten sus antecedentes en el servicio público y que el daño causado no exceda de cincuenta veces el salario mínimo vigente en la zona económica correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 89.
 
 En la imposición de las sanciones, se tomarán en cuenta:
 
@@ -1031,65 +1205,59 @@ I. La gravedad de la falta;
 
 II. Las condiciones socioeconómicas del servidor público;
 
-III. El nivel jerárquico, los antecedentes y la antigüedad en el servicio, del infractor;
+III. El nivel jerárquico, los antecedentes y la antigüedad en el servicio, del infractor:
 
 IV. Los medios de ejecución del hecho;
 
-V. La reincidencia en el incumplimiento de sus obligaciones; y
+V. La reincidencia en el incumplimiento de sus obligaciones, y
 
 VI. El monto del beneficio, daño o perjuicio derivado de la falta cometida.
 
-###### Artículo 73.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 90.
 
 Para el cumplimiento de sus determinaciones, las autoridades competentes podrán emplear indistintamente los siguientes medios de apremio:
 
-I. Sanción económica de hasta diez veces el salario mínimo general diario, vigente en la zona económica correspondiente, al momento de aplicar la sanción; y
+I. Multa gradual de hasta treinta veces el salario mínimo general diario, vigente en la zona económica correspondiente, al momento de aplicar la sanción. La misma podrá exigirse mediante el procedimiento de ejecución fiscal o su similar de acuerdo con la norma aplicable, y
 
 II. Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se procederá conforme a la legislación penal.
 
-###### Artículo 74.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-Las resoluciones definitivas dictadas en el procedimiento a que se refiere este capítulo, deberán asentarse en el libro de registro de sanciones en cada uno de los poderes, ayuntamientos y organismos descentralizados del Ejecutivo y municipales y deberán agregarse además al expediente personal del servidor público para los efectos de su control.
+###### Artículo 91.
 
-###### Artículo 75.
+Los titulares de las entidades públicas tendrán un libro de registro anual, en el que obrarán los datos de las sanciones que impongan; en él dispondrán el número de expediente, los hechos y circunstancias que fueron denunciados, el nombre del servidor público sancionado y el tipo de sanción que se le impuso. El contenido del libro será información pública de libre acceso.
 
-Las autoridades deberán expedir, a solicitud de cualquier interesado, constancias que acrediten la no existencia de sanción administrativa.
+Es responsabilidad del titular de la entidad pública la actualización del libro de sanciones no hacerlo es causa de responsabilidad administrativa.
 
-###### Artículo 76.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-Las resoluciones por las que se impongan las sanciones administrativas previstas en las fracciones de la III a la VI del artículo 64 de esta ley, podrán ser impugnadas por el servidor público ante el Tribunal de Arbitraje y Escalafón.
+###### Artículo 92.
 
-La interposición del recurso suspenderá, en tanto se resuelve, los efectos de la resolución en cuanto a las sanciones económicas. Tratándose de sanciones de distinta naturaleza a las económicas, sólo procederá la suspensión si no trae como consecuencia la consumación de actos que perjudiquen al interés social o al servicio público.
+Las resoluciones por las que se impongan las sanciones administrativas previstas en el artículo 72 de esta ley, podrán ser impugnadas por el servidor público ante el Tribunal de Arbitraje y Escalafón del Estado. Prescribirán en quince días las acciones para demandar la nulidad de un apercibimiento o amonestación. Prescriben en sesenta días las acciones para demandar la nulidad de la resolución que imponga cualquiera de las demás sanciones previstas en el artículo 72. La prescripción correrá a partir del día siguiente de que sea interpuesto el apercibimiento o amonestación, o al día siguiente de que le haya sido notificada la resolución a impugnar.
 
-La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que establezca la resolución, surtirán sus efectos al notificarse la misma y se considerarán de orden público.
+La interposición del recurso suspenderá, en tanto se resuelve, los efectos de la resolución en cuanto a las sanciones pecuniarias.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que establezca la resolución; surtirán sus efectos al notificarse la misma y se considerarán de orden público.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+## TÍTULO SEXTO. DE LA SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
 
-###### Artículo 76 Bis.
+### Capítulo Único. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
 
-La resolución que declare el no inicio del procedimiento, puede ser impugnada por el denunciante a través del Recurso de Revisión, que deberá presentar dentro de los quince días hábiles siguientes a la fecha en que le sea notificada la resolución, en escrito que contenga expresión de agravios, acompañado con copia de la notificación.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión turnando la instancia al superior jerárquico para su resolución definitiva, dentro de los 30 días siguientes a aquel en que le fue turnado el recurso.
-
-###### Artículo 77.
-
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal, según sea el caso. Se harán efectivas mediante el procedimiento económico coactivo de ejecución y tendrán la prelación prevista para dichos créditos, sujetándose en todo a las disposiciones fiscales aplicables en esta materia.
-
-###### Artículo 78.
+###### Artículo 93.
 
 Tienen obligación de presentar la declaración de situación patrimonial:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
-
-I. En el Poder Legislativo, ante el Congreso del Estado, atendiendo a lo dispuesto por su Ley Orgánica: Los Diputados, el Secretario General, el Auditor Superior, los Directores, Jefes de Departamento, Supervisores, Auditores, Coordinadores y encargados de valores así como, los demás servidores públicos que determine el Congreso del Estado;
+I. En el Poder Legislativo, ante el Congreso del Estado, atendiendo a lo dispuesto por su Ley Orgánica: los diputados, el Secretario General, el Auditor Superior, los directores, jefes de departamento, supervisores, auditores, coordinadores y encargados de valores, así como los demás servidores públicos que determine el Congreso del Estado;
 
 II. En el Poder Ejecutivo, ante la Contraloría del Estado:
 
-a) Todos los servidores públicos de confianza desde el gobernador del Estado, los titulares de las secretarías, hasta los jefes de sección, incluyendo a los jefes y subjefes de recaudadoras de rentas, directores, cotizadores, glosadores, auditores, supervisores, encargados de almacén y quienes con motivo de sus funciones administren fondos y valores del Estado, así como los contralores internos de las secretarías y dependencias;
+a) Todos los servidores públicos de confianza, desde el Gobernador del Estado, los titulares de las secretarías, hasta los jefes de sección, incluyendo a los jefes y subjefes de recaudadoras de rentas, directores, cotizadores, glosadores, auditores, supervisores, encargados de almacén y quienes con motivo de sus funciones administren fondos y valores del Estado, así como los contralores internos de las secretarías y dependencias;
 
 b) En la Procuraduría General de Justicia, además de los anteriores señalados, incluyendo al titular, los subprocuradores generales y coordinadores, directores, agentes y secretarios del Ministerio Público, comandantes, jefes de grupo y agentes de la Policía Judicial;
 
@@ -1099,57 +1267,51 @@ d) En la Contraloría del Estado, todos los servidores públicos de confianza;
 
 e) En la Secretaría de Vialidad y Transporte, los comandantes de escuadrón, peritos en accidentes y jueces calificadores del Departamento de Tránsito;
 
-f) En la Secretaría General de Gobierno, los comandantes y jefes de grupo de la Dirección de Seguridad Pública y los inspectores de Trabajo y Previsión Social, el presidente y los secretarios de los concejos paternales en el Estado;
+f) En la Secretaría General de Gobierno, los comandantes y jefes de grupo de la Dirección de Seguridad Pública y los inspectores de Trabajo y Previsión Social, el Presidente y los secretarios de los Concejos Paternales en el Estado;
 
-g) En la Junta de Conciliación y Arbitraje, el presidente de la misma y los presidentes de las juntas especiales, así como los secretarios, incluyendo a los auxiliares;
+g) En la Junta de Conciliación y Arbitraje, el presidente de la misma y los presidentes de las Juntas Especiales, así como los secretarios, incluyendo a los auxiliares;
 
-h) En las entidades del sector público paraestatal, los directores, gerentes, contralores internos, subdirectores, jefes y subjefes de departamento, jefes de sección y oficina, encargados de almacén y quienes con motivo de sus funciones administren fondos y valores; y
+h) En las entidades del sector público paraestatal, los directores, gerentes, contralores internos, subdirectores, jefes y subjefes de departamento, jefes de sección y oficina, encargados de almacén y quienes con motivo de sus funciones administren fondos y valores, y
 
 i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo de la Judicatura;
 
-III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el Pleno del Consejo de la Judicatura;
+IV. En los Gobiernos Municipales, ante el Congreso del Estado por conducto de los ayuntamientos: los presidentes municipales o presidentes de los Consejos Municipales, regidores, concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, secretarios, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales del registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
+Tendrán también la obligación de presentar su declaración los servidores de los organismos públicos descentralizados municipales que sean equiparables a los que señala la fracción II, inciso h), del presente artículo;
 
-IV. En los Gobiernos Municipales, ante el Congreso del Estado por conducto de los Ayuntamientos: Los presidentes municipales o presidentes de los concejos municipales, regidores, concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, secretarios, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales del registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
+V. En el Tribunal de Arbitraje y Escalafón, por conducto de su Presidente: los magistrados, secretarios y oficiales notificadores o sus equivalentes, ante el órgano que determinen su Ley Orgánica y sus reglamentos;
 
-Tendrán también la obligación de presentar su declaración, los servidores de los organismos públicos descentralizados municipales que sean equiparables a los que señala la fracción II inciso h) del presente artículo;
+VI. En la Comisión Estatal de Derechos Humanos, ante el Congreso del Estado, por conducto del Presidente, incluyendo a éste: secretarios comisionados, directores de área y demás personal que determine el Congreso del Estado;
 
-V. En el Tribunal de Arbitraje y Escalafón, por conducto de su presidente: los magistrados, secretarios y oficiales notificadores o sus equivalentes, ante el órgano que determinen su Ley Orgánica y sus reglamentos;
+VII. En el Instituto Electoral y de Participación Ciudadana del Estado, ante el Congreso del Estado, por conducto del Presidente, incluyendo a éste: consejeros electorales con derecho a voto, directores de área y demás personal que determinen sus estatutos y reglamentos;
 
-VI. En la Comisión Estatal de Derechos Humanos, ante el Congreso del Estado, por conducto del presidente incluyendo a éste: secretarios comisionados, directores de área y demás personal que determine el Congreso del Estado;
+VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento; y
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+IX. En todas las entidades a que se contrae este artículo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad con las fracciones que integran este artículo.
 
-VII. En el Instituto Electoral y de Participación Ciudadana del Estado, ante el Congreso del Estado, por conducto del presidente incluyendo a éste: consejeros electorales con derecho a voto, directores de área y demás personal que determinen sus estatutos y reglamentos;
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2009)</small>
-
-IX. En todas las entidades a que se contrae este articulo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad a las fracciones que integran este artículo.
-
-###### Artículo 79.
+###### Artículo 94.
 
 El control, registro y verificación de la situación patrimonial de los servidores públicos obligados a declararla, estará a cargo, en los términos de esta ley, de:
 
 I. La Contraloría del Estado, en el Poder Ejecutivo, incluyendo al sector paraestatal;
 
-II. El Congreso del Estado, en el Poder Legislativo de conformidad a su Ley Orgánica;
+II. El Congreso del Estado, en el Poder Legislativo, de conformidad con su Ley Orgánica, y
 
 III. Los órganos competentes del Poder Judicial que precise su Ley Orgánica.
 
-Dichas instancias tendrán facultades para revisar las declaraciones de situación patrimonial a fin de verificar la veracidad de los datos asentados, para lo cual podrán citar a los servidores públicos que les corresponda, conforme a su competencia, a efecto de que aclaren o proporcionen la información que se requiera para solventar errores o dudas con relación a su conducta patrimonial.
+Dichas instancias tendrán facultades para revisar las declaraciones de situación patrimonial a fin de verificar la veracidad de los datos asentados, para lo cual podrán citar a los servidores públicos a los que les corresponda, conforme a su competencia, a efecto de que aclaren o proporcionen la información que se requiera para solventar errores o dudas con relación a su conducta patrimonial.
 
-La autoridad encargada de recibir las declaraciones de situación patrimonial, deberá mandar publicar en el periódico oficial "El Estado de Jalisco" la lista de aquellos ciudadanos que no la hubieren presentado en los términos y bajo las condiciones que establece el presente título.
+La autoridad encargada de recibir las declaraciones de situación patrimonial, deberá mandar publicar en el periódico oficial El Estado de Jalisco la lista de aquellos ciudadanos que no la hubieren presentado en los términos y bajo las condiciones que establece el presente título.
 
 Los órganos en mención expedirán constancias que acrediten la oportuna presentación de las declaraciones patrimoniales a que hubiere estado obligada la persona que ya haya tenido el carácter de servidor público, las que deberán ser exhibidas para poder desempeñar algún nuevo empleo, cargo o comisión en el servicio público.
 
-###### Artículo 80.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 95.
 
 Cuando existan bases fundadas que permitan presumir algún enriquecimiento ilícito, podrán ordenar la práctica de visitas de inspección recabando, en todo caso, la orden judicial que, conforme a los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos, debe observarse.
 
@@ -1159,95 +1321,95 @@ Sólo procederá la práctica de visitas de inspección domiciliaria a que alude
 
 I. Cuando habiendo sido requerido por el superior jerárquico, no presentare su declaración dentro del término de ley;
 
-II. Cuando del contenido de su declaración se desprendan elementos que hagan evidente un enriquecimiento ilícito; y
+II. Cuando del contenido de su declaración se desprendan elementos que hagan evidente un enriquecimiento ilícito, y
 
 III. Cuando se detecte que existe falsedad en los datos proporcionados en su declaración.
 
-###### Artículo 81.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-La declaración de situación patrimonial deberá de presentarse en los siguientes plazos:
+###### Artículo 96.
+
+La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
 
 I. La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
-
-II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese mismo año hubiese ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior; y
+II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese mismo año hubiere ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior, y
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo III. AUTORIDADES COMPETENTES PARA IMPONER SANCIONES ADMINISTRATIVAS
+###### Artículo 97.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si, transcurrido dicho término, el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se les instaurará el procedimiento de responsabilidad a que alude el artículo 87 de esta ley, pudiendo ser sancionados con la destitución o con la inhabilitación hasta por un año.
 
-###### Artículo 82.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido dicho término el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 69 de esta ley, pudiendo ser sancionado con la destitución o con inhabilitación hasta por un año.
+###### Artículo 98.
 
-###### Artículo 83.
+En caso de incumplimiento de la obligación contenida en la fracción III del artículo 96, se instaurará el procedimiento a que alude el artículo 87 de este ordenamiento, pudiendo sancionarse al servidor público omiso con inhabilitación hasta por dos años para el desempeño de cargos públicos. En caso de subsistir la falta de presentación, la inhabilitación continuará indefinidamente hasta el momento en que se subsane la omisión.
 
-En caso de incumplimiento de la obligación contenida en la fracción III del artículo 81, se instaurará el procedimiento a que alude el artículo 69 de este ordenamiento, pudiendo sancionarse al servidor público omiso con inhabilitación hasta por dos años para el desempeño de cargos públicos. En caso de subsistir la falta de presentación, la inhabilitación continuará indefinidamente hasta el momento en que se subsane la omisión.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+###### Artículo 99.
 
-###### Artículo 84.
+Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla por los órganos a cargo de los cuales esté el control, registro y verificación de situación patrimonial, y en su caso proporcionarán los medios de identificación electrónica a solicitud expresa del servidor público interesado en presentar su declaración vía Internet.
 
-Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla por los órganos a cargo de los cuales este el control, registro y verificación de situación patrimonial, y en su caso proporcionarán los medios de identificación electrónica a solicitud expresa, del servidor público interesado en presentar su declaración vía Internet.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 85.
+###### Artículo 100.
 
-Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad y debe contener cuando menos los siguientes datos:
+Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad y deben contener cuando menos los siguientes datos:
 
 I. En la inicial:
 
 a) Inventario de bienes muebles e inmuebles;
 
-b) Inversiones, cuentas bancarias y acciones; y
+b) Inversiones, cuentas bancarias y acciones, y
 
-c) Los gravámenes y adeudos que afectan el patrimonio.
+c) Los gravámenes y adeudos que afectan el patrimonio;
 
 II. En la anual:
 
-a) Los ingresos obtenidos y egresos realizados del primero de enero al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración; y
+a) Los ingresos obtenidos y egresos realizados del primero de enero al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
 
-b) Las modificaciones a sus inventarios iniciales de bienes muebles o inmuebles, así como el estado que guardan las cuentas bancarias, valores y sus gravámenes con saldos al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración; y
+b) Las modificaciones a sus inventarios iniciales de bienes muebles o inmuebles, así como al estado que guardan las cuentas bancarias, valores y sus gravámenes con saldos al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
 
 III. En la final o por conclusión del encargo:
 
 a) Los inventarios de bienes muebles o inmuebles que se tengan al día, mes y año en que concluyó el encargo;
 
-b) Los ingresos obtenidos y egresos efectuados por todo el período de tiempo que no se hubiesen declarado; y
+b) Los ingresos obtenidos y egresos efectuados por todo el periodo de tiempo que no se hubieren declarado, y
 
-c) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+e) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos, (sic)
 
 Los formatos bajo los cuales se deba rendir la información a que se refiere este capítulo, establecerán la forma y detalle en que se deben realizar.
 
-###### Artículo 86.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 101.
 
 En el caso de que exista compatibilidad de funciones en el sector público, la declaración de situación patrimonial deberá ser presentada en ambas partes.
 
-### Capítulo IV. PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 87.
+###### Artículo 102.
 
-El servidor público a quien se practique la inspección a que se refiere el artículo 80 de esta ley, podrá inconformarse ante el órgano competente, según el caso, contra los hechos contenidos en las actas. El recurso de inconformidad se deberá presentar por escrito dentro de los diez días hábiles siguientes a la conclusión de la visita; en él se deben expresar los motivos de inconformidad y ofrecer las pruebas que considere necesarias rendir dentro de los treinta días hábiles siguientes, a efecto de valorarlas en conducta patrimonial al emitir el dictamen o resolución respectiva.
+El servidor público a quien se practique la inspección a que se refiere el artículo 95 de esta ley, podrá inconformarse ante el órgano competente, según el caso, contra los hechos contenidos en las actas. El recurso de inconformidad se deberá presentar por escrito dentro de los diez días hábiles siguientes a la conclusión de la visita; en él se deben expresar los motivos de inconformidad y ofrecer las pruebas que considere necesarias rendir dentro de los treinta días hábiles siguientes, a efecto de valorarlas en conducta patrimonial al emitir el dictamen o resolución respectiva.
 
-###### Artículo 88.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 103.
 
 Para los efectos de esta ley y del Código Penal, se computarán, entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servicio público.
 
-###### Artículo 89.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-Si como resultado de las acciones de verificación o investigación a que se refiere el artículo 80 de esta ley, se detectan incrementos en el patrimonio de algún servidor público, que se presuma se deriven de una procedencia ilícita, se deberá presentar la denuncia respectiva por la instancia correspondiente, para que se proceda conforme a derecho. La autoridad denunciante deberá coadyuvar con el ministerio público en la investigación respectiva.
+###### Artículo 104.
+
+Si como resultado de las acciones de verificación o investigación a que se refiere el artículo 95 de esta ley, se detectan incrementos en el patrimonio de algún servidor público, que se presuma se deriven de una procedencia ilícita, se deberá presentar la denuncia respectiva por la instancia correspondiente, para que se proceda conforme a derecho. La autoridad denunciante deberá coadyuvar con el Ministerio Público en la investigación respectiva.
 
 T R A N S I T O R I O S
-
-## TÍTULO SEXTO. DE LA SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
-
-### Capítulo Único. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1293,7 +1455,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE AGOSTO DE 1999.
 
@@ -1367,11 +1529,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 5 DE ENERO DE 2007.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO PRIMERO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 primero. el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "el estado de jalisco".
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 segundo. se derogan todas las disposiciones legales que se opongan al presente decreto.
 
@@ -1391,7 +1549,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
 
 P.O. 12 DE JUNIO DE 2008.
 
@@ -1426,3 +1584,21 @@ Décimo. Dentro del término de sesenta días naturales, contados a partir de la
 P.O. 10 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las obligaciones contenidas en las fracciones XXXI a la XXXV del artículo 61 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, no serán aplicables a las quejas o denuncias y procedimientos de responsabilidad administrativa que hayan sido recibidas o instrumentadas antes de la entrada en vigencia del presente decreto.
+
+TERCERO. Los procedimientos de responsabilidad administrativa que se inicien antes de la entrada en vigor del presente decreto, se desahogarán conforme a la ley anterior.
+
+CUARTO. Para el cumplimiento del artículo 80 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, la Contraloría del Estado de Jalisco contará con un término de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigencia del presente decreto, para instituir, elaborar y operar el Registro Estatal de inhabilitaciones.
+
+Para tales efectos, las entidades públicas deberán cumplir con el requerimiento de la Contraloría estatal consistente en remitir la información correspondiente a las inhabilitaciones impuestas en su periodo constitucional o administrativo. En caso negativo o de omisión, el solicitado incurrirá en responsabilidad administrativa de conformidad con la ley.
+
+En consecuencia, la nueva obligación, reformada en la fracción XXXI del artículo 61 (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, consistente en consultar el Registro Estatal de Inhabilitaciones para la contratación de un nuevo servidor público, no será vigente hasta en tanto no corra el término establecido en el primer párrafo de este artículo.
+
+QUINTO. Para el cumplimiento de lo dispuesto en el artículo 91 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los titulares de las entidades públicas, contarán con un plazo de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto, para instituir, elaborar y operar el registro de sanciones administrativas de conformidad con la ley.
+
+La información que deba contener su registro, deberá ser de las sanciones impuestas en su administración o periodo constitucional, y de la administración o período constitucional inmediato anterior. La negativa u omisión será causa de responsabilidad administrativa.
