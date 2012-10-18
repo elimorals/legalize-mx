@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-turistica-del-estado-de-jalisco-24644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-28"
-last_updated: "2011-12-27"
+last_updated: "2012-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROMOCIÓN TURÍSTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. 18 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -576,3 +578,11 @@ P.O. 11 DE ENERO DE 2007.
 P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Una vez entrando en vigor este decreto, se abrogan la Ley de Promoción Turística del Estado de Jalisco y todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. El titular del Poder Ejecutivo, a través de la Secretaría de Turismo, contará con noventa días para expedir el reglamento de la presente ley, a partir del inicio de la vigencia del presente ordenamiento.
