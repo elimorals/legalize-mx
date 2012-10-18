@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2012-10-13"
+last_updated: "2012-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2253,9 +2253,7 @@ La organización y funcionamiento de los Comités de Planeación para el Desarro
 
 ### CAPITULO II. De las Sanciones Administrativas
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 127.
 
@@ -2285,85 +2283,35 @@ Cada servidor público es directamente responsable de su actuación ante el titu
 
 ### CAPITULO III. De la Seguridad Social
 
-###### Artículo 130.
+###### Articulo 130.
 
-Incurren en responsabilidad administrativa los servidores públicos que infrinjan las obligaciones establecidas en las leyes y reglamentos de la materia.
+Incurren en responsabilidad administrativa los servidores públicos que infrinjan las obligaciones establecidas en las leyes y reglamentos de la materia. Los servidores públicos que incurran en responsabilidad administrativa serán sancionados de conformidad con el procedimiento que establezca la ley estatal aplicable.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 131.
 
-Los presidentes municipales, o los presidentes de los consejos, para el buen funcionamiento de la administración pública municipal y por incumplimiento de las obligaciones a que se refiere el artículo anterior, pueden imponer las siguientes sanciones a los servidores públicos que integran la administración pública municipal:
-
-I. Amonestación por escrito;
-
-II. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
-
-III. Destitución;
-
-IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público; y
-
-V. Las demás que para tal efecto establezcan las leyes de la materia.
-
-Los propios Presidentes Municipales pueden autorizar a los jefes de las dependencias municipales, para aplicar la primera de las sanciones señaladas. La sanción prevista en la fracción IV, se aplicará, conforme lo dispone la ley estatal en materia de responsabilidades de los servidores públicos.
-
-Cuando un edil incurra en responsabilidad administrativa, será sancionado por el Ayuntamiento, de conformidad al procedimiento establecido en la legislación estatal aplicable, así como a lo dispuesto por los reglamentos de la materia.
+Cuando un edil incurra en responsabilidad administrativa, será sancionado por el Ayuntamiento, de conformidad con el procedimiento establecido en la legislación estatal aplicable, así como con lo dispuesto por los reglamentos de la materia.
 
 ###### Artículo 132.
 
-Para la aplicación de las sanciones establecidas en este capítulo, con excepción de la de amonestación por escrito, se deben seguir las siguientes reglas:
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
-I. Conocida una irregularidad, se debe solicitar informe al servidor público presunto responsable de la misma, haciéndole llegar, en su caso, copia de la denuncia o acta administrativa, así como de la documentación en que se funden, concediéndole un término de cinco días hábiles para que produzca por escrito, su contestación, y ofrezca pruebas;
+###### Artículo 132
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-II. EL TÉRMINO MENCIONADO EN LA FRACCIÓN QUE ANTECEDE, UNA VEZ TRANSCURRIDO, SE CORRE TRASLADO INMEDIATAMENTE AL DENUNCIANTE DEL INFORME RENDIDO POR EL SERVIDOR PÚBLICO ASÍ COMO DE LAS PRUEBAS OFERTADAS, PARA SEÑALAR EL DÍA Y HORA PARA LA CELEBRACIÓN DE UNA AUDIENCIA, EN LA QUE SE DESAHOGAN LAS PRUEBAS OFRECIDAS Y SE EXPRESAN LOS ALEGATOS, CITÁNDOSE AL DENUNCIANTE Y SERVIDOR PÚBLICO PARA LA RESOLUCIÓN, QUE DEBE SER PRONUNCIADA, DENTRO DE LOS QUINCE DÍAS HÁBILES SIGUIENTES;
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-III. LA RESOLUCIÓN QUE SE DICTE DEBE NOTIFICARSE AL ENCAUSADO, ASÍ COMO AL DENUNCIANTE, DENTRO DE LOS TRES DÍAS HÁBILES SIGUIENTES A AQUEL EN QUE SE PRONUNCIE. CUANDO NO SE CUENTE CON ELEMENTOS SUFICIENTES PARA RESOLVER, O SE DESCUBRAN ALGUNOS QUE IMPLIQUEN NUEVA RESPONSABILIDAD A CARGO DEL DENUNCIADO, O DE OTRAS PERSONAS, Y HASTA ANTES DE LA CITACIÓN PARA PRONUNCIAR RESOLUCIÓN, PUEDE ORDENARSE LA PRÁCTICA DE DILIGENCIAS PARA MEJOR PROVEER, ASÍ COMO EL EMPLAZAMIENTO DE LOS SERVIDORES PÚBLICOS INVOLUCRADOS, DE CUYAS CIRCUNSTANCIAS SE NOTIFICA OPORTUNAMENTE AL DENUNCIANTE A EFECTO DE QUE ESTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTES; Y
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-IV. EL DENUNCIANTE DEBE SER INFORMADO CON OPORTUNIDAD DE TODAS LAS DILIGENCIAS QUE SE PRACTIQUEN, ASÍ COMO DE SUS RESULTADOS, DEBIÉNDOSE LEVANTAR ACTA CIRCUNSTANCIADA, QUE DEBEN SUSCRIBIR QUIENES EN ELLA INTERVENGAN. EN CASO DE NEGATIVA, SE DEBE ASENTAR TAL CIRCUNSTANCIA, SIN QUE ESTO AFECTE SU VALOR PROBATORIO.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-Artículo 132 bis. El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándosele las pruebas, documentación e información que estime pertinentes. Dicha dependencia debe manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+Bis. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### Artículo 133.
 
-Las resoluciones por las que se impongan las sanciones administrativas previstas en las fracciones II, III y IV, del artículo 131, de esta ley, pueden ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón, sin perjuicio de otros medios de defensa con que cuente el servidor público.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+###### Artículo 133
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-Artículo 133 bis. Si en la resolución se declara la inexistencia de responsabilidad, esta puede ser impugnada por el denunciante por escrito mediante recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las autoridades jurisdiccionales competentes.
-
-El recurso de revisión se presenta con expresión de agravios acompañado de la constancia de notificación y se interpone directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión, turnando la instancia al superior jerárquico para su resolución definitiva dentro de los treinta días hábiles siguientes a aquel en que se les haya turnado el recurso.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
+Bis. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### Artículo 134.
 
-En todo lo no previsto en este capítulo, se debe estar a lo establecido en la ley estatal en materia de responsabilidades de los servidores públicos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
-
-Por cuanto al daño patrimonial estatal o municipal causado por servidores públicos, se debe estar a lo que señalen el (sic) Códigos Civil y Penal del Estado de Jalisco.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ### CAPITULO I. De los Medios de Apremio
 
@@ -2898,3 +2846,21 @@ P.O. 16 DE AGOSTO DE 2012.
 P.O. 13 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las obligaciones contenidas en las fracciones XXXI a la XXXV del artículo 61 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, no serán aplicables a las quejas o denuncias y procedimientos de responsabilidad administrativa que hayan sido recibidas o instrumentadas antes de la entrada en vigencia del presente decreto.
+
+TERCERO. Los procedimientos de responsabilidad administrativa que se inicien antes de la entrada en vigor del presente decreto, se desahogarán conforme a la ley anterior.
+
+CUARTO. Para el cumplimiento del artículo 80 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, la Contraloría del Estado de Jalisco contará con un término de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigencia del presente decreto, para instituir, elaborar y operar el Registro Estatal de Inhabilitaciones.
+
+Para tales efectos, las entidades públicas deberán cumplir con el requerimiento de la Contraloría estatal consistente en remitir la información correspondiente a las inhabilitaciones impuestas en su periodo constitucional o administrativo. En caso negativo o de omisión, el solicitado incurrirá en responsabilidad administrativa de conformidad con la ley.
+
+En consecuencia, la nueva obligación, reformada en la fracción XXXI del artículo 61 (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, consistente en consultar el Registro Estatal de Inhabilitaciones para la contratación de un nuevo servidor público, no será vigente hasta en tanto no corra el término establecido en el primer párrafo de este artículo.
+
+QUINTO. Para el cumplimiento de lo dispuesto en el artículo 91 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los titulares de las entidades públicas, contarán con un plazo de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto, para instituir, elaborar y operar el registro de sanciones administrativas de conformidad con la ley.
+
+La información que debe contener su registro, deberá ser de las sanciones impuestas en su administración o periodo constitucional, y de la administración o período constitucional inmediato anterior. La negativa u omisión será causa de responsabilidad administrativa.
