@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-para-la-produccion-industrializacion-y-64828"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2008-12-08"
+last_updated: "2012-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE FOMENTO PARA LA PRODUCCION, INDUSTRIALIZACION Y COMERCIALIZACION DEL BACANORA DEL ESTADO DE SONORA
 
-LEY DE FOMENTO PARA LA PRODUCCION, INDUSTRIALIZACION Y COMERCIALIZACION DEL BACANORA DEL ESTADO DE SONORA
+LEY DE FOMENTO PARA LA PRODUCCIÓN, INDUSTRIALIZACIÓN Y COMERCIALIZACIÓN DEL BACANORA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección III al Boletín Oficial del Estado de Sonora, el lunes 8 de diciembre de 2008.
 
@@ -53,7 +53,9 @@ La presente ley tiene por objeto:
 
 I.- Generar las condiciones propicias para lograr el bienestar de las poblaciones que comprenden el área de denominación de origen del Bacanora;
 
-II.- Promover entre los productores y asociaciones, el cumplimiento de las normas oficiales mexicanas y demás disposiciones legales aplicables, a fin de garantizar la autenticidad y calidad del Bacanora, así como de sus subproductos;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+II.- Promover y establecer, en el ámbito de su competencia, acciones de regulación para los productores de agave, fabricantes, industrializadores, envasadores y comercializadores de Bacanora, a fin de dar cumplimiento a las normas oficiales mexicanas y demás disposiciones legales aplicables, garantizando con ello la autenticidad y calidad del Bacanora, así como de sus subproductos;
 
 III.- Fomentar la organización y asociación de los productores de Agave y Bacanora;
 
@@ -63,7 +65,9 @@ V.- Promover la investigación y transferencia tecnológica entre los productore
 
 VI.- Impulsar la comercialización del Bacanora y sus subproductos en mejores condiciones de mercado;
 
-VII.- Impulsar el establecimiento de la marca “Calidad Sonora” para el Bacanora, así como a sus subproductos;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+VII.- Impulsar el establecimiento del distintivo de calidad para el Bacanora, así como a sus subproductos y los establecimientos relacionados con la Industria del Bacanora, previamente certificados, en los términos de la presente Ley;
 
 VIII.- Impulsar la planeación participativa en los programas, políticas públicas y acciones del Consejo, con la participación de los productores y asociaciones de Agave y Bacanora, con visión de largo plazo;
 
@@ -71,21 +75,27 @@ IX.- Promover el establecimiento de estímulos fiscales en las leyes respectivas
 
 X.- Establecer cada anualidad el Premio Estatal del Bacanora al productor u organización más destacada en la producción, industrialización y comercialización del Bacanora y subproductos.
 
-###### ARTÍCULO 3º.
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto del Consejo Sonorense Promotor de la Regulación del Bacanora.
+###### ARTÍCULO 3°.
+
+La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto del Consejo Sonorense Regulador del Bacanora.
 
 ###### ARTÍCULO 4º.
 
 Para los efectos de esta ley, se entiende por:
 
-I.- Agave: Planta de tallo corto, con hojas múltiples, parecidas a una espada, con una roseta radial. El tamaño del agave es de 1 m a 1.5 m de alto y 1.5 m a 2 m de diámetro, con hojas de 50 cm a 120 cm de largo y, aproximadamente de 4 cm a 8 cm de ancho. Las hojas son lineales, rígidas, derechas, ascendientes, verdes o verde glucosa, hasta un verde amarillento, con márgenes casi derechos. Los dientes del margen de la hoja son regulares, generalmente de 3 mm a 6 mm de alto, y de 15 mm a 30 mm de separación, y muestran un color que va de café oscuro hasta negro, con espinas flexionadas hacia arriba. Las espinas en la punta de la hoja son de 15 mm a 20 mm de largo, de color café oscuro y aplanadas por encima de la base. La inflorescencia es de 3 m a 6 m de alto y consta de aproximadamente de 6 ramas a 20 ramas laterales cortas, horizontales, ascendientes desde la tercera a la cuarta parte más alta del quiote, con brazos triangulares y largos que miden de 5 cm a 12 cm. La parte aprovechable para la elaboración de Bacanora es la piña o cabeza (tallo y base de sus hojas);
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+I.- Agave: Planta de Agave de la variedad Angustifolia Haw, de tallo corto, con hojas múltiples, parecidas a una espada, con una roseta radial. El tamaño del agave es de 1 metro a 1.5 metros de alto y 1.5 metros a 2 metros de diámetro, con hojas de 50 centímetros a 120 centímetros de largo y, aproximadamente de 4 centímetros a 8 centímetros de ancho. Las hojas son lineales, rígidas, derechas, ascendientes, verdes o verde glucosa, hasta un verde amarillento, con márgenes casi derechos. Los dientes del margen de la hoja son regulares, generalmente de 3 milímetros a 6 milímetros de alto, y de 15 milímetros a 30 milímetros de separación, y muestran un color que va de café oscuro hasta negro, con espinas flexionadas hacia arriba. Las espinas en la punta de la hoja son de 15 milímetros a 20 milímetros de largo, de color café oscuro y aplanadas por encima de la base. La inflorescencia es de 3 metros a 6 metros de alto y consta de aproximadamente de 6 ramas a 20 ramas laterales cortas, horizontales, ascendientes desde la tercera a la cuarta parte más alta del quiote, con brazos triangulares y largos que miden de 5 centímetros a 12 centímetros. La parte aprovechable para la elaboración de Bacanora es la piña o cabeza (tallo y base de sus hojas);
 
 II.- Bacanora: Bebida alcohólica regional del estado de Sonora, México, obtenida por destilación y rectificación de mostos, preparados directa y originalmente con los azúcares extraídos de la molienda de las cabezas maduras de Agave Angustifolia Haw, hidrolizadas por cocimiento, y sometidas a fermentación alcohólica con levaduras. El bacanora es un líquido que, de acuerdo a su tipo, es incoloro o amarillento cuando es madurado en recipientes de madera de roble o encino, o cuando se aboque sin madurarlo;
 
 III.- Certificación: Procedimiento por el cual se asegura que un producto, proceso, sistema o servicio se ajusta a las normas o lineamientos o recomendaciones de organismos nacionales o internacionales dedicados a la normalización;
 
-IV.- Consejo: Consejo Sonorense Promotor de la Regulación del Bacanora;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+IV.- Consejo: Consejo Sonorense Regulador del Bacanora;
 
 V.- Junta Directiva: Autoridad máxima del Consejo;
 
@@ -109,29 +119,41 @@ Para efectos de esta ley, se reconoce la personalidad jurídica de las asociacio
 
 La política de fomento a la producción, industrialización y comercialización del Bacanora que auspicie el Consejo, será activa y/o concurrente con la participación de los productores y con base en el programa de fomento sectorial nacional, estatal o regional.
 
-## TÍTULO SEGUNDO. DEL CONSEJO SONORENSE PROMOTOR DE LA REGULACIÓN DEL BACANORA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+## TÍTULO SEGUNDO. DEL CONSEJO SONORENSE REGULADOR DEL BACANORA
 
 ### CAPÍTULO I. DEL OBJETO Y ATRIBUCIONES DEL ORGANISMO
 
-###### ARTÍCULO 7º.
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-El Consejo Sonorense Promotor de la Regulación del Bacanora, es un Organismo Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, el cual estará sectorizado a la Secretaría, con domicilio en la ciudad de Hermosillo, pudiendo establecer oficinas en otras poblaciones del estado.
+###### ARTÍCULO 7°.
 
-###### ARTÍCULO 8º.
+El Consejo Sonorense Regulador del Bacanora, es un Organismo Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, el cual estará sectorizado a la Secretaría, con domicilio en la ciudad de Hermosillo, pudiendo establecer oficinas en otras poblaciones del Estado, del País y fuera de él.
 
-El Consejo tendrá por objeto promover y coordinar las acciones tendientes a mejorar los términos de comercialización del Bacanora; fomentar la calidad en los procesos de producción y las actividades necesarias para la obtención de la bebida Bacanora; promover la capacitación de los productores, la inversión en los rubros de agricultura, industria y comercialización del Bacanora e impulsar de manera integral la cadena productiva del Bacanora.
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 8°.
+
+El Consejo tendrá por objeto promover y coordinar las acciones tendientes a mejorar los términos de comercialización del Bacanora; regular, en la esfera de sus atribuciones, la calidad en los procesos de producción y las actividades necesarias para la obtención de la bebida Bacanora; promover la capacitación de los productores, la inversión en los rubros de agricultura, industria y comercialización del Bacanora e impulsar de manera integral la cadena productiva del Bacanora.
 
 ###### ARTÍCULO 9º.
 
 Para el cumplimiento de su objeto, el Consejo tendrá las siguientes atribuciones:
 
-I.- Fomentar la regulación del Bacanora mediante el impulso del establecimiento en el estado de unidades de verificación y organismos de certificación en materia de Bacanora, debidamente aprobados por la dependencia federal competente y acreditados por la Entidad Mexicana de Acreditación;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+I.- Implementar acciones para la regulación del Bacanora mediante el establecimiento en el estado de unidades de verificación y organismos de certificación en materia de Bacanora, debidamente aprobados por la dependencia federal competente y acreditados por la Entidad Mexicana de Acreditación;
 
 II.- Coordinar los programas, proyectos y acciones estratégicas de las dependencias estatales para impulsar la siembra de agave y la producción y promoción del Bacanora;
 
-III.- Promover entre los productores, envasadores y comerciantes del Bacanora que, de manera regular o permanente, soliciten los servicios de certificación de producto y la verificación del cumplimiento de las normas oficiales mexicanas que sobre el Bacanora emita la autoridad competente, para garantizar al consumidor la autenticidad y calidad del producto;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-IV.- Impulsar la capacitación de los productores del Bacanora en materia de sanidad y calidad del Bacanora, así como fomentar entre ellos la adopción de las medidas recomendadas por los organismos de certificación y las unidades de verificación;
+III.- Otorgar a los productores de agave, fabricantes, industrializadores, envasadores y comerciantes del Bacanora, servicios de verificación y certificación de producto, para el cumplimiento de las normas oficiales mexicanas que sobre el Bacanora emita la autoridad competente, a fin de garantizar al consumidor la autenticidad y calidad del producto;
+
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+IV.- Impulsar la capacitación de participantes en los diferentes eslabones de la cadena productiva del Bacanora en materia de sanidad y calidad del Bacanora, así como, verificar el cumplimiento de las normas oficiales y demás normatividad aplicable en la materia para los productores, industrializadores, envasadores y comercializadores de Bacanora;
 
 V.- Apoyar y promover la investigación de mejores formas de propagación de agave y fomentar el establecimiento de plantaciones comerciales de agave;
 
@@ -149,9 +171,17 @@ XI.- Coadyuvar a la formalización de las economías del Bacanora para que los p
 
 XII.- Presentar al Ejecutivo del Estado una terna para la designación de los aspirantes al Premio Estatal del Bacanora;
 
-XIII.- Promover y fomentar las condiciones necesarias para la organización y asociación de los productores locales, en las figuras asociativas y a través de los instrumentos jurídicos que lo determinen, con la finalidad de enfrentar en mejores condiciones sus problemas comunes y los retos que implica la producción, industrialización y la comercialización de sus productos y subproductos; y
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-XIV.- Los demás actos y operaciones legales que sean necesarios para el cumplimiento de su objeto.
+XIII.- Promover y fomentar las condiciones necesarias para la organización y asociación de los productores locales, en las figuras asociativas y a través de los instrumentos jurídicos que lo determinen, con la finalidad de enfrentar en mejores condiciones sus problemas comunes y los retos que implica la producción, industrialización y la comercialización de sus productos y subproductos;
+
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+XIV.- Promover y salvaguardar, en el ámbito de su competencia, la Denominación de Origen y/o Indicación Geográfica del Bacanora; y
+
+> <small>(ADICIONADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+XV.- Los demás actos y operaciones legales que sean necesarios para el cumplimiento de su objeto.
 
 ###### ARTÍCULO 10.
 
@@ -207,7 +237,9 @@ III.- Un vicepresidente, que será el Secretario de Hacienda;
 
 IV.- Un secretario, que será el Director General del Consejo, con voz pero sin voto; y
 
-V.- Ocho vocales que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+V.- Diez vocales que serán:
 
 a) El titular de la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura;
 
@@ -217,9 +249,21 @@ c) El Presidente Ejecutivo del Consejo para la Promoción Económica de Sonora;
 
 d) El Director General del Centro de Investigación en Alimentación y Desarrollo, A. C.;
 
-e) Un representante de la Universidad de la Sierra; y
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-f) Tres representantes de los productores de Bacanora, designados por ellos mismos de entre los productores del área geográfica consignada en la Declaración de Protección a la Denominación de Origen Bacanora.
+e) Un representante de la Universidad de la Sierra;
+
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+f) Tres representantes de los productores de Bacanora, designados por ellos mismos de entre los productores del área geográfica consignada en la Declaración de Protección a la Denominación de Origen Bacanora;
+
+> <small>(ADICIONADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+g) El Director General del Fondo Nuevo Sonora; y
+
+> <small>(ADICIONADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+h) El Director General de Bebidas Alcohólicas.
 
 Los integrantes de la Junta Directiva contarán con un suplente, que será determinado por cada miembro propietario. Los cargos de Consejeros serán honoríficos por lo que no percibirán retribución, emolumento o compensación alguna por las funciones que desempeñen en la Junta Directiva.
 
@@ -229,9 +273,11 @@ La Junta Directiva celebrará sesiones ordinarias y extraordinarias. Sesionará 
 
 Las convocatorias para las sesiones de la Junta Directiva se realizarán en la forma y tiempo que establezca el Reglamento Interior del Consejo.
 
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 17.
 
-La Junta Directiva funcionará válidamente con la asistencia de, por lo menos, siete de sus consejeros con voz y voto. Las sesiones serán presididas por el presidente honorario o, en las ausencias de éste, por el presidente. Las decisiones se tomarán por mayoría de los miembros presentes y, en caso de empate, quien presida tendrá voto de calidad.
+La Junta Directiva funcionará válidamente con la asistencia de, por lo menos, ocho de sus consejeros con voz y voto. Las sesiones serán presididas por el presidente honorario o, en las ausencias de éste, por el presidente. Las decisiones se tomarán por mayoría de los miembros presentes y, en caso de empate, quien presida tendrá voto de calidad.
 
 ###### ARTÍCULO 18.
 
@@ -277,13 +323,23 @@ VII.- Elaborar y someter a consideración de la Junta Directiva los anteproyecto
 
 VIII.- Elaborar y someter a la consideración de la Junta Directiva, trimestralmente, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestal de ingresos y egresos;
 
-IX.- Formular y presentar los informes que soliciten los integrantes del Consejo Directivo;
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+IX.- Formular y presentar los informes que soliciten los integrantes de la Junta Directiva;
 
 X.- Rendir a la Junta Directiva un informe anual de las actividades del Consejo;
 
-XI.- Presidir los Comités de Trabajo; y
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
 
-XII.- Las que le confieran el Consejo Directivo y las demás disposiciones legales y reglamentarias aplicables.
+XI.- Presidir los Comités de Trabajo;
+
+> <small>(REFORMADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+XII.- Expedir los certificados de producto para el Bacanora, de conformidad con las disposiciones de la presente Ley; y
+
+> <small>(ADICIONADA, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+XIII.- Las que le confieran el (sic) Junta Directiva y las demás disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -313,9 +369,11 @@ Las relaciones de trabajo entre el Consejo y sus trabajadores se regirán por la
 
 ### CAPÍTULO I. DE LA VERIFICACIÓN DEL CUMPLIMIENTO DE LAS NORMAS OFICIALES MEXICANAS
 
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-El Consejo promoverá que los productores y asociaciones que se dediquen a la fabricación de Bacanora o de sus subproductos mantengan sistemas internos de calidad, a fin de garantizar en cualquier momento el cumplimiento de normas oficiales mexicanas.
+El Consejo promoverá y verificará, en coordinación con las autoridades competentes, que los productores y asociaciones que se dediquen a la fabricación de Bacanora o de sus subproductos mantengan sistemas internos de calidad, a fin de garantizar en cualquier momento el cumplimiento de normas oficiales Mexicanas correspondientes.
 
 ###### ARTÍCULO 26.
 
@@ -329,11 +387,13 @@ La elaboración y presentación de propuestas de normas oficiales mexicanas, se 
 
 ### CAPÍTULO II. DE LA CERTIFICACIÓN DE LOS PROCESOS, PRODUCTOS Y SUS SUBPRODUCTOS
 
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-El Consejo fomentará entre los productores y asociaciones o cualquier persona que se dedique a la producción e industrialización del Bacanora y de sus subproductos, que periódicamente soliciten a los organismos correspondientes la certificación de sus procesos, productos o subproductos a fin de garantizar su calidad y autenticidad, tanto en los mercados locales, nacionales y extranjeros.
+El Consejo verificará, en coordinación con las autoridades competentes, que los productores y asociaciones o cualquier persona que se dedique a la producción, industrialización, envasamiento, distribución y/o comercialización del Bacanora y de sus subproductos, soliciten al organismo correspondiente la certificación de sus procesos, productos o subproductos, de conformidad con la normatividad aplicable, a fin de garantizar su calidad y autenticidad, tanto en los mercados locales, nacionales y extranjeros, de conformidad con los lineamientos que se establezcan en el reglamento de la presente Ley.
 
-### CAPÍTULO III. DE LA CAPACITACIÓN DE LOS PRODUCTORES EN SANIDAD Y CALIDAD DEL BACANORA
+### CAPÍTULO III. DE LA CERTIFICACIÓN DE LOS PROCESOS, PRODUCTOS Y SUS SUBPRODUCTOS
 
 ###### ARTÍCULO 29.
 
@@ -403,27 +463,35 @@ El Consejo promoverá la celebración de convenios de colaboración con la Procu
 
 El Ejecutivo del Estado propondrá a las autoridades federales competentes, la celebración de acuerdos con autoridades de otros países, con el objeto de fomentar compromisos y apoyos para la protección de la Denominación de Origen del Bacanora y la creación de mercados que identifiquen y demanden Bacanora autentico.
 
-### CAPÍTULO III. DE LA MARCA "CALIDAD SONORA"
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO III. DEL DISTINTIVO DE CALIDAD
+
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 43.
 
-El Gobernador del Estado, por conducto del Consejo, realizará las acciones necesarias para obtener el registro de la marca “Calidad Sonora” en el Bacanora y sus subproductos, que permita su identificación en los mercados locales, nacionales e internacionales, avalando su excelencia de origen, calidad y sanidad.
+El Gobernador del Estado, por conducto del Consejo, hará entrega de los distintivos de calidad correspondientes a las marcas de Bacanora, sus subproductos y a los establecimientos relacionados a la Industria del Bacanora, que previamente hayan sido certificados en los términos de la presente Ley, con el fin de que dichos distintivos permitan su identificación en los mercados locales, nacionales e internacionales, avalando su excelencia de origen, calidad y sanidad.
+
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 44.
 
-El Consejo, previa consulta con las asociaciones y productores, determinará los procesos, productos y/o subproductos que deberán ser certificados para obtener el holograma correspondiente.
+El Consejo, previa verificación de que los procesos, productos, subproductos y establecimientos cumplen con las normas oficiales correspondientes, emitirá la certificación y autorización para obtener el distintivo de calidad correspondiente.
 
-La determinación de los procesos, productos y subproductos se llevará a cabo considerando su impacto económico, social y productivo, así como sus ventajas comparativas.
+Para los efectos de lo establecido en el párrafo anterior, el Consejo podrá auxiliarse de instituciones académicas, centros de investigación y otras entidades públicas y privadas.
 
-Para los efectos de lo establecido en el párrafo anterior, el Consejo podrá auxiliarse de instituciones académicas, centros de investigación, organismos de certificación o normalización y otras entidades públicas y privadas.
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 45.
 
-Para el establecimiento, otorgamiento, control y supervisión de la marca “Calidad Sonora”, el Ejecutivo del Estado, a través del Consejo, suscribirá los instrumentos jurídicos de concertación necesarios con asociaciones u organismos de certificación o normalización, quienes podrán (sic) a disposición de ésta, los procedimientos, lineamientos, infraestructura y servicios que se requieran.
+El Ejecutivo del Estado, por conducto del Consejo, emitirá los lineamientos que deberán observarse para el establecimiento, otorgamiento, control y supervisión de los distintivos de calidad que se otorguen conforme al presente Capítulo.
+
+> <small>(REFORMADO, B.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 46.
 
-El Ejecutivo del Estado por conducto del Consejo previo al cumplimiento de los requisitos de sanidad y calidad que establezca el organismo certificador o de normalización que se trate, así como el pago correspondiente por concepto de uso de la marca, otorgará el holograma “Calidad Sonora”.
+El Ejecutivo del Estado por conducto del Consejo, previo al cumplimiento de los requisitos de sanidad y calidad que se establezcan por parte del Consejo, así como el pago correspondiente, otorgará el distintivo de calidad correspondiente.
 
 ### CAPÍTULO IV. DEL PREMIO ESTATAL DEL BACANORA
 
@@ -496,3 +564,35 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 WENCESLAO COTA MONTOYA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 18 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En todas aquellas disposiciones jurídicas en las cuales se haga referencia al Consejo Sonorense Promotor de la Regulación del Bacanora, se entenderá que se hace referencia al Consejo Sonorense Regulador del Bacanora.
+
+###### ARTÍCULO TERCERO.
+
+Por virtud del presente Decreto, se transfiere la titularidad de todos aquellos actos jurídicos que en su oportunidad se otorgaron al Consejo Sonorense Promotor de la Regulación del Bacanora al Consejo Sonorense Regulador del Bacanora.
+
+Asimismo, los procedimientos en los que sea parte el Consejo Sonorense Promotor de la Regulación del Bacanora y que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna autoridad, los continuará tramitando hasta su total conclusión el Consejo Sonorense Regulador del Bacanora.
+
+De igual forma, los recursos humanos, materiales y financieros que el Consejo Sonorense Promotor de la Regulación del Bacanora tenga asignados para el ejercicio de sus atribuciones, pasarán a formar parte de la (sic) Consejo Sonorense Regulador del Bacanora, respetándose los derechos laborales conforme a la legislación aplicable.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, la Junta Directiva del Consejo Sonorense Regulador del Bacanora deberá realizar las adecuaciones pertinentes a la normatividad interna de la entidad, a efecto de hacerla congruente con las disposiciones del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Sonorense Regulador del Bacanora deberá emitir los lineamientos a que se refiere el artículo 45 de la Ley, dentro de los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
