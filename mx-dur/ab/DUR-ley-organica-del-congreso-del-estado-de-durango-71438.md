@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2012-09-06"
+last_updated: "2012-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -533,9 +533,13 @@ Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ### CAPÍTULO IV. DE LOS PERIODOS Y LAS SESIONES DEL CONGRESO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-Durante su ejercicio constitucional, la legislatura celebrará dos períodos ordinarios durante cada año de ejercicio constitucional; el primero, dará principio el día uno de septiembre y no podrá prolongarse sino hasta el día quince de diciembre; y el segundo, iniciará el quince de marzo y no podrá prolongarse sino hasta el quince de junio.
+Durante su ejercicio constitucional, la legislatura celebrará dos períodos ordinarios durante cada año de ejercicio constitucional; el primero, dará principio el día uno de septiembre y no podrá prolongarse sino hasta el día veinte de diciembre; y el segundo, iniciará el primero de marzo y no podrá prolongarse sino hasta el treinta de junio.
 
 Los períodos extraordinarios de sesiones, serán aquéllos a los que convoque la Comisión Permanente del Congreso del Estado, por sí o a petición del Gobernador del Estado.
 
@@ -2910,3 +2914,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor, en el momento de su aprobac
 SEGUNDO.- Se derogan las disposiciones legales, reglamentarias, y administrativas, en lo que se opongan al presente decreto.
 
 TERCERO.- Mándese publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Durango y entrará en vigor el día 1 de marzo del año 2013.
+
+SEGUNDO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
