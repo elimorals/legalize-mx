@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2012-10-06"
+last_updated: "2012-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+> <small>N. DE E. EL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ A TRAVÉS DEL DECRETO 002, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 18 DE OCTUBRE DE 2012, DEJA INSUBSISTENTE EL PROYECTO DE DECRETO APROBADO POR EL HONORABLE CONGRESO DEL ESTADO, DE SESIÓN EXTRAORDINARIA DEL 6 DE SEPTIEMBRE DE 2012, QUE REFORMÓ EL ARTÍCULO 157 EN SU FRACCIÓN IV EL PÁRRAFO TERCERO; Y SE DEROGÓ, DEL ARTÍCULO 202 LA FRACCIÓN III, EL ARTÍCULO 203, Y DEL ARTÍCULO 205 EN SU FRACCIÓN IV EL PÁRRAFO, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ Y, EN CONSECUENCIA, TALES PRECEPTOS QUEDAN COMO ESTABAN VIGENTES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2089,7 +2091,7 @@ XII. Las previsiones necesarias para la movilidad sustentable, debiendo consider
 
 Para los efectos de ésta Ley, se entiende por:
 
-I. Licencia de Uso de Suelo: el acto mediante el cual, en los casos en que ésta Ley lo exige, se señala para un predio determinado su uso general, las intensidades máximas de aprovechamiento y ocupación del suelo, así como las restricciones Federales y Estatales que pudieran afectarlo;
+I. Licencia de Uso del Suelo: el acto mediante el cual, en los casos en que ésta Ley lo exige, se señala para un predio determinado su uso general, las intensidades máximas de aprovechamiento y ocupación del suelo, así como las restricciones Federales y Estatales que pudieran afectarlo;
 
 II. Uso General del Suelo: el fin o aprovechamiento que se asigna a un área o predio según categorías de usos genéricos distintos o mixtos en su caso;
 
@@ -2193,7 +2195,7 @@ II. Anteproyecto arquitectónico o de diseño urbano de ser el caso, y memoria d
 
 III. Llevar anexo el recibo de pago del predial del inmueble al corriente, y
 
-IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aplitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
+IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
 
 La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima; intransferible; inembargables los derechos derivados de la misma; e inalienable; y no será objeto de fusión o escisión, tratándose de sociedades mercantiles legalmente constituidas.
 
@@ -2239,7 +2241,7 @@ La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organism
 
 La licencia de uso del suelo, no faculta a su titular, para iniciar la ejecución de construcción u obra alguna.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 141.
 
@@ -2247,7 +2249,7 @@ La vigencia de la licencia de uso del suelo se sujetará a lo siguiente:
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición, lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
+I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3093,7 +3095,7 @@ VI. Comprobante de pago del impuesto predial, y
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-VII. Autorización de impacto ambiental, cuando se encuentren en los supuestos establecidos en los artículo 118, 119 y 123 de la Ley Ambiental del Estado de San Luis Potosí.
+VII. Autorización de impacto ambiental, cuando se encuentren en los supuestos establecidos en los artículos 118, 119 y 123 de la Ley Ambiental del Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3920,3 +3922,17 @@ P.O. 6 DE OCTUBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+DECRETO 1168, POR EL QUE SE REFORMA, DEL ARTÍCULO 157 LA FRACCIÓN IV PÁRRAFO TERCERO; Y DEROGA, DEL ARTÍCULO 202 LA FRACCIÓN III, EL ARTÍCULO 203, DEL ARTÍCULO 205 LA FRACCIÓN IV PÁRRAFO SEGUNDO, ASÍ COMO EL ANTEPENÚLTIMO PÁRRAFO, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+DECRETO 002, POR EL QUE SE DEJA INSUBSISTENTE EL PROYECTO DE DECRETO APROBADO POR EL HONORABLE CONGRESO DEL ESTADO, DE SESIÓN EXTRAORDINARIA DEL 6 DE SEPTIEMBRE DE 2012, QUE REFORMÓ EL ARTÍCULO 157 EN SU FRACCIÓN IV EL PÁRRAFO TERCERO; Y SE DEROGÓ, DEL ARTÍCULO 202 LA FRACCIÓN III, EL ARTÍCULO 203, Y DEL ARTÍCULO 205 EN SU FRACCIÓN IV EL PÁRRAFO, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ Y, EN CONSECUENCIA, TALES PRECEPTOS QUEDAN COMO ESTABAN VIGENTES.
+
+Único. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
