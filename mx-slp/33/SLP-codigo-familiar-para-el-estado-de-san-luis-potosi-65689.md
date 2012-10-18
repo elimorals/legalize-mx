@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2012-06-19"
+last_updated: "2012-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1129,7 +1129,7 @@ Los herederos del cónyuge o el concubinario, excepto en el caso del artículo a
 
 Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, y contrajera nuevas nupcias dentro los trescientos días después de la disolución del vinculo matrimonial anterior, la filiación de la hija o el hijo, que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I. Se presume que hija ó hijo, es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+I. Se presume que hija ó hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
 II. Se supone que la hija o hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio;
 
@@ -2711,493 +2711,379 @@ La acción para pedir la nulidad prescribe en los términos en que prescriben la
 
 Las o los menores no podrán alegar nulidad si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores, o han manifestado dolosamente que lo eran.
 
-## TITULO DECIMO PRIMERO. DEL REGISTRO CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+## TITULO DECIMO PRIMERO. DE LAS RECTIFICACIONES DE ACTAS DEL REGISTRO CIVIL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo II. De las Actas de Nacimiento
 
 ###### ARTICULO 466.
 
-El Registro Civil es la institución de orden público, por medio del cual el Estado inscribe, autentifica y da publicidad a todos los actos o hechos relacionados con las personas físicas, en su caso, con la intervención de personas dotadas de fe pública, denominados oficiales del Registro Civil.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 467.
 
-El Registro Civil estará constituido por la Dirección del mismo, su archivo estatal y las oficialías que sean necesarias para el cumplimiento eficaz de su función. El número y ubicación de las oficialías se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
-
-La titularidad de las oficinas del Registro Civil estará a cargo de las o los funcionarios denominados oficiales del Registro Civil, quienes preferentemente serán licenciados en Derecho y, deberán además, cubrir los requisitos que señale el ordenamiento respectivo, correspondiéndoles autorizar los actos del estado civil y expedir constancia de las actas relativas a los casos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 468.
 
-Las o los oficiales del Registro Civil tendrán fe pública en el desempeño de las labores propias de su cargo, y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren, y lo que esté expresamente previsto por la ley.
-
-Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, la nulidad de matrimonio, el divorcio, la adopción, la nulidad de reconocimiento de hijas o hijos, y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos en el extranjero.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 469.
 
-Las o los oficiales del Registro Civil llevarán seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijas o hijos; el segundo, actas de adopción; el tercero, actas de matrimonio y divorcio; el cuarto, actas de tutela, habilitación de edad; el quinto, actas de defunción y muertes fetales; el sexto, las inscripciones de las ejecutorias relacionadas con el estado civil de las personas.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 470.
 
-Las actas a que se refiere el artículo 466 de este Código, se asentarán en formas especiales suministradas por la Dirección del Registro Civil, que se denominarán "formatos del Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
-
-Las inscripciones se harán en manuscrito, mecanográficamente, o por cualquier otro medio aportado por la ciencia o la tecnología.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 471.
 
-Para asentar los actos a que se refiere el artículo 469 de este Código, habrá los formatos necesarios que serán expedidos de acuerdo al número que se requiera, por la Dirección del Registro Civil. Un ejemplar del acta se entregará al interesado.
-
-Las actas correspondientes al Archivo General, y a la Oficialía, se integrarán en libros, de acuerdo a su contenido, enumerándolas progresivamente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 472.
 
-En las actas del Registro Civil intervendrán la o el Oficial del Registro Civil, o la o el funcionario que deba autorizarlas, las o los particulares interesados o sus representantes legales, en su caso, así como las o los testigos que intervengan en las actas del estado civil, quienes serán mayores de edad, prefiriéndose a las o los que designen los interesados, aun cuando sean sus parientes; las actas deberán ser firmada en el espacio correspondiente en las que además se imprimirá el sello de la Oficialía que corresponda.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 473.
 
-La elaboración de las actas de nacimiento, matrimonio, defunción, y los asentamientos de los actos celebrados por mexicanos en el extranjero, será por quintuplicado; las demás actas se levantarán por cuadruplicado; debiendo contener la Clave Unica del Registro de Población.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 474.
 
-Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que corresponda, y en ellas se hará mención del parentesco de quienes intervienen, en relación con las o los interesados o sujetos de las mismas, en su caso.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 475.
 
-Si se perdiere o destruyere, total o parcialmente, alguno de los libros del registró, la o el Oficial del Registro Civil que tuviere a su cargo el libro perdido o destruido, inmediatamente sacará copia del otro ejemplar que se encuentra en el Archivo de la Dirección.
-
-Si la pérdida o la destrucción ocurriera en la Dirección del Registro Civil, el Director ejecutará la reposición del libro que existiere.
-
-El Director del Registro Civil, o la o el Oficial del mismo, dará aviso inmediatamente de la pérdida o destrucción al Ministerio Público.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 476.
 
-Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado por todos los documentos relacionados con el acta formulada. Los documentos del apéndice estarán relacionados con el acta respectiva, al igual que las actas lo estarán con éstos. Toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 477.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución de la o el Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2011)</small>
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 478.
 
-Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles a la o el Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo, y su tramitación no deberá exceder de quince días hábiles. Cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
-
-Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante la o el propio Oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados, previa revisión y autorización de la Dirección del Registro Civil, para la anotación marginal respectiva en el acta de que se trate.
-
-En todos los casos en los que la enmienda sea mayor a la corrección de un error mecanográfico u ortográfico, se dará vista al Ministerio Público; en caso de que éste se oponga, cesará el procedimiento administrativo.
-
-La infracción de lo antes previsto se sancionará conforme a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad civil y penal en que se incurra.
-
-La o el Director del Registro Civil, y la o el Oficial de la adscripción, podrán utilizar un libro auxiliar de márgenes.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 479.
 
-Sólo para el caso de que no existan duplicados, o cuando no hayan existido registros, se podrá recibir prueba del acto, y previo el trámite administrativo o judicial, según corresponda, se hará la inscripción respectiva.
-
-Los registros extemporáneos de nacimientos podrán hacerse por las o los oficiales del Registro Civil, únicamente en los siguientes casos:
-
-I. Si la o el menor no excede de los siete años, debiendo al efecto exhibir quien lo presenta, el certificado o constancia médica de nacimiento que así lo acredite, y
-
-II. Tratándose de personas mayores de siete años de edad, una vez constatada la inexistencia del acta respectiva, cuando la o el Director del Registro Civil lo autorice por motivos graves, urgentes, causas de fuerza mayor o en campañas de beneficio social, debiéndose acompañar a la solicitud los siguientes requisitos:
-
-a) Fe de bautismo o dos cartas de conocimiento de personas públicas, o de dos personas que se acrediten fehacientemente, o dos identificaciones con que cuente el interesado.
-
-b) Comprobante de domicilio o, en su defecto, carta de vecindad expedida por el ayuntamiento que corresponda.
-
-En todos los casos, previo al registro y expedición del acta respectiva, deberá seguirse el procedimiento administrativo que establece el reglamento correspondiente.
-
-Fuera de los casos anteriores, sólo se inscribirán los registros, previa sentencia judicial ejecutoriada.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 480.
 
-Cuando las o los interesados no puedan concurrir personalmente ante la o el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren, o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijas o hijos fuera de matrimonio sólo podrá hacerse personalmente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 481.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que las o los interesados presenten de los actos relativos, sujetándose a lo previsto por las leyes en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 482.
 
-Los actos y actas del Registro Civil relativos a la o el Oficial del Registro, a su cónyuge y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por la o el mismo Oficial; pero se asentarán en los mismos formatos, y se autorizarán por la o el presidente municipal del lugar.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 483.
 
-Las o los oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los presidentes municipales del lugar.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 484.
 
-La Secretaria General de Gobierno, el órgano superior del Registro Civil, quien por medio de la Dirección del Registro Civil, y de los agentes del Ministerio Público, cuidará del funcionamiento del mismo. Cualquier falta administrativa cometida por las o los oficiales del Registro Civil y de la Dirección del mismo, y que no estén penados especialmente, se castigará por la propia Secretaria, con multa hasta de cinco días de salario mínimo de la zona de la infracción y, podrá igualmente, solicitar al Ejecutivo, el cese de la o el funcionario infractor, en los casos que así proceda.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo III. De las Actas de Reconocimiento de Hijas o Hijos
 
 ###### ARTÍCULO 485.
 
-Las declaraciones de nacimiento se harán presentando a la o el recién nacido, ante la o el Oficial del Registro Civil, en su oficina, o en el domicilio donde se encuentre la o el menor.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 486.
 
-Tienen obligación de declarar el nacimiento, la madre y el padre, dentro del término de ciento ochenta días de ocurrido aquél.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 487.
 
-La madre y el padre que estando obligados a declarar el nacimiento, lo hacen fuera del término fijado en el artículo anterior, serán sancionados con una multa correspondiente de hasta un día de salario mínimo, que impondrá la autoridad municipal del lugar donde se haga la declaración extemporánea de nacimiento.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 488.
 
-En las poblaciones en que no haya Oficial del Registro Civil, la o el recién nacido será presentado a la persona que ejerza la autoridad municipal, y ésta dará las constancias respectivas, que las o los interesados llevarán a la o el Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 489.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo de la o el presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse; y la razón de si se ha presentado viva o vivo, muerta o muerto. Se tomará al margen del acta la impresión digital del presentado.
-
-Si éste se presenta como hija o hijo de madre y padre desconocidos, la o el Oficial del Registro Civil, le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 490.
 
-Cuando la o el nacido se presente como hija o hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de la madre y el padre; los nombres y domicilios de las abuelas y abuelos; y los de la persona que hubiere hecho la presentación.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 491.
 
-La madre no tiene derecho de dejar de reconocer a su hija o hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hija o hijo. Si al hacerse la presentación se proporciona el nombre de la madre, se pondrá éste; si no se proporciona se hará constar esta circunstancia; pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones de este Código. Cuando figure el nombre de la madre y del padre, se hará constar en el acta de nacimiento, las generales de ambos.
-
-Queda absolutamente prohibido asentar en el acta, que la hija o el hijo es natural, o nacido fuera del matrimonio.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 492.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos por sí o por interpósita persona, la presencia de la o el Oficial del Registro Civil, éste pasará al lugar en que se halle la o el interesado, y allí recibirá de la o él la petición de que se mencione su nombre; todo lo cual se asentara en el acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 493.
 
-Si la hija o el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser éste (sic) haya desconocido a la hija o hijo y exista sentencia ejecutoria que declare que no es hija o hijo suyo.
-
-No se expresará en el acta que la hija o el hijo es adulterino.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 494.
 
-Cuando la hija o el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá la o el Oficial del Registro Civil, asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido a la hija o hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 495.
 
-La madre y el padre de una hija o hijo producto de una relación incestuosa podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará en la misma que la hija o el hijo es incestuoso.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 496.
 
-Toda persona que encontrare una o un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo a la o el Oficial del Registro Civil, o al Sistema para el Desarrollo Integral de la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con ella o él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 497.
 
-La misma obligación tienen las o los jefes, directores o administradores de las prisiones, o de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de las niñas o los niños nacidos o expuestos en ellas.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 498.
 
-En las actas que se levanten en estos casos, se expresarán con especificación, todas las circunstancias que designa el artículo 496 de este Código, la edad aparente de la niña o el niño, su sexo, el nombre y apellido que se le ponga, y el nombre de la persona o casa de expósitos que se encarguen de ella o él.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 499.
 
-Si con la niña o el niño expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquélla o aquél, se depositarán en el archivo del Registro Civil, mencionándolos en el acta y dando formal recibo de ellos al que recoja a la niña o el niño.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 500.
 
-Se prohíbe absolutamente a la o el Oficial del Registro Civil, y a los testigos que conforme al artículo 489 de este Código deben asistir al acto, hacer inquisiciones sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten a la niña o niño, aunque parezcan sospechosas de falsedad, debiendo dar aviso, en tal caso, al Ministerio Público.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 501.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los progenitores, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los progenitores, si éstos lo pidieren; y en el segundo, se dispondrá para hacer el registro el término que señala el artículo 486 de este Código, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 502.
 
-Si al dar el aviso de un nacimiento se comunicare también la muerte de la o el recién nacido, se extenderán dos actas, una de nacimiento, y otra de fallecimiento, en los libros respectivos.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 503.
 
-Cuando se trate de un parto múltiple se levantará un acta por cada uno de las o los nacidos, haciendo constar las particularidades que los distingan, siguiendo el orden progresivo del nacimiento, según la información que proporcionen las personas que hayan asistido al parto.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo IV. De las Actas de Adopción
 
 ###### ARTICULO 504.
 
-Si el padre o la madre de una hija o hijo sin estar unidos en matrimonio civil, o ambos, lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, los generales del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que aparezcan en el acta. Esta acta surtirá los efectos del reconocimiento.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 505.
 
-Si el reconocimiento de la hija o hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere al artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga y, el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y, en oposición de éstos, el Ministerio Público.
-
-En estas actas queda prohibido expresar que la hija o el hijo es natural, o nacido fuera de matrimonio.
-
-Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento de la hija o hijo, o esta presentación se haya hecho fuera del término de ley.
-
-Cuando se observe que en una acta, aun las no autorizadas, se hace mención de cualquiera de las expresiones prohibidas por este Código, se testarán éstas por la o el Oficial del Registro Civil, de oficio o a petición de parte, de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 506.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, el original o copia certificada del documento que lo compruebe se presentará al encargado del Registro Civil, dentro del término de quince días, observándose las demás prescripciones contenidas en este Capítulo, y en el Capítulo IV del Título Octavo del Código Familiar para el Estado de San Luis Potosí.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 507.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero las o los responsables de la omisión quedarán sujetos a la sanción establecida en las disposiciones legales aplicables, la cual será impuesta por la autoridad judicial ante quien se haga valer el reconocimiento.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 508.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 509.
 
-Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, la o el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo V. De las Actas de Inscripción de Sentencias
 
 ###### ARTICULO 510.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 511.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción. En los casos de adopción plena, se cancelará el acta de nacimiento de la o el adoptado, si es que existe, y en su lugar se levantará acta de nacimiento que contendrá los datos de la o el adoptado, de la madre o padre adoptivos, y los ascendientes de éstos, así como de los testigos de ese acto.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 512.
 
-Extendida el acta de la adopción, se anotará la de nacimiento de la o el adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 513.
 
-La autoridad judicial que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días, copia certificada de su resolución a la o el Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo VI. De las Actas de Matrimonio
 
 ###### ARTICULO 514.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela. la pérdida o limitación de la capacidad legal para administrar bienes, o la nulidad de matrimonio, remitirán a la ó (sic) el Oficial del Registro Civil correspondiente, dentro del término de ocho días, copia certificada de la resolución ejecutoriada, o auto de discernimiento, para su registro y levantamiento del acta correspondiente, en la que se insertará dicha resolución.
-
-La falta de registro de la sentencia no impedirá que se produzcan todos los efectos legales del acto respectivo.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 515.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, la autoridad respectiva dará aviso a la o el Oficial del Registro Civil para que cancele la inscripción a que se refiere el articulo anterior.
-
-Las y los oficiales que no cumplan con estas prevenciones, o no realicen las anotaciones en los casos en que así proceda serán sancionados en los términos que establezca el ordenamiento correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 516.
 
-Las actas a que se refiere el artículo 514 de este Código, contendrán el nombre, apellidos, edad estado civil y nacionalidad de la persona de quien se trate; así como los puntos resolutivos de la sentencia, la fecha en que se dictó y aquélla en que causó estado, así como el Tribunal que la pronunció.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 517.
 
-Extendida el acta de tutela se anotará en el acta de nacimiento del incapaz, observándose para el caso de que no exista en la misma oficina del Registro Civil, lo previsto en el artículo 509 de este Código.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo VII. De las Actas de Divorcio
 
 ###### ARTICULO 518.
 
-Las personas que pretendan contraer matrimonio presentarán una solicitud por escrito a la o el Oficial del Registro Civil del domicilio de cualquiera de los contrayentes, en la que se expresará:
-
-I. Que es voluntad de ambos unirse en matrimonio;
-
-II. Que no tienen impedimento legal para casarse o ha sido dispensado;
-
-III. Los nombres, apellidos, lugar y fecha de su nacimiento, nacionalidad estado civil, ocupación y domicilio, tanto de los pretendientes, como de sus progenitores, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta, y
-
-IV. El régimen patrimonial bajo el cual se celebrará el matrimonio.
-
-La solicitud deberá ser firmada por los pretendientes y si alguno no pudiere o no supiere escribir, lo hará, a su ruego, una persona conocida, mayor de edad y vecina del lugar.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 519.
 
-A la solicitud a que se refiere el artículo anterior, se acompañará
-
-I. Copia certificada del acta de nacimiento, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
-
-II. La constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 19 y 20 de este Código;
-
-III. La declaración de dos testigos mayores de edad por cada uno de los contrayentes, que los conozcan y que les conste que no tienen impedimento legal para contraer matrimonio;
-
-IV. Certificado médico en el que conste el resultado del análisis practicado por laboratorios de instituciones de salud pública o privados, en donde el médico que los extienda certifique, bajo protesta de decir verdad, haber examinado a los pretendientes y que los mismos no padecen enfermedad infecto contagiosa o hereditaria, que constituya impedimento para el matrimonio.
-
-Los servicios de salud dependientes del Estado, tendrán obligación de expedir gratuitamente a las personas de escasos recursos económicos, el certificado médico a que se refiere el párrafo anterior.
-
-Dicho documento deberá expedirse dentro de los quince días previos a la celebración del matrimonio, y
-
-V. Copia del acta de defunción de la o el cónyuge fallecido, si alguna o alguno de los contrayentes es viuda o viudo o de la parte resolutiva de la sentencia de divorcio, o de nulidad de matrimonio, en caso de que alguna o alguno de los pretendientes hubiere sido casado anteriormente, y
-
-VI. Copia de la dispensa de impedimentos, si los hubo.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 520.
 
-La o el Oficial del Registro Civil a quien se presente una solicitud de matrimonio, que llene los requisitos enumerados en los artículos anteriores, hará que las o los pretendientes, y las o los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante ella o él y por separado sus firmas. Las declaraciones de las o los testigos a que se refiere la fracción III del artículo 519 de este Código, serán ratificadas bajo la protesta de decir verdad, ante la o el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 521.
 
-El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale la o el Oficial del Registro Civil; pero si por causa imputable a los pretendientes no se celebrare el matrimonio dentro de los seis meses a partir de la fecha del acta de presentación, las gestiones relativas quedarán sin efecto, debiendo repetirse íntegramente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 522.
 
-En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante la o el Oficial del Registro Civil, los pretendientes y dos testigos por cada uno de ellos, que acrediten su identidad.
-
-A continuación la o el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado, y las diligencias practicadas e, interrogará, a las o los testigos acerca de si les consta que los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en nombre de la ley y la sociedad.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 523.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
-
-I. Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
-
-II. Si son mayores o menores de edad;
-
-III. Los nombres, apellidos, ocupación y domicilio de los progenitores;
-
-IV. El consentimiento de éstos, de las abuelas y abuelos o tutores, o el de las autoridades que deban suplirlo;
-
-V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
-
-VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará la o el Oficial del Registro Civil en nombre de la ley y de la sociedad;
-
-VII. Los nombres, apellidos, edad, estado, ocupación y domicilio de las o los testigos, su declaración sobre si son o no parientes de las o los contrayentes, y si lo son, en qué grado y en qué línea, y
-
-VIII. Cuando las o los contrayentes o alguno de ellos fuera menor de edad, la o el Oficial del Registro Civil anotará en las o la acta respectiva de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
-
-El acta será firmada por la o el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
-
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 524.
 
-Los pretendientes que declaren deliberadamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 519 de este Código, serán sancionados en los términos que establezca el Código Penal para el Estado. Lo mismo se hará con las personas que falsamente se hicieren pasar por la madre o el padre o tutores de los pretendientes. El matrimonio celebrado bajo alguna de estas circunstancias surtirá efectos legales entre los contrayentes.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 525.
 
-Si antes de celebrar el matrimonio, la o el Oficial del Registro Civil tuviere conocimiento de que los pretendientes tienen impedimento para contraerlo, levantará un acta, ante dos testigos, en la que hará constar los datos que le hagan presumir que existe el impedimento.
-
-Cuando haya denuncia se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio de la o el denunciante, insertándose al pie de la letra la denuncia.
-
-En ambos casos, la o el Oficial del Registro Civil se abstendrá de celebrar el matrimonio, hasta en tanto no cese la causa del impedimento.
-
-La abstención de celebrar el matrimonio podrá ser impugnada ante la autoridad judicial que corresponda, a fin de que sea ésta autoridad quien califique el impedimento.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 526.
 
-Las denuncias del impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, la o el denunciante será condenado al pago de las costas, daños y perjuicios.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 527.
 
-La o el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 528.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 529.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque la o el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de el.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 530.
 
-Será sancionado en los términos que establezca la legislación respectiva, la o el Oficial del Registro Civil que:
-
-I. Autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, o
-
-II. Se niegue injustificadamente a celebrar un matrimonio o lo retarde en forma indebida.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 531.
 
-Las o los oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de las o los interesados, o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes o los dos, carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 532.
 
-Tratándose del matrimonio en que alguno o ambos pretendientes sean extranjeros, deberá cumplirse además, con lo que dispongan al respecto las leyes federales.
-
-La celebración colectiva de matrimonios no exime a la o el Oficial del Registro Civil, del cumplimiento estricto de las solemnidades previstas en este Código.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 533.
 
-La o el Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes, a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 519 de este Código.
-
-Celebrado el matrimonio, la o el Oficial del Registro Civil, remitirá copia del acta al encargado de la oficina en que se encuentren registrados los nacimientos de los contrayentes, para que se haga la anotación marginal correspondiente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ### Capítulo VIII. De las Actas de Defunción
 
 ###### ARTICULO 534.
 
-De la sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada a la Dirección del Registro Civil, y a la o el Oficial del Registro donde se celebró el matrimonio, para que se asiente el acta correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 535.
 
-En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la clave única del Registro Nacional de Población, si la tuvieren, los datos de ubicación de las actas de nacimiento de las o los divorciados, la parte resolutiva de la sentencia judicial que lo decretó, fecha de la misma y la autoridad que la dictó.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 536.
 
-Extendida el acta por la o el Oficial del Registro Civil, remitirá copia de la misma al del lugar en que se encuentre registrado el nacimiento de las o los divorciados, a efecto de que haga la anotación marginal respectiva. La copia de la sentencia mencionada, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
-### Capítulo IX. De la Rectificación de las Actas del Registro Civil
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+### Capítulo IX. Disposiciones Generales
 
 ###### ARTICULO 537.
 
-Ninguna inhumación o cremación se hará sin autorización escrita de la o el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento mediante el certificado de defunción que expida el médico. No se procederá a la inhumación o cremación sino después de que transcurran dieciocho horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 538.
 
-En el acta de defunción se asentarán los datos que la o el Oficial del Registro Civil recabe de la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, las o los parientes del fallecido, si los hay, o las o los vecinos.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 539.
 
-El acta de defunción contendrá:
-
-I. El nombre, apellidos, edad, nacionalidad, sexo, domicilio y, en su caso, la clave única del Registro Nacional de Población, que tuvo el difunto;
-
-II. El estado civil de éste y si era casado o viudo, el nombre y apellido de su cónyuge;
-
-III. Los nombres, apellidos, edad, ocupación y domicilio de las o los testigos y si fueren parientes, el grado en que lo sean;
-
-IV. Los nombres de la madre o el padre del difunto si se supiese;
-
-V. La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulta el cadáver;
-
-VI. La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
-
-VII. El nombre, apellidos, domicilio y número de cédula profesional del médico que certifica la defunción, y
-
-VIII. Tratándose de extranjeros se dará aviso a la autoridad federal correspondiente.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 540.
 
-Las o los dueños, habitantes o encargados del lugar en que ocurra la defunción, tendrán la obligación de dar aviso del fallecimiento a la o el Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 541.
 
-Si la defunción ocurre en un lugar o población en donde no hay oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá a la o el Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 542.
 
-Cuando la o el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos lo (sic) informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el Ministerio Público averigüen un fallecimiento, dará parte a la o el Oficial del Registro Civil para que asiente el acta respectiva.
-
-Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con ella o él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán a la o el Oficial del Registro Civil para que los anote al margen del acta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 543.
 
-En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con ella o él se hayan encontrado.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 544.
 
-Si no aparece el cadáver, pero existe la presunción de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre y las declaraciones de las personas que hayan conocido a la que no aparece, los datos que tengan sobre su desaparición; y las demás noticias que sobre el acontecimiento puedan recabarse.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 545.
 
-Si por cualquier motivo no se hubiere levantado el acta de defunción oportunamente, quienes tengan conocimiento de la omisión darán aviso a la o el Oficial del Registro Civil, allegándole la documentación e información conducente, para que asiente el acta respectiva, dando aviso al Ministerio Público, para que éste proceda de acuerdo a sus atribuciones, cuando se presuma la comisión de un ilícito.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 546.
 
-Cuando alguien falleciere en lugar distinto al del registro de su nacimiento, se remitirá a la o el Oficial del Registro Civil que le corresponda, copia certificada del acta de defunción para que haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 547.
 
-La o el jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte a la o el Oficial del Registro Civil de los muertos que haya habido en campaña o en otro acto del servicio, especificándose la filiación; la o el Oficial del Registro Civil observará en este caso, lo dispuesto en el artículo anterior.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 548.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, no se hará en los registros mención de estas circunstancias, y las actas solamente contendrán los demás requisitos que prescribe el artículo 539 de este Código.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 549.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que consta ésta.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 550.
 
@@ -3326,3 +3212,9 @@ P.O. 19 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
