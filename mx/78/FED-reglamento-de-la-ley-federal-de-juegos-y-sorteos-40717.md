@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-juegos-y-sorteos-40717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-17"
-last_updated: "2004-09-17"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-09-13"
 
 REGLAMENTO DE LA LEY FEDERAL DE JUEGOS Y SORTEOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de septiembre de 2004.
 
@@ -47,11 +47,15 @@ Corresponde a la Secretaría de Gobernación la interpretación administrativa y
 
 Las actividades relativas a juegos con apuestas y sorteos que no estén expresamente contempladas en la Ley y el presente Reglamento, serán resueltas, en cada caso, por la Secretaría de Gobernación conforme a lo dispuesto por dichos ordenamientos y demás disposiciones aplicables.
 
-La Dirección General Adjunta de Juegos y Sorteos tiene a su cargo la atención, trámite y despacho de los asuntos relacionados con la supervisión y vigilancia del cumplimiento de la Ley y el Reglamento; la expedición de permisos, la supervisión y vigilancia del cumplimiento de los términos y condiciones consignados en éstos; el finiquito de los permisos para sorteos; el desahogo de las quejas, reclamaciones y procedimientos administrativos provenientes del desarrollo y resultado de juegos con apuestas y sorteos; imponer sanciones por infracciones a la Ley y el presente Reglamento, así como las que le confieran las demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+La Dirección General de Juegos y Sorteos tiene a su cargo la atención, trámite y despacho de los asuntos relacionados con la supervisión y vigilancia del cumplimiento de la Ley y el Reglamento; la expedición de permisos, la supervisión y vigilancia del cumplimiento de los términos y condiciones consignados en éstos; el finiquito de los permisos para sorteos; el desahogo de las quejas, reclamaciones y procedimientos administrativos provenientes del desarrollo y resultado de juegos con apuestas y sorteos; imponer sanciones por infracciones a la Ley y el presente Reglamento, así como las que le confieran las demás disposiciones aplicables.
 
 La Unidad de Gobierno tiene a su cargo la atención y despacho de los asuntos en los que sea necesaria la coordinación y colaboración de la Secretaría de Gobernación con otras autoridades en materia de juegos con apuestas y sorteos, así como el combate a actividades prohibidas por la Ley.
 
-La Unidad de Asuntos Jurídicos, en el ámbito de su competencia, coadyuvará en coordinación con la Unidad de Gobierno y la Dirección General Adjunta de Juegos y Sorteos, en el trámite y despacho de los asuntos relacionados con la imposición de las sanciones administrativas que establece la Ley y el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+La Unidad de Asuntos Jurídicos, en el ámbito de su competencia, coadyuvará en coordinación con la Unidad de Gobierno y la Dirección General de Juegos y Sorteos, en el trámite y despacho de los asuntos relacionados con la imposición de las sanciones administrativas que establece la Ley y el presente Reglamento.
 
 Las autoridades federales, cooperarán en sus respectivos ámbitos de competencia para hacer cumplir las determinaciones que dicten las autoridades de la Secretaría de Gobernación de conformidad con las leyes y este Reglamento, cuando para ello fueren requeridas.
 
@@ -63,13 +67,19 @@ Para los efectos de este Reglamento, en lo sucesivo se entenderá por:
 
 I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego contemplado por la Ley y regulado por el presente Reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá de ser superior a ésta;
 
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+I. BIS. Azar: Casualidad a que se fía el resultado de un juego, el cual es completamente ajeno a la voluntad del jugador;
+
 II. Beneficiario: Persona física que sin tener necesariamente el carácter de titular de una acción o parte social de la sociedad permisionaria, recibe a través de cualquier figura jurídica, los frutos producidos por la explotación de un permiso otorgado en los términos de la Ley y este Reglamento y ejerce finalmente, directa o indirectamente, el control de la permisionaria, además de los derechos corporativos de accionista o titular de parte social, a través de quienes son los titulares, y tiene en los hechos la posibilidad de influir o tomar decisiones de la permisionaria o, en su caso, de recibir los beneficios;
 
 III. Boleto: Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta o sorteo y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros;
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
 
-V. Dirección: Dirección General Adjunta de Juegos y Sorteos de la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+V. Dirección: La Dirección General de Juegos y Sorteos, de la Secretaría de Gobernación;
 
 VI. Establecimiento: Lugar abierto o cerrado en el que se llevan a cabo juegos con apuestas o sorteos con permiso vigente, otorgado por la Secretaría en los términos de la Ley y el presente Reglamento;
 
@@ -84,6 +94,18 @@ X. Inspectores: Servidores públicos a través de quienes la Secretaría ejerce 
 XI. Juego con apuesta: Juegos de todo orden en que se apuesta, previstos en la Ley y este Reglamento, autorizados por la Secretaría;
 
 XII. Ley: Ley Federal de Juegos y Sorteos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+XII. BIS. Máquina tragamonedas: El artefacto o dispositivo de cualquier naturaleza, a través del cual el usuario, sujeto al azar, a la destreza o a una combinación de ambas, realiza una apuesta, mediante la inserción de un billete, moneda, ficha o cualquier dispositivo electrónico de pago u objeto similar, con la finalidad de obtener un premio.
+
+Para efectos de este Reglamento no se consideran como máquinas tragamonedas las siguientes:
+
+a) Las máquinas expendedoras, entendiendo por tales las que se limitan a efectuar mecánicamente transacciones o venta de productos o servicios a cambio del precio introducido, siempre que el valor del dinero depositado corresponda al valor de mercado de los productos que la máquina entregue y su mecanismo no se preste a admitir cualquier tipo de apuesta o juego de azar;
+
+b) Las máquinas tocadiscos, videodiscos o fotográficas, las máquinas o aparatos de competencia pura o deporte entre dos o más jugadores, las de mero pasatiempo o recreo y las máquinas o aparatos recreativos de uso infantil; todas ellas a condición de que sus mecanismos no se presten a admitir cualquier tipo de apuesta o juego de azar, o permitan el pago de premios en efectivo, especie o signos que puedan canjearse por ellos, salvo los que sólo consistan en volver a jugar gratuitamente o que otorguen premios o cupones cuyo valor no sea superior al costo de participación, y
+
+c) Las terminales de apuestas o las máquinas que permiten jugar y apostar a las competencias hípicas, deportivas o al sorteo de números electrónicamente ni, en general, las que se utilicen para desarrollar los juegos y apuestas autorizados. Estas terminales deberán estar claramente identificadas como tales en los establecimientos autorizados;
 
 XIII. Operador: Sociedad mercantil con la cual el permisionario puede contratar o asociarse para explotar su permiso, en términos de lo dispuesto en este Reglamento;
 
@@ -155,19 +177,23 @@ Sólo podrán realizarse, operarse u organizarse juegos con apuestas y sorteos p
 
 Las participaciones a que se refiere el artículo 5 de la Ley serán determinadas por la Secretaría al momento de la expedición de los permisos, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-No serán objeto de autorización las máquinas tragamonedas en cualquiera de sus modalidades.
+Quedan prohibidas las máquinas tragamonedas en cualquiera de sus modalidades, salvo las que cuenten con el permiso de la Secretaría expedido expresamente para tales efectos, en los términos de la Ley y este Reglamento.
 
-Se entiende por máquina tragamonedas el artefacto, dispositivo electrónico o electromecánico, digital, interactivo o de cualquier tecnología similar, que mediante la inserción de un billete, moneda, tarjeta, banda magnética, ficha, dispositivo electrónico de pago u objeto similar, o por el pago de alguna contraprestación, está disponible para operarse y que, como resultado de dicha operación, permite al usuario del mismo obtener mediante el azar o una combinación de azar y destreza, la entrega inmediata o posterior de premios en efectivo o en especie.
+Para obtener el permiso a que se refiere el párrafo anterior, el solicitante deberá cumplir con los requisitos siguientes:
 
-Para efectos de este Reglamento no se consideran como máquinas tragamonedas las siguientes:
+I. Ser permisionario u operador autorizado por la Secretaría, bajo los supuestos previstos en la fracción I del artículo 20 de este Reglamento, y
 
-I. Las máquinas expendedoras, entendiendo por tales las que se limitan a efectuar mecánicamente transacciones o venta de productos o servicios a cambio del precio introducido, siempre que el valor del dinero depositado corresponda al valor de mercado de los productos que la máquina entregue y su mecanismo no se preste a admitir cualquier tipo de apuesta o juego de azar;
+II. Contar con la autorización de apertura de la Secretaría, para los establecimientos en los que se pretenda utilizar dichas máquinas.
 
-II. Las máquinas tocadiscos, videodiscos o fotográficas, las máquinas o aparatos de competencia pura o deporte entre dos o más jugadores, las de mero pasatiempo o recreo y las máquinas o aparatos recreativos de uso infantil; todas ellas a condición de que sus mecanismos no se presten a admitir cualquier tipo de apuesta o juego de azar, o permitan el pago de premios en efectivo, especie o signos que puedan canjearse por ellos, salvo los que sólo consistan en volver a jugar gratuitamente o que otorguen premios o cupones cuyo valor no sea superior al costo de participación, y
+La vigencia del permiso para la utilización de las máquinas tragamonedas a que se refiere el presente artículo estará, a su vez, sujeta a la vigencia del permiso a que se refiere la fracción I del artículo 20 de este Reglamento.
 
-III. Las terminales de apuestas o las máquinas que permiten jugar y apostar a las competencias hípicas, deportivas o al sorteo de números electrónicamente ni, en general, las que se utilicen para desarrollar los juegos y apuestas autorizados. Estas terminales deberán estar claramente identificadas como tales en los establecimientos autorizados.
+La Secretaría otorgará el permiso correspondiente en un plazo máximo de tres meses, contados a partir de la recepción de la solicitud.
+
+La solicitud se presentará en los términos establecidos en la fracción I del artículo 21 de este Reglamento.
 
 ###### ARTÍCULO 10.
 
@@ -181,9 +207,17 @@ I. Los establecimientos que cuenten con permiso otorgado por la Secretaría no p
 
 II. La propaganda y publicidad deberá expresarse en forma clara y precisa a efecto de que no induzca al público a error, engaño o confusión de los servicios ofrecidos;
 
-III. La publicidad que se realice de los juegos con apuestas y sorteos deberá consignar el número del permiso correspondiente, y
+> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
 
-IV. La publicidad deberá incluir mensajes que indiquen que los juegos con apuestas están prohibidos para menores de edad.
+III. La publicidad que se realice de los juegos con apuestas y sorteos deberá consignar el número del permiso correspondiente;
+
+> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+IV. La publicidad deberá incluir mensajes que indiquen que los juegos con apuestas están prohibidos para menores de edad, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+V. La publicidad y propaganda deberá incluir mensajes que inviten a las personas a jugar de manera responsable y con el principal propósito de entretenimiento, diversión y esparcimiento.
 
 ###### ARTÍCULO 11.
 
@@ -211,7 +245,9 @@ I. Fungir como órgano de consulta de la Secretaría respecto del ejercicio de l
 
 II. Recomendar las medidas que estime convenientes para el buen funcionamiento de la Dirección, así como las mejoras regulatorias a los procesos de operación e innovación de servicios, en particular por lo que hace al establecimiento de plazos y al cumplimiento de los requisitos señalados por el presente Reglamento para la realización de los trámites respectivos;
 
-III. Emitir, en su caso, opinión a la Dirección respecto de la expedición de los permisos en materia de juegos con apuestas y sorteos;
+> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+III. Emitir opinión a la Dirección respecto de los asuntos a que se refiere el artículo 39 BIS de este Reglamento;
 
 IV. Realizar los estudios, investigaciones y análisis que estime necesarios sobre la materia de juegos con apuestas y sorteos;
 
@@ -298,6 +334,10 @@ II. Para la apertura y operación del cruce de apuestas en ferias, a personas mo
 III. Para la apertura y operación del cruce de apuestas en carreras de caballos en escenarios temporales y en peleas de gallos, a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos y a personas físicas, y
 
 IV. Para organizar sorteos, a personas físicas y morales constituidas conforme a las leyes de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+El permiso a que se refiere la fracción I de este artículo deberá otorgarse únicamente con relación a un establecimiento. Por ningún motivo podrán operar diversos establecimientos bajo un mismo permiso.
 
 ###### ARTÍCULO 21.
 
@@ -596,6 +636,10 @@ Cuando un sorteo sea organizado por una institución contemplada en las fraccion
 ###### ARTÍCULO 39.
 
 El permisionario tendrá la obligación de contar en el mismo lugar en donde se desarrollen los eventos, con la documentación vigente que demuestre el permiso por parte de la Secretaría, misma que deberá ser exhibida al servidor público debidamente autorizado que lo solicite.
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 39 BIS.- La Dirección, antes de resolver respecto del otorgamiento, modificación, renovación o ampliación de permisos para la operación de centros de apuestas remotas y salas de sorteos de números relacionados, someterá el asunto a opinión del Consejo Consultivo, la cual no será vinculante. Lo anterior, sin perjuicio de los asuntos que el Director, dada la importancia de los mismos, decida someter a consideración del Consejo Consultivo.
 
 ### CAPÍTULO II. DEL FINIQUITO DE LOS PERMISOS EN SORTEOS
 
@@ -1526,3 +1570,15 @@ SÉPTIMO.- El Consejo Consultivo de Juegos y Sorteos a que se refiere este Regla
 La Secretaría, previa opinión del Consejo Consultivo de Juegos y Sorteos, deberá emitir, dentro de los 20 días hábiles siguientes a la instalación de éste, las disposiciones administrativas que correspondan para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Reglamento.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de septiembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los permisos vigentes otorgados con anterioridad a la entrada en vigor de este Decreto, se respetarán en los términos y condiciones en que hayan sido expedidos.
+
+TERCERO.- El Consejo Consultivo de Juegos y Sorteos a que se refiere este Reglamento deberá sesionar dentro de los 30 días naturales siguientes a la entrada en vigor de este ordenamiento para modificar las disposiciones relativas a su organización y funcionamiento, en atención a lo dispuesto por los artículos 15 y 39 BIS de este Reglamento.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
