@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2010-12-10"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -847,17 +847,23 @@ III. En materia de desarrollo urbano y obra pública:
 
 1. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, de conformidad a lo dispuesto por el artículo 158-U de la Constitución Política del Estado de Coahuila de Zaragoza;
 
 b) Participar en la creación y administración de las reservas territoriales municipales;
 
 c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional, en estos se deberá asegurar la participación de los Municipios;
 
-d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus respectivas jurisdicciones territoriales;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus respectivas jurisdicciones territoriales, de conformidad a lo dispuesto por el artículo 158-U de la Constitución Política del Estado de Coahuila de Zaragoza;
 
 e) Intervenir en la regularización de la tenencia de la tierra urbana;
 
-f) Otorgar licencias y permisos para construcciones;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+f) Otorgar licencias y permisos para construcciones, de conformidad a lo dispuesto por el artículo 158-U de la Constitución Política del Estado de Coahuila de Zaragoza;
 
 g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
@@ -1169,7 +1175,7 @@ XIII. Las demás que determinen las leyes y reglamentos aplicables.
 
 Cuando haya dos síndicos, el Ayuntamiento acordará la distribución equitativa de las funciones que ejercerán cada uno de ellos.
 
-(ADICIONADO, P.O.16 DE NOVIEMBRE DE 2001) (F. DE E., P.O. 8 DE NOVIEMBRE DE 2002)
+(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001) (F. DE E., P.O. 8 DE NOVIEMBRE DE 2002)
 
 Cuando un Ayuntamiento tenga sólo el síndico de la mayoría, éste ejercerá plenamente las facultades, competencias y obligaciones previstas en este Código para los síndicos; pero cuando se elija al síndico de la minoría en los términos de la ley electoral, el síndico de la mayoría no podrá ejercer las funciones de vigilancia y, por ende, el síndico de la minoría ejercerá en forma autónoma las facultades, competencias y obligaciones conforme al artículo 106-A de este Código.
 
@@ -1495,7 +1501,7 @@ III. No haber sido inhabilitado para desempeñar empleo, cargo o comisión, ni c
 
 IV. Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ayuntamiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2004)</small>
 
 ### CAPÍTULO II BIS. DEL CRONISTA MUNICIPAL
 
@@ -1903,7 +1909,7 @@ Los ayuntamientos tienen facultades para formular, expedir, reformar y adicionar
 
 La reglamentación municipal debe contener las normas de observancia general que requiera el gobierno y la administración municipal, basándose en las necesidades de cada municipio. Por lo mismo, cada ayuntamiento deberá evaluar sus necesidades sobre la base del tamaño de su territorio y población, así como de su desarrollo económico, social, urbano y de servicios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPÍTULO II. DE LAS BASES GENERALES
 
@@ -1963,7 +1969,7 @@ Los habitantes del Municipio que tengan, además la calidad de vecinos podrán, 
 
 La modificación de las condiciones socioeconómicas de los municipios en virtud de su crecimiento demográfico, surgimiento o desarrollo de actividades productivas o modificación de las condiciones políticas y otros aspectos de la vida comunitaria, obliga a los ayuntamientos a la adecuación de su normatividad interna, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico del Municipio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPÍTULO III. DE LOS BANDOS DE POLICÍA Y GOBIERNO
 
@@ -1973,7 +1979,7 @@ La modificación de las condiciones socioeconómicas de los municipios en virtud
 
 El bando de policía y gobierno es el ordenamiento legal que contiene las disposiciones que salvaguardan los valores comunitarios relativos a la seguridad general y al orden público, al civismo, a la salubridad, al ornato públicos, a la propiedad y al bienestar colectivos; así mismo, contiene las normas obligatorias que protegen la integridad física y moral de los habitantes del municipio y las familias, su seguridad, tranquilidad y el disfrute legítimo de la propiedad privada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 180.
 
@@ -3585,7 +3591,7 @@ Los Municipios del Estado que cuenten con más de 50,000 habitantes habrán de e
 
 El Servicio Profesional de Carrera Municipal deberá contener las disposiciones para que funcionarios públicos municipales logren un plan de vida y de carrera que asegure su profesionalización. También deberá contener los criterios y parámetros para su ingreso, su desarrollo laboral y su retiro, lo que permitirá contar con recursos humanos especializados y permanentes, garantizando así la continuidad de los programas institucionales, independientemente de los relevos periódicos de las autoridades municipales establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 370.
 
@@ -3613,7 +3619,7 @@ Para el buen funcionamiento y desarrollo del Servicio Profesional de Carrera Mun
 
 Los representantes ante este Comité, serán nombrados de la siguiente manera: los dos trabajadores de confianza serán nombrados por el Ayuntamiento; los dos trabajadores de base lo serán por votación de éstos; el representante del Ayuntamiento por éste; y el especialista en materia de recursos humanos, será propuesto por el Presidente Municipal y sujeto a la aprobación del Ayuntamiento. Para cada titular, se designará un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 372.
 
@@ -3639,7 +3645,7 @@ VIII. Definir los criterios para un sistema de retiro digno.
 
 IX. Las demás que le determine su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 373.
 
@@ -3985,7 +3991,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE ENERO DE 2001.
 
@@ -4134,3 +4140,9 @@ P.O. 10 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto en este decreto.
