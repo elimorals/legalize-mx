@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4743
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2010-12-17"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
+LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de diciembre de 2005.
 
@@ -45,7 +45,7 @@ LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL 
 
 Esta ley tiene por objeto la ejecución de las sanciones privativas y restrictivas de la libertad impuestas por los Tribunales del Estado de Coahuila de Zaragoza, en sentencia que haya causado ejecutoria y la determinación del sistema, que en lo conducente, resulte aplicable a las personas sujetas a prisión preventiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -53,7 +53,7 @@ Esta ley tiene por objeto la ejecución de las sanciones privativas y restrictiv
 
 El cumplimiento de esta ley corresponde al Ejecutivo del Estado, por conducto de la Fiscalía General del Estado, a través de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -61,7 +61,7 @@ El cumplimiento de esta ley corresponde al Ejecutivo del Estado, por conducto de
 
 La ejecución de las sanciones privativas y restrictivas de la libertad tiene por objeto, cumplir un mandamiento emanado de autoridad jurisdiccional y lograr la reinserción social del sentenciado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -75,7 +75,7 @@ El Ejecutivo del Estado podrá celebrar con los diferentes ayuntamientos del est
 
 Asimismo, podrá celebrar con la federación los convenios de coordinación que fueren necesarios para la aplicación de las leyes de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -85,13 +85,13 @@ El sitio que se destine para el internamiento de procesados será distinto del q
 
 ## TITULO SEGUNDO. DE LOS ÓRGANOS Y MEDIOS DE EJECUCIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN DE PENAS Y REINSERCIÓN SOCIAL Y LAS DIRECCIONES DE REINSERCIÓN SOCIAL Y DE EJECUCIÓN DE PENAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -131,7 +131,7 @@ XII. Las demás que otras leyes y reglamentos establezcan.
 
 El Titular de la Unidad Desconcentrada de la Ejecución de Penas y Reinserción Social será nombrado y removido por el Gobernador del Estado, a propuesta del Fiscal General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -153,33 +153,33 @@ VII. Estar en aptitud de ser servidor público por no haber sido suspendido, des
 
 VIII. Los demás requisitos que señalen las leyes y los demás ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 7°.
 
 La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, a través de la Dirección de Reinserción Social, tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 I. Organizar y dirigir los Centros de Reinserción Social a que se refiere el artículo 18 de esta ley así como controlar la administración de los mismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 II. Con base en esta ley y conforme a las normas técnicas que estime pertinentes, planificar y hacer ejecutar los regímenes de estudio y diagnóstico, trabajo, educación, salud, deporte y disciplina, tendientes a lograr la reinserción social de los internos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 III. Proponer al Fiscal General del Estado los nombramientos, destituciones y autorización de licencias del personal de los Centros de Reinserción Social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -189,13 +189,13 @@ V. Conocer, investigar y resolver las quejas de los internos respecto al trato d
 
 VI. Coadyuvar con el Patronato para el Fomento de la Industria Penitenciaria y la Reincorporación de Liberados y Externados del Estado de Coahuila en el desempeño de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 VII. Crear, organizar y administrar el registro de población penitenciaria y proporcionar la información al Registro de Seguridad Pública del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -203,7 +203,7 @@ VIII. Confeccionar las estadísticas penales del Estado y con base en sus result
 
 IX. Las demás señaladas por ésta u otras leyes y los reglamentos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -225,7 +225,7 @@ VI. Determinar, considerando las opiniones y sugerencias que emitan los Consejos
 
 VII. Las demás señaladas por ésta u otras leyes y los reglamentos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -233,7 +233,7 @@ VII. Las demás señaladas por ésta u otras leyes y los reglamentos aplicables.
 
 La Dirección de Reinserción Social contará con un Director y un Subdirector, los cuales deberán contar con título de licenciado en Derecho o de alguna licenciatura a fin al penitenciarismo. Dicha Dirección contará con el personal jurídico, técnico y administrativo que determine el Presupuesto de Egresos de la Fiscalía General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -241,7 +241,7 @@ La Dirección de Reinserción Social contará con un Director y un Subdirector, 
 
 La Dirección de Ejecución de Penas contará con un Director y un Subdirector, quienes deberán contar con título de licenciado en derecho, preferentemente especializados en alguna ciencia a fin al penitenciarismo. Dicha Dirección contará con el personal jurídico, técnico y administrativo que determine el Presupuesto de Egresos de la Fiscalía General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -251,7 +251,7 @@ La Dirección de Ejecución de Penas dispondrá de un Departamento de Ejecución
 
 Para los efectos y el cumplimiento del presente artículo, la Dirección de Ejecución de Penas se auxiliará de los ayuntamientos a través de las Direcciones de Policías Preventivas Municipales, la que deberá proporcionar la información necesaria sobre aquellas personas que se encuentren gozando de algún beneficio y hayan incurrido en alguna falta administrativa conforme al reglamento municipal respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -269,9 +269,9 @@ II. Agilizar los trámites y resoluciones sobre el tratamiento semi-instituciona
 
 III. Integrar y tramitar con mayor celeridad los expedientes con motivo de las solicitudes de indulto, modificación de la sanción por incompatibilidad, libertad preparatoria y remisión parcial de la sanción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
@@ -279,7 +279,7 @@ Para los efectos de los artículos anteriores, la Dirección de Ejecución de Pe
 
 I. Copia del Oficio que determine la detención legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -299,7 +299,7 @@ VIII. Copia del auto de sobreseimiento.
 
 IX. Copias de las sentencias de primera y segunda instancia o, en su defecto, del auto en que se declare ejecutoriada la de primera.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -307,13 +307,13 @@ X. Copia del auto donde se pone al interno a disposición de la Unidad Desconcen
 
 XI. Copia de la actualización de los estudios de personalidad que se practiquen al interno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 XII. Copia de los estudios de grado de reinserción cuando exista conforme a las disposiciones de la presente ley la posibilidad de otorgarle algún beneficio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -331,7 +331,7 @@ XVIII. Copia o reporte, en su caso, de la resolución en donde se sobresee, nieg
 
 XIX. Copia de la resolución donde se autorice, en su caso, el tratamiento semi-institucional de preliberación o de condena condicional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -341,7 +341,7 @@ Dicho archivo se integrará a fin de dar cumplimiento a la información de antec
 
 No se cobrará ningún derecho por concepto de expedición de carta o certificado de no antecedentes penales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -357,15 +357,15 @@ El Servicio de Identificación Judicial del Estado tendrá por objeto proporcion
 
 El Servicio de Identificación Judicial en el Estado se generará con base en los expedientes integrados con motivo del Registro de Internos, a los que se agregará la resolución en la que se declare en absoluta libertad, o aquella en que se hubiere concedido alguno de los beneficios previstos en las leyes o, en su caso, el reporte de evasión correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS CENTROS DE REINSERCIÓN SOCIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
@@ -373,9 +373,9 @@ Los Centros de Reinserción Social se destinarán al internamiento de indiciados
 
 Por ningún motivo se admitirá el internamiento de aquellas personas que cumplan un arresto administrativo o se encuentren a disposición de autoridad distinta del órgano judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
@@ -417,7 +417,7 @@ Las mujeres sentenciadas serán internadas en instituciones destinadas especialm
 
 Las internas con hijos podrán retenerlos consigo hasta que cumplan su primer año de vida a cuyo término y sólo en caso de que éstas no cuenten con algún familiar que pueda hacerse cargo del menor, podrán solicitar su asilo en las instituciones autorizadas para tal efecto, a fin de que permanezcan en las mismas durante la estancia de la interna.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -425,7 +425,7 @@ Las internas con hijos podrán retenerlos consigo hasta que cumplan su primer a�
 
 Por ningún motivo se dará entrada a las instituciones a que se refiere este capítulo, a adolescentes mayores de 12 años y menores de 18, que cometan conductas consideradas como delitos por las leyes penales; éstos deberán ser internados, en su caso, en los centros especializados que previenen las leyes respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -433,13 +433,17 @@ Por ningún motivo se dará entrada a las instituciones a que se refiere este ca
 
 En el caso de que en los Centros de Reinserción Social del Estado se encuentren recluidos enfermos mentales o inimputables, éstos, con base en los convenios celebrados, deberán ser trasladados a instituciones especializadas.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Los servicios de rehabilitación estarán siempre a disposición del farmacodependiente en todos los establecimientos penitenciarios.
+
 #### SECCIÓN PRIMERA. DEL RÉGIMEN INTERNO Y DEL PERSONAL PENITENCIARIO
 
 SUBSECCIÓN PRIMERA
 
 DEL RÉGIMEN INTERNO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -469,7 +473,7 @@ c. El día y la hora, el motivo de su ingreso y salida y la autoridad que lo dis
 
 La identificación a que se refiere el inciso a de este artículo, no tendrá otro objeto que el de facilitar la búsqueda de los antecedentes de los procesados. En todo caso, se deberán salvaguardar su intimidad y sus datos personales con base en la legislación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -477,7 +481,7 @@ La identificación a que se refiere el inciso a de este artículo, no tendrá ot
 
 Los horarios generales de actividades de los internos en que se prevea el trabajo, la educación, las actividades deportivas, las actividades artísticas y culturales y otros, serán determinados por los reglamentos de los Centros de Reinserción Social respectivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -493,7 +497,7 @@ Tanto quienes practiquen los estudios a que se refiere el artículo anterior, co
 
 A los indiciados, procesados y sentenciados en general, se les concederán todas las facilidades razonables para comunicarse con sus defensores en horas hábiles conforme a las disposiciones contenidas en el reglamento interior del centro respectivo y con las restricciones derivadas de la seguridad del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -501,7 +505,7 @@ A los indiciados, procesados y sentenciados en general, se les concederán todas
 
 Tanto las personas y los vehículos que entren o salgan de algún centro de reinserción social, como los objetos que sean transportados por los mismos, quedarán sujetos a las medidas de revisión y registro establecidas en el reglamento interior del centro respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -525,15 +529,15 @@ Los internos podrán ejercitar libremente los derechos civiles de que no hubiere
 
 A todo interno se le informará sin demora el fallecimiento o enfermedad grave de un pariente cercano. En estos casos, se podrá autorizar a los internos, cuando las circunstancias lo permitan, su salida temporal del respectivo Centro, con el fin de que ocurran al funeral o visiten al enfermo. Estas visitas siempre se realizarán con custodia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 Sí el fallecimiento o la enfermedad grave ocurre dentro de la jurisdicción del Centro, la autorización será emitida por el Director del mismo; en caso de que ocurra fuera de dicha jurisdicción, la autorización deberá ser otorgada por la Dirección de Reinserción Social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
@@ -549,7 +553,7 @@ Las internas embarazadas podrán acceder a los derechos previstos en las leyes s
 
 En los casos de enfermedad, cuya atención sea de notoria urgencia y exista la necesidad de trasladar al interno a alguna institución de salud, esta se hará bajo severas medidas de seguridad y la más estricta responsabilidad del personal de seguridad y custodia o quien se encuentre a cargo del Centro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -565,7 +569,7 @@ SUBSECCIÓN SEGUNDA
 
 DEL PERSONAL PENITENCIARIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -573,7 +577,7 @@ DEL PERSONAL PENITENCIARIO
 
 Los Centros de Reinserción Social estarán a cargo del personal directivo, administrativo, técnico y de custodia que fuere necesario de acuerdo con la capacidad de cada Centro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -589,9 +593,9 @@ El personal penitenciario estará integrado por civiles.
 
 La custodia de las mujeres estará atendida exclusivamente por personal femenino, pero en el exterior del Centro o sección respectiva, se podrá contar con personal de custodia masculino. Excepcionalmente, en casos de fuerza mayor y bajo la estricta responsabilidad del encargado del establecimiento, podrán entrar varones a ese sector.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 45.
 
@@ -605,7 +609,7 @@ III. Tener vocación en materia penitenciaria; y
 
 IV. No haber sido condenado por la comisión de delitos dolosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -615,7 +619,7 @@ El Director del Centro respectivo tendrá a su cargo el gobierno del establecimi
 
 El Director de cada establecimiento penitenciario podrá solicitar a la Dirección de Reinserción Social, el traslado de internos a otro Centro, cuando con su estancia se vea afectada la seguridad y buen orden del Centro respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -625,9 +629,9 @@ Todos los integrantes del personal penitenciario quedarán sujetos a la obligaci
 
 El personal de seguridad y custodia de los Centros de Reinserción Social deberán contar con la capacitación y cursos de actualización que imparta el Instituto Superior de Estudios de Seguridad Pública del Estado; dicho personal deberá sujetarse a lo dispuesto en el Reglamento de Agentes de Seguridad Penitenciaria del Estado, Reglamento del Servicio Policial de Carrera y a los Reglamentos Interiores de cada Centro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ## TITULO TERCERO. DEL SISTEMA DE REINSERCIÓN SOCIAL
 
@@ -649,7 +653,7 @@ Las actas de nacimiento de los niños nacidos en las instituciones penitenciaria
 
 En los actos relativos al estado civil de los internos, se hará constar el domicilio anterior a su detención.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -661,7 +665,7 @@ Los dormitorios, en los Centros de Reinserción Social en el Estado, serán higi
 
 La alimentación de los internos será basta y suficiente, de buena calidad y nutriológicamente balanceada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -673,9 +677,9 @@ Para hacer más efectiva la aplicación de las normas contenidas en este título
 
 #### SECCIÓN PRIMERA. PRINCIPIOS GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 55.
 
@@ -685,19 +689,19 @@ I. Estudio y Diagnóstico;
 
 II. Tratamiento; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 III. Reinserción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 Los medios de reinserción social tienen por objeto facilitar la reincorporación del sentenciado a la vida social como una persona útil en la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -705,9 +709,9 @@ Se consideran medios orientados a la reinserción social del sentenciado, el tra
 
 ### CAPÍTULO TERCERO. PERIODO DE ESTUDIO Y DIAGNÓSTICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
@@ -771,7 +775,7 @@ Para los efectos del artículo anterior, se estará a lo dispuesto por los capí
 
 La enajenación mental no suspende la ejecución de la sanción y solamente determina el cambio de lugar para la extinción de la pena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -781,9 +785,9 @@ PRIMERA PARTE
 
 DE LA EDUCACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 65.
 
@@ -791,7 +795,7 @@ Los procesados y sentenciados analfabetas o que no hubiesen concluido la enseña
 
 A los demás internos se les proporcionarán los medios necesarios para proseguir los estudios superiores adecuados a su vocación, si así lo solicitaren y fuere posible, pero en todo caso, desarrollarán regularmente actividades culturales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -799,7 +803,7 @@ A los demás internos se les proporcionarán los medios necesarios para prosegui
 
 La educación que se imparta en los centros de reinserción social quedará a cargo, preferentemente, de maestros especializados. Dicha educación, además de tener un carácter académico, será también cívica, social, higiénica, artística, cultural, física y ética y estará encausada a la reforma moral del interno y a prepararlo para su reintegración a la sociedad. La educación que reciban los internos deberá estar encaminada a combatir la toxicomanía, el alcoholismo y cualquier otro vicio que degrade al individuo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -807,7 +811,7 @@ La educación que se imparta en los centros de reinserción social quedará a ca
 
 Los certificados de estudios que se expidan con base en la educación impartida en los centros de reinserción social, no harán mención alguna de que fueron realizados en una institución penitenciaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -815,7 +819,7 @@ Los certificados de estudios que se expidan con base en la educación impartida 
 
 Los maestros que impartan educación en los centros de reinserción social, podrán, previa anuencia del Director del Centro, organizar conferencias, veladas literarias, representaciones teatrales, funciones de cine, conciertos y eventos deportivos; asimismo deberán organizar y administrar las respectivas bibliotecas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -831,7 +835,7 @@ SEGUNDA PARTE
 
 DEL TRABAJO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -847,9 +851,9 @@ El trabajo penitenciario es aquella labor desempeñada por el interno con materi
 
 La industria penitenciaria es aquella labor desempeñada por el interno a favor de alguna industria o empresa privada. Por dicha actividad, los internos percibirán un sueldo conforme al convenio respectivo celebrado por la Empresa y el Patronato para el Fomento a la Industria Penitenciaria y la Reincorporación de Liberados y Externados para el Estado de Coahuila.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 74.
 
@@ -879,7 +883,7 @@ El trabajo, en sus diversas ramas, será planeado con sistemas administrativos y
 
 La planeación a que se refiere el artículo anterior, se realizará previo estudio de la economía local, especialmente del mercado oficial, a fin de establecer la correspondencia entre las demandas de éstos y la producción penitenciaria. Para el efecto se procurará el auxilio de órganos, dependencias o instituciones especializadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -887,7 +891,7 @@ La planeación a que se refiere el artículo anterior, se realizará previo estu
 
 El trabajo de los internos será organizado y dirigido por la Dirección del Centro, pero podrá ser supervisado por la Dirección de Reinserción Social y en caso de la Industria Penitenciaria por el Patronato para el Fomento a la Industria Penitenciaria y la Reincorporación de Liberados y Externados para el Estado de Coahuila, para el efecto del exacto cumplimiento de las normas previstas en este Capítulo y las reglamentarias correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -895,7 +899,7 @@ El trabajo de los internos será organizado y dirigido por la Dirección del Cen
 
 La Dirección de Reinserción Social cuidará que el monto de la remuneración del interno sea justo y proporcional al trabajo que desempeñe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -915,9 +919,9 @@ Tratándose de internos que realicen actividades artísticas o intelectuales, é
 
 El interno se rotará de acuerdo con sus aptitudes en las diversas ramas de trabajo que existan en el establecimiento, para obtener una capacitación más amplia y una mayor posibilidad de aceptación en el exterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 84.
 
@@ -943,7 +947,7 @@ TERCERA PARTE
 
 DE LA DISCIPLINA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -951,7 +955,7 @@ DE LA DISCIPLINA
 
 Tanto los internos como los integrantes del personal penitenciario, deberán sujetarse a lo dispuesto en esta ley, en el reglamento interno de cada establecimiento ya lo que disponga la Dirección de Reinserción Social, para el mejor desarrollo del sistema.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -963,9 +967,9 @@ En el reglamento interno de cada establecimiento de reinserción social, se har�
 
 A cada interno se entregará un instructivo donde aparezcan detalladamente sus derechos, deberes y en general, el régimen de vida en la institución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 89.
 
@@ -973,13 +977,13 @@ El Director de cada establecimiento, podrá imponer a los internos, las medidas 
 
 Excepción hecha de la persuasión y amonestación, el interno podrá inconformarse por escrito, dentro de las 48 horas siguientes, con la corrección decretada, ante el Director, quien de inmediato deberá levantar acta pormenorizada en la que se haga constar los hechos y circunstancias que dieran lugar a la imposición de la sanción y lo alegado por el interno en su defensa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 El acta a que se refiere el párrafo anterior se enviará dentro de las 24 horas siguientes a la Dirección de Reinserción Social, quien resolverá lo conducente en un término de 48 horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1015,13 +1019,13 @@ XII. Suspensión de la visita íntima;
 
 XIII. Aislamiento en celda propia o en celda distinta por no más de 30 días;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 XIV. Internamiento en otro Centro de Reinserción Social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1033,7 +1037,7 @@ En todo centro de reinserción en el Estado, no se empleará, contra los recluso
 
 Los actos u omisiones que puedan ser constitutivos de falta disciplinaria, se comunicarán de inmediato al Director del establecimiento, sin perjuicio de que, en caso de notoria urgencia, el personal adopte por sí las medidas que racionalmente estime necesarias para garantizar el orden y la seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1049,7 +1053,7 @@ CUARTA PARTE
 
 DE LAS RELACIONES DE LOS INTERNOS CON EL EXTERIOR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1081,7 +1085,7 @@ QUINTA PARTE
 
 DE LOS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1089,7 +1093,7 @@ DE LOS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS
 
 Los Consejos Técnicos interdisciplinarios tendrán funciones consultivas para la aplicación individual del sistema progresivo, del tratamiento y de beneficios de los internos. Los Consejos Técnicos podrán sugerir a las autoridades ejecutivas de los Centros de Reinserción Social respectivos, las medidas de alcance general para la buena marcha de los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1099,7 +1103,7 @@ Habrá un Consejo Técnico Interdisciplinario en cada Centro de Reinserción Soc
 
 En los Centros en que no estén creados los Departamentos anteriores, el Consejo Técnico del Reclusorio se organizará con el Director del establecimiento o el funcionario que lo sustituya, el médico del sector salud que sea designado, un profesor que designe la Secretaría de Educación y Cultura en el Estado y el miembro de mayor jerarquía del personal de vigilancia. A falta de éstos funcionarios, con Consejeros Técnicos Honorarios designados por la Fiscalía General del Estado a propuesta de la Unidad de Ejecución de Penas y Reinserción Social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1133,7 +1137,7 @@ IV. No se pasará al siguiente punto de la orden del día sino hasta que se haya
 
 El Secretario del Consejo deberá levantar actas de las sesiones que éste celebre, haciendo constar la orden del día a la que se ajustó la sesión, el acuerdo tomado sobre cada caso concreto y las razones expuestas por cada uno de los integrantes al emitir su voto. Las actas deberán obrar en un libro que se llevará para ese efecto, a fin de que posteriormente el Director del Centro esté en posibilidad de expedir certificaciones de los acuerdos adoptados y dictámenes emitidos por el propio Consejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1157,7 +1161,7 @@ DE LA PRELIBERACIÓN
 
 El tratamiento semi-institucional de preliberación tiene por objeto preparar sistemáticamente al interno sentenciado del fuero común para la adecuada reincorporación a su familia y a su grupo social, con la anticipación necesaria a la fecha de su liberación definitiva o cuando éste se encuentre próximo de obtener un posible beneficio de los previstos en las leyes, tomando en cuenta las circunstancias particulares de cada caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1173,7 +1177,7 @@ El tratamiento semi-institucional de preliberación podrá comprender cualquiera
 
 I. Permiso de salida semanal con el fin de realizar alguna actividad productiva y con reclusión los días de fin de semana, en los cuales la reclusión podrá ser únicamente nocturna o durante todo el fin de semana;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1181,9 +1185,9 @@ II. Permiso de salida semanal con el fin de realizar alguna actividad productiva
 
 III. Traslado a una Institución Abierta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1193,7 +1197,7 @@ En dicha opinión se deberá contener, además la medida específica que el Cons
 
 Se podrá conceder este tratamiento siempre y cuando se satisfagan los requisitos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1209,7 +1213,7 @@ Tratándose de los casos en los cuales haya sido condenado al pago de la reparac
 
 Para la concesión del tratamiento semi-institucional de preliberación, será siempre requisito indispensable la opinión favorable del Consejo Técnico Interdisciplinario y del Consejo Consultivo de Evaluación Ciudadana, pero desde un punto de vista formal, la base general para la aplicación de la medida que implique externamiento será el haber compurgado como mínimo el 50% de la pena que le hubiese sido impuesta por la autoridad judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1217,7 +1221,7 @@ El término previsto en el párrafo anterior podrá, ampliarse hasta seis meses,
 
 Al cómputo para la aplicación del tratamiento de preliberación, podrá sumarse el de la remisión parcial de la sanción, cuando ésta haya sido concedida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1229,7 +1233,7 @@ En caso de incumplimiento por parte del preliberado de los términos de una medi
 
 Si el incumplimiento fue justificado, la Dirección de Ejecución de Penas podrá levantar la suspensión en cualquier tiempo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1267,13 +1271,13 @@ II. Cuando se observe que el semi-liberado guarda mala conducta familiar o socia
 
 III. Si el semi-liberado es condenado por nuevo delito mediante sentencia ejecutoria, en cuyo caso será de oficio la revocación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 En los supuestos previstos en las fracciones I y II de este artículo, a juicio fundado de la Dirección de Ejecución de Penas se podrá conceder al semi-liberado una nueva oportunidad, amonestándole debidamente. En el caso de la fracción III, la Dirección de Ejecución de Penas no podrá volver a aplicar el presente tratamiento en beneficio del sujeto que incurrió en el referido supuesto, por considerarlo reincidente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1317,19 +1321,19 @@ VI. Los representantes del Sistema Penitenciario Estatal que determine el Ejecut
 
 Son facultades de los miembros del Consejo Consultivo de Evaluación Ciudadana las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 l. Dar su opinión sobre la aplicación del tratamiento semi-institucional de preliberación de los internos propuestos por la Dirección de Ejecución de Penas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 II. Proponer, ante la Dirección de Ejecución de Penas, la integración de los expedientes, de aquellos internos que reúnan los requisitos mínimos necesarios para la aplicación del tratamiento semi-institucional de preliberación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1339,39 +1343,39 @@ III. Para los casos que se establecen en los artículos 112 fracción I y 131 fr
 
 El Consejo Consultivo de Evaluación Ciudadana funcionará en las siguientes regiones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 I. Región Sureste: Comprendiendo los Centros de Reinserción Social Femenil y Varonil de Saltillo, así como el Centro ubicado en Parras.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 II. Región Laguna: Comprendiendo los Centros de Reinserción Social de Torreón y San Pedro de las Colonias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 III. Región Centro: Comprendiendo los Centros de Reinserción Social de Monclova y Sabinas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 IV. Región Norte: Comprendiendo los Centros de Reinserción Social de Piedras Negras y Acuña.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 126.
 
 El Consejo sesionará, en forma ordinaria, por lo menos tres veces al año sin perjuicio de que se realicen las demás sesiones que se estimen necesarias, dejando a consideración de la Dirección de Ejecución de Penas la facultad para citar a dichas sesiones, en cuyo caso participarán el personal adscrito a la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1379,7 +1383,7 @@ Las sesiones del Consejo serán presididas por el titular de la Unidad Desconcen
 
 Se nombrará a un Secretario Ejecutivo de entre los mismos miembros del Comité, quien, de cada sesión del Consejo, deberá levantar acta de la misma, en la cual deberá quedar asentada las aprobaciones o aplazamiento de los beneficios propuestos, asentándose en caso negativo los motivos y razonamientos por los cuales fueron denegados los mismos, los acuerdos tomados en la sesión y deberá estar firmada por cada uno de los asistentes, debiendo entregarse copia de la misma a cada uno de los integrantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1395,13 +1399,13 @@ DEL TRATAMIENTO EN LIBERTAD
 
 Para los efectos de la aplicación del tratamiento en libertad, se estará a las disposiciones relativas a la libertad preparatoria; a los artículos 11 y 132 y al Título Cuarto de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO QUINTO. DE LA REINSERCIÓN SOCIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1409,17 +1413,17 @@ Para los efectos de la aplicación del tratamiento en libertad, se estará a las
 
 El período de reinserción social implica tanto la reincorporación del interno a la sociedad como la plena recuperación de sus derechos que hubieren sido afectados con motivo de la sanción privativa o restrictiva de la libertad y se regirá conforme lo estipulan las disposiciones legales relativas al indulto y liberación definitiva, así como también se estará a lo dispuesto por el Reglamento del Patronato para el Fomento de la Industria Penitenciaria y la Reincorporación de Liberados y Externados del Estado de Coahuila.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ## TITULO CUARTO. OTRAS INSTITUCIONES DE REINSERCIÓN SOCIAL
 
 ### CAPÍTULO PRIMERO. DE LA CONDENA CONDICIONAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 130.
 
@@ -1427,13 +1431,17 @@ Los sentenciados que obtengan Su libertad, de conformidad con lo dispuesto en el
 
 El término al que se alude en el párrafo anterior, se computará a partir del día en que el sentenciado se acoja a la condena condicional.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Para el otorgamiento de la condena condicional, no se considerará como antecedente de mala conducta que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
+
 ### CAPÍTULO SEGUNDO. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTÍCULO 131.
 
 El Gobernador del Estado, de manera discrecional, podrá otorgar el beneficio de la Libertad Preparatoria a los sentenciados del fuero común que hayan cumplido las tres quintas partes de su pena, ello sí se trata de delito doloso, o la mitad de la misma, en caso de delito culposo, siempre y cuando satisfaga los requisitos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1441,7 +1449,7 @@ I. Que el delito no sea de los calificados como grave por el Código de Procedim
 
 II. Que haya observado buena conducta durante el tiempo de su reclusión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1451,7 +1459,7 @@ IV. Que designe fiador y se cubra la fianza correspondiente.
 
 En los casos en los que el sentenciado haya sido condenado al pago de la reparación del daño en cantidad líquida, será necesario que esta haya sido cubierta o bien, que se haya otorgado garantía sobre la misma, salvo en el caso de que dicha reparación se encuentre en cantidad ilíquida y no exista incidente de liquidación o no exista interés procesal para la obtención del mismo; excepción hecha para el caso en que la autoridad judicial hubiere emitido la declaratoria de insolvencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1459,7 +1467,7 @@ En los casos en los que el sentenciado haya sido condenado al pago de la reparac
 
 Los internos que reúnan las condiciones previstas en el artículo 131 de esta ley, podrán solicitar por escrito, ante la Dirección de Ejecución de Penas, el beneficio de la libertad preparatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1471,9 +1479,9 @@ Para los efectos de este capítulo, la Dirección de Ejecución de Penas recabar
 
 Cuando el interno tenga dos o más sanciones, el cómputo para aplicar el término formal de la procedencia de la Libertad Preparatoria, se hará sumando la totalidad de las mismas, siempre y cuando se trate de sanciones aplicadas por autoridades del fuero común.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 135.
 
@@ -1485,15 +1493,15 @@ II. Desempeñar en el plazo que la resolución determine, un oficio, arte, indus
 
 III. Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos, salvo prescripción médica; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
 IV. Sujetarse a las medidas de orientación y supervisión que se le dicten por la Dirección de Ejecución de Penas, así como a la vigilancia de una persona honrada de arraigo que se obligue a ello mediante el otorgamiento de una fianza. El monto de ésta será fijado por la Dirección de Ejecución de Penas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 136.
 
@@ -1509,9 +1517,9 @@ II. La gravedad y circunstancias de comisión del delito o delitos.
 
 La Libertad Preparatoria se suspenderá de oficio, si al liberado se le instruye otro proceso, en cuyo caso volverá a la institución penitenciaria, hasta en tanto no se dicte sentencia o se resuelva la situación jurídica sobre el mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1525,7 +1533,7 @@ III. Cuando el fiador así lo solicite y pida se le libere de la obligación con
 
 IV. Si el liberado es condenado por nuevo delito mediante sentencia ejecutoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1537,7 +1545,7 @@ La revocación de la Libertad Preparatoria trae como consecuencia la aplicación
 
 La revocación implica que se hagan efectivas las correspondientes fianzas, salvo el supuesto previsto en la fracción III del artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1545,7 +1553,7 @@ La revocación implica que se hagan efectivas las correspondientes fianzas, salv
 
 Los sentenciados que disfruten de Libertad Preparatoria quedarán bajo la orientación y vigilancia de la Dirección de Ejecución de Penas por conducto del Departamento de Ejecución de Penas en Libertad en los términos del artículo 11 del presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1555,7 +1563,7 @@ Una vez expirado el término de la condena impuesta en la sentencia, la Direcci�
 
 ### CAPÍTULO TERCERO. DE LA REMISIÓN PARCIAL DE LA SANCIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1569,9 +1577,9 @@ El sentenciado que con los días laborados cumpla cualesquiera de los términos 
 
 Para los efectos de la Remisión Parcial de la Sanción será tomado en consideración el tiempo que el sentenciado participe en actividades educativas, culturales y deportivas, siempre y cuando estas actividades sean complementarias al trabajo que el sentenciado desarrolle dentro del establecimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1579,7 +1587,7 @@ La Remisión Parcial de la Sanción podrá ser concedida cuando, una vez hecha l
 
 Cuando el interno tenga dos o más sanciones, se deberá observar en lo conducente, lo previsto por el artículo 134 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1587,7 +1595,7 @@ Cuando el interno tenga dos o más sanciones, se deberá observar en lo conducen
 
 La solicitud de Remisión Parcial de la Sanción se formulará por escrito ante la Dirección de Ejecución de Penas, por aquellos internos que estimen reunir los requisitos del artículo 142. En este caso se deberá seguir el procedimiento establecido en el artículo 133 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1595,7 +1603,7 @@ La solicitud de Remisión Parcial de la Sanción se formulará por escrito ante 
 
 La Dirección de Ejecución de Penas, una vez tomados en consideración los informes suministrados y, con base en el grado de reinserción logrado por el interno, someterá, por conducto de la Fiscalía Generala través de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, a la consideración del Gobernador, la posibilidad de otorgar el beneficio de la Remisión Parcial de la Pena. El Ejecutivo del Estado, de manera discrecional, resolverá lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1605,7 +1613,7 @@ El interno que intente fugarse, o bien el que habiéndose fugado sea reaprehendi
 
 ### CAPÍTULO CUARTO. MODIFICACIÓN DE LA SANCIÓN POR INCOMPATIBILIDAD CON LA PENA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1639,7 +1647,7 @@ Todo liberado, ya sea definitiva o preparatoriamente, será provisto de la ropa 
 
 ### CAPÍTULO SEXTO. DEL CONFINAMIENTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1647,15 +1655,15 @@ Todo liberado, ya sea definitiva o preparatoriamente, será provisto de la ropa 
 
 Los sentenciados a confinamiento por los tribunales, residirán en el lugar señalado por la autoridad, quedando el sentenciado sujeto a la vigilancia y medidas de orientación de la Dirección de Ejecución de Penas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2009)</small>
 
 ## TITULO QUINTO. DE LA EJECUCIÓN DE LAS PENAS RESTRICTIVAS DE LA LIBERTAD Y DE LOS SUJETOS A LA VIGILANCIA DE LA AUTORIDAD
 
 ### CAPÍTULO ÚNICO. REGLAS COMUNES PARA LOS LIBERADOS SUJETOS A LA VIGILANCIA DE LA AUTORIDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1663,7 +1671,7 @@ Los sentenciados a confinamiento por los tribunales, residirán en el lugar señ
 
 Los sentenciados a la vigilancia de la autoridad quedarán sujetos al control de la Dirección de Ejecución de Penas, conforme a lo establecido por el artículo 11 de la presente ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1675,7 +1683,7 @@ Los sentenciados a la vigilancia de la autoridad podrán transitar libremente en
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
@@ -1745,7 +1753,7 @@ COMISARIO JEFE ANTONIO GARZA GARCÍA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ENERO DE 2008.
 
@@ -1786,3 +1794,25 @@ P.O. 17 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
