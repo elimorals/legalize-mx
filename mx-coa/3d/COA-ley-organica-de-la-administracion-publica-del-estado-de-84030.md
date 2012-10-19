@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2012-09-11"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE SEPTIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -531,7 +529,7 @@ XII. Dirigir y administrar el Periódico Oficial, ordenar la publicación de los
 
 XIII. Organizar y dirigir el registro civil, el registro público de la propiedad y del comercio y el servicio del notariado;
 
-XIV. Coordinar, vigilar y evaluar el servicio de defensoría de oficio en la entidad;
+XIV. (DEROGADA, P.O. 19 DE OCTUBRE DE 2012)
 
 XV. Dirigir, evaluar y vigilar el funcionamiento de las coordinaciones regionales creadas por el gobernador como organismos desconcentrados;
 
@@ -1448,3 +1446,17 @@ El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías 
 ###### ARTÍCULO NOVENO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- Dentro de los 30 días siguientes a la publicación del presente decreto, el Ejecutivo del Estado, a través de las Secretarías de Gobierno y de Finanzas, y el Consejo de la Judicatura del Poder Judicial, establecerán una comisión para la transferencia administrativa y presupuestal de la Defensoría Jurídica Integral y sus dependencias en el Estado.
+
+Dicho proceso deberá concluir a los seis meses siguientes a la constitución de la comisión.
+
+SEGUNDO.- La selección y nombramiento de los defensores públicos a partir de su incorporación al Poder Judicial, particularmente en materia del nuevo Sistema de Justicia Acusatorio Adversarial, será de conformidad a la normatividad vigente o que se expida para este efecto. La comisión a que se refiere la disposición anterior, establecerá las bases para este efecto.
+
+TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las disposiciones anteriores, y entre en plena vigencia el presente decreto, el director, los subdirectores de unidad, delegados, defensores de oficio y procuradores auxiliares, tendrán la misma competencia prevista en la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila.
+
+CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
