@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-05"
-last_updated: "2012-02-29"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 5 de enero de 2011.
 
@@ -491,9 +491,19 @@ XXVII. Conservar y administrar las reservas territoriales públicas estratégica
 
 XXVIII. Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de sus atribuciones, cuando así lo determine el Gobernador del Estado;
 
-XXIX. Coordinar y evaluar los institutos para la atención especializada que determine el ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
+XXIX. Coordinar y evaluar los institutos para la atención especializada que determine el ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y, (sic)
 
-XXX. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado; (sic)
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XXX. Ejercer mediante Acuerdo de Coordinación con el Gobierno Federal, de conformidad con la normatividad aplicable, los derechos del Estado de Sinaloa sobre los bienes nacionales consistentes en zona federal marítimo terrestre y terrenos ganados al mar, o cualquier otro depósito de aguas marítimas y los ambientes costeros en el Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XXXI. Vigilar y evaluar, en coordinación con las autoridades federales, estatales y municipales, el cumplimiento de las normas jurídicas aplicables a la prevención y control de la contaminación ambiental originada a la atmosfera, suelos y aguas de jurisdicción del Estado; manejo de residuos; actividades riesgosas; así como el reporte de gases de efecto invernadero; restauración y protección de recursos naturales; áreas naturales protegidas de jurisdicción estatal; el impacto ambiental y el ordenamiento ecológico de competencia estatal, y establecer mecanismos administrativos que procuren el logro de tales fines; y,
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XXXII. Las demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
 
 ###### Artículo 21.
 
@@ -1443,7 +1453,7 @@ El Subprocurador General de Justicia, encargado del Despacho de la Procuraduría
 
 Jesús Martín Robles Armenta
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE ENERO DE 2011.
 
@@ -1454,3 +1464,7 @@ P.O. 29 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
