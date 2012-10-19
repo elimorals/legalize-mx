@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-escuela-de-administracion-publica-84164
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-16"
-last_updated: "2012-07-19"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84164&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2011-12-14"
 ---
 # ESTATUTO ORGANICO DE LA ESCUELA DE ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 19 DE OCTUBRE DE 2012.</small>
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 16 de diciembre de 2011.
 
@@ -124,41 +124,37 @@ III. Someter a votación los asuntos tratados en las sesiones y resolver los emp
 
 IV. Las demás que le encomiende la Junta de Gobierno.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 13.
 
 Corresponde al Secretario Técnico de la Junta de Gobierno:
 
-I. Formular con la anticipación debida, el orden del día de las sesiones correspondientes, tomando en cuenta los asuntos que a propuesta de sus integrantes, se deban incluir en el mismo;
+(ADICIONADA, G.O. 19 DE JULIO DE 2012) (F. DE E., G.O. 19 DE OCTUBRE DE 2012)
 
-II. Enviar a los integrantes de la Junta de Gobierno, para su estudio, la documentación de los asuntos a tratar, asegurándose que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión en el caso de las ordinarias y de tres días en el caso de las extraordinarias;
+I. Convocar, por sí o a solicitud del Presidente de la Junta de Gobierno, o de la mitad más uno de sus miembros, a las sesiones de la Junta de Gobierno;
 
-III. Asistir a las sesiones ordinarias y extraordinarias con voz pero sin voto;
+II. Formular con la anticipación debida, el orden del día de las sesiones correspondientes, tomando en cuenta los asuntos que a propuesta de sus integrantes, se deban incluir en el mismo;
 
-IV. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar la sesión;
+III. Enviar a los integrantes de la Junta de Gobierno, para su estudio, la documentación de los asuntos a tratar, asegurándose que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión en el caso de las ordinarias y de tres días en el caso de las extraordinarias;
 
-V. Elaborar el calendario de sesiones de la Junta de Gobierno y someterlo para su aprobación ante los miembros de la Junta;
+IV. Asistir a las sesiones ordinarias y extraordinarias con voz pero sin voto;
 
-VI. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de sus miembros para su modificación;
+V. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar la sesión;
 
-VII. Levantar las actas de las sesiones que celebre la Junta de Gobierno y asentarlas una vez aprobadas, en el libro respectivo, obteniendo las firmas del Presidente y de los que concurran;
+VI. Elaborar el calendario de sesiones de la Junta de Gobierno y someterlo para su aprobación ante los miembros de la Junta;
 
-VIII. Integrar y resguardar el archivo de la Junta de Gobierno;
+VII. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de sus miembros para su modificación;
 
-IX. Certificar los documentos que obren en el archivo de la Junta de Gobierno cuando así se requiera;
+VIII. Levantar las actas de las sesiones que celebre la Junta de Gobierno y asentarlas una vez aprobadas, en el libro respectivo, obteniendo las firmas del Presidente y de los que concurran;
 
-X. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones de la Junta de Gobierno;
+IX. Integrar y resguardar el archivo de la Junta de Gobierno;
 
-XI. Informar a la Junta de Gobierno en cada sesión, sobre el estado que guardan los acuerdos tomados en las sesiones anteriores, y
+X. Certificar los documentos que obren en el archivo de la Junta de Gobierno cuando así se requiera;
 
-XII. Las demás que le confiera la Junta de Gobierno y el Estatuto Orgánico.
+XI. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones de la Junta de Gobierno;
 
-> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2012)</small>
+XII. Informar a la Junta de Gobierno en cada sesión, sobre el estado que guardan los acuerdos tomados en las sesiones anteriores, y
 
-XIV (SIC). Convocar, por sí o a solicitud del Presidente de la Junta de Gobierno, o de la mitad más uno de sus miembros, a las sesiones de la Junta de Gobierno;
-
-XV. … (SIC)
+XIII. Las demás que le confiera la Junta de Gobierno y el Estatuto Orgánico.
 
 ## Título Segundo. De la Estructura y Funciones de la Escuela
 
