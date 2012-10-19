@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-10-05"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1233,7 +1235,11 @@ Para la fijación de la pena, dentro de los mínimos y máximos anteriormente se
 
 Homicidio calificado.- Se impondrá de veinte a cincuenta años de prisión al responsable de homicidio calificado previsto en el Artículo 147.
 
-### CAPITULO III. INFANTICIDIO
+### CAPITULO III. FEMINICIDIO
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 127.
 
@@ -1245,13 +1251,21 @@ Parentesco consanguíneo.- Al que dolosamente prive de la vida a cualquier ascen
 
 Parentesco no consanguíneo.- Al que dolosamente prive de la vida de su cónyuge, concubinario o concubina, adoptante o adoptado, con conocimiento de ese parentesco o relación, se le impondrá de dieciséis a treinta años de prisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 129.
 
-(DEROGADO, P.O. 4 DICIEMBRE DE 2006)
+Tipo y punibilidad.- Comete el delito de feminicidio la persona que dolosamente prive de la vida a una o varias mujeres por motivos o razones de género y se le impondrán de 20 a 50 años, además de una multa de hasta 500 días.
+
+Para los efectos del párrafo anterior, se consideran razones de género, cuando además de que se acredite la manifestación de expresiones de misoginia a (sic) desprecio al género femenino realizados por el sujeto activo:
+
+I.- Existan antecedentes de que el sujeto activo ejerció amenazas, acoso, tratos infamantes o cualquier forma de violencia en contra de la víctima; o
+
+II.- Al momento de la comisión del delito, el sujeto activo ejerció violencia sexual en contra la de (sic) víctima.
 
 ###### Artículo 130.
 
@@ -4878,3 +4892,7 @@ P.O. 28 DE SEPTIEMBRE DE 2012.
 P.O. 5 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor a los 20 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
