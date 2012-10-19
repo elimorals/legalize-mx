@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2012-03-30"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -129,7 +129,13 @@ II.- Nombrar y remover al personal a su cargo;
 
 III.- Vigilar que la administración de los bienes del Municipio, la recaudación fiscal, los procedimientos administrativos, la ejecución de obras y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la Ley de la materia y la reglamentación municipal, y
 
-IV.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+IV.- Dar seguimiento a las observaciones y recomendaciones remitidas por el Congreso del Estado con motivo de la fiscalización de las cuentas públicas, tramitándolas inmediatamente que sean recibidas hasta su total terminación, imponiendo en su caso las sanciones que correspondan, e informando de ello al Congreso, en los términos de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+V.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 ###### ARTÍCULO 9.
 
@@ -588,3 +594,7 @@ P.O. 30 DE MARZO DE 2012.
 ## ARTÍCULO TRANSITORIO
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
