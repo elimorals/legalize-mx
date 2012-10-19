@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-defensoria-juridica-integral-para-el-estado-de-59316"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-11"
-last_updated: "2007-12-11"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE LA DEFENSORIA JURIDICA INTEGRAL PARA EL ESTADO DE COAHUILA
 
-LEY DE LA DEFENSORIA JURIDICA INTEGRAL PARA EL ESTADO DE COAHUILA
+LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2007.
 
@@ -43,9 +43,11 @@ LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA
 
 Esta ley es de orden público e interés social. Tiene por objeto establecer las bases generales para la organización y funcionamiento de la Defensoría Jurídica Integral del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 2.
 
-La Defensoría Jurídica Integral del Estado de Coahuila es una institución que actúa de buena fe, con la naturaleza de un órgano desconcentrado con autonomía técnica, operativa y de gestión en el desempeño de sus funciones. Su adscripción se definirá en los términos del acuerdo que para tal efecto se expida. Su objeto es garantizar el acceso de los particulares a la justicia en condiciones de igualdad como derecho fundamental consagrado en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Coahuila de Zaragoza.
+La Defensoría Jurídica Integral del Estado de Coahuila es un órgano auxiliar del Consejo de la Judicatura del Poder Judicial del Estado de Coahuila, con autonomía técnica, operativa y de gestión en el desempeño de sus funciones. Su objeto es garantizar el acceso de los particulares a la justicia en condiciones de igualdad como derecho fundamental consagrado en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 3.
 
@@ -97,7 +99,9 @@ XIV. Representación simultánea: la representación que, con respecto al mismo 
 
 XV. Subdirectores: los Subdirectores de Unidad de la Defensoría;
 
-XVI. Titular del Ejecutivo: el Gobernador Constitucional del Estado de Coahuila;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XVI. Consejo de la Judicatura: el Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 XVII. Usuario: el que recibe los servicios de asesoría, orientación, representación o defensa por parte de la Defensoría, y
 
@@ -179,9 +183,11 @@ II. Tener título oficial de licenciado en derecho, expedido por autoridad legal
 
 III. Gozar de buena reputación y prestigio profesional.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-El Director, los subdirectores, delegados y defensores serán designados y removidos por el Titular del Ejecutivo a través de la dependencia a la cual esté adscrita la Defensoría.
+El director, los subdirectores, delegados y defensores serán designados y removidos por el Consejo de la Judicatura.
 
 ###### ARTÍCULO 15.
 
@@ -582,3 +588,19 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- Dentro de los 30 días siguientes a la publicación del presente decreto, el Ejecutivo del Estado, a través de las Secretarías de Gobierno y de Finanzas, y el Consejo de la Judicatura del Poder Judicial, establecerán una comisión para la transferencia administrativa y presupuestal de la Defensoría Jurídica Integral y sus dependencias en el Estado.
+
+Dicho proceso deberá concluir a los seis meses siguientes a la constitución de la comisión.
+
+SEGUNDO.- La selección y nombramiento de los defensores públicos a partir de su incorporación al Poder Judicial, particularmente en materia del nuevo Sistema de Justicia Acusatorio Adversarial, será de conformidad a la normatividad vigente o que se expida para este efecto. La comisión a que se refiere la disposición anterior, establecerá las bases para este efecto.
+
+TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las disposiciones anteriores, y entre en plena vigencia el presente decreto, el director, los subdirectores de unidad, delegados, defensores de oficio y procuradores auxiliares, tendrán la misma competencia prevista en la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila.
+
+CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
