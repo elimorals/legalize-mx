@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-del-tribunal-electoral-del-poder-69798"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-13"
-last_updated: "2009-08-13"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 13 de agosto de 2009.
 
@@ -978,3 +980,13 @@ Rúbrica.
 EL C. LICENCIADO PASCUAL VILLA OLMOS, SECRETARIO GENERAL DE ACUERDOS HABILITADO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO, CERTIFICA:
 
 QUE EL PRESENTE REGLAMENTO INTERNO FUE APROBADO POR EL PLENO DEL TRIBUNAL, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y 48 OCTIES, FRACCIÓN IX, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN SESIÓN CELEBRADA EL DÍA CINCO DE AGOSTO DE DOS MIL NUEVE, POR UNANIMIDAD DE TRES VOTOS DE LOS CIUDADANOS MAGISTRADOS QUE LO INTEGRAN: DANIEL RUIZ MORALES, PRESIDENTE DEL TRIBUNAL ELECTORAL; GREGORIO VALERIO GÓMEZ Y JOSÉ LORENZO ÁLVAREZ MONTERO, ANTE EL C. SECRETARIO GENERAL DE ACUERDOS HABILITADO DEL TRIBUNAL, QUE AUTORIZA Y DA FE.- CONSTE.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 19 DE OCTUBRE DE 2012.
+
+Artículo primero El presente Reglamento interno entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el trece de agosto de dos mil nueve.
+
+Artículo tercero. Remítase al ciudadano Magistrado Presidente del Tribunal Superior de Justicia del Estado, el presente Reglamento, para su publicación en la Gaceta Oficial.
