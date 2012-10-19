@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2011-05-10"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -117,9 +117,13 @@ XIV. La prevención y el control de las enfermedades no transmisibles y accident
 
 XV. La prevención de la invalidez y la rehabilitación de los inválidos;
 
-XVI. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+XVI. La prevención del consumo de narcóticos, la atención a las adicciones y la persecución de los delitos contra la salud, en coordinación con las autoridades federales y en los términos del artículo 474 de la Ley General de Salud;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XVII. El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, en coordinación con las autoridades federales y de conformidad con los acuerdos de coordinación específicos que al efecto se celebren;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -195,7 +199,7 @@ XIX. Las demás materias que determine esta Ley y las disposiciones legales apli
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 5o.
 
@@ -203,7 +207,7 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades p
 
 El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado de Coahuila, definirán los mecanismos de coordinación y colaboración en materia de planeación, de los servicios de salud en el Estado, de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 6o.
 
@@ -351,6 +355,10 @@ VI. Vigilar en la esfera de su competencia, el cumplimiento de esta Ley y demás
 
 VII. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+C. En materia de adicciones, la prevención del consumo de narcóticos y la atención a las adicciones, en coordinación con las autoridades federales.
+
 ###### Artículo 13.
 
 El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario, en los términos de la fracción III del artículo 115 de la Constitución General de la República, de la Constitución Política Local, de esta Ley y demás disposiciones legales aplicables.
@@ -475,7 +483,9 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-X. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
+
+X. La prevención y atención de las adicciones, particularmente el tabaquismo, el alcoholismo y la farmacodependencia, y
 
 XI. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
@@ -821,7 +831,7 @@ Artículo 70 bis 1. La Ley General de Salud y los acuerdos de coordinación que 
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
@@ -1063,9 +1073,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(ADICIONADA, [N. DE E. REFORMADA], P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención del alcoholismo, tabaquismo, farmacodependencia y otras adicciones a sustancias psicoactivas, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -1093,7 +1103,7 @@ En los programas a que se refieren los artículos anteriores, se incorporarán a
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 98.
 
@@ -1225,7 +1235,7 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Están obligados a dar aviso, en los términos del Artículo 108 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 111.
 
@@ -1233,7 +1243,7 @@ Las medidas que se requieran para la prevención y el control de las enfermedade
 
 I. La confirmación de la enfermedad por los medios clínicos disponibles;
 
-II. El aislamiento, por el tiempo estrictamente necesarios, de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
+II. El aislamiento, por el tiempo estrictamente necesarios (sic), de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
 
 III. La observación, en el grado que se requiera, de los contactos humanos y animales;
 
@@ -1303,7 +1313,9 @@ III. Vehículo de enfermedades transmisibles a las personas, a través de sus pr
 
 Se prohíbe la introducción o el transporte por el territorio del Estado, de animales que padezcan una enfermedad transmisible a las personas, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria federal considere infectadas.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 121.
 
@@ -1327,7 +1339,9 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 124.
 
@@ -1353,17 +1367,17 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2005)</small>
 
 ## TITULO NOVENO. PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
 
-### CAPITULO IV. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-Artículo 155 bis. El Consejo Estatal Contra las Adicciones tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado, tendientes a la prevención y combate a los problemas de salud pública causado por las adicciones que regula el presente título, así como proponer y evaluar los programas a que se refieren los artículos 150, 152 y 154 de esta Ley.
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO UNICO
 
@@ -1373,7 +1387,9 @@ Artículo 155 bis. El Consejo Estatal Contra las Adicciones tendrá por objeto p
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO DÉCIMO. DE LAS ADICCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -1485,6 +1501,8 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 Los servicios de rehabilitación que proporcionen los establecimientos del Sector Salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Sistema para el Desarrollo Integral de la Familia en el Estado de Coahuila.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ## TITULO DECIMO PRIMERO
 
 DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
@@ -1493,23 +1511,87 @@ DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
 
 ###### Artículo 148.
 
-(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
+La prevención, atención, control y combate contra las adicciones, particularmente del alcoholismo, tabaquismo y farmacodependencia, tiene carácter prioritario. El Gobierno garantizará, a través de la Secretaría, servicios integrales de salud para la atención de las adicciones.
+
+Para tal efecto, la Secretaría de Salud elaborará el Programa General contra las Adicciones, y cuya ejecución corresponde a ésta, en coordinación con las dependencias y entidades competentes del Estado y los municipios.
+
+El Programa General contra las Adicciones está orientado a desalentar, disminuir y erradicar el consumo y buscar la minimización del riesgo derivado del mismo, en relación a las sustancias siguientes:
+
+I. Tabaco;
+
+II. Alcohol;
+
+III. Medicamentos no terapéuticos;
+
+IV. Narcóticos, y
+
+V. Cualquier otra sustancia psicoactiva.
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 149.
 
-(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
+Para los efectos de este Título, se entiende por:
+
+I. Adicción o dependencia: El estado psíquico y/o físico causado por una sustancia psicoactiva, estupefaciente o psicotrópica, caracterizado por causar modificaciones de comportamientos y otras reacciones, que originan siempre un impulso irreprimible por consumir dicha sustancia en forma periódica o continua, a fin de experimentar sus efectos psíquicos o físicos estimulantes o depresores, y a veces para evitar el malestar producido por la privación;
+
+II. Adicto o farmacodependiente: La persona que presenta algún signo o síntoma de dependencia a una o más sustancias psicoactivas, estupefacientes o psicotrópicas;
+
+III. Alcoholismo: Es el síndrome de dependencia o adicción al alcohol etílico;
+
+IV. Bebida alcohólica: Es aquella que contenga alcohol etílico en una proporción de 2% y hasta 55% en volumen;
+
+V. Grupo de alto riesgo: Aquél en los que se ha demostrado, a través de diversas investigaciones y estudios, que por sus características biopsicosociales y de vulnerabilidad social, tienen mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas;
+
+VI. Narcóticos: Los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia;
+
+VII. Rehabilitación: El proceso por el cual un individuo con un trastorno asociado al uso de sustancias psicoactivas, alcanza un estado óptimo de salud, funcionamiento psicológico y bienestar social;
+
+VIII. Reinserción social: Las acciones dirigidas a promover un mejor estilo de vida de quien usa, abusa o depende de sustancias psicoactivas, para lograr una favorable interrelación personal dentro de la sociedad;
+
+IX. Sustancias psicoactivas: Aquellas que alternan algunas funciones mentales o físicas y que al ser consumidas reiteradamente tienen la posibilidad de dar origen a una adicción, incluyendo las sustancias, estupefacientes y psicotrópicos clasificados en la Ley General de Salud, aquellos de uso médico, los de uso industrial, los derivados de elementos de origen natural, los de diseño, así como el tabaco y las bebidas alcohólica (sic), en todos los ámbitos, ya sean públicos o privados;
+
+X. Tabaco: La planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé;
+
+XI. Tabaquismo: La dependencia o adicción al tabaco;
+
+XII. Tabla: La relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista (sic) en el artículo 479 de la Ley General de Salud;
+
+XIII. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de las sustancias psicoactivas, reducir los riesgos y daños que implican el uso o abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de sustancias psicoactivas, como de su familia.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 149 bis. El Programa contra las Adicciones es de orden público e interés social y tiene por objeto:
+
+I. Establecer los procedimientos y criterios, fundados en principios de investigación científica y profesional, para la sensibilización, prevención, tratamiento y asistencia a personas farmacodependientes del tabaco, alcohol, narcóticos o a una o más sustancias psicoactivas.
+
+II. Regular la prestación del tratamiento y asistencia integral a personas que usan, abusan o son dependientes del consumo de sustancias psicoactivas y deseen recuperarse de su adicción;
+
+III. Fomentar los valores universales, así como el respeto a la dignidad de la persona dependiente de sustancias psicoactivas;
+
+IV. Establecer las medidas necesarias para lograr la reinserción social de las personas dependientes de sustancias psicoactivas;
+
+V. Implementar las bases mínimas para diseñar el contenido de políticas, programas y acciones de sensibilización, prevención, atención, tratamiento y erradicación de las adicciones;
+
+VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, recuperación y reinserción social de las personas dependientes de sustancias psicoactivas y fomenten el desarrollo del sentido social en esta materia, y (sic)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 150.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas que comprenderá, entre otras las siguientes acciones:
+El Gobierno del Estado, a través de la Secretaría, se coordinará con las autoridades sanitarias federales para ejecutar dentro del ámbito de su competencia y de conformidad con los acuerdos que al efecto se celebren en el marco del Sistema Nacional de Salud, las acciones contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderán, entre otras, las siguientes:
 
-I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de las personas adictas al alcohol etílico;
 
 II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el abuso de las bebidas alcohólicas, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+En ningún caso y de ninguna forma se podrá expender o suministrar bebidas alcohólicas a menores de edad. Las dependencias y entidades competentes del Estado y los municipios deberán vigilar, en el ámbito de sus respectivas competencias el cumplimiento de lo dispuesto en este párrafo y, en su caso, aplicar las sanciones correspondientes.
+
+(REUBICADO, P.O. 19 DE OCTUBRE DE 2012)
 
 ###### Artículo 151.
 
@@ -1523,31 +1605,39 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### Artículo 152.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el Tabaquismo, que comprenderá entre otras, las siguientes acciones:
+El Gobierno del Estado, de conformidad con los acuerdos que al efecto se celebren en el marco del Sistema Nacional de Salud, se coordinará con las autoridades sanitarias federales y municipales para la ejecución del Programa contra el Tabaquismo que comprenderá, entre otras, las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+I. La promoción de la salud;
 
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+II. El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+III. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta Ley, la Ley para la Protección de los No Fumadores en el Estado de Coahuila de Zaragoza, sus reglamentos y demás disposiciones aplicables;
 
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, menores, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos, y
+IV. El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar combinadas con consejería y otras intervenciones, y
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
+V. El diseño de campañas de difusión que promuevan la cesación y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco.
 
-III. La prohibición de fumar en el interior de los edificios que alberguen oficinas o dependencias del Gobierno del Estado o de los municipios, con excepción de las áreas restringidas reservadas para quienes fuman.
+(REUBICADO, P.O. 19 DE OCTUBRE DE 2012)
 
 ###### Artículo 153.
 
 Para poner en práctica las acciones contra el tabaquismo, se tendrá en cuenta los siguientes aspectos:
 
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
+I. La investigación de las causas del tabaquismo y de las acciones para controlarlas, y (sic)
 
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+III. Las demás previstas en esta Ley, la Ley para la Protección de los No Fumadores en el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO VI. RASTROS
 
@@ -1555,39 +1645,177 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 ###### Artículo 154.
 
-El Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del Programa Nacional contra la Farmacodependencia, en los términos del acuerdo de coordinación específico que celebren ambos órdenes de gobierno.
+El Gobierno del Estado, en coordinación con la Secretaría de Salud Federal, ejecutará el programa nacional para la prevención y tratamiento de la farmacodependencia de conformidad con los acuerdos que al efecto se celebren, mismo que será obligatorio para los prestadores de los servicios de salud del Sistema Nacional y Estatal de Salud, así como en todos los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia. Deberá contener las siguientes actividades:
 
-###### Artículo 155.
+I. Preventivas;
 
-El Gobierno del Estado y los municipios para evitar y prevenir el consumo de substancias inhalables, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+II. De urgencias;
 
-I. Determinarán y ejercerán medios de control en el expendio de substancias inhalables, para prevenir su consumo por parte de menores de edad e incapaces;
+III. De tratamiento;
 
-II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
+IV. De rehabilitación y reinserción social;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+V. De reducción de daños y riesgos;
 
-III. Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalables;
+VI. De enseñanza y capacitación, y
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+VII. De investigación científica.
 
-IV. Promoverán y llevarán a cabo campañas de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalables y
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
+Artículo 154 bis. De conformidad con el programa nacional para la prevención y tratamiento de la farmacodependencia, corresponde al Gobierno del Estado:
 
-V. Realizarán actividades en materia de educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de narcóticos.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+Las campañas de información y sensibilización que reciba la población de conformidad con lo dispuesto en esta fracción, deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de narcóticos.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades estatales de Seguridad Pública, Procuración de Justicia y Educación y Cultura realizarán programas y campañas permanentes para prevenir el consumo de substancias con efectos psicotrópicos.
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman narcóticos.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 1. El Gobierno del Estado y los municipios, para prevenir y evitar el consumo de narcóticos o cualquier otra sustancia psicoactiva estimulante o depresora, se ajustarán a lo siguiente:
+
+I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalables para prevenir su consumo de la población en general, en especial de menores de edad y personas con capacidades diferentes;
+
+II. Implementarán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias para evitar el empleo indebido de las mismas;
+
+III. Brindarán la atención médica y los tratamientos que se requiera, a las personas que realice (sic) o hayan realizado el consumo de narcóticos;
+
+IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de narcóticos;
+
+V. Fomentarán la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas.
 
 Los establecimientos que expendan substancias inhalables con efectos psicotrópicos deberán contar con libros de control para el registro de compra-venta, autorizados por la Secretaría de Salud.
 
-A los establecimientos que vendan o utilicen substancias inhalables con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 2. En materia de prevención, la Secretaría desarrollará un modelo de intervención temprana que considere acciones de prevención y promoción de una vida saludable, hasta el tratamiento ambulatorio de calidad de la farmacodependencia, y contemple:
+
+I. Desarrollar campañas de educación para prevención de adicciones que permitan la producción y difusión de mensajes de alto impacto social acerca de los daños y riesgos de la farmacodependencia, dirigidos especialmente hacia los sectores más vulnerables, a través de los centros de educación básica;
+
+II. Coordinar y promover con los sectores público, privado y social, las acciones para prevenir la farmacodependencia, con base en la información y en el desarrollo de habilidades para proteger, promover, restaurar, cuidar la salud individual, familiar, laboral, escolar y colectiva;
+
+III. Proporcionar atención integral a grupos de alto riesgo, y
+
+IV. Realizar las demás acciones de prevención necesarias con base en la percepción de riesgo de consumo de sustancias psicoactivas en general; las características de los individuos; los patrones de uso y consumo; los problemas asociados a estas sustancias; así como los aspectos culturales y las tradiciones de los distintos grupos sociales.
+
+La información recibida por la autoridad sanitaria correspondiente a los farmacodependientes o consumidores con propósitos de orientación médica o de prevención, no deberá hacerse pública pero podrá usarse, sin señalar identidades, para fines estadísticos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 3. Para el tratamiento de los farmacodependientes, la Secretaría deberá crear centros especializados en tratamiento, atención, y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+
+La ubicación de los centros se basará en estudios rigurosos del impacto de las adicciones en cada región de la entidad y deberá:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen, y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 4. La Secretaría, en coordinación con la Secretaría de Salud de la Federación, realizará procesos de investigación en materia de farmacodependencia para:
+
+I. Determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo;
+
+II. Contar con una base científica que permita diseñar e instrumentar políticas públicas eficaces en la materia;
+
+III. Evaluar el impacto de los programas preventivos, así como de tratamiento y rehabilitación, estableciendo el nivel de costo-efectividad de las acciones;
+
+IV. Identificar grupos y factores de riesgo y orientar la toma de decisiones;
+
+V. Desarrollar estrategias de investigación y monitoreo que permitan conocer suficientemente, las características de la demanda de atención para problemas derivados del consumo de sustancias psicoactivas, la disponibilidad de recursos para su atención y la manera como éstos se organizan, así como los resultados que se obtienen de las intervenciones;
+
+VI. Realizar convenios de colaboración que permitan fortalecer el intercambio de experiencias novedosas y efectivas en la prevención y tratamiento, así como el conocimiento y avances sobre la materia, y
+
+En toda investigación en que el ser humano sea sujeto de estudio, deberá prevalecer el criterio del respeto a su dignidad, la protección de sus derechos y su bienestar, de conformidad con lo dispuesto por el Título Quinto de la Ley General de Salud.
+
+En el diseño y desarrollo de este tipo de investigaciones se debe obtener el consentimiento informado y por escrito de la persona en quien se realizará la investigación o, en su caso, del familiar más cercano en vínculo, o de su representante legal, una vez que se les informen los objetivos de la experimentación y las posibles consecuencias positivas o negativas para su salud, así como todos aquellos elementos para decidir su participación.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 5. En materia de rehabilitación de la farmacodependencia, la Secretaría deberá:
+
+I. Fomentar la participación comunitaria y familiar en la prevención y tratamiento, en coordinación con las autoridades federales, y las instituciones públicas o privadas involucradas en los mismos, para la planeación, programación, ejecución y evaluación de los programas y acciones;
+
+II. Fortalecer la responsabilidad social, la autogestión y el autocuidado de la salud, fomentando la conformación de estilos de vida y entornos saludables;
+
+III. Reconocer a las comunidades terapéuticas, para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reintegración social, a través del apoyo mutuo, y
+
+IV. Reconocer la importancia de los diversos grupos de ayuda mutua, integrados por personas adictas en recuperación, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 6. La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Estado, así como las autoridades municipales competentes participarán en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, y actuarán conforme a las atribuciones que les otorgan las disposiciones aplicables.
+
+La Secretaría de Salud del Estado, en coordinación con las autoridades estatales de Seguridad Pública, Procuración de Justicia y Educación y Cultura realizarán (sic) programas y campañas permanentes para prevenir el consumo de substancias con efectos psicotrópicos.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 154 bis 7. Cuando se trate de un farmacodependiente o consumidor sujeto a proceso penal y el centro o institución reciba reporte del no ejercicio de la acción penal, en términos del artículo 478 de la Ley General de Salud Y EL CORRELATIVO ARTÍCULO 405 DEL CÓDIGO PENAL DE COAHUILA, las autoridades de salud deberán citarlo a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
+
+Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 155.
+
+Los profesionales de la salud, al prescribir medicamentos que contengan sustancias que puedan producir dependencia, se atendrán a lo previsto en los Capítulos V y VI del Título Décimo Segundo de la Ley General de Salud, en lo relativo a prescripción de estupefacientes y sustancias psicotrópicas.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 155 bis. El Consejo Estatal contra las Adiciones (sic) tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones reguladas por el presente Título, así como proponer, implementar y vigilar el cumplimiento de los programas a que se refieren los artículos 150, 152 y 154 de esta Ley, de conformidad con los acuerdos de coordinación que al efecto se suscriban con las autoridades federales.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 155 bis 1. Este Consejo Estatal contra las Adiciones (sic) está integrado por el Gobernador del Estado, en su calidad de Presidente Honorario; por el Secretario de Salud, en su carácter de Presidente Ejecutivo, así como por los titulares de las dependencias y entidades de la Administración Pública del Estado cuyas atribuciones tengan relación con el objeto del mismo.
+
+Podrán ser invitados a asistir a las sesiones del Consejo, miembros de organizaciones sociales y privadas relacionadas con la salud, así como los titulares de los gobiernos municipales, cuando se estime conveniente.
+
+La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 155 bis 2. Corresponde al Consejo Estatal contra las Adiciones (sic) las siguientes atribuciones:
+
+I. Establecer políticas y lineamientos en materia de salud contra las adicciones, aplicables en todo el Estado;
+
+II. Coordinar la prestación del servicio médico y asistencial a personas con alguna adicción a través del Sistema;
+
+III. Establecer los principios encaminados a la formación de una cultura del cuidado de la salud y el fomento de actividades cívicas, deportivas y culturales, tendientes a la erradicación de las adicciones, con perspectiva de género;
+
+IV. Promover programas de orientación a los familiares de las personas con algún tipo de adicción, incluyendo la orientación a la población en general, sobre la detección oportuna y los daños a la salud provocados por las adicciones;
+
+V. Difundir acciones para erradicar las adicciones, para el cuidado de personas adictas, su tratamiento y reintegración social;
+
+VI. Celebrar acuerdos de colaboración con los ayuntamientos de la entidad, a fin de cumplir con el objetivo de esta Ley, su reglamento y demás disposiciones aplicables;
+
+VII. Instrumentar programas de asesoría jurídica y orientación a título gratuito, en beneficio de las personas que tengan algún tipo de adicciones y canalizarlos a las instituciones de asistencia social necesarias para su atención;
+
+VIII. Impulsar dentro de los planteles educativos y en coordinación con los centros de atención de adicciones, una cultura y sensibilización enfocadas a la prevención de las adicciones, con perspectiva de género;
+
+IX. Realizar estudios en materia de adicciones para conocer la prevalencia y obtener parámetros de medición y evaluación en la materia, y
+
+X. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 155 bis 3. En la esfera de su competencia, corresponde a los municipios:
+
+I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adiciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
+
+II. Brindar capacitación sobre las adicciones al personal del ayuntamiento y, en especial, a las personas que asistan a adictos, a fin de mejorar la atención y asistencia que se otorga a los mismos;
+
+III. Realizar las acciones necesarias, en el ámbito de su competencia, para el cumplimiento de los programas elaborados por el Consejo Estatal contra las Adiciones (sic);
+
+IV. Elaborar programas de prevención y proyectos culturales que promuevan la prevención y erradicación de las adicciones;
+
+V. Promover la participación de organismos públicos, privados y de la sociedad civil en los programas y acciones de apoyo de prevención y erradicación de las adicciones, y
+
+VI. Las demás previstas para el cumplimiento de esta Ley.
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
@@ -1957,7 +2185,7 @@ El ejercicio de esta actividad estará sujeto a lo que dispone esta Ley y otras 
 
 Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 217.
 
@@ -2777,7 +3005,7 @@ EL SECRETARIO DE SALUD
 
 DR. RAYMUNDO VERDUZCO ROSAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE JULIO DE 1998.
 
@@ -2826,3 +3054,25 @@ Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
