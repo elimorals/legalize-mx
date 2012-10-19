@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2012-09-28"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -301,13 +301,19 @@ V.- En su condición de padres, deben ser asistidos en la forma que la Legislaci
 
 VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
 
-a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
 b) Que el Estado les garantice de manera subsidiaria la protección nutricional, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
 
 c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
 
 d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -3540,3 +3546,7 @@ PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Para dar eficiencia a lo dispuesto en el párrafo cuarto del artículo 57 de estas reformas, el Pleno del Consejo de la Judicatura deberá aprobar el Plan de Desarrollo Judicial dentro de los tres meses posteriores en que se efectué la elección del Presidente del Tribunal Superior de Justicia, en caso de que estas reformas fueran publicadas con posterioridad a ese momento, el citado periodo se contará a partir de la fecha (sic) publicación de dichas reformas.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado de Baja California, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
