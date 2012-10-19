@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-09-28"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1549,9 +1551,9 @@ Delitos graves y principio de proporcionalidad.- No se podrá decretar una medid
 
 El Juez ordenará oficiosamente la prisión preventiva, cuando la imputación se haga respecto de los siguientes delitos:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-I.- Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; Homicidio doloso, previsto en los artículos 124, 125, 126 en relación con el 147, y sus formas agravadas citadas en los artículos 127 y 128, todos del Código Penal;
+I.- Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; Homicidio doloso, previsto en los artículos 124, 125, 126 en relación con el 147, y sus formas agravadas citadas en los artículos 127 y 128, feminicidio descrito en el artículo 129, todos del Código Penal;
 
 II.- Violación, prevista en el artículo 176, así como su modalidad agravada contenida en el artículo 179; violación equiparada prevista por el artículo 177; y violación impropia prevista por el artículo 178, todos del Código Penal;
 
@@ -2693,7 +2695,7 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGUO PÁRRAFO 3ro. FORMA PARTE DEL ACTUAL PÁRRAFO 2do.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGUO PÁRRAFO 3ro. FORMA PARTE DEL ACTUAL PÁRRAFO 2do.]</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2754,6 +2756,20 @@ El cadáver podrá entregarse a los parientes o a quienes invoquen título o mot
 En los casos en que se desconozca la identidad del cadáver, su identificación se efectuará por las pruebas periciales idóneas, y en caso contrario, se estará a lo dispuesto en la Ley.
 
 Una vez realizada las mismas se procederá a la sepultura del cadáver, la cual deberá realizarse en un plazo no mayor de quince días, con excepción de que el Ministerio Público haya solicitado su custodia por un plazo mayor.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 254 bis.- Cuando se trate de homicidio o feminicidio, además de la descripción que hará el que practique las diligencias, la harán también dos peritos que practicarán la necropsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originan la muerte. Solo podrá dejarse de hacer la necropsia, cuando el Juez lo acuerde previo dictamen de los peritos médicos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 254 ter.- La investigación pericial, ministerial y policial del delito de feminicidio, deberá realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dicho protocolo será obligatoria y su inobservancia será motivo de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 254 quarter.- En los casos de investigación de feminicidios, la Procuraduría General de Justicia del Estado deberá conservar un registro fotográfico de la víctima, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada que servirá para integrar investigaciones de la misma naturaleza, de conformidad con el artículo anterior. Cuando se trate de cadáveres no identificados o que no puedan ser reconocidos, deberá realizarse un estudio para determinar su ADN, que se integrará a un Banco de Datos de Información Genética, a cargo de la Procuraduría General de Justicia del Estado, al que se incorporará la información genética de familiares de mujeres desaparecidas o presuntas víctimas de feminicidio, cuando así lo soliciten o en cumplimiento a una orden de la autoridad judicial.
+
+El Tribunal Superior de Justicia del Estado y la Procuraduría General de Justicia del Estado celebrarán, de conformidad con sus atribuciones, los convenios generales y específicos que se requieran para el debido cumplimiento de lo establecido en este artículo.
 
 ###### Artículo 255.
 
@@ -3567,7 +3583,7 @@ III. No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva
 
 IV. Algún Juez o el imputado se enfermen a tal extremo que no puedan continuar interviniendo en el debate;
 
-V. El defensor, el Ministerio Público o el acusador coadyuvante, no puedan ser remplazados inmediatamente en el supuesto en que legalmente deban serlo;
+V. El defensor, el Ministerio Público o el acusador coadyuvante, no puedan ser reemplazados inmediatamente en el supuesto en que legalmente deban serlo;
 
 VI. Si el Ministerio Público lo requiera para variar la acusación con motivo de las pruebas deshogadas (sic) y el defensor lo solicite una vez variada la acusación; o
 
@@ -3575,7 +3591,7 @@ VII. Alguna catástrofe o algún hecho extraordinario tornen imposible su contin
 
 En los casos de las fracciones II, III y VI, el debate sólo podrá suspenderse por única vez.
 
-El Tribunal verificará la autenticidad de la causal de suspensión invocada, pudiendo para el afecto allegarse de los medios de prueba correspondientes.
+El Tribunal verificará la autenticidad de la causal de suspensión invocada, pudiendo para el efecto allegarse de los medios de prueba correspondientes.
 
 El Tribunal decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todas las partes. Antes de comenzar la nueva audiencia, quien la presida resumirá brevemente los actos cumplidos con anterioridad. Los jueces y el Ministerio Público podrán intervenir en otros debates durante el plazo de suspensión, salvo que el Tribunal decida lo contrario, por resolución fundada, en razón de la complejidad del caso.
 
@@ -4958,3 +4974,7 @@ P.O. 28 DE SEPTIEMBRE DE 2012.
 DECRETO No. 289, SEGUNDO: SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 281 BIS, 281 BIS 1 Y 281 BIS 2 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
