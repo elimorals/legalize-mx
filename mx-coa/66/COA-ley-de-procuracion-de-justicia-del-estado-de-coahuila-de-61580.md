@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2012-06-26"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL CITADO ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -458,6 +458,10 @@ HECHOS MATERIA DE LA AVERIGUACIÓN PREVIA.
 OBLIGACIÓN DE INVESTIGAR. El Ministerio Público tendrá obligación de investigar los hechos posiblemente constitutivos de delito que sean de su conocimiento.
 
 Los hechos citados como antecedentes o meras referencias sólo serán materia de investigación cuando el Ministerio Público estime que puedan resultar conducentes para los fines de la Averiguación Previa. Si se advierte que los mismos pudieran ser constitutivos de diversos delitos existirá obligación de investigarlos sólo cuando sean parte de una secuela o cuando se trate de delitos que no admitan la aplicación de criterios de oportunidad o formas de justicia restaurativa y las acciones penales se encuentren vigentes.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Cuando un farmacodependiente se encuentre imputado de cometer un delito, el Ministerio Público, al iniciar la investigación, dará aviso a la Secretaría de Salud del Estado a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo previsto en el artículo 23 de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 19.
 
@@ -1644,6 +1648,10 @@ ASEGURAMIENTO Y DEPOSITARÍA. Los objetos, instrumentos y productos del delito; 
 Sin perjuicio de lo anterior, el Ministerio Público podrá entregar los bienes en depositaría siempre que: se trate de objetos susceptibles de reclamación, lo solicite quien acredite derecho legítimo sobre ellos, se hayan desahogado las pruebas periciales y de cualquier otra naturaleza que sobre las mismas resulten pertinentes y no se trate de armas, objetos de uso ilícito, sustancias o componentes químicos, orgánicos, biológicos o de naturaleza similar; o de bienes decomisables. Cuando sea necesario para los fines de la indagatoria se podrá exigir al solicitante, además, que proteste conservar el objeto en las mismas condiciones en que lo recibe y presentarlo cuantas veces le sea requerido.
 
 De la solicitud de depositaria se dará vista al inculpado o al ofendido o víctima, según sea el caso, para que dentro del plazo de tres días manifieste si desea ofrecer peritaje o medio de prueba relacionado con el objeto de que se trate, con base en lo cual el Ministerio Público resolverá lo conducente.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el Juez del proceso, solicitará la elaboración del informe pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Cuando hubiere detenido, este informe será rendido a más tardar dentro del plazo de treinta y seis horas.
 
 ###### ARTÍCULO 135.
 
@@ -3327,7 +3335,13 @@ IV. La Dirección General de Responsabilidades
 
 Quien sea titular de la Procuraduría, con base en las disposiciones presupuestales, podrá crear y suprimir unidades administrativas para cubrir las necesidades del servicio, así como subprocuradurías especializadas y especiales para el conocimiento, atención y persecución de los delitos que así lo ameriten.
 
-Los acuerdos por los cuales se disponga la creación de subprocuradurías especializadas y especiales, dictados en uso de la facultad señalada en el párrafo anterior, se publicarán en el Periódico Oficial del Gobierno del Estado.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+El Consejo Interior, con base en las disposiciones presupuestales, autorizará la creación de un área especializada para conocer de las conductas tipificadas como delitos contra la salud, en su modalidad de narcomenudeo, en términos de lo dispuesto por el artículo 474 de la Ley General de Salud y los correlativos del Título Cuarto, Libro Segundo, del Código Penal de Coahuila.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Los acuerdos por los cuales se disponga la creación de las áreas señaladas en los párrafos anteriores, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -6987,11 +7001,11 @@ LIC. JESÚS TORRES CHARLES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
-DECRETO NO. 51, POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DE LA LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO NO. 51, POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 PRIMERO. La presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -7009,7 +7023,7 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE MAYO DE 2009.
 
-DECRETO NO. 5, POR EL QUE SE EMITE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO NO. 5, POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -7076,3 +7090,25 @@ P.O. 26 DE JUNIO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
