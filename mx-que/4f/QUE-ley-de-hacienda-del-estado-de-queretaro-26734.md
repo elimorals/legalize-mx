@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2012-04-13"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -35,7 +33,7 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL ESTADO DE QUERÉTARO... EXPIDE LA SIGU
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO
 
@@ -55,7 +53,7 @@ Para los casos no contemplados en las disposiciones de esta Ley se aplicará sup
 
 Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas de conformidad con el Código Fiscal del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -79,11 +77,11 @@ Para la determinación y pago de las contribuciones y sus accesorios, las cantid
 
 En lo conducente los Poderes Legislativo y Judicial en sus Dependencias encargadas de sus Finanzas.
 
-## TITULO SEGUNDO. DE LA HACIENDA DEL ESTADO
+## TÍTULO SEGUNDO. DE LA HACIENDA DEL ESTADO
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -147,7 +145,7 @@ La Hacienda Pública se integrará, además con los recursos que de cada ejercic
 
 El Ejecutivo Estatal con apoyo de la Secretaría de Planeación y Finanzas y la Oficialía Mayor llevará un registro de los bienes que conforman la Hacienda Pública, el cual deberá estar bajo custodia del Ejecutivo.
 
-## TITULO TERCERO. DE LOS IMPUESTOS
+## TÍTULO TERCERO. DE LOS IMPUESTOS
 
 ### CAPÍTULO PRIMERO. IMPUESTO POR LA ADQUISICIÓN DE VEHÍCULOS DE MOTOR
 
@@ -333,13 +331,13 @@ III. Presentar tarjeta de circulación y placas de circulación cuando éstas ú
 
 Para el caso de pérdida o extravío de los documentos a que se refiere el párrafo anterior, deberá presentarse la constancia de no infracción expedida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -363,7 +361,7 @@ IV. Cuando se hayan tramitado placas de transporte público federal ante las aut
 
 V. Cuando se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -371,7 +369,7 @@ V. Cuando se hayan tramitado los certificados de aeronavegabilidad ante las auto
 
 Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -383,7 +381,7 @@ Los contribuyentes del impuesto a que se refiere este Capítulo, no están oblig
 
 El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -427,7 +425,7 @@ VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensam
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -449,7 +447,7 @@ III. Los servidores públicos competentes que autoricen el registro de vehículo
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -461,7 +459,7 @@ En caso de incumplimiento, será considerado responsable solidario del pago del 
 
 Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 44 del Código Fiscal del Estado de Querétaro, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -469,7 +467,7 @@ Cuando los particulares sean omisos en el cumplimiento de la obligación a que s
 
 La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -497,7 +495,7 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -505,7 +503,7 @@ APARTADO A
 
 VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -543,7 +541,7 @@ Las personas afiliadas al Instituto Nacional de las personas Adultas Mayores o q
 
 Lo dispuesto en el párrafo anterior, únicamente resultará aplicable respecto del impuesto sobre tenencia o uso de vehículos causado con posterioridad a la adquisición de las calidades a que se refiere este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -567,7 +565,7 @@ HELICÓPTEROS 551.00
 
 El monto de las cuotas establecidas en este artículo, se actualizarán con el factor a que se refiere el artículo 25- L de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -575,13 +573,13 @@ APARTADO B
 
 VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -631,7 +629,7 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -639,13 +637,13 @@ Diciembre 0.08
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN I. AUTOMÓVILES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -685,13 +683,13 @@ Para los efectos de esta fracción, peso bruto vehicular es el peso del vehícul
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN II. OTROS VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -699,7 +697,7 @@ Para los efectos de este artículo, se entiende por vehículos destinados a tran
 
 En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -707,7 +705,7 @@ En esta sección se establecen las disposiciones aplicables a las aeronaves, emb
 
 Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $8,657.06 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $9,324.72 para aeronaves de reacción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -715,7 +713,7 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -741,7 +739,7 @@ Del límite inferior
 
 369,693.58 en adelante 25,117.08 16.8
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -757,7 +755,7 @@ Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctrico
 
 Para los efectos de lo dispuesto en los artículos 25-C, 25-F, 25-H y 25-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 38 del Código Fiscal del Estado de Querétaro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -765,13 +763,13 @@ Para los efectos de lo dispuesto en los artículos 25-C, 25-F, 25-H y 25-J de es
 
 Las autoridades competentes, para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN III. VEHÍCULOS USADOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -813,7 +811,7 @@ II. La cantidad obtenida conforme a la fracción anterior se actualizará de con
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -855,7 +853,7 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo 
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -911,7 +909,7 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo 
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -971,7 +969,7 @@ b) La prestación del servicio se lleve a cabo total o parcialmente en el territ
 
 El contribuyente manifestará al empadronarse ante la Secretaría de Planeación y Finanzas del Estado, el lugar o lugares donde opera, debiendo llevar ahí mismo el control de sus ingresos para los efectos del pago de este gravamen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -999,7 +997,7 @@ La recaudación y control del impuesto, se regulará por las siguientes disposic
 
 I. Del empadronamiento:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1007,7 +1005,7 @@ a) Los contribuyentes de este impuesto, están obligados a empadronarse en la Di
 
 b) Cuando una misma persona, física o moral, sea propietaria o poseedora de varios establecimientos que deban ser empadronados de acuerdo con lo dispuesto en este capítulo, presentará por separado, una solicitud de empadronamiento para cada uno de dichos establecimientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 c) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
@@ -1025,7 +1023,7 @@ h) La Dirección de Ingresos negará el empadronamiento en los casos siguientes:
 
 2. Cuando en las solicitudes no se expresen los datos que las formas requieran o no se acompañen los documentos que las mismas exigen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 3. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
@@ -1047,7 +1045,7 @@ b) Las cédulas o documentos de empadronamiento no serán transferibles, ni en l
 
 c) En los casos de cambio de objeto, de giro, de nombre o razón social, y en los traspasos, la Dirección de Ingresos entregará al contribuyente la nueva cédula o documentos de empadronamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
@@ -1097,7 +1095,7 @@ III. Proporcionar a las autoridades fiscales los datos o información que se le 
 
 IV. Conservar durante cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2010)
 
@@ -1619,7 +1617,7 @@ De las obligaciones de los contribuyentes
 
 Los contribuyentes a que se refiere este Capítulo, tienen, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1673,33 +1671,33 @@ I. Por la obtención del formato para solicitud de licencia nueva o regularizaci
 
 II. Refrendo anual de licencia para el almacenaje, venta y consumo de bebidas alcohólicas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Por concepto de expedición de licencia, correspondiente a los giros comerciales señalados en esta fracción, se causarán derechos por un monto equivalente a dos veces la cantidad que corresponda por concepto de refrendo anual. Al momento de la expedición deberán pagarse los derechos que correspondan al número de días contados de la fecha de expedición al 31 de julio inmediato siguiente, calculados en los términos que señala la fracción VII del presente artículo;
 
 III. Por concepto de licencia porteo, por cada unidad de transporte:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 IV. Por concepto de permiso para evento con cuota de admisión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 V. Por concepto de permiso para evento sin cuota de admisión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 VI. Por concepto de permiso para degustación de bebidas alcohólicas en establecimiento y por evento:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 VII. Por concepto de permiso provisional:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 VIII. Por concepto de preautorización de licencia se cobrará el veinte por ciento del costo de la expedición de una licencia nueva equivalente en los términos de la fracción II del presente artículo, cantidad que será abonada al solicitante en caso de que se le autorice la definitiva y que en caso de negativa no será objeto de devolución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -1755,7 +1753,7 @@ a) De interés social, aquella cuyo valor, al término de su edificación, no ex
 
 b) Popular, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 30 VSMGZ elevado al año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -1815,13 +1813,13 @@ XIV. Prórroga de gravamen; y (sic)
 
 XV. Protocolización de acuerdos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 XVI. Constitución de habitación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1837,7 +1835,7 @@ Por avisos preventivos se pagarán tres VSMGZ y por avisos definitivos se pagar�
 
 Por la inscripción de actas de asambleas o administrativas que no impliquen aumento de capital, modificación de sociedades o asociaciones sin aumento de capital, otorgamiento, sustitución, suspensión o revocación de poderes generales o especiales, quiebras, concurso, suspensión de pagos, protocolización de estatutos, resolución administrativa, liquidación de sociedad mercantil, se pagará la cantidad de doce VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1845,7 +1843,7 @@ Por la inscripción de actas de asambleas o administrativas que no impliquen aum
 
 Por la inscripción de cualquiera de los actos o contratos precisados en los artículos que anteceden, se pagará el derecho conforme al valor mayor que resulte entre el de la operación consignada o el avalúo comercial que se practique; si no se hubiere practicado el avalúo en razón a la naturaleza del acto, servirá de base para el pago el valor catastral, tratándose de inmuebles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1853,7 +1851,7 @@ Por la inscripción de cualquiera de los actos o contratos precisados en los art
 
 Se pagará por concepto de derechos el equivalente a 3 VSMGZ, por la inscripción de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1873,13 +1871,13 @@ f. Arrendamiento financiero; y (sic)
 
 g. Constitución de crédito agrícola.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 h. De inscripción de convenio modificatorio que implique la ampliación de garantía o novación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1905,13 +1903,13 @@ V. Anotación marginal que no modifique el derecho; y (sic)
 
 VI. Cualquier acto, contrato o documento cuyo valor no pueda ser determinado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bienes inmuebles considerados para efectos de esta Ley como vivienda de interés social, cuya transmisión haya sido dispuesta mediante testamento, en términos del artículo 1477 del Código Civil del Estado de Querétaro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1965,7 +1963,7 @@ Por toda clase de actos, contratos o convenios mediante los cuales se subdividan
 
 Por todos los actos, contratos o convenios semejantes a los enunciados en el artículo anterior, relativos a predios de tipo popular urbano, se cobrará por concepto de derechos en el registro cinco VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1981,7 +1979,7 @@ I. Aumento de capital de sociedades mercantiles;
 
 II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, lotificación o relotificación y acta de entrega-recepción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1993,7 +1991,7 @@ III. Protocolización de deslinde catastral de predio con superficie mayor a 5,0
 
 Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o certificaciones y demás servicios que preste el Registro Público de la Propiedad y del Comercio en materia de crédito agrícola y ejidal, causarán y pagarán los derechos de conformidad con las leyes respectivas y en los casos no previstos se aplicarán las cuotas señaladas en este capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2045,7 +2043,7 @@ certificados por inmuebles 3
 
 Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificado, copias certificadas o la realización de algún acto de inscripción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 76.
 
@@ -2189,7 +2187,7 @@ XII. Copia certificada de planos catastrales, plano de levantamiento topográfic
 
 Por la ejecución de deslindes catastrales se causarán y pagarán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2211,7 +2209,7 @@ De más de 20000 276 120 m2 hasta llegar a 50000m2
 
 De más de 50000 526 200 m2 excedente
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2241,13 +2239,13 @@ De más de 100 675 Sumar 5 VSMGZ por cada hectárea excedente.
 
 III.- Cuando el contribuyente presente adjunto a su solicitud de deslinde catastral, el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro y efectuado por topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se pagará el 30 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta realice la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad y el Comercio. El topógrafo geodesta a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro de acuerdo al resultado del procedimiento administrativo de deslinde catastral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 IV.- Cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o asistiendo se niegue a señalarlos, se causarán y pagará un 20 por ciento de los montos establecidos en las fracciones I y II del presente artículo por concepto de reinició o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes posterior a la fecha de programación inicial de la diligencia de deslinde; en caso contrario se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -2441,7 +2439,7 @@ TEQUISQUIAPAN 8
 
 TOLIMAN 8
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2449,7 +2447,7 @@ TOLIMAN 8
 
 Por la expedición de copias de aerofotografías de 23x23 cm., se causarán y pagarán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2459,13 +2457,13 @@ I. Impresas en papel fotográfico, 15 VSMGZ por fotografía.
 
 II. Por ampliaciones impresas en papel fotográfico, 5 VSMGZ por cada 529 cm2 adicionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 III. Archivo digital en formato de Imagen Digital Estándar, 30 VSMGZ por fotografía.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2617,7 +2615,7 @@ XXIII. Por la expedición de copia certificada del croquis de ubicación de un i
 
 Por los documentos que expida o los servicios que preste la Dirección de Catastro a las dependencias, organismos y entidades de la administración pública federal, estatal o municipal, causarán y pagarán el 50% de la cuota señalada en los artículos de este capítulo, más los costos del material especial que se utilice y de desplazamiento del personal requerido para la realización del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -2781,7 +2779,7 @@ Por trámite de devolución de
 
 documentos originales 1
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2883,7 +2881,7 @@ Por la emisión de certificación de acta de examen o título profesional, por d
 
 Por cualquier otra certificación o expedición de constancias distintas de las señaladas en el presente artículo. 2
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -2951,7 +2949,7 @@ BEIS BOL 0.8 0.8
 
 d. Clase muestra a cualquiera de los talleres 0.65 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3187,7 +3185,7 @@ MATERIAL POR PERSONA
 
 RENTA DEL AUDITORIO (POR HORA) 1.6
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3231,7 +3229,7 @@ CANCHA DE SQUASH HORA 1 2
 
 CANCHA DE VOLEIBOL DE PLAYA 1.5 3
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3247,7 +3245,7 @@ DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 Son objeto de los derechos contenidos en este capítulo, la prestación de servicios a contribuyentes que ofrece la Secretaría de Desarrollo Urbano y Obras Públicas, causándose conforme a lo establecido en el presente capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3791,7 +3789,7 @@ subsecuente. 0.5
 
 Por los servicios de supervisión de fraccionamientos se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3897,7 +3895,7 @@ Copia certificada de plano de condominio 15
 
 Por los servicios de supervisión de condominios se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de condominios que se pretendan construir en fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3955,7 +3953,7 @@ b) Certificadas, se pagarán 5 VSMGZ, por cada plano
 
 III. Por constancia de trámite de licencia de construcción se pagará 3 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4007,7 +4005,7 @@ Otras publicaciones, por palabra 0.06
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4097,7 +4095,7 @@ Zona B: Comprende el resto de los municipios del Estado.
 
 El Registro Civil expedirá sin costo alguno las actas de nacimiento y la certificación de las mismas, para personas con discapacidad, adultos mayores y niños institucionalizados, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4197,7 +4195,7 @@ El costo de los insumos, consumibles, reactivos u otros materiales necesarios pa
 
 ### CAPÍTULO DÉCIMO. SERVICIOS PRESTADOS POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -4205,7 +4203,7 @@ El costo de los insumos, consumibles, reactivos u otros materiales necesarios pa
 
 Por la inscripción, renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la Constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, se cobrarán derechos a razón de 12 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -4221,7 +4219,7 @@ Por el envío por mensajería con acuse de recibido de la Constancia de Registro
 
 Por la reposición física del dispositivo de almacenamiento que entregue la Secretaría de la Contraloría para la firma electrónica, se causará y pagará un derecho equivalente a 11.52 VSMGZ. Por la generación por segunda o ulterior ocasión del certificado para generación de firma electrónica se causará y para (sic) un derecho equivalente a 2.83 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -4251,7 +4249,7 @@ Se exceptúa del pago de los derechos por búsqueda de información del archivo,
 
 En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4263,9 +4261,9 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 SEGURIDAD CIUDADANA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 127.
 
@@ -4323,87 +4321,87 @@ IX. Por capacitación en el Curso Básico de Formación para Policía Estatal Pr
 
 X. Por los servicios correspondientes al proceso de selección previo a los Cursos de capacitación a que se refieren las fracciones VIII y IX de este artículo, se pagarán 112 VSMGVZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 XI. Por la expedición de duplicado de certificado de estudios se causará y pagarán 2 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XII. Por capacitación en el Curso Básico de Formación para Policía Estatal Preventivo, Adiestramiento Intensificado con perfil de ingreso con Licenciatura, se causará y pagará por persona, un derecho equivalente a 1272 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XIII. Por instrucción en la Licenciatura en Seguridad Pública, con internado, se causará y pagará por persona, un derecho equivalente a 258 VSMGZ, por módulo o cuatrimestre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XIV. Por instrucción en la Licenciatura en Seguridad Pública, sin internado, se causará y pagará por persona, por módulo o cuatrimestre, un derecho equivalente a 130 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XV. Por instrucción de Técnico Superior Universitario en Emergencias Médicas y Desastres, en modalidad escolarizada, se causará y pagará por persona, un derecho equivalente a 60 VSMGZ, por módulo o cuatrimestre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XVI. Por instrucción de Técnico Superior Universitario en Emergencias Médicas y Desastres, en modalidad ejecutiva, se causará y pagará por persona, un derecho equivalente a 40 VSMGZ, por módulo o cuatrimestre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XVII. Por la capacitación que se imparta en materia de atención de emergencias, se causará y pagará por persona, un derecho equivalente a 5 VSMGZ, por curso de hasta cuarenta horas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XVIII. Por capacitación en el Curso Básico de Formación para Personal de Seguridad Privada, se causará y pagará por persona, un derecho equivalente a 200 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 El pago y sujeción al proceso de selección previsto en la fracción X de este artículo, será condición indispensable para tomar los cursos a que se refieren las fracciones VIII, IX y XII. En estos dos últimos supuestos, los cursos únicamente serán impartidos cuando se reúnan al menos 35 participantes por grupo para cada curso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La capacitación contemplada en las fracciones XII, XVII y XVIII, será impartida únicamente cuando se reúnan al menos 15 participantes para la apertura de cada grupo; la contemplada en las fracciones XIII y XIV, será impartida únicamente cuando se reúnan al menos 30 participantes para la apertura de cada grupo; la contemplada en las fracciones XV y XVI, será impartida únicamente cuando se reúnan al menos 20 participantes para la apertura de cada grupo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 128.
 
 Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 I. Por el trámite y, en su caso, autorización para la prestación de los servicios de seguridad privada en el Estado de Querétaro, se cobrará y pagará un derecho equivalente a 100 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 II. Por el trámite y, en su caso, el refrendo anual de la autorización para la prestación de los servicios de seguridad privada, se causará y pagará un derecho equivalente a 75 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -4413,13 +4411,13 @@ III. Por el trámite y, en su caso, ampliación o modificación de modalidades p
 
 IV. Las empresas de seguridad privada que cuenten con autorización de la Secretaría de Seguridad Pública Federal, para prestar servicios de seguridad privada en el Estado de Querétaro, causarán y pagarán un derecho equivalente a 50 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 V. Por el trámite y, en su caso, expedición de la credencial de habilitación en cualquiera de sus modalidades, se causará y pagará un derecho equivalente a 4 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4437,7 +4435,7 @@ Para el caso de no cubrir el pago de los derechos correspondientes en el plazo s
 
 Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4477,7 +4475,7 @@ Nuevo 15 15 0
 
 Usado 2 2 No aplica
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -4489,7 +4487,7 @@ IV. Por el trámite y, en su caso, expedición de tarjetón de identificación p
 
 No causará derechos la expedición de permiso de traslado de vehículos que no serán emplacados en el Estado, el cual tendrá una vigencia de hasta diez días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -4497,7 +4495,7 @@ No causará derechos la expedición de permiso de traslado de vehículos que no 
 
 Por el trámite y en su caso, expedición de autorización anual para el transporte de carga particular, mediante vehículos con capacidad superior a 18 toneladas, se causarán y pagarán 6 VSMGVZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4523,15 +4521,15 @@ Para los efectos de este artículo por servicio mixto, se entenderá aquel que o
 
 Para los efectos de este artículo, la zona 1 comprende los municipios de Amealco de Bonfil, Corregidora, El Marqués, Huimilpan, Pedro Escobedo, Querétaro, San Juan de Río y Tequisquiapan; la zona 2 comprende los municipios de Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 132.
 
 Por el trámite y en su caso, expedición de autorizaciones diversas en materia de transporte público, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4569,23 +4567,23 @@ Semiremolques especiales 20
 
 Cama baja 20
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 II. Por la tramitación y, en su caso, expedición de permiso especial de transporte público para la atención de eventos temporales, con vigencia máxima de 30 días naturales, se causarán y pagarán derechos por 5 VSGMZ;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 III. Por complemento al transporte público permisionado por las autoridades federales, se causarán y pagarán 60 VSMGZ, con vigencia anual;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 IV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4615,23 +4613,23 @@ Otros medios electrónicos para
 
 transmitir publicidad al usuario 5
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 VII. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ por día de trabajo, sin que pueda exceder el cobro al importe que resulte de 50 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 VIII. Por la expedición de autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -4657,7 +4655,7 @@ II. Por búsqueda en archivos, 1 VSMGZ, por certificación de copias de document
 
 III. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2007)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4691,7 +4689,7 @@ En caso de vehículos del servicio público del transporte, las concesiones y pe
 
 La autoridad fiscal competente podrá implementar o adicionar los medios de control, identificación y registro que considere convenientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4711,7 +4709,7 @@ e) Reposición de tarjeta de circulación.
 
 Por refrendo anual se entenderá la revalidación de la permanencia en el padrón vehicular estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4805,13 +4803,13 @@ En caso de no contar con la factura de origen o copia para los vehículos 1995 y
 
 Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el tramite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original y copia de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4879,13 +4877,13 @@ Para proceder a tramitar la baja del vehículo del Padrón Vehicular Estatal, es
 
 I. Presentar la documentación señalada en el artículo 136 fracción III y V;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Estar al corriente en el pago del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso y los derechos por los servicios de control vehicular, incluyendo el ejercicio fiscal vigente o, en su caso, comprobar que se encuentra libre del pago de dicho impuesto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4903,7 +4901,7 @@ VI. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2007)
 
 Las bajas de vehículos señaladas en las fracciones III, IV y V, no causarán los derechos que establece la fracción VI del artículo 135 de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4923,7 +4921,7 @@ Las personas afiliadas al Instituto Nacional de Adultos en Plenitud o que tengan
 
 ### CAPÍTULO DÉCIMO TERCERO. POR LOS SERVICIOS PRESTADOS POR LA LEGISLATURA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -4955,7 +4953,7 @@ En el supuesto de que la autoridad posea la información en medio electrónico, 
 
 Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a una VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 144 bis.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
@@ -4963,7 +4961,7 @@ Artículo 144 bis.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
 TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -5001,7 +4999,7 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-Artículo 145 BIS.- Por los servicios prestados por la Oficialía Mayor se causarán y pagarán:
+Artículo 145 bis.- Por los servicios prestados por la Oficialía Mayor se causarán y pagarán:
 
 I.- El importe de la suscripción al Padrón de Proveedores de la Administración Pública Estatal, que será la cantidad de:
 
@@ -5013,7 +5011,7 @@ b) Personas Morales, 10 VSMGZ
 
 ### CAPÍTULO DÉCIMO SEXTO. POR LOS SERVICIOS PRESTADOS POR OTRAS AUTORIDADES ADMINISTRATIVAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5103,7 +5101,7 @@ XVII. Por la autorización de combustión a cielo abierto, se pagará el equival
 
 Para los efectos de esta fracción se entenderá por grande, mediana, pequeña y micro empresas, aquellas a que se refiere la estratificación establecida por la Secretaría de Economía de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -5113,13 +5111,13 @@ I. Por la renta de aparato de audioguía turística, 0.81 VSMGZ por día
 
 II. Por la prestación del servicio del circuito “Querétaro desde adentro”
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 a. General, 4.62 VSMGZ; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -5131,7 +5129,7 @@ a. Adultos, 0.81 VSMGZ; y
 
 b. Menores de 12 años y personas adultas mayores, 0.48 VSMGZ
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -5141,25 +5139,25 @@ a. General, 2.31 VSMGZ.
 
 b. Menores de 12 años y personas adultas mayores, 1.85 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 V. Por la venta de carteles, 0.54 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 VI. Por la venta de juego de seis carteles, 2.77 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 VII. Por la venta de tubo para cartel, una cuota de .31 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -5311,7 +5309,7 @@ Son otras transferencias, las cantidades de dinero que con ese carácter asigna 
 
 ## TÍTULO NOVENO. DE LOS INGRESOS EXTRAORDINARIOS
 
-### CAPITULO ÚNICO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 156.
 
@@ -5335,7 +5333,7 @@ VI. Aportaciones extraordinarias de mejoras.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-## TITULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
+## TÍTULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -5577,7 +5575,7 @@ SECRETARIO DE GOBIERNO
 
 Rúbrica
 
-N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 27 DE JUNIO DE 2003
 
@@ -5823,13 +5821,13 @@ Se derogan todas las disposiciones fiscales que se opongan a la presente Ley.
 
 P.O. 13 DE DICIEMBRE DE 2008.
 
-LEY POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTICULOS 21, 128, 130, 131, 132, 135, 136, 137, 138, 139 Y 145-A DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS 21, 128, 130, 131, 132, 135, 136, 137, 138, 139 Y 145-A DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO.
 
 Artículo Único. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 P.O. 13 DE DICIEMBRE DE 2008.
 
-LEY POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Solo para el ejercicio fiscal 2009, se establecen las siguientes disposiciones de vigencia anual:
 
@@ -5939,7 +5937,7 @@ Artículo Quinto. Publíquese la presente Ley en el Periódico Oficial del Gobie
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-SE REFORMA EL CAPITULO SEGUNDO DEL TITULO TERCERO DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+SE REFORMA EL CAPÍTULO SEGUNDO DEL TÍTULO TERCERO DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Esta Ley entrará en vigor el 1 de enero de 2010.
 
@@ -5949,7 +5947,7 @@ Artículo Tercero. Durante el primer año de vigencia de la ley y para efectos d
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-LEY POR LA QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2010, serán las siguientes:
 
@@ -6324,3 +6322,9 @@ Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jera
 Artículo Tercero. Las escrituras que se hubiesen presentado a las tesorerías y oficinas catastrales con anterioridad a la vigencia de esta Ley, se tramitarán en la forma y términos aplicables al momento de su presentación.
 
 Artículo Cuarto. Los trámites de actos traslativos de dominio ingresados a las Tesorerías Municipales antes del 03 de diciembre del 2008, y que a la fecha de la entrada en vigor de la presente Ley, se encuentren pendientes de empadronar, podrán ser liberados, siempre y cuando se tenga registro que de los mismos se haya efectuado el pago provisional del Impuesto Sobre Traslado de Dominio, y en su caso, cualquier otro impuesto derivado de la propiedad inmobiliaria, así como se hubiere registrado el cambio de propietario ante las oficinas catastrales correspondientes.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
