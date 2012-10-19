@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-08-31"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -523,9 +523,13 @@ IV.- Propiciar en el educando la confianza y seguridad en sí mismo, mediante la
 
 V.- Promover la formación y estimular la adquisición de hábitos, de ejercer diaria higiene, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva.
 
-VI.- Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión, y
+VI.- Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión, y (sic)
 
 VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+VIII.- Promover la práctica de estilos de vida saludables en los educandos, con la finalidad de que las instituciones educativas públicas y privadas promuevan la práctica del deporte y actividades físicas en sus planteles.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
@@ -845,7 +849,7 @@ X.- Una vez reconocido su carácter de asociados conforme a esta Ley y su Reglam
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
 
-XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y
+XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y (sic)
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -1518,3 +1522,9 @@ P.O. 31 DE AGOSTO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 del presente Decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, de tal manera que para el ciclo escolar 2013-2014 se iniciara al 100 por ciento con los alumnos de 3° de preescolar y 100 por ciento para los alumnos de 1°, 2° y 3° grado de primaria. A partir del ciclo escolar 2014-2015, se cubrirá al 100 por ciento a los alumnos de 4°, 5° y 6° grado de primaria. Para el ciclo escolar 2016-2017 se aplicará en su totalidad en el nivel básico del Sistema Educativo Estatal.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
