@@ -4,7 +4,7 @@ identifier: "COA-ley-de-entidades-paraestatales-del-estado-de-coahuila-45357"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-17"
-last_updated: "2005-12-07"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COAHUILA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO SERA DEROGADO, HASTA EN TANTO NO SE EXPIDAN LAS DISPOSICIONES REGLAMENTARIAS AL TITULO IV DE LA DICHO ORDENAMIENTO; POR LO QUE SEGUIRAN APLICANDOSE LAS DISPOSICIONES CONTENIDAS EN LA LEY DE ENTIDADES PARAESTATALES EN CUANTO NO SE OPONGAN A LA NORMA CITADA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 17 de junio de 2005.
 
@@ -569,7 +569,7 @@ C.P. INÉS GARZA ORTA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE DICIEMBRE DE 2005.
 
@@ -602,3 +602,13 @@ DECIMOSEGUNDO. Las Juntas Locales de Conciliación y las Juntas de Conciliación
 DECIMOTERCERO. Las facultades en materia de Archivos Públicos serán ejercidas de conformidad a la legislación vigente hasta en tanto no se realicen los ajustes normativos correspondientes.
 
 Las disposiciones legales expedidas en materia, vigentes al momento de la publicación del presente ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto no se expiden las que deban sustituirlas.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Entidades Paraestatales del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado el 17 de junio de 2005.
+
+TERCERO. El Ejecutivo del Estado podrá expedir los reglamentos y normatividad que considere necesarios, para facilitar la aplicación e interpretación de la presente ley.
+
+CUARTO. Se derogan las disposiciones que se opongan a esta ley.
