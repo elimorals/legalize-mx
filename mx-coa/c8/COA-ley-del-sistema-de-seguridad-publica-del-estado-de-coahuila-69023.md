@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2012-06-26"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -643,23 +643,93 @@ V. El titular de la Secretaría de Gobierno;
 
 VI. El titular de la Secretaría de Finanzas;
 
-VII. Un representante del Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-VIII. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
+VII. El titular de la Secretaría de Desarrollo Social;
 
-IX. Un representante del consejo ciudadano de vinculación social;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-X. Los presidentes municipales;
+VIII. El titular de la Secretaría de Salud;
 
-XI. El delegado de la Procuraduría General de la República;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XII. El comandante de la Sexta Zona Militar, y
+IX. El titular de la Administración Fiscal General;
 
-XIII. El comandante de las Fuerzas Federales en el estado; (sic)
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+X. Un representante del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XI. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XII. Siete representantes de la sociedad civil;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XIII. Un representante del consejo ciudadano de vinculación social;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XIV. Los presidentes municipales;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XV. El delegado de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XVI. El comandante de la Sexta Zona Militar, y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XVII. El comandante de las Fuerzas Federales en el estado; (sic)
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Una Junta nombrada por el Consejo Estatal, integrada por siete personas de reconocido prestigio a cargo de instituciones de educación superior o centros de investigación de excelencia reconocida en el Estado, en el área de las ciencias sociales, incluyendo la ciencia política, economía y otras ramas afines del conocimiento, emitirá la convocatoria para elegir a los representantes de la sociedad civil, recibirá las solicitudes de los aspirantes, revisará y seleccionará a aquellos que cumplan con los requisitos establecidos procurando la representación de las diversas regiones del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+La junta organizará el proceso de selección y presentará al Congreso del Estado una terna para cada puesto vacante. El Congreso del Estado nombrará a los representantes de la sociedad civil por mayoría calificada.
 
 Sólo en caso debidamente justificado, el gobernador podrá hacerse representar por el Secretario de Gobierno, quien presidirá la sesión del consejo informando de inmediato el resultado al titular del ejecutivo. En ningún otro caso se admitirá suplencia.
 
 El consejo estatal podrá invitar, por la naturaleza de sus asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública y procuración de justicia. Dicha participación será con carácter honorífico. Así mismo, el presidente de la Comisión de Derechos Humanos del Estado de Coahuila, será invitado permanentemente de este consejo estatal. Estos últimos tendrán derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 40 BIS.- Para ser consejero representante de la sociedad civil, se requiere:
+
+I.- Ser mexicano y residente en el Estado durante al menos los cinco años anteriores a la fecha de su elección;
+
+II.- No haber desempeñado durante los últimos seis años un cargo de elección popular por voto directo o plurinominal, ni interino o substituto por designación de otro Poder o que haya requerido de ratificación por uno o varios Poderes de la Unión o de una Entidad Federativa;
+
+III.- No haber desempeñado un cargo como impartidor de justicia durante los últimos seis años previos a su elección como consejero ciudadano;
+
+IV.- No haber desempeñado durante los últimos seis años un cargo en entidad Pública, a excepción de instituciones educativas y de investigación, cuyo presupuesto de ingresos y/o egresos este sujeto a aprobación de Poderes Federales o Estatales o Municipales;
+
+V.- No haber pertenecido a las fuerzas armadas en activo, durante los últimos seis años;
+
+VI.- Contar con 5 años de experiencia, públicamente reconocida y comprobable en materias relacionadas con Prevención del Delito, Seguridad Pública, Seguridad (sic)
+
+Nacional, Policía, Procuración de Justicia, Impartición de Justicia, Reinserción Social o Transparencia y rendición de cuentas;
+
+VII.- No haber ocupado durante los últimos cinco años cargos de dirección en partidos políticos o asociaciones políticas nacionales; y
+
+VIII.- No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 40 TER.- Los consejeros ciudadanos representantes de la sociedad civil sólo podrán ser removidos de sus funciones cuando:
+
+I. Transgredan las disposiciones contenidas en la Constitución y esta Ley;
+
+II. Afecten por sus actos u omisiones las atribuciones del Consejo;
+
+III. Hayan sido sentenciados de manera definitiva por un delito grave que merezca pena corporal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -749,9 +819,11 @@ Los Consejos Consultivos Municipales, los Consejos Regionales y las organizacion
 
 Consejos Consultivos
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 46.
 
-Los Municipios crearán, conforme a las leyes aplicables y para cumplir los fines previstos en esta Ley, los Consejos Consultivos Municipales; cuya integración, atribuciones y funciones serán las que se (sic) determinen el instrumento de su creación, el cual deberá contemplar la participación plural de las organizaciones ciudadanas citadas y publicarse en el Periódico Oficial del Gobierno del Estado, así como en el (sic) Gaceta Municipal, en su caso.
+Los Municipios crearán, conforme a las leyes aplicables y para cumplir los fines previstos en esta Ley, los Consejos Consultivos Municipales; cuya integración, atribuciones y funciones serán las que se determinen el instrumento de su creación, el cual deberá contemplar la participación plural de las organizaciones ciudadanas citadas que deberán conformar cuando menos el 51% de la totalidad de los integrantes del Consejo y publicarse en el Periódico Oficial del Gobierno del Estado, así como en el Gaceta Municipal, en su caso.
 
 Consejos Regionales
 
@@ -3940,3 +4012,9 @@ P.O. 26 DE JUNIO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
