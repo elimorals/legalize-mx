@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2012-09-28"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -715,11 +715,11 @@ En el Partido Judicial de Tijuana, habrá cuando menos cinco Juzgados de Primera
 
 Tratándose del Juzgado de Primera Instancia Especializado para Adolescentes además de la competencia territorial que le corresponde al Partido Judicial de Tijuana, conocerá de las conductas tipificadas como delito que cometan los adolescentes dentro de las competencias territoriales de los partidos judiciales de Tecate y Playas de Rosarito.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 56.
 
-En el Partido Judicial de Ensenada, habrá cuando menos tres Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia Penal y tres Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en el Ciudad de Ensenada y uno Mixto de Paz en San Quintín. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
+En el Partido Judicial de Ensenada, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, cuatro Juzgados de Primera Instancia Penal; distribuidos de la siguiente manera: Uno Civil y uno Penal en San Quintín. Además contará con un Juzgado de Paz, dos Juzgados de Primera Instancia de lo Familiar y un Juzgado de Primera Instancia Especializado para Adolescentes.
 
 ###### ARTICULO 57.
 
@@ -3952,3 +3952,9 @@ TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesar
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tal fin por el Congreso del Estado, en el presupuesto de egresos asignado al Poder Judicial para el ejercicio fiscal 2013.
