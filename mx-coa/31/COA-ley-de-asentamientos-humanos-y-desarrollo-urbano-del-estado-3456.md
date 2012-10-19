@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2011-06-24"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -661,9 +661,13 @@ XXXVIII.- Promover o ejecutar fraccionamientos populares y de interés social;
 
 XXXIX.- Autorizar la subdivisión y fusión de terrenos;
 
-XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XLI.- Expedir las constancias de usos del suelo y las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el municipio;
+XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles. En ningún caso podrán otorgar licencias para construcción de casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XLI.- Expedir las constancias de usos del suelo y las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el municipio. En ningún caso podrán otorgar constancias de uso de suelo para casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
 
 XLII.- Vigilar que las acciones, obras y servicios que se ejecuten en el municipio sean compatibles con la legislación, programas y declaratorias aplicables;
 
@@ -769,7 +773,7 @@ La Fiscalía General del Estado, la Secretaría de Finanzas, la Dirección y los
 
 Es materia de desarrollo urbano la planeación, ordenación, conservación, mejoramiento y crecimiento de los centros de población, así como las provisiones, usos, reservas y destinos del suelo urbano en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 29.
 
@@ -925,6 +929,10 @@ XII.- La estructura de organización y coordinación, que se referirá a aquella
 
 XIII.- Anexo Gráfico, que expresará en una forma descriptiva y clara el contenido básico del programa.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Además en el contenido de los planes o programas de desarrollo urbano deberá establecerse la prohibición de usos de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
+
 La estructura y contenido de los planes y programas de desarrollo urbano podrá adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
 
 ###### ARTICULO 44.
@@ -991,7 +999,9 @@ VI.- La especificación de los límites municipales determinados conforme a las 
 
 VII.- La zonas urbanas, la (sic) reservas para su expansión futura y las zonas de preservación ecológica de los centros de población del municipio;
 
-VIII.- Los usos y destinos del suelo en el municipio; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+VIII.- Los usos y destinos del suelo en el municipio, que en ningún caso serán autorizados para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado; y
 
 IX.- Los planes y programas de desarrollo urbano de los centros de población y los esquemas de desarrollo urbano que procedan, en aquellas localidades que por sus características propias no requieran de la formulación de un programa.
 
@@ -1141,7 +1151,7 @@ Los programas parciales de desarrollo urbano serán elaborados, aprobados, contr
 
 Los ayuntamientos podrán solicitar el apoyo y opinión del Gobierno del Estado, a través de la Secretaría, así como del Consejo Consultivo de Desarrollo Urbano del Estado, y, en su caso, de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 60.
 
@@ -1237,7 +1247,7 @@ Los planes y programas municipales de desarrollo urbano y los que de ellos se de
 
 Serán nulos de pleno derecho los actos de aprobación de planes y programas de desarrollo urbano que no cuenten previamente con la opinión del Consejo Consultivo de Desarrollo Urbano del Estado o del Consejo Municipal de Desarrollo Urbano respectivo, según corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 72.
 
@@ -1281,7 +1291,7 @@ IV.- Sobrevenga otra causa de ordeno (sic) de interés general que haga recomend
 
 En ningún caso podrá abrogarse un programa de desarrollo urbano, sin que en la resolución correspondiente se declare la vigencia de uno nuevo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1344,6 +1354,10 @@ La persona física o moral, pública o privada, que pretenda realizar obras, acc
 ###### ARTICULO 84.
 
 La constancia de uso del suelo es independiente y condiciona la expedición por parte de las autoridades competentes, de autorizaciones, permisos, licencias o concesiones que se deriven de esta ley; tales como, fraccionamientos, subdivisiones, fusiones, relotificaciones, construcciones, demoliciones, adaptaciones de obras, condominios y urbanizaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTICULO 84 BIS.- En ningún caso se expedirán constancias de uso de suelo, ya sea municipal o estatal, para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
 
 ###### ARTICULO 85.
 
@@ -1613,7 +1627,7 @@ Las áreas y predios de un centro de población, cualquiera que sea su régimen 
 
 Las tierras que se encuentren en explotación minera, agrícola o forestal o que sean aptas para estos tipos de explotación, deberán utilizarse preferentemente en dichas actividades, de las que sólo podrán retirarse para ser incorporadas al proceso de urbanización de acuerdo con la legislación especial sobre esas materias y conforme a lo previsto en esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 117.
 
@@ -1681,7 +1695,7 @@ El Gobierno del Estado y los ayuntamientos, tendrán derecho de preferencia para
 
 Cuando para el cumplimiento de los programas de desarrollo urbano, sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública, actuará de conformidad con las leyes de la materia que fueren aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 124.
 
@@ -1719,7 +1733,7 @@ La fundación de los centros de población, que se realice conforme a esta ley, 
 
 El acuerdo a que se refiere el párrafo anterior, contendrá la declaratoria procedente sobre provisión de tierras y ordenará la formulación del programa de desarrollo urbano respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 130.
 
@@ -2055,7 +2069,7 @@ Las calles locales deberán tener un ancho mínimo de 13 metros, medido de aline
 
 En el caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 V.- INFRAESTRUCTURA URBANA. Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
@@ -2103,7 +2117,7 @@ Las calles locales deberán tener un ancho mínimo de 13 metros, medido de aline
 
 En el caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
@@ -2153,7 +2167,7 @@ Cuando necesariamente una calle local tenga que ser cerrada, se construirá un r
 
 En caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 V.- INFRAESTRUCTURA URBANA. Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
@@ -2205,7 +2219,7 @@ En el caso de que existan calles peatonales éstas deberán contar con una área
 
 Cualquier lote que tenga acceso a través de la calle peatonal deberá estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
@@ -2253,7 +2267,7 @@ En el caso de que existan calles peatonales éstas deberán contar con una área
 
 Cualquier lote que tenga acceso a través de la calle peatonal deberá estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
@@ -2477,7 +2491,7 @@ El municipio deberá utilizar las donaciones para el servicio de personas de esc
 
 ###### ARTICULO 196.
 
-La autorización de los fraccionamientos será facultad exclusiva del ayuntamiento al través del Presidente Municipal, previa satisfacción de los requisitos establecidos por esta ley.
+La autorización de los fraccionamientos será facultad exclusiva del ayuntamiento al (sic) través del Presidente Municipal, previa satisfacción de los requisitos establecidos por esta ley.
 
 Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -2891,6 +2905,10 @@ La licencia de construcción es el documento expedido por las autoridades compet
 
 Este documento será indispensable para el inicio de la construcción de cualquier obra.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+En ningún caso se expedirán licencias de construcción a casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
+
 ###### ARTICULO 257.
 
 Las obras de construcción, instalación, modificación, ampliación, reparación y demolición en los predios de los asentamientos humanos del Estado, se sujetarán a las disposiciones de esta ley y demás ordenamientos aplicables.
@@ -3021,9 +3039,13 @@ A quienes incurran en infracción a la presente ley, le serán aplicables las si
 
 I.- A quienes no cumplan con la obligación de proporcionar los informes que le solicite la autoridad competente, lo hagan con falsedad o fuera del tiempo que se les hubiere concedido al efecto, se les impondrá una sanción equivalente al importe de diez a quinientas veces el salario mínimo general vigente;
 
-II.- A los que den un uso urbano a un terreno o alguna edificación, sin la autorización correspondiente, o les den un uso distinto del autorizado, se les aplicará una sanción equivalente al importe de cien a mil veces el salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-III.- A quienes realicen una construcción sin la autorización correspondiente, se les aplicará una sanción equivalente al importe de diez a setecientas veces el salario mínimo general vigente;
+II.- A los que den un uso urbano a un terreno o alguna edificación, sin la autorización correspondiente, o les den un uso distinto del autorizado, se les aplicará una sanción equivalente al importe de cien a mil veces el salario mínimo general vigente; si el uso dado está relacionado con la instalación u operación de casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación o para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado; la sanción aplicable será equivalente al importe de cinco mil a diez mil veces el salario mínimo vigente.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+III.- A quienes realicen una construcción sin la autorización correspondiente, se les aplicará una sanción equivalente al importe de diez a setecientas veces el salario mínimo general vigente; si la construcción tiene como fin albergar casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación o para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado; la sanción aplicable será equivalente al importe de cinco mil a diez mil veces el salario mínimo vigente.
 
 IV.- A quienes realicen construcciones sin cumplir con el diseño, normas y especificaciones del proyecto autorizado, se les aplicará una sanción equivalente al importe de cien a mil veces el salario mínimo general vigente;
 
@@ -3241,7 +3263,7 @@ EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. ROGELIO RAMOS ORANDAY
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE JUNIO DE 1996.
 
@@ -3318,3 +3340,9 @@ P.O. 24 DE JUNIO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autorizaciones, permisos y licencias a que se refiere esta Ley, que se encuentren en trámite con anterioridad a la entrada en vigor del presente decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de haber ingresado la solicitud correspondiente.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto en este decreto.
