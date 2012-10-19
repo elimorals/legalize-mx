@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-09-21"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -125,9 +125,9 @@ X.- La información relativa a las condiciones, recursos y servicios de salud en
 
 XI.- La educación para la salud;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XII.- La orientación y vigilancia en materia de nutrición;
+XII.- La orientación y vigilancia de la nutrición, colocando énfasis en las instituciones educativas públicas y privadas de los niveles básico y media superior del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -573,7 +573,9 @@ II.- Las actividades recreativas, de esparcimiento y culturales destinadas a for
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 28 DE DICIEMBRE DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
+
+IV.- La supervisión de la calidad nutricional de los alimentos que se proporcionan o venden a los niños y adolescentes en las instituciones educativas de los niveles básico y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y
 
 V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
@@ -1117,17 +1119,21 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 70.
 
-Las Autoridades Sanitarias del Estado propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población. La Secretaría de Salud del Estado procurará que estos programas sean difundidos en medios masivos de comunicación social que actúen en el ámbito del Estado.
+Las Autoridades Sanitarias del Estado propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población, principalmente del Sector Educativo. La Secretaría de Salud del Estado procurará que estos programas sean difundidos en medios masivos de comunicación social que actúen en el ámbito del Estado. Así mismo, la Secretaría de Salud implementará los referidos programas en todos los tipos y modalidades de educación que se impartan en el Estado.
+
+> <small>(REFORMADO P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 71.
 
-La Secretaría de Salud del Estado formulará y desarrollará programas de nutrición, promoviendo la participación en los mismos de los organismos cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores sociales y privados.
+La Secretaría de Salud del Estado formulará y desarrollará programas de nutrición y de orientación alimentaria, con el objeto de encaminar a los ciudadanos a una sana alimentación y nutrición para su desarrollo físico, psicológico y social, promoviendo la participación en los mismos de los organismos cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores sociales y privados.
 
 ###### ARTÍCULO 72.
 
@@ -2556,3 +2562,17 @@ TERCERO.- Los establecimientos a que se refiere el artículo 50 TER 6 de la Ley 
 CUARTO.- El Centro de Trasplantes y Procuración de Órganos y Tejidos y los restablecimientos que se hacen referencia en el punto anterior, tendrán un plazo de hasta doce meses a partir de la entrada en vigor del presente Decreto, para contar con un Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes. Dicho plazo se determinará de conformidad con las disposiciones reglamentarias que para tal efecto emitan el ejecutivo Estatal.
 
 QUINTO.- Las acciones que, en su caso, deban efectuar las dependencias y entidades de la Administración Pública Estatal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO No. 300, POR EL QUE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4 EN SU FRACCIÓN XII, 24 EN SU FRACCIÓN IV Y 71 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO No. 301, POR EL QUE APRUEBA LA REFORMA A LOS ARTÍCULOS 69 Y 70 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
