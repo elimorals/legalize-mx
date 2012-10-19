@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2012-08-29"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -291,7 +291,7 @@ V.- La atención de la salud de los habitantes del Estado, la promoción de una 
 
 VI.- (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2011)</small>
 
 VII.- Garantizar el acceso a la información pública gubernamental y la protección de los datos personales, el derecho a la vida privada, la intimidad y la propia imagen, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos y la Ley aplicable a la materia.
 
@@ -905,7 +905,7 @@ XVI.- Nombrar, por consenso o por mayoría calificada de los miembros del Congre
 
 XVII.- Elegir con el carácter de interino al ciudadano que deba sustituir al Gobernador de elección popular directa, en sus faltas temporales, o en su falta absoluta, si ésta acaeciere en los dos primeros años del período constitucional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 XVIII.- Convocar a elecciones, comunicando oportunamente al Consejo General del Instituto Electoral del Estado.
 
@@ -2099,6 +2099,10 @@ El Gobernador, durante el período de su encargo, sólo podrá ser acusado por d
 
 Para procesar por un delito del orden común a un Diputado, al Gobernador o a un Magistrado, se necesita que la Legislatura, erigida en Gran Jurado, declare por los dos tercios de los votos de sus miembros presentes, si ha lugar o no a formarle causa. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no prejuzga sobre los fundamentos de la acusación ni impide que ésta continúe su curso cuando el acusado haya dejado de tener fuero. En el afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los tribunales ordinarios.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+No se requiere declaración de procedencia en caso de que alguno de los servidores públicos mencionados en el párrafo anterior se encuentre separado de su cargo o aún no lo haya asumido. Tampoco se requerirá cuando se trate de servidores públicos que tengan el carácter de suplente, salvo si se encuentran en ejercicio de su encargo.
+
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ###### Artículo 127.
@@ -2363,7 +2367,7 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 P.O. 4 DE MAYO DE 1979.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 72 Y 73 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 72 Y 73 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTICULO UNICO.
 
@@ -2477,7 +2481,7 @@ Los nuevos Consejeros Electorales y el Consejero Presidente del Instituto Electo
 
 P.O. 5 DE MARZO DE 2001.
 
-DECRETO POR EL QUE SE SE REFORMAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 57; LA FRACCIÓN III DEL 61; LOS ARTÍCULOS 113, 114, 115 Y 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 57; LA FRACCIÓN III DEL 61; LOS ARTÍCULOS 113, 114, 115 Y 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2591,7 +2595,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE DICIEMBRE DE 2004.
 
-DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA..
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2926,6 +2930,14 @@ P.O. 29 DE AGOSTO DE 2012.
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta adición ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
