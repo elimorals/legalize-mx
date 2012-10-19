@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2011-01-14"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -77,9 +77,17 @@ c) Familiares;
 
 d) Penales;
 
-e) Mixtos, cuando deban conocer de dos o más materias; y
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-f) De Adolescentes.
+e) Mixtos, cuando deban conocer de dos o más materias;
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+f) De Adolescentes; y
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+g) En Materia de Narcomenudeo.
 
 V.- Juzgados Letrados, que en razón de la materia serán:
 
@@ -1265,9 +1273,9 @@ A los Tribunales Distritales, quedarán adscritos, para los asuntos de su compet
 
 Corresponde a los Tribunales Distritales, el conocimiento de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-I.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias dictadas por los jueces de primera instancia y letrados, que estén adscritos a su circunscripción territorial, en asuntos civiles, mercantiles, familiares y penales; así como del recurso de apelación extraordinaria en todos los casos previstos por la ley;
+I.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias dictadas por los jueces de primera instancia y letrados, que estén adscritos a su circunscripción territorial, en asuntos civiles, mercantiles, familiares, penales y en materia de narcomenudeo; así como del recurso de apelación extraordinaria en todos los casos previstos por la ley;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1327,21 +1335,21 @@ Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los 
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 30.
 
-En los distritos judiciales del Estado habrán los Juzgados de Primera Instancia en Materia Civil, Mercantil, Familiar, Penal y Mixtos que autorice el Pleno del Tribunal Superior de Justicia, atendiendo a las necesidades del servicio ya la disponibilidad presupuestal.
+En los distritos judiciales del Estado habrá los Juzgados de Primera Instancia en Materia Civil, Mercantil, Familiar, Penal, de Narcomenudeo y Mixtos que autorice el Pleno del Tribunal Superior de Justicia, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
 
 Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Pleno del Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 31.
 
 Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en Materia Civil, Mercantil o de lo Familiar, el Pleno del Tribunal Superior de Justicia acordará el sistema de recepción, turnos y distribución de demandas entre los mismos.
 
-Tratándose de Juzgados Penales, éstos conocerán por riguroso turno semanal.
+Tratándose de Juzgados Penales y de Narcomenudeo, éstos conocerán por riguroso turno semanal.
 
 ###### ARTICULO 32.
 
@@ -1411,6 +1419,10 @@ III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatoria
 
 IV.- De los demás asuntos que les competan de acuerdo con las leyes.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+El Consejo de la Judicatura autorizará, con atención a las necesidades del servicio y a la disponibilidad presupuestal, la creación de una instancia única especializada para conocer, de manera concurrente con la Federación, de los delitos o conductas tipificadas como delitos contra la salud, en su modalidad de narcomenudeo, en términos de lo dispuesto en el artículo 474 de la Ley General de Salud y los correlativos del Título Cuarto, Libro Segundo, del Código Penal de Coahuila.
+
 ###### ARTICULO 35.
 
 Los Jueces de Primera Instancia en Materia Familiar conocerán:
@@ -1448,6 +1460,14 @@ l. De las conductas tipificadas como delitos por las leyes penales que se atribu
 II. De los demás asuntos que le competan de acuerdo con las leyes.
 
 Cada Juzgado de Primera Instancia en materia de Adolescentes, contará con un Juez Supernumerario designado por el Consejo de la Judicatura, que conocerá de los asuntos de esta materia en caso de procedencia de los recursos de inconformidad previstos en la Ley de Justicia para Adolescentes del Estado de Coahuila; además de los casos de excusas y recusaciones de los jueces de la materia una vez calificadas por la autoridad competente.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### ARTICULO 37
+
+BIS.- Los jueces de primera instancia en materia de Narcomenudeo conocerán de los Delitos contra la salud, en su modalidad de Narcomenudeo, en los términos que señale la Ley General de Salud, LA LEY ESTATAL DE SALUD Y EL CÓDIGO PENAL DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1745,9 +1765,15 @@ XIII.- Designar a los abogados que integren el Comité Consultivo del Consejo;
 
 XIV.- Integrar Comisiones dentro del Consejo y señalarles su duración, objeto y funciones;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XV.- Las demás que le asigne esta ley y demás disposiciones aplicables.
+XV.- Dictar las bases generales de organización y funcionamiento de su órgano auxiliar denominado Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XVI.- Nombrar, a propuesta de su Presidente, al director, subdirectores, delegados y defensores de oficio de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
+
+XVII. Las demás que le asigne esta ley y demás disposiciones aplicables.
 
 El Consejo de Judicatura sesionará cuando menos una vez al mes, y cuando se convoque por su Presidente o por más de tres de sus miembros.
 
@@ -1758,6 +1784,14 @@ El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior d
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 El Consejo de la Judicatura contará con un Secretario de Acuerdo y Trámite, con los Secretarios de Estudio y Cuenta y demás personal que sea necesario y autorice el presupuesto. Los secretarios deberán satisfacer los mismos requisitos que esta ley señala para los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, respectivamente, quienes tendrán el escalafón que corresponde a los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta de las Salas.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### ARTICULO 57
+
+BIS.- Para su adecuado funcionamiento, el Consejo de la Judicatura contará con un órgano auxiliar denominado Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza, cuyo objeto es garantizar el acceso de los particulares a la debida defensa en materia penal y de los adolescentes a quienes se atribuya una conducta tipificada como delito en las leyes penales, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en asuntos del orden civil, familiar, mercantil, laboral y agrario, y orientar a los consumidores en general y a los usuarios de servicios financieros.
+
+El funcionamiento, facultades y obligaciones de la Defensoría Jurídica Integral, se regirán por la Ley de la Defensoría Integral para el Estado de Coahuila de Zaragoza. Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2659,9 +2693,17 @@ En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento 
 
 IV.- Cuando se trate de jueces penales, los asuntos que dejaren de conocer pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
-Si todos los jueces penales de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere.
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-En caso de que los jueces civiles estuvieren impedidos pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Familiar, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, pasará al Juez de Primera Instancia en Materia Penal del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+V. Cuando se trate de jueces en materia de narcomenudeo, los asuntos en los cuales estuvieren impedidos para conocer, pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Si todos los jueces en materia de narcomenudeo de un distrito dejaren de conocer o estuvieren impedidos, pasará al Juez de Primera Instancia en Materia de Narcomenudeo del distrito judicial más próximo.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+En caso de que todos los jueces de todos los distritos del Estado en materia de narcomenudeo estuvieren impedidos para conocer, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Penal del Distrito originario, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -4444,3 +4486,43 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Hasta en tanto el Consejo de la Judicatura determine nueva cuantía de los juicios civiles y mercantiles que podrán conocer los Juzgados letrados en materia civil, éstos continuarán conociendo de los asuntos que les competen.
 
 TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 80 POR EL QUE SE MODIFICAN LOS INCISOS E) Y F) DE LA FRACCIÓN IV DEL ARTÍCULO 2°, LA FRACCIÓN I DEL ARTÍCULO 27, LOS ARTÍCULOS 30 Y 31; SE ADICIONA UN INCISO G) A LA FRACCIÓN IV DEL ARTÍCULO 2°, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 34, SE ADICIONA UN ARTÍCULO 37 BIS Y UNA FRACCIÓN V AL ARTÍCULO 127, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 97 POR LO QUE SE ADICIONAN LAS FRACCIONES XV Y XVI, RECORRIÉNDOSE LA ULTERIOR, DEL ARTÍCULO 57, Y EL ARTÍCULO 57 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- Dentro de los 30 días siguientes a la publicación del presente decreto, el Ejecutivo del Estado, a través de las Secretarías de Gobierno y de Finanzas, y el Consejo de la Judicatura del Poder Judicial, establecerán una comisión para la transferencia administrativa y presupuestal de la Defensoría Jurídica Integral y sus dependencias en el Estado.
+
+Dicho proceso deberá concluir a los seis meses siguientes a la constitución de la comisión.
+
+SEGUNDO.- La selección y nombramiento de los defensores públicos a partir de su incorporación al Poder Judicial, particularmente en materia del nuevo Sistema de Justicia Acusatorio Adversarial, será de conformidad a la normatividad vigente o que se expida para este efecto. La comisión a que se refiere la disposición anterior, establecerá las bases para este efecto.
+
+TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las disposiciones anteriores, y entre en plena vigencia el presente decreto, el director, los subdirectores de unidad, delegados, defensores de oficio y procuradores auxiliares, tendrán la misma competencia prevista en la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila.
+
+CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
