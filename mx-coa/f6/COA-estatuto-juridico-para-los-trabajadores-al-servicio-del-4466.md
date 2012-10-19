@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2011-05-31"
+last_updated: "2012-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
+ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -51,7 +51,7 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de observancia general para los Titulares de las dependencias y entidades de los Poderes del Estado y sus trabajadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 2.
 
@@ -215,7 +215,7 @@ IV.- Las personas que presten sus servicios al Estado mediante contrato civil o 
 
 De conformidad con lo dispuesto por el artículo 82, fracción VI de la Constitución Política del Estado, los trabajadores de base a que se refiere dicha disposición Constitucional gozarán de las prerrogativas que esta Ley concede a este tipo de trabajadores, excepción hecha del derecho de inamovilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II.
 
@@ -285,7 +285,9 @@ Igualmente son trabajadores de Confianza, todo el Personal que Labora en la Audi
 
 II.- En el Poder Ejecutivo:
 
-Los Secretarios de las Dependencias, el Fiscal General del Estado, los Fiscales Especializados, los Subsecretarios, los Directores Generales, de Área, Jurídicos y Administrativos; el Procurador Social y de Atención Ciudadana, los Subdirectores, los Jefes de Departamento, de Oficina, Administrativos, de Unidades, de Diseño, de Información, de Programas y de Recursos Financieros; los Coordinadores Generales y Administrativos; Subcoordinadores, Defensores de Oficio; Delegados, Subdelegados; Guardias, Inspectores, Médicos Especialistas y Forenses, Psicólogos, Odontólogos, Pilotos, Pilotos del Ejecutivo, Capitán del Eurocopter, Presidentes y Actuarios de las Juntas Locales, Procuradores y Procuradores Auxiliares del Trabajo, Titular de la Comisión Coahuilense de Construcción de Obras, de Control de Obras y de las distintas regiones; Recaudadores de Rentas, Registradores de Oficinas, Representantes de las diferentes Secretarías, Residentes, Responsables de Unidades y de Laboratorios; Secretarios Auxiliares, de Acuerdos, de Oficina, Particulares, Privados, Técnicos y Adjuntos; Subcomisionados, Encargados, Supervisores, Visitadores, Abogados Dictaminadores, Asesores, Asistentes, Ejecutivos y Operativos; Auditores, Auxiliares de las Juntas, Agentes y Secretarios del Ministerio Público, Contralores Internos y vigilantes.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Los Secretarios de las Dependencias, el Procurador General de Justicia del Estado, los Subprocuradores, los Subsecretarios, los Directores Generales, de Área, Jurídicos y Administrativos; el Procurador Social y de Atención Ciudadana, los Subdirectores, los Jefes de Departamento, de Oficina, Administrativos, de Unidades, de Diseño, de Información, de Programas y de Recursos Financieros; los Coordinadores Generales y Administrativos; Subcoordinadores, Delegados, Subdelegados; Guardias, Inspectores, Médicos Especialistas y Forenses, Psicólogos, Odontólogos, Pilotos, Pilotos del Ejecutivo, Capitán del Eurocopter, Presidentes y Actuarios de las Juntas Locales, Procuradores y Procuradores Auxiliares del Trabajo, Titular de la Comisión Coahuilense de Construcción de Obras, de Control de Obras y de las distintas regiones; Recaudadores de Rentas, Registradores de Oficinas, Representantes de las diferentes Secretarías, Residentes, Responsables de Unidades y de Laboratorios; Secretarios Auxiliares, de Acuerdos, de Oficina, Particulares, Privados, Técnicos y Adjuntos; Subcomisionados, Encargados, Supervisores, Visitadores, Abogados Dictaminadores, Asesores, Asistentes, Ejecutivos y Operativos; Auditores, Auxiliares de las Juntas, Agentes y Secretarios del Ministerio Público, Contralores Internos y vigilantes.
 
 Así mismo todos aquellos técnicos operativos que tengan plazas homologadas a jefaturas de departamento y a subdirecciones.
 
@@ -299,7 +301,9 @@ En la Oficialía Mayor del Poder Judicial: el Oficial Mayor, los Directores de R
 
 En el Archivo General: el Director, los Encargados de los Archivos Regionales y Distritales.
 
-En el Consejo de la Judicatura: el Secretario de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+En el Consejo de la Judicatura: el Secretario de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios. El Director, Subdirectores de Unidad, Delegados, Defensores de Oficio, Procuradores Auxiliares, las unidades administrativas, auxiliares, de control y personal técnico que se requiera para el adecuado desempeño de las funciones, de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
 
 En los Tribunales Especializados cualquiera que sea su denominación, Tribunales Distritales, Juzgados de Primera Instancia y Letrados y demás órganos jurisdiccionales: Magistrados, Jueces, Secretarios de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios.
 
@@ -525,7 +529,7 @@ V.- Cuando esté sujeto a proceso ante el Tribunal de Conciliación y Arbitraje,
 
 DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 48.
 
@@ -693,7 +697,7 @@ En los trabajos que requieran una labor continua, el sindicato y los titulares d
 
 VACACIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 67.
 
@@ -1183,7 +1187,7 @@ Escalafón es el sistema organizado en cada dependencia o entidad pública estat
 
 Se expedirán las disposiciones legales de escalafón para los trabajadores de base y de base sindicalizados que integran los tres Poderes del Gobierno del Estado, de conformidad con las bases establecidas en este Título.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 155, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR CINCO FRACCIONES Y DOS PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 155, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR CINCO FRACCIONES Y DOS PÁRRAFOS.</small>
 
 ###### ARTICULO 118.
 
@@ -1241,7 +1245,7 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 Los trabajadores de cada dependencia y/o entidad pública estatal se clasificarán conforme a las categorías y denominaciones señaladas en el reglamento correspondiente y establecidas en el Presupuesto de Egresos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III.
 
@@ -1277,7 +1281,7 @@ El Gobierno del Estado proporcionará a las comisiones de escalafón los recurso
 
 Las facultades, obligaciones, atribuciones, procedimientos y derechos de las comisiones de escalafón y de sus organismos auxiliares en su caso, quedarán señaladas en las disposiciones reglamentarias correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I.
 
@@ -1599,7 +1603,7 @@ En los casos señalados en la fracción I del artículo 163, la prescripción se
 
 Para los efectos de la prescripción los meses y los años se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino completo el primer día hábil siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO DECIMO PRIMERO.
 
@@ -1731,7 +1735,7 @@ V.- Sustentar y aprobar el examen de méritos.
 
 El resto del personal deberá llenar los requisitos que esta Ley señala para ser trabajador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 179.
 
@@ -1955,7 +1959,7 @@ Las resoluciones definitivas llevarán la firma de los magistrados presentes en 
 
 Los votos particulares y las observaciones por escrito deberán ser firmadas por el magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 203.
 
@@ -2097,7 +2101,7 @@ El Secretario del Ejecutivo del Estado.
 
 LIC. OSCAR VILLEGAS RICO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MARZO DE 1991.
 
@@ -2166,3 +2170,17 @@ P.O. 1 DE FEBRERO DE 2011.
 P.O. 31 DE MAYO DE 2011
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- Dentro de los 30 días siguientes a la publicación del presente decreto, el Ejecutivo del Estado, a través de las Secretarías de Gobierno y de Finanzas, y el Consejo de la Judicatura del Poder Judicial, establecerán una comisión para la transferencia administrativa y presupuestal de la Defensoría Jurídica Integral y sus dependencias en el Estado.
+
+Dicho proceso deberá concluir a los seis meses siguientes a la constitución de la comisión.
+
+SEGUNDO.- La selección y nombramiento de los defensores públicos a partir de su incorporación al Poder Judicial, particularmente en materia del nuevo Sistema de Justicia Acusatorio Adversarial, será de conformidad a la normatividad vigente o que se expida para este efecto. La comisión a que se refiere la disposición anterior, establecerá las bases para este efecto.
+
+TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las disposiciones anteriores, y entre en plena vigencia el presente decreto, el director, los subdirectores de unidad, delegados, defensores de oficio y procuradores auxiliares, tendrán la misma competencia prevista en la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila.
+
+CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
