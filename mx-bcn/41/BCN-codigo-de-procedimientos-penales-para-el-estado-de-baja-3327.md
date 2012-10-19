@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-09-28"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
+EL BUENO DE LA FE DE ERRATASN. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1097,11 +1101,11 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los Artículos 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; desaparición forzada de personas, previsto en el Artículo 167 BIS, asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176; violación equiparada en el Artículo 177; violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; abuso Sexual previsto en el Artículo 180 BIS; robo previsto en el Artículo 201 BIS cuando se encuentre en el supuesto de la fracción III del Artículo 201; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209; extorsión a que se refiere el Artículo 224; y sus modalidades agravadas contenidas en el Artículo 224 BIS; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; La presunción prevista en el segundo párrafo del Artículo 232, cuando el sujeto activo se dedique a una actividad comercial; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tienen (sic) capacidad de resistirlo, tipificado en Artículo 261 párrafo segundo; pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo tipificado en el Artículo 262; turismo sexual con personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, tipificado en el Artículo 262-TER; lenocinio de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo previsto en el Artículo 264; TRATA DE PERSONAS PREVISTA EN LOS ARTÍCULOS 10 Y 11 DE LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE BAJA CALIFORNIA, terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
+Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los Artículos 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; feminicidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; desaparición forzada de personas, previsto en el Artículo 167 BIS, asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176; violación equiparada en el Artículo 177; violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; abuso sexual previsto en el Artículo 180 BIS; robo previsto en el Artículo 201 BIS cuando se encuentre en el supuesto de la fracción III del Artículo 201; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209; extorsión a que se refiere el Artículo 224; y sus modalidades agravadas contenidas en el Artículo 224 BIS; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; La presunción prevista en el segundo párrafo del Artículo 232, cuando el sujeto activo se dedique a una actividad comercial; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tienen capacidad de resistirlo, tipificado en Artículo 261 párrafo segundo; pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo tipificado en el Artículo 262; turismo sexual con personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, tipificado en el Artículo 262-TER; lenocinio de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo previsto en el artículo 264; trata de personas prevista en los artículos 10 y 11 de la Ley para Combatir, Prevenir y Sancionar la trata de personas en el Estado de Baja California, terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -1622,6 +1626,24 @@ III.- Una relación detallada y explicativa de las operaciones o experimentos re
 IV.- Las conclusiones o resultados obtenidos, especificando los principios de la ciencia, arte o técnica que sirvieron de apoyo;
 
 Cuando el peritaje contenga solo conclusiones y no especifique las operaciones o experimentos realizados, ni los principios aplicados para obtener y valorar los resultados, carecerá de valor probatorio.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 179 Bis.
+
+Cuando se trate de homicidio o feminicidio, además de la descripción que hará el que practique las diligencias, la harán también dos peritos que practicarán la necropsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originan la muerte. Solo podrá dejarse de hacer la necropsia, cuando el Juez lo acuerde previo dictamen de los peritos médicos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 179 Ter.
+
+La investigación pericial, ministerial y policial del delito de feminicidio, deberá realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dicho protocolo será obligatoria y su inobservancia será motivo de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+Artículo 179 Quarter.- En los casos de investigación de feminicidios, la Procuraduría General de Justicia del Estado deberá conservar un registro fotográfico de la víctima, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada que servirá para integrar investigaciones de la misma naturaleza, de conformidad con el artículo anterior. Cuando se trate de cadáveres no identificados o que no puedan ser reconocidos, deberá realizarse un estudio para determinar su ADN que se integrará a un Banco de Datos de Información Genética, a cargo de la Procuraduría General de Justicia del Estado, al que se incorporará la información genética de familiares de mujeres desaparecidas o presuntas víctimas de feminicidio, cuando así lo soliciten o en cumplimiento a una orden de la autoridad judicial.
+
+El Tribunal Superior de Justicia del Estado y la Procuraduría General de Justicia del Estado celebrarán, de conformidad con sus atribuciones; los convenios generales y específicos que se requieran para el debido cumplimiento de lo establecido en este artículo.
 
 ###### Artículo 180.
 
@@ -2443,7 +2465,9 @@ Duración de la Instrucción.- La instrucción deberá terminarse en el menor ti
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-Artículo 284 BIS.- Procedimiento Sumario Penal.- El procedimiento sumario se abrirá de oficio por el juez de la causa en los casos de flagrancia o confesión del inculpado.
+###### Artículo 284 Bis.
+
+Procedimiento Sumario Penal.- El procedimiento sumario se abrirá de oficio por el juez de la causa en los casos de flagrancia o confesión del inculpado.
 
 Cuando el inculpado se conforme con el auto de formal prisión o de sujeción a proceso, solicitando en el mismo escrito la apertura del procedimiento sumario, el Juez dará vista al Ministerio Público con esta solicitud y si no manifiesta oposición en los próximos tres días, o esta resulta infundada, ordenará su apertura.
 
@@ -3904,3 +3928,7 @@ TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesar
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
