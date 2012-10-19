@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2012-09-25"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4043,7 +4043,9 @@ Será punible el acoso sexual cuando el sujeto activo pueda causar un daño pers
 
 Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizaré los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
+
+> <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 377.
 
@@ -4051,7 +4053,11 @@ SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de u
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO PRIMERO. INJURIAS
+### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 378.
 
@@ -4067,7 +4073,11 @@ PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a vei
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO SEGUNDO. DIFAMACIÓN
+### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 381.
 
@@ -4129,11 +4139,11 @@ No serán considerados como delitos contra la dignidad de las personas, todas aq
 
 Este delito, sólo se perseguirá por querella de parte ofendida.
 
-## TÍTULO CUARTO. DELITOS CONTRA EL HONOR
+## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO TERCERO. CALUMNIA
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 384.
 
@@ -4183,7 +4193,7 @@ Se incrementará en un tercio el mínimo y el máximo de las sanciones de los p�
 
 ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las propias del homicidio doloso o culposo, según sea el caso, atendiendo a las reglas del concurso, en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
 
-### CAPÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS DELITOS DE INJURIAS, DIFAMACIÓN Y CALUMNIA
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 389.
 
@@ -4213,7 +4223,9 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá co
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de dos a ocho años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona de hasta doce años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 394.
 
@@ -4229,7 +4241,9 @@ CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se proce
 
 AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo en los términos de la ley civil.
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 397.
 
@@ -4253,17 +4267,15 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+### CAPÍTULO QUINTO. FRAUDE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
-
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO SÉPTIMO. USURA
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 399
 
@@ -4275,61 +4287,127 @@ Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto ac
 
 ###### ARTÍCULO 400.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+DE LOS NARCÓTICOS. Se consideran narcóticos a los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia.
 
-ARTÍCULO 400 BIS. (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+Para los efectos de este Título, son punibles las conductas que se relacionan con los estupefacientes, psicotrópicos y demás sustancias indicados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no existan elementos suficientes para presumir delincuencia organizada.
+
+Los narcóticos empleados en la comisión de los delitos a que se refiere este Título, se pondrán a disposición de la autoridad sanitaria estatal, la que procederá de acuerdo con las disposiciones o leyes de la materia a su aprovechamiento lícito o a su destrucción.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 401.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+SANCIÓN Y FIGURA TÍPICA DEL COMERCIO O SUMINISTRO DE NARCÓTICOS. Se aplicará prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa, a quien sin autorización comercie o suministre, aún gratuitamente, narcóticos indicados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+Cuando la víctima fuere persona menor de edad o que no tenga capacidad para comprender la relevancia de la conducta o para resistir al agente; o que aquélla fuese utilizada para la comisión de los mismos se aplicará una pena de siete a quince años de prisión y de doscientos a cuatrocientos días multa.
+
+Para los efectos de este Título, se entiende por suministro la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 402.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+MODALIDADES AGRAVANTES DEL COMERCIO O SUMINISTRO DE NARCÓTICOS. Las penas que en su caso resulten aplicables por este delito serán aumentadas en una mitad, cuando:
+
+I. Se cometan por servidores públicos encargados de prevenir, denunciar, investigar, juzgar o ejecutar las sanciones por la comisión de conductas prohibidas en el presente Título. En este caso, se impondrá además a dichos servidores públicos destitución e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Se cometan en centros educativos, asistenciales, policiales o de reclusión, o dentro del espacio comprendido en un radio que diste a menos de trescientos metros de los límites de la colindancia del mismo con quienes a ellos acudan, o
+
+III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
+
+IV. La víctima fuere menor de edad o incapacitada para comprender la relevancia de la conducta o para resistir al agente;
+
+V. Se utilice a menores de edad o incapaces para cometer cualesquiera de esos delitos;
+
+VI. Se cometa en centros educativos, asistenciales, policiales o de reclusión, o en sus inmediaciones con quienes a ellos acudan;
+
+VII. El agente determine a otra persona a cometer este delito, aprovechando el ascendiente familiar o moral o la autoridad o jerarquía que tenga sobre ella, y
+
+VIII. Se trate del propietario poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare para realizar este delito o permitiere su realización por terceros. En este caso además, se clausurará en definitiva el establecimiento. En este caso, el Ministerio Público deberá informar a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 403.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+SANCIÓN Y FIGURA TÍPICA DE POSESIÓN DE NARCÓTICOS CON FINES DE COMERCIO O SUMINISTRO. Se aplicará de tres a seis años de prisión y de ochenta a trescientos días multa, al que posea algún narcótico de los señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, en cantidad inferior a la que resulte de multiplicar por mil las cantidades previstas en dicha tabla, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de comerciarlos o suministrarlos, aún gratuitamente.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+Se presume que la posesión tiene como objeto el comercio o suministro, cuando el inculpado posea alguno de los narcóticos señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, en cantidad superior a la prevista en ésta para consumo personal e inmediato.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 404.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+SANCIÓN Y FIGURA TÍPICA DE POSESIÓN SIMPLE DE NARCÓTICOS. Se aplicará pena de diez meses a tres años de prisión y hasta ochenta días multa al que posea alguno de los narcóticos señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, en cantidad inferior a la que resulte de multiplicar por mil las previstas en dicha tabla, sin la autorización a que se refiere esta Ley, cuando por las circunstancias del hecho tal posesión no pueda considerarse destinada a comercializarlos o suministrarlos, aún gratuitamente.
+
+Para los efectos de este Título, se entiende por posesión la tenencia material de narcóticos o cuando éstos se encuentren dentro del radio de acción y disponibilidad de una persona.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 405.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUSIÓN (SIC) DE LA POSESIÓN SIMPLE DE NARCÓTICOS. No se procederá penalmente por el delito de posesión simple de narcóticos, contra quien:
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+I. Posea medicamentos que contengan alguno de los narcóticos señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+II. Posea peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas, así reconocidos por sus autoridades propias.
+
+III. Sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, prevista en el artículo 479 de la Ley General de Salud, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 402 de este Código. La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia y hará reporte a la autoridad sanitaria competente del no ejercicio de la acción penal, a fin de que ésta promueva la correspondiente orientación médica o de prevención.
+
+Para los efectos dispuestos en este Título, se entiende por farmacodependiente toda persona que presenta algún signo o síntoma de dependencia de estupefacientes o psicotrópicos, y por consumidor a toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia.
+
+Se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las indicadas en la Tabla.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 406.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+COMPETENCIA EN MATERIA DE DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO. Corresponde a las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de sanciones del Estado, conocer y resolver de los delitos previstos en este Título, así como de ejecutar las sanciones y medidas de seguridad correspondientes en la forma y con la competencia prevista en el artículo 474 de la Ley General de Salud, siempre que no existan elementos suficientes para presumir delincuencia organizada, en los términos previstos en la ley de la materia.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+El juzgador, al individualizar la pena o la medida de seguridad a imponer por la comisión de algún delito previsto en este capítulo, tomará en cuenta, además de lo establecido en el Título Quinto, Libro Primero de este Código, la cantidad y la especie de narcótico de que se trate, así como la menor o mayor lesión o puesta en peligro de la salud pública y las condiciones personales del autor o participe del hecho o la reincidencia en su caso.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 407.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+INFORME A LAS AUTORIDADES FEDERALES. Cuando el Ministerio Público conozca de los delitos previstos en este Título, deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación, en los términos de lo dispuesto en la fracción IV, inciso b) del artículo 474 de la Ley General de Salud.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 408.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+LEGISLACIÓN APLICABLES (SIC) EN LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO. Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Título, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 409.
 
-(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+TRATAMIENTO Y REHABILITACIÓN A FARMACODEPENDIENTES. El Ministerio Público o la autoridad judicial del conocimiento, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
 
 ## TÍTULO SEXTO. REGLA GENERAL CON RELACIÓN A TERMINOLOGÍA
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
-### CAPÍTULO SÉPTIMO. USURA
+### CAPÍTULO NOVENO. DAÑOS
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 410.
 
@@ -4433,7 +4511,9 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO OCTAVO. DESPOJO
+### CAPÍTULO DÉCIMO. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 418.
 
@@ -4443,9 +4523,7 @@ Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanci
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
 
-### CAPÍTULO NOVENO. DAÑOS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 419.
 
@@ -4475,9 +4553,7 @@ Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro 
 
 Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
-### CAPÍTULO DÉCIMO. EXTORSIÓN
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### ARTÍCULO 421.
 
@@ -5016,3 +5092,25 @@ P.O. 25 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
