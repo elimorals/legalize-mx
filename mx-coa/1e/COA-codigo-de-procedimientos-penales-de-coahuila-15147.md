@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2012-09-25"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1887,9 +1887,13 @@ XXV. Figura típica de utilización de vehículos, uniformes, insignias o equipo
 
 XXVI. Figura típica de circular con placas sobrepuestas cuando el vehículo se utilice para cometer un delito doloso; figura típica de desaparición forzada de personas, y figura típica de simulación de retenes oficiales.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XXVII. Comercio o suministro de narcóticos, consumado o en grado de tentativa.
+
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII (SIC). Figura típica de venta sin permiso de bebidas alcohólicas.
+XXVIII. Figura típica de venta sin permiso de bebidas alcohólicas.
 
 Igualmente, se considera delito grave el de tortura; previsto en los artículos tercero, cuarto y quinto de la ley de la materia.
 
@@ -2222,6 +2226,16 @@ REGLA GENERAL PARA ACREDITAR EL CUERPO DEL DELITO Y LA PROBABLE RESPONSABILIDAD.
 El Ministerio Público y sus auxiliares están facultados para emplear todos los medios de investigación y de prueba que estimen conducentes; aún sin ser los que menciona la ley. Siempre y cuando se obtengan lícitamente y, en su caso, se constituyan conforme a derecho.
 
 Para probar el cuerpo del delito de robo, no será necesario acreditar la propiedad o posesión del bien, ni se tendrá obligación de acreditar su legal estancia en el país. Salvo contraindicios graves, se presumirá que el ofendido de un robo que lo denuncie, tenía la legal disposición de la cosa objeto de aquél.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 273 BIS.- ACREDITACIÓN DEL CUERPO DEL DELITO Y LA PROBABLE RESPONSABILIDAD TRATÁNDOSE DE DELITOS CONTRA LA SALUD. Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud Y SUS CORRELATIVOS 401, 403 Y 404 DEL CÓDIGO PENAL DE COAHUILA, para fines de investigación el Procurador General de Justicia del Estado podrá solicitar al titular del Ministerio Público de la Federación o, en su caso al servidor público que éste designe, autorización para que agentes de la policía bajo su conducción y mando compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+Una vez expedida la autorización a que se refieren los párrafos precedentes, el Ministerio Público deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen los agentes de policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, en los términos del artículo 44 fracción IV del Código Penal del Estado, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior.
 
 ###### ARTÍCULO 274.
 
@@ -5403,11 +5417,27 @@ CONSECUENCIAS DE DECLARAR PROCEDENTE LA INSTANCIA CON RELACIÓN A LA LIBERTAD PE
 
 En caso de que el sentenciado esté cumpliendo pena de prisión; o se encuentre sujeto a la condena condicional; se remitirá copia autorizada de la resolución a la dependencia encargada de ejecutar las sanciones para que lo ponga en libertad o haga cesar las medidas de la condena condicional.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+## TÍTULO TERCERO. DE LOS FARMACODEPENDIENTES
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 686 BIS. FARMACODEPENDIENTES. El Ministerio Público al iniciar la averiguación previa, dará aviso a la autoridad sanitaria correspondiente, cuando un farmacodependiente cometa un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, SIN PERJUICIO DE LO PREVISTO EN EL ARTÍCULO 409 DEL CÓDIGO PENAL DE COAHUILA.
+
+En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
+
+Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se estimará como antecedente de mala conducta que se le haya considerado farmacodependiente, pero sí se exigirá, en todo caso, que el sentenciado se someta al tratamiento correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 686 BIS 1. DELITOS COMETIDOS POR FARMACODEPENDIENTES.- Si el inculpado además de adquirir o poseer los estupefacientes o psicotrópicos necesarios para su consumo personal, comete cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la autoridad sanitaria competente para su tratamiento o programa de prevención.
 
 # LIBRO SEXTO. EJECUCIÓN
 
-## TÍTULO SEGUNDO. CONDENA CONDICIONAL
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 687.
 
@@ -5447,7 +5477,7 @@ En caso de que el documento esté inscrito en algún registro, se dirigirá comu
 
 ANULACIÓN DE LA SENTENCIA CONDENATORIA. El juzgado o tribunal que haya dictado una sentencia condenatoria que se anule, pondrá al margen la nota relativa, en cuanto reciba copia certificada de la resolución que anula.
 
-## TÍTULO TERCERO. EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+## TÍTULO SEGUNDO. CONDENA CONDICIONAL
 
 ###### ARTÍCULO 693.
 
@@ -5515,7 +5545,7 @@ LIBERTAD DEFINITIVA DEL SENTENCIADO. Una vez que concluya el tiempo de cumplimie
 
 CANCELACIÓN DE CAUCIÓN Y DEVOLUCIÓN DE DEPÓSITO. El juzgador ordenará la devolución del depósito cuando se revoque el beneficio y el sentenciado se presente a cumplir la sanción suspendida. Igualmente, cuando se haga la declaración anterior.
 
-## TÍTULO CUARTO. INTERNACIÓN
+## TÍTULO TERCERO. EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 707.
 
@@ -5623,7 +5653,7 @@ PUBLICACIÓN DE SENTENCIA. Cuando el ofendido solicite publicación especial de 
 
 PRIVACIÓN O SUSPENSIÓN DE DERECHOS O DE EMPLEO. En los casos de suspensión o privación de derechos, inhabilitación, destitución o suspensión de funciones o de empleos: El juzgador transcribirá la parte resolutoria de la sentencia a las autoridades judiciales o administrativas, en cuanto cause ejecutoria, para que dicten las disposiciones de su respectiva competencia.
 
-## TÍTULO QUINTO. REHABILITACIÓN
+## TÍTULO CUARTO. INTERNACIÓN
 
 ###### ARTÍCULO 723.
 
@@ -5665,7 +5695,7 @@ PROCEDIMIENTO PARA REVOCAR LA INTERNACIÓN. La revocación de la medida de segur
 
 La autoridad judicial designará peritos conforme a este código para que examinen al internado. En cuanto emitan su dictamen, citará a una audiencia al Ministerio Público, al representante del internado si lo tuviere; así como a su defensor o le designará al de oficio; y a este último si lo considera oportuno, para que expresen lo que juzguen pertinente y dictará resolución dentro de los diez días siguientes.
 
-## TÍTULO SEXTO. PRESCRIPCIÓN Y EXTINCIÓN Y DE LAS SANCIONES
+## TÍTULO QUINTO. REHABILITACIÓN
 
 ###### ARTÍCULO 730.
 
@@ -5706,6 +5736,8 @@ SÓLO UNA VEZ SE CONCEDERÁ LA REHABILITACIÓN. Al que se le conceda la rehabili
 ###### ARTÍCULO 737.
 
 CASO EN QUE NO PROCEDE LA REHABILITACIÓN. La rehabilitación de los derechos civiles o políticos no procederá mientras el reo esté extinguiendo la sanción privativa de libertad.
+
+## TÍTULO SEXTO. PRESCRIPCIÓN Y EXTINCIÓN Y DE LAS SANCIONES
 
 ###### ARTÍCULO 738.
 
@@ -6082,3 +6114,25 @@ P.O. 25 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo general el número, la ubicación y las circunscripciones de los juzgados especializados en materia de narcomenudeo.
+
+###### ARTÍCULO QUINTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
