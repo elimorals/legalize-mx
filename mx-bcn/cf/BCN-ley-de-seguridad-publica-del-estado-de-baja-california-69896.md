@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2009-08-21"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -501,7 +501,11 @@ IX. Revalidar equivalencias de estudios de la Profesionalización;
 
 X. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
 
-XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA P.O. 19 DE OCTUBRE DE 2012)</small>
+
+XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes de formación, capacitación y profesionalización que se impartan a los aspirantes y miembros de las instituciones policiales, dentro de los cuales se debe comprender la prestación de los primeros auxilios;
 
 XII. Proponer y, en su caso, publicar las convocatorias para el ingreso a la Academia;
 
@@ -2338,3 +2342,11 @@ SECRETARIO GENERAL DE GOBIERNO
 JOSE FRANCISCO BLAKE MORA
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor el día 01 de Enero de 2013.
