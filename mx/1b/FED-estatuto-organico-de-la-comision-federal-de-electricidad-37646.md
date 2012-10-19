@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2011-12-12"
+last_updated: "2012-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -283,7 +283,9 @@ La Junta de Gobierno designará a propuesta de su Presidente al Secretario de la
 
 Corresponden al Secretario de la Junta de Gobierno las siguientes facultades:
 
-I. Convocar, a solicitud del Presidente, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno, mediante escrito acompañado de la orden del día y de la documentación correspondiente. La convocatoria y los documentos mencionados, en el caso de las sesiones ordinarias, deberán ser recibidos por los miembros de la Junta de Gobierno y del Consejo de Vigilancia con una anticipación, no menor, de cinco días hábiles.
+> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+
+I. Convocar, a solicitud del Presidente, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno, mediante escrito acompañado de la orden del día y de la documentación correspondiente. La convocatoria y los documentos mencionados, en el caso de las sesiones ordinarias, deberán ser recibidos por los miembros de la Junta de Gobierno y del Consejo de Vigilancia con una anticipación, no menor, de cinco días hábiles. Tratándose de sesiones extraordinarias bastará con dos días hábiles.
 
 II. Elaborar las actas de las sesiones de la Junta de Gobierno y llevar un registro de los acuerdos tomados.
 
@@ -947,7 +949,7 @@ IV. Coordinar el análisis de las estadísticas de falla, de comportamiento de e
 
 V. Coordinar los programas de desarrollo, mejora y modernización en los procesos de subestaciones y líneas de transmisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE MARZO DE 2006)</small>
 
 ###### Artículo 40.
 
@@ -1347,7 +1349,7 @@ LXXXV. Unidad de Desarrollo Organizacional y Evaluación, y
 
 LXXXVI. Unidad de Enlace para la Información Pública.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ### Capítulo VIII. De las Areas Administrativas Regionales y de la Circunscripción Territorial
 
@@ -2275,13 +2277,13 @@ Las ausencias del Titular del Area de Responsabilidades, de los Titulares del Ar
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
 Las suplencias a que se hace mención en los artículos 59 y 60 de este Estatuto se realizarán mediante expedición el (sic) acuerdo u oficio correspondiente. En caso de que no se haya expedido el acuerdo u oficio de suplencia, las ausencias deberán ser cubiertas por el inmedianto (sic) inferior del servidor público ausente, tomando en cuenta la materia del asunto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ## Transitorios
 
@@ -2297,7 +2299,7 @@ El presente Estatuto fue expedido por la Junta de Gobierno de la Comisión Feder
 
 Ciudad de México, Distrito Federal, a ocho de enero de dos mil cuatro.- El Director General de la Comisión Federal de Electricidad, Alfredo Elías Ayub.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 17 DE JUNIO DE 2004.
 
@@ -2354,3 +2356,9 @@ D.O.F. 12 DE DICIEMBRE DE 2011.
 PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los asuntos que se encuentren en trámite en las unidades administrativas establecidas en la fracción VIII del artículo 55 del presente Estatuto que se deroga, serán atendidos y resueltos por los Titulares de Area del Organo Interno de Control en la Comisión Federal de Electricidad que el Titular de éste determine.
+
+D.O.F. 19 DE OCTUBRE DE 2012.
+
+###### ARTICULO UNICO.
+
+La presente reforma al Estatuto Orgánico de la Comisión Federal de Electricidad entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
