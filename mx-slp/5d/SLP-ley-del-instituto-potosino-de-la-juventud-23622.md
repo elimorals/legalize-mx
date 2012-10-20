@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-potosino-de-la-juventud-23622"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-02"
-last_updated: "2002-02-02"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DEL INSTITUTO POTOSINO DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 20 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 2 de febrero de 2002.
 
@@ -456,3 +458,15 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO. Se abroga la Ley del Instituto Potosino de la Juventud publicada en el Periódico Oficial del Estado el dos de febrero de dos mil dos, así como las disposiciones que se opongan al presente ordenamiento.
+
+SEGUNDO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+TERCERO. Las Subdirecciones a que se refiere el artículo 69, fracción II, incisos f), g) y h) de éste Decreto, serán creadas, y operarán, en el momento en que el presupuesto del Instituto lo permita.
+
+CUARTO. El Instituto Potosino de la Juventud contará con un término de noventa días siguientes a la entrada en vigor de la presente Ley, para modificar su Reglamento Interior.
