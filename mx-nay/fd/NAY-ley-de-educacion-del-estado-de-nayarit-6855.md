@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2012-10-03"
+last_updated: "2012-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -59,15 +59,17 @@ Todo individuo tiene derecho a recibir educación, con solo satisfacer los requi
 
 El proceso educativo deberá asegurar en el educando su sentido de responsabilidad social para lograr los fines a que se refiere el Artículo 6º. de esta Ley
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 4o.
 
-El Estado impartirá Educación Inicial, Preescolar, Primaria, Secundaria, Especial, Normal, Media Superior y Superior, así como Indígena, Educación Física, Artística y Extraescolar, y es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad, cursen la educación Preescolar, Primaria y Secundaria.
+El Estado impartirá Educación Inicial, Preescolar, Primaria, Secundaria, Especial, Normal, Media Superior y Superior, así como Indígena, Educación Física, Artística y Extraescolar, y es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad, cursen la educación Preescolar, Primaria, Secundaria y Media Superior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 5o.
 
-La educación Preescolar, Primaria y Secundaria que imparta el Estado y los Municipios, será gratuita, laica y obligatoria.
+La educación Preescolar, Primaria, Secundaria y Media Superior que imparta el Estado y los Municipios, será gratuita, laica y obligatoria.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -293,9 +295,11 @@ La Educación indígena contribuirá a la conservación y desarrollo de las leng
 
 El Sistema Educativo Estatal contempla a la Educación Extraescolar, como una alternativa para la atención a la población mayor de quince años que no tuvo la oportunidad de recibir los servicios educativos y comprende los servicios de alfabetización, educación básica, media superior y superior, la capacitación para el trabajo y la extensión cultural.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 30.
 
-La Educación Media Superior, comprenderá el nivel de Bachillerato, medio Profesional y los demás niveles educativos que por su contenido programático sean equivalentes.
+La Educación Media Superior es obligatoria y comprenderá el nivel de Bachillerato, medio Profesional y los demás niveles educativos que por su contenido programático sean equivalentes.
 
 ###### ARTICULO 31.
 
@@ -459,9 +463,9 @@ ARTICULO 48 A.- La autoridad educativa estatal buscará los mecanismos necesario
 
 Son derechos de los padres de familia o tutores:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2012)</small>
 
-I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos establecidos en la presente Ley, reciban la Educación Preescolar, Primaria y Secundaria;
+I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos establecidos en la presente Ley, reciban la Educación Preescolar, Primaria, Secundaria y Media Superior;
 
 II.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se avoquen a su solución;
 
@@ -475,9 +479,9 @@ V.- Opinar, en los casos de la educación que impartan los particulares, en rela
 
 Son obligaciones de los padres de familia o tutores:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2012)</small>
 
-I.- Hacer que sus hijos o pupilos en edad escolar reciban la educación preescolar, primaria y la secundaria;
+I.- Hacer que sus hijos o pupilos en edad escolar reciban la educación preescolar, primaria, secundaria y media superior;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
@@ -962,3 +966,9 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 3 DE OCTUBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- De conformidad a lo previsto en el decreto que reforma los artículos 3 y 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 9 de febrero de 2012, las disposiciones contenidas en el presente decreto, se ejecutarán de manera gradual y creciente hasta lograr la cobertura total de la educación Media Superior en sus diversas modalidades a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado y en los términos establecidos en los instrumentos de los Sistemas Nacional y Estatal de Planeación Democrática del Desarrollo.
