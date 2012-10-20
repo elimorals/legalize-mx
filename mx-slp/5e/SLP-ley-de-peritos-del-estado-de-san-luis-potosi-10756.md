@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-10756"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-31"
-last_updated: "2011-12-24"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 20 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL UNO DE MARZO DE DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 31 de mayo de 1996.
 
@@ -346,3 +348,19 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO.- La presente ley entrará en vigor el uno de marzo del dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor el presente ordenamiento, se abroga la Ley de Peritos del Estado Libre y Soberano de San Luis Potosí publicada en el periódico oficial del estado el 31 de mayo de 1996.
+
+TERCERO.- La Comisión a que se refiere esta ley, se integrará dentro del plazo de quince días, contados a partir de la entrada en vigor de este ordenamiento.
+
+CUARTO.- Dentro del plazo de un mes, contados a partir de la integración de la Comisión, esta deberá expedir el arancel a que hace referencia esta ley.
+
+QUINTO.- La Comisión deberá emitir en un término que no exceda de treinta días contados a partir de la vigencia de la presente ley, el Reglamento que regule su exacta observancia.
+
+SEXTO.- Las solicitudes de Registro que se encuentren en trámite al momento de entrada en vigor de la presente ley, serán resueltas en los términos de la misma.
+
+SÉPTIMO.- La revalidación del Registro a que se refiere la presente Ley será aplicable para los peritos inscritos en el Padrón Estatal a la fecha de su entrada en vigor.
