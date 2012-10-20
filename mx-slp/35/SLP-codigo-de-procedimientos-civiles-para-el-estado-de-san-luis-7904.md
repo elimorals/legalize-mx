@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-10-16"
+last_updated: "2012-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1347,9 +1347,13 @@ II.- Los documentos auténticos expedidos por funcionarios que desempeñen cargo
 
 III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno Federal, o de los Estados, o del Gobierno del Distrito Federal, de los Territorios Federales o de los Ayuntamientos;
 
-IV.- Las certificaciones de actas del Estado Civil expedidas por los funcionarios del Registro Civil, respecto a constancias existentes en los libros correspondientes;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2012)</small>
 
-V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
+IV.- Las certificaciones de las actas del estado civil expedidas por los funcionarios del Registro Civil y las certificaciones que sean expedidas por medios manuales o electrónicos y que cuenten con la firma autógrafa, digitalizada o electrónica del funcionario facultado para ello, respecto a constancias existentes en los libros correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa su expedición; ya sea que las mismas se generen de manera manual o electrónica y que sean autorizadas por medio de firma autógrafa, digitalizada o electrónica del funcionario correspondiente;
 
 VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
@@ -1631,7 +1635,13 @@ ART. 386.- La confesión judicial o extrajudicial sólo produce efecto en lo que
 
 ART. 387.- En las acciones de estado civil no será bastante la confesión si no estuviere adminiculada con otras pruebas fehacientes.
 
-ART. 388.- Los documentos públicos hacen prueba plena; pero la parte contraria podrá redargüirlos de falsedad y pedir su cotejo con las matrices. Los documentos que resulten enteramente inconformes con los originales no tendrán valor probatorio alguno. Si hubiere conformidad parcial, en este punto harán prueba plena.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+ART. 388.- Los documentos públicos hacen prueba plena; pero la parte contraria podrá redargüirlos de falsedad y pedir su cotejo con las matrices.
+
+Los documentos que resulten enteramente inconformes con los originales no tendrán valor probatorio alguno. Si hubiere conformidad parcial, en este punto harán prueba plena.
+
+Las copias certificadas y las certificaciones emitidas por los servidores públicos facultados para ello conforme a esta Ley, y que sean autentificadas a través de firma digitalizada o electrónica, tendrán el mismo valor jurídico y probatorio que las suscritas en forma autógrafa.
 
 ART. 389.- Los instrumentos públicos no se perjudicarán en cuanto a su validez por las excepciones que se aleguen para destruir la acción que en ellos se funde; y no podrán objetarse sino con otros posteriores de la misma especie, salvo el caso de simulación en el que se podrá hacer uso de cualquier otro medio de prueba.
 
@@ -5274,3 +5284,9 @@ Las disposiciones relativos (sic) al y de los Códigos Procesal de Procedimiento
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a esta Ley.
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
