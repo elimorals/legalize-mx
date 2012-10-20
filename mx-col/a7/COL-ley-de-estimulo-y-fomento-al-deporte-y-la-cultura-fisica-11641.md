@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2009-10-03"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA DEL ESTADO DE COLIMA -- ANTES LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA --
 
-LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA
+LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -335,7 +335,7 @@ El Registro Estatal del Deporte tendrá como finalidad primordial la inscripció
 
 La inscripción individual o colectiva en el Registro Estatal del Deporte, será condición indispensable para gozar de los estímulos y apoyos que se otorguen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
 
 ### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -451,7 +451,7 @@ I.- Determinar las acciones tendientes a la ejecución y evaluación de la polí
 
 II.- Proponer y realizar estudios e investigaciones en materia Deportiva, considerando los deportes locales y tradicionales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
 
 ### CAPITULO VIII. DE LA PARTICIPACION DE LOS DEPORTISTAS Y LAS AGRUPACIONES DEPORTIVAS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -553,7 +553,7 @@ X.- Cooperar con las autoridades en los muestreos que se deban de realizar para 
 
 XI.- Las demás que le sean señaladas por la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO XI. LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
 
@@ -604,6 +604,10 @@ d).- Los demás que se establezcan por esta Ley y su reglamento.
 ARTICULO 37 BIS.- Se instituye el catorce de octubre de cada año como "Día del deportista colimense", en el cual se entregarán reconocimientos a quienes se hayan destacado en alguna disciplina deportiva, o que por su aportación al deporte se hayan distinguido en el Estado.
 
 El Gobernador del Estado, previa convocatoria que haga por conducto de la Secretaría de Educación y del INCODE y bajo las bases que en ella se determinen, propondrá al Congreso del Estado con siete días de anticipación a la fecha del otorgamiento de reconocimientos, los prospectos que puedan ser merecedores de reconocimiento y cuyos nombres deberán ser inscritos en letras de color oro, en el muro de honor del deporte, que se construya en el lugar que para tal efecto se señale.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+Los prospectos que proponga el Ejecutivo Estatal al Congreso del Estado, deberán ser seleccionados por un comité, que para el efecto se instituya, mismo que de entre sus miembros estará el Diputado Presidente de la Comisión legislativa competente o uno de sus Diputados integrantes, según lo determine la propia Comisión.
 
 ### CAPITULO XII. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
 
@@ -711,7 +715,7 @@ Dado en Palacio de Gobierno a los dieciséis días del mes de abril de mil novec
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE NOVIEMBRE DE 1999.
 
@@ -724,3 +728,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
