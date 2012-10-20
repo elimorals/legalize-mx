@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-seguridad-social-del-12000
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-10"
-last_updated: "1998-01-10"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de enero de 1998.
 
@@ -1702,3 +1704,15 @@ SECRETARIO DE GOBIERNO.
 DR. FERNANDO RABELO RUIZ DE LA PEÑA.
 
 DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Seguridad Social del Estado de Tabasco, publicado en el Suplemento "I" del Periódico Oficial del Estado número 5775, de fecha 10 de enero de 1998.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Para el mejor funcionamiento del Instituto, las unidades administrativas en el ámbito de sus competencias, deberán formular sus respectivos manuales de organización y procedimientos. En tanto no se expidan los manuales, el Director General queda facultado para resolver los asuntos que conforme a éstos se deban regular.
