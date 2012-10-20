@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-asentamientos-y-63362"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2010-09-22"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ASENTAMIENTOS Y OBRAS PUBLICAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ASENTAMIENTOS Y OBRAS PÚBLICAS DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ASENTAMIENTOS Y OBRAS PÚBLICAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 10 de septiembre de 2008.
 
@@ -137,6 +137,10 @@ Para el despacho de los asuntos de su competencia la Secretaría contará con la
 
 4.1.4. Dirección de Conservación y Mantenimiento
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+4.1.5. Dirección de Supervisión de Obras y Normatividad.
+
 4.2. Dirección General de Proyectos
 
 4.2.1. Dirección de Proyectos
@@ -150,6 +154,10 @@ Para el despacho de los asuntos de su competencia la Secretaría contará con la
 5.1.1. Dirección de Desarrollo Urbano
 
 5.1.2. Dirección de Ordenamiento Territorial
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+5.1.3. Dirección de Apoyo Técnico.
 
 5.2. Dirección de Planeación, para la Infraestructura
 
@@ -753,6 +761,20 @@ IV. Efectuar la cuantificación, reportes de avance, control de bitácora y supe
 
 V. Analizar, autorizar y tramitar las estimaciones de avance de las obras a su cargo, presentadas por los contratistas.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 29 BIS. Corresponde a la Dirección de Supervisión de Obras y Normatividad el ejercicio de las siguientes atribuciones:
+
+I. Revisar y validar la documentación legal de los contratistas en el proceso de licitación;
+
+II. Supervisar que al término de la Obra estas sean recepcionadas de acuerdo a los procedimientos y plazos establecidos por la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Tabasco y demás leyes y disposiciones normativas aplicables.
+
+III. Revisar y validar las estimaciones de las obras para su pago correspondiente;
+
+IV. Revisar la documentación turnada por las diferentes áreas de la Dirección; y
+
+V. Coordinar en el ámbito de su competencia a las diferentes Direcciones de esta Secretaría para que lleven a cabo un mejor desempeño en sus funciones.
+
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE PROYECTOS
 
 ###### ARTÍCULO 30.
@@ -1007,6 +1029,30 @@ XXIII. Cumplir con el ejercicio presupuestal de los proyectos de inversión asig
 
 XXIV. Propiciar el desarrollo y capacitación del personal a su cargo.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 36 BIS. Corresponde a la Dirección de Apoyo Técnico el ejercicio de las siguientes atribuciones:
+
+I. Identificar las necesidades, problemáticas y requerimientos de adecuación relativas a la infraestructura y equipamiento urbano;
+
+II. Elaborar propuestas de infraestructura y equipamiento urbano en colaboración interinstitucional;
+
+III. Realizar recorridos y visitas técnicas, para elaborar análisis, planteamientos y programas de apoyo técnico relativo a infraestructura y equipamiento urbano, en especial el área de vialidades;
+
+IV. Mantener colaboración y comunicación permanente con dependencias y ayuntamientos responsables de desarrollar los programas de infraestructura y equipamiento urbano;
+
+V. Mantener colaboración y comunicación permanente con dependencias y áreas de ayuntamientos responsables de la construcción de infraestructura y equipamiento urbano;
+
+VI. Realizar análisis de factibilidad y prioridades para establecer costos-beneficios de los proyectos;
+
+VII. Realizar los estudios de aforos e inventarios de la situación actual del parque vehicular;
+
+VIII. Clasificar prioridades con los ayuntamientos sobre los proyectos a desarrollar en infraestructura y equipamiento urbano;
+
+IX. Identificar las necesidades de los ayuntamientos que así lo requieran para apoyo técnico en sus programas de infraestructura y equipamiento urbano; y
+
+X. Participar y colaborar con los Colegios de Ingenieros y Arquitectos en temas relacionados con la construcción y los proyectos de infraestructura y equipamiento urbano.
+
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PLANEACIÓN PARA LA INFRAESTRUCTURA
 
 ###### ARTÍCULO 37.
@@ -1104,3 +1150,9 @@ P.O. 22 DE SEPTIEMBRE DE 2010.
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO. Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
