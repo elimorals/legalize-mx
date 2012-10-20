@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-promocion-economica-443
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-10"
-last_updated: "2005-09-29"
+last_updated: "2012-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION ECONOMICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROMOCIÓN ECONÓMICA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. 20 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de marzo de 2005.
 
@@ -35,7 +37,7 @@ ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
 Guadalajara, Jalisco, a 07 de febrero de 2005.
 
-Con fundamento en los artículos 36, 46 y 50, fracciones VIII, XXII y XXIV de la Constitución Política del Estado de Jalisco; 1º,2º, 3º, 5º, 6º, 8º, 11, 13, 14, 19 fracción II, 21, 22 fracciones I, IV, XI y XXIII, 33 y 53 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y con base en los siguientes:
+Con fundamento en los artículos 36, 46 y 50, fracciones VIII, XXII y XXIV de la Constitución Política del Estado de Jalisco; 1º, 2º, 3º, 5º, 6º, 8º, 11, 13, 14, 19 fracción II, 21, 22 fracciones I, IV, XI y XXIII, 33 y 53 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y con base en los siguientes:
 
 CONSIDERANDOS.
 
@@ -662,3 +664,9 @@ P.O. 29 DE SEPTIEMBRE DE 2005.
 PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 20 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Promoción Económica publicado en el periódico oficial "El Estado de Jalisco" con fecha 10 de marzo de 2005, así como sus reformas; y se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
