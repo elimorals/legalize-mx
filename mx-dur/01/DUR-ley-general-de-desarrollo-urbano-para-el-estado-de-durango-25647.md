@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2010-12-23"
+last_updated: "2012-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -731,7 +731,7 @@ II.- Elaborar, en coordinación con el Consejo Consultivo de Vivienda, el Progra
 
 III.- Diseñar, implantar y operar el Sistema Estatal de Vivienda, en coordinación con el Consejo respectivo, coordinado (sic) además los programas de vivienda que a través del mismo Instituto se desarrollen en el Estado y operar los fondos de vivienda que para el efecto, se constituyan;
 
-IV.- Intervenir conjuntamente con el Consejo Consultivo de Vivienda , en la formulación de acciones, obras y servicios en materia de vivienda;
+IV.- Intervenir conjuntamente con el Consejo Consultivo de Vivienda, en la formulación de acciones, obras y servicios en materia de vivienda;
 
 V.- Controlar y evaluar conjuntamente con el Consejo, el Programa Estatal de Vivienda;
 
@@ -881,7 +881,7 @@ IX.- Seleccionar y contratar al personal con la aprobación del Presidente del C
 
 X.- Ejecutar los programas de obras del Instituto;
 
-XI.- Establecer los métodos que permitan un optimo aprovechamiento de los bienes, muebles e inmuebles de que disponga el Instituto para la realización de su objeto;
+XI (SIC).- Establecer los métodos que permitan un optimo aprovechamiento de los bienes, muebles e inmuebles de que disponga el Instituto para la realización de su objeto;
 
 XII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento del Instituto;
 
@@ -1363,7 +1363,7 @@ IV.- Aquellas cuyo subsuelo presente peligro para aceptar asentamientos humanos.
 
 ###### ARTÍCULO 101.
 
-En los casos no previstos en el articulo anterior, las autoridades estatales y municipales competentes, podrán acordar la urbanización conforme a las normas de los programas de desarrollo urbano y legislación aplicable en la materia.
+En los casos no previstos en el artículo anterior, las autoridades estatales y municipales competentes, podrán acordar la urbanización conforme a las normas de los programas de desarrollo urbano y legislación aplicable en la materia.
 
 #### SECCIÓN TERCERA. MEJORAMIENTO
 
@@ -1751,7 +1751,7 @@ Las normas de sistemas de agua potable y alcantarillado son las que regulan el p
 
 Para la dotación de gas natural en fraccionamientos por tubería subterránea, las empresas encargadas de prestar el servicio acatarán las normas que establecen la Comisión Reguladora de Energía en sus leyes y reglamentos.
 
-###### ARTICULO 150.
+###### ARTÍCULO 150.
 
 Las normas de vialidad regularán el tránsito, estacionamientos, flujo y sentido vehicular, horario de prestación de servicios públicos y privados, y serán establecidas por la autoridad que el ayuntamiento respectivo determine.
 
@@ -1801,7 +1801,9 @@ Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para 
 
 El ayuntamiento aprovechará para infraestructura, equipamiento y servicios, cuando menos, el 40% de las áreas de donación que reciban conforme a lo dispuesto en la presente ley por parte de los fraccionadores en cada fraccionamiento.
 
-Del área total de donación de cada fraccionamiento, cuando menos un 40% deberá destinarse a áreas verdes, parques y jardines; el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+Del área total de donación de cada fraccionamiento, cuando menos un 40% deberá destinarse a áreas verdes, parques, jardines, plazas públicas u otros usos relativos al esparcimiento; el fraccionador tendrá la obligación de equipar y acondicionar, previo a la comercialización de las viviendas, dicha superficie para tales efectos.
 
 El destino del 20% restante de las áreas de donación lo decidirán los vecinos en consulta, que ex profeso se convoque, y se obtenga una votación mayor a los tres cuartos del número de los habitantes del fraccionamiento. La autoridad municipal dispondrá las reglas para la consulta referida.
 
@@ -2653,7 +2655,7 @@ En los fraccionamientos industriales de tipo selectivo, únicamente se podrán c
 
 En el caso de los fraccionamientos mixtos deberán normarse por el reglamento que para tal efecto elaboren los ayuntamientos de acuerdo a la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 229.
 
@@ -2697,7 +2699,7 @@ Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a 
 
 La solicitud para la autorización de fraccionamiento, así como la constitución o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante el ayuntamiento, a fin de que este elabore el proyecto de dictamen respectivo y previa opinión de la Comisión Municipal que corresponda lo someta a su resolución en sesión de ayuntamiento.
 
-###### ARTICULO 235.
+###### ARTÍCULO 235.
 
 La solicitud a que se refiere el artículo anterior, deberá ser acompañada de los siguientes documentos:
 
@@ -2899,7 +2901,7 @@ Para el otorgamiento de las licencias de urbanización y construcción para frac
 
 Conforme se vayan entregando las viviendas, la Dirección Municipal correspondiente, otorgará la constancia de uso y habitabilidad, con el propósito de que los adquirentes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 Dentro de los 15 días siguientes a la fecha del acta de terminación de obra, el fraccionador deberá solicitar ante la Dirección de Obras Públicas del Municipio la municipalización del fraccionamiento. Dentro de los dos días siguientes a la recepción de la solicitud, la Dirección de Obras Públicas integrará el expediente respectivo con el proyecto autorizado, las bitácoras de obra en las que consten las supervisiones municipales y sus resultados, así como el acta de terminación de obra, el cual enviará al Ayuntamiento al día siguiente. Una vez recibido el expediente, el Ayuntamiento citará al desarrollador, a efecto de que, en un plazo no mayor de cinco días se realice la inspección final del fraccionamiento o condominio, junto con un perito y un supervisor, para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose el dictamen técnico correspondiente, en el cual se determinará lo siguiente:
 
@@ -2917,7 +2919,7 @@ Tratándose de fraccionamientos autorizados en etapas, se observará además de 
 
 El dictamen técnico a que se refiere el artículo anterior, tendrá por objetivo sancionar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala la presente ley y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 249.
 
@@ -3241,7 +3243,7 @@ No podrá edificarse, modificarse o demolerse, restaurarse o rehabilitarse ning�
 
 ###### ARTÍCULO 291.
 
-Los interesados que pretendan llevar a cabo alguna de las obras a que se refiere el articulo anterior, tramitarán ante la Autoridad Federal competente y ante la Dirección de Obras Publicas Municipales la autorización correspondiente, acompañando los planos, especificaciones y detalles de construcción que se requieran.
+Los interesados que pretendan llevar a cabo alguna de las obras a que se refiere el artículo anterior, tramitarán ante la Autoridad Federal competente y ante la Dirección de Obras Publicas Municipales la autorización correspondiente, acompañando los planos, especificaciones y detalles de construcción que se requieran.
 
 ###### ARTÍCULO 292.
 
@@ -3709,7 +3711,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. (Rúbr
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2006.
 
@@ -3758,3 +3760,9 @@ Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el 
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos, en un plazo de 30 días naturales siguientes a la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado, reglamentarán el destino que deba darse al área de donación con equipamiento al que se refiere el presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
