@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2012-09-30"
+last_updated: "2012-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -3509,15 +3509,25 @@ VII.- En contra de una oficina bancaria, recaudatoria u otra en que se conserven
 
 VIII.- En tratándose de expedientes o de documentos de protocolo, oficina o archivos públicos; de documentos que contengan obligación o liberación o transmisión de deberes que obren en expediente judicial con afectación de alguna función pública;
 
-IX.- Respecto de vehículos automotores o partes de estos; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2012)</small>
 
-X.- Respecto de objetos que se encuentran en el interior de los vehículos automotores cuando el valor de lo robado exceda de noventa días de salario mínimo.
+IX.- Respecto de vehículos automotores o partes de estos;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+X.- Respecto de objetos que se encuentran en el interior de los vehículos automotores cuando el valor de lo robado exceda de noventa días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+XI.- Recaiga sobre bienes de instituciones educativas, científicas, museos, galerías de arte, edificios de carácter religioso o monumentos históricos.
 
 En el caso a que se refiere la fracción I de este artículo, la pena se agravará de seis a dieciocho años y multa de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa.
 
 En el caso a que se refiere la fracción II de este artículo, la pena se agravará de tres a seis años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, salvo que la conducta descrita se ejecute además con violencia en cuyo caso la pena será de nueve a veintiún años de prisión
 
-En los casos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX Y X de este artículo, la pena se agravará de tres a seis años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+En los casos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX, X y XI de éste artículo, la pena se agravará de de (sic) tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario.
 
 ###### ARTÍCULO 413.
 
@@ -4177,14 +4187,12 @@ P.O. 30 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+P.O. 21 DE OCTUBRE DE 2012.
+
 ###### ARTÍCULO PRIMERO.
 
-Inicio de Vigencia.
-
-El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No, 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Derogación tácita de preceptos incompatibles.
-
-Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+Se derogan todas las disposiciones que se opongan al presente decreto.
