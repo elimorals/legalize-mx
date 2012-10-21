@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2012-09-30"
+last_updated: "2012-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3883,11 +3883,15 @@ ART. 919.- El dueño del predio en que exista una fuente natural, o que haya per
 
 El dominio del dueño de un predio sobre las aguas de que trata éste artículo, no perjudica los derechos que legítimamente hayan podido adquirir a su aprovechamiento los de los predios inferiores.
 
-ART. 920.- Si alguno perforase pozos o hiciere otras obras de captación de aguas subterráneas en su propiedad, a una distancia menor de cuatrocientos metros de otra obra para extraer aguas de la misma naturaleza, estará obligado a indemnizar al propietario o poseedor de estas aguas cuando disminuyan a causa de la nueva obra a no ser que ésta sea únicamente para usos domésticos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+ART 920. Si alguno perforase pozos o hiciere otras obras de captación de aguas subterráneas en su propiedad para obtener aguas de la misma naturaleza, estará obligado a indemnizar al propietario o poseedor de estas aguas cuando disminuyan a causa de la nueva obra a no ser que exista un dictamen técnico emitido por la autoridad competente que establezca que no hay afectación o comprobación de que el destino de ésta sea únicamente para usos domésticos; en caso de no contar con el dictamen técnico correspondiente, quien perfora no podrá iniciar o en su caso deberá detener de manera inmediata todos los trabajos, hasta en tanto no se cuente con dicho dictamen.
 
 La indemnización no comprenderá el lucro que se deje de obtener, ni el valor del agua, sino únicamente los daños, como los que se causen por lo infructuoso que resulten las inversiones que se hicieron para aprovechar el agua en el uso a que estaba destinado.
 
-El empresario de la obra avisará previamente a los dueños de aguas que se encuentren dentro de la zona de cuatrocientos metros, para que, de común acuerdo o con la intervención judicial, se mida o pesen las aguas existentes, a fin de determinarse la cantidad en que puedan disminuír. La falta de aviso es causa para presumir que las aguas han disminuido en la cantidad que afirma el perjudicado, salvo prueba en contrario.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+El empresario de la obra avisará previamente a los dueños de aguas que se encuentren cercanos a la misma, para que, de común acuerdo o con la intervención judicial, se mida o pesen las aguas existentes, a fin de determinarse la cantidad en que puedan disminuir. La falta de aviso es causa para presumir que las aguas han disminuido en la cantidad que afirma el perjudicado, salvo prueba en contrario.
 
 ART. 921.- El propietario de las aguas no podrá desviar su curso de modo que cause daño a un tercero.
 
@@ -10320,3 +10324,13 @@ P.O. 30 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto el Titular del Poder Ejecutivo expedirá las disposiciones administrativas para la aplicación de la presente reforma.
+
+P.O. 21 DE OCTUBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
