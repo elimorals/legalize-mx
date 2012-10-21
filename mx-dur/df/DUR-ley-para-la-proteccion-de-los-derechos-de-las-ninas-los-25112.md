@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2011-04-17"
+last_updated: "2012-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de mayo de 2002.
 
@@ -259,9 +259,17 @@ El Estado velará porque sólo sean separados de sus padres y de sus madres medi
 
 No deberá considerarse como exposición ni estado de abandono, los casos de padres y madres que, por extrema pobreza tengan necesidad de ganarse el sustento lejos de su lugar de residencia, tengan dificultades para atenderlos permanentemente, siempre que los mantengan al cuidado de otras personas, los traten sin violencia y provean a su subsistencia.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-Es un derecho de las niñas, los niños y adolescentes man (sic) contacto directo y permanente con ambos padres, aún cuando existe se (sic) entre éstos, salvo que sea contrario a su interés superior o por decisión (sic)
+Es un derecho de las niñas, los niños y adolescentes mantener contacto directo y permanente con ambos padres. La autoridad competente establecerá las normas y mecanismos necesarios para que niñas, niños y adolescentes, cuyos padres estén separados o en proceso de separación:
+
+I. Convivan o mantengan relaciones personales y trato directo con ambos, salvo que de conformidad con la ley, la autoridad judicial determine que ello es contrario al interés superior del menor;
+
+II. Sean escuchados y que se tome en cuenta su opinión en los términos de la ley aplicable; y
+
+III. Sean protegidos de los conflictos que se deriven del citado proceso.
 
 ###### Artículo 16.
 
@@ -346,6 +354,14 @@ Las niñas, los niños y los adolescentes tienen derecho a ser protegidos contra
 ###### Artículo 23.
 
 Las niñas, los niños y los adolescentes tienen derecho a ser protegidos contra cualquier forma de abuso y explotación sexual comercial en cualquiera de sus modalidades, tráfico, prostitución, pornografía y turismo infantil.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+Para los efectos de esta ley se considera abuso, sin menoscabo de lo establecido en otras disposiciones legales aplicables, el uso de la fuerza física o moral, así como las omisiones graves que se ejerzan en contra de niñas, niños y adolescentes que atenten contra su integridad física, psíquica o ambas, o contra su sano desarrollo físico, psicológico, material, espiritual, moral, y social.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+
+También se considerará abuso, el uso de la fuerza física, psicológica o moral que se ejerza en contra de alguno de los padres, tutores, o de quien tenga bajo su cuidado a niñas, niños, o adolescentes, en presencia de éstos.
 
 El Gobierno del Estado debe establecer programas permanentes y gratuitos de asistencia y atención integral.
 
@@ -734,3 +750,13 @@ Dentro de los noventa días siguientes a la entrada en vigor del presente Decret
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
