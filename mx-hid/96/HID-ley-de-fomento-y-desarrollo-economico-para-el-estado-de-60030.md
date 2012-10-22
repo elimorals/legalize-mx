@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -415,7 +415,9 @@ La Secretaría promoverá la formación de capital humano y la capacitación, en
 
 I.- La vinculación de las necesidades del aparato productivo con la oferta de los diferentes programas de capacitación de las organizaciones empresariales, sociales y de la comunidad académica, para aprovechar la capacidad de innovación, de desarrollo tecnológico y los procedimientos técnicos que eleven su competitividad;
 
-II.- La orientación a grupos específicos de la población, que por sus características y necesidades lo requieran, a programas especiales que mejoren su perfil productivo para integrarse al mercado laboral, en particular jóvenes, mujeres, personas de la tercera edad, núcleos indígenas que habitan en la Entidad y personas con capacidades diferentes, con el fin de propiciar la igualdad de oportunidades en el empleo;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+II.- La orientación a grupos específicos de la población, que por sus características y necesidades lo requieran, a programas especiales que mejoren su perfil productivo para integrarse al mercado laboral, en particular jóvenes, mujeres, personas de la tercera edad, núcleos indígenas que habitan en la Entidad y personas con discapacidad, con el fin de propiciar la igualdad de oportunidades en el empleo;
 
 III.- Las acciones para la especialización y desarrollo de habilidades del capital humano, con el fin de mejorar las condiciones de trabajo y productividad en las diversas actividades económicas;
 
@@ -752,3 +754,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### Artículo ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
