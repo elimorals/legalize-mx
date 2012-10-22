@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-del-estado-de-hidalgo-29418"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-24"
-last_updated: "2010-12-13"
+last_updated: "2012-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 2003.
 
@@ -193,7 +193,7 @@ X.- Cualquiera de los antes mencionados que se encuentren dentro de aeropuertos,
 
 ### CAPITULO II. DE LA POLITICA TURISTICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5.
 
@@ -473,11 +473,11 @@ Los Consejos Consultivos Municipales, podrán constituir las Comisiones y Comit�
 
 Los Consejos Consultivos Municipales para su funcionamiento y organización interna, se regirán por lo dispuesto en su Reglamento Interno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. DE LOS CONCEPTOS TURISTICOS NECESARIOS Y PRIORITARIOS EN EL DESARROLLO DEL SECTOR TURISTICO EN LA ENTIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO I. DEL TURISMO SOCIAL Y ACCESIBLE
 
@@ -693,7 +693,9 @@ IV.- Contar con los formatos foliados de porte pagado para el sistema de quejas 
 
 V.- Tendrán a la vista y a disposición del público un área de información turística;
 
-VI.- Vigilar el buen funcionamiento y dar mantenimiento a las instalaciones, así como dar un trato adecuado a los usuarios, brindando siempre facilidades a la comunidad con capacidades diferentes y adultos mayores en condiciones que se garanticen comodidad. Estas facilidades garantizarán el libre acceso, desplazamiento, instalaciones higiénico-sanitarias apropiadas, ubicaciones preferenciales que aseguren su libre evacuación en caso de contingencia;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+VI.- Vigilar el buen funcionamiento y dar mantenimiento a las instalaciones, así como dar un trato adecuado a los usuarios, brindando siempre facilidades a la comunidad con discapacidad y adultos mayores, en condiciones que se (sic) garanticen comodidad. Estas facilidades garantizarán el libre acceso, desplazamiento, instalaciones higiénico-sanitarias apropiadas, ubicaciones preferenciales que aseguren su libre evacuación en caso de contingencia;
 
 VII.- Optimizar las instalaciones de tomas de agua y energéticos así como disminuir en tanto sea posible, la generación de residuos contaminantes en base a la Legislación Ambiental aplicable;
 
@@ -1119,7 +1121,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2010.
 
@@ -1146,3 +1148,9 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
