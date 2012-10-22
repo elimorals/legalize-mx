@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2006-07-03"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE POBLACION PARA EL ESTADO DE HIDALGO
 
-LEY DE POBLACION PARA EL ESTADO DE HIDALGO
+LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -169,7 +169,9 @@ VI.- Promover la incorporación de contenidos de educación sexual y salud repro
 
 VII.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una equidad de género;
 
-VIII.- Contemplar políticas públicas especiales y diferenciadas para atender a la Población infantil, con capacidades especiales, indígenas y de la tercera edad;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+VIII.- Contemplar políticas públicas especiales y diferenciadas para atender a la Población infantil, con discapacidad, indígenas y de la tercera edad;
 
 IX.- Extender la política de Población a los grupos indígenas de la Entidad, con pleno respeto a sus formas de organización, cultura y tradiciones;
 
@@ -325,7 +327,9 @@ VIII.- Crear un sistema de seguimiento de acciones Gubernamentales, que impulsen
 
 IX.- Prevenir la violencia contra la mujer, que infringe su integridad física y moral.
 
-### CAPITULO VIII. DE LOS NIÑOS Y LAS NIÑAS, JOVENES, PERSONAS CON CAPACIDADES DIFERENTES Y DE LA TERCERA EDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+### CAPITULO VIII. DE LOS NIÑOS Y LAS NIÑAS, JÓVENES, PERSONAS CON DISCAPACIDAD Y DE LA TERCERA EDAD
 
 ###### Artículo 27.
 
@@ -339,7 +343,9 @@ III.- Fortalecer las políticas públicas de apoyos para la ocupación productiv
 
 IV.- Otorgar estímulos académicos y económicos para los jóvenes con promedios sobresalientes en sus estudios o para aquellos que carecen de posibilidades para instruirse;
 
-V.- Propiciar el mejoramiento de las condiciones de vida de las personas con capacidades diferentes, facilitándose su acceso a la planta productiva, a los servicios de salud y en general, a los apoyos asistenciales, que otorgan los Gobiernos Federal, Estatal y Municipal; e
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+V.- Propiciar el mejoramiento de las condiciones de vida de las personas con discapacidad, facilitándose su acceso a la planta productiva, a los servicios de salud y en general, a los apoyos asistenciales, que otorgan los Gobiernos Federal, Estatal y Municipal; e
 
 VI.- Impulsar acciones que reconozcan las aportaciones de las personas de la tercera edad y les retribuyan beneficios que le permitan mejorar sus condiciones de vida en general.
 
@@ -410,3 +416,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
