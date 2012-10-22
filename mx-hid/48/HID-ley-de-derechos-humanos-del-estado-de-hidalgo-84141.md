@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -269,7 +269,11 @@ XII.- Formular programas y proponer acciones en coordinación con las dependenci
 
 XIII.- Interponer demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105, fracción II, inciso g, de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIV.- Practicar visitas e inspecciones a los Centros de Asistencia Social e Instituciones de Asistencia Privada donde se presten servicios asistenciales como casas hogares, instituciones que trabajen con la niñez, con personas con capacidades diferentes o con adultos mayores, Centros de Integración Social, Centros de salud y demás establecimientos de asistencia social en el Estado de Hidalgo, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos;
+> <small>N. DE E. EN RELACIÓN CON LA REFORMA A LA PRESENTE FRACCIÓN SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE HIDALGO http://www.congreso-hidalgo.gob.mx/</small>
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+XIII (SIC).- Practicar visitas e inspecciones a los Centros de Asistencia Social e Instituciones de Asistencia Privada donde se presten servicios asistenciales como casas hogares, instituciones que trabajen con la niñez, con personas con discapacidad o con adultos mayores, Centros de Integración Social, Centros de salud y demás establecimientos de asistencia social en el Estado de Hidalgo, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos;
 
 XV.- Prestar apoyo y asesoría técnica a los órganos del Poder Público Estatal y Municipal, en materia de promoción y defensa de los derechos humanos y en el combate a la discriminación, cuando así lo soliciten;
 
@@ -1080,3 +1084,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
