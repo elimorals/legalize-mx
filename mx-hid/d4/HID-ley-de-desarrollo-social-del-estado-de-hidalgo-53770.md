@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2010-06-07"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -277,7 +277,7 @@ IX.- Establecer mecanismos para incluir la participación social organizada, en 
 
 X.- Las demás que le señala la Ley, su Reglamento y demás disposiciones aplicables.
 
-### CAPITULO VI. DE LOS OBJETIVOS Y PRINCIPIOS DE LA POLlTICA SOCIAL
+### CAPITULO VI. DE LOS OBJETIVOS Y PRINCIPIOS DE LA POLITICA SOCIAL
 
 ###### Artículo 13.
 
@@ -318,6 +318,10 @@ X.- Efectividad: Obligación de la autoridad de ejecutar los programas sociales 
 XI.- Exigibilidad: Derecho de los habitantes a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles en el marco de las diferentes políticas y programas y de la disposición presupuestal con que se cuenta;
 
 XII.- Universalidad: La política de desarrollo social esta destinada para todos los habitantes del Estado de Hidalgo y tiene por propósito el acceso de todos al ejercicio de los derechos sociales, al uso y disfrute de los bienes públicos y a una creciente calidad de vida.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
 
 ###### Artículo 15.
 
@@ -913,7 +917,7 @@ QUINTO.- El Fondo Social será presupuestado para la constitución del Fideicomi
 
 SEXTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-AL EJECUTIVO DE LA ENTIDAD PARA SU SANCION Y PUBLlCACION.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTIOCHO DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
+AL EJECUTIVO DE LA ENTIDAD PARA SU SANCION Y PUBLICACION.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTIOCHO DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
 
 PRESIDENTE
 
@@ -927,7 +931,7 @@ SECRETARIO
 
 DIP. JESUS PRIEGO CALVA.
 
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 51 DE LA CONSTITUCION POLlTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTINUEVE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
 
@@ -935,7 +939,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE MAYO DE 2009.
 
@@ -944,3 +948,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente, al de su Publi
 P.O. 7 DE JUNIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente a su Publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
