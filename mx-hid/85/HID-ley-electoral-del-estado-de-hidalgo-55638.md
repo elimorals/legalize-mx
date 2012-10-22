@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2012-10-15"
+last_updated: "2012-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -3067,9 +3067,11 @@ I.- De manera secreta marcará en cada una de las boletas el círculo que conten
 
 II.- Cuando desee votar por candidatos no registrados escribirá en el lugar correspondiente el nombre de éstos y cruzará el círculo en blanco;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
-III.- Los electores con capacidades diferentes, para sufragar podrán auxiliarse de otra persona, quien marcará la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni representante de partido. Las mujeres embarazadas y los adultos mayores, si así lo solicitan, tendrán derecho preferencial para emitir su voto y, de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El presidente de la mesa directiva de casilla adoptará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el presidente decidirá si le hace extensivo el derecho preferencial.
+III.- Los electores con discapacidad, para sufragar podrán auxiliarse de otra persona, quien marcara la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni representante de partido. Las mujeres embarazadas y los adultos mayores, si así lo solicitan, tendrán derecho preferencial para emitir su voto y, de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El presidente de la mesa directiva de casilla adoptara las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el presidente decidirá si le hace extensivo el derecho preferencial.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Los electores podrán emitir su voto acompañados por niños, si el presidente de la casilla considera que con ello no se altera el orden;
 
@@ -3800,3 +3802,9 @@ El presente Decreto entrará en vigor el día siguiente al de su Publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas, adiciones y derogaciones.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+EI presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
