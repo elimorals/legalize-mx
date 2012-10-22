@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-342
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-20"
-last_updated: "2003-10-20"
+last_updated: "2012-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 20 de octubre de 2003.
 
@@ -293,7 +293,9 @@ III. Fomentar la Creación de Centros de Atención y Proyectos de Educación Esp
 
 IV. Promover el acceso de niñas, niños y adolescentes con discapacidad, a Programas de Estimulación Temprana y
 
-V. Todos los educadores, maestros, maestras y/o responsables de grupos escolares, deberán proporcionar a las niñas, niños y adolescentes que manifiesten capacidades diferentes, un trato digno y equitativo, igual al que se proporcione al resto del grupo.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+V. Todos los educadores, maestros, maestras y/o responsables de grupos escolares, deberán proporcionar a las niñas, niños y adolescentes con discapacidad, un trato digno y equitativo, igual al que se proporcione al resto del grupo.
 
 ### CAPITULO OCTAVO. DEL DERECHO A LA EDUCACION
 
@@ -438,3 +440,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
