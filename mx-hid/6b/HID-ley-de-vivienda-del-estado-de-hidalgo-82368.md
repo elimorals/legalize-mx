@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2011-07-18"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -149,7 +149,9 @@ I. Elaborar y conformar coordinadamente los programas de vivienda entre los dive
 
 II. Atender al mayor número de personas, preferentemente a la población vulnerable de bajos recursos económicos a través de los programas de vivienda estatales y municipales;
 
-III. Considerar que la construcción de vivienda para personas con capacidades diferentes, cumpla con las características dispuestas por la Ley de Discapacidad vigente en la Entidad;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+III. Considerar que la construcción de vivienda para personas con discapacidad, cumpla con las características dispuestas por la Ley de Discapacidad vigente en la Entidad;
 
 IV. Generar diversos esquemas de financiamiento o cofinanciamiento cuya aplicación se base en el ahorro y el crédito, para la población que no es considerada como sujeto de crédito desde el esquema bancario, además de la población vulnerable de bajos recursos económicos;
 
@@ -982,3 +984,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
