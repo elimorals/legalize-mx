@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2012-03-26"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE MARZO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -7311,35 +7309,51 @@ IV.- Servicios de Desarrollo Urbano:
 
 V.- Servicios Culturales y Recreativos:
 
-1.- Cuota de acceso al museo, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+1.- Cuota de acceso al museo, niño, 3a. edad y personas con discapacidad;
 
 2.- Cuota de acceso al museo, adulto;
 
-3.- Cuota de acceso al planetario, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+3.- Cuota de acceso al planetario, niño, 3a. edad y personas con discapacidad;
 
 4.- Cuota de acceso al planetario, adulto;
 
-5.- Cuota de acceso al observatorio, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+5.- Cuota de acceso al observatorio, niño, 3a. edad y personas con discapacidad;
 
 6.- Cuota de acceso al observatorio, adulto;
 
-7.- Cuota de acceso al museo y planetario, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+7.- Cuota de acceso al museo y planetario, niño, 3a. edad y personas con discapacidad;
 
 8.- Cuota de acceso al museo y planetario, adulto;
 
-9.- Cuota de acceso al museo y observatorio, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+9.- Cuota de acceso al museo y observatorio, niño, 3a. edad y personas con discapacidad;
 
 10.- Cuota de acceso al museo y observatorio, adulto;
 
-11.- Cuota de acceso al planetario y observatorio, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+11.- Cuota de acceso al planetario y observatorio, niño, 3a. edad y personas con discapacidad;
 
 12.- Cuota de acceso al planetario y observatorio, adulto;
 
-13.- Cuota de acceso al museo, planetario y observatorio niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+13.- Cuota de acceso al museo, planetario y observatorio niño, 3a. edad y personas con discapacidad;
 
 14.- Cuota de acceso al museo, planetario y observatorio adulto;
 
-15.- Cuota de acceso para corredor temático de dinosaurios, niño, 3a. edad y capacidades diferentes;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+15.- Cuota de acceso para corredor temático de dinosaurios, niño, 3a. edad y personas con discapacidad;
 
 16.- Cuota de acceso para corredor temático de dinosaurios, para visitantes con carnet del hospital;
 
@@ -7938,3 +7952,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2012, prev
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, abrogada a partir del 1 de enero de 2012, mediante Decreto publicado en el Diario Oficial de la Federación, el 21 de diciembre de 2007, que hubieran nacido antes de que se suspenda el cobro del impuesto a que se refiere dicha Ley, deberán de ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones aplicables.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
