@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2010-04-12"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -123,7 +123,9 @@ II.- Certeza Jurídica.- Recibir un trato digno y apropiado en cualquier procedi
 
 Así mismo recibirá información referente a los derechos laborales contemplados en la Ley Federal del Trabajo y demás ordenamientos legales aplicables;
 
-III.- Derecho a la Salud y a la Alimentación.- Tener acceso a los servicios generales de Salud; recibir orientación en materia de nutrición, higiene y servicios de Geriatría, Gerontología y Tanalogía (sic), en su caso, así como a todo aquello que favorezca su cuidado personal;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+III.- Derecho a la salud y a una alimentación nutritiva, suficiente y de calidad.- Tener acceso a los servicios generales de salud; recibir orientación en materia de nutrición, higiene y servicios de Geriatría, Gerontología y Tanatología, en su caso, así como a todo aquello que favorezca su cuidado personal;
 
 IV.- Derecho a la Familia.- Vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella, aun en el caso de estar separados, salvo si ello es contrario a sus intereses; y a expresar sus opiniones libremente;
 
@@ -536,3 +538,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHON
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
