@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ejecucion-de-sanciones-privativas-y-medidas-8402"
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-22"
-last_updated: "2011-07-11"
+last_updated: "2012-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE SONORA
 
-LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE SONORA
+LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 22 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 18 DE JUNIO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance al número 42 del Boletín Oficial del Estado de Sonora, el miércoles 22 de noviembre de 1972.
 
@@ -521,7 +523,7 @@ VI.- Permisos de salida de fin de semana o en ocasiones especiales, o diario con
 
 VII.- Otras medidas adecuadas que apruebe previamente la Dirección de Prevención y Readaptación Social.
 
-ARTICULO 69 (sic) .- El Ejecutivo del Estado promoverá la creación de establecimientos abiertos, en los cuales el tratamiento se fundará en la confianza, en una disciplina aceptada y en el sentimiento de responsabilidad del interno respecto a la comunidad en que vive.
+ARTICULO 69 (sic).- El Ejecutivo del Estado promoverá la creación de establecimientos abiertos, en los cuales el tratamiento se fundará en la confianza, en una disciplina aceptada y en el sentimiento de responsabilidad del interno respecto a la comunidad en que vive.
 
 ###### ARTICULO 70.
 
@@ -925,7 +927,7 @@ EL SECRETARIO GRAL. DE GOBIERNO.
 
 Angel López Gutiérrez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 3 DE ENERO DE 1973.
 
@@ -940,3 +942,27 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El reglamento a que se refiere el artículo 38 de la ley que se modifica mediante el presente Decreto, deberá expedirse por el Ejecutivo Estatal en un plazo no mayor a 30 días hábiles, contado a partir de la entrada en vigor del presente resolutivo.
+
+B.O. 22 DE OCTUBRE DE 2012.
+
+Artículo Primero.
+
+La presente Ley entrará en vigor a más tardar el 18 de junio de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+El Congreso del Estado podrá establecer la entrada en vigor de la presente Ley, antes del 18 de junio de 2014, en las modalidades que propongan el Poder Ejecutivo y el Poder Judicial del Estado.
+
+Artículo Segundo.
+
+La Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Sonora, promulgada el quince de noviembre de mil novecientos setenta y dos, así como sus reformas posteriores, se abrogarán al entrar en vigor la presente Ley.
+
+Artículo Tercero.
+
+Los procedimientos relativos a libertades anticipadas que se encuentren en trámite en la fecha en que entre en vigor esta Ley, se turnarán al Juez de Ejecución que corresponda para que continúe los mismos hasta su resolución.
+
+Artículo Cuarto.
+
+Al entrar en vigor la presente Ley, el Ejecutivo del Estado deberá haber emitido y publicado los reglamentos a que se refiere este ordenamiento.
+
+Artículo Quinto.
+
+El Congreso del Estado, en el presupuesto de Egresos del Gobierno del Estado del Ejercicio fiscal de 2013, previa propuesta del Poder Ejecutivo y Judicial del Estado, aprobará los recursos económicos necesarios para proveer los recursos humanos y materiales indispensables para implementar el nuevo sistema de ejecución de sanciones penales y medidas de seguridad en el Estado.
