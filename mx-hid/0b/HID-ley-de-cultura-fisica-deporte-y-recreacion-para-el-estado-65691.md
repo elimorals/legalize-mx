@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2010-05-24"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE CULTURA FISICA, DEPORTE Y RECREACION PARA EL ESTADO DE HIDALGO
 
-LEY DE CULTURA FISICA, DEPORTE Y RECREACION PARA EL ESTADO DE HIDALGO
+LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -79,9 +79,11 @@ Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo
 
 La función social del deporte, es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 3.
 
-Las acciones y servicios que en materia deportiva promueva el Estado, las Dependencias y Entidades de la Administración Pública Estatal, el Instituto Hidalguense del Deporte, los ayuntamientos y las organizaciones deportivas y que se encuentren inscritas en el Registro Estatal de Cultura Física, Deporte y Recreación, serán gratuitos y ajenas a principios políticos, religiosos, étnicos y no habrá distingo de condición social, género o raza, y promoverán la incorporación de personas con capacidades diferentes y adultos mayores.
+Las acciones y servicios que en materia deportiva promueva el Estado, las Dependencias y Entidades de la Administración Pública Estatal, el Instituto Hidalguense del Deporte, los ayuntamientos y las organizaciones deportivas y que se encuentren inscritas en el Registro Estatal de Cultura Física, Deporte y Recreación, serán gratuitos y ajenas a principios políticos, religiosos, étnicos y no habrá distingo de condición social, género o raza, y promoverán la incorporación de personas con discapacidad y adultos mayores.
 
 ###### Artículo 4.
 
@@ -177,7 +179,9 @@ IV.- Representar al deporte Estatal ante las autoridades e instancias que sea ne
 
 V.- Determinar el uso de los espacios de carácter público Estatal, destinados a las áreas deportivas, así como intervenir y emitir su opinión en la creación de nuevos espacios destinados al deporte;
 
-VI.- Planear, fomentar, promover, desarrollar, estimular, evaluar, fijar lineamientos y vigilar la práctica y enseñanza del deporte, la cultura física y la recreación, entre la población en general y el desarrollo integral de las personas con capacidades diferentes, cuidando, vigilando y exigiendo que las instalaciones deportivas sean adecuadas para su libre acceso, desarrollo y práctica del deporte, pudiendo, operar establecimientos que coadyuven a la rehabilitación integral de jóvenes con problemas de carácter físico, mental y de adaptación social;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+VI.- Planear, fomentar, promover, desarrollar, estimular, evaluar, fijar lineamientos y vigilar la práctica y enseñanza del deporte, la cultura física y la recreación, entre la población en general y el desarrollo integral de las personas con discapacidad, cuidando, vigilando y exigiendo que las instalaciones deportivas sean adecuadas para su libre acceso, desarrollo y práctica del deporte, pudiendo, operar establecimientos que coadyuven a la rehabilitación integral de jóvenes con problemas de carácter físico, mental y de adaptación social;
 
 VII.- Poner en marcha acciones en materia de deporte, con base en las opiniones del Instituto;
 
@@ -231,9 +235,11 @@ V.- Garantizar mecanismos de equidad en la práctica deportiva a sus trabajadore
 
 VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 14.
 
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción de sexo, raza, grupo étnico, capacidades diferentes, militancia política, creencia religiosa o condición social.
+Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción de sexo, raza, grupo étnico, discapacidad, militancia política, creencia religiosa o condición social.
 
 ###### Artículo 15.
 
@@ -317,7 +323,9 @@ VI.- Proponer y ejecutar las medidas que permitan fomentar el aprendizaje y la p
 
 VII.- Establecer los procedimientos para lograr una coordinación y concertación en materia deportiva entre las diferentes Dependencias y Entidades de la Administración Pública Estatal y Municipal, así como también sumar la participación activa de las diferentes instituciones públicas y de particulares, de los sectores social y privado;
 
-VIII.- Diseñar y operar estrategias para fomentar la práctica deportiva entre los grupos étnicos, adultos mayores, personas con capacidades diferentes y población de escasos recursos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+VIII.- Diseñar y operar estrategias para fomentar la práctica deportiva entre los grupos étnicos, adultos mayores, personas con discapacidad y población de escasos recursos;
 
 IX.- Formular programas destinados a promover y apoyar la formación, capacitación y actualización constante entre todo el personal técnico del deporte, que se dedica a trabajar en las diferentes disciplinas deportivas;
 
@@ -483,7 +491,9 @@ III.- Otorgar los estímulos y apoyos para el desarrollo y fomento del deporte;
 
 IV.- Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas y que estén incorporadas al Sistema Estatal de Cultura Física, Deporte y Recreación;
 
-V.- Prever que las personas con capacidades diferentes, de la tercera edad y demás grupos especiales, tengan las facilidades e instalaciones deportivas adecuadas para su libre acceso y desarrollo;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+V.- Prever que las personas con discapacidad, de la tercera edad y demás grupos especiales, tengan las facilidades e instalaciones deportivas adecuadas para su libre acceso y desarrollo;
 
 VI.- Organizar y coordinar las actividades deportivas en colonias, barrios, zonas y centros de población a través de las asociaciones y junta de vecinos, con el fin de fomentar y desarrollar el deporte, implementando por lo menos una unidad deportiva en la cabecera Municipal, para fomentar la convivencia familiar;
 
@@ -703,7 +713,9 @@ VIII.- Talentos deportivos;
 
 IX.- Deporte selectivo (alto rendimiento);
 
-X.- Deporte para adultos mayores y personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+X.- Deporte para adultos mayores y personas con discapacidad;
 
 XI.- Deporte indígena;
 
@@ -745,9 +757,11 @@ DEL SISTEMA DE INFORMACIÓN Y DEL REGISTRO ESTATAL.
 
 Se crea el Registro Estatal de Cultura Física, Deporte y Recreación como instrumento del Sistema Estatal de Cultura Física, Deporte y Recreación, que estará a cargo del Instituto Hidalguense del Deporte, quien organizará y desarrollará el Sistema de Información de Cultura Física, Deporte y Recreación cuyo objetivo será la inscripción general relativa a los programas Estatal y Municipales del Deporte, entrenadores y promotores del deporte, agrupaciones deportivas y organismos deportivos no profesionales, y llevará un control actualizado de todos los deportistas, organizaciones deportivas, jueces, árbitros, técnicos, instructores, guías e instructores en deportes de alto riesgo, programas, censo e inventario de instalaciones y los eventos que se realicen en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 70.
 
-Las y los deportistas con capacidades diferentes, dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades, pudiendo obtener también su registro.
+Las y los deportistas con discapacidad, dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades, pudiendo obtener también su registro.
 
 ###### Artículo 71.
 
@@ -835,7 +849,9 @@ V.- Cuando se tenga la calidad de seleccionados Nacionales, a recibir asistencia
 
 VI.- Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales respectivamente, emanados del Sistema Estatal del Deporte;
 
-VII.- Utilizar, con los accesos y adecuaciones pertinentes, las instalaciones y equipos deportivos, si se trata de personas con capacidades diferentes y demás poblaciones especiales;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+VII.- Utilizar, con los accesos y adecuaciones pertinentes, las instalaciones y equipos deportivos, si se trata de personas con discapacidad y demás poblaciones especiales;
 
 VIII.- Participar en las consultas públicas a que se convoque para la elaboración del Programa Estatal de Cultura Física y Deporte, así como también de los programas y Reglamentos de su especialidad;
 
@@ -1085,21 +1101,27 @@ DE LA OLIMPIADA JUVENIL.
 
 El Instituto Hidalguense del Deporte y los Consejos Municipales del Deporte, en el ámbito de sus respectivas competencias, emitirán la convocatoria respectiva, convocando a los jóvenes que deseen participar con base en la convocatoria Estatal, emitida por el Instituto Hidalguense del Deporte.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 114.
 
-El deporte adaptado es el término que se emplea para designar a la práctica deportiva de personas con alguna capacidad diferente, teniendo como máximo organismo al Comité Paralímpico Internacional. A la par de este Comité, opera la Organización de Olimpiadas Especiales.
+El deporte adaptado es el término que se emplea para designar a la práctica deportiva de personas con alguna discapacidad, teniendo como máximo organismo al Comité Paralímpico Internacional. A la par de este Comité, opera la Organización de Olimpiadas Especiales.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 115.
 
-Los Gobiernos Estatal y Municipales, a través de sus órganos competentes, promoverá la creación y en su caso, la adecuación de centros o áreas deportivas que puedan ser utilizadas por personas con capacidades diferentes y fomentarán la práctica de disciplinas y competencias, buscando su integración y bienestar.
+Los Gobiernos Estatal y Municipales, a través de sus órganos competentes, promoverá la creación y en su caso, la adecuación de centros o áreas deportivas que puedan ser utilizadas por personas con discapacidad y fomentarán la práctica de disciplinas y competencias, buscando su integración y bienestar.
 
 ###### Artículo 116.
 
 Las y los deportistas que obtengan los tres primeros lugares en la etapa regional, tendrán derecho a participar en la etapa Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 117.
 
-Las personas con capacidades diferentes, recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta Ley y su Reglamento.
+Las personas con discapacidad, recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta Ley y su Reglamento.
 
 ###### Artículo 118.
 
@@ -1183,9 +1205,11 @@ Las personas físicas o morales, agrupaciones o instituciones deportivas, deber�
 
 Las instalaciones deportivas y recreativas de propiedad privada, destinadas al uso del público en general, deberán contar con el dictamen técnico que emita el Instituto Hidalguense del Deporte, sobre la idoneidad para la práctica del deporte de que se trate, quienes infrinjan este ordenamiento, serán sancionados conforme a esta Ley y su Reglamento, además, prohibirá el uso de cualquier espacio o instalación deportiva cuando no cuenten con el dictamen técnico de dicho organismo.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 129.
 
-El Instituto Hidalguense del Deporte vigilará que los ayuntamientos, acondicionen las instalaciones existentes y en las que se construyan o adicionen, espacios apropiados para las personas con capacidades diferentes, de la tercera edad, y demás población especial, para la realización del deporte adaptado, así como establecer accesos y servicios para los mismos en los términos del capítulo V de la Ley para la Atención de Personas con Discapacidad en el Estado de Hidalgo.
+El Instituto Hidalguense del Deporte vigilará que los ayuntamientos, acondicionen las instalaciones existentes y en las que se construyan o adicionen, espacios apropiados para las personas con discapacidad, de la tercera edad, y demás población especial, para la realización del deporte adaptado, así como establecer accesos y servicios para los mismos en los términos del capítulo V de la Ley para la Atención de Personas con Discapacidad en el Estado de Hidalgo.
 
 ###### Artículo 130.
 
@@ -1579,10 +1603,16 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE MAYO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
