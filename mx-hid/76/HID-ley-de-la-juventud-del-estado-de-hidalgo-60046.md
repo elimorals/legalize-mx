@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2011-03-31"
+last_updated: "2012-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -93,7 +93,9 @@ Son principios rectores en la interpretación y aplicación de esta Ley los sigu
 
 I.- El interés superior del desarrollo y protección de los jóvenes;
 
-II.- La igualdad sin distinción de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, capacidades diferentes, o cualquiera otra condición que atente contra la dignidad y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+II.- La igualdad sin distinción de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, discapacidad, o cualquiera otra condición que atente contra la dignidad y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 III.- La corresponsabilidad de los miembros de la familia, Estado y sociedad en la atención y desarrollo integral de la juventud;
 
@@ -147,9 +149,9 @@ XII.- La información;
 
 XIII.- La reintegración social;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
-XIV.- Los relativos a los jóvenes con discapacidad; y
+XIV.- Los relativos a los jóvenes con discapacidad.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -167,9 +169,11 @@ Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos P�
 
 #### SECCIÓN SEGUNDA. DEL DERECHO A LA NO DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, capacidades diferentes, o cualquiera otra condición.
+Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, discapacidad, o cualquiera otra condición.
 
 #### SECCIÓN TERCERA. DEL DERECHO A SER PROTEGIDOS Y RESPETADOS EN SU INTEGRIDAD FÍSICA Y MENTAL
 
@@ -463,21 +467,27 @@ Los jóvenes que se encuentren en circunstancias de privación de libertad, situ
 
 El Gobierno, deberá disponer de los recursos y medios que sean necesarios para garantizar este derecho.
 
-#### SECCIÓN DÉCIMA CUARTA. DE LOS DERECHOS RELATIVOS A LOS JÓVENES CON CAPACIDADES DIFERENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. DE LOS DERECHOS RELATIVOS A LOS JÓVENES CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-Los jóvenes con capacidades diferentes tienen derecho a disfrutar de una vida plena y digna. El Gobierno facilitará los mecanismos necesarios para que el joven con capacidades diferentes pueda llegar a ser autosuficiente por sí mismo, teniendo como objetivo su participación activa en la comunidad.
+Los jóvenes con discapacidad tienen derecho a disfrutar de una vida plena y digna. El Gobierno facilitará los mecanismos necesarios para que el joven con discapacidad pueda llegar a ser autosuficiente por sí mismo, teniendo como objetivo su participación activa en la comunidad.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 52.
 
-Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quien ejerza la patria potestad o la custodia.
+El Programa establecerá los lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quien ejerza la patria potestad o custodia.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 53.
 
-El Gobierno dispondrá de los recursos y medios que permitan, asegurar que el joven con capacidades diferentes tenga acceso efectivo a la educación, capacitación laboral, servicios sanitarios, servicios de rehabilitación, y oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social.
+El Gobierno dispondrá de los recursos y medios que permitan asegurar que el joven con discapacidad tenga acceso efectivo a la educación, capacitación laboral, servicios sanitarios, servicios de rehabilitación, y oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social.
 
 ### CAPÍTULO II. DE LOS DEBERES DE LOS JÓVENES
 
@@ -919,10 +929,16 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MARZO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
