@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2010-12-13"
+last_updated: "2012-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
+LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -73,7 +73,7 @@ II.- Deportivos, exóticos, ferales, guía, silvestres, para abasto, para la pr�
 
 III.- Todas las especies que tengan una actividad especializada que contribuyan para un beneficio terapéutico, de seguridad y de rescate, así como a suplir alguna capacidad diferente para el ser humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 3°.
 
@@ -97,7 +97,9 @@ VIII.- Animal doméstico: Los animales de compañía, que por su naturaleza y co
 
 IX.- Animales ferales: Los animales domésticos que por el abandono de sus propietarios se tornen silvestres y vivan dentro del entorno natural;
 
-X.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con capacidades diferentes, y que por su entrenamiento pueden llegar a suplir alguno de los sentidos de dichas personas;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+
+X.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad, y que por su entrenamiento pueden llegar a suplir alguno de los sentidos de dichas personas;
 
 XI.- Animales de exhibición: Todos aquellos animales; exóticos y silvestres, que se encuentran en cautiverio en zoológicos y lugares similares ya sean públicos o privados;
 
@@ -743,17 +745,21 @@ Las personas que practiquen la caza o aprovechamiento de subsistencia deberán d
 
 Los propietarios, encargados o custodios de animales guía o para la práctica de zooterapia, deberán sujetarse a lo establecido en esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 77.
 
-Cualquier animal que asista a personas con capacidades diferentes o que por prescripción médica deban hacerse acompañar de algún animal tendrán libre acceso a todos los lugares y transportes públicos.
+Cualquier animal que asista a personas con discapacidad o que por prescripción médica deban hacerse acompañar de algún animal tendrá libre acceso a todos los lugares y transportes públicos.
 
 ###### Artículo 78.
 
 La práctica de la zooterapia deberá ser asistida por personas capacitadas para dicho fin.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 79.
 
-Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con capacidades diferentes y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
+Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
 
 ### CAPITULO DECIMO NOVENO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
 
@@ -921,7 +927,7 @@ II.- Multa de 5 a 300 días de salario mínimo; y
 
 III.- Arresto hasta por 36 horas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 103.
 
@@ -991,7 +997,7 @@ DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE DICIEMBRE DE 2010.
 
@@ -1008,3 +1014,9 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
