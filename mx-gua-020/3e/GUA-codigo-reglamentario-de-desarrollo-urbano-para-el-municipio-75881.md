@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2012-07-13"
+last_updated: "2012-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -4045,6 +4045,8 @@ Para los grupos de uso habitacionales, sólo se deberá presentar la responsiva 
 
 #### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 316.
 
 Requieren de Licencia de Construcción especial la realización de obras e instalaciones que a continuación se indican:
@@ -4205,7 +4207,7 @@ Lo anterior independientemente de las responsabilidades de carácter civil, pena
 
 ###### Artículo 333.
 
-Los requisitos para la autorización de antenas de telefonía celular se indican en Manual Técnico de las Construcciones.
+Los requisitos para la autorización de antenas de telefonía celular se indican en Manual Técnico de Usos del Suelo.
 
 ###### Artículo 334.
 
@@ -6575,7 +6577,7 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62.</small>
 
 > <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201.</small>
 
@@ -6690,6 +6692,12 @@ TERCERO.- La Dirección General de Desarrollo Urbano contará con un término de
 CUARTO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
 
 P.O. 13 DE JULIO DE 2012.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas municipales que se opongan a la presente modificación.
+
+P.O. 23 DE OCTUBRE DE 2012.
 
 PRIMERO.- Las presentes modificaciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
