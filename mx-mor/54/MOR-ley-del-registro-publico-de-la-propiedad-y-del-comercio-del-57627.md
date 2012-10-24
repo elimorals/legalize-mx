@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-registro-publico-de-la-propiedad-y-del-comercio-del-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-28"
-last_updated: "2009-06-26"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MOR"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LA DISPOSICIÓN SÉPTIMA TRANSITORIA DEL PRESENTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2012, EN TODOS LOS ORDENAMIENTOS LEGALES Y ADMINISTRATIVOS EN DONDE SE HAGA REFERENCIA AL INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO, SE ENTENDERÁ AL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 28 de noviembre de 2007.
 
@@ -53,9 +57,13 @@ DE LA APLICACIÓN DE LA LEY. Las disposiciones de esta Ley son de orden público
 
 A falta de disposición expresa se aplicarán supletoriamente el Código Civil y la Ley de Procedimiento Administrativo, ambos del estado de Morelos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 2.
 
-DE LA CREACIÓN DEL ORGANISMO Y SU DOMICILIO LEGAL. Se crea el Organismo Público Descentralizado denominado “Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos”, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gobierno, como institución mediante la cual el Estado presta el servicio de dar publicidad a los actos jurídicos que conforme a la Ley, deban surtir efectos contra terceros.
+DE LA CREACIÓN DEL ORGANISMO Y SU DOMICILIO LEGAL. Se crea el Organismo Público Descentralizado denominado “Instituto de Servicios Registrales y Catastrales del Estado de Morelos”, con personalidad jurídica y patrimonio propio, como institución mediante la cual el Estado por una parte, presta el servicio de dar publicidad a los actos jurídicos que conforme a la Ley, deban surtir efectos contra terceros a través del Registro Público de la Propiedad y del Comercio y por la otra, a través del cual mantiene y actualiza el Sistema de Información Catastral del Estado de Morelos.
 
 Tendrá su domicilio legal y oficinas en la ciudad de Cuernavaca. El Ejecutivo del Estado podrá determinar el establecimiento de oficinas Regionales del Registro Público de la Propiedad en otras ciudades de la Entidad.
 
@@ -135,9 +143,29 @@ II. Brindar servicios registrales de calidad;
 
 III. Elaborar y ejecutar un Programa de Modernización Integral en todos los componentes que establece el Modelo de Modernización Nacional.
 
-IV. Brindar servicios descentralizados en diversas regiones del estado de Morelos, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Ajustar su desarrollo y operación al Plan Estatal de Desarrollo vigente en el Estado, a los Programas Sectoriales, a los Programas Operativos Anuales y al presupuesto aprobado para gasto y financiamiento.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+IV. Brindar servicios descentralizados en diversas regiones del Estado de Morelos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+V. Ajustar su desarrollo y operación al Plan Estatal de Desarrollo vigente en el Estado, a los Programas Sectoriales, a los Programas Operativos Anuales y al presupuesto aprobado para gasto y financiamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+VI. Organizar, planear, coordinar, mantener y actualizar el Sistema de Información Catastral del Estado de Morelos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+VII. Mantener y actualizar el portal visualizador de los bienes inmuebles del Estado de Morelos, con la información respectiva del registro público de la propiedad y del catastro, así como de otras instancias relativas a la propiedad inmobiliaria.
 
 ###### ARTÍCULO 6.
 
@@ -245,6 +273,8 @@ VI. No tener parentesco con cualquiera de los miembros de la Junta de Gobierno, 
 
 VII. No haber sido sentenciado por delitos patrimoniales o inhabilitado para ejercer el comercio o desempeñar empleos, cargos o comisiones públicas.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTÍCULO 14.
 
 ATRIBUCIONES Y OBLIGACIONES DEL DIRECTOR GENERAL. El Director General tendrá las siguientes facultades y obligaciones:
@@ -291,13 +321,29 @@ XIX. Ejecutar los acuerdos de la Junta de Gobierno, dictar las medidas necesaria
 
 XX. Presentar a la Junta de Gobierno el proyecto de presupuesto de egresos y en su caso el de ingresos, con la oportunidad que señale la Dependencia Coordinadora;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXI.- Organizar y coordinar el Archivo General de Notarías del Estado, en los términos que establece la Ley del Notariado del Estado de Morelos;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
 
-XXII. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades, y
+XXI. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades;
 
-XXIII. Las demás que establezcan las disposiciones legales vigentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XXII. Otorgar apoyo a las instituciones federales, estatales y municipales encargadas de ejecutar acciones de regularización de la tenencia de la tierra, determinación de reservas territoriales, definición de límites intermunicipales y estatales, servicios de levantamientos topográficos, expedición de certificados, sellado y registro de escrituras en el padrón catastral, así como acciones y mecanismos para el mejor desempeño de las actividades registrales en materia de propiedad social y privada;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XXIII. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XXXIV. (SIC) Las demás que establece el artículo 15 de la Ley de Catastro Municipal para el Estado de Morelos y otras disposiciones legales vigentes.
 
 El Director General podrá delegar en servidores públicos subalternos, por escrito, las atribuciones referidas en las fracciones IV, V y VI del presente artículo.
 
@@ -1263,8 +1309,26 @@ Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital de
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE JUNIO DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERA.- Expídase el Decreto respectivo y publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia el día 1 de enero del año 2013.
+
+TERCERA.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente.
+
+CUARTA.- Durante el primer semestre del año 2013, el Poder Ejecutivo realizará las transferencias de los recursos humanos, materiales y financieros con los que actualmente opera la Dirección General del Sistema de Información Catastral al Organismo Público, a efecto de que inicie su operación de conformidad con sus nuevas atribuciones. En el caso de los recursos materiales, deberán transferirse a título de donación.
+
+QUINTA.- En un término no mayor a tres meses de que inicie la vigencia del presente Decreto, el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, deberá expedir su nuevo Estatuto Orgánico acorde a la presente reforma.
+
+SEXTA.- Los convenios suscritos entre los municipios y el Ejecutivo del Estado para la prestación de servicios catastrales por parte de la Dirección General del Sistema de Información Catastral, continuarán su vigencia a través del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+SÉPTIMA.- En todos los ordenamientos legales y administrativos en donde se haga referencia al Instituto del Registro Público de la Propiedad y del Comercio del Estado, se entenderá al Instituto de Servicios Registrales y Catastrales del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos al Director General del Sistema de Información Catastral pasarán al Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+OCTAVA.- Los convenios y compromisos suscritos por el Ejecutivo del Estado con el Gobierno Federal, respecto del Sistema de Información Catastral, deberán continuarse hasta su total conclusión por parte de la Subsecretaría de Ingresos del Gobierno del Estado.
