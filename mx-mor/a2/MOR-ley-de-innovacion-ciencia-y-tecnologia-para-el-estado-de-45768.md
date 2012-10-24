@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-innovacion-ciencia-y-tecnologia-para-el-estado-de-45768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-03"
-last_updated: "2006-12-20"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de agosto de 2005.
 
@@ -193,9 +193,17 @@ XIX. Red científica y Tecnológica: Asociación formal o informal articulada ho
 
 XX. CONACYT: Al Consejo Nacional de Ciencia y Tecnología;
 
-XXI. Junta Directiva: A la junta Directiva del CCYTEM, y;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
 
-XXII. Consejo Consultivo: Al Consejo Consultivo Científico y Tecnológico.
+XXI. Junta Directiva. A la junta Directiva del CCYTEM;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XXII. Consejo Consultivo. Al Consejo Consultivo Científico y Tecnológico; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XXIII. Secretaría. A la unidad dependiente del Poder Ejecutivo del Estado encargada de la Innovación, Ciencia y Tecnología.
 
 ###### ARTÍCULO 4°.
 
@@ -311,9 +319,55 @@ XI. Realizar aquellas otras actividades que se prevean en esta ley o en otros or
 
 Los municipios podrán solicitar al CCYTEM, la asesoría técnica necesaria para la formulación, ejecución y evaluación de sus políticas y acciones en materia de Ciencia y Tecnología y para el cumplimiento de la presente ley.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 8°.
 
-Compete al Poder Ejecutivo del Estado, a través del Consejo de Ciencia y Tecnología del Estado de Morelos, la aplicación y vigilancia general de la presente ley, en los términos que la misma establece, así como su divulgación entre la población.
+Compete al Poder Ejecutivo del Estado, a través de la Secretaría y del Consejo de Ciencia y Tecnología del Estado de Morelos, la aplicación y vigilancia general de la presente ley, en los términos que la misma establece, así como su divulgación entre la población.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 8° BIS.- Corresponden a la Secretaría las siguientes atribuciones:
+
+I. Fungir como Órgano Rector del sistema;
+
+II. Brindar consulta y asesoría a las dependencias y entidades de la administración pública del Estado, a los municipios, a las Instituciones y empresas científicas y tecnológicas y a los particulares en la entidad que lo soliciten, en materia de planeación, programación, aplicación y evaluación de funciones de recursos en Ciencia y Tecnología;
+
+III. Fungir como representante del Poder Ejecutivo del Estado en sus relaciones formales e informales con las instituciones y organismos de Ciencia y Tecnología internacionales, nacionales, locales y municipales y en particular, ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología en términos de las leyes aplicables;
+
+IV. Formular, coordinar su ejecución, evaluar y actualizar el programa, con la participación de la comunidad científica y de los sectores productivo y social, procurando su articulación con los sistemas nacional y estatal de planeación en los términos de las leyes aplicables;
+
+V. Revisar y evaluar periódicamente el desempeño del sistema, con la finalidad de conocer sus resultados e impactos de soluciones de necesidades esenciales de la entidad y en el avance del conocimiento;
+
+VI. Apoyar el fortalecimiento y la consolidación del sistema mediante la promoción de nuevas instituciones, dependencias, redes, infraestructura y centros de investigación científicas y tecnológicas;
+
+VII. Coadyuvar con las instituciones que integran el sistema para la adscripción, permanencia, actualización y promoción de investigadores y demás miembros de la comunidad científica en la entidad;
+
+VIII. Fomentar la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia y tecnología que contribuyan a la descentralización de la Ciencia y Tecnología en la Entidad;
+
+IX. Promover ante las dependencias y entidades de la administración pública del Estado, la consideración dentro de sus planes, programas, proyectos, acciones y presupuestos a fin de asegurar los recursos necesarios para la Ciencia y Tecnología orientados a la atención de las necesidades esenciales de la Entidad y en particular para el eficaz cumplimiento del objeto de esta Ley;
+
+X. Promover la inversión privada en Ciencia y Tecnología, y la constitución y desarrollo de empresas relacionadas con la producción de bienes y servicios generados con tecnología avanzada o de punta;
+
+XI. Someter a la consideración del Ejecutivo propuestas de políticas y mecanismos de apoyo a la Ciencia, la Tecnología y la Innovación, en materia de estímulos fiscales y financieros, exenciones y facilidades administrativas, entre otras;
+
+XII. Gestionar ante las distintas instituciones y organismos públicos y privados, internacionales, nacionales y locales, recursos para apoyar de manera creciente al sistema y a sus actividades en los términos de esta Ley;
+
+XIII. Apoyar y convenir la constitución, el financiamiento y operación de fondos para el fomento de la Ciencia y Tecnología en la entidad y participar en sus órganos de dirección;
+
+XIV. Coordinar, integrar y dar seguimiento a las actividades científicas y tecnológicas que las dependencias y entidades de la administración pública estatal y municipal realicen, así como conocer y opinar sobre los recursos empleados para tal fin, con el propósito de asegurar su congruencia con las políticas y prioridades establecidas en el programa, en los términos de la presente ley;
+
+XV. Integrar el padrón de instituciones y organismos de Ciencia y Tecnología de la entidad, mediante la aplicación de indicadores y estándares locales, y coadyuvar con su integración a la red nacional de grupos y centros de investigación;
+
+XVI. Fomentar la colaboración interinstitucional, la creación de redes científicas y tecnológicas y la articulación de las instituciones del sistema para la ejecución de acciones coordinadas en materia de ciencia y tecnología;
+
+XVII. Crear, desarrollar, operar y evaluar el Sistema Estatal de Investigadores;
+
+XVIII. Otorgar estímulos económicos y reconocimiento al mérito estatal de innovación, ciencia y tecnología a las instituciones y miembros de la comunidad científica integrantes del Sistema;
+
+XIX. Promover la integración del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT y realizar estudios sobre esta materia; y
+
+XX. Las demás que otras disposiciones jurídicas o administrativas o el Gobernador del Estado le encomiende.
 
 ## TÍTULO TERCERO. DEL CONSEJO DE CIENCIA Y TECNOLOGÍA
 
@@ -323,177 +377,47 @@ Compete al Poder Ejecutivo del Estado, a través del Consejo de Ciencia y Tecnol
 
 El Consejo de Ciencia y Tecnología del Estado de Morelos, es un organismo público descentralizado de la administración pública del Estado, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, de gestión y presupuestaria, y con sede en la capital del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 10°.
 
-El CCYTEM es la entidad del Gobierno del Estado responsable de atender al objeto de la presente ley.
+El CCYTEM es la Entidad del Gobierno del Estado responsable de atender al objeto de la presente Ley, en concurrencia con la Secretaría.
 
 ### CAPÍTULO SEGUNDO. DE SUS OBJETIVOS Y FUNCIONES
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 11°.
 
 El CCYTEM tendrá los siguientes objetivos:
 
-I.- Promover y coordinar la planeación y el desarrollo de la Ciencia y la Tecnología en el estado de Morelos, con la más alta participación de la sociedad;
+I. Identificar, organizar, sistematizar y difundir la información científica y tecnológica en la entidad;
 
-II.- Establecer la política del Gobierno del Estado orientada a la integración, fortalecimiento y consolidación del sistema, promoviendo la creación de centros, grupos y redes de investigación, el fortalecimiento de su infraestructura, la multiplicación de proyectos de investigación, la formación e integración de científicos y tecnólogos de alto nivel académico y realizando las acciones que se encaminen al fortalecimiento de esa política;
+II. Coadyuvar con la Secretaría para alcanzar la sociedad del conocimiento en la entidad; y
 
-III. Impulsar la descentralización de la Ciencia y Tecnología, fomentando la integración y el fortalecimiento de los sistemas regionales y municipales de Ciencia y Tecnología;
+III. Conocer, revalorar y preservar los conocimientos tradicionales de los pueblos indígenas de la entidad y coadyuvar con las instituciones responsables para el resguardo de sus derechos.
 
-IV. Impulsar la vinculación de la investigación científica, el desarrollo tecnológico y la innovación, con la atención de las necesidades esenciales y el desarrollo social, económico, cultural y ambiental, en los ámbitos local, municipal, estatal, regional y nacional;
-
-V. Procurar que la federación, el Gobierno del Estado, los municipios y los particulares destinen los recursos necesarios para el desarrollo de la Ciencia y Tecnología, mediante la creación de instrumentos de financiamiento;
-
-VI. Conocer los procesos de gestión y aplicación de recursos destinados a la Ciencia y Tecnología;
-
-VII. Lograr la coordinación de las actividades de Ciencia y Tecnología en las entidades de las administración pública del Estado y la incorporación de los avances en esta materia para su modernización;
-
-VIII. Organizar, articular, reconocer y estimular a la comunidad científica, así como a los tecnólogos;
-
-IX. Identificar, organizar, sistematizar y difundir la información científica y tecnológica en la entidad;
-
-X. Alcanzar la sociedad el conocimiento en la entidad, y;
-
-XI. Conocer, revalorar y preservar los conocimientos tradicionales de los pueblos indígenas de la entidad y coadyuvar con las instituciones responsables para el resguardo de sus derechos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 12º.
-
-El CYTEM tendrá las siguientes funciones:
-
-I. Fungir como órgano auxiliar del Gobierno del Estado en materia de ciencia y tecnología;
-
-II. Apoyar al Poder Ejecutivo del Estado en la vigilancia del cumplimiento de la presente ley;
-
-III. Fungir como órgano rector del sistema;
-
-IV. Brindar consulta y asesoría a las dependencias y entidades de la administración pública del Estado, a los municipios, a las Instituciones y empresas científicas y tecnológicas y a los particulares en la entidad que lo soliciten, en materia de planeación, programación, aplicación y evaluación de funciones de recursos en Ciencia y Tecnología;
-
-V. Fungir como órgano competente del Poder Ejecutivo del Estado en sus relaciones formales e informales con las instituciones y organismos de Ciencia y Tecnología internacionales, nacionales, locales y municipales y en particular, ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología en términos de las leyes aplicables;
-
-VI. Atender los asuntos legales que se interpongan contra sus actos y resoluciones en los términos de las normas que al efecto se expidan;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-VII. Formular, coordinar su ejecución, evaluar y actualizar el programa, con la participación de la comunicad científica y de los sectores productivo y social, procurando su articulación con los sistemas nacional y estatal de planeación en los términos de las leyes aplicables;
-
-VIII. Revisar y evaluar periódicamente el desempeño del sistema, con la finalidad de conocer sus resultados e impactos de soluciones de necesidades esenciales de la entidad y en el avance del conocimiento;
-
-IX. Apoyar el fortalecimiento y la consolidación del sistema mediante la promoción de nuevas instituciones, dependencias, redes, infraestructura y centros de investigación científicas y tecnológicas;
-
-X. Impulsar el financiamiento de proyectos de infraestructura, de formación de recursos humanos, de vinculación y de investigación científica, desarrollo tecnológico e innovación orientados a la atención a las necesidades esenciales de la entidad;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XI. Apoyar mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y el desarrollo tecnológico, contribuyendo al fortalecimiento de los programas de postgrado en la entidad, y en general todas aquellas acciones, cursos, programas de formación continúa y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadores y actualizar los conocimientos de más alto nivel;
-
-XII. Coadyuvar con las instituciones que integran el sistema para la adscripción, permanencia, actualización y promoción de investigadores y demás miembros de la comunidad científica en la entidad;
-
-XIII. Fomentar la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia y tecnología que contribuyan a la descentralización de la Ciencia y Tecnología en la Entidad;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XIV. Formular las acciones tendientes a la vinculación y gestión tecnológica, la difusión, divulgación y enseñanza de la ciencia, así como otras que favorezcan la aplicación de la ciencia y la transferencia de la tecnología para el mejoramiento de los procesos económico, social y ambiental, así como su socialización entre la población y las comunidades de la entidad;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XV. Promover ante las dependencias y entidades de la administración pública del Estado, la consideración dentro de sus planes, programas, proyectos, acciones y presupuestos a fin de asegurar los recursos necesarios para la Ciencia y Tecnología orientados a la atención de las necesidades esenciales de la entidad y en particular para el eficaz cumplimiento del objeto de esta ley;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XVI. Promover la inversión privada en Ciencia y Tecnología y la constitución y desarrollo de empresas relacionadas con la producción de bienes y servicios generados con tecnología avanzada o de punta;
-
-XVII. Someter a la consideración del Ejecutivo propuestas de políticas y mecanismos de apoyo a la Ciencia, la Tecnología y la Innovación, en materia de estímulos fiscales y financieros, excensiones (sic) y facilidades administrativas, entre otras;
-
-XVIII. Gestionar ante las distintas instituciones y organismos públicos y privados, internacionales, nacionales y locales, recursos para apoyar de manera creciente al sistema y a sus actividades en los términos de esta ley;
-
-XIX. Administrar su patrimonio y los recursos que las instituciones y organismos internacionales, nacionales y locales destinen, por su conducto, al desarrollo del sistema;
-
-XX. Apoyar y convenir la constitución, el financiamiento y operación de fondos para el fomento de la Ciencia y Tecnología en la entidad y participar en sus órganos de dirección;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XXI. Coordinar, integrar y dar seguimiento a las actividades científicas y tecnológicas que las dependencias y entidades de la administración pública estatal y municipal realicen, así como conocer y opinar sobre los recursos empleados para tal fin, con el propósito de asegurar su congruencia con las políticas y prioridades establecidas en el programa, en los términos de la presente ley;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XXII. Integrar el padrón de instituciones y organismos de Ciencia y Tecnología de la entidad, mediante la aplicación de indicadores y estándares locales y coadyuvar con su integración a la red nacional de grupos y centros de investigación;
-
-XXIII. Fomentar la colaboración interinstitucional, la creación de redes científicas y tecnológicas y la articulación de las instituciones del sistema para la ejecución de acciones coordinadas en materia de ciencia y tecnología;
-
-XXIV. Crear, desarrollar, operar y evaluar el Sistema Estatal de Investigadores;
-
-XXV. Otorgar estímulos económicos y reconocimiento al mérito estatal de investigación Ciencia y Tecnología a las instituciones y miembros de la comunidad científica integrantes del Sistema;
-
-XXVI. Promover la integración del Sistema Estatal de Información y comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT, realizar estudios sobre esta materia, así como emitir periódicamente un informe del Estado que guarda el desarrollo de la Ciencia y la Tecnología en la Entidad;
-
-XXVII. Promover la difusión, transferencia, divulgación y enseñanza de la Ciencia y la Tecnología, así como de los conocimientos tradicionales de los pueblos indígenas de Morelos;
-
-XXVIII. Coadyuvar en el resguardo de los derechos sobre los conocimientos tradicionales de los pueblos indígenas de Morelos, y;
-
-XXIX. Las demás inherentes al cumplimiento de su objetivo y las que le señalen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 12°.
 
-El CCYTEM tendrá las siguientes funciones:
+El CCYTEM tendrá las siguientes atribuciones:
 
-I. Fungir como órgano auxiliar del Gobierno del Estado en materia de ciencia y tecnología;
+I. Atender los asuntos legales que se interpongan contra sus actos y resoluciones en los términos de las normas que al efecto se expidan;
 
-II. Apoyar al Poder Ejecutivo del Estado en la vigilancia del cumplimiento de la presente ley;
+II. Impulsar el financiamiento de proyectos de infraestructura, de formación de recursos humanos, de vinculación y de investigación científica, desarrollo tecnológico e innovación orientados a la atención a las necesidades esenciales de la entidad;
 
-III. Fungir como órgano rector del sistema;
+III. Apoyar mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y el desarrollo tecnológico, contribuyendo al fortalecimiento de los programas de postgrado en la Entidad, y en general todas aquellas acciones, cursos, programas de formación continua y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadores y actualizar los conocimientos de más alto nivel;
 
-IV. Brindar consulta y asesoría a las dependencias y entidades de la administración pública del Estado, a los municipios, a las Instituciones y empresas científicas y tecnológicas y a los particulares en la entidad que lo soliciten, en materia de planeación, programación, aplicación y evaluación de funciones de recursos en Ciencia y Tecnología;
+IV. Formular las acciones tendientes a la vinculación y gestión tecnológica, la difusión, divulgación y enseñanza de la ciencia, así como otras que favorezcan la aplicación de la ciencia y la transferencia de la tecnología para el mejoramiento de los procesos económico, social y ambiental, así como su socialización entre la población y las comunidades de la entidad;
 
-V. Fungir como órgano competente del Poder Ejecutivo del Estado en sus relaciones formales e informales con las instituciones y organismos de Ciencia y Tecnología internacionales, nacionales, locales y municipales y en particular, ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología en términos de las leyes aplicables;
+V. Administrar su patrimonio y los recursos que las instituciones y organismos internacionales, nacionales y locales destinen, por su conducto, al desarrollo del sistema;
 
-VI. Atender los asuntos legales que se interpongan contra sus actos y resoluciones en los términos de las normas que al efecto se expidan;
+VI. Promover la difusión, transferencia, divulgación y enseñanza de la Ciencia y la Tecnología, así como de los conocimientos tradicionales de los pueblos indígenas de Morelos;
 
-VII. Formular, coordinar su ejecución, evaluar y actualizar el programa, con la participación de la comunidad científica y de los sectores productivos y sociales, procurando su articulación con los sistemas nacional y estatal de planeación en los términos de las leyes aplicables;
+VII. Coadyuvar en el resguardo de los derechos sobre los conocimientos tradicionales de los pueblos indígenas de Morelos; y
 
-VIII. Revisar y evaluar periódicamente el desempeño del sistema, con la finalidad de conocer sus resultados e impactos de soluciones de necesidades esenciales de la entidad y en el avance del conocimiento;
-
-IX. Apoyar el fortalecimiento y la consolidación del sistema mediante la promoción de nuevas instituciones, dependencias, redes, infraestructura y centros de investigación científicas y tecnológicas;
-
-X. Impulsar el financiamiento de proyectos de infraestructura, de formación de recursos humanos, de vinculación y de investigación científica, desarrollo tecnológico e innovación orientados a la atención a las necesidades esenciales de la entidad;
-
-XI. Apoyar mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y tecnológica, contribuyendo al fortalecimiento de los programas de posgrado en la entidad, y en general todas aquellas acciones, cursos, programas de formación continúa y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigaciones y actualizar los conocimientos de los del más alto nivel;
-
-XII. Coadyuvar con las instituciones que integran el sistema para la adscripción, permanencia, actualización y promoción de investigadores y demás miembros de la comunidad científica en la entidad;
-
-XIII. Fomentar la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia y tecnología que contribuyan a la descentralización de la Ciencia y Tecnología en la Entidad;
-
-XIV. Formular las acciones tendientes a la vinculación y gestión tecnológica,, (sic) la difusión, divulgación y enseñanza de la ciencia, así como otras que favorezcan la aplicación de la ciencia y la transferencia de la tecnológica (sic) en el (sic) mejoramientos de los procesos económicos, social y ambientales, así como su socialización en la población de la entidad;
-
-XV. Promover ante las dependencias y entidades de la administración pública del Estado, la consideración dentro de sus planes, programas, proyectos y presupuestos de las acciones y los recursos necesarios para la Ciencia y Tecnología orientados a la tensión de las necesidades esenciales de la entidad y en particular para el eficaz cumplimiento del objeto de esta ley;
-
-XVI. Promover la inversión privada en Ciencia y Tecnología y la Constitución de desarrollo de empresas relacionadas con la producción de bienes y servicios generados con tecnologías avanzadas o de punta;
-
-XVII. Someter a la consideración del Ejecutivo propuestas de políticas y mecanismos de apoyo a la Ciencia, la Tecnología y la Innovación, en materia de estímulos fiscales y financieros, excensiones (sic) y facilidades administrativas, entre otras;
-
-XVIII. Gestionar ante las distintas instituciones y organismos públicos y privados, internacionales, nacionales y locales, recursos para apoyar de manera creciente al sistema y a sus actividades en los términos de esta ley;
-
-XIX. Administrar su patrimonio y los recursos que las instituciones y organismos internacionales, nacionales y locales destinen, por su conducto, al desarrollo del sistema;
-
-XX. Apoyar y convenir la constitución, el financiamiento y operación de fondos para el fomento de la Ciencia y Tecnología en la entidad y participar en sus órganos de dirección;
-
-XXI. Coordinar, integrar y dar seguimiento a las actividades científicas y tecnológicas que las dependencias y entidades de la administración pública realicen, así como conocer y opinar sobre los recursos empleados para tal fin, con el propósito de asegurar sus (sic) congruencia con las políticas y prioridades establecidas en el programa, en los términos de la presente ley;
-
-XXII. Establecer el padrón de instituciones y organismos de Ciencia y Tecnología de la entidad, mediante la aplicación de indicadores y estándares locales y coadyuvar con su integración a la red nacional de grupos y centros de investigación;
-
-XXIII. Fomentar la colaboración interinstitucional, la creación de redes científicas y tecnológicas y la articulación de las instituciones del sistema para la ejecución de acciones coordinadas en materia de ciencia y tecnología;
-
-XXIV. Crear, desarrollar, operar y evaluar el Sistema Estatal de Investigadores;
-
-XXV. Otorgar estímulos económicos y reconocimiento al mérito estatal de investigación Ciencia y Tecnología a las instituciones y miembros de la comunidad científica integrantes del Sistema;
-
-XXVI. Promover la integración del Sistema Estatal de Información y comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT, realizar estudios sobre esta materia, así como emitir periódicamente un informe del Estado que guarda el desarrollo de la Ciencia y la Tecnología en la Entidad;
-
-XXVII. Promover la difusión, transferencia, divulgación y enseñanza de la Ciencia y la Tecnología, así como de los conocimientos tradicionales de los pueblos indígenas de Morelos;
-
-XXVIII. Coadyuvar en el resguardo de los derechos sobre los conocimientos tradicionales de los pueblos indígenas de Morelos, y;
-
-XXIX. Las demás inherentes al cumplimiento de su objetivo y las que le señalen las disposiciones legales y reglamentarias aplicables.
+VIII. Las demás inherentes al cumplimiento de su objetivo y las que le señalen las disposiciones legales y reglamentarias aplicables.
 
 ### CAPÍTULO TERCERO. DEL PATRIMONIO
 
@@ -753,75 +677,43 @@ IV. Contar con el grado académico de Doctor y tener reconocida experiencia en i
 
 V. No desempeñar ningún cargo o empleo en la administración pública, salvo los académicos docentes, así como los relacionados con la investigación en las áreas de la ciencia y la tecnología.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 23°.
 
-El Director General, tendrá las siguientes funciones:
+Al Director General corresponden las siguientes atribuciones:
 
-I. Auxiliar al Gobierno del Estado en materia de Ciencia y Tecnología y en el cumplimiento de la presente ley;
+I. Ejecutar los acuerdos de la Junta Directiva y los del Ejecutivo del Estado;
 
-II. Formular y operar el programa, en los términos de la presente ley;
+II. Celebrar toda clase de actos, contratos y convenios necesarios para el cumplimiento de los fines del organismo, conforme a las normas aplicables;
 
-III. Asesorar a los integrantes del Sistema que los soliciten en materia de planeación, programación, aplicación y evaluación de acciones y recursos en ciencia y tecnología;
+En aquellos en los cuales se comprometa el patrimonio del organismo, deberá contar con la aprobación previa de la Junta Directiva para el ejercicio de los recursos;
 
-IV. Ejecutar los acuerdos de la Junta Directiva y los del Ejecutivo del Estado;
+III. Representar legalmente al CCYTEM y delegar esta representación;
 
-V. Celebrar toda clase de actos, contratos y convenios necesarios para el cumplimiento de los fines del CCYTEM, conforme a las normas aplicables;
+IV. Proponer a la Junta Directiva el nombramiento y la remoción de los servidores públicos del organismo en los niveles de Director, Subdirector o de Jefe de Departamento;
 
-En aquellos en los cuales se comprometa el patrimonio del CCYTEM, deberá contar con la aprobación previa de la Junta Directiva para el ejercicio de los recursos;
+V. Nombrar y remover a los servidores públicos del organismo, de los niveles inferiores a los mencionados en la fracción que precede;
 
-VI. Representar legalmente al CCYTEM y delegar esta representación;
+VI. Conducir las relaciones laborales con el personal adscrito al organismo;
 
-VII. Establecer y mantener relaciones formales e informales con los organismos de ciencia y tecnología internacionales, nacionales, locales y municipales y en particular ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología, en términos de las leyes aplicables;
+VII. Rendir informes a la Junta Directiva del ejercicio de su función, en cada sesión ordinaria;
 
-VIII. Proponer a la Junta Directiva el nombramiento y la remoción de los funcionarios del CCYTEM en el nivel de Director de área o de jefes de unidad;
+VIII. Formular, someter a la aprobación de la Junta Directiva y ejecutar los programas anuales, generales y específicos, propuestas y acciones derivadas del Plan Estatal de Desarrollo, del programa operativo anual y de la presente Ley;
 
-IX. Nombrar y remover a los funcionarios del CCYTEM, de los niveles inferiores a los mencionados en la fracción que precede;
+IX. Asesorar a las instituciones, a las empresas y a los particulares que lo soliciten, en los procesos de certificación, registro de la propiedad industrial y derechos de autor, en los términos de la legislación aplicable;
 
-X. Rendir informes a la Junta Directiva del ejercicio de su función, en cada sesión ordinaria;
+X. Realizar las gestiones para la obtención y administración de recursos necesarios para el desarrollo de los programas del organismo;
 
-XI. Formular, someter a la aprobación de la Junta Directiva y ejecutar los programas anuales, generales y específicos, propuestas y acciones derivadas del Plan Estatal de Desarrollo del programa y de la presente ley;
+XI. Formular el anteproyecto de presupuesto de egresos del organismo;
 
-XII. Proponer y ejecutar programas de apoyo para el fortalecimiento, consolidación y descentralización del Sistema y darle seguimiento;
+XII. Administrar el patrimonio del organismo;
 
-XIII. Asesorar a las instituciones, a las empresas y a los particulares que lo soliciten, en los procesos de certificación, registro de la propiedad industrial y derechos de autor, en los términos de la legislación aplicable;
+XIII. Establecer y operar programas de difusión, transferencia, divulgación y enseñanza de los conocimientos científicas y tecnológicos y tradicionales en la entidad y fomentar y apoyar los de las instituciones del sistema;
 
-XIV. Promover la integración de recursos y acciones de Ciencia y Tecnología en los planes y programas de los organismos y entidades de la administración pública del Estado para el eficaz cumplimiento del objeto de esta ley y conocer sus resultados e impacto en el desarrollo del Estado;
+XIV. Contribuir con las instancias competentes con acciones que tiendan a resguardar los derechos sobre los conocimientos tradicionales en la Entidad; y
 
-XV. Formular programas que estimulen la inversión generada en Ciencia y Tecnología;
-
-XVI. Realizar las gestiones para la obtención y administración de recursos necesarios para el desarrollo de la Ciencia y Tecnología en la entidad;
-
-XVII. Formular el anteproyecto de presupuesto de egresos del CCYTEM;
-
-XVIII. Administrar el patrimonio del CCYTEM;
-
-XIX. Organizar y coordinar el funcionamiento del sistema y proponer programas para la evaluación de su desempeño, sus resultados e impacto en el desarrollo;
-
-XX. Establecer mecanismos de coordinación y seguimiento de las actividades científicas y tecnológicas que realicen las dependencias y entidades de la administración pública del Estado, así como los recursos empleados para tal fin;
-
-XXI. Crear y administrar la red Estatal de Ciencia y Tecnología;
-
-XXII. Apoyar la colaboración interinstitucional y la Constitución de redes científicas y tecnológicas;
-
-XXIII. Formular el proyecto de instauración y desarrollo del Sistema Estatal de Investigadores, administrar y evaluar su funcionamiento;
-
-XXIV. Someter a la consideración de la Junta Directiva las propuestas de estímulos y reconocimiento a los integrantes de la Comunidad Científica;
-
-XXV. Establecer y administrar el Sistema Estatal de Información y comunicación científica y tecnológica;
-
-XXVI. Preparar y difundir un informe anual sobre el estado que guarda el desarrollo de la Ciencia y Tecnología en la entidad;
-
-XXVII. Establecer y operar programas de difusión, transferencia, divulgación y enseñanza de los conocimientos científicas (sic) y tecnológicos y tradicionales en la entidad y fomentar y apoyar los de las instituciones del sistema;
-
-XXVIII. Contribuir con las instancias competentes con acciones que tiendan a resguardar los derechos sobre los conocimientos tradicionales en la entidad, y (sic);
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XXIX. Informar al Presidente de la Comisión de Ciencia y Tecnología del H. Congreso del Estado de Morelos acerca de todas las resoluciones y acuerdos que emita el CCYTEM;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
-
-XXX. Los demás que les señalen las disposiciones legales aplicables, la ley y su reglamento.
+XV. Los demás que les señalen las disposiciones legales aplicables, la Ley y su Reglamento.
 
 #### SECCIÓN QUINTA. DEL CONTROL Y VIGILANCIA
 
@@ -1191,9 +1083,11 @@ VI. Apoyar la integración de grupos de investigadores en el Estado, que partici
 
 Podrán formar parte del Sistema Estatal de Investigadores, todos aquellos miembros de la comunidad científica reconocidos como activos por el CCYTEM, cuya labor científica y/o tecnológica cumpla con lo estipulado en el reglamento interno del propio Sistema Estatal de Investigadores y las bases que para el otorgamiento de los reconocimientos y estímulos se emita.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 60°.
 
-El CCYTEM será el encargado de instaurar, desarrollar y administrar el Sistema Estatal de Investigadores y evaluar su funcionamiento, garantizando el proceso de implantación, principios de transparencia, legalidad y equidad, involucrando en esas actividades a miembros reconocidos de la comunidad científica nacional y local y de los sectores público social y privado.
+La Secretaría será la encargada de instaurar, desarrollar y administrar el Sistema Estatal de Investigadores y evaluar su funcionamiento, garantizando el proceso de implantación, principios de transparencia, legalidad y equidad, involucrando en esas actividades a miembros reconocidos de la comunidad científica nacional y local y de los sectores público social y privado.
 
 ### CAPÍTULO SEGUNDO. RECONOCIMIENTO AL MÉRITO ESTATAL DE INVESTIGACIÓN
 
@@ -1201,13 +1095,17 @@ El CCYTEM será el encargado de instaurar, desarrollar y administrar el Sistema 
 
 Se crea el reconocimiento al mérito Estatal de Investigación, con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión realizada por el científico y tecnólogo o equipos de científicos o equipos de tecnólogos morelenses o que radiquen en Morelos, cuya obra en estos campos los haga acreedores a tal distinción.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 62°.
 
-El premio consistirá en un monto que se estipule anualmente por la Junta Directiva del CCYTEM, mismo que será entregado anualmente por el Ejecutivo del Estado.
+El premio consistirá en un monto que se presupueste anualmente por la Secretaría, mismo que será entregado anualmente por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 63°.
 
-El premio será concedido por un jurado expresamente constituido para tal fin, bajo las bases y términos que señale el reglamento respectivo. El jurado se integrará por distinguidos investigadores y tecnólogos propuesto por el Consejo Consultivo y ratificados por la Junta Directiva.
+El premio será concedido por un Jurado expresamente constituido para tal fin, bajo las bases y términos que señale el reglamento respectivo. El Jurado se integrará por distinguidos investigadores y tecnólogos propuesto por el Consejo Consultivo.
 
 ## TRANSITORIOS
 
@@ -1300,3 +1198,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SÉPTIMO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículo 44 y 70 fracción XVIII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.-El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad'', órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Para efectos de la cabal aplicación de este ordenamiento, se derogan todas las disposiciones que contravengan lo dispuesto en este Decreto.
+
+CUARTA.- Teniendo en consideración que el presente Decreto coincide con el inicio de la administración del Gobernador Constitucional del Estado, se autoriza a éste, a designar a un nuevo Director General del Consejo de Ciencia y Tecnología del Estado de Morelos, conforme a lo dispuesto por el artículo 21 de la Ley.
