@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2012-02-22"
+last_updated: "2012-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -173,17 +175,23 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Gobierno;
 
-III. El Secretario Ejecutivo, quien será designado por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
 
-IV. El Secretario de Seguridad Pública;
+III. El Secretario Ejecutivo, cargo que ocupa el Secretario de Seguridad Pública;
+
+IV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2012)
 
 V. El Procurador General de Justicia;
 
-VI. El Secretario de Finanzas y Planeación;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+VI. El Secretario de Hacienda;
 
 VII. El Secretario de Educación;
 
-VIII. El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+VIII. El Secretario de Economía;
 
 IX. El Secretario de Desarrollo Agropecuario;
 
@@ -217,7 +225,9 @@ La designación de los consejeros a que se refiere la fracción XV de este artí
 
 El Presidente del Consejo y el Secretario Ejecutivo podrán invitar a especialistas en la materia, quienes no serán considerados como miembros del Consejo y únicamente tendrán derecho a voz.
 
-El cargo de consejero será honorífico, con excepción del Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+El cargo de consejero será honorífico.
 
 La mecánica para tener una participación ordenada, incluyente y eficiente en las sesiones del Consejo Estatal, será definida en las disposiciones que determine el Secretario Ejecutivo.
 
@@ -321,7 +331,9 @@ III. Mantener las relaciones con el Consejo Nacional, así como coordinar los pr
 
 IV. Convocar a través del Secretario Ejecutivo las sesiones del Consejo, así como conducir las mismas;
 
-V. Nombrar e instruir al Secretario Ejecutivo para promover, vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo Nacional y del propio Consejo Estatal;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+V. Instruir al Secretario Ejecutivo para promover, vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo Nacional y del propio Consejo Estatal;
 
 VI. Proponer al Consejo Estatal la instalación de comisiones especiales para estudiar y evaluar políticas y acciones en materia de seguridad pública; y
 
@@ -461,25 +473,21 @@ El Estado y los Municipios se integrarán al Sistema Nacional, mediante instanci
 
 ### CAPÍTULO IV. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 22.
 
-El Secretariado Ejecutivo es el órgano desconcentrado, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión y presupuestal, y se integrará por las unidades administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento y buen desempeño de sus funciones, de conformidad con el presupuesto autorizado.
+ElSecretariadoEjecutivo (sic) es el órgano desconcentrado de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Morelos, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión presupuestal, y se integrará por las unidades administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento y buen desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
 Dependerá directamente del titular del Ejecutivo del Estado. Su organización y procedimientos específicos se establecerán en el reglamento interno que para tal efecto se expida, el cual invariablemente deberá considerar como parte de su estructura orgánica a la unidad académica encargada de capacitar, evaluar y certificar a las instituciones y auxiliares de la seguridad pública.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 23.
 
-El Secretario Ejecutivo será nombrado libremente por el Presidente del Consejo Estatal, removido por él mismo por causa grave que lo justifique, y deberá cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y esté en pleno goce de sus derechos civiles y políticos;
-
-II. Tener más de treinta años de edad;
-
-III. Contar con título profesional de nivel Licenciatura debidamente registrado;
-
-IV. Tener reconocida capacidad y probidad; y
-
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+Elcargo (sic) de Secretario Ejecutivo recaerá en el Secretario de Seguridad Pública Estatal, quien, para la operación del Secretariado Ejecutivo contará con el Servidor Público que designe la normatividad interna.
 
 ###### Artículo 24.
 
@@ -532,6 +540,10 @@ XXII. Informar periódicamente al Consejo Estatal de sus actividades;
 XXIII. Coadyuvar y en su caso proponer las medidas pertinentes y necesarias para eficientar la seguridad del Ejecutivo.
 
 XXIV. Las demás que le confieran las normas jurídicas aplicables, que le asignen el Consejo Estatal o instruya el Presidente y las que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+Artículo 24 bis.- Para la fiscalización de los recursos financieros a que se refiere la fracción VI del artículo precedente, el Secretariado Ejecutivo contará con un Comisario Público designado por la Secretaría de la Contraloría del Estado, que quedará a cargo de la Unidad de Control del órgano desconcentrado, teniendo las atribuciones y funciones que se señalen en el Reglamento Interior de la Secretaría de la Contraloría del Estado; el Comisario Público contará con el auxilio de personal especializado en la materia.
 
 ###### Artículo 25.
 
@@ -783,6 +795,8 @@ IV. Acordar formas de colaboración entre comunidad y policía.
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 42.
 
 Son Autoridades en materia de Seguridad Pública:
@@ -793,11 +807,13 @@ a) El Gobernador;
 
 b) El Secretario de Gobierno;
 
-c) El Secretario de Seguridad Pública;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+c) El Secretario de Seguridad Pública, en su calidad de Secretario Ejecutivo del Sistema;
 
 d) El Procurador General de Justicia;
 
-e) El Secretario Ejecutivo del Sistema;
+e) (DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
 
 II. Municipales:
 
@@ -1047,9 +1063,11 @@ Las empresas de seguridad privada serán directamente responsables de la relaci�
 
 Para todo lo relativo a la integración, registro y funcionamiento de los prestadores del servicio de seguridad privada, se estará a lo dispuesto por la presente ley y por el reglamento que rige esta actividad.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 64.
 
-La Secretaría proporcionará en forma periódica al Secretariado Ejecutivo, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
+La Secretaría enviará en forma periódica al Secretariado Ejecutivo, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
@@ -2065,7 +2083,9 @@ El Centro Estatal se enlazará con el Sistema Nacional de Información sobre Seg
 
 El Coordinador del Centro Estatal, deberá contar con licenciatura y cédula profesional debidamente registrada y experiencia en el análisis de la información y con experiencia acreditada en la materia.
 
-El Secretario y Secretario Ejecutivo se reunirán periódicamente para evaluar el funcionamiento del Centro Estatal y coordinar las acciones procedentes.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+El Secretario dispondrá la evaluación periódica del funcionamiento del Centro Estatal y ordenará las acciones procedentes.
 
 ###### Artículo 141.
 
@@ -2792,3 +2812,11 @@ P.O. 22 DE FEBRERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, a fin de dar cumplimiento a lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+TERCERA.- En un plazo de no mayor de treinta días hábiles, deberá ser designado el Comisario Público del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública.
