@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-catastro-municipal-para-el-estado-de-morelos-33097"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2008-03-19"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -189,7 +189,11 @@ XXIII. AYUNTAMIENTO. Los gobiernos municipales del Estado de Morelos.
 
 El Catastro del Estado de Morelos se integra por:
 
-I.- El Catastro Estatal, a cargo del Ejecutivo del Estado, que es el Sistema de Información Catastral del Estado de Morelos, que se sustenta y actualiza con los Catastros Municipales, para fines jurídicos, administrativos, geográficos, estadísticos, socioeconómicos y de planeación; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+I.- El Catastro Estatal, a cargo del Instituto de Servicios Registrales y Catastrales del Estado de Morelos, dependiente del Ejecutivo del Estado, que es el Sistema de Información Catastral del Estado de Morelos, que se sustenta y actualiza con los Catastros Municipales, para fines jurídicos, administrativos, geográficos, estadísticos, socioeconómicos y de planeación; y
 
 II.- El Catastro Municipal de cada Ayuntamiento, que es el Sistema de Información Catastral que contiene el censo y los datos estadísticos resultantes de las funciones técnicas, analíticas, valorativas, recaudatorias y registrales de los predios ubicados en el territorio de los Municipios, para fines fiscales, jurídicos, administrativos, geográficos, estadísticos, socioeconómicos y de planeación.
 
@@ -219,7 +223,11 @@ De toda modificación que se genere a los registros de los catastros municipales
 
 Son autoridades en materia de Catastro, en los ámbitos de competencia que señala esta Ley:
 
-I.- El Poder Ejecutivo del Estado de Morelos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+I.- El Instituto de Servicios Registrales y Catastrales del Estado de Morelos dependiente del Poder Ejecutivo del Estado de Morelos;
 
 II.- Los Ayuntamientos del Estado de Morelos en sus respectivas jurisdicciones Municipales; y (sic)
 
@@ -233,9 +241,13 @@ El Consejo Estatal Catastral, es el órgano de análisis y apoyo técnico y norm
 
 El Consejo Estatal Catastral estará integrado por:
 
-I.- El Ejecutivo del Estado de Morelos, quien lo presidirá por sí o por conducto del servidor público que éste designe;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II - Los Presidentes Municipales de cada Ayuntamiento; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+I.- El Ejecutivo del Estado de Morelos, quien lo presidirá por sí o por conducto del Titular del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
+
+II.- Los Presidentes Municipales de cada Ayuntamiento; y
 
 III.- El Secretario Técnico.
 
@@ -313,9 +325,13 @@ En la integración del Comité Técnico, será mayoría la participación ciudad
 
 Las funciones que desempeñe el Comité Técnico serán honoríficas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-Son atribuciones del Titular del Poder Ejecutivo del Estado de Morelos en materia de Catastro, las siguientes:
+El Ejecutivo del Estado, a través del Titular del Instituto de Servicios Registrales y Catastrales del Estado de Morelos, tendrá, en materia de Catastro, las siguientes atribuciones:
 
 I.- Requerir de los Ayuntamientos e Integrar toda la información correspondiente a las actividades que realicen los Ayuntamientos e inherentes al Catastro de los bienes inmuebles urbanos, suburbanos, rústicos o rurales en el territorio del Estado de Morelos, tales como las de deslinde, identificación, clasificación, y valuación de los citados bienes;
 
@@ -337,9 +353,13 @@ IX.- Obtener de las autoridades, dependencias o instituciones de carácter feder
 
 X.- Las demás que determine este ordenamiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 16.
 
-El Titular del Poder Ejecutivo del Estado de Morelos, en los términos de este ordenamiento, podrá delegar sus atribuciones en materia de catastro en la dependencia de la administración pública centralizada que para tal efecto determine, de conformidad con su estructura orgánica, suficiencia presupuestal y necesidades del servicio. Para tales efectos, el Titular del Poder Ejecutivo deberá emitir el reglamento interior respectivo, en concordancia con lo dispuesto en el presente ordenamiento.
+El Titular del Poder Ejecutivo del Estado de Morelos, en los términos de este ordenamiento, ejercerá sus atribuciones en materia de catastro a través de la Institución de administración pública que para tal efecto determine, de conformidad con su estructura orgánica, suficiencia presupuestal y necesidades del servicio.
 
 ###### Artículo 17.
 
@@ -1393,7 +1413,7 @@ CLAUDIA MARISCAL VEGA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE MARZO DE 2008.
 
@@ -1404,3 +1424,21 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERA.- Expídase el Decreto respectivo y publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia el día 1 de enero del año 2013.
+
+TERCERA.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente.
+
+CUARTA.- Durante el primer semestre del año 2013, el Poder Ejecutivo realizará las transferencias de los recursos humanos, materiales y financieros con los que actualmente opera la Dirección General del Sistema de Información Catastral al Organismo Público, a efecto de que inicie su operación de conformidad con sus nuevas atribuciones. En el caso de los recursos materiales, deberán transferirse a título de donación.
+
+QUINTA.- En un término no mayor a tres meses de que inicie la vigencia del presente Decreto, el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, deberá expedir su nuevo Estatuto Orgánico acorde a la presente reforma.
+
+SEXTA.- Los convenios suscritos entre los municipios y el Ejecutivo del Estado para la prestación de servicios catastrales por parte de la Dirección General del Sistema de Información Catastral, continuarán su vigencia a través del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+SÉPTIMA.- En todos los ordenamientos legales y administrativos en donde se haga referencia al Instituto del Registro Público de la Propiedad y del Comercio del Estado, se entenderá al Instituto de Servicios Registrales y Catastrales del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos al Director General del Sistema de Información Catastral pasarán al Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+OCTAVA.- Los convenios y compromisos suscritos por el Ejecutivo del Estado con el Gobierno Federal, respecto del Sistema de Información Catastral, deberán continuarse hasta su total conclusión por parte de la Subsecretaría de Ingresos del Gobierno del Estado.
