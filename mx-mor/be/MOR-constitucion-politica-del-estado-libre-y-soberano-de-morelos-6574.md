@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-09-10"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1168,9 +1168,11 @@ LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaració
 
 Esta atribución será ejercida por la Auditoría Superior de Fiscalización o por la Comisión, órgano o dependencia que el Congreso determine.
 
-(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 19 DE NOVIEMBRE DE 2003)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LVI.- Administrar, programar y difundir a través de los medios electrónicos del estado, las acciones del Poder Legislativo y todas aquellas actividades que den a conocer el diario acontecer de la entidad, que fomenten entre los ciudadanos la cultura política y democrática.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+LVI.- Difundir sin ningún tipo de censura a través de los medios electrónicos del Estado, las acciones del Poder Legislativo y todas aquellas actividades que den a conocer el diario acontecer de la entidad, que fomenten entre los ciudadanos la cultura política y democrática.
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -1566,7 +1568,11 @@ XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoci
 
 XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
-XIII.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
+XIII.- Administrar, programar y difundir sin ningún tipo de censura a través de los medios electrónicos del Estado, las acciones de los tres poderes del Estado y todas aquéllas actividades que den a conocer el diario acontecer de la entidad, que fomenten en la sociedad la cultura política y democrática.
 
 XIV.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere.
 
@@ -4229,3 +4235,25 @@ P.O. 10 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Una vez aprobado por el Constituyente Permanente y debidamente publicado en unión de la declaratoria correspondiente, el presente decreto iniciará su vigencia a partir del primero de enero del año 2013.
 
 SEGUNDO.- En cumplimiento por lo dispuesto en el artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERO.- Remítase el presente decreto que reforma y adiciona la Constitución Política del Estado Libre y Soberano de Morelos, a los Ayuntamientos Constitucionales del Estado, para los efectos que establece el artículo 147 de la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente, procediéndose a su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Por lo que respecta a la reforma a la Ley Orgánica para el Congreso del Estado de Morelos y su Reglamento, entrarán en vigor el mismo día en que se realice la declaratoria de aprobación de la reforma constitucional motivo del presente decreto.
+
+CUARTO.- A partir de la vigencia de este Decreto, la Presidencia de la Mesa Directiva, el Encargado de Despacho del Sistema Morelense de Radio y Televisión y la Dirección Jurídica del Congreso serán los responsables de entregar a través del acta de entrega recepción, los recursos financieros, materiales jurídicos y humanos del Sistema Morelense de Radio y Televisión del Congreso del Estado. Para ello, el Ejecutivo del Estado a través de la Secretaría de Gestión e Innovación Gubernamental, deberá coordinarse y designar el personal necesario para la entrega recepción.
+
+QUINTO.- El Ejecutivo del Estado, deberá designar al profesionista responsable que junto con el encargado de despacho del Sistema Morelense de Radio y Televisión, inicien el cambio y la transición de dicho Sistema del Poder Legislativo, al Poder Ejecutivo, cambio que no podrá durar más 30 (sic) días hábiles, a partir de la entrada en vigor del presente decreto.
+
+SEXTO.- El Ejecutivo del Estado procederá a emitir el Decreto correspondiente por el que adecue la naturaleza jurídica, estructura orgánica y funciones del Sistema Morelense de Radio y Televisión en el Poder Ejecutivo, y enviará al Congreso la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras que actualmente están asignadas a dicha dependencia dentro del Congreso, se integren al presupuesto de egresos del Poder Ejecutivo del Estado.
+
+La Entrega recepción de dicho organismo, no excluye la facultad de la Auditoría Superior de Fiscalización, para hacer las revisiones que procedan y determinar en su caso las responsabilidades jurídicas durante el período de gestión anterior a la recepción del organismo por el Poder Ejecutivo del Estado.
+
+SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta el Sistema Morelense de Radio y Televisión del Congreso, pasarán a formar parte de la Coordinación General de Comunicación Política del Ejecutivo del Estado. Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo organismo del Poder Ejecutivo del Estado, no obstante ello, deberán respetarse sus derechos laborales. Dicha indemnización estará a cargo del Poder Ejecutivo del Estado.
+
+OCTAVO.- En tanto el Poder Ejecutivo, determina la nueva estructura orgánica, administrativa y funcional del Sistema Morelense de Radio y Televisión, que tendrá a su cargo, se continuará laborando con la estructura actual, a fin de prever que no se vean interrumpidas las labores de las diferentes estaciones y el canal de televisión con que cuenta dicho Sistema.
+
+NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente en la fracción III del artículo 85 y 88 de la Ley Orgánica para el Congreso del Estado de Morelos y que con esta reforma se deroga, terminará sus funciones el 31 de agosto de 2012, extinguiéndose dicho Comité.
