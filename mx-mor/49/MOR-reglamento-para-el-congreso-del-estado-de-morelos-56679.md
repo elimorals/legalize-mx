@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2012-05-23"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -1639,17 +1639,13 @@ V. El Periódico Oficial “Tierra y Libertad” Órgano Oficial del Gobierno de
 
 VI. Una suscripción al Diario Oficial de la Federación.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 2012)</small>
+
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE RADIO Y TELEVISIÓN
 
 ###### ARTÍCULO 171.
 
-Para el cumplimiento de sus atribuciones, la Dirección contará con las siguientes áreas:
-
-I.- Coordinación de Radio;
-
-II.- Coordinación de Televisión; y
-
-III.- Las unidades administrativas que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
 
 ### CAPÍTULO SEXTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
@@ -2014,3 +2010,25 @@ Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ej
 Segundo.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
 
 Tercero.- En la aprobación del Presupuesto de Egresos para el Gobierno del Estado de Morelos del próximo Ejercicio Fiscal 2013, se preverá en el rubro que le corresponda al Poder Legislativo, el techo presupuestal para hacer frente a la fracción XI del artículo 18 de su Ley Orgánica.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERO.- Remítase el presente decreto que reforma y adiciona la Constitución Política del Estado Libre y Soberano de Morelos, a los Ayuntamientos Constitucionales del Estado, para los efectos que establece el artículo 147 de la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente, procediéndose a su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Por lo que respecta a la reforma a la Ley Orgánica para el Congreso del Estado de Morelos y su Reglamento, entrarán en vigor el mismo día en que se realice la declaratoria de aprobación de la reforma constitucional motivo del presente decreto.
+
+CUARTO.- A partir de la vigencia de este Decreto, la Presidencia de la Mesa Directiva, el Encargado de Despacho del Sistema Morelense de Radio y Televisión y la Dirección Jurídica del Congreso serán los responsables de entregar a través del acta de entrega recepción, los recursos financieros, materiales jurídicos y humanos del Sistema Morelense de Radio y Televisión del Congreso del Estado. Para ello, el Ejecutivo del Estado a través de la Secretaría de Gestión e Innovación Gubernamental, deberá coordinarse y designar el personal necesario para la entrega recepción.
+
+QUINTO.- El Ejecutivo del Estado, deberá designar al profesionista responsable que junto con el encargado de despacho del Sistema Morelense de Radio y Televisión, inicien el cambio y la transición de dicho Sistema del Poder Legislativo, al Poder Ejecutivo, cambio que no podrá durar más 30 días hábiles, a partir de la entrada en vigor del presente decreto.
+
+SEXTO.- El Ejecutivo del Estado procederá a emitir el Decreto correspondiente por el que adecue la naturaleza jurídica, estructura orgánica y funciones del Sistema Morelense de Radio y Televisión en el Poder Ejecutivo, y enviará al Congreso la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras que actualmente están asignadas a dicha dependencia dentro del Congreso, se integren al presupuesto de egresos del Poder Ejecutivo del Estado.
+
+La entrega recepción de dicho organismo, no excluye la facultad de la Auditoría Superior de Fiscalización, para hacer las revisiones que procedan y determinar en su caso las responsabilidades jurídicas durante el periodo de gestión anterior a la recepción del organismo por el Poder Ejecutivo del Estado.
+
+SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta el Sistema Morelense de Radio y Televisión del Congreso, pasarán a formar parte de la Coordinación General de Comunicación Política del Ejecutivo del Estado. Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo organismo del Poder Ejecutivo del Estado, no obstante ello, deberán, respetarse sus derechos laborales. Dicha indemnización estará a cargo del Poder Ejecutivo del Estado.
+
+OCTAVO.- En tanto el Poder Ejecutivo, determina la nueva estructura orgánica, administrativa y funcional del Sistema Morelense de Radio y Televisión, que tendrá a su cargo, se continuará laborando con la estructura actual, a fin de prever que no se vean interrumpidas las labores de las diferentes estaciones y el canal de televisión con que cuenta dicho Sistema.
+
+NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente en la fracción III del artículo 85 y 88 de la Ley Orgánica para el Congreso del Estado de Morelos y que con esta reforma se deroga, terminará sus funciones el 31 de agosto de 2012, extinguiéndose dicho Comité.
