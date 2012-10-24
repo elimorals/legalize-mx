@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-penitenciaria-del-estado-de-chihuahua-6612"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-25"
-last_updated: "2003-01-15"
+last_updated: "2012-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO DE LA PENITENCIARIA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA EN MATERIA DE CENTROS DE REINSERCIÓN SOCIAL, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 25 de mayo de 1996.
 
@@ -813,7 +815,7 @@ La Dirección dispondrá la forma de traslado y la escolta que lo acompañe, as�
 
 ### CAPITULO XV. DE LAS NORMAS ESPECIALES APLICABLES A LOS PROCESADOS Y SENTENCIADOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 1998)</small>
 
 MODULO DE ALTA SEGURIDAD Y DE INTERNOS BAJO PROTECCION, DE SEGREGADOS Y LA UNIDAD DE BAJO RIESGO
 
@@ -879,7 +881,7 @@ LIC. JOSE L. FRANCO CARRILLO
 
 EFE (SIC) DEL DEPTO. DE GOBERNACION
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JUNIO DE 1998.
 
@@ -892,3 +894,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en
 SEGUNDO.- El Departamento de Prevención Social, dependiente de la Dirección de Gobernación de la Secretaría General de Gobierno, en un término de 45 días hábiles contados a partir del día siguiente de la publicación del presente acuerdo, pondrá a consideración de la Dirección de Gobernación, para su aprobación, el catálogo de artículos y costos a que hace referencia el párrafo tercero del artículo 63 del Reglamento de la Penitenciaría del Estado de Chihuahua.
 
 TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Penitenciaría del Estado publicado el veinticinco de mayo de mil novecientos noventa y seis en el Periódico Oficial del Estado.
+
+TERCERO. La Fiscalía General del Estado, por conducto de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, expedirá en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Reglamento, los manuales, lineamientos, circulares y demás instrumentos administrativos y normativos que se requieran.
