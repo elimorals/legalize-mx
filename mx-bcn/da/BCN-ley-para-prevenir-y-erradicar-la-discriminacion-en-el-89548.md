@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE OCTUBRE DE 2012.</small>
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -139,17 +139,15 @@ h) A la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado
 
 i) A los Organismos Constitucionalmente Autónomos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 11.
 
-La interpretación del contenido de esta Ley, así como la actuación de las autoridades federales será congruente con los instrumentos internacionales aplicables en materia de dscrirninaci6n de tos (sic) que México sea parte, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable.
+La interpretación del contenido de esta Ley, así como la actuación de las autoridades federales será congruente con los instrumentos internacionales aplicables en materia de discriminación de los que México sea parte, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable.
 
 ###### Artículo 12.
 
 Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 13.
 
@@ -161,7 +159,9 @@ II. La aplicación de la disposición, tratado internacional, principio que esta
 
 III. Las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de la Administración Pública, a efecto de hacerlos más eficaces, sostenibles, no excluyentes y equitativos.
 
-Para ello las personas servidoras públicas tienen la obligación de garantizar la vigencia del derecho a la igualdad y a la no discriminación, así corno (sic) de respetar y proteger la dignidad de todas las personas; y
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Para ello las personas servidoras públicas tienen la obligación de garantizar la vigencia del derecho a la igualdad y a la no discriminación, así como de respetar y proteger la dignidad de todas las personas; y
 
 IV. Los instrumentos nacionales e internacionales aplicables en materia de derechos humanos y no discriminación firmados y ratificados por los Estados Unidos Mexicanos.
 
@@ -227,8 +227,6 @@ d) Realizar jornadas nocturnas de trabajo y
 
 e) Realizar labores que la expongan al contacto con agentes infectocontagiosos o la inhalación de sustancias toxicas volátiles, o laboral en aéreas (sic) donde existan emanaciones radioactivas o se tengan conducto con sustancias, materiales o fluidos explosivos o peligrosos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 17.
 
 Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su edad, incluyendo, entre otras, las conductas siguientes:
@@ -247,13 +245,17 @@ e) Limitar su derecho de asociación;
 
 f) Negar su derecho a crecer y desarrollarse saludablemente;
 
-g) impedir el acceso a la seguridad social y a sus beneficios;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+g) Impedir el acceso a la seguridad social y a sus beneficios;
 
 h) Limitar el derecho a la alimentación, la vivienda, la recreación y los servicios médicos adecuados;
 
 i) Negar el derecho a una educación gratuita de calidad en los niveles preescolar, primaria, secundaria y media superior;
 
-j) Impedir su acceso 81 (sic) sistema educativo por enfermedad o discapacidad;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+j) Impedir el acceso al sistema educativo por enfermedad o discapacidad;
 
 k) Hacer distinciones en los actos y documentos del Registro Civil, por razón de su filiación;
 
@@ -277,8 +279,6 @@ e) Negar el acceso a la educación en cualquier nivel; y
 
 f) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su origen étnico, nacional, o regional, incluyendo, entre otras, las conductas siguientes:
@@ -297,7 +297,9 @@ f) Restringir el acceso al empleo, incluidos los empleos calificados y las medid
 
 g) Negar una igual remuneración por un trabajo de igual valor;
 
-h) Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos os (sic) requisitos establecidos en a (sic) legislación aplicable;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+h) Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
 
 i) Negar la prestación de servicios de salud física y mental, así como cualquier servicio público;
 
@@ -331,17 +333,15 @@ k) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e int
 
 l) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes o imágenes en los medios de comunicación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 20.
 
 Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por motivos religiosos ni efectuar, entre otras, las conductas siguientes:
 
 a) Coartar la libertad de profesar la religión que se elija;
 
-b) Limitar el acceso y a (sic) permanencia en cualquier nivel educativo;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+b) Limitar el acceso y permanencia en cualquier nivel educativo;
 
 ###### Artículo 21.
 
@@ -361,7 +361,9 @@ f) Negar cualquier servicio de salud;
 
 g) Impedir o negar el acceso a la educación en cualquier nivel, a la seguridad social, a las prestaciones, a los créditos y a la vivienda;
 
-h) Negar o establecer limitaciones en los contratos de prestación de servicios corno (sic) seguros médicos, arrendamientos inmobiliarios o de otro tipo;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+h) Negar o establecer limitaciones en los contratos de prestación de servicios como seguros médicos, arrendamientos inmobiliarios o de otro tipo;
 
 i) Negar el acceso, permanencia y ascenso en el empleo;
 
@@ -405,8 +407,6 @@ d) Acceder a los servicios de orientación y de asesoría legal en las instituci
 
 e) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 24.
 
 Las autoridades estatales o municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
@@ -425,9 +425,13 @@ VI. Alentar la producción y difusión de libros para niños y niñas;
 
 VII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
 
-VIII. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados, y (sic)
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
 
-IX. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita e intérprete en los procedimientos judiciales o administrativos, en que sea procedente.
+VIII. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados,
+
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita e intérprete en los procedimientos judiciales o administrativos, en que sea procedente, y
 
 X. Promover campañas de prevención de la violencia infantil, para garantizar la protección contra abusos sexuales, el derecho a la propia identidad, la libertad y la seguridad personal.
 
@@ -461,8 +465,6 @@ XII. Fomentar e incentivar sus expresiones culturales en todas sus manifestacion
 
 XIII. Promover campañas de prevención de la violencia juvenil, para garantizar la protección contra abusos sexuales, la libre manifestación de las ideas, el derecho a la propia identidad, la libertad y la seguridad personal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 26.
 
 Las autoridades estatales o municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para las personas mayores de sesenta años:
@@ -475,7 +477,9 @@ a) De apoyo financiero directo y ayudas en especie y
 
 b) De capacitación para el trabajo y de fomento a la creación de empleos, y
 
-III. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita así corno (sic) la asistencia de un representante legal cuando el afectado lo requiera.
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita así como la asistencia de un representante legal cuando el afectado lo requiera.
 
 ###### Artículo 27.
 
@@ -535,11 +539,11 @@ Compete a la Procuraduría de Derechos Humanos y Protección Ciudadana del Estad
 
 En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Procuraduría desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Procuraduría podrá concluir el procedimiento con la formulación de la recomendación procedente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 31.
 
 La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y eliminación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre los fenómenos, prácticas y actos discriminatorios.
+
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
 
 En particular la Procuraduría tendrá las siguientes atribuciones en la materia:
 
@@ -555,13 +559,13 @@ e) Tutelar los derechos de las personas o grupos que sufran discriminación, bri
 
 f) Solicitar a cualquier institución pública o a los particulares, la información necesaria para verificar el cumplimiento de esta ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 32.
 
 La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
 
-Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliaciones (sic) de intereses.
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliación de intereses.
 
 La conciliación no estará sujeta a formalidad alguna, pudiéndose celebrar mediante convenio.
 
