@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "2001-08-31"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -195,7 +195,7 @@ El sueldo básico integrado por las prestaciones a que se refiere el párrafo an
 
 El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 16.
 
@@ -237,7 +237,7 @@ III.- A expedir los certificados y proporcionar informes que les soliciten tanto
 
 Los pagadores y encargados de cubrir sueldos serán responsables en los términos de esta Ley y de sus Reglamentos, de los actos y omisiones que realicen con perjuicio del Instituto o de los Trabajadores independientemente de la responsabilidad civil, penal o administrativa que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 19.
 
@@ -269,7 +269,7 @@ Las liquidaciones previstas en los supuestos de este Artículo causarán un inte
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un treinta por ciento del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 21.
 
@@ -329,9 +329,17 @@ También tendrán derecho a los servicios que señale la Fracción I del Artícu
 
 I.- La Esposa;
 
-II.- El esposo si está incapacitado para trabajar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- La concubina, si el trabajador tiene cuando menos cinco años contínuos de vivir con ella, si han procreado hijos, además que es condición indispensable que el trabajador esté libre de matrimonio;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+II.- El Esposo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- La concubina o concubino, si el trabajador tiene cuando menos cinco años continuos de vivir juntos, si han procreado hijos, además de que es condición indispensable que esté libre de matrimonio.
 
 IV.- Los hijos menores de dieciocho años, solteros y que no trabajen y los mayores de esa edad, que se compruebe estén estudiando, dependiendo para ello, del trabajador o pensionista y por el término razonable necesario para concluir los estudios, sin que en ningún caso, exceda de veinticinco años de edad;
 
@@ -341,13 +349,29 @@ VI.- El padre, si está incapacitado para trabajar;
 
 VII.- Las hermanas y hermanos menores de dieciocho años que no estén casados y que no trabajen;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- A los hijos mayores de 18 años que estén sujetos a estado de interdicción previa declaración de incapacidad de ejercicio por un Médico del Instituto. Los familiares que se mencionan en este Artículo tendrán los derechos antes establecidos si reúnen los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-a).- Que dependan económicamente del trabajador o del pensionado, salvo el caso de la esposa del trabajador o pensionista.
+VIII.- A los hijos mayores de dieciocho años que estén sujetos a estado de interdicción previa declaración de incapacidad de ejercicio por un Médico del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Los familiares que se mencionan en este Artículo, tendrán los derechos antes establecidos si reúnen los siguientes requisitos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+a).- Que dependan económicamente del trabajador o pensionista, salvo el caso del cónyuge del trabajador o pensionista.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 b).- Que el trabajador o pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 c).- Que dichos familiares no tengan derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra, salvo el caso de la esposa del trabajador o pensionista.
 
@@ -637,7 +661,7 @@ No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solam
 
 Los adeudos por concepto de préstamos a corto plazo que no fueran cubiertos a su vencimiento, en el caso de la Fracción I del Artículo 51 deberán pagarse con cargo a las aportaciones del deudor; y en el caso de la Fracción II, se cargará el excedente sobre el fondo de garantía. Sin embargo, en este último caso, será exigible el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales para hacer efectivo el adeudo y debiéndose abonar a dicho fondo las cantidades que se recuperen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ### CAPITULO SEPTIMO
 
@@ -733,7 +757,7 @@ Tienen derecho a la jubilación, los trabajadores con 30 años o más de servici
 
 La jubilación dará derecho al pago de una cantidad equivalente al 100% del sueldo regulador que se define en el Artículo 72 y su percepción comenzará a partir del día siguiente a aquel en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1984)</small>
 
 #### SECCION III
 
@@ -873,15 +897,21 @@ La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su ed
 
 El orden para gozar de las pensiones a que se refiere este capítulo será el siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- La esposa supérstite e hijos menores de dieciocho años, ya sean habidos dentro o fuera del matrimonio, así como los hijos mayores de dieciocho años inválidos y estudiantes, en los términos del Artículo 84;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+I.- El cónyuge supérstite e hijos menores de dieciocho años, ya sean habidos dentro o fuera del matrimonio, así como los hijos mayores de dieciocho años discapacitados y estudiantes, en los términos del Artículo 84.
 
-II.- A falta de esposa legítima, la mujer con quien viviere el trabajador o pensionado al ocurrir el fallecimiento y tuviere hijos, o aquella con la que haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere concubinas, ninguna tendrá derecho a pensión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- El esposo supérstite, siempre que a la muerte de la esposa trabajadora o pensionada fuese mayor de cincuenta y cinco años, o esté incapacitado para trabajar siendo condición en ambos casos que hubiere dependido económicamente de ella;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+II.- A falta de cónyuge legítimo, el concubino o concubina con quien viviere el trabajador o pensionado al ocurrir su fallecimiento y tuviere hijos, o con quien haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere concubinos, ninguno tendrá derecho a pensión;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III.- (DEROGADA, P.O. 26 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -897,7 +927,7 @@ El monto de las pensiones se calculará aplicando las siguientes reglas:
 
 I.- Cuando el trabajador fallezca después de quince años de servicios la pensión será equivalente, durante el primer año posterior al deceso, a la que hubiese correspondido al trabajador en los términos de los Artículos 70, 71 y 72 de esta Ley. Durante los cinco años sucesivos se disminuirá en un 10% anual hasta reducirla al cincuenta por ciento de la cifra primitiva; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 II.- Al fallecer un jubilado o un pensionado de retiro por edad y tiempo de servicios o invalidez, sus deudos, en el orden establecido por esta Ley, continuarán percibiendo pensión como sigue:
 
@@ -913,13 +943,15 @@ b).- Del segundo en adelante se irá rebajando anualmente un diez por ciento has
 
 Si el hijo pensionado llegase a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión se prorrogará por el tiempo que subsista su inhabilitación. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y de proporcionar la información que el Instituto le requiera en sus investigaciones, para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso de negativa, a la suspensión de la pensión. En caso de los hijos pensionados mayores de dieciocho años que estén estudiando esta se prorrogará hasta los veinticinco años, siempre que se compruebe que continúan en sus estudios, por ser el término razonable y necesario para concluirlos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 85.
 
-Sólo se pagará la pensión a la viuda o a la concubina mientras no contraigan nupcias o entren en concubinato. Al contraer matrimonio recibirán como única última prestación el importe de seis meses de la pensión que hubiere disfrutado alguna de ellas.
+Sólo se pagará la pensión al cónyuge supérstite o al concubino o concubina mientras no contraigan nupcias o entren en concubinato. Al contraer matrimonio recibirán como única última prestación el importe de seis meses de la pensión que hubiere disfrutado alguno de ellos.
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
-
-La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del marido éste estuviese pagándole pensión alimenticia por resolución judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutase de la pensión en los términos de este artículo perderá ese derecho si contrae nuevas nupcias o si viviese en concubinato. El importe de la pensión a la divorciada no será mayor de la que hubiese estado disfrutando antes de la muerte del deudor alimentista.
+Los divorciados no tendrán derecho a la pensión de quien haya sido su cónyuge. Solo en el caso de la mujer divorciada, que a la muerte del marido éste estuviese pagándole pensión alimenticia por resolución judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la mujer divorciada disfrutase de la pensión en los términos de este artículo perderá ese derecho si contrae nuevas nupcias o si viviese en concubinato. El importe de la pensión de los divorciados no será mayor a la que hubiese estado disfrutando antes de la muerte del deudor alimentista.
 
 ###### ARTICULO 86.
 
@@ -933,7 +965,7 @@ Cuando fallezca un pensionista, se estará a lo dispuesto por el Artículo 99 de
 
 De la Indemnización Global.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 88.
 
@@ -1473,7 +1505,7 @@ DR. FEDERICO MARTINEZ MANAUTOU.
 
 (Firmado).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1971.
 
@@ -1495,13 +1527,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 30 DE JUNIO DE 1983.
 
-DECRETO NUMERO 192.
+DECRETO NÚMERO 192.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 30 DE JUNIO DE 1983.
 
-DECRETO NUMERO 193.
+DECRETO NÚMERO 193.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -1532,3 +1564,9 @@ SEGUNDO.- Este Decreto será aplicable en lo que se refiere al incremento de cuo
 P.O. 31 DE AGOSTO DE 2001.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día 1 de enero de 2013.
+
+SEGUNDO.- Publíquense las presentes reformas en el Periódico Oficial de Estado de Baja California.
