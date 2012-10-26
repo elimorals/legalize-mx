@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-10-05"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4513,7 +4513,9 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
 ###### ARTICULO 698.
 
@@ -16052,3 +16054,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Las actas de reconocimiento expedidas con anterioridad de la entrada en vigor de la presente reforma, a solicitud del padre y la madre del menor, se regirán por las disposiciones aprobadas, con apego a los requisitos exigidos por ley.
 
 TERCERO.- Los diversos Ayuntamientos del Estado, difundirán a través de los medios de comunicación a la comunidad en general, el objeto de la presente reforma.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
