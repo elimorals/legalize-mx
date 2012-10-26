@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2003-10-24"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -157,7 +157,9 @@ XVI. Formular estrategias que impulsen el reconocimiento del artista, así como 
 
 XVII. Proponer procedimientos e integrar jurados y comisiones dictaminadoras para los concursos, becas y premios que promueva el ICBC, o por los particulares o las personas morales legalmente constituidas que lo soliciten;
 
-XVIII. Promover, organizar y convocar en colaboración con otros órdenes de gobierno, instituciones u organismos públicos o privados, bienales, festivales o cualquier otro evento cultural y/o artístico de interés estatal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+XVIII.- Promover, organizar y convocar en colaboración con otros órdenes de gobierno, instituciones u organismos públicos o privados, bienales, festivales o cualquier otro evento cultural y/o artístico de interés estatal, así como organizar la feria estatal del libro;
 
 XIX. Conforme a su capacidad presupuestal, promover, coproducir, distribuir y/o vender montajes escénicos, libros, folletos, discos, videos documentales, material didáctico, catálogos y productos artísticos y artesanales;
 
@@ -187,7 +189,9 @@ XXIX. Las demás que sean necesarias para el cumplimiento de su objeto, así com
 
 Para el mejor cumplimiento de su objeto, el ICBC actuará de manera coordinada con la Secretaría de Educación y Bienestar Social, y con las entidades de la Administración Pública Paraestatal agrupadas en el sector, a través de la realización de las acciones siguientes:
 
-I. Promocionar y gestionar cursos de capacitación, formación, profesionalización y especialización para los promotores y gestores culturales o artísticos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+I.- Promocionar y gestionar cursos de capacitación, formación, profesionalización y especialización para los promotores y gestores culturales o artísticos, así como la realización de talleres estatales de fomento a la lectura;
 
 II. Trabajar coordinadamente con el sector educativo a través de los programas vigentes;
 
@@ -546,3 +550,11 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para la aplicación de las presentes disposiciones, se deberá crear la obligatoriedad de la feria del libro mediante un programa institucional en vinculación con el sistema educativo.
