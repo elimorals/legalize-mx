@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-10-19"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -107,9 +107,9 @@ VII.- Atenderá de manera especial, las escuelas en las que se imparta educació
 
 VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-El Estado también promoverá el desarrollo de programas asistenciales, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+El Estado también promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -231,9 +231,9 @@ XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambienta
 
 XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-XX.- Inculcar los conceptos y principios fundamentales de la protección civil, así como la importancia de esta para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
+XX.- Inculcar los conceptos y principios fundamentales de la prevención de riesgos y accidentes, la educación vial, así como la protección civil y su importancia para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
 
 > <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -351,9 +351,9 @@ VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social pre
 
 VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y (sic)
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VIII.- Promover programas de fomento a la cultura de la prevención del delito y a la no violencia.
+VIII.- Promover programas de fomento a la cultura de la prevención de riesgos y accidentes, la educación vial, así como del delito y a la no violencia;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -561,9 +561,15 @@ VI.- Estimular el interés por preservar el equilibrio ecológico.
 
 VII.- Promover en el educando actitudes encaminadas a la prevención y conservación de la salud, sin abandonar los conocimientos de la medicina tradicional.
 
-VIII.- Fomentar las actividades y deportes tradicionales, y
+VIII.- Fomentar las actividades y deportes tradicionales, y (sic)
 
-IX.- Estimular en el educando la expresión artística.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX.- Estimular en el educando la expresión artística, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+X.- Promover en el educando la cultura de la prevención de riesgos y accidentes, y educación vial, contribuyendo a concientizar a la población de sus comunidades.
 
 Para ser docente de educación indígena, se requiere tener como mínimo la educación media superior terminada, acreditar que tomó el curso de inducción y ser bilingüe: en español y lengua autóctona.
 
@@ -675,9 +681,15 @@ VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenido
 
 VII.- Pugnará para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la independencia, soberanía y la solidaridad entre las naciones, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen económico, político y social.
 
-VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y
+VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y (sic)
 
-IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+X.- Difundirá y formará en los estudiantes, una conciencia plena sobre la cultura de la prevención de riesgos y accidentes, la educación vial, de tal manera que sean factor de cambio e impulso social de los programas estatales en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -701,9 +713,9 @@ Para propiciar el desarrollo de sus comunidades el Estado impulsará la educaci�
 
 I.- Misiones culturales.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2012)</small>
 
-II.- Programas de educación, integración familiar, protección, salud, cultura, deporte, defensa legal y fortalecimiento de la Cultura de la Prevención del Delito y la legalidad.
+II.- Programas de educación, integración familiar, prevención de riesgos y accidentes, educación vial, protección, salud, deporte, defensa legal y fortalecimiento de la Cultura de la Prevención del Delito y la legalidad.
 
 III.- Programas de mejoramiento del medio ambiente y preservación ecológica.
 
@@ -981,7 +993,9 @@ VI.- Propiciarán la colaboración de maestros y padres de familia para salvagua
 
 VII.- Estimularán, promoverán y apoyarán actividades extraescolares que complementen y respalden la formación de los educandos;
 
-VIII.- Llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la prevención de riesgos y accidentes, educación vial, protección civil y la emergencia escolar;
 
 IX.- Alentarán el interés familiar y comunitario por el desempeño del educando;
 
@@ -1528,3 +1542,11 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La integración de la educación vial a los planes y programas de estudio, será analizada por el sistema educativo estatal para su valoración e inclusión al nivel y grado académico que se determine por el personal educativo especializado.
+
+TERCERO.- El Poder Ejecutivo del Estado, enviará en tiempo y forma a la Secretaría de Educación Pública, la inclusión de los contenidos educativos en materia de "educación vial" para su adición a los planes y programas de estudio del año 2013.
