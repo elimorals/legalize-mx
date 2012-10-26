@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-10-19"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -317,7 +317,9 @@ I.- Coordinar el Sistema Estatal de Salud y coadyuvar a la consolidación y func
 
 II.- Elaborar el programa de salud para el Estado, tomando en cuenta las prioridades y los servicios del Sistema Nacional y Estatal de Salud;
 
-III.- Organizar, supervisar, evaluar y operar en su caso, la prestación de los servicios de salud a que se refiere el artículo 4º de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- Promover y coadyuvar en la gestión de las certificaciones ante el Consejo de Salubridad General, cuando así lo haya solicitado el Director de alguno de los Hospitales del Sector Público, así como organizar, supervisar, evaluar y operar en su caso, la prestación de los servicios de salud a que se refiere el artículo 4º de esta Ley;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2574,5 +2576,9 @@ Artículo Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo 
 P.O. 19 DE OCTUBRE DE 2012.
 
 DECRETO No. 301, POR EL QUE APRUEBA LA REFORMA A LOS ARTÍCULOS 69 Y 70 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2012.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
