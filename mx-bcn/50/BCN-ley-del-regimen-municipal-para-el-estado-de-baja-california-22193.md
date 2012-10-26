@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2012-10-19"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -65,9 +65,11 @@ IV.- Regular el uso y aprovechamiento de los bienes municipales, y
 
 V.- Emitir el estatuto que establezca las demarcaciones administrativas interiores del territorio municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de gobierno del Municipio; se integra por un Presidente Municipal, un Síndico Procurador y el número de regidores que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
+Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de Gobierno del Municipio; se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social en los Municipios en que proceda, y por el número de Regidores que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
 
 El Ayuntamiento tendrá su residencia en la cabecera de cada municipalidad y ejercerá sus atribuciones de manera exclusiva en el ámbito territorial y jurídico de su competencia.
 
@@ -129,17 +131,45 @@ II.- Nombrar y remover al personal a su cargo;
 
 III.- Vigilar que la administración de los bienes del Municipio, la recaudación fiscal, los procedimientos administrativos, la ejecución de obras y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la Ley de la materia y la reglamentación municipal, y
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-IV.- Dar seguimiento a las observaciones y recomendaciones remitidas por el Congreso del Estado con motivo de la fiscalización de las cuentas públicas, tramitándolas inmediatamente que sean recibidas hasta su total terminación, imponiendo en su caso las sanciones que correspondan, e informando de ello al Congreso, en los términos de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, y
+IV.- Determinar la existencia de responsabilidad administrativa, imponiendo y aplicando las sanciones que en derecho procedan;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-V.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+V.- En caso de presumirse la comisión de ilícitos sancionados por el Código Penal del Estado o de la Federación, presentar las denuncias o querellas ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI.- Dictar las medidas preventivas correspondiente (sic); y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 8 BIS.- Del Síndico Social.- El Síndico Social tendrá a su cargo la función de procuración de la defensa de los intereses de los habitantes del municipio, ostentando las siguientes atribuciones:
+
+I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
+
+II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
+
+III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+
+IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la prestación de servicios públicos municipales;
+
+V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
+
+VI.- Nombrar y remover al personal a su cargo; y
+
+VII.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 9.
 
-De los Regidores.- Los regidores en conjunto con el Presidente Municipal y el Síndico Procurador, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
+Los Regidores, en conjunto con el Presidente Municipal, Síndico Procurador, y el Síndico Social en los casos que así corresponda, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
 
 I.- Participar en las sesiones de Cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, de conformidad con lo que al efecto establezca la reglamentación interna del Ayuntamiento;
 
@@ -367,9 +397,11 @@ De la Fecha de Instalación de los Ayuntamientos.- Los Ayuntamientos de la entid
 
 En caso de elecciones extraordinarias, el Ayuntamiento correspondiente se instalará en la fecha que se determine en la declaración de Munícipes electos que se emita conforme a la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
-De la Protesta de los Munícipes.- El día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta protesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
+El día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, Síndico Social en los casos que así corresponda y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta protesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
 
 ###### ARTÍCULO 36.
 
@@ -598,3 +630,9 @@ P.O. 30 DE MARZO DE 2012.
 P.O. 19 DE OCTUBRE DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos de Ensenada, Mexicali y Tijuana tendrán un plazo de 180 días a partir de la entrada en vigor del presente decreto para expedir las disposiciones reglamentarias derivadas de esta reforma.
