@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-instituye-la-medalla-de-honor-del-congreso-del-57612"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2007-10-19"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE INSTITUYE LA MEDALLA DE HONOR DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -45,51 +45,43 @@ La presente Ley es de orden público e interés social que tiene por objeto crea
 
 La medalla de Honor del Congreso del Estado Libre y Soberano de Baja California, tendrá las siguientes características: será de forma circular, del tamaño de un centenario, pendiente de una cinta de seda con los colores nacionales, para colocarse alrededor del cuello. En el anverso de la misma llevará grabado al centro el Escudo de Baja California y a su alrededor el espacio que abarque el semicírculo superior el texto; “Congreso del Estado de Baja California”, en el mismo anverso en espacio que abarque el semicírculo inferior se grabará en número romano la correspondiente legislatura otorgante, seguido dicho número romano de la palabra “Legislatura”. En el reverso, al centro y con letras destacadas se grabará la siguiente leyenda: “Medalla de Honor”, grabando debajo de la leyenda anterior el nombre de la persona a quien se honrará con su nombre en el mismo reverso y a su alrededor un espacio que abarque el semicírculo superior, se grabará la leyenda que indique la actividad o acciones por los cuales se otorga la medalla.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 3.
 
-El Congreso del Estado para la elección de la persona que habrá de ser condecorada emitirá en el mes de agosto, convocatoria a fin de que las instituciones educativas, culturales, artísticas, sociales y organizaciones representativas de los sectores sociales, económicos y políticos de la ciudadanía del Estado de Baja California, presenten sus propuestas, en las que deberán anexar una exposición del porque dicha propuesta así como el logro y materia en que se haya destacado.
+El Congreso del Estado para la elección de la persona que habrá de ser condecorada emitirá durante los primeros cinco días hábiles del mes de julio, convocatoria a fin de que las instituciones educativas, culturales, artísticas, sociales y organizaciones representativas de los sectores sociales, económicos y políticos de la ciudadanía del Estado de Baja California, presenten sus propuestas, en las que deberán anexar una exposición del porque dicha propuesta, así como el logro y materia en que se haya destacado. A partir del día siguiente de la publicación de la convocatoria, los interesados deberán presentar las propuestas dentro de un plazo de siete días hábiles en Oficialía de Partes del Congreso del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACION DE LA COMISIÓN DE VALORACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-Para la valoración de las propuestas se crea una comisión que estará integrada por:
+Para la valoración de las propuestas se creará una Comisión Especial por acuerdo de la Junta de Coordinación Política del Congreso del Estado, ésta designará a los Diputados integrantes.
 
-1. El Presidente del Congreso o quien éste designe,
-
-2. Una representante del Instituto de la Mujer,
-
-3. Un representante de la Universidad Autónoma de Baja California,
-
-4. Un representante del Colegio de la Frontera Norte,
-
-5. Un representante de cada uno de los municipios de la entidad,
-
-6. Tres representantes de organismos no gubernamentales,
-
-7. Un representante del Instituto de Cultura de Baja California,
-
-8. Un representante del Instituto del Deporte, y
-
-9. Un representante de CONACYT-B.C.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 5.
 
-La Comisión sólo podrá sesionar con la asistencia de más de la mitad del número total de sus miembros.
+La Comisión Especial sólo podrá sesionar con la asistencia de más de la mitad del número total de sus miembros.
 
 Tomarán sus decisiones por mayoría simple, el Presidente tendrá el voto de calidad en caso de empate.
 
-Los integrantes elegirán entre ellos a un Presidente y un Secretario quienes serán los encargados de dirigir los trabajos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-El cargo de integrante de la Comisión será de carácter honorífico.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 6.
 
-Una vez recibidas las propuestas por la comisión, ésta procederá al análisis, estudio e investigación de los candidatos valorando su trayectoria, servicio y aportación a la nación o al estado.
+Una vez recibidas las propuestas por la Comisión Especial, ésta procederá al análisis, estudio e investigación de los candidatos valorando su trayectoria, servicio y aportación a la Nación o al Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
-La Comisión aprobará por mayoría absoluta de sus integrantes la propuesta del ciudadano que se haya hecho acreedor por sus méritos a la medalla de honor del Congreso del Estado de Baja California y la remitirá a la Presidencia del Congreso del Estado para presentarla en sesión solemne que para el efecto se desarrolle.
+La Comisión Especial aprobará por mayoría absoluta de sus integrantes la propuesta del ciudadano que se haya hecho acreedor por sus méritos a la Medalla de Honor del Congreso del Estado de Baja California y la remitirá a la Presidencia del Congreso del Estado para presentarla en sesión solemne que para el efecto se desarrolle.
 
 ###### ARTÍCULO 8.
 
@@ -130,3 +122,11 @@ EUGENIO ELORDUY WALTER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión Especial aprobará en la sesión siguiente a la de instalación a propuesta de su Presidente, las bases de la convocatoria pública en los términos del artículo 3 del presente ordenamiento, asimismo, establecerá el procedimiento de elección del ciudadano a que se hace referencia en el artículo primero de esta Ley.
