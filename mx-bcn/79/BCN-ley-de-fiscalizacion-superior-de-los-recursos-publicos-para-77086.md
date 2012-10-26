@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2010-10-22"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE FISCALIZACION SUPERIOR DE LOS RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-LEY DE FISCALIZACION SUPERIOR DE LOS RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
+LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -621,9 +621,17 @@ Una vez dictaminadas las Cuentas Públicas por el Congreso del Estado, la Comisi
 
 Las observaciones pendientes de resolver en el plazo señalado en el párrafo anterior deberán ser objeto de atención y seguimiento hasta su total resolución.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 64.
 
-Los Síndicos Procuradores y los titulares de los Órganos de Control de las Entidades fiscalizadas deberán presentar al Congreso a más tardar el último día hábil de los meses de enero, abril, julio y octubre de cada año, un informe indicando el avance en las acciones tomadas, las observaciones que durante dichos períodos hayan sido resueltas, así como las que continúen pendientes de resolver, mencionando en este caso las causas que lo originan. El informe deberá clasificar las observaciones por Entidad y ejercicio fiscal al que corresponda la Cuenta Pública de que se traten las observaciones.
+Los Síndicos Procuradores y los titulares de los Órganos de Control de las Entidades fiscalizadas deberán presentar al Congreso a más tardar el último día hábil de los meses de enero, abril, julio y octubre de cada año, un informe indicando el avance en las acciones tomadas, las observaciones que durante dichos períodos hayan sido resueltas, señalando cómo se resolvieron o qué sanción se impuso, así como las que continúen pendientes de resolver, justificando de manera fehaciente el motivo por el cual no se ha iniciado procedimiento, o en su caso dictado resolución; de haberse iniciado el procedimiento administrativo correspondiente, deberá señalarse en qué etapa se encuentra. El informe deberá clasificar las observaciones por Entidad y Ejercicio Fiscal al que corresponda la Cuenta Pública de que se traten las observaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 64 BIS.- Adicional a los Informes señalados en el artículo anterior, los titulares de los Órganos de Control al concluir su encargo, deberán remitir al Congreso del Estado un Informe final que contenga los datos que señala el numeral anterior.
+
+El informe señalado en el párrafo anterior formará parte integrante del informe que refiere el artículo 12 de la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California.
 
 ###### ARTÍCULO 65.
 
@@ -1186,3 +1194,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
