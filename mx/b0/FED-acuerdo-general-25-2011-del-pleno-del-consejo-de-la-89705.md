@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2011-del-pleno-del-consejo-de-la-89705"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-10-15"
-last_updated: "2012-10-15"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-10-04"
 ---
 # ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [CAMBIO DE DENOMINACION, COMPETENCIA Y JURISDICCION TERRITORIAL DE LOS NUEVE JUZGADOS DE DISTRITO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE: EN SIETE JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN ESA ENTIDAD FEDERATIVA Y SEDE, Y LOS DOS ULTIMOS EN LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DE AMPARO EN MATERIA PENAL]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 25/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN, COMPETENCIA Y JURISDICCIÓN TERRITORIAL DE LOS NUEVE JUZGADOS DE DISTRITO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE: EN SIETE JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN ESA ENTIDAD FEDERATIVA Y SEDE, Y LOS DOS ÚLTIMOS EN LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON SEDE EN GUADALAJARA, JALISCO Y SU TRANSFORMACIÓN EN JUZGADOS TERCERO Y CUARTO DE DISTRITO DE AMPARO EN MATERIA PENAL EN DICHO ESTADO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE INICIO DE FUNCIONES DE TODOS ELLOS, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; Y A LA CREACIÓN Y CAMBIO DE DENOMINACIÓN DE LAS RESPECTIVAS OFICINAS DE CORRESPONDENCIA COMÚN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE OCTUBRE DE 2012.</small>
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de octubre de 2012.
 
@@ -337,13 +337,15 @@ DECIMOSEXTO. La recepción de asuntos en días y horas inhábiles en los juzgado
 
 DECIMOSEPTIMO. Los juzgados de Distrito motivo del presente Acuerdo, deberán remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECIMOOCTAVO. Se modifica el punto de Acuerdo PRIMERO, denominado CONFORMACION, COMPETENCIA Y DENOMINACION del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
 
-“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Tercera Región, conformado por... y, dos Juzgados de Distrito Auxiliares con residencia en Guanajuato, Guanajuato.
+> <small>(F. DE E., D.O.F. 26 DE OCTUBRE DE 2012)</small>
 
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+“PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Tercera Región, conformado por... y, tres juzgados de Distrito Auxiliares, dos con sede en Guanajuato, Guanajuato y uno con residencia en Uruapan, Michoacán.
+
+> <small>(F. DE E., D.O.F. 26 DE OCTUBRE DE 2012)</small>
+
+Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
 
 Los tribunales colegiados se denominarán:
 
@@ -353,11 +355,15 @@ Los tribunales unitarios se denominarán:
 
 …
 
+> <small>(F. DE E., D.O.F. 26 DE OCTUBRE DE 2012)</small>
+
 Los juzgados de distrito se denominarán:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato”.
+Juzgado Segundo de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Juzgado Sexto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Uruapan, Michoacán”.
 
 DECIMONOVENO. Se modifica el Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, publicado en el Diario Oficial de la Federación el veintiséis de junio de dos mil doce, en el punto SEGUNDO, apartado III.- TERCER CIRCUITO, número 3, para quedar como sigue:
 
