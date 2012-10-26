@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-registro-de-agrupaciones-para-la-salud-22100
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-19"
-last_updated: "2001-09-19"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL REGISTRO DE AGRUPACIONES PARA LA SALUD
 
-REGLAMENTO PARA EL REGISTRO DE AGRUPACIONES PARA LA SALUD
+REGLAMENTO PARA EL REGISTRO DE AGRUPACIONES PARA LA SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE SALUD DEL ESTADO DE MORELOS EN MATERIA DE REGISTRO DE AGRUPACIONES PARA LA SALUD, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de septiembre de 2001.
 
@@ -158,3 +160,13 @@ SECRETARIO DE SALUD
 JESÚS LIMONCHI GÓMEZ
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento para el Registro de Agrupaciones para la Salud publicado en el Periódico Oficial "Tierra y Libertad" número 4141 de fecha 19 de septiembre del 2001.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Reglamento.
