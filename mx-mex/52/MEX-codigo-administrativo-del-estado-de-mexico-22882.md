@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-10-15"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -15925,7 +15925,9 @@ Los recursos que, en su caso, se obtengan como resultado de la aplicación progr
 
 NOVENO.- Los municipios que se beneficien por la modificación o no ratificación de las reducciones en las retenciones contempladas originalmente en los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios de acuerdo con el calendario contenido en el artículo Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, deberán remitir al Órgano Superior de Fiscalización del Estado de México y a la Legislatura su Plan Económico-Financiero de saneamiento a mediano plazo.
 
-DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 30 de octubre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2012)</small>
+
+DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código Financiero del Estado de México y Municipios, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 31 de diciembre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
 
 G.G. 9 DE AGOSTO DE 2012.
 
@@ -16108,3 +16110,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
+
+G.G. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
