@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2010-10-22"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -42,6 +42,8 @@ LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. Normas Preliminares
+
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 1.
 
@@ -69,15 +71,19 @@ VIII. Coordinar y concertar, entre las distintas dependencias y organismos de la
 
 IX. Garantizar la participación corresponsable de las personas y los grupos sociales organizados, en las materias que regula la presente Ley;
 
-X. Definir las medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y
+X. Definir las medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y (sic)
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 XI. Establecer las bases para garantizar el acceso de la sociedad a la información ambiental, que permita a los ciudadanos conocer la situación ambiental que guarda el estado y para asegurar su participación corresponsable en la protección del ambiente, la vida silvestre y la preservación del equilibrio ecológico.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 60, PUBLICADO EN EL P.O. DE 27 DE JUNIO DEL 2008, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+XII. Establecer las bases y principios mediante los cuales se habrán de conducir y evaluar a las instituciones públicas Estatales y Municipales en materia de cuidado ambiental.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 60, PUBLICADO EN EL P.O. DE 27 DE JUNIO DEL 2008, EL PRESENTE ARTÍCULO HA SIDO MODIFICADO EN SU ESTRUCTURA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 2.
 
@@ -383,9 +389,13 @@ XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevenció
 
 XXXVIII. Los demás asuntos que en la materia les concedan la Ley General, esta Ley, otros ordenamientos legales y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
-A fin de garantizar un medio ambiente adecuado para el desarrollo, bienestar y elevamiento de la calidad de vida de su población, los municipios promoverán desarrollo ambientalmente planificado e incorporarán la dimensión ambiental en los programas y actividades de sus dependencias y organismos.
+A fin de garantizar un medio ambiente adecuado para el desarrollo, bienestar y elevamiento de la calidad de vida de la población, el Estado y los municipios promoverán el desarrollo ambientalmente planificado e incorporarán la dimensión ambiental en los programas y actividades de sus dependencias y organismos.
+
+De igual manera todas las dependencias y organismos de gobierno Estatales y Municipales, deberán de contar en sus oficinas con contenedores especiales para el reciclaje de las distintas clases de desperdicios. El recurso financiero que se recaude del proceso de reciclado deberá destinarse a la integración de los fondos ambientales previstos en esta Ley.
 
 ###### ARTÍCULO 11.
 
@@ -453,7 +463,7 @@ XIX. El principio de subsidiariedad, que permita a las estructuras municipales d
 
 #### SECCIÓN I. Planeación ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
@@ -713,11 +723,13 @@ XI. En general, aquellas acciones relacionadas con la preservación y restauraci
 
 #### SECCIÓN IV. Del fondo ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 39.
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la Ley General, esta Ley, sus reglamentos y demás disposiciones que de ellos se deriven, así como los que se perciban por concepto del otorgamiento de permisos, autorizaciones, concesiones y licencias en materia ambiental, indemnizaciones que reciba el Gobierno del Estado por daños al ambiente, herencias, aportaciones o donativos, así como rendimientos financieros, conforme lo determinen en los ordenamientos aplicables, se destinarán a la integración de fondos ambientales en los ámbitos que corresponda.
+
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 26 DE OCTUBRE DE 2012)</small>
 
 Los recursos de los fondos ambientales serán aplicados a:
 
@@ -727,9 +739,13 @@ II. La administración de las áreas naturales en que se generen dichos ingresos
 
 III. El desarrollo de programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley;
 
-IV. El desarrollo de programas de educación e investigación en materia ambiental; y
+IV. El desarrollo de programas de educación e investigación en materia ambiental; y (sic)
 
 V. Restauración de sitios contaminados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI. El desarrollo y adquisición de nuevas tecnologías en materia de prevención y mitigación de contaminación ambiental.
 
 Todo lo relacionado con la integración, administración y gasto de los recursos constitutivos de dichos fondos serán establecidos en el reglamento respectivo, el cual será aprobado por el Consejo, o en su caso los reglamentos municipales.
 
@@ -1329,7 +1345,7 @@ La Secretaría llevará un registro de las fuentes emisoras de energía radioact
 
 El uso de la energía nuclear con el fin de generar energía eléctrica deberá considerarse una opción poco deseable en el Estado, cuya aplicación se realizará solo después de haber agotado todas las demás fuentes de que se dispone para producirla.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 #### SECCION III. Vida Silvestre
 
@@ -1407,7 +1423,7 @@ El Registro de Emisiones y Transferencia de Contaminantes se deberá integrar co
 
 En aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios que requieran obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por una autoridad ambiental competente los interesados podrán optar por integrar dichas autorizaciones en un solo trámite que se denominará Licencia Ambiental Única, en los términos que señalen los reglamentos que al efecto se expidan.
 
-> <small>(REFORMADO, P.O. 15 DE OCTURE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 La actualización de la base de datos del Registro de Emisiones y Transferencia de Contaminantes, será a través de la cédula de operación anual; instrumento mediante el cual los sujetos a que refiere el segundo párrafo del artículo 108, están obligados a proporcionar datos y documentos necesarios para integrarlo, conforme a los requisitos y tiempos que prevea el reglamento correspondiente.
 
@@ -1567,7 +1583,7 @@ Para los efectos de lo dispuesto en este capítulo, se entiende por fuente fija 
 
 Los municipios, a través de los bandos de policía o reglamentos que al efecto expidan, podrán sujetar a los establecimientos comerciales y de servicios, a los requerimientos que considere pertinentes en materia de emisión de contaminantes a la atmósfera.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2010)</small>
 
 #### SECCIÓN V. Prevención y control de la contaminación lumínica
 
@@ -1593,7 +1609,7 @@ El propietario o poseedor de un vehículo automotor que no haya realizado la ver
 
 Las sanciones por el incumplimiento a lo previsto en el presente artículo serán determinadas conforme a la presente Ley y a los reglamentos municipales en materia de transito, según corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 119.
 
@@ -1669,7 +1685,7 @@ XV. Corroborar que el equipo y programa de cómputo que se le instale para propo
 
 XVI. Las demás que determine la Secretaría para garantizar el correcto funcionamiento de los centros de verificación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2010)</small>
 
 #### SECCIÓN I. Criterios ambientales
 
@@ -1871,7 +1887,7 @@ VI. Requerir, a quienes produzcan contaminación del suelo, para que lleven a ca
 
 VII. Autorizar las actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de los minerales o sustancias no reservadas a la federación y requerir la restauración y reforestación de las áreas utilizadas, una vez concluidos los trabajos respectivos.
 
-> <small>(REFORMADO, P.O 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 En el caso de que sea el Ayuntamiento quien opere el sistema de recolección, estación de transferencia, transporte, almacenamiento, manejo, tratamiento de un sitio de disposición final de residuos sólidos urbanos, será la Secretaría quien lo regulará y requerirá para el cumplimento de la Ley General, esta Ley y la normatividad aplicable.
 
@@ -2355,7 +2371,7 @@ III.- Cuando el autorizado no haya iniciado actividades en el término de un añ
 
 Antes de emitir fundada y motivadamente la resolución respectiva la Secretaría dará vista al interesado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO V. De las Reglas de las Notificaciones
 
@@ -2561,7 +2577,7 @@ Hasta en tanto se expidan las disposiciones reglamentarias de esta ley, seguirá
 
 Los procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, se tramitarán y resolverán conforme a las disposiciones de dicha Ley que se abroga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2002)</small>
 
 ###### ARTÍCULO QUINTO
 
@@ -2617,7 +2633,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO BORBON VILCHES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 2002.
 
@@ -2684,3 +2700,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado expedirá un reglamento dentro de un plazo que no exceda noventa días contados a partir de la entrada en vigor de las presentes reformas.
 
 TERCERO.- La Secretaría junto con los Ayuntamientos del Estado iniciaran mesa de trabajo para determinar si es factible la celebración de los convenios previstos en el último párrafo del artículo 42 de la presente ley.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo implementará en un periodo de 90 días, la forma y dependencia responsable de la operación administrativa que debe contemplar la logística de transporte, inversión en los recipientes de basura y propaganda de la campaña, cuyo costo deberá ser acorde al dinero obtenido por la venta del material reciclable.
