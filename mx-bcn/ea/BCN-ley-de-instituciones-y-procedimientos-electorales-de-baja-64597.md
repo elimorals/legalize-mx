@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2012-09-21"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -57,9 +57,13 @@ II. La constitución, registro, organización, función, prerrogativas, derechos
 
 III. La función pública de organizar las elecciones ordinarias y extraordinarias para la integración de los Poderes Legislativo y Ejecutivo del Estado, y de los Ayuntamientos de la Entidad;
 
-IV. El Sistema de Medios de Impugnación para garantizar la legalidad de los actos y resoluciones de las autoridades electorales, y
+IV. El Sistema de Medios de Impugnación para garantizar la legalidad de los actos y resoluciones de las autoridades electorales, y (sic)
 
 V. Las faltas y sanciones administrativas, así como el Régimen de Responsabilidades y sanciones de los consejeros electorales y de los servidores públicos del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI. La función pública de organizar los instrumentos y mecanismos de participación ciudadana, la Consulta Popular, el Plebiscito, el Referéndum y la Iniciativa Ciudadana.
 
 ###### ARTÍCULO 3.
 
@@ -297,9 +301,11 @@ Los partidos políticos estatales que tuvieren su registro suspendido o cancelad
 
 ### CAPÍTULO PRIMERO. DE LA ELECCIÓN E INTEGRACIÓN DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
-El Congreso del Estado estará integrado por diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta nueve Diputados electos por el principio de representación proporcional en una circunscripción estatal, de conformidad con la Constitución del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
+El Congreso del Estado estará integrado por diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal, de conformidad con la Constitución del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
 
 ### CAPÍTULO SEGUNDO. DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
@@ -339,7 +345,9 @@ IV. Se asignará una diputación de representación proporcional por cada númer
 
 V. Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en la fracción anterior.
 
-Ningún partido político o coalición podrá tener más de dieciséis diputados por ambos principios.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Ningún partido político o coalición podrá tener más de diecisiete diputados por ambos principios.
 
 ###### ARTÍCULO 30.
 
@@ -357,7 +365,9 @@ IV. Si dentro del plazo señalado en la fracción anterior el partido político 
 
 V. Una vez determinada la lista anterior se procederá a su intercalación con la que hubiere registrado cada partido político o coalición en los términos del inciso b), fracción I, del artículo 261 de esta Ley;
 
-VI. La intercalación iniciará con el que ocupe el primer lugar de acuerdo a la lista obtenida de la fracción II de este artículo, seguido de quien ocupe el primer lugar en la lista registrada de conformidad con el artículo 261 de esta Ley, continuando de manera alternada, en el orden de prelación resultante, en cada caso, hasta lograr una lista de nueve diputaciones a asignar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI. La intercalación iniciará con el que ocupe el primer lugar de acuerdo a la lista registrada de conformidad con el artículo 261 de esta Ley, seguido de quien ocupe el primer lugar en la lista obtenida de la fracción II de este artículo, continuando de manera alternada en el orden de prelación resultante, en cada caso, hasta lograr una lista de ocho diputaciones a asignar.
 
 En caso de que un partido político o coalición obtenga doce o más diputaciones por el principio de mayoría relativa, la lista se integrará sólo con aquellos candidatos que no obtengan constancia de mayoría, junto con los registrados en la lista en los términos del artículo 261 de esta Ley, respetando en todo momento lo señalado en el párrafo anterior, con excepción de los lugares que no podrán ser ocupados por aquéllos, recorriendo en dichos espacios a éstos, y
 
@@ -381,9 +391,11 @@ La elección de Gobernador será cada seis años, en todo el territorio del Esta
 
 El Gobierno del Municipio se deposita en un cuerpo colegiado que se denomina Ayuntamiento, compuesto de munícipes electos mediante sufragio universal, libre, secreto, directo, personal e intransferible, por los principios de mayoría relativa y de representación proporcional. Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 33.
 
-El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador y por Regidores de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
+El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social y por Regidores de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
 
 El número de Regidores de mayoría relativa y de representación proporcional para cada municipio, se determinará en relación a las siguientes bases generales:
 
@@ -393,9 +405,23 @@ II. El municipio cuya población se encuentre en el rango comprendido de doscien
 
 III. El municipio cuya población exceda de quinientos mil habitantes, tendrá ocho Regidores electos, conforme al principio de mayoría relativa y hasta siete Regidores de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Los Municipios comprendidos en los rangos poblacionales previstos en la fracción I, tendrán un Síndico Procurador electo por mayoría relativa.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Los Municipios comprendidos en los rangos poblacionales previstos en las fracciones II y III, tendrán un Síndico Procurador electo por mayoría relativa, y un Síndico Social electo por el principio de representación proporcional.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IV. El Síndico Social le será asignado al partido político que, por sí mismo o en coalición, haya ocupado el segundo lugar en número de votos para la elección de munícipes, correspondiendo al candidato a Síndico Procurador registrado en la planilla respectiva, en los términos dispuestos por el artículo 79 de la Constitución Política del Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 34.
 
-Para que los partidos políticos o coaliciones tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
+Para que los partidos políticos o coaliciones tengan derecho a la asignación del Síndico Social o Regidores por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
 
 I. Haber registrado planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
@@ -403,33 +429,53 @@ II. Haber obtenido por lo menos el tres por ciento de la votación emitida en la
 
 III. No haber obtenido la constancia de mayoría respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
-El Consejo General, hará la asignación de Regidores mediante el principio de representación proporcional, conforme al siguiente procedimiento:
+El Consejo General, hará la asignación del Síndico Social y Regidores mediante el principio de representación proporcional, conforme al siguiente procedimiento:
 
 I. Determinará qué partidos políticos o coaliciones cumplen con lo establecido en el artículo anterior;
 
-II. Primeramente se asignará un Regidor a cada partido político o coalición con derecho.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+II. Primeramente procederá asignar al Síndico Social, para los municipios que así se establezca en los rangos poblacionales previstos en la Constitución del Estado y esta Ley, al partido político que, por sí mismo o en coalición, haya ocupado el segundo lugar en número de votos para la elección de munícipes, correspondiendo al candidato a Síndico registrado en la planilla respectiva;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III. Posteriormente asignará un Regidor a cada partido político o coalición con derecho.
 
 En el caso que el número de partidos políticos o coaliciones sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
-III. Si después de efectuada la operación indicada en la fracción anterior, aún hubieren regidurías por asignar, realizará las siguientes operaciones:
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-a) Sumará los votos de los partidos políticos o coaliciones con derecho a ello, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el inciso siguiente;
+IV. Si después de efectuada la operación indicada en la fracción anterior, aún hubieren regidurías por asignar, realizará las siguientes operaciones:
 
-b) Determinará el nuevo porcentaje de cada partido político o coalición que tenga derecho a la asignación, mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
+a).- Sumará los votos de los partidos políticos o coaliciones con derecho a ello, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el inciso siguiente;
 
-c) Obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición con derecho a ello, mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el inciso anterior, de cada partido político o coalición, por el número de regidurías de representación proporcional que corresponda, conforme al artículo 33 de esta Ley y dividiéndolo entre cien, y
+b).- Determinará el nuevo porcentaje de cada partido político o coalición que tenga derecho a la asignación, mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
 
-d) Restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada conforme a la fracción II de este artículo;
+c).- Obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición con derecho a ello, mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el inciso anterior, de cada partido político o coalición, por el número de regidurías de representación proporcional que corresponda, conforme al artículo 33 de esta Ley y dividiéndolo entre cien; y
 
-IV. Asignará a cada partido político o coalición alternadamente, tantas regidurías como números enteros se hayan obtenido de la operación realizada en el inciso d) de la fracción anterior;
+d).- Restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada conforme a la fracción III de este artículo;
 
-V. En caso de que aún hubieren regidurías por repartir, las asignará a los que conserven los restos mayores, después de deducir las asignaciones efectuadas en la fracción anterior;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VI. La asignación de regidurías de representación proporcional, se hará de la planilla de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados, y
+V. Asignará a cada partido político o coalición alternadamente, tantas regidurías como números enteros se hayan obtenido de la operación realizada en el inciso d) de la fracción anterior;
 
-VII. En caso de que la asignación recaiga en quien esté inhabilitado o no reúna los requisitos para ser electo, la asignación deberá ser cubierta por el suplente de la planilla respectiva. Si éste último resulta también inhabilitado o no reúne los requisitos para ser electo, se asignará a aquel candidato del mismo partido político que siga en el orden de la lista.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI. En caso de que aún hubieren regidurías por repartir, las asignará a los que conserven los restos mayores, después de deducir las asignaciones efectuadas en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VII. La asignación de regidurías de representación proporcional, se hará de la planilla de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII. En caso de que la asignación recaiga en quien esté inhabilitado o no reúna los requisitos para ser electo, la asignación deberá ser cubierta por el suplente de la planilla respectiva. Si éste último resulta también inhabilitado o no reúne los requisitos para ser electo, se asignará a aquel candidato del mismo partido político que siga en el orden de la lista.
+
+(REPUBLICADO, P.O. 26 DE OCTUBRE DE 2012)
 
 Las vacantes de propietarios de munícipes por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la planilla respectiva.
 
@@ -1417,9 +1463,11 @@ III. Candidato que haya sido registrado por otro partido político.
 
 Los partidos políticos que se hubieren coaligado, podrán conservar su registro al término de la elección, si su votación en la elección equivale a la suma del porcentaje del dos punto cinco por ciento de la Votación Estatal Emitida, por cada uno de los partidos políticos coaligados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 118.
 
-La coalición que registre candidato a Gobernador del Estado, tendrá efectos en los dieciséis distritos electorales y en los municipios, en que se divide el territorio de la entidad y se sujetará a lo siguiente:
+La coalición que registre candidato a Gobernador del Estado, tendrá efectos en los diecisiete distritos electorales y en los municipios, en que se divide el territorio de la entidad y se sujetará a lo siguiente:
 
 I. Deberá postular y registrar a la totalidad de fórmulas de Diputados y Munícipes, conforme a lo dispuesto por los artículos 14 y 79 respectivamente de la Constitución del Estado;
 
@@ -1571,9 +1619,15 @@ V. Garantizar la celebración periódica y pacífica de las elecciones para reno
 
 VI. Preservar la autenticidad y efectividad del sufragio;
 
-VII. Realizar los procesos de plebiscito y referéndum en los términos de la ley de la materia, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VII. Realizar los procesos de consulta popular, plebiscito y referéndum en los términos de la ley de la materia;
 
 VIII. Llevar a cabo la promoción del voto y coadyuvar al fortalecimiento y difusión de la cultura cívica y política.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX. Promover y facilitar el proceso de iniciativa ciudadana.
 
 Las actividades del Instituto Electoral se regirán por los principios de certeza, legalidad, independencia, imparcialidad y objetividad. Para el desempeño de sus actividades contará con el personal capacitado que sea necesario para su funcionamiento.
 
@@ -1803,7 +1857,9 @@ XXIII. Informar al Congreso del Estado sobre el otorgamiento de las constancias 
 
 XXIV. Realizar el cómputo municipal de la elección de munícipes, declarar la validez de la misma y expedir la constancia de mayoría correspondiente;
 
-XXV. Asignar los Regidores de representación proporcional de cada municipio, informando al Ayuntamiento respectivo, y al Congreso del Estado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+XXV. Asignar los Síndicos Sociales y Regidores de representación proporcional de cada municipio, según corresponda, informando al Ayuntamiento respectivo, y al Congreso del Estado;
 
 XXVI. Realizar el cómputo estatal de la elección de Gobernador, declarar la validez de la misma y expedir la constancia de mayoría correspondiente, informando al Congreso del Estado;
 
@@ -1821,9 +1877,13 @@ XXXII. Autorizar la instalación selectiva de casillas o centros de votación, p
 
 XXXIII. Expedir las convocatorias para las elecciones ordinarias, las cuales se sujetarán a las bases que contenga la misma y a las disposiciones de esta Ley;
 
-XXXIV. Aprobar el proyecto para la realización del proceso electoral extraordinario, plebiscito y referéndum, a propuesta de la Dirección General del Instituto Electoral; convocando en su caso, a los Consejos Distritales Electorales necesarios;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-XXXV. Aprobar los instrumentos que se señalan en el artículo 196 de esta Ley, necesarios para la realización del proceso electoral extraordinario, plebiscito y referéndum, a propuesta de la Dirección General del Instituto Electoral;
+XXXIV. Aprobar el proyecto para la realización del proceso electoral extraordinario, consulta popular, plebiscito y referéndum, a propuesta de la Dirección General del Instituto Electoral; convocando en su caso, a los Consejos Distritales Electorales necesarios;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+XXXV. Aprobar los instrumentos que se señalan en el artículo 196 de esta Ley, necesarios para la realización del proceso electoral extraordinario, consulta popular, plebiscito y referéndum, a propuesta de la Dirección General del Instituto Electoral;
 
 XXXVI. Otorgar el registro para participar como observador electoral;
 
@@ -2745,9 +2805,11 @@ Los representantes de los partidos políticos acreditados ante la Comisión Esta
 
 ### CAPÍTULO CUARTO. DE LOS DISTRITOS Y SECCIONES ELECTORALES
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 213.
 
-Para los efectos de dividir territorialmente al Estado, en Distritos y Secciones Electorales, la Dirección General del Instituto Electoral podrá formular un proyecto de división territorial, atendiendo los criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito a la media estatal. En caso de que un Municipio cuente con más del cincuenta por ciento del promedio que resulte de dividir el total de electores del Padrón Electoral entre los dieciséis distritos, tendrá derecho a un distrito electoral circunscrito a su ámbito Municipal.
+Para los efectos de dividir territorialmente al Estado, en Distritos y Secciones Electorales, la Dirección General del Instituto Electoral podrá formular un proyecto de división territorial, atendiendo los criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito a la media estatal. En caso de que un Municipio cuente con más del cincuenta por ciento del promedio que resulte de dividir el total de electores del Padrón Electoral entre los diecisiete distritos, tendrá derecho a un distrito electoral circunscrito a su ámbito Municipal.
 
 ###### ARTÍCULO 214.
 
@@ -3203,9 +3265,17 @@ II. Copia certificada del acta de nacimiento, de reconocimiento de hijo o de ado
 
 III. Copia de la credencial para votar;
 
-IV. Constancia de residencia expedida por la autoridad municipal competente, y
+IV. Constancia de residencia expedida por la autoridad municipal competente, y (sic)
 
 V. Certificado de nacionalidad mexicana expedido por autoridad federal competente, en el caso de mexicanos nacidos en el extranjero.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VI. Escrito mediante el cual se compromete a registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Electoral y de Participación Ciudadana, y;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VII. Escrito mediante el cual se compromete a presentar el examen para la detección de drogas de abuso, de conformidad con el artículo 5 de la Constitución del Estado. El Instituto Electoral y de Participación Ciudadana celebrará convenio con alguna institución de Salud Pública en el Estado para practicar estos exámenes.
 
 ###### ARTÍCULO 264.
 
@@ -4637,7 +4707,9 @@ VII. La declaración de validez de la elección de Gobernador y el otorgamiento 
 
 VIII. La constancia de asignación de diputados por el principio de representación proporcional y la declaración de validez de esta elección, que realice el Consejo General; y
 
-IX. La asignación de regidores por el principio de representación proporcional, que efectúe el Consejo General.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX. La asignación de munícipes por el principio de representación proporcional, que efectúe el Consejo General.
 
 ###### ARTÍCULO 403.
 
@@ -5129,7 +5201,9 @@ c) A más tardar el quince de septiembre del año de la elección, tratándose d
 
 d) A más tardar el cinco de octubre del año de la elección, cuando se impugne la elección de munícipes, y
 
-e) Dentro de los diez días siguientes a aquel en que fue recibido por el Tribunal Electoral, cuando se impugne la asignación de regidores por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+e) Dentro de los diez días siguientes a aquel en que fue recibido por el Tribunal Electoral, cuando se impugne la asignación de munícipes por el principio de representación proporcional.
 
 ###### ARTÍCULO 448.
 
@@ -5159,7 +5233,9 @@ VII. Revocar la declaración de validez de la elección de Gobernador y la const
 
 VIII. Modificar la asignación de diputados por el principio de representación proporcional;
 
-IX. Modificarla asignación de regidores por el principio de representación proporcional, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX. Modificar la asignación de munícipes por el principio de representación proporcional, y;
 
 X. Confirmar o revocar el acto impugnado.
 
@@ -5987,7 +6063,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE AGOSTO DE 2009.
 
@@ -6024,3 +6100,11 @@ P.O. 21 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudadana deberá adecuar sus disposiciones reglamentarias a más tardar en 60 días de la entrada en vigor de la presente reforma.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto Electoral y de Participación Ciudadana deberá adecuar las disposiciones reglamentarias a más tardar dentro de los 60 días siguientes a la entrada en vigor de las presentes reformas.
+
+TERCERO.- El Instituto Electoral y de Participación Ciudadana en términos del artículo 145 fracción XVI ordenará y aprobará la conformación del Distrito XVII con cabecera en el Municipio de Playas de Rosarito a más tardar 60 días después de la entrada en vigor de la presente reforma.
