@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2012-06-01"
+last_updated: "2012-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -769,7 +769,9 @@ III. En el Poder Legislativo: Diputados, Oficial Mayor, Contador y Subcontador M
 
 IV. En el Poder Judicial: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Electoral, Consejeros de la Judicatura, Secretarios Generales de Acuerdos, Jueces, Secretarios de Acuerdos y Actuarios, Visitadores, Titulares de las unidades, Jefes de Departamento, y todos aquellos que con cualquier carácter manejen, recauden, administren, fiscalicen, auditen o resguarden fondos, valores y recursos financieros, materiales y humanos; y
 
-V. En el Ayuntamiento y Consejos Municipales: Presidente Municipal, Presidente del Consejo Municipal, Síndico Procurador, Regidores, Consejales, Secretarios, Subsecretarios, Oficial Mayor, Secretario de Gobierno Municipal, Secretario Fedatario del Ayuntamiento, Administrador de la Ciudad, Tesorero, Subtesorero, Recaudador de Rentas Municipal y Recaudadores, Recaudadores auxiliares de Rentas Municipales, Subrecaudador de Rentas Municipales y subrecaudadores, Delegados, Subdelegados, Secretarios Delegacionales, Titulares de las Dependencias, Directores, Subdirectores, Jefes de departamento, Oficiales del Registro Civil, Suboficiales del Registro Civil, Coordinadores, Administradores, Comandantes, Subcomandantes, Jefes y Subjefes de Policía, Supervisores, Comisarios, Auditores, Inspectores, Jueces Municipales o Calificadores, Secretarios de Acuerdos y Actuarios de Juzgados Calificadores, Jueces, Secretarios de Acuerdos y Actuarios del Órgano Contencioso Administrativo Municipal, Promotores, Integrantes del Órgano de Gobierno de las Entidades Paramunicipales.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+V. En el Ayuntamiento y Consejos Municipales: Presidente Municipal, Presidente del Consejo Municipal, Síndico Procurador, Síndico Social, Regidores, Consejales, Secretarios, Subsecretarios, Oficial Mayor, Secretario de Gobierno Municipal, Secretario Fedatario del Ayuntamiento, Administrador de la Ciudad, Tesorero, Subtesorero, Recaudador de Rentas Municipal y Recaudadores, Recaudadores auxiliares de Rentas Municipales, Subrecaudador de Rentas Municipales y subrecaudadores, Delegados, Subdelegados, Secretarios Delegacionales, Titulares de las Dependencias, Directores, Subdirectores, Jefes de departamento, Oficiales del Registro Civil, Suboficiales del Registro Civil, Coordinadores, Administradores, Comandantes, Subcomandantes, Jefes y Subjefes de Policía, Supervisores, Comisarios, Auditores, Inspectores, Jueces Municipales o Calificadores, Secretarios de Acuerdos y Actuarios de Juzgados Calificadores, Jueces, Secretarios de Acuerdos y Actuarios del Órgano Contencioso Administrativo Municipal, Promotores, Integrantes del Órgano de Gobierno de las Entidades Paramunicipales.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -992,3 +994,7 @@ P.O. 10 DE JUNIO DE 2011.
 P.O. 1 DE JUNIO DE 2012.
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
