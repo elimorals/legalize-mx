@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2010-10-22"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE QUINTANA ROO
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE QUINTANA ROO
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -151,7 +151,9 @@ VIII.- Emergencia: Declaración de un estado o situación producto de un evento 
 
 IX.- Grupos voluntarios: Organizaciones de habitantes de una población coordinadas con y por las autoridades, que se integran a las acciones de protección civil y que colaboran en los programas y acciones respectivos, en función a su ámbito territorial;
 
-X.- Instituto: El Instituto de Protección Civil del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+X.- Coordinación Estatal: a la Coordinación Estatal de Protección Civil de Quintana Roo;
 
 XI.- Mitigación: Medidas tomadas con anticipación a la presencia de la calamidad y durante la emergencia para reducir su impacto lesivo en la población, bienes y entorno;
 
@@ -191,6 +193,10 @@ XXVIII.- Sistema de Vigilancia Ambiental: Es el conjunto de acciones de Observac
 
 XXIX.- Vulnerabilidad: Factor de riesgo interno de un sujeto a sistema expuesto a una amenaza, correspondiente a su predisposición intrínseca a ser afectado o de ser susceptible a sufrir una pérdida. La diferencia de la vulnerabilidad de los elementos expuestos ante un evento determina el carácter selectivo de la severidad de las consecuencias de dicho evento sobre los mismos. Facilidad con la que un sistema puede cambiar su estado normal a uno de desastre, por los impactos de una calamidad.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Así como las demás definiciones que prevé el artículo 2° de la Ley General de Protección Civil.
+
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DE LA PROTECCIÓN CIVIL EN EL ESTADO
 
 ### CAPÍTULO PRIMERO. Del Sistema Estatal de Protección Civil
@@ -215,7 +221,9 @@ II.- Los Presidentes Municipales;
 
 III.- El Consejo Estatal de Protección Civil;
 
-IV.- El Director General del Instituto de Protección Civil del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IV.- El Director General de la Coordinación Estatal;
 
 V.- Los Sistemas Municipales de Protección Civil;
 
@@ -223,13 +231,17 @@ VI.- Los directores o coordinadores de protección civil de los Municipios; y
 
 VII.- La representación de los sectores social y privado, de las instituciones educativas, así como de los grupos voluntarios y expertos en diferentes áreas relacionadas con la protección civil.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-El Estado, por si o a través del Instituto, podrá suscribir convenios, acuerdos de coordinación, cooperación y concertación, con la Federación, Entidades Federativas, Municipios de la Entidad, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de la entidad.
+El Estado, por si o a través la (sic) Coordinación Estatal previa autorización de la Secretaria de Gobierno, podrá suscribir convenios, acuerdos de coordinación, cooperación y concertación, con la Federación, Entidades Federativas, Municipios de la Entidad, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de la entidad.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 14.
 
-Los Municipios podrán suscribir convenios, acuerdos de coordinación o colaboración, con la Federación, el gobierno del Estado, el Instituto, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de su jurisdicción y podrán celebrar convenios entre sí, cuando estas acciones impliquen medidas comunes de beneficio ecológico.
+Los Municipios podrán suscribir convenios, acuerdos de coordinación o colaboración, con la Federación, el gobierno del Estado, la Coordinación Estatal, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de su jurisdicción y podrán celebrar convenios entre sí, cuando estas acciones impliquen medidas comunes de beneficio ecológico.
 
 ###### ARTÍCULO 15.
 
@@ -253,7 +265,9 @@ I.- El Gobernador del Estado, quien lo presidirá y será suplido en sus ausenci
 
 II.- El Secretario de Gobierno, quien fungirá como Secretario Ejecutivo;
 
-III.- El Director General del Instituto, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- El Director General la (sic) Coordinación Estatal, quien fungirá como Secretario Técnico;
 
 IV.- Los titulares de las dependencias de la Administración Pública del Estado, cuyo ámbito de responsabilidades tenga relación con los objetivos del Sistema Estatal de Protección Civil, a invitación del presidente del Consejo;
 
@@ -277,9 +291,13 @@ Son atribuciones del Consejo:
 
 I.- Fungir como órgano consultivo de planeación, de coordinación de acciones y decisorio del Sistema Estatal, a fin de orientar, las políticas y acciones de protección civil, definiendo los principios rectores del mismo, en concordancia con los establecidos por el Sistema Nacional de Protección Civil;
 
-II.- Aprobar y publicar el Programa Estatal de Protección Civil y los Programas Especiales, que de él se deriven, y evaluar su cumplimiento, por lo menos anualmente, ejecutando los Programas por conducto del Instituto;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-III.- Supervisar, dar seguimiento y evaluar el funcionamiento del Instituto;
+II.- Aprobar y publicar el Programa Estatal de Protección Civil y los Programas Especiales, que de él se deriven, y evaluar su cumplimiento, por lo menos anualmente, ejecutando los Programas por conducto de la Coordinación Estatal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- Supervisar, dar seguimiento y evaluar el funcionamiento de la Coordinación Estatal;
 
 IV.- Resolver, por conducto de su Secretario Ejecutivo, los recursos de revisión planteados en contra de resoluciones dictadas en los términos de esta legislación;
 
@@ -289,7 +307,9 @@ VI.- Declarar y publicar el estado de alerta ante la inminencia fundada del acon
 
 VII.- Declarado el estado de alerta, constituirse en sesión permanente para la coordinación de las actividades que la situación exija;
 
-VIII.- Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en la información que a través del Instituto y de las instancias municipales se disponga;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en la información que a través de la Coordinación Estatal y de las instancias municipales se disponga;
 
 IX.- Requerir, por conducto de la Secretaría de Gobernación, la ayuda de la Federación, en caso de que las consecuencias derivadas del fenómeno superen la capacidad de respuesta de las autoridades estatales;
 
@@ -307,7 +327,9 @@ XV.- Establecer la adecuada coordinación entre el Sistema Estatal, el Sistema N
 
 XVI.- Opinar sobre la creación, expedición y derogación de las normas técnicas, a propuesta del secretario técnico del Consejo;
 
-XVII.- Supervisar los programas internos de Protección Civil, por medio del Instituto, pudiendo actuar por conducto de las dependencias o entidades municipales competentes, dentro del ámbito de la competencia que corresponda;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+XVII.- Supervisar los programas internos de Protección Civil, por medio de la Coordinación Estatal, pudiendo actuar por conducto de las dependencias o entidades municipales competentes, dentro del ámbito de la competencia que corresponda;
 
 XVIII.- Opinar sobre la contratación que haga el Ejecutivo del Estado de seguros privados que cubran los daños causados por desastres naturales a la infraestructura estatal;
 
@@ -319,11 +341,11 @@ XX.- Las demás que le señalen la normatividad en materia de protección civil,
 
 El Presidente del Consejo o quien lo sustituya, tendrá la atribución de convocar y presidir las sesiones, orientando los debates que surjan en las mismas, contando con voto de calidad. Asimismo autorizará el orden del día a que se sujetarán las sesiones, vigilará el cumplimiento de los acuerdos del Consejo y promoverá la celebración de convenios de coordinación con los Gobiernos Federal y de otras Entidades Federativas y con los Ayuntamientos de los Municipios del Estado, para instrumentar los Programas de Protección Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 22.
 
-El Consejo formará los comités permanentes o transitorios de trabajo que estime necesarios y determinará su integración y funciones.
-
-Serán comités permanentes los siguientes:
+El Consejo formará los comités permanentes o transitorios de trabajo que estime necesarios y determinará su integración y funciones. Serán comités permanentes los siguientes:
 
 I.- Servicios de Emergencia, integrado por las instancias encargadas de los aspectos urgentes de una emergencia, unidades de rescate, equipos de manejo de materiales riesgosos, asuntos de seguridad estatal o regional y preservación del orden;
 
@@ -331,7 +353,9 @@ II.- Infraestructura, integrado por las instancias encargadas de aspectos relaci
 
 III.- Servicios Asistenciales, integrado por las instancias encargadas de aspectos relacionados con salud pública, atención a damnificados, coordinación de albergues, acopio, suministro y distribución de ropa, medicinas, alimentos y agua, control de ayuda y donativos, así como su repartición;
 
-IV.- Enlace, integrado por el Director del Instituto y un representante de cada una de las Direcciones Municipales de Protección Civil. La función principal de este Comité consistirá en regular, administrar y distribuir adecuadamente el flujo de información que la atención de la emergencia requiera; e
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IV.- Enlace, integrado por el Director de la Coordinación Estatal y un representante de cada una de las Coordinaciones Municipales de Protección Civil. La función principal de este Comité consistirá en regular, administrar y distribuir adecuadamente el flujo de información que la atención de la emergencia requiera; y
 
 V.- Investigación y Desarrollo Científico, integrado por investigadores y expertos en las distintas áreas de protección civil.
 
@@ -349,13 +373,17 @@ III.- Supervisar el debido cumplimiento de las disposiciones y acuerdos del Cons
 
 IV.- Elaborar los trabajos que le encomienden el presidente y el Consejo así como resolver las consultas que se sometan a su consideración;
 
-V.- Orientar, por conducto del Instituto, las acciones federales, estatales y municipales encomendadas al Consejo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+V.- Orientar, por conducto de la Coordinación Estatal, las acciones federales, estatales y municipales encomendadas al Consejo;
 
 VI.- Rendir un informe anual sobre los trabajos del Consejo, haciendo del conocimiento del presidente todo lo relativo al cumplimiento de las funciones y actividades del organismo;
 
 VII.- Rendir un informe semestral al Congreso del Estado sobre los trabajos del Consejo; en caso de eventualidades específicas, rendir un informe especial al Congreso del Estado una vez superada la situación de emergencia y vuelta a la normalidad;
 
-VIII.- Publicar la declaratoria de emergencia formulada por el Presidente del Consejo y convocarlo de inmediato, iniciando los trabajos de emergencia sin demora en el Instituto, vigilando el desarrollo de los mismos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Publicar la declaratoria de emergencia formulada por el Presidente del Consejo y convocarlo de inmediato, iniciando los trabajos de emergencia sin demora en la Coordinación Estatal, vigilando el desarrollo de los mismos;
 
 IX.- Presentar al Consejo los programas de trabajo y aprobar el calendario de sesiones del mismo; y
 
@@ -409,21 +437,31 @@ c. Secretaría de Infraestructura y Transporte;
 
 d. Secretaría de Salud;
 
-e. Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-f. Secretaría de Educación;
+e. Secretaría de Desarrollo Urbano;
 
-g. Secretaría de Turismo; y
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-h. Procuraduría General de Justicia.
+f. Secretaría de Ecología y Medio Ambiente;
 
-III.- El Director General del Instituto;
+g. Secretaría de Educación;
+
+h. Secretaría de Turismo; y
+
+i. Procuraduría General de Justicia.
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- El Director General de la Coordinación Estatal;
 
 IV.- Los Ayuntamientos; y
 
 V.- Las dependencias y entidades estatales o municipales que tengan relación con la materia de esta Ley, en el ámbito de su competencia.
 
-Cuando una misma materia o asunto corresponda a la competencia de una o más de las dependencias estatales o municipales a las que se refiere el presente artículo o las demás leyes y reglamentos aplicables, el Gobierno del Estado, en el marco del Sistema, promoverá mecanismos intersecretariales o interinstitucionales de coordinación, así como con el Instituto.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Cuando una misma materia o asunto corresponda a la competencia de una o más de las dependencias estatales o municipales a las que se refiere el presente artículo o las demás leyes y reglamentos aplicables, el Gobierno del Estado, en el marco del Sistema, promoverá mecanismos intersecretariales o interinstitucionales de coordinación, así como con la Coordinación Estatal.
 
 ###### ARTÍCULO 27.
 
@@ -463,51 +501,79 @@ VI.- Formar o convocar brigadas, grupos o cuerpos de voluntarios;
 
 VII.- Solicitar, cuando la gravedad del desastre lo requiera, el auxilio y apoyo del Gobierno Federal;
 
-VIII.- Designar al Director General del Instituto; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Designar al Director General de la Coordinación Estatal; y
 
 IX.- Las demás que le confiera la presente Ley y demás disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. Del Instituto de Protección Civil del Estado de Quintana Roo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO QUINTO. De la Coordinación Estatal
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-Para su funcionamiento, el Sistema será coordinado de manera directa por el Titular del Poder Ejecutivo del Estado y operativamente estará a cargo del organismo público descentralizado no sectorizado denominado Instituto de Protección Civil del Estado de Quintana Roo.
+Para su funcionamiento, el Sistema será coordinado de manera directa por el Titular del Poder Ejecutivo del Estado y operativamente estará a cargo de la Coordinación Estatal, órgano desconcentrado de la Secretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 31.
 
-El Instituto tendrá su domicilio en la Ciudad de Chetumal, y para su funcionamiento se compondrá de las direcciones, departamentos, establecimientos técnicos y dependencias administrativas que su reglamento determine o subsedes en el territorio de la entidad.
+La Coordinación Estatal tendrá su domicilio en la Ciudad de Chetumal, y para su funcionamiento se compondrá de las direcciones, departamentos, establecimientos técnicos y dependencias administrativas que su reglamento determine o subsedes en el territorio de la entidad.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-El Instituto estará a cargo de un Director General nombrado por el Gobernador del Estado, quien además de los requisitos previstos en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, deberá contar con probada experiencia en materia de protección civil.
+La Coordinación Estatal estará a cargo de un Director General nombrado por el Gobernador del Estado a propuesta del Secretario de Gobierno, quien además de los requisitos exigidos por la Ley Orgánica de la Administración Pública del Estado, deberá contar con probada experiencia en materia de protección civil.
 
-Los directores, subdirectores, delegados, jefes de departamento y en general los técnicos del Instituto deberán tener la misma calidad.
+Los directores, subdirectores, delegados, jefes de departamento y en general los técnicos de la Coordinación Estatal deberán tener la misma calidad.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
-El Instituto operará coordinadamente con las instancias correspondientes del Sistema Nacional de Protección Civil, y tendrá a su cargo funciones de tipo administrativo, así como específicas en situaciones de normalidad, emergencia y recuperación.
+La Coordinación Estatal operará coordinadamente con las instancias correspondientes del Sistema Nacional de Protección Civil, y tendrá a su cargo funciones de tipo administrativo, así como específicas en situaciones de normalidad, emergencia y recuperación.
 
-#### Sección 1. Funciones Administrativas del Instituto de Protección Civil del Estado de Quintana Roo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+#### Sección 1. Funciones Administrativas de la Coordinación Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 34.
 
-En materia administrativa, corresponde al titular de la Dirección General del Instituto, las siguientes atribuciones:
+En materia administrativa, corresponde al titular de la Coordinación Estatal, las siguientes atribuciones:
 
-I.- Administrar y representar legalmente al Instituto;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+I.- Administrar y representar legalmente a la Coordinación Estatal;
 
 II.- Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de los integrantes del Sistema y del Consejo;
 
-III.- Presentar a consideración del Consejo el Manual de Organización General y los correspondientes de Procedimientos y Servicios al Público del Instituto;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- Presentar a consideración del Consejo el Manual de Organización General y los correspondientes de Procedimientos y Servicios al Público de la Coordinación Estatal;
 
 IV.- Formular los programas institucionales de corto, mediano y largo plazos;
 
-V.- Formular anualmente el anteproyecto de presupuesto del Instituto, para someterlo a la aprobación de la Junta Directiva;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VI.- Nombrar al personal del Instituto;
+V.- Formular anualmente el anteproyecto de presupuesto de la Coordinación Estatal, para someterlo a la aprobación del Secretario de Gobierno;
 
-VII.- Someter a la Junta Directiva y publicar el informe anual sobre el desempeño de las funciones del Instituto;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VIII.- Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
+VI.- Proponer el nombramiento del personal de la Coordinación Estatal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VII.- Publicar el informe anual sobre el desempeño de las funciones de la Coordinación Estatal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Recabar información y elementos estadísticos sobre las funciones de la Coordinación Estatal, para mejorar su desempeño;
 
 IX.- Extender la certificación que corresponda, en los términos reglamentarios, a los grupos voluntarios;
 
@@ -517,11 +583,15 @@ XI.- Recibir y resolver los recursos de revisión interpuestos en los términos 
 
 XII.- Las que le confieran las demás disposiciones jurídicas aplicables y el Consejo.
 
-#### Sección 2. Funciones del Instituto de Protección Civil del Estado de Quintana Roo en Situación de Normalidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+#### Sección 2. Funciones de la Coordinación Estatal en Situación de Normalidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 35.
 
-En situaciones de normalidad, corresponde al titular del Instituto, las siguientes atribuciones:
+En situaciones de normalidad, corresponde al titular de la Coordinación Estatal, las siguientes atribuciones:
 
 I.- Identificar y diagnosticar los riesgos a los que está expuesto el Estado y elaborar el Atlas de Riesgos;
 
@@ -551,11 +621,15 @@ XIII.- Promover la realización de cursos, ejercicios y simulacros que permitan 
 
 XIV.- Presentar el proyecto de presupuesto anual para la aprobación del Ejecutivo Estatal.
 
-#### Sección 3. Funciones del Instituto de Protección Civil del Estado de Quintana Roo en Situación de Emergencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+#### Sección 3. Funciones de la Coordinación Estatal en Situación de Emergencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 36.
 
-En situaciones de emergencia, corresponde al titular del Instituto, las siguientes atribuciones:
+En situaciones de emergencia, corresponde al titular de la Coordinación Estatal, las siguientes atribuciones:
 
 I.- Formular el análisis y la evaluación primaria de la severidad y magnitud de la emergencia, y presentar de inmediato esta información al Consejo Estatal y al Centro de Comunicaciones de la Dirección General de Protección Civil de la Secretaría de Gobernación del Gobierno Federal;
 
@@ -571,7 +645,9 @@ VI.- Establecer la operación de redes de comunicación disponibles en situacion
 
 VII.- Las demás que le señalen otras leyes, reglamentos o disposiciones administrativas, y el Consejo Estatal.
 
-Concluida la emergencia, el Instituto desplegará las tareas de recuperación a que se refieren los artículos 86 a 89 de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Concluida la emergencia, la Coordinación Estatal desplegará las tareas de recuperación a que se refieren los artículos 86 a 89 de esta Ley.
 
 ### CAPÍTULO SEXTO. De las Atribuciones de los Ayuntamientos
 
@@ -601,9 +677,11 @@ X.- Las demás que les confiera el Sistema Nacional de Protección Civil, el Sis
 
 ### CAPÍTULO SÉPTIMO. De los Sistemas y Consejos Municipales de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 38.
 
-Los Ayuntamientos de los Municipios del Estado, mediante los correspondientes acuerdos de cabildo, establecerán sus propios Sistemas y Consejos de Protección Civil y organismos municipales de protección civil, que se integrarán por:
+Los Ayuntamientos de los Municipios del Estado, mediante los correspondientes acuerdos de cabildo, establecerán sus propios Sistemas y Consejos de Protección Civil y Coordinaciones municipales de protección civil, que se integrarán por:
 
 I.- El Presidente Municipal;
 
@@ -681,9 +759,11 @@ V.- El Registro Estatal de Protección Civil; y
 
 VI.- La Regulación Estatal sobre Protección Civil.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 46.
 
-El Gobierno del Estado, a través del Sistema y del Instituto, promoverá la participación ciudadana en la planeación, aplicación y evaluación de los instrumentos a que se refiere la presente Ley.
+El Gobierno del Estado, a través del Sistema y de la Coordinación Estatal, promoverá la participación ciudadana en la planeación, aplicación y evaluación de los instrumentos a que se refiere la presente Ley.
 
 ### CAPÍTULO SEGUNDO. De la Planeación de la Protección Civil
 
@@ -701,9 +781,11 @@ IV.- Programas Municipales de Protección Civil; y
 
 V.- Programas Internos de Protección Civil.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-Los programas, cualquiera que sea su naturaleza, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional y estatal sobre protección civil. La preparación de los programas estatal, especiales y regionales estará a cargo del Instituto, el cual deberá tomar en cuenta los programas nacionales y realizar las consultas institucionales y públicas que las leyes exijan. Los Ayuntamientos se sujetarán a su respectiva legislación y normas de planeación municipal, con la colaboración del Instituto en su caso.
+Los programas, cualquiera que sea su naturaleza, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional y estatal sobre protección civil. La preparación de los programas estatal, especiales y regionales estará a cargo de la Coordinación Estatal, el cual deberá tomar en cuenta los programas nacionales y realizar las consultas institucionales y públicas que las leyes exijan. Los Ayuntamientos se sujetarán a su respectiva legislación y normas de planeación municipal, con la colaboración de la Coordinación Estatal, en su caso.
 
 ###### ARTÍCULO 49.
 
@@ -765,15 +847,19 @@ Las dependencias, entidades y unidades administrativas de la Administración Pú
 
 En los inmuebles que por su naturaleza o el uso al que se han destinado, reciban una afluencia masiva de personas, deberán contar con un Programa Interno de Protección Civil, acorde con los lineamientos que establezca el Programa Especial.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 56.
 
-El Sistema Educativo Estatal instrumentará en todos los niveles y modalidades educativas a cargo del Estado, el Programa Especial de Seguridad de Emergencia Escolar, el cual será coordinado por la Secretaría de Educación Pública, en coordinación con el Instituto.
+El Sistema Educativo Estatal instrumentará en todos los niveles y modalidades educativas a cargo del Estado, el Programa Especial de Seguridad de Emergencia Escolar, el cual será coordinado por la Secretaría de Educación Pública, en coordinación con la Coordinación Estatal.
 
 ###### ARTÍCULO 57.
 
 Los programas municipales tendrán la proyección correspondiente a los periodos constitucionales que correspondan a los Ayuntamientos del Estado, conforme a lo previsto en la Ley de Planeación para el Desarrollo del Estado y en la Ley de los Municipios del Estado de Quintana Roo.
 
-Por conducto de la autoridad municipal competente, y en términos de los convenios o acuerdos de coordinación respectivos, los Ayuntamientos informarán anualmente al Instituto de los resultados obtenidos en la ejecución y evaluación de los programas.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Por conducto de la autoridad municipal competente, y en términos de los convenios o acuerdos de coordinación respectivos, los Ayuntamientos informarán anualmente a la Coordinación Estatal de los resultados obtenidos en la ejecución y evaluación de los programas.
 
 ### CAPÍTULO TERCERO. El Sistema Estatal de Información de Protección Civil
 
@@ -789,7 +875,9 @@ III.- Se armonizará con el Sistema Nacional de Protección Civil; y
 
 IV.- Las autoridades estatales y municipales, deberán proporcionar al Sistema Estatal de Información de Protección Civil la información que recaben en el cumplimiento de sus atribuciones.
 
-En la operación del Sistema Estatal de Información de Protección Civil, el Instituto aplicará las normas, procedimientos y metodologías que lo compatibilicen con los sistemas internacionales y nacionales relacionados con la prevención y mitigación de desastres.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+En la operación del Sistema Estatal de Información de Protección Civil, la Coordinación Estatal aplicará las normas, procedimientos y metodologías que lo compatibilicen con los sistemas internacionales y nacionales relacionados con la prevención y mitigación de desastres.
 
 ###### ARTÍCULO 59.
 
@@ -825,9 +913,11 @@ La información contenida en el Atlas Estatal de Riesgos será la base de la for
 
 #### Sección 2. El Registro Estatal de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 62.
 
-Con base en los acuerdos y convenios de coordinación que suscriba el Estado con la Federación, se establecerá el Registro Estatal de Protección Civil como unidad administrativa del Instituto, el cual será público para la inscripción de:
+Con base en los acuerdos y convenios de coordinación que suscriba el Estado con la Federación, se establecerá el Registro Estatal de Protección Civil como unidad administrativa de la Coordinación Estatal, el cual será público para la inscripción de:
 
 I.- Los programas estatal, regionales, especiales, municipales y particulares sobre protección civil;
 
@@ -841,9 +931,11 @@ V.- Los datos de identificación del personal autorizado que forma parte de los 
 
 VI.- Los demás actos y documentos que se señalen en las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 63.
 
-El Instituto promoverá que otras instancias, dependencias o Entidades registrales, tanto federales, estatales como municipales, celebren acuerdos de cooperación con el Registro para la recepción o inscripción de actos y documentos, en aquellas localidades donde no se cuente con oficinas propias o se tenga representación.
+La Coordinación Estatal promoverá que otras instancias, dependencias o Entidades registrales, tanto federales, estatales como municipales, celebren acuerdos de cooperación con el Registro para la recepción o inscripción de actos y documentos, en aquellas localidades donde no se cuente con oficinas propias o se tenga representación.
 
 Asimismo se promoverán mecanismos de consulta remota o electrónica de la información inscrita en el Registro.
 
@@ -907,9 +999,11 @@ IV.- Las suspensiones o restricciones de actividades públicas y privadas que se
 
 V.- Instrucciones dirigidas a la población, de acuerdo con los programas correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 69.
 
-Cuando la gravedad del siniestro lo requiera, los titulares de las instancias municipales de protección civil solicitarán al Director General del Instituto, el auxilio de las dependencias y entidades de la administración publica estatal. Asimismo, cuando la gravedad del desastre lo requiera, el Presidente del Consejo solicitará al Ejecutivo Federal el auxilio de las dependencias federales.
+Cuando la gravedad del siniestro lo requiera, los titulares de las instancias municipales de protección civil solicitarán al Director General de la Coordinación Estatal, el auxilio de las dependencias y entidades de la administración pública estatal. Asimismo, cuando la gravedad del desastre lo requiera, el Presidente del Consejo solicitará al Ejecutivo Federal el auxilio de las dependencias federales.
 
 ### CAPÍTULO SEGUNDO. De las Obligaciones en Materia de Protección Civil
 
@@ -921,17 +1015,21 @@ Quedan sujetas a las disposiciones de esta Ley las personas físicas o jurídica
 
 Las obligaciones consignadas en el presente capítulo son independientes de las que se contienen en la normatividad y reglas técnicas aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 72.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones, que por su uso y destino reciban una afluencia masiva de personas, o que por sus características representen algún riesgo para la población, están obligados a elaborar un Programa Interno de Protección Civil, así como capacitar a su personal en la materia, que deberá ser supervisado por el Instituto, el que podrá actuar por sí o por conducto de la Dependencia Municipal de Protección Civil de la jurisdicción correspondiente.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones, que por su uso y destino reciban una afluencia masiva de personas, o que por sus características representen algún riesgo para la población, están obligados a elaborar un Programa Interno de Protección Civil, así como capacitar a su personal en la materia, que deberá ser supervisado por la Coordinación Estatal, el que podrá actuar por sí o por conducto de la Dependencia Municipal de Protección Civil de la jurisdicción correspondiente.
 
-Dichas personas, podrán contar con la asesoría técnica del Instituto para la elaboración de sus Programas Internos, los cuales deberán ajustarse a las disposiciones del Programa Estatal de Protección Civil, a la normatividad y reglas técnicas correspondientes, así como a la Guía Técnica para la elaboración e instrumentación del Programa Interno de Protección Civil que edita la Secretaría de Gobernación.
+Dichas personas, podrán contar con la asesoría técnica la Coordinación Estatal para la elaboración de sus Programas Internos, los cuales deberán ajustarse a las disposiciones del Programa Estatal de Protección Civil, a la normatividad y reglas técnicas correspondientes, así como a la Guía Técnica para la elaboración e instrumentación del Programa Interno de Protección Civil que edita la Secretaría de Gobernación.
 
-De igual forma, los organizadores de ferias y espectáculos de concentración de personas deberán solicitar al Instituto, la verificación de sus instalaciones y sistemas de seguridad, la que podrá realizarse por conducto de las instancias Municipales respectivas.
+De igual forma, los organizadores de ferias y espectáculos de concentración de personas deberán solicitar a la Coordinación Estatal, la verificación de sus instalaciones y sistemas de seguridad, la que podrá realizarse por conducto de las instancias Municipales respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 73.
 
-Las personas a que se refiere el artículo anterior, bajo la supervisión del Instituto por sí o a través de la instancia Municipal que corresponda, practicarán, cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar a los usuarios del inmueble sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten, en la forma que determine la normatividad y las reglas técnicas correspondientes.
+Las personas a que se refiere el artículo anterior, bajo la supervisión de la Coordinación Estatal, por sí o a través de la instancia Municipal que corresponda, practicarán, cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar a los usuarios del inmueble sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten, en la forma que determine la normatividad y las reglas técnicas correspondientes.
 
 De igual forma, las escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales otros establecimientos en los que haya afluencia de público, en coordinación con las autoridades competentes, deberán practicar simulacros de protección civil, cuando menos una vez cada seis meses, de conformidad con lo señalado en el párrafo anterior, excepción hecha de las casas habitación unifamiliares.
 
@@ -951,9 +1049,11 @@ I.- Póliza de seguros de cobertura amplia de responsabilidad civil y daños a t
 
 II.- Fuente de energía alterna, según corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 77.
 
-Para la construcción de inmuebles destinados para uso público se deberá solicitar al Instituto, la formulación del diagnóstico de riesgo del inmueble, cuyo proyecto podrá ser elaborado por la instancia Municipal correspondiente, a petición del Instituto, quien tendrá la facultad exclusiva de aprobar y expedir el mismo.
+Para la construcción de inmuebles destinados para uso público se deberá solicitar a la Coordinación Estatal, la formulación del diagnóstico de riesgo del inmueble, cuyo proyecto podrá ser elaborado por la instancia Municipal correspondiente, a petición de la Coordinación Estatal, quien tendrá la facultad exclusiva de aprobar y expedir el mismo.
 
 ###### ARTÍCULO 78.
 
@@ -973,9 +1073,11 @@ En las acciones de protección civil, los medios de comunicación social deberá
 
 Las personas físicas y jurídicas que pretendan prestar servicios en materia de protección civil deberán estar inscritas en el Registro, de acuerdo a los procedimientos, modalidades y requisitos exigidos en el Reglamento de esta Ley. En el marco de los acuerdos institucionales de coordinación con la Federación, le corresponderá al Instituto la atribución de evaluar y asistir estos servicios.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 82.
 
-Los prestadores de servicios de protección civil podrán ser contratados libremente, y el Instituto promoverá el establecimiento de parámetros y criterios para la determinación de honorarios por estos servicios.
+Los prestadores de servicios de protección civil podrán ser contratados libremente, y la Coordinación Estatal promoverá el establecimiento de parámetros y criterios para la determinación de honorarios por estos servicios.
 
 ###### ARTÍCULO 83.
 
@@ -997,13 +1099,17 @@ VII.- Proporcionar asesoría técnica y capacitación a personas físicas, así 
 
 VIII.- Las demás que la presente Ley y otras disposiciones legales establezcan.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 84.
 
-Las personas físicas, así como las personas morales privadas o sociales, que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa interno de protección civil podrán recurrir al Instituto, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste; lo cual se hará en la medida de las posibilidades presupuestales del Gobierno del Estado y previa comprobación de la carencia de dichos recursos.
+Las personas físicas, así como las personas morales privadas o sociales, que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa interno de protección civil podrán recurrir a la Coordinación Estatal, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste; lo cual se hará en la medida de las posibilidades presupuestales del Gobierno del Estado y previa comprobación de la carencia de dichos recursos.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 85.
 
-El Instituto, en coordinación con los integrantes del Sistema Nacional de Protección Civil y del Sistema Estatal, desarrollarán programas dirigidos a fomentar un sistema de capacitación, asistencia, evaluación, calificación, reconocimientos, estímulos y acreditación que permita identificar, tanto a personas físicas o morales, como a prestadores de servicios de protección civil, que cumplan oportuna y eficientemente los compromisos adquiridos en los programas internos de protección civil.
+La Coordinación Estatal, en coordinación con los integrantes del Sistema Nacional de Protección Civil y del Sistema Estatal, desarrollarán programas dirigidos a fomentar un sistema de capacitación, asistencia, evaluación, calificación, reconocimientos, estímulos y acreditación que permita identificar, tanto a personas físicas o morales, como a prestadores de servicios de protección civil, que cumplan oportuna y eficientemente los compromisos adquiridos en los programas internos de protección civil.
 
 ### CAPÍTULO CUARTO. De las Actividades de Recuperación
 
@@ -1013,25 +1119,33 @@ El Sistema Estatal tendrá la responsabilidad de dirigir acciones de recuperaci�
 
 Dichas acciones tendrán como objetivo primordial la protección de la salud e integridad física y mental de las personas afectadas por desastres, ya sea naturales o antropogénicos, y estarán dirigidas principalmente a los grupos más vulnerables de la población.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 87.
 
-El Instituto y las instancias municipales correspondientes tendrán la responsabilidad de diseñar e implementar los programas y acciones a que haya lugar para lograr los objetivos que señala el artículo anterior.
+La Coordinación Estatal, y las instancias municipales correspondientes tendrán la responsabilidad de diseñar e implementar los programas y acciones a que haya lugar para lograr los objetivos que señala el artículo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 88.
 
-El Instituto y las instancias municipales correspondientes, en sus respectivos ámbitos de competencia, otorgarán asistencia jurídica y psicológica necesaria para garantizar la seguridad personal y patrimonial de la población afectada, así como su integridad física y mental.
+La Coordinación Estatal, y las instancias municipales correspondientes, en sus respectivos ámbitos de competencia, otorgarán asistencia jurídica y psicológica necesaria para garantizar la seguridad personal y patrimonial de la población afectada, así como su integridad física y mental.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 89.
 
-El Instituto y las instancias municipales correspondientes, en el ámbito de su competencia, promoverán la participación de la sociedad civil en las tareas a que hace referencia el presente capítulo.
+La Coordinación Estatal, y las instancias municipales correspondientes, en el ámbito de su competencia, promoverán la participación de la sociedad civil en las tareas a que hace referencia el presente capítulo.
 
 ## TÍTULO QUINTO. DEL FOMENTO A LA PROTECCIÓN CIVIL
 
 ### CAPÍTULO PRIMERO. Del Fomento a la Cultura y Educación de la Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 90.
 
-El Instituto, en coordinación con las dependencias y Entidades competentes del Gobierno del Estado y las correspondientes de la Federación y de los Municipios, organizaciones e instituciones públicas, privadas y sociales, realizará en materia de cultura de la protección civil las siguientes acciones:
+La Coordinación Estatal, en coordinación con las dependencias y Entidades competentes del Gobierno del Estado y las correspondientes de la Federación y de los Municipios, organizaciones e instituciones públicas, privadas y sociales, realizará en materia de cultura de la protección civil las siguientes acciones:
 
 I.- Promover y realizar campañas permanentes de difusión y eventos especiales orientados al logro de la participación organizada de la sociedad en programas inherentes a la prevención y mitigación de desastres;
 
@@ -1047,13 +1161,17 @@ VI.- Fomentar la formación de especialistas y grupos voluntarios; y
 
 VII.- Otras que sean de interés para desarrollar y fortalecer la cultura de la protección civil.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 91.
 
-El Instituto, en materia de educación y capacitación, en coordinación con la Secretaría de Educación Pública del Estado y con las demás Dependencias o Entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará acciones tendientes a promover la formación y capacitación de técnicos y profesionistas relacionados o interesados en la protección civil; y recomendará la actualización constante de los planes de estudio de educación básica, media, superior y de posgrado en esta materia.
+La Coordinación Estatal, en materia de educación y capacitación, en coordinación con la Secretaría de Educación Pública del Estado y con las demás Dependencias o Entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará acciones tendientes a promover la formación y capacitación de técnicos y profesionistas relacionados o interesados en la protección civil; y recomendará la actualización constante de los planes de estudio de educación básica, media, superior y de posgrado en esta materia.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 92.
 
-El Instituto, en coordinación con las demás dependencias y entidades competentes, promoverá programas de formación continua y actualización de los servidores públicos en materia de contingencias y emergencias.
+La Coordinación Estatal, en coordinación con las demás dependencias y entidades competentes, promoverá programas de formación continua y actualización de los servidores públicos en materia de contingencias y emergencias.
 
 ### CAPÍTULO SEGUNDO. Del Premio Estatal de Protección Civil
 
@@ -1061,9 +1179,11 @@ El Instituto, en coordinación con las demás dependencias y entidades competent
 
 El Premio Estatal de Protección Civil tiene por objeto reconocer y estimular a las personas físicas o jurídicas que realicen o hayan realizado acciones excepcionales o sobresalientes en la Entidad que aporten un beneficio a la sociedad, a favor de la protección civil.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 94.
 
-El Premio Estatal se entregará anualmente, correspondiendo al Instituto instrumentar el procedimiento de convocatoria, así como la o las modalidades del mismo, campos operativos, preventivos o de rescate, así como de las ingenierías o ciencias experimentales, técnicas y de la salud, así como las desarrolladas en los campos de las humanidades y cualesquiera otras que desarrollen materias que deban ser objeto de las actividades de protección civil.
+El Premio Estatal se entregará anualmente, correspondiendo a la Coordinación Estatal instrumentar el procedimiento de convocatoria, así como la o las modalidades del mismo, campos operativos, preventivos o de rescate, así como de las ingenierías o ciencias experimentales, técnicas y de la salud, así como las desarrolladas en los campos de las humanidades y cualesquiera otras que desarrollen materias que deban ser objeto de las actividades de protección civil.
 
 ### CAPÍTULO TERCERO. De los Instrumentos de Fomento Económico
 
@@ -1095,9 +1215,11 @@ Los apoyos económicos que proporcione el Gobierno del Estado, estarán sujetos 
 
 El Gobierno del Estado y en su caso los Ayuntamientos, promoverán la participación ciudadana en materia de protección civil a fin de que se involucre a los sectores público, privado y social, a través del Consejo, de los Consejos Municipales o de los grupos voluntarios.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 101.
 
-El Instituto promoverá la creación de las instancias mencionadas en el artículo anterior, de conformidad con las disposiciones legales aplicables.
+La Coordinación Estatal promoverá la creación de las instancias mencionadas en el artículo anterior, de conformidad con las disposiciones legales aplicables.
 
 ### CAPÍTULO SEGUNDO. De los Cuerpos y Grupos de Protección Civil
 
@@ -1125,7 +1247,9 @@ En la organización de grupos voluntarios, se estará a lo siguiente:
 
 I.- Podrán formarse para la atención de áreas o territorios del Estado específicos;
 
-II.- Deberán inscribirse ante el Registro, previa anuencia del Instituto, indicando el nombre del grupo, las actividades a que se dedica, el equipo de que dispone, y los demás datos que les sean requeridos para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+II.- Deberán inscribirse ante el Registro, previa anuencia de la Coordinación Estatal, indicando el nombre del grupo, las actividades a que se dedica, el equipo de que dispone, y los demás datos que les sean requeridos para el desempeño de sus funciones;
 
 III.- Reportarán al Sistema Estatal las acciones de prevención y auxilio;
 
@@ -1135,27 +1259,39 @@ V.- Participarán en los programas de capacitación a brigadas de auxilio y pobl
 
 VI.- Participarán en todas aquellas actividades que estén en capacidad de desarrollar, dentro de los programas de prevención y auxilio que establezca el Programa Estatal de Protección Civil;
 
-VII.- Realizarán actividades de monitoreo y pronóstico y darán aviso al Instituto de la presencia de cualquiera situación de probable riesgo o inminente peligro para la población, así como de ocurrencia de cualquiera calamidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VIII.- Designarán a su representante para que se integre al Instituto y dependencias municipales competentes, cuando las alertas se activen;
+VII.- Realizarán actividades de monitoreo y pronóstico y darán aviso a la Coordinación Estatal de la presencia de cualquiera situación de probable riesgo o inminente peligro para la población, así como de ocurrencia de cualquiera calamidad;
 
-IX.- Se coordinarán con el Instituto y las instancias Municipales para las tareas de prevención y auxilio a la población ante cualquier caso de desastre;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Designarán a su representante para que se integre a la Coordinación Estatal y dependencias municipales competentes, cuando las alertas se activen;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+IX.- Se coordinarán con el Coordinación (sic) Estatal y las instancias Municipales para las tareas de prevención y auxilio a la población ante cualquier caso de desastre;
 
 X.- Participarán en los trabajos para evacuar, rescatar y trasladar a quienes resulten afectados por desastres;
 
 XI.- Colaborarán en la organización de albergues y el registro de los damnificados alojados en éstos;
 
-XII.- Portarán la identificación que autoricen tanto el Instituto o las Direcciones Municipales sobre el registro del grupo voluntario; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+XII.- Portarán la identificación que autoricen tanto la Coordinación Estatal o de las Coordinaciones Municipales sobre el registro del grupo voluntario; y
 
 XIII.- Participarán en otras actividades que les sean requeridas por la Dirección Estatal o las Direcciones Municipales y que estén en capacidad de desarrollar.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 106.
 
-La preparación específica de cada grupo voluntario deberá complementarse con una periódica ejecución de ejercicios y simulacros idóneos bajo la coordinación del Instituto.
+La preparación específica de cada grupo voluntario deberá complementarse con una periódica ejecución de ejercicios y simulacros idóneos bajo la coordinación de la Coordinación Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 107.
 
-El Consejo, a través del Instituto o de la instancia municipal de Protección Civil que corresponda, deberá realizar acciones para promover la participación social en materia de protección civil, observando lo siguiente:
+El Consejo, a través de la Coordinación Estatal o de la instancia municipal de Protección Civil que corresponda, deberá realizar acciones para promover la participación social en materia de protección civil, observando lo siguiente:
 
 I.- Convocar a los representantes de los grupos voluntarios, de las comunidades, de las instituciones educativas, de las instituciones públicas y privadas y de otros representantes de la sociedad, para que expresen sus opiniones y propuestas;
 
@@ -1165,29 +1301,37 @@ III.- Impulsar el desarrollo de la conciencia en materia de protección civil, a
 
 ### CAPÍTULO TERCERO. De la Denuncia Popular
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 108.
 
-Toda persona, aportando los elementos de prueba conducentes, podrá denunciar ante el Instituto u otras autoridades todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo o de alto riesgo, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con la protección civil.
+Toda persona, aportando los elementos de prueba conducentes, podrá denunciar ante la Coordinación Estatal u otras autoridades todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo o de alto riesgo, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con la protección civil.
 
 ## TÍTULO SÉPTIMO. DE LA VIGILANCIA Y SANCIONES EN MATERIA DE PROTECCIÓN CIVIL
 
 ### CAPÍTULO PRIMERO. De las Autoridades Competentes
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 109.
 
-La prevención y vigilancia en materia de protección civil estará a cargo del Instituto y demás instancias de los tres órdenes de Gobierno, en el ámbito de su competencia.
+La prevención y vigilancia en materia de protección civil estará a cargo de la Coordinación Estatal y demás instancias de los tres órdenes de Gobierno, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 110.
 
-El Estado, a través del Instituto, en coordinación con la Federación, y con la colaboración de los sectores público, privado y social, operará y evaluará programas integrales de supervisión y control en materia de prevención y protección civil.
+El Estado, a través de la Coordinación Estatal en coordinación con la Federación, y con la colaboración de los sectores público, privado y social, operará y evaluará programas integrales de supervisión y control en materia de prevención y protección civil.
 
 ### CAPÍTULO SEGUNDO. De las Visitas y Operativos de Inspección
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 111.
 
-El Instituto, en el marco de los acuerdos de coordinación que al efecto celebren el gobierno del Estado, con la Federación y los Ayuntamientos de la Entidad, realizará visitas u operativos de inspección en materia de protección civil, con el objeto de verificar el cumplimiento de lo dispuesto en esta ley, su Reglamento, las normas aplicables y las demás disposiciones que de ellos se deriven.
+La Coordinación Estatal, en el marco de los acuerdos de coordinación que al efecto celebren el gobierno del Estado, con la Federación y los Ayuntamientos de la Entidad, realizará visitas u operativos de inspección en materia de protección civil, con el objeto de verificar el cumplimiento de lo dispuesto en esta ley, su Reglamento, las normas aplicables y las demás disposiciones que de ellos se deriven.
 
-Los propietarios y poseedores de instalaciones o construcciones deberán dar facilidades al personal autorizado del Instituto para la realización de visitas u operativos de inspección.
+Los propietarios y poseedores de instalaciones o construcciones deberán dar facilidades al personal autorizado de la Coordinación Estatal para la realización de visitas u operativos de inspección.
 
 ###### ARTÍCULO 112.
 
@@ -1195,7 +1339,9 @@ Las inspecciones y verificaciones se sujetarán a las siguientes bases:
 
 I.- El inspector deberá contar con una orden por escrito que contendrá la fecha y ubicación del inmueble por inspeccionar; objeto y aspectos de la inspección, el fundamento legal de la misma y la firma de la autoridad que expida la orden y el nombre del inspector;
 
-II.- El inspector deberá identificarse ante el propietario, arrendatario o poseedor, administrador o su representante legal, o ante la persona a cuyo encargo, esté el inmueble a inspeccionar, con la credencial vigente que para tal efecto expidan el Instituto o la autoridad municipal competente, según corresponda y entregará copia legible de la orden de inspección, requiriendo la presencia del responsable del predio en cuestión, para efectos de practicar la visita correspondiente, asentándose en todo caso, la calidad, personalidad o carácter de quienes intervienen en la diligencia;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+II.- El inspector deberá identificarse ante el propietario, arrendatario o poseedor, administrador o su representante legal, o ante la persona a cuyo encargo, esté el inmueble a inspeccionar, con la credencial vigente que para tal efecto expidan la Coordinación Estatal o la autoridad municipal competente, según corresponda y entregará copia legible de la orden de inspección, requiriendo la presencia del responsable del predio en cuestión, para efectos de practicar la visita correspondiente, asentándose en todo caso, la calidad, personalidad o carácter de quienes intervienen en la diligencia;
 
 III.- Cuando las personas con quienes deba realizarse la diligencia de inspección no se encontraren, se les dejará citatorio para que estén presentes a una hora determinada del día hábil siguiente, apercibiéndolas que, de no encontrarse en el lugar señalado en el citatorio, se entenderá la misma con quien se encuentre presente;
 
@@ -1205,27 +1351,37 @@ V.- Al inicio de la visita de inspección o verificación, el inspector deberá 
 
 VI.- De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas, en las que se expresará: lugar, hora, fecha y nombre de la persona con quien se entienda la diligencia, de los testigos de asistencia propuestos por ésta o nombrados por el inspector, en el caso de la fracción anterior. Si alguna de las personas que intervinieron en la diligencia se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
 
-VII.- El inspector comunicará al visitado si existen omisiones o contravenciones en el cumplimiento de cualquier obligación a su cargo, especificando en todo caso en qué consiste esta última, y cuál es la normatividad o regla técnica que la contiene, haciendo constar en el acta que cuenta con cinco días hábiles para manifestar su inconformidad por escrito ante el Instituto y para exhibir las pruebas y alegatos que a su derecho convengan. Las dependencias municipales por su parte, podrán recibir las inconformidades y enviarlas en forma inmediata al Instituto, conjuntamente con la documentación anexada, cuando la diligencia haya sido practicada por aquellos, en auxilio de la propia dependencia; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-VIII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregarán al Instituto, debiendo conservarse una copia en la dependencia municipal respectiva, cuando la diligencia haya sido practicada por ellos.
+VII.- El inspector comunicará al visitado si existen omisiones o contravenciones en el cumplimiento de cualquier obligación a su cargo, especificando en todo caso en qué consiste esta última, y cuál es la normatividad o regla técnica que la contiene, haciendo constar en el acta que cuenta con cinco días hábiles para manifestar su inconformidad por escrito ante la Coordinación Estatal y para exhibir las pruebas y alegatos que a su derecho convengan. Las Coordinaciones municipales por su parte, podrán recibir las inconformidades y enviarlas en forma inmediata a la Coordinación Estatal, conjuntamente con la documentación anexada, cuando la diligencia haya sido practicada por aquellos, en auxilio de la propia dependencia; y
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+VIII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregarán a la Coordinación Estatal, debiendo conservarse una copia en la dependencia municipal respectiva, cuando la diligencia haya sido practicada por ellos.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 113.
 
-Transcurrido el plazo a que se refiere la fracción VII del artículo anterior, el Instituto, dentro del término de tres días hábiles, y considerando la gravedad de la infracción, si existiere reincidencia, las circunstancias que hubiesen concurrido, las pruebas aportadas y los alegatos formulados, en su caso, dictará la resolución que proceda, debidamente fundada y motivada, notificándola personalmente al visitado.
+Transcurrido el plazo a que se refiere la fracción VII del artículo anterior, la Coordinación Estatal dentro del término de tres días hábiles, y considerando la gravedad de la infracción, si existiere reincidencia, las circunstancias que hubiesen concurrido, las pruebas aportadas y los alegatos formulados, en su caso, dictará la resolución que proceda, debidamente fundada y motivada, notificándola personalmente al visitado.
 
-Dicha resolución deberá señalar si se requiere llevar a cabo medidas y acciones que correspondan, y en su caso, los plazos para ejecutarlas. La notificación de la resolución que al efecto emita el Instituto, podrá realizarse con auxilio de la dependencia municipal correspondiente, y en contra de ella procede el recurso de revisión, cuya tramitación se encuentra prevista en esta ley.
+Dicha resolución deberá señalar si se requiere llevar a cabo medidas y acciones que correspondan, y en su caso, los plazos para ejecutarlas. La notificación de la resolución que al efecto emita la Coordinación Estatal, podrá realizarse con auxilio de la Coordinación municipal correspondiente, y en contra de ella procede el recurso de revisión, cuya tramitación se encuentra prevista en esta ley.
 
 ###### ARTÍCULO 114.
 
 En el caso de obstaculización u oposición a la práctica de la diligencia, la autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección o verificación, sin perjuicio de aplicar las sanciones a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 115.
 
-Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, el Instituto, por sí o por conducto de la dependencia municipal correspondiente, ordenará a quien resulta obligado para que las ejecute a costa de este último, fijándole un plazo para tal efecto.
+Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, la Coordinación Estatal por sí o por conducto de la Coordinación municipal correspondiente, ordenará a quien resulta obligado para que las ejecute a costa de este último, fijándole un plazo para tal efecto.
 
 Si el obligado no ejecuta las medidas correctivas de urgente aplicación a que se refiere el párrafo anterior, de acuerdo a lo ordenado y dentro del término expresado, se llevará a cabo la ejecución de dichas medidas y sin perjuicio de las sanciones administrativas y pecuniarias y/o de responsabilidad penal en que se incurra y a costa del obligado.
 
-Para ese efecto, el Instituto podrá auxiliarse de cualquier autoridad o dependencia, para la ejecución de las medidas correctivas de referencia, en casos de urgente aplicación, siendo recurrible, en todo caso, la resolución que ordene la ejecución de dichas medidas, a través del recurso de revisión, sin que opere la suspensión de las mismas, pero en caso de que dichas medidas sean nulificadas a través de los recursos correspondientes, procederá la responsabilidad civil con cargo al Estado por parte del afectado.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+Para ese efecto, la Coordinación Estatal podrá auxiliarse de cualquier autoridad o dependencia, para la ejecución de las medidas correctivas de referencia, en casos de urgente aplicación, siendo recurrible, en todo caso, la resolución que ordene la ejecución de dichas medidas, a través del recurso de revisión, sin que opere la suspensión de las mismas, pero en caso de que dichas medidas sean nulificadas a través de los recursos correspondientes, procederá la responsabilidad civil con cargo al Estado por parte del afectado.
 
 ###### ARTÍCULO 116.
 
@@ -1241,15 +1397,19 @@ IV.- El retiro de instalaciones móviles o equipo; y
 
 V.- El abastecimiento de equipo de seguridad requerido, incluyendo botiquín de primeros auxilios, dependiendo del riesgo deducido del tipo de actividad, obra o servicio entre otros.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 117.
 
-En caso de segunda o posterior visita practicada con el objeto de verificar el cumplimiento de una resolución o de la ejecución de las medidas correctivas de urgente aplicación, si del acta correspondiente se desprende que no se han llevado a cabo las medidas ordenadas, el Instituto procederá a decretar cualquiera de las medidas de seguridad señaladas en el artículo 119 de esta ley.
+En caso de segunda o posterior visita practicada con el objeto de verificar el cumplimiento de una resolución o de la ejecución de las medidas correctivas de urgente aplicación, si del acta correspondiente se desprende que no se han llevado a cabo las medidas ordenadas, la Coordinación Estatal procederá a decretar cualquiera de las medidas de seguridad señaladas en el artículo 119 de esta ley.
 
 ### CAPÍTULO TERCERO. De las Medidas de Seguridad
 
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 118.
 
-Como resultado del informe de inspección, el Instituto, por si, o por conducto de las dependencias municipales competentes adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general, las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+Como resultado del informe de inspección, la Coordinación Estatal por si, o por conducto de las dependencias municipales competentes adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general, las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### ARTÍCULO 119.
 
@@ -1275,7 +1435,9 @@ IX.- La prohibición temporal de actividades de producción, explotación, recre
 
 X.- Las demás que en materia de protección civil determinen las autoridades competentes tendientes a evitar que se generen o sigan causando riesgos o daños a la población y/o a las instalaciones y bienes de interés general, o pongan en peligro el normal funcionamiento de los servicios vitales.
 
-En los casos previstos en las fracciones III, IV, VI y VII de este artículo, el Instituto, por sí o por conducto de las instancias Municipales, se allegará de los dictámenes técnicos que correspondan, conforme a los ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+En los casos previstos en las fracciones III, IV, VI y VII de este artículo, la Coordinación Estatal, por sí o por conducto de las Coordinaciones Municipales, se allegará de los dictámenes técnicos que correspondan, conforme a los ordenamientos legales aplicables.
 
 ###### ARTÍCULO 120.
 
@@ -1283,11 +1445,13 @@ Para la determinación y ejecución de las medidas de seguridad en caso de emerg
 
 ### CAPÍTULO CUARTO. De las Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 121.
 
-Las personas físicas o morales que conforme a las disposiciones de esta ley y su reglamento resulten infractoras, serán sancionadas por el Instituto, por conducto del área competente. Las infracciones consistirán en toda acción u omisión realizada en contravención de lo dispuesto por la presente ley y su reglamento.
+Las personas físicas o morales que conforme a las disposiciones de esta ley y su reglamento resulten infractoras, serán sancionadas por la Coordinación Estatal, por conducto del área competente. Las infracciones consistirán en toda acción u omisión realizada en contravención de lo dispuesto por la presente ley y su reglamento.
 
-La aplicación de la sanción que corresponda se hará efectiva a través del Instituto, según sea el caso, independientemente de las penas y sanciones cuya aplicación corresponda a otras autoridades competentes, en los términos que al efecto prevengan otros ordenamientos.
+La aplicación de la sanción que corresponda se hará efectiva a través de la Coordinación Estatal, según sea el caso, independientemente de las penas y sanciones cuya aplicación corresponda a otras autoridades competentes, en los términos que al efecto prevengan otros ordenamientos.
 
 ###### ARTÍCULO 122.
 
@@ -1353,13 +1517,17 @@ El Ejecutivo del Estado expedirá, revocará, modificará o adicionará el tabul
 
 Para la fijación de las sanciones se tomará en cuenta la gravedad de la infracción cometida, las condiciones económicas de la persona física o moral a la que se sanciona y demás circunstancias que sirvan para individualizar la sanción pecuniaria, además de las anteriores, su determinación deberá hacerse entre el mínimo y máximo establecidos en el artículo 125 fracciones I y II de la presente Ley.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 128.
 
-En caso de la clausura temporal o total de una obra, instalación o establecimiento de bienes o servicios, el Instituto, cuando lo estime necesario, podrá solicitar a las autoridades la suspensión, cancelación o revocación de los permisos, concesiones o licencias que se hayan otorgado al infractor.
+En caso de la clausura temporal o total de una obra, instalación o establecimiento de bienes o servicios, la Coordinación Estatal, cuando lo estime necesario, podrá solicitar a las autoridades la suspensión, cancelación o revocación de los permisos, concesiones o licencias que se hayan otorgado al infractor.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 129.
 
-Cuando se ordene la suspensión, desocupación, desalojo o cierre de una obra, instalación, servicio o establecimiento en general como medida de seguridad, se ordenará al infractor que realice los actos o subsane las omisiones que la motivaron, fijándole un plazo para ello no mayor de sesenta días hábiles, prorrogables por una sola vez a juicio del Instituto. La desatención del plazo aquí señalado motivará la aplicación de la sanción correspondiente.
+Cuando se ordene la suspensión, desocupación, desalojo o cierre de una obra, instalación, servicio o establecimiento en general como medida de seguridad, se ordenará al infractor que realice los actos o subsane las omisiones que la motivaron, fijándole un plazo para ello no mayor de sesenta días hábiles, prorrogables por una sola vez a juicio de la Coordinación Estatal. La desatención del plazo aquí señalado motivará la aplicación de la sanción correspondiente.
 
 ###### ARTÍCULO 130.
 
@@ -1369,7 +1537,9 @@ En caso de que la autoridad de protección civil que corresponda, considere nece
 
 Las sanciones de carácter pecuniario se liquidarán por el infractor en la Secretaría de Hacienda u oficinas recaudadoras ubicadas en los municipios, en un plazo no mayor de quince días hábiles, contados a partir de la fecha que se hayan realizado la notificación respectiva.
 
-En todo caso su importe se considerará crédito fiscal a favor del Estado y su cobro se hará conforme a las disposiciones del Código Fiscal del Estado de Quintana Roo. Dicho ingreso será destinado en un 50% al Instituto, un 20%, en su caso, a la instancia Municipal que hubiere intervenido en la aplicación de la sanción y la diferencia quedará a disposición de la Secretaría de Hacienda la que determinará si procede incorporar dicha suma al fondo o fondos en materia de protección civil o atención de desastres.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+En todo caso su importe se considerará crédito fiscal a favor del Estado y su cobro se hará conforme a las disposiciones del Código Fiscal del Estado de Quintana Roo. Dicho ingreso será destinado en un 50% a la Coordinación Estatal, un 20%, en su caso, a la coordinación Municipal que hubiere intervenido en la aplicación de la sanción y la diferencia quedará a disposición de la Secretaría de Hacienda la que determinará si procede incorporar dicha suma al fondo o fondos en materia de protección civil o atención de desastres.
 
 ###### ARTÍCULO 132.
 
@@ -1491,7 +1661,7 @@ DIPUTADA SECRETARIA:
 
 LIC. MARÍA HADAD CASTILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2010.
 
@@ -1502,3 +1672,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 T R A N S I T O R I O
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se otorga un plazo improrrogable de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para que el Titular del Poder Ejecutivo expida la reglamentación secundaria que regule y organice las funciones y operatividad de la Coordinación Estatal.
+
+Igual término corresponderá a los Ayuntamientos de los Municipios del Estado, para el fin indicado en el párrafo que antecede respecto a las Coordinaciones Municipales.
+
+TERCERO.- Se deroga toda disposición contraria a lo previsto en el presente Decreto.
+
+CUARTO.- Los recursos humanos, financieros y materiales que en razón del Decreto de Presupuestos de Egresos del Estado de Quintana Roo, se hayan destinado al Instituto de Protección Civil del Estado de Quintana Roo, en razón del presente Decreto, se transferirán a la Coordinación Estatal, a través de la Secretaria de Gobierno.
