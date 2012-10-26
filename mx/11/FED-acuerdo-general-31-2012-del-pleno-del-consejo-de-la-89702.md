@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2012-del-pleno-del-consejo-de-la-89702"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-10-15"
-last_updated: "2012-10-15"
+last_updated: "2012-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89702&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-10-04"
 ---
 # ACUERDO GENERAL 31/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS SEPTIMO Y OCTAVO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGION, CON RESIDENCIA EN GUADALAJARA, JALISCO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 31/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS SÉPTIMO Y OCTAVO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE OCTUBRE DE 2012.</small>
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de octubre de 2012.
 
@@ -57,11 +57,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 PRIMERO. Los Tribunales Colegiados Séptimo y Octavo de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco, tendrán competencia mixta y jurisdicción en toda la República, e iniciarán funciones el dieciséis de octubre de dos mil doce y funcionarán conforme a lo establecido en el Acuerdo General 18/2008 del Pleno del Consejo de la Judicatura Federal y sus reformas, por el que se crea el Centro Auxiliar de la Tercera Región.
 
-El domicilio de los nuevos órganos jurisdiccionales será el ubicado en Avenida Patria número 1725, Colonia Agraria, Guadalajara, Jalisco, código postal 44667.
+> <small>(F. DE E., D.O.F. 26 DE OCTUBRE DE 2012)</small>
+
+El domicilio de los nuevos órganos jurisdiccionales será el ubicado en Avenida Américas número 1297, Edificio Torre Country, Colonia Providencia, código postal 44620, Guadalajara, Jalisco, pisos 3 y 7 respectivamente.
 
 SEGUNDO. Los Tribunales Colegiados Séptimo y Octavo de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco, apoyarán en el dictado de sentencias a los tribunales colegiados de Circuito que determine la Comisión de Creación de Nuevos Organos.
 
