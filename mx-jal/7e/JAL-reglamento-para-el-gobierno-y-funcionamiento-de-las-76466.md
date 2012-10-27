@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-gobierno-y-funcionamiento-de-las-76466"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-21"
-last_updated: "2010-08-21"
+last_updated: "2012-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # REGLAMENTO PARA EL GOBIERNO Y FUNCIONAMIENTO DE LAS ESCUELAS DE EDUCACION BASICA DEL ESTADO DE JALISCO
 
-REGLAMENTO PARA EL GOBIERNO Y FUNCIONAMIENTO DE LAS ESCUELAS DE EDUCACION BASICA DEL ESTADO DE JALISCO
+REGLAMENTO PARA EL GOBIERNO Y FUNCIONAMIENTO DE LAS ESCUELAS DE EDUCACIÓN BÁSICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 21 de agosto de 2010.
 
@@ -84,9 +84,11 @@ II. Contará con mecanismos efectivos de participación de la sociedad en el des
 
 III. Constituirá a la educación como el eje fundamental del desarrollo social, cultural, científico, tecnológico, económico y político en el Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 4.
 
-El incumplimiento de las disposiciones contenidas en el presente Reglamento por parte de las escuelas de Educación Básica dependientes de la Secretaría de Educación del Estado de Jalisco, será sancionado de conformidad a lo establecido en los ordenamientos legales aplicables.
+El incumplimiento de las disposiciones contenidas en el presente Reglamento por parte del personal escolar de las escuelas de Educación Básica dependientes de la Secretaría de Educación del Estado de Jalisco, será sancionado de conformidad a lo establecido en los ordenamientos legales aplicables.
 
 ### Capítulo II. De las Comunidades de Aprendizaje
 
@@ -126,21 +128,19 @@ El Director, a través del ejercicio eficaz y respetuoso de la autoridad que le 
 
 El personal escolar en cada plantel se integrará, según el caso, por los directivos, docentes y personal de apoyo y asistencia a la educación, que la estructura ocupacional autorizada y las necesidades del servicio requieran, lo anterior de conformidad con las partidas presupuesta les correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-Los puestos del personal escolar se precisarán en el Manual de Organización de la Escuela de Educación Básica que para cada nivel educativo se elabore y que deberá contener la estructura orgánica correspondiente del plantel, misma que deberá enunciar las funciones generales y las relaciones entre los órganos colegiados; las funciones generales de cada puesto, así como su descripción, la cual debe contener nombre del puesto, ubicación física y administrativa, ámbito de operación, relaciones y límites de autoridad, propósitos del puesto y responsabilidades; además de las funciones específicas para cada puesto según corresponda, en materia de:
+Los puestos del personal escolar se precisarán en el Manual de Organización de la Escuela de Educación Básica que para cada nivel educativo se elabore y que deberá contener la estructura orgánica correspondiente del plantel, misma que deberá enunciar las funciones generales y las relaciones entre los órganos colegiados; las funciones generales de cada puesto, así como su descripción, la cual debe contener nombre del puesto, ubicación física y administrativa, ámbito de operación, relaciones y límites de autoridad, propósitos del puesto y responsabilidades; además de las funciones específicas para cada puesto según corresponda, en las siguientes dimensiones:
 
-I. Desarrollo educativo;
+I. Pedagógica curricular;
 
-II. Orientación y tutoría;
+II. Administrativa;
 
-III. Asistencia educativa;
+III. Organizacional; y
 
-IV. Administración de los recursos humanos, materiales y financieros;
-
-V. Registro y certificación escolar; y
-
-VI. Supervisión y asesoría.
+IV. Comunitaria y de participación social.
 
 ###### Artículo 11.
 
@@ -670,21 +670,29 @@ La disciplina, entendida como las condiciones indispensables para el desarrollo 
 
 La disciplina escolar estará fundada en la conciencia del cumplimiento del deber y tendrá por objeto mantener la convivencia armónica entre los integrantes de la comunidad escolar; contribuirá así, al logro de los fines de la educación. Será orgánica y constructiva, y emanará de la actuación conjunta del personal escolar, padres o tutores y alumnos.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 77.
 
-Con la conducción y coordinación del Director o el equipo directivo, la comunidad escolar, integrado por alumnos, personal escolar y padres de familia o tutores, definirá sus principios y reglas de convivencia a través de la elaboración de un Reglamento Escolar Interno.
+Con la conducción y coordinación del Director o el equipo directivo, la comunidad escolar, integrada por alumnos, personal escolar y padres de familia o tutores, definirá sus principios y reglas de convivencia a través de la elaboración de un reglamento escolar interno, mismo que se realizará de acuerdo a las reglas de conducta y los lineamientos generales emitidos por la Secretaría de Educación.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 78.
 
-En el establecimiento de las reglas de convivencia, así como en los mecanismos para su observancia, se preservará, por sobre todo, el respeto a la integridad y dignidad humana de los alumnos y del personal escolar.
+En el establecimiento de los reglamentos escolares internos, así como en los mecanismos para su observancia, se preservará, por sobre todo, el respeto a la integridad y dignidad humana de los alumnos y del personal escolar.
 
 ###### Artículo 79.
 
 Las normas de convivencia específicas que se establezcan en la escuela velarán por no contravenir el derecho de los alumnos a recibir educación y a preservar el proceso educativo colectivo.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 80.
 
-Los actos de indisciplina darán lugar, con acuerdo de los padres de familia o tutores del estudiante involucrado, a la imposición de las medidas disciplinarias que correspondan por parte de la autoridad educativa competente. En los casos en que sea reiterativa la interrupción del proceso escolar por parte de un alumno o que su conducta o actitudes pongan en riesgo la seguridad física o moral de sus compañeros, éste deberá recibir ayuda especializada que le permita reubicarse adecuadamente en el ambiente escolar. En tal caso, los padres de familia o tutores se comprometerán a coadyuvar con la escuela en todo lo que este proceso implique.
+Los actos de indisciplina darán lugar, con acuerdo de los padres de familia o tutores del estudiante involucrado, a la imposición de las medidas disciplinarias que correspondan por parte de la autoridad educativa competente. En los casos en que sea reiterativa la interrupción del proceso escolar por parte de un alumno o que su conducta o actitudes pongan en riesgo la seguridad física o moral de sus compañeros o la propia, éste deberá recibir ayuda especializada, en donde exista este tipo de servicio, que le permita reubicarse adecuadamente en el ambiente escolar. En tal caso, los padres de familia o tutores se comprometerán a coadyuvar con la escuela en todo lo que este proceso implique.
+
+Cuando por el tipo de conducta realizada y de acuerdo a las reglas de conducta que para el efecto emita la Autoridad Educativa Estatal, el caso implique el traslado del alumno a otro centro escolar, tal circunstancia deberá ser previamente notificada tanto al alumno como al padre o tutor.
 
 #### Sección Sexta. De la Formación y Desarrollo Profesional
 
@@ -969,3 +977,7 @@ ING. JOSÉ ANTONIO GLORIA MORALES
 Secretario de Educación
 
 (RÚBRICA)
+
+P.O. 27 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
