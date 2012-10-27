@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2009-12-26"
+last_updated: "2012-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -5005,13 +5005,17 @@ IV.- De autos firmes;
 
 V.- De laudos arbitrales firmes;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2012)</small>
 
-VI.- De títulos ejecutivos; y
+VI.- De títulos ejecutivos;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2012)</small>
 
-VII.- De sentencias extranjeras cuya validez haya sido declarada por resolución firme conforme a este Código.
+VII.- De sentencias extranjeras cuya validez haya sido declarada por resolución firme conforme a este Código; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2012)</small>
+
+VIII. De convenios celebrados en términos de la Ley de Acceso a la Justicia Alternativa para el Estado de Tabasco.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -10032,3 +10036,7 @@ El presente decreto entrará en vigor a los 30 días siguientes al de su publica
 ###### ARTÍCULO SEGUNDO.
 
 En cuanto a los procedimientos iniciados y que se encuentren en trámite, se les podrá aplicar de oficio a todos aquellos que se hubieren iniciado con 6 meses de anterioridad a la entrada en vigor el presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
