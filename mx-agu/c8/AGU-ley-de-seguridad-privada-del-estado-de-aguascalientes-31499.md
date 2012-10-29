@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2009-08-24"
+last_updated: "2012-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2009.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE OCTUBRE DE 2012, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 142 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -189,7 +191,7 @@ g). Video vigilancia.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
-III. Anexar a la solicitud:
+III. Anexar le solicitud:
 
 a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
 
@@ -243,7 +245,7 @@ En caso de resultar procedente la expedición de la autorización, la Secretarí
 
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los limites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue es intransferible y especificará los datos generales del titular tales como nombre o razón social, en su caso, el nombre del representante del y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
 
 La vigencia de la autorización será de un año, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
@@ -431,7 +433,7 @@ X. En su caso, acatar las disposiciones establecidas en la Ley de Video Vigilanc
 
 XI. Las demás que ésta u otras leyes dispongan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 22.
 
@@ -653,7 +655,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE FEBRERO DE 2004.
 
