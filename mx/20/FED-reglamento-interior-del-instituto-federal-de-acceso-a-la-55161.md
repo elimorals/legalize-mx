@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-55161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2011-12-22"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,9 @@ REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCI
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES, PUBLICADA EN EL D.O.F. DE 5 DE JULIO DE 2010, LAS REFERENCIAS QUE CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE HACEN EN LAS LEYES, TRATADOS Y ACUERDOS INTERNACIONALES, REGLAMENTOS Y DEMÁS ORDENAMIENTOS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA, EN LO FUTURO SE ENTENDERÁN HECHAS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, PUBLICADO EN EL D.O.F. DE 29 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de mayo de 2007.
 
@@ -912,3 +914,9 @@ UNICO.- Las modificaciones al Reglamento Interior entrarán en vigor al día sig
 D.O.F. 22 DE DICIEMBRE DE 2011.
 
 UNICO. Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Federal de Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el dos de mayo de dos mil siete y sus reformas publicadas en dicho órgano con fechas ocho de abril de dos mil nueve, veintiocho de abril de dos mil once y veintidós de diciembre de dos mil once.
