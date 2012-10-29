@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2012-09-10"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -37,11 +37,13 @@ REGLAMENTO DE TRÁNSITO Y VIALIDAD
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
-
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
 Se declaran de utilidad pública, interés social y de observancia general las disposiciones de este Reglamento, el cual establece las limitaciones y restricciones para la vialidad y tránsito tanto de peatones como de vehículos, bicicletas, bicimotos y triciclos en la vía pública del Municipio y áreas o zonas privadas con acceso al público; la vigilancia y supervisión de vehículos a fin de que reúnan las condiciones y equipo previstos en este Ordenamiento; la suspensión de movimiento y estacionamiento de vehículos; la expedición, suspensión o cancelación de licencias o permisos para conducir vehículos; las medidas de auxilio, emergencia e indagatorias que en relación con el tránsito de peatones o vehículos, sean necesarias en situaciones de fuerza mayor, caso fortuito, accidentes o alteraciones del orden público; el retiro de la vía pública o de áreas o zonas privadas con acceso al público de vehículos u objetos que indebidamente obstaculicen o pongan en peligro el tránsito de peatones o vehículos y en su caso, la remisión de vehículos a los lotes autorizados; y la aplicación de las sanciones que correspondan por infracciones al presente Reglamento
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
+Las disposiciones de este reglamento se entenderán dentro de un marco de promoción, respeto, protección, y garantía a los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -3069,9 +3071,9 @@ Para garantizar la participación ciudadana en la revisión para la modificació
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
 
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial
+PRIMERO.- Las reformas al presente Reglamento entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
 
@@ -3125,8 +3127,20 @@ PRIMERO.- Las presentes reformas por modificación y adición entrarán en vigor
 
 ...
 
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial
+
+...
+
 P.O. 10 DE SEPTIEMBRE DE 2012.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 PRIMERO.- Las reformas al presente Reglamento, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las reformas al presente Reglamento entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+...
