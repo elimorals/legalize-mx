@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-crea-el-consejo-de-coordinacion-para-6356
 country: "mx"
 rank: "decreto"
 publication_date: "2008-10-13"
-last_updated: "2008-11-14"
+last_updated: "2012-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-10-09"
 ---
 # DECRETO POR EL QUE SE CREA EL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL COMO UNA INSTANCIA DE COORDINACION
 
-DECRETO POR EL QUE SE CREA EL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL COMO UNA INSTANCIA DE COORDINACION
+DECRETO POR EL QUE SE CREA EL CONSEJO DE COORDINACIÓN PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL COMO UNA INSTANCIA DE COORDINACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2012.
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de octubre de 2008.
 
@@ -195,9 +195,11 @@ VII. Promover, en el ámbito de sus respectivas competencias, la coordinación e
 
 VIII. Realizar las demás funciones que el Consejo de Coordinación acuerde.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-La Secretaría Técnica, es un Órgano Administrativo Desconcentrado de la Secretaría de Gobernación, con el carácter de instancia de seguridad nacional, con autonomía administrativa, creada para operar y ejecutar los acuerdos y determinaciones del Consejo de Coordinación; así como para coadyuvar y brindar apoyo a las autoridades locales y federales en la implementación del Sistema de Justicia Penal, cuando lo soliciten.
+La Secretaría Técnica es un Órgano Administrativo Desconcentrado de la Secretaría de Gobernación, con autonomía administrativa, creada para operar y ejecutar los acuerdos y determinaciones del Consejo de Coordinación; así como para coadyuvar y brindar apoyo a las autoridades locales y federales en la implementación del Sistema de Justicia Penal, cuando lo soliciten.
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -299,8 +301,12 @@ La contratación del personal que se requiera, se hará en forma eventual sin qu
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 14 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
