@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2010-08-02"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE OCTUBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -209,7 +211,7 @@ ARTICULO 11 A.- La relación existente entre el Estado con los elementos operati
 
 Para efectos de la regulación que hace esta ley de la relación entre las autoridades y los elementos, así como sus derechos, se consideran elementos operativos de las Corporaciones de Seguridad, a todos los pertenecientes a las Corporaciones de Seguridad a que se refiere el Artículo 7° y la Fracción II del Artículo 8° de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ARTICULO 11 B.- Las controversias que se suscitaren con motivo de las relaciones y condiciones entre el Estado o los Municipios y sus elementos, serán resueltas por las Comisiones de Honor y Justicia de acuerdo a las disposiciones de esta Ley, las disposiciones municipales aplicables y a los siguientes ordenamientos supletorios:
 
@@ -939,7 +941,7 @@ Las funciones de prevención del delito, vialidad y tránsito se regirán por lo
 
 La prevención del delito corresponde en forma coordinada al Estado y a los Municipios, cada uno con sus propios recursos en los términos de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO II. De la Secretaría de Seguridad Pública
 
@@ -947,7 +949,7 @@ La prevención del delito corresponde en forma coordinada al Estado y a los Muni
 
 ARTICULO 50 A.- La Secretaría de Seguridad Pública es la autoridad con funciones substantivas y operativas, y por ende el mando superior de éstas, a quien corresponde la organización de la defensa y prevención social contra la delincuencia, así como de la administración de los centros de reeducación social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ARTICULO 50 B.- Son atribuciones de la Secretaría las siguientes:
 
@@ -1005,7 +1007,7 @@ XIII.- Examinar y evaluar por conducto del Centro de Control y Evaluación del P
 
 XIV.- Las demás que le confieran la presente Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ARTICULO 50 C.- El titular del Poder Ejecutivo del Estado en los casos que juzgue como de fuerza mayor o alteración grave del orden público en uno o varios Municipios, por sí o por medio de la Secretaría, podrá hacerse cargo de las fuerzas de prevención del delito existentes en los Municipios mientras prevalezca la causa que originó el conflicto, o se reestablezca el orden y la tranquilidad pública.
 
@@ -1025,7 +1027,7 @@ Las Corporaciones de Prevención del Delito, con objeto de coordinar sus políti
 
 ### CAPITULO III. De la Dirección General de Seguridad Pública y Vialidad del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 51.
 
@@ -1237,7 +1239,7 @@ La obtención, el tratamiento, así como los mecanismos de acceso a las imágene
 
 ### CAPITULO III. De los Registros en Seguridad Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 71.
 
@@ -1329,69 +1331,69 @@ V.- Enlace con el C-4 para la atención de emergencias de Seguridad Pública, Pr
 
 VI.- Asistencia ciudadana para orientación y enlace con las dependencias competentes en eventos masivos.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)</small>
 
 ## TITULO QUINTO
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 80.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 81.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 82.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 83.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 84.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 85.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 86.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 87.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 88.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 89.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 90.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 91.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 92.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 93.
 
-(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
+(DEROGADO, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O. 26 DE MAYO DE 2003)
 
 ## TITULO SEXTO. DE LA PROFESIONALIZACION DEL PERSONAL DE SEGURIDAD PUBLICA
 
@@ -1649,7 +1651,7 @@ La condecoración, estímulo y recompensa al Valor, consiste en medalla, diploma
 
 La condecoración a la Perseverancia, consiste en medalla, diploma, prestación económica y reconocimiento público que se otorgará al personal que haya mantenido un expediente ejemplar y cumpla 5, 10, 15, 20, 25 y 30 años ininterrumpidos de servicio en la Institución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 106.
 
@@ -1667,7 +1669,7 @@ III.- Al Mérito Social, cuando se distinga particularmente en la prestación de
 
 Las condecoraciones referidas, consistirán en medalla, diploma, reconocimiento público y prestación económica, la cual estará sujeta a los presupuestos anuales de egresos estatales y municipales autorizados por el H. Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 107.
 
@@ -1895,7 +1897,7 @@ Las Corporaciones de Seguridad elaborarán un registro de los elementos que haya
 
 ### CAPITULO IV. De las Comisiones de Honor y Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 120.
 
@@ -1909,7 +1911,7 @@ Estará integrada como mínimo a nivel estatal por el titular de la corporación
 
 A nivel municipal su integración y el régimen de suplencias de la Comisión de Honor y Justicia será conforme al ordenamiento Municipal correspondiente pudiendo integrar alguno o algunos de los siguientes: al titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría Municipal o de la dependencia que realice esa función, por el titular del área jurídica de la corporación de seguridad pública a la que pertenezca, por un elemento sin mando de la corporación de seguridad pública a la que pertenezca el infractor o por el titular de la dependencia municipal de que se trate que controle los recursos humanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 Las Comisiones de Honor y Justicia, serán órganos competentes para:
 
@@ -1933,7 +1935,7 @@ El resto de los correctivos disciplinarios que prevea esta Ley, podrán ser impu
 
 Las Comisiones de Honor y Justicia velarán por la honorabilidad y reputación de las Corporaciones de Seguridad y sancionarán las conductas lesivas del personal que afecten a la comunidad o la Corporación. Para tal efecto gozarán de las más amplias facultades para examinar los expedientes u hojas de servicio de los elementos a fin de practicar las diligencias que le permitan allegarse de las pruebas necesarias para dictar su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ARTICULO 121 A.- Las Comisiones de Honor y Justicia, se auxiliarán para sus resoluciones, en las investigaciones de las áreas de asuntos internos, áreas que estarán a lo dispuesto por los ordenamientos estatales o municipales correspondientes en cuanto a sus funciones y a la incorporación de éstas a una dependencia en específico. Dichas áreas tendrán cuando menos las siguientes atribuciones:
 
@@ -2043,7 +2045,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 2002.
 
