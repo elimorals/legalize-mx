@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2012-02-24"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -65,7 +65,7 @@ INDICE
 
 ## ARTÍCULOS TRANSITORIOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
@@ -81,11 +81,11 @@ Disposiciones generales.
 
 El presente Reglamento es de interés público y de observancia general en el territorio del Municipio de San Pedro Garza García, Nuevo León.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 2.
 
-Es objetivo de este Reglamento establecer las bases, en los términos de la Ley de la materia, de la integración, organización y funcionamiento del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
+Es objetivo de este Reglamento establecer las bases, en los términos de la Ley de la materia, de la integración, organización y funcionamiento del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, dentro de un marco de promoción, respeto, protección, y garantía a los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### ARTÍCULO 3.
 
@@ -179,7 +179,7 @@ Calificada la elección del nuevo Ayuntamiento por las autoridades electorales c
 
 Reunidos el día y hora señalados en la convocatoria, bajo la dirección del Presidente Municipal en funciones, los integrantes del Ayuntamiento saliente y los electos, el Secretario del Republicano Ayuntamiento dará lectura a los nombres de estos últimos y encontrándose la mayoría, el Presidente Municipal saliente, declarará la existencia del quórum legal para todos los efectos de Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
@@ -419,7 +419,7 @@ Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se ce
 
 Serán extraordinarias las sesiones que se celebren cuando un asunto urgente lo requiera. Para ello, bastara la solicitud del Presidente Municipal o, de cuando menos, la mitad más uno de los miembros del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 29.
 
@@ -667,7 +667,7 @@ Los Síndicos y Regidores al momento de la votación, podrán excusarse o absten
 
 Los acuerdos sobre resoluciones del Ayuntamiento, solo podrán ser revocados observando lo dispuesto en la Ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO IV.
 
@@ -813,7 +813,7 @@ V.- De Ordenamiento e Inspección.
 
 3. Dictaminar sobre la revocación de permisos para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta, y en envase o botella cerrada
 
-3 BIS. Dictaminar los asuntos que correspondan en materia de asentamientos humanos, comercio en vía pública, mercados y panteones.
+3 BIS.- Dictaminar los asuntos que correspondan en materia de asentamientos humanos, comercio en vía pública, mercados y panteones.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
@@ -835,7 +835,7 @@ VII.- De Participación Ciudadana.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 VIII.- De Control Urbano.
 
@@ -849,7 +849,7 @@ VIII.- De Control Urbano.
 
 5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 IX.- De Seguridad Municipal.
 
@@ -1005,7 +1005,7 @@ El Presidente Municipal ordenará la publicación de los Reglamentos, sus reform
 
 Previo a todo proceso de reglamentación municipal, deberán establecerse los medios idóneos para la participación y opinión de los habitantes del Municipio de San Pedro Garza García, Nuevo León.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO VI.
 
@@ -1127,7 +1127,7 @@ LIC. ISRAEL HURTADO ACOSTA
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE DICIEMBRE DE 2006.
 
@@ -1158,5 +1158,9 @@ P.O. 1 DE NOVIEMBRE DE 2010.
 Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEON, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
 
 P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO (SIC).- Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2012.
 
 PRIMERO (SIC).- Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
