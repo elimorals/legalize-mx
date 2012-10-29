@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2012-02-13"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -47,7 +47,7 @@ CÓDIGO MUNICIPAL DE CALVILLO, AGS.
 
 Las disposiciones del presente Código son de orden público e interés general, de aplicación en todo el territorio del Municipio de Calvillo y obligatorias tanto para las mujeres y hombres que en él tengan su domicilio, como para quienes estén de paso; y reglamentarias del Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, de los artículos 66, 67, 68, 69, 70, 71 y 72 de la Constitución Política del Estado de Aguascalientes, de los artículos 1°, 89, 90, 91, 92, 93, 94 y demás relativos de la Ley Municipal del Estado de Aguascalientes, así como de las demás leyes que regulan la actividad municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 2º.
 
@@ -12751,7 +12751,7 @@ IV (SIC).- Especializados en deslinde, medición y levantamiento topográfico de
 
 V.- Perito especializado en proyectos urbanos. Que estarán capacitados y certificados para realizar estudios de planificación regional e intraurbana, de diseño de fraccionamientos, incorporación de nuevas áreas al desarrollo urbano y armonización del contexto urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 1284.
 
@@ -22059,9 +22059,11 @@ VI.- Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 
 Para los efectos de este artículo se considera reincidencia la comisión del mismo tipo de falta, por la misma persona en el periodo de un año.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2354.
 
-Son inimputables los menores de 12 años de edad, los locos, los idiotas, los imbéciles y los que sufran cualquier debilidad, enfermedad o anomalía mentales.
+Son inimputables los menores de 12 años de edad, los que padezcan trastornos mentales y del comportamiento, los enfermos del sistema nervioso y los que sufran cualquier debilidad, enfermedad o anomalía mentales.
 
 ###### Artículo 2355.
 
@@ -22149,9 +22151,11 @@ Si existiere una condena en cantidad líquida, se enviará copia de la resoluci�
 
 ## TÍTULO TERCERO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2376.
 
-Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes se aplicará una sanción de cinco a mil veces el salario mínimo independientemente de la medida de seguridad y arresto hasta por 36 horas atendiendo a la gravedad de la falta que en su caso proceda.
+Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes, se aplicará una sanción de cinco a mil veces el salario mínimo independientemente de la medida de seguridad, en caso de que la multa impuesta no fuere cubierta por el infractor en el plazo establecido, aquélla se conmutará por arresto hasta por 36 horas atendiendo a la gravedad de la falta que en su caso proceda.
 
 ### CAPÍTULO I. De las Sanciones en Materia de Faltas Cívicas
 
@@ -22207,9 +22211,11 @@ Cuando la persona molestada u ofendida sea menor de edad o anciano, persona con 
 
 Se considerará como agravante el hecho de que el infractor se encuentre en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o sustancias tóxicas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2388.
 
-Cuando el infractor cometa varias faltas, se le acumularán, las sanciones correspondientes a cada una de ellas, pero el arresto directo no podrá exceder de treinta y seis horas, y el arresto como permuta de la multa no pagada no podrá ser mayor de setenta y dos horas.
+Cuando el infractor cometa varias faltas, se le acumularán, las sanciones correspondientes a cada una de ellas, pero el arresto directo no podrá exceder de treinta y seis horas, y el arresto como permuta de la multa no pagada no podrá ser mayor de treinta y seis horas.
 
 ###### Artículo 2389.
 
@@ -23339,6 +23345,8 @@ Cuando comparezca el probable infractor ante el Juez, éste le informará del de
 
 Si el probable infractor solicita comunicarse con persona que le asista y defienda, el Juez suspenderá el procedimiento, dándole dentro del juzgado las facilidades necesarias, y le concederá un plazo que no excederá de dos horas para que se presente el defensor o persona que le asista.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2486.
 
 En caso de que el probable infractor sea menor de edad, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
@@ -23347,7 +23355,7 @@ En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la 
 
 En caso de que el menor de edad resulte responsable, el Juez lo amonestará y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
-Tratándose de las conductas previstas en los artículo (sic) 2380, 2381 y 2382se (sic) aplicarán las sanciones correspondientes.
+Tratándose de las conductas previstas en los artículos 2380 y 2381 se aplicarán las sanciones correspondientes.
 
 Si a consideración del Juez el menor se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente.
 
@@ -23371,9 +23379,11 @@ Si resulta responsable, al notificarle la resolución, el Juez le informará que
 
 ### CAPÍTULO III. De los Centros de Detención
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2491.
 
-Los centros municipales de detención preventiva, son las Instituciones donde se internan a las personas que se encuentran cumpliendo una sanción de arresto administrativo o están detenidas a disposición de alguna Autoridad Investigadora o Judicial, en espera de que se resuelva su situación jurídica legal.
+Los centros municipales de detención preventiva, son las instituciones donde se internan a las personas que se encuentran cumpliendo una sanción de arresto administrativo, quienes estarán separadas e independientes de las personas que están detenidas a disposición de alguna autoridad investigadora o judicial, en espera de que se resuelva su situación jurídica legal.
 
 ###### Artículo 2492.
 
@@ -23523,19 +23533,21 @@ Para efectos del artículo anterior, ninguna persona podrá ser internada con ci
 
 Para la identificación de los internos, se les tomará una fotografía de frente y de perfil, la cual se insertará en el expediente administrativo de ingreso al Centro de Detención Preventivo Municipal. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2511.
 
 Son derechos de los internos:
 
-I.- Ser informados del motivo y causa de la detención y a disposición de qué autoridad se encuentran o en su caso el arresto multa que se les aplicará;
+I. - Ser informados del motivo y causa de la detención y a disposición de qué autoridad se encuentran o en su caso el arresto multa que se les aplicará;
 
-II.- Ser visitados por familiares o personas de su confianza, las cuales deberán sujetarse al horario y condiciones establecidas para tal efecto. El Abogado Defensor del interno tendrá acceso en cualquier tiempo, siempre que acredite ser abogado a través de su cédula profesional y el detenido lo acepte como su abogado defensor;
+II.- Ser visitados por familiares o personas de su confianza, las cuales deberán sujetarse al horario y condiciones establecidas para tal efecto. El abogado defensor del interno tendrá acceso en cualquier tiempo, siempre que acredite ser abogado a través de su cédula profesional y el detenido lo acepte como su abogado defensor;
 
-III.- Realizar una llamada telefónica diaria en los términos del artículo 2507;
+III.- Realizar una llamada telefónica diaria en los términos del Artículo 2507;
 
 IV.- Asearse una vez al día en el área que para tal efecto se designe;
 
-V.- Recibir alimentos que le proporcionen sus familiares o personas de su confianza y si durante el transcurso de doce horas no reciba su dotación de alimentos, el Municipio proporcionará las tres raciones de alimentos diarias en la mañana, al mediodía y en la noche; y
+V.- Recibir del Municipio tres raciones diarias de alimentos, en la mañana, al mediodía y en la noche; y
 
 VI.- Recibir atención médica cuando lo requieran, incluyendo el traslado a un centro hospitalario previa autorización expresa de la autoridad competente.
 
@@ -23785,7 +23797,7 @@ Lic. Toribio Hernández López,
 
 SECRETARIO DE GOBERNACIÓN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE AGOSTO DE 2009.
 
@@ -23818,6 +23830,12 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
 
 P.O. 13 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
