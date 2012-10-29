@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-profesional-de-carrera-de-la-comision-695
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-14"
-last_updated: "2011-10-05"
+last_updated: "2012-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE OCTUBRE DE 2012.
 
 Estatuto publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 14 de julio de 2009.
 
@@ -177,7 +177,9 @@ d) Centro de Estudios;
 
 e) Unidad Jurídica y Consultiva; y
 
-f) Unidad de Información y Planeación Estratégica.
+> <small>(REFORMADO, G.G. 29 DE OCTUBRE DE 2012)</small>
+
+f) Unidad de Información, Planeación y Evaluación.
 
 Los miembros del Comité Consultivo tienen derecho a voz y voto; los titulares de la Contraloría Interna y de la Dirección de Administración únicamente a voz.
 
@@ -409,9 +411,11 @@ La formación puede impartirse por el Organismo o a través de instituciones edu
 
 ### Capítulo III. De la evaluación y promoción del personal de carrera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-La evaluación es el método mediante el cual se aprecian individual y colectivamente, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones asignadas al personal de carrera, considerando factores de calidad, eficiencia, responsabilidad y organización del trabajo, mediante indicadores diseñados por la Unidad de Información y Planeación Estratégica y tiene por objeto incentivarlo a través de:
+La evaluación es el método mediante el cual se aprecian individual y colectivamente, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones asignadas al personal de carrera, considerando factores de calidad, eficiencia, responsabilidad y organización del trabajo, mediante indicadores diseñados por la Unidad de Información, Planeación y Evaluación y tiene por objeto incentivarlo a través de:
 
 I. La titularidad del puesto;
 
@@ -610,3 +614,9 @@ Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles sigu
 Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
 
 Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
+
+G.G. 29 DE OCTUBRE DE 2012.
+
+Primero.- Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+Segundo.- Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
