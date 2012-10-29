@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2012-09-13"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-06-26"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -999,51 +1001,43 @@ XVII. Las demás que le confieran el presente Estatuto y la normatividad aplicab
 
 #### SECCION CUARTA. De la Dirección de Finanzas
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. POR DECRETO PUBLICADO EN D.O.F. DE 29 DE OCTUBRE DE 2012, SE DISPONE ADICIONAR LA FRACCIÓN II, EXCLUIR LA ANTERIOR XVIII, A EFECTO DE QUE EL ARTÍCULO COMPRENDA XXIII FRACCIONES.</small>
+
 ###### ARTICULO 58.
 
 La Dirección de Finanzas tendrá las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 2012)</small>
 
-I. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación financiera, contabilidad, tesorería, inversiones, estadística y de estudios actuariales, para lo cual tendrá a su cargo los sistemas institucionales de:
+I. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación financiera, contabilidad, tesorería, inversiones, estadística y de estudios actuariales;
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 2012)</small>
 
-a) Control y registro contable por fondos, que produzca información financiera y de costos a través de mecanismos que, en coordinación con la Dirección de Administración, permitan su vinculación con la planeación, programación y presupuestación del Instituto;
-
-b) Control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
-
-c) Recuperación de adeudos, en los términos de los artículos 21, 22 y Trigésimo Octavo Transitorio de la Ley;
-
-d) Información estadística, diseñando los instrumentos operativos y los indicadores de control de las tareas del Instituto;
-
-e) Control, registro, mantenimiento y actualización del inventario de activo fijo del Instituto;
-
-f) (DEROGADO, D.O.F. 9 DE MAYO DE 2012)
-
-g) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
+II. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información que se desarrollen para su funcionamiento;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-II. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de contabilidad, tesorería e inversiones;
+III. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de contabilidad, tesorería e inversiones;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-III. Coordinar a los cuerpos colegiados institucionales en materia de contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
+IV. Coordinar a los cuerpos colegiados institucionales en materia de contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
 
-IV. Recaudar y registrar los ingresos de cuotas, aportaciones y cuota social provenientes de las dependencias y entidades afiliadas, o de cualquier otro generado por la institución, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto, manteniendo el buen funcionamiento del sistema de recaudación de cuotas y aportaciones que serán depositadas en las Cuentas Individuales establecidas en la Ley;
+V. Recaudar y registrar los ingresos de cuotas, aportaciones y cuota social provenientes de las dependencias y entidades afiliadas, o de cualquier otro generado por la institución, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto, manteniendo el buen funcionamiento del sistema de recaudación de cuotas y aportaciones que serán depositadas en las Cuentas Individuales establecidas en la Ley;
 
-V. Diseñar, proponer y operar los esquemas que permitan incrementar los ingresos del Instituto y ampliar la cobertura de los seguros, prestaciones y servicios que brindan sus Unidades Administrativas Centrales y Desconcentradas, sometiendo a la Junta las propuestas de fondeo y bursatilización que, bajo criterios de transparencia y seguridad, resulten pertinentes;
-
-> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
-
-VI. Integrar, en el ámbito de su competencia, en coordinación con la Dirección de Administración, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
+VI. Diseñar, proponer y operar los esquemas que permitan incrementar los ingresos del Instituto y ampliar la cobertura de los seguros, prestaciones y servicios que brindan sus Unidades Administrativas Centrales y Desconcentradas, sometiendo a la Junta las propuestas de fondeo y bursatilización que, bajo criterios de transparencia y seguridad, resulten pertinentes;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-VII. Normar y operar el registro contable de los ingresos, egresos y del flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
+VII. Integrar, en el ámbito de su competencia, en coordinación con la Dirección de Administración, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
 
-VIII. Planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación, para lo cual podrá:
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+VIII. Normar y operar el registro contable de los ingresos, egresos y del flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
+
+IX. Planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación, para lo cual podrá:
 
 a) Ordenar el inicio de actos de comprobación fiscal, de conformidad con los artículos 42 y 48 del Código Fiscal de la Federación, así como los demás actos tendientes a determinar y liquidar las aportaciones de seguridad social omitidas y sus accesorios;
 
@@ -1055,13 +1049,13 @@ d) Prorrogar los plazos en que deba concluir el ejercicio de sus facultades de c
 
 e) Determinar y liquidar los créditos fiscales por concepto de aportaciones de seguridad social.
 
-IX. Normar y coordinar los procesos y acciones desarrollados por el Instituto y sus Unidades Administrativas para la cuantificación y recuperación de adeudos al Instituto, proponiendo la gestión ante la Tesorería de la Federación, en el caso de adeudos por concepto de cuotas y aportaciones, de la correspondiente retención de transferencias y participaciones a las dependencias y entidades afiliadas que así corresponda, u otras medidas previstas en la Ley;
+X. Normar y coordinar los procesos y acciones desarrollados por el Instituto y sus Unidades Administrativas para la cuantificación y recuperación de adeudos al Instituto, proponiendo la gestión ante la Tesorería de la Federación, en el caso de adeudos por concepto de cuotas y aportaciones, de la correspondiente retención de transferencias y participaciones a las dependencias y entidades afiliadas que así corresponda, u otras medidas previstas en la Ley;
 
-X. Establecer los lineamientos para constituir, incrementar y consolidar las Reservas establecidas en el artículo 234 de la Ley, elaborando y presentando anualmente a la Junta el programa correspondiente;
+XI. Establecer los lineamientos para constituir, incrementar y consolidar las Reservas establecidas en el artículo 234 de la Ley, elaborando y presentando anualmente a la Junta el programa correspondiente;
 
-XI. Diseñar y contratar las valuaciones actuariales anuales y estudios financieros para determinar la estructura de cuotas y aportaciones necesarias para cada uno de los seguros, prestaciones y servicios ofrecidos al amparo de la Ley, así como el nivel y composición de las reservas técnicas requeridas conforme a la normatividad aplicable;
+XII. Diseñar y contratar las valuaciones actuariales anuales y estudios financieros para determinar la estructura de cuotas y aportaciones necesarias para cada uno de los seguros, prestaciones y servicios ofrecidos al amparo de la Ley, así como el nivel y composición de las reservas técnicas requeridas conforme a la normatividad aplicable;
 
-XII. Operar la Unidad de Inversiones a que se refiere el artículo 244 de la Ley, con las siguientes funciones específicas:
+XIII. Operar la Unidad de Inversiones a que se refiere el artículo 244 de la Ley, con las siguientes funciones específicas:
 
 a) Proponer al Comité de Inversiones las alternativas de inversión de los recursos financieros del Instituto;
 
@@ -1077,21 +1071,19 @@ f) Custodiar e invertir las Reservas y los recursos en general que por cualquier
 
 g) Las demás que le señalen los reglamentos, lineamientos y, en su caso, acuerdos de la Junta, así como las que le encomiende el Comité de Inversiones.
 
-XIII. Atender y representar al Instituto ante las instituciones del sistema financiero y de seguros para evaluar, contratar, normar, aprobar y controlar la apertura de cuentas de todo tipo y objeto, autorizando el monto de las comisiones, sus importes y su forma de pago, así como, en su caso, las condiciones de reciprocidad;
+XIV. Atender y representar al Instituto ante las instituciones del sistema financiero y de seguros para evaluar, contratar, normar, aprobar y controlar la apertura de cuentas de todo tipo y objeto, autorizando el monto de las comisiones, sus importes y su forma de pago, así como, en su caso, las condiciones de reciprocidad;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-XIV. Integrar, en coordinación con la Dirección de Administración, la información estadística del Instituto, desarrollando un sistema de indicadores que permitan calificar, a las áreas prestadoras de servicios institucionales, la calidad de la prestación, la eficiencia financiera y la cobertura poblacional de cada área, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
+XV. Integrar, en coordinación con la Dirección de Administración, la información estadística del Instituto, desarrollando un sistema de indicadores que permitan calificar, a las áreas prestadoras de servicios institucionales, la calidad de la prestación, la eficiencia financiera y la cobertura poblacional de cada área, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-XV. Diseñar, desarrollar y administrar, en coordinación con la Dirección de Administración, la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, determinando los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
+XVI. Diseñar, desarrollar y administrar, en coordinación con la Dirección de Administración, la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, determinando los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
 
-XVI. Determinar las condiciones financieras indispensables en la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades del sector salud o del sector privado, para el aprovechamiento de la capacidad médica excedente del Instituto;
+XVII. Determinar las condiciones financieras indispensables en la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades del sector salud o del sector privado, para el aprovechamiento de la capacidad médica excedente del Instituto;
 
-XVII. Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas Centrales y Desconcentradas del Instituto, mediante los cuales se definan, promuevan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios del Instituto;
-
-XVIII. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)
+XVIII. Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas Centrales y Desconcentradas del Instituto, mediante los cuales se definan, promuevan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios del Instituto;
 
 XIX. Administrar el pago de los montos constitutivos de los seguros de riesgos del trabajo y de invalidez y vida, estableciendo en los términos de la Ley mecanismos de coordinación y pago con las entidades aseguradoras, así como procedimientos que favorezcan que el derechohabiente pensionado elija a la aseguradora que le ofrezca las mejores condiciones, previa determinación, en coordinación con la Dirección de Prestaciones Económicas, Sociales y Culturales, de los cálculos actuariales correspondientes;
 
@@ -1900,3 +1892,7 @@ TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en relación co
 D.O.F. 13 DE SEPTIEMBRE DE 2012.
 
 UNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE OCTUBRE DE 2012.
+
+UNICO.- La reforma a que se refiere este Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
