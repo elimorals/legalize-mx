@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2011-11-16"
+last_updated: "2012-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -51,9 +51,13 @@ Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en l
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento regula la estructura, atribuciones, funciones y responsabilidades de las Dependencias y su relación con los órganos Auxiliares de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+El presente Reglamento regula la estructura, atribuciones, funciones y responsabilidades de las Dependencias y su relación con los Órganos Auxiliares de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+
+Las disposiciones de este reglamento se entenderán dentro de un marco de promoción, respeto, protección, y garantía a los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### ARTÍCULO 2.
 
@@ -1565,9 +1569,9 @@ Para lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por l
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
 
-Artículo Primero. Las presentes reformas por modificación, adición y derogación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero. Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. Se Aprueba el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
 
@@ -1581,11 +1585,11 @@ Artículo Sexto. En tanto no sea reformado el capitulo QUINTO, Artículos 9 del 
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-Artículo Séptimo.- Hasta en tanto no sea reformado el Reglamento para la Protección del Medio Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, la Secretaría de Medio Ambiente y Desarrollo Sustentable, será la autoridad competente para aplicar dicho reglamento con las atribuciones conferidas a la Secretaría de Desarrollo Urbano y Ecología, hoy Secretaría de Control Urbano.
+Artículo Séptimo. Hasta en tanto no sea reformado el Reglamento para la Protección del Medio Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, la Secretaría de Medio Ambiente y Desarrollo Sustentable, será la autoridad competente para aplicar dicho reglamento con las atribuciones conferidas a la Secretaría de Desarrollo Urbano y Ecología, hoy Secretaría de Control Urbano.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-Artículo Octavo.- Hasta en tanto no sea reformado el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el municipio de San Pedro Garza García, Nuevo León, las referencias que en este citado Reglamento se hagan a la Secretaría de Servicios Administrativos, deberán entenderse hechas a la Secretaría del Republicano Ayuntamiento.
+Artículo Octavo. Hasta en tanto no sea reformado el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el municipio de San Pedro Garza García, Nuevo León, las referencias que en este citado Reglamento se hagan a la Secretaría de Servicios Administrativos, deberán entenderse hechas a la Secretaría del Republicano Ayuntamiento.
 
 De acuerdo a lo anterior, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a consideración de este Órgano Colegiado, la INICIATIVA DE REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA NUEVO LEON en los términos antes indicados, bajo el siguiente:
 
@@ -1656,3 +1660,9 @@ P.O. 16 DE NOVIEMBRE DE 2011.
 Artículo Primero.- Las presentes reformas por modificación, adición y derogación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 .
+
+P.O. 29 DE OCTUBRE DE 2012.
+
+Artículo Primero.- Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+...
