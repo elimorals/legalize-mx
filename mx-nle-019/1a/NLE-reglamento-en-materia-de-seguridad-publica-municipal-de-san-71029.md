@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2011-07-18"
+last_updated: "2012-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON -- ANTES REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON --
 
-REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -52,6 +52,10 @@ En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA
 ###### ARTÍCULO 1.
 
 El presente Reglamento es de orden público e interés social y tiene por objeto establecer las bases de la formación, organización, estructura, y funcionamiento de la Policía Preventiva, el esquema de la Policía Metropolitana, la sistematización de la información, los procesos de evaluación, el régimen laboral, la seguridad de los servidores públicos, los Consejos Ciudadanos, los Comités Comunitarios y la prevención del delito, el órgano competente para resolver los conflictos que se presenten entre el personal adscrito y la autoridad municipal, el procedimiento a seguir y los recursos procedentes dentro del sistema de seguridad municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
+Las disposiciones de este reglamento se entenderán dentro de un marco de promoción, respeto, protección, y garantía a los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### ARTÍCULO 2.
 
@@ -219,7 +223,7 @@ III. El Director General de Tránsito y Vialidad.
 
 ### CAPITULO II. ESTRUCTURA OPERATIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 12.
 
@@ -251,7 +255,7 @@ e) Policía Tercero; y
 
 f) Policía Raso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 13.
 
@@ -1525,7 +1529,9 @@ Para garantizar la participación ciudadana en la revisión para la actualizaci�
 
 T R A N S I T O R I O S
 
-Artículo Primero. Se Aprueba el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente dictamen.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2012)</small>
+
+Artículo Primero. Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. El presente Reglamento entrará en vigor 30-treinta días después del siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
@@ -1559,7 +1565,7 @@ LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MAYO DE 2010.
 
@@ -1580,3 +1586,9 @@ P.O. 18 DE JULIO DE 2011.
 Artículo Primero.- Las presentes reformas modificación y derogación al Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
+
+P.O. 29 DE OCTUBRE DE 2012.
+
+Artículo Primero. Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+...
