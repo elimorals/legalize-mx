@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2011-02-10"
+last_updated: "2012-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -431,13 +431,15 @@ La reposición se substanciará incidentalmente y sin necesidad de acuerdo previ
 
 Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 69.
 
-El Tribunal está obligado a expedir a costa de las partes, sin demora alguna, copia fotostática de los documentos o resoluciones que obren en autos, así como también los interesados podrán sacar copias del expediente valiéndose de cualquier otro medio tecnológico, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+El Tribunal está obligado a expedir a costa de las partes y personas autorizadas, sin demora alguna, copia fotostática de los documentos o resoluciones que obren en autos, así como también podrán obtener copias del expediente valiéndose de cualquier otro medio tecnológico, bastando que las partes lo soliciten verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo.
 
@@ -561,17 +563,23 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-I.- La multa hasta por las cantidades a que se refiere el artículo 86, la cual podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
+l.- La multa por la cantidad equivalente de entre 15 y 120 días de salario mínimo general vigente en el Estado;
 
-III.- El cateo por orden escrita;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+II. Doble multa en caso de reincidencia;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
 
-IV.- El arresto hasta por 36 horas.
+IV. El cateo por orden escrita;
+
+V. El arresto hasta por 36 horas;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+VI. La presentación del testigo;
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -793,9 +801,15 @@ Cuando este Código no señale términos para la práctica de algún acto judici
 
 La caducidad de la instancia es de orden público e irrenunciable y no puede ser materia de convenio. Operará de pleno derecho y el tribunal la declarará de oficio o a petición de cualquiera de las partes.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 131.
 
-La caducidad tiene por finalidad en la primera instancia dejar sin efecto el proceso pero no la acción y en la segunda convertir en firmes las resoluciones recurridas. Procederá cualquiera que sea el estado del Juicio, desde el emplazamiento hasta antes de la citación para sentencia de fondo, si han transcurrido ocho meses contados desde la notificación de la última determinación judicial sin que se hubiere impulsado el procedimiento por cualquiera de las partes.
+·La caducidad tiene por finalidad en la primera instancia dejar sin efecto el proceso pero no la acción y en la segunda convertir en firmes las resoluciones recurridas. La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta antes de la citación para oír la sentencia definitiva, cuando concurra cualquiera de las siguientes circunstancias:
+
+a) Que hayan transcurrido seis meses, contados a partir del día siguiente a aquel en que surta sus efectos la notificación de la última resolución dictada, y
+
+b) Que no hubiere promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo. Entendiéndose por meses los períodos comprendidos de treinta días.
 
 ###### Artículo 132.
 
@@ -1001,7 +1015,7 @@ a).- de las acciones de petición de herencia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgado por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -1427,7 +1441,7 @@ Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare y no h
 
 ###### Artículo 222.
 
-Con el acta de la junta a que se refieren los artículos anteriores, se iniciarán las labores del árbitro, emplazando a las partes como se determina en el título decimosexto.
+Con el acta de la junta a que se refieren los artículos anteriores, se iniciarán las labores del árbitro, emplazando a las partes como se determina en el título décimosexto.
 
 ### CAPITULO V. De los preliminares de la consignación
 
@@ -2415,9 +2429,15 @@ Cuando fuere necesario se levantarán planos o se sacarán vistas fotográficas 
 
 Todos los que tengan conocimiento de los hechos que las partes deban de probar, están obligados a declarar como testigos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 353.
 
-Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitados para hacerlo, lo manifestarán así bajo protesta de decir verdad al juez y pedirán que los cite. El juez ordenará la citación con apercibimiento de arresto hasta de quince días o multa de veinte días de salario mínimo de la zona económica, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitados para hacerlo, lo manifestarán así bajo protesta de decir verdad al juez y pedirán que los cite. El juez ordenará la citación con apercibimiento de imponer alguno de los medios de apremio señalados en las fracciones I, II, V o VI del artículo 89 de este Código, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+La prueba se declarará desierta si el testigo no es presentado por el oferente o si ejecutado los medios de apremio antes mencionados, no se logra dicha presentación. Excepto cuando sea por causa justificada.
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa hasta de veinte días de salario mínimo de la zona económica, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido.
 
@@ -7494,3 +7514,9 @@ TERCERO.- Los asuntos en materia familiar, mismos a los que hace referencia este
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
