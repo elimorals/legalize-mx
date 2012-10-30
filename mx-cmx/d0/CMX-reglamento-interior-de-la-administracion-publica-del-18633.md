@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-10-15"
+last_updated: "2012-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -58,9 +58,9 @@ Los actos y la organización de la Administración Pública, atenderán a los pr
 
 Además de los conceptos que expresamente señala el artículo 3° de la Ley Orgánica de la Administración Pública del Distrito Federal, para efectos de este Reglamento, se entiende por:
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
-I. Unidades administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias y los Órganos Político Administrativos son las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los Órganos Desconcentrados, las Direcciones Ejecutivas, las Contralorías Internas, así como cualquier otra que realice este tipo de atribuciones conforme a lo previsto en este Reglamento;
+I.- Unidades administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias y los Órganos Político Administrativos son las Subsecretarias, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal, La Unidad de Inteligencia Financiera del Distrito Federal, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los Órganos Desconcentrados, las Direcciones Ejecutivas, las Contralorías Internas, así como cualquier otra que realice este tipo de atribuciones conforme a lo previsto en este Reglamento;
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -2000,9 +2000,13 @@ I. Generar, obtener, analizar y consolidar información fiscal y patrimonial par
 
 II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga;
 
-III. Coordinar el equipo de trabajo integrado por los enlaces permanentes, así como los temporales que en su caso se requieran;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
-IV. Requerir a las unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
+III. Coordinar y establecer enlaces permanentes, así como los temporales que en su caso se requieran entre las diversas dependencias y entidades Federales y de la Administración Pública del Distrito Federal, en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, para el intercambio de información que sirvan como insumos para la elaboración de los reportes de inteligencia;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+
+IV. Requerir a las dependencias, órganos político-administrativos, órganos desconcentrados, unidades administrativas y entidades de la Administración Pública del Distrito Federal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
@@ -2088,13 +2092,29 @@ XXIII. Imponer las sanciones que correspondan por infracciones a las disposicion
 
 XXIV. Determinar y cobrar los ingresos federales coordinados, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia, así como ejercer las facultades de comprobación que las mismas establezcan, en materia de comercio exterior;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
-XXV. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Distrito Federal, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial; y
+XXV. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Distrito Federal, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial;
 
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
-XXVI. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como las que correspondan a las unidades administrativas que le sean adscritas.
+XXVI. Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público competente para el acopio de información en materia de prevención y combate a los delitos de Operaciones con Recursos de Procedencia Ilícita y Financiamiento de Ataques a la Paz Pública dentro del territorio del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+
+XXVII. Acceder a la información almacenada en las bases de datos que alberga el Sistema Nacional de Información sobre Seguridad Pública, en atención a lo establecido en el Convenio de Coordinación en el marco del Sistema Nacional de Seguridad Pública, en su cláusula vigésima primera fracción III;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+
+XXVIII. Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financiera del Distrito Federal acceda a los beneficios de los bienes asegurados, de los cuales se decrete su abandono o decomiso en coordinación con la Procuraduría General de Justicia del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+
+XXIX. Las reuniones, actas, documentos e información que se generen en la Unidad de Inteligencia Financiera del Distrito Federal, serán de carácter restringido y confidencial; y
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+
+XXX. Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -15127,3 +15147,9 @@ G.O. 15 DE OCTUBRE DE 2012.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 30 DE OCTUBRE DE 2012.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
