@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-10-15"
+last_updated: "2012-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1057,9 +1057,9 @@ II. Ejecutar los acuerdos del ayuntamiento e informar su cumplimiento;
 
 III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como ordenar la difusión de las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
 
-> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.G. 30 DE OCTUBRE DE 2012)</small>
 
-IV. Asumir la representación jurídica del Municipio;
+IV. Asumir la representación jurídica del Municipio y del ayuntamiento, así como de las dependencias de la Administración Pública Municipal, en los litigios en que este sea parte.
 
 V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
 
@@ -1121,9 +1121,11 @@ XIX. Las demás que le confieran esta Ley y otros ordenamientos.
 
 Para el cumplimiento de sus funciones, el presidente municipal se auxiliará de los demás integrantes del ayuntamiento, así como de los órganos administrativos y comisiones que esta Ley establezca.
 
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 50.
 
-El presidente asumirá la representación jurídica del ayuntamiento en los litigios, cuando el síndico esté ausente, se niegue a hacerlo o esté impedido legalmente para ello.
+El presidente asumirá la representación jurídica del ayuntamiento y de las dependencias de la Administración Pública Municipal, en los litigios en que sean parte, así como la gestión de los negocios de la hacienda municipal; facultándolo para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente pudiendo convenir en los mismos.
 
 ###### Artículo 51.
 
@@ -1159,9 +1161,11 @@ Los síndicos municipales tendrán a su cargo la procuración y defensa de los d
 
 Los síndicos tendrán las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE OCTUBRE DE 2012)</small>
 
-I. Procurar, defender y promover los derechos e intereses municipales; representar jurídicamente a los ayuntamientos, a los integrantes de los mismos y a las dependencias de la Administración Pública Municipal en los litigios en los que éstos fueren parte; así como la gestión de los negocios de la hacienda municipal, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente, pudiendo convenir en los mismos.
+I. Procurar, defender y promover los derechos e intereses municipales; representar jurídicamente a los integrantes de los ayuntamientos, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente, pudiendo convenir en los mismos.
+
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2011)</small>
 
 La representación legal de los miembros de los ayuntamientos, sólo se dará en asuntos oficiales;
 
@@ -3678,3 +3682,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
+
+G.G. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
