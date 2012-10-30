@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prestacion-del-servicio-de-guarderia-infantil-71239
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-04"
-last_updated: "2009-12-04"
+last_updated: "2012-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY PARA LA PRESTACION DEL SERVICIO DE GUARDERIA INFANTIL PARA EL ESTADO DE QUINTANA ROO
 
-LEY PARA LA PRESTACION DEL SERVICIO DE GUARDERIA INFANTIL PARA EL ESTADO DE QUINTANA ROO
+LEY PARA LA PRESTACIÓN DEL SERVICIO DE GUARDERÍA INFANTIL PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 30 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 4 de diciembre de 2009.
 
@@ -596,3 +598,21 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. CORA AMALIA CASTILLA MADRID
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley para la Prestación del Servicio de Guardería Infantil para el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado el 4 de diciembre del 2009.
+
+Tercero. Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, que se encuentren operando con anterioridad a la entrada en vigor de esta ley y que no cuenten con la licencia a que se refiere esta Ley, contarán, con un plazo de un año contado a partir de la entrada en vigor del presente decreto para el efecto de obtenerla y adecuar los Centros de Atención y su normatividad interna con base en lo dispuesto en la presente ley.
+
+Cuarto. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo no mayor de noventa días, contados a partir de la entrada en vigor del presente decreto.
+
+Quinto. El Consejo a que se refiere esta Ley deberá instalarse dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto y expedir su reglamento en un plazo que no exceda de noventa días después de su instalación.
+
+Sexto. El Registro Estatal a que se refiere el capítulo V deberá estar integrado en un plazo no mayor de treinta días, una vez fenecido el término previsto en el artículo tercero transitorio, para el efecto de que se remita su información al Registro Nacional.
+
+Séptimo. Los Municipios deberán emitir o adecuar sus disposiciones jurídicas para el debido cumplimiento de lo dispuesto en el presente decreto, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
