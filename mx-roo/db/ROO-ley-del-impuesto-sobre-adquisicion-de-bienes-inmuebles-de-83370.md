@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2011-10-14"
+last_updated: "2012-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
+LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -83,7 +81,7 @@ e) La transmisión de la propiedad de bienes inmuebles, que realice el fideicomi
 
 f) La transmisión de la propiedad de bienes inmuebles, que haga la fiduciaria en cumplimiento del fideicomiso;
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
 g) La cesión de derechos de fideicomitentes o fideicomisarios, se considerará que exista ésta, cuando haya sustitución de un fideicomitente o de un fideicomisario, por cualquier motivo;
 
@@ -105,9 +103,9 @@ No se pagará el impuesto establecido en el artículo 5 de ésta ley en las adqu
 
 Será base de este impuesto el valor del inmueble que resulte más alto entre:
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-I.- El valor de la adquisición o precio pactado, actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición;
+I.- El valor de la adquisición o precio pactado; éste será actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición;
 
 II.- El avalúo catastral con una antigüedad no mayor de 180 días a la fecha de adquisición; o
 
@@ -157,9 +155,9 @@ V.- Ubicación y nomenclatura del bien inmueble.
 
 VI.- Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente.
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-VII.- Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+VII.- Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo;
 
 Tratándose de unidades privativas pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo, podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos.
 
@@ -224,3 +222,9 @@ EL SECRETARIO ESTATAL DE HACIENDA
 DEL ESTADO DE QUINTANA ROO.
 
 JOSÉ MAURICIO GÓNGORA ESCALANTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
