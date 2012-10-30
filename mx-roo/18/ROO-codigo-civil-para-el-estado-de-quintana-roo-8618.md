@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2011-12-16"
+last_updated: "2012-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4681,6 +4681,18 @@ El concubinario y la concubina también están obligados, en igual forma que los
 
 Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por cualquiera de ambas líneas que estuvieren más próximos en grado.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+Los hijos al adquirir la mayoría de edad tendrán derecho a recibir los alimentos siempre y cuando estén estudiando con la finalidad de adquirir un oficio, arte o profesión, pero lo será hasta la conclusión de los estudios correspondientes, cuando los lleven a cabo sin interrupción y no rebasen los 25 años de edad, salvo que no sean concluidos por causa suficiente que lo justifique.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+Cesará la obligación alimentaria del deudor si el hijo mayor de edad se encuentra cursando estudios acordes a su edad, pero no vive honestamente, contrae matrimonio, vive en concubinato o le sobreviene un hijo producto de una relación consensuada.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+En caso de que el acreedor alimentista, se encuentre imposibilitado para adquirir por sus propios medios algún trabajo con motivo de ser una persona con discapacidad o enfermo terminal, tendrá derecho a recibir los alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia, previa valoración que haga el juez respecto de las condiciones especiales, tanto del acreedor como del deudor alimentario.
+
 ###### Artículo 840.
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
@@ -4701,17 +4713,15 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 La obligación de darse alimentos la tienen el adoptante y el adoptado en los casos en que la tienen el padre y el hijo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 845.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, así como los gastos que generen el embarazo y el parto. Respecto de los alimentistas comprenden además, los gastos necesarios para su preparación académica y para proporcionarle algún oficio, arte o profesión honesta y adecuada a su sexo y circunstancias personales, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. En el caso de la cónyuge o concubina comprenderá los gastos que generen el embarazo y el parto. En el caso de los menores de edad comprenderá además los gastos necesarios para su preparación académica y para proporcionarle algún oficio, arte o profesión honesta y adecuada a sus circunstancias personales, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión. Para el caso de que el acreedor alimentista cumpla la mayoría de edad, se estará a lo dispuesto en el artículo 839 segundo párrafo.
 
-En caso de que el alimentista, se encuentre imposibilitado para adquirir algún oficio, arte o profesión y en su caso, desempeñar un trabajo, con motivo de sufrir una discapacidad o enfermedad, tendrá derecho a recibir de sus acreedores, alimentos con una duración vitalicia.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
-
-Artículo 845 BIS.-Toda persona que tenga conocimiento sobre la necesidad de otro de recibir alimentos y pueda aportar los datos de quiénes estén obligados a proporcionarlos, podrá solicitar Únicamente la intervención del Ministerio Público o el Juez de lo Familiar de manera indistinta, a efecto de que dichos funcionarios, en uso de sus facultades resuelvan lo que en derecho corresponda.
+Artículo 845 BIS.- Toda persona que tenga conocimiento sobre la necesidad de otro a recibir alimentos y pueda aportar los datos de quienes estén obligados a proporcionarlos, podrá solicitar únicamente la intervención del Ministerio Publico, de la Procuraduría adscrita al Sistema para el Desarrollo Integral de la Familia o el Juez de lo Familiar de manera indistinta, a efecto de que dichos funcionarios, en uso de sus facultades resuelvan lo que en derecho corresponda, pudiendo incluso los jueces actuar en uso de las atribuciones que al efecto le fue instituido en los artículos 880 y 881 del Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 846.
 
@@ -4733,13 +4743,13 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 
 Determinados por convenio o sentencia, de manera exclusiva las alimentos que haya sido fijado como base para su cuantificación, un porcentaje determinado, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción, en este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en las sentencias o convenio correspondiente.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-Artículo 849 BIS.- Los menores, las personas con capacidades diferentes, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+Artículo 849 BIS.- Los menores, las personas con alguna discapacidad que le impida adquirir por sus propios medios algún trabajo, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar gozan de la presunción de necesitar alimentos. Salvo que se demuestre lo contrario.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
-Artículo 849 TER.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan ·llevado en los dos últimos años.
+Artículo 849 TER.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez de lo familiar resolverá en la definitiva con base en su capacidad económica de riqueza o la capacidad para desempeñar algún trabajo y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años. En el caso de no contar con los elementos necesarios para fijar objetivamente el monto de la pensión, conforme a los artículos 880, 881 y 882 del Código de Procedimientos Civiles para el Estado, están obligados a recabar oficiosamente los elementos que le permitan establecer los estatus antes citados, y una vez hecho lo anterior, realizar un estimado del ingreso mensual del deudor alimentario, respecto del cual fijará un porcentaje como monto de la pensión alimenticia, al resolver el fondo del asunto.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
 
@@ -4753,9 +4763,11 @@ Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad pa
 
 Si sólo algunos tuvieren esa posibilidad, entre ellos se repartirán el importe de los alimentos, y si sólo uno la tuviere él cumplirá únicamente la obligación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 852.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
+Tienen acción para pedir los alimentos, así como su aseguramiento:
 
 I.- El acreedor alimentario;
 
@@ -4766,6 +4778,10 @@ III.- El tutor;
 IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
 V.- El Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+VI.- La Procuraduría adscrita al Sistema para el Desarrollo Integral de la Familia, de acuerdo a las facultades establecidas en la Ley Orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
 ###### Artículo 853.
 
@@ -4779,7 +4795,9 @@ El derecho de recibir alimentos no es renunciable ni puede ser objeto de transac
 
 Cesa la obligación de dar alimentos:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+I.- Cuando el que la tiene le sobrevenga alguna incapacidad física o mental que le impida cumplir con la obligación alimentaria o carezca de medios para cumplirla;
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
@@ -4789,7 +4807,9 @@ III.- En caso de violencia familiar, injuria, falta o daños graves inferidos in
 
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsisten estas causas; y
 
-V.- Cuando el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+V.- Cuando el alimentista mayor de edad, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
 ###### Artículo 856.
 
@@ -4807,9 +4827,11 @@ Para la fijación, el aseguramiento y el pago de las pensiones alimenticias, el 
 
 En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse cuando cambien las circunstancias de la situación de hecho que las determinaron.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 860.
 
-Los alimentos deberán asegurarse mediante hipoteca, prenda, fianza o depósito de cantidad bastante para cubrirlos, secuestro de bienes o frutos, títulos de crédito avalados o garantizados en cualquiera otra de las formas legales, y embargo de sueldos, salarios, participaciones y comisiones, debiéndose elegir el que en cada caso resulte más adecuado.
+Los alimentos deberán asegurarse mediante hipoteca; prenda; fideicomiso o fianza para cubrirlos de cuando menos un año; secuestro de bienes o frutos; títulos de crédito avalados por persona solvente; embargo de sueldos, salarios, participaciones o comisiones; y depósito en efectivo ante el Fondo de Mejoramiento de la Administración de Justicia; debiéndose elegir el que en cada caso resulte más adecuado.
 
 ###### Artículo 861.
 
@@ -4827,9 +4849,11 @@ Los patrones, administradores, gerentes de empresas, directores y jefes de ofici
 
 Las personas a que se refiere el artículo anterior responderán, además, solidariamente con los obligados directos, de los daños y perjuicios que causen al alimentista por sus informes falsos o por sus omisiones.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 865.
 
-Incurren en las mismas sanciones establecidas en los dos artículos anteriores, quienes se resistan a acatar las correspondientes órdenes judiciales de descuento, o auxilien al obligado a ocultar, o disimular sus bienes o a eludir de cualquier otro modo el cumplimiento de las obligaciones alimenticias.
+Incurren en las mismas sanciones establecidas en los dos artículos anteriores, quienes se resistan a acatar en tiempo y forma las correspondientes órdenes judiciales de descuento, que deben depositarse ante el fondo de mejoramiento de administración de justicia del poder judicial, o auxilien al obligado a ocultar, o a disimular sus bienes o a eludir de cualquier otro modo el cumplimiento de las obligaciones alimenticias.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -17406,3 +17430,9 @@ T R A N S I T O R I O:
 P.O. 16 DE DICIEMBRE DE 2011.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
+
+P.O. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
