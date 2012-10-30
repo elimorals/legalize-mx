@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-10-15"
+last_updated: "2012-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -185,7 +185,9 @@ VIII. OCTAVO CIRCUITO:
 
 1. Cinco tribunales colegiados especializados: uno en materias civil y de trabajo y dos en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
 
-2. Dos tribunales unitarios con sede en Torreón.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 34/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2012)</small>
+
+2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 2012)</small>
 
@@ -417,7 +419,9 @@ VIII. OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en T
 
 En cuanto a los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con sedes en Saltillo, Piedras Negras y Monclova.
 
-En relación con los tribunales unitarios con residencia en Torreón, su jurisdicción será igual a la establecida para los Juzgados de Distrito en La Laguna, con sede en Torreón, así como para los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, Piedras Negras y Monclova.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 34/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2012)</small>
+
+En relación con los tribunales unitarios con residencia en Torreón, su jurisdicción será igual a la establecida para los Juzgados de Distrito en La Laguna, con sede en Torreón y para el tribunal unitario con residencia en Saltillo, su jurisdicción será igual a la establecida para los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, Piedras Negras y Monclova.
 
 IX. NOVENO CIRCUITO: Estado de San Luis Potosí.
 
@@ -856,3 +860,11 @@ SEPTIMO. La Secretaría Ejecutiva de Administración, instrumentará la divisió
 La propia Comisión de Administración determinará la creación de una nueva Unidad de Notificadores Común, su denominación y personal que la integrará.
 
 OCTAVO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar con la debida oportunidad, el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 30 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
