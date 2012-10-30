@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2012-06-20"
+last_updated: "2012-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -730,6 +730,10 @@ v) Revocar el carácter de apoderado jurídico que esta ley le otorga al Síndic
 En este caso, el carácter de Apoderado Jurídico recaerá en otro miembro del Ayuntamiento que el mismo designe;
 
 w) Desistirse de las acciones promovidas por el Síndico cuando a juicio del Ayuntamiento lo estime conveniente.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+x) Promover el desarrollo del personal, estableciendo los términos y condiciones para crear y asegurar la permanencia del Servicio Público de Carrera Municipal, de conformidad con lo previsto por esta Ley y la Ley del Servicio Público de Carrera del Estado de Quintana Roo.
 
 II. En materia de Obras Públicas y Desarrollo Urbano:
 
@@ -1623,17 +1627,97 @@ El Presidente Municipal podrá celebrar convenios con las dependencias estatales
 
 ### Capítulo VI. De las Relaciones Laborales
 
-### Capítulo I. De los Actos Administrativos
+### Capítulo VII. Del Servicio Público de Carrera Municipal
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 138.
 
 Las relaciones de trabajo de los Municipios y sus empleados, se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, el Reglamento de Condiciones Generales del Trabajo y la normatividad laboral federal de aplicación supletoria.
 
-### Capítulo II. Del Procedimiento Administrativo
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+### Capítulo I. De los Actos Administrativos
+
+###### ARTÍCULO 138
+
+BIS.- Los Municipios institucionalizarán el servicio público de carrera municipal, el cual tendrá los siguientes propósitos:
+
+I. Garantizar la estabilidad y seguridad en el empleo;
+
+II. Fomentar, alentar y alcanzar la vocación de servicio, mediante una motivación adecuada;
+
+III. Promover la capacitación permanente del personal;
+
+IV. Procurar la lealtad a las instituciones del Municipio;
+
+V. Promover la eficiencia y eficacia de los servidores públicos municipales;
+
+VI. Mejorar la calidad en la prestación del servicio público;
+
+VII. Dar continuidad a los planes, programas y demás acciones de gobierno que inciden en la ciudadanía;
+
+VIII. Reconocer, estimular y recompensar la labor de los servidores públicos mediante incentivos;
+
+IX. Promover un desempeño responsable de los servidores públicos de carrera municipal;
+
+X. Reconocer las carreras administrativas y técnicas que los servidores públicos desarrollan dentro del sector público de acuerdo a la capacidad y competitividad del servidor público de carrera municipal;
+
+XI. Asegurar un desempeño de calidad y compromiso por parte de los servidores públicos de carrera, a partir de su profesionalización y adecuado desempeño;
+
+XII. Fomentar el desarrollo institucional a través del desempeño eficaz y eficiente del servidor público de carrera en el cumplimiento de sus responsabilidades;
+
+XIII. Alentar el desarrollo integral de cada servidor público de carrera, reivindicando valores humanistas y principios de actuación en el servicio público, buscando cohesionar el proyecto de un buen gobierno con el proyecto de vida de sus servidores públicos;
+
+XIV. Institucionalizar la capacitación administrativa, técnica y de servicio, mediante la cual los servidores públicos de carrera puedan desarrollarse e ir ascendiendo por el esfuerzo personal en su desempeño y profesionalización;
+
+XV. Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos;
+
+XVI. Mejorar permanentemente la imagen del servicio público y del servidor público; y
+
+XVII. Las demás, que señale la Ley del Servicio Público de Carrera del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 138
+
+TER. Para el cumplimiento de los propósitos señalados en el artículo anterior, los Municipios por medio del Comité Técnico que señala el artículo 19 de la Ley del Servicio Público de Carrera del Estado de Quintana Roo, coadyuvarán activamente en la elaboración de:
+
+l. El catálogo que defina los perfiles, niveles y puntuación de los puestos comprendidos en el Sistema del Servicio Público de Carrera;
+
+II. Un estatuto del personal;
+
+III. Un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal;
+
+IV. Un sistema de plan de salarios y tabulador de puestos;
+
+V. Un sistema de capacitación, actualización y desarrollo de personal; y
+
+VI. Las demás, que señale la Ley del Servicio Público de Carrera del Estado de Quintana Roo.
+
+El Servicio Público de Carrera Municipal, se implementará, en estricto apego a los derechos de los trabajadores.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 138
+
+QUÁTER.- El Comité Técnico que señala el artículo 19 de la Ley del Servicio Público de Carrera del Estado de Quintana Roo, encargado de la operación e implementación del servicio público de carrera municipal, además de las atribuciones conferidas en la Ley del Servicio Público de Carrera del Estado de Quintana Roo, tendrá las siguientes funciones:
+
+l. Promover ante las dependencias y unidades de la administración pública municipal, la realización de los programas específicos del servicio público de carrera municipal;
+
+II. Promover mecanismos de coordinación y participación permanente entre las dependencias y unidades de la administración pública municipal, para uniformar y sistematizar los métodos encaminados a instrumentar el servicio público de carrera municipal;
+
+III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del servicio público de carrera municipal;
+
+IV. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio público de carrera municipal, con los instrumentos del plan de desarrollo municipal;
+
+V. Evaluar periódicamente los resultados de las acciones orientadas a la Instrumentación del servicio público de carrera municipal; y
+
+VI. Las demás, que señale la Ley del Servicio Público de Carrera del Estado de Quintana Roo.
 
 ## Título Décimo. Actos Administrativos
 
-### Capítulo III. De las Visitas de Verificación
+### Capítulo II. Del Procedimiento Administrativo
 
 ###### ARTÍCULO 139.
 
@@ -1689,7 +1773,7 @@ V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo ben
 
 VI. Por revocación.
 
-### Capítulo IV. De las Sanciones Administrativas
+### Capítulo III. De las Visitas de Verificación
 
 ###### ARTÍCULO 143.
 
@@ -1761,7 +1845,7 @@ IV. La declaración de caducidad; y
 
 V. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción, y tengan por objeto satisfacer el interés público.
 
-### Capítulo V. Del Recurso de Revisión
+### Capítulo IV. De las Sanciones Administrativas
 
 ###### ARTÍCULO 155.
 
@@ -1771,7 +1855,7 @@ Las autoridades administrativas municipales, para comprobar el cumplimiento de l
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
-### Capítulo I. De los Servicios Públicos
+### Capítulo V. Del Recurso de Revisión
 
 ###### ARTÍCULO 157.
 
@@ -1787,7 +1871,7 @@ IV. Clausura temporal o permanente, parcial o total; y
 
 V. Las demás que se señalen en los reglamentos respectivos.
 
-### Capítulo II. De la Municipalización
+### Capítulo I. De los Servicios Públicos
 
 ###### ARTÍCULO 158.
 
@@ -1895,7 +1979,7 @@ VI. En los demás casos en que la improcedencia resulte de alguna disposición d
 
 ## Título Undécimo. De los Servicios Públicos Municipales
 
-### Capítulo III. De las Concesiones
+### Capítulo II. De la Municipalización
 
 ###### ARTÍCULO 168.
 
@@ -1967,7 +2051,7 @@ IV. Mediante convenios de coordinación y asociación que suscriba con el Ejecut
 
 La prestación de los Servicios Públicos Municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría Municipal.
 
-### Capítulo IV. De los Convenios de Prestación de Servicios entre el Municipio y el Estado
+### Capítulo III. De las Concesiones
 
 ###### ARTÍCULO 174.
 
@@ -1983,7 +2067,7 @@ El procedimiento de Municipalización se llevará a cabo mediante iniciativa del
 
 Una vez decretada la Municipalización del servicio, si el Ayuntamiento carece de recursos para prestarlo, podrá concesionarlo conforme a lo establecido en el siguiente capítulo y lo que se establezca en los bandos y reglamentos respectivos.
 
-### Capítulo Único. De la Coordinación y Asociación de los Municipios
+### Capítulo IV. De los Convenios de Prestación de Servicios entre el Municipio y el Estado
 
 ###### ARTÍCULO 177.
 
@@ -2163,7 +2247,7 @@ A petición formulada por los concesionarios antes de que expire el plazo de la 
 
 No serán objeto de concesión los Servicios de Seguridad Pública y Policía Preventiva y Tránsito.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único. De la Coordinación y Asociación de los Municipios
 
 ###### ARTÍCULO 192.
 
@@ -2201,7 +2285,7 @@ IV. En la declaratoria de la Legislatura, se determinarán las circunstancias, m
 
 ## Título Duodécimo. Coordinación y Asociación de los Municipios
 
-### Capítulo II. Del Consejo Consultivo
+### Capítulo I. Disposiciones Generales
 
 ###### ARTÍCULO 195.
 
@@ -2215,7 +2299,7 @@ En todo caso, para asegurar la continuidad de los servicios y de las funciones p
 
 ## Título Décimo Tercero. Formas de Participación Ciudadana
 
-### Capítulo III. De los Comités de Participación Ciudadana
+### Capítulo II. Del Consejo Consultivo
 
 ###### ARTÍCULO 197.
 
@@ -2245,7 +2329,7 @@ Los ciudadanos quintanarroenses podrán participar organizadamente en el anális
 
 Pueden participar, como personas físicas o morales, en el campo de lo social, económico, político, cultural, cívico, educativo y en cualquier otro que sea legal y provechoso para la comunidad.
 
-### Capítulo IV. De los Comités de Vecinos
+### Capítulo III. De los Comités de Participación Ciudadana
 
 ###### ARTÍCULO 201.
 
@@ -2295,7 +2379,7 @@ III. Cuando reciban algún nombramiento para un cargo público, sea o no de elec
 
 IV. Cuando por razones de falta de probidad, ameriten ser relevados del cargo.
 
-### Capítulo V. De las Consultas Públicas
+### Capítulo IV. De los Comités de Vecinos
 
 ###### ARTÍCULO 207.
 
@@ -2337,7 +2421,7 @@ En el convenio deberán especificarse, el origen y la forma de distribución del
 
 Cuando la materia del convenio se relacione con el Servicio de Seguridad Pública, el Comité se integrará con un mínimo de ocho miembros y contará, además del Presidente, con un Secretario que lleve un control documental de las acciones del Comité en estos casos. El Gobierno Municipal designará un representante con conocimientos y experiencia en materia de seguridad pública que vincule al Comité con el Ayuntamiento.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo V. De las Consultas Públicas
 
 ###### ARTÍCULO 214.
 
@@ -2359,7 +2443,7 @@ Los Comités de Vecinos tendrán como una de sus funciones primordiales, el cont
 
 Los Comités de Vecinos tendrán, así mismo, la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y, en general, cualquier desastre que afecte la vida comunitaria.
 
-### Capítulo I. De la Hacienda Pública Municipal
+### Capítulo Único. Disposiciones Generales
 
 ###### ARTÍCULO 219.
 
@@ -2373,7 +2457,7 @@ Los Ayuntamientos deberán reglamentar las bases, mecanismos y formas apropiadas
 
 ## Título Décimo Cuarto. Reglamentación Municipal
 
-### Capítulo II. Del Patrimonio Municipal
+### Capítulo I. De la Hacienda Pública Municipal
 
 ###### ARTÍCULO 221.
 
@@ -2429,7 +2513,7 @@ Las Circulares y Disposiciones Administrativas de observancia general que expida
 
 ## Título Décimo Quinto. De la Hacienda Pública y Patrimonio Municipal
 
-### Capítulo I. Disposiciones Generales
+### Capítulo II. Del Patrimonio Municipal
 
 ###### ARTÍCULO 229.
 
@@ -2515,7 +2599,7 @@ Los Presupuestos de Ingresos y Egresos deberán ser aprobados por mayoría simpl
 
 Los Municipios del Estado de Quintana Roo percibirán los ingresos, cuyos aspectos sustantivos se regulan en esta Ley, y de acuerdo con las tasas y tarifas que señalan las Leyes de Ingresos y de Hacienda Municipal.
 
-### Capítulo II. Del Procedimiento para Nombrar al Cronista de la Ciudad
+### Capítulo I. Disposiciones Generales
 
 ###### ARTÍCULO 237.
 
@@ -2567,7 +2651,7 @@ En todo lo no previsto en el presente Capítulo, se aplicará lo dispuesto por l
 
 ## Título Décimo Sexto. Del Cronista de la Ciudad
 
-### Capítulo III. De las Facultades, Obligaciones y Derechos del Cronista de la Ciudad
+### Capítulo II. Del Procedimiento para Nombrar al Cronista de la Ciudad
 
 ###### ARTÍCULO 242.
 
@@ -2620,6 +2704,8 @@ II. Por el incumplimiento de sus obligaciones;
 III. Por desavecindarse del Municipio por más de seis meses consecutivos; o
 
 IV. Por renuncia.
+
+### Capítulo III. De las Facultades, Obligaciones y Derechos del Cronista de la Ciudad
 
 ###### ARTÍCULO 247.
 
@@ -2880,3 +2966,13 @@ Para los efectos de coordinación con las entidades, se considerarán derechos, 
 También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 SEXTO.- Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+P.O. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los Ayuntamientos deberán expedir a más tardar dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto sus Reglamentos respectivos en materia de Servicio Público de Carrera.
+
+TERCERO.- Los Ayuntamientos que cuentan con Reglamento en la materia, deberán adecuarlos a las disposiciones legales establecidas en el presente Decreto a más tardar dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
