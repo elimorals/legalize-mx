@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-auditoria-superior-del-estado-18803"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-18"
-last_updated: "2000-12-18"
+last_updated: "2012-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 18 de diciembre de 2000.
 
@@ -708,3 +710,17 @@ Segundo.- Se derogan todas las disposiciones administrativas y reglamentarias en
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche, Campeche, a los catorce días del mes de diciembre del año dos mil.
 
 C. Enrique Ariel Escalante Arceo, Diputado Presidente.- C. Celso Vera Talango, Diputado Secretario.- C. Ana Laura Alayola Vargas, Diputada Secretaria.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Campeche, publicado en el Periódico Oficial del Estado de Campeche el 18 de diciembre de 2000, el Acuerdo por el que se Determina el Personal que Efectuará las Notificaciones de las Actuaciones y Resoluciones de la Auditoría Superior del Estado, publicado en el Periódico Oficial del Estado de Campeche el 20 de octubre de 2005 y el 16 de noviembre de 2005 y el Acuerdo por el que se Determina el Área que Fungirá como Unidad de Acceso a la Información de la Auditoría Superior del Estado, y el Procedimiento conforme al cual será Proporcionado a los Interesados el Derecho a la Información Pública, publicado en el Periódico Oficial del Estado de Campeche el 19 de enero de 2006 y la correspondiente fe de erratas del 11 de agosto de 2006.
+
+TERCERO.- Los procedimientos para el fincamiento de las responsabilidades resarcitorias iniciados con anterioridad a la entrada en vigor del presente Reglamento y que se encuentren en trámite o en proceso, continuarán siendo instruidos de acuerdo con las disposiciones del reglamento que se abroga.
+
+CUARTO.- Los revisiones o auditorías y su seguimiento que, a la entrada en vigor del presente Reglamento, hayan iniciado las Auditorías Especiales, así como los demás asuntos que se encuentren en trámite en éstas, los continuarán las Direcciones de Auditoría, de conformidad con las disposiciones que se abrogan. Asimismo, darán seguimiento a las recomendaciones y acciones promovidas que se encuentran en trámite de acuerdo con lo expuesto anteriormente.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado el Área de Archivo, Informes y Control de Resultados, los continuará la Unidad de Archivo, Acceso a la Información y Seguimiento de Actividades de conformidad con las disposiciones que se abrogan.
