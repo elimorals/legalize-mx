@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2012-09-07"
+last_updated: "2012-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5483,7 +5483,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5601,7 +5601,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -6043,7 +6043,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -11501,7 +11501,9 @@ a) De Desarrollo Urbano y Obras Públicas; y
 
 b) De Ecología y Medio Ambiente.
 
-VI. Un vocal propietario con voz pero sin voto que será representante de cada uno de los siguientes Consejos de Participación Ciudadana:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2012)</small>
+
+VI. Un vocal propietario con voz y voto que será representante de cada uno de los siguientes Consejos de Participación Ciudadana:
 
 a) De Desarrollo Urbano;
 
@@ -24469,7 +24471,7 @@ Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal
 
 Si el servicio se presta en vehículos que no cumplan con los requisitos higienico-sanitarios dispuestos en la normatividad aplicable, los inspectores municipales decomisarán el producto cárnico y subproductos de origen animal, sin perjuicio de imponer las demás sanciones que procedan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LOS USUARIOS DEL RASTRO
 
@@ -27447,7 +27449,7 @@ I. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2012)
 
 II. Apercibimiento;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Multa de 20 a 3000 mil días de salario mínimo vigente en el Estado:
 
@@ -31161,7 +31163,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y qu ereditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -31399,7 +31401,7 @@ XV. Tendrá facultades excepcionalmente, para revocar el fallo que se dicte en u
 
 XVI. Vigilar que la función de Box o Lucha Libre se desarrolle de acuerdo con el programa anunciado y autorizado por parte de la Comisión, en caso de existir cambio de algún luchador o boxeador, éste deberá ser sustituido por otro de igual peso y categoría debiéndolo anunciar al público asistente al inicio de la función.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LAS EMPRESAS
 
@@ -32629,7 +32631,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estanbdo obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -32863,7 +32865,7 @@ Si el retador a un título es quien se encuentre excedido de peso, el encuentro 
 
 ###### Artículo 2226 Bis.
 
-En caso de que el Campeón hubiere perdido el título en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
+En caso de que el Campeón hubiere perdido el titulo en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32925,7 +32927,7 @@ DE LOS CAMPEONATOS NACIONALES Y MUNDIALES DE LUCHA LIBRE
 
 ###### Artículo 2235.
 
-Como un estimulo para los luchadores, se constituye en el Municipio, el título de Campeón Estatal de Lucha Libre profesional para cada una de las ocho divisiones que señala el artículo 2198 del presente Capítulo.
+Como un estímulo para los luchadores, se constituye en el Municipio, el título de Campeón Estatal de Lucha Libre profesional para cada una de las ocho divisiones que señala el Artículo 2198 del presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -34854,6 +34856,12 @@ P.O. 7 DE SEPTIEMBRE DE 2012.
 ACUERDO POR EL QUE SE REFORMAN LA FRACCIÓN V AL ARTÍCULO 1714; LA FRACCIÓN I AL ARTÍCULO 1796; EL ARTÍCULO 1811; LA FRACCIÓN II AL ARTÍCULO 1814; EL SEGUNDO PÁRRAFO, LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN I AL ARTÍCULO 1815; EL ARTÍCULO 1817; EL ARTÍCULO 1818; EL PRIMER PÁRRAFO AL ARTÍCULO 1821; Y EL NUMERAL 9 DE LA FRACCIÓN III AL ARTÍCULO 1821; SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 1796 Y SE DEROGAN LA FRACCIÓN V AL ARTÍCULO 1815, LA FRACCIÓN I AL ARTÍCULO 1821.
 
 ÚNICO.- La presente reforma del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 31 DE OCTUBRE DE 2012.
+
+PRIMERO.- La presente reforma del primer párrafo de la fracción VI del artículo 670 del Libro Tercero denominado Acciones Urbanísticas y Edificaciones en el Municipio de Puebla, Título Único denominado Control del Desarrollo Urbano Sustentable, Capítulo 17 Construcciones del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Los efectos de la reforma del primer párrafo de la fracción VI del artículo 670 del Libro Tercero denominado Acciones Urbanísticas y Edificaciones en el Municipio de Puebla, Título Único denominado Control del Desarrollo Urbano Sustentable, Capítulo 17 Construcciones del Código Reglamentario para el Municipio de Puebla, entrarán en vigor hasta que concluya el periodo de los representantes que integren la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, al momento de la publicación en el Periódico Oficial del Estado de Puebla.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
