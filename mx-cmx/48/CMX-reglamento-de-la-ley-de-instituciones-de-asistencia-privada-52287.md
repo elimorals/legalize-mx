@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-instituciones-de-asistencia-privada-522
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2006-11-24"
+last_updated: "2012-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52287&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-11-10"
 
 REGLAMENTO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -1007,3 +1009,15 @@ PRIMERO:- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO:- Los trámites y procedimientos que se encuentren en curso ante la Junta de Asistencia Privada del Distrito Federal, se continuarán hasta su conclusión conforme a las reglas y procedimientos vigentes hasta antes de la entrada en vigor de este Reglamento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los diez días del mes de noviembre de dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, ENRIQUE PROVENCIO DURAZO.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 31 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los trámites y procedimientos que se encuentren en curso ante la Junta de Asistencia Privada del Distrito Federal, se continuarán hasta su conclusión conforme al Reglamento vigente en la fecha en que fueron iniciados.
+
+TERCERO.- Se abroga el Reglamento de la Ley de Instituciones de Asistencia Privada para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 24 de noviembre de 2006.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
