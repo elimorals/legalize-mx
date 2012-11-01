@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2012-03-29"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 2 DE ABRIL DE 2012.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1107,9 +1105,9 @@ IX. Determinar los requisitos legales con que se otorguen los créditos hipoteca
 
 X. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2011)
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
-XI. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley;
+XI. Proporcionar asesoría jurídica a las unidades administrativas del Banco que lo requieran, así como a terceros cuando sea de interés para el propio Banco;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1219,9 +1217,21 @@ V. Evaluar mediante auditorías e investigaciones administrativas la gestión de
 
 VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación, tanto las propias, como las emitidas por la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas;
 
-VII. Suscribir en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal, convenios, acuerdos o programas con fines de cooperación en materia de auditoría, y
+VII. Suscribir en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal, convenios, acuerdos o programas con fines de cooperación en materia de auditoría, y (sic)
 
-VIII. Acceder a cualquier tipo de información del Banco incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, así como a los expedientes médicos de los mencionados servidores.
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Acceder a cualquier tipo de información del Banco incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, ni a los expedientes médicos de los mencionados servidores, salvo en aquellos casos que el Comité de Auditoría expresamente lo autorice y así lo instruya a los titulares de las áreas que resguarden dicha información. A efecto de obtener esa autorización, la Dirección de Auditoría habrá de presentar a los miembros del referido Comité un expediente del que se desprendan indicios suficientes que hagan presumir la conducta antijurídica del servidor público de que se trate y que motive la revisión de su expediente médico o situación patrimonial.
+
+El personal de la Dirección de Auditoría que intervenga en la práctica de auditorías, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+IX. Llevar a cabo los actos de investigación a que se refiere la Ley Federal Anticorrupción en Contrataciones Públicas e imponer las medidas de apremio durante la etapa de investigación en términos de dicha ley, así como, en su caso, turnar el expediente correspondiente a la autoridad o unidad administrativa del Banco competente, cuando existan elementos que presuman la existencia de algún tipo de responsabilidad, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+X. Fungir como enlace entre las instancias fiscalizadoras externas y las unidades Administrativas del Banco, cuyas operaciones sean objeto de revisión.
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1241,11 +1251,13 @@ V. Elaborar y expedir las reglas necesarias para su operación, y
 
 VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Dirección de Auditoría, a la Contraloría o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 30.
 
-La Contraloría tendrá las atribuciones señaladas en los artículos 30 Bis, 30 Bis 1, 30 Bis 2 y 30 Bis 3 de este Reglamento, así como las siguientes:
+La Contraloría tendrá las atribuciones señaladas en los artículos 30 Bis, 30 Bis 1 y 30 Bis 3 de este Reglamento, así como las siguientes:
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 I. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
 
@@ -1253,37 +1265,63 @@ I. Llevar el registro de los servidores públicos del Banco, en términos de la 
 
 II. Recibir y registrar las declaraciones patrimoniales y curriculares que presenten los servidores públicos a que se refiere el artículo 61, fracción II, de la Ley, así como dar seguimiento a la evolución de su situación patrimonial, de acuerdo con las disposiciones que emita la Comisión de Responsabilidades.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 A la Contraloría estará adscrita la Dirección de Control Interno.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
 
 Las personas sujetas a presentar declaraciones de situación patrimonial y curricular, serán los miembros de la Junta de Gobierno, los servidores públicos que ocupen en la Institución puestos de Subgerente o superior, así como aquellos que determine el Gobernador, a propuesta motivada del Contralor, Directores Generales o Director de Auditoría, respecto del personal que dependa jerárquicamente de ellos.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
-ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en los artículos 30 Bis 1, 30 Bis 2 y 30 Bis 3, las siguientes:
+ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en el artículo 30 Bis 1 y 30 Bis 3, las siguientes:
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Contraloría y Direcciones, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento, pudiendo expedir constancias de dicho registro;
 
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 II. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 III. Proponer a la Junta las normas a que se refiere el artículo 46, fracción XII, de la Ley, y aquéllas que resulten aplicables al Banco, sin perjuicio de las que a otras Unidades Administrativas corresponda proponer a dicha Junta;
 
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 IV. Vigilar la actualización y suficiencia normativa en el Banco, para lo cual llevará el registro de las normas internas que expidan sus Unidades Administrativas;
 
-V. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos u otras disposiciones, así como turnarlas a la autoridad o Unidad Administrativa del Banco competente;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+V. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, por la Ley Federal Anticorrupción en Contrataciones Públicas, el Código de Etica del Banco de México, u otras disposiciones, así como turnarlas a la autoridad o Unidad Administrativa del Banco competente;
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 VI. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
 
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 VII. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquier otra disposición;
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 VIII. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno;
 
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 IX. Proponer criterios, parámetros y métodos para el control interno de la Institución, para evaluar y dar seguimiento a dicho control;
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 X. Proponer al Gobernador las normas, políticas, estándares y procedimientos que se deban establecer en relación con el modelo de control interno institucional;
 
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 XI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos, realizando las pruebas de análisis y comprobación requeridas;
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 XII. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, así como a los expedientes médicos de los mencionados servidores;
 
@@ -1295,33 +1333,61 @@ XIII. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 XIV. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+XV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción VI del artículo 30 Bis 1. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+XVI. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción VII del artículo 30 Bis 1 del presente Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+XVII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción VIII del artículo 30 Bis 1 de este Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+XVIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión previsto en la Ley Federal Anticorrupción en Contrataciones Públicas. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión en términos del ordenamiento citado en esta fracción.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+En las ausencias del titular de la Dirección de Control Interno, las atribuciones previstas en las fracciones XV, XVI, XVII y XVIII de este artículo, serán ejercidas por el Contralor.
+
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 30 BIS 1.- La Gerencia de Control Normativo, contará con las atribuciones siguientes:
 
 I. Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los proveedores y contratistas con motivo de contratos que tengan celebrados con el Banco;
 
-II. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción I del artículo 30 Bis 2. Corresponderá al titular de la Gerencia de Control Normativo resolver dicho recurso de revisión;
+II. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
-III. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción II del artículo 30 Bis 2 del presente Reglamento. Corresponderá al titular de la Gerencia de Control Normativo resolver dicho recurso de revisión;
+III. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
-IV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción III del artículo 30 Bis 2 de este Reglamento. Corresponderá al titular de la referida Gerencia resolver el recurso de revisión, y
+IV. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
 V. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración, así como del procedimiento para subsanar el incumplimiento de entrega de información por parte del Banco, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento del Banco de México relativo a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Corresponderá al titular de la Gerencia de Control Normativo resolver los referidos recursos.
 
-Las atribuciones previstas en las fracciones I y V de este artículo, en las ausencias del titular de la Gerencia de Control Normativo, serán ejercidas por el titular de la Subgerencia de Control Normativo. Corresponderá al Director de Control Interno el desahogo y resolución de los recursos de revisión previstos en las fracciones II, III y IV del presente artículo, en las ausencias del titular de la Gerencia de Control Normativo.
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+VI. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las inconformidades de los licitantes, proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos. Corresponderá al titular de la Gerencia de Control Normativo resolver las inconformidades citadas;
 
-ARTICULO 30 BIS 2.- La Subgerencia de Control Normativo, contará con las atribuciones siguientes:
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
-I. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las inconformidades de los licitantes, proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos. Corresponderá al titular de la Subgerencia de Control Normativo resolver las inconformidades antes citadas;
+VII. Imponer las sanciones a que se refieren los títulos Cuarto de las Normas del Banco de México en Materia de Adquisiciones y Arrendamientos de Bienes Muebles, así como de Servicios, y Quinto de las Normas del Banco de México en Materia de Obra Inmobiliaria y Servicios Relacionados con la Misma, a licitantes, proveedores y contratistas. Las sanciones a que se refiere esta fracción, serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos;
 
-II. Imponer las sanciones a que se refieren los títulos Cuarto de las Normas del Banco de México en Materia de Adquisiciones y Arrendamientos de Bienes Muebles, así como de Servicios, y Quinto de las Normas del Banco de México en Materia de Obra Inmobiliaria y Servicios Relacionados con la Misma, a licitantes, proveedores y contratistas. Las sanciones a que se refiere esta fracción, serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos, y
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
-III. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá al titular de la Subgerencia de Control Normativo resolver las reclamaciones antes citadas.
+VIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá al titular de la Gerencia de Control Normativo resolver las reclamaciones citadas, y
 
-Las atribuciones previstas en las fracciones anteriores, en las ausencias del titular de la Subgerencia de Control Normativo, serán ejercidas por el Jefe de la Oficina de Regulación de Contrataciones y Atención de Procedimientos del propio Banco.
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+IX. Conocer, sustanciar y proveer lo necesario para el trámite del procedimiento administrativo sancionador; imponer las medidas de apremio durante dicho procedimiento y, en su caso, las sanciones administrativas, conforme a la Ley Federal Anticorrupción en Contrataciones Públicas.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+
+En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, V, VI, VII, VIII y IX de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
+
+ARTICULO 30 BIS 2.- (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1946,3 +2012,11 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones haya desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
+
+D.O.F. 1 DE NOVIEMBRE DE 2012.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los procedimientos establecidos en los artículos que se modifican del Reglamento Interior del Banco de México, que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas, adiciones y derogaciones, se continuarán tramitando conforme a las disposiciones con las que dieron inicio.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
