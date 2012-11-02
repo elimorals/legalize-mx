@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2011-02-03"
+last_updated: "2012-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-12-12"
 ---
 # LEY DE EDUCACION FISICA Y DEPORTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL --
 
-LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL
+LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -462,7 +462,9 @@ IV.- Facilitar la plena utilización de las instalaciones deportivas en su circu
 
 V.- Apegarse a los lineamientos establecidos en el Programa del Deporte;
 
-VI.- Prever anualmente, dentro de su presupuesto autorizado, los recursos necesarios para el desarrollo de las metas de sus programas deportivos;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2012)</small>
+
+VI.- Prever anualmente, dentro de su presupuesto autorizado, los recursos necesarios para el desarrollo de las metas de sus programas deportivos, becas, así como para la correcta y oportuna difusión de los mismos;
 
 VII.- Llevar, mantener y actualizar un censo de sus usuarios e instalaciones deportivas; y expedir periódicamente, según la disciplina y modalidad deportiva de que se trate, las guías técnicas que contengan las características de las instalaciones y las normas de seguridad;
 
@@ -876,10 +878,16 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de diciembre de dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGÜI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 3 DE FEBRERO DE 2011.
 
 Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
 
 Artículo Segundo. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 2 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
