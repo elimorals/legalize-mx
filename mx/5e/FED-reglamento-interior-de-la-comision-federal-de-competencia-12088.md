@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-federal-de-competencia-12088
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-28"
-last_updated: "2006-11-27"
+last_updated: "2012-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-08-25"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE COMPETENCIA
 
-REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE COMPETENCIA
+REGLAMENTO INTERIOR DE LA COMISIÓN FEDERAL DE COMPETENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN FEDERAL DE COMPETENCIA, PUBLICADO EN EL D.O.F. DEL 2 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de agosto de 1998.
 
@@ -489,7 +491,7 @@ V.- Llevar el registro de las autorizaciones u observaciones que formule la Comi
 
 VI.- Estudiar y hacer propuestas en materia de leyes, reglamentos y normatividad vigente o en proyecto, así como en materia de actos de autoridad relacionados con concentraciones, en coordinación con las Direcciones Generales Operativas correspondientes.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
@@ -569,7 +571,7 @@ XI.- Estudiar y opinar sobre aspectos de apertura, promoción y protección a la
 
 XII.- Los demás que le confieran otras leyes, reglamentos o disposiciones administrativas aplicables a los procesos de concesionamiento, permisionamiento y desincorporación de entidades y activos públicos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
@@ -689,7 +691,7 @@ XI.- Proponer al Presidente los programas administrativos de operación de equip
 
 XII.- Las demás que le encomiende o delegue el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 38.
 
@@ -747,7 +749,7 @@ TERCERO.- Se derogan las disposiciones contenidas en otros ordenamientos que se 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de agosto de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 10 DE SEPTIEMBRE DE 2002.
 
@@ -762,3 +764,9 @@ SEGUNDO.- Los asuntos que se encuentren pendientes a la entrada en vigor de este
 TERCERO.- Las acciones que se lleven a cabo para la aplicación del presente Reglamento, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Comisión Federal de Competencia, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 CUARTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Comisión Federal de Competencia, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 2 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Federal de Competencia, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2006.
