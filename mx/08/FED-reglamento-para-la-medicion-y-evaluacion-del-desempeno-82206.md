@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-medicion-y-evaluacion-del-desempeno-82206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-14"
-last_updated: "2011-07-14"
+last_updated: "2012-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82206&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-06-23"
 ---
 # REGLAMENTO PARA LA MEDICION Y EVALUACION DEL DESEMPEÑO MEDICO Y FINANCIERO DE LOS PRESTADORES DE SERVICIOS DE SALUD E INCENTIVOS AL DESEMPEÑO Y A LA CALIDAD DEL SERVICIO MEDICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO PARA LA MEDICION Y EVALUACION DEL DESEMPEÑO MEDICO Y FINANCIERO DE LOS PRESTADORES DE SERVICIOS DE SALUD E INCENTIVOS AL DESEMPEÑO Y A LA CALIDAD DEL SERVICIO MEDICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO PARA LA MEDICIÓN Y EVALUACIÓN DEL DESEMPEÑO MÉDICO Y FINANCIERO DE LOS PRESTADORES DE SERVICIOS DE SALUD E INCENTIVOS AL DESEMPEÑO Y A LA CALIDAD DEL SERVICIO MÉDICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de julio de 2011.
 
@@ -233,25 +233,31 @@ La difusión de los Programas será a través de la red interna del Instituto In
 
 ### CAPITULO CUARTO. GRUPO TECNICO
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-El Grupo Técnico se integrará por siete miembros permanentes y por aquellas personas que sean invitadas a las sesiones que se celebren.
+El Grupo Técnico se integrará por:
 
-Son miembros permanentes del Grupo Técnico:
+I. Un Coordinador General, que será el Subdirector designado por la Dirección Médica;
 
-I. Coordinador General, el Subdirector designado por la Dirección Médica;
+II. Un Subcoordinador General, que será el Subdirector designado por la Dirección de Finanzas;
 
-II. Subcoordinador General, el Subdirector designado por la Dirección de Finanzas;
+III. Un Secretario Técnico, que será el Jefe de Servicios designado por la Coordinación General;
 
-III. Secretario Técnico, el Jefe de Servicios designado por la Coordinación General, y
+IV. Cuatro Vocales, que serán los Jefes de Servicios designados respectivamente por la Secretaría General, la Dirección Médica, la Dirección de Finanzas y la Dirección de Delegaciones;
 
-IV. Cuatro Vocales, los Jefes de Servicios designados respectivamente por la Secretaría General, la Dirección Médica, la Dirección de Finanzas y la Dirección de Delegaciones.
+V. Un Invitado Permanente, que será el representante del Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores del ISSSTE, y
 
-Los miembros permanentes del Grupo Técnico podrán designar a un servidor público, con el nivel inmediato inferior, para que los supla en sus inasistencias, con excepción del Coordinador General.
+VI. Un Invitado Especial, que será la persona cuya presencia considere necesaria el Coordinador General para el desahogo de algún asunto de la sesión.
+
+Los integrantes titulares del Grupo Técnico podrán designar a un servidor público, con el nivel jerárquico inmediato inferior, para que los supla en sus ausencias, con excepción del Coordinador General.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 25.
 
-Los integrantes del Grupo Técnico contarán con voz y voto, con excepción del Secretario Técnico y los Invitados, quienes sólo contarán con voz.
+Los integrantes del Grupo Técnico contarán con voz y voto, con excepción del Secretario Técnico y de los Invitados Permanente y Especial, quienes sólo contarán con voz.
 
 ###### Artículo 26.
 
@@ -351,7 +357,21 @@ IV. Analizar los documentos sobre los asuntos a tratar, así como emitir los com
 
 V. Desempeñar las actividades que les sean asignadas por decisión del Grupo Técnico.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
+
+Los Invitados tendrán las siguientes funciones:
+
+I. Analizar y emitir opiniones fundadas y motivadas respecto del asunto o asuntos que así lo requieran durante el desahogo de la sesión;
+
+II. Presentar, en su caso, propuestas de mejora al Sistema de Evaluación, y
+
+III. Desempeñar las actividades que les sean asignadas por decisión del Grupo Técnico.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 34.
 
 El Grupo Técnico definirá las fechas en las que sesionará, debiendo celebrar, por lo menos, una sesión cada seis meses.
 
@@ -368,3 +388,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 23 de junio de 2011.- El Secretario de la Junta Directiva designado para esta sesión ordinaria, Antonio Guillermo Chávez Fares.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE NOVIEMBRE DE 2012.
+
+UNICO.- Las modificaciones a que se refiere este Acuerdo entrarán en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
