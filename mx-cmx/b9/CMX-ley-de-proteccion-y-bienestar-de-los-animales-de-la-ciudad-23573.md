@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2012-09-27"
+last_updated: "2012-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -872,6 +872,14 @@ IX. Abandonar a los animales en la vía pública o comprometer su bienestar al d
 
 X. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 24 Bis.
+
+Toda persona que ejecute conductas de crueldad, maltrato, daño o tortura en contra de un animal está obligada a la reparación del daño en los términos establecidos en el Código Civil y Código Penal, ambos para el Distrito Federal.
+
+Dicha reparación del daño, de ser el caso, incluirá la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica.
+
 ###### Artículo 25.
 
 Queda prohibido por cualquier motivo:
@@ -1543,3 +1551,9 @@ SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 G.O. 27 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 2 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones contrarias a este decreto.
