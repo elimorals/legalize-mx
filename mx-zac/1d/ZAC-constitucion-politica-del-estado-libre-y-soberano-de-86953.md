@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2012-10-03"
+last_updated: "2012-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -383,19 +383,33 @@ Las leyes determinarán la autoridad a la que corresponda resolver la suspensió
 
 ### CAPÍTULO SÉPTIMO. DE LOS EXTRANJEROS
 
-## TÍTULO II. DE LOS DERECHOS FUNDAMENTALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO ÚNICO. DE LAS GARANTÍAS INDIVIDUALES Y SOCIALES
+## TÍTULO II. DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INTEGRABA EL CAPÍTULO SÉPTIMO DEL TÍTULO I] , P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-Tienen la calidad de extranjeros en el Estado quienes lo son conforme a lo señalado por la Constitución Política de los Estados Unidos Mexicanos.
+Son personas extranjeras en el Estado quienes no posean las calidades determinadas en el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos, quienes gozarán de los derechos humanos y garantías que reconoce esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
 ###### Artículo 21.
 
 En el Estado de Zacatecas todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los cuales el Estado Mexicano sea parte, y los señalados en esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección cuya vigencia no podrá suspenderse ni restringirse sino en los casos y mediante los procedimientos que los respectivos ordenamientos determinen.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de la materia y la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la raza, el color de piel, las características físicas, el idioma, el estado civil, la edad, la profesión, el trabajo desempeñado, la condición social o económica, las discapacidades, las condiciones de salud, el estado de embarazo, las costumbres, las preferencias sexuales, las ideologías o creencias religiosas, la calidad migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -407,13 +421,23 @@ La mujer y el varón son iguales ante la ley y deben gozar de las mismas oportun
 
 Se reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano. El Estado promoverá este postulado para lograr una sociedad más justa y equitativa, y la ley determinará las facultades y acciones que deban aplicarse para el cumplimiento de este fin.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
-En el Estado de Zacatecas fungirá una Comisión Estatal de Derechos Humanos, como organismo descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propios, de carácter autónomo y cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros; asimismo expedirá el ordenamiento que regule sus funciones en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos
+En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; asimismo expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+
+La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o servidores públicos responsables para que comparezcan y expliquen el motivo de su negativa.
+
+La Comisión de Derechos Humanos del Estado de Zacatecas, no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+El Gobernador o la Legislatura del Estado, podrán solicitar a Comisión de Derechos Humanos del Estado de Zacatecas, investigar hechos que por sus características constituyan violaciones graves de derechos humanos. El desarrollo de este procedimiento ejercerá facultades de autoridad investigadora en los términos de ley, sin que autoridad alguna pueda negarle la información que requiera. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias ante la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 24.
 
-Los zacatecanos que residan en otra entidad federativa u otro país gozarán, en lo posible, de la protección del Estado para la defensa de sus derechos humanos
+El Gobierno del Estado brindará protección y defensa a los derechos humanos de los zacatecanos que residan en otra entidad federativa, y coadyuvará con la Federación cuando residan en otro país.
 
 El Estado combatirá en sus causas la migración que lesiona la dignidad humana
 
@@ -469,13 +493,15 @@ La seguridad pública es un servicio a cargo del Estado y los Municipios para sa
 
 La ley determinará la organización, atribuciones, funcionamiento y profesionalización de los cuerpos de seguridad pública, entre ellos, la policía estatal preventiva. En todos los casos, se establecerá el servicio civil de carrera.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
-Toda persona tiene derecho a la educación, que será obligatoria en los niveles preescolar, primaria y secundaria.
+Toda persona tiene derecho a la educación, que será obligatoria en los niveles preescolar, primaria, secundaria y media superior.
 
-La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a formar en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre todos los habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará el amor a la Patria y el respeto a los derechos humanos y la conciencia de solidaridad nacional e internacional, en la independencia y la justicia. Asimismo, formará en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre todos los habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
 
 El desarrollo educativo y cultural, científico y tecnológico, es tarea primordial del Estado. Los particulares podrán coadyuvar en estas acciones en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -529,9 +555,15 @@ Toda persona tiene derecho a que se le administre justicia por los tribunales de
 
 El Estado proveerá a la defensa y representación gratuita de todo individuo cuya condición social le impida hacer valer plenamente sus derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 32.
 
-Queda estrictamente prohibido detener a las personas para fines de investigación, salvo los casos de excepción previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+Toda persona tiene derecho para entrar y salir libremente en el Estado de Zacatecas, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes. Queda estrictamente prohibido detener a las personas para fines de investigación, salvo los casos de excepción previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+En caso de persecución, por motivos de orden político, los implicados se ajustarán a la Constitución Política de los Estados Unidos Mexicanos.
 
 Todo detenido tiene derecho a que las autoridades le permitan se comunique con personas de su confianza, para proveer a su defensa.
 
@@ -544,6 +576,10 @@ Compete a la autoridad administrativa la aplicación de sanciones por infraccion
 El arresto comenzará a computarse desde el momento mismo de la detención. Quien efectúe la detención está obligado a poner al infractor a disposición de la autoridad competente dentro del término de tres horas y ésta a su vez a fijar la sanción alternativa en un plazo no mayor de dos horas.
 
 Si el infractor es menor de dieciocho años y dependiente económico de otra persona, la multa será acorde a las condiciones económicas de la persona de quien el menor dependa.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres purgarán sus penas en lugares separados a los destinados a los hombres para tal efecto.
 
 La violación de este precepto será causa de responsabilidad de acuerdo a lo previsto por la ley de la materia.
 
@@ -1449,7 +1485,9 @@ XXXI. Tener el mando de la fuerza pública dependiente del Ejecutivo del Estado,
 
 Asumir temporalmente la dirección y el mando superior de las policías municipales en todo o en parte del territorio de la Entidad, cuando las circunstancias lo ameriten y los ordenamientos legales lo dispongan;
 
-XXXII. Proteger la seguridad de las personas y de los intereses de los individuos y mantener la paz, la tranquilidad y el orden públicos en todo el Estado.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
+XXXII. Proteger la seguridad de las personas, promover el respeto, protección y garantía de los derechos humanos y mantener la paz, la tranquilidad y el orden públicos en todo el Estado.
 
 Otorgar autorización para el funcionamiento de organismos auxiliares de seguridad, en los términos que establezca la ley de la materia;
 
@@ -3016,3 +3054,9 @@ Artículo segundo.- La ley o leyes en materia electoral deberán ser adecuadas a
 Artículo tercero.- Dentro del plazo señalado en el artículo tercero transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 9 de agosto del año en curso, deberán expedirse las leyes y reformas en materia de iniciativa y consulta popular.
 
 Artículo cuarto.- Se derogan las reformas que contravengan este Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- En un plazo que no exceda de noventa días, contados a partir de la publicación de este Decreto, se deberán realizar las adecuaciones que correspondan a la Ley de la Comisión de Derechos Humanos del Estado de Zacatecas y a su Reglamento Interno.
