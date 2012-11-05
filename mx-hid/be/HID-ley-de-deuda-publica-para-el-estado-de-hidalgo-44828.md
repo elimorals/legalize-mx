@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-para-el-estado-de-hidalgo-44828"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-30"
-last_updated: "2011-12-19"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 2005.
 
@@ -433,7 +433,7 @@ XVI.- Proporcionar al Congreso la información que éste le requiera de acuerdo 
 
 XVII.- Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
 
-XVIIl.-Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+XVIIl.- Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
 
 XIX.- Asesorar a las entidades señaladas en el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública;
 
@@ -649,13 +649,41 @@ La contratación de empréstitos o créditos a cargo de las entidades, deberá s
 
 La contratación de empréstitos a cargo de los municipios, deberá ser previamente autorizada por sus respectivos ayuntamientos de acuerdo con lo previsto por los Artículos 15 y 16 de esta Ley. Dicha autorización será requisito necesario para gestionar la autorización de los mismos ante el Congreso.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+La solicitud de endeudamiento que el Municipio presente al Congreso del Estado, deberá ser entregada de manera impresa y electrónica, con la siguiente información:
+
+I.- Exposición de motivos donde se explique el contenido, se expongan las razones y fundamentos de la misma;
+
+II.- Cantidad de la transacción, objeto del crédito, el plazo y mecanismo de pago;
+
+III.- Fuente de pago y de garantía;
+
+IV.- Análisis financiero de la operación que se pretende contratar;
+
+V.- Información financiera y presupuestal;
+
+VI.- Descripción de la situación de la deuda pública de la instancia solicitante;
+
+VII.- Relación detallada de las inversiones públicas productivas a realizar, entendiéndose por éstas aquellas obras o acciones que de forma directa, indirecta o mediata, generen un bien público; y
+
+VIII.- Descripción de impacto social.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+La antigüedad de los documentos que refiere (sic) las fracciones V y VI, no deberán ser mayores de seis meses.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+Toda información presentada al Congreso deberá ser Publicada en la página de internet del solicitante.
+
 ###### Artículo 34.
 
 Las entidades de la administración pública paraestatal, sólo podrán contratar créditos si cuentan con la autorización previa de sus Organos de Gobierno y de la Secretaría, otorgada de acuerdo con lo previsto por los Artículos 13 fracción XIX, 18 fracción V y 19 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
 
 Las entidades de la administración pública paramunicipal, únicamente podrán contratar créditos si cuentan con la autorización previa de sus Organos de Gobierno y del ayuntamiento correspondiente, otorgadas de acuerdo con lo previsto por los Artículos 15 fracción XX, 18 fracción V y 20 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2006)</small>
 
 ###### Artículo 35.
 
@@ -1157,7 +1185,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE JULIO DE 2006.
 
@@ -1174,3 +1202,9 @@ P.O. 19 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a lo previsto en el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
