@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-consejos-tutelares-y-de-reeducacion-social-para-2652"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-17"
-last_updated: "2012-10-29"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,13 @@ state: "AGU"
 ---
 # LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CONSEJOS TUTELARES Y DE REEDUCACIÓN SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE OCTUBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 141 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 141 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
 
@@ -103,7 +101,7 @@ Los Consejos Tutelares son órganos que se integrarán por un abogado, un profes
 
 El pleno del Consejo Tutelar lo integran los Consejeros antes citados, sesionando en forma colectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 11.
 
@@ -273,7 +271,7 @@ Las solicitudes y demás gestiones hechas por particulares se presentarán en fo
 
 Los procedimientos tutelares serán gratuitos y ajenos a todo formulismo que dificulte la pronta y eficaz tutela a los menores, se conservarán en secreto y sólo se darán informes a las autoridades que los soliciten, siempre que no se perjudique al menor y sean indispensables para el conocimiento de la verdad en otras investigaciones de carácter legal. Tratándose del procedimiento especial previsto en la Legislación Penal para el Estado de Aguascalientes, se estará a lo dispuesto por ésta última.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 32.
 
@@ -309,7 +307,7 @@ En las resoluciones en que se aplique alguna medida al menor, el Consejo asentar
 
 Para el despacho de los asuntos sometidos al conocimiento del Consejo, el Presidente mandará practicar notificaciones, expedirá citas y ordenará la presentación de las personas que se considere necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 39.
 
@@ -681,11 +679,11 @@ Lic. Miguel Romo Medina.
 
 P.O. 1 DE JULIO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 13 DE DICIEMBRE DE 1992.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 12 DE FEBRERO DE 2004.
 
