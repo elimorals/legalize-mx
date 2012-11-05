@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-del-comite-de-transparencia-del-83250"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-17"
-last_updated: "2011-10-17"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83250&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-10-10"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-REGLAMENTO DE OPERACION DEL COMITE DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+REGLAMENTO DE OPERACIÓN DEL COMITÉ DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL MANUAL DE INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 5 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 17 de octubre de 2011.
 
@@ -441,3 +443,13 @@ ATENTAMENTE
 LIC. ERIKA ESTRADA RUIZ
 
 SECRETARIA TÉCNICA DE LA SECRETARÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 5 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Manual entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento de Operación del Comité de Transparencia del Tribunal Electoral del Distrito Federal, aprobado por el Pleno de este órgano jurisdiccional en reunión privada de 04 de octubre de 2011 y publicado en la Gaceta Oficial del Distrito Federal, el 17 de octubre de 2011.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
