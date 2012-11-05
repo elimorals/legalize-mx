@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2011-07-18"
+last_updated: "2012-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,23 +25,23 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
 EL CIUDADANO LICENCIADO FERNANDO MARGAIN BERLANGA, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, A TODOS LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
 
-QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 28 DE OCTUBRE DEL AÑO 2008, HA TENIDO A BIEN EMITIR EL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN LOS SIGUIENTES TÉRMINOS:
+QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN ORDINARIA CELEBRADA EL DIA 28 DE OCTUBRE DEL AÑO 2008, HA TENIDO A BIEN EMITIR EL REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN LOS SIGUIENTES TÉRMINOS:
 
 REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
 P R E S E N T E.-
 
-Los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento estudiamos para dictaminar el texto de la INICIATIVA DE REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, tarea que concluida nos permitimos someter a la consideración del Pleno de éste Ayuntamiento para que dicho documento sea sometido a discusión del pleno y pueda ser aprobado. El dictamen se formula en tres apartados o capítulos: Resultandos, Considerandos y Acuerdo.
+Los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento estudiamos para dictaminar el texto de la INICIATIVA DE REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, tarea que concluida nos permitimos someter a la consideración del Pleno de éste Ayuntamiento para que dicho documento sea sometido a discusión del pleno y pueda ser aprobado. El dictamen se formula en tres apartados o capítulos: Resultandos, Considerandos y Acuerdo.
 
 R E S U L T A N D O S.
 
-Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León; 1, 14, 26 inciso a) fracción VII, 160, 161, 162, 163, 164, 165, 166, 167, 168 de la Ley Orgánica de la Administración Pública Municipal; 60, 61 fracción I, numeral 3), 70, 71, 73, 74, 75, 76, 77 y demás relativos del Reglamento para el Gobierno Interior del Republicano Ayuntamiento, así como los artículos 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 20 y demás artículos relativos al Reglamento Orgánico de la Administración Pública Municipal; esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta en este documento su propuesta de dictamen respecto a la INICIATIVA DE REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, y para efectos de desahogar el procedimiento reglamentario respectivo, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a la consideración de este Órgano Colegiado, el siguiente:
+Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León; 1, 14, 26 inciso a) fracción VII, 160, 161, 162, 163, 164, 165, 166, 167, 168 de la Ley Orgánica de la Administración Pública Municipal; 60, 61 fracción I, numeral 3), 70, 71, 73, 74, 75, 76, 77 y demás relativos del Reglamento para el Gobierno Interior del Republicano Ayuntamiento, así como los artículos 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 20 y demás artículos relativos al Reglamento Orgánico de la Administración Pública Municipal; esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta en este documento su propuesta de dictamen respecto a la INICIATIVA DE REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, y para efectos de desahogar el procedimiento reglamentario respectivo, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a la consideración de este Órgano Colegiado, el siguiente:
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
@@ -119,21 +119,23 @@ INICIATIVA DEL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
 
 El presente Reglamento es de orden público e interés social, tiene por objeto propiciar la conservación y restauración del equilibrio ecológico, la protección al medio ambiente y el desarrollo sustentable del Municipio, así como orientar las actividades industriales, comerciales, de servicios y demás para apoyar la formulación de la política ambiental y la toma de decisiones que promuevan el desarrollo del Municipio.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 2.
 
 En lo sucesivo, para fines de simplificación, se entenderá por:
 
-I. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+I. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente, también conocida como LGEEPA;
 
-II. Norma(s) o las siglas NOM: Norma (s) Oficial (es) Mexicana (s);
+II. Norma(s) o las siglas NOM: Norma(s) Oficial(es) Mexicana(s);
 
 III. Ley Estatal: Ley Ambiental del Estado de Nuevo León;
 
-IV. LOTAHDU: Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano de Nuevo León;
+IV. LDU: Ley de Desarrollo Urbano del estado de Nuevo León;
 
-V. Reglamento: Reglamento Municipal de Protección Ambiental y Desarrollo Sustentable de San Pedro Garza García, Nuevo León;
+V. Reglamento: Reglamento para la Protección Ambiental y Desarrollo Sustentable para el Municipio de San Pedro Garza García, Nuevo León;
 
-VI. Secretaría: La Secretaría de Desarrollo Urbano y Ecología de este Municipio;
+VI. Secretaría: La Secretaría de Medio Ambiente y Desarrollo Sustentable de este Municipio;
 
 VII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -145,13 +147,17 @@ IX. Consejo: Consejo Ciudadano para la Protección Ambiental y Desarrollo Susten
 
 Para los efectos de este Reglamento se considerarán aplicables las definiciones que se establecen a continuación:
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
-l. Árbol: Cualquier especie vegetal cuyo tronco posea un diámetro de cinco centímetros (5 centímetros) o más, medido a 1.20-un metro veinte centímetros metros de altura medida a partir del nivel del suelo:
+l. Árbol: Cualquier especie vegetal cuyo tronco posea un diámetro de 5-cinco centímetros a 2”-dos pulgadas, o más, medido a 1.20-un metro veinte centímetros de altura medida a partir del nivel del suelo DAP;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-I. Bis. Árbol Establecido: Árbol con proceso de 90 días de aclimatación en contenedor, cuya condición vegetativa soporte sin afectación el manejo y trasplante posterior.
+I. BIS. Árbol Establecido: Árbol con proceso de 90 días de aclimatación en contenedor, cuya condición vegetativa soporte sin afectación el manejo y trasplante posterior.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+I. BIS 1: Árbol nativo: Es la especie arbórea que se desarrolla espontáneamente (silvestre) y que está adaptada a las condiciones de suelo y clima de la región.
 
 II. Atmósfera: La capa de aire que circunda el planeta, formada por una mezcla principalmente de nitrógeno y oxigeno y otros gases como argón y neón, además de bióxido de carbono y vapor de agua; su límite se considera convencionalmente a veinte mil metros de altitud.
 
@@ -161,13 +167,19 @@ IV. Biogás: Se designa a la mezcla de gases resultantes de la descomposición d
 
 V. Biomasa: Materia orgánica generada por procesos biológicos o por el procesamiento de tejidos de orígenes animales, vegetales, bacterianos o procedentes de cualquier otro organismo vivo;
 
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+V BIS. Capa Vegetal: Es un conjunto de arbustos, hierba, vegetación nativa, secundaria o inducida, cualesquiera que sean sus especies y/o composición florística, incluyendo árboles menores de 5-cinco centímetros o más, medido a 1.20-un metro veinte centímetros de altura medida a partir del nivel del suelo DAP, los cuales surgen espontáneamente en las diferentes áreas de la superficie terrestre.
+
 VI. Composta: Mezcla homogénea de materia orgánica simple, convertida en humus que es utilizada principalmente para la fertilización natural de los suelos
 
 VII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propician la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener, y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo.
 
 VIII. Contaminación: Es la introducción en un medio cualquiera de un contaminante, es decir, la introducción de cualquier sustancia o forma de energía con potencial para provocar daños irreversibles o no, en el medio inicial. Es la presencia en el ambiente de uno o de más contaminantes o de cualquier contaminación de ellos que cause desequilibrio ecológico;
 
-IX. Contaminación ambiental: Se denomina a la presencia en el ambiente de cualquier agente (físico, químico o biológico) o bien de una combinación de varios agentes en lugares, formas y concentraciones tales que sean o puedan ser nocivos para la salud, la seguridad o para el bienestar de la población, o que puedan ser perjudiciales para la vida vegetal o animal, o impidan el uso normal de las propiedades y lugares de recreación y goce de los mismos, así como la incorporación a los cuerpos receptores de sustancias sólidas, líquidas o gaseosas, o mezclas de ellas siempre que alteren desfavorablemente las condiciones naturales del mismo, o que puedan afectar la salud, la higiene o el bienestar del público;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+IX. Contaminación ambiental: Se denomina a la presencia en el ambiente de cualquier agente ya sea físico, químico o biológico, o bien de una combinación de varios agentes en lugares, formas y concentraciones tales que sean o puedan ser nocivos para la salud, la seguridad o para el bienestar de la población, o que puedan ser perjudiciales para la vida vegetal o animal, o impidan el uso normal de las propiedades y lugares de recreación y goce de los mismos, así como la incorporación a los cuerpos receptores de sustancias sólidas, líquidas o gaseosas, o mezclas de ellas, siempre que alteren desfavorablemente las condiciones naturales del mismo, o que puedan afectar la salud, la higiene o el bienestar del público;
 
 X. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural, o urbano causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
 
@@ -175,11 +187,19 @@ XI. Contaminantes: Toda materia o energía en cualesquiera de sus estados físic
 
 XII. Cuerpo receptor: La corriente, depósito de agua, cauce o bienes del dominio público del Estado o Municipios en donde se descargan, infiltran o inyectan aguas residuales;
 
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XII BIS. DAP: Diámetro a la altura de pecho, es decir diámetro medido a 1.20-un metro veinte centímetros de altura a partir del nivel del suelo.
+
 XIII. Descargas: El vertimiento o desalojo, intencional, por fuga, avería o accidente de aguas residuales tratadas o sin tratar vertidas directamente a cuerpos de agua, terrenos o al sistema de alcantarillado y demás que establezcan las normas estatales o federales.
 
 XIV. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente.
 
 XV. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XV BIS 1. Desmonte y/o Deshierba.- Es la acción de afectar la capa vegetal, tales como, arbustos, hierba, vegetación nativa, secundaria o inducida, cualesquiera que sean sus especies y/o composición florística, incluyendo árboles menores de 5-cinco centímetros o más, medido a 1.20-un metro veinte centímetro de altura medida a partir del nivel del suelo DAP
 
 XVI. Deterioro Ambiental: Alteración de la calidad del ambiente, o de los elementos que lo integran con afectación al equilibrio ecológico o la calidad de vida del ser humano;
 
@@ -213,11 +233,27 @@ XXX. Fuente fija: Toda instalación establecida en un solo lugar, que tenga como
 
 XXXI. Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tiene un lugar fijo;
 
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXI BIS. Gestión ambiental: es el conjunto de diligencias conducentes al manejo integral del sistema ambiental. Estrategia mediante la cual se organizan las actividades antrópicas que afectan a medio ambiente, con el fin de lograr una adecuada calidad de vida, previniendo o mitigando los problemas ambientales.
+
 XXXII. Gestión Integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad y región;
 
 XXXIII. Impacto ambiental: Modificación del ambiente ocasionada por el hombre o de la naturaleza;
 
 XXXIV. Información ambiental: Se considera información ambiental, cualquier información escrita, audiovisual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales en general y áreas naturales protegidas;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS. Licencia Ambiental Municipal (LAM): Es un instrumento de regulación directa, que expide la Secretaría, para Industrias, empresas, establecimientos comerciales y/o de servicios de competencia del Municipio, en materia de prevención y control de la contaminación a la atmosfera, que establece los lineamientos, requisitos, obligaciones y condiciones para su operación y funcionamiento integral conforme a la legislación ambiental vigente.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 1. Lineamiento Ambiental: Conjunto de condiciones y prohibiciones en materia de impacto ambiental para prevenir y/o mitigar la contaminación.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 2. Lineamientos de Operación: Conjunto de condicionantes y prohibiciones particulares fijadas a una industria, empresa o establecimiento comercial y/o de servicio de jurisdicción municipal, que deberán llevar a cabo, para controlar, mitigar y prevenir los impactos ambientales dentro de su operación y funcionamiento.
 
 XXXV. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
@@ -226,6 +262,30 @@ XXXVI. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo 
 XXXVII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
 XXXVIII. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXVIII. BIS. n ó PI: es la relación entre la longitud de una circunferencia y su diámetro. El valor numérico de n, truncado a sus primeras cifras para fines de este reglamento, es 3.1416;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXVIII. BIS 1. r2 ó radio al cuadrado es el cuadrado de la mitad del diámetro de una circunferencia.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 2. Poda: es una acción de cortes selectivos que genera la renovación del follaje de un árbol, para el beneficio de éste y de su estructura;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 3. Poda de Mantenimiento: Consiste en eliminar aquellas ramas que estén obstruyendo el cableado de servicios públicos luminarias y ramas que trascienden a predios colindantes;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 4. Poda Formativa o Estética: Este tipo de poda es para darle forma al árbol mejorando su estructura, además de promover el brote de ramas nuevas y quitarle altura.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. BIS 5. Poda fitosanitaria: Consisten en eliminar aquellas ramas que estén secas, débiles, enfermas o con plaga.
 
 XXXIX. Registro de emisiones y transferencia de contaminantes: Base de datos pública conteniendo información sobre emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales, residuos y sustancias de competencia municipal, así como las descargas de aguas residuales
 
@@ -238,6 +298,10 @@ XLII. Prevención: El conjunto de disposiciones y medidas anticipadas para evita
 XLIII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
 XLIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XLIV. BIS. Sistema Integral de Gestión Ambiental: Sistema que permite consciente y permanentemente planificar y administrar los recursos del municipio y orientar los procesos culturales al logro de la sustentabilidad, a la construcción de valores y actitudes amigables con el medio ambiente y revertir los efectos del deterioro y la contaminación sobre la calidad de vida y la actividad económica. Atendiendo la problemática ambiental con enfoque integral o coordinado o transectorial;
 
 XLV. Sustancias sujetas a reporte de competencia municipal: Elementos o compuestos químicos, que conforme a los criterios de persistencia ambiental, bioacumulación, toxicidad, teratogenicidad, mutagenicidad, o carcinogenicidad y, en general, por sus efectos adversos al medio ambiente, sean emitidos o transferidos por los establecimientos sujetos a reporte de competencia municipal y deban ser integrados a la base de datos de acuerdo con las especificaciones establecidas por la Secretaría.
 
@@ -393,7 +457,7 @@ La Secretaría solicitará a través del Instituto Municipal de Planeación Urba
 
 I Descripción y análisis de la obra, señalando:
 
-a. Situación actual del lote o predio: topografía, geología, hidrología, vientos dominantes, asoleamiento, tipo de suelo, vegetación, uso actual del suelo del lote o predio y del entorno en un área de cien metros alrededor del mismo otros (sic).
+a. Situación actual del lote o predio: topografía, geología, hidrologia, vientos dominantes, asoleamiento, tipo de suelo, vegetación, uso actual del suelo del lote o predio y del entorno en un área de cien metros alrededor del mismo otros (sic).
 
 b. Descripción del proyecto.
 
@@ -527,25 +591,33 @@ Las declaratorias deberán publicarse en el Periódico Oficial del Estado y se i
 
 Todas las actividades industriales, comerciales o de servicio que se efectúen dentro del territorio municipal, siempre que no estén comprendidas o señaladas en los listados de la Norma Oficial Mexicana NOM-052-SEMARNAT-2005 de actividades altamente riesgosas expedidos por la federación, se clasifican conforme a lo señalado en el Plan de Desarrollo Urbano San Pedro Garza García 2024 y el Reglamento de Zonificación y Usos de Suelo vigente para el Municipio de San Pedro Garza García, Nuevo León
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 27.
 
-Todas las actividades industriales, comerciales o de servicio que se lleven a cabo dentro del territorio municipal, deberán incorporar medidas para la eficiencia energética, la generación de energías renovables y uso eficiente de recursos hidrológicos
+Todas las actividades industriales, comerciales o de servicio que se lleven a cabo dentro del territorio municipal, deberán incorporar medidas para la eficiencia energética, la generación de energías renovables y uso eficiente de recursos hidrológicos.
 
-La realización de actividades o la operación y funcionamiento de establecimientos comerciales o de servicio e industriales deberá de cumplir con los siguientes Lineamientos Ambientales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+La realización de actividades o la operación y funcionamiento de establecimientos comerciales o de servicio e industriales deberá de cumplir con los siguientes Lineamientos de Ambientales y/o de operación:
 
 l. De Autorizaciones:
 
 a) Contar con Autorización de Uso del Suelo y Licencias de Construcción y de Uso de Edificación
 
-II. Durante la Construcción y la Operación
+II. Durante la Construcción y la Operación:
 
-a) Durante la construcción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+a) Durante la Construcción:
 
 i. Deberá mantener un control permanente y adecuado en cada una de las etapas y en el manejo de los diferentes materiales de construcción, de tal forma que mediante colocación de mamparas de cualesquier material, riego frecuente, o cualquier otra acción, se evite la generación y emisión de polvos que afecten o causen molestias a vecinos.
 
 ii. Deberá contar con medidas de contención para evitar la dispersión de materiales de construcción, sobrantes, desperdicios, empaques u otros materiales por fenómenos climáticos como viento, lluvia y otros agentes;
 
-iii. Deberá tener atención especial en el control de ruido derivado de las actividades propias de la obra (movimiento de maquinaria, de camiones, carga y descarga de materiales, de trabajadores, perforaciones, etc). El nivel de ruido no deberá exceder los 68 dB (A), conforme a la Norma Oficial Mexicana NOM-081-SEMARNAT-1994, en el horario de operación señalado en el Reglamento de Zonificación y Usos de Suelo para el Municipio de San Pedro Garza García, Nuevo León, para lo cual deberá implementar las acciones necesarias, tales como mantenimiento y operación adecuada de equipo y maquinaria, colocación de mamparas, etc.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+iii. Deberá tener atención especial en el control de ruido derivado de las actividades propias de la obra tales como: movimiento de maquinaria, de camiones, carga y descarga de materiales, de trabajadores, perforaciones, etc. El nivel de ruido de estas actividades no deberá exceder los 68 dB (A), conforme a la NOM-081-SEMARNAT-1994, en el horario de operación de lunes a viernes de las 7:00 a las 19:00 horas y los sábados 8:00 a 15:00 horas, debiendo implementar las acciones necesarias, tales como mantenimiento y operación adecuada de equipo y maquinaria y colocación de mamparas.
 
 iv. Deberán evitarse las actividades de corte y pulido de materiales, estos deberán adquirirse listos para su uso o colocación o en su defecto efectuar los acondicionamientos mencionados en un lugar adecuado y autorizado; en el caso da ser realizados en el predio deberá acondicionarse un área especial, aislada a fin de mitigar emisiones de polvo, ruido o vibraciones que afecte o causen molestias a vecinos.
 
@@ -555,13 +627,13 @@ vi. No utilizar los árboles como mesas de trabajo, no derribarlos, maltratarlos
 
 vii. Realizar un uso eficiente de recursos hidrológicos para procesos de construcción, acciones de limpieza u otros usos distintos al consumo humano directo.
 
-III. Durante la Operación:
+III, Durante la Operación:
 
 a) Los equipos o maquinaria que provoquen ruido y/o vibraciones, incluyendo aparatos de aire acondicionado, climas artificiales o de aire lavado, plantas de generación de energía eléctrica de emergencia, equipos hidroneumáticos, entre otros, deberán cumplir lo señalado en la NOM-081-SEMARNAT-1994.
 
-b) Deberá registrar las descargas de aguas residuales ante las autoridades estatales o federales que corresponda, dependiendo si se trata de alcantarillado urbano o municipal o aguas nacionales o cuerpo receptor de jurisdicción federal, conforme a la NOM-001-SEMARNAT-1998 y la NOM-002-SEMARNAT-1996.
+b) Deberá registrar las descargas de aguas residuales ante las autoridades estatales o federales que corresponda, dependiendo si se trata de alcantarillado urbano o municipal o aguas nacionales o cuerpo receptor de jurisdicción federal, conforme a la NOM-001-SEMARNAT-1998 y la NOM-002-SEMARNAT-1996;
 
-c) No arrojar a la vía pública o predios, terrenos o arroyos o ríos aguas residuales o utilizadas en el proceso de limpieza de maquinaria, equipo e instalaciones en general.
+c) No arrojar a la vía pública o predios, terrenos o arroyos o ríos aguas residuales o utilizadas en el proceso de limpieza de maquinaria, equipo e instalaciones en general;
 
 d) Los residuos peligrosos que se generen deberán manejarse conforme al artículo 10 numeral III, VII, VIII; 19 fracción VII y 31 fracción I de la Ley General para la Prevención y Gestión de los Residuos.
 
@@ -641,9 +713,11 @@ Los establecimientos de fuentes fijas, que generen emisiones de olores, de humos
 
 #### SECCIÓN I. FUENTES FIJAS
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-Se prohíbe emitir contaminantes a la atmósfera, que rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas y en las Normas Ambientales Estatales. Los responsables de emisiones provenientes de fuentes fijas, también deben cumplir con el presente Reglamento.
+Se prohíbe emitir contaminantes a la atmósfera, que rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas y en las Normas Ambientales Estatales. Los responsables de emisiones provenientes de fuentes fijas, también deben cumplir con la Ley Estatal y el presente Reglamento.
 
 ###### Artículo 37.
 
@@ -665,11 +739,13 @@ Los propietarios de terrenos baldíos que generen o puedan generar tolvaneras de
 
 Las personas físicas o morales que realicen actividades de construcción, demolición, remodelación y otras, que por sus características puedan generar polvos, deberán contar con pasarelas, tapancos, mamparas y sistemas de humectación, para evitar la dispersión o arrastre de partículas, polvo o cualquier otro material o residuo hacia el exterior de la propiedad.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 42.
 
-Los establecimientos industriales, cualquiera que sea el giro, deberán contar con áreas verdes, que permitan minimizar o eliminar la erosión del suelo y sus consecuentes efectos en la calidad del aire.
+Los establecimientos industriales, comerciales y/o de servicios, cualquiera que sea el giro, deberán contar con áreas verdes, que permitan minimizar o eliminar la erosión del suelo y sus consecuentes efectos en la calidad del aire.
 
-Los establecimientos que hagan uso intensivo de agua como auto lavados y otros similares deben cumplir con la Norma Oficial Mexicana NOM-002/SEMARNAT-1996, además de las medidas de contención para evitar el flujo de agua residual hacia la vía pública o cuerpos de agua naturales o modificados.
+Los establecimientos que hagan uso intensivo de agua como auto lavados y otros similares, deben cumplir con la NOM-002-SEMARNAT-1996, además de las medidas de contención para evitar el flujo de agua residual hacia la vía pública o cuerpos de agua naturales o modificados.
 
 ###### Artículo 43.
 
@@ -861,7 +937,7 @@ Los responsables de la generación, recolección, almacenamiento, manejo, transp
 
 ###### Artículo 72.
 
-Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia Municipal, serán responsables de su manejo, el cual efectuarán por si mismos, por empresas prestadoras de servicios o mediante el servicio municipal de reelección y transporte cuando así proceda.
+Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia Municipal, serán responsables de su manejo, el cual efectuarán por sí mismos, por empresas prestadoras de servicios o mediante el servicio municipal de reelección y transporte cuando así proceda.
 
 ###### Artículo 73.
 
@@ -929,9 +1005,11 @@ VI. Cuando obstruyan la visibilidad en túneles, puentes, pasos a desnivel, vial
 
 VII. Contravengan esta Ley u otros ordenamientos aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 83.
 
-En los establecimientos de servicio, comerciales o industriales donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por su proceso, deberán regular su volumen permanentemente a fin de no sobrepasar los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994.
+En los establecimientos de servicio, comerciales o industriales donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o Instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por su proceso, deberán regular su volumen permanentemente a fin de no sobrepasar los límites máximos permisibles establecidos en la NOM-081-SEMARNAT-1994.
 
 ###### Artículo 84.
 
@@ -1073,47 +1151,79 @@ VII. La creación de áreas de refugio para proteger las especies acuáticas que
 
 VIII. La determinación de los métodos y medidas aplicables o indispensables para la conservación, cultivo y repoblación de los recursos pesqueros.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 101.
 
-La Autoridad Municipal, vigilará la tala o poda de árboles y supervisará la reposición de la cubierta vegetal que se ordene al efecto.
+La Secretaría, vigilará la tala, poda, deshierbes, trasplantes de árboles, y supervisará la reposición de la cubierta vegetal que se ordene al efecto.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 102.
 
-La tala o trasplante de árboles requiere permiso de la Secretaria y será permitida en los siguientes casos:
+La tala o trasplante requiere permiso de la Secretaría y será autorizado, en los siguientes casos:
 
-l. Cuando constituyan un riesgo para la seguridad de personas o sus bienes;
+l. Cuando constituyan un riesgo inminente o comprobable para la seguridad de las personas o sus bienes;
 
-II. Cuando constituyan una amenaza para la salud pública de los habitantes del Municipio;
+II. Cuando constituyan una amenaza para la salud pública;
 
-III. Cuando afecten o lastimen instalaciones de servicios públicos;
+III. Cuando afecten o lastimen Instalaciones de servicios públicos;
 
-IV. Cuando constituyan un riesgo fitosanitario y sea una amenaza para la salud de los demás árboles; y
+IV. Cuando constituyan un riesgo fitosanitario y sea una amenaza para la salud de los demás árboles;
 
-V. Cuando su ubicación sea en el área de desplante de una edificación privada.
+V. Cuando su ubicación sea en el área de desplante de una edificación;
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+VI. Cuando se detecten en franca decadencia o muerta la especie arbórea (árbol seco);
 
-Artículo 102 BIS 1.- La tala de árboles obliga a su reposición en los términos del presente Reglamento, con excepción de los casos a que se refieren las fracciones l, II, III y IV del artículo anterior.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+Artículo 102 BIS 1.- La tala de árboles obliga a su reposición en los términos del artículo 118 del presente Reglamento.
 
-Artículo 102 BIS 2.- La autorización para la tala o trasplante de árboles se sujetará al siguiente procedimiento
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
-l. La solicitud se tramitará ante la Secretaria;
+Artículo 102 BIS 2.- El permiso para la tala, poda o trasplante de árboles, así como para el deshierbe, se sujetará al siguiente procedimiento:
 
-II. El propietario del árbol deberá presentar solicitud por escrito, señalando la ubicación del árbol y el motivo por el cual solicita su tala o trasplante;
+I. La solicitud se tramitará ante la Secretaría;
 
-III. La Secretaría practicará inspección y dictamen del caso; y
+II. Se deberá presentar solicitud por escrito y/o el formato que al efecto establezca la Secretaría señalando los siguientes datos:
 
-IV. El permiso contendrá los lineamientos que deben observarse.
+a) Nombre completo del propietario y en su caso el nombre completo de su representante legal, como aparece en sus documentos oficiales;
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+b) Domicilio para oír y recibir notificaciones;
 
-Artículo 102 BIS 3.- Los permisos tendrán una vigencia de 30-treinta días hábiles contados a partir del siguiente al de su notificación.
+c) Número y especie de árboles a afectar, y en caso de tratarse de deshierbe los metros cuadrados y tipo de vegetación a afectar;
 
-La tala o poda de árboles se deberá realizar los días y horarios siguientes: Lunes a Viernes de 07:00 a 19:00 horas y Sábados de 07:00 a 13:00 horas.
+d) La ubicación del árbol; y en caso de tratarse de trasplante, el lugar al que se trasplantará el árbol, debiendo ser dentro de este Municipio;
+
+e) El motivo por el cual solicita su tala, poda, trasplante y/o deshierbe y;
+
+f) Demás información adicional necesaria o requerida por la Secretaría
+
+Así mismo, deberá adjuntar a la solicitud antes referida lo siguiente:
+
+a) Documento mediante el cual acredite la personalidad legal con la que comparece,
+
+b) Identificación Oficial con fotografía,
+
+c) Pago de derechos correspondiente al trámite,
+
+d) El croquis o plano topográfico con ubicación del árbol, según se requiera;
+
+e) En caso de trasplante, croquis en donde se muestre la ubicación del árbol plantado y su ubicación final y;
+
+f) Documentación adicional necesaria o requerida por la Secretaría
+
+III. La Secretaría practicará inspección y dictamen del caso; y en caso de resultar viable; y
+
+IV. Emitirá el permiso correspondiente, el cual indicará los lineamientos, términos y/o condicionantes que al efecto procedan;
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 102 BIS 3.- Los permisos tendrán una vigencia de 30-treinta días hábiles contados a partir del día siguiente de su recepción.
+
+La tala, trasplante o poda, de árboles, así como, deshierbes, se deberán realizar en los días y horarios siguientes: lunes a viernes de 08:00 a 19:00 horas y sábados de 08:00 a 13:00 horas.
+
+Los Interesados podrán solicitar por escrito la renovación del permiso para efectuar la tala, poda, trasplante de árboles y/o deshierbe, con 05 días anteriores al vencimiento del permiso, previo pago de derechos, siempre y cuando, no haya transcurrido un plazo de 6 meses contados a partir de su recepción.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -1121,9 +1231,11 @@ La tala o poda de árboles se deberá realizar los días y horarios siguientes: 
 
 El titular del permiso otorgado para talar árboles deberá realizar el procedimiento de reposición de arboles conforme al presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
-Artículo 103 BIS.- El titular del permiso otorgado para trasplantar árboles deberá plantarlos garantizando su sobrevivencia por un período de 6-seis meses, en caso de que los árboles no sobrevivan, deberán sustituirse éstos por otros de la misma especie y diámetro o reponer conforme a la tabla de reposición de arbolado.
+Artículo 103 BIS.- El titular del permiso otorgado para trasplantar árboles deberá plantarlos garantizando su sobrevivencia por un periodo de 6-seis meses; en caso de que los árboles no sobrevivan, deberá informar por escrito a la Secretaría, a efecto de que la misma determine si deberán sustituirse por otros de la misma especie y diámetro o reponerlos conforme a lo que establece el artículo 118 del presente Reglamento.
+
+Asimismo, deberá hacer del conocimiento por escrito a la Secretaría, haber efectuado la plantación del árbol trasplantado, así como, su sobrevivencia 06 meses después de plantado.
 
 ###### Artículo 104.
 
@@ -1136,6 +1248,26 @@ Cuando se trasplante un árbol de un sitio a otro por cualquier razón, éste de
 ###### Artículo 106.
 
 Queda prohibido atentar contra la salud de cualquier árbol con acciones tales como: mutilación o poda excesiva o innecesaria, riego dañino, remoción de corteza, envenenamiento, entierro parcial de su tronco, impermeabilización del área radicular u otras similares.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 106 BIS.- Para llevar a cabo la poda de los árboles, solo bastará con dar aviso por escrito a la Secretaría, siempre y cuando se trate de poda de mantenimiento, fitosanitaria, formativa o estética, en la que no se afecte más del 30% de la fronda del árbol; en caso contrario, deberá de tramitar el permiso correspondiente, el cual será otorgada siempre y cuando se justifique dicha poda.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 106 BIS 1.- El aviso a que se refiere el artículo que antecede, deberá de presentarse a la Secretaría con 05 días de previos a la realización de la poda, y deberá contener los siguientes datos:
+
+I. Nombre del propietario del Inmueble en donde se encuentre el árbol o los árboles que se desean podar.
+
+II. Domicilio y ubicación del árbol y/o árboles.
+
+III. Tipo de poda a realizar.
+
+IV. Nombre y Domicilio del prestador de servicios que efectuará la poda.
+
+V. Fecha en que se llevara a cabo la poda.
+
+VI. Fotografía del estado actual del árbol y/o árboles a podar.
 
 ###### Artículo 107.
 
@@ -1165,15 +1297,19 @@ Los árboles señalados en el artículo anterior, deberán protegerse eficazment
 
 El área para absorción radicular de cada árbol sembrado en banqueta o estacionamiento, deberá tener cuando menos un área equivalente a la de un cuadrado de ochenta por ochenta centímetros (80 por 80 cm.), o la que especifique la Secretaria para el tamaño y variedad seleccionada. Queda prohibida la pavimentación impermeable en dicha área.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 112.
 
-Los desmontes que impliquen tala, derribo o trasplantes de árboles, arbustos, hierba, vegetación nativa secundaria o inducida, cuales quiera que sean sus especies, composición florística quedarán sujetos al permiso de desmonte por disposición de la Secretaria.
+Los desmontes y/o deshierbes que impliquen tala de árboles, arbustos, hierba, vegetación nativa secundaria o inducida, cuales quiera que sean sus especies, composición florística quedarán sujetos al permiso de desmonte y/o deshierbe por disposición de la Secretaria.
 
 ###### Artículo 113.
 
 La restauración o reposición de la cubierta vegetal se procurará hacer en el mismo predio, bajo los siguientes criterios:
 
-I. Cuando se trate de desmonte de matorral, en cualquiera de sus tipos o subtipos o estratos herbáceos o arbustivos, sin importar las especies, la cantidad de reposición se calculará a razón de 1-un árbol nativo de 2 pulgadas de diámetro de tronco medidos a 1.20 metros del nivel de suelo, por cada 64-sesenta y cuatro metros cuadrados desmontados.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+I. Cuando se trate de desmonte y/o deshierbe de matorral, en cualquiera de sus tipos o subtipos o estratos herbáceos o arbustivos, sin importar las especies, la cantidad de reposición se calculará a razón de 1-un árbol nativo de 2 pulgadas de diámetro de tronco medidos a 1.20 metros del nivel de suelo, por cada 64-sesenta y cuatro metros cuadrados desmontados.
 
 II. Las especies con las que se efectúe la reposición deberán ser nativas de la región, y;
 
@@ -1195,61 +1331,55 @@ Antes de iniciar cualquier construcción y durante su proceso se deberá habilit
 
 La tala o trasplante de arboles implica la obligación de reponerlos, conforme a los artículos 102 y 117 del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 117.
 
 La reposición de arbolado podrá cumplirse, a elección del obligado, en especie o en numerario.
 
-La reposición en especie se realizará mediante la Entrega-Recepción de la especie equivalente en el Vivero Municipal.
+La reposición en especie se realizará efectuando la compra del arbolado nativo requerido por la Secretaría, en viveros registrados y autorizados en la misma, debiéndose acreditar dicha reposición con la factura que al efecto expide el vivero autorizado.
 
-La reposición en numerario se realizará enterando en la Tesorería Municipal, el valor comercial de la reposición de arbolado, mismo que será determinado por la Secretaría, de acuerdo a las cotizaciones que para tal efecto obtenga por la Dirección de Adquisiciones.
+La reposición en numerario se realizará ante la Secretaría de Finanzas y Tesorería Municipal y tendrá como valor determinado el que se establezca en la Tabla de Cuotas y Tarifas publicada en el Periódico Oficial del Estado.
 
-Los recursos captados por concepto de reposición de arbolado deberán ser consignados en una cuenta especial y deslindados únicamente a la compra de árboles para destinarlos a la reforestación.
+Los recursos captados por concepto de sanciones y reposición de arbolado, serán consignados a una cuenta especial y destinados a la Secretaría para la compra de especies arbóreas y demás especies requeridas para destinatarios a proyectos de carácter ecológico y/o ambientales dentro del municipio.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+Los recursos antes mencionados podrán ser destinados a proyectos ecológicos y/o ambientales de otras dependencias adscritas al municipio, con previa autorización de la Secretaría.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 118.
 
-La reposición en especie de arbolado deberá ser conforme a la siguiente Tabla de Reposición de Arbolado; los árboles nativos deberán estar establecidos y su tronco deberá tener 5-cinco centímetros de diámetro de tronco medido a 1.20 un metro veinte centímetros medidos a partir del nivel del suelo.
+La reposición en especie de arbolado se determinará conforme a la siguiente fórmula: diámetro al cuadrado expresado en pulgadas del o los árboles en cuestión, multiplicando por PI, es decir 3.1416, dividido entre cuatro y el resultado se dividirá entre el área de un árbol de 2” de diámetro de tronco expresado en pulgadas cuadradas, determinando con base en esta última medida, considerada como patrón, la cantidad de árboles a reponer. Los árboles deberán estar establecidos, ser nativos o catalogados por la Legislación Estatal como naturalizados.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 107 A LA 109; REFORMAS A LA TABLA, P.O. 14 DE OCTUBRE DE 2009, PÁGINAS DE LA 33 A LA 36.</small>
+Cuando el arbolado nativo o naturalizado afectado se encuentre en buenas condiciones, la reposición deberá realizarse al 100%; en caso de encontrarse en malas condiciones, su reposición será al 70%. En caso de que se trate de árboles Introducidos la reposición será del 75% cuando se encuentre en buenas condiciones y del 60% cuando se encuentre en malas condiciones vegetativas.
 
-a) Condiciones buenas.- Árbol sano, vigoroso, sin riesgos aparentes de daños mecánicos, biológicos o químicos.
+En caso de tratarse de árboles completamente secos, la reposición se llevara a cabo de la siguiente manera: se deberá plantar un árbol nativo de 5 centímetros de DAP o de mayor diámetro, por cada árbol seco talado en el mismo lote o predio, debiendo informar por escrito a la Secretaría su cumplimiento; en caso de no ser viable o factible plantarlos en dicho lote o predio, se deberá presentar en un plazo no mayor a 7-siete días hábiles posteriores a la notificación que al efecto recaiga, la justificación por escrito, lo anterior con la finalidad de que la Secretaría determine lo conducente.
 
-b) Condiciones malas.- Árbol en franca decadencia, con severos daños de mutilación o ataque biológico o químico.
+> <small>N. DE E. VÉASE LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 107 A LA 109; REFORMAS P.O. 14 DE OCTUBRE DE 2009, PÁGINAS DE LA 33 A LA 36; P.O. DE 5 DE NOVIEMBRE DE 2012, PÁGINAS DE LA 29 A LA 31.</small>
 
-c) Árbol seco o marchito.- Su permiso de tala, no requiere reposición.
+a) Condiciones buenas.- Árbol en estado óptimo, viable, sano, vigoroso, sin daños aparentes por factores mecánicos, biológicos o químicos.
+
+b) Condiciones de decaimiento o malas.- Árbol con muy mala salud, en decadencia por factores naturales o artificiales, que dan como resultado una reducción del rendimiento y/o la calidad del árbol;
+
+c) Condiciones de muerte generalizada o riesgosa.- Árbol en estado decadente, seco o marchito que implica vulnerabilidad por riesgo inminente.
+
+En lo que respecta a la especie conocida como PALMAS, el monto de reposición será al 40% “cuarenta por ciento” en relación a la tabla de equivalencias de arbolado contenido en el presente reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 118 BIS.- Para talar un árbol por riesgo o por vulnerabilidad inminente, declarado por la dependencia municipal de Protección Civil, no se requiere permiso, pero el ciudadano deberá entregar en un término 5-cinco días hábiles el reporte o dictamen emitido por la referida Dirección de Protección Civil a la Secretaría, independientemente de quien efectué el retiro del arbolado en cuestión; el término de 5-cinco días hábiles se contara a partir de que el ciudadano reciba de la Dependencia competente el reporte o dictamen a que se refiere el presente artículo. En este supuesto no se impondrá sanción al ciudadano.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 119.
 
-El solicitante podrá optar por cumplir su obligación prevista en el artículo anterior, en los términos de la siguiente tabla:
-
-TABLA DE EQUIVALENCIA DE ÁRBOLES NATIVOS
-
-Equivalente de centímetros y/o pulgadas:
-
-7 árboles Un árbol de 7.5 cm ó (3'')
-
-13 árboles Un árbol de 10 cm ó (4'')
-
-21 árboles Un árbol de 12.5 cm ó (5'')
-
-30 árboles Un árbol de 15 cm ó (6'')
-
-41 árboles Un árbol de 17.5 cm ó (7'')
-
-54 árboles Un árbol de 20 cm ó (8'')
-
-69 árboles Un árbol de 22.5 cm ó (9'')
-
-85 árboles Un árbol de 25 cm ó (10'')
+El ciudadano podrá optar por cumplir su obligación prevista en el artículo anterior con árboles mayores a 2” según la Tabla de Reposición de Arbolado prevista en el artículo 118, en los siguientes términos: Se dividirá el área del árbol talado entre el área del árbol a reponer.
 
 ###### Artículo 120.
 
 Los árboles que sean entregados en reposición deberán estar sanos, instalados en contenedores de madera o plástico. El solicitante deberá comprobar que han sido colocados en sus contendores con un mínimo de 30 días naturales previos a su entrega.
 
-## TÍTULO QUINTO. DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
+## TÍTULO QUINTO. DEL CONSEJO CIUDADANO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE
 
 ### CAPÍTULO II. DE LA CONFORMACIÓN DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
 
@@ -1487,9 +1617,13 @@ Las notificaciones de los actos o resoluciones que expidan las autoridades admin
 
 Se consideran conductas violatorias o infracciones, cualquier acción u omisión que tenga por consecuencia violar lo dispuesto en este Reglamento, debiendo sancionase conforme a la Matriz de Sanciones del mismo, una vez otorgado el derecho de audiencia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 159.
 
-Las violaciones a los preceptos de este Reglamento, constituyen infracciones administrativas y serán sancionadas, sin perjuicio de las sanciones que establezcan otros ordenamientos de la materia.
+Las violaciones a los preceptos de este Reglamento, constituyen Infracciones administrativas y serán sancionadas, sin perjuicio de las sanciones que establezcan otros ordenamientos de la materia.
+
+El pago de la multa que se imponga al infractor, no lo exime de las obligaciones y pagos establecidos para el cumplimiento de este reglamento.
 
 ###### Artículo 160.
 
@@ -1537,7 +1671,9 @@ XIII. Realizar la quema a cielo abierto de los residuos sólidos urbanos, así c
 
 XIV. Realizar quemas o combustiones que se efectúen con fines de capacitación o adiestramiento de personal para combate de incendios, sin la autorización de la Coordinación de Protección Civil y/o el Visto Bueno de la Secretaría;
 
-XV. Desmontar en forma excesiva o mantener terrenos baldíos en condiciones tales que propicien o generen emisiones de partículas y polvo al aire ("tolvaneras");
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XV. Desmontar o deshierbar en forma excesiva o mantener terrenos baldíos en condiciones tales que propicien o generen emisiones de partículas y polvo al aire o "tolvaneras";
 
 XVI. Carecer los establecimientos industriales de áreas verdes, ajardinadas o cubierta vegetal que permitan minimizar o eliminar la erosión del suelo y sus consecuentes efectos en la calidad del aire;
 
@@ -1563,9 +1699,11 @@ XXVI. Los establecimientos que generen aceites o grasas lubricantes, solventes g
 
 XXVII. Contaminar el ambiente, causar daños al territorio o bienes, instalaciones, patrimonio municipal por escurrimiento, fuga, derrame o descarga de lixiviados, emisión de olores, dispersión de residuos durante su almacenamiento temporal, recolección o transporte;
 
-XXVIII. Los laboratorios clínicos, consultorios médicos y dentales, clínicas, hospitales y similares cuyo manejo de los residuos peligrosos biológico-infecciosos no cumplan con lo señalada (sic) en la NOM-087-SEMARNAT-SSA1 2002;
+XXVIII. Los laboratorios clínicos, consultorios médicos y dentales, clínicas, hospitales y similares cuyo manejo de los residuos peligrosos biológico-infecciosos no cumplan con lo señalado en la NOM-087-SEMARNAT-SSA1 2002;
 
-XXIX. Los establecimientos de servicio, comerciales o industriales donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXIX. Los establecimientos de servicio, comerciales o industriales donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-081-SEMARNAT-1994;
 
 XXX. Emitir calor fuera de los límites del establecimiento, que se perciba a través de muros o pisos;
 
@@ -1573,7 +1711,9 @@ XXXI. Talar o trasplantar árboles sin permiso de la Secretaría;
 
 XXXII. Los árboles centenarios trasplantados o talados sin la aprobación o permiso correspondiente;
 
-XXXIII. Atentar contra la salud de cualquier árbol con acciones tales como: mutilación o poda excesiva o innecesaria, riego dañino, remoción de corteza, entierro parcial de su tronco, impermeabilización del área radicular u otras similares;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXIII. Atentar contra la salud de cualquier árbol con acciones tales como: mutilación o poda excesiva o innecesaria en más de 30% de su follaje, aplicación de materiales dañinos, remoción de corteza, entierro parcial de su tronco, impermeabilización del área radicular u otras similares;
 
 XXXIV. Incumplir con la forestación del estacionamiento;
 
@@ -1583,21 +1723,29 @@ XXXVI. No proteger los árboles eficazmente plantados en el estacionamiento, par
 
 XXXVII. No cumplir con el área de absorción radicular;
 
-XXXVIII. Desmontar predios sin autorización;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XXXVIII. Desmontar o deshierbar predios o terrenos sin permiso por escrito de la Secretaría;
 
 XXXIX. No restaurar o reponer la cubierta vegetal;
 
 XL. Cortar los taludes que se corten al construir calles o avenidas mayores a una altura de tres metros y sesenta centímetros (3.60 m.);
 
-XLI. Derrama del material removido (pateo) en los costados de la vía;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XLI. Derrama del material removido o pateo fuera de las áreas autorizadas;
 
 XLII. No habilitar un dique provisional de contención que impida el arrastre aguas abajo de cualquier material;
 
 XLIII. No plantar los árboles requeridos para el área de estacionamiento o no reponer los árboles que se sequen;
 
-XLIV. Cuando se realice la tala, mutilación (despunte o desmoche) o poda excesiva o innecesaria de algún árbol, sin la autorización por escrito de la Secretaría;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
-XLV. Cuando se realice la tala, mutilación (despunte o desmoche), la poda excesiva o innecesaria o se provoque la "muerte" de uno o algunos árboles con una edad mayor a los cien años;
+XLIV. Cuando se realice la mutilación, despunte, desmoche, poda excesiva o innecesaria de algún árbol, sin el permiso correspondiente que expide la Secretaría
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+XLV. Cuando se realice la mutilación, despunte, desmoche, poda excesiva o innecesaria, o se provoque la "muerte" de uno o algunos árboles igual o mayor a un DAP de 85 centímetros o 34 pulgadas.
 
 XLVI. Cuando se provoque la muerte de alguno o algunos árboles;
 
@@ -1605,19 +1753,39 @@ XLVII. Cuando no se efectúe el riego, o este sea insuficiente, de los árboles 
 
 XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento y; (sic)
 
-XLIX. Causar ruidos o sonidos que molesten, perjudiquen o afecten la tranquilidad de uno o más vecinos; y
+XLIX. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2012)
 
 L. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso de propagación y por su intensidad sobrepasen en los ambientes señalados los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y ocho decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y cinco decibeles en el horario comprendido de las veintidós a las seis horas.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+LI. Cuando se incumpla con los términos, condicionantes y/o lineamientos establecidos en las licencias, permisos, vistos buenos o autorizaciones que expida la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+LII. Incumplir con la obligación de dar los avisos o presentar los informes a que se refiere este Reglamento;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+LIII. Cuando no se permita al Inspector, notificador, ejecutor adscritos o comisionados a la Secretaría, realizar las visitas de inspección en los inmuebles en los que se haya ordenado la ejecución de una orden de visita o cuando se les obstruya el realizar las funciones que les faculta este Reglamento;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+LIV. Cuando no se permita al Inspector, notificador o ejecutor adscritos a la Secretaría, ejecutar alguna sanción o medida de seguridad impuesta por la autoridad competente, ya sea impidiéndole el acceso al inmueble o edificación o lugar donde debe ejecutarse la sanción o medida de seguridad; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+
+LV. Cualquier acción u omisión que contravengan lo dispuesto en este Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 164.
 
-Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se apticará (sic) la siguiente matriz de sanciones. La sanción no dispensa del cumplimiento de la obligación de reponer el arbolado en los términos del artículo 117 del presente Reglamento.
+Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se aplicará la siguiente matriz de sanciones. La sanción no dispensa del cumplimiento de la obligación de reponer el arbolado en los términos del artículo 118 del presente Reglamento.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 122 A LA 127.</small>
+> <small>N. DE E. VÉASE LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 122 A LA 127.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P. O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37; P.O. DE 5 DE NOVIEMBRE DE 2012, PÁGINAS DE LA 35 A LA 37.</small>
 
 ###### Artículo 165.
 
@@ -1773,7 +1941,7 @@ Por lo anteriormente expuesto y fundado, se somete a la consideración del pleno
 
 A C U E R D O:
 
-PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
+PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
 
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Nuevo León. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
@@ -1840,3 +2008,13 @@ Se deroga cualesquier disposición que contravenga el presente Reglamento.
 ###### ARTÍCULO TERCERO.
 
 Gírense las instrucciones al Presidente Municipal y al Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo
+
+P.O. 5 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas por derogación, adición y modificación al Reglamento para la Protección al Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente publicar en la Gaceta Municipal para su divulgación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga el presente Reglamento.
