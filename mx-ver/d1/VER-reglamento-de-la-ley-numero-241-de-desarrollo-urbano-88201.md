@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-numero-241-de-desarrollo-urbano-88201"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-07"
-last_updated: "2012-05-07"
+last_updated: "2012-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO DE LA LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 5 DE OCTUBRE DE 2012 Y 17 DE JULIO DE 2013 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 5 DE OCTUBRE DE 2012.</small>
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 7 de mayo de 2012.
 
@@ -455,11 +455,11 @@ a) Cualquiera de las tres instancias de Gobierno, atendiendo a la naturaleza u o
 
 b) Los particulares podrán incentivar a cualquiera de las instancias mencionadas a propósito de que éstas inicien algún procedimiento modificatorio cuando así convenga al interés colectivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 18.
 
-Las modificaciones que se realicen a los Programas de Ordenamiento Territorial y de Desarrollo Urbano vigentes, requerirán el mismo procedimiento al que se refiere el artículo 11 de este Reglamento. La expedición de permisos y licencias, tanto por el Estado como por los Municipios, solo serán posibles, tratándose de modificaciones a programas, cuando estas hubieran sido llevadas a cabo con las formalidades reglamentarias.
+Las modificaciones que se realicen a los Programas de Ordenamiento Territorial y de Desarrollo Urbano vigentes, requerirán el mismo procedimiento al que se refiere el artículo 14 de este reglamento. La expedición de permisos y licencias, tanto por el estado como por los municipios, solo serán posibles, tratándose de modificaciones a programas, cuando estas hubieran sido llevadas a cabo con las formalidades reglamentarias.
 
 ###### Artículo 19.
 
@@ -1143,11 +1143,11 @@ II. La formación de sociedades o asociaciones, integradas por los ejidatarios o
 
 III. La adquisición de terrenos de propiedad privada, ejidales o comunales, a favor del Estado o de los Municipios; (sic)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 87.
 
-La regulación y promoción de las acciones de mejoramiento de los Centros de Población, se llevará a cabo mediante las previsiones señaladas en el artículo 85 de este Reglamento.
+La regulación y promoción de las acciones de mejoramiento de los centros de población, se llevará a cabo mediante las previsiones señaladas en el artículo 84 de este reglamento.
 
 ### CAPÍTULO VIII. ESTRUCTURACIÓN VIAL
 
@@ -1659,13 +1659,13 @@ En caso de no existir algún Programa de los antes mencionados, tendrá que acud
 
 Las autoridades competentes para la expedición de la Constancia de zonificación a que se refiere el artículo anterior, serán los Municipios y la Secretaría a través de la Dirección, en los términos señalados por la Ley y el presente Reglamento; dicha Constancia deberá ser expedida dentro de los quince días naturales siguientes a la presentación de la solicitud. Tendrá vigencia en tanto el programa que estableció la zonificación no sea modificado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 141.
 
-Los interesados en obtener Constancia de zonificación deberán presentar los siguientes documentos:
+Los interesados en obtener constancia de zonificación deberán presentar los siguientes documentos:
 
-I. Copia certificada del título de propiedad inscrita en el Registro Público de la Propiedad y del Comercio o Zona Registral de la que se trate o derechos de posesión (contratos privados de compraventa y/o arrendamiento y/o actas constitutivas de sociedad, notariados).
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+I. Copia del título de propiedad inscrita en el Registro Público de la Propiedad y del Comercio o Zona Registral de la que se trate o derechos de posesión (contratos privados de compraventa y/o arrendamiento);
 
 II. Croquis de localización y plano del predio, que incluya su superficie, curvas de nivel, medidas y colindancias y en caso de existir construcción, el plano de la misma.
 
@@ -1679,13 +1679,11 @@ La licencia de uso de suelo es un acto de autoridad que se otorga al propietario
 
 La autoridad competente podrá, en su caso, emitir licencia por regularización de uso de suelo, cuando tratándose de una situación de hecho, el solicitante lleve a cabo sobre el predio objeto de solicitud una actividad similar o compatible a las previstas por el Programa de Desarrollo Urbano y Ordenamiento Territorial vigente. Para tal efecto deberá seguir las formalidades que corresponden a la gestión de la propia licencia del uso del suelo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 143.
 
-Las autoridades competentes para la expedición de la Licencia de uso de suelo a que se refiere el artículo anterior, serán los Municipios y la Secretaría a través de la Dirección, en los términos del inciso d) de la fracción I del artículo 5 de la Ley y el presente Reglamento; dicha Licencia deberá ser expedida dentro de los quince días naturales siguientes a la presentación de la solicitud, siempre y cuando se encuentre debidamente integrada. Tendrá vigencia de un año cuando máximo, siendo causa de reducción del plazo, la entrada en vigencia de algún nuevo Programa de Desarrollo urbano y Ordenamiento Territorial que contradiga el uso permitido.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Las autoridades competentes para la expedición de la licencia de uso de suelo a que se refiere el artículo anterior, serán los municipios y la Secretaría a través de la Dirección, en los términos del inciso d) de la fracción I del artículo 5 de la Ley; dicha licencia deberá ser expedida dentro de los quince días naturales siguientes a la presentación de la solicitud, siempre y cuando se encuentre debidamente integrada. Tendrá vigencia de un año cuando máximo, siendo causa de reducción del plazo, la entrada en vigencia de algún nuevo Programa de Desarrollo urbano y Ordenamiento Territorial que contradiga el uso permitido.
 
 ###### Artículo 144.
 
@@ -1693,7 +1691,9 @@ Los propietarios o derechosos que requieran obtener la licencia a que se refiere
 
 I. Formato de solicitud de trámite proporcionado por la Dirección a través de la Subdirección de Control Urbano.
 
-II. Manifiesto en materia de Impacto Ambiental emitido por la autoridad competente.
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+II. Resolutivo en materia de impacto ambiental emitido por la autoridad competente, de acuerdo a las disposiciones de la Ley Estatal de Protección Ambiental.
 
 III. Dictamen de Riesgo y Vulnerabilidad por Uso de Suelo emitido por la Secretaría de Protección Civil.
 
@@ -1779,8 +1779,6 @@ IV. Todos (sic) las actividades cuyo uso de suelo involucre el territorio de dos
 
 V. Todas las actividades que incluyan funciones sustantivas relacionadas con la seguridad pública o los servicios urbanos, independientemente de la superficie del predio en que se lleve a cabo la actividad. Se incluyen en estas actividades, en materia de seguridad pública y gobernación, a todas las variantes de centros de readaptación social y estancias migratorias. En materia de servicios urbanos, se incluyen los sitios para disposición final de residuos sólidos y en general, los predios que se dispongan para la construcción de infraestructura regional.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 151.
 
 Quedan exceptuados de obtener, previo a la emisión de la licencia de uso de suelo, cualquier dictamen, los siguientes casos:
@@ -1793,13 +1791,17 @@ III. La solicitud de licencia de uso de suelo para desarrollos habitacionales qu
 
 a) Se pretendan realizar en predios menores a 10,000 metros cuadrados.
 
-b) Contengan uso habitacional unifamiliar hasta 120 viviendas.
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
-c) Contenga uso habitacional multifamiliar hasta 20 lotes y 120 viviendas.
+b) Contengan uso habitacional unifamiliar menos 120 viviendas;
 
-d) Mezcle uso habitacional unifamiliar y multifamiliar, para dar cabida hasta 120 viviendas independientemente del número de lotes.
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+c) Contenga uso habitacional multifamiliar menos de 20 lotes y 120 viviendas;
+
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+d) Mezcle uso habitacional unifamiliar y multifamiliar, para dar cabida a menos 120 viviendas independientemente del número de lotes.
 
 ###### Artículo 152.
 
@@ -1809,7 +1811,9 @@ I. Escrito en el que manifieste el tipo de uso y/o parcelamiento de suelo solici
 
 II. Anteproyecto de acción urbanística solicitada, acompañada de una memoria descriptiva.
 
-III. Copia certificada del título de propiedad inscrita en el Registro Público de la Propiedad o derechos de posesión (contratos de arrendamiento y/o actas constitutivas de sociedad, notariados).
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+III. Copia del título de propiedad inscrita en el Registro Público de la Propiedad o derechos de posesión (contratos de arrendamiento).
 
 IV. Croquis de localización y plano del predio, que incluya su superficie, nivel de altitud, medidas y colindancias y en caso de existir construcción, el plano de la misma.
 
@@ -1821,7 +1825,9 @@ VII. Copia de las factibilidades de servicios relativos a: agua potable, alcanta
 
 VIII. Copia de estudio de impacto vial emitido por autoridad competente.
 
-IX. Manifiesto de Impacto Ambiental emitido por la autoridad competente.
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+IX. Resolutivo en materia de Impacto Ambiental emitido por la autoridad competente, de acuerdo a las disposiciones de la Ley Estatal de Protección Ambiental.
 
 X. Dictamen de Riesgo y Vulnerabilidad por Uso de Suelo emitido por la Secretaría de Protección Civil.
 
@@ -1925,11 +1931,11 @@ El Dictamen Factibilidad Regional Sustentable contendrá, las partes que integra
 
 I. Las medidas de mitigación propuestas por el Perito para aminorar los impactos negativos que a nivel regional o urbano la instalación del proyecto pudiera ocasionar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 158.
 
-Para los efectos de la celebración del Convenio Urbanístico al que refiere la Ley, a celebrarse entre la Secretaría a través de la Dirección, el o los Municipios respectivos, los propietarios de predios y/o los desarrolladores inmobiliarios y/o las organizaciones sociales, sus términos se deberán referir a lo señalado en los artículos 2 fracción VI, articulo 44, párrafo tercero y 45 de la Ley y los que indica el presente Reglamento Sección Primera en los artículos 43 fracción V, VI, VII; articulo (sic) fracciones IV, V, VI y VII y articulo 190 fracciones IV, V, VI y VII.
+Para los efectos de la celebración del convenio urbanístico al que refiere la Ley, a celebrarse entre la Secretaría a través de la Dirección, el o los municipios respectivos, los propietarios de predios y/o los desarrolladores inmobiliarios y/o las organizaciones sociales, sus términos se deberán referir a lo señalado en los artículos 2 fracción VI, articulo 44, párrafo tercero y 45 de la Ley y los artículos que indica el presente reglamento sección primera artículos 43 fracción V, VI, VII; artículo 189 fracciones IV, V, VI y VII y 190 fracciones IV, V, VI y VII.
 
 En dicho instrumento jurídico, las partes habrán de convenir:
 
@@ -1947,15 +1953,17 @@ La solicitud de los dictámenes al Perito, será responsabilidad de los propieta
 
 La elaboración del peritaje es obligación del Perito contratado por el solicitante, para cuya realización deberá involucrar el conocimiento resultado de su experiencia y capacitación continua, misma que fundamentará la autorización de su desempeño por parte de la Secretaría a través de la Dirección y la Comisión respectiva. A la prestación de servicios periciales corresponde el cobro de un honorario, cuyo monto habrá de pactarse, en forma directa entre el solicitante y el perito, tomando como base el arancel correspondiente.
 
-### CAPÍTULO III (SIC). PERITOS EN DESARROLLO URBANO
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO IV. PERITOS EN DESARROLLO URBANO
 
 #### SECCIÓN PRIMERA. DEL PROCEDIMIENTO PARA ADQUIRIR LA CALIDAD DE PERITO EN DESARROLLO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 160.
 
-Para fungir como Perito se requiere estar certificado y autorizado por la Secretaría a través de la Dirección, en los términos del artículo 154 fracción III de este Reglamento y además haber cumplido con el procedimiento siguiente:
+Para fungir como perito se requiere estar certificado y autorizado por la Secretaría a través de la Dirección, en los términos del artículo 159 de este reglamento y además haber cumplido con el procedimiento siguiente:
 
 I. Presentar solicitud por escrito ante la Secretaría a través de la Dirección, demostrando que cuenta con la formación profesional de Arquitecto, Ingeniero Civil o carreras compatibles con el área de desarrollo urbano además de contar con estudios a nivel especialidad y/o maestría en Desarrollo Urbano. Para tal efecto deberá presentar la siguiente documentación:
 
@@ -2067,7 +2075,9 @@ b) Omisión en la consideración de licencias o permisos Federales o Municipales
 
 c) Falta de aplicación para solventar las observaciones que se desprendan de la revisión del peritaje por parte de la Dirección. En esta última hipótesis deberá tratarse de una conducta reiterada con apercibimiento de la Dirección hasta por tres ocasiones.
 
-### CAPÍTULO IV. DE LAS FUSIONES, SUBDIVISIONES Y LOTIFICACIONES
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO V. DE LAS FUSIONES, SUBDIVISIONES, LOTIFICACIONES Y RELOTIFICACIONES
 
 ###### Artículo 167.
 
@@ -2241,7 +2251,9 @@ Entregados los servicios por el desarrollador, se entenderá cumplida su respons
 
 c) Se autorizara el traslado de dominio final del restante 10% de los lotes.
 
-### CAPÍTULO V. FRACCIONAMIENTO DE TERRENOS
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO VI. FRACCIONAMIENTO DE TERRENOS
 
 ###### Artículo 185.
 
@@ -2287,13 +2299,13 @@ a) Modulo habitacional, que incluye agrupaciones hasta de seis viviendas;
 
 b) Conjunto habitacional, cuando existan más de seis viviendas por lote.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 187.
 
 Atendiendo a sus etapas de urbanización los fraccionamientos podrán ser:
 
-I. De urbanización continua. Todos los habitacionales enunciados en el artículo 140 con excepción del inciso b) Popular; y el industrial.
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+I. De urbanización continúa. Todos los habitacionales enunciados en el artículo 185 con excepción del inciso b) Popular; y el industrial;
 
 II. De urbanización progresiva. De entre los habitacionales sólo el Popular. Para la realización de fraccionamientos de urbanización progresiva, el solicitante deberá presentar ante la autoridad competente los proyectos de las diferentes etapas de ejecución y sus probables plazos de realización.
 
@@ -2407,8 +2419,6 @@ h) Jardinería mayor y menor en áreas verdes, así como en camellones y banquet
 
 i) Señalamiento y nomenclatura y otros mobiliarios urbanos, que aseguren el correcto funcionamiento del fraccionamiento
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 190.
 
 El fraccionamiento habitacional popular tendrá por objeto permitir a las familias con menores ingresos el acceso al suelo urbanizable.
@@ -2445,7 +2455,9 @@ El fraccionamiento se articulará a través de vialidades secundarias y terciari
 
 a) Las vialidades secundarias o colectoras medirán como mínimo 15.00 metros de sección, de paramento a paramento, con banquetas de 2.00 metros y arroyos de 11.00 metros;
 
-b) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+b) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 1.50 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
 
 c) La distancia entre intersecciones en el total de vialidades no será mayor a 110 metros.
 
@@ -2476,8 +2488,6 @@ i) Señalamiento y nomenclatura y otros mobiliarios urbanos, que aseguren el cor
 ###### Artículo 191.
 
 Los Fraccionamientos Populares solo serán realizables a través de alguna organización ciudadana. Hará las veces de desarrollador por lo que refiere a la introducción de los servicios, previa cooperación de los beneficiarios de los lotes para el pago de los servicios públicos. Los particulares no podrán realizar fraccionamientos populares ni utilizar la tipología del lote popular para sus desarrollos.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 192.
 
@@ -2523,7 +2533,9 @@ a) Las vialidades primarias medirán como mínimo 20 metros de sección, de para
 
 b) Las vialidades secundarias o colectoras medirán como mínimo 15.00 metros de sección, de paramento a paramento, con banquetas de 2.00 metros y arroyos de 11.00 metros;
 
-c) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 100 metros;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+c) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 14.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 100 metros;
 
 d) La distancia entre intersecciones en el total de vialidades no será mayor a 110 metros.
 
@@ -2550,8 +2562,6 @@ g) Calles pavimentadas;
 h) Jardinería mayor y menor en áreas verdes, así como en camellones y banquetas; y
 
 i) Señalamiento y nomenclatura y otros mobiliarios urbanos, que aseguren el correcto funcionamiento del fraccionamiento.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 193.
 
@@ -2587,7 +2597,9 @@ a) Las vialidades primarias medirán como mínimo 20 metros de sección, de para
 
 b) Las vialidades secundarias o colectoras medirán como mínimo 15.00 metros de sección, de paramento a paramento, con banquetas de 2.00 metros y arroyos de 11.00 metros;
 
-c) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+c) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 14.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
 
 d) La distancia entre intersecciones en el total de vialidades no será mayor a 110 metros.
 
@@ -2612,8 +2624,6 @@ g) Calles pavimentadas;
 h) Jardinería mayor y menor en áreas verdes, así como en camellones y banquetas; y
 
 i) Señalamiento y nomenclatura y otros mobiliarios urbanos, que aseguren el correcto funcionamiento del fraccionamiento.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 194.
 
@@ -2643,7 +2653,9 @@ Las vialidades contarán con las siguientes características:
 
 a) Las vialidades primarias medirán como mínimo 15.00 metros de sección, de paramento a paramento, con banquetas de 2.00 metros y arroyos de 11.00 metros;
 
-b) Las vialidades secundarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+b) Las vialidades secundarias incluyendo calles de retorno medirán como mínimo 14.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
 
 c) La distancia entre intersecciones en el total de vialidades no será mayor a 110 metros.
 
@@ -2666,8 +2678,6 @@ e) Tratamiento en terracerías con material permeable.
 f) Señalamiento y nomenclatura.
 
 g) El sistema de tratamiento de aguas residuales se resolverá por lote, no incluyéndose en las obligaciones del desarrollador.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 195.
 
@@ -2699,7 +2709,9 @@ El fraccionamiento se articulará a través de vialidades secundarias y terciari
 
 a) Las vialidades secundarias o colectoras medirán como mínimo 15.00 metros de sección, de paramento a paramento, con banquetas de 2.00 metros y arroyos de 11.00 metros;
 
-b) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 13.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+b) Las vialidades terciarias incluyendo calles de retorno medirán como mínimo 14.00 metros de sección de paramento a paramento, con banquetas de 2.00 metros y arroyos de 10.00 metros. Las calles de retorno tendrán un radio mínimo de 8.00 metros y una longitud no mayor a 50 metros;
 
 c) La distancia entre intersecciones en el total de vialidades no será mayor a 110 metros.
 
@@ -2903,13 +2915,13 @@ I. El parcelamiento propuesto por el solicitante, previa verificación de que el
 
 II. El inicio de obra de urbanización consistente en: Limpieza del terreno, trazo y nivelación de vialidades y conformación de plataformas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 205.
 
 Para obtener la autorización del proyecto de Lotificación e inicio de obra parcial, el solicitante deberá presentar la siguiente documentación:
 
-I. Ejemplar original de la "Publicación" en los medios señalado en el artículo 154 de este Reglamento;
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
+
+I. Ejemplar original de la "Publicación" en los medios señalado en el artículo 199 de este Reglamento.
 
 II. Factibilidad de integración vial y ubicación, dimensionamiento y aptitud de las áreas de donación -equipamiento urbano y áreas verdes-, en oficio y plano, expedida por autoridad municipal competente;
 
@@ -3141,9 +3153,9 @@ Al realizar los testimonios de escritura pública es obligación del fraccionado
 
 Para el caso de fraccionamientos y/o lotificaciones indebidas su atención deberá remitirse a lo dispuesto por el Código Penal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 5 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO VI. REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+### CAPÍTULO VII. REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
 ###### Artículo 229.
 
