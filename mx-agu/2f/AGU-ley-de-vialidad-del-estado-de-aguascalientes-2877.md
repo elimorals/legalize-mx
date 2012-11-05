@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2012-10-29"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2011.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE OCTUBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 143 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -145,7 +145,7 @@ Para los efectos de este Artículo todo el personal administrativo que depende d
 
 El Secretario de Seguridad Pública propondrá al Gobernador del Estado, los programas relativos a la vialidad del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 8o Bis.
 
@@ -441,7 +441,7 @@ Todos los vehículos deberán portar extinguidor contra incendios en buenas cond
 
 Queda prohibido en los vehículos portar en el parabrisas, en el medallón y en las ventanillas rótulos; carteles, calcomanías y objetos que obstruyan la visibilidad del conductor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 26.
 
@@ -945,7 +945,7 @@ III.- Portar en el cofre la leyenda "Transporte Escolar" colocada en sentido con
 
 IV.- Portar en los costados y parte posterior la leyenda "Transporte Escolar", para su plena identificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -965,7 +965,7 @@ VII.- Contar con dos extinguidores contra incendio en perfecto estado.
 
 VIII.- En las vías públicas transitar por el carril de más baja velocidad a la extrema derecha.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -1257,31 +1257,31 @@ V.- Conservar respecto del vehículo que los preceda, la distancia que garantice
 
 VI.- Dejar suficiente espacio, en zonas urbanas, para que otro vehículo que intente adelantarlo, pueda hacerlo sin peligro, excepto cuando a su vez trate de adelantar al que lo preceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
 VII.- Utilizar el cinturón de seguridad y verificar que todos los pasajeros mayores de ocho años de edad o bien que pesen más de 27 kilogramos, se coloquen los cinturones de seguridad, en los asientos delanteros y cuando el automóvil esté provisto de ellos, en los asientos traseros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
 VIII.- Asegurarse de que todos los pasajeros menores de un año de edad o bien que tengan un peso menor a 9 kilógramos, viajen en asientos de seguridad que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte de atrás del vehículo que conduzca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
 IX.- Asegurarse de que todos los pasajeros de entre uno y cuatro años de edad o bien que pesen entre 9 y hasta 18 kilogramos, viajen en asientos de seguridad que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte delantera del vehículo que conduzca; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
 X.- Asegurarse de que todos los pasajeros de entre cuatro y ocho años de edad que pesen más de 18 y hasta 27 kilogramos, viajen en asientos elevados que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte delantera del vehículo que conduzca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -1983,7 +1983,7 @@ I.- Deberán detener inmediatamente los vehículos en el lugar del suceso o tan 
 
 II.- Cuando resulten daños a bienes de la Nación, Estado, Municipio o de terceros, los implicados darán aviso a la autoridad competente que tome conocimiento, para que ésta pueda comunicar a su vez los hechos a las dependencias o particulares cuyos bienes hayan sido afectados, para los efectos procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 128.
 
@@ -2197,7 +2197,7 @@ IV.- En caso de accidente en que se causen lesiones, homicidio o daños en propi
 
 En los supuestos establecidos en el presente artículo, los agentes de vialidad también se encontrarán sujetos a disposiciones que para el efecto se establecen en la Legislación Penal del Estado de Aguascalientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2227,7 +2227,7 @@ En caso de actualizarse alguno de los supuestos contenidos en el párrafo quinto
 
 Ninguna persona deberá conducir vehículos por la vía pública, si tiene una cantidad de alcohol en la sangre superior a 0.8 miligramos por litro; en aire espirado, superior a 0.4 miligramos por litro o bajo el influjo de cualquier tipo de estupefaciente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 146.
 
@@ -2351,7 +2351,7 @@ Los municipios implementarán campañas permanentes antialcohólicas a través d
 
 ### CAPITULO XI. De las Sanciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2383,7 +2383,7 @@ III.- Solidariamente, los propietarios de negociaciones o establecimientos; y
 
 IV.- Los titulares de autorizaciones para operar las escuelas de manejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2723,7 +2723,7 @@ c) Ante vehículos de emergencia.
 
 36. Por circular vehículos equipados con banda de oruga, ruedas o llantas metálicas u otros mecanismos de traslación que dañen la superficie de rodamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2747,7 +2747,7 @@ b) Vehículos de transporte público de pasajeros:
 
 c) Transportes escolares:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2769,7 +2769,7 @@ d) Vehículos de transporte de carga:
 
 7. Efectuar fuera de los horarios señalados, maniobras de carga y descarga en vías primarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2779,13 +2779,13 @@ a) Todo tipo de vehículo:
 
 1. Conducir cualquier tipo de vehículo cuando se encuentre suspendida o cancelada la licencia de conducir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
 V. Quien obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas discapacitadas, el infractor se hará acreedor a la multa que se determine en la Ley de Ingresos del Municipio que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2937,7 +2937,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE AGOSTO DE 1995.
 
@@ -3035,7 +3035,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 18 DE AGOSTO DE 2008.
 
-DECRETO NUMERO 113, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 145 BIS, 154, 157 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+DECRETO NUMERO 113, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 145 BIS, 154, 157 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3055,7 +3055,7 @@ En el supuesto de que los demás Municipios de la Entidad, pretendan incrementar
 
 P.O. 18 DE AGOSTO DE 2008.
 
-DECRETO NUMERO 130, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 30 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+DECRETO NUMERO 130, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 30 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3063,7 +3063,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 7 DE DICIEMBRE DE 2009.
 
-###### ARTICULO ÚNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3075,7 +3075,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 362, POR EL QUE SE REFORMA LA FRACCION VIII Y SE ADICIONA LA FRACCION IX DEL ARTICULO 8° BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+DECRETO No. 362, POR EL QUE SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 8° BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3087,7 +3087,7 @@ En un plazo no mayor de treinta días naturales contados a partir del inicio de 
 
 P.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 363, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 57, 73, 73 BIS Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+DECRETO No. 363, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 57, 73, 73 BIS Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
