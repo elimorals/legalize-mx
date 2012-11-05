@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-instituto-de-transparencia-y-acceso-841
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-09"
-last_updated: "2011-12-09"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de diciembre de 2011.
 
@@ -1272,3 +1274,15 @@ Consejero Titular
 C. ERENDIRA BIBIANA MACIEL LÓPEZ
 
 Consejera Titular
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. El presente Reglamento Interno entrará en vigor al día siguiente de su aprobación por el Pleno del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California aprobado el día nueve de Noviembre de 2011 y publicado en el Periódico Oficial del Estado de Baja California el día nueve de diciembre de 2011.
+
+Artículo Tercero. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California. Por lo tanto envíese al Poder Ejecutivo para su publicación en el mismo.
+
+Artículo Cuarto. Las lagunas, antinomias e interpretaciones, que se pudieran presentar, derivadas de este instrumento legal serán resueltas por el Pleno del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California.
