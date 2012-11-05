@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-la-contraloria-del-8155
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2012-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -1668,3 +1670,19 @@ SÉPTIMO.- Las referencias que se hacen y las atribuciones que se otorgan en reg
 OCTAVO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas, órganos o áreas que se modifican o desaparecen, serán transferidas a las unidades administrativas que correspondan, en términos del presente Reglamento, y la Coordinación General Administrativa efectuará las acciones necesarias para tal fin, previo acuerdo del Secretario.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- La Secretaria de la Contraloría.- C. IRMA PATRICIA LEAL ISLAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría, de fecha once de mayo de dos mil once, publicado en el Periódico Oficial del Estado el día trece del mismo mes y año.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Las unidades administrativas con denominación nueva o distinta que se consideren en el presente Reglamento y que tengan competencia en asuntos que anteriormente correspondía a otras unidades administrativas, se harán cargo de los mismos, continuarán su substanciación y dictarán las resoluciones respectivas.
+
+QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en las disposiciones con relación a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las que correspondan, conforme a lo establecido en el presente Reglamento.
+
+SEXTO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas o áreas que desaparecen o se modifican, serán transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento, y la Coordinación General Administrativa efectuará las acciones necesarias para tal fin, de conformidad con las disposiciones aplicables.
