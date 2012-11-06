@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2012-08-30"
+last_updated: "2012-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 24083/LIX/12 PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE NOVIEMBRE DE 2012.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -3583,7 +3581,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 
 SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
-TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Municipal.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Pública Municipal.
 
 CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados (sic) partir del día siguiente de la entrada en vigor del presente decreto.
 
@@ -3591,13 +3591,15 @@ Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2
 
 QUINTO. Los Ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente Ley, será necesario hayan cumplido con:
 
-I. Constituir el Consejo Tarifario, de conformidad con las disposiciones de la presente Decreto; y
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+I. Constituir el Consejo Tarifario, de conformidad con las disposiciones del presente Decreto; y
 
 II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
 
-SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
-A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de de (sic) aplicación correspondiente a ese Municipio.
+SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
 
 P.O. 23 DE AGOSTO DE 2012.
 
