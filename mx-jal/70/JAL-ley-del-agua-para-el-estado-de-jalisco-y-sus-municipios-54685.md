@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2012-08-30"
+last_updated: "2012-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 24083/LIX/12 PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE NOVIEMBRE DE 2012.</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -867,8 +865,6 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y as
 
 Los municipios podrán celebrar convenios con el Estado para que éste, a través de la Comisión se haga cargo en forma temporal de la prestación de los servicios que les corresponden y a que se refiere ésta ley o para que se presten coordinadamente por el Estado y el propio municipio, observando para tal efecto, las disposiciones contenidas en la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 48.
@@ -887,7 +883,9 @@ I. Administrar en forma directa estos servicios, a través de la dependencia que
 
 II. Constituir organismos operadores descentralizados municipales o intermunicipales y EN SU CASO, FIJAR LAS BASES PARA LA INTEGRACIÓN Y OPERACIÓN DEL CONSEJO TARIFARIO, DE CONFORMIDAD A LAS PREVISIONES QUE PARA TALES EFECTOS SE ESTABLEZCAN EN LOS INSTRUMENTOS DE SU CREACIÓN;
 
-III. Concesionar los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, en los términos de lo dispuesto por la Constitución y la Ley de (sic) Gobierno y (sic) Administración Pública Municipal;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+III. Concesionar los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, en los términos de lo dispuesto por la Constitución y la Ley del Gobierno y la Administración Pública Municipal;
 
 IV. Celebrar convenios con el Estado en los términos previstos en el artículo 47 de la presente Ley; y
 
@@ -1177,9 +1175,13 @@ VI. Proponer las políticas y lineamientos mediante las cuales será viable el s
 
 VII. Hacer propuestas para la formulación, modificación y aprobación de los sistemas de cobranza y manejo de los fondos;
 
-X (SIC). Designar al consejero que desempeñará la función de secretario técnico; y
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
-X. Las demás que establezca la presente ley, su reglamento y los reglamentos municipales.
+VIII. Designar al consejero que desempeñará la función de secretario técnico; y
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+IX. Las demás que establezca la presente ley, su reglamento y los reglamentos municipales.
 
 ### CAPÍTULO III. De la participación de la sociedad
 
@@ -1657,7 +1659,7 @@ XVIII. Los demás que se establezcan en los reglamentos municipales, incluyendo 
 
 En el caso de los organismos operadores descentralizados intermunicipales, los ayuntamientos respectivos deberán de coordinarse para que sus leyes de ingresos se unifiquen en la parte correspondiente a las tarifas por los servicios de agua potable y saneamiento. El Congreso del Estado deberá tomar en cuenta dicha unificación en los decretos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2009)</small>
 
 ###### Artículo 100.
 
@@ -1813,7 +1815,7 @@ Se sancionará con:
 
 I. Multa por el equivalente de entre cincuenta hasta cien días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones I, II, VIII, X, XVII y XIX del artículo 102 de esta Ley;
 
-II. Multa por el equivalente de entre cien hasta doscientos días de salario mínimo vigente en el rea geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del articulo 102 de esta Ley;
+II. Multa por el equivalente de entre cien hasta doscientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del articulo 102 de esta Ley;
 
 III. Multa por el equivalente de entre doscientos hasta quinientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
 
@@ -1897,7 +1899,7 @@ C. P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE OCTUBRE DE 2007.
 
@@ -1913,9 +1915,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 
 SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
-TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración (sic) Municipal.
+TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Pública Municipal.
 
 CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados partir del día siguiente de la entrada en vigor del presente decreto.
 
@@ -1937,8 +1939,6 @@ I. CONSTITUIR EL CONSEJO TARIFARIO, DE CONFORMIDAD CON LAS DISPOSICIONES DEL PRE
 
 II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
 SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
-
-A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de de (sic) aplicación correspondiente a ese Municipio. (sic)
