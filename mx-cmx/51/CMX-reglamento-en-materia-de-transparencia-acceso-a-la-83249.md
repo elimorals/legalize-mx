@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-transparencia-acceso-a-la-83249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-17"
-last_updated: "2011-10-17"
+last_updated: "2012-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83249&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-10-10"
 ---
 # REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 6 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 17 de octubre de 2011.
 
@@ -751,3 +753,13 @@ ATENTAMENTE
 LIC. ERIKA ESTRADA RUIZ
 
 SECRETARIA TÉCNICA DE LA SECRETARÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 6 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento en Materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Tribunal Electoral del Distrito Federal, aprobado por el Pleno de este órgano jurisdiccional en reunión privada de 04 de octubre de 2011 y publicado en la Gaceta Oficial del Distrito Federal, el 17 de octubre de 2011.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
