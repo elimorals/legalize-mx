@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-combatir-y-erradicar-la-trata-de-8932
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2012-09-01"
+last_updated: "2012-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO.
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE NOVIEMBRE DE 2012.</small>
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 1 de septiembre de 2012.
 
@@ -107,8 +107,6 @@ El Gobierno Estatal establecerá una Comisión interinstitucional para coordinar
 
 Los cargos de los integrantes de la Comisión son de carácter honorífico, con excepción del Secretario Técnico.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 5.
 
 La Comisión estará integrada por:
@@ -127,7 +125,9 @@ d) Secretaría de Salud;
 
 e) Secretaría de Vialidad y Transporte;
 
-f) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+f) Secretaría de Seguridad Pública, Prevención y Reinserción Social;
 
 g) Secretaría del Trabajo y Previsión Social;
 
@@ -143,7 +143,9 @@ l) El Instituto Jalisciense de las Mujeres;
 
 m) El instituto Jalisciense de la Juventud, y
 
-n) El Centro de Atención para las Víctimas de los Delitos;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+n) El Centro de Atención para las Víctimas del Delito;
 
 III. El Presidente del Supremo Tribunal de Justicia, o su representante;
 
@@ -166,8 +168,6 @@ La Comisión, a propuesta de su presidente podrá, invitar con efectos meramente
 La Comisión se coordinará con los gobiernos municipales para el eficaz cumplimiento de los fines de la ley y podrá proponerles su inclusión en las actividades que así se requiera.
 
 Los municipios establecerán los objetivos y estrategias tendientes a la prevención de los delitos de trata de personas, así como la protección, atención, el apoyo y la asistencia a las víctimas, ofendidos y testigos de trata de personas, en sus planes y programas de desarrollo municipales así como en los programas de trabajo, mediante disposiciones reglamentarias.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 9.
 
@@ -199,7 +199,9 @@ XII. Elaborar un informe anual, el cual contendrá los resultados obtenidos del 
 
 XIII. Coordinarse con la Comisión u órgano homólogo a nivel federal;
 
-XIV. Asesorar a las dependencias y entidades de la administración pública estatal y municipal en la realización de acciones tendientes a prevenir y combatir la trata de personas y proteger a sus víctimas ofendidos y testigos, y
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+XIV. Asesorar a las dependencias y entidades de la administración pública estatal y municipal en la realización de acciones tendientes a prevenir y combatir la trata de personas y proteger a sus víctimas, ofendidos y testigos, y
 
 XV. Las demás que se establezcan en esta ley y su Reglamento.
 
@@ -273,13 +275,13 @@ La Comisión propondrá la adopción de medidas administrativas, legislativas y 
 
 Las autoridades estatales y municipales, en el ámbito de sus competencias, procurarán la seguridad de las víctimas, ofendidos y testigos de los delitos de trata de personas que se encuentren en territorio estatal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 La Coordinación General, con las autoridades, organismos del Estado y sus municipios adoptarán, entre otras, las siguientes medidas de atención y protección:
 
-a) Proporcionar orientación jurídica, asistencia social, educativa y laboral a las víctimas, ofendida (sic) y testigos de los delitos de trata de personas y sus familiares;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+a) Proporcionar orientación jurídica, asistencia social, educativa y laboral a las víctimas, ofendidos y testigos de los delitos de trata de personas y sus familiares;
 
 b) Auxiliarse de las instituciones, organismos y dependencias correspondientes para asignar un traductor o interprete, en el caso de que las víctimas, ofendidos y testigos sean sordomudos, pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al castellano, quien le asistirá en todo momento;
 
@@ -367,21 +369,19 @@ La Comisión promoverá que se imparta a la población, capacitación en la prev
 
 ### CAPÍTULO I. DE LOS DELITOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 28.
 
-Los delitos en materia de trata de personas y sus sanciones serán los que establece la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a la Víctimas (sic) de estos Delitos.
+Los delitos en materia de trata de personas y sus sanciones serán los que establece la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
-En materia de investigación, procedimientos y sanciones, comprendidas en ésta la reparación del daño de los delitos en materia de trata de personas se aplicarán las disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a la Víctimas (sic) de estos Delitos, y en lo no previsto en ésta se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal Contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
+En materia de investigación, procedimientos y sanciones, comprendidas en ésta la reparación del daño de los delitos en materia de trata de personas se aplicarán las disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y en lo no previsto en ésta se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal Contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ### CAPÍTULO II. DE LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS, OFENDIDOS Y EL FONDO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 30.
 
@@ -399,17 +399,21 @@ IV. Recursos producto de los bienes que hayan sido objeto de extinción de domin
 
 V. Recursos que se produzcan por la administración de valores o los depósitos en dinero, de los recursos derivados de los Fondos para la Atención de víctimas, ofendidos y testigos, distintos a los que se refiere la fracción anterior, y
 
-VI. Las donaciones o aportaciones hechas a su favor por terceros.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+V (SIC). Las donaciones o aportaciones hechas a su favor por terceros.
 
 El Fondo para la Atención de víctimas, ofendidos y testigos de los delitos previstos en la Ley General será administrado por la instancia y en los términos que disponga el Reglamento, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
 
-Los recursos que integren el Fondo así como los que destine la Federación a los Fondos de Protección y Asistencia a las víctimas, ofendidos y testigos, serán fiscalizados por la Auditoría Superior de la Federación y la Auditoría del Estado, según corresponda.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+Los recursos que integren el Fondo así como los que destine la Federación a los Fondos de Protección y Asistencia a las víctimas, ofendidos y testigos, serán fiscalizados por la Auditoría Superior de la Federación y la Auditoría Superior del Estado, según corresponda.
 
 Asimismo, las instancias encargadas de la revisión de la cuenta pública en los ámbitos de sus respetivas competencias, fiscalizarán los Fondos de Protección y Asistencia a las víctimas, ofendidos y testigos.
 
-Los recursos del Fondo, así como los correspondientes a los fondos del Estado de Jalisco, provenientes de las fracciones II, III, y IV del presente artículo, podrán utilizarse para el pago de la reparación del daño a la víctima y ofendidos en los términos de las legislaciones en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Los recursos del Fondo, así como los correspondientes a los fondos del Estado de Jalisco, provenientes de las fracciones II, III, y IV del presente artículo, podrán utilizarse para el pago de la reparación del daño a las víctimas y ofendidos en los términos de las legislaciones en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
 
 ###### Artículo 31.
 
@@ -417,11 +421,15 @@ El monto que determine el juez para la reparación del daño deberá resarcir a 
 
 Ese resarcimiento comprenderá la devolución de los bienes o el pago por los daños o pérdidas sufridos, el reembolso de los gastos realizados como consecuencia de la victimización, la prestación de servicios y la restitución de sus derechos. Incluyendo:
 
-I. Costos de tratamientos médicos, medicinas, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, de ser el caso, hasta la total recuperación de la víctima u ofendidos, así como su rehabilitación;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+I. Costos de tratamientos médicos, medicinas, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, de ser el caso, hasta la total recuperación de las víctimas o (sic) ofendidos, así como su rehabilitación;
 
 II. Costos de terapias o tratamientos psiquiátrico, psicológico, rehabilitación social y ocupacional hasta la total recuperación de la víctima u ofendido;
 
-III. Costos de transporte, incluido el de retorno a su lugar de origen, si así lo decide la víctima y ofendidos, gastos de alimentación, vivienda provisional, vestido y los que sean necesarios durante la investigación, el proceso y la rehabilitación física y psíquica total de la víctima u ofendidos;
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+III. Costos de transporte, incluido el de retorno a su lugar de origen, si así lo deciden las víctimas y ofendidos, gastos de alimentación, vivienda provisional, vestido y los que sean necesarios durante la investigación, el proceso y la rehabilitación física y psíquica total de las víctimas u ofendidos;
 
 IV. Pérdida de oportunidades, en particular las de empleo, educación y prestaciones sociales;
 
@@ -429,13 +437,13 @@ V. Daños materiales y pérdida de ingresos, incluida la indemnización laboral 
 
 VI. Los gastos de asistencia y representación jurídica o de peritos hasta la total conclusión de los procedimientos legales necesarios, y
 
-VII. La declaración que restablezca la dignidad y la reputación de la victima u ofendidos.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+VII. La declaración que restablezca la dignidad y la reputación de las victimas u ofendidos.
 
 ###### Artículo 32.
 
 Cuando funcionarios públicos u otros agentes que actúen a título oficial cometan cualquiera de los delitos objeto de esta Ley, las víctimas u ofendidos serán resarcidas por el Estado, conforme a la legislación en materia de responsabilidad patrimonial, a través de las dependencias o instancias cuyos funcionarios o agentes hayan sido responsables de los delitos o los daños causados.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 T R A N S I T O R I O S
 
@@ -445,7 +453,9 @@ SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento corre
 
 TERCERO. Se autoriza al Titular del Poder Ejecutivo en el Estado, a través de la Secretaría de Finanzas y Administración, a realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para el debido cumplimiento de la ley.
 
-CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
 
 QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
 
