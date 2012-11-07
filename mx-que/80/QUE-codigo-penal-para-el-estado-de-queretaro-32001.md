@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-09-19"
+last_updated: "2012-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -571,9 +571,9 @@ El decomiso consiste en la pérdida de la propiedad, posesión o titularidad y s
 
 Las autoridades competentes, durante el trámite de la averiguación previa o el proceso, procederán de inmediato al aseguramiento de bienes que podrían ser materia del decomiso, cualquiera que sea su naturaleza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 61.
 
@@ -595,45 +595,51 @@ Los bienes de consumo perecederos podrán ser donados a instituciones de asisten
 
 Los bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quienes tengan derecho a recibirlos, se procederá a su venta inmediata, si esto es posible, sin sujetarse a trámites o requisitos de subasta pública y el producto obtenido quedará a disposición de quien acredite tener derecho a recibirlo por un lapso de sesenta días, contados a partir de la notificación que se le haga; transcurrido ese tiempo sin acreditar o ejercer su derecho, se aplicará a favor del Poder Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 La autoridad judicial o el Ministerio Público que decreten el aseguramiento de bienes, incluyendo dinero o valores que estén a su disposición y que no hubieren sido decomisados, deberán notificar al interesado o a su representante legal inmediatamente, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta que se elabore del aseguramiento, que deberá incluir inventario con la descripción y el estado en que se encuentren los bienes que se aseguren para que manifieste lo que a su derecho convenga. En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de sesenta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Poder Ejecutivo del Estado, el cual determinará su destino según su utilidad, de conformidad con las disposiciones legales y administrativas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos, siempre que éste no haya tenido conocimiento de su utilización para la realización del delito o habiéndolo tenido, se hubiere encontrado en un estado real de imposibilidad para impedirlo o de haber dado aviso a la autoridad competente. La autoridad judicial o el Ministerio Público decidirá sobre ello y notificará su resolución al interesado o al representante legal dentro de los treinta días siguientes a la solicitud de devolución, para que en el plazo de noventa días naturales a partir de la notificación correspondiente se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Poder Ejecutivo del Gobierno del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando el aseguramiento de los bienes se haya hecho constar en el Registro Público de la Propiedad y del Comercio, la autoridad judicial o el Ministerio Público ordenarán su cancelación.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Los bienes que estén a disposición del Ministerio Público o de la autoridad judicial, que sean de costosa o difícil conservación y además carezcan ya de importancia como evidencia en la investigación o en el proceso, por haber sido debidamente descritos y fijados a través de medios técnicos o sean de nulo o mínimo valor económico por el estado en que se encuentren o que nadie los reclame o acredite derecho a la devolución, a pesar de haber sido notificados con sesenta días de anticipación, podrán aplicarse a favor del Poder Ejecutivo del Estado y ordenarse su inmediata destrucción. Se presumirá que se encuentran en esta situación y por lo tanto, podrá ordenarse su inmediata destrucción, previa notificación a los interesados, todos aquellos bienes que tengan tres años o más a disposición de la autoridad investigadora o judicial y no sean objeto de reclamo por parte interesada, dentro de los sesenta días posteriores a dicha notificación.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Para los efectos de este artículo, la notificación al interesado se tendrá por realizada, con el simple hecho de publicar, por tres veces, de siete en siete días, en dos periódicos de mayor circulación en la Entidad, la relación de bienes que se destruirán en caso de no ser reclamados; esto independientemente de que la información se ponga a disposición de la ciudadanía en los medios electrónicos de que disponga la autoridad que ordene la medida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley de la Procuraduría General de Justicia del Estado, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
+En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley de la Procuraduría General de Justicia del Estado de Querétaro, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Querétaro.
 
@@ -729,7 +735,7 @@ MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 68.
 
-El Órgano Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
+El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -795,19 +801,19 @@ II. Que el conductor abandone a la víctima o no le preste auxilio.
 
 Con independencia de las circunstancias, siempre se considerará como delito grave cuando se prive de la vida a dos o más personas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 77.
 
-El delito culposo se castigará únicamente con pago de reparación del daño y de tres a noventa días multa y se perseguirá solo a petición del ofendido:
+El delito culposo se sancionará únicamente con pago de la reparación del daño y de tres a noventa días multa, cuando la conducta origine alguno de los siguientes resultados típicos y observando para su persecución el requisito de procedibilidad que respectivamente contemplen éstos:
 
-I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, cualquiera que sea su monto, y
+I. Cuando por cualquier medio, se cause daño en las cosas, cualquiera que sea su monto; y
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
+II. Cuando se originen lesiones de las comprendidas en las fracciones I, II, III y V del artículo 127 de este Código.
 
-II.- Cuando la conducta culposa origine lesiones de las comprendidas en las fracciones I, II, III, y V del artículo 127 de este Código.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
-
-Este artículo sólo se aplicará cuando el imputado al cometer el delito no se encontrare bajo el influjo de estupefacientes, psicotrópicos, sustancias volátiles inhalables, bebidas embriagantes o cualquier otra sustancia que produzca efectos análogos y cuando no se trate de delitos cometidos por un conductor de vehículo de motor que preste servicio de transporte público, personal o escolar, con motivo de sus funciones.
+Este artículo sólo se aplicará cuando el imputado al cometer el delito no se encontrare bajo el influjo de estupefacientes, psicotrópicos, sustancias volátiles inhalables, bebidas embriagantes o cualquier otra sustancia que produzca efectos análogos, o cuando no se trate de delitos cometidos por un conductor de vehículo de motor que preste servicio de transporte público, de personal o escolar, en ejercicio de su actividad laboral.
 
 ###### ARTICULO 78.
 
@@ -1215,11 +1221,13 @@ Al que prive de la vida a otra, se le impondrá prisión de 7 a 15 años y multa
 
 ARTICULO 125 BIS.- Para determinar que una persona ha perdido la vida, se estará a lo previsto en la Ley General de Salud.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 126.
 
-Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de este Código; el homicidio se sancionará con prisión de quince a cincuenta años.
+Cuando concurra alguna de las circunstancias señaladas en el artículo 131 de este Código; el homicidio se sancionará con prisión de quince a cincuenta años y multa de 500 a 750 días.
 
 ### CAPITULO III BIS. VIOLENCIA EN ESPECTÁCULOS DEPORTIVOS
 
@@ -1311,9 +1319,23 @@ III.- El agente haya realizado el hecho quebrantando la confianza o seguridad qu
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados, y
+IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados, y (sic)
 
 V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias atenuantes señaladas en este Código, en agravio de su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de ese parentesco o relación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+VI.- El delito se cometa en forma violenta en contra de una mujer, por razones de género, entendiéndose como tales:
+
+a) La violencia física extrema ejercida por persona con la que la víctima haya tenido parentesco por consanguinidad, por afinidad o civil, relación de matrimonio, concubinato, noviazgo o amistad o de subordinación o superioridad que impliquen confianza.
+
+b) La mutilación o lesión de glándulas mamarias u órganos genitales de la víctima o cuando ésta presente signos de violencia sexual de cualquier tipo, ocasionadas por su victimario:
+
+c) Los antecedentes de amenazas a la integridad física o de acoso o de lesiones cometidas por el sujeto activo en contra de la víctima.
+
+d) Que el cuerpo de la víctima haya sido depositado o arrojado en un lugar público con fines de exhibición.
 
 ###### ARTICULO 132.
 
@@ -2095,11 +2117,27 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 Al que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
 
-I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado no exceda de 600 veces el salario mínimo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado exceda de 600 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado sea hasta 600 veces el salario mínimo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado sea mayor de 600 y hasta 1200 veces el salario mínimo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+III.- Prisión de 10 a 15 años y de 500 hasta 750 días multa, cuando el valor de lo defraudado sea mayor de 1200 veces el salario mínimo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán una tercera parte.
 
@@ -2511,6 +2549,8 @@ II.- A quien elabore o produzca cualquiera de las sustancias referidas en las fr
 
 III.- Cuando el valor económico de las sustancias, animales o productos de los supuestos del artículo anterior, exceda en su conjunto del importe de tres mil veces el salario mínimo vigente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 #### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
@@ -2557,11 +2597,27 @@ Cuando se trate de un servidor público encargado de prevenir, denunciar, invest
 
 ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 221.
 
 Al que públicamente provoque a cometer un delito o haga la apología de éste, se le impondrá prisión de 3 meses a 1 año y de 10 a 30 días multa.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO V. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTPICULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 229 TER.- Al que dolosamente realice una llamada dando aviso de una emergencia falsa, con el fin de provocar la movilización de cuerpos policíacos, de bomberos, de la Cruz Roja Mexicana, de urgencias médicas o de protección civil, para atenderla, se le impondrá prisión de dos meses a dos años y de diez a cien días multa.
+
+Las mismas penas se aplicarán al que permita utilizar su teléfono, a sabiendas de que se hará una llamada para dar un aviso de emergencia falsa, con los fines previstos en el párrafo anterior.
+
+Este delito se perseguirá a petición del representante legal de cualquiera de las instituciones cuya movilización se pretenda realizar o se haya realizado, como consecuencia del aviso de emergencia.
 
 ### CAPITULO I
 
@@ -2575,17 +2631,9 @@ OBJETOS
 
 DOCUMENTOS
 
+## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LOS MEDIOS DE TRANSPORTE, DE LAS VÍAS DE COMUNICACIÓN Y DE LOS SERVICIOS DE EMERGENCIA
+
 ### CAPITULO III. USO DE DOCUMENTOS FALSOS O ALTERADOS
-
-## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD
-
-Y EL NORMAL FUNCIONAMIENTO DE LOS
-
-MEDIOS DE TRANSPORTE Y DE LA VÍAS
-
-DE COMUNICACIÓN
-
-### CAPITULO IV. USURPACIÓN DE PROFESIONES
 
 ###### ARTICULO 222.
 
@@ -2617,9 +2665,7 @@ Al que por cualquier medio destruya total o parcialmente un vehículo de servici
 
 Cuando se cause algún daño por medio de cualquier vehículo de motor, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+### CAPITULO IV. USURPACIÓN DE PROFESIONES
 
 ###### ARTICULO 228.
 
@@ -2641,7 +2687,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 En ambos casos se estará a lo dispuesto en el Artículo 227 de esta Ley.
 
-### CAPITULO II. PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
+### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -2655,6 +2701,10 @@ En tratándose de cónyuges, concubinos, ascendientes y descendientes, hermanos,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
+### CAPITULO II. PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
 ### CAPITULO III. TURISMO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
@@ -2665,6 +2715,10 @@ A quien tenga actos erótico sexuales con persona menor de dieciocho años de ed
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
+## TITULO TERCERO. DELITOS CONTRA LA FE
+
+PUBLICA
+
 ### CAPITULO IV. RELACIONES SEXUALES REMUNERADAS CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
@@ -2672,16 +2726,6 @@ A quien tenga actos erótico sexuales con persona menor de dieciocho años de ed
 ARTICULO 238 TER.- Al que pague con dinero o en especie, a la víctima o a un tercero, para obtener cópula o sostener actos erótico sexuales con una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrá pena de 6 a 12 años de prisión y de 200 a 500 días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
-
-## TITULO TERCERO. DELITOS CONTRA LA FE
-
-PUBLICA
-
-### CAPITULO ÚNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS
-
-Y CONTRA LAS NORMAS DE INHUMACIÓN Y
-
-EXHUMACIÓN
 
 ###### ARTICULO 230.
 
@@ -2691,7 +2735,11 @@ Si los objetos falsificados o alterados son propiedad de un particular, la sanci
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicarán las penas previstas en el párrafo anterior.
 
-### CAPITULO ÚNICO. RESPONSABILIDAD PROFESIONAL
+### CAPITULO ÚNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS
+
+Y CONTRA LAS NORMAS DE INHUMACIÓN Y
+
+EXHUMACIÓN
 
 ###### ARTICULO 231.
 
@@ -2747,6 +2795,12 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un servidor público en ejercicio de sus funciones, será penado, además, con privación del empleo e inhabilitación para ocupar otro cargo público hasta por 3 años.
 
+### CAPITULO ÚNICO. RESPONSABILIDAD PROFESIONAL
+
+###### ARTICULO 234.
+
+Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de 3 meses a 3 años y de 15 a 90 días multa.
+
 ### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE 2000)</small>
@@ -2785,9 +2839,15 @@ III. La reparación del daño, en los términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
-###### ARTICULO 234.
+###### ARTICULO 235.
 
-Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de 3 meses a 3 años y de 15 a 90 días multa.
+Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
+
+## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO ÚNICO. DELITOS CONTRA LA SEGURIDAD Y EL
 
@@ -2810,18 +2870,6 @@ Para los efectos de este Título, se entiende por asentamiento humano irregular 
 Artículo 246 G.- La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en el presente capítulo se realicen sobre áreas protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
 En cualquier caso, la sanción se incrementará de 3 meses a 3 años, si el sujeto activo obtuvo cualquier beneficio de carácter patrimonial por el delito cometido, sin perjuicio de la reparación del daño ocasionado.
-
-###### ARTICULO 235.
-
-Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
-
-## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
-
-### CAPITULO I. SEDICIÓN
 
 ###### ARTICULO 236.
 
@@ -2861,7 +2909,7 @@ No se actualizarán estos delitos tratándose de programas preventivos, educativ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
-### CAPITULO II. MOTÍN
+### CAPITULO I. SEDICIÓN
 
 ###### ARTICULO 238.
 
@@ -2881,9 +2929,9 @@ Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
-### CAPITULO III. REBELIÓN
+### CAPITULO II. MOTÍN
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. REBELIÓN
 
 ###### ARTICULO 239.
 
@@ -2919,7 +2967,7 @@ NORMAS DE INHUMACIÓN Y
 
 EXHUMACIÓN
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
 ###### ARTICULO 240.
 
@@ -2937,7 +2985,7 @@ Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de 
 
 EJERCICIO DE LA PROFESIÓN
 
-### CAPITULO VI. CONSPIRACIÓN
+### CAPITULO V. SABOTAJE
 
 ###### ARTICULO 242.
 
@@ -2993,9 +3041,9 @@ A los encargados, empleados o dependientes de farmacias que al surtir una receta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
 
-### CAPITULO VII. DISPOSICIONES COMUNES
+### CAPITULO VI. CONSPIRACIÓN
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VII. DISPOSICIONES COMUNES
 
 ## TITULO OCTAVO. DELITOS CONTRA LA SEGURIDAD Y EL
 
@@ -3003,9 +3051,7 @@ ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
-### CAPITULO II. DESEMPEÑO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ## TITULO PRIMERO. DELITOS CONTRA LA
 
@@ -3013,9 +3059,9 @@ SEGURIDAD INTERIOR DEL
 
 ESTADO
 
-### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES
+### CAPITULO II. DESEMPEÑO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
 
-PUBLICAS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 #### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
 
@@ -3025,7 +3071,9 @@ PUBLICO COMETIDOS POR LOS
 
 SERVIDORES PÚBLICOS
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES
+
+PUBLICAS
 
 ###### ARTICULO 247.
 
@@ -3033,9 +3081,7 @@ A los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autori
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición se les sancionará con prisión de 2 a 12 años.
 
-### CAPITULO V. INTIMIDACIÓN
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 248.
 
@@ -3043,7 +3089,7 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín se les aplicará prisión de 2 a 12 años.
 
-### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPITULO V. INTIMIDACIÓN
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3085,7 +3131,7 @@ Los rebeldes no serán responsables de los homicidios ni de las lesiones inferid
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros salvo que hubieran cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-### CAPITULO VII. PECULADO
+### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3095,7 +3141,7 @@ Se impondrá prisión de 3 a 30 años, sin perjuicio de las penas que correspond
 
 Se aplicará prisión de 1 a 9 años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VIII. COHECHO
+### CAPITULO VII. PECULADO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3111,7 +3157,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO IX. CONCUSIÓN
+### CAPITULO VIII. COHECHO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3119,9 +3165,9 @@ Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las 
 
 A quienes resuelvan de concierto (sic) cometer uno o varios delitos del presente Título y acuerden los medios de llevar a cabo su determinación, se les impondrá prisión de 1 a 5 años.
 
-### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPITULO IX. CONCUSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 257.
 
@@ -3141,9 +3187,9 @@ PUBLICO COMETIDOS POR
 
 PARTICULARES
 
-### CAPITULO XI. NEGOCIACIONES ILÍCITAS
+### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 259.
 
@@ -3171,7 +3217,7 @@ Una vez que haya causado ejecutoria la sentencia, el Juez deberá notificar a la
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2012)</small>
 
-### CAPITULO XII. TRAFICO DE INFLUENCIA
+### CAPITULO XI. NEGOCIACIONES ILÍCITAS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3201,13 +3247,15 @@ VI. Por sí o por interpósita persona, rinda informes a su superior jerárquico
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
+### CAPITULO XII. TRAFICO DE INFLUENCIA
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 262.
 
 Comete el delito de abandono del servicio público, el servidor público que sin causa justificada y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas.
 
-### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
+### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
 
 ###### ARTICULO 263.
 
@@ -3243,9 +3291,7 @@ Cuando el monto del producto del delito o de los daños o perjuicios causados ex
 
 Además de la (sic) penas establecidas en el primer párrafo de este artículo, en el caso de las conductas previstas en la fracción XI, se impondrá al servidor público que resulte responsable de ellas, la destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE
-
-RECURSOS PÚBLICOS
+### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
 ###### ARTICULO 264.
 
@@ -3273,27 +3319,29 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 años y de 30 a 300 días multa, penas que se aumentarán hasta en una mitad más por el caso previsto en la fracción VI de este Artículo.
 
-### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
+### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE
+
+RECURSOS PÚBLICOS
 
 ###### ARTICULO 265.
 
 Comete el delito de intimidación, el servidor público que por sí o por interpósita persona, intimide a cualquier otra utilizando la violencia física o moral, para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito.
 
-### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
-
-PARTICULARES
+### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
 
 ###### ARTICULO 266.
 
 Cometen el delito de coalición de servidores públicos, los servidores públicos que de común acuerdo tomen medidas contrarias a una Ley, reglamento o disposición de carácter general, impidan su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
+
+PARTICULARES
 
 ###### ARTICULO 267.
 
 Comete el delito de peculado el servidor público que para provecho propio o ajeno, desvíe o sustraiga dinero, valores o cualquier otro bien perteneciente a los Poderes, dependencias o entidades de la administración pública del Estado, de un Municipio o de un particular, si por razón de su cargo lo tuviere recibido en administración, en depósito, en resguardo o por concepto de fianza u otra causa.
 
-### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
+### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 268.
 
@@ -3301,15 +3349,13 @@ Comete el delito de cohecho el servidor público que por sí o por interpósita 
 
 En ningún caso se devolverán a los responsables del delito de cohecho, el dinero o dádivas que se hubiesen entregado.
 
-### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
+### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 269.
 
 Comete el delito de concusión el servidor público que con ese carácter y a titulo de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
 
-### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
-
-CONDECORACIONES
+### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 270.
 
@@ -3317,33 +3363,31 @@ Comete el delito de enriquecimiento ilícito el servidor público que con motivo
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES
+### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
 
-PÚBLICOS
+CONDECORACIONES
 
 ###### ARTICULO 271.
 
 Comete el delito de negociaciones ilícitas el servidor público que en el desempeño de sus atribuciones y facultades otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público o a otra persona ajena a la relación que como servidor público tiene o cause perjuicios patrimoniales a los Poderes, dependencias o entidades de la administración pública del Estado o Municipios o que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquiera otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES
+
+PÚBLICOS
 
 ###### ARTICULO 272.
 
 Comete el delito de tráfico de influencias el servidor público que por sí o por interpósita persona solicite, promueva o gestione la tramitación o resolución ilícita de negocios públicos o cualquier acto ajeno a las responsabilidades inherentes a su empleo, cargo o comisión, para obtener beneficios económicos para sí o para cualquier persona.
 
-### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
-
-DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 273.
 
 Al particular que promueva una conducta ilícita de un servidor público o se preste para que él mismo o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de 3 meses a 4 años y de 10 a 100 días multa.
 
-### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O
+### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
 
-DAÑO DE ACTUACIONES U OBJETOS
-
-RELACIONADOS CON ELLAS
+DE PRUEBAS
 
 ###### ARTICULO 274.
 
@@ -3353,9 +3397,11 @@ Al particular que de manera expontánea (sic) dé u ofrezca dinero o cualquier o
 
 El juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el artículo anterior o, a su juicio, eximirlo de las mismas, cuando denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar.
 
-### CAPITULO V. EVASIÓN DE PERSONAS ASEGURADAS
+### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2002)</small>
+DAÑO DE ACTUACIONES U OBJETOS
+
+RELACIONADOS CON ELLAS
 
 ###### ARTICULO 276.
 
@@ -3377,25 +3423,25 @@ Además de las penas a que se refiere el artículo anterior el perito, intérpre
 
 Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad se le impondrá prisión de 3 meses a 1 año y hasta 20 días multa.
 
+### CAPITULO V. EVASIÓN DE PERSONAS ASEGURADAS
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2002)</small>
+
 ### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS
 
 DE LIBERTAD Y MEDIDAS DE SEGURIDAD
-
-### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ## TITULO CUARTO. DELITOS CONTRA LA
 
 ADMINISTRACIÓN DE JUSTICIA
 
-### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 280.
 
 Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de 3 meses a 2 años de prisión y hasta 20 días multa.
 
-### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y
-
-LITIGANTES
+### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 281.
 
@@ -3407,9 +3453,9 @@ Al que procure con actos materiales impedir la ejecución de una obra o trabajos
 
 Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de 1 a 2 años y de 20 a 40 días multa. Si se usare violencia, las penas se aumentarán hasta, en una mitad más.
 
-### CAPITULO X. DE LA TORTURA
+### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+LITIGANTES
 
 ###### ARTICULO 283.
 
@@ -3419,9 +3465,9 @@ Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
 
-### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+### CAPITULO X. DE LA TORTURA
 
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 284.
 
@@ -3436,6 +3482,10 @@ Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
+
+### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+
+(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 286.
 
@@ -4362,3 +4412,23 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 77, 126, 131, 193 Y SE ADICIONA EL CAPÍTULO V CON UN ARTICULO 229 TER DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 61 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
