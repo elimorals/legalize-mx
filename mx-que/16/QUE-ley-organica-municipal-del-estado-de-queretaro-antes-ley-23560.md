@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2009-12-23"
+last_updated: "2012-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1661,13 +1661,15 @@ Las diferentes dependencias y oficinas del gobierno municipal, previa solicitud 
 
 El ayuntamiento por conducto de su Secretario, tan pronto reciba el Proyecto de Presupuesto de Egresos, lo turnará a la Comisión de Hacienda Patrimonio y Cuenta Pública para que, en un plazo de ocho días, lo estudie y emita el dictamen respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 112.
 
-En la formulación del Presupuesto de Egresos podrá observarse, en lo aplicable, las normas relativas de la Ley de Hacienda de los Municipios del Estado de Querétaro o los lineamientos siguientes:
+En la formulación del Presupuesto de Egresos deberá observarse lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, así como los lineamientos siguientes:
 
-I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas atendiendo a los principios de racionalidad, austeridad y disciplina;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas, atendiendo a los principios de eficiencia, eficacia, economía, transparencia, honradez y sobre todo austeridad, para satisfacer los objetivos a los que deben destinarse los recursos públicos;
 
 II. Sólo habrá un Presupuesto, las modificaciones de partidas, una vez aprobado aquél, deberán sujetarse a la aprobación del Ayuntamiento;
 
@@ -1675,13 +1677,25 @@ III. Todos los gastos públicos deberán consignarse en el Presupuesto o en modi
 
 IV. Las autorizaciones presupuestales del gasto no se formularán en forma general, sino por partidas detalladas y específicas, sin perjuicio de agruparlas en partidas globales;
 
-V. Preferentemente que el total de sueldos, salarios y prestaciones al personal, no exceda del 33% del total del presupuesto;
+V. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2012)
 
-VI. Preferente que la inversión en obra pública sea de por lo menos el equivalente al 30% del ingreso total;
+VI. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2012)
 
-VII. Se clasificarán los gastos públicos para facilitar su formulación, ejecución, contabilización y evaluación; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+VII. El gasto previsto en el Presupuesto de Egresos, para la realización de todas las festividades públicas en un ejercicio fiscal, se desglosará mediante un anexo al presupuesto, que constituirá información pública y deberá especificar:
+
+a) La fecha o período de la festividad que corresponda, así como su denominación más popular o usual con la que sea identificada;
+
+b) El importe de recursos públicos totales que será asignado a cada festividad, por separado y por cada rubro de gasto; y
+
+c) En su caso, la descripción general de las estrategias de recuperación del gasto, que contribuyan paulatinamente el autofinanciamiento total o parcial del evento; o bien, a disminuir las cargas sobre el presupuesto público.
 
 VIII. Clasificará como grupos fundamentales de la autorización del gasto público los capítulos de servicios personales y generales; materiales y suministros; maquinaria, mobiliario y equipo; adquisición de muebles e inmuebles; construcciones; transferencias; deuda pública, y asignaciones globales suplementarias. Estos capítulos se agruparán en forma de gasto corriente, de inversión y deuda pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+IX. Incluirá los tabuladores que contengan las remuneraciones, sean fijas o variables, en efectivo o en especie, de los servidores públicos, en los términos que señala la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
 
 ###### ARTICULO 113.
 
@@ -2351,7 +2365,7 @@ LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE OCTUBRE DE 2004.
 
@@ -2586,3 +2600,9 @@ Artículo Segundo. La presente Ley entrará en vigor el día primero de enero de
 Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
