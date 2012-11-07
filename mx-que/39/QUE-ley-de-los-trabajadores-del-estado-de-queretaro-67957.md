@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2012-05-18"
+last_updated: "2012-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -271,9 +271,13 @@ Su pago se efectuará en el lugar en que los trabajadores presten sus servicios 
 
 Para los efectos del pago de las prestaciones contenidas en esta Ley, como en los convenios suscritos entre el Gobierno del Estado, Municipios y sus sindicatos, se entiende por salario el sueldo presupuestal y los quinquenios.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-El salario debe ser remunerador. En igualdad de condiciones, al trabajo igual, prestado a la misma dependencia, debe corresponder salario igual. Sus modificaciones serán convenidas por las partes, según los presupuestos de egresos respectivos.
+El salario debe ser remunerador. En igualdad de condiciones, al trabajo igual, prestado a la misma dependencia, debe corresponder salario igual.
+
+Los salarios serán establecidos mediante los tabuladores que señale la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro en los Presupuestos de Egresos respectivos.
 
 ###### Artículo 38.
 
@@ -1722,3 +1726,9 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
