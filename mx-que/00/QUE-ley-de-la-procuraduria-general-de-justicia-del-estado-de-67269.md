@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2012-09-19"
+last_updated: "2012-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -207,17 +207,17 @@ X. Cuando aparezca que el o los indiciados en contra de quien o quienes se inici
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 XI. En las diligencias de preparación del ejercicio de la acción penal que se hayan iniciado y se sigan por delitos perseguibles por querella, hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá de poner a consideración del ofendido la posibilidad de llevar a cabo una conciliación con el imputado y si lo acepta, deberá asentarlo y proceder a dictar las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto de la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimento para ejercitar acción penal el que se encuentre pendiente la conciliación.
 
 La conciliación también podrá intentarse y realizarse, cuando aún no se haya presentado la querella.
 
-El expediente en que consten las diligencias de preparación del ejercicio de la acción penal se llevará por triplicado; y
+El expediente en que consten las diligencias de preparación del ejercicio de la acción penal se llevará por triplicado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 XII. En materia de delitos contra la salud, en su modalidad de narcomenudeo, además de lo previsto en las fracciones anteriores y en los términos de la Ley General de Salud:
 
@@ -231,7 +231,7 @@ d) Remitir al Ministerio Público de la Federación, sin demora, a las personas 
 
 e) Informar a la autoridad sanitaria la determinación de no ejercicio de la acción penal, para los efectos correspondientes.
 
-f) Informar al consumidor de los narcóticos previstos en la Ley General de Salud, la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la fármacodependencia.
+f) Informar al consumidor de los narcóticos previstos en la Ley General de Salud, la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
 
 g) Observar las disposiciones del Código Federal de Procedimientos Penales, únicamente respecto del destino y destrucción de los narcóticos, y la clasificación de los delitos considerados como graves para fines del otorgamiento de la libertad provisional bajo caución.
 
@@ -239,7 +239,13 @@ h) Dar aviso a la autoridad sanitaria, cuando identifique que una persona relaci
 
 i) Informar a la autoridad administrativa competente, cuando tenga conocimiento de que algún establecimiento sea o haya sido utilizado para la comisión de algún delito contra la salud.
 
-j) Las demás que prevean otras disposiciones legales.
+j) Las demás que prevean otras disposiciones legales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+XIII. Decretar el aseguramiento de bienes muebles, incluyendo dinero o valores, así como el abandono de bienes a favor del Poder Ejecutivo del Estado, de conformidad con lo que establece el Código Penal para el Estado de Querétaro.
 
 Apartado B. En relación al ejercicio de la acción penal:
 
@@ -253,7 +259,11 @@ Si una vez ejercitada la acción penal, se apreciare que dejó de hacerse en con
 
 En los casos en que el juez ante quien se haya ejercitado la acción penal niegue librar la orden de aprehensión o citación para declaración preparatoria en contra del indiciado o decrete auto de libertad por falta de elementos para procesar o de no sujeción a proceso, una vez que dichos proveídos causen ejecutoria, promoverá que, como lo dispone el Código de Procedimientos Penales del Estado de Querétaro, se devuelvan al órgano investigador las diligencias de preparación del ejercicio de la acción penal en las dos primeras hipótesis o copia del expediente en las restantes, así como los objetos y valores relacionados, con el objeto de que se recaben nuevos elementos de prueba y, en su caso, ejercitar nuevamente acción penal, excepto cuando se haya decretado el sobreseimiento por el órgano jurisdiccional.
 
-II. Pedir el aseguramiento precautorio de bienes para los efectos de reparación del daño;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+II. Pedir o decretar, según sea el caso, el aseguramiento precautorio de bienes para los efectos de la reparación de daños y perjuicios;
 
 III. Aportar los medios de prueba pertinentes y promover, ante el propio órgano jurisdiccional, las diligencias conducentes para el debido esclarecimiento de los hechos; a la comprobación del delito y de la responsabilidad de quienes en él hayan intervenido; de la existencia del daño y la fijación del monto de su reparación;
 
@@ -1486,3 +1496,11 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
