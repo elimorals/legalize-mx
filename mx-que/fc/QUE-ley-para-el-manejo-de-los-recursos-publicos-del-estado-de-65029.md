@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-65029
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2012-06-08"
+last_updated: "2012-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -315,7 +315,9 @@ IV. Estado proyectado de origen y aplicación de recursos;
 
 V. Reportes de saldos en cuentas bancarias al treinta de septiembre del año en curso y dinero en efectivo especificando su origen y, en su caso, destino;
 
-VI. Los anexos que contengan las remuneraciones que establecen los artículos 44, 45 y 46 de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+VI. Los tabuladores que contengan las remuneraciones, sean fijas o variables, en efectivo o en especie, de los servidores públicos;
 
 VII. Resumen ejecutivo del presupuesto que refleje la suma del total presupuestado; y
 
@@ -359,63 +361,233 @@ Cuando por cualquier causa no sean aprobados por la Legislatura, la Ley de Ingre
 
 ### Capítulo Segundo. De las remuneraciones de los servidores públicos
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciba por el ejercicio de sus funciones el titular del Poder Ejecutivo, será el establecido específicamente en el Decreto de Presupuesto de Egresos.
+Para los efectos del presente Capítulo de esta Ley se entenderá por:
+
+I. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra que al ser pagada se integre al patrimonio personal del servidor público a quien le corresponde;
+
+II. Percepción: Todo ingreso en efectivo, en especie o en servicios que otorga la administración pública, a los servidores públicos por el cumplimiento de funciones, facultades y obligaciones que surgen de un nombramiento, contrato, designación o mandato. Este concepto se encuentra integrado por:
+
+a) Dieta: la que reciben los servidores públicos electos por el ejercicio de sus facultades.
+
+b) Salario: el que reciben los servidores públicos en contraprestación a sus servicios, sobre el cual se cubren los impuestos sobre la renta y, en su caso, las cuotas de seguridad social.
+
+c) Prestación en efectivo: toda cantidad, distinta del sueldo, que el servidor público reciba en moneda circulante; estará prevista en el nombramiento, en el contrato o en una disposición legal, como el aguinaldo y la prima vacacional, y que en todo caso quedan grabadas por las disposiciones fiscales aplicables.
+
+d) Prestación en especie: todo beneficio que el servidor público reciba en bienes distintos de la moneda circulante.
+
+e) Prestación en servicios: todo beneficio que el servidor público reciba mediante la actividad personal de terceros que dependan o se encuentren vinculados a la administración pública estatal o municipal;
+
+III. Tabulador: instrumento técnico en que se fijan y ordenan por nivel, categoría, grupo y puesto, las remuneraciones para los servidores públicos;
+
+IV. Nivel: la escala de remuneraciones, excluidas las percepciones variables, relativa a los puestos ordenados en una misma categoría;
+
+V. Categoría: el valor que se da a un puesto de acuerdo con las habilidades, la capacidad de solución de problemas, y las responsabilidades requeridas para desarrollar las funciones legales que le corresponden;
+
+VI. Grupo: el conjunto de puestos con la misma jerarquía o categorías similares;
+
+VII. Puesto: la unidad impersonal que describe funciones, implica deberes específicos, delimita jerarquías y autoridad; y
+
+VIII. Plaza: la posición presupuestaria que respalda un puesto, que no puede ser ocupada por más de un servidor público a la vez, y que tiene una adscripción determinada.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Diputados, será el establecido específicamente en el Decreto de Presupuesto de Egresos.
+Los servidores públicos de los Poderes del Estado, de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada en tabuladores que formarán parte integral de los presupuestos de egresos correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 40.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Magistrados del Poder Judicial, será el establecido específicamente en el Decreto de Presupuesto de Egresos.
+Los tabuladores a que hace referencia el artículo precedente se determinarán anualmente y sólo podrán modificarse por reforma que al efecto haga el órgano competente, cuando en fecha posterior a su publicación surta efectos convenio o contrato laboral que modifique las remuneraciones correspondientes a los servidores públicos de base.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+Los tabuladores determinarán los rangos máximo y mínimo de los montos brutos de las dietas, los salarios y las prestaciones en efectivo de la remuneración de dichos servidores públicos, por nivel, categoría, grupo o puesto, sean montos fijos o variables; así como las que se otorguen en especie y en servicios, las que deberán manifestarse mediante el señalamiento de las prestaciones que la componen, por nivel, categoría, grupo o puesto.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 41.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Presidentes Municipales, Síndicos y Regidores, será el establecido específicamente en el Presupuesto de Egresos de cada Municipio.
+Habrá un tabulador para los servidores públicos de Base, otro para los Electos y uno más para los Designados y de Libre Nombramiento.
+
+A los servidores públicos temporales, eventuales e interinos les corresponderán las remuneraciones que estén establecidas en el tabulador correspondiente al puesto que ocupen.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 42.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los titulares o, en su caso, miembros de los consejos, de los organismos autónomos constitucionales, será el establecido específicamente en el Decreto de Presupuesto de Egresos.
+En el Presupuesto de Egresos del Estado, que aprueba la Legislatura del Estado, se incluirán tabuladores que señalen las remuneraciones que, para el año a que dicho Presupuesto corresponda, percibirán los servidores públicos al servicio de los Poderes del Estado, de sus entidades y dependencias, de su administración paraestatal, de las instituciones y los organismos autónomos, así como de cualquier otro ente público del Estado.
+
+En el Presupuesto de Egresos de cada Municipio, que aprueba su Ayuntamiento, se incluirán tabuladores que señalen las remuneraciones que para el año a que dicho Presupuesto corresponda, percibirán los servidores públicos al servicio del Municipio, de sus entidades y dependencias y de su administración paramunicipal.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 43.
 
-Ningún empleado o trabajador por honorarios que preste sus servicios personales profesionales en forma permanente o de base a cualquier sujeto de esta ley, podrá percibir como remuneración total una cantidad igual o superior a la que perciban sus respectivos superiores jerárquicos.
+Para efectos de la determinación y publicación de sus remuneraciones, los servidores públicos se clasifican en:
+
+I. Electos: aquellos cuya función pública deriva del resultado de un proceso electoral;
+
+II. Designados: aquellos cuya función pública se origina en un nombramiento a un cargo público previsto en la Constitución Política del Estado de Querétaro;
+
+III. De libre nombramiento: aquellos que realizan alguna o varias de las funciones administrativas de dirección, conducción y orientación institucionales, de confianza o de asesoría técnica especializada;
+
+IV. De base: aquellos que prestan un servicio por tiempo indeterminado a las instituciones públicas, en virtud de nombramiento o por figurar en nómina, y que no se encuentran dentro de las categorías a que se refieren les (sic) fracciones anteriores; y
+
+V. Temporales, eventuales e interinos: aquellos que, de manera provisional y por un plazo determinado, ocupan cargos en la administración pública.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-La Iniciativa de Presupuesto de Egresos del Estado señalará en un anexo los conceptos de las remuneraciones totales que por el desempeño del cargo percibirán el Gobernador del Estado, Secretarios, titulares de las Entidades, Organismos Autónomos, Procuradores, Oficial Mayor, Subsecretarios, Coordinadores, Directores, Sub-Directores, Agentes del Ministerio Público, Magistrado del Tribunal de lo Contencioso Administrativo y Presidente y Magistrados del Tribunal de Conciliación y Arbitraje.
+En materia de remuneraciones para los servidores públicos, serán aplicables las disposiciones siguientes:
+
+I. Ningún servidor público como tal, puede recibir más remuneración que la que sea retribución de servicios públicos, y esté fijada en el tabulador incluido en el respectivo presupuesto;
+
+II. No se concederán, ni cubrirán, jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, contrato o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración;
+
+III. Ningún servidor público en el Estado podrá percibir remuneraciones que excedan la establecida para el Presidente de la República, en el presupuesto correspondiente;
+
+IV. Ningún servidor público podrá percibir una remuneración mayor de la que corresponda al cargo inmediato superior, en cuanto a nivel de responsabilidad o categoría jerárquica, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; en todo caso, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República, en el presupuesto correspondiente;
+
+V. Los servidores públicos de Elección, no recibirán compensaciones, gratificaciones, bonos o incentivos económicos durante y por conclusión del ejercicio del cargo o separación del mismo, por lo que no se podrán presupuestar ni hacer modificación alguna al Presupuesto de Egresos para cubrirlas;
+
+VI. Los servidores públicos de Elección, como pago final sólo recibirán las cantidades equivalentes al proporcional de aguinaldo y prima vacacional que les correspondan. Podrán establecer un ahorro para el retiro que no podrá exceder de una retención del 10% sobre su percepción mensual; y
+
+VII. En el caso de Regidores y Síndico de un mismo Ayuntamiento, recibirán como dieta la misma remuneración y los Diputados integrantes de la Legislatura del Estado remuneraciones iguales.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 45.
 
-El Poder Judicial anexará a su Proyecto de Presupuesto de Egresos que envíe al titular del Poder Ejecutivo, los conceptos de las remuneraciones totales que por el desempeño del cargo percibirán el Presidente y Magistrados del Tribunal Superior de Justicia, Jueces, Secretarios de Acuerdos, Secretarios Proyectistas, Oficial Mayor y Directores.
+La elaboración de propuestas de los tabuladores para servidores públicos Electos y para servidores públicos Designados y de Libre Nombramiento, se hará por un Comité Técnico de Remuneraciones para los Servidores Públicos.
+
+La propuesta de tabulador para servidores públicos de Base se realizará por los titulares de los órganos de la autoridad o sus representantes, con la participación de los sindicatos respectivos, en términos de las disposiciones de los (sic) Ley de los Trabajadores del Estado de Querétaro en materia de contratos colectivos o condiciones generales de trabajo, según sea el caso.
+
+Las propuestas de tabuladores que se emitan tendrán valor de opinión y deberán incluirse íntegramente a la propuesta de egresos correspondiente para su dictamen y aprobación por el órgano competente.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 46.
 
-Las partidas presupuestales anuales y conceptos de las remuneraciones totales que por el desempeño del cargo perciban los Diputados deberán estar contenidos en un anexo del Proyecto de Presupuesto de Egresos, así como los del Titular de la Entidad Superior de Fiscalización del Estado, Oficial Mayor, Tesorero, Coordinadores y Directores de las dependencias del Poder Legislativo.
+Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos de los Poderes del Estado, de sus entidades y dependencias, así como de su administración paraestatal, instituciones y organismos autónomos, y cualquier otro ente público estatal que estará conformado de la manera siguiente:
+
+I. Del Poder Ejecutivo del Estado:
+
+a) El Gobernador del Estado, o la persona que éste designe, quien será el Presidente del Comité.
+
+b) El Secretario de Planeación y Finanzas del Poder Ejecutivo.
+
+c) El Oficial Mayor del Poder Ejecutivo;
+
+II. Del Poder Legislativo del Estado:
+
+a) El Presidente de la Legislatura del Estado, o quien éste designe, a propuesta del mismo Presidente.
+
+b) El Presidente de la Junta de Concertación Política de la Legislatura.
+
+c) El Director de Servicios Financieros de la Legislatura.
+
+d) El Director de Servicios Administrativos de la Legislatura;
+
+III. Del Poder Judicial del Estado:
+
+a) El Presidente del Tribunal Superior de Justicia.
+
+b) Un representante del Consejo de la Judicatura.
+
+e) El Oficial Mayor del Tribunal Superior de Justicia;
+
+IV. De los Organismos con Autonomía Constitucional en el Estado:
+
+a) El presidente de cada uno de los organismos constitucionales autónomos.
+
+b) Un representante de la Universidad Autónoma de Querétaro; y
+
+V. De la ciudadanía:
+
+a) Un representante designado por la cámara de comerciantes que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
+
+b) Un representante designado por la cámara de industriales que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
+
+c) Un representante designado por la asociación de profesionistas que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
-Los demás funcionarios y empleados de los sujetos de esta Ley, a excepción de los municipios, percibirán las remuneraciones contenidas en el Presupuesto de Egresos del Estado.
+Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos para cada Municipio, sus entidades y dependencias, así como la administración paramunicipal que estará conformado, de la manera siguiente:
+
+I. El Presidente Municipal, quien será el Presidente del Comité;
+
+II. El titular de la dependencia encargada de las Finanzas Públicas Municipales;
+
+III. El titular de la dependencia encargada de la Administración de Servicios Internos, Recursos Humanos Materiales y Técnicos del Municipio;
+
+IV. Un representante designado por la cámara de comerciantes que cuente con la mayor representación en el Municipio, a invitación del Presidente del Comité;
+
+V. Un representante designado por la cámara de industriales que cuente con la mayor representación en el Municipio, a invitación del Presidente del Comité; y
+
+VI. Un representante designado por la asociación de profesionistas que cuente con la mayor representación en el Municipio, a invitación del Presidente del Comité.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 48.
 
-Los servidores públicos de elección popular en el Estado de Querétaro, no recibirán compensaciones, gratificaciones, bonos o incentivos económicos durante y por conclusión del ejercicio del cargo o separación del mismo, por lo que no se podrán presupuestar ni hacer modificación alguna al Presupuesto de Egresos para cubrirlas. Como pagos finales sólo recibirán las equivalentes al proporcional de aguinaldo y prima vacacional, debiendo, en el caso de Regidores y Síndicos de un mismo ayuntamiento, recibir la misma cantidad y los Diputados integrantes de la Legislatura del Estado cantidades iguales.
+Los Comités sesionarán, previa convocatoria por parte de su Presidente, en el mes de octubre de cada año, para elaborar los tabuladores que le corresponden y remitirlos a los correspondientes titulares de la dependencia encargada de las Finanzas Públicas, a más tardar el día último del mismo mes, con la finalidad de que los incluya integralmente en el proyecto de presupuesto correspondiente.
 
-Los Regidores integrantes de un mismo ayuntamiento percibirán remuneraciones y prestaciones iguales.
+Los integrantes ·del Comité no percibirán remuneración económica alguna, por las actividades inherentes a este nombramiento.
 
-Los Diputados integrantes de la Legislatura del Estado percibirán remuneraciones y prestaciones iguales.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 49.
 
-Los ayuntamientos deberán anexar a lo que se refiere el artículo 35 de esta Ley, el resumen de las partidas presupuestales anuales debidamente detalladas por cargos de las remuneraciones de los servidores públicos de elección popular, así como de los funcionarios de primer y segundo nivel jerárquico para efectos de su fiscalización.
+En la determinación de las remuneraciones de los servidores públicos y para la emisión del tabulador se deberán tomar en consideración los principios rectores de las remuneraciones siguientes:
+
+I. Igualdad: la remuneración de los servidores públicos se determinará, sin discriminación por motivos de género, edad, etnia, discapacidad, condición social, condiciones de salud, religión, opinión política o cualquier otro que atente contra la dignidad humana;
+
+II. Equidad: la remuneración de cada función pública deberá ser proporcional a la responsabilidad que derive del cargo, y al presupuesto designado para el órgano de autoridad en cuyo tabulador se incluya; y
+
+III. Remuneración: dentro de los límites presupuestales, adscritos a cada institución pública y con base en la responsabilidad de sus respectivas funciones, empleos, cargos o comisiones, deberá ser suficiente para procurarles un nivel de vida digna, y estimular y reconocer su desempeño laboral sobre la base de su capacidad profesional.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 50.
 
-Las dependencias encargadas de las finanzas públicas de los sujetos de esta Ley, podrán promover, para los servidores públicos de elección popular, un ahorro para el retiro que no podrá exceder de una retención del diez por ciento sobre su percepción mensual o quincenal total.
+En la determinación de las remuneraciones de los servidores públicos y para la emisión del tabulador se deberán tomar en consideración para cada dependencia, lo siguiente:
+
+I. Factores de referencia:
+
+a) Número de habitantes que atiende la institución o dependencia.
+
+b) Monto del presupuesto.
+
+c) Dispersión de la población.
+
+d) Desarrollo socioeconómico.
+
+e) Número de servidores públicos.
+
+f) Capacidad económica de la institución pública;
+
+II. Criterios:
+
+a) El alcance de las funciones de cada cargo en lo individual y de la valuación de su importancia relativa. Se deberá evaluar los conocimientos y habilidades que demandan las funciones asignadas a cada cargo, la dificultad, grado de complejidad y de responsabilidad que implique el trabajo a realizar.
+
+b) Los criterios de pago a servidores públicos que rigen en otros Estados del País y en la Federación.
+
+c) Las variaciones del costo de vida.
+
+d) Las prestaciones, beneficios económicos y deducciones a la remuneración.
+
+e) Las prácticas y niveles de pago que se aplican en el sector privado de la economía en el Estado y en su caso en la región en donde se encuentre el Municipio.
+
+f) Las responsabilidades y restricciones del erario reflejadas en la opinión de las áreas de recursos humanos y de finanzas de los Poderes, dependencias, órganos o Municipios de que se trate.
 
 ### Capítulo Tercero. De los recursos para la transición
 
@@ -1038,3 +1210,9 @@ P.O. 8 DE JUNIO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
 
 Artículo Segundo. Se derogan todas las disposiciones legales igual o menor (sic) jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
