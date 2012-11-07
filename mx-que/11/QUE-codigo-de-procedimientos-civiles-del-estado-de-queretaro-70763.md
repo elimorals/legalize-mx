@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-03-02"
+last_updated: "2012-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -3279,9 +3279,11 @@ I. Cuando la acción sea real; y
 
 II. Cuando se haya declarado, judicialmente que la enajenación por la que adquirió el tercero, está en los casos de los artículos 2049 y 2054 del Código Civil del Estado de Querétaro y los demás preceptos en que expresamente se establezca esa responsabilidad.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 478.
 
-Hecho el embargo, se emplazará al deudor en persona conforme a los artículos 116 y 119 o si se ignorare su paradero, conforme al artículo 122, para que, en un plazo no mayor de cinco días, ocurra a hacer el pago o a oponer excepciones y defensas que tuviere y ofrecer pruebas, siguiéndose el juicio por todos los trámites del juicio sumario hasta dictar sentencia definitiva.
+Hecho el embargo, se emplazará al deudor en persona conforme a lo dispuesto por los artículos 118 y 119 o, si se ignorare su paradero, conforme al artículo 122, para que en un plazo no mayor de cinco días ocurra a hacer el pago o a oponer excepciones y defensas que tuviere y ofrecer pruebas, siguiéndose el juicio por todos los trámites del juicio sumario hasta dictar sentencia definitiva.
 
 ###### Artículo 479.
 
@@ -3509,9 +3511,11 @@ Si las excepciones fueren declaradas procedentes, en la misma resolución dará 
 
 La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquier persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta, si necesario fuere. Los muebles u objetos que en la casa se encuentran, si no hubiere personas de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 511.
 
-Al hacer el requerimiento que se dispone en el artículo 503, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará, al ejecutarse el lanzamiento.
+Al hacer el requerimiento que se dispone en el artículo 503, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado, observando lo dispuesto en el Capítulo Quinto, Sección Segunda, del Título Séptimo de este Código.
 
 ###### Artículo 512.
 
@@ -6828,3 +6832,9 @@ P.O. 2 DE MARZO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
