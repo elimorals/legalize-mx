@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2012-09-19"
+last_updated: "2012-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -183,13 +183,17 @@ I. Recibir las denuncias y querellas que le presenten en forma verbal o por escr
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2003)</small>
 
-II.- Practicar u ordenar la realización de todos los actos conducentes a la comprobación del cuerpo del delito, a la demostración de la responsabilidad del indiciado y a la cuantificación de los daños y perjuicios causados al ofendido;
+II. Practicar u ordenar la realización de todos los actos conducentes a la comprobación del cuerpo del delito, a la demostración de la responsabilidad del indiciado y a la cuantificación de los daños y perjuicios causados al ofendido;
 
-III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines de las diligencias de preparación del ejercicio de la acción penal, así como las órdenes de cateo que procedan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+III. Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial de bienes inmuebles, que resulten indispensables para los fines de las diligencias de preparación del ejercicio de la acción penal, así como las órdenes de cateo que procedan;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, así como a los testigos que depongan en contra de los imputados.
+IV. Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, así como a los testigos que depongan en contra de los imputados.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -207,11 +211,11 @@ e) En los casos en que la víctima haga referencia a la presencia de armas u obj
 
 f) Informar a las autoridades competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas en caso de que lo soliciten.
 
-V.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficiente si lo estimare necesario. Esta facultad no procede cuando se trate de bienes inmuebles.
+V. Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficiente si lo estimare necesario. Esta facultad no procede cuando se trate de bienes inmuebles.
 
-VI.- Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal, y
+VI. Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal, y
 
-VII.- Ordenar o llevar a cabo todos aquellos actos que le corresponda realizar, conforme a la ley, para la práctica y conclusión de las diligencias de preparación del ejercicio de la acción penal.
+VII. Ordenar o llevar a cabo todos aquellos actos que le corresponda realizar, conforme a la ley, para la práctica y conclusión de las diligencias de preparación del ejercicio de la acción penal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -237,9 +241,9 @@ X. Informar a la víctima y al ofendido, los derechos que a su favor establecen 
 
 XI. Informar a la víctima y al ofendido del desarrollo de la fase de preparación del ejercicio de la acción penal, cuando así lo soliciten;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 XII. Ejercer las atribuciones que le corresponden como órgano de procuración de justicia, en los delitos contra la salud en la modalidad de narcomenudeo, conforme a las disposiciones aplicables y contenidas en la Ley General de Salud, manteniendo la comunicación y coordinación con el Ministerio Público de la Federación, según los respectivos ámbitos de competencia.
 
@@ -247,19 +251,27 @@ Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 
 
 Una vez expedida la autorización, el Ministerio Público de la Federación y el Ministerio Público del fuero común, señalarán por escrito, en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deben sujetarse los agentes de la policía que deberán ejecutar la orden.
 
-En las actividades que desarrollen los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior; y
+En las actividades que desarrollen los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 XIII. El Ministerio Público del fuero común, deberá informar oportunamente al Ministerio Público de la Federación, del inicio de las diligencias de preparación del ejercicio de la acción penal, en tratándose de hechos probablemente constitutivos de delitos contra la salud en la modalidad de narcomenudeo, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación.
 
-Si de las constancias se advierte la incompetencia de las autoridades del fuero común, el caso deberá remitirse al Ministerio Público de la Federación o al Juez Federal que corresponda, según sea la etapa procedimental en que se encuentre, a fin de que se continúe el procedimiento, caso en el cual las diligencias desahogadas hasta ese momento gozarán de validez.
+Si de las constancias se advierte la incompetencia de las autoridades del fuero común, el caso deberá remitirse al Ministerio Público de la Federación o al Juez Federal que corresponda, según sea la etapa procedimental en que se encuentre, a fin de que se continúe el procedimiento, caso en el cual las diligencias desahogadas hasta ese momento gozarán de validez; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+XIV. Decretar el aseguramiento de bienes muebles, incluyendo dinero o valores, así como el abandono de bienes a favor del Poder Ejecutivo del Estado, de conformidad con lo que establece el Código Penal para el Estado de Querétaro; (sic)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
-ARTICULO 21 (Facultades y obligaciones del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
+###### ARTICULO 21.
+
+(Facultades y obligaciones del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
 
 I.- Promover la iniciación del procedimiento ante el Órgano Jurisdiccional;
 
@@ -269,7 +281,11 @@ III.- Solicitar las órdenes de cateo que sean necesarias;
 
 IV.- Poner a disposición de la autoridad competente sin demora, a las personas detenidas en casos de flagrante delito o de urgencia, conforme a las disposiciones constitucionales y legales aplicables;
 
-V.- Pedir el aseguramiento precautorio de bienes para los efectos de la reparación de daños y perjuicios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+V.- Pedir o decretar, según sea el caso, el aseguramiento precautorio de bienes para los efectos de la reparación de daños y perjuicios;
 
 VI.- Ofrecer y aportar los medios de prueba pertinentes y promover en el proceso las diligencias conducentes al debido esclarecimiento de los hechos; a la comprobación del cuerpo del delito, de la responsabilidad del imputado, de la existencia de daños y perjuicios y a la fijación del monto de su reparación;
 
@@ -283,11 +299,11 @@ IX.- En general, hacer todas las promociones que sean conducentes al desarrollo 
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
-X. Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, canalizándolos a las instituciones que corresponda, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran; y
+X.- Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, canalizándolos a las instituciones que corresponda, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran; y
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
-XI. Informar a la víctima y al ofendido, del desarrollo de las diversas fases del proceso ante la autoridad jurisdiccional, cuando así lo soliciten.
+XI.- Informar a la víctima y al ofendido, del desarrollo de las diversas fases del proceso ante la autoridad jurisdiccional, cuando así lo soliciten.
 
 ARTICULO 22 (Obligación del Ministerio Público de solicitar el sobreseimiento).- Corresponde al Ministerio Público solicitar al Órgano Jurisdiccional el sobreseimiento, en los casos en que proceda.
 
@@ -1613,9 +1629,13 @@ Lo anterior se hará debiendo documentarse la entrega y la recepción, igualment
 
 IV. Tratándose de bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quien tenga y acredite derecho a recibirlos, en caso de ordenarse su venta inmediata, se hará a cualquier persona física o moral, teniendo como base mínima de precio, las dos terceras partes del valor de avalúo que se practique por parte de perito o peritos oficiales que para ello se designen; si no existiere ofrecimiento de tal monto, éste podrá reducirse hasta la mitad de valor del avalúo, tomando en consideración la posibilidad de conservarlos. Si no fuere posible la venta, entonces se procederá a darles el destino señalado en la fracción anterior. En todos los casos se dará intervención al órgano de control interno.
 
-V. Las cosas o bienes a disposición del Ministerio Público o de la autoridad judicial que hayan sido objeto de aseguramiento o decomiso o que no siéndolo, tampoco sean recogidos por quien tenga derecho a ello, dentro del lapso de sesenta días naturales contados a partir de la notificación que se realice al interesado, si se conoce el nombre y el domicilio de éste o en caso contrario, mediante publicaciones verificadas en los términos establecidos en la fracción I de este precepto, previa aplicación a favor del Poder Ejecutivo, se enajenarán en subasta pública, que se realizará por parte de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado si están a disposición del Ministerio Público o por la Oficia lía Mayor, cuando estén a disposición de la autoridad judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para el remate y la adjudicación, supletoriamente se estará a lo dispuesto en el Código de Procedimientos Civiles del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+V. Las cosas o bienes a disposición del Ministerio Público o de la autoridad judicial que hayan sido objeto de aseguramiento o decomiso o que no siéndolo, tampoco sean recogidos por quien tenga derecho a ello, dentro del lapso de sesenta días naturales contados a partir de la notificación que se realice al interesado, si se conoce el nombre y el domicilio de éste o en caso contrario, mediante publicaciones verificadas en los términos establecidos en la fracción I de este precepto o cuando procediendo la devolución de bienes asegurados, éstos no sean recogidos por el interesado o por su representante legal, dentro de los noventa días naturales posteriores a la notificación que realice la autoridad judicial o el Ministerio Público, en términos del Código Penal, previa aplicación a favor del Poder Ejecutivo, se enajenarán en subasta pública, que se realizará por parte de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado si están a disposición del Ministerio Público o por la Oficialía Mayor, cuando estén a disposición de la autoridad judicial.
+
+Para el remate y la adjudicación, supletoriamente se estará a lo dispuesto en el Código de Procedimientos Civiles del Estado de Querétaro; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1717,23 +1737,29 @@ IV.- Cuando se compruebe una causa de inexistencia de delito;
 
 V.- Cuando se haya extinguido la pretensión punitiva del Estado, en los términos del Código Penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-VI.- Por la posesión de medicamentos que contengan alguno de los narcóticos previstos en la tabla a que hace referencia el artículo 479 de la Ley General de Salud, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a su custodia o asistencia de quien los tiene en su poder; y
+VI.- Por la posesión de medicamentos que contengan alguno de los narcóticos previstos en la tabla a que hace referencia el artículo 479 de la Ley General de Salud, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a su custodia o asistencia de quien los tiene en su poder;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-VII.- En contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla de orientación de dosis máximas de consumo personal e inmediato que se contempla en el artículo 479 de la Ley General de Salud, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal, fuera de los lugares señalados en la fracción II del artículo 475 de la propia Ley. La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+VII.- En contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla de orientación de dosis máximas de consumo personal e inmediato que se contempla en el artículo 479 de la Ley General de Salud, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal, fuera de los lugares señalados en la fracción II del artículo 475 de la propia Ley. La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-En los supuestos de las dos últimas fracciones, el Ministerio Público informará a la autoridad sanitaria para que se adopten las medidas de orientación médica o de prevención procedentes.
+VIII.- Cuando exista acuerdo conciliatorio entre las partes, al que se haya dado el carácter de cosa juzgada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+En los supuestos de las fracciones VI y VII, el Ministerio Público informará a la autoridad sanitaria para que se adopten las medidas de orientación médica o de prevención procedentes.
 
 ARTICULO 255 (Definitividad del no ejercicio de la acción penal).- Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir el ejercicio de la acción penal respecto de los hechos que las motiven, salvo que se recaben con posterioridad datos que destruyan la hipótesis de no ejercicio de la acción penal a que se refiere el artículo anterior.
 
@@ -2515,7 +2541,129 @@ ARTICULO 382 (Substanciación).- Los incidentes cuya tramitación no se regule e
 
 Se dará vista de la promoción de incidente a las partes, para que contesten en el acto de la notificación o a más tardar dentro de los tres días siguientes. Si el Juzgador lo creyere necesario o alguna de las partes lo pidiere, se abrirá un plazo de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el Juzgador fallará desde luego el incidente. Estos incidentes no suspenderán el curso del procedimiento.
 
-## TITULO SEGUNDO. INCIDENTES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+# LIBRO SEXTO. PROCEDIMIENTO SUMARIO PARA DELITOS CULPOSOS POR HECHOS DE TRANSITO Y PARA AQUELLOS DELITOS, CUYA PENA NO EXCEDA DE DOS AÑOS DE PRISION
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+## TITULO PRIMERO. PROCEDIMIENTO SUMARIO PARA DELITOS CULPOSOS, DERIVADOS DE HECHOS DE TRANSITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+### CAPITULO I. MEDIDAS Y PROVIDENCIAS DURANTE LA PREPARACION DEL EJERCICIO DE LA ACCION PENAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 383 (Medidas y providencias durante la preparación del procedimiento sumario).- Si con motivo de un hecho de tránsito se ocasionan únicamente daños en las cosas, el Ministerio Público, al recibir el parte de accidente, levantará el acta que corresponda, la que contendrá la hora, fecha y modo en que tuvo conocimiento del hecho; el nombre y carácter de la persona que lo hizo del conocimiento, así como de las personas involucradas y ordenará las medidas y providencias señaladas en el artículo 223 de este Código, en lo procedente.
+
+Si con motivo de un hecho de tránsito, se ocasionan lesiones de las contempladas en las fracciones I, II, III y V del artículo 127 del Código Penal para el Estado de Querétaro, el Ministerio Público al recibir la presentación de personas, deberá recabar de inmediato la declaración de los elementos policiacos que realizan la presentación, así como de los conductores que estén en posibilidad de rendir declaración, además ordenará todos los actos conducentes para preparar la conciliación entre las partes. Asimismo, dictará el acuerdo que resuelva la situación jurídica de las personas presentadas, de conformidad con lo previsto en los artículos 105 y 107 de este Código, notificando a las partes sobre la audiencia de conciliación a celebrarse en los términos del presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 384 (Diligencias que se practicarán previo a la audiencia de conciliación).- Iniciado el procedimiento, el Ministerio Público ordenará únicamente el desahogo de las diligencias tendientes a acreditar las circunstancias de modo, tiempo, lugar y ocasión, la cuantificación de los daños y perjuicios, la integridad física y el estado toxicológico de los conductores que participaron en el hecho, la clasificación médico legal de las lesiones ocasionadas y la causalidad del hecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 385 (Audiencia de conciliación).- Al contar el Ministerio Público con los peritajes que determinen la causalidad del hecho, la cuantificación de los daños y perjuicios y, en su caso, la clasificación médico legal de las lesiones, previo consentimiento de la parte ofendida, ordenará la citación de las partes involucradas a una audiencia de conciliación, en la que les informará el resultado de los peritajes y escuchará sus pretensiones, para avenirlas a un posible acuerdo conciliatorio, exhortándolas para que procuren llegar al mismo con base en propuestas objetivas e imparciales que pongan fin al conflicto, levantando el acta correspondiente.
+
+Si las partes llegan a un acuerdo conciliatorio, éste no implicará el reconocimiento de responsabilidad de la conducta delictiva. Los acuerdos se harán constar en el acta que al efecto se levante, haciéndose del conocimiento de aquéllas el alcance legal de las obligaciones que contraigan, entre las que deberán incluirse el monto de la reparación del daño, el plazo y la forma para dar cumplimiento al convenio, procediéndose a dictar la determinación del no ejercicio de la acción penal, una vez que el acuerdo haya sido firmado por las partes involucradas. El acuerdo tendrá el carácter de cosa juzgada e impedirá el ulterior ejercicio del derecho a querellarse. En caso de incumplimiento, el ofendido podrá emprender las acciones de ejecución correspondientes, en materia civil.
+
+De no lograrse la conciliación o si alguna de las partes no acude a la audiencia convocada para tal efecto, el Ministerio Público dictará proveído para que se continúe con las diligencias de preparación del ejercicio de la acción penal en términos de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 386 (Devolución de vehículos involucrados en hechos de tránsito).- Si antes de la audiencia de conciliación, alguna de las partes involucradas solicita la devolución de la unidad vehicular que participó en el hecho de tránsito, deberá garantizar a través de depósito en efectivo el monto señalado por concepto de la reparación de daños y perjuicios, que fije el Ministerio Público, con base en los peritajes correspondientes, a resultas de la determinación que se realice de la causalidad del hecho.
+
+Desahogada la audiencia de conciliación, habiendo acuerdo entre las partes, se procederá a la devolución de los vehículos y de las cantidades depositadas por éstas. En caso de desacuerdo entre las partes, el Ministerio Público podrá autorizar la devolución de los vehículos, cuando se haya depositado la garantía por concepto de reparación de daños y perjuicios, por quien resulte señalado como probable responsable en el peritaje de causalidad del hecho; tratándose del ofendido o víctima, procederá a realizar la entrega sin necesidad de depósito de garantía alguna.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 387 (Querella de la persona que resultó ofendida).- Aquel conductor que conforme a la causalidad del hecho, no resulte ser señalado como probable responsable, adquiere el carácter de ofendido, salvo prueba en contrario y tendrá el derecho a querellarse, cuando no haya sido posible la celebración del acuerdo conciliatorio.
+
+En este caso, el Ministerio Público recibirá la querella, con la que se dará inicio a las diligencias de preparación del ejercicio de la acción penal, ordenando acumular las diligencias desahogadas y ejercitará la acción penal ante los Tribunales, para el inicio del procedimiento judicial en términos del Capítulo Segundo del presente Título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+### CAPITULO II. PROCEDIMIENTO SUMARIO ANTE LA AUTORIDAD JUDICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 388 (Diligencias desahogadas ante el Juez).- El Juzgador ante el cual se ejerza la acción penal, radicará de inmediato el asunto y sin más trámite, ordenará la citación del probable responsable, para que rinda su declaración preparatoria dentro de un plazo no mayor de diez días hábiles, contados a partir del auto de radicación.
+
+Una vez rendida su declaración preparatoria, en los términos que establece el artículo 260 del presente Código, dentro del plazo 72 horas, el juzgador dictará el auto de término y para el caso de que las partes involucradas en el hecho de tránsito se sujeten al procedimiento sumario, en el mismo proveído requerirá al Ministerio Público, al imputado, al ofendido y a su abogado defensor para que ofrezcan las pruebas que a su parte e interés convengan, en un plazo de tres días hábiles.
+
+Vencido el periodo anterior, dentro del plazo máximo de tres días hábiles, el Juez resolverá sobre la admisión de las pruebas, en auto que notificará a las partes y con el que se abrirá a etapa de desahogo de pruebas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 389 (Plazo para el desahogo de pruebas).- El Juez tendrá un plazo de 15 quince días hábiles, para el desahogo de las pruebas ofrecidas por las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 390 (Plazo para formular conclusiones).- Desahogadas las pruebas ofrecidas, dentro de los dos días hábiles siguientes, el Juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público, por el plazo de cinco días, para que emita sus conclusiones por escrito, conforme los lineamientos de este Código.
+
+Si el ofendido o sus legítimos representantes, desean formular conclusiones, lo harán dentro del plazo concedido al Ministerio Público.
+
+Transcurrido el plazo al que se refiere el párrafo primero del presente artículo, sin que el Ministerio Público haya presentado conclusiones, el Juez deberá informar al Procurador acerca de esta omisión, para que dicha autoridad ordene la formulación de las conclusiones pertinentes, dentro del plazo de cinco días, sin perjuicio de disponer las medidas disciplinarias que correspondan.
+
+Las conclusiones, ya sean formuladas por el Agente o por el Procurador General de Justicia, en su caso, se darán a conocer al acusado y a su defensor, dándoles vista de todo el proceso, a fin de que en un plazo igual al concedido al Ministerio Público, las contesten y formulen, a su vez, las conclusiones que crean procedentes.
+
+Si al concluir el plazo concedido al acusado y a su defensor, éstos no hubieren presentado conclusiones, el juez tendrá por formuladas las de no responsabilidad. El mismo día en que el inculpado o su defensor presenten sus conclusiones o en el momento en que el juez haga la declaración de tener por formuladas las conclusiones de no responsabilidad, citará a audiencia de vista que deberá efectuarse dentro de los tres días siguientes, la citación para esa audiencia produce los efectos de citación para sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 391 (Plazo para dictar sentencia).- El Juez dictará su sentencia dentro de los siguientes diez días contados a partir de que se declare visto el proceso, la cual deberá de notificar a las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 392 (Plazo para cumplir con la sentencia).- Dictada la sentencia, el juez señalará al responsable un plazo de 15 días hábiles para que dé cumplimiento voluntario a la misma, apercibiéndole de que de ser omiso, se procederá a su ejecución forzosa en los términos de la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 393 (Valoración de los medios de prueba).- Los medios de prueba recabados ante el Ministerio Público y los desahogados ante la autoridad jurisdiccional seguirán las reglas de valoración contempladas en este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+## TITULO SEGUNDO. PROCEDIMIENTO SUMARIO PARA DELITOS CUYA PENA MAXIMA NO EXCEDA DE DOS AÑOS DE PRISION
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 394 (Aplicabilidad de las reglas del presente libro).- Todas las reglas del Título anterior, serán aplicables a los delitos cuya pena máxima no exceda de dos años de prisión.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2854,3 +3002,23 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+LEY POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII; SE ADICIONA UNA FRACCIÓN VIII Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 254 Y SE ADICIONA UN LIBRO SEXTO AL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+LEY POR LO QUE SE REFORMAN LAS FRACCIONES III, XII Y XIII, Y SE ADICIONA UNA NUEVA FRACCIÓN XIV DEL ARTÍCULO 20; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 21; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 240-A, TODOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
