@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-la-funcion-publica-7028
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-02"
-last_updated: "2009-09-02"
+last_updated: "2012-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 2 de septiembre de 2009.
 
@@ -1854,3 +1856,23 @@ Artículo Séptimo.-·En cumplimiento a lo dispuesto por el artículo 8, de la L
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de agosto del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Samuel Toledo Córdova Toledo, Secretario de la Función Pública.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública, publicado en el Periódico Oficial número 184, 2a. Sección, Tomo III, de fecha 02 de septiembre de 2009; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la Publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca el Sistema Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
