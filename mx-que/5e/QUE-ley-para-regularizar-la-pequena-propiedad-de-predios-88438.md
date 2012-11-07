@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-pequena-propiedad-de-predios-88438"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-22"
-last_updated: "2012-06-22"
+last_updated: "2012-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RÚSTICOS EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 22 de junio de 2012.
 
@@ -63,9 +63,11 @@ III. Los propietarios o poseedores de predios que se encuentren ubicados en un a
 
 Quien posea un predio rústico, por el tiempo y con las condiciones para prescribirlo y no tenga título de propiedad, aún cuando exista el registro a favor de otra persona, podrá demostrar su posesión, en los términos de la presente Ley, para adquirir la propiedad por vía de prescripción y si posee dos o más predios sin título, sólo podrá tramitar la titulación de uno de ellos.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto de programas que establezca el Gobernador del Estado, a través de la Secretaría de Gobierno y por conducto de la Dirección Jurídica y Consultiva, podrán acudir ante el juez de primera instancia civil, juez mixto de primera instancia o juez municipal, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
+Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto de programas que establezca el Gobernador del Estado, a través de la Secretaría de Gobierno y por conducto de la Dirección Jurídica y Consultiva, podrán acudir ante el juez de primera instancia civil, juez mixta de primera instancia o juez menor, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
 
 ###### Artículo 7.
 
@@ -216,3 +218,11 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
