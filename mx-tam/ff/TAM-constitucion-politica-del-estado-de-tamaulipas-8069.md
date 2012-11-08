@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2012-05-23"
+last_updated: "2012-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -197,9 +197,21 @@ III. Por ausencia con ocasión de estudios o comisiones científicas o artístic
 
 Son habitantes del Estado todas las personas que residen en su territorio, sea cual fuere su estado y condición.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-El pueblo de Tamaulipas establece que el respeto a las libertades y derechos fundamentales constituye la base y e (sic) objeto de las instituciones públicas y sociales. En consecuencia, el Estado de Tamaulipas reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación hasta su muerte natural; esta disposición no deroga las excusas absolutorias ya previstas en la legislación penal. Asimismo en el Estado toda persona goza de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que la misma establece; y disfruta de las libertades y derechos fundamentales contenidos en los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la propia Constitución Política de los Estados Unidos Mexicanos.
+El pueblo de Tamaulipas establece que el respeto a la vida, la dignidad de la persona, la libertad, la igualdad y la justicia constituyen la base y el objeto de las instituciones públicas y sociales. En consecuencia, el Estado de Tamaulipas reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación hasta su muerte natural; esta disposición no deroga las excusas absolutorias ya previstas en la legislación penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+En el Estado de Tamaulipas todas las personas gozarán de los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la Ley Fundamental de la República y esta Constitución, los cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que aquélla establece.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Tamaulipas deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -505,9 +517,9 @@ Las Legislaturas del Estado se integrarán con diputados elegidos según los pri
 
 El Congreso del Estado se integrará por 22 Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. LX-721, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE PARRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. LX-721, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 27.
 
@@ -541,7 +553,7 @@ Los diputados electos según el principio de Representación Proporcional se asi
 
 (DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
 
-(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 29.
 
@@ -599,13 +611,13 @@ VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales
 
 VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de formal prisión. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 31.
 
 Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 9 DE SEPTIEMBRE DE 1978)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 31], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 32.
 
@@ -863,9 +875,9 @@ XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye
 
 XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga el orden jurídico mexicano, en los términos del Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos;
+XVIII. Legislar en materia de protección de los derechos humanos y establecer la Comisión de Derechos Humanos del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -919,21 +931,19 @@ XXXI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2008)
 
 XXXII. Resolver sobre la renuncia del cargo de Gobernador y calificar los impedimentos para encargarse de su cometido, y convocar a nueva elección si la renuncia o impedimento ocurrieren dentro de los tres primeros años del período;
 
-XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+XXXIII. Dictar leyes para organizar el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad, en el que se garanticen los derechos humanos previstos en la Constitución General de la República, los tratados internacionales y esta Constitución para todo individuo;
 
-XXXIV. Solicitar del Ciudadano Presidente de la República, conforme a lo dispuesto por el Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, la suspensión de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, perturbación grave de la paz pública y cualesquier otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, ésta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
+XXXIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2012)
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
-
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a quienes en su caso deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al Presidente de la Comisión de Derechos Humanos; al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -975,9 +985,9 @@ XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el 
 
 XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-XLVIII. Dictar Leyes para organizar el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente; y dictar las Leyes necesarias para establecer un sistema integral de justicia para adolescentes, en el que se garanticen los derechos fundamentales que reconocen la Constitución General de la República y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos, atendiendo a la esencia del artículo 18 de la Constitución General de la República;
+XLVIII. Dictar las leyes necesarias para establecer un sistema integral de justicia para adolescentes, en el que se garanticen los derechos humanos previstos en la Constitución General de la República, los tratados internacionales y esta Constitución para toda persona;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1015,13 +1025,17 @@ LVI. Para expedir leyes en materia de impartición de justicia administrativa, m
 
 LVII. Legislar sobre las normas de contabilidad gubernamental, con objeto de establecer criterios para la elaboración y presentación homogénea de la información financiera, los ingresos y egresos, la contabilidad pública y el patrimonio de los poderes del Estado, los ayuntamientos y los órganos con autonomía de los poderes, así como de las entidades estatales y municipales, a fin de garantizar la armonía con las previsiones nacionales en la materia;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-LVIII. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
+LVIII. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves a los derechos humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-LIX. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
+LIX. Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa; y,
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+LX. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
 ###### Art. 59.
 
@@ -1607,13 +1621,17 @@ XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para
 
 XLV. Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-XLVI. Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia; y
+XLVI.- Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-XLVII. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
+XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves a los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+XLVIII.- Ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
 ###### Art. 92.
 
@@ -1945,7 +1963,9 @@ El Pleno del Supremo Tribunal de Justicia, en funciones de tribunal constitucion
 
 I.- De la controversia constitucional local, que podrán promover los Poderes del Estado y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
 
-II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados, tratándose de normas generales expedidas por el Congreso del Estado o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Procurador General de Justicia del Estado y, tratándose de normas generales que violen los derechos humanos establecidos por esta Constitución, por el Presidente de la Comisión de Derechos Humanos del Estado.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+
+II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Procurador General de Justicia del Estado y, tratándose de normas generales que violen derechos humanos previstos por esta Constitución, por el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas.
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
@@ -2225,23 +2245,21 @@ El nombramiento del Procurador General de Justicia se hará por el Gobernador, c
 
 ### CAPITULO II. De la Comisión de Derechos Humanos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 126.
 
-El organismo a que se refiere el artículo 58, fracción XVIII, de esta Constitución se denominará Comisión de Derechos Humanos del Estado de Tamaulipas. Será un organismo público autónomo e independiente, con personalidad jurídica y patrimonio propios que tendrá por objeto la protección de los derechos humanos que otorga el orden público mexicano, conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que viole estos derechos en el ámbito del Estado. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+La Comisión de Derechos Humanos del Estado de Tamaulipas será un organismo público, autónomo e independiente, con personalidad jurídica y patrimonio propios, en términos de lo dispuesto por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, y tendrá por objeto la protección de los derechos humanos previstos en el segundo párrafo del artículo 16 de esta Constitución. La Comisión conocerá de quejas por actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatales o municipales que viole estos derechos en el territorio del Estado, así mismo formulará recomendaciones públicas y no vinculatorias de carácter autónomas y podrá presentar denuncias y quejas ante las autoridades respectivas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Pleno del Congreso del Estado o, en sus recesos, la Diputación Permanente, podrán llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan a explicar el motivo de su negativa.
 
-Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+La Comisión de Derechos Humanos del Estado de Tamaulipas tendrá un Consejo Consultivo integrado por seis Consejeros, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas.
 
-Una ley establecerá las bases de su organización y funcionamiento.
+La elección del titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidente durarán en su cargo 4 años y podrán ser reelectos por una sola ocasión.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
-
-El titular del organismo deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
+El titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2445,11 +2463,11 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ### CAPITULO I. De la Educación Pública
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 138.
 
-La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -2575,13 +2593,11 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso local, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los consejeros de la Judicatura, los jueces, los secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Consejeros de la Judicatura, los jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2605,13 +2621,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso local los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los consejeros de la Judicatura, los jueces, los secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Consejeros de la Judicatura, los jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4030,6 +4044,16 @@ Para dar cumplimiento al principio de obligatoriedad, en los presupuestos de egr
 ###### ARTÍCULO CUARTO.
 
 En un plazo no mayor a 60 días se deberán realizar las adecuaciones a la Ley de Educación para el Estado de Tamaulipas, que deriven del presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El actual titular de la presidencia y los miembros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas, continuarán en su cargo hasta el término del periodo para el cual fueron electos.
 
 ###### ARTÍCULO QUINTO.
 
