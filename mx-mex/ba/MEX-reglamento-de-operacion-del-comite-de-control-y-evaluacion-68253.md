@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-6825
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-17"
-last_updated: "2009-04-17"
+last_updated: "2012-11-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 17 de abril de 2009.
 
@@ -73,7 +73,9 @@ I. Un Presidente, que será el Titular de la Secretaría del Medio Ambiente;
 
 II. Un Secretario Técnico, que será el Titular del Órgano de Control Interno de la Secretaria del Medio Ambiente;
 
-III. Vocales, que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE NOVIEMBRE DE 2012)</small>
+
+III. Vocales que serán:
 
 a) El titular de la Dirección General de Control y Evaluación "C" de la Secretaría de la Contraloría;
 
@@ -104,6 +106,10 @@ m) El titular de la Coordinación Jurídica de la Secretaría del Medio Ambiente
 n) El titular de la Unidad de Información, Planeación, Programación y Evaluación de la Secretaría del Medio Ambiente;
 
 o) El titular de la Coordinación Administrativa de la Secretaría del Medio Ambiente;
+
+> <small>(ADICIONADO, G.G. 8 DE NOVIEMBRE DE 2012)</small>
+
+p) El titular de la Dirección General de la Protectora de Bosques del Estado de México.
 
 IV. Invitados especiales que podrán ser, servidores públicos de otras áreas sustantivas o de apoyo, o servidores públicos de otras dependencias u organismos auxiliares; así como, otros especialistas en el tema, previa invitación del Secretario Técnico.
 
@@ -506,3 +512,9 @@ C.P. VÍCTOR SANTOS BECERRIL
 CONTRALOR INTERNO DE LA SECRETARÍA DEL MEDIO AMBIENTE
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 8 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
