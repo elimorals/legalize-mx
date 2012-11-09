@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2012-05-18"
+last_updated: "2012-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -207,7 +207,29 @@ XVIII. Los servicios y programas de apoyo que ofrecen, así como los trámites, 
 
 XIX. Las controversias entre entidades gubernamentales;
 
-XX. Las iniciativas y dictámenes aprobados por la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+XX. La información del Poder Legislativo, además de la citada en las otras fracciones, se constituirá básicamente por los siguientes elementos:
+
+a) Los nombres, fotografías y currícula de los legisladores y sus suplentes, así como las comisiones u órganos legislativos a los que pertenecen y las funciones que en ellos realizan.
+
+b) La agenda legislativa.
+
+c) La votación obtenida en los dictámenes y acuerdos sometidos al Pleno y demás órganos de trabajo y legislativos, con expresión de aquélla emitida a favor, en contra o abstención y refiriendo el nombre de quien la expresó, salvo que se trate de una votación secreta en términos de la ley en la materia.
+
+d) Las iniciativas de ley, decreto o acuerdo, así como los datos de quienes las presentaron, fecha en que se recibieron, comisiones a las que se turnaron y los dictámenes emitidos respecto de las mismas.
+
+e) Las leyes, decretos, acuerdos y demás disposiciones de observancia general aprobadas por el Pleno.
+
+f) El Diario de Debates y la Gaceta Legislativa.
+
+g) La integración de los grupos y fracciones legislativas, así como de las comisiones ordinarias y en su caso, especiales.
+
+h) Los montos de las partidas presupuestales asignadas a los grupos y fracciones legislativas, así como de las comisiones, Mesa Directiva y Junta de Concertación Política.
+
+i) Las convocatorias, órdenes del día, actas y listas de asistencia de las sesiones del Pleno y demás órganos de trabajo y legislativos.
+
+j) Los demás informes que deban presentarse conforme a la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
 XXI. Los informes anuales de actividades;
 
@@ -979,7 +1001,7 @@ La Legislatura del Estado emitirá la convocatoria respectiva para la elección 
 
 La Comisión expedirá su reglamento en un período no mayor a sesenta días naturales a partir de que tome posesión de su cargo.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MARZO DE 2007.
 
@@ -1026,3 +1048,9 @@ Artículo Tercero. Se faculta al Comisionado Presidente a realizar las transfere
 Artículo Cuarto. El Comisionado Presidente en funciones podrá ser reelecto para el periodo inmediato posterior al de su encargo.
 
 Artículo Quinto. Cuando en otro ordenamiento legal se haga referencia al Comisionado Presidente, se entenderá hecha al actual Comisionado Ejecutivo.
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
