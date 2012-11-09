@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-10-26"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -221,17 +221,29 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 35.
 
-En el Estado de Baja California, la coordinación del Registro Civil estará a cargo de Director del Departamento del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Estado de Baja California, la coordinación del Registro Civil estará a cargo del Director del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 36.
 
-Las actas a que se refiere el artículo anterior se asentarán en formas especiales que se denominarán "Formas del Registro Civil", las que una vez utilizadas se ordenarán cronológicamente con el sistema que autorice el Director del Departamento del Registro Civil.
+Las actas a que se refieren el artículo anterior se asentarán en formas especiales que se denominarán "Formas del Registro Civil", las que una vez utilizadas se ordenarán cronológicamente con el sistema que autorice el Director del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 36 BIS.- Los Oficiales del Registro Civil, deberán implementar, el Sistema para la Inscripción y Certificación de los Actos del Estado Civil, que determine la Dirección del Registro Civil, en coordinación con la Dirección del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, observándose las siguientes reglas:
+
+I. Las actas se levantarán con las formalidades establecidas por este Código.
+
+II. Las actas se inscribirán en hojas previamente foliadas y autorizadas con la firma del Director del Registro Civil, se encuadernarán en libros de doscientos (sic) actas cada uno o fracción y pasarán a formar parte del archivo del Registro Civil.
+
+III. Un tanto de estas actas también serán remitidas en archivo electrónico a la Dirección del Registro Civil de forma mensual, la segunda se guardará en archiveros especiales por números consecutivos de libro, folio y año, en las oficinas del Registro Civil y servirán para expedir la (sic) copias certificadas y constancias que soliciten los interesados.
+
+IV. En todos aquellos casos en que este Código ordene anotaciones marginales en las actas de Registro Civil, se efectuarán dichas anotaciones en las actas originales y además en la Base de Datos Registral, debiendo realizar los cambios de los datos de las actas, así como sustituyendo la imagen digitalizada correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -263,17 +275,19 @@ En las actas del Registro Civil intervendrán el Oficial del Registro Civil o Fu
 
 Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que correspondan y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas, en su caso, de acuerdo con las formas impresas que al efecto se establezcan.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 42.
 
-Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil y el Director del Departamento del Registro Civil, para cuyo efecto, el funcionario titular del lugar donde ocurra la pérdida dará el aviso correspondiente, así como al Ministerio Público.
+Si se perdiere o destruyese alguna de las formas de Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil y del Director del Registro Civil, para cuyo efecto, el funcionario titular del lugar donde ocurra la pérdida dará el aviso correspondiente, así como al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Las formas del Registro Civil serán suministradas por el Jefe del Departamento del Registro Civil de acuerdo con las necesidades que en número se requieran. De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá al Director del Departamento del Registro Civil. El Jefe del Departamento del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
+Las formas del Registro Civil serán suministradas por el Director del Registro Civil de acuerdo con las necesidades que en número se requieran.
+
+De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá a la Dirección del Registro Civil. El Director del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -317,11 +331,13 @@ Para acreditar el estado civil adquirido por los mexicanos fuera de la Repúblic
 
 Para la inscripción de los actos del Registro Civil dispondrán los interesados del plazo que este Código señala en forma específica para cada uno.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 51.
 
-En las actas del Registro Civil se harán las anotaciones que relacionen el acto o hecho con los demás que se inscriban respecto de la misma persona, y las otras que establezca la Ley.
+En las actas del Registro Civil se harán las anotaciones que relacionen el acto o hecho con los demás que se inscriban respecto de la misma persona, y las otras que establezcan la Ley.
+
+Los Oficiales del Registro Civil deberán remitir a la Dirección, una copia en archivo electrónico de las anotaciones inscritas.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -329,11 +345,13 @@ En las actas del Registro Civil se harán las anotaciones que relacionen el acto
 
 Los actos y hechos del Estado Civil que interesen en lo personal al Oficial, a su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial y se asentarán ante el Presidente Municipal del lugar.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 53.
 
-El Ministerio Público cuidará de que el Registro Civil funcione debidamente, a cuyo efecto practicará inspecciones en las Oficialías en cualquier tiempo. Durante los seis primeros meses de cada año, el Ministerio Público revisará las actas del año anterior remitidas al Archivo General del Departamento del Registro Civil. En el caso de que en el ejercicio de su encargo los Oficiales del Registro Civil hubieren cometido delitos procederá a hacer las consignaciones correspondientes y si hubieren incurrido en faltas, las hará del conocimiento del Departamento del Registro Civil.
+El Ministerio Público cuidará de que el Registro Civil funcione debidamente, a cuyo efecto practicará inspecciones en la Oficialías en cualquier tiempo.
+
+Durante los primeros seis meses de cada año, el Ministerio Público revisará las actas del año anterior remitidas al Archivo General de la Dirección del Registro Civil. En el caso de que en el ejercicio de su encargo los Oficiales del Registro Civil hubieren cometido delitos, procederá a hacer las consignaciones correspondientes y si hubiesen incurrido en faltas, las hará del conocimiento de la Dirección del Registro Civil.
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
@@ -385,15 +403,13 @@ Tratándose de las instituciones hospitalarias que se nieguen a otorgar el aviso
 
 El incumplimiento a lo dispuesto por el Artículo anterior, sólo dará lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 57.
 
-En las poblaciones en que no haya Oficial del Registro, el niño será presentado ante el Delegado Municipal para que asiente el acta en los términos que correspondan de acuerdo con la Ley.
+En las poblaciones en que no haya Oficial de Registro, el niño será presentado ante el Delegado Municipal para que asiente el acta en los términos que correspondan de acuerdo con la Ley.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-En el registro de nacimiento a que se refiere el párrafo anterior, el Jefe del Departamento del Registro Civil tomando en consideración las necesidades de la población en cuestión y la seguridad jurídica de las personas menores de dieciocho años de edad a registrar, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
+En el registro de nacimiento a que se refiere el párrafo anterior, el Director del Registro Civil, tomando en consideración las necesidades de la población en cuestión y la seguridad jurídica de las personas menores de dieciocho años de edad a registrar, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -999,21 +1015,19 @@ B).- Copia certificada del acta de que se trate, expedida por el Oficial del Reg
 
 C).- Copia certificada de las actas relacionadas con aquella cuya rectificación se solicite y de los documentos justificativos de la rectificación.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 135.
 
-El Oficial del Registro Civil turnará el original de la solicitud y la documentación a que se refiere el Artículo anterior al Jefe del Departamento del Registro Civil del Estado, quien dictará resolución fundada respecto de si procede o no la rectificación solicitada. En caso de que la resolución sea en el sentido de que no procede la rectificación, se le comunicará al Oficial del Registro Civil, para que éste la haga saber al interesado.
+El Oficial del Registro Civil turnará el original de la solicitud y la documentación a que se refiere el artículo anterior al Director del Registro Civil del Estado, quien dictará resolución fundada respecto de si procede o no la rectificación solicitada. En caso de que la resolución sea en el sentido de que no procede la rectificación, se le comunicará al Oficial del Registro Civil, para que éste la haga saber al interesado.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
-ARTICULO 135 BIS.- En caso de que la resolución fuere en el sentido de que sí procede la rectificación, se la comunicará al Oficial del Registro Civil, al Encargado del Archivo General del Departamento del Registro Civil y a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, para que hagan la anotación en el acta rectificada, ya sea al margen o al calce, según corresponda.
+ARTICULO 135 BIS.- En caso de que la resolución fuere en el sentido de que si procede la rectificación, se la comunicará mediante el envío del archivo electrónico respectivo, al Oficial del Registro Civil, al Encargado del Archivo General de la Dirección del Registro Civil y a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, para que hagan la anotación en el acta rectificada, ya sea al margen o al calce, según corresponda, así como a la Base de Datos Registral.
 
-El Oficial del Registro Civil hará saber dicha resolución al interesado.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
-
-ARTICULO 135 BIS 1.- Si de la documentación acompañada a una solicitud de rectificación aparecieren otros errores u omisiones, que no fueren señalados en dicha solicitud, el Jefe del Departamento del Registro Civil los tomará en cuenta de oficio al dictar la resolución que corresponda.
+ARTICULO 135 BIS 1.- Si de la documentación acompañada a una solicitud de rectificación aparecieren otros errores u omisiones, que no fueren señalados en dicha solicitud, el Director del Registro Civil los tomará en cuenta de oficio al dictar la resolución que corresponda.
 
 > <small>(ADICIONADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -11439,7 +11453,7 @@ La acción y la excepción de nulidad por falta de forma compete a todos los int
 
 ###### ARTICULO 2104.
 
-La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+La nulidad por causa de error dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
 
@@ -11931,7 +11945,7 @@ Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredi
 
 ###### ARTICULO 2203.
 
-El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se haya (sic) aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se haya (sic) aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
 
 ###### ARTICULO 2204.
 
@@ -14943,7 +14957,7 @@ III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la 
 
 ###### ARTICULO 2804.
 
-La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOs I y III Libro primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOS I y III Libro primero.
 
 ###### ARTICULO 2805.
 
@@ -16058,3 +16072,9 @@ TERCERO.- Los diversos Ayuntamientos del Estado, difundirán a través de los me
 P.O. 26 DE OCTUBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
