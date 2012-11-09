@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-LEY DE TURISMO DEL ESTADO DE QUERETARO
+LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -55,7 +55,9 @@ II. El aprovechamiento eficiente de los recursos turísticos del Estado, se real
 
 III. La planeación, programación y fomento del turismo, se realizará de manera coordinada entre el Poder Ejecutivo del Estado y el Poder Ejecutivo Federal, por conducto de las dependencias competentes y de manera concertada con los sectores social y privado locales, nacionales e internacionales del ramo turístico;
 
-IV. El fomento al turismo tendrá como bases la creación, la conservación, la protección y el aprovechamiento de los recursos y atractivos turísticos del Estado, a efecto de lo cual, se consideran prioritarias las acciones de planeación, programación, capacitación, promoción, concertación, verificación y vigilancia del desarrollo turístico de la Entidad; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+IV. El fomento al turismo tendrá como bases la creación, la conservación, la protección, la difusión y el aprovechamiento de los recursos y atractivos turísticos del Estado, así como su infraestructura, a efecto de lo cual, se consideran prioritarias las acciones de planeación, programación, capacitación, promoción, concertación, verificación y vigilancia del desarrollo turístico de la Entidad; y
 
 V. Las autoridades estatales y municipales, los prestadores de servicios turísticos y los particulares, concurrirán en la vigilancia del cumplimiento de las disposiciones de la presente Ley, denunciando de inmediato ante la autoridad competente las anomalías e irregularidades que observen en el trato al turista y, en general, en todo lo relativo al desarrollo turístico del Estado.
 
@@ -666,3 +668,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
