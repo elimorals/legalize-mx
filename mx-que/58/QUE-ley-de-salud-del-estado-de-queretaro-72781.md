@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2012-09-19"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -1387,11 +1387,59 @@ Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis,
 
 El Consejo Estatal para la Prevención de Accidentes, tiene como finalidad atender lo relativo a la prevención y control de accidentes; se integra por representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-### Capítulo Único. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+### Capítulo Cuarto. De las enfermedades no transmisibles
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 113 Bis.
+
+Las autoridades sanitarias estatales y municipales, en su ámbito de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 113 Ter.
+
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá las siguientes acciones:
+
+I. Detección oportuna y evaluación del riesgo de contraerlas;
+
+II. Difusión de medidas higiénicas para el control de los padecimientos;
+
+III. Prevención específica en cada caso y vigilancia de su cumplimiento;
+
+IV. Realización de estudios epidemiológicos;
+
+V. Implementación de medidas y estrategias que propicien la adopción de hábitos alimenticios sanos y estilos de vida saludables por la población; y
+
+VI. Las demás que resulten necesarias.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 113 Quater.
+
+En el rubro de las enfermedades no transmisibles, las autoridades sanitarias estatales y municipales, considerando lo establecido en las normas oficiales mexicanas vigentes, se abocarán a la prevención de las enfermedades:
+
+I. Cardiovasculares;
+
+II. Diabetes Mellitus;
+
+III. Cáncer;
+
+IV. Enfermedades respiratorias crónicas; y
+
+V. Las demás que señale el Consejo de Salubridad General.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 113. Quinquies.
+
+Las autoridades sanitarias estatales y municipales coordinarán sus actividades con la Secretaría de Salud Federal y otras dependencias o entidades públicas, para la investigación, prevención y control de las enfermedades no transmisibles.
 
 ## Título Noveno. De la asistencia social, prevención y rehabilitación de las personas con discapacidad
 
-### Capítulo Primero. Del programa contra el abuso de bebidas alcohólicas
+### Capítulo Único. Disposiciones generales
 
 ###### Artículo 114.
 
@@ -1469,7 +1517,7 @@ La Secretaría de Salud conformará un Comité Técnico de Valoración para cert
 
 ## Título Décimo. Del programa contra las adicciones
 
-### Capítulo Segundo. Del programa contra el tabaquismo
+### Capítulo Primero. Del programa contra el abuso de bebidas alcohólicas
 
 ###### Artículo 125.
 
@@ -1499,7 +1547,7 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral y educativo.
 
-### Capítulo Tercero. Del programa contra la farmacodependencia
+### Capítulo Segundo. Del programa contra el tabaquismo
 
 ###### Artículo 128.
 
@@ -1543,7 +1591,7 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 III. La vigilancia e intercambio de información, con los diferentes organismos y dependencias relacionados con la materia.
 
-### Capítulo Cuarto. Del programa contra las adicciones comportamentales
+### Capítulo Tercero. Del programa contra la farmacodependencia
 
 ###### Artículo 130.
 
@@ -1593,7 +1641,7 @@ c) El número de fármacodependientes que concluyeron o no exitosamente sus trat
 
 Esta información se utilizará para la prevención de la fármacodependencia, exclusivamente con fines estadísticos y sin señalar identidades.
 
-### Capítulo Primero. Disposiciones generales
+### Capítulo Cuarto. Del programa contra las adicciones comportamentales
 
 ###### Artículo 132.
 
@@ -1627,7 +1675,7 @@ Título Decimoprimero
 
 De la salubridad local
 
-### Capítulo Segundo. Del comercio de productos alimenticios en almacenes y tiendas no especializadas
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 136.
 
@@ -1641,7 +1689,7 @@ Los establecimientos y vehículos sujetos al control sanitario establecido en la
 
 Todo cambio de propietario de un establecimiento, de razón o denominación social autorizado por la Secretaría, deberá ser comunicado por éste en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado, sujetándose al trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-### Capítulo Tercero. De las construcciones
+### Capítulo Segundo. Del comercio de productos alimenticios en almacenes y tiendas no especializadas
 
 ###### Artículo 139.
 
@@ -1655,7 +1703,7 @@ Los mercados y centros de abasto, desde el punto de vista higiénico, estarán b
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el doble mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las correspondientes normas oficiales mexicanas.
 
-### Capítulo Cuarto. De la captación, tratamiento, conducción y distribución de agua
+### Capítulo Tercero. De las construcciones
 
 ###### Artículo 142.
 
@@ -1685,9 +1733,7 @@ Los edificios, locales, construcciones o terrenos urbanos podrán ser verificado
 
 Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y la norma oficial mexicana correspondiente.
 
-### Capítulo Quinto. Del trabajo sexual
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+### Capítulo Cuarto. De la captación, tratamiento, conducción y distribución de agua
 
 ###### Artículo 149.
 
@@ -1699,7 +1745,9 @@ La autoridad sanitaria estatal y municipal, en su caso, realizará análisis per
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo Sexto. De los centros penitenciarios
+### Capítulo Quinto. Del trabajo sexual
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 151.
 
@@ -1757,9 +1805,7 @@ Corresponde a las autoridades municipales definir y autorizar las zonas en las q
 
 Esta actividad no podrá ejercerse cerca de áreas habitacionales, escuelas, oficinas públicas, centros culturales, religiosos y deportivos.
 
-### Capítulo Séptimo. De las peluquerías, salones de belleza, estéticas, centros de masajes y otros similares
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+### Capítulo Sexto. De los centros penitenciarios
 
 ###### Artículo 157.
 
@@ -1775,7 +1821,9 @@ En los centros de reclusión para mujeres, se deberá contar con las instalacion
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2012)</small>
 
-### Capítulo Primero. De las tarjetas sanitarias
+### Capítulo Séptimo. De las peluquerías, salones de belleza, estéticas, centros de masajes y otros similares
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### Artículo 158 Bis.
 
@@ -1797,7 +1845,7 @@ Título Decimosegundo
 
 De las tarjetas sanitarias y certificaciones
 
-### Capítulo Segundo. De la revocación de tarjetas sanitarias
+### Capítulo Primero. De las tarjetas sanitarias
 
 ###### Artículo 159.
 
@@ -1807,7 +1855,7 @@ El SESEQ podrá requerir tarjeta de control sanitario a las personas que realice
 
 Los obligados a tener tarjeta sanitaria deberán exhibirla en el momento en que la autoridad sanitaria lo requiera.
 
-### Capítulo Tercero. De los certificados
+### Capítulo Segundo. De la revocación de tarjetas sanitarias
 
 ###### Artículo 161.
 
@@ -1835,7 +1883,7 @@ IX. En los demás casos que determine la autoridad sanitaria.
 
 Cuando la revocación de una tarjeta sanitaria se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
 
-### Capítulo Único. Disposiciones generales
+### Capítulo Tercero. De los certificados
 
 ###### Artículo 163.
 
@@ -1871,7 +1919,7 @@ Título Decimotercero
 
 De la vigilancia sanitaria
 
-### Capítulo Único. De las medidas de seguridad sanitaria
+### Capítulo Único. Disposiciones generales
 
 ###### Artículo 168.
 
@@ -1898,6 +1946,8 @@ Las autoridades sanitarias del Estado podrán encomendar a sus verificadores, ad
 Título Decimocuarto
 
 De las medidas de seguridad sanitaria
+
+### Capítulo Único. De las medidas de seguridad sanitaria
 
 ###### Artículo 173.
 
@@ -2128,3 +2178,9 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
