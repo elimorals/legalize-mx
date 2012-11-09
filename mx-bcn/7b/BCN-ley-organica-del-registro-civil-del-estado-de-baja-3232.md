@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2012-01-20"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -83,9 +83,11 @@ Cuando en un Municipio haya dos o más Oficialías del Registro Civil, a cada un
 
 DE LA DIRECCIÓN DEL REGISTRO CIVIL.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 8o.
 
-Para ser Jefe del Departamento del Registro Civil, se requiere:
+Para ser Director del Registro Civil, se requiere:
 
 I.- Ser mexicano por nacimiento y en pleno goce de sus derechos;
 
@@ -171,11 +173,15 @@ XII.- Las demás que le confieren otras Leyes y Reglamentos.
 
 ### CAPITULO III. DEL ARCHIVO DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 12.
 
-En el Archivo General de la Dirección del Registro Civil, se conservarán los ejemplares de las actas que se reciban de las Oficialías del Registro Civil, conforme lo dispuesto por el Artículo 43 del Código Civil.
+El Archivo General de la Dirección del Registro Civil y los Archivos Generales de cada Oficialía, se componen de los ejemplares de las actas, conforme a lo dispuesto por el artículo 43 del Código Civil, así como de la información electrónica contenida en la Base de Datos Registral.
+
+La Base de Datos Registral contendrá la información las imágenes digitalizadas de las Actas del Registro Civil, así como el registro de los datos contenidos en éstas.
+
+Las Constancias o Copias Certificadas que se expidan mediante impresiones por cualquier medio de dichas imágenes o la consulta a tales registros, tendrán el mismo valor probatorio que las leyes concedan a sus originales.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
@@ -261,9 +267,11 @@ Los documentos relacionados con las actas del Registro Civil, forman el apéndic
 
 En el apéndice a que alude el Artículo anterior, se agregarán como mínimo las constancias relativas al acto o hecho objeto de registro, copias certificadas de las actas del estado civil de las personas que corresponda, copia de las identificaciones con fotografía, copia certificada de las resoluciones judiciales o administrativas correspondientes; información de hechos en vía de jurisdicción voluntaria y certificado de inexistencia.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 26.
 
-El apéndice correspondiente a cada una de las actas del Registro Civil, quedará en el Archivo de la Oficialía.
+El apéndice correspondiente a cada una de las actas del Registro Civil, quedará en el Archivo de la Oficialía. Del mismo, se podrán guardar reproducciones o imágenes fotostáticas, fotográficas o electrónicas, las cuales tendrán el mismo valor probatorio que las leyes aplicables concedan a sus originales.
 
 ### CAPITULO VII. DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -277,11 +285,11 @@ Las actas del Registro Civil, se asentarán según su naturaleza en las formas a
 
 Los ejemplares de las actas de un mismo año correspondientes a la Oficialía, se ordenarán cronológicamente con el sistema que autorice el Director del Registro Civil.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Las formas a que se refiere el Artículo precedente, serán por triplicado con el sistema de calca que se autorice, de tal manera que su contenido resulte exacto.
+Las formas a que se refiere el artículo precedente, serán por triplicado con el sistema que al efecto autorice la Dirección del Registro Civil en coordinación con el Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, de tal manera que su contenido resulte exacto.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
@@ -303,9 +311,13 @@ Si un acto se entorpeciere porque las partes se nieguen a continuarlo, o por cua
 
 El acta inutilizada por dicho motivo, se enviará a la Dirección del Registro Civil.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 32.
 
-Los nombres y demás datos se escribirán completos, no se utilizarán abreviaturas en el asentamiento de los datos, a excepción de los nombres de las Entidades Federativas que se mencionen en el acta.
+Los nombres y demás datos se escribirán completos, no se utilizarán abreviaturas ni números en el asentamiento de los datos, a excepción de los nombres de las Entidades Federativas que se mencionen en el acta.
+
+Los nombres no podrán constituir palabras que denigren la personalidad humana, ni confundirse con denominaciones de fantasía.
 
 ###### ARTICULO 33.
 
@@ -337,11 +349,13 @@ A quien dé lugar a la duplicidad de actas del Registro Civil en los términos d
 
 Las anotaciones que ordene la autoridad judicial o administrativa correspondiente, comenzarán al calce del acta y continuarán al reverso de la misma. En caso de que no sea posible, se adherirá una hoja, que contendrá la certificación del funcionario correspondiente, así como la referencia del acta a la cual pertenece.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
-Los Oficiales enviarán a la Dirección del Registro Civil, una copia de cada anotación efectuada en las actas del Registro Civil. A su vez la Dirección enviará copia de dichas anotaciones, a la Dirección del Registro Nacional de Población de la Secretaría de Gobernación.
+Los oficiales enviarán a la Dirección del Registro Civil, una copia de cada anotación efectuada en las actas de Registro Civil. A su vez la Dirección enviará copia de dichas anotaciones, a la Dirección del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación.
+
+Cuando se realice una anotación, deberá sustituirse la imagen digitalizada en la base de Datos Registral de la Oficialía, así como en la de la Dirección del Registro Civil.
 
 ### CAPITULO IX. DE LAS OFICIALIAS DEL REGISTRO CIVIL
 
@@ -427,7 +441,9 @@ VII.- Hacer las anotaciones en las actas, relativas a las circunstancias que alt
 
 VIII.- Autorizar, dentro o fuera de la Oficina, los actos o hechos en los que deba intervenir;
 
-IX.- Expedir y autorizar las copias certificadas de las actas existentes en el Registro Civil, y de los documentos relativos al apéndice;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+IX.- Expedir y autorizar las copias certificadas de las actas existentes en el Registro Civil, y de los documentos relativos al apéndice; ya sea con su firma y sello de la Oficialía, o en su caso, respaldados por la firma electrónica en apego a la propia ley de la materia.
 
 X.- Rendir a las autoridades federales y estatales, los informes estadísticos que se le requieran;
 
@@ -782,3 +798,9 @@ P.O. 20 DE ENERO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En un plazo que no excederá de 60 días, las oficialías adecuaran sus normas y manuales de carácter interno para actualizar sus disposiciones y procedimientos al contenido de la presente reforma.
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
