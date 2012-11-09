@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2012-08-03"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1886,6 +1886,20 @@ g) El silencio de la autoridad ante las solicitudes de acceso a la información 
 El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
 
 La ley fijará las responsabilidades y sanciones aplicables por la comisión de infracciones.
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2012)</small>
+
+V. La función de atender y proteger la integridad de los periodistas, así como de promover las condiciones para el libre ejercicio de la profesión del periodismo, con pleno respeto al derecho a la información y a la libertad de expresión, estará a cargo de la Comisión Estatal para la Atención y Protección de los Periodistas, de conformidad con las bases siguientes:
+
+a) La Comisión estará facultada para:
+
+1. Resolver sobre la atención y el otorgamiento de medidas de protección a los periodistas que lo soliciten, así como disponer los recursos y apoyos de orden material, económico o funcional que se requieran para la ejecución de sus determinaciones, así como dictar los criterios y lineamientos de orden sustantivo para su efectivo cumplimiento.
+
+2. Presentar denuncias y quejas ante las instituciones de procuración y administración de justicia, o de defensa de los derechos humanos, cuando la esfera jurídica de los periodistas esté sujeta a amenazas, agresiones o riesgo inminente, como consecuencia del ejercicio de su profesión, y tramitar ante las autoridades competentes la adopción de medidas inmediatas de atención y protección.
+
+b) La Comisión se integrará por: Cuatro periodistas; dos propietarios o directivos de medios de comunicación; dos representantes de organizaciones no gubernamentales y un académico dedicado a tareas de enseñanza, difusión o investigación, quienes tendrán el carácter de comisionados; y un secretario ejecutivo, que participará en las sesiones de la misma con voz pero sin voto, al igual que los titulares de las dependencias responsables de la comunicación social y de la procuración de justicia en la administración pública estatal.
+
+c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, y durarán en su encargo cuatro años con posibilidad de reelección por una sola vez. La Ley señalará el procedimiento para la designación del Presidente de la Comisión, así como las atribuciones de éste, de los demás comisionados y del secretario ejecutivo.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -12064,6 +12078,16 @@ Cuarto. Se derogan todas las disposiciones que se opongan a este Decreto.
 G.O. 3 DE AGOSTO DE 2012.
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+G.O. 9 DE NOVIEMBRE DE 2012.
+
+Primero. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La ley que establezca la organización y funcionamiento de la Comisión Estatal para la Atención y Protección de los Periodistas se expedirá en un plazo no mayor a sesenta días, contado a partir del inicio de la vigencia del presente Decreto.
+
+Tercero. Por única ocasión, el Congreso del Estado, al aprobar por primera vez el nombramiento de los integrantes de la Comisión, señalará también, de entre ellos, a quien ejercerá la Presidencia de la misma.
+
+Cuarto. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
