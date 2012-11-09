@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-comision-de-carrera-policial-y-71064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2009-11-13"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE CARRERA POLICIAL Y REGIMEN DISCIPLINARIO PARA LOS AGENTES DE LA POLICIA MINISTERIAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DE LA COMISION DE CARRERA POLICIAL Y REGIMEN DISCIPLINARIO PARA LOS AGENTES DE LA POLICIA MINISTERIAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA COMISIÓN DE CARRERA POLICIAL Y RÉGIMEN DISCIPLINARIO PARA LOS AGENTES DE LA POLICÍA MINISTERIAL DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -89,17 +89,19 @@ III.- Tres Vocales que serán:
 
 a) El Director Jurídico de la Procuraduría,
 
-b) El Titular de la Institución Policial y
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
-c) Un representante policial.
+b) Dos Miembros de la Policía Ministerial que designe el Procurador;
+
+c) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 8.
 
-El titular de la Policía Ministerial del Estado propondrá al Presidente una terna de Miembros para la designación de los Vocales a que se refiere la fracción III, inciso c) del artículo anterior, atendiendo a criterios de antigüedad, jerarquía, experiencia y honorabilidad, para lo cual remitirá sus expedientes personales.
+Los Miembros de la Policía Ministerial durarán en su encargo de Vocales tres años, además requieren no haber sido sancionados, suspendidos o encontrarse sujetos a investigación administrativa o procedimiento por la contraloría interna o la Comisión, respectivamente.
 
-La Comisión, una vez recibida la terna, previo análisis de las propuestas recibidas, votará para elegir a los Miembros que serán los representantes y sus suplentes.
-
-Los Vocales a que se refiere este artículo durarán en su encargo tres años, además, requieren no haber sido sancionados, suspendidos o encontrarse sujetos a investigación administrativa o procedimiento por la Contraloría Interna o la Comisión, respectivamente.
+Los suplentes de los Vocales antes mencionados serán designados en forma directa por el Procurador, quienes actuarán con funciones de propietario para cubrir las ausencias de los mismos.
 
 ###### ARTÍCULO 9.
 
@@ -294,3 +296,15 @@ SECRETARIO GENERAL DE GOBIERNO
 ROMMEL MORENO MANJARREZ
 
 PROCURADOR GENERAL DE JUSTICIA EL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los integrantes de la Comisión que fueren designados con motivo del presente Decreto conocerán de todos los asuntos que hubieren sido iniciados y substanciados ante dicho órgano, aún cuando estos se hallen citados para sentencia.
