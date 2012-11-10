@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2012-11-03"
+last_updated: "2012-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -479,7 +479,15 @@ d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de
 
 ###### Artículo 26.
 
-Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación, la protección de sus bienes, la paz y la seguridad pública.
+Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia es destructiva y atenta contra el desarrollo humano integral y la dignidad de la persona.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+El Estado y la sociedad en su conjunto deben crear las condiciones que permitan a todos y cada uno de sus integrantes a vivir en paz, sin violencia, sin temor y sin miedo de ser atacados. Cualquier persona puede exigir a la autoridad el cumplimiento de esta obligación y en su caso, la sanción a los infractores.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
 
@@ -502,6 +510,10 @@ Toda persona tiene derecho a la educación, que será obligatoria en los niveles
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará el amor a la Patria y el respeto a los derechos humanos y la conciencia de solidaridad nacional e internacional, en la independencia y la justicia. Asimismo, formará en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre todos los habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+El sistema educativo estatal formará a los alumnos para que sus vidas se orienten por los conceptos de: justicia, democracia, respeto al Estado de Derecho y respeto a los derechos humanos. Fomentará en ellos, la cultura de la legalidad y la cultura de la paz. Facilitará el conocimiento de los valores de la paz para lograr el entendimiento y la concordia entre los seres humanos, el respeto, la tolerancia y el diálogo; difundirá como métodos de solución de conflictos: la negociación, la conciliación y la mediación, a fin de que los educandos erradiquen toda clase de violencia y aprendan a vivir en paz.
 
 El desarrollo educativo y cultural, científico y tecnológico, es tarea primordial del Estado. Los particulares podrán coadyuvar en estas acciones en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -3060,3 +3072,7 @@ P.O. 3 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- En un plazo que no exceda de noventa días, contados a partir de la publicación de este Decreto, se deberán realizar las adecuaciones que correspondan a la Ley de la Comisión de Derechos Humanos del Estado de Zacatecas y a su Reglamento Interno.
+
+P.O. 10 DE NOVIEMBRE DE 2012.
+
+Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
