@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2012-06-30"
+last_updated: "2012-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -79,11 +79,23 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y la distribución equitativa de la riqueza, buscando garantizar la justicia social.
 
-## TITULO SEGUNDO. DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)</small>
 
-7o.- En el Estado de Baja California Sur, todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
+## TITULO SEGUNDO. DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+7o.- En el Estado de Baja California Sur todas las personas gozarán de los derechos humanos que reconoce la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y con las condiciones que ella misma establece.
 
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra en este Cuerpo Constitucional.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
 
@@ -1115,11 +1127,21 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+B. El Congreso del Estado establecerá un organismo de protección de los Derechos Humanos que otorga el orden jurídico mexicano, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
+
 > <small>(ADICIONADO, B.O. 10 DE ABRIL DE 1992)</small>
 
-B.- El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que otorga el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
-
 Este organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo que en su caso cree el Congreso del Estado, el cual asimismo, podrá comunicarse con el organismo federal que conozca de la defensa y protección de los derechos humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+Todo servidor público está obligado a responder las recomendaciones que les presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos locales, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o la Diputación Permanente, según corresponda, podrán llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+La elección del Presidente de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente e informado, en los términos y condiciones que determine la ley.
 
 86.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1993)
 
@@ -2822,3 +2844,7 @@ B.O. 30 DE JUNIO DE 2012.
 ###### ARTICULO ÚNICO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
