@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-junta-estatal-de-caminos-65482"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-20"
-last_updated: "2008-12-20"
+last_updated: "2012-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA JUNTA ESTATAL DE CAMINOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA ESTATAL DE CAMINOS, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -694,3 +696,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 ING. HÉCTOR MANUEL LÓPEZ PERALTA
 
 SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Junta Estatal de Caminos, publicado en el Suplemento "D" al Periódico Oficial del Estado número 6917, de fecha 20 de diciembre de 2008; y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con anterioridad a la vigencia del presente Reglamento se venían tramitando en las subdirecciones que se reestructuran, continuarán su trámite ante el departamento respectivo hasta su total resolución.
+
+CUARTO. Para el buen funcionamiento y operatividad de la Junta Estatal de Caminos, se deberán actualizar los manuales respectivos.
