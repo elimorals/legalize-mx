@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-san-nicolas-de-los-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2010-11-05"
+last_updated: "2012-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de junio de 2005.
 
@@ -161,7 +161,9 @@ VII.- Las demás que contemplen los ordenamientos legales aplicables.
 
 El Presidente Municipal para fortalecer el desempeño de sus funciones, se apoyará en las dependencias y entidades que conforman el Gobierno Municipal, así como en las autoridades auxiliares.
 
-Los titulares de las dependencias y entidades del Gobierno Municipal serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos de Secretario del Ayuntamiento, del Secretario de Finanzas y Tesorería Municipal, que requieren del voto de la mayoría simple del Ayuntamiento. El Presidente Municipal deberá informar, en la próxima sesión de Cabildo a los integrantes del Ayuntamiento, de los nombramientos y remociones de los Directores y Secretarios.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2012)</small>
+
+Los titulares de las dependencias y entidades del Gobierno Municipal serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos de Secretario del Ayuntamiento, del Secretario de Finanzas y Tesorería y del Contralor Municipal, que requieren del voto de la mayoría simple del Ayuntamiento. El Presidente Municipal deberá informar, en la próxima sesión de Cabildo a los integrantes del Ayuntamiento, de los nombramientos y remociones de los Directores y Secretarios.
 
 ###### ARTÍCULO 20.
 
@@ -208,6 +210,10 @@ XVII.- Proponer al R. Ayuntamiento la firma de convenios de colaboración con ot
 XVIII.- Proponer al R. Ayuntamiento las personas a ocupar los cargos de Secretario del Ayuntamiento y de Secretario de Finanzas y Tesorería Municipal;
 
 XIX.- Turnar a las comisiones del Ayuntamiento los asuntos que corresponda resolver al Cabildo y aquellos de interés público que considere pertinentes.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2012)</small>
+
+XX.- En caso de separación del Contralor Municipal, podrá designar a una persona como encargado del despacho de la Oficina de la Contraloría Municipal, quién durará en el encargo hasta en tanto el R. Ayuntamiento apruebe un nuevo nombramiento.
 
 ### CAPÍTULO III. DE LOS REGIDORES
 
@@ -381,7 +387,7 @@ Son Acuerdos Económicos las resoluciones del Ayuntamiento que sin incidir direc
 
 Tienen la naturaleza de acuerdos económicos, las resoluciones que dicte el Cabildo respecto de su funcionamiento interior, en los casos previstos por este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 35.
 
@@ -663,6 +669,10 @@ D) Analizar y dictaminar las iniciativas de nuevos reglamentos o de su reforma, 
 
 E) Las demás que le confiera el R. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2012)</small>
+
+F) Proponer al R. Ayuntamiento la persona a ocupar el cargo de Contralor Municipal.
+
 II.- DE HACIENDA MUNICIPAL:
 
 A) Proponer al R. Ayuntamiento proyectos de Reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios.
@@ -711,7 +721,7 @@ D) Gestionar ante las autoridades municipales reportes de vecinos en materia de 
 
 E) Las demás que determine el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
 
 V.- DE SEGURIDAD:
 
@@ -1229,7 +1239,7 @@ SECRETARIO DEL R. AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los 13-trece días del mes de Mayo del 2005-dos mil cinco.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE SEPTIEMBRE DE 2008.
 
@@ -1246,3 +1256,7 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 P.O. 5 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2012.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
