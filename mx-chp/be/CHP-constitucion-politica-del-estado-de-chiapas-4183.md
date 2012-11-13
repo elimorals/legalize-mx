@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2012-04-25"
+last_updated: "2012-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -581,11 +581,11 @@ Los Diputados en funciones no podrán durante el periodo de su encargo, desempe�
 
 La infracción de esta disposición será sancionada con la pérdida del cargo de Diputado.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 26.
 
-El Congreso del Estado deberá quedar instalado el día primero de octubre del año de la elección, debiendo iniciar su primer periodo ordinario de sesiones ese mismo día de ese mismo mes, terminando el día treinta y uno de diciembre, y el segundo periodo ordinario iniciará el día primero de abril, terminando el treinta y uno de julio, en los cuales se ocupará del estudio, discusión y votación de las iniciativas de ley o decretos que se le presenten y demás asuntos que le correspondan conforme a esta Constitución
+El Congreso del Estado deberá quedar instalado el día primero de octubre del año de la elección, debiendo iniciar su primer periodo ordinario de sesiones ese mismo día de ese mismo mes, terminando el día treinta y uno de diciembre, y el segundo periodo ordinario iniciará el día primero de abril, terminando el treinta de junio, en los cuales se ocupará del estudio, discusión y votación de las iniciativas de ley o decretos que se le presenten y demás asuntos que le correspondan conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -601,11 +601,11 @@ El Congreso del Estado deberá quedar instalado el día primero de octubre del a
 
 El Congreso del Estado tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 28.
 
-Dentro de los 45 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 60 días siguientes a la apertura del primer periodo de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1435,7 +1435,9 @@ El Director General del Centro Estatal de Justicia Alternativa será nombrado po
 
 El Instituto de la Defensoría Social del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
 
-El Tribunal Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado. El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del presupuesto de egresos del Estado, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
+
+El Tribunal Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3922,5 +3924,11 @@ Quinto.- Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE ABRIL DE 2012.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
