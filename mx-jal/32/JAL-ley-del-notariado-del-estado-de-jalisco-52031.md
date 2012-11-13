@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2009-12-29"
+last_updated: "2012-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -119,9 +119,11 @@ VIII. No haber sido condenado a pena privativa de libertad por sentencia ejecuto
 
 IX. No haber sido separado definitivamente, por sanción, del ejercicio del notariado;
 
-X. Acreditar mediante prueba testimonial ante la autoridad jurisdiccional, ser una persona honesta, de buenas costumbres y haber observado constantemente una conducta que inspire total confianza en la sociedad para el ejercicio notarial;
+X. Acreditar mediante prueba testimonial ante la autoridad jurisdiccional, ser una persona honesta, de buenas costumbres y haber observado constantemente una conducta que inspire total confianza en la sociedad para el ejercicio notarial; (sic)
 
-XI. No estar comprendido en los supuestos de incompatibilidad con el ejercicio notarial a que esta ley se refiere.
+(NOTA: EL 20 DE ENERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2012, DECLARÓ LA INVALIDEZ DEL DECRETO 24158/LIX/12 RESPECTO DE LA PORCIÓN QUE DEROGA LA FRACCIÓN XI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+XI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 10.
 
@@ -151,13 +153,13 @@ La acreditación de los requisitos señalados en las fracciones IV, V y de la VI
 
 El aspirante al ejercicio del notariado presentará solicitud para la obtención de la patente al Titular del Poder Ejecutivo por conducto de la Secretaría General de Gobierno, adjuntando la documentación necesaria que acredite el cumplimiento de los requisitos previstos por esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 12.
 
 Una vez acreditados debidamente los requisitos previstos en el artículo 9.° de esta Ley, el titular del Ejecutivo, si lo estima pertinente, autorizará la presentación del examen, para lo cual remitirá el expediente al Consejo de Notarios para que practique el examen el día y hora que al efecto se determine conjuntamente con la Secretaría General de Gobierno. Los exámenes a que se refiere este artículo deberán llevarse a cabo en orden cronológico de la fecha de recepción del expediente por el Consejo de Notarios.
 
-> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
@@ -201,7 +203,7 @@ Para obtener la patente de aspirante se requiere una calificación no menor de 8
 
 El Secretario del jurado levantará acta del desarrollo del examen, que será firmada por los sinodales y en su caso por el sustentante, debiéndose remitir ésta dentro de los tres días hábiles siguientes al Secretario del Consejo de Notarios para que dé cuenta en la siguiente sesión del Consejo y de conformidad con el resultado de dicho examen, lo comunique al titular del Ejecutivo a través de la Secretaría General de Gobierno, a fin de que esta expida o niegue la patente de aspirante.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -255,13 +257,13 @@ V. Los demás que el titular del Poder Ejecutivo estime pertinentes.
 
 Los notarios que deseen cambiar su adscripción, concursarán en igualdad de circunstancias con los interesados señalados en el artículo 22 de esta Ley, quienes también deberán observar lo dispuesto en el artículo precedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
 El examen se practicará por un jurado que se integrará por tres miembros, fungiendo como presidente el Titular del Poder Ejecutivo o su representante, y los dos restantes serán notarios designados mediante insaculación realizada por el Consejo de Notarios, dentro de la relación de todos los notarios del estado. La insaculación se realizará ante un representante de la Secretaria General de Gobierno.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 Las causas de impedimento y de responsabilidad para los notarios integrantes del jurado serán las mismas que se señalan para el jurado que practique el examen para la obtención de patente de aspirante al ejercicio del notariado; el sinodal que tenga impedimento legal o excusa justificada para integrar el jurado, deberá comunicarlo a la Secretaría General de Gobierno dentro de los dos días hábiles que sigan al de la notificación de su designación, a fin de que esta dependencia lo haga del conocimiento al interesado y a la autoridad o institución que represente, para que se proceda a una nueva designación o sustitución para integrar la vacante.
 
@@ -295,11 +297,9 @@ El notario deberá desempeñar su cargo a petición de parte, dentro de los lím
 
 Los notarios adscritos a los municipios comprendidos en la fracción I del artículo siguiente, deberán tener su oficina notarial única en el municipio de su adscripción y establecer su domicilio particular en cualquiera de los municipios de la zona metropolitana.
 
-Los notarios adscritos a los restantes municipios deberán tener su oficina notarial única en la cabecera municipal de su adscripción, salvo cuando por acuerdo del Ejecutivo del Estado, se autorice el cambio a alguna otra Delegación del municipio, a solicitud del interesado o por exigencias del servicio, oyendo en estos casos la opinión del Consejo de Notarios; asimismo, deberán tener su residencia y habitación permanentes dentro del territorio del municipio de su adscripción.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-Durante el tiempo en que duren en funciones, los notarios deberán demostrar la ausencia de impedimentos a que hace referencia la fracción VIII del artículo 9.° de esta Ley, debiendo presentar, por lo menos cada dos años, ante la Secretaría General de Gobierno, certificado expedido por institución de salud pública o privada, de conformidad con el Reglamento que al efecto se expida, el cual servirá de base al titular del Poder Ejecutivo para que en el caso de padecer enfermedad permanente que limite las facultades intelectuales o impedimento físico para ejercer las funciones del notario, inicie el procedimiento respectivo y resuelva lo conducente en los términos del Título Tercero de esta Ley.
+Los notarios públicos en ejercicio de sus funciones deberán acreditar cada año, con documentos públicos fehacientes, la ausencia de impedimentos a que hace referencia la fracción VII del artículo 9.° de esta ley, mediante certificado médico expedido por institución de salud pública o privada acreditada; en el caso de que el citado documento acredite o presuma que el examinado padece enfermedad permanente que limite las facultades intelectuales o impedimento físico para ejercer las funciones como notario, el titular del Poder Ejecutivo, por conducto de la Secretaría General de Gobierno, de oficio iniciará el procedimiento respectivo en los términos que señala el reglamento, resolviendo lo conducente en los términos del artículo 57 de esta ley.
 
 ###### Artículo 29.
 
@@ -375,7 +375,7 @@ Villa Hidalgo,
 
 San Diego de Alejandría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2008)</small>
 
 III. REGION 03. ALTOS SUR, que se integra con los siguientes municipios:
 
@@ -785,7 +785,7 @@ El notario no podrá iniciar el ejercicio de sus funciones sin que previamente r
 
 El notario deberá iniciar sus funciones dentro de los treinta días hábiles siguientes a la fecha en que rinda la protesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2007)</small>
 
 Igualmente, comunicará a la Secretaría General de Gobierno, a la Procuraduría General de Justicia, a la Procuraduría Social, al Consejo de Notarios, al Supremo Tribunal de Justicia, al Consejo de la Judicatura del Estado, a las direcciones del Archivo de Instrumentos Públicos, de Profesionales y del Registro Público de la Propiedad del Estado, a los ayuntamientos de su región y a las oficinas del Hacienda federales, estatales y municipales respectivas, lo siguiente:
 
@@ -1233,7 +1233,7 @@ VI. En el caso de escrituras o instrumentos públicos en los que intervengan org
 
 En los casos de contratos onerosos, el enajenante declarará bajo protesta de decir verdad y bajo su responsabilidad, que la situación registral del inmueble coincide con la manifestada en el instrumento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 88.
 
@@ -1249,7 +1249,7 @@ I. Los testamentos cerrados. En este caso, se levantará acta dejando razón en 
 
 II. La certificación de autenticidad de firmas a que se refiere el artículo 86 de la Ley General de Títulos y Operaciones de Crédito, que se hará constar en el propio documento;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 III. La certificación de documentos, deberá contener:
 
@@ -1257,7 +1257,7 @@ a) El nombre de quien solicita la actuación y de no ser conocido del notario se
 
 b) El número de fojas que consta, con la mención de si están impresas en uno o en ambos lados.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 c) La fecha de la certificación;
 
@@ -1395,7 +1395,7 @@ La dependencia encargada de la conservación de los duplicados podrá mantenerlo
 
 Los duplicados a que se refiere este capítulo podrán ser destruidos por la dependencia encargada de su guarda, cuando coincidan en un mismo lugar con su matriz en forma permanente y dentro del mismo espacio físico. En caso de pérdida por siniestro de la matriz, y ésta o su duplicado hubiese sido reproducida en los términos del párrafo anterior, las copias auténticas extraídas del soporte en que se encuentren debidamente certificadas por la Dirección del Archivo de Instrumentos Públicos, harán prueba plena respecto a su existencia y contenido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 105.
 
@@ -1419,7 +1419,7 @@ Al aviso se anexará siempre el duplicado del instrumento, en los términos a qu
 
 Si durante un mes de calendario el notario en ejercicio no hubiere autorizado algún instrumento, dentro de los primeros cinco días del mes siguiente de aquel en que no actuó, dará aviso de esta circunstancia a la Dirección del Archivo de Instrumentos Públicos.
 
-> <small>(DEROGADOS SEGUNDO Y TERCER PARRAFOS, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADOS SEGUNDO Y TERCER PÁRRAFOS, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 107.
 
@@ -1455,7 +1455,7 @@ Transcurrido el plazo señalado en el artículo 98 de esta ley, sin que hubiese 
 
 Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados en su protocolo, el notario lo comunicará al notario o a cargo de quien esté el protocolo en el que se extendió el poder que se revoca o renuncia, aún cuando éste pertenezca a otra entidad federativa, para que dicho notario se imponga de esa revocación o renuncia y proceda conforme a derecho. La comunicación referida se presentará por oficio si fuere del mismo municipio o por correo certificado con acuse de recibo si fuere foráneo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 115.
 
@@ -1663,7 +1663,7 @@ Las partes serán solidariamente responsables para con el notario por el importe
 
 ### CAPÍTULO I. DE LAS VISITAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2007)</small>
 
 ###### Artículo 139.
 
@@ -1681,7 +1681,7 @@ Las visitas especiales podrán realizarse en cualquier tiempo. Se limitarán al 
 
 El Consejo de Notarios coadyuvará con la autoridad en la práctica de las visitas especiales a las notarías, cuando para ello fuere requerido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2007)</small>
 
 ###### Artículo 142.
 
@@ -1769,7 +1769,7 @@ Se impondrá multa al notario, hasta un máximo de 200 días de salario mínimo,
 
 Los salarios mínimos que servirán de base para la cuantificación de la multa, serán los generales vigentes en la Zona Metropolitana en la fecha del pago de la sanción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 152.
 
@@ -2309,7 +2309,7 @@ Los miembros del Consejo durarán en funciones 3 años y no podrán ser reelecto
 
 El desempeño del cargo de Consejero será honorífico y sin remuneración alguna y no será renunciable sin causa justificada. La cesación en el ejercicio del notariado producirá automáticamente la del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 208.
 
@@ -2659,6 +2659,10 @@ OCTAVO. Al entrar en vigor el presente decreto, el Vicepresidente del Consejo de
 
 NOVENO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de ésta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia de la presente Ley, ya sea por disposición legal o por acuerdo del Titular del Ejecutivo, podrán mantener su oficina en ese municipio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2012)</small>
+
+De igual forma, los notarios adscritos o asociados a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta ley, que hubieren tenido su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia de la presente ley, podrán tener su oficina notarial en dicho municipio, ya sea por disposición de ley o por acuerdo del titular del Poder Ejecutivo.
+
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
 DÉCIMO. Los actuales notarios suplentes continuarán fungiendo como tales, conservando los derechos y facultades que les confiere la Ley que se abroga y pasarán a ser titulares hasta que se declare vacante la notaria de su adscripción.
@@ -2679,7 +2683,7 @@ DÉCIMO CUARTO. Hasta en tanto se instale Consejo de la Judicatura, la obligaci�
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-> <small>(F. DE E., P.O.23 DE DICIEMBRE DE 2006)</small>
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
 GUADALAJARA, JALISCO, 12 DE SEPTIEMBRE DE 2006
 
@@ -2717,7 +2721,7 @@ MTRO. GERARDO OCTAVIO SOLIS GÓMEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE NOVIEMBRE DE 2006.
 
@@ -2752,5 +2756,9 @@ P.O. 5 DE FEBRERO DE 2009.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 29 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
