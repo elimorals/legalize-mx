@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-alternativa-para-el-estado-de-nayarit-81204"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2011-04-23"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -97,7 +97,11 @@ Son susceptibles de solución a través de los medios alternativos las controver
 
 I. En materia civil, familiar o mercantil aquéllos asuntos que sean susceptibles de transacción o convenio, siempre y cuando no se trate de derechos irrenunciables, no alteren el orden público, ni contravengan alguna disposición legal expresa ni afecten derechos de terceros;
 
-II. En materia penal sólo procederá respecto de los delitos que se persigan por querella de parte, no se trate de delitos graves, ni se haya cometido con violencia a las personas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+II. En materia penal sólo procederá respecto de los delitos que se persigan por querella de parte, siempre que no se trate de delitos graves;
 
 III. En materia de justicia para adolescentes sólo procederá en aquéllas conductas tipificadas como delitos que no ameriten privación de la libertad, de conformidad con la Ley de Justicia para Adolescentes del Estado de Nayarit.
 
@@ -106,6 +110,12 @@ En los medios alternativos de solución de conflictos en donde exista daño patr
 ###### Artículo 6.
 
 Los medios alternativos pueden ser previos, durante o complementarios al proceso, en consecuencia, podrán aplicarse tanto en conflictos que no han sido planteados ante las instancias jurisdiccionales, como en aquéllos que sean materia de un proceso formalmente instaurado, siempre que en éste último caso no se haya citado para el dictado de la sentencia definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+Lo anterior no será aplicable tratándose de la materia penal, donde los medios alternativos podrán ser previos, durante, complementarios o posteriores al proceso, en términos de lo que señale el Código Penal vigente en la entidad.
 
 ###### Artículo 7.
 
@@ -626,3 +636,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Roberto Lomelí Madrigal, Presidente.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en Fracción II del Artículo 69 de Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintitrés días del mes de abril del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno.- Lic. Angélica Patricia Sánchez Medina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Para los efectos de concientización y difusión del nuevo protocolo procedimental en materia de justicia restaurativa a que aluden las disposiciones anteriores, el Consejo de la Judicatura del Poder Judicial Local, difundirá entre todos los especialistas y servidores públicos encargados de operar y aplicar los medios alternativos de justicia en la entidad, el contenido, sentido y alcances de la presente reforma.
