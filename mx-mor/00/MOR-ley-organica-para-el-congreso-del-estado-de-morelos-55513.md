@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2012-10-24"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -485,9 +485,9 @@ XXI. Llamar públicamente la atención a los diputados cuando violen esta Ley o 
 
 XXII. Designar las comisiones de cortesía que considere pertinentes;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-XXIII. Ejecutar las resoluciones administrativas y financieras que acuerde la Conferencia para la Dirección y Programación de los Trabajos Legislativos, para el uso adecuado de los recursos públicos del Congreso del Estado, vigilando el adecuado cumplimiento de su programa financiero, evaluando el desempeño de los servidores públicos a su cargo; tomando en cuenta los informes del Secretario General (sic) rinda para tal fin;
+XXIII. Ejecutar las resoluciones administrativas y financieras que acuerde la Conferencia para la Dirección y Programación de los Trabajos Legislativos, para el uso adecuado de los recursos públicos del Congreso del Estado, vigilando el adecuado cumplimiento de su programa financiero, evaluando el desempeño de los servidores públicos a su cargo; tomando en cuenta los informes que la Secretaría de Servicios Legislativos y Parlamentarios y el Secretario de Administración y Finanzas rinda para tal fin.
 
 XXIV. Una vez aprobado por la Junta Política y de Gobierno el Bando Solemne Gobernador Electo del Estado de Morelos, el Presidente de la Mesa Directiva, deberá ordenar su publicación en el Periódico Oficial "Tierra y Libertad"; así como tomar las medidas necesarias para que se difunda en los Periódicos de mayor circulación y se fije en las principales oficinas públicas del Estado y de los Municipios;
 
@@ -495,19 +495,25 @@ XXIV. Una vez aprobado por la Junta Política y de Gobierno el Bando Solemne Gob
 
 XXV. Dentro de su ámbito de competencia, dar puntual cumplimiento a las decisiones y acuerdos que se adopten en la Junta Política y de Gobierno;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-XXVI. A través del Secretario General hacer cumplir al Secretario de Administración y Finanza, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual;
+XXVI. Hacer cumplir al Secretario de Administración y Finanzas, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-XXVII. A través del Secretario General vigilar que el Secretario de Administración y Finanzas y los servidores públicos que manejen fondos o valores, otorguen y mantengan las fianzas a que hace referencia el presente ordenamiento y (sic);
+XXVII. Vigilar que el Secretario de Administración y Finanzas y los servidores públicos que manejen fondos o valores, otorguen y mantengan vigentes las fianzas a que hace referencia el presente ordenamiento;
 
 > <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2009)</small>
 
 XXVIII. Designar a los Encargados de Despacho de la Secretaría del Congreso y/o de la Secretaría de Administración y Finanzas, así como a los encargados de despacho de aquéllas áreas del Congreso donde existan ausencias temporales o definitivas que sean de su competencia, con las excepciones previstas en la Ley y el Reglamento;
 
-XXIX. Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el Congreso del Estado.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XXIX. Expedir los nombramientos del personal que se requieren; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XXX. Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el Congreso del Estado.
 
 ###### Artículo 37.
 
@@ -579,9 +585,9 @@ Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a 
 
 La Conferencia para la Dirección y Programación de los Trabajos Legislativos, se integra con el Presidente del Congreso del Estado y los miembros de la Junta Política y de Gobierno; a sus reuniones podrán ser convocados los Presidentes de Comisiones y los titulares de las unidades administrativas a que se refiere esta Ley, cuando exista un asunto de su competencia; tendrá como objetivo cuidar la efectividad del trabajo legislativo, administrativo y financiero del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-El Presidente de la Mesa Directiva del Congreso del Estado, será quien presida la Conferencia y supervise el cumplimiento de sus acuerdos a través del Secretario General del Congreso.
+El Presidente de la Mesa Directiva del Congreso del Estado, será quien presida la Conferencia y supervise el cumplimiento de sus acuerdos a través de la Secretaría de Servicios Legislativos y Parlamentarios.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2009)</small>
 
@@ -589,9 +595,9 @@ La Conferencia deberá quedar integrada a más tardar al día siguiente de que s
 
 La Conferencia adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-El Secretario Técnico de la Conferencia, será el Secretario General del Congreso, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro de los acuerdos.
+El Secretario Técnico de la Conferencia, será el Secretario de Servicios Legislativos y Parlamentarios, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro de los acuerdos
 
 ###### Artículo 43.
 
@@ -625,9 +631,9 @@ La Junta Política y de Gobierno, se conformará por un presidente, un secretari
 
 La Junta Política y de Gobierno contará con un Secretario Técnico, que tendrá las facultades y obligaciones que en general se establezcan para los Secretarios Técnicos de las comisiones y comités en el Reglamento del Congreso del Estado, además de las que específicamente le señale el Presidente de la Junta Política y de Gobierno.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario General del Congreso con voz pero sin voto para proporcionar la información que se le requiera de la dependencia a su cargo.
+A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario de Servicios Legislativos y Parlamentarios con voz pero sin voto para proporcionar la información que se le requiera de la dependencia a su cargo.
 
 ###### Artículo 46.
 
@@ -673,9 +679,9 @@ La Junta Política y de Gobierno, tendrá las siguientes atribuciones:
 
 I. Conducir las relaciones políticas con los demás poderes del Estado, los ayuntamientos de la Entidad, los poderes de la Federación o de otros estados y demás organismos y entidades públicas, nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-II. Recibir, analizar, modificar y aprobar el proyecto de presupuesto de egresos que le presente a su consideración la Secretaría General del Congreso;
+II. Recibir, analizar, modificar y aprobar el proyecto de presupuesto de egresos que le presente a su consideración la Secretaría de Administración y Finanzas.
 
 III. Proponer al pleno del Congreso del Estado para su aprobación:
 
@@ -719,11 +725,11 @@ XII. Revisar y aprobar de los órganos administrativos del Congreso del Estado, 
 
 XIII. Las demás que le confiera el pleno del Congreso del Estado, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-La Junta Política y de Gobierno recibirá de la Secretaría General del Congreso la información relacionada con la integración de la Agenda Legislativa para el Ejercicio Constitucional misma que se someterá para su aprobación al Pleno del Congreso a más tardar el 30 de noviembre del Primer Año de Ejercicio Constitucional.
+La Junta Política y de Gobierno, recibirá de la Secretaría de Servicios Legislativos y Parlamentarios la información relacionada con la integración de la Agenda Legislativa para el Ejercicio Constitucional misma que se someterá para su aprobación al Pleno del Congreso a más tardar el treinta de noviembre del primer año de Ejercicio Constitucional.
 
 Para dar seguimiento a lo señalado en el párrafo que antecede, la Junta Política y de Gobierno, evaluará y actualizará de ser necesario, la Agenda Legislativa, dentro de los primeros sesenta días naturales del siguiente año legislativo.
 
@@ -775,7 +781,9 @@ Para el análisis y dictaminación de las autorizaciones relativas a los contrat
 
 Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, los secretarios y vocales que sean designados, ningún diputado podrá participar en más de cuatro comisiones ordinarias.
 
-Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas por un diputado de cada uno de los grupos parlamentarios que integren la legislatura.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas al menos por un diputado de cada uno de los grupos parlamentarios y/o fracciones parlamentarias que integren la legislatura.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1357,7 +1365,7 @@ VIII. Los demás asuntos que le sean turnados y que no sean competencia de otra 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 84.
 
@@ -1409,49 +1417,33 @@ VIII. Determinar los montos de garantías que deberán otorgar los proveedores c
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2012 Y 14 DE NOVIEMBRE DE 2012)
 
-### CAPÍTULO I BIS. DE LA SECRETARÍA GENERAL Y SECRETARÍAS DEL CONGRESO
-
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 89.
 
-Para su funcionamiento, el Congreso del Estado, contara con los órganos siguientes:
+Para su funcionamiento, el Congreso del Estado, contará con los órganos siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+I. Secretaría de Servicios Legislativos y Parlamentarios;
 
-I. Secretaría General del Congreso;
+II. Secretaría de Administración y Finanzas; e (sic)
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+III. Instituto de Investigaciones Legislativas;
 
-II. Secretaría de Servicios Legislativos y Parlamentarios;
+IV. Auditoria Superior de Fiscalización; (sic)
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-III. Secretaría de Administración y Finanzas;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Auditoria Superior de Fiscalización;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-V. Instituto de Investigaciones Legislativas; y (sic)
-
-VI.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 89 Bis.
 
-En caso de ausencia temporal o definitiva de los titulares de la Secretaría General del Congreso, Secretaría de Servicios Legislativos y Parlamentario y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
+En caso de ausencia temporal o definitiva de los titulares de la Secretaría de Servicios Legislativos y Parlamentarios y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
@@ -1467,91 +1459,21 @@ Para el funcionamiento interno, el Congreso del Estado contará además con las 
 
 Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores, deberá acreditarse ante la Junta Política y de Gobierno, la documentación relativa con los requisitos que cada cargo requiere.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 91 Bis.
 
-Para la coordinación, ejecución y evaluación de las tareas que permitan el mejor cumplimiento de los servicios legislativos, parlamentarios, administrativos y financieros, el Congreso contará con una Secretaría General.
-
-I. La Secretaría General es el órgano responsable de la coordinación, supervisión y evaluación de los servicios del Congreso para ello contará con las Secretarías de Servicios Legislativos y Parlamentarios y de Servicios Administrativos y Financieros. Las que tendrán la organización y funcionamiento que señale la presente Ley y su Reglamento.
-
-II. El Secretario General del Congreso será nombrado por el Pleno con el voto de la mayoría calificada de sus integrantes a propuesta de la Junta Política y de Gobierno por el término de una Legislatura, podrá ser reelecto al concluir la Legislatura para la que fue designado; o continuará en funciones durante la nueva legislatura en tanto se realice la elección correspondiente.
-
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 91 Ter.
 
-Para ser Secretario General del Congreso se requiere:
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. No haber sido condenado en sentencia firme por delito intencional que amerite pena privativa de la libertad;
-
-III. Acreditar los conocimientos y tener experiencia parlamentaria y/o legislativa Estatal y/o Nacional; y
-
-IV. Las demás que señale la presente Ley y el Reglamento.
-
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 91 Quárter.- El Secretario General deberá presentar para su aprobación:
-
-I.- A la Comisión Instaladora del Congreso:
-
-a) Los cursos de inducción de los Diputados electos a la siguiente Legislatura;
-
-b) La orden del día de la reunión de información anterior a la junta previa y las credenciales y pases de acceso a los Diputados electos al Congreso;
-
-c) Preparar los documentos normativos que sirvan de base a la inducción de los Diputados Electos;
-
-d) La orden del día de la Junta Previa tal y como lo establece la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y su Reglamento; y
-
-e) El protocolo correspondiente a la Junta Previa para la distribución de las curules en el Pleno para la misma de acuerdo a la costumbre parlamentaria.
-
-II.- A la Mesa Directiva:
-
-a) El proyecto de organización y protocolo para la celebración de la sesión de instalación del Congreso y de todas aquellas sesiones solemnes con la presencia de los Poderes del Estado;
-
-b) La propuesta de órdenes del día de las sesiones ordinarias y extraordinarias del Congreso;
-
-c) Auxiliar a la Mesa Directiva en las reuniones que celebre cuando no funcione ante el Pleno;
-
-d) Formular los programa (sic) anuales de naturaleza legislativa, administrativa y financiera;
-
-e) Preparar en el año de la renovación del Congreso del Estado la documentación relativa al proceso de entrega y recepción conforme a lo dispuesto en la Ley de la materia; y
-
-f) Informar anualmente sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por esta y respecto al desempeño en la prestación de los servicios legislativos y financieros así como de las áreas que están bajo la coordinación de las Secretarías respectivas.
-
-III.- A la Junta Política y de Gobierno:
-
-a) La información correspondiente al cumplimiento de la Agenda Legislativa de la anterior Legislatura;
-
-b) El proyecto de Agenda Legislativa que integre las vertientes de los Poderes del Estado, los Ayuntamientos, el sector privado y social así como las propuestas concretas de los diferentes Grupos y Fracciones Parlamentarias del Congreso;
-
-c) La información relativa a cualquier procedimiento parlamentario o legislativo que amerite el cumplimiento de alguna atribución del Congreso;
-
-d) La información relativa a la situación que guarde el avance de la Agenda Legislativa en forma anual para su evaluación y ejecución correspondiente;
-
-e) La información relativa al desempeño de los servidores públicos a su cargo cuando así lo requiera;
-
-f) El proyecto de presupuesto de egresos del Poder Legislativo para el ejercicio fiscal siguiente;
-
-g) La situación financiera que tenga el Poder Legislativo debiendo ser de una periodicidad mensual anterior a la fecha del requerimiento; y
-
-h) La situación que guarde el patrimonio, los recursos materiales y humanos cuando así se le requiera.
-
-IV.- Expedir previa autorización de la Mesa Directiva los nombramientos del personal que se requieran y las certificaciones documentales que se le soliciten.
-
-V.- Remitir las reformas a la Constitución Política del Estado Libre y Soberano de Morelos, y las reformas a las leyes estatales o a la creación de nuevas normas al Poder Ejecutivo para su promulgación y publicación.
-
-VI.- Recibir las ratificaciones de escritos de denuncias, acciones y controversias que señalen las leyes como competencia del Poder Legislativo del Estado y establecer el procedimiento para su resolución.
-
-VII.- Participar con voz pero sin voto en las reuniones de la Junta Política y de Gobierno y de la Conferencia para la Dirección y Programación de los trabajos legislativos.
-
-VIII.- Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confieran.
+Artículo 91 Quárter.- (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1561,9 +1483,9 @@ VIII.- Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confier
 
 ###### Artículo 92.
 
-La Secretaría de Servicios Legislativos y Parlamentarios es el órgano profesional de carácter institucional de asesoría, asistencia y apoyo parlamentario del Poder Legislativo cuyo propósito fundamental es brindar el apoyo profesional y técnico a los órganos políticos y de dirección así como a las comisiones y comités del Congreso para el mejor desempeño de sus funciones.
+La Secretaría de Servicios Legislativos y Parlamentarios es el órgano profesional de carácter institucional, de asesoría, asistencia y apoyo parlamentario del Poder Legislativo, cuyo propósito fundamental es brindar el apoyo profesional y técnico a los órganos políticos y de dirección así como a las comisiones y comités del Congreso para el mejor desempeño de sus funciones.
 
-La Secretaría de Servicios Legislativos y Parlamentarios se coordinará con el Secretario General del Congreso y estará al servicio de la Presidencia de la Mesa Directiva y su titular será designado en los términos que establece la presente Ley.
+La Secretaría de Servicios Legislativos y Parlamentarios estará al servicio de la Presidencia de la Mesa Directiva y su titular será designado en los términos que establece la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1579,47 +1501,87 @@ III. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y 
 
 IV. Las demás que señalen ésta ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 94.
 
-Son atribuciones del Secretario General del Congreso:
+Son atribuciones del Secretario de Servicios Legislativos y Parlamentarios.
 
-I. Preparar los elementos necesarios para celebrar las sesiones del Congreso del Estado, en los términos previstos por esta ley, vigilando además la entrega oportuna de los citatorios para las sesiones a los diputados;
+I. Preparar los elementos necesarios para celebrar las sesiones del Congreso del Estado, en los términos previstos por esta Ley, vigilando además la entrega oportuna a los diputados, de los citatorios, iniciativas y dictámenes que correspondan para las sesiones;
 
-II. Prestar servicios de asistencia técnica a la Presidencia de la Mesa Directiva durante las sesiones y fuera de éstas, comprendiendo: comunicaciones y correspondencia, turnos y control de documentos; instrumentos de identificación y diligencias relacionadas con el fuero de los legisladores, el libro del registro biográfico de los integrantes de cada una de las legislaturas, protocolo, ceremonial, relaciones públicas, así como verificar en las sesiones el quórum de asistencia, cómputo y registro de las votaciones, información y estadística de las actividades que adopte el Pleno del Congreso del Estado, elaboración, registro y publicación de las actas de las sesiones y registro de leyes y resoluciones que se adopten por la Asamblea;
+II. Prestar servicios de asistencia técnica a la Presidencia de la Mesa Directiva durante las sesiones y fuera de éstas, comprendiendo:
 
-III. Cumplir con las atribuciones y el correcto funcionamiento de los servicios legislativos;
+a) Comunicaciones y correspondencia,
 
-IV. Ejecutar y supervisar las políticas y lineamientos de los servicios legislativos, emitidos por la Junta Política y de Gobierno;
+b) Turnos y control de documentos;
 
-V. Imprimir, publicar y distribuir el semanario de los debates, la gaceta legislativa y los documentos que requieran su difusión y publicación por el Congreso del Estado;
+c) Instrumentos de identificación y diligencias relacionadas con el fuero de los legisladores;
 
-VI. Formular y presentar su programa operativo anual;
+d) El libro del registro biográfico de los integrantes de cada una de las legislaturas;
 
-VII. Preparar y presentar los proyectos para cada sesión a la Conferencia para la Dirección y Programación de los Trabajos legislativos, registrando las iniciativas de leyes o decretos, dando seguimiento al estado legislativo que guarden, distribuyendo al pleno los documentos sujetos a conocimiento;
+e) Protocolo, ceremonial, relaciones públicas;
 
-VIII. Proporcionar los servicios de archivo legislativo;
+f) Verificación en las sesiones del quórum de asistencia, cómputo y registro de las votaciones;
 
-IX. Cumplir a solicitud de las comisiones, el requerimiento técnico que éstas le soliciten para la preparación y desarrollo de sus trabajos, registro y seguimiento de las iniciativas o minutas de ley o de decreto, distribución de los documentos sujetos a su conocimiento en coordinación con los secretarios técnicos de las mismas;
+g) Información y estadística de las actividades que adopte el Pleno del Congreso del Estado,
 
-X. Proporcionar asesoría y asistencia jurídica, que comprende la atención de los asuntos legales del Congreso en sus aspectos consultivos, administrativos y contenciosos;
+h) Elaboración, registro y publicación de las actas de las sesiones y registro de leyes y resoluciones que se adopten por la Asamblea.
 
-XI. Coordinar la unidad de información pública y verificar el cumplimiento a la ley respectiva;
+III. Ejecutar y supervisar las políticas y lineamientos de los servicios legislativos, emitidos por la Junta Política y de Gobierno;
 
-XII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+IV. Imprimir, publicar y distribuir el semanario de los debates, la gaceta legislativa y los documentos que requieran su difusión y publicación por el Congreso del Estado;
 
-XIII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+V. Formular y presentar su programa operativo anual a la Junta Política y de Gobierno;
 
-XIV. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+VI. Preparar y presentar los proyectos para cada sesión a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, registrando las iniciativas de leyes o decretos, dando seguimiento al estado legislativo que guarden, distribuyendo al pleno los documentos sujetos a conocimiento;
 
-XV. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
+VII. Proporcionar los servicios de archivo legislativo;
+
+VIII. Cumplir a solicitud de las comisiones, el requerimiento técnico que éstas le soliciten para la preparación y desarrollo de sus trabajos, registro y seguimiento de las iniciativas o minutas de ley o de decreto, distribución de los documentos sujetos a su conocimiento en coordinación con los secretarios técnicos de las mismas;
+
+IX. Proporcionar asesoría y asistencia jurídica, que comprende la atención de los asuntos legales del Congreso en sus aspectos consultivos, administrativos y contenciosos;
+
+X. Coordinar la unidad de información pública y verificar el cumplimiento a la Ley respectiva;
+
+XI. Coordinar, previa aprobación de la Junta Instaladora, los cursos de inducción de los Diputados electos a la siguiente Legislatura, el orden del día de la reunión de información anterior a la junta previa, las credenciales y pases de acceso a los Diputados electos al Congreso y el orden del día de la Junta Previa tal y como lo establece la Constitución Política del Estado, ésta Ley y su Reglamento, así como el protocolo correspondiente a la Junta Previa para la distribución de las curules en el Pleno de acuerdo a la costumbre parlamentaria.
+
+XII. Organizar, de acuerdo a las instrucciones del Presidente de la Mesa Directiva, el protocolo para la celebración de la sesión de instalación del Congreso y de todas las sesiones solemnes que se lleven a cabo;
+
+XIII. Auxiliar a la Mesa Directiva en las reuniones que celebre cuando no funcione ante el Pleno.
+
+XIV. Auxiliar a la Mesa Directiva en el año de la renovación del Congreso del Estado, en el proceso de entrega y recepción conforme a lo dispuesto en la Ley de la materia;
+
+XV. Cumplir con las atribuciones y el correcto funcionamiento de los servicios legislativos;
+
+XVI. Informar a la Junta sobre el cumplimiento anual de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios legislativos de la Secretaría de Servicios Legislativos y Parlamentarios y de las áreas que estén a su cargo;
+
+XVII. Informar a la Junta sobre el cumplimiento de la Agenda Legislativa de la anterior Legislatura y de la que esté en ejercicio de manera anual para su evaluación y ejecución correspondiente.
+
+XVIII. Presentar a la Junta el proyecto de Agenda Legislativa que integre las vertientes de los Poderes del Estado, los Ayuntamientos, el sector privado y social, así como las propuestas concretas de los diferentes Grupos y Fracciones Parlamentarias del Congreso.
+
+XIX. Informar a la Junta y al Presidente de la Mesa Directiva, sobre cualquier procedimiento parlamentario o legislativo que amerite el cumplimiento de alguna atribución del Congreso.
+
+XX. Informar sobre el desempeño de los servidores públicos a su cargo cuando así se lo requiera la Junta, la Conferencia o el Presidente del Congreso.
+
+XXI. Fungir como Secretario Técnico de la Conferencia.
+
+XXII. Asistir, cuando así le solicite, a las sesiones de la Junta.
+
+XXIII. Expedir las certificaciones documentales que se le soliciten.
+
+XXIV. Remitir las reformas a la Constitución Política del Estado Libre y Soberano de Morelos, y las reformas a las Leyes Estatales o a la creación de nuevas normas al Poder Ejecutivo para su promulgación y publicación.
+
+XXV. Recibir las ratificaciones de escritos de denuncias, acciones y controversias que señalen las leyes como competencia del Poder Legislativo del Estado y establecer el procedimiento para su resolución.
+
+XXVI. Recibir los dictámenes emanados de las diferentes Comisiones y Comités, de la Junta Política y de Gobierno y de la Conferencia;
+
+XXVII. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
 
 ### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 ###### Artículo 95.
 
-La Secretaría de Administración y Finanzas se coordinará con el Secretario General del Congreso y está al servicio de la Presidencia de la Mesa Directiva, y se designará en los términos que establece la presente Ley, teniendo a su cargo los servicios administrativos y los fondos del presupuesto del Congreso del Estado.
+La Secretaría de Administración y Finanzas se coordinará con el Secretario de Servicios Legislativos y Parlamentarios y está al servicio de la Presidencia de la Mesa Directiva y de la Junta Política. Su titular será designado en los términos que establece la presente Ley, teniendo a su cargo los servicios administrativos y los fondos del presupuesto del Congreso del Estado.
 
 ###### Artículo 96.
 
@@ -1637,41 +1599,45 @@ III. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y 
 
 IV. Los demás que señalen los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 98.
 
 Son atribuciones del Secretario de Administración y Finanzas:
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+I. Elaborar y presentar a la Junta Política y a la Presidencia de la Mesa Directiva el anteproyecto de presupuesto de egresos del Congreso del Estado y coordinar las adquisiciones, servicios y suministros de los diversos órganos legislativos, directivos y administrativos del Congreso del Estado.
 
-I. Elaborar y presentar a la Secretaría General del Congreso el anteproyecto de presupuesto de egresos del Congreso del Estado y coordinar las adquisiciones, servicios y suministros de los diversos órganos legislativos, directivos y administrativos del Congreso del Estado;
+II. Informar trimestralmente a la Junta Política y de Gobierno y a la Presidencia de la Mesa Directiva sobre la situación financiera y el estado que guarde el patrimonio y los recursos materiales y humanos del Congreso, así como rendir los informes que le sean requeridos por la Junta Política y la Presidencia de la Mesa Directiva;
 
-II. Considerar en la elaboración del Programa Operativo Anual el trabajo de las comisiones y comités del Congreso del Estado;
+III. Considerar en la elaboración del Programa Operativo Anual el trabajo de las comisiones y comités del Congreso del Estado;
 
-III. Atender el desarrollo del personal administrativo y las relaciones laborales con los trabajadores del Congreso del Estado;
+IV. Atender el desarrollo del personal administrativo y las relaciones laborales con los trabajadores del Congreso del Estado;
 
-IV. Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos humanos y financieros, definiendo los centros responsables de gasto, la apertura programática, presupuestal y los criterios de clasificación del gasto del Congreso del Estado;
+V. Mantener coordinación estrecha con la Dirección Jurídica del Congreso y con los diputados a efecto de prevenir conflictos y juicios laborales con el personal; para ello será obligación de éstos dar aviso con anticipación a la Secretaría de Administración y Finanzas, en caso de ya no requerir los servicios de algún trabajador;
 
-V. Mantener actualizados los inventarios y resguardos de los bienes muebles e inmuebles propiedad del Congreso del Estado;
+VI. Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos humanos y financieros, definiendo los centros responsables de gasto, la apertura programática, presupuestal y los criterios de clasificación del gasto del Congreso del Estado;
 
-VI. Dirigir los trabajos y supervisar su cumplimiento en los servicios administrativos y financieros, debiendo informar trimestralmente a la Presidencia de la Mesa Directiva de su programación y cumplimiento;
+VII. Mantener actualizados los inventarios y resguardos de los bienes muebles e inmuebles propiedad del Congreso del Estado;
 
-VII. Prestar los servicios de recursos humanos, que comprenden: aspectos administrativos de contratación, promoción y evaluación permanente del personal, pago de nóminas, prestaciones sociales y expedientes laborales;
+VIII. Dirigir los trabajos y supervisar su cumplimiento en los servicios administrativos y financieros, debiendo informar trimestralmente a la Junta Política y a la Conferencia de su programación y cumplimiento;
 
-VIII. Proporcionar los servicios de recursos materiales, que comprenden: inventario, provisión y control de bienes muebles, materiales de oficina, papelería y adquisiciones de recursos materiales;
+IX. Prestar los servicios de recursos humanos, que comprenden: aspectos administrativos de contratación, promoción y evaluación permanente del personal, pago de nóminas, prestaciones sociales y expedientes laborales;
 
-IX. Proporcionar servicios médicos básicos de emergencia a diputados y personal, al interior del Congreso del Estado;
+X. Proporcionar los servicios de recursos materiales, que comprenden: inventario, provisión y control de bienes muebles, materiales de oficina, papelería y adquisiciones de recursos materiales;
 
-X. Prestar los servicios generales que comprenden entre otras cosas: mantenimiento de bienes inmuebles, muebles, apoyo técnico para adquisiciones de bienes informáticos, instalación y mantenimiento del equipo de cómputo, asesoría y planificación informática y construcción, remodelación o reparación de bienes muebles e inmuebles;
+XI. Proporcionar servicios médicos básicos de emergencia a diputados y personal, al interior del Congreso del Estado;
 
-XI. Proporcionar los servicios de tesorería que comprende: programación y presupuesto, control presupuestal, contabilidad y cuenta pública, finanzas y formulación de manuales de organización y procedimientos administrativos;
+XII. Prestar los servicios generales que comprenden entre otras cosas: mantenimiento de bienes inmuebles, muebles, apoyo técnico para adquisiciones de bienes informáticos, instalación y mantenimiento del equipo de cómputo, asesoría y planificación informática y construcción, remodelación o reparación de bienes muebles e inmuebles;
 
-XII. Proporcionar el auxilio operativo a los diputados para el buen desarrollo de sus trabajos;
+XIII. Proporcionar los servicios de tesorería que comprende: programación y presupuesto, control presupuestal, contabilidad y cuenta pública, finanzas y formulación de manuales de organización y procedimientos administrativos;
 
-XIII. Controlar los servicios de seguridad y protección que comprenden: vigilancia y cuidado de bienes muebles e inmuebles, seguridad y control de accesos, así como el personal que al efecto se requiera;
+XIV. Proporcionar el auxilio operativo a los diputados para el buen desarrollo de sus trabajos;
 
-XIV. Tendrá a su cargo el resguardo y el manejo de la agenda de eventos en las instalaciones del Congreso del Estado, así como la administración de los recursos humanos y materiales que sean necesarios para el funcionamiento de las mismas; y
+XV. Controlar los servicios de seguridad y protección que comprenden: vigilancia y cuidado de bienes muebles e inmuebles, seguridad y control de accesos, así como el personal que al efecto se requiera;
 
-XV. Las demás que la presente Ley y su Reglamento le confieran.
+XVI. Resguardar y manejar la agenda de eventos en las instalaciones del Congreso del Estado, así como la administración de los recursos humanos y materiales que sean necesarios para el funcionamiento de las mismas; y
+
+XVII. Las demás que la presente Ley y su Reglamento le confieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -2246,3 +2212,41 @@ SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente
 OCTAVO.- En tanto el Poder Ejecutivo, determina la nueva estructura orgánica, administrativa y funcional del Sistema Morelense de Radio y Televisión, que tendrá a su cargo, se continuará laborando con la estructura actual, a fin de prever que no se vean interrumpidas las labores de las diferentes estaciones y el canal de televisión con que cuenta dicho Sistema.
 
 NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente en la fracción III del artículo 85 y 88 de la Ley Orgánica para el Congreso del Estado de Morelos y que con esta reforma se deroga, terminará sus funciones el 31 de agosto de 2012, extinguiéndose dicho Comité.
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+DECRETO NÚMERO DIECISIETE POR EL QUE SE REFORMA LOS ARTÍCULOS 36, FRACCIONES XXIII, XXVI, XXVII, XXIX Y XXX; ARTÍCULO 42 PÁRRAFO SEGUNDO Y QUINTO; ARTÍCULO 45, TERCER PÁRRAFO; ARTÍCULO 50, FRACCIÓN II; ARTÍCULO 51, PRIMER PÁRRAFO; DEROGA EL ARTÍCULO 88, REFORMA EL ARTÍCULO 89 Y 89 BIS; DEROGA EL CAPÍTULO I BIS CON LOS ARTÍCULOS 91 BIS, 91 TER Y 91 QUÁRTER; REFORMA EL ARTÍCULO 92 PÁRRAFO I Y II, SE REFORMA EL ARTÍCULO 94, 95 Y 98 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Política y de Gobierno y la Presidencia de la Mesa Directiva instrumentarán los cambios administrativos que se requieran para dar cumplimiento a este decreto.
+
+###### ARTÍCULO CUARTO.
+
+En todos aquellos ordenamientos que se refieran a la Secretaría General del Congreso, se entenderá que se refieren a la Secretaría de Servicios Legislativos y Parlamentarios.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión de Reglamentos y Prácticas Parlamentarias, presentará al Pleno en un plazo máximo de sesenta días hábiles, la iniciativa de reforma al Reglamento para el Congreso con los cambios derivados de esta reforma.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en la Gaceta Legislativa y remítase para su divulgación al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+DECRETO NÚMERO DIECIOCHO POR LO QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO.
+
+PRIMERO. El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
