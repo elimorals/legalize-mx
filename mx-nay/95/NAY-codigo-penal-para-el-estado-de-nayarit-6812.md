@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-09-29"
+last_updated: "2012-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -303,9 +305,11 @@ XVIII. Revelación de secreto.
 
 XIX. Responsabilidad médica y técnica.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX. Lesiones simples, previstas por el artículo 306, salvo el que contemple el artículo 311 de este Código.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XX. Lesiones simples previstas por el artículo 306, así como las lesiones culposas cualquiera que sea su naturaleza, salvo los casos que contempla el párrafo cuarto del artículo 72 y 311 de este código.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -319,9 +323,17 @@ XXII. Hostigamiento o acoso sexual, salvo que el sujeto pasivo sea menor de edad
 
 XXIII. Violación entre cónyuges y concubinos.
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIV. Las demás que contemple el presente código.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XXIV.- Amenazas simples previstas en el primer párrafo del artículo 276 de este código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XXV.- Las demás que contemple el presente código.
 
 ## TITULO SEGUNDO
 
@@ -489,13 +501,23 @@ Los montos por concepto de conmutación de la pena, son créditos a favor de la 
 
 La reparación del daño que debe ser hecha por el delincuente, tiene el carácter de sanción pública, pero cuando sea exigible a terceros tendrá el carácter de responsabilidad civil y se tramitará en los términos que fije el Código de la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 41.
 
-La reparación del daño comprende:
+La reparación del daño deberá ser plena, efectiva y preferente a cualquier otra sanción pública, así como proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido, que comprenderá, según sea el caso:
 
-I.- La restitución de la cosa obtenida por el delito, así como sus frutos existentes y si no fuere posible, el pago del precio correspondiente; y
+I. El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
 
-II.- La indemnización del daño material y moral causado, así como el perjuicio ocasionado.
+II. La restitución de la cosa obtenida por el delito, así como sus frutos existentes y si no fuere posible, el pago del precio correspondiente al valor comercial en curso;
+
+III. La indemnización del daño material y moral causado a la víctima o a las personas con derecho a la reparación del daño;
+
+IV. El resarcimiento de los perjuicios ocasionados, o
+
+V. El pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión, de conformidad a lo dispuesto en la Ley Federal del Trabajo.
 
 ###### ARTICULO 42.
 
@@ -507,17 +529,27 @@ Cuando el daño se cause a las personas y produzca la muerte, incapacidad total 
 
 Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta el salario mínimo vigente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 43.
 
-Tienen derecho a la reparación del daño:
+Tienen derecho a la reparación del daño, en el orden siguiente:
 
-I.- El ofendido;
+I. La víctima o el ofendido;
 
-II.- Las personas que dependían económicamente del ofendido; y
+II. Las personas que dependían económicamente de la víctima o el ofendido;
 
-III.- Los herederos del ofendido aunque no dependieran económicamente de él.
+III. Los herederos de la víctima o el ofendido aunque no dependieran económicamente de él;
 
-En el caso de concurrencia serán preferidos en su orden, las personas que figuren en la enumeración este Artículo, quienes podrán comparecer ante el Juez instructor y promover lo necesario para la cuantificación del monto, asegurar su pago y en su caso obtenerlo.
+IV. Sus descendientes, cónyuge, concubina o concubinario;
+
+V. Sus ascendientes, y
+
+VI. El Estado a través de la institución encargada de la asistencia a las víctimas del delito.
+
+En el caso de concurrencia serán preferidos en su orden, las personas que figuren en la enumeración de este artículo, quienes podrán comparecer ante el juez instructor y promover lo necesario para la cuantificación del monto, asegurar su pago y en su caso obtenerlo.
 
 ###### ARTICULO 44.
 
@@ -526,6 +558,24 @@ Cuando se trate de exigir la reparación del daño a personas distintas a los pr
 ###### ARTICULO 45.
 
 La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+Son terceros obligados a la reparación del daño:
+
+I. Los ascendientes por los delitos de sus descendientes que se hallaren bajo su patria potestad;
+
+II. Los tutores, curadores o custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
+
+III. Los directores de talleres que reciban en su establecimiento discípulos o aprendices, por los delitos que éstos ejecuten durante el tiempo que se hallen bajo el cuidado y dirección de aquéllos, siempre y cuando acaezcan con motivo y en el desempeño de sus servicios;
+
+IV. Las personas físicas o jurídico-colectivas por los delitos que cometan sus obreros, jornaleros, empleados, domésticos o artesanos;
+
+V. Las personas jurídico-colectivas, por los delitos de sus socios, agentes o directores en los mismos términos en que, conforme a las leyes, sean responsables de las demás obligaciones que aquéllas contraigan, y
+
+VI. El Estado, los municipios y organismos descentralizados subsidiariamente por sus servidores públicos, cuando el delito se cometa con motivo o en el desempeño de sus empleos, cargos o comisiones.
 
 ###### ARTICULO 46.
 
@@ -690,6 +740,12 @@ ARTICULO 63 B.- El que quebrante una medida de seguridad que se le ha impuesto, 
 ###### ARTICULO 64.
 
 Dentro de los límites fijados por la Ley, los Tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución, las peculiares del delincuente y las demás señaladas en el artículo siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+Cuando se trate de delito que merezca pena alternativa, el juez podrá imponer la sanción privativa de libertad sólo cuando ello sea ineludible para los fines de justicia restaurativa, así como cuando ello sea la única forma de garantizar la reparación del daño.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
 
@@ -1077,6 +1133,22 @@ VI. Cuando el fiador tenga motivos fundados para continuar desempeñando el carg
 
 En caso de muerte o insolvencia del fiador, estará obligado el reo a poner el hecho en conocimiento del Juez.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+ARTICULO 102 BIS.- El órgano jurisdiccional, al pronunciar sentencia, podrá indicar al juez ejecutor de sentencias la remisión de la pena, si concurren las siguientes circunstancias:
+
+I. Que de lo actuado se advierta que el sentenciado haya obrado por motivos excepcionales, en cuyo caso, el órgano jurisdiccional considere que no es necesaria la pena por las circunstancias particulares del activo;
+
+II. Que no revele peligrosidad;
+
+III. Que haya sido reparado el daño causado a la víctima o el ofendido, y
+
+IV. Que no se trate de delito grave.
+
+En todo caso, la remisión de la pena deberá ser confirmada por el tribunal de alzada correspondiente, cuando el sentenciado no haya alcanzado el beneficio de conmutación de la pena.
+
 ## TITULO QUINTO. EXTINCION DE LA RESPONSABILIDAD PENAL
 
 ### CAPITULO I. MUERTE DEL DELINCUENTE
@@ -1087,27 +1159,35 @@ La muerte del delincuente extingue la sanción penal, así como las sanciones qu
 
 ### CAPITULO II. PERDON DEL OFENDIDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 104.
 
-El perdón del ofendido o su representante legal ante el juez, Magistrado o ante Notario Público o la conciliación, extingue la acción penal cuando concurran los requisitos siguientes:
+El perdón del ofendido o de su representante legal otorgado ante el Juez, Magistrado, Notario Público o la conciliación, extingue la acción penal cuando concurran los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
 I. Que el delito se persiga por querella de parte.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Que el perdón del ofendido, se realice en cualquier etapa procesal, pero antes de que cause ejecutoria la sentencia.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+II. Que el perdón del ofendido se realice en cualquier etapa procesal, incluso una vez causada ejecutoria la sentencia, siempre que se trate de delitos no graves;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
 III. Que el perdón se otorgue por el ofendido siendo mayor de edad, o por la persona que éste reconozca ante la autoridad judicial como su legítimo representante, o por quien acredite serlo legalmente, o en su defecto, por el tutor especial que designe el juez que conozca el proceso.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Que la conciliación se obtenga hasta antes de que cause ejecutoria la sentencia dictada.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+IV. Que la conciliación se obtenga en cualquiera de los periodos que comprende el procedimiento penal.
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
@@ -4071,7 +4151,7 @@ El Secretario Gral. de Gobierno
 
 Lic. Rafael Pérez Cárdenas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE NOVIEMBRE DE 1990.
 
@@ -4262,3 +4342,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE SEPTIEMBRE DE 2012.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Para los efectos de concientización y difusión del nuevo protocolo procedimental en materia de justicia restaurativa a que aluden las disposiciones anteriores, el Consejo de la Judicatura del Poder Judicial Local, difundirá entre todos los servidores públicos encargados de la administración de justicia en la entidad, el contenido, sentido y alcances de la presente reforma.
