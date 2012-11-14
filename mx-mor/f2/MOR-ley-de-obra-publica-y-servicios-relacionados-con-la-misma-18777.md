@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2012-06-13"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -221,13 +221,21 @@ El gasto de las obras públicas y los servicios relacionados con las mismas, se 
 
 La ejecución de los trabajos de obra pública, que requieran las dependencias de la Administración Pública Estatal, estará a cargo de la Secretaría y respecto de los servicios relacionados con la misma se llevarán a cabo por las dependencias, sujetándose a lo dispuesto por esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-La Secretaría vigilará que las dependencias cumplan con las disposiciones de esta Ley, así como aquellas que emanen de ésta; Misma circunstancia deberán observar los Ayuntamientos con sus dependencias encargadas de realizar obra pública y los servicios relacionados con la misma.
+La Secretaría y la unidad encarga (sic) que corresponda, vigilarán que las dependencias cumplan con las disposiciones de esta Ley, así como aquellas que emanen de ésta; la misma circunstancia deberán observar los ayuntamientos con sus dependencias encargadas de realizar obra pública y los servicios relacionados con la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-Los titulares y los directores de las Dependencias, Secretaría o Ayuntamientos serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
+Los titulares y los directores de las unidades, dependencias, secretaría o ayuntamientos serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen los criterios que promuevan la simplificación administrativa.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -321,23 +329,33 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 Para efectos informativos, la Secretaría integrará y difundirá los programas anuales de obras públicas y servicios relacionados con las mismas, para lo cual podrá requerir a las dependencias o ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas y los pondrá a disposición de los interesados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-Los titulares de las Dependencias, Secretaría o Ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
+Los titulares de las unidades, dependencias, secretarías o ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas que tengan proyectadas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
 
-I. Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
+Coordinarse y seguir los lineamientos, directrices, políticas y acuerdos de la unidad administrativa encargada de dirigir todos los procesos de adjudicación de contratos, conforme al reglamento que para tal efecto se emita;
 
-II. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 39 de esta Ley;
+Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
 
-III. Elaborar y aprobar el manual de integración y funcionamiento del comité, conforme a las bases que expida la Contraloría, y
+Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 39 de esa Ley;
 
-IV. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
+Elaborar y aprobar el manual de integración y funcionamiento del comité, conforme a las bases que expida la Contraloría, y
+
+Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-En los procedimientos de contratación de obras públicas y de servicios relacionados con las mismas, las Dependencias, Secretaría o Ayuntamientos, en su caso, optarán, en igualdad de condiciones, por el empleo de los recursos humanos del Estado o Municipio y por la utilización de bienes o servicios de procedencia nacional y los propios del Estado o Municipio, sin perjuicio de lo dispuesto en los tratados.
+En los procedimientos de contratación de obras públicas y de servicios relacionados con las mismas, las unidades, dependencias, secretarías o ayuntamientos, en su caso, optarán, en igualdad de condiciones, por el empleo de los recursos humanos del Estado o municipio y por la utilización de bienes o servicios de procedencia nacional y los propios del Estado o municipio, sin perjuicio de lo dispuesto en los tratados.
 
 ###### ARTÍCULO 22.
 
@@ -1274,3 +1292,9 @@ P.O. 16 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones legales análogas o similares previstas en las Leyes de Ingresos de los Municipios del Estado de Morelos vigentes y demás disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
