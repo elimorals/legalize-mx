@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-del-servicio-profesional-electoral-del-instituto-84267
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2011.
 
@@ -103,11 +103,13 @@ Del personal del Instituto Estatal Electoral
 
 El personal del Instituto son los integrantes de la estructura orgánica.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-El personal del Instituto que integra el Servicio Profesional es el que ocupa los puestos de base a partir del nivel de Director Ejecutivo, Director de Área, Coordinador, Subdirector y Jefe de Departamento.
+El personal del Instituto que integra el Servicio Profesional es el que ocupa los puestos de base a partir del nivel de Director de Área, Coordinador, Subdirector y Jefe de Departamento.
 
-En relación a las atribuciones conferidas por el Código Electoral del Estado Libre y Soberano de Morelos al Consejo Estatal Electoral en términos del artículo 106 fracción III y V, así como al Consejero Presidente del Consejo Estatal Electoral del Instituto Estatal- Electoral en términos del artículo 107 fracción V, relativas a la integración de las ternas de Directores Ejecutivos, y designación de los mismos, se privilegiará a los integrantes del servicio profesional electoral.
+Se exceptúa al personal del Instituto que ocupa los puestos base de Auditor Interno y Coordinador de Presidencia, para formar parte del Servicio Profesional Electoral.
 
 ###### Artículo 8.
 
@@ -159,13 +161,13 @@ La Dirección Ejecutiva de Administración y Financiamiento en coordinación con
 
 Las Direcciones Ejecutivas del Instituto deben proporcionar al Área los elementos y la información necesaria para el establecimiento y operación del Servicio Profesional.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 18.
 
 La estructura permitirá establecer la promoción de los miembros del Servicio Profesional para ocupar una vacante, el Área deberá dar prioridad a la jerarquía y línea de autoridad bajo el siguiente contexto:
 
-- Director Ejecutivo,
-
-- Director de Área,
+- Director de Área
 
 - Coordinador,
 
@@ -399,7 +401,9 @@ Artículo Segundo.- El Estatuto una vez aprobado deberá publicarse en el Perió
 
 Artículo Tercero.- Será vigente la normatividad aplicable, no opuesta al presente Estatuto, hasta la expedición o reforma de las disposiciones complementarias del mismo.
 
-Artículo Cuarto - El personal del Instituto que a la entrada en vigor del presente Estatuto ocupe los puestos base a partir de Director Ejecutivo, Director de Área, Coordinador, Subdirector y Jefe de Departamento, formarán parte del Servicio Profesional Electoral a partir de la aprobación del presente estatuto.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+Artículo Cuarto - El personal del Instituto que a la entrada en vigor del presente Estatuto ocupe los puestos base a partir de Director de Área, Coordinador, Subdirector y Jefe de Departamento formarán parte del Servicio Profesional Electoral a partir de la aprobación del presente estatuto.
 
 Así por unanimidad, lo resolvieron los integrantes del Consejo Estatal Electoral del Instituto Estatal Electoral de Morelos, siendo las trece horas con cuarenta y dos minutos del día treinta del mes de noviembre del año 2011.
 
@@ -448,3 +452,11 @@ C. FRANCISCO GUTIÉRREZ SERRANO
 PARTIDO SOCIAL DEMÓCRATA DE MORELOS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+La presente reforma y adición del Artículo 7, reforma del Artículo 18 y reforma del artículo transitorio cuarto, del Estatuto del Servicio Profesional Electoral del Instituto Estatal Electoral entraran en vigor a partir del día siguiente de su aprobación por el Consejo Estatal Electoral; asimismo se ordena su publicación en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+...
