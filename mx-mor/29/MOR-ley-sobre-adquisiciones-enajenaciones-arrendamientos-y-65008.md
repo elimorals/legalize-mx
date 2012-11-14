@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-adquisiciones-enajenaciones-arrendamientos-y-65008"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de diciembre de 2008.
 
@@ -63,11 +63,23 @@ En todos los casos en que esta Ley haga referencia a las adquisiciones, enajenac
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. PODER EJECUTIVO: Las Dependencias y Entidades contempladas dentro del artículo 3 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. OFICIALÍA: La Oficialía Mayor del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-III. FINANZAS Y PLANEACIÓN: La Secretaría de Finanzas y Planeación del Poder Ejecutivo;
+l. PODER EJECUTIVO: El Gobernador Constitucional del Estado y las secretarías, dependencias y entidades contempladas dentro del artículo 2 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+II. OFICIALÍA: La unidad o dependencia, encargada en lo general de la administración dentro del poder ejecutivo o en su caso la que en específico tenga estas atribuciones por acuerdo del Gobernador del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+III. FINANZAS Y PLANEACIÓN: La Secretaría de Hacienda del Poder Ejecutivo;
 
 IV. CONTRALORÍA: La Secretaría de la Contraloría del Poder Ejecutivo;
 
@@ -269,41 +281,49 @@ II. Que no se cuente dentro del inventario con un bien que cumpla con las condic
 
 ### CAPÍTULO II. DEL COMITÉ PARA EL CONTROL DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y SERVICIOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 27.
 
-El Poder Ejecutivo establecerá un Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios como órgano de consulta, decisión y apoyo técnico en el cumplimiento de las disposiciones de la presente Ley, el cual tendrá como objeto, coadyuvar en el establecimiento de criterios de carácter general que regulen la aplicación de los recursos públicos destinados a las adquisiciones, arrendamientos, contratación de servicios y demás operaciones materia de la presente Ley, mismo que se integrará con los Titulares de las siguientes Dependencias:
+El Poder Ejecutivo establecerá un Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios como órgano de coordinación, consulta y apoyo técnico en el cumplimiento de las disposiciones de la presente Ley, el cual tendrá como objeto, coadyuvar en el establecimiento de criterios de carácter general que regulen la aplicación de los recursos públicos destinados a las adquisiciones, arrendamientos, contratación de servicios y demás operaciones materia de la presente Ley, mismo que se integrará de la siguiente forma:
 
-I. Secretaría de Gobierno;
+I. El Gobernador del Estado o el representante que éste designe.
 
-II. Secretaría de de (sic) Finanzas y Planeación;
+II. El Secretario de Hacienda;
 
-III. Secretaría de Salud;
+III. El Secretario de Administración;
 
-IV. Oficialía Mayor;
+IV. El Secretario de la Contraloría;
 
-V. Secretaría de Desarrollo Económico;
+V. El titular de la unidad administrativa a cargo de los procesos de adjudicación de contratos del Poder Ejecutivo; y
 
-VI. Secretaría de Educación;
+VI. El titular de la secretaría, dependencia o entidad en cuyo proceso se encuentre vinculado, salvo que se trate con consolidaciones.
 
-VII. Secretaría de Desarrollo Humano y Social, y
+El Comité será presidido por el Gobernador del Estado o su representante; el titular de la unidad administrativa a cargo de los procesos de adjudicación de contratos del Poder Ejecutivo fungirá como Secretario Ejecutivo y los demás integrantes como vocales, teniendo todos derecho a voz y voto.
 
-VIII. Unidad Administrativa encargada de las adquisiciones y patrimonio del Poder Ejecutivo.
-
-El Comité será presidido por el Oficial Mayor; la persona titular de la Unidad Administrativa encargada de las adquisiciones y patrimonio del Poder Ejecutivo fungirá como Secretario Técnico y los demás integrantes como vocales, teniendo todos derecho a voz y voto.
-
-Tendrán el carácter de invitados permanentes la Secretaría de la Contraloría y la Consejería Jurídica, así como los demás servidores públicos que dicho Comité considere necesaria su participación, quienes tendrán únicamente derecho a voz. Asimismo, podrá invitarse a observadores ciudadanos, cuya intervención estará normada en el Reglamento que al efecto se expida.
+Tendrán el carácter de invitados permanentes el representante de la Consejería Jurídica, así como los demás servidores públicos que dicho Comité considere necesaria su participación, quienes tendrán únicamente derecho a voz. Asimismo, podrá invitarse a observadores ciudadanos, cuya intervención estará normada en el Reglamento que al efecto se expida.
 
 Por cada miembro e invitado propietario habrá un suplente, quien deberá tener un nivel mínimo de Director General.
 
-La organización y funcionamiento del Comité estará previsto en el Reglamento que para el efecto se expida.
+La organización y funcionamiento del Comité estará previsto en el Reglamento respectivo.
 
 ###### Artículo 28.
 
 El Comité tendrá las siguientes facultades:
 
-I. Procurar el exacto cumplimiento de las normas que regulan los diversos actos previstos en la presente Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Proponer a la Oficialía las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios; dentro de las cuales se contemplarán aspectos de sustentabilidad ambiental que deberán observarse en los procedimientos administrativos que esta Ley regula, con el objeto de optimizar y utilizar en forma sustentable los recursos para disminuir costos financieros y ambientales;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+I. Coadyuvar al exacto cumplimiento de las normas que regulan los diversos actos previstos en la presente Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+II. Proponer al Gobernador del Estado las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios; dentro de las cuales se contemplarán aspectos de sustentabilidad ambiental que deberán observarse en los procedimientos administrativos que esta Ley regula, con el objeto de optimizar y utilizar en forma sustentable los recursos para disminuir costos financieros y ambientales;
 
 III. Analizar y resolver sobre los supuestos no previstos en las políticas internas, bases y lineamientos a que se refiere la fracción anterior;
 
@@ -315,15 +335,27 @@ VI. Dictaminar previamente al inicio del procedimiento, sobre la procedencia de 
 
 VII. Establecer y aprobar las bases de licitación que normarán los concursos para las adquisiciones, arrendamientos y prestación de servicios, así como en las subastas, que le sean presentadas;
 
-VIII. Determinar en coordinación con la Oficialía, los casos en que es procedente la enajenación de bienes muebles propiedad del estado y todo lo relacionado con el procedimiento de enajenación de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Determinar los casos en que es procedente la enajenación de bienes muebles propiedad del estado y todo lo relacionado con el procedimiento de enajenación de los mismos;
 
 IX. Emitir opinión y dictar resolución, respecto de la adjudicación definitiva dentro de los procesos de licitación, así como en los casos de subasta pública;
 
 X. Fungir como órgano de consulta respecto a la contratación de arrendamientos de servicios relacionados con bienes muebles respecto a la instalación, reparación y mantenimiento, así como tecnología cuando se vincule con la adquisición o uso de dichos bienes;
 
-XI. Autorizar, cuando se justifique, la creación de Subcomités de Adquisiciones, Arrendamientos y Servicios, así como sus reglas de integración y funciones específicas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Analizar, exclusivamente para emitir opinión cuando se le solicite, sobre los dictámenes o fallos emitidos por los Subcomités;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XI. Autorizar, cuando se justifique, la creación de Subcomités de Adquisiciones, Arrendamientos y Servicios, así como sus reglas de integración y funciones específicas, que sólo se integrarán en su carácter de instrumentadores y apoyo técnico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+XII. Coordinar, dirigir y supervisar los procesos de adjudicación de contratos que instrumenten los subcomités.; (sic)
 
 XIII. Autorizar los casos de reducción del plazo para la presentación y apertura de proposiciones en las licitaciones públicas;
 
@@ -1298,3 +1330,11 @@ RÚBRICAS.
 Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento. Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dieciséis días del mes de diciembre de dos mil ocho.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN". GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS DR. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO LIC. SERGIO ALVAREZ MATA RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2012-
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
