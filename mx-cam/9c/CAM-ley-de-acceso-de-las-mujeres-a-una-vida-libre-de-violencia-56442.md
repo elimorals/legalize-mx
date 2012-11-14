@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -53,9 +53,55 @@ Los principios rectores para el acceso de las mujeres a una vida libre de violen
 
 I. La igualdad jurídica de género;
 
-II. El respeto a los derechos humanos de las mujeres; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+II. El respeto a los derechos humanos de las mujeres;
 
 III. La no discriminación.
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+IV. La libertad y autodeterminación de las mujeres;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+V. El pluralismo social y la multiculturalidad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+VI. La perspectiva de género que permite incorporar a la mujer como sujeto social; y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+VII. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 2 bis.- Serán principios procesales en la presente Ley, en aquellos procedimientos civiles y penales, que ventilen algún tipo de violencia de género, los siguientes:
+
+I. La gratuidad;
+
+II. La celeridad; y
+
+III. La confidencialidad.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 2 ter.- Los derechos de las mujeres protegidos por esta Ley son:
+
+I. La vida;
+
+II. La libertad;
+
+III. La igualdad;
+
+IV. La intimidad;
+
+V. La no discriminación;
+
+VI. La integridad física, psicoemocional y sexual de las mujeres; y
+
+VII. El patrimonio
 
 ###### ARTÍCULO 3.
 
@@ -516,3 +562,11 @@ C. Oscar Román Rosas González, Diputado Presidente.- C. Jorge Isaac Brown Fili
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintidós días del mes de junio del año dos mil siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFÁN.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
