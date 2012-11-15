@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-del-estado-de-jalisco-35280"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-29"
-last_updated: "2012-06-16"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE EJECUCIÓN DE PENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 15 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 29 de noviembre de 2003.
 
@@ -916,3 +918,25 @@ P.O. 16 DE JUNIO DE 2011.
 P.O. 16 DE JUNIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de julio de 2013, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Ejecución de Penas del Estado de Jalisco.
+
+TERCERO. Se abroga la Ley de reducción de condena a los ancianos y personas que se encuentren en estado de involución física y mental.
+
+CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+QUINTO. A la entrada en vigor de la presente ley, la Secretaría de Seguridad Pública, Prevención y Readaptación Social remitirá al Poder Judicial los expedientes que tenga el Consejo de Evaluación para, en su caso, otorgar el beneficio correspondiente.
+
+SEXTO. Hasta en tanto entre en vigor el sistema de justicia adversarial, las disposiciones que hagan referencia al tribunal oral se entenderán a los tribunales de primera y segunda instancia del Supremo Tribunal de Justicia del Estado de Jalisco.
+
+SÉPTIMO. Se autoriza a la Secretaría de Finanzas para que realice las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+OCTAVO. El Tribunal de Ejecución de Penas deberá estar instalado dentro de los sesenta días siguientes a la entrada en vigor de la presente ley; su regulación y funcionamiento dependerán del Supremo Tribunal de Justicia.
+
+NOVENO. Los reglamentos que se disponen en el presente decreto, deberán elaborarse a más tardar sesenta días después de su entrada en vigor.
+
+DÉCIMO. Los procesos para reconsiderar la ejecución de alguna pena que haya iniciado con las leyes abrogadas por el presente decreto, seguirán su cauce legal siempre y cuando sean en beneficio del sentenciado.
