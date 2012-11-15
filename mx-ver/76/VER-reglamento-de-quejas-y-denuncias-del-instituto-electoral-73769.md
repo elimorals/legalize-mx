@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-quejas-y-denuncias-del-instituto-electoral-73769"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL VERACRUZANO DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO, PUBLICADO EN LA G.O. DE 15 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL VERACRUZANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 26 de febrero de 2010.
 
@@ -462,3 +464,15 @@ Héctor Alfredo Roa Morales
 Secretario
 
 Rúbrica.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO POR EL QUE SE ABROGA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DE ESTE ORGANISMO ELECTORAL".]
+
+Primero. Se abroga el Reglamento de Quejas y Denuncias del Instituto Electoral Veracruzano aprobado por este Consejo General mediante acuerdo de fecha 24 de febrero de 2010.
+
+Segundo. Se instruye a la Presidenta del Consejo General para que ordene la publicación en la Gaceta Oficial del estado, del texto íntegro del presente Acuerdo.
+
+Tercero. Publíquese el presente Acuerdo en la página de Internet del Instituto Electoral Veracruzano.
