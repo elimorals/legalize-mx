@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-contraloria-interna-del-instituto-53598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-08"
-last_updated: "2007-01-08"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO DE LA CONTRALORIA INTERNA DEL INSTITUTO ELECTORAL VERACRUZANO DEL ESTADO DE VERACRUZ
 
-REGLAMENTO DE LA CONTRALORIA INTERNA DEL INSTITUTO ELECTORAL VERACRUZANO
+> <small>[N. DE E. DE CONFORMIDAD CON EL QUINTO TRANSITORIO DEL REGLAMENTO DE LA CONTRALORÍA GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO, PUBLICADO EN LA G.O. DE 15 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL VERACRUZANO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de enero de 2007.
 
@@ -736,3 +738,19 @@ Xalapa-Enríquez, Veracruz, a 22 de diciembre de 2006
 Carolina Viveros García, Presidenta del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
 
 Francisco Monfort Guillén, Secretario del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA CONTRALORÍA GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En el Presupuesto del ejercicio fiscal del año 2013 será considerada la partida correspondiente para la instalación y el funcionamiento de la Jefatura de Oficina de Procedimientos Legales.
+
+Tercero. Los procedimientos administrativos que se encuentren en curso, a la entrada en vigor del presente Reglamento, se substanciarán conforme a sus disposiciones en tanto no se perjudiquen los intereses de las partes.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Quinto. Se abroga el Reglamento de la Contraloría Interna del Instituto Electoral Veracruzano de fecha 22 de diciembre de 2006, publicado en la Gaceta Oficial del estado de fecha lunes 8 de enero de 2007.
