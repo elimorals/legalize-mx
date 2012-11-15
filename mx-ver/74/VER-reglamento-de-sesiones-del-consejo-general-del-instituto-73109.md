@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-sesiones-del-consejo-general-del-instituto-73109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2010-02-15"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 15 de febrero de 2010.
 
@@ -39,15 +39,27 @@ REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
 El Consejo General del Instituto Electoral Veracruzano es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, y de que las actividades del Instituto se rijan por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad, transparencia y definitividad.
 
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+El Consejo General se integrará con:
+
+1. Cinco Consejeros Electorales, de los cuales uno de ellos será el Presidente, todos con derecho a voz y voto.
+
+2. Un representante por cada uno de los partidos políticos que hubieren obtenido su registro o acreditación para participar en las elecciones correspondientes, con derecho a voz.
+
 ###### Artículo 2.
 
 El presente Reglamento tiene como objeto regular las sesiones del Consejo General del Instituto Electoral Veracruzano.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DE LA REFORMA PUBLICADA EN LA G.O. DE 15 DE NOVIEMBRE DE 2012, PÁGINA 6 A LA PÁGINA 7.]</small>
 
 ###### Artículo 3.
 
 Para efectos del presente Reglamento se entenderá por:
 
-I. Área: las Direcciones Ejecutivas, la Contraloría General, Coordinación Jurídica, Unidades Técnicas u órganos responsables pertenecientes al Instituto Electoral Veracruzano;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+I. Área: los Órganos Ejecutivos, la Contraloría General, Coordinación Jurídica, Unidades Técnicas u órganos responsables pertenecientes al Instituto Electoral Veracruzano;
 
 II. Código: el Código Electoral para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -65,11 +77,13 @@ VIII. Reglamento Interno: el Reglamento Interno del Instituto Electoral Veracruz
 
 IX. Representantes: los representantes propietarios o suplentes de los partidos políticos acreditados ante el Consejo General del Instituto Electoral Veracruzano;
 
-X. Secretaría Ejecutiva: la Secretaría Ejecutiva del Instituto Electoral Veracruzano;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-XI. Secretario: el Secretario Ejecutivo del Instituto Electoral Veracruzano; y,
+X. Secretario: el Secretario del Consejo General del Instituto Electoral Veracruzano; y,
 
-XII. Sesiones: las sesiones del Consejo General del Instituto Electoral Veracruzano.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XI. Sesiones: las sesiones del Consejo General del Instituto Electoral Veracruzano.
 
 ###### Artículo 4.
 
@@ -83,13 +97,17 @@ Sólo serán privadas las sesiones convocadas para tratar asuntos que impliquen 
 
 Las sesiones deberán transmitirse en vivo utilizando, al menos, la página de internet del Instituto.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-Lo no previsto en este Reglamento será resuelto por el Consejo.
+En lo no previsto en el presente Reglamento, se estará a lo señalado en el Código, a lo que determine el Consejo y a las demás disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LOS INTEGRANTES DEL CONSEJO
 
 ### CAPÍTULO PRIMERO. Obligaciones y atribuciones de la Presidencia del Consejo
+
+> <small>[N. DE E. VÉASE LITERALIDAD DE LA REFORMA PUBLICADA EN LA G.O. DE 15 DE NOVIEMBRE DE 2012, PÁGINA 7.]</small>
 
 ###### Artículo 7.
 
@@ -115,7 +133,9 @@ IX. Mantener o llamar al orden;
 
 X. Declarar los recesos que estime necesarios;
 
-XI. Cuidar de la debida aplicación de este Reglamento;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XI. Cuidar de la debida aplicación y cumplimiento de las disposiciones de este Reglamento.
 
 XII. Instruir al Secretario que someta a votación los puntos que deban resolverse;
 
@@ -127,11 +147,13 @@ XV. Vigilar el adecuado cumplimiento de los acuerdos o resoluciones del Consejo;
 
 XVI. Ordenar, en su caso, la publicación, en la Gaceta Oficial del Estado y en la página de Internet del Instituto, de los acuerdos o resoluciones que pronuncie el Consejo;
 
-XVII. Hacer cumplir las disposiciones de este Reglamento;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-XVIII. Proponer a los miembros del Consejo sesionar en un lugar alterno, cuando por alguna razón no sea posible hacerlo en el habitual; y,
+XVII. Proponer a los miembros del Consejo sesionar en un lugar alterno, cuando por alguna razón no sea posible hacerlo en el habitual; y,
 
-XIX. Las demás que le confiera la Ley, este Reglamento o el Consejo.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XVIII. Las demás que le confiera la Ley, este Reglamento o el Consejo.
 
 ### CAPÍTULO SEGUNDO. Obligaciones y atribuciones de los consejeros
 
@@ -217,7 +239,9 @@ XVII. Recibir y sustanciar los recursos que se interpongan en contra de los acto
 
 XVIII. Recibir y dar el trámite previsto en el Libro Quinto del Código a los recursos que se interpongan en contra de los actos o resoluciones del Consejo, informando a éste de los mismos en su sesión inmediata;
 
-XIX. Dar cuenta al Consejo de las resoluciones pronunciadas por el Tribunal Electoral del Poder Judicial del Estado u otras autoridades jurisdiccionales en materia electoral;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XIX. Dar cuenta al Consejo de las resoluciones que le competan dictadas por los órganos jurisdiccionales correspondientes.
 
 XX. Solicitar al Consejo autorice la intervención de los Titulares de las Áreas ejecutivas, ante el pleno, cuando los asuntos que se estén tratando así lo requieran;
 
@@ -227,7 +251,13 @@ XXII. Acreditar la personalidad de los Consejeros, así como de los Representant
 
 XXIII. Firmar, junto con la Presidencia del Consejo, todos los acuerdos y resoluciones que se emitan; y,
 
-XXIV. Las demás que le sean conferidas por el Código, el presente Reglamento y el Consejo.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XXIV. Llevar a cabo la tramitación y substanciación de los procedimientos ordinario y especial sancionador en los términos que establece en el Código.
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XXV. Las demás que le sean conferidas por el Código, el presente Reglamento y el Consejo.
 
 ## TÍTULO TERCERO. DE LAS SESIONES
 
@@ -451,6 +481,8 @@ La Presidencia ordenará al Secretario proveer lo necesario para que con toda op
 
 De cada sesión se levantará una versión electrónica que contendrá íntegramente los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, las intervenciones, el sentido del voto de los Consejeros, así como los acuerdos y resoluciones aprobados; no se asentará ninguna intervención de los integrantes del Consejo antes de la declaración de instalación de la sesión.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 43.
 
 El Secretario distribuirá a los integrantes del Consejo, dentro de los siete días siguientes de concluida la sesión, el proyecto de acta levantada de acuerdo al artículo anterior; concluido este término, someterá tal proyecto a la aprobación del Consejo en la siguiente sesión.
@@ -488,3 +520,13 @@ SECRETARIO
 HÉCTOR ALFREDO ROA MORALES
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 3, 6, 7, 10 Y 43; Y LA ADICIÓN DE LOS NUMERALES 1 Y 10, TODOS DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL IEV”.]
+
+Artículo primero. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Reglamento.
