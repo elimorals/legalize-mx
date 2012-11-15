@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-sobre-venta-y-consumo-de-bebidas-57372"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
+REGLAMENTO DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 18 de septiembre de 2007.
 
@@ -755,9 +755,35 @@ II. Lugar y fecha de emisión.
 
 III. El nombre y firma de la autoridad competente.
 
-### CAPÍTULO SÉPTIMO. DE LAS CAUSALES DE REVOCACIÓN DE LA LICENCIA DE BEBIDAS ALCOHÓLICAS
+> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO OCTAVO. DE LA PREVENCIÓN Y COMBATE AL ABUSO EN EL CONSUMO DE BEBIDAS ALCOHÓLICAS
+### CAPÍTULO SEXTO-BIS. DE LAS INFRACCIONES E IMPOSICIÓN DE SANCIONES
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 78
+
+BIS.- Para la destrucción inmediata de las bebidas alcohólicas decomisadas en términos del artículo 52 de la Ley se deberán cumplir los lineamientos siguientes:
+
+I.- Los titulares de las Recaudadoras de Rentas de la Secretaría de Hacienda del Estado, cuando el acto o resolución por el cual se decomisen bebidas alcohólicas se encuentre firme, dictaran los acuerdos de su destrucción cuyo contenido será el siguiente:
+
+a) Descripción y cuantía de las bebidas alcohólicas que serán objeto de la destrucción, en su caso, la mención de los datos que identifiquen el expediente del cual se derive.
+
+b) Precisar el método de destrucción designado por la Secretaría de Hacienda del Estado.
+
+c) Designación del o los ejecutores de la destrucción.
+
+d) Fijará la fecha, hora y lugar en el que tendrá verificativo el acto de destrucción.
+
+e) Ordenará se cite a dos testigos, identificándolos plenamente.
+
+II.- Los testigos serán citados de manera personal, quienes preferentemente serán las personas que asigne para tales efectos el Órgano de Control y Evaluación Interna y la Subsecretaría de Ingresos, ambos de la Secretaría de Hacienda.
+
+III.- Los ejecutores levantarán acta circunstanciada de los hechos en presencia de los testigos.
+
+El método de destrucción será el que designe la Secretaría de Hacienda del Estado, a través de su titular o de quien delegue esta facultad, previa consulta que efectúe a la Secretaría de Ecología y Medio Ambiente.
+
+### CAPÍTULO SÉPTIMO. DE LAS CAUSALES DE REVOCACIÓN DE LA LICENCIA DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 79.
 
@@ -786,6 +812,8 @@ IV. El documento oficial de autorización de la suspensión deberá ser presenta
 ###### ARTÍCULO 81.
 
 La suspensión a que hace referencia el artículo anterior, no exime, bajo ninguna circunstancia, de las responsabilidades y obligaciones que la Ley y su Reglamento estipulan para toda licencia vigente.
+
+### CAPÍTULO OCTAVO. DE LA PREVENCIÓN Y COMBATE AL ABUSO EN EL CONSUMO DE BEBIDAS ALCOHÓLICAS
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL CONSULTIVO
 
@@ -902,3 +930,9 @@ SECRETARIA DE GOBIERNO
 LIC. FREDY EFREN MARRUFO MARTIN
 
 SECRETARIO ESTATAL DE HACIENDA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+Único.- La vigencia del presente acuerdo iniciará a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
