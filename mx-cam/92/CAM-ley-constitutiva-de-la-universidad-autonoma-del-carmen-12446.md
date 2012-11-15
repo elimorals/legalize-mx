@@ -4,7 +4,7 @@ identifier: "CAM-ley-constitutiva-de-la-universidad-autonoma-del-carmen-12446"
 country: "mx"
 rank: "ley"
 publication_date: "1967-06-13"
-last_updated: "2007-06-20"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN -ANTES LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL CARMEN-
 
-LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN
+LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 13 de junio de 1967.
 
@@ -37,7 +37,7 @@ El H. XLV Congreso Constitucional del Estado Libre y Soberano de Campeche, decre
 
 Número 143
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 2007)</small>
 
 LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN
 
@@ -45,17 +45,23 @@ LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN
 
 Se constituye la Universidad del Carmen como una corporación pública, con personalidad jurídica, gobierno autónomo y patrimonio libremente administrado, para los fines que le fija esta Ley y con los caracteres y competencia que la misma determine. Funcionará con las limitaciones que establecen la Constitución Política del Estado, la Constitución General de la República y las leyes que de ambas emanen.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 2.
 
-Se encomienda a la Universidad del Carmen el servicio público relativo a la conservación, investigación y difusión de la cultura, especialmente la ciencia, la técnica y el arte, así como el de la enseñanza de las profesiones y la difusión de los conocimientos entre la población en general.
+Se encomienda a la Universidad Autónoma del Carmen el servicio público relativo a la conservación, investigación y la difusión de la cultura, especialmente la ciencia, la técnica y el arte, así como el de la enseñanza de las profesiones y la difusión de los conocimientos entre la población en general; coadyuvando con el desarrollo de los servicios de capacitación, asistencia técnica, consultorías y demás que procuren el mejoramiento de las actividades de los sectores productivos, sociales, económicos e institucionales del Estado, de región o de la nación.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-La Universidad del Carmen se integrará con las Facultades, Escuelas, Institutos y Departamentos que se requieran para el debido cumplimiento de sus fines, atendiendo a la complejidad de la cultura, a la especialización de la ciencia, a la diversificación de la técnica y el arte y a la variedad de los servicios de extensión que preste, por lo que podrá crear, incorporar y suprimir dependencias conforme a sus finalidades y las necesidades culturales de la región y del Estado.
+La Universidad Autónoma del Carmen se integrará con las Facultades, Escuelas, Institutos y Departamentos que se requieran para el debido cumplimiento de sus fines, atendiendo a la complejidad de la cultura, a la especialización de la ciencia, a la diversificación de la técnica y el arte y a la variedad de los servicios de vinculación y extensión que preste, por lo que podrá crear, incorporar y suprimir dependencias conforme a sus finalidades y las necesidades de la región y del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 4.
 
-El funcionamiento docente, técnico y administrativo de la Universidad del Carmen, será autónomo y por tanto la comunidad de profesores y estudiantes que la constituyen tendrá su propio gobierno interior.
+El funcionamiento docente, técnico y administrativo de la Universidad Autónoma del Carmen, será autónomo y por lo tanto la comunidad de profesores y estudiantes que la constituyen tendrán su propio gobierno interior.
 
 ###### Artículo 5.
 
@@ -67,9 +73,11 @@ Las funciones políticas, docentes, técnicas y administrativas supremas, corres
 
 Las autoridades ejecutivas que serán el Patronato, el Rector, los Consejos Técnicos de las Escuelas y los Directores, asumirán las funciones académicas y administrativas que se determinen en la Ley Orgánica de la Universidad.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-La Universidad del Carmen tendrá patrimonio propio, constituido por los bienes que destinen a sus finalidades el Estado, el Municipio, la Federación y los particulares; por los que ella adquiera por cualesquiera de los medios legítimos y por el acrecentamiento de sus propiedades, capitales, posesiones y derechos. También estará integrado por los subsidios anuales que el Gobierno Estatal, Federal y Municipal, le asignen en sus respectivos presupuestos de egresos.
+La Universidad Autónoma del Carmen tendrá patrimonio propio, constituido por los bienes que destinen a sus finalidades el Estado, el Municipio, la Federación y los particulares; por los que ella adquiera por los servicios que preste o cualquier otro medio legítimo para el acrecentamiento de sus propiedades, capitales, posesiones y derechos. También estará integrado por sus subsidios anuales que el Gobierno Estatal, Federal y Municipal, le asignen en sus respectivos presupuestos de egresos.
 
 La Ley Orgánica determinará los bienes que desde luego constituyan el patrimonio de la Universidad.
 
@@ -112,3 +120,9 @@ P.O. 20 DE JUNIO DE 2007.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de carácter general, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
