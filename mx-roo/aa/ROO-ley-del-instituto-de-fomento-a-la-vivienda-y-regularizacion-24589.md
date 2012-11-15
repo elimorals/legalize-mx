@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-fomento-a-la-vivienda-y-regularizacion-245
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-15"
-last_updated: "2002-03-15"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 15 de marzo de 2002.
 
@@ -37,9 +37,11 @@ LEY DEL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL
 
 ### CAPÍTULO I. DEL INSTITUTO
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-Se crea el Instituto de Fomento a la Vivienda y Regularización de la Propiedad, como un organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+###### Artículo 1°.
+
+Se crea el Instituto de Fomento a la Vivienda y Regularización de la Propiedad, como un Organismo Descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Urbano.
 
 ###### Artículo 2º.
 
@@ -147,15 +149,21 @@ El Consejo Directivo será el órgano rector del Instituto y se integrará con:
 
 I. Un Presidente, quien será el Gobernador del Estado;
 
-II. Un Vicepresidente, quien será el Secretario de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-III. Cuatro Vocales que serán los titulares de las Secretarías de Hacienda, de Planeación y Desarrollo Regional, de Desarrollo Económico y de Desarrollo Agropecuario, Rural e Indígena;
+II. Un Vicepresidente, quien será el Secretario de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+III. Cinco Vocales, que serán los Titulares de las Secretarias de Hacienda, de Planeación y Desarrollo Regional, de Desarrollo Social, de Ecología y Medio Ambiente y del Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal;
 
 IV. Un Secretario Técnico, que será designado por el propio Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-El cargo de Consejero es honorario. Todos los integrantes del Consejo Directivo contarán con sus respectivos suplentes. En el caso del Presidente del Consejo Directivo, el Suplente lo será el Secretario de Desarrollo Urbano y Medio Ambiente.
+El cargo de Consejero es honorario. Todos los integrantes del Consejo Directivo contarán con sus respectivos suplentes. En el caso del Presidente del Consejo Directivo, el suplente lo será el Vicepresidente.
 
 ###### Artículo 12.
 
@@ -321,7 +329,9 @@ IV. Desempeñar las tareas que les encomiende el propio Consejo Directivo, o les
 
 La Comisión Consultiva del Instituto se integrará con:
 
-I. El Secretario de Desarrollo Urbano y Medio Ambiente, quien lo presidirá;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+I. El Secretario de Desarrollo Urbano, quien lo presidirá;
 
 II. El Director General del Instituto;
 
@@ -474,3 +484,11 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ.
 EL SECRETARIO DE GOBIERNO.
 
 DR. JOSÉ LUIS PECH VARGUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
