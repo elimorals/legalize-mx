@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-universidad-autonoma-del-carmen-antes-12452"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1967-06-13"
-last_updated: "2007-06-20"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN -ANTES UNIVERSIDAD DEL CARMEN-
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 13 de junio de 1967.
 
@@ -37,7 +37,7 @@ El H. XLV Congreso Constitucional del Estado Libre y Soberano de Campeche, decre
 
 Número 144
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 2007)</small>
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN
 
@@ -69,39 +69,43 @@ La Universidad colaborará eficazmente con los proyectos de coordinación y plan
 
 La Universidad del Carmen es una Institución pública con gobierno autónomo; tendrá personalidad jurídica plena con todos los atributos que se requieran, para ejercer toda clase de derechos y contraer obligaciones. Su nombre, patrimonio, domicilio y representación legal, serán los que en esta Ley se establezcan.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
 Para el cumplimiento de sus fines la Universidad procederá a:
 
-a).- Impartir la enseñanza técnico-científica de las profesiones o carreras que sean útiles a la colectividad, incluyendo las de utilidad específica para el Municipio y el Estado;
+a) Impartir la enseñanza técnico-científica de las profesiones o carreras que sean útiles a la colectividad, incluyendo las de utilidad específica para el Municipio y el Estado;
 
-b).- Impartir educación secundaria, preparatoria y normal de profesores;
+b) Impartir educación técnica, media superior y superior incluyendo posgrados;
 
-c).- Establecer los planes de enseñanza de modo que el estudio se haga por grados;
+c) Establecer los planes de enseñanza de modo que el estudio se haga por grados;
 
-d).- Establecer los requisitos necesarios para el ingreso a la Institución y sus dependencias; las diversas etapas de los estudios; los títulos o denominaciones de cada una de las enseñanzas y los requisitos para la terminación de cada una de las profesiones;
+d) Establecer los requisitos necesarios para el ingreso a la Institución y sus dependencias; las diversas etapas de los estudios; los títulos o denominaciones de cada una de las enseñanzas y los requisitos para la terminación de cada una de las profesiones;
 
-e).- Fijar los planes pedagógicos y los sistemas más adecuados para la enseñanza, tomando en cuenta siempre la perfectibilidad de la misma;
+e) Fijar los planes pedagógicos y los sistemas más adecuados para la enseñanza, tomando en cuenta siempre la perfectibilidad de la misma;
 
-f).- Establecer y regular especialmente la preparación que se imparta en los Institutos y laboratorios de investigación científica;
+f) Establecer y regular especialmente la preparación que se imparta en los Institutos y laboratorios de investigación científica;
 
-g).- Fomentar las investigaciones en el marco de las ciencias culturales y naturales, procurando proyectarlas sobre los problemas más importantes del Municipio, el Estado y la Nación;
+g) Fomentar las investigaciones en el marco de las ciencias culturales y naturales, procurando proyectarlas sobre los problemas más importantes del Municipio, el Estado y la Nación;
 
-h).- Fomentar y mantener relaciones con otras Universidades del país y del extranjero, especialmente la Universidad del Sudeste, procurando el mayor intercambio posible para orientar sus trabajos de investigación;
+h) Fomentar y mantener relaciones con otras Universidades del país y del extranjero, especialmente la Universidad Autónoma de Campeche, procurando el mayor intercambio posible para orientar sus trabajos de investigación;
 
-i).- Sostener cursos permanentes y temporales, generales o parciales que se requieran, para vincular a los universitarios con los altos fines de la cultura o ideas fundamentales de la misma;
+i) Llevar a cabo actividades de educación continua que permitan a los estudiantes egresados o cualquier profesional interesado, obtener conocimientos actualizados en las diversas áreas o disciplinas de la ciencia, el arte y la tecnología, contribuyendo al desarrollo de la generación y aplicación del conocimiento;
 
-j).- Certificar estudios, discernir grados y otorgar títulos de las profesiones que en ella se enseñen, así como los diplomas que acrediten la enseñanza artística y de oficios que impartan las Instituciones respectivas y demás documentos similares;
+j) Certificar estudios, discernir grados y otorgar títulos de las profesiones que en ella se enseñen, así como los diplomas que acrediten la enseñanza artística y de oficios que impartan las Instituciones respectivas y demás documentos similares;
 
-k).- Otorgar validez a los estudios hechos en otras instituciones de enseñanza, locales, nacionales y extranjeras, para efectos de ingreso a sus planteles de enseñanza media y superior;
+k) Otorgar validez a los estudios hechos en otras instituciones de enseñanza, locales, nacionales y extranjeras; para efectos de ingreso a sus planteles de enseñanza media y superior;
 
-l).- Convenir con las demás universidades del país sobre las normas o modalidades científicas o técnicas que deban darse a alguna actividad, programa o profesión universitaria;
+l) Convenir con las demás universidades del país sobre las normas o modalidades científicas o técnicas que deban darse a alguna actividad, programa o profesión universitaria;
 
-ll).- Promover programas de extensión cultural, especialmente para lograr la difusión de la ciencia, la técnica y las manifestaciones artísticas;
+ll) Promover programas de extensión cultural, especialmente para lograr la difusión de la ciencia, la técnica y las manifestaciones artísticas;
 
-m).- Atender al desarrollo armónico del universitario, en los aspectos físico e intelectual, impulsando la actividad deportiva en las diversas instituciones universitarias, en la medida en que dicha actividad sea necesaria, procurando que no se menoscabe el desenvolvimiento cultural como función específica de la Universidad;
+m) Procurar la formación integral de los universitarios, promoviendo el deporte y la cultura en general;
 
-n).- Perseguir cualquiera otra finalidad similar a las anteriores.
+n) Vincular el quehacer universitario con el sector productivo a través de proyectos de investigación científica y desarrollo tecnológico que permitan articular los programas académicos con la industria, el comercio y el sector social, ofreciendo los servicios de capacitación, educación continua, asesoría, asistencia técnica, estudios y análisis especializados e ingeniería en general, desarrollo de investigación, desarrollo de tecnología aplicada y servicios diversos;
+
+ñ) Perseguir cualquiera otra finalidad similar a las anteriores.
 
 ### CAPITULO III. DEL GOBIERNO DE LA UNIVERSIDAD
 
@@ -641,10 +645,16 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los trece días del mes de Junio del año de mil novecientos sesenta y siete.- El Gobernador Constitucional del Estado, LIC. JOSE ORTIZ AVILA.- El Secretario General de Gobierno, ING. RICARDO CASTILLO OLIVER.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JUNIO DE 2007.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de carácter general, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
