@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-capitulo-xvii-de-la-constitucion-25356"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-03"
-last_updated: "2010-05-06"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY REGLAMENTARIA DEL CAPÍTULO XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 3 de julio de 2002.
 
@@ -409,6 +409,14 @@ XXIII. Abstenerse de causar daños y/o perjuicios a la Hacienda Pública, Estata
 
 XXIV. Proporcionar en forma oportuna y veraz toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XXIV BIS. Responder las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptarlas o cumplirlas, deberán hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por el Apartado B del Artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y por el artículo 45 Bis de la Ley de la Comisión de Derechos Humanos del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+XXIV TER. Atender los llamados del Congreso del Estado o en sus recesos de la Diputación Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B del Artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
+
 XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquiera naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte. Por ningún motivo podrá autorizarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 XXVI. Abstenerse de inhibir, por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos, con el fin de evitar la formulación o presentación de denuncias, o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de quienes las formulen o presenten;
@@ -784,3 +792,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
 Tercero.- Los servidores públicos del Poder Legislativo que antes de la entrada en vigor de este decreto no estaban obligados a presentar declaración patrimonial, en un plazo de sesenta días hábiles contados a partir de la vigencia de este decreto, deberán presentar su Declaración Patrimonial Inicial; ante el órgano interno de control del Poder Legislativo.
+
+P.O. 15 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
