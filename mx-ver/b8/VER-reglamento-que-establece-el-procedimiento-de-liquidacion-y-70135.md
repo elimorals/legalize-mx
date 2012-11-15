@@ -4,7 +4,7 @@ identifier: "VER-reglamento-que-establece-el-procedimiento-de-liquidacion-y-7013
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-08"
-last_updated: "2009-09-08"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO DE LIQUIDACION Y DESTINO DEL PATRIMONIO ADQUIRIDO CON RECURSOS PUBLICOS ESTATALES, DE LAS ORGANIZACIONES POLITICAS, ANTE LA PERDIDA DE SU REGISTRO O ACREDITACION DEL INSTITUTO ELECTORAL VERACRUZANO DEL ESTADO DE VERACRUZ
 
-REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO DE LIQUIDACION Y DESTINO DEL PATRIMONIO ADQUIRIDO CON RECURSOS PUBLICOS ESTATALES, DE LAS ORGANIZACIONES POLITICAS, ANTE LA PERDIDA DE SU REGISTRO O ACREDITACION
+REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO DE LIQUIDACIÓN Y DESTINO DEL PATRIMONIO ADQUIRIDO CON RECURSOS PÚBLICOS ESTATALES, DE LAS ORGANIZACIONES POLÍTICAS, ANTE LA PÉRDIDA DE SU REGISTRO O ACREDITACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 8 de septiembre de 2009.
 
@@ -33,9 +33,11 @@ Reglamento que establece el Procedimiento de Liquidación y Destino del Patrimon
 
 ### CAPÍTULO PRIMERO. Naturaleza y Objeto del Reglamento
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer el procedimiento de liquidación contable y administrativa del patrimonio adquirido con recursos públicos estatales, de las organizaciones políticas, ante la pérdida de su registro o acreditación, de conformidad con lo dispuesto en el Libro Segundo, Título Octavo del Código Número 307 Electoral para el Estado de Veracruz de Ignacio de la Llave.
+El presente Reglamento tiene por objeto establecer el procedimiento de liquidación contable y administrativa del patrimonio adquirido con recursos públicos estatales, ante la pérdida de registro, así como el aplicable ante la pérdida de acreditación, de las organizaciones políticas; de conformidad con lo dispuesto en el Libro Segundo, Título Octavo del Código Electoral para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 2.
 
@@ -43,11 +45,15 @@ Para efectos del presente Reglamento, se entenderá por:
 
 a. Auxiliar: persona con conocimientos profesionales o técnicos en la materia de contabilidad que apoyará la función del interventor;
 
-b. Código: Código Número 307 Electoral para el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+b. Código: Código Electoral para el Estado de Veracruz de Ignacio de la Llave;
 
 c. Consejo: Consejo General del Instituto Electoral Veracruzano;
 
-d. Cuenta Concentradora: cuenta bancaria designada por el Director de la Unidad de Fiscalización de los Partidos Políticos para llevar a cabo el procedimiento de liquidación;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+d. Cuenta Concentradora: Cuenta bancaria designada para depositar los recursos del partido político durante el procedimiento de liquidación;
 
 e. Director: Director Ejecutivo de la Unidad de Fiscalización de los Partidos Políticos;
 
@@ -55,21 +61,35 @@ f. Instituto: Instituto Electoral Veracruzano;
 
 g. Interventor: persona responsable del control y vigilancia del uso y destino de los recursos y bienes de las organizaciones políticas, dentro del procedimiento de liquidación a que se refiere este Reglamento;
 
-h. Liquidación: procedimiento instruido por el Consejo General y la Unidad de Fiscalización de los Partidos Políticos, que tiene por objeto concluir las operaciones pendientes de las organizaciones políticas, cuando se actualiza alguno de los supuestos establecidos en los numerales 105 y 108 del Código; y en virtud del cual, se cobran los créditos, se pagan los adeudos, se cumplen obligaciones y se otorga un destino cierto a los bienes que integran el patrimonio de las organizaciones políticas;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+h. Liquidación: Procedimiento instruido por el Consejo, que tiene por objeto concluir las operaciones pendientes de los partidos políticos, cuando se actualiza alguno de los supuestos establecidos en los numerales 105 y 108 del Código; y en virtud del cual, se cobran los créditos, se pagan los adeudos, se cumplen obligaciones y se otorga un destino cierto a los bienes que integran el patrimonio de las organizaciones políticas;
 
 i. Liquidador: representante nombrado por la organización política, responsable de reintegrar al erario estatal los bienes y remanentes de su patrimonio, a través del interventor;
 
 j. Organizaciones Políticas: partidos y asociaciones políticas, sujetos al procedimiento de liquidación una vez que la declaratoria de pérdida del registro o acreditación quede firme;
 
-k. Pérdida de registro o acreditación: resolución que emite el Consejo General, con base en el dictamen elaborado por la Junta General Ejecutiva, ante la pérdida de registro o acreditación de una organización política;
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
 
-l. Reglamento: Reglamento que establece el Procedimiento de Liquidación y Destino del Patrimonio Adquirido con Recursos Públicos Estatales, de las Organizaciones Políticas, ante la Pérdida de su Registro o Acreditación; y,
+k. Pérdida de acreditación: Resolución que emite el Consejo General, con base en el dictamen elaborado por la Junta General Ejecutiva, ante la actualización de las causales del artículo 105 del Código, al tratarse de partidos políticos nacionales, acreditados ante el Instituto.
 
-m. Unidad: Unidad de Fiscalización de los Partidos Políticos.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+l. Pérdida de registro: Resolución que emite el Consejo General, con base en el dictamen elaborado por la Junta General Ejecutiva, ante la actualización de las causales de los artículos 105, en el caso de los partidos políticos estatales; y 108, tratándose de asociaciones políticas.
+
+m. Reglamento: Reglamento que establece el Procedimiento de Liquidación y Destino del Patrimonio Adquirido con Recursos Públicos Estatales, de las Organizaciones Políticas, ante la Pérdida de su Registro o Acreditación; y,
+
+n. Unidad: Unidad de Fiscalización de los Partidos Políticos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-La aplicación del presente Reglamento corresponde al Consejo y a la Unidad; sus disposiciones resultan de observancia obligatoria para las organizaciones políticas.
+La aplicación del presente Reglamento corresponde al Consejo, a la Unidad y a los interventores; sus disposiciones resultan de observancia obligatoria para las organizaciones políticas y los sujetos involucrados en los procedimientos de liquidación.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+En lo no previsto en el presente Reglamento, se estará a lo dispuesto en lo señalado en el Código, a lo que determine el Consejo y a las demás disposiciones aplicables.
 
 ###### Artículo 4.
 
@@ -77,9 +97,23 @@ La interpretación que el Consejo realice de las disposiciones de este Reglament
 
 ### CAPÍTULO SEGUNDO. De las Acciones Precautorias
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-Ante la posibilidad de actualizarse las causales contenidas en los artículos 105 y 108 del Código, el Consejo nombrará a un interventor para que, de manera inmediata, tome las acciones precautorias necesarias para el control y vigilancia directos del uso y destino de los bienes y recursos de la organización política de que se trate.
+Ante la posibilidad de actualizarse las causales contenidas en el artículo 105 del Código, el Consejo instruirá la aplicación de las acciones precautorias necesarias para el control y vigilancia del uso y destino de los bienes y recursos del partido político de que se trate.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+El Consejo nombrará un interventor para que de manera inmediata implemente las acciones precautorias.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+Cuando se presuma que un partido político nacional no hubiera alcanzado el dos por ciento de la votación total emitida en ninguna de las elecciones locales, se procederá a implementar las acciones precautorias, las cuales mantendrán sus efectos ante la declaratoria de pérdida de acreditación y hasta en tanto el órgano nacional de dicha organización política acredite nuevamente su representación estatal.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+Una vez cumplida la mención del párrafo anterior, el interventor designado rendirá un informe al Director, que indique la situación financiera y patrimonial del partido desde el momento de su designación y hasta que se formalice la acreditación del partido. Este informe será presentado al Consejo, quien instruirá la reintegración de los bienes y recursos, incluyendo los que hubieran sido retenidos a la organización política.
 
 ###### Artículo 6.
 
@@ -87,7 +121,9 @@ Las acciones precautorias serán las siguientes:
 
 I. Verificación de sus inventarios;
 
-II. Retención de las ministraciones de financiamiento público estatal;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+II. Retención de las ministraciones de financiamiento público estatal y para actividades específicas;
 
 III. Intervención o cancelación de las cuentas bancarias de la organización política, con excepción de aquella donde se maneje el financiamiento público estatal, que será utilizada como cuenta concentradora; todos los saldos de las demás cuentas bancarias, serán transferidos a la cuenta subsistente; y,
 
@@ -95,11 +131,23 @@ IV. Suspender pagos de obligaciones vencidas con anterioridad.
 
 La organización política no podrá enajenar, gravar o donar los bienes muebles e inmuebles que integren su patrimonio, siempre que éstos hayan sido adquiridos con financiamiento público estatal, ni realizar transferencias de recursos o valores a favor de sus dirigentes, militantes, simpatizantes o cualquier otro tercero.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-Una vez que se haya resuelto sobre la pérdida del registro o acreditación legal de una organización política, por cualquiera de las causas establecidas en el Código, el Consejo instruirá el desahogo del procedimiento de liquidación contable y administrativo del patrimonio de la organización política de que se trate, a través de un interventor.
+Una vez que se haya resuelto sobre la pérdida del registro de un partido político, el Consejo instruirá el desahogo del procedimiento de liquidación contable y administrativo del patrimonio, a través de un interventor.
 
-La organización política se sujetará al procedimiento de liquidación desde el inicio de las acciones precautorias, enunciadas en el presente Reglamento.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+La organización política se sujetará al procedimiento de liquidación desde el inicio de las acciones precautorias, enunciadas en el presente Reglamento; y hasta su conclusión.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+Las asociaciones políticas una vez que se declare la pérdida de su registro presentarán a la Unidad el informe de gastos correspondiente al ejercicio que transcurra, en el cual comprueben la aplicación y destino de la prerrogativa para apoyos materiales para sus tareas editoriales de capacitación, educación e investigación socioeconómica y política, señalada por el Código.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+La Unidad verificará el correcto empleo de los recursos públicos entregados a la asociación de que se trate, e incluirá los resultados en el dictamen consolidado que se emita con respecto al ejercicio en curso.
 
 ###### Artículo 8.
 
@@ -141,7 +189,9 @@ Son obligaciones del interventor las siguientes:
 
 a. Ejercer con probidad y diligencia las funciones que el presente Reglamento le otorga;
 
-b. Supervisar y vigilar el correcto desempeño de las personas que lo auxilien en la realización de sus funciones;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+b. Nombrar a las personas que lo auxilien en la realización de sus funciones y supervisar y vigilar su correcto desempeño;
 
 c. Rendir ante la Unidad los informes que ésta le solicite o que se encuentran determinados en el presente Reglamento;
 
@@ -173,19 +223,25 @@ El incumplimiento de las obligaciones propias del interventor será causa de rev
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-A partir de que el Consejo resuelva sobre el dictamen emitido por la Junta General Ejecutiva respecto de la declaratoria de pérdida de registro o acreditación legal, el interventor procederá a:
+A partir de que el Consejo resuelva sobre el dictamen emitido por la Junta General Ejecutiva respecto de la declaratoria de pérdida de registro, el interventor procederá a:
 
 a. Emitir de manera inmediata aviso de liquidación de la organización política de que se trate, mediante notificación, que deberá publicarse en la Gaceta Oficial del estado. La organización política estará debidamente notificada a partir de la recepción del aviso de liquidación;
 
 b. Determinar, si fuera el caso, los montos de las obligaciones laborales, fiscales, administrativas, con proveedores o acreedores a cargo de la organización política en liquidación;
 
-c. Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere el inciso anterior;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+c. Elaborar el estado de posición financiera con el fin de determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere el inciso anterior;
 
 d. Proveer lo necesario para cubrir en primer término las obligaciones que la ley determina en protección de los trabajadores de la organización política en liquidación; enseguida, las obligaciones fiscales pendientes de pago que correspondan, así como el pago de las sanciones administrativas de carácter económico que, en su caso, le hubieren sido impuestas por el Consejo. Una vez cubiertas las obligaciones anteriores, si quedasen recursos disponibles, se atenderán los compromisos contraídos y debidamente documentados, con proveedores y acreedores de la organización política en liquidación;
 
-e. Formular un informe de lo actuado, que contendrá el balance de bienes y recursos remanentes, después de establecer las previsiones necesarias a los fines antes indicados. Una vez aprobado el informe, con el balance de liquidación de la organización política de que se trate, se ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación mencionado en el inciso anterior; y,
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+e. Formular un informe de lo actuado y presentarlo ante la Unidad, que contendrá el balance de bienes y recursos remanentes, después de establecer las previsiones necesarias a los fines antes indicados. Una vez aprobado el informe, con el balance de liquidación de la organización política de que se trate, se ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación mencionado en el inciso anterior; y,
 
 f. Cumplidas estas disposiciones, si quedasen bienes o recursos remanentes, serán reintegrados al erario estatal.
 
@@ -229,9 +285,11 @@ El inventario deberá considerar todas las adquisiciones desde su registro o acr
 
 El interventor informará de inmediato a la Unidad, si durante el ejercicio de estas actividades surgieran irregularidades.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-En un plazo no mayor a treinta días contados a partir del nombramiento del interventor, éste deberá entregar a la Unidad un dictamen señalando la totalidad de los activos y pasivos de la organización política, incluyendo una relación de las cuentas por pagar en la que se indique el nombre de cada acreedor, el monto y la fecha de pago de cada adeudo. Asimismo, presentará, en su caso, una relación de las cuentas por cobrar y de todos los bienes de la organización política.
+En un plazo no mayor a treinta días hábiles contados a partir del nombramiento del interventor, éste deberá entregar a la Unidad un informe inicial en el cual se incluya el estado de posición financiera, con el propósito de conocer las cuentas por pagar del partido político, así como en su caso, las cuentas por cobrar y el patrimonio del mismo. Con la finalidad de conocer su disponibilidad para cubrir las obligaciones pendientes de pago.
 
 ###### Artículo 22.
 
@@ -283,19 +341,19 @@ Al reintegrar los bienes y remanentes al erario estatal, se levantará acta admi
 
 #### SECCIÓN TERCERA. Del Avalúo y Enajenación de Bienes
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 27.
 
 La enajenación de los bienes y derechos de la organización política se hará en moneda nacional conforme al valor de avalúo determinado por el interventor.
 
-A partir de la entrega del dictamen, el interventor, a más tardar en un plazo de veinte días, deberá realizar el avalúo de los bienes, determinando su valor de mercado.
-
-Mediante informe, se notificará al director de los resultados del avalúo de bienes adjuntando los peritajes y la documentación comprobatoria.
-
-El director podrá solicitar la información que considere necesaria para complementar o aclarar los resultados vertidos en el informe, a efecto de someterlo a la consideración del Consejo y proceder al remate de los bienes en pública subasta.
+A partir de la entrega del dictamen, el interventor, a más tardar en un plazo de veinte días, deberá realizar el avalúo de los bienes, determinando su valor de mercado. Podrán solicitarse hasta tres cotizaciones para determinar el avalúo que resulte más favorable.
 
 ###### Artículo 28.
 
 El avalúo de los bienes tendrá una vigencia de ciento ochenta días naturales, contados a partir de su emisión.
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
@@ -303,7 +361,7 @@ El director expedirá la convocatoria para el remate de los bienes en pública s
 
 La convocatoria a postores se publicará por una sola vez en la Gaceta Oficial y en el diario de mayor circulación en la capital del Estado.
 
-Entre la fecha de la publicación y la celebración del remate en pública subasta de los bienes, deberá mediar cuando menos diez días hábiles.
+Entre la fecha de la publicación y la celebración del remate en pública subasta de los bienes, deberá mediar cuando menos quince días hábiles.
 
 ###### Artículo 30.
 
@@ -369,9 +427,11 @@ Dentro de los veinte días hábiles siguientes a que queden firmes las sentencia
 
 ### CAPÍTULO CUARTO (SIC). Del Cierre del Procedimiento de Liquidación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 39.
 
-El interventor deberá presentar, a más tardar en veinte días, a la Unidad un informe final del cierre del procedimiento de liquidación contable y administrativa de la organización política, en el que se detallarán las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los saldos. Asimismo, deberá contener:
+El interventor deberá presentar, a más tardar en veinte días hábiles, a la Unidad un informe final del cierre del procedimiento de liquidación contable y administrativa de la organización política, en el que se detallarán las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los saldos. Asimismo, deberá contener:
 
 a) Una relación de los ingresos obtenidos por la venta de bienes, la cual deberá contener la descripción del bien vendido, el importe de la venta, así como el nombre, teléfono, clave de elector, registro federal de contribuyentes y domicilio fiscal de la persona que adquirió el bien;
 
@@ -381,7 +441,9 @@ c) Una relación de las cuentas pagadas durante el procedimiento de liquidación
 
 d) En su caso, una relación de las deudas pendientes, los bienes no liquidados y los cobros no realizados.
 
-El Informe rendido deberá presentarse debidamente documentado. El director tendrá amplias facultades para solicitar las aclaraciones que estime necesarias en un plazo no mayor a diez días, el cual deberá ser atendido en el mismo plazo.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2012)</small>
+
+El Informe rendido deberá presentarse debidamente documentado. El director tendrá amplias facultades para solicitar las aclaraciones que estime necesarias en un plazo no mayor a diez días hábiles, el cual deberá ser atendido en el mismo plazo.
 
 ###### Artículo 40.
 
@@ -400,3 +462,13 @@ Xalapa-Enríquez, Veracruz, a 7 de septiembre de 2009
 Carolina Viveros García, presidenta del Consejo General del Instituto Electoral Veracruzano.- Rúbrica.
 
 Héctor Alfredo Roa Morales, secretario del Consejo General del Instituto Electoral Veracruzano.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 1, 6, 12, 15, 21, 27, 29 Y 39; Y LA ADICIÓN DEL PUNTO K AL ARTÍCULO 2, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3, PÁRRAFO TERCERO Y CUARTO DEL ARTÍCULO 5, Y PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 7, TODOS DEL REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO DE LIQUIDACIÓN Y DESTINO DEL PATRIMONIO ADQUIRIDO CON RECURSOS PÚBLICOS ESTATALES, DE LAS ORGANIZACIONES POLÍTICAS, ANTE LA PÉRDIDA DE SU REGISTRO O ACREDITACIÓN DEL IEV”.]
+
+Artículo primero. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Reglamento.
