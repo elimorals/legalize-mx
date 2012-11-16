@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-reforma-agraria-5802
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-15"
-last_updated: "2010-09-28"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58029&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-01-10"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2008.
 
@@ -331,7 +331,7 @@ XXII. Supervisar la aplicación de los criterios específicos para la Secretarí
 
 XXIII. Coordinar la atención a las solicitudes de información formuladas a la dependencia en términos de lo previsto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y vigilar que el portal de transparencia en la página de Internet de la Secretaría se mantenga actualizado.
 
-> <small>(REFORMADO ULTIMO PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO ÚLTIMO PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 El titular de la Jefatura de Unidad de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se podrá auxiliar por el Director General Adjunto "A", el Director General Adjunto "B" o por el Director General Adjunto de Pago de Predios.
 
@@ -433,35 +433,33 @@ VI. Coordinar y supervisar la debida ejecución de políticas y programas de la 
 
 VII. Integrar los expedientes, que de acuerdo a los programas vigentes a cargo de la Secretaría, sea procedente la adquisición de predios, para su presentación al Comité respectivo, de acuerdo con las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
 La Dirección General Técnica Operativa estará adscrita a la Subsecretaría de Ordenamiento de la Propiedad Rural y tendrá las siguientes atribuciones específicas:
 
-I. Ordenar la ejecución de Resoluciones Presidenciales, en los términos de la normativa aplicable en materia de Restitución, Dotación, Ampliación, Creación de Nuevos Centros de Población, Incorporación de Tierras al Régimen Ejidal, División, Fusión y Segregación de Ejido, así como de Reconocimiento y/o Confirmación y Titulación de Bienes Comunales y Permuta de Bienes Ejidales;
+I. Ordenar la ejecución de Resoluciones Presidenciales, en los términos de la normativa aplicable en materia de Restitución, Dotación, Ampliación, Creación de Nuevos Centros de Población, Incorporación de Tierras al Régimen Ejidal, División, Fusión, Segregación y Permuta de Bienes Ejidales, así como de Reconocimiento o Confirmación y Titulación de Bienes Comunales;
 
-II. Emitir acuerdos de inejecutabilidad ante la imposibilidad legal y/o material de ejecutar las Resoluciones Presidenciales;
+II. Emitir acuerdos de inejecutabilidad de Resoluciones Presidenciales, ante la imposibilidad legal, material o de ambas;
 
-III. Dar pronto y cabal cumplimiento a las ejecutorias del Poder Judicial de la Federación y/o sentencias de los Tribunales Agrarios vinculadas con la materia de su competencia, emitiendo para ello los acuerdos de trámite y órdenes que sean necesarias;
+III. Dar pronto y cabal cumplimiento a las ejecutorias del Poder Judicial de la Federación y sentencias de los Tribunales Agrarios en las que la Secretaría de la Reforma Agraria sea competente, emitiendo para ello los acuerdos de trámite y órdenes que sean necesarias;
 
-IV. Ordenar, coordinar y supervisar la realización de trabajos técnicos e informativos, para la debida integración de los expedientes de ejecución;
-
-> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
-
-IV. bis. Ordenar a los Delegados Estatales la realización de trabajos y diligencias que sean necesarias para cumplir los acuerdos y resoluciones que emitan los Tribunales Agrarios;
+IV. Ordenar, coordinar y supervisar la realización de trabajos técnicos e informativos, para la debida integración de los expedientes de ejecución de Resoluciones Presidenciales, de las acciones agrarias a que se refiere la fracción I de este artículo;
 
 V. Elaborar y autorizar los planos proyecto de localización y definitivos de las distintas acciones agrarias, previa revisión técnica-legal de los expedientes de ejecución de Resoluciones Presidenciales, así como la reposición de los mismos, cuando lo ordene la autoridad competente;
 
-VI. Procurar la definitividad administrativa de las diversas acciones agrarias, remitiendo al Registro Agrario Nacional los expedientes de ejecución de Resoluciones Presidenciales concluidos con plano definitivo y/o acuerdo de inejecutabilidad, para su registro, guarda y custodia;
+VI. Procurar la definitividad administrativa de las diversas acciones agrarias, remitiendo al Registro Agrario Nacional los expedientes de ejecución de Resoluciones Presidenciales concluidos con plano definitivo o acuerdo de inejecutabilidad, para su registro, guarda y custodia;
 
-VII. Verificar que las sociedades mercantiles y civiles, propietarias de tierras agrícolas, ganaderas y forestales, estén dentro de los límites de extensión de tierra permitidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. Emitir la resolución que corresponda en los expedientes integrados con motivo de las denuncias presentadas en contra de sociedades mercantiles y civiles propietarias de tierras agrícolas, ganaderas y forestales, en las que se presuma exceden los límites de extensión de tierra permitidos por el artículo 126 de la Ley Agraria;
 
-VIII. Establecer el procedimiento de enajenación de excedentes de tierras de las sociedades mercantiles y civiles referidas en la fracción anterior, de acuerdo con la Ley;
+VIII. Notificar a la autoridad de la entidad federativa competente, para que proceda en términos de lo dispuesto por el artículo 132 de la Ley Agraria, en el caso de comprobarse la existencia de excedencias de tierras propiedad de las sociedades mercantiles y civiles con acciones serie “T”;
 
-IX. Notificar a la autoridad competente para que ésta aplique el procedimiento previsto en los artículos 124 y 132 de la Ley Agraria, en el supuesto de la existencia de excedencias;
+IX. Investigar de oficio o a petición de parte, los casos en los que se presuman excedentes al 5% del total de tierras al interior de ejidos, detentadas por un solo individuo, conforme al artículo 47 de la Ley Agraria;
 
-X. Investigar de oficio o a petición de parte, el acaparamiento de tierras ejidales o comunales y, en su caso, instaurar el procedimiento previsto en la Ley, y
+X. Emitir la resolución que corresponda en el expediente integrado, con motivo de la denuncia de presuntos excedentes, de conformidad con el artículo 27 del Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural, y
 
-XI. Ordenar la realización de trabajos y diligencias que sean necesarias para cumplir los acuerdos que emitan los Tribunales Agrarios.
+XI. Requerir la realización de trabajos y diligencias que sean necesarias para la integración de expedientes que deban ser puestos en estado de resolución, en cumplimiento de acuerdos y sentencias que emitan los Tribunales Agrarios.
 
 > <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
@@ -983,7 +981,7 @@ SEXTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura org
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Reforma Agraria, Abelardo Escobar Prieto.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 28 DE SEPTIEMBRE DE 2010.
 
@@ -998,3 +996,7 @@ CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decr
 QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de la Reforma Agraria, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y subsecuentes.
 
 SEXTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Reglamento, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Oficialía Mayor deberá emitir los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda en un período de 10 días hábiles posteriores a la entrada en vigor de este Decreto.
+
+D.O.F. 16 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
