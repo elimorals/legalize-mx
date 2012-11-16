@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2012-07-31"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -393,6 +393,8 @@ Sera objetivo fundamental del Comité, delimitar las Zonas de Prioridad Turísti
 
 ### CAPÍTULO IV. Turismo Social
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
 La Secretaría deberá coordinarse con el Consejo de Promoción Turística de México, con la Secretaría de Turismo del Gobierno Federal, los fideicomisos públicos y las asociaciones de hoteleros, relacionados con la materia turística, para el desarrollo de las campañas de promoción turística del Estado, en el territorio nacional y en el extranjero, en términos de la Ley General de Turismo.
@@ -465,7 +467,15 @@ V.- La innovación tecnológica en la prestación de servicios turísticos.
 
 ###### Artículo 31.
 
-Al impulsar y promover el Turismo Social, en cumplimiento a la Ley General, la Secretaría promoverá ante los prestadores de servicios, paquetes a precios accesibles a fin de que los grupos de trabajadores, menores, jóvenes, estudiantes, personas con discapacidad adultos mayores, conozcan y desfruten (sic) de los atractivos turísticos de nuestro Estado.
+El Turismo Social comprende todos aquellos instrumentos y medios a través de los cuales, los grupos de estudiantes, trabajadores del campo y de la ciudad, jubilados, pensionados, de la tercera edad y otros similares, tengan acceso a sitios de interés turístico estatal, histórico, artístico y cultural con el objeto de lograr el descanso y el esparcimiento familiar en condiciones adecuadas de economía, seguridad y comodidad. Las dependencias y las entidades de la administración pública estatal, coordinarán y promoverán esfuerzos entre ellas y con los gobiernos Federal y Municipales, para concertar e inducir la acción social y privada para el desarrollo ordenado del turismo social.
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 31 BIS.- La Secretaría, escuchando a los organismos del sector, formulará, coordinará y promoverá los programas de turismo social, tomando en cuenta la elaboración de los mismos las necesidades y características específicas de cada grupo, así como las temporadas adecuadas para su mejor aprovechamiento.
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 31 TER.- La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los prestadores de servicios turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo.
 
 ### CAPÍTULO III. De las Obligaciones
 
@@ -784,3 +794,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos del Estado de Baja California Sur, cuentan con un término de hasta 60 días naturales, a partir de la entrada en vigor del presente Decreto, para expedir en sus respectivas jurisdicciones el Reglamento del Comité Municipal de Zonas de Prioridad Turística, para cumplir con los objetivos previstos en el presente Decreto.
+
+B.O. 16 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
