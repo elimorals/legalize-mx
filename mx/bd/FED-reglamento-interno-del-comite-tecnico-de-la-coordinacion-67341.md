@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-comite-tecnico-de-la-coordinacion-67341"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-12"
-last_updated: "2009-03-12"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67341&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-02-10"
 ---
 # REGLAMENTO INTERNO DEL COMITE TECNICO DE LA COORDINACION NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES
 
-REGLAMENTO INTERNO DEL COMITE TECNICO DE LA COORDINACION NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES
+REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE LA COORDINACIÓN NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE LA COORDINACIÓN NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES, PUBLICADO EN EL D.O.F. DE 16 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de marzo de 2009.
 
@@ -356,3 +358,11 @@ México, D.F., a 10 de febrero de 2009.
 "Con fundamento en lo dispuesto por el artículo 6o. fracciones I y II del Decreto por el que se Reforma el Diverso por el que se Crea la Coordinación Nacional del Programa de Educación, Salud y Alimentación como Organo Desconcentrado de la Secretaría de Desarrollo Social, este H. Consejo autoriza la modificación al Reglamento Interno del Comité Técnico de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, e instruye al Coordinador Nacional del Programa, para que continúe con el proceso de formalización, inscripción, registro y difusión del citado documento."
 
 Por el Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades: el Presidente del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Secretario de Desarrollo Social, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Consejero Propietario del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Secretario de Salud, José Angel Córdova Villalobos.- Rúbrica.- El Secretario Técnico del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Coordinador Nacional del Programa de Desarrollo Humano Oportunidades, N. Salvador Escobedo Zoletto.- Rúbrica.- El Subsecretario de Educación Media Superior de la Secretaría de Educación Pública, Miguel Székely Pardo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Esta publicación abroga el Reglamento Interno del Comité Técnico de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades publicado el jueves 12 de marzo de 2009 en el Diario Oficial de la Federación.
