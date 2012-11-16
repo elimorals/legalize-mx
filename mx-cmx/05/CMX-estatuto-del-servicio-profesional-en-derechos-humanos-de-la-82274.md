@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-822
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-07-28"
-last_updated: "2011-07-28"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82274&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-06-23"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de julio de 2011.
 
@@ -120,7 +120,7 @@ Administración: La Dirección General de Administración de la Comisión de Der
 
 Asuntos Jurídicos: La Consultoría General Jurídica de la Comisión de Derechos Humanos del Distrito Federal.
 
-Bitácora: La Bitácora del Desempeño desarrollada en el marco del proceso de Gestión del Desempeño conforme a las reglas establecidas en el presente Estatuto y demás disposiciones aplicables.
+Bitácora: (DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
 
 Calendario de Actividades del Programa: El Calendario que determina la implementación del Programa de Formación y Capacitación Profesional en Derechos Humanos, y que será aprobado en lo general anualmente por la Coordinación del Servicio Profesional en Derechos Humanos.
 
@@ -150,15 +150,31 @@ Estrados Institucionales: Los estrados físicos, que serán espacios visibles ub
 
 Integrante del Servicio: La o el trabajador que ocupa un cargo y puesto del Servicio Profesional en Derechos Humanos de la Comisión.
 
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Instrumentos de verificación y seguimiento: Es el conjunto de archivos, impresos o electrónicos, comentarios y observaciones que sustentan el cumplimiento de las metas programadas mediante el formato proporcionado por la CSPDH.
+
 ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Ley: La Ley de la Comisión de Derechos Humanos del Distrito Federal.
 
-Nombramiento: Es el documento suscrito por la o el Presidente de la CDHDF, por el que se hace constar la designación de una persona en un cargo y puesto del Servicio, conforme al Catálogo.
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Metas: Es el logro cuantificable que se espera de la ejecución de la o el evaluado.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Metodología: la Metodología de la Gestión del Desempeño.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Nombramiento: Es el documento que hace constar la designación de una persona en un cargo y puesto del Servicio Profesional de la CDHDF conforme al Catálogo, con excepción del de naturaleza eventual.
 
 Personal Administrativo: El conjunto de las y los trabajadores que laboran en la Comisión y que no pertenecen al Servicio Profesional en Derechos Humanos de la CDHDF.
 
-Personal Profesional: El conjunto de las y los trabajadores que ocupan cargos y puestos del Servicio Profesional en Derechos Humanos de la Comisión, con excepción de aquellas personas cuya ocupación de alguno de éstos se deba a un nombramiento eventual.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Personal Profesional: El conjunto de las y los trabajadores que ocupan cargos y puestos del Servicio Profesional en Derechos Humanos de la Comisión, con excepción de aquellas personas a quienes se les haya otorgado un nombramiento eventual.
 
 Presidente: La o el Presidente de la Comisión.
 
@@ -282,7 +298,9 @@ I. Aprobar el Estatuto, a propuesta que al efecto formule la o el Presidente, as
 
 II. Aprobar el Programa de Formación y Capacitación, así como el Catálogo y, en su caso, sus modificaciones;
 
-III. Aprobar anualmente la metodología correspondiente a la Gestión del Desempeño del Personal Profesional;
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+III. Aprobar el proyecto de metodología correspondiente a la Gestión del Desempeño del Personal Profesional y en su caso las modificaciones a la misma.
 
 IV. Solicitar los informes que estime pertinentes para supervisar la oportuna integración y adecuado funcionamiento de los órganos del Servicio Profesional; y
 
@@ -296,7 +314,9 @@ I. Presentar al Consejo para su aprobación los contenidos del Estatuto, del Pro
 
 II. Aprobar las convocatorias a los concursos de oposición en cualquiera de sus modalidades, a propuesta de la Coordinación del SPDH;
 
-III. Presentar al Consejo para su aprobación, el proyecto anual de metodología de la Gestión Anual del Desempeño del Personal Profesional;
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+III. Presentar al Consejo para su aprobación, el proyecto de metodología de la Gestión del Desempeño y, en su caso, las propuestas de modificación a la misma.
 
 IV. Expedir los nombramientos del Personal Profesional, así como los nombramientos eventuales, en los términos del presente Estatuto;
 
@@ -468,11 +488,11 @@ V. Las demás que establezca el presente Estatuto así como las demás disposici
 
 ### Capítulo 3. Del nombramiento, los derechos y las obligaciones del Personal Profesional
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 32°.
 
-El nombramiento es el documento que hace constar la designación de una persona en un cargo y puesto del Servicio conforme al Catálogo.
-
-El otorgamiento de los nombramientos se sujetará a las disposiciones establecidas en el presente Estatuto así como a las demás disposiciones aplicables en la normatividad del Servicio Profesional.
+El otorgamiento de los nombramientos se sujetará a las disposiciones establecidas en el presente Estatuto así como a las demás disposiciones aplicables al Servicio Profesional.
 
 ###### Artículo 33º.
 
@@ -482,9 +502,13 @@ I. Nombramientos Provisionales. Son aquellos que se entregarán a las y los Inte
 
 II. Nombramientos de Titularidad. Son aquellos que se entregarán a las y los Integrantes del Servicio Profesional que cumplan con los requisitos para la obtención de la titularidad en los términos establecidos por el presente Estatuto;
 
-III. Nombramientos Eventuales. Son aquellos que se entregarán en casos de excepción y por necesidades del Servicio a las personas que ocupen de manera temporal un cargo y puesto del SPDH en los términos del presente Estatuto, quienes no formarán parte del mismo.
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-De igual forma se entregarán nombramientos eventuales a aquellas personas que habiendo sido seleccionadas en el marco del proceso general de Ingreso y Ascenso no hayan concluido todas las etapas del mismo, en los términos de la normatividad aplicable.
+III. Nombramientos Eventuales. Son aquellos que se entregarán en casos de excepción y por necesidades del servicio a las personas que de manera temporal desarrollen actividades en puestos del SPDH en los términos del presente Estatuto, quienes no formarán parte del Servicio Profesional.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+De igual forma se entregarán nombramientos eventuales derivados de la Segunda Etapa de la Fase de Selección a los ganadores preliminares en el marco del proceso general de Ingreso y Ascenso que no hayan concluido todas las etapas del mismo, en los términos de la normatividad aplicable.
 
 ###### Artículo 34º.
 
@@ -530,19 +554,25 @@ La Coordinación del SPDH, podrá realizar la valoración de los requisitos para
 
 Con la obtención de la titularidad, las y los Integrantes del Servicio adquieren la permanencia dentro del Servicio Profesional, la cual estará siempre sujeta, entre otras cosas, a la acreditación de las evaluaciones de conocimientos del Programa de Formación y Capacitación, así como a los resultados derivados del proceso de Gestión del Desempeño de acuerdo con las disposiciones de este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 44º.
 
-En casos de excepción y por necesidades del Servicio, la o el Presidente podrá otorgar nombramientos eventuales, cuyo plazo máximo de vigencia será de dos años improrrogables, con independencia del cargo y puesto por el que se otorguen. Las personas que obtengan un nombramiento eventual no formarán parte del Servicio.
+En casos de excepción y por necesidades del servicio, la o el Presidente podrá otorgar nombramientos eventuales, cuyo plazo máximo de vigencia será de dos años, no obstante lo anterior, a fin de garantizar la continuidad en el servicio, dicho período podrá ampliarse hasta por seis meses más, siempre que dentro de dicho lapso se lleve a cabo un concurso de oposición. Las personas que obtengan un nombramiento eventual no ocuparán la plaza respectiva ni formarán parte del Servicio.
 
 La Coordinación del SPDH determinará, en acuerdo con Asuntos Jurídicos y Administración, la vigencia de los nombramientos eventuales de acuerdo con las necesidades del Servicio y las disposiciones aplicables del presente Estatuto.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 45º.
 
-Aquella persona que hubiese obtenido nombramientos eventuales por la temporalidad máxima anteriormente establecida, no podrá recibir nombramiento eventual alguno dentro del año inmediato siguiente contado a partir de la fecha en que se hubiere alcanzado la temporalidad máxima.
+Aquella persona que hubiese obtenido nombramientos eventuales por la temporalidad máxima establecida en el artículo anterior, no podrá recibir nombramiento eventual alguno dentro del año inmediato siguiente contado a partir de la fecha en que se hubiere alcanzado la temporalidad máxima, salvo en el supuesto de excepción que se precisa en el mismo.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 46º.
 
-Los nombramientos eventuales deberán contener el nombre de la persona a favor de quien se expida, el cargo y puesto en el que se desempeñará, así como la temporalidad relativa a la vigencia del mismo, en los términos establecidos por el presente Estatuto.
+Los nombramientos eventuales deberán contener el nombre de la persona a favor de quien se expida, el Órgano o Área en que desarrollara sus actividades, así como la vigencia del mismo, en los términos establecidos por el presente Estatuto.
 
 ###### Artículo 47º.
 
@@ -730,9 +760,11 @@ El proceso general de Ingreso y Ascenso tiene como propósito proveer a la CDHDF
 
 El ascenso de las y los Integrantes del Servicio se refiere a la obtención de un cargo o puesto superior en la estructura orgánica del Servicio, el cual sólo podrá obtenerse mediante concursos de oposición que se celebren en cualquiera de sus modalidades.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 67º.
 
-La ocupación de vacantes podrá llevarse a cabo mediante concurso, nombramiento eventual, readscripción o encargaduría de despacho en los términos establecidos por el presente Estatuto.
+La ocupación de vacantes únicamente podrá llevarse a cabo mediante concurso o a través de una readscripción en los términos establecidos por el presente Estatuto.
 
 ###### Artículo 68º.
 
@@ -749,6 +781,10 @@ IV. Se haya desocupado a causa del cambio de adscripción o ascenso de alguna o 
 V. Aquella que hubiere en el Catálogo y que por razones presupuestarias no se haya ocupado; o
 
 VI. Cualquier otra no prevista en las anteriores.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+No obstante lo anterior, atendiendo a las necesidades del servicio, las funciones inherentes a los puestos vacantes se podrán desarrollar a través de encargadurías de despacho o de nombramientos eventuales en casos de excepción, en los términos previstos en el presente Estatuto, conservando en estos casos el estatus de vacantes.
 
 ###### Artículo 69º.
 
@@ -1142,19 +1178,27 @@ La tercera etapa de la Fase de Selección únicamente será aplicable para el ca
 
 En el caso de las y los integrantes del Servicio Profesional que participen en un concurso de oposición en cualquiera de sus modalidades, cuando con base en los resultados totales obtenidos hasta la segunda etapa resulten ganadores de un cargo y puesto conforme al listado de prelación que por cada cargo y puesto se elabore, en función de la convocatoria de mérito, así como de la disponibilidad presupuestal, ocuparán el mismo sin necesidad de tener que participar en la tercera etapa prevista en el presente apartado.
 
-Se considerará como ganadores preliminares a las personas que no pertenezcan al Servicio Profesional y que habiendo participado en un concurso de oposición en cualquiera de sus modalidades, hubieran obtenido una calificación total en las dos primeras etapas del concurso respectivo, que en estricto orden del listado de prelación que se elabore para cada puesto y cargo, y conforme a la oferta institucional establecida en la Convocatoria respectiva, tengan el derecho de ocupar de manera eventual un cargo y puesto hasta en tanto no cumplan satisfactoriamente con los requisitos establecidos para la tercera etapa.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-En aquellos puestos que permitan diferentes adscripciones, la Coordinación del SPDH elaborará un instrumento de evaluación con el objeto de determinar la afinidad de cada una o uno de las o los aspirantes y que le permita establecer la adscripción más idónea de cada una o uno de ellos.
+Se considerarán como ganadores preliminares, a las personas que no pertenezcan al Servicio Profesional y que habiendo participado en un concurso de oposición en cualquiera de sus modalidades, hubieran obtenido una calificación total en las dos primeras etapas del concurso respectivo, que en estricto orden del listado de prelación que se elabore para cada puesto y cargo, y conforme a la oferta institucional establecida en la Convocatoria respectiva, tengan el derecho a un nombramiento eventual derivado de los resultados de la Primera y Segunda Etapa de la Fase de Selección, hasta en tanto no cumplan satisfactoriamente con los requisitos establecidos para la tercera etapa.
 
-La Coordinación del SPDH notificará oportunamente por escrito a las y los ganadores preliminares de los procesos de Ingreso y Ascenso su adscripción y puesto a ocupar de manera temporal.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-Las y los ganadores preliminares contarán con un nombramiento eventual, mismo que determinará una adscripción específica en donde deberán desempeñarse durante seis meses, debiendo cumplir con un compromiso inicial de desempeño que será suscrito por la o el aspirante con las o los integrantes del Comité de Selección. Dicho compromiso será evaluado por éste último con quince días naturales de antelación al cumplimiento del período anteriormente referido, debiendo ser acreditado con una calificación igual o superior de 80 sobre una escala de 0 a 100, de acuerdo con los indicadores y criterios establecidos en tal compromiso.
+En aquellos puestos que permitan diferentes adscripciones, la Coordinación del SPDH elaborará un instrumento de evaluación con el objeto de determinar la afinidad de cada una o uno de las o los aspirantes, y que le permita establecer el Órgano o Área idónea en que desarrollará sus actividades, notificando oportunamente dicha circunstancia.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Las y los ganadores preliminares recibirán un nombramiento eventual derivado de la Segunda Etapa de la Fase de Selección, mismo que determinará el Órgano o Área en que desarrollará actividades durante seis meses, debiendo cumplir con un compromiso inicial de desempeño que será suscrito por la o el aspirante con las o los integrantes del Comité de Selección. Dicho compromiso será evaluado por éste último con quince días naturales de antelación al cumplimiento del período anteriormente referido, debiendo ser acreditado con una calificación igual o superior de 80 sobre una escala de 0 a 100, de acuerdo con los indicadores y criterios establecidos en tal compromiso.
 
 De igual modo, durante este período las y los ganadores preliminares deberán acreditar en una sola oportunidad, la Fase de Inducción del Programa de Formación y Capacitación con una calificación igual o superior a 80 en una escala de 0 a 100.
 
 Una vez cumplidos los requisitos establecidos en el presente artículo, se expedirán los nombramientos provisionales correspondientes, mismos que acreditaran a tales personas como Integrantes del Servicio Profesional, teniendo dicho carácter, a partir de la fecha en que se emita el nombramiento referido.
 
-En caso de que una o un ganador preliminar no cumpla con alguno de los requisitos establecidos por el presente artículo, será descalificado del concurso respectivo, y se dará por concluido el nombramiento eventual que haya recibido, sin responsabilidad para la Comisión, debiéndose llamar a la siguiente persona del listado de prelación que por cada cargo y puesto se elabore, que en caso de no pertenecer al Servicio Profesional, recibirá un nombramiento eventual debiendo cumplir con los requisitos establecidos para la tercera etapa en el presente apartado.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+En caso de que una o un ganador preliminar no cumpla con alguno de los requisitos establecidos por el presente artículo, será descalificado del concurso respectivo, y se dará por concluido el nombramiento eventual que haya recibido, sin responsabilidad para la Comisión, debiéndose llamar a la siguiente persona del listado de prelación que por cada cargo y puesto se elabore, que en caso de no pertenecer al Servicio Profesional, recibirá un nombramiento eventual derivado de la Segunda Etapa de la Fase de Selección debiendo cumplir con los requisitos establecidos para la tercera etapa en el presente apartado.
 
 ###### Artículo 113º.
 
@@ -1324,13 +1368,17 @@ La Coordinación del SPDH someterá a consulta del Grupo de Trabajo Permanente d
 
 Apartado B. De las encargadurías de Despacho del SPDH
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 133º.
 
-Las y los titulares de los órganos y áreas de apoyo de la Comisión, podrán solicitar a la Coordinación del SPDH que proponga a la o el Presidente de la CDHDF la designación de una o un Integrante del Servicio Profesional como encargada o encargado de despacho de un cargo y puesto del Servicio.
+Las y los titulares de los órganos y áreas de apoyo de la Comisión, podrán solicitar a la Coordinación del SPDH que proponga a la o el Presidente de la CDHDF la designación de una o un Integrante del Servicio Profesional como encargada o encargado de despacho para desarrollar funciones de un cargo y puesto del Servicio sin que ello implique su ocupación.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 134º.
 
-La o el Presidente, a propuesta de la Coordinación del SPDH, podrá designar a Personal Profesional como encargada o encargado de despacho de un cargo y puesto del Servicio, estableciendo la temporalidad en que se llevará a cabo la misma, la cual estará sujeta al reingreso de la o el Integrante del Servicio que temporalmente se hubiera ausentado de la misma; o si la plaza se encuentra vacante, a la realización de un concurso de oposición en cualquiera de sus modalidades.
+La o el Presidente, a propuesta de la Coordinación del SPDH, podrá designar a Personal Profesional como encargada o encargado de despacho para desarrollar funciones de un cargo y puesto del Servicio, estableciendo la temporalidad en que se llevará a cabo la misma, la cual estará sujeta al reingreso de la o el Integrante del Servicio que temporalmente se hubiera ausentado de la misma; o si la plaza se encuentra vacante, a la publicación de resultados de un concurso de oposición en cualquiera de sus modalidades.
 
 ###### Artículo 135º.
 
@@ -1338,7 +1386,9 @@ El dictamen en que se proponga una encargaduría de despacho establecerá los al
 
 Para la designación de la o el encargado de despacho del SPDH se procurará dar preferencia al personal de la Comisión que ocupe cargos o puestos inmediatos inferiores o que colaboren en el área en donde se ubica la plaza vacante. La designación del Personal Profesional como encargada o encargado de despacho deberá sujetarse a las disposiciones establecidas en la presente sección.
 
-La o el Integrante del Servicio que ocupe un puesto por encargaduría de despacho, lo hará con el conocimiento de que dicha ocupación es de carácter temporal y no implicará de modo alguno la implicación de la asignación definitiva del puesto ni la adquisición de derechos sobre la misma, por lo que al término de dicha encargaduría la persona regresará al puesto que le corresponda.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+La o el Integrante del Servicio que sea designado como encargada o encargado de despacho, lo hará con el conocimiento de que dicha designación es de carácter temporal y no implicará de modo alguno, la asignación definitiva del puesto, ni la adquisición de derechos sobre el mismo, por lo que al término de dicha encargaduría la persona regresará al puesto que le corresponda.
 
 ###### Artículo 136º.
 
@@ -1370,29 +1420,41 @@ El oficio mediante el cual se designe a la o el Integrante del Servicio como enc
 
 I. Nombre, puesto y cargo;
 
-II. La denominación del cargo y puesto que ocupará;
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-III. La adscripción; y
+II. La denominación del cargo y puesto cuyas funciones desarrollará;
 
-IV. La vigencia del encargo, la cual será de hasta seis meses, y podrá renovarse en ocasiones similares sin que pueda exceder un periodo de hasta dos años; la celebración de un Concurso; o bien, que la o el Integrante del Servicio que ocupaba la plaza se reincorpore a la misma, siempre ésta (sic) no se hubiese dejado vacante.
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+III. La adscripción de dicho cargo; y
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+IV. La vigencia del encargo, la cual será de hasta seis meses, y podrá renovarse en ocasiones similares sin que pueda exceder un periodo de hasta dos años; la publicación de resultados de un Concurso; o bien, que la o el Integrante del Servicio que ocupaba la plaza se reincorpore a la misma, siempre que ésta no se hubiese dejado vacante.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 139º.
 
-El Personal Profesional que sea designado como encargada o encargado de despacho recibirá las remuneraciones inherentes al cargo y puesto que ocupe durante el tiempo que desarrolle dicha función, y será responsable del ejercicio de su encargo.
+El Personal Profesional que sea designado como encargada o encargado de despacho recibirá las remuneraciones inherentes al cargo y puesto cuyas funciones desarrolle, y será responsable del ejercicio de su encargo.
 
 ###### Artículo 140º.
 
 La o el Integrante del Servicio que sea designado como encargada o encargado de despacho, en su caso, estará sujeta o sujeto al proceso de Gestión del Desempeño, en relación con el encargo que efectivamente hubiese desempeñado, en los términos establecidos por el presente Estatuto.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 141º.
 
-El cargo de la o el Integrante del Servicio que obtenga una encargaduría de despacho, podrá ser ocupado eventualmente por otro Integrante del Servicio o cualquier otra persona, conforme a las disposiciones que rigen a las y los encargados de despacho, o bien, a los nombramientos eventuales.
+El desarrollo de actividades a cargo de la o el Integrante del Servicio que obtenga una encargaduría de despacho, podrán ser desarrolladas temporalmente por otro Integrante del Servicio o cualquier otra persona, conforme a las disposiciones que rigen a las y los encargados de despacho, o bien, a los nombramientos eventuales en casos de excepción.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 142º.
 
-Toda encargaduría de despacho podrá ser terminada con antelación y sin responsabilidad para la CDHDF, siempre que la Coordinación del SPDH notifique a la persona que la ocupa en los términos del presente Estatuto, ya sea por una determinación de oficio; a solicitud de la o el interesado o de la o el titular del órgano o área de apoyo.
+Toda encargaduría de despacho podrá ser terminada con antelación y sin responsabilidad para la CDHDF, siempre que la Coordinación del SPDH notifique a la persona designada en los términos del presente Estatuto, ya sea por una determinación de oficio, a solicitud de la o el interesado o de la o el titular del órgano o área de apoyo.
 
-La Coordinación del SPDH se encuentra autorizada a dar por terminada con anticipación una encargaduría de despacho, de conformidad con el presente artículo, notificando con por lo menos 15 días naturales de antelación a la persona que estuviese ocupando el referido puesto.
+La Coordinación del SPDH se encuentra autorizada a dar por terminada con anticipación una encargaduría de despacho, de conformidad con el presente artículo, notificando con por lo menos 15 días naturales de antelación a la persona que estuviese desarrollando dicho encargo.
 
 Apartado C. De las Licencias del Personal Profesional
 
@@ -1444,21 +1506,27 @@ En caso de otorgarse una licencia extraordinaria no podrá solicitarse otra dent
 
 Para el otorgamiento de licencias por fines académicos, se deberá estar a lo dispuesto por los lineamientos correspondientes de la Comisión, aplicándose en los casos no previstos en ellos, las reglas generales establecidas en el presente Estatuto.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 150º.
 
-El cargo de la o el Integrante del Servicio que obtenga licencia podrá ser ocupado eventualmente por otra u otro Integrante del Servicio o cualquier otra persona, conforme a las disposiciones que rigen a las y los encargados de despacho o bien a los nombramientos eventuales.
+Las actividades del cargo de la o el Integrante del Servicio que obtenga una licencia se podrán desarrollar temporalmente por otra u otro Integrante del Servicio o cualquier otra persona, conforme a las disposiciones del presente Estatuto que regulan las encargadurías de despacho o los nombramientos eventuales en casos de excepción.
 
 ###### Artículo 151º.
 
 Las y los Integrantes del Servicio que hayan obtenido alguna licencia y deseen regresar con anterioridad a su vencimiento, deberán de notificarlo por escrito a la Coordinación del SPDH, con por lo menos un mes de anticipación a la fecha en que solicite se haga efectiva su reincorporación.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 152º.
 
-En los casos en que se hubiese ocupado el puesto de la o el Integrante del SPDH que solicitó licencia con una encargaduría de despacho o con un nombramiento eventual, la Coordinación del SPDH se encuentra autorizada a dar cualquiera de estas circunstancias por terminada con anticipación, notificando a la persona que estuviese ocupando el referido puesto con por lo menos 15 días naturales de antelación.
+En los casos en que se hubiese autorizado el desarrollo de actividades del puesto de la o el Integrante del SPDH que obtuvo licencia, a través de una encargaduría de despacho o de un nombramiento eventual en casos de excepción, la Coordinación del SPDH se encuentra autorizada a dar por terminada con anticipación cualquiera de estas circunstancias, sin responsabilidad para la Comisión, notificando a la persona que estuviese desarrollando dichas funciones del referido puesto con por lo menos 15 días naturales de antelación.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 153º.
 
-Toda licencia o encargaduría de despacho relacionada con puestos del Servicio Profesional podrá ser terminada con antelación y sin responsabilidad para la CDHDF, siempre que la Coordinación del SPDH notifique a la persona que la ocupa en los términos del presente Estatuto.
+Toda licencia o encargaduría de despacho relacionada con puestos del Servicio Profesional podrá ser terminada con antelación y sin responsabilidad para la CDHDF, siempre que la Coordinación del SPDH notifique a la persona que la disfruta o desarrolla, en los términos del presente Estatuto.
 
 Apartado D. Del reingreso al Servicio
 
@@ -1674,335 +1742,237 @@ IV. La Coordinación procederá a notificar nuevamente por escrito a la o el Int
 
 El proceso de Gestión del Desempeño se encuentra integrado por las normas y los procedimientos para la planeación, seguimiento y evaluación del desempeño del Personal Profesional.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 181º.
 
-La Coordinación del SPDH es la responsable de coordinar el proceso general de la Gestión del Desempeño del Personal Profesional; y procurará que se concluya con la Evaluación del Desempeño dentro de los primeros 3 meses del año siguiente al periodo que se evalúa.
+La Evaluación del Desempeño forma parte del proceso general de Gestión del Desempeño, y consiste en el sistema de valoración cualitativa y cuantitativa de la función realizada por la o el Integrante del Servicio en su cargo y puesto, así como de su desarrollo.
+
+La Evaluación del Desempeño se realizará al término de cada ejercicio fiscal y estará destinada a medir las metas alcanzadas, así como los comportamientos esperados para el logro de las metas, de conformidad con el presente Estatuto y la Metodología de la Gestión del Desempeño.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 181º bis. La Metodología será aprobada por el Consejo y contendrá las normas y procedimientos a evaluar en el proceso general de la Gestión del Desempeño.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 181º ter. La o el Presidente presentará al Consejo para su aprobación, el proyecto de la Metodología de la Gestión del Desempeño y, en su caso, las propuestas de modificación a la misma, las cuales deberán ser aprobadas por el Consejo.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 181º quater. Una vez aprobada la Metodología de la Gestión del Desempeño y, en su caso las modificaciones a la misma, la Coordinación deberá notificarla a las y los Integrantes del Servicio Profesional en los próximos 10 días hábiles, a través de la dirección de correo institucional y por Estrados Institucionales.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 182º.
 
-El proceso de la Evaluación del Desempeño forma parte del proceso general de Gestión del Desempeño, y consiste en el sistema de valoración de la actuación de un o una Integrante del Servicio en su cargo y puesto, así como de su desarrollo y comprende un conjunto de normas y procedimientos diseñados para tal fin.
+La Coordinación del SPDH es la instancia responsable de coordinar el proceso general de la Gestión del Desempeño del Personal Profesional, el cual se procurará concluir dentro de los primeros 3 meses del año siguiente al periodo que se evalúa.
 
-La Evaluación Anual del Desempeño se realizará al término de cada ejercicio fiscal y estará destinada a medir:
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-I. Las metas alcanzadas en función de los indicadores de eficacia y eficiencia mediante la valoración de los mismos según está previsto en este Estatuto; y
+Artículo 182º bis. El proceso de Evaluación del Desempeño generará información con la finalidad de:
 
-II. Los comportamientos desarrollados para el logro de las metas de conformidad con las disposiciones aplicables del presente Estatuto.
+I. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado del Personal Profesional, los cuales serán establecidos por la Coordinación del SPDH de conformidad con las disposiciones del presente Estatuto;
 
-###### Artículo 183º.
-
-La Evaluación Anual del Desempeño abarcará el periodo comprendido entre el 1 de enero y 31 de diciembre de cada año.
-
-Excepcionalmente, y sólo por circunstancias previstas en el presente Estatuto el período antes referido podrá ser menor.
-
-###### Artículo 184º.
-
-Para ser sujeto de la Evaluación Anual del Desempeño, el Personal Profesional deberá haberse desempeñado como mínimo 2 meses en el mismo cargo o puesto durante el ejercicio que se evalúa.
-
-###### Artículo 185º.
-
-En caso de otorgarse alguna licencia al Personal Profesional, la determinación de la calificación correspondiente a la Evaluación Anual del Desempeño se presentará en el tiempo establecido de manera general, de conformidad con el Estatuto y sólo evaluará el período efectivamente laborado, tomando como base la bitácora de evidencias con la que se cuente.
-
-###### Artículo 186º.
-
-La calificación de la Evaluación Anual del Desempeño por cambio de adscripción o por ascenso, será el resultado tanto de la evaluación realizada en función del puesto de origen de la o el Integrante del Servicio, así como de la evaluación realizada en función del puesto de nueva adscripción, otorgando una ponderación a cada una de las calificaciones totales obtenidas de acuerdo con el tiempo laborado en cada una de ellas, con base en el total de meses que efectivamente se evalúen.
-
-La fórmula establecida en el párrafo anterior sólo se aplicará cuando la o el Integrante del Servicio se haya desempeñado como mínimo 2 meses en cada cargo o puesto, durante el periodo que se evalúa. En caso contrario, la calificación se integrará sólo en función del puesto en el que se hubiese desempeñado por arriba del plazo establecido anteriormente.
-
-###### Artículo 187º.
-
-Con el propósito de asegurar la certeza en el proceso, sólo podrá evaluarse a aquellas personas que hayan suscrito un Acuerdo de Desempeño.
-
-###### Artículo 188º.
-
-La Evaluación Anual del Desempeño se realizará en los términos siguientes:
-
-I. Corresponde al superior jerárquico inmediato conforme al Catálogo o a quien ejerza la supervisión directa del personal que deba ser calificado evaluar y calificar las metas alcanzadas relativas al desempeño laboral de los Integrantes del Servicio bajo su dirección.
-
-Los comportamientos asignados a cada Integrante del Servicio, de conformidad con el Acuerdo de Desempeño suscrito entre el evaluado, el evaluador y/o titular, serán estimados de conformidad con las disposiciones establecidas en el presente Estatuto;
-
-II. Las y los responsables de evaluar y calificar el desempeño laboral del Personal Profesional, tienen la obligación de hacerlo preferentemente dentro de los treinta días hábiles posteriores al término del ejercicio fiscal por calificar. La Coordinación del SPDH, tomando en cuenta la opinión del Grupo de Trabajo Permanente, podrá ampliar este plazo;
-
-III. Tanto evaluados como evaluadores deberán elaborar, a lo largo del período a evaluar, una bitácora de evidencias que permitan convalidar el cumplimiento de las metas de cada Integrante del Servicio, en los términos establecidos por el presente ordenamiento;
-
-IV. En caso que el responsable de la evaluación de las metas se retire de su empleo por cualquier circunstancia, tendrá la responsabilidad de integrar, suscribir y entregar al titular del área la Bitácora del Desempeño que acredite el desempeño laboral del Personal Profesional a su cargo, antes de su separación.
-
-A partir del momento de la separación del responsable de la evaluación, el cumplimiento del Acuerdo del Desempeño será responsabilidad del superior jerárquico inmediato del evaluado, quien a partir de la bitácora de evidencias, así como de la verificación del cumplimiento del Acuerdo del Desempeño, determinará la calificación definitiva de la o el evaluado;
-
-V. La Evaluación del Desempeño se realizará mediante la elaboración de cédulas especiales, diseñadas por la Coordinación del SPDH con base en los Acuerdos del Desempeño.
-
-###### Artículo 189º.
-
-La o el evaluador y la o el evaluado serán corresponsables de documentar y registrar, en la Bitácora del Desempeño, todos aquellos elementos que permitan sustentar la evaluación del desempeño de la o el Integrante del Servicio.
-
-###### Artículo 190º.
-
-La Bitácora de Desempeño es el conjunto de archivos, impresos o electrónicos, comentarios y observaciones que sustentan el cumplimiento de las acciones programadas.
-
-Con la finalidad de facilitar la elaboración de la Bitácora del Desempeño, la Coordinación del SPDH facilitará a las y los titulares y a las y los Integrantes del Servicio Profesional el formato o los formatos apropiados.
-
-No obstante lo anterior, el Personal Profesional podrá someter a consideración de su evaluador o evaluadora y/o de la o el titular, la incorporación del contenido de formatos especiales para acreditar el cumplimiento de alguna meta; de aprobarse dicho formato por parte del evaluador o evaluadora se integrará a la Bitácora del Desempeño, glosándose además la documentación que avale el cumplimiento de la misma.
-
-###### Artículo 191º.
-
-Como parte de los procedimientos de evaluación, se incluirán indicadores que permitan obtener información sobre la forma en que las o los evaluadores realizaron sus tareas de evaluación.
-
-Sección 2ª. De los Acuerdos del Desempeño
-
-###### Artículo 192º.
-
-El Acuerdo del Desempeño es el instrumento metodológico que permite definir las metas y comportamientos que serán objeto de la Evaluación del Desempeño y brinda certeza jurídica al proceso.
-
-El presente Estatuto definirá los elementos y requisitos que deberá contener el Acuerdo del Desempeño.
-
-###### Artículo 193º.
-
-Todo Acuerdo del Desempeño tendrá vigencia durante el año de su aplicación, no obstante podrá ser modificado de común acuerdo por evaluados, evaluadas, evaluadores, evaluadoras y la o el titular del área, de conformidad con las disposiciones del presente Estatuto.
-
-No limitará los efectos del Acuerdo del Desempeño, el que la persona que evalúe no sea la misma que lo suscribió.
-
-###### Artículo 194º.
-
-Los Acuerdos del Desempeño de la Evaluación Anual del Desempeño del Personal Profesional establecerán las metas y comportamientos que se definirán cada año para evaluar los factores referidos en el artículo 182º del presente Estatuto.
-
-###### Artículo 195º.
-
-La Coordinación del SPDH será la responsable de coordinar, con los órganos y áreas de apoyo de la Comisión que tengan bajo su adscripción Integrantes del Servicio, las tareas de elaboración de los acuerdos del desempeño que servirán para evaluar el desempeño esperado por cada Integrante del Servicio, en función de los factores delineados por el presente Estatuto, asegurando su correspondencia con las metas estratégicas y programas de trabajo de la Comisión.
-
-###### Artículo 196°.
-
-Con objeto de asegurar la validez y congruencia del Acuerdo del Desempeño en relación con los objetivos estratégicos de cada área, las y los titulares de cada órgano u área de apoyo, serán responsables de supervisar que se suscriban los Acuerdos del Desempeño en los siguientes términos:
-
-I. El Acuerdo del Desempeño deberá referirse al cumplimiento de lo que se espera institucionalmente del desempeño de la o el Integrante del Servicio;
-
-II. En el Acuerdo del Desempeño se precisarán las metas que individualmente deberá alcanzar la o el evaluado estableciendo los indicadores de eficacia y eficiencia en los términos del presente Estatuto y utilizando la metodología aprobada por el Consejo de la Comisión para tal efecto.
-
-Asimismo, el Acuerdo de Desempeño deberá establecer el número de los comportamientos esperados de la o el evaluado y que serán evaluados de acuerdo con las disposiciones del Estatuto;
-
-III. La elaboración de los Acuerdos del Desempeño será responsabilidad tanto de la o el superior jerárquico inmediato, en este caso, denominado la o el evaluador; como de la persona que será objeto de la evaluación, que en este caso se denominará persona evaluada y de la o el titular del órgano o área de apoyo respectivo;
-
-IV. Las o los evaluadores y las o los evaluados deberán presentar a la o el titular del área una propuesta de Acuerdo del Desempeño, preferentemente con antelación al 15 de noviembre del año previo al que será evaluado;
-
-V. Los Acuerdos del Desempeño para la Evaluación del Desempeño de las y los Integrantes del Servicio incluirán las metas acordadas y sus respectivas ponderaciones, así como los comportamientos esperados y la firma tanto de la o el evaluador como de la persona evaluada, así como el visto bueno de la o el titular del órgano o área de apoyo de la Comisión;
-
-VI. En aquellos casos en que por cualquier razón el puesto de la o el superior jerárquico al evaluado conforme al Catálogo no se encuentre en activo, el acuerdo será suscrito sólo por la o el titular y la o el evaluado;
-
-VII. En aquellos casos en los que por razones de ausencia, licencia de cualquier tipo, vacancia del puesto, o cualquier otra que imposibilite la participación de la persona evaluada, el Acuerdo del Desempeño se deberá suscribir dentro de los treinta días naturales siguientes al reingreso de la o el Integrante del Servicio que será evaluado, dicho acuerdo tendrá vigencia a partir del día siguiente al de su suscripción y hasta el 31 de diciembre del año a evaluar;
-
-VIII. Las y los titulares de los órganos y áreas de apoyo deberán remitir a la Coordinación del SPDH los Acuerdos del Desempeño del Personal del Servicio a su cargo, debidamente suscritos, antes del 1º de diciembre del año previo al que se evaluará;
-
-IX. La Coordinación del SPDH podrá colaborar brindando asistencia técnica a las áreas que así lo soliciten y podrá emitir las observaciones, comentarios y sugerencias que se consideren convenientes sin perjuicio del cumplimiento del plazo establecido en el inciso anterior;
-
-X. Por cada uno de los órganos y áreas de apoyo de la Comisión, la Coordinación del SPDH sistematizará los Acuerdos del Desempeño que reciba, los cuales estarán de acuerdo con la Metodología para la Evaluación del Desempeño que apruebe el Consejo.
-
-###### Artículo 197º.
-
-La o el Presidente, antes del inicio del año fiscal a ser evaluado, presentará ante el Consejo para su aprobación el proyecto de Metodología para la Evaluación Anual del Desempeño del Personal Profesional que será aplicada en el año siguiente.
-
-###### Artículo 198º.
-
-Una vez que el Consejo apruebe la Evaluación Anual del Desempeño del Personal Profesional, antes del inicio del ejercicio fiscal a evaluarse, la Coordinación del SPDH notificará a través de la dirección de correo institucional y por Estrados Institucionales a las y los Integrantes del Servicio Profesional, la metodología aprobada por el Consejo, y les proporcionará, en su oportunidad, copia simple del Acuerdo de Desempeño debidamente suscrito por todas las personas que participaron en él y con el que serán evaluadas o evaluados.
-
-###### Artículo 199º.
-
-En caso de que la o el Presidente lo considere imprescindible y por causas excepcionales, podrá llevar a cabo una revisión de la metodología de la Evaluación Anual del Desempeño del Personal Profesional, antes del tiempo fijado para ello, a efecto de modificarla. Las modificaciones realizadas deberán ser aprobadas por el Consejo.
-
-Apartado A. De la metodología para la elaboración de los Acuerdos del Desempeño
-
-###### Artículo 200º.
-
-La elaboración de los Acuerdos de Desempeño que servirán para llevar a cabo la Evaluación del Desempeño se basará en las definiciones siguientes:
-
-a) Metas: Las metas son todos aquellos logros que le serán asignados a cada Integrante del Servicio para el periodo de desempeño. Las metas serán evaluadas en función de los factores de eficacia y eficiencia.
-
-a.1. Factor Eficacia: Consiste en el logro de cada una de las metas expresado en números, y será obtenido a partir de la siguiente fórmula:
-
-Indicador de eficacia= NA x 100
-
-NE
-
-En donde (NA) representa el resultado alcanzado por el personal sujeto a evaluación, y (NE) el nivel esperado. El Acuerdo del Desempeño determinará con precisión el Nivel Esperado, expresándolo en cantidades o porcentajes definidos en función de la meta de que se trate.
-
-a.2. Factor Eficiencia: Se refiere al cumplimiento de la meta en cuanto a los indiciadores de calidad, oportunidad y uso de recursos.
-
-i) Indicador de calidad. Conjunto de elementos que contribuyen a que los resultados o trabajos presentados por la o el Integrante del Servicio cumplan con los estándares determinados en el Acuerdo del Desempeño en función de la meta de la que se trate.
-
-ii) Indicador de oportunidad. Es el elemento que valora el cumplimiento de las metas dentro de los plazos acordados para ello en el Acuerdo del Desempeño.
-
-iii) Indicador uso de recursos. Es el elemento que permite determinar si el empleo de los recursos fue menor, igual o mayor a lo programado en el Acuerdo del Desempeño.
-
-Cada uno de los indicadores que componen el Factor Eficiencia en cada una de las metas tendrá un porcentaje de valoración que en conjunto equivaldrá al 30% del valor total de la meta que se evalúa.
-
-Para la obtención de los porcentajes de valoración de cada uno de los indicadores del Factor Eficiencia (calidad, oportunidad, uso de recursos) se estará a lo dispuesto en el siguiente cuadro:
-
-> <small>N. DE E. VEASE CUADRO EN LA G.O. DE 28 DE JULIO DE 2011, PAGINA 61.</small>
-
-###### Artículo 201º.
-
-El Acuerdo de Desempeño que suscriban las y los evaluadores y las y los evaluados deberá contener como mínimo 5 y como máximo 8 metas por persona evaluada.
-
-###### Artículo 202º.
-
-A cada una de las metas establecidas para cada persona, se le otorgará un porcentaje de ponderación con la finalidad de obtener el 100% del valor correspondiente al componente de metas de la Evaluación del Desempeño.
-
-El valor obtenido de la calificación correspondiente al total de las metas equivaldrá al 70% del total de la evaluación.
-
-###### Artículo 203º.
-
-El Acuerdo del Desempeño deberá contener, además de la definición de las metas en los términos establecidos en el Estatuto, un listado de diez comportamientos asociados a las competencias esperadas de la o el evaluado en función del puesto en el que se desempeña, y que serán elegidos por las y los evaluadores y las y los evaluados debiendo contar con el visto bueno de la o el titular del órgano o área de apoyo de adscripción, a partir de una lista que será incorporada en la Metodología del proceso de Evaluación Anual del Desempeño que apruebe cada año el Consejo de la CDHDF.
-
-###### Artículo 204º.
-
-Las personas que de acuerdo con el perfil de su puesto, realicen actividades de dirección, deberán incorporar aquellas competencias definidas en la Metodología que apruebe cada año el Consejo para tal efecto.
-
-En este supuesto, los comportamientos directivos equivaldrán al 40% del total que corresponda al componente de comportamientos. En el caso de que las o los evaluados no tengan personas bajo su cargo, los comportamientos asociados al puesto de la persona evaluada corresponderán al 100% del componente referido.
-
-###### Artículo 205°.
-
-La evaluación del componente que está relacionado con los comportamientos que fueron determinados en el Acuerdo de Desempeño, será evaluado a partir de la identificación de los niveles de frecuencia que se observen en la persona evaluada, en cada uno de los comportamientos establecidos en el Acuerdo del Desempeño de conformidad con el siguiente cuadro:
-
-Nivel de Frecuencia Valor
-
-No se observó 0
-
-Poco Característico 1
-
-Característico 2
-
-Muy Característico 3
-
-###### Artículo 206°.
-
-La Evaluación del Desempeño se desarrollará de acuerdo con los siguientes porcentajes de evaluación, que serán obtenidos de conformidad con las disposiciones aplicables en el presente Estatuto
-
-Componente A. Metas. 70% (Eficacia y Eficiencia)
-
-Componente B. Comportamientos
-
-30% (Evaluación del Superior
-
-jerárquico; Pares y
-
-Autoevaluación)
-
-Total: 100%
-
-Aportaciones extraordinarias:
-
-10%
-
-Sección 3ª. De la implementación de la Evaluación del Desempeño
-
-###### Artículo 207°.
-
-La Coordinación del SPDH será la responsable de difundir, con antelación al ejercicio fiscal correspondiente, las normas y procedimientos aprobados en materia de Evaluación Anual del Desempeño de las y los Integrantes del Servicio Profesional.
-
-###### Artículo 208°.
-
-La evaluación del componente relacionado con las metas establecidas en el Acuerdo del Desempeño con sus Factores de Eficacia y Eficiencia, corresponde al superior jerárquico inmediato conforme al Catálogo o a quien ejerza la supervisión directa del personal que deba ser calificado en los términos establecidos en el presente Estatuto.
-
-La Coordinación del SPDH brindará los formatos necesarios para facilitar la elaboración de las Bitácoras del Desempeño, así como las cédulas en las que se determinarán las calificaciones definitivas que integrarán los resultados finales de la evaluación.
-
-###### Artículo 209°.
-
-La evaluación del componente relacionado con los comportamientos determinados en el Acuerdo del Desempeño será evaluado de conformidad con el presente artículo.
-
-En la evaluación de este componente participarán las siguientes personas con los siguientes valores de ponderación:
-
-I. La o el superior jerárquico inmediato conforme al Catálogo o quien ejerza la supervisión directa del personal que deba ser evaluado y cuya calificación en este rubro corresponderá al 50% de este componente;
-
-II. Los pares jerárquicos a la o el evaluado de la misma área de adscripción de la o el evaluado, que serán elegidos por sorteo.
-
-En caso de no existir cuando menos dos pares jerárquicos en el área de adscripción, el lugar del par faltante será sorteado entre las personas que ocupen los cargos inmediatos inferiores dentro del área de trabajo de la persona evaluada, y que preferentemente se encuentren subordinados a la o el evaluado. Ambas evaluaciones corresponderán al 30 % del presente componente;
-
-III. La o el evaluado, realizará su propia autoevaluación a la cual le corresponderá el 20% del valor de este componente.
-
-El total del valor obtenido a partir de los criterios de ponderación anteriormente establecidos, configurarán el 30% del valor total de la Evaluación Anual del Desempeño.
-
-###### Artículo 210°.
-
-La Coordinación del SPDH coordinará la entrega de las cédulas a las personas que realizarán la evaluación respectiva que contengan los comportamientos determinados en el Acuerdo del Desempeño para la evaluación de cada persona, dentro de los primeros veinte días hábiles del mes de enero del año posterior al que se evalúa.
-
-###### Artículo 211°.
-
-El puntaje final obtenido tendrá las siguientes equivalencias:
-
-90-100. Excepcional. El desempeño excede significativamente los criterios establecidos;
-
-80-89. Muy Bien. El desempeño satisface los criterios establecidos y en ocasiones los supera;
-
-70-79. Bien. El desempeño cumple con los criterios establecidos;
-
-60-69. Regular. El desempeño cumple con algunos pero no con todos los criterios establecidos. Requiere control y supervisión para alcanzar el nivel de desempeño previsto;
-
-0-59. No Satisfactorio. El desempeño consistentemente falla en alcanzar los requerimientos mínimos. La o el Integrante del Servicio carece de las habilidades o está por debajo al utilizar las habilidades necesarias.
-
-###### Artículo 212°.
-
-Las y los evaluados y las y los evaluadores, tienen la obligación de reunirse a un ejercicio de retroalimentación dentro de los meses de junio y agosto, así como entre noviembre y diciembre del año que se evalúa con la finalidad de revisar el grado de cumplimiento del Acuerdo del Desempeño, y en casos debidamente justificados, proceder a su modificación de conformidad con las disposiciones del presente Estatuto.
-
-La realización de este ejercicio no tiene por objeto la determinación de una calificación anticipada, sino solamente analizar el grado de cumplimiento del Acuerdo del Desempeño.
-
-###### Artículo 213°.
-
-Cuando así lo exijan las necesidades del Servicio, y tomando en cuenta el visto bueno de la o el titular del órgano y área de apoyo, las y los evaluadores y evaluados podrán proceder de manera anticipada a la revisión del Acuerdo del Desempeño, y en su caso, de común acuerdo, proceder a su modificación, cumpliendo para tal efecto todas las disposiciones aplicables a la suscripción de los mismos, de conformidad con las disposiciones contenidas en el presente Estatuto así como en las demás disposiciones aplicables.
-
-En este supuesto, el nuevo Acuerdo del Desempeño deberá considerar las metas que se encuentren en proceso, o bien aquellas que se hayan concluido, para ser incorporadas en la evaluación anual de la o el Integrante del Servicio.
-
-###### Artículo 214°.
-
-La o el titular del órgano o área de apoyo de la Comisión, deberá notificar a la Coordinación del SPDH sobre la vigencia del nuevo Acuerdo, dentro de los quince días hábiles siguientes a su suscripción.
-
-###### Artículo 215°.
-
-La acreditación de la Evaluación del Desempeño es un elemento indispensable para la permanencia del Personal Profesional.
-
-El Personal Profesional deberá aprobar la Evaluación Anual del Desempeño con un mínimo de 60 puntos, en una escala de 0 a 100. La o el Integrante del Servicio que no logre obtener la calificación mínima aprobatoria será sujeto del procedimiento disciplinario.
-
-La misma sanción se aplicará a la o el Integrante del Servicio que durante dos años seguidos obtenga una calificación mayor de 60 puntos pero menor de 70 en una escala de 0 a 100.
-
-Sección 4ª. De los resultados de la Evaluación Anual del Desempeño
-
-###### Artículo 216°.
-
-El procesamiento de los resultados correspondientes a la Evaluación Anual del Desempeño se realizará con base en las siguientes reglas:
-
-I. La Coordinación del SPDH obtendrá los resultados del desempeño de cada Integrante del Servicio, con el propósito de integrarlos a los expedientes personales, a partir de la cédula de evaluación que proporcionará a las y los evaluadores;
-
-II. La cédula de evaluación deberá ser remitida a la Coordinación del SPDH una vez que haya sido requisitada y firmada tanto por las y los evaluados como por las y los evaluadores y las y los titulares; ello sin perjuicio de obtenerla de manera electrónica a través de medios informáticos;
-
-III. Las y los titulares de cada órgano o área de apoyo de la Comisión serán los responsables de verificar que en el llenado de la cédula de evaluación individual, cada uno de los factores se apegue a los criterios, procedimientos y características establecidas en la metodología de la Evaluación Anual del Desempeño del Personal Profesional aprobada por el Consejo;
-
-IV. La Coordinación del SPDH recabará las cédulas de evaluación que se hayan aplicado y determinará, a partir éstas, las calificaciones correspondientes a cada factor de evaluación, así como la calificación final de cada Integrante del Servicio;
-
-V. La Coordinación del SPDH entregará por escrito al Personal Profesional las calificaciones finales detalladas por cada factor evaluado, procurando que esto ocurra antes de la finalización del primer trimestre del año posterior al evaluado, sin que ello exceda del segundo trimestre del año.
-
-###### Artículo 217°.
-
-En caso de que una o un Integrante del Servicio realice aportaciones institucionales extraordinarias, se le otorgará un 10% adicional a la calificación final que hubiese obtenido, siempre y cuando cumpla con los requisitos siguientes:
-
-I. Que haya obtenido como mínimo una calificación equivalente a Muy bien. (80-89);
-
-II. Que la actividad o meta realizada no se encuentre contemplada en algún otro rubro de evaluación; y
-
-III. Que la actividad cumpla con los requisitos de calidad, y que haya aportado beneficios verificables, en los mismos términos que cualquier meta establecida en el Acuerdo del Desempeño.
-
-Esta circunstancia será valorada y decidida en definitiva por la Coordinación del SPDH tomando en consideración la opinión del Grupo de Trabajo Permanente del SPDH, así como del titular del área de la persona evaluada.
-
-###### Artículo 218°.
-
-El proceso de Evaluación del Desempeño generará información a la Coordinación del SPDH, a la o el Presidente y al Consejo para:
-
-I. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado del Personal Profesional, los cuales serán establecidos por la Coordinación del SPDH en acuerdo con el Presidente;
-
-II. Aportar información para mejorar el desempeño general de la Comisión en el cumplimiento de cada uno de los programas institucionales;
+II. Mejorar el desempeño general de la Comisión en el cumplimiento de cada uno de los programas institucionales;
 
 III. Determinar la titularidad de una o un Integrante del Servicio;
 
 IV. Servir como instrumento para detectar necesidades de capacitación y formación;
 
-V. Identificar medidas institucionales correctivas, de conformidad con las necesidades del Servicio; y/u
+V. Identificar medidas institucionales correctivas, de conformidad con las necesidades del Servicio; y/o
 
-VI. Otros fines institucionales.
+VI. Atender otras prioridades institucionales.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 183º.
+
+La Evaluación del Desempeño abarcará el periodo comprendido entre el 1 de enero y el 31 de diciembre de cada año.
+
+Excepcionalmente, y sólo por circunstancias previstas en el presente Estatuto y en la normativa aplicable, el período antes referido podrá ser menor.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 184º.
+
+Para ser sujeto de la Evaluación del Desempeño, el Personal Profesional deberá haberse desempeñado como mínimo 3 meses en el mismo cargo o puesto durante el ejercicio que se evalúa, de conformidad con el presente Estatuto y la Metodología aplicable.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 185º.
+
+Las equivalencias correspondientes a la Evaluación final del Desempeño se especificarán en la Metodología aplicable
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 186º.
+
+La acreditación de la Evaluación del Desempeño es un elemento indispensable para la permanencia del Personal Profesional.
+
+El Personal Profesional deberá aprobar la Evaluación del Desempeño con un mínimo de 60 puntos, en una escala de 0 a 100. La o el Integrante del Servicio que no logre obtener la calificación mínima aprobatoria será sujeto del procedimiento disciplinario establecido en el presente Estatuto.
+
+El mismo procedimiento disciplinario se aplicará a la o el Integrante del Servicio que durante dos años seguidos obtenga una calificación menor a 70 puntos en una escala de 0 a 100.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 186° bis. En caso de que una o un Integrante del Servicio realice aportaciones institucionales extraordinarias, se le otorgará un 10% adicional a la calificación final que hubiese obtenido en la Evaluación del Desempeño, según las disposiciones establecidas en la Metodología aplicable.
+
+###### Artículo 187º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 188º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 189º.
+
+El proceso de seguimiento al cumplimiento de metas mediante los instrumentos de verificación, se ajustará a lo establecido en la Metodología aprobada por el Consejo.
+
+###### Artículo 190º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 191º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+Sección 2ª. De los Acuerdos del Desempeño
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 192º.
+
+El Acuerdo de Desempeño es la base de la evaluación y el instrumento en el cual se suscriben las metas y los compromisos de las y los integrantes del Servicio Profesional convenidos en conjunto con su evaluador(a) de acuerdo con lo establecido en la Metodología aplicable.
+
+Tendrá vigencia durante el año de su aplicación, no obstante podrá ser modificado de común acuerdo por la persona evaluada, la evaluadora y la o el titular del área, de conformidad con las disposiciones del presente Estatuto.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 193º.
+
+Con el propósito de asegurar la certeza en el proceso, las y los integrantes del Servicio deberán elaborar un Acuerdo de Desempeño, cuyos elementos y requisitos que debe contener se establecerán en la Metodología aprobada por el Consejo.
+
+###### Artículo 194º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 195º.
+
+La Coordinación del SPDH será la responsable de coordinar la elaboración y entrega de los Acuerdos del Desempeño con los órganos y áreas de apoyo de la Comisión que tengan bajo su adscripción Integrantes del Servicio; así como de concentrar y resguardar tales acuerdos.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 196°.
+
+Con el objeto de asegurar la validez y congruencia del Acuerdo del Desempeño en relación con los objetivos estratégicos de cada área, las y los Titulares serán responsables de aprobar cada uno de los acuerdos de las y los Integrantes del Servicio a su cargo, y entregarlos conforme a lo establecido en la Metodología aplicable.
+
+###### Artículo 197º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 198º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 199º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+Apartado A. De la metodología para la elaboración de los Acuerdos del Desempeño
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 200º.
+
+Los criterios de evaluación de la Gestión del Desempeño se precisarán en la Metodología aprobada por el Consejo.
+
+###### Artículo 201º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 202º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 203º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 204º.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 205°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 206°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+Sección 3ª. De la implementación de la Evaluación del Desempeño
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 207°.
+
+La Evaluación del Desempeño se realizará conforme a lo dispuesto en el presente Estatuto así como en la Metodología aplicable.
+
+###### Artículo 208°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 209°.
+
+La Coordinación del SPDH entregará por escrito al Personal Profesional las calificaciones finales, procurando que esto ocurra antes de la finalización del primer trimestre del año posterior al ejercicio evaluado, sin que ello exceda del segundo trimestre del (sic) tal año.
+
+###### Artículo 210°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 211°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 212°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 213°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 214°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 215°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Sección 4ª.
+
+###### Artículo 216°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 217°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
+
+###### Artículo 218°.
+
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2012)
 
 Sección 5ª. De la solicitud de Reconsideración de resultados de la Evaluación Anual del Desempeño
 
@@ -2511,3 +2481,9 @@ Luis A. González Placencia.
 Presidente de la Comisión de Derechos Humanos del Distrito Federal
 
 México, Distrito Federal a 23 de junio de 2011.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE NOVIEMBRE DE 2012.
+
+UNICO. A fin de garantizar la continuidad en el servicio que presta la Comisión respecto de los puestos vacantes que se sujetarán al próximo concurso de oposición, el criterio aprobado para la ampliación del plazo máximo para el otorgamiento de nombramientos eventuales a que hace referencia la reforma del artículo 44º del Estatuto, se podrá aplicar por única ocasión a los casos en los que, previo a la vigencia de la presente reforma hayan completado un plazo de dos años con nombramiento eventual.
