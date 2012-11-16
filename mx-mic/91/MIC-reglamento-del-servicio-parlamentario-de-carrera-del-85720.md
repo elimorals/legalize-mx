@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-servicio-parlamentario-de-carrera-del-85720"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-25"
-last_updated: "2012-01-25"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DEL SERVICIO PARLAMENTARIO DE CARRERA DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO LEGISLATIVO NÚMERO 19, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 25 de enero de 2012.
 
@@ -940,3 +942,19 @@ TERCER SECRETARIO
 DIP. JUAN MANUEL MACEDO NEGRETE
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo previsto en el artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Régimen Interno y Prácticas Parlamentarias, presentará al Pleno, en un término no mayor a sesenta días, las adecuaciones a los reglamentos internos de los órganos técnicos y administrativos del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
