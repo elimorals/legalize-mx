@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-10-26"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2113,13 +2113,15 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de éste, tuberías para riego, cableado para el aprovechamiento de energía eléctrica o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, o cualesquiera otro artículo destinado al aprovechamiento agropecuario, pesquero o acuícola.
 
 En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 201 TER.- Tipo y punibilidad.- A quien se apodere o sustraiga sin derecho y sin consentimiento de la persona que pueda disponer de él, cableado de energía eléctrica derivado del material de cobre, o algún otro metal utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de energía eléctrica y gas, así como equipamiento industrial y de la construcción de obras, se impondrá de uno a cinco años de prisión y de cincuenta hasta doscientos días multa.
 
 ###### Artículo 202.
 
@@ -4898,3 +4900,7 @@ P.O. 19 DE OCTUBRE DE 2012.
 P.O. 26 DE OCTUBRE DE 2012.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
