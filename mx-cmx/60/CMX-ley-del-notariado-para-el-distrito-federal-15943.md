@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2012-07-23"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -84,7 +84,9 @@ X. "Colegio": El Colegio de Notarios del Distrito Federal, A. C.;
 
 XI. Comisión de Arbitraje, Legalidad y Justicia: La Comisión de Arbitraje, Legalidad y Justicia del Colegio designada por su Junta de Decanos;
 
-XII. "Comisión de Notariado": Comisión de Notariado de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+XII. Comisión Registral y Notarial: Comisión Registral y Notarial de la Asamblea Legislativa del Distrito Federal;
 
 XIII. "Consejo": El Consejo del Colegio de Notarios del Distrito Federal, A.C.;
 
@@ -122,7 +124,9 @@ XXIII. “Firma Electrónica Notarial”: “Firma Electrónica Notarial”: (si
 
 En el Distrito Federal corresponde al Notariado el ejercicio de la función notarial, de conformidad con el artículo 122 de la Constitución.
 
-El Notariado es una garantía institucional que la Constitución establece para la Ciudad de México, a través de la reserva y determinación de facultades de la Asamblea y es tarea de esta regularla y efectuar sobre ella una supervisión legislativa por medio de su Comisión de Notariado.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+El Notariado es una garantía institucional que la Constitución establece para la Ciudad de México, a través de la reserva y determinación de facultades de la Asamblea y es tarea de ésta regularla y efectuar sobre ella una supervisión legislativa por medio de su Comisión Registral y Notarial.
 
 El Notariado como garantía institucional consiste en el sistema que, en el marco del notariado latino, esta ley organiza la función del notario como un tipo de ejercicio profesional del Derecho y establece las condiciones necesarias para su correcto ejercicio imparcial, calificado, colegiado y libre, en términos de Ley.
 
@@ -2835,3 +2839,11 @@ Primero.- Aquellos testamentos públicos cerrados, públicos simplificados, oló
 Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 16 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Las reformas a la Ley Orgánica y al Reglamento Interior de las Comisiones, ambos de la Asamblea Legislativa del Distrito Federal entrarán en vigor al momento de su aprobación por el Pleno de la Asamblea.
+
+SEGUNDO.- Las reformas mencionadas a la Ley del Notariado entrarán en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
