@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-de-comercio-34316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2010-09-23"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-10-22"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO
 
-REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO
+REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 24 de octubre de 2003.
 
@@ -33,7 +33,7 @@ REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -115,7 +115,7 @@ Efectuada la recepción de la forma precodificada respectiva el Registro a trav�
 
 Para efecto de lo dispuesto por la fracción II inciso b) del artículo 21 bis del Código de Comercio, la fase de análisis comprende la revisión de la forma precodificada de un acto mercantil inscribible en el Registro, verificación de la existencia o inexistencia de antecedentes registrales y, en su caso, su captura y preinscripción de dicha información a la base de datos ubicada en la entidad federativa. Esta fase está a cargo del analista cuando se presenta físicamente la forma precodificada acompañada del medio magnético que la contiene, o por el notario o corredor público, en el caso de que haya sido enviada por medios electrónicos a través del SIGER.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -127,7 +127,7 @@ Tratándose de la presentación física, el responsable de oficina o el registra
 
 En caso de que persistan los defectos u omisiones previstos en el artículo 31 del Código de Comercio, previa fundamentación y motivación, procederá el responsable de oficina o el registrador, en su caso, a la suspensión o denegación en términos del artículo 18 de este Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -143,7 +143,7 @@ III. La forma precodificada enviada en términos de este artículo se inscribir�
 
 IV. El notario o corredor público que haya realizado dicho trámite, podrá descargar a través del SIGER la boleta de inscripción correspondiente, la cual contendrá un sello digital de tiempo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -219,7 +219,7 @@ Para tal efecto, la Secretaría impulsará la vinculación por medios electróni
 
 ### Capítulo III. De las consultas y certificaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -245,7 +245,7 @@ Para efecto de lo anterior, se deberá identificar plenamente al usuario que sol
 
 Dichas consultas podrán efectuarse directamente en las oficinas del Registro o a través del SIGER.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -253,7 +253,7 @@ Dichas consultas podrán efectuarse directamente en las oficinas del Registro o 
 
 Para efecto de lo dispuesto en el último párrafo del artículo 30 del Código de Comercio, la solicitud de certificación podrá hacerse directamente en las oficinas del Registro o vía remota por medios electrónicos a través del SIGER.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -301,13 +301,13 @@ Para efecto de lo dispuesto por el artículo 20 del Código de Comercio, en los 
 
 Sólo en caso de que exista discrepancia, el Registrador Mercantil emitirá la certificación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ### Capítulo V. Del Registro Único de Garantías Mobiliarias
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -319,7 +319,7 @@ La Secretaría permitirá que el Sistema esté disponible al público todos los 
 
 Para efectos del presente capítulo, el Asiento es la inscripción de una Garantía Mobiliaria, su modificación, transmisión, renovación, rectificación, cancelación, así como los avisos preventivos y las anotaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -331,19 +331,25 @@ La información generada, enviada, recibida o archivada en el RUG a través de m
 
 La Secretaría no tendrá obligación de calificar ni revisar los Asientos que se realicen en el RUG para determinar si son válidos, si es procedente su registro o si fueron autorizados por las partes involucradas o mencionadas en los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 30 Bis 1.
 
-Los Asientos se llevarán a cabo en el folio electrónico del Otorgante. Para efectos del artículo 21, fracción XX del Código de Comercio, se entiende que el folio electrónico antes referido es el que reside en la base de datos nacional del RUG prevista en el artículo 32 Bis 3 del Código de Comercio. En caso de que el Otorgante sea una persona física que no se encuentre matriculada en el Registro, el Sistema la matriculará de oficio para efectos del RUG en la base de datos nacional del RUG.
+Los Asientos se llevarán a cabo en el folio electrónico del Otorgante. Para efectos del artículo 21, fracción XX del Código de Comercio, se entiende que el folio electrónico antes referido es el que reside en la base de datos nacional del RUG, prevista en el artículo 32 Bis 3 del Código de Comercio. En caso de que el Otorgante sea una persona física o moral que no se encuentre matriculada en el Registro, el Sistema generará de oficio su folio para efectos del RUG, el cual residirá en la base de datos nacional del RUG.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 Los Asientos quedarán realizados en el momento en el que sean firmados electrónicamente por quien los realiza, cuya fecha y hora quedará establecida en el sello digital de tiempo contenido en la boleta que emita el Sistema.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 Toda consulta y solicitud de certificación de una Garantía Mobiliaria inscrita en el RUG deberá llevarse a cabo exclusivamente conforme al artículo 34 de este Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -351,7 +357,7 @@ Toda consulta y solicitud de certificación de una Garantía Mobiliaria inscrita
 
 La Secretaría emitirá los lineamientos que establecerán, entre otros, los mecanismos de seguridad para salvaguardar la integridad de la información y los medios de identificación que utilicen las personas autorizadas para llevar a cabo Asientos, así como los demás elementos necesarios para la adecuada operación del RUG.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -359,7 +365,7 @@ La Secretaría emitirá los lineamientos que establecerán, entre otros, los mec
 
 Las garantías mobiliarias inscritas en términos del presente Reglamento, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -369,7 +375,7 @@ En caso de Garantías Mobiliarias que sean susceptibles de inscripción en un re
 
 La Secretaría emitirá lineamientos que establezcan la forma en que operará la réplica referida en el párrafo anterior, las reglas de operación de dicha réplica y los aspectos de seguridad informática para la transmisión y uso de la información. Las etapas y los plazos para la implementación de la réplica, así como cualquier otro aspecto relacionado con la misma, se establecerán mediante convenios de colaboración a ser celebrados entre la Secretaría y las dependencias y entidades de la Administración Pública Federal responsables de los registros especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -413,7 +419,7 @@ VIII. Derechos, incluyendo derechos de cobro, y
 
 IX. Otros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -423,7 +429,7 @@ Para que proceda un Asiento en el RUG deberá cumplimentarse toda la informació
 
 Siempre que deban ser inscritos instrumentos jurídicos, se entenderá que los mismos quedan inscritos en el RUG mediante el llenado de la información sobre los mismos que requieren las pantallas del Sistema y la generación del Asiento correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -469,7 +475,7 @@ b. Fedatarios públicos, y
 
 c. Personas autorizadas por la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -481,7 +487,7 @@ La Secretaría expedirá los certificados digitales para que los jueces, servido
 
 Asimismo, la Secretaría reconocerá los certificados digitales generados por otras autoridades certificadoras en favor de Acreedores, entidades financieras en su calidad de Acreedores y personas autorizadas por éstos en el Sistema, siempre y cuando, a su juicio, presenten un grado de confiabilidad y cumplan con las medidas de seguridad suficientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -503,7 +509,7 @@ VI. La vigencia de la inscripción, y
 
 VII. La demás que se establezca en las formas precodificadas previstas en el artículo 33 de este Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -513,7 +519,7 @@ Los usuarios facultados para realizar inscripciones podrán presentar avisos pre
 
 A partir de que sea presentado un aviso preventivo, ningún Asiento que conste en el mismo folio del Otorgante le será oponible al Acreedor que haya realizado la inscripción dentro del plazo de quince días naturales improrrogables, siempre y cuando dicha inscripción se realice respecto de los mismos bienes muebles descritos indubitablemente en el aviso preventivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -541,7 +547,7 @@ VIII. Número de la Garantía Mobiliaria, que le haya asignado el Sistema, y
 
 IX. Los Asientos de Garantías Mobiliarias vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -631,7 +637,7 @@ En los supuestos de aquellas oficinas que se ubiquen en entidades federativas qu
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 23 DE SEPTIEMBRE DE 2010.
 
@@ -658,3 +664,7 @@ La Secretaría de Economía y las dependencias y entidades de la Administración
 En tanto no inicien las réplicas, no será necesaria la inscripción en el Registro Único de Garantías Mobiliarias de una garantía mobiliaria inscrita en un registro especial en los términos de las leyes aplicables.
 
 SEXTO. La Secretaría de Economía realizará las acciones necesarias para que la implementación del presente Decreto se realice con cargo a su presupuesto modificado autorizado para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para dicho propósito.
+
+D.O.F. 16 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
