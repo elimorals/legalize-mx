@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2012-05-18"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -80,11 +80,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar (sic) para toda la Legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
+Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Registral y Notarial; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -751,3 +751,11 @@ DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 19 BIS Y 63 BIS DEL REGLAMENTO IN
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 16 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Las reformas a la Ley Orgánica y al Reglamento Interior de las Comisiones, ambos de la Asamblea Legislativa del Distrito Federal entrarán en vigor al momento de su aprobación por el Pleno de la Asamblea.
+
+SEGUNDO.- Las reformas mencionadas a la Ley del Notariado entrarán en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
