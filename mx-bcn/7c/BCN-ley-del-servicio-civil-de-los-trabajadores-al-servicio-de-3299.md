@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2006-08-25"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -959,6 +959,10 @@ El presidente del tribunal deberá ser licenciado en derecho.
 
 El tribunal contara con un secretario general de acuerdos, los secretarios actuarios y el personal que sea necesario. Los secretarios y actuarios así como los empleados del tribunal estarán sujetos a la presente Ley. Pero los conflictos que se susciten con su relación laboral serán resueltos por las autoridades locales del trabajo.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+Para los juicios que se presenten en contra de las Instituciones Públicas que tienen jurisdicción en los municipios de Ensenada, Tecate, Tijuana y Rosarito, el tribunal contará con una Sala Especial en la ciudad de Tijuana Baja California, para su debida tramitación, misma que contará con un Presidente Auxiliar para tramites en la sala Especial, un Secretario Auxiliar del Secretario de Acuerdos, que cuente con fe pública, los secretarios actuarios y el personal que sea necesario.
+
 ###### ARTICULO 106.
 
 El tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley.
@@ -1139,7 +1143,7 @@ II.- El señalamiento de los hechos controvertidos y de los aceptados por las pa
 
 III.- Una enumeración de las pruebas rendidas y su apreciación en conciencia, señalando los hechos que deban considerarse probados; y
 
-IV.- Las concluciones que se deduzcan de lo alegado y probado.
+IV.- Las concluciones (sic) que se deduzcan de lo alegado y probado.
 
 ###### ARTICULO 131.
 
@@ -1291,11 +1295,11 @@ En el caso de las Instituciones Descentralizadas la atención de Seguridad Socia
 
 Si llegase a ocurrir que los recursos de ISSSTECALI no bastaren para cumplir con las obligaciones a su cargo, se actuará de acuerdo con lo contemplado en las disposiciones legales vigentes.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
 
 ## TITULO DECIMO PRIMERO. DE LOS TRABAJADORES DE LA EDUCACION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 153.
 
@@ -1333,13 +1337,13 @@ Asimismo, los trabajadores al Servicio de la Educación, que tengan una antigüe
 
 adelante, 137.5% sobre 20 días hábiles.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
 
 ## TITULO DECIMO SEGUNDO
 
 DE LAS RELACIONES LABORALES ENTRE EL ESTADO Y LOS TRABAJADORES TRANSFERIDOS POR LA FEDERACIÓN.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 156.
 
@@ -1401,7 +1405,7 @@ DR. ARTURO GUERRA FLORES.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 11 DE DICIEMBRE DE 1992.
 
@@ -1436,3 +1440,11 @@ P.O. 11 DE AGOSTO DE 2006.
 P.O. 25 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 1 de enero del año 2007.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en la presente reforma, serán aplicables también, a los asuntos que estén en trámite o pendientes por resolverse, en instancias jurisdiccionales. Lo anterior, fundado en el artículo 14 de la Constitución Federal, relativo a los principios de retroactividad de la ley.
+
+TERCERO.- El Congreso del Estado deberá tomar las medidas presupuestarias necesarias para la creación de una sala especial en el municipio de Tijuana para que entre en funciones en el año 2013.
