@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-10-19"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1559,9 +1559,11 @@ II.- Violación, prevista en el artículo 176, así como su modalidad agravada c
 
 III.- Secuestro, previsto por los artículos 164, 164 bis fracción I y 165 de (sic) Código Penal;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Los previstos en los artículos 203, 208 fracciones I y II, 208 bis párrafo segundo y el artículo 229 tratándose de conductas cometidas de manera dolosa, así como los artículos 251 y 279 del Código Penal; si empre y cuando todos éstos delitos sean cometidos con medios violentos como armas y explosivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Los previstos en los artículos 201 TER, 203, 208 fracciones I y II, 208 bis párrafo segundo y el artículo 229 tratándose de conductas cometidas de manera dolosa, así como los artículos 251 y 279 del Código Penal; siempre y cuando todos éstos delitos sean cometidos con medios violentos como armas y explosivos.
 
 V.- Contra el libre desarrollo de la personalidad, previstos en los artículos 261 párrafo segundo, 262, 262 ter, 264 y 265 del Código Penal.
 
@@ -2695,11 +2697,11 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGUO PÁRRAFO 3ro. FORMA PARTE DEL ACTUAL PÁRRAFO 2do.]</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el Juez o el Ministerio Público imponer a quien no los entregue los medios de apremio permitidos para el testigo que rehúsa declarar; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos. En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente de la policía ministerial. En los casos urgentes, esta medida podrá delegarse por orden de Ministerio Público, bajo su estricta responsabilidad, en un agente policial.
+Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el Juez o el Ministerio Público imponer a quien no los entregue los medios de apremio permitidos para el testigo que rehúsa declarar; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos. En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente de la policía ministerial.
 
 ###### Artículo 249.
 
@@ -3547,7 +3549,7 @@ IV. Cuando esté previsto específicamente en este Código o en otra Ley.
 
 V. Cuando el Tribunal estime que existen razones fundadas para justificarlo.
 
-La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
+La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando, de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
 
 El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este artículo o cuando se limite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
@@ -4978,3 +4980,7 @@ DECRETO No. 289, SEGUNDO: SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 281 BIS, 281 
 P.O. 19 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los Municipios, será en términos de lo dispuesto por las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial del Estado.
