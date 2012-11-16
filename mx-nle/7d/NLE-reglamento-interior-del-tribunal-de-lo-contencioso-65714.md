@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-lo-contencioso-65714"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-19"
-last_updated: "2010-11-10"
+last_updated: "2012-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON
+REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de diciembre de 2008.
 
@@ -572,3 +574,13 @@ La adición del Reglamento Interior del Tribunal de lo Contencioso Administrativ
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan a la citada adición.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, publicado en la Tercera Sesión Extraordinaria, celebrada el 29 de Septiembre de 1997.
