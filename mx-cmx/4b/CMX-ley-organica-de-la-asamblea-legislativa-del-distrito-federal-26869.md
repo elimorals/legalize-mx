@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2012-05-18"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -504,11 +504,11 @@ I.- Abrir, convocar y clausurar las sesiones del Pleno de la Asamblea, así como
 
 II.- Adoptar las decisiones y medidas que se requieran para la organización del trabajo de las sesiones del Pleno, de conformidad con la presente Ley, el Reglamento para el Gobierno Interior de la Asamblea Legislativa y/o la práctica parlamentaria desarrollada en la Asamblea Legislativa;
 
-> <small>(REFORMADA, G.O.18 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
 III.- Programar consultando con la Comisión de Gobierno, el desarrollo general de las sesiones;
 
-> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 IV.- Elaborar, conjuntamente con la Comisión de Gobierno, el orden del día de las sesiones;
 
@@ -606,7 +606,7 @@ La Comisión de Gobierno es el órgano interno de gobierno permanente y expresi�
 
 La Comisión de Gobierno estará integrada por los coordinadores de cada uno de los Grupos Parlamentarios, más otros tantos Diputados del grupo con mayoría absoluta en la Asamblea Legislativa del Distrito Federal.
 
-> <small>(REFORMADO, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 De no darse el supuesto anterior de mayoría absoluta por alguno de los Grupos Parlamentarios, la Comisión de Gobierno se integrará por Diputados de cada uno de los Grupos Parlamentarios, incluyendo al Coordinador, observando la proporcionalidad de éstos y garantizando la gobernabilidad del órgano.
 
@@ -676,7 +676,7 @@ XI.- Acordar la celebración de sesiones públicas y elaborar la agenda de los a
 
 XII.- Consultar con el Presidente de la Mesa Directiva, la programación de los trabajos de los periodos de sesiones;
 
-> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XIII.- Recibir, durante los recesos, las iniciativas de ley dirigidas a la Asamblea y turnarlas a las comisiones correspondientes, a fin de que se discutan y aprueben, en su caso, en el inmediato periodo de sesiones;
 
@@ -858,7 +858,7 @@ XIV.- Durante los recesos, conocer cuando los Diputados sean separados de su enc
 
 XV. Durante los recesos, previo dictamen de las Comisiones de Administración y Procuración de Justicia y de Asuntos Político-Electorales y con la deliberación de la Comisión de Gobierno, aprobará y ratificará provisionalmente a los ciudadanos y Magistrados del Tribunal Electoral del Distrito Federal, según corresponda, dentro de los quince días siguientes a que se reciban los documentos a que se refiere el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal; así como por el Capítulo II del Título Quinto de este ordenamiento, y los someterá al Pleno para su aprobación o ratificación definitiva;
 
-> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XVI.- Aprobar las prórrogas que le soliciten las comisiones dictaminadoras y rectificación de turnos de los asuntos que sean de su competencia;
 
@@ -1012,9 +1012,9 @@ XX.- Juventud y Deporte;
 
 XXI.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-XXII.- Notariado;
+XXII.- Registral y Notarial.
 
 > <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
@@ -1903,3 +1903,11 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY ORGÁNICA DE LA ASAMBLEA
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 16 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Las reformas a la Ley Orgánica y al Reglamento Interior de las Comisiones, ambos de la Asamblea Legislativa del Distrito Federal entrarán en vigor al momento de su aprobación por el Pleno de la Asamblea.
+
+SEGUNDO.- Las reformas mencionadas a la Ley del Notariado entrarán en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
