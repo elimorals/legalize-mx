@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2012-07-13"
+last_updated: "2012-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1375,7 +1375,11 @@ VIII. La revisión de los dictámenes, de las demás comisiones, cuando así se 
 
 IX. La solicitud de renuncia o licencia de los Diputados para separarse de sus cargos; y,
 
-X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+X. Emitir convocatoria pública, atendiendo a las necesidades de personal técnico especializado y a la capacidad presupuestaria del Congreso, para ocupar la titularidad de investigadores dentro de las diferentes categorías existentes.
+
+XI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 91.
 
@@ -1509,7 +1513,7 @@ V. Presentar al Pleno para su conocimiento el proyecto de inversión del Fondo p
 
 VI. Supervisar el ejercicio del Presupuesto de Egresos del Poder Legislativo aprobado;
 
-VII. Planear, organizar y dirigir el Servicio Parlamentario de Carrera para el Congreso del Estado, a través de un Secretario Permanente, en los términos de la presente Ley;
+VII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2012)
 
 VIII. Rendir informe trimestral al Pleno con los estados financieros sobre el ejercicio del presupuesto del Poder Legislativo;
 
@@ -1677,9 +1681,11 @@ Los titulares de las coordinaciones mencionadas, rendirán informe semestral de 
 
 La Secretaría de Servicios Parlamentarios es el órgano, que en el ámbito de la Mesa Directiva con la colaboración de la Comisión de Régimen Interno y Prácticas Parlamentarias, se encarga de la coordinación y supervisión técnica de asesoría, orientación y apoyo a las tareas legislativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 109.
 
-La Secretaría de Servicios Parlamentarios se integra con funcionarios de carrera y cuenta con facultades para la prestación de los servicios siguientes:
+La Secretaría de Servicios Parlamentarios, prestará los servicios siguientes:
 
 I. De asistencia técnica: a la Mesa en comunicaciones y correspondencia, turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con el fuero de los legisladores; y, registro biográfico de los integrantes de la legislatura;
 
@@ -1727,13 +1733,17 @@ VIII. Cumplir las demás funciones que le confieren la presente Ley y los ordena
 
 ### CAPÍTULO TERCERO. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 111.
 
-El Congreso contará con una Secretaría de Administración y Finanzas, y como tal, ejecuta las disposiciones ordenadas por el Pleno, así como las acordadas por la Junta, las cuales serán dadas a conocer al Comité de Administración y Control; provee de recursos a las demás unidades administrativas del Congreso, y es el órgano responsable de la aplicación de recursos financieros. Para su desempeño, se integrará con funcionarios de carrera y tendrá las facultades para la prestación de los siguientes servicios:
+El Congreso contará con una Secretaría de Administración y Finanzas, y como tal, ejecuta las disposiciones ordenadas por el Pleno, así como las acordadas por la Junta, las cuales serán dadas a conocer al Comité de Administración y Control; provee de recursos a las demás unidades administrativas del Congreso, es el órgano responsable de la aplicación de recursos financieros y prestará los servicios de:
 
 I. Recursos financieros: comprende la programación y control presupuestal; contabilidad, finanzas y formulación de manuales de organización y procedimientos administrativos;
 
-II. Recursos humanos: que comprende aspectos administrativos del servicio de carrera; selección, contratación, capacitación permanente y evaluación periódica, así como la promoción del personal interno y externo a dicho servicio; nóminas, prestaciones sociales y expedientes laborales; así como la elaboración de la propuesta de política salarial, que deberá proponer al Comité de Administración y Control;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+II. Recursos humanos: que comprende aspectos administrativos de contratación, capacitación, nóminas; prestaciones sociales y expedientes laborales; así como la elaboración de la propuesta de política salarial, que deberá proponer al Comité de Administración y Control;
 
 III. Recursos materiales y generales: que comprende inventario y mantenimiento de bienes muebles e inmuebles, adquisiciones y servicios generales;
 
@@ -1767,9 +1777,11 @@ VIII. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos
 
 ### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 113.
 
-Para el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso, hay una Contraloría Interna dependiente de la Junta de Coordinación Política, cuyos funcionarios pertenecerán al Servicio Parlamentario de Carrera, en los términos de esta Ley, y tiene las siguientes atribuciones:
+Para el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso, hay una Contraloría Interna dependiente de la Junta de Coordinación Política, y tiene las siguientes atribuciones:
 
 I. Realizar la auditoría interna del ejercicio del presupuesto de egresos del Congreso, de conformidad a lo establecido en el programa anual de control, evaluación y auditorías que apruebe el Pleno en el mes de enero de cada año;
 
@@ -1955,7 +1967,7 @@ V. Coordinar las asesorías a las comisiones y comités del Congreso;
 
 VI. Analizar las propuestas de intercambio académico en general;
 
-VII. Opinar sobre los procedimientos y condiciones del servicio parlamentario de carrera del Instituto;
+VII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2012)
 
 VIII. Acordar la realización de estudios sobre el Congreso del Estado y la coordinación interinstitucional para el mismo fin;
 
@@ -1969,737 +1981,381 @@ Los investigadores en general estarán sujetos a un programa individual anual de
 
 ###### ARTÍCULO 130.
 
-Los concursos de oposición serán convocados, atendiendo a las propias necesidades de investigación y asesoría del Congreso, se integrará para este fin un grupo de especialistas en investigación para su realización y sus resultados serán públicos y tendrán como objetivo incorporar a los investigadores titulares dentro de las diferentes categorías.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 131.
 
-Todo el personal del Instituto estará sujeto al servicio parlamentario de carrera, determinado por el propio Congreso para sus condiciones de ingreso, permanencia y egreso.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL SERVICIO PARLAMENTARIO DE CARRERA
 
 ###### ARTÍCULO 132.
 
-Para el ejercicio de sus funciones los diputados al Congreso del Estado de Michoacán de Ocampo se auxiliarán de los siguientes servidores públicos:
-
-a) Servidores de Libre Designación que exclusivamente desempeñaran cargos dentro de los Gabinetes de Apoyo de los propios legisladores; y,
-
-b) Servidores Parlamentarios de Carrera que desempeñaran los cargos técnicos profesionales de las estructuras orgánicas ocupacionales.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 133.
 
-Los Gabinetes de Apoyo son las unidades administrativas adscritas a los Diputados así como a los grupos parlamentarios para desempeñar un cargo o comisión como secretarios particulares, asesores legislativos, coordinadores de gestión y servicios de apoyo general de cualquier nivel de conformidad con el presupuesto autorizado.
-
-Los funcionarios que formen parte de los Gabinetes de Apoyo serán nombrados y removidos libremente por el diputado o el Grupo parlamentario a quienes estén adscritos.
-
-Las estructuras de los Gabinetes de Apoyo deberán ser autorizadas por la Junta de Coordinación Política, considerando la capacidad presupuestal del Congreso.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 134.
 
-Los funcionarios de libre designación, sólo podrán desempeñar labores dentro de los Gabinetes de Apoyo.
-
-Queda prohibido a los funcionarios de libre designación, el ejercicio laboral de atribuciones que por ley competan a los Servidores Parlamentarios de Carrera.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 135.
 
-El Servicio Parlamentario de Carrera, es el cuerpo de funcionarios del Congreso del Estado a quienes les corresponde llevar a cabo la gestión de la Legislatura, en el ámbito de sus competencias.
-
-El Servicio depende del Comité de Administración y Control, el cual lo administrará a través de un Secretario Permanente, designado por este, de entre los miembros del Servicio, a quien le corresponde la dirección y administración del servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 136.
 
-El Servicio Parlamentario de Carrera tendrá los propósitos siguientes:
-
-I. Garantizar la profesionalización del personal técnico al Servicio del Congreso del Estado;
-
-II. Asegurar el ingreso al Servicio con base en el mérito y en igualdad de oportunidades;
-
-III. Asegurar la capacitación permanente de los Servidores Parlamentarios de Carrera;
-
-IV. Garantizar la Carrera Parlamentaria, a través de las promociones y ascensos, con base en la preparación, la capacidad, el desempeño, la experiencia, la disciplina y la probidad;
-
-V. Fomentar la motivación y la eficacia mediante condiciones laborales adecuadas y estímulos basados en la evaluación del desempeño, previstos en el presupuesto de egresos del Congreso;
-
-VI. Establecer la imparcialidad política dentro del Servicio;
-
-VII. Garantizar la estabilidad y seguridad en el empleo; y,
-
-VIII. Garantizar a los Servidores el ejercicio de los derechos que les reconocen los ordenamientos jurídicos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 137.
 
-Para los efectos del presente Capítulo, se entenderá por:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Servicio: El Servicio Parlamentario de Carrera;
-
-II. Registro: El Registro Único de Servidores Parlamentarios de Carrera;
-
-III. Grados: Los Grados del Servicio;
-
-IV. Estructuras orgánico ocupacionales: El catálogo de funciones y relaciones jerárquicas entre los funcionarios técnicos del Congreso;
-
-V. Servidor Parlamentario de Carrera: Persona física integrante del Servicio Parlamentario de Carrera del Congreso del Estado de Michoacán, que desempeña un cargo de confianza dentro de la legislatura;
-
-VI. Secretario Permanente: es el encargado de dirigir el funcionamiento del Servicio;
-
-VII. Consejo: Consejo Consultivo del Servicio, es una instancia de apoyo del Secretario Permanente, que tiene como propósito hacer recomendaciones generales, opinar sobre los lineamientos, políticas, estrategias y líneas de acción que aseguren y faciliten el desarrollo del Servicio;
-
-VIII. Comités de Selección: Cuerpos colegiados, encargados de operar el Servicio con base en la normatividad que emita el Secretario Permanente para estos efectos; y,
-
-IX. Cuerpos: Los Cuerpos de Servidores Parlamentarios del Congreso del Estado.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN II. DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 ###### ARTÍCULO 138.
 
-Los Servidores Parlamentarios de Carrera, se clasificarán en Servidores Parlamentarios Titulares y Eventuales.
-
-Los Servidores Eventuales, son aquellos que hubieren ingresado al servicio en casos excepcionales o por medio de un convenio.
-
-El Servidor Parlamentario de Carrera, ingresará al Servicio a través de un concurso de selección y sólo podrá ser nombrado y removido, en los casos y bajo los procedimientos previstos por este capítulo.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 139.
 
-El Servicio Parlamentario de Carrera, estará conformado por Cuerpos de Servidores Parlamentarios.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 140.
 
-Los Cuerpos de Servidores del Congreso del Estado son Agrupaciones de Profesionistas que han sido seleccionados para formar parte del Servicio Parlamentario de Carrera, quienes desempeñarán las funciones correspondientes al Grado de categoría en que se encuentren.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 141.
 
-El Congreso del Estado estará conformado por los siguientes cuerpos de Servidores Parlamentarios:
-
-a) Cuerpo de Abogados;
-
-b) Cuerpo de Contadores;
-
-c) Cuerpo de Licenciados en Administración;
-
-d) Cuerpo de Ingenieros;
-
-e) Cuerpo de alguna otra Profesión; y,
-
-f) Cuerpo de auxiliares.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 142.
 
-El Servicio comprenderá los Grados siguientes:
-
-a) Consejero en Jefe;
-
-b) Consejero;
-
-c) Consultor;
-
-d) Primer Secretario;
-
-e) Segundo Secretario; y,
-
-f) Tercer Secretario.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 143.
 
-Los Servidores Parlamentarios de Carrera ocuparán dentro de las Estructuras Orgánico Ocupacionales del Congreso del Estado los Niveles Jerárquicos siguientes:
-
-a) Secretario Permanente;
-
-b) Director General;
-
-c) Director de Área;
-
-d) Analista en Jefe;
-
-e) Analista Especializado; y,
-
-f) Analista.
-
-Los niveles jerárquicos anteriores comprenderán los niveles de adjunto, homólogo o cualquier otro equivalente independientemente de la denominación que se le dé.
-
-Todo cargo de nueva creación en las Estructuras Orgánico Ocupacionales, con funciones equivalentes a las anteriores, deberá estar homologado a los Grados previstos en el presente capítulo, sin importar su denominación.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 144.
 
-Los Servidores Parlamentarios de Carrera podrán ocupar cualquiera de los niveles jerárquicos previstos en el artículo anterior, siempre y cuando tenga el Grado requerido de la siguiente manera:
-
-Para ocupar el cargo de:
-
-a) Secretario Permanente se requerirá tener el Grado de Consejero en Jefe;
-
-b) Director General se requerirá tener el Grado de Consejero;
-
-c) Director de Área se requerirá tener el Grado de Consultor;
-
-d) Analista en Jefe se requerirá tener el Grado de Primer Secretario;
-
-e) Analista Especializado se requerirá tener el Grado de Segundo Secretario; y,
-
-f) Analista se requerirá tener el Grado de Tercer Secretario.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 145.
 
-Los trabajadores de base del Congreso del Estado, tendrán acceso al Servicio Parlamentario de Carrera, sujetándose, en su caso, a los procedimientos de reclutamiento, y selección, previstos en este Capítulo. Para la incorporación al Servicio del trabajador de base, será necesario contar con licencia o haberse separado de la plaza que ocupa, no pudiendo permanecer activo en ambas situaciones.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 146.
 
-El desempeño del Servicio Parlamentario de Carrera será incompatible con el ejercicio de cualquier otro cargo, profesión o actividad que impida o menoscabe el estricto cumplimiento de los deberes del Servidor Parlamentario de Carrera.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN III. DE LA ESTRUCTURA DEL SERVICIO PARLAMENTARIO DE CARRERA
 
 ###### ARTÍCULO 147.
 
-Los Servidores Parlamentarios de Carrera, tendrán los siguientes derechos:
-
-I. Tener estabilidad y permanencia en el Servicio en los términos y bajo las condiciones que prevé este Capítulo;
-
-II. Recibir el nombramiento como Servidor Parlamentario de Carrera una vez cubiertos los requisitos establecidos y aprobados los exámenes correspondientes;
-
-III. Formar parte del Cuerpo de Servidores Parlamentarios, que soliciten se emita la convocatoria;
-
-IV. Percibir las remuneraciones correspondientes a su cargo, además de los beneficios y estímulos que se prevean;
-
-V. Acceder a un nivel jerárquico más elevado, cuando haya cumplido con los requisitos y procedimientos descritos en este ordenamiento;
-
-VI. Recibir capacitación y actualización con carácter profesional para el mejor desempeño de sus funciones;
-
-VII. Ser evaluado con base en los principios rectores de este capítulo y conocer el resultado de los exámenes que haya sustentado, en un plazo no mayor de 60 días;
-
-VIII. Ser evaluado nuevamente previa capacitación correspondiente, cuando en alguna evaluación no haya resultado aprobado, en los términos previstos en el presente capítulo;
-
-IX. Participar en el Comité de Selección cuando se trate de designar a un Servidor Parlamentario en la jerarquía inmediata inferior;
-
-X. Promover los medios de defensa que establece este capítulo, contra las resoluciones emitidas en aplicación del mismo; y,
-
-XI. Las demás que se deriven de los preceptos del presente ordenamiento, de su reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 148.
 
-Son obligaciones de los Servidores Parlamentarios de Carrera:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, imparcialidad, eficiencia y demás que rigen el Servicio;
-
-II. Desempeñar sus labores con cuidado y esmero apropiados, observando las instrucciones que reciban de sus superiores jerárquicos;
-
-III. Participar en las evaluaciones establecidas para su permanencia y desarrollo en el Servicio;
-
-IV. Aportar los elementos objetivos necesarios para la evaluación de los resultados del desempeño;
-
-V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
-
-VI. Guardar reserva de la información, documentación y en general, de los asuntos que conozca;
-
-VII. Asistir puntualmente a sus labores y respetar los horarios de actividades;
-
-VIII. Proporcionar la información y documentación necesarias al funcionario que se designe para suplirlo en sus ausencias temporales o definitivas;
-
-IX. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos del área de trabajo o de las personas que allí se encuentren;
-
-X. Excusarse de conocer asuntos que puedan implicar conflicto de intereses con las funciones que desempeña dentro del Servicio; y,
-
-XI. Las demás que señalen las leyes y disposiciones aplicables.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN IV. DEL SUBSISTEMA DE PLANEACIÓN DE LOS RECURSOS HUMANOS
 
 ###### ARTÍCULO 149.
 
-El Servicio Parlamentario de Carrera comprende los Subsistemas de: Planeación de Recursos Humanos; Ingreso; Desarrollo Profesional; Formación; Evaluación del Desempeño; Separación y, Control y Evaluación, que se precisan a continuación:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Subsistema de Planeación de Recursos Humanos. Determinará las necesidades cuantitativas y cualitativas del personal que requiera el Servicio para el eficiente ejercicio de sus funciones. Además administrará el Registro Único de Servidores Parlamentarios de Carrera;
-
-II. Subsistema de Ingreso. Regulará el proceso de reclutamiento y selección de candidatos, así como los requisitos necesarios para que los aspirantes a primer ingreso se incorporen al Servicio;
-
-III. Subsistema de Desarrollo Profesional. Regulará los procedimientos y requisitos mediante los cuales los Servidores Parlamentarios de Carrera podrán ascender de Grado y/o Nivel Jerárquico;
-
-IV. Subsistema Formación. Establecerá los modelos de profesionalización para los Servidores Parlamentarios, que les permitan adquirir:
-
-a) Los conocimientos básicos acerca del área en que laboran y la Legislatura en su conjunto;
-
-b) La especialización, actualización y educación formal en el cargo desempeñado;
-
-c) Las aptitudes y actitudes necesarias para ocupar otros cargos de igual o mayor responsabilidad;
-
-d) Las habilidades necesarias para certificar las capacidades profesionales adquiridas; y,
-
-e) Las condiciones objetivas para propiciar igualdad de oportunidades de capacitación para mujeres y hombres.
-
-V. Subsistema de Evaluación del Desempeño. Su propósito es establecer los mecanismos de medición y valoración del desempeño y la productividad de los Servidores Parlamentarios de Carrera, que serán a su vez los parámetros para obtener estímulos, así como para garantizar la estabilidad laboral;
-
-VI. Subsistema de Separación. Se encarga de atender los casos y supuestos mediante los cuales un Servidor Parlamentario deja de formar parte del Servicio o se suspenden temporalmente sus derechos; y,
-
-VII. Subsistema de Control y Evaluación. Su objetivo es diseñar y operar los procedimientos y medios que permitan efectuar la vigilancia, y en su caso, corrección de la operación del Servicio.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN V. DEL SUBSISTEMA DE INGRESO
 
 ###### ARTÍCULO 150.
 
-El Secretario Permanente establecerá un Subsistema de Planeación de Recursos Humanos para el eficiente ejercicio del Servicio. A través de sus diversos procesos, el Subsistema:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Registrará y procesará la información necesaria para la definición de los perfiles requeridos;
-
-II. No autorizará ningún cargo que no esté incluido y descrito en las Estructuras Orgánico Ocupacionales;
-
-III. Operará el Registro Único de Servidores Públicos de Carrera;
-
-IV. Determinará las necesidades cuantitativas de personal, considerando las necesidades de los Cuerpos de Servidores Parlamentarios y los efectos de los cambios en las estructuras orgánico-ocupacionales, la rotación, retiro, y separación de los funcionarios, con el fin de que la estructura del Congreso tenga un número de Servidores Parlamentarios de Carrera adecuado para su buen funcionamiento y, acorde con los principios rectores de este Servicio, que promueva y garantice la equidad de género y permita la movilidad de los miembros del Servicio;
-
-V. Calculará el costo que generará la determinación cuantitativa del personal;
-
-VI. Analizará el desempeño y los resultados de los Servidores Parlamentarios de Carrera, emitiendo las conclusiones conducentes;
-
-VII. Revisará y tomará en cuenta para la planeación de los recursos humanos del Congreso los resultados de las evaluaciones sobre el Servicio;
-
-VIII. Realizará los demás estudios, programas, acciones y trabajos que sean necesarios para el cumplimiento del objeto del presente capítulo; y,
-
-IX. Ejercerá las demás funciones que le señale esta Ley, su Reglamento y disposiciones relativas.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 ###### ARTÍCULO 151.
 
-El Registro Único de los Servidores Parlamentarios de Carrera es un padrón que contiene información básica y técnica en materia de recursos humanos y se establece con fines de apoyo al desarrollo del Servidor Parlamentario de Carrera dentro del Congreso.
-
-Los datos personales que en él se contengan serán considerados confidenciales.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 152.
 
-El Registro sistematizará la información relativa a la planeación de recursos humanos, ingreso, desarrollo profesional, formación, evaluación del desempeño y separación de los miembros del Servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 153.
 
-El Registro deberá incluir a cada Servidor Parlamentario que ingrese al Servicio. Los datos del Registro respecto al proceso de capacitación y desarrollo deberán actualizarse de manera permanente. Esta información permitirá identificar al Servidor Parlamentario de Carrera como candidato para ocupar vacantes de distinto perfil.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 154.
 
-Será motivo de baja del Registro, la separación del Servidor Parlamentario del Servicio por causas distintas a la renuncia.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN VI. DEL SUBSISTEMA DE DESARROLLO PROFESIONAL
 
 ###### ARTÍCULO 155.
 
-El Reclutamiento es el proceso que permite atraer aspirantes con perfiles previamente determinados, con la finalidad de que al cumplir los requisitos necesarios y aprobar los exámenes correspondientes, puedan formar parte del Servicio Parlamentario de Carrera.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 156.
 
-El reclutamiento se llevará a cabo anualmente a través de convocatorias públicas abiertas, que emitirá el Secretario Permanente a solicitud de los Cuerpos de Servidores Parlamentarios del Congreso del Estado.
-
-Este proceso dependerá de las necesidades que en materia de recursos humanos requieran los Cuerpos de Servidores así como del presupuesto autorizado.
-
-En caso de ausencia de plazas, no se emitirá la convocatoria.
-
-Previo al reclutamiento, el Secretario Permanente organizará eventos de inducción para motivar el acercamiento de aspirantes al concurso anual.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 157.
 
-El aspirante a ingresar al Servicio deberá cumplir, además de lo que señale la convocatoria respectiva, los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
-
-II. No haber sido sentenciado con pena privativa de libertad por delito doloso;
-
-III. Contar con título de licenciatura, expedido legalmente;
-
-IV. Tener aptitud para el desempeño de sus funciones en el Servicio Parlamentario de Carrera;
-
-V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto; y,
-
-VI. No estar inhabilitado para el Servicio Parlamentario ni encontrarse con algún otro impedimento legal.
-
-No podrá existir discriminación por razón de género, edad, capacidades diferentes, condiciones de salud, religión, estado civil, origen étnico o condición social para la pertenencia al Servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 158.
 
-El ingreso al Servicio Parlamentario de Carrera se realizará por oposición, mediante concursos públicos anuales que serán organizados en etapas eliminatorias y deberán contemplar los siguientes exámenes y cursos:
-
-I. Elaboración de un ensayo orientado al funcionamiento y operación del Congreso del Estado;
-
-II. Examen de conocimientos generales;
-
-III. Entrevistas;
-
-IV. Exámenes médicos y psicológicos;
-
-V. Una vez seleccionado el candidato, recibirá cursos especializados cuya duración no excederá de seis meses; y,
-
-VI. Un periodo de experiencia práctica en el Congreso cuya duración no excederá de seis meses.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 159.
 
-El Secretario Permanente, establecerá los parámetros mínimos de calificación para acceder al Servicio. Los candidatos que aprueben el concurso entrarán a ocupar las plazas de primer nivel de ingreso que corresponde al grado de Tercer Secretario. Los candidatos que no cumplan con la calificación mínima establecida no podrán continuar con las siguientes etapas del procedimiento.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 160.
 
-Cuando se trate de cubrir cargos vacantes, distintos al primer nivel de ingreso, el Secretario Permanente deberá emitir convocatoria pública abierta, siempre y cuando el Servicio no cuente con el perfil requerido.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 161.
 
-Se entenderá por convocatoria pública y abierta, aquella dirigida a Servidores Públicos en general o para todo interesado que desee ingresar al Servicio, mediante convocatoria publicada en el Periódico Oficial del Estado.
-
-Las convocatorias señalarán en forma precisa, los perfiles que se necesitan, los requisitos y los lineamientos generales que se determinen para las evaluaciones, así como el lugar y fecha de entrega de la documentación correspondiente, de las evaluaciones y el fallo relacionado con la selección de los candidatos finalistas.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 162.
 
-Corresponde al Secretario Permanente, emitir las guías y lineamientos generales para la elaboración y aplicación de los mecanismos y herramientas de evaluación, que aplicarán los Comités conforme a las reglas de valoración o sistema de puntaje, para la selección de los Servidores Parlamentarios de Carrera.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN VII. DEL SUBSISTEMA DE FORMACIÓN
 
 ###### ARTÍCULO 163.
 
-El Desarrollo Profesional es el proceso mediante el cual los Servidores podrán hacer Carrera en el Servicio Parlamentario, de manera ascendente o lateral a través de promociones en los grados de categoría y ascensos en los distintos niveles jerárquicos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 164.
 
-Los servidores miembros, para ocupar un Nivel de mayor jerarquía deberán cumplir con los requisitos contenidos en este capítulo, realizar las evaluaciones correspondientes; además se tomará en cuenta el puntaje otorgado al Servidor en virtud de sus evaluaciones del desempeño, promociones y los resultados de las evaluaciones de capacitación, certificación u otros estudios que hubiera realizado, así como la opinión de su superior jerárquico.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 165.
 
-Cuando exista convocatoria para ocupar un nivel jerárquico determinado, el Servidor Parlamentario de Carrera, deberá contar con el Grado en la categoría que corresponda, que le permita ascender a dicho nivel.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 166.
 
-La movilidad en el Servicio podrá seguir las siguientes trayectorias:
-
-I. Vertical o de especialidad, que corresponden a posiciones ascendentes, en donde las funciones se harán más complejas y de mayor responsabilidad; y,
-
-II. Horizontal o laterales, que son aquellas que corresponden a otros grupos o ramas de cargos, donde se cumplan condiciones de equivalencia, homologación, e incluso afinidad, entre los cargos que se comparan. En este caso, los Servidores Parlamentarios de Carrera que ocupen cargos equiparables, podrán optar por movimientos laterales en otros grupos de cargos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 167.
 
-Las Promociones son el proceso que permite a los Servidores Parlamentarios de Carrera, subir a un Grado superior en la categoría que corresponda.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 168.
 
-El Comité de Profesionalización, será el encargado de dirigir las promociones de los Servidores Parlamentarios de Carrera, conforme a los principios rectores del Servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 169.
 
-El Comité de Profesionalización estará integrado por: el Secretario Permanente, el Director del Subsistema de Recursos Humanos y el encargado de la Capacitación.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 170.
 
-Los Servidores Parlamentarios de Carrera para ascender de Grado, deberán cada 4 años ser sometidos al proceso siguiente:
-
-a) Recibir capacitación profesional; y,
-
-b) Realizar una evaluación que permita certificar sus capacidades.
-
-De aprobar la evaluación correspondiente, los Servidores podrán ascender al Grado siguiente.
-
-Cuando el resultado de la evaluación de un Servidor Parlamentario no sea aprobatorio deberá presentarla nuevamente. En ningún caso, ésta podrá realizarse en un periodo menor a 60 días naturales, transcurridos después de la notificación que se le haga de dicho resultado.
-
-Se le deberá proporcionar la capacitación necesaria antes de la siguiente evaluación.
-
-De no aprobar la evaluación, se procederá a la separación del Servidor Parlamentario de Carrera del Congreso del Estado, por consiguiente, causará baja del Registro.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 171.
 
-Los ascensos son el proceso mediante el que los servidores parlamentarios de carrera podrán ascender de nivel jerárquico en las estructuras orgánico ocupacionales, siempre que existan vacantes. Para lo cual se requiere invitación del Secretario Permanente a quienes cuenten con el perfil.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 172.
 
-El Secretario Permanente abrirá un concurso de selección, emitiendo convocatoria entre los Servidores Parlamentarios de Carrera que por su Grado puedan aspirar al puesto vacante.
-
-Las convocatorias contendrán los requisitos con los que se debe contar y el proceso a agotar para ocupar la vacante.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 173.
 
-Para el Desarrollo del proceso de ascenso el Secretario Permanente formará un Comité de Selección, integrado por: el Director del Subsistema de Recursos Humanos y el Jefe Inmediato Superior de la vacante.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 174.
 
-El proceso para ascender de Nivel Jerárquico, se realizará por oposición mediante concursos que serán organizados en etapas eliminatorias y deberá contemplar las siguientes fases:
-
-a) Concurso de selección interna;
-
-b) Examen de conocimientos;
-
-c) Examen gerencial, siempre que se requiera; y,
-
-d) Entrevista con el Comité de Selección.
-
-En caso de resultar seleccionado, previa autorización del Comité de Selección, el Secretario Permanente emitirá el nombramiento correspondiente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 175.
 
-Quedan prohibidas las entradas laterales al Servicio Parlamentario de Carrera, salvo cuando derivado de las necesidades del Congreso se requieran perfiles que no estén integrados en el Servicio. El Secretario Permanente previa autorización de la Junta podrá emitir convocatoria pública y abierta para cubrir un cargo en las Estructuras Orgánico Ocupacionales.
-
-El proceso para acceder a un cargo lateralmente será por oposición conforme a lo establecido en esta Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 176.
 
-Los funcionarios que ocupen un cargo en las Estructuras Orgánico Ocupacionales por ingreso lateral, sólo serán considerados Servidores Parlamentarios de Carrera Eventuales y no formarán parte del Servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 177.
 
-El Servidor Eventual que pretenda ser Servidor Parlamentario de Carrera Titular deberá realizar y aprobar las evaluaciones y cursos de ingreso al Servicio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 178.
 
-El Secretario Permanente, en apego a las disposiciones que al efecto emita la Mesa Directiva, podrá celebrar convenios con autoridades federales, estatales o municipales y organismos públicos o privados para el intercambio de recursos humanos una vez cubiertos los perfiles requeridos, con el fin de fortalecer el proceso de desarrollo profesional de los Servidores Parlamentarios de Carrera y ampliar sus experiencias.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 179.
 
-Los Servidores Profesionales provenientes de instituciones u organismos con los que se suscriban convenios no podrán superar en número a los de carrera que se encuentren laborando en el Congreso del Estado, con motivo de un intercambio.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 180.
 
-El Registro Único de Servidores Parlamentarios de Carrera acopiará información de recursos humanos, proporcionada por las autoridades o instituciones con las que se suscriban convenios, con la finalidad de permitir la participación temporal de aspirantes a Servidores Parlamentarios de Carrera en los concursos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN VIII. DEL SUBSISTEMA DE EVALUACIÓN DEL DESEMPEÑO
 
 ###### ARTÍCULO 181.
 
-La Formación es el proceso mediante el cual los Servidores Parlamentarios de Carrera son inducidos, preparados, actualizados y certificados para desempeñar un cargo en el Congreso del Estado.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 182.
 
-La formación tendrá los siguientes objetivos:
-
-I. Desarrollar, complementar, perfeccionar o actualizar los conocimientos y habilidades necesarios para el eficiente desempeño de los Servidores Parlamentarios de Carrera en sus cargos;
-
-II. Preparar a los Servidores para funciones de mayor responsabilidad o de naturaleza diversa; y,
-
-III. Certificar a los Servidores en las capacidades profesionales adquiridas.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 183.
 
-El programa de actualización, es el curso de capacitación que tiene como propósito que los Servidores Parlamentarios de Carrera dominen los conocimientos y competencias necesarios para el desarrollo de sus funciones.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-El programa de actualización se integra con cursos obligatorios y optativos según lo establezcan los Comités en coordinación con el Secretario Permanente. Otorgándose un puntaje a los Servidores Parlamentarios de Carrera que los acrediten.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN IX. DEL SUBSISTEMA DE SEPARACIÓN
 
 ###### ARTÍCULO 184.
 
-La Evaluación del Desempeño es el método mediante el cual se miden, tanto en forma individual como colectiva, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y metas asignadas a los Servidores Parlamentarios de Carrera, en función de sus habilidades, capacidades y adecuación al puesto.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 185.
 
-La Evaluación del Desempeño tiene como principales objetivos los siguientes:
-
-I. Valorar el comportamiento de los servidores parlamentarios de carrera en el cumplimiento de sus funciones, tomando en cuenta las metas programáticas establecidas, la capacitación lograda y las aportaciones realizadas;
-
-II. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado a que se refiere este capítulo;
-
-III. Aportar información para mejorar el funcionamiento del Congreso en términos de eficiencia, efectividad, honestidad, calidad del servicio y aspectos financieros;
-
-IV. Servir como instrumento para detectar necesidades de capacitación que se requieran en la legislatura; y,
-
-V. Identificar los casos de desempeño no satisfactorio para adoptar medidas correctivas, de conformidad con lo dispuesto por esta Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 186.
 
-Los estímulos al desempeño destacado consisten en la cantidad neta que se entrega al Servidor Parlamentario de Carrera de manera extraordinaria con motivo de la productividad, eficacia y eficiencia.
-
-Las percepciones extraordinarias en ningún caso se considerarán un ingreso fijo, regular o permanente ni formarán parte de los sueldos u honorarios que perciben en forma ordinaria los Servidores.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 187.
 
-Los Comités en coordinación con el Secretario establecerán los métodos de evaluación de personal que mejor respondan a las necesidades del Congreso.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-La aprobación de las evaluaciones del desempeño será requisito indispensable para la permanencia del Servidor Parlamentario en el Servicio.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN X. DEL SUBSISTEMA DE CONTROL Y EVALUACIÓN
 
 ###### ARTÍCULO 188.
 
-Para efectos de este Capítulo se entenderá por separación del Servidor Parlamentario de Carrera la terminación de su nombramiento o las situaciones por las que dicho nombramiento deje de surtir sus efectos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 189.
 
-Los miembros del Servicio serán separados de sus cargos ya sea temporalmente por medio de suspensión como consecuencia de la aplicación de una sanción administrativa y, en forma definitiva, por baja y destitución como consecuencia de una sanción administrativa, en términos de la presente Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 190.
 
-Son causas de baja del Servicio Parlamentario de Carrera las siguientes:
-
-I. Por renuncia formulada por el servidor parlamentario;
-
-II. Por jubilación;
-
-III. Por defunción;
-
-IV. Sentencia ejecutoriada que imponga al servidor una pena que implique la privación de su libertad;
-
-V. Por incumplimiento reiterado e injustificado de cualquiera de las obligaciones que esta Ley le asigna;
-
-VI. Hacerse acreedor a sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, que impliquen separación del servicio o reincidencia;
-
-VII. No aprobar en dos ocasiones la capacitación obligatoria o su segunda evaluación de desempeño; y,
-
-VIII. Cuando el resultado de su evaluación del desempeño sea deficiente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 191.
 
-La licencia es el acto por el cual un Servidor Parlamentario de Carrera, previa autorización del Secretario Permanente, puede dejar de desempeñar las funciones propias de su cargo de manera temporal, conservando todos o algunos derechos que este capítulo le otorga.
-
-Para que un funcionario pueda obtener una licencia deberá tener una permanencia en el Servicio de al menos dos años y dirigir su solicitud por escrito al Secretario Permanente, con el visto bueno de su superior jerárquico. El dictamen de la solicitud deberá hacerse por escrito, de manera fundada y motivada, y basada en el dictamen que el aula de Planeación de Recursos Humanos haga al respecto basada en la planeación y en el presupuesto.
-
-La licencia sin goce de sueldo no será mayor a seis meses y no podrá prorrogarse, excepto cuando el Servidor ocupe un cargo en alguna otra institución con la que el Servicio tenga un convenio.
-
-La licencia con goce de sueldo no podrá ser mayor a un mes y sólo se autorizará por causas relacionadas con la capacitación del servidor parlamentario vinculadas al ejercicio de sus funciones.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 192.
 
-Para cubrir el cargo del Servidor Parlamentario de Carrera que obtenga licencia menor aun (sic) mes se nombrará un Servidor Parlamentario que actuará de manera provisional, si la licencia es mayor a un mes se abrirá el concurso de selección correspondiente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN XI. DE LA ESTRUCTURA ORGÁNICA DEL SERVICIO DEL SECRETARIO PERMANENTE
 
 ###### ARTÍCULO 193.
 
-El Secretario Permanente establecerá mecanismos de evaluación sobre la operación del Servicio a efecto de contar con elementos suficientes para su adecuado perfeccionamiento.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 194.
 
-El Consejo Consultivo desarrollará la información necesaria que permita evaluar los resultados de la operación del Servicio y emitirá reportes sobre el comportamiento observado en cada uno de los Subsistemas, los que hará del conocimiento del Secretario Permanente y sugerirá acciones de perfeccionamiento.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN XII. DEL RECURSO DE REVOCACIÓN
 
 ###### ARTÍCULO 195.
 
-Para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, el Servicio contará con los siguientes órganos:
-
-I. El Secretario Permanente;
-
-II. El Consejo; y,
-
-III. Los Comités.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 196.
 
-Corresponde al Comité de Administración y Control designar y remover al Secretario Permanente, de entre los servidores parlamentarios de carrera de mayor grado.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 197.
 
-El Secretario Permanente se encargará de dirigir, coordinar, dar seguimiento y evaluar el funcionamiento del Servicio Parlamentario de Carrera, y vigilará que sus principios rectores sean aplicados debidamente en su desarrollo, conforme lo establecido en este capítulo y demás disposiciones aplicables.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 198.
 
-El Secretario Permanente contará con las siguientes facultades:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Emitir los criterios de los programas generales del Servicio, para su implantación gradual, flexible, descentralizada, integral y eficiente;
-
-II. Elaborar el presupuesto anual para la operación del Servicio;
-
-III. Administrar los bienes y recursos del Servicio;
-
-IV. Expedir los manuales de organización y procedimientos requeridos para el funcionamiento del Servicio;
-
-V. Dictar las normas y políticas que se requieran para la operación del Servicio;
-
-VI. Dar seguimiento a la implantación y operación del Servicio en el Congreso del Estado y en caso necesario, dictar las medidas correctivas que se requieran, tomando las acciones pertinentes sobre aquellos actos y omisiones que puedan constituir responsabilidades administrativas;
-
-VII. Emitir las convocatorias públicas anuales previa solicitud de los Cuerpos de Servidores Parlamentarios;
-
-VIII. Aprobar la constitución o desaparición de los Comités técnicos;
-
-IX. Aprobar los mecanismos y criterios de evaluación y puntuación;
-
-X. Resolver las inconformidades que se presenten en la operación del Servicio;
-
-XI. Promover y aprobar los programas de capacitación y actualización, así como la planeación de cursos de especialización en los casos que señale el Reglamento;
-
-XII. Vigilar que el personal de carrera se ajuste a una rotación programada, asegurándose que sin excepción, ningún miembro permanezca en el mismo grado por más de 4 años continuos;
-
-XIII. Establecer los mecanismos que considere necesarios para captar la opinión de la ciudadanía respecto al funcionamiento del Servicio y del mejoramiento de la labor del Congreso a partir de su implantación;
-
-XIV. Revisar de manera periódica y selectiva la operación del Servicio en el Congreso del Estado;
-
-XV. Aplicar el presente Capítulo para efectos administrativos emitiendo criterios obligatorios sobre éste y otras disposiciones sobre la materia, para la regulación del Servicio;
-
-XVI. Solicitar al Presidente del Congreso, la publicación en el Periódico Oficial del Estado de las disposiciones y acuerdos de carácter general que pronuncie;
-
-XVII. Rendir anualmente un informe al Comité de Administración y Control y a la Junta de Coordinación Política respecto del funcionamiento del Servicio Parlamentario de Carrera; y,
-
-XVIII. Las demás que se establezcan en el presente Capítulo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 DEL CONSEJO CONSULTIVO
 
 ###### ARTÍCULO 199.
 
-El Consejo es un órgano de apoyo para el Servicio Parlamentario de Carrera. Estará integrado por el Presidente del Comité de Administración y Control, por los responsables de cada Subsistema, por los presidentes de los comités técnicos y por un representante de los sectores social, privado y académico, a invitación de los integrantes.
-
-Son atribuciones del Consejo:
-
-I. Conocer y opinar sobre el Programa Operativo Anual del Servicio en el proceso de dar seguimiento a su observancia y cumplimiento en el Congreso del Estado;
-
-II. Opinar sobre los lineamientos, políticas, estrategias y líneas de acción que aseguren y faciliten el desarrollo del Servicio;
-
-III. Estudiar y proponer modificaciones a las estructuras orgánico ocupacionales;
-
-IV. Proponer mecanismos y criterios de evaluación y puntuación;
-
-V. Recomendar programas de capacitación y actualización, así como el desarrollo de cursos de especialización;
-
-VI. Acordar la participación de invitados en las sesiones de Consejo; y,
-
-VII. Las que se deriven de las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 200.
 
-El Consejo estará presidido por el Presidente del Comité de Administración y Control y contará con un Secretario Técnico.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 DE LOS COMITÉS TÉCNICOS
 
 ###### ARTÍCULO 201.
 
-Los Comités son el cuerpo técnico especializado encargado de la implantación, operación y evaluación del Servicio Parlamentario de Carrera. Son responsables de planear, organizar e impartir la inducción al servicio, pudiendo coordinar la realización de cursos con instituciones de educación técnica y superior.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 202.
 
-Los Comités estarán integrados por el Secretario Permanente, quien los presidirá, el presidente del Comité que corresponda y el director de área.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 203.
 
-Serán atribuciones de los Comités:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-I. Emitir reglas generales y dictar actos que definan las modalidades a través de las cuales se implemente el Servicio;
-
-II. Proponer políticas y programas específicos de ingreso, desarrollo, capacitación, evaluación y separación del personal de su área, acorde con los procesos que establece el presente Capítulo;
-
-III. Realizar estudios y estrategias de prospectiva en materia de productividad, con el fin de hacer más eficiente el funcionamiento del Congreso;
-
-IV. Elaborar los programas de capacitación, producto de las evaluaciones del desempeño y de acuerdo a la detección de necesidades;
-
-V. Aplicar exámenes y demás procedimientos de selección, así como valorar y determinar las personas que hayan resultado vencedoras en los concursos;
-
-VI. Elaborar el proyecto de otorgamiento de reconocimientos, incentivos y estímulos al desempeño destacado a favor de servidores parlamentarios de su área;
-
-VII. Determinar la procedencia de separación del servidor público en los casos establecidos en la fracción V del artículo 185 de este ordenamiento y tramitar la autorización ante el Tribunal de Conciliación y Arbitraje del Estado de Michoacán; y,
-
-VIII. Las demás que se deriven de esta Ley y su Reglamento.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 #### SECCIÓN XIII. DE LAS COMPETENCIAS
 
 ###### ARTÍCULO 204.
 
-En contra de las resoluciones que recaigan en el procedimiento de selección, el interesado podrá interponer ante el Comité de Administración y Control recurso de revocación dentro del término de diez días contados a partir del día siguiente en que se haga del conocimiento, el nombre del aspirante que obtuvo la calificación más alta en el procedimiento de selección.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 205.
 
-El recurso de revocación se tramitará de conformidad a lo siguiente:
-
-I. El promovente interpondrá el recurso por escrito, expresando el acto que impugna, los agravios que fueron causados y las pruebas que considere pertinentes, siempre y cuando estén relacionadas con los puntos controvertidos;
-
-II. Las pruebas que se ofrezcan deberán estar relacionadas con cada uno de los hechos controvertidos, siendo inadmisible la prueba confesional por parte de la autoridad;
-
-III. Las pruebas documentales se tendrán por no ofrecidas, si no se acompañan al escrito en el que se interponga el recurso, y sólo serán recabadas por la autoridad, en caso de que las documentales obren en el expediente en que se haya originado la resolución que se recurre;
-
-IV. La Junta de Coordinación Política podrá solicitar que rindan los informes que estime pertinentes, quienes hayan intervenido en el procedimiento de selección;
-
-V. La Junta de Coordinación Política acordará lo que proceda sobre la admisión del recurso y de las pruebas que se hubiesen ofrecido, ordenando el desahogo de las mismas dentro del plazo de diez días hábiles; y,
-
-VI. Vencido el plazo para el rendimiento de pruebas, la Junta dictará la resolución que proceda en un término que no excederá de quince días hábiles.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 206.
 
-El recurso de revocación contenido en el presente capítulo, versará exclusivamente en la aplicación correcta del procedimiento y no en los criterios de evaluación que se instrumenten.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
-Los conflictos individuales de carácter laboral no serán materia del presente recurso.
-
-Se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo a las disposiciones del presente título.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 207.
 
-En el caso de controversias de carácter administrativo derivadas de la aplicación de esta Ley competerá conocerlas y resolverlas al Tribunal de Justicia Administrativa en el Estado.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 # LIBRO SEGUNDO. DE LOS PROCEDIMIENTOS PARLAMENTARIOS
 
@@ -3623,7 +3279,9 @@ Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo 
 
 PRIMERO. La presente Ley entrará en vigor al momento de su aprobación, notifíquese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Las disposiciones previstas en esta Ley se ajustarán a lo previsto en el Decreto número 69 aprobado por el Congreso y publicado el 22 de septiembre de 2006.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+SEGUNDO. Las disposiciones previstas en esta Ley, se ajustarán a lo previsto en el Decreto Número 69, aprobado por el Congreso, y publicado el 22 de septiembre de 2006, y sus reformas.
 
 TERCERO. Los actuales integrantes de la Mesa Directiva del Congreso, por única ocasión, durarán en su encargo hasta el día 14 catorce de enero de 2012 dos mil doce.
 
@@ -3635,13 +3293,7 @@ SEXTO. La Comisión de Régimen Interno y Prácticas Parlamentarias presentará 
 
 SÉPTIMO. Los titulares de la (sic) Secretarías de Servicios Parlamentarios; de la Secretaría de Administración y Finanzas; de la Contraloría Interna; del Centro de Investigaciones y Estudios Legislativos, así como de las Coordinaciones de Comunicación Social; y, Atención Ciudadana y Gestoría; seguirán en su encargo, entendiendo que han sido ratificados por el Pleno.
 
-OCTAVO. Para la instauración del Servicio Parlamentario de Carrera, la Junta de Coordinación Política y la actual Comisión de Administración y Control ordenarán a la Secretaría de Administración y Finanzas, elaboré un diagnóstico de la reestructuración administrativa, un catálogo de puestos y la homologación laboral conforme a lo establecido en la presente Ley, el cual deberá estar concluido a más tardar el día 31 treinta y uno de octubre de 2011 dos mil once. Para que la normatividad relativa al Servicio Parlamentario de Carrera, entre en vigor el día 01 uno de noviembre de 2011 dos mil once.
-
-Por única ocasión y con la finalidad de implementar el Servicio Parlamentario de Carrera, el personal que actualmente labora en el Congreso del Estado de Michoacán y tenga interés en formar parte del Servicio, ingresará de manera directa, previa solicitud que presente, quedando sujeto al proceso de evaluación del desempeño.
-
-El personal que se haya inscrito al Servicio Parlamentario de Carrera, podrá ser recategorizado para obtener un nivel superior, siempre y cuando cumpla con los requisitos señalados en la presente Ley y en su caso en los reglamentos respectivos.
-
-Los trabajadores que a la fecha prestan sus servicios en alguna de las áreas técnicas del Congreso que sufran alguna modificación administrativa, pasarán a formar parte de la nueva área que se haya creado en sustitución de la anterior, respetándose sus derechos laborales en los términos de la ley de la materia.
+OCTAVO. (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 NOVENO. Se abroga la Ley Orgánica y de Procedimientos del Congreso del Estado, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 trece de marzo de 2003 dos mil tres.
 
@@ -3660,5 +3312,29 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LE
 P.O. 13 DE JULIO DE 2012.
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación, con forme (sic) a lo previsto en el Artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+DECRETO NÚMERO 19, POR EL QUE SE REFORMAN LOS ARTÍCULOS 109 PRIMER PÁRRAFO, 111 PRIMER PÁRRAFO Y FRACCIÓN II Y 113 PRIMER PÁRRAFO; SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 90; SE DEROGA, DEL TÍTULO TERCERO: EL CAPÍTULO DÉCIMO PRIMERO DENOMINADO DEL SERVICIO PARLAMENTARIO DE CARRERA, LA SECCIÓN I DE LA INTEGRACIÓN DEL SERVICIO PARLAMENTARIO DE CARRERA, SECCIÓN II DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA, SECCIÓN III DE LA ESTRUCTURA DEL SERVICIO PARLAMENTARIO DE CARRERA, SECCIÓN IV DEL SUBSISTEMA DE PLANEACIÓN DE LOS RECURSOS HUMANOS, CON SU TÍTULO: DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA, SECCIÓN V DEL SUBSISTEMA DE INGRESO, SECCIÓN VI DEL SUBSISTEMA DE DESARROLLO PROFESIONAL, SECCIÓN VII DEL SUBSISTEMA DE FORMACIÓN, SECCIÓN VIII DEL SUBSISTEMA DE EVALUACIÓN DEL DESEMPEÑO, SECCIÓN IX DEL SUBSISTEMA DE SEPARACIÓN, SECCIÓN X DEL SUBSISTEMA DE CONTROL Y EVALUACIÓN, SECCIÓN XI DE LA ESTRUCTURA ORGÁNICA DEL SERVICIO DEL SECRETARIO PERMANENTE, CON SUS TÍTULOS: DEL CONSEJO CONSULTIVO Y DE LOS COMITÉS TÉCNICOS, SECCIÓN XII DEL RECURSO DE REVOCACIÓN, SECCIÓN XIII DE LAS COMPETENCIAS Y LOS ARTÍCULOS 100 FRACCIONES VII Y XI, LOS ARTÍCULOS 128 FRACCIÓN VII, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207 Y EL ARTÍCULO OCTAVO TRANSITORIO, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo previsto en el artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Régimen Interno y Prácticas Parlamentarias, presentará al Pleno, en un término no mayor a sesenta días, las adecuaciones a los reglamentos internos de los órganos técnicos y administrativos del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE NOVIEMBRE DE 2012.
+
+DECRETO NÚMERO 20, POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación, conforme a lo previsto en el artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
