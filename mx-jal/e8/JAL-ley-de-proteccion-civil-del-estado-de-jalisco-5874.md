@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2010-09-18"
+last_updated: "2012-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE JALISCO
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE JALISCO
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -181,17 +181,75 @@ XXVI. Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos; y (sic)
 
 XXVII. Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco.
 
-XXVIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2006)
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-XXIX. (DEROGADA Y REFORMADA, P.O. 3 DE OCTUBRE DE 2006)
+XXVIII. Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXIX. Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXX. Riesgo: de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXXI. Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad:
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXXII. Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXXIII Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:
+
+a) Estatal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área de una entidad federativa, y conlleva la participación de las autoridades gubernamentales y de los sectores privado y social correspondientes, y
+
+b) Municipal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área del municipio, y conlleva la participación de las autoridades, de los sectores privado y social y de la población en general circunscrita a ese ámbito.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+XXXV. Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
-Los arrendatarios, propietarios y poseedores de inmuebles que reciban una afluencia masiva de personas, estarán obligados a elaborar y cumplir el Programa Específico de Protección Civil para dicho Inmueble. El Programa Específico contendrá los aspectos que señale el Reglamento y deberá contar previamente al inicio de las actividades a las que se vaya a destinar el inmueble, con el dictamen favorable del mismo por parte de la Unidad Estatal o Municipal.
+Los inmuebles donde desarrollen actividades o de servicios de mediano y alto riesgo, y aquellos inmuebles que reciban una afluencia masiva de personas, deberán contar con el Programa Específico de Protección Civil, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cumplir y hacer cumplir el Programa Específico de Protección Civil para dicho inmueble, el cual deberá presentarse ante la Unidad Estatal o Municipal, para obtener, en caso de ser procedente, el dictamen favorable, sin el cual no se podrán realizar actividades.
 
-Para la elaboración del Programa se contará con la asesoría técnica de la Unidad Estatal y las Unidades Municipales, y serán elaborados por particulares que cuenten con el registro y autorización de la Unidad Estatal para realizarlos.
+El Programa Específico de Protección Civil deberá cubrir los siguientes aspectos:
+
+I. Datos generales de la empresa:
+
+a) Razón social y comercial;
+
+b) Objeto de la sociedad, anexando acta constitutiva certificada ante notario público, así como la descripción de las actividades que se realizarán en la empresa;
+
+c) Cantidad total de trabajadores, desglosada por turno o jornada laboral, así como la población flotante que pudiera existir;
+
+d) Domicilio para oír y recibir notificaciones, número telefónico o cualquier otro medio de comunicación disponible para estos efectos;
+
+e) Carta de presentación del documento, que contenga nombre y firma autógrafa del propietario, representante legal o responsable de la empresa acreditando su personería;
+
+f) Nombre, firma autógrafa, número de registro y vigencia del responsable técnico de la elaboración del Programa Específico de Protección Civil, así como una copia simple de su identificación vigente;
+
+g) Índice temático del documento;
+
+h) Subprograma de Prevención, Auxilio y Recuperación, con las divisiones físicas en cada uno;
+
+i) Estudio o análisis de riesgos actualizado, sobre los cuales está fundamentado el programa y donde se determinaron los posibles encadenamientos de calamidades, y
+
+j) Las que establezcan los ordenamientos aplicables a la materia.
+
+En caso de que se modifiquen las actividades que realizan o las instalaciones del inmueble, deberá llevarse de nuevo el trámite descrito.
+
+El Programa Específico de Protección Civil deberá ser dictaminado de forma favorable o no, según proceda, en un plazo que no exceda de veinte días hábiles contados a partir del día hábil siguiente que la autoridad lo haya recibido; la autoridad tendrá diez días hábiles para requerir información adicional, solicitar modificaciones o aclaraciones, en cuyo caso, correrá un término de veinte días; a partir de que el particular no complemente la información en el plazo de diez días hábiles contados a partir del día siguiente hábil a que surta efectos la notificación del requerimiento, se desechará el trámite.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -349,7 +407,9 @@ II. Aprobar, publicar y ejecutar el programa Municipal de Protección Civil, as�
 
 III. Participar en el Sistema Estatal de Protección Civil y asegurar la congruencia de los programas municipales con el Programa Estatal de Protección Civil, haciendo las propuestas que estimen pertinentes;
 
-IV. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta Ley en el ámbito de su jurisdicción;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+IV. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta ley, en el ámbito de su jurisdicción, en los términos del artículo 43 de la presente ley;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -421,9 +481,9 @@ Corresponde al Gobernador y a los ayuntamientos reglamentar, planear, ejecutar y
 
 Los dictámenes de impacto ambiental que verifiquen las autoridades estatales y municipales, deberán integrar los criterios de prevención en materia de protección civil que señale ésta ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-Toda negociación, centro laboral e inmuebles que reciban una afluencia masiva de personas, así como desarrollos o conjuntos habitacionales de nueva creación deberán elaborar, previo a su inicio de actividades y conforme a lo que disponga el Reglamento, un estudio de riesgos de sus instalaciones y actividades, el cual se registrará ante la Unidad Estatal o Municipal. En caso de que se modifiquen las actividades que realizan o las instalaciones del inmueble, deberá elaborarse y registrarse un nuevo estudio.
+Los establecimientos mercantiles, centros laborales, inmuebles públicos o privados, que reciban afluencias masivas de personas, o desarrollos habitacionales de nueva creación, están obligados a presentar en la etapa de planeación un estudio de riesgos ante la Unidad Estatal o Municipal para su evaluación y dictaminación, a fin de que la autoridad determine la factibilidad del proyecto con base en los riesgos intra- y extramuros.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1085,9 +1145,9 @@ XV. Operar dentro de su estructura el Centro de Análisis del Riesgo, integrando
 
 XVI. Convocar semestralmente a encuentros con las unidades municipales existentes de la entidad, a efecto de actualizar conocimientos, intercambiar experiencias, homologar criterios, coordinar planes y programas; y (sic)
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-XVII. Evaluar y dictaminar los programas Específicos de Protección Civil y los Estudios de Riesgo; y
+XVII. Evaluar y emitir los dictámenes favorables de los programas específicos de protección civil y, en su caso, aprobar o negar los estudios de riesgo, según sea el caso, emitiendo el dictamen correspondiente, y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1149,9 +1209,9 @@ III. Apoyar y asesorar al Ministerio Público en materia de protección civil y 
 
 IV. Coordinar las acciones de la Unidad Estatal, de las dependencias, organismos y unidades federales y municipales en caso de siniestro o desastres en el Estado y ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-V. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Unidad Estatal a realizar las mismas. Así mismo, calificará y sancionará las faltas e infracciones a la Ley, su Reglamento, y a las disposiciones que de aquélla deriven;
+V. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Unidad Estatal a realizar las mismas y, en su caso, impongan las medidas de seguridad que contempla esta ley. Asimismo, calificará y sancionará las faltas e infracciones a la ley, a su reglamento y a las disposiciones que de aquella deriven.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1605,7 +1665,9 @@ Artículo 80 bis. Para garantizar el mantenimiento y la seguridad del orden púb
 
 I. Clausura temporal, parcial o total, de las negociaciones, centros laborales o inmuebles;
 
-II. Decomiso precautorio de animales, materiales, bienes muebles o residuos de todos estos;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+II. Aseguramiento precautorio de semovientes, materiales, bienes muebles e inmuebles o residuos de éstos, que deberán resguardarse en un lugar seguro y adecuado para cada caso, para lo cual la Unidad Estatal o Municipal podrá realizar los convenios necesarios con los propietarios o representantes legales de los establecimientos que cuenten con las medidas de seguridad para cada caso, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cubrir los gastos de la estadía en el lugar del aseguramiento; el resguardante únicamente podrá liberarlo con el mandato por escrito de la autoridad que realizó el aseguramiento;
 
 III. Neutralización o cualquier acción análoga que impida que los objetos señalados en las fracciones anteriores generen peligro, siniestros, desastres, riesgos, altos riesgos o fenómenos destructivos;
 
@@ -1617,7 +1679,9 @@ VI. Las demás que establezcan otras disposiciones legales.
 
 La Unidad Estatal o las unidades municipales se coordinarán para dictar o ejecutar cualquier medida de seguridad.
 
-Al ejecutarse cualquier medida de seguridad, la autoridad ejecutora deberá notificarle por escrito al afectado cuáles fueron los actos, omisiones o circunstancias que motivaron la imposición de la medida, las acciones que deberá realizar para subsanar aquéllas y los plazos para su realización, para efecto de que una vez corregido lo que motivó la imposición de la medida se ordene su retiro. Las medidas de seguridad impuestas podrán impugnarse a través de lo previsto por esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+Al ejecutarse cualquier medida de seguridad relacionada con una situación de alto riesgo a la sociedad, la autoridad ejecutora deberá notificarle por escrito al afectado, anexando copia del acta circunstanciada que al efecto se elabore, cuáles fueron los actos, omisiones o circunstancias que motivaron la imposición de la medida, las acciones que deberá realizar para subsanar aquellas y los plazos para su realización, para efecto de que una vez corregido lo que motivó la imposición de la medida, se ordene su retiro. Las medidas de seguridad impuestas podrán impugnarse a través de lo previsto por esta ley.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1647,7 +1711,9 @@ De la misma forma, el propietario, poseedor, representante legal, encargado y/o 
 
 IV. Posteriormente, se le requerirá al visitado para que designe a dos testigos que deberán acompañar durante el desarrollo de la visita. Cuando en el domicilio visitado no sea posible encontrar a quienes funjan como testigos, en caso de negativa a designar éstos o de que las personas elegidas se negaren, los autorizados podrán elegir a otras personas y dichas circunstancias deberán manifestarse en el acta de visita. Ninguna de estas eventualidades será motivo de nulidad del acta ni de los actos que se generen con motivo de lo sustentado en ella.
 
-V. las (sic) visitas domiciliarias podrán durar un máximo de 72 horas y deberán realizarse de forma continua desde su inicio hasta el final. Sólo habrá recesos de máximo 30 minutos por cada 12 horas que dure la visita.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+V. Las visitas domiciliarias podrán durar un máximo de cinco días naturales y deberán realizarse de forma continua desde su inicio hasta el final, pudiendo prorrogar este término hasta por un tanto más siempre y cuando se justifique la urgente necesidad de la medida, habiendo recesos por razones necesarias o fuerza mayor, debiendo asentar en el acta estas circunstancias. Sólo habrá recesos de máximo treinta minutos por cada ocho horas durante el término que dure la visita.
 
 Solamente las personas autorizadas podrán realizar la visita, sin embargo, éstos no tendrán la obligación de estar presentes durante todo el tiempo que dure la misma, siempre y cuando por lo menos una de estas la continúe. La misma situación será aplicable para los testigos, propietarios, poseedores, representantes legales, encargado y/o dependiente del inmueble, negociación o centro laboral.
 
@@ -1689,7 +1755,9 @@ Las violaciones a los preceptos de ésta Ley, sus reglamentos y a las demás dis
 
 I. Clausura temporal o definitiva, parcial o total, cuando:
 
-a) El infractor incumpla con las obligaciones señaladas en los artículos 5°, 6°, 7°, 13; 15; 38; 46; tercer párrafo del artículo 73, y 80 bis;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+a) El infractor incumpla con cualquiera de las obligaciones señaladas en los artículos 5.°, 6.°, 7.°, 13, 15, 38, 46, tercer párrafo del artículo 73 y 80-Bis.
 
 b) Incumpla con las medidas indicadas en el acta de visita para subsanar las circunstancias, omisiones y hechos encontrados en aquélla o con las medidas de seguridad ordenadas, dentro de los plazos y conforme a las condiciones impuestas por la autoridad; o
 
@@ -1978,5 +2046,9 @@ TERCERO. Los arrendatarios, propietarios y poseedores de inmuebles que por cualq
 CUARTO. El ejecutivo Estatal deberá emitir el Reglamento de la presente Ley dentro de los 30 días posteriores a su publicación en el "Periódico Oficial El Estado de Jalisco".
 
 P.O. 18 DE SEPTIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
