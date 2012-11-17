@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-19189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2012-04-14"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO 221 PUBLICADO EN EL SUPLEMENTO O DEL P.O. DE 17 DE NOVIEMBRE DE 2012 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -852,3 +854,45 @@ TERCERO. Los agentes del ministerio público, los agentes de la policía ministe
 CUARTO. La implementación del servicio profesional de carrera y profesionalización, se establecerá gradualmente, de acuerdo a las suficiencias presupuestales.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+PRIMERO. Esta Ley, con las salvedades que se precisan en los siguientes artículos transitorios, entrará en vigor al día siguiente de su publicación en él Periódico Oficial del Estado, de manera gradual, conforme a lo establecido en los artículos transitorios del Decreto 206, publicado con fecha 29 de agosto de dos mil doce, en el Suplemento "C" del Periódico Oficial del Estado, número 7302, en que se expidió el Código Procesal Penal Acusatorio para el Estado de Tabasco.
+
+SEGUNDO. La Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, publicada en el Periódico Oficial del Gobierno del Estado de Tabasco, Suplemento 6085, de fecha 30 de diciembre de 2000, y en tanto vaya adquiriendo vigencia gradual la Ley que por este decreto se expide, se seguirá aplicando en todo lo relativo al sistema mixto en:
+
+I. En los Municipios del Estado en los que no se haya implementado el sistema acusatorio adversarial;
+
+II.- En los Municipios del Estado, en los que habiéndose implementado el Sistema Acusatorio Adversarial, respecto de los hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+
+TERCERO.- La Subprocuraduría de los Derechos Humanos y Atención Integral a Víctimas, además de las atribuciones previstas en la presente Ley, asumirá la tramitación de los asuntos, hasta la conclusión, relativos a las funciones competenciales de la actual de la Subprocuraduría de Procesos, (incluida la Dirección de Control de Procesos); quedando bajo su adscripción las Direcciones previstas en el artículo 26, fracción III de esta Ley.
+
+CUARTO.- La Subprocuraduría de los Derechos Humanos y Atención Integral a Víctimas, a través de la Dirección de Amparos, Procedencia de Criterios de Oportunidad e Inconformidades, continuará la tramitación y resolución de los acuerdos de consulta del no ejercicio de la acción penal e inconformidades.
+
+QUINTO.- Los procedimientos administrativos de responsabilidades iniciados a la fecha a los servidores públicos de la Procuraduría, por la Dirección de Asuntos Internos y Contraloría, que estén pendientes de resolverse al momento de la vigencia de la presente Ley, serán tramitados para ponerlos en estado de resolución directa del Procurador; y luego, hasta su oportuna conclusión, en ambos supuestos, por la Dirección General de Control Interno, a través de los servidores públicos con que cuente en términos de sus respectivos nombramientos y atribuciones correspondientes.
+
+SEXTO.- La estructura orgánica funcional de la Procuraduría General de Justicia del Estado, contemplada en esta Ley, se integrará de manera paulatina conforme a las necesidades del servicio de procuración de justicia, por lo que no habrá implicación de mayores cargas presupuestales; mientras tanto, bajo dichas premisas, indistintamente en el Reglamento de esta Ley o en los acuerdos que sean emitidos por el Procurador, se preverá oportunamente a qué unidades administrativas corresponderán las funciones sustantivas que surgen con motivo de la implementación del Sistema Procesal Penal Acusatorio y Oral.
+
+El personal de las Delegaciones Regionales, que a la fecha estén nombrados para el sistema mixto, paulatinamente se irá adscribiendo a las funciones sustantivas que les reasigne el Procurador, conforme se transite al nuevo sistema penal, sin que deba exceder del plazo de treinta días naturales posteriores, que corresponda a cada región, según la gradualidad establecida en el Artículo Transitorio Segundo del Decreto a que se refiere la parte in fine del Artículo Primero Transitorio de este Decreto.
+
+SÉPTIMO.- El titular de la Procuraduría General de Justicia del Estado, podrá emitir en forma complementaria los acuerdos necesarios para la debida implementación del Sistema de Justicia Penal Acusatorio y Oral, conforme la premisa que se dispuso en el artículo Tercero Transitorio, del Decreto 211, aprobado por esta Soberanía, el 20 de septiembre del año en curso, publicado el veintiséis siguiente en el Periódico Oficial del Estado.
+
+OCTAVO.- Para los efectos de la aplicación e interpretación de las disposiciones normativas a que se contrae esta legislación; las nuevas prevenciones tendrán prevalencia jurídica en todo aquello, que en su caso, resultare aplicable en lo conducente, con los ordenamientos legislativos, legales y reglamentarios que estuvieren vigentes para el sistema mixto.
+
+NOVENO.- El Reglamento de esta Ley deberá expedirse en un plazo hasta de (120) ciento veinte días hábiles siguientes al inicio de la vigencia conforme a la publicación en el órgano de difusión oficial.
+
+En tanto se expide el ordenamiento reglamentario de esta Ley, se aplicarán en todo aquello que no se oponga, las disposiciones a que se contrae el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, publicado en el suplemento "C" 7278, del 06 de junio del 2012 en el Periódico Oficial del Estado.
+
+DÉCIMO.- Las demás disposiciones reglamentarias que se sujeten o relacionen con esta Ley, se expedirán en un plazo no mayor a los (180) ciento ochenta días hábiles siguientes al inicio de la vigencia de esta Ley,
+
+DÉCIMO PRIMERO.- En ningún caso podrán aplicarse en forma retroactiva disposiciones que afecten la situación administrativa o laboral del personal en activo. Los servidores públicos distintos a los que conforme a esta disposición formen parte del Servicio Profesional de Carrera, se sujetarán a las leyes que rigen las relaciones laborales de los servidores públicos.
+
+DÉCIMO SEGUNDO.- La organización de la Dirección de Justicia Alternativa Penal, se regirá en lo conducente, por lo dispuesto en la Ley de Acceso a la Justicia Alternativa.
+
+DÉCIMO TERCERO.- Para el otorgamiento de las prestaciones complementarias de seguridad social, se efectuará, tratándose de las previstas en los incisos a) y b) del precepto en un plazo no mayor a dos años, y las enunciadas en los incisos c) y d) del mismo precepto, en un plazo hasta de cuatro años a partir del inicio de vigencia del presente decreto.
+
+DÉCIMO CUARTO.- La conformación organizativa del Servicio Profesional de Carrera, y del Consejo de Profesionalización, así como de las designaciones de los miembros del Consejo Consultivo y de Participación Ciudadana, se hará dentro de los cuarenta y cinco días hábiles siguientes, a partir del mes de enero de dos mil trece.
+
+DECIMO QUINTO.- El Centro Estatal de Control de Confianza a que se refiere la Ley General del Sistema Estatal de Seguridad Pública, deberá concluir las evaluaciones de los actuales servidores públicos de la Procuraduría en un término no mayor a tres años. Los servidores públicos que sean nombrados con posterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones normativas y presupuestarias correspondientes.
+
+DÉCIMO SEXTO.- Para los efectos de declarar agotados legalmente los asuntos que se regulen conforme al sistema mixto, a la fecha en vigor, y por tanto para la abrogación formal que deba emitir el Poder Legislativo; el titular del Poder Ejecutivo del Estado, acorde a la notificación que en su momento le formule el Procurador General de Justicia, lo comunicará oportunamente al Congreso del Estado, para que se emita la declaratoria correspondiente.
