@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-estatal-de-salud-en-materia-de-20686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY ESTATAL DE SALUD EN MATERIA DE PROTECCION A NO FUMADORES
 
-REGLAMENTO DE LA LEY ESTATAL DE SALUD EN MATERIA DE PROTECCION A NO FUMADORES
+REGLAMENTO DE LA LEY ESTATAL DE SALUD EN MATERIA DE PROTECCIÓN A NO FUMADORES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL QUINTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 17 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Sección XV del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -230,3 +232,17 @@ DR. MAURICIO LIMÓN AGUIRRE
 EL SECRETARIO DE SALUD
 
 DR. CRISTÓBAL RUIZ GAYTÁN LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+PRIMERO. La presente ley entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En un término no mayor a treinta días después de publicada la ley, deberá expedirse el reglamento correspondiente.
+
+TERCERO. Los municipios deberán adecuar sus disposiciones reglamentarias a la presente ley, en un término no mayor a ciento veinte días después de la publicación de la misma en el periódico oficial El Estado de Jalisco.
+
+CUARTO. Los propietarios, poseedores, responsables o autoridades de los espacios 100% libres de humo de tabaco deberán dar cumplimiento a la obligación de fijar en el interior y en el exterior de los mismos la señalización adecuada, dentro de los sesenta días siguientes a partir de la entrada en vigor de la presente ley.
+
+QUINTO. Se deroga el Reglamento de la Ley Estatal de Salud en Materia de Protección a No Fumadores, publicado en el periódico oficial El Estado de Jalisco el 13 de marzo de 2001.
