@@ -1,0 +1,556 @@
+---
+title: "REGLAMENTO INTERIOR DE LA COMISION ESTATAL FORESTAL DEL ESTADO DE TABASCO"
+identifier: "TAB-reglamento-interior-de-la-comision-estatal-forestal-del-91300"
+country: "mx"
+rank: "reglamento"
+publication_date: "2012-11-17"
+last_updated: "2012-11-17"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91300&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tab"
+scjn_id: "91300"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "7325 SUPLEMENTO H"
+reform_count: "1"
+scjn_last_update: "2026-03-07"
+issue_date: "2012-11-12"
+state: "TAB"
+---
+# REGLAMENTO INTERIOR DE LA COMISION ESTATAL FORESTAL DEL ESTADO DE TABASCO
+
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL FORESTAL DEL ESTADO DE TABASCO
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 17 de noviembre de 2012.
+
+REGLAMENTO INTERIOR DE LA COMISION ESTATAL FORESTAL
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO; EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; 7 FRACCIÓN II Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
+
+CONSIDERANDO.
+
+Por lo que he tenido a bien expedir el siguiente:
+
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL FORESTAL
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El presente Reglamento tiene por objeto regular la estructura orgánica y funcionamiento de las Unidades Administrativas que integran la Comisión Estatal Forestal, dotado de autonomía técnica y funcional y presupuesto asignado, y tiene a su cargo la aplicación de la política forestal en el Estado, de conformidad con las disposiciones normativas aplicables.
+
+###### Artículo 2.
+
+La Comisión Estatal Forestal estará a cargo de un Director General, quien conducirá sus actividades con sujeción a los objetivos, estrategias y prioridades establecidas en la planeación estatal y específicamente el Programa Estatal Forestal.
+
+###### Artículo 3.
+
+Para los efectos del presente Reglamento se entenderá por:
+
+I. Acuerdo de Creación: El Acuerdo de Creación de la Comisión Estatal Forestal;
+
+II. COMESFOR: La Comisión Estatal Forestal;
+
+III. Director General: El Director General de la Comisión Estatal Forestal;
+
+IV. Estado: El Estado Libre y Soberano de Tabasco;
+
+V. Ley Forestal: Ley Forestal del Estado de Tabasco;
+
+VI. Secretaría: La Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+
+VII. Secretario: El Secretario de Desarrollo Agropecuario, Forestal y Pesca;
+
+VIII. Reglamento: Reglamento Interior de la Comisión Estatal Forestal; y
+
+IX. Unidades Administrativas: Las Unidades Administrativas de la COMESFOR, dotadas de facultades de decisión y ejecución.
+
+###### Artículo 4.
+
+La COMESFOR como órgano administrativo desconcentrado de la Secretaria, tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado, la Ley Forestal, el Acuerdo de Creación, reglamentos y demás disposiciones legales y administrativas aplicables.
+
+###### Artículo 5.
+
+Para el desarrollo y operación de sus funciones la COMESFOR administrará y ejercerá desconcentradamente los recursos que le sean asignados en el Presupuesto General de Egresos, sujetándose a las disposiciones legales y administrativas aplicables.
+
+###### Artículo 6.
+
+Para el estudio, planeación y despacho de los asuntos que le competen, así como para el cumplimiento de su objeto, la COMESFOR contará con las siguientes Unidades Administrativas:
+
+1. Director General.
+
+1.1. Unidad Jurídica.
+
+1.2. Unidad Geomática.
+
+1.3. Dirección de Administración.
+
+1.4. Unidad de Acceso a la Información.
+
+1.5. Unidad de Fomento y Protección Forestal.
+
+1.6. Unidad de Manejo, Aprovechamiento e Industria.
+
+1.7. Unidad de Viveros.
+
+Al frente de cada Unidad Administrativa habrá un titular, que se auxiliará del personal necesario, de acuerdo al presupuesto aprobado y funcionarán conforme al Manual de Organización de la COMESFOR.
+
+### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
+
+###### Artículo 7.
+
+La representación, trámite y resolución de los asuntos competencia de la COMESFOR, de conformidad con la Ley Forestal y su Acuerdo de Creación, corresponden al Director General, quien para la mejor distribución y desarrollo de sus funciones podrá delegar sus atribuciones en servidores públicos subalternos, sin perjuicio de su ejercicio directo.
+
+###### Artículo 8.
+
+El Director General, además de las facultades señaladas en el Artículo 5 del Acuerdo de Creación, tendrá las atribuciones siguientes:
+
+I. Dirigir y controlar las políticas de la COMESFOR, de conformidad con los objetivos del Plan Estatal de Desarrollo y las que expresamente determinen el Secretario y el Gobernador del Estado de Tabasco;
+
+II. Poner a consideración del Secretario los proyectos de iniciativas de leyes o decretos y reglamentos sobre asuntos de la competencia de la COMESFOR y del sector forestal;
+
+III. Dar cuenta e informar al H. Congreso del Estado de la situación que guarda el sector forestal en la entidad, siempre que sea requerido para ello;
+
+IV. Formular y presentar a la Secretaría, para su aprobación, el programa anual de trabajo y agregar los convenios que suscriba con diversas instituciones públicas y privadas tanto de carácter nacional como internacional;
+
+V. Ejercer el presupuesto autorizado, así como elaborar los informes que trimestralmente o cuando se lo soliciten deba rendir, formulando la contabilidad así como los estados financieros, de acuerdo a la legislación aplicable;
+
+VI. Presentar a la Secretaria los informes de la operación de los programas a cargo de la COMESFOR cuando así le sea solicitado;
+
+VII. Aplicar las disposiciones legales en la materia para la administración, cultivo, aprovechamiento, restauración y conservación de los recursos forestales, con el propósito de obtener su mejor rendimiento;
+
+VIII. Autorizar el aprovechamiento en terrenos agropecuarios y temporalmente forestales, de conformidad con los artículos 52, 53 Y 54 de la· ley Forestal;
+
+IX. Suspender y revocar los aprovechamientos en terrenos agropecuarios y temporalmente forestales autorizados, con base fundada y de conformidad con lo dispuesto en los artículos 57 y 60 de la Ley Forestal;
+
+X. Promover los mecanismos de financiamiento que requieran los productores e industriales del sector;
+
+XI. Dictar, ejecutar y aplicar las medidas pertinentes a fin de que las funciones de la COMESFOR se realicen de manera articulada y eficiente;
+
+XII. Expedir certificaciones de los documentos existentes en los archivos de la COMESFOR, por mandato de autoridad debidamente fundado y motivado;
+
+XIII. Elaborar el Anteproyecto de Presupuesto de Egresos Anual y ejercer desconcentradamente el que le sea asignado dentro del Presupuesto General de Egresos autorizado a la Secretaría, dé conformidad con la normatividad existente;
+
+XIV. Acordar con el Secretario los asuntos que le sean turnados para su atención y que requieran ser sometidos para su determinación ante el Gobernador del Estado;
+
+XV. Contratar personal y servicios en las distintas modalidades previstas por la legislación aplicable de acuerdo a las necesidades de la propia COMESFOR para su buen funcionamiento y proponer al Secretario la creación, supresión o modificación de las áreas administrativas que integran el organismo a su cargo, de conformidad con las disposiciones aplicables;
+
+XVI. Proponer al Secretario los programas sectoriales, regionales y especiales que le corresponda;
+
+XVII. Participar en la elaboración y permanente actualización del Plan Estatal de Desarrollo, en todo lo que sea de su competencia;
+
+XVIII. Acordar con los titulares de las unidades administrativas que conforman la COMESFOR y supervisar el desempeño de sus funciones;
+
+XIX. Designar a los suplentes para que actúen en su nombre, en aquellas Juntas, Comisiones o Consejos en que forme parte;
+
+XX. Autorizar y expedir, coordinadamente con el Secretario, los manuales administrativos y los lineamientos de trabajo que tengan por objeto coordinar las actividades y funciones de las Unidades Administrativas de la COMESFOR;
+
+XXI. Difundir oportunamente las acciones y resultados de la ejecución de los programas a cargo de la COMESFOR;
+
+XXII. Organizar y sistematizar la información y los elementos estadísticos que reflejen el cumplimiento de las funciones del órgano;
+
+XXIII. Organizar y establecer las disposiciones normativas sobre funcionamiento interno del Registro Forestal Estatal;
+
+XXIV. Proponer al Secretario, la suscripción de convenios y/o acuerdos para el cumplimiento de las funciones de la COMESFOR;
+
+XXV. Suscribir acuerdos de colaboración con instituciones educativas y de investigación, así como con organismos afines a la COMESFOR, previo acuerdo con el Secretario;
+
+XXVI. Otorgar poderes o mandatos generales para pleitos y cobranzas;
+
+XXVII. Otorgar, modificar, suspender o revocar los permisos de aprovechamiento forestal, de conformidad con los ordenamientos legales aplicables en el estado de Tabasco;
+
+XXVIII. Formular, en coordinación con las demás Unidades Administrativas, el Programa Operativo Anual de la COMESFOR, de acuerdo con los lineamientos que señale la Secretaría de Planeación y la Secretaría;
+
+XXIX. Coordinar las acciones de evaluación y seguimiento de los programas y proyectos dirigidos al desarrollo forestal sustentable a través de la COMESFOR;
+
+XXX. Establecer mecanismos que permitan un aprovechamiento óptimo de los recursos presupuestales y bienes que la COMESFOR posea para la realización de sus funciones;
+
+XXXI. Vigilar la aplicación de los instrumentos económicos destinados al desarrollo forestal en el Estado;
+
+XXXII. Asistir a las reuniones del Fideicomiso Estatal Forestal, dándole seguimiento a los acuerdos emanados de éste;
+
+XXXIII. Establecer los mecanismos de Control y Evaluación derivados del Programa Operativo Anual de la COMESFOR;
+
+XXXIV. Dar seguimiento al cumplimiento de los convenios y/o acuerdos que suscriba con los diversos organismos de la administración pública federal, estatal y municipal;
+
+XXXV. Coordinar con las demás Unidades Administrativas, las evaluaciones de los avances físicos-financieros de los programas de la COMESFOR;
+
+XXXVI. Coordinar a las Unidades Administrativas de la COMESFOR en la organización y control de acciones relativas al gasto público;
+
+XXXVII. Coordinar la ejecución del Programa Estratégico Forestal de Tabasco a 25 años;
+
+XXXVIII. Promover, coordinar y evaluar el Inventario forestal estatal;
+
+XXXIX. Integrar el Sistema de control y seguimiento de las acciones de la COMESFOR;
+
+XL. Coadyuvar en la integración del Fideicomiso Estatal Forestal;
+
+XLI. Verificar que los proyectos de presupuestos anuales se ajusten a las disposiciones de la normatividad vigente;
+
+XLII. Formular el Programa Estatal Forestal; y
+
+XLIII. Las que le encomienden el Gobernador del Estado y el Secretario; así como las demás necesarias para el cumplimiento del objeto y funciones de la COMESFOR.
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
+
+###### Artículo 9.
+
+La COMESFOR, a través de sus Unidades Administrativas, planeará y conducirá sus actividades con apego a las políticas, estrategias y prioridades del Plan Estatal de Desarrollo; las que para el logro de sus objetivos y funciones tendrán las atribuciones genéricas siguientes:
+
+I. Acordar con el Director General el despacho de los asuntos de su competencia;
+
+II. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades subalternas adscritas, informando al Director General de las actividades que éstas realicen;
+
+III. Elaborar el anteproyecto de presupuesto y someterlo a la consideración del Director General;
+
+IV. Coordinarse con las demás Unidades Administrativas para el mejor desempeño de sus atribuciones;
+
+V. Proponer al Director General, para su aprobación, los proyectos y estudios que se elaboren en su ámbito de competencia;
+
+VI. Vigilar que se cumpla con las disposiciones legales aplicables a los asuntos de su competencia;
+
+VII. Proponer al Director General, para su aprobación, los convenios, contratos, acuerdos, bases de colaboración y anexos de ejecución a celebrarse con dependencias, organismos desconcentrados, entidades federales, organismos internacionales, nacionales, públicos o privados; acuerdos de coordinación con gobiernos estatales y municipales; así como de concertación con los sectores social y privado, en las materias de su competencia;
+
+VIII. Proponer al Director General el nombramiento y remoción del personal a su cargo;
+
+IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o les correspondan por suplencia;
+
+X. Establecer, con la aprobación del Director General, las normas y procedimientos que deban regir en su área;
+
+XI. Formular los estudios, dictámenes e informes que les sean solicitados por el Director General;
+
+XII. Proponer los proyectos de programas y de presupuesto a su cargo y ejecutar el presupuesto aprobado, de acuerdo con los lineamientos que al respecto emita el Director General y la normatividad aplicable;
+
+XIII. Proporcionar, de acuerdo con las políticas establecidas al respecto por el Director General, la asesoría técnica que le sean requeridas por las dependencias y entidades de la administración pública federal, estatal y municipal;
+
+XIV. Llevar el registro y control de todos los asuntos y documentos que turnen al área a su cargo;
+
+XV. Aplicar, en el ámbito de su competencia, los lineamientos expedidos por el Director General en cuanto al uso y resguardo de los bienes y recursos bajo su responsabilidad;
+
+XVI. Cumplir y hacer cumplir, en el área de su competencia, los acuerdos, órdenes, circulares y demás disposiciones de observancia obligatoria;
+
+XVII. Vigilar la conservación y mantenimiento de los archivos del área a su cargo, proveyendo lo necesario para la custodia de la información, especialmente aquélla que por su naturaleza sea de carácter confidencial;
+
+XVIII. Cumplir los lineamientos expedidos por las autoridades competentes, en cuanto al cuidado y resguardo de los bienes patrimoniales del Estado;
+
+XIX. Participar en la elaboración del Programa Estatal Forestal; y
+
+XX. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las funciones de las unidades subalternas de su adscripción.
+
+### CAPÍTULO IV. DE LAS UNIDADES DE APOYO DEL DIRECTOR GENERAL
+
+###### Artículo 10.
+
+La Unidad Jurídica tendrá las funciones siguientes:
+
+I. Aplicar las infracciones y sanciones establecidas por la Ley Forestal;
+
+II. Mantener coordinación con la Consejería Jurídica de (sic) Poder Ejecutivo a fin de que el tratamiento de los asuntos jurídicos a cargo del órgano, sea congruente con el esquema general definido por la referida dependencia;
+
+III. Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado presidido por la Consejería Jurídica del Poder Ejecutivo;
+
+IV. Representar a la COMESFOR y a su Director General ante los tribunales federales y del fuero Común y ante toda autoridad en los trámites judiciales y cualquier otro asunto de carácter legal con excepción de la materia fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídico colectivas, tanto para presentar demandas como para contestarlas, reconvenir a la contraparte, ejercitar acciones, oponer excepciones, desistirse, ofrecer y rendir toda clase de pruebas, recusar a jueces inferiores y superiores, apelar y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan los derechos de la COMESFOR;
+
+V. Coordinar y establecer los mecanismos de asistencia y apoyo que se otorguen en materia jurídica al Director General, Unidades Administrativas y servidores públicos de la COMESFOR, actuando como órgano de consulta;
+
+VI. Fijar los lineamientos y criterios de interpretación y aplicación de las disposiciones jurídicas que normen el funcionamiento y operación de la COMESFOR; en coordinación con el Jurídico de la Secretaria;
+
+VII. Autorizar el contenido jurídico de la información que generen las Unidades Administrativas de la COMESFOR: (sic)
+
+VIII. Formular y proponer al Director General, las iniciativas sobre la actualización del marco jurídico en materia forestal y de desarrollo forestal sustentable;
+
+IX. Participar en su ámbito de competencia, cuando el Gobierno Federal realice la transferencia de funciones y recursos al Gobierno del Estado;
+
+X. Compilar y promover la difusión de las disposiciones jurídicas contenidas en leyes, tratados, reglamentos, decretos, acuerdos y demás ordenamientos relacionados con las actividades de la COMESFOR;
+
+XI. Elaborar, revisar y determinar la procedencia jurídica de los convenios, contratos y demás actos jurídicos que vaya a suscribir el Director General, así como llevar el control y registro de los mismos;
+
+XII. Establecer y ejecutar, a petición de las Unidades Administrativas de la COMESFOR, el procedimiento de rescisión de los contratos y convenios, tramitarlo y proponer la resolución correspondiente;
+
+XIII. Participar en los procedimientos de licitación pública, invitación y adjudicación directa, para la adquisición de bienes muebles, arrendamientos y contratación de servicios que realice la COMESFOR;
+
+XIV. Elaborar informes previos y justificados que en materia de amparo deba rendir el Director General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables e intervenir como tercero perjudicado cuando se requiera, además de formular· y presentar todas las promociones que a dichos juicios se refieran;
+
+XV. Presentar denuncia o querella respecto de hechos que lo ameriten y en los que la COMESFOR haya resultado ofendida o tenga interés jurídico ante el agente del ministerio público competente, y coadyuvar en la integración de averiguaciones previas y en el trámite de los procesos penales correspondientes; asimismo, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la COMESFOR;
+
+XVI. Conocer, sustanciar, evaluar y dictaminar las actas administrativas, procedimientos y recursos administrativos que procedan respecto a las bajas o sanciones al personal de base o de confianza de la COMESFOR, por las causas establecidas en la Ley de los Trabajadores al Servicio del Estado;
+
+XVII. Representar legalmente a la COMESFOR y a su titular en los juicios de orden civil, mercantil, familiar, penal, administrativo, amparo, laboral, respecto de trabajadores de la COMESFOR, formular dictámenes, demandas de cese y contestaciones de demanda, formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento y de cualquier proceso de carácter legal;
+
+XVIII. Designar, autorizar y delegar en los servidores públicos adscritos a la Unidad Jurídica, facultades para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la COMESFOR;
+
+XIX. Expedir la certificación de la documentación legal que obre en los archivos de la COMESFOR;
+
+XX. Promover ante las autoridades competentes, en representación de la COMESFOR, la revocación, modificación, suspensión o cancelación de autorizaciones, permisos, licencias o concesiones, cuando las actividades de las personas físicas o personas jurídico-colectivas, impliquen un riesgo para la preservación de los recursos forestales, signifiquen un impacto al equilibrio ecológico o produzcan violaciones a las disposiciones aplicables;
+
+XXI. Sustanciar los procedimientos administrativos y en general los recursos establecidos en los ordenamientos jurídicos cuya aplicación competa a la COMESFOR, recibiendo y desahogando pruebas y alegatos y en su caso, proponer al Director General, la resolución que proceda, de conformidad con las disposiciones aplicables;
+
+XXII. Suscribir, en ausencia del Director General o de los titulares de unidades administrativas, documentos y desahogar los trámites que correspondan, en los casos urgentes sujetos a términos, rendición de informes previos y justificados, interposición de recursos y recepción de toda clase de notificaciones;
+
+XXIII. Asesorar jurídicamente a las unidades administrativas de la Comisión y actuar como órgano de consulta, realizando los estudios e investigaciones jurídicas que requiera el desarrollo de las funciones del organismo; y
+
+XXIV. Las demás disposiciones legales y administrativas que le confieran o que le encomiende el Director General.
+
+###### Artículo 11.
+
+La Unidad Geomática tendrá las funciones siguientes:
+
+I. Coordinar la integración del inventario estatal forestal y de suelos, en coadyuvancia con los gobiernos municipales conforme a lo establecido en el artículo 30 de la Ley Forestal del Estado de Tabasco;
+
+II. Establecer, en colaboración con otras Unidades Administrativas de la COMESFOR, indicadores de gestión que permitan evaluar la competitividad del sector forestal y medir su desempeño a escala regional y nacional;
+
+III. Coordinar, integrar y mantener actualizado el Sistema Estatal de Información Forestal;
+
+IV. Diseñar aplicaciones de cómputo que den servicio a la COMESFOR, así como aquellas que permitan distribuir bases de datos y cartografía a todos los actores involucrados en el sector forestal, proporcionando los métodos para que esa distribución sea interactiva y cada uno pueda mantener la información actualizada;
+
+V. Proponer convenios de colaboración para la generación, intercambio e integración de información y tecnología, con instituciones de educación superior, entidades públicas y de los sectores privado y social;
+
+VI. Participar en grupos especializados, asociaciones, consejos y comités en materia de planeación y evaluación de informática y geomática;
+
+VII. Participar en la determinación y promoción de normas y estándares en materia de geomática;
+
+VIII. Realizar el análisis y tratamiento de planos, mapas, cartografía, fotografías aéreas e imágenes de satélite, para la generación de información georreferenciada;
+
+IX. Desarrollar medios aplicativos para hacer más eficientes los procedimientos de búsqueda, caracterización y visualización de los Sistemas de Información Geográfica; diseño de diversos programas Web y multimedia. Además del desarrollo de metodologías especificas aplicadas en la evaluación del territorio;
+
+X. La realización de actividades de investigación, procesamiento de información geográfica, desarrollo de aplicaciones y modelos, a partir de imágenes de satélite, fotografías aéreas convencionales y digitales, información de campo, gráfica y documental; y
+
+XI. Las demás que deriven del marco legal aplicable o que le encomiende el Director General.
+
+###### Artículo 12.
+
+La Dirección de Administración tendrá las funciones siguientes:
+
+I. Diseñar, proponer, desarrollar, evaluar y dar seguimiento a las políticas y estrategias de cooperación y financiamiento de la COME8FOR (SIC);
+
+II. Coordinar, promover, gestionar, supervisar, asegurar, implementar, evaluar y dar seguimiento a la obtención de recursos en dinero o en especie, para impulsar un desarrollo forestal sustentable en la entidad;
+
+III. Participar con las diversas dependencias de la Administración Pública Federal, Estatal y Municipal en la elaboración e implementación de acciones y programas destinados a obtener financiamiento y cooperación;
+
+IV. Difundir y vigilar la aplicación de la normatividad sobre la administración de recursos humanos, financieros y materiales, prestación de los servicios generales, actividades culturales y recreativas del personal y demás servicios de carácter administrativo necesarios para el desarrollo de las actividades de la COMESFOR;
+
+V. Definir los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuestación, evaluación, control presupuestario y contabilidad de la COMESFOR;
+
+VI. Someter a la aprobación del Director General el proyecto de presupuesto anual de la COMESFOR, así como ejercer el gasto que le sea autorizado; vigilar el ejercicio del presupuesto asignado y coordinar la formulación del anteproyecto de presupuesto y de los programas de las Unidades Administrativas a su cargo;
+
+VII. Determinar los sistemas de contabilidad; así como autorizar los estados financieros y los informes del ejercicio presupuestal de la COMESFOR;
+
+VIII. Fijar las directrices para implantar, operar, controlar y evaluar el sistema de administración, capacitación y desarrollo de personal de la COMESFOR y vigilar su permanente actualización, así como validar la situación contractual entre la COMESFOR y los servidores públicos que laboran en ella, emitiendo los nombramientos correspondientes acordados con el Director General;
+
+IX. Fomentar y dirigir la difusión de los sistemas de motivación al personal de la COMESFOR, coordinar el otorgamiento de estímulos y recompensas, así como aplicar, en coordinación con la Unidad Jurídica, las sanciones por incumplimiento a las obligaciones laborales;
+
+X. Proporcionar asesoría a las Unidades Administrativas de la COMESFOR en lo relativo a asuntos laborales de su personal;
+
+XI. Llevar a cabo la adquisición, arrendamiento, contratación de bienes y servicios, intervenir en la adjudicación de contratos de obra pública y suscribir los convenios y contratos que se deriven de esas acciones, en representación de la COMESFOR, de acuerdo con la normatividad aplicable;
+
+XII. Proponer, fomentar y difundir programas de seguridad e higiene en el ámbito de la COMESFOR, así como evaluar sus resultados;
+
+XIII. Mantener y conservar los bienes inmuebles que tenga en propiedad o posesión la COMESFOR;
+
+XIV. Proporcionar la información contable y financiera a las Dependencias normativas cuando éstas así lo soliciten para la vigilancia y control del gasto público;
+
+XV. Administrar eficientemente los recursos humanos, materiales y financieros de la COMESFOR de conformidad con las disposiciones normativas aplicable (sic) en la materia;
+
+XVI. Conducir la política administrativa interna que apruebe el Director General;
+
+XVII. Participar en el proceso interno de programación, presupuestación y evaluación de la COMESFOR;
+
+XVIII. Llevar el control financiero de los recursos estatales y federales asignados para los diferentes programas;
+
+XIX. Vigilar que el ejercicio, control y registro contable del presupuesto autorizado se ajuste a las disposiciones aplicables;
+
+XX. Informar mensualmente a las autoridades competentes sobre los avances físicos y financieros de recursos asignados a la COMESFOR;
+
+XXI. Integrar los informes de avances financieros para someterlos a aprobación, en su caso, del Director General;
+
+XXII. Proporcionar con oportunidad y eficiencia los apoyos administrativos en materia de servicios generales, materiales y suministros que requieran las Unidades Administrativas;
+
+XXIII. Apoyar la operación del Fideicomiso Forestal Estatal;
+
+XXIV. Implementar el sistema de control de inventarios de los bienes muebles e inmuebles de la COMESFOR;
+
+XXV. Elaborar los manuales de organización y procedimientos para el buen funcionamiento de la COMESFOR; y
+
+XXVI. Las demás que le encomienden las disposiciones legales y administrativas, así como las que le encomiende el Director General.
+
+###### Artículo 13.
+
+Corresponde a la Unidad de Acceso a la Información el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+
+###### Artículo 14.
+
+La Unidad de Fomento y Protección Forestal, para el ejercicio de sus funciones tendrá las atribuciones siguientes:
+
+I. Planear y ejecutar el Programa Anual de Plantaciones Forestales Comerciales;
+
+II. Participar en la promoción de los programas de la Comisión Nacional Forestal y de la COMESFOR;
+
+III. Fomentar y favorecer el desarrollo forestal sustentable y de los recursos asociados para que incidan en la calidad de vida de las comunidades rurales;
+
+IV. Acordar con el Director General las reglas de operación de los programas que impliquen la asignación de incentivos económicos o en especie, destinados al fomento y protección forestal;
+
+V. Instrumentar en el ámbito de su competencia la política de protección de los recursos forestales;
+
+VI. Proporcionar asesoría técnica a ejidatarios, propietarios y organizaciones sociales conforme a lo previsto en la Ley Forestal;
+
+VII. Dirigir, coordinar y evaluar los programas de forestación, reforestación y de plantaciones forestales comerciales;
+
+VIII. Formular, coordinar, evaluar y operar el programa de prevención y combate de incendios forestales o emergencias forestales;
+
+IX. Formular, coordinar y evaluar el programa de sanidad forestal, así como diagnosticar, prevenir, combatir y controlar las plagas y enfermedades forestales;
+
+X. Promover, en coordinación con otras instancias, acciones que despierten el interés por desarrollar alternativas productivas tales como la agroforestería, "sistema taungya" y servicios ambientales;
+
+XI. Fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales;
+
+XII. Diseñar, dirigir y proponer programas educativos, de capacitación, investigación y desarrollo tecnológico en materia forestal, así como coadyuvar en su implementación;
+
+XIII. Coadyuvar con el área de comunicación social de la Secretaría en la implementación de campañas publicitarias que permitan difundir los objetivos de la COMESFOR, así como contribuir a la creación de una nueva cultura forestal;
+
+XIV. Elaborar material gráfico de difusión de la COMESFOR, tales como revistas, folletos, trípticos o cualquier otro de naturaleza análoga o similar, con el fin de informar y generar conciencia y cultura de respeto ambiental en toda la población;
+
+XV. Promover cursos de adiestramiento técnico, enseñanza profesional y desarrollo tecnológico, que el sector forestal requiera para su cadena productiva, en coordinación con el sistema educativo estatal y con las instituciones públicas y privadas de educación superior e investigación científica y tecnológica;
+
+XVI. Fortalecer, orientar y encauzar la participación organizada de la sociedad civil en programas de fomento y protección forestal;
+
+XVII. Implementar la operación del sistema y esquema de ventanilla única, de conformidad con lo establecido en los artículos 17, 18· Y 19 de la Ley Forestal;
+
+XVIII. Coordinar los esfuerzos de diferentes dependencias y de la sociedad en su conjunto en la atención de fenómenos naturales y contingencias que afecten las áreas forestales del Estado;
+
+XIX. Participar en la Comisión Estatal de Prevención y Combate de Incendios Agropecuarios y Forestales;
+
+XX. Coordinar la participación de los sectores público, social y privado, en la integración y operación del Programa Estatal de Restauración Forestal;
+
+XXI. Elaborar e instrumentar proyectos integrales de conservación y fomento de los recursos forestales; y
+
+XXII. Las demás que le señalen otras disposiciones aplicables o las que le encomiende el Director General.
+
+###### Artículo 15.
+
+La Unidad de Manejo, Aprovechamiento e Industria, para el ejercicio de sus funciones tendrá las· atribuciones siguientes:
+
+I. Promover y fomentar los programas de asistencia técnica forestal y equipamiento al productor con el propósito de dar valor agregado a la producción forestal;
+
+II. Promover acciones tendientes a la conservación y restauración de los recursos forestales;
+
+III. Implementar y ejecutar programas para la conservación y restauración de suelos;
+
+IV. Promover, impulsar y facilitar la integración de las cadenas productivas en la actividad forestal;
+
+V. Ejecutar en el ámbito de su competencia, la política de conservación y restauración de los recursos forestales;
+
+VI. Acordar con el Director General las reglas de operación de los programas que impliquen la asignación de incentivos económicos o en especie, destinados al manejo y aprovechamiento forestal, así como de conservación de suelos;
+
+VII. Ejecutar, en el ámbito de su competencia, la política de manejo y aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
+
+VIII. Elaborar y ejecutar los Programas de Conservación y Manejo Sustentable de los Recursos Forestales;
+
+IX. Impulsar la creación de empresas forestales comunitarias;
+
+X. Impulsar las acciones de certificación de los criterios e indicadores del Manejo Forestal Sustentable;
+
+XI. Participar en la formulación y operación de proyectos dendroenergéticos y promover la asistencia técnica para el mejor uso y optimización energética en el consumo de madera;
+
+XII. Promover y fomentar proyectos en materia de servicios ambientales, que generan los ecosistemas forestales, para alcanzar en el corto plazo el mercado de estos servicios;
+
+XIII. Fomentar la comercialización de productos forestales procesados y semiprocesados;
+
+XIV. Proporcionar al Sistema Estatal de Información Forestal, información en materia de producción y desarrollo forestal;
+
+XV. Promover la canalización de recursos y apoyos destinados a la conservación, protección y restauración de los suelos y a la realización de obras de restauración de suelos y recursos forestales;
+
+XVI. Instrumentar proyectos para hacer más eficiente la producción sustentable de la materia prima forestal;
+
+XVII. Establecer los mecanismos que permitan un óptimo aprovechamiento de los recursos forestales fortaleciendo las cadenas productivas;
+
+XVIII. Elaborar los diagnósticos sobre la situación que guarda la industria forestal en el Estado y proponer posibles soluciones;
+
+XIX. Vincularse con los Centros de Investigación y los sectores productivos forestales;
+
+XX. Promover y coordinar acciones en apoyo a la organización productiva de los dueños y poseedores del recurso forestal; y
+
+XXI. Las demás que le asigne el Director General y la normatividad aplicable.
+
+###### Artículo 16.
+
+La Unidad de Viveros, para el ejercicio de sus funciones tendrá las atribuciones siguientes:
+
+I. Promover y planear los programas de producción de plantas forestales en los viveros a cargo de la COMESFOR;
+
+II. Acordar con el Director General las reglas de operación de los programas que impliquen la asignación de incentivos económicos o en especie, destinados a la conservación y mejoramiento genético forestal;
+
+III. Operar los viveros forestales, el banco de germoplasma a cargo de la COMESFOR y la colecta de semillas de las especies determinadas a producir o en su caso, la adquisición de las mismas;
+
+IV. Dirigir, coordinar y establecer un programa de conservación y mejoramiento de los recursos genéticos forestales en el Estado;
+
+V. Administrar el banco de germoplasma forestal, el laboratorio de semillas y promover áreas semilleras;
+
+VI. Proporcionar información en materia de producción forestal de plantas y de las distintas áreas semilleras al Sistema Estatal de Información Forestal;
+
+VII. Ejecutar, en el ámbito de su competencia, la política de producción de plantas y mejoramiento genético, auxiliándose con las dependencias de la administración pública federal y estatal, instituciones académicas y de investigaciones nacionales e internacionales relacionadas y los gobiernos municipales;
+
+VIII. Participar con la Unidad de Fomento y Protección Forestal, en la elaboración del Programa Estatal de Reforestación y en el uso de diversas especies de árboles nativas;
+
+IX. Promover el uso de especies tropicales nativas con potenciales de usos maderables y no maderables;
+
+X. Coordinarse con la Unidad de Fomento y Protección Forestal y la Dirección de Administración, para determinar la producción de plantas y especies;
+
+XI. Autorizar la entrega de plantas producidas en los viveros de la COMESFOR y, en coordinación con la Unidad de Fomento y Protección Forestal, operar la distribución de las mismas a los productores forestales;
+
+XII. Proponer al Director General de la COMESFOR a los responsables de los viveros a cargo de la COMESFOR;
+
+XIII. Supervisar que en el proceso de elaboración de las propuestas de programas se apliquen las políticas y normas vigentes para cada caso;
+
+XIV. Mantener informado al Director General de las actividades realizadas; y
+
+XV. Las demás que en el ámbito de su competencia le asigne el Director General.
+
+### CAPÍTULO IV (SIC). DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
+
+###### Artículo 17.
+
+El Director General, previo acuerdo con el Secretario, será suplido en sus ausencias no mayores a 15 días por el servidor público subalterno que él designe y en ausencias mayores a 15 días, por el servidor público que designe el Gobernador del Estado a propuesta del Secretario.
+
+### CAPÍTULO VI. DE LAS RELACIONES LABORALES
+
+###### Artículo 18.
+
+Las relaciones de trabajo entre la COMESFOR y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
+
+Se consideran categorías de confianza las del director general, directores de área, titulares de unidad, jefes de departamento, jefes de área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios del órgano.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión Estatal Forestal, publicado en el Suplemento "G" al Periódico Oficial del Estado número 6941, de fecha 14 de marzo de 2009; y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con anterioridad a la vigencia del presente Reglamento se venían tramitando en las subdirecciones que se reestructuran, continuarán su trámite ante la unidad administrativa respectiva, hasta su total resolución.
+
+CUARTO. Para el buen funcionamiento y operatividad de la Comisión Estatal Forestal, se deberán actualizar los manuales respectivos.
+
+DADO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO A LOS DOCE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOCE.
+
+ATENTAMENTE
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. GERARDO GUERRERO PÉREZ
+
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
+
+ING. IGNACIO DE JESÚS LASTRA MARÍN
+
+SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.
+
+DR. MIGUEL SALIM NAZUR RIVERA
+
+DIRECTOR GENERAL DE LA COMISIÓN ESTATAL FORESTAL.
