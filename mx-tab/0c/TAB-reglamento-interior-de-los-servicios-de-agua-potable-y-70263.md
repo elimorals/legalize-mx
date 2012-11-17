@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-los-servicios-de-agua-potable-y-70263"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de septiembre de 2009.
 
@@ -776,3 +778,17 @@ SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS.
 ING. CLISCERIA RODRÍGUEZ ALVARADO
 
 DIRECTORA GENERAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TABASCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco (SAPAET), publicado en el Suplemento al Periódico Oficial del Estado número 6995, de fecha 19 de septiembre del año 2009.
+
+TERCERO. Se derogan las disposiciones legales y administrativas que se opongan al presente Reglamento.
+
+CUARTO. En tanto no se expidan los manuales de organización, de procedimientos y demás normatividad inherente al funcionamiento de la Comisión, el Director General queda facultado para resolver las dudas o controversias que se susciten con motivo de la aplicación de este Reglamento.
+
+QUINTO. Los asuntos pendientes al entrar en vigor este Reglamento que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a que se les haya atribuido competencia en este Reglamento.
