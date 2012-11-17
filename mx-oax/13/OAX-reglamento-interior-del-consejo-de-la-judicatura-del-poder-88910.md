@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8891
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-30"
-last_updated: "2012-06-30"
+last_updated: "2012-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de junio de 2012
 
@@ -1931,6 +1931,8 @@ XV. Participar en la elaboración del anteproyecto del presupuesto de egresos de
 
 XVI. Las demás que establezcan la Ley, el presente reglamento, acuerdos, su reglamento interno y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 129.
 
 Para el correcto ejercicio de las atribuciones que le otorga la Ley, el presente reglamento, los acuerdos que emita el Pleno y demás disposiciones legales aplicables la Dirección de Administración, tendrá la siguiente estructura orgánica:
@@ -1945,23 +1947,29 @@ b) Departamento de Servicios Generales; y
 
 c) Departamento de Control Patrimonial y Bienes en Custodia;
 
-III. Una Jefatura de Unidad de Recursos Humanos, que estará integrada por los siguiente Departamentos:
+III. Una Jefatura de Unidad de Recursos Humanos, que estará integrada por los siguientes Departamentos:
 
 a) Departamento de Control de Personal;
 
 b) Departamento de Nómina;
 
-c) Departamento de Seguridad Social, Seguro de Vida y Desarrollo de Personal; y
+c) Departamento de Seguridad Social, Seguro de Vida y Desarrollo de Personal, y
 
-d) Departamento de Atención Laboral.
+d) Departamento de supervisión de personal.
 
-IV. Un Departamento Jurídico;
+IV. Un Departamento de Atención Laboral;
 
-V. Un Departamento de Seguridad Interna; y
+V. Un Departamento de Enlace y Vinculación administrativa con las áreas de la Dirección de Administración;
 
-VI. Administradores Regionales.
+VI. Un Departamento de Enlace y Vinculación administrativa con las áreas del Sistema Acusatorio Advesarial;
 
-Para el desempeño y cumplimiento de sus funciones, la Dirección de Administración contará además con el personal administrativo necesario que autorice el presupuesto de egresos.
+VII. Un Departamento Jurídico;
+
+VIII. Un Departamento de Seguridad Interna; y
+
+IX. Administradores Regionales.
+
+Para el desempeño y cumplimiento de sus funciones, la Dirección de Administración contará además con áreas de apoyo como lo son los Centros de Desarrollo Infantil, y el Comité de Adquisiciones , Arrendamientos y Servicios del poder Judicial, además del personal administrativo necesario que autorice el presupuesto de egresos.
 
 ###### Artículo 130.
 
@@ -2127,7 +2135,9 @@ IX. Presentar a la Comisión de Administración, su programa anual de trabajo y 
 
 X. Las demás que establezcan la Ley, el presente reglamento, acuerdos, su reglamento interno y demás disposiciones legales aplicables.
 
-###### Artículo 140.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 140
 
 Para el correcto ejercicio de las atribuciones que le otorga la Ley, el presente reglamento, los acuerdos que emita el Pleno y demás disposiciones legales aplicables la Dirección de Infraestructura Judicial, tendrá la siguiente estructura orgánica:
 
@@ -2135,11 +2145,13 @@ I. Un Director, quien representará a éste Órgano de Administración Interna;
 
 II. Un Departamento de Proyectos y Costos;
 
-III. Un Departamento de Infraestructura; y
+III. Un Departamento de infraestructura;
 
-IV. Un Departamento de Protección Civil.
+IV. Un Departamento de Protección Civil; y
 
-Para el desempeño y cumplimiento de sus funciones, la Dirección de Infraestructura Judicial contará además con el personal administrativo necesario que autorice el presupuesto de egresos.
+V. Un Departamento de integración de expedientes y control de obras
+
+Para el desempeño y cumplimiento de sus funciones, la Dirección de Infraestructura Judicial, contará además con el personal administrativo necesario que autorice el presupuesto de egresos.
 
 ###### Artículo 141.
 
@@ -3116,3 +3128,13 @@ SEGUNDO. Se abroga el reglamento de la Ley Orgánica del Poder Judicial del Esta
 DADO EN EL SALON DE PLENOS DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; AGENCIA DE POLICÍA MUNICIPAL REYES MANTECÓN, SAN BARTOLO COYOTEPEC, OAXACA, VEINTISÉIS DE JUNIO DE DOS MIL DOCE.
 
 LIC. ALFREDO RODRIGO LAGUNAS RIVERA. LIC. MARIA EUGENIA VILLANUEVA ABRAJÁN. LIC. VIOLETA MARGARITA SARMIENTO SANGINÉS. LIC. ELSA ANGÉLICA ALEJO TORRES. DR. JOSÉ ANTONIO ÁLVAREZ HERNÁNDEZ Y LIC. CELIA ASPIROZ GARCÍA. SEIS RÚBRICAS ILEGIBLES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Comuníquese la presente determinación a la Comisión de Administración y a los titulares de las Direcciones de Administración e Infraestructura Judicial, para los efectos a que haya lugar.
+
+TERCERO. Asimismo, publíquese la citada reforma en el Periódico Oficial del Gobierno del Estado, en el Boletín Judicial y en el portal de Internet del Poder Judicial.
