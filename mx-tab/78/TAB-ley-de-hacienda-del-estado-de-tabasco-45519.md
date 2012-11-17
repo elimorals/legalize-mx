@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2010-05-01"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 > <small>N. DE E. LA PROMULGACIÓN DE FECHA 29 DE ABRIL DE 2010 DEL DECRETO 008 POR EL QUE SE PUBLICAN REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE TABASCO, CARECE DEL REFRENDO POR PARTE DEL SECRETARIO DE GOBIERNO. LA RESOLUCIÓN A LA CONTRADICCIÓN DE TESIS 123/2013, DERIVADA DE DIVERSOS JUICIOS DE AMPARO INTERPUESTOS POR PARTICULARES, SE PRONUNCIÓ EN EL SENTIDO DE QUE ES REQUISITO EL REFRENDO DEL SECRETARIO DE GOBIERNO EN EL DECRETO PROMULGATORIO PARA SU OBLIGATORIEDAD, DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTÍCULO 53 DE LA CONSTITUCIÓN DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -3443,10 +3443,8 @@ QUINTO.- Para la determinación de los pagos por concepto del impuesto estableci
 
 SEXTO.- La Secretaría queda habilitada para establecer las medidas necesarias a efecto que las contribuciones que previene esta Ley sean pagadas por todos aquellos medios de pago, incluyendo los electrónicos, que faciliten al contribuyente el cumplimiento de sus obligaciones fiscales.
 
-SÉPTIMO.- Con la finalidad de fortalecer las finanzas públicas de los municipios, a partir de la entrada en vigor del presente artículo y hasta en tanto se realiza la correspondiente adición a la Ley de Coordinación Fiscal y Financiera del Estado, se aplicará lo siguiente:
+SÉPTIMO.- (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2012)
 
-I. El 100% de las cantidades enteradas por los Municipios al erario estatal, en su carácter de contribuyentes, por concepto del Impuesto Sobre Nómina, se destinará a un Fondo de Resarcimiento de Contribuciones Estatales, el cual será distribuido entre los Municipios de la entidad, con base en el porcentaje que representa el monto del impuesto pagado por cada uno de ellos del monto total del impuesto pagado por el conjunto de los Municipios;
+P.O. 17 DE NOVIEMBRE DE 2012.
 
-II. Los Municipios, sus organismos y entidades, deberán estar inscritos en el padrón del Impuesto sobre Nómina, auto determinar el Impuesto a su cargo en términos de lo dispuesto en la Ley de Hacienda del Estado y presentar la declaración correspondiente de manera mensual.; y
-
-III. Si así lo acuerdan los Municipios y la Secretaría, podrán celebrar convenios para la compensación de fondos.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
