@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2012-09-27"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1305,27 +1305,181 @@ II. Tarifas inferiores a las determinadas por la Secretaría de Comercio y Fomen
 
 III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
 
-#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+###### Art. 89
 
-###### Art. 91-A.
+Ter. La Secretaría de Salud Jalisco, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos, procurando la coordinación con las autoridades educativas, estatales y federales.
 
-La Comisión de Arbitraje Médico del Estado de Jalisco se integra como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, dotado de plena autonomía para la efectiva realización de sus facultades de planeación, organización y eficiente funcionamiento y para el correcto ejercicio de su presupuesto en términos de la legislación aplicable.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCION SEGUNDA. De la comisión estatal de bioética e investigación de Jalisco
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90.
+
+Los establecimientos de salud de los sectores público y privado del Sistema Estatal de Salud contarán con un comité hospitalario de bioética, para el análisis y deliberación de decisiones respecto de los problemas o dilemas bioéticos que se presenten en la práctica clínica, así como de la educación bioética permanente de sus miembros y del personal del establecimiento Las opiniones del Comité no serán vinculantes y no relevan de las obligaciones y responsabilidades al médico tratante.
+
+Los comités hospitalarios de bioética serán interdisciplinarios y se integrarán con personal médico de distintas especialidades, profesionales de psicología, enfermería, trabajo social, filosofía, bioeticistas, abogados con conocimientos en derecho de la salud y representantes del núcleo afectado o de personas usuarias de los servicios de salud, y sus integrantes podrán estar adscritos o no a la unidad de salud o establecimiento.
+
+La dirección o el órgano administrador de los establecimientos brindarán los elementos necesarios para el correcto funcionamiento de su respectivo Comité. Para el correcto desempeño del Comité los órganos de dirección del establecimiento de salud garantizarán su autonomía y el respeto a los derechos laborales de los miembros del Comité que sean trabajadores de la entidad respectiva.
+
+Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud a través de la Comisión Estatal de Bioética e Investigación de Jalisco, de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Bis. La Comisión Estatal de Bioética e Investigación en Jalisco es el órgano especializado dependiente de la Secretaría de Salud, dotado de autonomía técnica y operativa, que tiene por objeto el análisis de situaciones que atañen a las implicaciones éticas de la medicina, la ciencia y la tecnología en la vida de los pacientes, para promover el estudio y la cultura de la bioética en el estado, y fomentar una actitud de reflexión, deliberación y discusión interdisciplinaria y multisectorial de estos temas y desarrollar normas éticas para la atención, la investigación y la docencia en salud.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Ter. Para el cumplimiento de su objeto, la Comisión Estatal de Bioética e Investigación de Jalisco tendrá las siguientes responsabilidades:
+
+I. Coadyuvar con la Comisión Nacional de Bioética;
+
+II. Recomendar a la Secretaría de Salud políticas públicas de salud vinculadas con la temática bioética;
+
+III. Fungir como órgano de consulta estatal sobre temas o casos bioéticos;
+
+IV. Identificar y sistematizar los elementos que inciden en una cuestión bioética, a fin de ofrecer información pertinente sobre los mismos a instituciones, grupos sociales o cualquier otro sector interesado:
+
+V. Coadyuvar para que el derecho a la protección de la salud se haga efectivo en los temas de investigación para la salud, calidad de la atención médica y respeto a los derechos de pacientes y profesionales de la salud;
+
+VI. Propiciar debates sobre cuestiones bioéticas con la participación de los diversos sectores de la sociedad;
+
+VII. Fomentar la enseñanza de la bioética, particularmente en lo que toca a la atención médica y la investigación para la salud;
+
+IX. Promover que en los establecimientos de salud públicos y privados se organicen y funcionen comités hospitalarios de bioética y comités de ética en investigación, con las facultades que les otorguen la Ley General de Salud, esta ley y las disposiciones reglamentarias aplicables, así como apoyar la capacitación de los miembros de estos comités;
+
+X. Establecer y difundir criterios que deban considerar los comités hospitalarios de bioética y comités de ética en investigación para el desarrollo de sus actividades;
+
+XI. Organizar y participar en actividades de investigación y de docencia vinculadas con su objeto;
+
+XII. Opinar, en el campo de su competencia, sobre los protocolos de investigación en salud que se sometan a su consideración;
+
+XIII. Fomentar la comunicación con universidades, instituciones de educación superior, grupos académicos y de la sociedad civil vinculados con cuestiones bioéticas;
+
+XIV. Difundir las recomendaciones y opiniones bioéticas emitidas por la Comisión mediante publicaciones académicas;
+
+XV. Desarrollar actividades para los establecimientos de salud, los profesionales de la salud y la sociedad en general para fomentar el reconocimiento de los principios y valores éticos, así como los derechos que deben respetarse en materia de salud;
+
+XVI. Suscribir los convenios de colaboración que sean necesarios para el cumplimiento de su objeto, y
+
+XVII. Las demás atribuciones que le asigne el Secretario de Salud.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Quáter. La Comisión Estatal de Bioética e Investigación de Jalisco contará con:
+
+I. Un Consejo Consultivo, y
+
+II. Un Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Quinquies. El Consejo se integrará por el Secretario Técnico y cuatro consejeros permanentes, que serán designados por el Secretario de Salud en su carácter de Presidente del Consejo. Éstos tendrán derecho a voz y voto.
+
+El Secretario de Salud podrá invitar a participar en el Consejo a profesionales y personas de la sociedad civil y de la comunidad médica, quienes tendrán derecho a voz pero no a voto.
+
+Además podrá invitar a los integrantes de los Comités Hospitalarios de Bioética.
+
+A excepción del Secretario Técnico del Consejo, los servidores públicos designados como consejeros tendrán carácter honorífico.
+
+Los miembros del Consejo durarán en su encargo cuatro años y, a excepción del Secretario Técnico, no podrán ser ratificados para periodos posteriores.
+
+Los consejeros podrán designar a sus respectivos suplentes para los casos de ausencias.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Sexies. El Consejo sesionará ordinariamente por lo menos cada dos meses. Sus decisiones, acuerdos y recomendaciones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad. Asimismo, sesionará de manera extraordinaria cuando la urgencia de algún asunto así lo requiera.
+
+Se considerará que habrá quórum para la celebración de las sesiones cuando éstas se realicen con la asistencia de la mitad más uno de sus miembros y entre ellos se encuentre el Secretario Técnico, que representará al Presidente en sus ausencias
+
+De cada sesión deberá levantarse acta debidamente circunstanciada y suscrita por quienes participaron en ella.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Septies. Corresponde al Consejo el ejercicio de las siguientes facultades:
+
+I. Establecer las políticas generales a que deba sujetarse la Comisión Estatal de Bioética e Investigación de Jalisco;
+
+II. Elaborar las propuestas de políticas públicas de salud vinculadas con la temática bioética;
+
+III. Aprobar los lineamientos para la participación de los diferentes sectores de la sociedad involucrados en la materia, así como para dar seguimiento y respuesta a sus peticiones;
+
+IV. Conocer de los asuntos que considere necesarios para el cumplimiento de su objeto y elaborar recomendaciones bioéticas;
+
+V. Analizar y, en su caso, aprobar el informe anual de actividades de la Comisión Estatal de Bioética e Investigación de Jalisco;
+
+VII. Proponer mecanismos de coordinación y cooperación para la eficaz ejecución de las atribuciones a cargo de los Comités Hospitalarios de Bioética;
+
+VIII. Emitir recomendaciones a las instancias correspondientes sobre modificaciones a proyectos legislativos o al marco normativo, que tengan relación con la bioética;
+
+IX. Aprobar el reglamento interno de funcionamiento del Consejo, y
+
+X. Las demás que le confiera el Secretario de Salud.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 90
+
+Octies. El Secretario Técnico será nombrado y removido por el Secretario de Salud a propuesta del Consejo, y le corresponderán las atribuciones siguientes:
+
+I. Ejercer la representación legal de la Comisión Estatal de Bioética e Investigación, cuando así lo acuerde o delegue el Secretario de Salud;
+
+II. Conducir la operación de la Comisión Estatal de Bioética e Investigación de Jalisco;
+
+III. Dar seguimiento a los acuerdos del Consejo y verificar su cumplimiento oportuno;
+
+IV. Desempeñar las funciones y comisiones que el Consejo le encomiende y mantenerlo informado sobre su desarrollo;
+
+VII. Proporcionar la información y cooperación técnica que le sea requerida por las unidades administrativas de la Secretaría de Salud y por otras dependencias y entidades de la administración pública estatal;
+
+VIII. Elaborar el informe anual de actividades de la Comisión Estatal de Bioética e Investigación de Jalisco y todos aquellos que le solicite el Consejo;
+
+IX. Enriquecer, mantener y custodiar el acervo documental de la Comisión Estatal de Bioética e Investigación;
+
+X. Expedir y certificar las copias de los documentos que existan en los archivos a su cargo, cuando proceda, y
+
+XII. Las demás que le sean asignadas por el Consejo o por el Secretario de Salud.
+
+> <small>N. DE E. SE ELIMINAN LOS ARTÍCULOS DEL 91-A AL 91-L Y SE ADICIONAN DEL 91-TER AL 91-UNDECIES.</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES SECCIÓN SEGUNDA], P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCION TERCERA. De la comisión de arbitraje médico del Estado de Jalisco
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 91-A], P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 91.
+
+La Comisión de Arbitraje Médico del Estado de Jalisco se integra como un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, dotado de plena autonomía para la efectiva realización de sus facultades de planeación, organización y eficiente funcionamiento y para el correcto ejercicio de su presupuesto en términos de la legislación aplicable.
 
 Para los efectos de esta sección, cuando se utilice el término Comisión se estará haciendo referencia a la Comisión de Arbitraje Médico del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 91-B], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-B.
+###### Art. 91
 
-La Comisión tendrá por objeto difundir, asesorar, proteger y defender los derechos de los usuarios y prestadores de servicios de atención médica, promoviendo la equidad en sus funciones de conciliación y arbitraje en los asuntos que se sometan a su conocimiento.
+Bis. La Comisión tendrá por objeto difundir, asesorar, proteger y defender los derechos de los usuarios y prestadores de servicios de atención médica, promoviendo la equidad en sus funciones de conciliación y arbitraje en los asuntos que se sometan a su conocimiento.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 91-C], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-C.
+###### Art. 91
 
-La Comisión tendrá las siguientes atribuciones:
+Ter. La Comisión tendrá las siguientes atribuciones:
 
 I. Realizar labores de divulgación, orientación, apoyo y asesoría en materia de derechos y obligaciones de los usuarios y prestadores de servicios de salud, así como orientarles sobre las acciones civiles y penales que les puedan corresponder por responsabilidad profesional, por daño patrimonial o moral o cualesquiera otras que pudieran presentarse.
 
@@ -1335,63 +1489,61 @@ II. Impulsar la formación y fortalecimiento de la cultura de respeto a los dere
 
 III. Recibir, atender e investigar las quejas que presenten los interesados, por la posible irregularidad o negativa injustificada en la prestación de servicios de atención médica;
 
-IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual, la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan;
+IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-Toda aquella persona que manifieste ante la Comisión ser profesional de la medicina, deberá acreditarlo presentando el original de la cédula profesional correspondiente. Si en la investigación que realiza la Comisión alguna de las partes que se ha presentado o se le esté señalando como profesionista técnico o auxiliar de salud y no sea acreditado esa profesión u oficio con documentos inobjetables, la Comisión deberá presentar denuncia de hechos ante la Procuraduría de Justicia del Estado a fin de que se investigue sobre la probable comisión de algún delito;
+Toda aquella persona que manifieste ante la Comisión ser profesional de la medicina, deberá acreditarlo presentando el original de la cédula profesional correspondiente. Si en la investigación que realiza la Comisión, de alguna de las partes que se ha presentado o se le esté señalando como profesionista técnico o auxiliar de salud no sea acreditada esa profesión u oficio con documentos inobjetables, la Comisión deberá presentar denuncia de hechos ante la Procuraduría de Justicia del Estado a fin de que se investigue sobre la probable comisión de algún delito;
 
 V. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos por alguna de las causas que se mencionan:
 
-a. Probables hechos y omisiones, de usuarios y prestadores, derivados de la prestación del servicio de atención médica; y
+a) Probables hechos y omisiones, de usuarios y prestadores, derivados de la prestación del servicio de atención médica, y
 
-b. Probables casos de negligencia, imprudencia, impericia o inadvertencia, con consecuencia sobre la salud del usuario.
+b) Probables casos de negligencia, imprudencia, impericia o inadvertencia, con consecuencia sobre la salud del usuario.
 
 Para tal fin la Comisión podrá formular propuestas de conciliación de manera que se busque la solución pronta del conflicto planteado en beneficio de las partes;
 
 VI. Fungir como árbitro y pronunciar los laudos que correspondan cuando las partes se sometan expresamente al arbitraje;
 
-VII. Emitir sugerencias para el mejoramiento de la prestación de los servicios de salud y opiniones técnicas cuando sean necesarias para la substanciación de las quejas a que atienda.
+VII. Emitir sugerencias para el mejoramiento de la prestación de los servicios de salud y opiniones técnicas cuando sean necesarias para la sustanciación de las quejas a que atienda.
 
-Para la emisión de las opiniones técnicas deberá auxiliarse en la consulta a los Colegios de profesionistas en salud y los demás que se requieran según la naturaleza del caso;
+Para la emisión de las opiniones técnicas deberá auxiliarse en la consulta a los colegios de profesionistas en salud y los demás que se requieran según la naturaleza del caso;
 
 VIII. Hacer del conocimiento del órgano de control competente, la negativa expresa o tácita de un servidor público de proporcionar la información que le hubiere solicitado la Comisión, en ejercicio de sus atribuciones;
 
-IX. Hacer del conocimiento de las autoridades competentes, y de los colegios, academias, asociaciones y consejos de médicos, así como de los comités de ética u otros similares, la negativa expresa o tácita de los prestadores de servicios, de proporcionar la información que le hubiere solicitado la Comisión;
+IX. Hacer del conocimiento de las autoridades competentes, y de los colegios, academias, asociaciones y consejos de médicos, así como de los comités de ética u otros similares, la negativa expresa o tácita de los prestadores de servicios de proporcionar la información que le hubiere solicitado la Comisión;
 
-X. Orientar a los usuarios y autoridades, respecto de los Colegios de Profesionistas e Instituciones de Educación Superior a los que podrán presentar sus solicitudes de dictámenes o peritajes médicos;
+X. Orientar a los usuarios y autoridades respecto de los Colegios de Profesionistas e Instituciones de Educación Superior a los que podrán presentar sus solicitudes de dictámenes o peritajes médicos;
 
 XI. Celebrar convenios, contratos y acuerdos con los sectores público, privado y social necesarios para su operación;
 
-XII. Sugerir, a su coordinadora de sector, anteproyectos de reformas, modificaciones, actualizaciones o adecuaciones al marco normativo legal y reglamentario en materia de derechos y obligaciones de los usuarios y prestadores de servicios de atención médica;
+XII. Sugerir a su coordinadora de sector anteproyectos de reformas, modificaciones, actualizaciones o adecuaciones al marco normativo legal y reglamentario en materia de derechos y obligaciones de los usuarios y prestadores de servicios de atención médica;
 
-XIII. Administrar sus recursos humanos, así como los materiales y financieros que conformen su patrimonio, con sujeción a las disposiciones legales aplicables; y
+XIII. Administrar sus recursos humanos, así como los materiales y financieros que conformen su patrimonio, con sujeción a las disposiciones legales aplicables, y
 
 XIV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 91-D], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-D.
+###### Art. 91
 
-Para el cumplimiento de sus funciones, la Comisión contará con:
+Quáter. Para el cumplimiento de sus funciones, la Comisión contará con:
 
 I. Un Consejo;
 
 II. Un Comisionado;
 
-III. Dos Subcomisionados; y
+III. Dos subcomisionados, y
 
-IV. Las unidades administrativas que determine su Reglamento Interno.
+IV. Las unidades administrativas que determine su reglamento interno.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-E], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-E.
+###### Art. 91
 
-El Consejo se integrará por:
+Quinquies. El Consejo se integrará por:
 
 I. El Comisionado;
 
-II. Un representante de la Asociación Médica de Jalisco, Colegio Médico A.C.;
+II. Un representante de la Asociación Médica de Jalisco, Colegio Médico, A. C.;
 
 III. Un representante por la Federación Jalisciense de Colegios, Asociaciones y Academias de Profesionistas;
 
@@ -1401,21 +1553,19 @@ V. Un representante del Consejo Coordinador de Colegios de Profesionistas;
 
 VI. Un representante de la Universidad de Guadalajara;
 
-VII. Un representante de la Universidad Autónoma de Guadalajara;
+VII. Un representante de la Universidad Autónoma de Guadalajara, y
 
 VIII. Un representante de la Secretaría de Salud Jalisco.
 
-La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII y VIII, deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y por tanto no remunerado, excepto en el caso del Comisionado.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2004)</small>
+La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII Y VIII deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y, por tanto, no remunerado, excepto en el caso del Comisionado.
 
 Podrán acreditar un representante ante el Consejo con derecho a voz, previa invitación que les gire la Comisión, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicio Social de los Trabajadores del Estado y la Comisión de Higiene y Salud Pública del Congreso del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-F], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-F.
+###### Art. 91
 
-El Consejo sesionará ordinariamente, por lo menos una vez cada dos meses, extraordinariamente cada que se requiera por convocatoria del Comisionado y celebrará una sesión especial anual para la aprobación del Programa Operativo Anual. Las decisiones se tomarán por mayoría de votos, en caso de empate el Comisionado tendrá voto de calidad.
+Sexies. El Consejo sesionará ordinariamente, por lo menos una vez cada dos meses, extraordinariamente cada que se requiera por convocatoria del Comisionado, y celebrará una sesión especial anual para la aprobación del Programa Operativo Anual. Las decisiones se tomarán por mayoría de votos; en caso de empate, el Comisionado tendrá voto de calidad.
 
 El Consejo tendrá las siguientes funciones:
 
@@ -1429,21 +1579,21 @@ IV. Evaluar los resultados de los programas y planes de trabajo, con base en los
 
 V. Vigilar la correcta aplicación de los recursos asignados a la Comisión;
 
-VI. Revisar la estructura orgánica básica de la Comisión, y proponer al titular del Ejecutivo del Estado para su aprobación, las modificaciones que juzgue convenientes;
+VI. Revisar la estructura orgánica básica de la Comisión, y proponer al titular del Ejecutivo del Estado para su aprobación las modificaciones que juzgue convenientes;
 
-VII. Aprobar su reglamento interior de sesiones, y el Manual de Organización de la Comisión;
+VII. Aprobar su reglamento interior de sesiones y el Manual de Organización de la Comisión;
 
-VIII. Proponer al Ejecutivo Estatal, por conducto de su coordinadora de sector, modificaciones al Reglamento Interior de la Comisión;
+VIII. Proponer al Ejecutivo estatal, por conducto de su coordinadora de sector, modificaciones al Reglamento Interior de la Comisión;
 
-IX. Autorizar la adquisición o la enajenación de sus bienes inmuebles, siempre y cuando exista justificación para ello, y otorgar poderes especiales para actos de dominio al Comisionado; y
+IX. Autorizar la adquisición o la enajenación de sus bienes inmuebles, siempre y cuando exista justificación para ello, y otorgar poderes especiales para actos de dominio al Comisionado, y
 
 X. Las demás que sean necesarias para el adecuado ejercicio de las señaladas en el presente artículo.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-G], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-G.
+###### Art. 91
 
-El Comisionado será nombrado por el Ejecutivo Estatal de entre una terna propuesta por el Consejo, y tendrá las siguientes atribuciones:
+Septies. El Comisionado será nombrado por el Ejecutivo estatal de entre una terna propuesta por el Consejo, y tendrá las siguientes atribuciones:
 
 I. Representar a la Comisión en los asuntos que se deriven de las funciones de la misma;
 
@@ -1453,13 +1603,13 @@ III. Nombrar y remover a los servidores públicos de la Comisión, así como exp
 
 IV. Nombrar apoderados para actos de administración y para pleitos y cobranzas, conforme a las disposiciones vigentes aplicables;
 
-V. Delegar, en sus subalternos cualesquiera de sus facultades, salvo aquellas que esta Ley y sus reglamentos dispongan que deberán ser ejercidas directamente por él;
+V. Delegar en sus subalternos cualesquiera de sus facultades, salvo aquellas que esta ley y sus reglamentos dispongan que deberán ser ejercidas directamente por él;
 
-VI. Proponer al Consejo las políticas de administración y de servicios de la Comisión;
+VI. Proponer al Consejo las políticas de administración y de servicios de la Comisión,
 
 VII. Vigilar el cumplimiento del objeto de la Comisión;
 
-VIII. Presentar al Consejo para su aprobación, los planes de trabajo, informes de actividades y estados financieros anuales del Organismo;
+VIII. Presentar al Consejo para su aprobación los planes de trabajo, informes de actividades y estados financieros anuales del organismo;
 
 IX. Formular el anteproyecto de Programa Operativo Anual y Presupuesto de la Comisión, y someterlo a la consideración del Consejo;
 
@@ -1467,25 +1617,25 @@ X. Instrumentar los sistemas y procedimientos que permitan la mejor aplicación 
 
 XI. Realizar tareas de difusión relacionadas con el objeto de la Comisión;
 
-XII. Suscribir los contratos necesarios para la operación de la Comisión, una vez que se hubieren cumplido los procedimientos de adjudicación correspondientes, con estricto apego a la Ley de Adquisiciones y Enajenaciones del Estado, la Ley de Obras Públicas del Estado, la Ley de Presupuesto, Contabilidad y Gasto Público Estatal y demás ordenamientos jurídicos aplicables;
+XII. Suscribir los contratos necesarios para la operación de la Comisión, una vez que se hubieren cumplido los procedimientos de adjudicación correspondientes, con estricto apego a la Ley de Adquisiciones y Enajenaciones del Estado, la Ley de Obras Públicas del Estado, la Ley del Presupuesto, Contabilidad y Gasto Público estatal y demás ordenamientos jurídicos aplicables;
 
 XIII. Suscribir los acuerdos o convenios de coordinación, concertación y colaboración, con dependencias y entidades del sector público y con organismos del sector privado y social;
 
 XIV. Planear y dirigir técnica y administrativamente el funcionamiento de la Comisión;
 
-XV. Presentar al Ejecutivo Estatal, un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, y
+XV. Presentar al Ejecutivo estatal un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, y
 
-XVI. Las demás que el Consejo, esta Ley y otras disposiciones legales le confieran.
+XVI. Las demás que el Consejo, esta ley y otras disposiciones legales le confieran.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-H], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-H.
+###### Art. 91
 
-El Comisionado durará en su encargo un periodo de cuatro años y podrá reelegirse por una sola ocasión.
+Octies. El Comisionado durará en su encargo un periodo de cuatro años y podrá reelegirse por una sola ocasión.
 
 Para ser nombrado Comisionado se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y tener por lo menos cinco años de residencia en el Estado;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y tener por lo menos cinco años de residencia en el estado;
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
@@ -1493,35 +1643,35 @@ III. Tener título legalmente expedido y registrado de licenciatura en medicina 
 
 IV. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión;
 
-V. No haber sido condenado, por sentencia ejecutoriada, por delito intencional; y
+V. No haber sido condenado, por sentencia ejecutoriada, por delito intencional, y
 
 VI. No desempeñar ningún cargo directivo de carácter público al momento de su designación.
 
-A partir del momento de su designación el Comisionado deberá abstenerse de ejercer cargo, comisión o empleo en los sectores público, privado o social, con excepción de la docencia.
+A partir del momento de su designación, el Comisionado deberá abstenerse de ejercer cargo, comisión o empleo en los sectores público, privado o social, a excepción de la docencia.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-I], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-I.
+###### Art. 91
 
-Para auxiliar al Comisionado en el ejercicio de las responsabilidades que le corresponden, contará con el apoyo de dos Subcomisionados de igual jerarquía:
+Nonies. Para auxiliarse el Comisionado en el ejercicio de las responsabilidades que le corresponden, contará con el apoyo de dos subcomisionados de igual jerarquía:
 
 I. Un médico, y
 
 II. Un abogado.
 
-Los Subcomisionados deberán reunir los mismos requisitos de elegibilidad que el Comisionado.
+Los subcomisionados deberán reunir los mismos requisitos de elegibilidad que el Comisionado.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 91-J], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-J.
+###### Art. 91
 
-Corresponde a los Subcomisionados el ejercicio de las siguientes facultades:
+Decies. Corresponde a los subcomisionados el ejercicio de las siguientes facultades:
 
 I. Auxiliar al Comisionado, dentro del ámbito de su competencia, en el ejercicio de sus atribuciones;
 
 II. Desempeñar los encargos que el Comisionado les encomiende;
 
-III. Representar a la Comisión en los actos que su Titular determine por acuerdo expreso;
+III Representar a la Comisión en los actos que su titular determine por acuerdo expreso;
 
 IV. Acordar con el Comisionado los asuntos de su unidad administrativa;
 
@@ -1529,55 +1679,31 @@ V. Planear, programar, organizar, dirigir y evaluar las actividades de su unidad
 
 VI. Proporcionar la información que solicite el Comisionado;
 
-VII. Coordinarse entre sí para el mejor despacho de los asuntos competencia de la Comisión;
+VII. Coordinarse entre sí para el mejor despacho de los asuntos de competencia de la Comisión;
 
-VIII. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia; y
+VIII. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia, y
 
 IX. Las demás que las disposiciones legales y reglamentarias le confieran de manera personal y directa.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-K], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-K.
+###### Art. 91
 
-El procedimiento para la resolución de controversias será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte.
+Undecies. El procedimiento para la resolución de controversias será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte.
 
 Los procedimientos de arbitraje y amigable composición se sujetarán al Reglamento de Procedimientos para la Atención de Quejas que al efecto se expida.
 
-El arbitraje, en lo conducente, se sujetará a los numerales 730, 732, 739, 740, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756 y 757 del Código de Procedimientos Civiles del Estado de Jalisco.
+El arbitraje, en lo conducente, se sujetará a los artículos 730, 732, 739, 740, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756 y 757 del Código de Procedimientos Civiles del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES ARTÍCULO 91-L], P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
-###### Art. 91-L.
+###### Art. 91
 
-La estructura orgánica interna de la Comisión será la que fije su Reglamento Interior.
-
-###### Art. 90.
-
-El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones federales de seguridad social la prestación de servicios de salud para sus servidores públicos, en los términos de la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
-
-#### SECCION PRIMERA. De los usuarios de los servicios de salud
-
-###### Art. 91.
-
-La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
-
-Art. 91 bis.- Los establecimientos de salud, de segundo y tercer nivel, del sector público y privado del Sistema Estatal de Salud, podrán contar con un comité hospitalario, el cual será responsable del análisis, discusión y apoyo en la toma de decisiones respecto de los problemas o dilemas bioéticos que se presenten en la práctica clínica, así como de la educación bioética permanente de sus miembros y del personal del establecimiento. Las opiniones del Comité lo relevan de las obligaciones al médico tratante.
-
-Los comités hospitalarios de bioética serán interdisciplinarios y podrán estar integrados por personal médico de distintas especialidades y personas de las profesiones de psicología, enfermería, trabajo social, filosofía o especialistas en bioética, abogados con conocimientos en derecho de la salud y aquellas personas que aporten elementos inherentes a las convicciones espirituales del paciente. Además, podrán participar el paciente o sus familiares, si están interesados.
-
-La Dirección o el órgano administrador de los establecimientos brindarán los elementos necesarios para el correcto funcionamiento de su respectivo Comité. Los integrantes de los Comités no quedan sujetos, en su actuación, a las recomendaciones de la Dirección o el órgano administrador del establecimiento.
-
-Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+Duodecies. La estructura orgánica interna de la Comisión será la que fije su reglamento interior.
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION SEGUNDA. De la participación de la comunidad
+#### SECCION PRIMERA. De los usuarios de los servicios de salud
 
 ###### Art. 92.
 
@@ -1629,9 +1755,7 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los Agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-#### SECCION PRIMERA. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
+#### SECCION SEGUNDA. De la participación de la comunidad
 
 ###### Art. 99.
 
@@ -1703,7 +1827,7 @@ La acción popular podrá ejercitarse por cualquiera persona, bastando para darl
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
+#### SECCION PRIMERA. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
@@ -1739,7 +1863,7 @@ b) Se presentan los siguientes signos de muerte encefálica;
 
 3. Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
 
-II. Registro Estatal de Transplantes: es el órgano administrativo del Consejo Estatal de Trasplantes de Órganos y Tejidos;
+II. Registro Estatal de Trasplantes: es el órgano administrativo del Consejo Estatal de Trasplantes de Órganos y Tejidos;
 
 III. Comité Interno de Trasplantes: es el órgano interdisciplinario integrado con personal de la salud especializado de cada establecimiento de salud autorizado para realizar trasplantes;
 
@@ -1823,9 +1947,9 @@ d) Informará al Procurador General de Justicia del Estado de las circunstancias
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2002)</small>
 
-#### SECCION TERCERA. Del Registro Estatal de Trasplantes
+#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
 
-(REFORMADO Y REUBICADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
 ###### Art. 104-I.
 
@@ -1959,9 +2083,9 @@ El Consejo de Trasplantes para un mejor cumplimiento de sus objetivos, a través
 
 (REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
-#### SECCION CUARTA. De la Participación Social
+#### SECCION TERCERA. Del Registro Estatal de Trasplantes
 
-(REFORMADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
+(REFORMADO Y REUBICADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 104-R.
 
@@ -1971,7 +2095,9 @@ El Consejo de Trasplantes vigilará la correcta aplicación del Reglamento Estat
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION PRIMERA. Del servicio social de los pasantes
+#### SECCION CUARTA. De la Participación Social
+
+(REFORMADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 104-S.
 
@@ -1987,19 +2113,19 @@ El Patronato para la Donación y el Transplante de Órganos y Tejidos tiene por 
 
 ###### Art. 104-U.
 
-El Patronato para la Donación y el Transplante de Órganos y Tejidos, será presidido por quien presida el Sistema Estatal para el Desarrollo Integral de la Familia y su mesa directiva se conformará de acuerdo con el instrumento público que le de formalidad.
+El Patronato para la Donación y el Trasplante de Órganos y Tejidos, será presidido por quien presida el Sistema Estatal para el Desarrollo Integral de la Familia y su mesa directiva se conformará de acuerdo con el instrumento público que le dé formalidad.
 
 (ADICIONADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 104-V.
 
-El Patronato para la Donación y el Transplante de Órganos y Tejidos procurará la participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de salud que participen en el sistema y en el programa estatal de trasplante.
+El Patronato para la Donación y el Trasplante de Órganos y Tejidos procurará la participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de salud que participen en el sistema y en el programa estatal de trasplante.
 
 (ADICIONADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 104-W.
 
-El Patronato para la Donación y Transplante de Órganos y Tejidos, definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por su gestión, escuchando las opiniones del Consejo de Trasplantes.
+El Patronato para la Donación y Trasplante de Órganos y Tejidos, definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por su gestión, escuchando las opiniones del Consejo de Trasplantes.
 
 ## TITULO CUARTO. Recursos humanos para la salud
 
@@ -2067,7 +2193,7 @@ La asignación de los premios será determinada por la votación de jurados que 
 
 ### CAPITULO II. Del servicio social de pasantes y profesionales
 
-#### SECCION SEGUNDA. Del servicio social profesional
+#### SECCION PRIMERA. Del servicio social de los pasantes
 
 ###### Art. 110.
 
@@ -2103,35 +2229,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 La prestación del servicio social de pasantes de licenciaturas diversas a las ciencias de la salud y alumnos de educación media superior, se encauzará preferentemente a requerimientos cuya atención esté relacionada a su formación académica, incluyendo la administración y servicios tales como ludotecas y bibliotecas.
 
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
-
-Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-En la implementación de los programas, se buscará la participación de grupos de autoayuda y de las empresas productoras y comercializadoras de bebidas alcohólicas y de tabaco, con las que se procurará establecer convenios de colaboración para la prevención y atención de las adicciones.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-Las empresas que participen en dichos convenios, podrán acogerse a los beneficios fiscales que la ley les permita, en las (sic) medida de sus aportaciones.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2006)</small>
-
-Al Instituto Jalisciense de Salud Mental le corresponde la coordinación para la prevención y atención de las adicciones sicológicas.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+#### SECCION SEGUNDA. Del servicio social profesional
 
 ###### Art. 114.
 
@@ -2273,13 +2371,39 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
+
+Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En la implementación de los programas, se buscará la participación de grupos de autoayuda y de las empresas productoras y comercializadoras de bebidas alcohólicas y de tabaco, con las que se procurará establecer convenios de colaboración para la prevención y atención de las adicciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Las empresas que participen en dichos convenios, podrán acogerse a los beneficios fiscales que la ley les permita, en las (sic) medida de sus aportaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2006)</small>
+
+Al Instituto Jalisciense de Salud Mental le corresponde la coordinación para la prevención y atención de las adicciones sicológicas.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
 #### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION TERCERA. Del programa para la prevención del tabaquismo
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 127.
 
@@ -2303,7 +2427,7 @@ Con el objeto de proteger la salud de las personas no fumadoras de los efectos d
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+#### SECCION TERCERA. Del programa para la prevención del tabaquismo
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2367,7 +2491,9 @@ II. El número de farmacodependientes que concluyeron o no exitosamente sus trat
 
 Esta información se utilizará exclusivamente con fines estadísticos y sin señalar identidades, para la prevención de la farmacodependencia.
 
-#### SECCION PRIMERA. Definición
+#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 130.
 
@@ -2383,9 +2509,7 @@ IV. Promover y llevar a cabo campañas permanentes de información y orientació
 
 A los establecimientos que vendan o utilicen substancias inhalantes que no se ajusten al control que disponga el Gobierno Estatal y los Ayuntamientos, así como los responsables de los mismos, se les aplicarán las sanciones administrativas (sic) correspondan en los términos de esta Ley.
 
-#### SECCION SEGUNDA. Clasificación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+#### SECCION PRIMERA. Definición
 
 ## TITULO OCTAVO
 
@@ -2901,9 +3025,9 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 ### CAPITULO I. De las autorizaciones
 
-#### SECCION TERCERA. Disposiciones comunes
+#### SECCION SEGUNDA. Clasificación
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 200.
 
@@ -2913,7 +3037,9 @@ Las autorizaciones sanitarias son actos administrativos mediante los cuales la a
 
 Las autorizaciones sanitarias de carácter local tendrán el carácter de permisos.
 
-#### SECCION PRIMERA. Causas de revocación
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 201.
 
@@ -2925,7 +3051,7 @@ II. Permiso: El documento expedido por la autoridad sanitaria para que una perso
 
 III. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+#### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 202.
 
@@ -3026,6 +3152,8 @@ Cuando los establecimientos a que se refiere el artículo 3.°, apartado B, camb
 Las autorizaciones a que se refiere esta ley podrán ser revocadas por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
 ### CAPITULO II. De la revocación de autorizaciones sanitarias
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 210.
 
@@ -3838,3 +3966,7 @@ P.O. 27 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Cualquier referencia a la Ley Estatal de Salud se entenderá hecha a la Ley de Salud del Estado de Jalisco.
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
