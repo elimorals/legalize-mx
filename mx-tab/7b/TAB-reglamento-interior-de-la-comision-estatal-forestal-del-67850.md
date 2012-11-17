@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-comision-estatal-forestal-del-67850"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-14"
-last_updated: "2009-03-14"
+last_updated: "2012-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL FORESTAL DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL FORESTAL
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL FORESTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL FORESTAL, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de marzo de 2009.
 
-QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO Y 7 FRACCIÓN II DE LA LEY ÓRGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO Y 7 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
 CONSIDERANDO.
 
@@ -323,7 +325,7 @@ XXIV. Las demás disposiciones legales y administrativas que le confieran o que 
 
 El Área Geomática tendrá las funciones siguientes:
 
-I. Coordinar la integración del inventario estatal forestal y de suelos, en coadyuvancía con los gobiernos municipales conforme a lo establecido en el artículo 30 de la Ley Forestal del Estado de Tabasco;
+I. Coordinar la integración del inventario estatal forestal y de suelos, en coadyuvancia con los gobiernos municipales conforme a lo establecido en el artículo 30 de la Ley Forestal del Estado de Tabasco;
 
 II. Establecer, en colaboración con otras Unidades Administrativas de la COMESFOR, indicadores de gestión que permitan evaluar la competitividad del sector forestal y medir su desempeño a escala regional y nacional;
 
@@ -714,3 +716,15 @@ SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
 DR. MIGUEL SALIM NAZUR RIVERA
 
 DIRECTOR GENERAL DE LA COMESFOR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión Estatal Forestal, publicado en el Suplemento "G" al Periódico Oficial del Estado número 6941, de fecha 14 de marzo de 2009; y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con anterioridad a la vigencia del presente Reglamento se venían tramitando en las subdirecciones que se reestructuran, continuarán su trámite ante la unidad administrativa respectiva, hasta su total resolución.
+
+CUARTO. Para el buen funcionamiento y operatividad de la Comisión Estatal Forestal, se deberán actualizar los manuales respectivos.
