@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-ciencia-la-tecnologia-e-innovacion-del-1642
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-06"
-last_updated: "2009-02-10"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGIA E INNOVACION DEL ESTADO DE JALISCO -ANTES LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE JALISCO-
 
-LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGIA E INNOVACION DEL ESTADO DE JALISCO
+LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 6 de mayo de 2000.
 
@@ -171,9 +171,21 @@ XXII. Integrar bolsas de trabajo que permitan el mejor y mayor aprovechamiento d
 
 XXIII. Propiciar el establecimiento de un inventario concentrado, así como de servicios de mantenimiento para la infraestructura de investigación;
 
-XXIV. Promover la creación y adecuada operación de laboratorios y centros de investigación de desarrollo tecnológico, para la prestación de servicios de metrología y normalización de materiales, manufacturas y productos elaborados en el Estado, o deban importarse, bajo especificaciones y normas de calidad, manteniendo coordinación directa con el Instituto Jalisciense de la Calidad; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XXV. Las demás funciones que se le fijen mediante la presente Ley, o sean inherentes al cumplimiento de sus fines, de acuerdo con el programa de trabajo, que sea aprobado por el Consejo Directivo.
+XXIV. Promover la creación y adecuada operación de laboratorios y centros de investigación de desarrollo tecnológico, para la prestación de servicios de metrología y normalización de materiales, manufacturas y productos elaborados en el estado, o que deban importarse, bajo especificaciones y normas de calidad, manteniendo coordinación directa con el Instituto Jalisciense de la Calidad;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXV. Promover en todas las entidades públicas del estado el uso preferente de software cuya utilización y modificación sean libres y para los que el código fuente esté disponible, en todos los sistemas y equipos de cómputo y comunicaciones utilizados para la captación, procesamiento, presentación, almacenamiento y comunicación de datos, que permita el libre acceso ciudadano a la información pública ofrecida en formatos digitales y la accesibilidad de los servicios que el gobierno preste al público empleando medios informáticos;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXVI. Impulsar y promover entre los ayuntamientos de la entidad y los integrantes del Consejo Directivo del COECYTJAL, en beneficio de los jaliscienses, el acceso gratuito a una conexión de Internet, y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXVII. Las demás funciones que se le fijen mediante la presente ley, o sean inherentes al cumplimiento de sus fines, de acuerdo con el programa de trabajo que sea aprobado por el Consejo Directivo.
 
 ### Capítulo III. De los criterios orientadores
 
@@ -269,11 +281,11 @@ VI. El diseño y ejecución de Programas que impulsen y fortalezcan el desarroll
 
 VII. El Otorgamiento de apoyos a la formación de los recursos humanos altamente especializados tanto a nivel nacional como en el extranjero;
 
-> <small>(REFORMADA, [ N. DE E. ANTES FRACCIÓN VII], P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN VII], P.O. 10 DE FEBRERO DE 2009)</small>
 
 VIII. El otorgamiento de becas para especialización de los recursos humanos tanto a nivel nacional como en el extranjero;
 
-> <small>(REFORMADA, [ N. DE E. ANTES FRACCIÓN VIII], P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN VIII], P.O. 10 DE FEBRERO DE 2009)</small>
 
 IX. La asignación de recursos financieros para proyectos de investigación en los que participen tres o más investigadores en formación; así como para la publicación de los resultados de su investigación;
 
@@ -886,3 +898,7 @@ P.O. 10 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Reglamento de este decreto deberá modificarse en un plazo que no excederá de noventa días hábiles, contados a partir de la fecha en que entre en vigor el presente decreto; mientras tanto, el propio Consejo Directivo, se encargará de resolver todas las cuestiones relativas a la aplicación y debida observancia de este decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
