@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-11-14"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -3559,9 +3559,9 @@ XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribuci�
 
 XV.- Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidas por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XVI.- El que habiendo celebrado de manera verbal o escrita, un convenio para la comercialización primaria de productos agropecuarios, pesqueros o forestales y utilizando engaños, artificios, maquinaciones o cualesquier otra causa injustificada, incumpla con la obligación del pago en el término pactado, siendo aplicable lo previsto por el artículo 356 de este Código.
+XVI.- El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios o maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados, siendo aplicable lo previsto por el artículo 356 de este Código.
 
 ###### ARTICULO 370.
 
@@ -4348,3 +4348,7 @@ P.O. 14 DE NOVIEMBRE DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Para los efectos de concientización y difusión del nuevo protocolo procedimental en materia de justicia restaurativa a que aluden las disposiciones anteriores, el Consejo de la Judicatura del Poder Judicial Local, difundirá entre todos los servidores públicos encargados de la administración de justicia en la entidad, el contenido, sentido y alcances de la presente reforma.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
