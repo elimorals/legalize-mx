@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2012-10-19"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -571,9 +571,11 @@ EXTINCIÓN DE LA ACCIÓN O SANCIONES PENALES POR AMNISTÍA. La amnistía extingu
 
 ### CAPÍTULO CUARTO. PERDÓN EN DELITOS PERSEGUIBLES POR QUERELLA Y EN CIERTOS DELITOS PERSEGUIBLES DE OFICIO
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 154.
 
-EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN DEL OFENDIDO, EN DELITOS PERSEGUIBLES POR QUERELLA. La acción penal se extinguirá por perdón del ofendido o legitimado para otorgarlo, cuando el delito sólo se persiga previa querella o requisito equivalente.
+EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN DEL OFENDIDO, EN DELITOS PERSEGUIBLES POR QUERELLA. La acción penal se extinguirá por perdón del ofendido o legitimado para otorgarlo, cuando se hayan reparado el daño y sólo en los delitos que se persigan por querella o requisito equivalente.
 
 ###### ARTÍCULO 155.
 
@@ -1845,6 +1847,10 @@ VIII. RETRASO MALICIOSO. Retarde o entorpezca maliciosamente la administración 
 
 IX. PREPOTENCIA. Trate en el ejercicio de su cargo con injuria o deshonestidad a las personas que asistan a un juzgado o tribunal.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+X. NEGACIÓN DE ACCESO A LA JUSTICIA. Obligue al ofendido, víctima o a sus representantes a otorgar el perdón.
+
 ###### ARTÍCULO 231.
 
 SANCIONES Y FIGURAS TÍPICAS DE PREVARICACIÓN AGRAVADA. Se impondrá prisión de tres días a cinco años y multa hasta por trescientos días de salario mínimo, destitución del cargo o empleo e inhabilitación para el desempeño de uno nuevo, por el lapso de uno a diez años, a los servidores públicos, empleados o auxiliares de la administración de justicia, que incurran en alguna de las conductas siguientes:
@@ -2293,7 +2299,9 @@ LEGITIMADOS A LA REPARACIÓN DEL DAÑO MORAL: REGLA GENERAL Y CASOS ESPECIALES. 
 
 I. HOMICIDIO O LESIONES QUE INCAPACITEN MENTALMENTE AL OFENDIDO. Cuando se trate de homicidio o lesiones que incapaciten mentalmente al ofendido: Quienes dependían económicamente de él, junto con quienes tengan derecho a alimentos conforme a la ley, concurriendo con derechos iguales y en su defecto, los herederos.
 
-II. DEPRAVACIÓN O CIERTOS DELITOS CONTRA LA SEGURIDAD SEXUAL. Cuando el ofendido sea menor de doce años de edad y se le deprave sexualmente; o se le haga adquirir hábito vicioso o que forme parte de pandilla o asociación delictuosa; o sea objeto de violación con o sin modalidades agravantes; de violación impropia con o sin modalidades agravantes; de atentado al pudor y de lesiones gravísimas con o sin modalidades agravantes. Además del ofendido, el padre, madre y/o adoptante; o a falta de estos, cualquiera de los abuelos o personas físicas que custodiaren al menor.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+II. DEPRAVACIÓN O CIERTOS DELITOS CONTRA LA SEGURIDAD SEXUAL. Cuando el ofendido sea menor de dieciocho años de edad y se abuse sexualmente de él o ella, se le corrompa o sea objeto de violación con o sin modalidades agravantes, de violación impropia con o sin modalidades agravantes, y de lesiones gravísimas con o sin modalidades agravantes. Además del ofendido, el padre, madre y/o adoptante o, a falta de éstos, cualquiera de las personas que tengan bajo su custodia al niño o niña.
 
 III. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
@@ -2381,23 +2389,37 @@ IV. OBSTRUCCIÓN AL DERECHO DE REUNIÓN. Impida indebidamente la reunión de una
 
 #### SECCIÓN TERCERA. ÁMBITO DE LA REPARACIÓN DEL DAÑO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 116.
 
-ÁMBITOS DE LA REPARACIÓN DEL DAÑO. La reparación del daño comprenderá, según proceda:
+ÁMBITOS DE LA REPARACIÓN DEL DAÑO. La reparación del daño, debe ser plena y efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida y comprenderá, por lo menos:
 
 I. RESTITUCIÓN DE LA COSA. La restitución de la cosa que se obtuvo con el delito, con sus frutos y accesiones, y en su caso, el pago de los deterioros y menoscabos. Si la restitución no fuere posible, el pago de su valor.
 
-II. DAÑO MATERIAL. El pago del daño material.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+II. EL DAÑO CAUSADO. El resarcimiento de los daños físicos, materiales y psicológicos causados, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido.
 
 III. DAÑO MORAL. El pago del daño moral.
 
 IV. PERJUICIOS. El pago por perjuicios que se causaron con motivo de cualesquiera de los conceptos anteriores.
 
-V. GASTOS DE TERCEROS. El pago de los gastos que realizaron terceros para auxiliar al ofendido o víctima.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+V. GASTOS. El pago de los gastos realizados por la víctima derivados de asistencia jurídica, atención médica y psicológica, de servicios sociales y de rehabilitación que hubiere requerido; así como los que realizaron terceros para auxiliar al ofendido o víctima.
 
 VI. COSTAS. Según corresponda y de manera accesoria a los conceptos anteriores: El pago del 10% del valor de la cosa que se deba restituir; del daño material y/o del moral y/o de los perjuicios causados; en concepto de gastos por su reclamación prejudicial, si la reparación se obtiene antes de proceso. El 15% de los valores, en concepto de gastos por su reclamación judicial, si la reparación se obtiene durante el proceso. El 20% de los valores por igual concepto, si se debe pagar con motivo de la sentencia y en virtud de la gestión durante el proceso. Si sólo se gestiona la liquidación durante la ejecución de sentencia, el 10% de los valores.
 
 Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen la reparación por conducto de abogado, con título registrado en el Tribunal Superior de Justicia. Y, en su caso, que durante el proceso se constituyan oportunamente en parte civil. El importe que corresponda a esas costas se retendrá de oficio a favor del abogado, del pago que se haga. En su caso, a aquél se le pagará la primera mitad, hasta cuando se cubra igual porcentaje de la reparación. El resto se le pagará cuando se pague el saldo.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+VII. LUCRO CESANTE. El pago de la pérdida de ingreso económico, de oportunidades, en particular el empleo, educación y prestaciones sociales; para ello se tomará como base el salario que en el momento de sufrir el delito tenía el ofendido, y en caso de no contar con esa información, será conforme al salario mínimo.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+VIII. ACEPTACIÓN DE RESPONSABILIDAD Y DISCULPA PÚBLICA. La declaración que restablezca la dignidad y reputación del ofendido a través de medios electrónicos o escritos; así como la disculpa pública, la garantía de no repetición y la aceptación de responsabilidad, cuando el delito sea cometido por servidor público.
 
 ###### ARTÍCULO 117.
 
@@ -2411,11 +2433,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 120.
 
-PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores sí se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad; Violencia familiar; Violación con o sin circunstancias calificativas, consumada o en grado de tentativa; Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas; Violación conyugal; Pornografía infantil; de adolescentes y de incapaces; Lenocinio; Trata de personas, menores e incapaces; cualquiera de los supuestos que se previenen en el artículo 311; Rapto y equiparable al rapto; Atentados al pudor propio e impropio; Estupro; Amenazas; Privación de la libertad; Secuestro; Secuestro equiparado o simulado, ya sea consumados o en grado de tentativa; Asalto; Extorsión; Robo con violencia, consumado o en grado de tentativa; Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta; Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores, si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad; Violencia familiar; Violación con o sin circunstancias calificativas, consumada o en grado de tentativa; Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas; Violación conyugal; Pornografía infantil; de adolescentes y de incapaces; Lenocinio; Trata de personas, menores e incapaces; cualquiera de los supuestos que se previenen en el artículo 311; Rapto y equiparable al rapto; Abuso sexual propio e impropio; Estupro; Amenazas; Privación de la libertad; Secuestro; Secuestro equiparado o simulado, ya sea consumados o en grado de tentativa; Asalto; Extorsión; Robo con violencia, consumado o en grado de tentativa; Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta; Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2610,6 +2632,10 @@ La prescripción de la sanción penal se declarará por el juzgador. Si la autor
 ###### ARTÍCULO 164.
 
 DELITOS EN LOS QUE EL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN Y LAS SANCIONES PENALES SE DUPLICA. Los plazos para la prescripción de la acción y las sanciones penales se duplicarán respecto a los delitos de terrorismo, homicidio calificado, secuestro en todas sus modalidades y violación equiparada.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Si el delito de que se trate fuere alguno de los contemplados en el título segundo “Delitos contra la libertad y seguridad sexual” del apartado cuarto “Delitos contra las personas”, Libro segundo “Parte especial” de este Código, o bien de los delitos de corrupción de menores e incapaces y hubiese sido cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que el ofendido cumpla la mayoría de edad.
 
 ###### ARTÍCULO 274.
 
@@ -3013,7 +3039,9 @@ SANCIÓN AGRAVADA TRATÁNDOSE DE CONDUCTORES DE VEHÍCULOS DE SERVICIO PÚBLICO.
 
 SANCIÓN GENERICA RESPECTO A LOS DELITOS ANTERIORES. En los delitos que prevé este capítulo, se impondrá, además, suspensión de derechos para conducir vehículos hasta por tres años.
 
-### CAPÍTULO PRIMERO. ULTRAJES A LA MORAL PÚBLICA
+### CAPÍTULO PRIMERO
+
+DELITOS CONTRA EL DESARROLLO DE LA PERSONALIDAD.
 
 ###### ARTÍCULO 289.
 
@@ -3111,7 +3139,11 @@ La misma sanción se aplicará a quien teniendo autorización legal realice las 
 
 ### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
-## TÍTULO SEXTO. DELITOS CONTRA LA MORAL PÚBLICA
+## TITULO SEXTO
+
+DELITOS CONTRA LA SEGURIDAD DE LAS PERSONAS.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
 
@@ -3184,6 +3216,8 @@ Si quien incurre en cualquiera de las conductas que prevé este artículo, es se
 ###### ARTÍCULO 297.
 
 SANCIONES Y FIGURA TÍPICA DE USO DE DOCUMENTOS FALSOS. Se aplicará prisión de uno a seis años y multa: A quien con el propósito de sacar provecho para sí o para otro; o de dañar o causar perjuicio a los bienes jurídicos de un tercero o de entidad pública; use un documento falso o alterado por otro; o una copia, transcripción o testimonio del mismo; sea público o privado; siempre y cuando conozca de la falsificación sin intervenir en ella.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LAS LEYES DE INHUMACIONES Y EXHUMACIONES
 
@@ -3335,13 +3369,15 @@ DELITOS CONTRA LA FAMILIA
 
 SANCIONES Y FIGURA TÍPICA DE VIOLENCIA FAMILIAR. Se aplicarán de seis meses a seis años de prisión, multa y suspensión del derecho de recibir alimentos hasta por tres años:
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-Al cónyuge, concubina o concubinario; compañera o compañero civil, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el cuarto grado; que ejerza violencia física o moral con relación a la integridad física, psíquica o ambas, de algún miembro de la familia; independientemente de que pueda producir o no lesiones.
+Al que lleve a cabo conductas dirigidas a dominar, controlar, agredir física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco, por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar
 
 Asimismo, como medida de seguridad, se le podrá sujetar a un tratamiento psicológico especializado.
 
-Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3349,7 +3385,9 @@ Este delito se perseguirá por querella de la parte ofendida; salvo que la víct
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DE VIOLENCIA FAMILIAR. Se equipara a la violencia familiar y se sancionará con seis meses a seis años de prisión y multa: A quien realice cualquiera de los actos del artículo anterior en contra de la persona con la que se encuentra unida fuera del matrimonio; del adoptante o adoptado; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esas personas; o de cualquiera otra persona que esté sujeta a la custodia, guarda protección, educación, instrucción o cuidado de dicha persona o del sujeto activo.
 
-Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
 
@@ -3390,6 +3428,10 @@ Este delito se perseguirá siempre a petición de parte ofendida.
 ###### ARTÍCULO 317.
 
 QUERELLA PARA PERSEGUIR LOS DELITOS DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Los delitos que prevé este capítulo se perseguirán por querella. La que podrá formular la dependencia que se encargue de la defensa del menor o de la familia cuando falten los representantes legítimos; o éstos no lo hagan sin causa justificada y se estime conveniente a los intereses del menor; en cuyo caso sólo aquélla podrá otorgar el perdón.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 317 BIS. FRAUDE FAMILIAR. Se aplicará prisión de uno a cuatro años y multa, al cónyuge, concubino o compañero civil que sin causa justificada y en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, el concubinato o pacto civil de solidaridad, oculte, transfiera o adquiera a nombre de terceros bienes.
 
 ### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -3529,6 +3571,28 @@ SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cin
 
 ARTÍCULO 336 BIS.- SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DELITO DE HOMICIDIO CALIFICADO. Se aplicarán las mismas penas previstas para el homicidio calificado a quien prive de la vida a una persona en función de su actividad dentro del periodismo o a miembros del ejército, de los cuerpos policiacos y de seguridad en el ejercicio de sus funciones.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 336 BIS 1. FEMINICIDIO. Se aplicará prisión de dieciocho a cincuenta años y multa, al que prive de la vida a una mujer cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Presente signos de violencia sexual de cualquier tipo;
+
+II. Se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posteriormente a la privación de la vida;
+
+III. Existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar; o cuando tengan o hayan tenido una relación de parentesco en línea recta o colateral hasta el cuarto grado; de matrimonio; civil; concubinato, noviazgo o pareja; laborales; de vecindad; de madrinazgo o padrinazgo o cualquier otra que implique amistad o relación de confianza;
+
+IV. Existan datos que establezcan que se cometieron amenazas, acoso o lesiones;
+
+V. Haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento, o
+
+VI. El cuerpo sea expuesto, depositado o arrojado en un lugar público.
+
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación al ofendido, incluidos los de carácter sucesorio.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Al servidor público que con motivo de sus funciones y atribuciones conozca del delito de feminicidio y por acción u omisión realice practicas dilatorias en la procuración y administración de justicia se le impondrán de cinco a diez años de prisión, de quinientos a mil días multa e inhabilitación del cargo o comisión que desempeñe de cinco a diez años.
+
 ### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
 ###### ARTÍCULO 337.
@@ -3577,11 +3641,13 @@ PENALIDAD PARA LAS LESIONES CALIFICADAS. Cuando las lesiones sean calificadas, s
 
 PENALIDAD PARA LAS LESIONES EN RIÑA. Si las lesiones se infieren en riña, se aplicará de la mitad o tres cuartos de las sanciones mínimas y máximas de los artículos que anteceden, según se trate del provocado o provocador.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 346.
 
-PENALIDAD CALIFICADA POR LESIONES DOLOSAS INFERIDAS A ASCENDIENTES O DESCENDIENTES O CON OTRA RELACIÓN DE PARENTESCO. Si el ofendido es ascendiente o descendiente del autor o partícipe de las lesiones dolosas, la prisión que se imponga se podrá aumentar hasta cinco años, además de la multa. Si el sujeto pasivo tiene con el activo alguna de las demás relaciones personales a que se refiere el Artículo 355, la prisión que se imponga se podrá aumentar hasta dos años, además de la multa.
+PENALIDAD CALIFICADA POR LESIONES DOLOSAS INFERIDAS A ASCENDIENTES O DESCENDIENTES O CON OTRA RELACIÓN DE PARENTESCO. Si el ofendido es ascendiente o descendiente del autor o partícipe de las lesiones dolosas, la prisión que se imponga se podrá aumentar hasta cinco años, además de la multa. Si el sujeto pasivo tiene o tuvo la calidad de cónyuge, concubina o con quien se tenga o se haya tenido una relación de pareja o alguna de las demás relaciones personales a que se refiere el artículo 355, la prisión que se imponga se podrá aumentar hasta dos años, además de la multa.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 Las modalidades agravantes anteriores serán comunicables y admitirán las demás modalidades agravantes o atenuantes de las lesiones dolosas y sus reglas de penalidad.
 
@@ -3619,9 +3685,9 @@ CIRCUNSTANCIAS CALIFICATIVAS DE HOMICIDIO Y LESIONES. Se entiende que el homicid
 
 I. RETRIBUCIÓN DADA O PROMETIDA. Cuando se ejecuten por retribución dada o prometida.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-II. MOTIVOS DEPRAVADOS. Cuando se cometan por motivos depravados; placer; codicia; o por odio racial, de género, de preferencia sexual o religioso.
+II. MOTIVOS DEPRAVADOS. Cuando se cometan por motivos depravados; placer; codicia; o por odio racial, de preferencia sexual o religioso.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3641,7 +3707,9 @@ VII. PREMEDITACIÓN, VENTAJA, ALEVOSÍA O TRAICIÓN. Cuando se cometan con preme
 
 Hay premeditación, cuando el agente reflexiona serenamente sobre el homicidio o las lesiones que decide cometer.
 
-Hay ventaja, cuando el delincuente no corre el riesgo de ser muerto ni lesionado por el ofendido, con conocimiento de dicha circunstancia.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Hay ventaja, cuando el delincuente no corre el riesgo de ser muerto ni lesionado por el ofendido, con conocimiento de dicha circunstancia; cuando el activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de catorce años; cuando se ocasionen en situaciones de violencia familiar; cuando exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación de la cual el activo se valga; o cuando el activo se valga de su carácter de servidor público.
 
 Hay alevosía, cuando el agente sorprende intencionalmente a alguno de improviso, anulando su defensa, o se aproveche del estado de indefensión de la víctima.
 
@@ -4019,9 +4087,9 @@ ARTÍCULO 375 BIS. SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicar�
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-### CAPÍTULO CUARTO. ATENTADOS AL PUDOR
+### CAPÍTULO CUARTO. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 376.
 
@@ -4119,25 +4187,55 @@ Las sanciones mínimas y máximas del primer párrafo de este artículo, se aume
 
 Se aumentarán en una mitad más los mínimos y máximos de las sanciones: Si en el implante o la inseminación que prevén estas fracciones se utiliza violencia contra la mujer.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-ARTÍCULO 383 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA DIGNIDAD E IGUALDAD DE LAS PERSONAS. Se impondrá pena de seis meses a tres años de prisión y multa, al que injustificadamente por razones de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, posición social o económica, discapacidad, condición física o estado de salud:
+###### ARTÍCULO 383.
+
+BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA DIGNIDAD E IGUALDAD DE LAS PERSONAS. Se impondrá pena de seis meses a tres años de prisión y multa, al que injustificadamente por razones de edad, sexo, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, posición social o económica, discapacidad, condición física, embarazo (sic), estado de salud o de cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 I. PROVOCACIONES INNOBLES. Provoque o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho.
 
 Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 III. VEJACIONES CON EFECTOS MORALES O MATERIALES. Veje o excluya a alguna de dichas personas o a un grupo de ellas, cuando esa conducta tenga por resultado un daño material o moral.
 
-IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, niegue o retarde a una de las personas en él mencionadas un trámite o servicio al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos, principalmente por razón de género o embarazo, o limite un servicio de salud principalmente a la mujer en relación con el embarazo, o
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+V. DERECHOS EDUCATIVOS. Les niegue o restrinja sus derechos educativos.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, o niegue o retarde a una de las personas en él mencionadas un trámite, servicio o prestación a que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 No serán considerados como delitos contra la dignidad de las personas, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que el ofendido tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
 Este delito, sólo se perseguirá por querella de parte ofendida.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 383 BIS 1. SANCIONES Y FIGURA TÍPICA DE LA ESTERILIDAD PROVOCADA. Se impondrán de cuatro a siete años de prisión y multa, a quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole con el propósito de provocarle esterilidad.
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
 
@@ -4173,7 +4271,9 @@ I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
 II. VIOLACIÓN PREPOTENTE. Se realice por el ascendiente en contra del descendiente; por el adoptante en contra del adoptado o adoptada; el tutor en contra de su pupilo o pupila; el padrastro en contra del hijastro o hijastra; o el amasio en contra del hijo o hija de la amasia.
 
-III. VIOLACIÓN CON ABUSO DE AUTORIDAD O CONFIANZA. Se realice por quien se aprovecha de las circunstancias que su posición le proporciona como servidor público; profesional o patrono; o abuse de la hospitalidad que brinde o que reciba.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. VIOLACIÓN CON ABUSO DE AUTORIDAD O CONFIANZA. Se realice por quien se aprovecha de las circunstancias que su posición le proporciona como servidor público, profesor, profesional o patrono, de la hospitalidad que brinde o que reciba, o de su condición de ministro de un culto religioso.
 
 IV. VIOLENCIA EN LA VIOLACIÓN EQUIPARADA. Cuando el sujeto pasivo sea cualquiera de las personas que contempla el artículo anterior y se ejerza violencia sobre ellas.
 
@@ -4241,29 +4341,39 @@ CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se proce
 
 AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo en los términos de la ley civil.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 397.
 
-SANCIONES Y FIGURAS TÍPICAS DE ATENTADOS AL PUDOR PROPIO. Se aplicará de cinco meses a cuatro años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de 12 años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL. Se aplicará de cinco meses a cuatro años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de 12 años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 Se aplicarán las mismas sanciones si el sujeto pasivo es una persona sin capacidad de comprender el significado del hecho de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 Si se hiciere uso de la violencia física o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 398.
 
-SANCIONES Y FIGURAS TÍPICAS DE ATENTADOS AL PUDOR IMPROPIO. Se aplicará de uno a cinco años de prisión y multa: A quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de doce años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
+SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL IMPROPIO. Se aplicará de uno a cinco años de prisión y multa: A quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de doce años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
 
 Se aplicarán las mismas sanciones si el sujeto pasivo no tiene la capacidad para comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo.
 
 Si se emplea violencia física o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de dos a seis años de prisión y multa.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 399.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADOS AL PUDOR. Los delitos de atentados al pudor propio o impropio; con excepción de cuando se emplee la violencia; sólo se perseguirán por querella del ofendido o de sus representantes legítimos. Y si no los tuviere: Por la dependencia que se encargue legalmente de los asuntos del menor o de la familia, si así lo estima conveniente a los intereses del ofendido. Tratándose de atentados al pudor impropio, sólo los representantes legítimos o la dependencia que se encargue de los asuntos del menor o de la familia, podrá otorgar el perdón.
+CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SEXUAL. El abuso sexual se perseguirá de oficio, salvo en los supuestos previstos en el párrafo primero del artículo 397 y el párrafo segundo del artículo 398, en los que se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -5114,3 +5224,9 @@ El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo gener
 ###### ARTÍCULO QUINTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
