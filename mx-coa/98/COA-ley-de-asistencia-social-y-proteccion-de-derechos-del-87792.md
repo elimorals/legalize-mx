@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2012-04-27"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -67,7 +67,9 @@ I. El Sistema. El Sistema Estatal de Asistencia Social y Protección de Derechos
 
 II. La Secretaria. La Secretaría de Salud.
 
-III. El Organismo. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. El Organismo. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza. Al Organismo también se le podrá denominar DIF COAHUILA.
 
 IV. La Procuraduría. La Procuraduría de la Familia y Protección de Derechos.
 
@@ -525,9 +527,11 @@ VI. Los ingresos que por concepto de sanciones pecuniarias reciba, y
 
 VII. En general, los demás bienes, derechos e ingresos que obtenga por cualquier título lícito.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 35.
 
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Organismo, estará a cargo de la Función Pública del Estado, sin perjuicio de la intervención que corresponda a la Contaduría Mayor de Hacienda del Congreso del Estado.
+La vigilancia financiera y administrativa, así como la práctica de auditorías en el Organismo, estará a cargo de la Secretaría de Fiscalización y Rendición de Cuentas, sin perjuicio de la intervención que corresponda a la Auditoría Superior del Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO TERCERO. DE LOS ÓRGANOS DE ADMINISTRACIÓN Y DIRECCIÓN DEL SISTEMA
 
@@ -539,7 +543,9 @@ I. Una Junta de Gobierno, y
 
 II. Una Dirección General.
 
-La vigilancia de la operación del organismo estará a cargo de un Contralor.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+La vigilancia de la operación del organismo estará a cargo de quien ocupe el cargo de Comisario, quien será designado por la Secretaría de Fiscalización y Rendición de Cuentas.
 
 ###### Artículo 37.
 
@@ -547,19 +553,19 @@ El organismo contará además con un Consejo Consultivo que emitirá opiniones y
 
 La integración, funcionamiento y atribuciones del Consejo Consultivo serán aquellas que prevea el reglamento que la Junta de Gobierno emita.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
 La Junta de Gobierno será el órgano superior del organismo y estará integrada por:
 
-I. Un Presidente Honorario, quien será el titular del Poder Ejecutivo del Estado;
+I. Una Presidencia, que estará a cargo de quien sea titular de la Secretaría de Salud;
 
-II. Un Presidente Ejecutivo, quien será titular de la Secretaría de Salud, y
+II. Una Secretaría Técnica, que estará a cargo de quien sea titular de la Dirección General del Organismo;
 
-III. Por cuatro vocales que serán quienes sean titulares de las Secretarías del Ejecutivo del Estado, cuyas funciones estén vinculadas a la asistencia social. Su designación o remoción la hará libremente el titular del Poder Ejecutivo del Estado.
+III. Cuatro vocales que serán quienes sean titulares de las Secretarías del Ejecutivo del Estado, cuyas funciones estén vinculadas a la asistencia social. Su designación o remoción la hará libremente el titular del Poder Ejecutivo del Estado.
 
 Quienes integren la Junta de Gobierno no percibirán remuneración alguna por su desempeño. Las ausencias se suplirán por quienes designen sus titulares, quienes bajo ninguna circunstancia podrán tener grado inferior a subsecretario.
-
-La Junta de Gobierno contará con una Secretaría Técnica, que estará a cargo del Director General del organismo.
 
 ###### Artículo 39.
 
@@ -599,13 +605,21 @@ XV. Aprobar el reglamento interior del organismo y los manuales de organización
 
 XVI. Las demás previstas en ésta u otras disposiciones aplicables y que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-La Junta de Gobierno celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran en cualquier tiempo, de conformidad con lo previsto en el reglamento respectivo.
+La Junta de Gobierno deberá celebrar sesiones ordinarias trimestralmente.
 
-Las sesiones de la Junta de Gobierno serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que estuviere presente su presidente o quien legalmente deba hacer la suplencia.
+Podrán celebrarse sesiones extraordinarias cada vez que el titular de la Presidencia lo estime conveniente o a petición de una tercera parte del total de los integrantes de la Junta de Gobierno.
 
-Los acuerdos se tomarán por mayoría de votos de quienes asistan a las sesiones. En caso de empate, su presidente tendrá voto de calidad.
+Las sesiones de la Junta de Gobierno serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que estuviere presente quien esté a cargo de la Presidencia o quien legalmente deba hacer la suplencia.
+
+Los integrantes de la Junta de Gobierno participarán en las sesiones a que se refiere este artículo, con voz y voto, a excepción de quien sea titular de la Secretaría Técnica, quien tendrá voz pero no voto. Los acuerdos se tomarán por mayoría de votos de quienes asistan a las sesiones. En caso de empate, quien sea titular de la Presidencia de la Junta de Gobierno tendrá voto de calidad.
+
+A las sesiones podrá asistir quien tenga el cargo de Comisario, con voz pero sin voto.
+
+En las sesiones podrá asistir el Ejecutivo del Estado, a quien le corresponderá, en su caso, presidir la sesión con todas las atribuciones de quien sea titular de la Presidencia, quien participará como vocal.
 
 ###### Artículo 41.
 
@@ -689,9 +703,11 @@ XII. Otorgar a las personas que juzgue conveniente poderes especiales y generale
 
 XIII. Las demás que por acuerdo de la Junta de Gobierno se le atribuyan, así como las que le competan conforme al reglamento interior del organismo y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 46.
 
-El titular de la Secretaría de Fiscalización y Rendición de Cuentas designará a la persona encargada de la Contraloría, que tendrá las atribuciones siguientes:
+El titular de la Secretaría de Fiscalización y Rendición de Cuentas designará a quien deba ostentar el cargo de Comisario, quien tendrá las facultades siguientes:
 
 I. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados por la Junta de Gobierno;
 
@@ -711,7 +727,9 @@ VIII. Vigilar ilimitadamente, en cualquier tiempo, las operaciones del organismo
 
 IX. Las demás previstas en esta ley y otras disposiciones aplicables.
 
-La persona titular de la Contraloría, para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+Quien ocupe el cargo de Comisario, para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
 
 ### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS
 
@@ -833,9 +851,11 @@ IV. El demás personal técnico y administrativo necesario.
 
 El titular del Poder Ejecutivo Estatal designará y removerá libremente a la persona encargada de la Procuraduría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 55.
 
-Las personas a que se refiere el artículo 57 fracciones I, II y III del presente ordenamiento deberán satisfacer los siguientes requisitos:
+Las personas a que se refiere el artículo 53 fracciones I, II y III del presente ordenamiento deberán satisfacer los siguientes requisitos:
 
 I. Contar con nacionalidad mexicana y encontrarse en pleno goce de sus derechos civiles y políticos;
 
@@ -1119,7 +1139,33 @@ SEGUNDO.- Se abroga la Ley de Asistencia Social para el Estado de Coahuila de Za
 
 TERCERO. Para los efectos de lo dispuesto en la presente ley, se convalidan todos los actos realizados por el organismo público descentralizado denominado "Sistema para el Desarrollo Integral de la Familia", creado mediante la ley que se abroga, así como los derechos y obligaciones que correspondan a dicha entidad, efectuados y adquiridos desde su creación.
 
-CUARTO.- La Junta de Gobierno del Sistema deberá aprobar el Reglamento Interior del mismo dentro de los 180 días siguientes contados a partir de la fecha en que entre en vigor esta ley.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+CUARTO.- La Junta de Gobierno del Organismo deberá aprobar el Reglamento Interior del mismo dentro de los ciento ochenta días siguientes contados a partir de la fecha en que entre en vigor esta ley.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+QUINTO.- Se abroga el Decreto Número 287, mediante el que se crea el Organismo Público Descentralizado denominado "Casa Cuna del Estado de Coahuila" publicado en el Periódico Oficial del Estado Número 72, el 08 de septiembre de 1987.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+SEXTO.- Se ordena la extinción del organismo público descentralizado de asistencia social denominado "Casa Cuna del Estado de Coahuila".
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+SÉPTIMO.- Todos los bienes muebles e inmuebles que pertenecían a "Casa Cuna del Estado de Coahuila" pasarán a los activos y patrimonio del organismo público denominado Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+OCTAVO.- Los recursos humanos que pertenecían a "Casa Cuna del Estado de Coahuila" serán transferidos al Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza y formarán parte de su plantilla de personal.
+
+Los derechos laborales de los trabajadores que con motivo de este decreto son transferidos, serán reconocidos íntegramente y respecto de los mismos se seguirá aplicando la normativa de la materia, por lo que en ninguna forma resultarán afectados en sus derechos, facultades y atribuciones que hayan adquirido en virtud de su relación laboral.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+NOVENO.- Los procedimientos y asuntos pertenecientes a "Casa Cuna del Estado de Coahuila" que a la entrada en vigor del presente se encuentren pendientes de resolución, se resolverán por el Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+
+Por lo anterior, todas las facultades, derechos y obligaciones correspondientes a "Casa Cuna del Estado de Coahuila", se entenderán vigentes a favor del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, por lo que cualquier referencia que se haga en un contrato o instrumento distinto que los contenga, se entenderá conferido en los términos de lo previsto por el presente Decreto.
 
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de abril del año dos mil doce.
 
@@ -1150,3 +1196,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 RUBÉN IGNACIO MOREIRA VALDEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo previsto en este Decreto.
