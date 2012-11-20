@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2012-10-18"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -809,11 +809,17 @@ XXXIII. Respetar y hacer respetar el derecho a la formulación de quejas y denun
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
 
-XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de las autoridades descritas en el articulo 3.° de esta ley, el cambio de domicilio particular, y
+XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de las autoridades descritas en el articulo 3.° de esta ley, el cambio de domicilio particular, y (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XXXV. Las demás que le impongan las leyes y reglamentos.
+XXXV. Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar, a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXXVII (sic). Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1063,7 +1069,7 @@ La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio 
 
 La Contraloría del Estado administrará y actualizará el Registro Estatal de las inhabilitaciones que impongan los titulares de las entidades públicas. El registro deberá elaborarse de forma física y electrónica, de manera anual y por la autoridad respectiva. Dicha información es clasificada como información fundamental, de conformidad con lo establecido en la Ley de Transparencia e Información Pública del Estado de Jalisco; para tales efectos, deberá disponer el registro, entre otros medios, en su página de Internet, para consulta electrónica.
 
-La responsabilidad del manejo, actualización y publicación del registro de las inhabilitaciones será del Contralor del Estado, o la persona que éste designe mediante acuerdo, El manejo inadecuado y la falta de actualización del registro será causa de responsabilidad administrativa en términos del presente título.
+La responsabilidad del manejo, actualización y publicación del registro de las inhabilitaciones será del Contralor del Estado, o la persona que éste designe mediante acuerdo. El manejo inadecuado y la falta de actualización del registro será causa de responsabilidad administrativa en términos del presente título.
 
 El titular de la entidad pública, al imponer la inhabilitación al servidor público responsable, deberá informarle a la Contraloría del Estado y enviarle la copia certificada de la resolución respectiva, en un término no mayor de diez días hábiles contados a partir del día siguiente de que causó estado la resolución. La omisión de dicho informe será causa de responsabilidad administrativa.
 
@@ -1602,3 +1608,7 @@ En consecuencia, la nueva obligación, reformada en la fracción XXXI del artíc
 QUINTO. Para el cumplimiento de lo dispuesto en el artículo 91 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los titulares de las entidades públicas, contarán con un plazo de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto, para instituir, elaborar y operar el registro de sanciones administrativas de conformidad con la ley.
 
 La información que deba contener su registro, deberá ser de las sanciones impuestas en su administración o periodo constitucional, y de la administración o período constitucional inmediato anterior. La negativa u omisión será causa de responsabilidad administrativa.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
