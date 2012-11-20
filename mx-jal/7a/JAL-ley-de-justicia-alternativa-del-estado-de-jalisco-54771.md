@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2010-12-23"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -99,7 +99,7 @@ I. Voluntariedad: La participación de los interesados en el método alternativo
 
 II. Confidencialidad: La información derivada de los procedimientos de los métodos alternativos no podrá ser divulgada, por lo que será intransferible e indelegable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -117,7 +117,7 @@ VII. Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley,
 
 VIII. Honestidad: El prestador del medio alterno deberá excusarse de participar cuando reconozca que sus capacidades, limitaciones o intereses personales pueden afectar el procedimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -137,7 +137,7 @@ XIV. Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad,
 
 XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -153,13 +153,13 @@ I. Código Penal para el Estado Libre y Soberano de Jalisco:
 
 a) Asociación delictuosa, artículo 120;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 b) Corrupción de menores, artículos 142-A, 142-B y 142-C;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -169,7 +169,7 @@ d) Lenocinio, artículos 139 y 141;
 
 e) Falsedad en declaraciones e informes dados a una autoridad, artículo 168;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -179,97 +179,97 @@ g) De la suposición y supresión del estado civil, artículo 177;
 
 h) Violación, artículo 175 y 176;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 i) Robo de infante, artículo 179 párrafo cuarto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 j) Tráfico de menores, artículo 179-Bis;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 k) Secuestro, artículo 194 y 194-Bis;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 l) Extorsión y extorsión agravada, artículos 189 y 189-Bis;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 m) Homicidio por culpa grave, artículo 48;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 n) Homicidio, simple intencional, en riña y calificado, artículos 213, 217 y 219;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 o) Parricidio, artículo 223;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 p) Infanticidio, artículos 225 y 226;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 q) Aborto, artículos 227 y 228;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 r) Robo y robo equiparado, artículos 234 fracciones III a la VII y último párrafo, y 236 fracciones I, VII, IX, X, XI, XII, XIV y XVI;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 s) Fraude, artículo 252 fracción XXIII;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 t) Administración fraudulenta, artículos 254-Bis y 254-Ter;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 u) Delitos cometidos por servidores públicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 v) Delitos electorales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 w) Delitos fiscales, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -293,7 +293,7 @@ Cuando el inculpado se encuentre privado de su libertad personal dentro del proc
 
 El arbitraje procederá conforme a lo establecido en los códigos civil y de procedimientos civiles del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -439,7 +439,7 @@ VII. Pagar los derechos correspondientes en los términos de la Ley de Ingresos 
 
 Los prestadores del servicio deberán refrendar la certificación cada dos años, previa revisión del cumplimiento de las obligaciones que señala esta Ley y el reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
@@ -465,7 +465,7 @@ VII. Acudir a las revisiones y evaluaciones del instituto así como proporcionar
 
 VIII. Cumplir lo dispuesto por el reglamento interno que expida el Consejo del Instituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -659,9 +659,11 @@ XV. Ordenar visitas de inspección o supervisión a los centros para verificar e
 
 XVI. Renovar, revocar o suspender la acreditación de los Centros, o la certificación a los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XVII. Nombrar al personal necesario para el funcionamiento del Instituto, conforme al presupuesto;
+XVII. Nombrar al personal necesario para el funcionamiento del Instituto, conforme al presupuesto.
+
+Integrar la Comisión Substanciadora del Instituto, en conjunto con los encargados de las áreas jurídica y de administración, y elaborar los dictámenes de suspensión, ceses y, en general, de todo tipo de conflictos laborales que se susciten entre el Instituto y sus servidores públicos, conforme a los procedimientos de la Ley para los Servidores Públicos del Estado de Jalisco, y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -671,7 +673,7 @@ XVIII. Autorizar la expedición de copias certificadas por el Secretario Técnic
 
 XIX. Las demás que establezcan las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -725,13 +727,17 @@ VI. Nombrar a los Directores del Instituto a propuesta del Director General y pr
 
 VII. Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto; y (sic)
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-VIII. Establecer los costos de recuperación por los servicios de capacitación que preste el Instituto, y
+VIII. Establecer los costos de recuperación por los servicios de capacitación que preste el Instituto;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-IX. Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables.
+IX. Resolver los dictámenes que le remita la Comisión Substanciadora del Instituto a fin de dirimir los conflictos de naturaleza laboral que se susciten entre el Instituto y sus servidores públicos, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y el reglamento respectivo, y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+X. Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
@@ -933,9 +939,9 @@ VII. Nombre y firma del director del Centro o sede regional.
 
 La entrega de la invitación se podrá hacer por cualquier persona o medio cuando ello facilite la aceptación de la parte complementaria a acudir a la entrevista inicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 52.
 
@@ -1039,7 +1045,7 @@ Las partes podrán solicitar al prestador un término hasta de tres días hábil
 
 Una vez concluido el plazo a que se refiere el artículo 61 de esta ley, dentro de un término máximo de tres días hábiles siguientes, el prestador del servicio solicitará ante el Instituto la sanción del convenio final, notificando su resolución personalmente a las partes, y en caso de haber sido aprobado, registrarlo en sus archivos como convenio equiparado a sentencia ejecutoriada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -1061,7 +1067,7 @@ V.- Especificar el contenido del acuerdo en forma clara y precisa, detallando la
 
 VI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -1085,7 +1091,7 @@ Cuando alguna de las partes no sepa o no pueda firmar, estamparán sus huellas d
 
 Los prestadores del servicio vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorarán de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes. En la realización del convenio y tratándose de asuntos que afecten intereses de menores, incapaces o ausentes, se deberá dar vista al agente de la Procuraduría Social para efectos de su representación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 68.
 
@@ -1095,13 +1101,13 @@ Los prestadores del servicio vigilarán que las partes sean personas con capacid
 
 El convenio sólo deberá suscribirse cuando se trate de materia objeto de algún método alternativo de solución de conflictos y no podrá contener cláusulas que atenten contra el orden público o afecten derechos de terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 70.
 
 (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 71.
 
@@ -1121,7 +1127,7 @@ En materia penal, no se extinguirá la acción penal ni se sobreseerá el proces
 
 Cuando el convenio final del método alternativo presentado ante el Instituto para su sanción no reúna los requisitos que prevé esta ley, el Instituto prevendrá a las partes y al prestador del servicio para que dentro de un plazo de cinco días se subsanen las deficiencias señaladas. Si dentro del plazo señalado anteriormente no son solventados los requisitos y observaciones formuladas por el Instituto, éste acordará inmediatamente la no sanción del convenio final.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 74.
 
@@ -1137,7 +1143,7 @@ Para la ejecución forzosa del convenio sancionado, se deberá acudir al Juez de
 
 El procedimiento de métodos alternos se tendrá por concluido en los siguientes casos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -1149,13 +1155,13 @@ III. Por resolución motivada del prestador del servicio cuando alguno de los pa
 
 IV. Por resolución motivada del prestador del servicio cuando tenga conocimiento de un hecho o acto ilícito que derive del conflicto que se pretende someter al método alternativo o del acuerdo que pudiera celebrarse;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
 V. Por decisión de alguna de las partes de no continuar con el procedimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -1209,7 +1215,7 @@ El Instituto podrá aplicar las siguientes medidas disciplinarias a las partes y
 
 I. Amonestación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -1231,7 +1237,7 @@ El Director General del instituto podrá sancionar al prestador del servicio con
 
 I. Amonestación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -1251,9 +1257,9 @@ IV. La revocación de la certificación y registro en caso de reincidir, en algu
 
 Lo anterior sin perjuicio de la responsabilidades de orden penal y civil que les puedan ser exigidas por los afectados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 88.
 
@@ -1319,7 +1325,7 @@ El recurso de revisión se interpondrá ante el Director General del Instituto o
 
 ## TRANSITORIOS
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
 
 PRIMERO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
@@ -1327,7 +1333,7 @@ SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el a�
 
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
 
 CUARTO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
@@ -1369,7 +1375,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE DICIEMBRE DE 2007.
 
@@ -1406,3 +1412,7 @@ QUINTO. Una vez integrado el Consejo, deberá expedir el reglamento interno para
 SEXTO. Se autoriza al titular del Poder Ejecutivo a realizar las adecuaciones presupuestales y administrativas para el debido cumplimiento del presente decreto.
 
 SÉPTIMO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
