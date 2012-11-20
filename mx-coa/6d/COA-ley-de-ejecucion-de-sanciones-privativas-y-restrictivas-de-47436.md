@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4743
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2012-10-19"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 20 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de diciembre de 2005.
 
@@ -1816,3 +1818,27 @@ El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo gener
 ###### ARTÍCULO QUINTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, quedara abrogada la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila, publicada el dos de diciembre de dos mil cinco en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+TERCERO. A partir del día en que inicie su vigencia esta ley, los actuales Centros de Reinserción Social del Estado, se denominarán Centros Penitenciarios.
+
+CUARTO. Los jueces de primera instancia y locales letrados en material penal, donde haya Centros de Readaptación Social, serán competentes para conocer, como Jueces de Ejecución, de los asuntos previstos en esta ley respecto de los sentenciados que se encuentren internos en aquellos centros, hasta en tanto se designen los jueces de ejecución correspondientes. Si en el lugar hay varios jueces competentes, el Consejo de la Judicatura determinará el turno en que deban conocer.
+
+Si el juzgado en el que se radique el asunto no es el que conoció en primera o única instancia, pedirá desde luego al juzgado que conoció y/o a la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, la información que estime necesaria para resolver el asunto.
+
+QUINTO. No obstante lo dispuesto en el artículo anterior, respecto a la ejecución de la multa, la reparación del daño y los beneficios que hayan sido resueltos en la sentencia, serán competentes para conocer los jueces que la dictaron en primera o única instancia.
+
+SEXTO. Todas las solicitudes relativas a la preliberación, libertad preparatoria, remisión parcial de la sanción, modificación de sanción o cualquier otra que conforme a la ley deban conocer los jueces de ejecución, que se encuentren pendientes de resolver al entrar en vigor esta ley, se atenderán por los jueces del lugar en el que se encuentre internado el sentenciado.
+
+La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social tomará las providencias necesarias para enviar las solicitudes a que se refiere el párrafo anterior o siempre que se le presenten, junto con la información que sea necesaria para resolver el asunto, al juez primero de primera instancia del lugar en el que se encuentre internado el sentenciado, el cual asignará el caso según lo acordado de manera general por el Consejo de la Judicatura.
+
+SÉPTIMO. La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social hará una revisión cada seis meses de los internos que se encuentren en posibilidad de obtener un beneficio, los que deberá promover ante el juez que sea competente, enviando la información que sea necesaria para resolver el asunto, al juez primero de primera instancia del lugar en el que se encuentre internado el sentenciado, el cual procederá de la manera señalada en el artículo anterior.
+
+OCTAVO. Los principios de oralidad del procedimiento a que se refiere la presente ley, se implementarán en los Distritos Judiciales del Estado, en la forma gradual que prevenga la Ley para Implementación, Seguimiento y Evaluación del Sistema de Justicia Penal Acusatorio y Oral en el Estado de Coahuila de Zaragoza.
+
+Hasta en tanto, los asuntos se tramitarán en forma de incidente no especificado, el cual, para los efectos de esta ley, se denominará incidente de ejecución no especificado. Las apelaciones se tramitarán de la forma señalada en el Código de Procedimientos Penales, para la apelación ante los tribunales unitarios.
