@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-11863"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-27"
-last_updated: "2004-02-21"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 27 de enero de 1998.
 
@@ -111,7 +111,9 @@ II. Asociarse libremente en los términos del artículo 9º de la Constitución 
 
 III. Obtener la constancia por la prestación del servicio social profesional;
 
-IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior, los institutos o las direcciones especializadas tendientes a la formación o especialización profesional por los poderes del Estado, o las agrupaciones de profesionistas, y
 
 V. Los demás que se encuentran determinados en la presente Ley, su Reglamento y demás disposiciones aplicables en la materia.
 
@@ -325,7 +327,9 @@ V. Arbitrar conforme a lo establecido en esta Ley.
 
 VI. Fomentar la cultura general y profesional de sus miembros;
 
-VII. Promover y participar en los programas de actualización profesional;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+VII. Promover y participar en los programas de actualización profesional y expedir las constancias o certificados de participación en los cursos de capacitación o especialización de sus miembros;
 
 VIII. Promover entre sus miembros, la prestación del servicio social profesional;
 
@@ -483,43 +487,67 @@ La autorización provisional tendrá vigencia de seis meses y podrá prorrogarse
 
 VIII. Expedir constancias de actualización y práctica profesional, acreditadas por las agrupaciones de profesionistas previo el pago de los derechos correspondientes;
 
-IX. Promover la unificación del nombre de las distintas carreras profesionales y de posgrado que se cursen en el Estado, así como orientar con la participación de las agrupaciones de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-X. Efectuar a través de su personal capacitado, inspecciones a los lugares de trabajo de los que se ostenten como profesionistas, a efecto de comprobar que cuentan con los requisitos y autorizaciones legales correspondientes en la materia, con apego a las prevenciones contenidas en el artículo 16 Constitucional;
+IX. Elaborar un listado de las constancias o certificados de participación en los cursos de capacitación o especialización expedidos por las agrupaciones de profesionistas a sus miembros;
 
-XI. Pedir informes a las agrupaciones de profesionistas respecto al ejercicio profesional de sus afiliados;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XII. Elaborar, organizar y actualizar permanentemente, el Padrón de Profesionistas en el Estado.
+X. Promover la unificación de los nombres de las distintas carreras profesionales y de posgrado que se cursen en el estado, así como orientar, con la participación de las agrupaciones de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;
 
-Para tal efecto la Dirección contará con el apoyo de las agrupaciones de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación superior públicas y privadas. Podrá también solicitar apoyo a las autoridades federales;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XIII. Establecer y organizar delegaciones regionales del Estado, previo acuerdo por escrito del Gobernador, a fin de actualizar y agilizar trámites de registro, expedición de cédulas y autorizaciones, así como del cumplimiento del servicio social profesional;
+XI. Efectuar, a través de su personal capacitado, inspecciones a los lugares de trabajo de los que se ostenten como profesionistas, a efecto de comprobar que cuentan con los requisitos y autorizaciones legales correspondientes en la materia, con apego a las prevenciones contenidas en el artículo 16 constitucional;
 
-XIV. Ser árbitro a petición de parte, en los conflictos que se susciten entre las agrupaciones de profesionistas, entre los miembros de éstas o con otros profesionistas, o entre profesionistas y sus clientes, emitiendo el laudo correspondiente;
+XII. Pedir informes a las agrupaciones de profesionistas respecto al ejercicio profesional de sus afiliados;
 
-XV. Aplicar las sanciones en materia de profesiones conforme a las disposiciones legales aplicables, así como resolver los recursos que promuevan en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XVI. Ordenar la publicación en el periódico oficial del Estado y en los diarios de mayor circulación cuando lo considere conveniente, de las resoluciones y comunicaciones en materia de profesiones;
+XIII. Elaborar, organizar y actualizar permanentemente el Padrón de Profesionistas en el estado.
 
-XVII. Ordenar anualmente, dentro de los diez primeros días del mes de enero, la publicación en el periódico oficial del Estado de la lista completa de los profesionistas que fueron registrados y autorizados para el ejercicio profesional durante el año anterior;
+Para tal efecto la Dirección contará con el apoyo de las agrupaciones de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación superior, públicas y privadas. Podrá también solicitar apoyo a las autoridades federales;
 
-XVIII. Proporcionar información respecto al registro, expedición de cédulas, constancias o autorizaciones que lleva a cabo la Dirección a quien demuestre interés jurídico;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XIX. Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y agrupaciones de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la República Mexicana y en el Extranjero.
+XIV. Establecer y organizar delegaciones regionales del estado, previo acuerdo por escrito del Gobernador, a fin de actualizar y agilizar trámites de registro, expedición de cédulas y autorizaciones, así como del cumplimiento del servicio social profesional;
 
-XX. Llevar memoria, de los profesionistas que residan en el Estado, aún cuando declaren no ejercer su profesión en el mismo;
+XV. Ser árbitro a petición de parte, en los conflictos que se susciten entre las agrupaciones de profesionistas, entre los miembros de éstas o con otros profesionistas, o entre profesionistas y sus clientes, emitiendo el laudo correspondiente;
 
-XXI. Llevar la estadística del ejercicio profesional en el Estado;
+XVI. Aplicar las sanciones en materia de profesiones conforme a las disposiciones legales aplicables, así como resolver los recursos que promuevan en el ámbito de su competencia;
 
-XXII. Vigilar que la publicidad profesional se realice con los requisitos que establece la presente Ley, su Reglamento, y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XXIII. Hacer del conocimiento del Ministerio Público de los actos u omisiones que puedan ser constitutivos de delito, en que incurran quienes se ostenten como profesionistas;
+XVII. Ordenar la publicación en el Periódico Oficial del Estado y en los diarios de mayor circulación cuando lo considere conveniente, de las resoluciones y comunicaciones en materia de profesiones;
 
-XXIV. Promover la celebración de convenios de colaboración, instituciones de educación superior, profesional técnica o de enseñanza normal, para efecto de participar en programas de becas y actividades tendientes a lograr la titulación, registro y autorización en forma expedita; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-XXV. Las demás que se encuentren establecidas en esta Ley y su Reglamento y en otras disposiciones legales aplicables.
+XVIII. Ordenar anualmente, dentro de los diez primeros días del mes de enero, la publicación en el Periódico Oficial del Estado de la lista completa de los profesionistas que fueron registrados y autorizados para el ejercicio profesional durante el año anterior;
 
-La Dirección de Profesiones se coordinará con la Secretaría de Educación, para el cumplimiento de las atribuciones de este capítulo en las que dicha Secretaría deba intervenir.
+XIX. Proporcionar información respecto al registro, expedición de cédulas, constancias o autorizaciones que lleva a cabo la Dirección a quien demuestre interés jurídico;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XX. Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y agrupaciones de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la república mexicana y en el extranjero;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXI. Llevar memoria de los profesionistas que residan en el estado, aún cuando declaren no ejercer su profesión en el mismo;
+
+XXII. Llevar la estadística del ejercicio profesional en el estado;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXIII. Vigilar que la publicidad profesional se realice con los requisitos que establecen la presente ley, su reglamento y las demás disposiciones aplicables;
+
+XXIV. Hacer del conocimiento del Ministerio Público de los actos u omisiones que puedan ser constitutivos de delito, en que incurran quienes se ostenten como profesionistas;
+
+XXV. Promover la celebración de convenios de colaboración, instituciones de educación superior, profesional técnica o de enseñanza normal, para efecto de participar en programas de becas y actividades tendientes a lograr la titulación, registro y autorización en forma expedita, y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXVI. Las demás que se encuentren establecidas en esta ley y su reglamento y en otras disposiciones legales aplicables.
+
+La Dirección de Profesiones se coordinará con la Secretaría de Educación para el cumplimiento de las atribuciones de este capítulo en las que dicha Secretaría deba intervenir.
 
 ###### Artículo 49.
 
@@ -654,3 +682,7 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 21 DE FEBRERO DE 2004.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
