@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2012-09-14"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -637,9 +637,13 @@ VII. Las demás que le señalen esta ley y la Presidencia de la Mesa Directiva.
 
 ### CAPÍTULO I. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 61.
 
-Para estudiar y dictaminar los asuntos que son competencia del Congreso, habrá comisiones dictaminadoras permanentes y especiales. Las comisiones permanentes consideradas por la presente ley, se elegirán durante el desarrollo del período de instalación de la legislatura, mediante escrutinio secreto, por medio de cédulas o sistema electrónico y por mayoría de votos y se integrarán con un máximo de siete diputados.
+Para estudiar y dictaminar los asuntos que son competencia del Congreso, habrá comisiones dictaminadoras permanentes y especiales. Las comisiones permanentes consideradas por la presente ley, se elegirán durante el desarrollo del período de instalación de la legislatura, mediante escrutinio secreto, por medio de cédulas o sistema electrónico y por mayoría de votos.
+
+Las Comisiones Dictaminadoras Permanentes, se integrarán en lo general con un máximo de siete diputados; y, excepcionalmente, podrán integrarse con nueve diputados, en aquellos casos en que a propuesta de la Junta de Gobierno lo apruebe el Pleno del Congreso y siempre y cuando se observe lo dispuesto en el Artículo 22, fracción II, de esta ley, con relación al número de comisiones de las pueden formar parte los diputados.
 
 ###### ARTÍCULO 62.
 
@@ -663,7 +667,9 @@ Las comisiones permanentes se constituyen dentro del periodo de instalación de 
 
 La Junta de Gobierno formulará las propuestas correspondientes, con base en el criterio de proporcionalidad en relación a la integración del Pleno. Al hacerlo cuidará que su propuesta incorpore, hasta donde fuere posible, a los diputados pertenecientes a los distintos partidos políticos representados en el Congreso, de tal suerte que se refleje la proporción que representan en el Pleno.
 
-En cada comisión fungirá como coordinador el diputado electo en primer término y como secretario el diputado electo en segundo término.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+En cada comisión fungirá como coordinador el diputado electo en primer término. Las comisiones contarán en lo general con un secretario, que será el diputado nombrado en segundo término, y cuando se considere procedente podrán contar con dos secretarios, que deberán pertenecer a grupos parlamentarios o partidos políticos distintos y que serán denominados primero y segundo en las propuestas que se formulen para integrar o modificar la integración de las comisiones.
 
 ###### ARTÍCULO 66.
 
@@ -1207,7 +1213,7 @@ En estos casos, la comisión que se mencione en primer término será la encarga
 
 ###### ARTÍCULO 97.
 
-Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso o la Diputación Permanente. las comisiones se reunirán a convocatoria de su coordinador, donde se señalará lugar, fecha y hora de la sesión. Así mismo, las comisiones se reunirán cuando lo acuerden las dos terceras partes de sus integrantes. Habiendo asuntos pendientes las comisiones sesionarán, por lo menos, una vez al mes.
+Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso o la Diputación Permanente, las comisiones se reunirán a convocatoria de su coordinador, donde se señalará lugar, fecha y hora de la sesión. Así mismo, las comisiones se reunirán cuando lo acuerden las dos terceras partes de sus integrantes. Habiendo asuntos pendientes las comisiones sesionarán, por lo menos, una vez al mes.
 
 El coordinador de la comisión, informará lo anterior a la Oficialía Mayor para la programación y realización de estas reuniones.
 
@@ -2701,7 +2707,7 @@ ESTHER QUINTANA SALINAS
 
 P.O. 30 DE DICIEMBRE DE 2011.
 
-DECRETO NÚMERO 572, POR EL QUE SE REFORMA EL ARTICULO 145 DE (SIC) LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+DECRETO NÚMERO 572, POR EL QUE SE REFORMA EL ARTÍCULO 145 DE (SIC) LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2724,3 +2730,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para el efecto de lo que se establece en el segundo párrafo del Artículo 65 de la Ley Orgánica del Congreso del Estado, durante el ejercicio de la Quincuagésima Novena Legislatura, en aquellas Comisiones en las que se determine que existan dos secretarios, fungirá como primer secretario el Diputado que esté desempeñando actualmente esa función, conforme a la propuesta aprobada durante el período de instalación de dicha legislatura; y el diputado que se designe para que también funja con ese carácter en una comisión, será el segundo secretario.
+
+TERCERO.- Al entrar en vigor las presentes reformas, se dispondrá lo conducente para que la Comisión de Gobernación, Puntos Constitucionales y Justicia de la Quincuagésima Novena Legislatura, se integre con 9 Diputados y cuente con dos Secretarios, observándose para este efecto lo dispuesto en este decreto.
+
+CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
