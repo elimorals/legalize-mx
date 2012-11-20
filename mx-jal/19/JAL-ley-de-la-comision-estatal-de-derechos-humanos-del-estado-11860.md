@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2010-09-18"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -43,11 +43,11 @@ Lineamientos Generales.
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 1º.
 
-La presente ley es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el Estado de Jalisco. Tiene por objeto establecer la forma de Integración, atribuciones, organización y competencia de la Comisión de Derechos Humanos, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+La presente ley es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el estado de Jalisco. Tiene por objeto establecer la forma de integración, atribuciones, organización y competencia de la Comisión Estatal de Derechos Humanos, en los términos que señalan la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -55,13 +55,15 @@ La presente ley es de orden público e interés social; sus disposiciones son de
 
 Para los efectos de la presente ley, se consideran derechos humanos:
 
-I. Las garantías individuales y sociales enunciadas en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Jalisco, así como de las leyes secundarias y reglamentos que de ellas emanen;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-II. Los contenidos en la Declaración Universal de los Derechos Humanos; y
+I. Aquellos que se encuentren reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Jalisco, así como las leyes secundarias y reglamentos que de ellas emanen;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+II. Los contenidos en la Declaración Universal de los Derechos Humanos; y (sic)
 
-III. Los contenidos en los tratados, convenios y acuerdos internacionales de los que en esta materia México forme parte; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. Los contenidos en los tratados, convenios y acuerdos internacionales que el Gobierno federal haya firmado o los que celebre o de que forme parte, y
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -77,7 +79,9 @@ La Comisión Estatal de Derechos Humanos es un organismo público, dotado de ple
 
 La Comisión Estatal de Derechos Humanos tiene como finalidad esencial la defensa, protección, estudio y divulgación de los derechos humanos.
 
-En lo sucesivo, cuando en el presente ordenamiento se mencione a la Comisión, deberá entenderse que se trata de la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+En lo sucesivo, cuando en el presente ordenamiento se mencione a la Comisión, deberá entenderse que se trata de la Comisión Estatal de Derechos Humanos.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -93,9 +97,9 @@ De la Competencia y atribuciones de la Comisión.
 
 La Comisión tendrá competencia para conocer de oficio o a petición de parte respecto de las quejas que le presenten los particulares en relación con:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-I. Presuntas violaciones de los derechos humanos por parte de los servidores públicos, autoridades estatales o municipales en la realización de actos u omisiones de naturaleza administrativa.
+I. Presuntas violaciones a los derechos humanos, provenientes de actos u omisiones de cualquier autoridad o servidor público estatal o municipal;
 
 II. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
@@ -111,13 +115,17 @@ Tratándose del Poder Judicial del Estado, la Comisión sólo tendrá facultades
 
 (DEROGADO, P.O. 13 DE FEBRERO DE 2001)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 6°.
+
+Por ningún motivo la Comisión será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 6º.
-
-Por ningún motivo, la Comisión será competente tratándose de asuntos electorales, laborales, o jurisdiccionales, ni tendrá facultades para otorgar asesoría sobre la interpretación de leyes a autoridades o particulares.
-
 Tratándose de quejas que involucren a servidores públicos de la federación o de otras entidades federativas, la Comisión enviará copia de la misma a la Comisión Nacional o a su homóloga estatal según corresponda para su conocimiento.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 La comisión Estatal podrá solicitar la coadyuvancia de la Comisión Nacional tratándose de asuntos de salud pública, educación, sistema penitenciario, áreas de confinamiento, personas ausentes o desaparecidas, aquellas en las que se desconozca a la autoridad responsable, así como el seguimiento de las recomendaciones de la Comisión Nacional, dirigidas a las autoridades del Estado en los términos de las leyes de la materia.
 
@@ -149,9 +157,9 @@ VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
 VII. Elaborar y ejecutar los programas de atención y seguimiento de las quejas que se le presenten, así como de los acuerdos, conciliaciones, orientaciones, peticiones o recomendaciones de la Comisión;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-VIII. Promover la divulgación de la cultura de los derechos humanos en todos los niveles de gobierno y entre la población, por medio entre otros, de programas de capacitación en la profesionalización del servicio público, en el sistema educativo, a través de los medios de comunicación masiva y de la publicación de los textos que elabore;
+VIII. Promover la divulgación de la cultura de los derechos humanos en todos los niveles de gobierno y entre la población, entre otros, por medio de programas de capacitación en la profesionalización del servicio público, en el sistema educativo, a través de los medios de comunicación masiva y de la publicación de los textos que elabore;
 
 IX. Prestar apoyo y asesoría técnica en materia de divulgación de los derechos humanos, cuando le sea solicitado por organismos públicos y privados, o por cualquier particular;
 
@@ -165,7 +173,9 @@ XI. Promover la participación de los distintos sectores públicos, sociales y p
 
 XII. Constituir la instancia de coordinación, seguimiento y concertación entre el sector público y la sociedad civil, en materia de derechos humanos;
 
-XIII. Ser el órgano de vinculación con la Comisión Nacional de Derechos Humanos, procurando la adecuada coordinación entre ambos organismos, en las materias que les son concurrentes;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XIII. Ser el órgano de vinculación con la Comisión Nacional de los Derechos Humanos, procurando la adecuada coordinación entre ambos organismos en las materias que les son concurrentes;
 
 XIV. Celebrar convenios y acuerdos, así como realizar reuniones de trabajo y establecer relaciones técnicas y operativas con organismos federales y locales, públicos y privados, en materia de derechos humanos;
 
@@ -189,21 +199,21 @@ XXII. Expedir y modificar su reglamento interior;
 
 XXIII. Realizar visitas periódicas a:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-a) Los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, las leyes y reglamentos que de ambas emanan, así como los instrumentos internacionales que México haya ratificado sobre derechos de los pueblos indígenas;
+a) Los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respeto a los derechos humanos;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales y los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que formen parte, así como los derechos de la educación y la salud que establece la Constitución Política de los Estados Unidos Mexicanos;
+b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos humanos de la niñez;
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones;
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades exhiban, los derechos que se establecen en la Constitución Política de los Estados Unidos Mexicanos y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte, para los detenidos y procesados.
+d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades informen y garanticen los derechos humanos a las personas que se encuentren detenidos o procesados.
 
 XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y (sic)
 
@@ -361,7 +371,9 @@ III. Opinar sobre los proyectos de los informes del Presidente, así como de los
 
 IV. Proponer al Ejecutivo del Estado, el proyecto de Presupuesto de Egresos de la Comisión;
 
-En caso de que el Consejo General no proponga parcial o totalmente el proyecto de Presupuesto de Egresos de la Comisión, será el Congreso del Estado, el que determine el presupuesto definitivo;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+En caso de que el Consejo Ciudadano no proponga parcial o totalmente el proyecto del Presupuesto de Egresos de la Comisión, será el Congreso del Estado el que determine el presupuesto definitivo;
 
 V. Nombrar al Secretario Técnico del Consejo Ciudadano;
 
@@ -419,11 +431,11 @@ Los consejeros suplentes asistirán a las sesiones del Consejo Ciudadano y tendr
 
 Los consejeros ciudadanos, previo acuerdo del Consejo, podrán solicitar información a los servidores públicos o autoridades de organismos estatales o municipales, sobre asuntos de derechos humanos en la entidad.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 19.
 
-Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las denuncias que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
+Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las quejas que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -523,11 +535,19 @@ V. No haber sido condenado por delito doloso, ni haber resultado responsable por
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y
+VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y (sic)
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-VII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad.
+VII. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+IX. No ser dirigente de ningún partido político o agrupación política, cuando menos cinco años antes a la fecha de su elección.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -609,11 +629,13 @@ De los informes del Presidente.
 
 El Presidente rendirá un informe anual a la sociedad y los titulares de los tres poderes del Estado, sobre las actividades que haya realizado. Dicho informe se difundirá en la forma más amplia posible para conocimiento de la sociedad a través de las publicaciones de la Comisión y de los medios de comunicación masiva.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-El informe anual de actividades deberá contener un diagnóstico general de la situación de los derechos humanos en el Estado y las causas estructurales de su violación; una descripción del número y características de las quejas interpuestas, los resultados de su labor de conciliación; las investigaciones realizadas, las recomendaciones, peticiones y los acuerdos de no violación a los derechos humanos que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+El informe anual de actividades deberá contener un panorama general de la situación de los derechos humanos en el estado; el número de quejas recibidas, sus características, los resultados de la labor de conciliación; las investigaciones realizadas, las recomendaciones emitidas, peticiones y acuerdos de no violación a los derechos humanos que se hubieren formulado; los resultados generales de la gestión anual obtenidos, así como pronunciamientos, informes especiales, resultados de la capacitación, las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados, con la consecuente eficacia en la prestación de los servicios públicos.
 
@@ -653,7 +675,9 @@ Son atribuciones y obligaciones del Secretario Ejecutivo:
 
 I. Proponer al Consejo Ciudadano y al Presidente, los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante la población, los organismos civiles, autoridades estatales o municipales y las universidades;
 
-II. Promover y fortalecer las relaciones de la Comisión con los ciudadanos, organismos públicos, sociales o privados, en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+II. Promover y fortalecer las relaciones de la Comisión con los ciudadanos, organismos públicos, sociales y privados, en materia de derechos humanos;
 
 III. Formular los anteproyectos de propuestas y consideraciones a las leyes y reglamentos que la Comisión haya de entregar a los órganos competentes y estudios que los sustenten;
 
@@ -779,7 +803,7 @@ VII. Analizar las quejas que se presenten por cualquier medio, y en caso de ser 
 
 VIII. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
 
-IX. Turnar a dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
+IX. Turnar a la dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
 
 X. Las demás que le otorguen la presente Ley, su reglamento interior y los demás ordenamientos aplicables.
 
@@ -965,7 +989,9 @@ La queja no requiere de ningún requisito de formalidad, podrá presentarse por 
 
 En casos urgentes, podrá enviarse por cualquier medio de comunicación y deberá ratificarse dentro de los cinco días siguientes a su presentación.
 
-En todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual, la Comisión orientará y apoyará a los quejosos sobre el contenido de la misma y tratándose de personas que no entiendan el idioma español, les proporcionará gratuitamente un traductor o intérprete. Se pondrán a disposición de los quejosos formularios que faciliten el trámite.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+En todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual la Comisión orientará y apoyará a los quejosos sobre el contenido de la misma, y tratándose de personas que no entiendan el idioma español y/o sean sordos, les proporcionará gratuitamente un traductor o intérprete. Se pondrán a disposición de los quejosos formularios que faciliten el trámite.
 
 ###### Artículo 52.
 
@@ -1045,9 +1071,11 @@ Las quejas presentadas en la Comisión cuyo conocimiento competa a otra Comisió
 
 La Comisión registrará las quejas que se presenten y extenderá acuse de recibo de las mismas.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 59.
 
-Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después de este requerimiento, el quejoso no contesta en un término de cinco días, se enviará al archivo por falta de interés. No obstante, en cualquier momento, teniéndose los datos necesarios, se continuará con el trámite respectivo.
+Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después de este requerimiento, el quejoso no contesta en un término de cinco días naturales, se enviará al archivo por falta de interés. No obstante, en cualquier momento, teniéndose los datos necesarios, se continuará con el trámite respectivo.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -1180,6 +1208,14 @@ V. Cuando se solicite el cese de las violaciones en los centros de readaptación
 VI. Cuando se solicite al superior jerárquico de un servidor público, se aplique una medida disciplinaria por no cumplir con las peticiones de la Comisión u obstaculiza las investigaciones que ésta emprenda; y
 
 VII. Las demás que señale el reglamento interior.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 71
+
+Bis. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado podrá llamar, a solicitud de (sic) misma Comisión, a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano legislativo, a efecto de que expliquen el motivo de su negativa.
+
+Una vez desahogada la comparecencia, el Congreso del Estado enviará a la Comisión el resultado de la misma para que ésta lo integre al expediente correspondiente de la recomendación.
 
 ###### Artículo 72.
 
@@ -1426,3 +1462,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 18 DE SEPTIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
