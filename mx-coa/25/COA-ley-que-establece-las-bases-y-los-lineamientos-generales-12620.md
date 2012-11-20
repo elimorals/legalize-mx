@@ -4,7 +4,7 @@ identifier: "COA-ley-que-establece-las-bases-y-los-lineamientos-generales-12620"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-10"
-last_updated: "2009-05-12"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE ESTABLECE LAS BASES Y LOS LINEAMIENTOS GENERALES PARA LA RECEPCIÓN DE LAS APORTACIONES FEDERALES, Y LA CREACIÓN, DISTRIBUCIÓN, APLICACIÓN Y SEGUIMIENTO DE ESOS RECURSOS EN "LOS FONDOS ESTATALES PARA EL DESARROLLO SOCIAL EN COAHUILA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Número 12 del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 1998.
 
@@ -391,11 +391,11 @@ El Fideicomiso de Seguridad Pública del Estado podrá apoyar a los Municipios d
 
 ### CAPITULO IX. DEL FONDO ESTATAL DE APORTACIONES MULTIPLES
 
-(REUBICADO, P.O. 21 DE FEBRERO DE 2003)
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-El Gobierno del Estado destinará y ejercerá los recursos del Fondo Estatal de Aportaciones Múltiples, a los programas de asistencia social en apoyo a la población en desamparo, así como al fortalecimiento de la infraestructura educativa pública básica y superior.
+El Gobierno del Estado destinará y ejercerá los recursos del Fondo Estatal de Aportaciones Múltiples, a los programas de asistencia social en apoyo a la población en desamparo, así como el fortalecimiento de la infraestructura educativa pública básica, media superior y superior en su modalidad universitaria según las necesidades de cada nivel.
 
 (REUBICADO, P.O. 21 DE FEBRERO DE 2003)
 
@@ -407,7 +407,9 @@ A) Apoyos alimentarios y de asistencia social, a la población en condiciones de
 
 B) Apoyos a la población en desamparo.
 
-C) A la construcción y equipamiento de infraestructura física de los niveles de educación básica y superior.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+C) A la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica, media superior y superior en su modalidad universitaria según las necesidades de cada nivel.
 
 (REUBICADO, P.O. 21 DE FEBRERO DE 2003)
 
@@ -415,11 +417,13 @@ C) A la construcción y equipamiento de infraestructura física de los niveles d
 
 De conformidad con el Sistema Nacional de Asistencia Social, y atendiendo a las prioridades establecidas en el Plan Estatal de Desarrollo de Coahuila, el Gobierno del Estado promoverá y establecerá los programas encaminados a mejorar la calidad y la cobertura de los servicios de la asistencia social en la Entidad, con especial atención a las zonas marginadas, así como instrumentará las acciones necesarias que garanticen la concurrencia y la colaboración institucional con las autoridades municipales y las organizaciones de asistencia social de la Entidad.
 
-(REUBICADO, P.O. 21 DE FEBRERO DE 2003)
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
-El Gobierno del Estado programará y ejercerá los recursos del Fondo Estatal de Aportaciones Múltiples que se destinen a implementar acciones orientadas a la construcción y al equipamiento de la infraestructura física educativa de carácter pública de los niveles básico y superior, buscando la complementariedad de los recursos que la Federación y los Municipios orienten a este mismo propósito.
+El Gobierno del Estado programará y ejercerá los recursos del Fondo Estatal de Aportaciones Múltiples que se destinen a implementar acciones orientadas a la construcción, al equipamiento y a la rehabilitación de la infraestructura física educativa de carácter pública de los niveles básico, medio superior y superior en su modalidad universitaria según las necesidades de cada nivel.
+
+Los recursos destinados para tal efecto, serán ejecutados por el Instituto Coahuilense de la Infraestructura Física Educativa, pudiéndose destinar hasta el 3% de los recursos correspondientes, para ser aplicados como gastos indirectos a las obras y/o servicios, entre los que se incluyen los trabajos de coordinación, supervisión, control de obra, fletes, laboratorio de análisis y control de calidad, de geotecnia, de mecánica de suelos, de resistencia de materiales, radiografías industriales, proyectos ejecutivos de obra y demás necesarios para garantizar la calidad de las obras y/o servicios.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE FEBRERO DE 2003)</small>
 
@@ -690,3 +694,17 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
