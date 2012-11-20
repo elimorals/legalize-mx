@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2012-06-26"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -713,11 +713,11 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público desconcentrado de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
 
 La Comisión tendrá su despacho central en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que se consideren necesarias para el cumplimiento de su objeto.
 
@@ -735,37 +735,171 @@ IV. Promover y suscribir convenios, acuerdos, bases de coordinación y demás in
 
 V. Las demás que la presente ley y otras disposiciones aplicables le otorguen.
 
-###### Artículo 64.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-Para su funcionamiento, la Comisión contará con una Dirección General y dispondrá de las unidades administrativas y recursos humanos, financieros y materiales que sean autorizados por el Ejecutivo Estatal de acuerdo al Presupuesto de Egresos respectivo.
+###### ARTÍCULO 64.
 
-###### Artículo 65.
+El patrimonio de la Comisión se integrará con los siguientes bienes:
 
-El Director General tendrá las siguientes atribuciones:
+I. Los inmuebles, equipos, maquinaria, mobiliario y demás que el Gobierno del Estado destine para los fines de la Comisión;
 
-I. Acordar con el titular de la Secretaría, lo relativo a las materias y asuntos que le sean inherentes, así como presentar los informes que les sean solicitados;
+II. Los subsidios y aportaciones periódicas o eventuales que reciba de los Gobiernos Federal, Estatal o Municipales y las que obtenga de las instituciones públicas o privadas;
 
-II. Dirigir, administrar y coordinar el desarrollo de las actividades de la Comisión y dictar los acuerdos que tiendan a dicho fin;
+III. Las donaciones y otras liberalidades otorgadas por los particulares en favor de la Comisión;
 
-III. Supervisar y coordinar las unidades técnicas y administrativos adscritos a la Comisión, así como proponer al titular de la Secretaria las medidas que estime convenientes para su mejor funcionamiento;
+IV. Los créditos que obtenga con la garantía del Gobierno del Estado; ajustándose a la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
 
-IV. Nombrar, reubicar o remover al personal de la oficina, previa autorización del titular de la Secretaría;
+V. Los rendimientos, frutos, productos y aprovechamientos que obtenga de sus operaciones o que le correspondan por cualquier título legal; y
 
-V. Determinar las políticas y directrices generales a que deberán sujetarse las unidades administrativas adscritas a la Comisión;
+VI. Los demás que adquiera por cualquier título.
 
-VI. Establecer los mecanismos de registros, control y evaluación que se requieran para el cumplimiento de su objeto;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-VII. Proponer al titular de la Secretaría los programas y presupuestos de construcción de viviendas a la aprobación del Consejo;
+###### ARTÍCULO 65.
 
-VIII. Elaborar y proponer al titular de la Secretaría el proyecto de Reglamento Interior de la Comisión;
+Para su funcionamiento, la Comisión contará con una Junta de Gobierno que será su máxima autoridad, y se integrará de la siguiente manera:
 
-IX. Rendir trimestralmente un informe general de actividades al titular de la Secretaría, y
+I. Una Presidencia, encabezada por quien sea titular de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
 
-X. Las demás que determine esta Ley, su Reglamento y otras disposiciones aplicables.
+II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
+
+III. Por cinco vocales del sector público que serán las y los titulares de:
+
+a) La Secretaría de Finanzas;
+
+b) La Secretaría de Infraestructura;
+
+c) La Secretaría de Medio Ambiente;
+
+d) La Dirección General de la Comisión Estatal para la Regulación de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
+
+e) La Dirección General del Registro Público de la Propiedad y del Comercio;
+
+IV. Por tres vocales del sector ciudadano que serán preferentemente los representantes de:
+
+a) La Cámara Nacional de la industria de desarrollo y Promoción de Vivienda de Coahuila;
+
+b) La Cámara Nacional de la industria de desarrollo y Promoción de Vivienda de Región Laguna; y
+
+c) La Cámara Mexicana de la Industria de la Construcción Delegación Coahuila.
+
+El Comisario será designado por quien sea titular de la Secretaría de Fiscalización y Rendición de Cuentas.
+
+La calidad de los suplentes designados, se acreditará mediante el oficio respectivo, dirigido al Presidente de la Junta de Gobierno y signado por el propietario a quien representa. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éste en las sesiones de la propia Junta de Gobierno.
+
+Quienes integren la Junta de Gobierno, tanto propietarios como suplentes, antes de tomar posesión de su cargo deberán rendir protesta en los mismos términos de lo dispuesto en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza. Todos los cargos de la Junta de Gobierno de la Comisión como entidad paraestatal a que se refiere el presente artículo serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 66.
 
-Las demás disposiciones aplicables al funcionamiento de la Comisión, serán establecidas en el Reglamento Interior que al efecto se expida.
+La Comisión contará con una Dirección General y dispondrá de las unidades administrativas y recursos humanos, financieros y materiales que sean autorizados por la Junta de Gobierno y que se contengan en su Reglamento Interior, de conformidad con el presupuesto que para tal efecto se designe.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 BIS. Son atribuciones indelegables de la Junta de Gobierno de la Comisión, las siguientes:
+
+I. Expedir el reglamento interior, estableciendo la estructura orgánica, facultades y funciones que correspondan a las diversas áreas operativas y de administración de la Comisión;
+
+II. Otorgar poderes generales o especiales a quien sea titular de la Dirección General;
+
+III. Establecer, en congruencia con la Ley de Planeación del Estado de Coahuila de Zaragoza y con el Plan Estatal de Desarrollo vigente, las políticas públicas generales y definir las prioridades y objetivos a los que deberá sujetarse la Comisión;
+
+IV. Aprobar los planes, programas y presupuestos de la Comisión, así como sus modificaciones, de acuerdo con legislación (sic) aplicable;
+
+V. Establecer y ajustar los precios de los bienes que produzca y servicios que preste la Comisión, así como gestionar lo conducente para su publicación en el Periódico Oficial del Gobierno del Estado;
+
+VI. Autorizar y presentar ante el Congreso del Estado, la cuenta pública de la Comisión, en la forma y términos que establezca la Ley de Fiscalización Superior del Estado de Coahuila de Zaragoza y demás disposiciones que le sean aplicables;
+
+VII. Aprobar la concertación de obligaciones para el financiamiento de la Comisión, así como observar los lineamientos que dicten las autoridades competentes, en materia del manejo de disponibilidades financieras;
+
+VIII. Autorizar, previo informe o dictamen de los auditores externos, los estados financieros anuales de la Comisión, los cuales deberán contener el registro patrimonial de los bienes a su cargo, así como gestionar lo conducente para la publicación de los mismos;
+
+IX. Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios y contratos o acuerdos que deba celebrar la Comisión con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios, los que en todo caso deberán sujetarse a la leyes de la materia;
+
+X. Proponer al Ejecutivo del Estado, los convenios de fusión con otras entidades paraestatales;
+
+XI. Autorizar la creación interna de comisiones o grupos de trabajo;
+
+XII. Autorizar la creación de comités o subcomités técnicos especializados, los cuales estarán integrados por personal de la Comisión y, en su caso, por asociaciones, grupos organizados de la ciudadanía relacionados con el objeto de comité o subcomité que se trate;
+
+XIII. Dictar las disposiciones que normen la contratación, remuneración y prestaciones, que deban otorgarse a los servidores públicos de la Comisión, las que en todo caso deberán sujetarse a los tabuladores autorizados por el Gobierno del Estado;
+
+XIV. Vigilar que los acuerdos de coordinación que se celebren con las dependencias o entidades federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
+
+XV. Analizar y aprobar en su caso, los informes periódicos que rinda quien sea titular de la Dirección General;
+
+XVI. Establecer los lineamientos que debe cumplir la Comisión en materia de acceso a la información, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza y demás disposiciones en la materia;
+
+XVII. Procurar el incremento del patrimonio de la Comisión y vigilar su administración;
+
+XVIII. Vigilar la aplicación correcta de los recursos ordinarios y extraordinarios, que por cualquier título obtenga la Comisión; y
+
+XIX. Las demás que le otorguen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 TER. La Junta de Gobierno deberá celebrar cuando menos, dos sesiones ordinarias trimestralmente.
+
+Podrán celebrarse sesiones extraordinarias cada vez que quien sea titular de la Presidencia lo estime conveniente o a petición de una tercera parte del total de los integrantes de la Junta de Gobierno.
+
+Los integrantes de la Junta de Gobierno participarán en las sesiones a que se refiere este artículo, con voz y voto, a excepción de quien sea titular de la Secretaria Técnica, quien tendrá voz pero no voto. En caso de empate, quien sea titular de la Presidencia de la Junta de Gobierno tendrá voto de calidad.
+
+En las sesiones de la Junta de Gobierno podrá asistir el Ejecutivo del Estado, a quien le corresponderá, en su caso, presidir la sesión con todas las atribuciones de quien sea titular de la Presidencia, quien participará como vocal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 QUÁTER. Quien sea titular de la Dirección General tendrá las siguientes atribuciones y obligaciones:
+
+I. Administrar y representar legalmente a la entidad paraestatal;
+
+II. Nombrar y remover a los servidores públicos adscritos a la Comisión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado de Coahuila de Zaragoza y demás leyes aplicables;
+
+III. Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la entidad paraestatal y presentarlos para su aprobación a la Junta de Gobierno;
+
+IV. Formular los programas de organización y administración de los recursos humanos, financieros y materiales que conforman la Comisión;
+
+V. Establecer los métodos y prácticas que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la Comisión;
+
+VI. Supervisar y vigilar que las funciones del personal de la Comisión se realicen de manera articulada, congruente y eficaz;
+
+VII. Establecer los procedimientos para controlar la calidad de los suministros y programas que aseguren la continuidad en la implementación, distribución o prestación de los servicios, o en la realización de los fines para lo cual fue creada la Comisión;
+
+VIII. Recabar la información y los elementos estadísticos, que reflejen el estado de las funciones en la Comisión, a fin de mejorar las gestiones y acciones de la misma;
+
+IX. Establecer los sistemas de control interno necesarios para alcanzar las metas u objetivos propuestos;
+
+X. Presentar cada mes a la Presidencia de la Junta de Gobierno, el informe de desempeño de las actividades de la Comisión, incluido el ejercicio de los presupuestos de ingresos y egresos, y los estados financieros que contemplen los registros patrimoniales de los bienes con que cuente la Comisión. En el informe y en los documentos de apoyo, se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las metas alcanzadas;
+
+XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Comisión y presentar a la Junta de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
+
+XII. Proporcionar la información y dar acceso a la documentación que le soliciten la dependencia a la que se encuentre adscrita, la Secretaría de Medio Ambiente, la Secretaría de Finanzas, la Secretaría de Fiscalización y Rendición de Cuentas, el auditor externo, así como a la Auditoría Superior del Estado, para el cumplimiento de sus funciones;
+
+XIII. Proponer a la Junta de Gobierno, en su caso, las Reglas de Operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
+
+XIV. Ejecutar los acuerdos que dicte la Junta de Gobierno, y
+
+XV. Las demás que señalen las disposiciones que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 QUINQUIES. Quien sea titular de la Dirección General de la Comisión, en lo que concierne a su representación legal, independientemente de las atribuciones que se le otorguen en otras disposiciones, tendrá las siguientes:
+
+I. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la entidad que dirige;
+
+II. Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Comisión;
+
+III. Las demás que le sean encomendadas por la Junta de Gobierno y las que se señalen en las disposiciones aplicables.
+
+Quien sea titular de la Dirección General, ejercerá las atribuciones a que se refiere este artículo, bajo su más estricta responsabilidad, informando siempre de ello a la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 SEXTIES. Las relaciones de trabajo entre el personal y la Comisión se regirán por las disposiciones de su reglamento interior del trabajo y en todo lo no previsto por éste, por la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 66 SEPTIES. Las demás disposiciones aplicables al funcionamiento de la Comisión y de las Unidades Administrativas que la integran, serán establecidas en el Reglamento Interior que al efecto se expida.
 
 ### CAPÍTULO DÉCIMO TERCERO. DENUNCIA POPULAR Y RESPONSABILIDADES
 
@@ -882,3 +1016,27 @@ SEXTO.- Los servicios que hasta antes de la entrada en vigor del presente decret
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 OCTAVO.- El Organismo Público desconcentrado denominado Comisión Estatal de Vivienda, deberá emitir su reglamento en un término de 6 meses a partir de la entrada en vigor del presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todos los bienes muebles e inmuebles que pertenecían al extinto Instituto Estatal de la Vivienda Popular y que por disposición del artículo SEGUNDO TRANSITORIO del decreto que reforma diversas disposiciones de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y de la Ley de Vivienda para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 26 de Junio del 2012, fueron reasignados a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial pasaran a los activos y patrimonio del organismo público denominado Comisión Estatal de Vivienda.
+
+TERCERO.- Los recursos humanos que pertenecían al extinto Instituto Estatal de la Vivienda Popular y que por disposición del artículo TERCERO TRANSITORIO del decreto que reforma diversas disposiciones de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y de la Ley de Vivienda para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 26 de Junio del 2012, fueron reasignados a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial serán transferidos a la Comisión Estatal de Vivienda y formaran parte de su plantilla de personal.
+
+Los derechos laborales de los trabajadores que con motivo de este decreto son transferidos, serán reconocidos íntegramente y respecto de los mismos se seguirá aplicando la normatividad de la materia, por lo que en ninguna forma resultarán afectados en sus derechos, facultades y atribuciones que hayan adquirido en virtud de su relación laboral.
+
+CUARTO.- Los procedimientos y asuntos pertenecientes al extinto Instituto Estatal de la Vivienda Popular que a la entrada en vigor del presente se encuentren pendientes de resolución, se resolverán por la Comisión Estatal de Vivienda.
+
+Por lo anterior, todas las facultades, derechos y obligaciones correspondientes al extinto Instituto Estatal de la Vivienda Popular, se entenderán vigentes a favor de la Comisión Estatal de Vivienda, por lo que cualquier referencia que se haga en un contrato o instrumento distinto que los contenga, se entenderá conferido en los términos de lo previsto por el presente Decreto.
+
+QUINTO.- Para los efectos de lo dispuesto en el artículo anterior, la Junta de Gobierno revisará y validará los asuntos que se refieran a actos, convenios, resoluciones u operaciones que se hubieren llevado a cabo o emitido desde el día 18 de diciembre del 2010 y hasta la fecha de la publicación de este Decreto en el periódico oficial del Gobierno del Estado, por el extinto Instituto Estatal de la Vivienda Popular y por la Unidad Administrativa Encargada de la Materia Inmobiliaria y de Vivienda Popular de la Comisión Estatal de Vivienda, actuaciones que se entenderán como parte de la Comisión Estatal de Vivienda como organismo público descentralizado de la administración pública estatal.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Se otorga un plazo de sesenta días contados a partir del día siguiente a la entrada en vigor del presente Decreto, para que se instale y entre en funcionamiento el Consejo Estatal de Vivienda.
+
+OCTAVO.- En un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto deberán implementarse acciones para la elaboración del programa estatal, de los regionales y municipales de vivienda.
+
+NOVENO.- La Comisión deberá elaborar el reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza y someterlo a consideración y aprobación de quien sea Titular del Ejecutivo del Estado, en un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto.
