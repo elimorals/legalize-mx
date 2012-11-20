@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2012-09-26"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1021,15 +1021,19 @@ XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus servicios ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones, a un fin diverso a éste;
 
-XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones a un fin diverso a este, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día, y
 
-XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+XXVIII. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos del Estado de Jalisco. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa.
 
 ## TITULO TERCERO
 
@@ -2654,3 +2658,7 @@ QUINTO. El presente decreto no será aplicable de manera retroactiva en contra d
 SEXTO. Las nuevas disposiciones del artículo 17, contempladas en las fracciones III, IV y V, de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, aplicarán a los nombramientos que se elaboren con posterioridad al presente decreto.
 
 SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa que fungirá como órgano de control disciplinario de conformidad con el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
