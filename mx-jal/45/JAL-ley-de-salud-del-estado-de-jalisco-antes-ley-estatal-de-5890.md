@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2012-11-17"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -69,13 +69,13 @@ IV. La extensión de actitudes solidarias y responsables de la población, en la
 
 V. El acceso a los servicios de salud que satisfagan eficaz y oportunamente, las necesidades de la población;
 
-VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
+VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y (sic)
 
 VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-XXVIII. Promover los principios de equidad y no discriminación.
+VIII. Promover los principios de equidad y no discriminación en el acceso a los servicios de salud y en la prestación de los mismos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -245,7 +245,7 @@ Se determinan como áreas de coordinación prioritarias las relativas a:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-l. Desastres y accidentes;
+I. Desastres y accidentes;
 
 II. Residuos peligrosos biológico infecciosos;
 
@@ -575,13 +575,13 @@ Las instituciones de salud de los sectores público, social y privado acondicion
 
 La ludoteca estará proyectada para fortalecer el estado de ánimo de los enfermos y podrán operarse con prestadores de servicio social.
 
-Con la finalidad de alcanzar los propósitos establecidos en este artículo, la Secretaría de Salud de Jalisco, procurará suscribir convenios de colaboración con el Sistema Nacional de Bibliotecas, videotecas, casas editoriales o librerías; así como con establecimientos especializados en la elaboración y venta de juguetes, especialmente didácticos, para dotar de material a los espacios de recreo que se establezcan en las instituciones de salud públicos o del sector social.
+Con la finalidad de alcanzar los propósitos establecidos en este artículo, la Secretaría de Salud de Jalisco, procurará suscribir convenios de colaboración con el Sistema Nacional de Bibliotecas, videotecas, casas editoriales o librerías; así como con establecimientos especializados en la elaboración y venta de juguetes, especialmente didácticos, para dotar de material a los espacios de recreo que se establezcan en las instituciones de salud públicas o del sector social.
 
 Las ludotecas atenderán preferentemente a niños, discapacitados, adultos mayores y demás enfermos, en ese orden.
 
 Cubiertas las necesidades de recreación de los internos, se podrán establecer ludotecas para la atención de niños y adolescentes que aguarden en salas de espera de clínicas u hospitales.
 
-El cumplimiento de las obligaciones a que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
+El cumplimiento de las obligaciones a (sic) que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
 
 #### SECCION TERCERA. De la nutrición
 
@@ -731,7 +731,7 @@ I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamen
 
 II. Inmediatamente, en los casos de cualquiera enfermedad que se presente en forma de brote o epidemia, intoxicaciones colectivas de cualquier etiología, epizootias, desastres y otras emergencias que afecten o sean riesgo para la salud;
 
-III. Dentro de las veinticuatro horas, en los casos de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos, y
+III. Dentro de las veinticuatro horas, en los casos de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos, y (sic)
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1159,7 +1159,7 @@ La prestación de servicios de salud mental deberá ser integral e incluirá act
 
 ###### Art. 75.
 
-El Ejecutivo del Estado, conforme a las normas oficiales mexicanas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales o especializadas en salud mental.
+El Ejecutivo del Estado, conforme a las normas oficiales mexicanas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
 Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -1423,7 +1423,7 @@ IV. Conocer de los asuntos que considere necesarios para el cumplimiento de su o
 
 V. Analizar y, en su caso, aprobar el informe anual de actividades de la Comisión Estatal de Bioética e Investigación de Jalisco;
 
-VII. Proponer mecanismos de coordinación y cooperación para la eficaz ejecución de las atribuciones a cargo de los Comités Hospitalarios de Bioética;
+VII (SIC). Proponer mecanismos de coordinación y cooperación para la eficaz ejecución de las atribuciones a cargo de los Comités Hospitalarios de Bioética;
 
 VIII. Emitir recomendaciones a las instancias correspondientes sobre modificaciones a proyectos legislativos o al marco normativo, que tengan relación con la bioética;
 
@@ -1445,7 +1445,7 @@ III. Dar seguimiento a los acuerdos del Consejo y verificar su cumplimiento opor
 
 IV. Desempeñar las funciones y comisiones que el Consejo le encomiende y mantenerlo informado sobre su desarrollo;
 
-VII. Proporcionar la información y cooperación técnica que le sea requerida por las unidades administrativas de la Secretaría de Salud y por otras dependencias y entidades de la administración pública estatal;
+VII (SIC). Proporcionar la información y cooperación técnica que le sea requerida por las unidades administrativas de la Secretaría de Salud y por otras dependencias y entidades de la administración pública estatal;
 
 VIII. Elaborar el informe anual de actividades de la Comisión Estatal de Bioética e Investigación de Jalisco y todos aquellos que le solicite el Consejo;
 
@@ -1453,7 +1453,7 @@ IX. Enriquecer, mantener y custodiar el acervo documental de la Comisión Estata
 
 X. Expedir y certificar las copias de los documentos que existan en los archivos a su cargo, cuando proceda, y
 
-XII. Las demás que le sean asignadas por el Consejo o por el Secretario de Salud.
+XII (SIC). Las demás que le sean asignadas por el Consejo o por el Secretario de Salud.
 
 > <small>N. DE E. SE ELIMINAN LOS ARTÍCULOS DEL 91-A AL 91-L Y SE ADICIONAN DEL 91-TER AL 91-UNDECIES.</small>
 
@@ -1771,13 +1771,13 @@ II. Colaboración en la prevención o tratamiento en problemas ambientales vincu
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2004)</small>
 
-III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, participación en de operación de los servicios de salud, así como de apoyo en ludotecas y otros servicios análogos, siempre que sean conformes al perfil y conocimientos del sujeto y bajo la dirección y control de las autoridades correspondientes;
+III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, participación en actividades de operación de los servicios de salud, así como de apoyo en ludotecas y otros servicios análogos, siempre que sean conformes al perfil y conocimientos del sujeto y bajo la dirección y control de las autoridades correspondientes;
 
 IV. Información de la existencia de personas que requieran de servicios de salud, cuando aquellas se encuentren impedidas de solicitar auxilio;
 
 V. Formulación de sugerencias para mejorar los servicios de salud;
 
-VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y
+VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y (sic)
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1857,7 +1857,7 @@ a) Se presenten los siguientes signos:
 
 b) Se presentan los siguientes signos de muerte encefálica;
 
-1. Pérdida permanente e. irreversible de conciencia y de respuesta a estímulos sensoriales;
+1. Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
 
 2. Ausencia de automatismo respiratorio, y
 
@@ -1867,7 +1867,7 @@ II. Registro Estatal de Trasplantes: es el órgano administrativo del Consejo Es
 
 III. Comité Interno de Trasplantes: es el órgano interdisciplinario integrado con personal de la salud especializado de cada establecimiento de salud autorizado para realizar trasplantes;
 
-IV. Consejo de Trasplantes: es el Consejo Estatal de Transplantes de Órganos y Tejidos; y
+IV. Consejo de Trasplantes: es el Consejo Estatal de Trasplantes de Órganos y Tejidos; y
 
 V. Consentimiento para la donación de órganos: es el documento a través del cual se manifiesta la voluntad de donación en los términos de la Ley General de Salud, el reglamento de la materia y el Código Civil del Estado de Jalisco.
 
@@ -1884,6 +1884,8 @@ I. Electroencefalograma que demuestre ausencia total de actividad eléctrica, co
 II. Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
 
 El diagnóstico de muerte encefálica y su respectiva certificación, deberán ser realizados por un médico que cuente con especialidad, preferentemente en neurología, medicina interna, medicina intensiva o medicina de urgencias.
+
+El médico que certifique la muerte deberá ser distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
@@ -1919,7 +1921,7 @@ Las autoridades estatales que intervengan en los diversos procedimientos de la d
 
 ###### Art. 104-G.
 
-El proceso de obtención de órganos y tejidos de donantes que hayan perdida la vida, será documentado a través de un manual de procedimientos técnico-administrativos, el cual deberá coincidir con la normatividad actual y deberá dejar a salvo las técnicas médicas.
+El proceso de obtención de órganos y tejidos de donantes que hayan perdido la vida, será documentado a través de un manual de procedimientos técnico-administrativos, el cual deberá coincidir con la normatividad actual y deberá dejar a salvo las técnicas médicas.
 
 Dicho instrumento podrá ser adoptado por los establecimientos que realicen procesos de donación y de trasplantes mediante convenio con el Consejo de Trasplantes.
 
@@ -2033,7 +2035,7 @@ IX. Revisar permanentemente la legislación y la reglamentación, en la materia 
 
 X. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como con los Consejos de Trasplantes de otras entidades federativas;
 
-XI. Promover y coordinar la participación de los sectores social, público y privado en acciones de apoyo en la materia, para lo cual impulsará la integración de miembros al patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y. públicas, en calidad de vocales invitados con derecho a voz pero sin voto, a participar en las sesiones del Consejo de Trasplantes;
+XI. Promover y coordinar la participación de los sectores social, público y privado en acciones de apoyo en la materia, para lo cual impulsará la integración de miembros al patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados con derecho a voz pero sin voto, a participar en las sesiones del Consejo de Trasplantes;
 
 XII. Presentar por conducto del Presidente Ejecutivo en el primer bimestre de cada año, un informe anual de actividades que incluya las estadísticas de donación y trasplante de órganos y tejidos se refiere;
 
@@ -2068,6 +2070,10 @@ La asignación y distribución de órganos y tejidos deberá apegarse a las disp
 Los Comités Internos de Trasplantes deberán emitir por escrito, dictamen justificatorio de la asignación de órganos y tejidos, coherente con los datos que consten en el expediente clínico.
 
 El Comité Técnico estará obligado a proporcionar información amplia y suficiente sobre los motivos y fundamentos de la asignación excepcional de órganos, de acuerdo al Registro de Trasplantes cuando ésta le sea requerida por la autoridad competente, por el receptor postergado, su cónyuge, concubina, concubinario o familiares directos dentro del segundo grado.
+
+> <small>(F. DE E. 28 DE SEPTIEMBRE DE 2006)</small>
+
+El reglamento y sus modificaciones serán aprobadas por el Gobernador del Estado a propuesta del Consejo de Trasplantes.
 
 (REFORMADO Y REUBICADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -2119,7 +2125,7 @@ El Patronato para la Donación y el Trasplante de Órganos y Tejidos, será pres
 
 ###### Art. 104-V.
 
-El Patronato para la Donación y el Trasplante de Órganos y Tejidos procurará la participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de salud que participen en el sistema y en el programa estatal de trasplante.
+El Patronato para la Donación y el Trasplante de Órganos y Tejidos procurará la participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las Instituciones de salud que participen en el sistema y en el programa estatal de trasplante.
 
 (ADICIONADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -2213,7 +2219,7 @@ La operación de los programas en los establecimientos de salud del Estado, se l
 
 ###### Art. 112.
 
-Para la eficaz prestación del servicio social de pasantes, se establecerán mecanismos de coordinación entre las autoridades sanitarias y educativas del Estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+Para la eficaz prestación del servicio social de pasantes, se establecerán mecanismos de coordinación entre las autoridades sanitarias y educativas del Estado, con la participación que corresponda a otras dependencias competentes.
 
 Los mismos mecanismos se establecerán para la prestación del servicio social de los alumnos de educación media superior, procurando enfocar su participación en áreas de recreación y ecología.
 
@@ -2373,143 +2379,315 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 #### SECCION PRIMERA. Disposiciones generales
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
+###### Art. 126
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+Bis. Los programas para la prevención y atención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
 
-En la implementación de los programas, se buscará la participación de grupos de autoayuda y de las empresas productoras y comercializadoras de bebidas alcohólicas y de tabaco, con las que se procurará establecer convenios de colaboración para la prevención y atención de las adicciones.
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución, en el territorio del estado, de los programas nacionales para la prevención del alcoholismo y el abuso de bebidas alcohólicas, para la prevención del tabaquismo, y para la prevención de la farmacodependencia.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+Dichos programas incluirán estrategias para la prestación de servicios de atención médica y psicológica a los pacientes adictos y sus familiares.
 
-Las empresas que participen en dichos convenios, podrán acogerse a los beneficios fiscales que la ley les permita, en las (sic) medida de sus aportaciones.
+Asimismo deberán incluir acciones de prevención y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco, sustancias psicotrópicas y hábitos adictivos.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+En la implementación de los programas, se procurará la participación de asociaciones ciudadanas dedicadas a la prevención y atención de pacientes de adicciones; igualmente fomentarán el voluntariado de pacientes adictos.
 
-Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
+###### Art. 126
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2006)</small>
+Ter. El Consejo Estatal contra las Adicciones es el órgano técnico especializado de la Secretaría de Salud Jalisco que tiene por objeto promover y apoyar las acciones de los sectores público, social y privado dirigidas a prevenir y atender los problemas de salud pública causados por las adicciones, que regula el presente título.
+
+El Consejo Estatal contra las Adicciones, a través de la Secretaría, deberá establecer convenios de colaboración con los municipios de Jalisco para la instalación de Consejos Municipales contra las Adicciones.
 
 Al Instituto Jalisciense de Salud Mental le corresponde la coordinación para la prevención y atención de las adicciones sicológicas.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+###### Art. 126
+
+Quáter. Los ayuntamientos, para la prevención y atención de las adicciones, deberán establecer convenios con las autoridades estatales y federales, con el fin de fomentar, desarrollar, promover, apoyar y coordinar los programas de prevención y atención, así como la difusión y socialización de éstos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 126
+
+Quinquies. El Gobierno del Estado, a través Consejo Estatal contra las Adicciones, en el marco del Sistema Nacional de Salud y con apego a lo dispuesto por los programas nacionales para la prevención y atención de las adicciones, tendrá las siguientes atribuciones:
+
+I. Ejecutar y evaluar permanentemente el Plan Jalisco en contra de las Drogas;
+
+II. Diseñar los programas estatales de prevención y atención de las adicciones;
+
+III. Crear el mapa de adicciones del estado;
+
+IV. Crear indicadores y bases de datos que permitan identificar zonas, sectores, grupos de alto riesgo e índices de adicciones en el estado;
+
+V. Elaborar y mantener actualizado el directorio de instituciones públicas y privadas legalmente constituidas dedicadas a la prevención y atención de las adicciones;
+
+VI. Promover y difundir campañas permanentes de información y orientación al público para la prevención y atención de adicciones;
+
+VII. Proporcionar y difundir al público en general material formativo e informativo que prevenga sobre las consecuencias de las adicciones;
+
+VIII. Planear y coordinar las actividades de las diferentes instituciones del sector salud, tanto públicas como privadas, dedicadas a la prevención y atención de adicciones;
+
+IX. Crear instituciones especializadas en el tratamiento y rehabilitación para las adicciones, con base en sistemas modernos;
+
+X. Supervisar a las instituciones públicas y privadas dedicadas a la prevención y atención de adicciones;
+
+XI. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas y privadas en la planeación, programación, ejecución y evaluación de los programas y acciones contra las adicciones;
+
+XII Promover la ampliación de la cobertura y el mejoramiento de la calidad en la prevención y tratamiento de las adicciones, con atención preferente en las zonas geográficas y grupos poblacionales de mayor riesgo;
+
+XIII. Impulsar la participación comunitaria en la formación de hábitos y estilos de vida saludables, en la prevención de las adicciones;
+
+XIV. Promover la participación de los municipios del estado mediante la conformación de Consejos Municipales contra las Adicciones;
+
+XV. Colaborar, con las autoridades e instituciones educativas, en las acciones dirigidas a definir y fortalecer los valores de la persona, propiciando el desarrollo integral del individuo, la familia y la comunidad, en beneficio de la salud pública;
+
+XVI. Fomentar las acciones preventivas en la detección temprana y atención oportuna de adicciones;
+
+XVII. Realizar labores de difusión sobre las normas y lineamientos aceptados nacional e internacionalmente para el manejo, prevención y tratamiento de adicciones, mediante mecanismos de promoción y educación para la salud que deberán ser efectivos en la limitación del problema a nivel estatal, desalentando el consumo de sustancias adictivas y difundiendo los servicios para el tratamiento de los usuarios;
+
+XVIII. Promover la rehabilitación de los adictos, con la participación de instituciones y organizaciones educativas, patronales, sindicales y de la sociedad civil en general;
+
+XIX. Colaborar en la formación de recursos humanos para la investigación de las adicciones;
+
+XX. Concertar convenios, contratos y acuerdos de colaboración con los sectores público, social y privado en materia de su competencia;
+
+XXI. Promover las reuniones de padres de familia y docentes de las escuelas públicas o privadas para llevar a cabo charlas y conferencias para la prevención de las adicciones;
+
+XXII. Determinar cuando menos los protocolos de diagnóstico, tratamiento, expediente clínico, procesos de ingreso, egreso y seguimiento individualizado de pacientes adictos, de conformidad con lo dispuesto por normas federales y estatales;
+
+XXIII. Aprobar su reglamento interno, y
+
+XXIV. Las demás dispuestas por ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCION SEGUNDA. De las obligaciones de las instituciones dedicadas a la prevención y atención de las adicciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 127.
 
-El Gobierno del Estado, dentro de su jurisdicción territorial, se coordinará con las autoridades federales y municipales en la ejecución del programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas, en los términos y acciones que señalan las disposiciones aplicables de la Ley General de Salud.
+Las instituciones públicas y privadas dedicadas a la prevención y atención de las adicciones tendrán las siguientes obligaciones:
 
-El programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas incluirá estrategias para la prestación de servicios de atención médica y psicológica a los alcohólicos y sus familiares.
+I. Contar con licencia o permiso de la autoridad correspondiente;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+II. Contar con el personal técnico calificado para la consecución de sus fines;
+
+III. Permitir las visitas de inspección que efectúe el personal de la Secretaría;
+
+IV. Designar al responsable de la institución, mismo que deberá exhibir a la vista el título y cédula profesional que acrediten conocimientos en las ciencias de la salud;
+
+V. Contar con su reglamento de operación;
+
+VI. Entregar a los interesados y, en su caso, a sus familiares los lineamientos, diagnóstico, tratamiento y sistematización sugerida para cada caso en particular;
+
+VII. Contar con la autorización del paciente adicto para su internamiento, o en su defecto, con la responsiva que para tal efecto suscriban los familiares quienes autoricen el tratamiento:
+
+VIII. Acatar el mandato judicial que ordene el internamiento de un paciente adicto;
+
+IX. Contar con un control respecto al ingreso y egreso de pacientes adictos;
+
+X. Sustentar los tratamientos con un enfoque multidisciplinario;
+
+XI. Implementar talleres ocupacionales;
+
+XII. Elaborar sus reglamentos y manuales de operación;
+
+XIII. Contar con buzón de quejas y sugerencias;
+
+XIV. Contar con instalaciones adecuadas que garanticen cuando menos la separación de pacientes en función de género y edad, y
+
+XV. Elaborar el expediente clínico de cada uno de los pacientes adictos bajo su cuidado.
+
+XVI. Remitir a la Secretaria, en los plazos que se precisan, la siguiente información:
+
+a) Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos generales de las personas que reciben con la finalidad de recibir tratamiento, señalando el tipo de tratamiento o rehabilitación a efectuar. Los datos personales que sean remitidos se considerarán información confidencial en los términos de la ley de la materia, por lo que no está permitida su divulgación, y
+
+b) El número de pacientes adictos que concluyeron o no exitosamente sus tratamientos, y
+
+XVII. Las demás señaladas por las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 128.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución, en el territorio del Estado, del Programa para la prevención del Tabaquismo, en los términos y acciones que señalan las disposiciones aplicables de la Ley General de Salud.
+Los responsables de las instituciones públicas y privadas dedicadas a la atención de adicciones tendrán las siguientes obligaciones:
 
-El programa para la prevención del tabaquismo incluirá estrategias para la prestación de servicios de atención integral a los enfermos de tabaquismo y otros padecimientos relacionados.
+I. Entrevistar personalmente al paciente adicto y, en su caso, a los familiares que le acompañen;
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+II. Ordenar la práctica de una revisión física para detectar golpes y heridas que requieran de atención médica inmediata;
 
-Art. 128 bis. El expendio, suministro o venta de tabaco se sujetará a las disposiciones legales y reglamentarias aplicables.
+III. Ordenar la práctica del diagnóstico que incluya el grado de intoxicación, habituación y afectación del paciente adicto;
 
-Con el objeto de proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco, en cualquiera de sus formas, en unidades de transporte público colectivo, locales cerrados y establecimientos en los que se expendan alimentos al público, hospitales, clínicas y otros centros de reunión, se expedirá, en los términos de la legislación aplicable, el Reglamento de Protección a los No Fumadores.
+IV. Proponer y explicar el tratamiento a seguir;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+V. Recabar el consentimiento escrito del tratamiento a efectuar;
 
-#### SECCION TERCERA. Del programa para la prevención del tabaquismo
+VI. Informar al paciente adicto sobre los costos del tratamiento;
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+VII. Entablar contacto permanente con la familia del paciente adicto;
+
+VIII. Derivar a instituciones de salud en cualquier momento a los pacientes que requieran de atención médica inmediata;
+
+IX. Dar de alta a los pacientes adictos que han finalizado el tratamiento o cuando así lo soliciten los familiares responsables, y
+
+X. Las demás previstas por las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+Art. 128 bis. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCION TERCERA. Del (sic) los derechos de los pacientes adictos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 129.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud a la ejecución, en el territorio del Estado, del Programa Nacional para la prevención de la Farmacodependencia, en los términos de las disposiciones de la Ley General de Salud, y de los acuerdos de coordinación respectivos.
+Los pacientes adictos tendrán los siguientes derechos:
 
-Dicho programa abarcará, cuando menos, las siguientes áreas:
+I. Recibir información oportuna sobre el acceso a servicios de rehabilitación a los que se puedan adherir;
 
-I. Capacitación e investigación;
+II. Conocer, previa adhesión, las características del tratamiento a recibir;
 
-II. Comunicación Educativa, y
+III. Recibir tratamiento integral y multidisciplinario en los términos previstos por las disposiciones aplicables;
 
-III. Prevención, atención y rehabilitación.
+IV. Gozar de respeto a la dignidad de su persona;
 
-La capacitación e investigación que se efectúen en los términos del presente artículo deberán ser permanentes en las instituciones públicas de salud del Estado, y se orientarán a conocer factores causales y de riesgo en materia de adicciones, así como sobre sus consecuencias, y la forma de prevenirlas y tratarlas.
+V. Recibir alimentación suficiente y de calidad, y
 
-La comunicación educativa que al efecto se realicen (sic) estará dirigida a formar y fortalecer los valores de los educandos, propiciando el desarrollo integral del individuo, la familia y la comunidad.
+VI. Los demás dispuestos por disposiciones aplicables.
 
-El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitarias del Estado, impulsarán la participación social y comunitaria, buscando la intervención responsable y activa de la población en las acciones que se conlleven a solventar el problema de la farmacodependencia.
-
-Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 129
 
-Bis. La Secretaría de Salud, en el marco del Sistema Nacional de Salud, y para ejecutar los programas nacionales de prevención y tratamiento de la farmacodependencia de conformidad con los convenios respectivos, realizará, entre otras, las siguientes acciones:
+Bis. Todas las instituciones públicas y privadas dedicadas a la prevención y atención de adicciones dispondrán de información accesible que contenga los derechos de los pacientes, así como formatos de quejas y sugerencias.
 
-I. Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
-
-II. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
-
-III. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente;
-
-IV. Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
-
-V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
-
-VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
-
-VII. Construir indicadores públicos sobre los índices de farmacodependencia en el estado de Jalisco, y
-
-VIII. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
-
-Todos los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y a la libre voluntad del farmacodependiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 129
 
-Ter. Las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, deberán emitir a la Secretaría, en los plazos que se precisan, la siguiente información:
+Ter. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2012)
 
-I. Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos generales de las personas que reciben con la finalidad de recibir tratamiento, señalando el tipo de tratamiento o rehabilitación. Los datos personales que sean remitidos se consideran información confidencial en los términos de la ley de la materia, por lo que no está permitida su divulgación, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El número de farmacodependientes que concluyeron o no exitosamente sus tratamientos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-Esta información se utilizará exclusivamente con fines estadísticos y sin señalar identidades, para la prevención de la farmacodependencia.
+#### SECCIÓN CUARTA. De la integración del consejo estatal contra las adicciones
 
-#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### Art. 130.
 
-El Gobierno del Estado o en su caso los Ayuntamientos, para evitar y prevenir el consumo de substancias inhalantes que produzcan dependencia en las personas, estarán facultados para:
+El Consejo Estatal contra las Adicciones estará formado por los titulares o por las personas que éstos designen, de los siguientes organismos:
 
-I. Determinar y ejercer medios de control en el expendio de substancias inhalantes y para prevenir su consumo por parte de menores de edad e incapaces;
+I. Del sector público federal:
 
-II. Establecer sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
+a) Zona Militar de la Secretaría de la Defensa Nacional;
 
-III. Brindar la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalentes (sic); y
+b) Delegación Estatal de la Secretaría de Desarrollo Social;
 
-IV. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+c) Delegación Estatal de la Secretaría de Trabajo y Previsión Social;
 
-A los establecimientos que vendan o utilicen substancias inhalantes que no se ajusten al control que disponga el Gobierno Estatal y los Ayuntamientos, así como los responsables de los mismos, se les aplicarán las sanciones administrativas (sic) correspondan en los términos de esta Ley.
+d) Delegación Estatal de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación;
 
-#### SECCION PRIMERA. Definición
+e) Delegación Estatal de la Procuraduría General de la República;
+
+f) Delegación Estatal del Instituto Mexicano del Seguro Social;
+
+g) Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+
+h) Delegación Estatal de la Procuraduría Federal del Consumidor.
+
+II. Del sector público estatal y municipal:
+
+a) Secretaría General de Gobierno;
+
+b) Secretaría de Salud Jalisco;
+
+c) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+
+d) Secretaría de Educación;
+
+e) Secretaría de Cultura;
+
+f) Secretaría de Vialidad y Transporte;
+
+g) Procuraduría General de Justicia del Estado de Jalisco;
+
+h) Sistema Estatal para el Desarrollo Integral de la Familia;
+
+i) Universidad de Guadalajara;
+
+j) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud;
+
+k) Dirección General de Trabajo y Previsión Social, y
+
+l) Dirección General de Prevención y Readaptación Social;
+
+III. Del sector privado y social:
+
+a) Centros de Integración Juvenil;
+
+b) Universidad Autónoma de Guadalajara;
+
+c) Universidad del Valle de Atemajac;
+
+d) Universidad Panamericana;
+
+e) Tecnológico de Monterrey, Campus Guadalajara;
+
+f) Instituto Tecnológico y de Estudios Superiores de Occidente;
+
+g) Asociación de Padres de Familia, A. C.;
+
+h) Federación de Escuelas Particulares de Occidente;
+
+i) Central Mexicana de Alcohólicos Anónimos, y
+
+j) Fundación de Reintegración Social del Estado de Jalisco, A. C.
+
+Adicionalmente a los miembros permanentes, el Consejo invitará a formar parte del mismo, como vocales, a organismos de la sociedad civil que brinden servicios de atención, tratamiento y rehabilitación de adicciones en el estado, avalados por la Secretaría de Salud Jalisco. Las instituciones invitadas presentarán un plan de trabajo en adicciones y serán evaluadas en su desempeño y ratificadas anualmente por el Consejo. Las organizaciones no ratificadas perderán su calidad de vocales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCION QUINTA. De las inspecciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### Art. 130
+
+Bis. La Secretaría deberá permanente, inspeccionar las áreas físicas de las instituciones dedicadas a la atención de adicciones, las condiciones de salud de los internos, el cumplimiento de sus obligaciones, así como de la ley, reglamentos, protocolos, manuales y normas que para tal efecto expidan las autoridades sanitarias.
 
 ## TITULO OCTAVO
 
@@ -2711,7 +2889,7 @@ Para los efectos de esta ley, se considera:
 
 I. Cementerio: El lugar destinado a la inhumación de cadáveres o restos humanos;
 
-II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o restos humanos; y
+II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o restos humanos; y (sic)
 
 III. Funeraria: Establecimiento al que acuden los deudos, a rendir honores póstumos a un ser que ha perdido la vida.
 
@@ -3025,9 +3203,7 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 ### CAPITULO I. De las autorizaciones
 
-#### SECCION SEGUNDA. Clasificación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+#### SECCION PRIMERA. Definición
 
 ###### Art. 200.
 
@@ -3037,9 +3213,9 @@ Las autorizaciones sanitarias son actos administrativos mediante los cuales la a
 
 Las autorizaciones sanitarias de carácter local tendrán el carácter de permisos.
 
-#### SECCION TERCERA. Disposiciones comunes
+#### SECCION SEGUNDA. Clasificación
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 201.
 
@@ -3051,7 +3227,9 @@ II. Permiso: El documento expedido por la autoridad sanitaria para que una perso
 
 III. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-#### SECCION PRIMERA. Causas de revocación
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 202.
 
@@ -3153,7 +3331,7 @@ Las autorizaciones a que se refiere esta ley podrán ser revocadas por la autori
 
 ### CAPITULO II. De la revocación de autorizaciones sanitarias
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+#### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 210.
 
@@ -3180,6 +3358,8 @@ IX. En los demás casos en que, conforme a la Ley, lo determine la autoridad san
 ###### Art. 211.
 
 Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 212.
 
@@ -3389,13 +3569,11 @@ III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco (sic), podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades o que pongan en riesgo la salud de las personas, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 238.
 
 La Secretaría de Salud Jalisco, y las autoridades municipales, en los términos del Art. 4.° de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
-
-En todo caso, se dará a las dependencias, encargadas de la sanidad animal la intervención que corresponda.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3413,7 +3591,7 @@ Durante la suspensión, se podrá permitir el acceso a las personas que tengan e
 
 El aseguramiento de objetos, productos y sustancias tendrá lugar, cuando con motivo se advierta que puedan ser nocivos para la salud de las personas o que carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. Las autoridades sanitarias competentes podrán retenerlos o dejarlos en depósito hasta en tanto se determine su destino, previo dictamen.
 
-Si el dictamen resultare que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales respectivas, se procederá a su inmediata devolución. Si el interesado no gestionare la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria, para su aprovechamiento lícito.
+Si del dictamen resultare que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales respectivas, se procederá a su inmediata devolución. Si el interesado no gestionare la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria, para su aprovechamiento lícito.
 
 Si del dictamen resultare que el bien asegurado es nocivo, la autoridad sanitaria podrá determinar, previa observancia de la garantía de audiencia y defensa, que el mismo sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado, o sea destruido, si no pudiere tener uso lícito por parte de la autoridad.
 
@@ -3425,7 +3603,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general 
 
 ###### Art. 243.
 
-Las violaciones o los preceptos de esta Ley, sus Reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias competentes del Estado sin perjuicio de las penas que correspondan, cuando sean constitutivas de delito.
+Las violaciones a los preceptos de esta Ley, sus Reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias competentes del Estado sin perjuicio de las penas que correspondan, cuando sean constitutivas de delito.
 
 ###### Art. 244.
 
@@ -3970,3 +4148,9 @@ SEGUNDO. Cualquier referencia a la Ley Estatal de Salud se entenderá hecha a la
 P.O. 17 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1. ° de enero de 2013, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El reglamento del presente decreto deberá ser expedido en un plazo no mayor a noventa días después de la entrada en vigor del presente decreto.
