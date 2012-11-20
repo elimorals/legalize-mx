@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2012-11-13"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -101,7 +101,9 @@ Sólo podrá ser notario público en el Estado de Jalisco el tenedor de Patente 
 
 Para obtener la patente de aspirante al ejercicio del notariado se requiere:
 
-I. Ser mexicano por nacimiento y no haber optado por otra nacionalidad;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Ser mexicano por nacimiento;
 
 II. Tener veintisiete años como edad mínima;
 
@@ -2760,5 +2762,9 @@ P.O. 29 DE DICIEMBRE DE 2009.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 13 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
