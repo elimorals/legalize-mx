@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2010-11-26"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -1005,9 +1005,9 @@ PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicaci�
 
 SEGUNDO. Se abroga la Ley para la Prestación de los Servicios de Agua Potable, Drenaje y Alcantarillado en los Municipios del Estado de Coahuila.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-TERCERO. Los organismos descentralizados creados al amparo de la Ley anterior continuarán su operación, contando los ayuntamientos respectivos con un plazo que concluirá el 30 de junio del año 2012, para el envío al Congreso de las iniciativas de actualización a sus decretos de creación conforme a la presente ley. Los decretos que crearon a los mismos seguirán vigentes hasta en tanto se dé cumplimiento a lo dispuesto en este artículo, así mismo tendrán plena validez los actos realizados y que realicen los organismos durante el periodo comprendido del 25 de agosto del 2009, hasta el 30 de junio del año 2012.
+TERCERO. Los organismos descentralizados creados al amparo de la Ley anterior continuarán su operación, contando los ayuntamientos respectivos con un plazo que concluirá el 30 de septiembre del año 2013, para el envío al Congreso de las iniciativas de actualización a sus decretos de creación conforme a la presente ley. Los decretos que crearon a los mismos seguirán vigentes hasta en tanto se dé cumplimiento a lo dispuesto en este artículo, así mismo los actos realizados por los organismos durante el período comprendido del 25 de agosto del 2009 hasta la publicación de este decreto, tendrán valor en cuanto a la personalidad jurídica de los organismos.
 
 En todo caso, serán sistemas intermunicipales los que administren y operen los servicios materia de esta ley en los municipios de Múzquiz, San Juan de Sabinas y Sabinas; Monclova y Frontera; Torreón rural, Matamoros y Viesca, así como San Pedro y Francisco I. Madero.
 
@@ -1072,3 +1072,11 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En caso de que los organismos creados al amparo de la Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza, tengan créditos autorizados por legislaturas anteriores y que aun no hayan sido contratados; deberán presentar nuevamente ante esta legislatura las solicitudes correspondientes de conformidad a lo establecido por la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
