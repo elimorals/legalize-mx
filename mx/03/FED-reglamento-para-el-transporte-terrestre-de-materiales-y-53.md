@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-transporte-terrestre-de-materiales-y-53"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-07"
-last_updated: "2006-11-28"
+last_updated: "2012-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-03-29"
 
 REGLAMENTO PARA EL TRANSPORTE TERRESTRE DE MATERIALES Y RESIDUOS PELIGROSOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 7 de abril de 1993.
 
@@ -39,49 +39,71 @@ El presente ordenamiento tiene por objeto regular el transporte terrestre de mat
 
 No es materia de este Reglamento, el transporte terrestre de materiales peligrosos realizado por las fuerzas armadas mexicanas, el cual se regula por las disposiciones normativas aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 2°.
 
 Para los efectos de este Reglamento se entenderá por:
 
-AUTOTRANSPORTISTA Persona física o moral debidamente autorizada por la Secretaría para prestar servicio público o privado de autotransporte de carga.
+I. AUTOTANQUE. Vehículo cerrado, camión tanque, semirremolque o remolque tipo tanque, destinado al transporte de líquidos, gases licuados o sólidos en suspensión;
 
-CONSTRUCTOR O RECONSTRUCTOR DE UNIDADES. Persona física o moral que diseña, construye, reconstruye o repara unidades destinadas para el transporte de materiales y residuos peligrosos.
+II. AUTOTRANSPORTISTA. Persona física o moral que cuenta con permiso de la Secretaría para prestar servicio público o privado de autotransporte de carga;
 
-DESTINATARIO. Persona física o moral receptora de materiales y residuos peligrosos.
+III. CONSTRUCTOR O FABRICANTE DE UNIDADES. Persona física o moral que diseña, construye, reconstruye o repara unidades destinadas para el transporte de substancias, materiales y residuos peligrosos;
 
-EMPRESA FERROVIARIA Empresa u organismo autorizados por el Gobierno Federal para operar el transporte por tren y prestar servicios auxiliares.
+IV. DESTINATARIO. Persona física o moral receptora de substancias, materiales y residuos peligrosos;
 
-EXPEDIDOR Persona física o moral que a nombre propio o de un tercero, contrata el servicio de transporte de materiales o residuos peligrosos.
+V. EMBALAJE. Material que envuelve, contiene y protege debidamente los productos preenvasados, que facilita y resiste las operaciones de almacenamiento y transporte;
 
-ENVASE INTERIOR Todo recipiente destinado a contener un producto y que entra en contacto directo con el mismo, conservando su integridad física, química y sanitaria.
+VI. EMPRESA FERROVIARIA. Empresa concesionada o asignada por el Gobierno Federal, para construir, operar y explotar una vía general de comunicación ferroviaria y prestar servicios auxiliares;
 
-ENVASE EXTERIOR Se entiende aquél que contiene al envase primario y que le sirve de protección.
+VII. ENVASE. Es el componente de un producto que cumple la función de contenerlo y protegerlo para su distribución, comercialización y consumo, de capacidad no mayor a cuatrocientos cincuenta litros o cuya masa neta no exceda de cuatrocientos kilogramos;
 
-MATERIAL PELIGROSO Aquellas substancias peligrosas, sus remanentes, sus envases, embalajes y demás componentes que conformen la carga que será transportada por las unidades.
+VIII. ENVASE EXTERIOR. se entiende aquél que contiene el envase interior y que le sirve de cubierta, protección y/o presentación;
 
-NORMAS Normas oficiales mexicanas que expiden las dependencias competentes, sujetándose a lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+IX. ENVASE INTERIOR. Todo recipiente destinado a contener un producto y que entra en contacto directo con el mismo, conservando su integridad física, química y sanitaria;
 
-PURGAR Acción de evacuar o eliminar un fluido de cualquier depósito utilizado para el transporte de materiales y residuos peligrosos.
+X. EXPEDIDOR. Persona física o moral que fabrica, carga, despacha, embarca o envía substancias y/o materiales y/o residuos peligrosos a un destinatario en unidades debidamente autorizadas por la Secretaría;
 
-RESIDUO PELIGROSO Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas infecciosas o irritantes, representan un peligro para el equilibrio ecológico o el ambiente.
+XI. GENERADOR. Persona física o moral que produce residuos peligrosos, a través del desarrollo de procesos productivos o de consumo;
 
-SECRETARIA Secretaría de Comunicaciones y Transportes.
+XII. MATERIAL PELIGROSO. Aquellas substancias peligrosas, sus remanentes, sus envases, embalajes y demás componentes que conformen la carga que será transportada por las unidades;
 
-SUBSTANCIA PELIGROSA Todo aquel elemento, compuesto, material o mezcla de ellos que independientemente de su estado físico, represente un riesgo potencial para la salud, el ambiente, la seguridad de los usuarios y la propiedad de terceros; también se consideran bajo esta definición los agentes biológicos causantes de enfermedades.
+XIII. NORMAS. Normas oficiales mexicanas que expiden las dependencias competentes, sujetándose a lo dispuesto en la Ley Federal sobre Metrología y Normalización;
 
-REMANENTE Substancias, materiales o residuos peligrosos que persisten en los contenedores, envases o embalajes después de su vaciado o desembalaje.
+XIV. POSEEDOR. La persona que acredite la propiedad de la unidad o quien ostente su posesión de manera legítima;
 
-TRANSPORTISTA Autotransportista y empresa ferroviaria.
+XV. PRODUCTOS DE CONSUMO FINAL O VENTA AL PÚBLICO. Aquellos elaborados a partir de una substancia o material considerado como peligrosos, para propósitos de uso personal o uso doméstico, que se encuentran en una presentación para la venta al público, o para su adquisición por consumidores finales, bajo esta definición no se incluye a los grandes envases y embalajes, que los contienen a granel, para su venta al menudeo;
 
-TREN Una máquina o más de una máquina que transitan por el ferrocarril, con o sin carros acoplados, exhibiendo indicadores.
+XVI. PURGAR. Acción de evacuar o eliminar un fluido de cualquier depósito utilizado para el transporte de substancias, materiales o residuos peligrosos;
 
-UNIDAD Vehículo para el transporte de materiales y residuos peligrosos, compuesto por unidades motrices y de arrastre.
+XVII. RECIPIENTE INTERMEDIO A GRANEL. Envases y embalajes portátiles, rígidos, semirrígidos o flexibles, con una capacidad máxima de tres mil litros (3.0 m3), para contener materiales sólidos o líquidos y diseñados para la manipulación mecánica y capaces de resistir los esfuerzos que se producen durante las operaciones de manipulación y transporte;
 
-UNIDAD DE ARRASTRE Vehículo para el transporte de materiales y residuos peligrosos, no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor.
+XVIII. REMANENTE. Substancias, materiales o residuos peligrosos que persisten en los contenedores, envases o embalajes después de su vaciado o desembalaje;
 
-VENTEAR Acción de liberar los gases y vapores acumulados en un recipiente, tanque o contenedor cerrado.
+XIX. RESIDUOS PELIGROSOS. Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio. Su eliminación o confinamiento y control están sujetos a la normatividad emitida por la autoridad correspondiente;
 
-Los términos que no estén contenidos en el presente artículo y que la Secretaría de Desarrollo Social, la Secretaría, o las dependencias correspondientes apliquen, se entenderán definidos en los términos que señalen las leyes, reglamentos, normas oficiales mexicanas y, en su caso, las definiciones derivadas de instrumentos internacionales ratificados por el Gobierno Mexicano.
+XX. SECRETARÍA. Secretaría de Comunicaciones y Transportes;
+
+XXI. SISTEMA. Sistema de Emergencia en Transportación de Substancias, Materiales y Residuos Peligrosos;
+
+XXII. SUBSTANCIA PELIGROSA. Todo aquel elemento, compuesto, material o mezcla de ellos que independientemente de su estado físico, represente un riesgo potencial para la salud, el ambiente, la seguridad de los usuarios y la propiedad de terceros; también se consideran bajo esta definición los agentes biológicos causantes de enfermedades;
+
+XXIII. TRANSPORTISTA. Autotransportistas y empresas ferroviarias;
+
+XXIV. TREN. Una máquina o más de una máquina que transitan por el ferrocarril, con o sin carros acoplados, exhibiendo indicadores;
+
+XXV. UNIDAD. Vehículo automotor, tren o unidad de arrastre destinado al transporte de substancias, materiales y residuos peligrosos que circulan por las vías generales de comunicación terrestre;
+
+XXVI. UNIDAD DE ARRASTRE. Vehículo para el transporte de substancias, materiales y residuos peligrosos, no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor;
+
+XXVII. USUARIO. Persona física o moral que contrata el servicio a nombre propio o de un tercero, y
+
+XXVIII. VENTEAR. Acción de liberar los gases y vapores acumulados en un recipiente, tanque o contenedor.
+
+Los términos que no estén contenidos en el presente artículo y que la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría o las dependencias correspondientes apliquen se entenderán definidos en los términos que señalen las leyes, reglamentos, normas oficiales mexicanas y, en su caso, las definiciones derivadas de los tratados internacionales de los que México sea parte.
 
 ###### ARTICULO 3°.
 
@@ -91,21 +113,75 @@ Sin perjuicio de la competencia de otras dependencias del Ejecutivo Federal, cor
 
 La Secretaría podrá celebrar acuerdos para la aplicación de este Reglamento, con los gobiernos de las entidades federativas y con los municipios en los términos de la Ley de Planeación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 5°.
 
-Para transportar materiales y residuos peligrosos por las vías generales de comunicación terrestre, es necesario que la Secretaría así lo establezca en el permiso otorgado a los transportistas, sin perjuicio de las autorizaciones que otorguen otras dependencias del Ejecutivo Federal, de conformidad con las disposiciones legales aplicables. Las condiciones de operación se sujetarán a las disposiciones establecidas en este Reglamento.
+Para transportar substancias, materiales y residuos peligrosos por las vías generales de comunicación es necesario que la Secretaría así lo establezca en el permiso que se otorgue al autotransportista, en términos del Reglamento de Autotransporte Federal y Servicios Auxiliares y demás disposiciones jurídicas aplicables. Lo anterior, sin perjuicio de las autorizaciones que deban otorgar otras dependencias del Ejecutivo Federal, de conformidad con las disposiciones legales aplicables.
+
+Las condiciones de operación se sujetarán a las disposiciones establecidas en este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 5°. Bis.
+
+Para transportar substancias, materiales y residuos peligrosos a través del sistema ferroviario nacional es necesario que la Secretaría así lo establezca en el permiso que se otorgue a las empresas ferroviarias, en términos de la Ley Reglamentaria del Servicio Ferroviario, su Reglamento y demás disposiciones jurídicas aplicables. Lo anterior, sin perjuicio de las autorizaciones que deban otorgar otras dependencias del Ejecutivo Federal, de conformidad con las disposiciones legales aplicables. Las empresas ferroviarias que soliciten el permiso, deberán presentar un escrito de solicitud en el que debe señalar:
+
+I. El nombre o denominación social de quien o quienes promueven;
+
+II. El domicilio y nombre de las personas autorizadas para recibir notificaciones;
+
+III. El número de teléfono, fax y correo electrónico opcional;
+
+IV. La petición que se formula, los hechos y las razones que dieron motivo a la misma;
+
+V. La Unidad Administrativa de la Secretaría, a quien se dirige;
+
+VI. El lugar y fecha de suscripción, y
+
+VII. La firma del solicitante o representante legal.
+
+En caso de que la solicitud no contenga los datos o no cumpla con los requisitos aplicables, la Secretaría, dentro de los diez días hábiles siguientes a la presentación del escrito correspondiente, deberá prevenir al interesado para que dentro del término de diez días naturales subsane la omisión.
+
+La resolución será emitida dentro de los treinta días naturales, contados a partir de que se presente la solicitud debidamente integrada.
+
+Las condiciones de operación se sujetarán a las disposiciones establecidas en este Reglamento.
+
+La vigencia del permiso que, en su caso, otorgue la Secretaría, estará vinculada con el tiempo que dure la concesión correspondiente.
 
 ###### ARTICULO 6°.
 
 Queda prohibido transportar en unidades que hayan sido autorizadas para transportar materiales y residuos peligrosos:
 
-I. Personas o animales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Personas ajenas al servicio o animales;
 
 II. Productos alimenticios de consumo humano o animal, o artículos de uso personal; y
 
-III. Residuos sólidos municipales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Cuando por razones económicas el transportista tenga necesidad de transportar otro tipo de bienes en estas unidades, diferentes a los materiales o residuos peligrosos, se ajustará la norma que al efecto se expida.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. Residuos sólidos urbanos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+IV. Agentes infecciosos, junto con algún otro tipo de residuo peligroso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+Con excepción de los tractocamiones, a los vehículos autorizados para la prestación del servicio de autotransporte federal o para la operación del transporte privado, ambos de carga especializada de materiales, residuos, remanentes y desechos peligrosos, no se les autorizará bajo ninguna circunstancia, la prestación u operación de un servicio distinto.
 
 ### CAPITULO I. CLASIFICACION DE LAS SUBSTANCIAS PELIGROSAS
 
@@ -375,17 +451,23 @@ que 5000 Mol/M3 (ppm).
 
 Nota: Los gases que cumplen los criterios anteriores debido a su corrosividad, deben clasificarse como tóxicos con un riesgo secundario corrosivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Clase 3 o líquidos inflamables. Son mezclas o líquidos que contienen substancias sólidas en solución o suspensión, que despiden vapores inflamables a una temperatura no superior a 60.5°C en los ensayos en copa cerrada o no superiores a 65.6°C en copa abierta.
+Clase 3 o líquidos inflamables, son líquidos o mezclas de líquidos, o líquidos que contienen substancias sólidas en solución o suspensión, que desprenden vapores inflamables a una temperatura no superior a 60°C en los ensayos en copa cerrada o no superiores a 65.6°C en copa abierta. Las substancias de esta clase son:
 
-Las substancias de esta clase son:
+I. Líquidos que se presentan para el transporte a temperaturas iguales o superiores a las de su punto de inflamación;
 
-Líquidos que presenten un punto de ebullición inicial igual o menor de 35°C.
+II. Substancias que se transportan o se presentan para el transporte a temperaturas elevadas en estado líquido y que desprenden vapores inflamables a una temperatura máxima de transporte;
 
-Líquidos que presentan un punto de inflamación (en copa cerrada) menor de 23°C y un punto inicial de ebullición mayor de 35°C.
+III. Líquidos que presentan un punto de ebullición inicial, igual o menor a temperatura de 35°C;
 
-Líquidos que presentan un punto de inflamación (en copa cerrada) mayor o igual 23°C, menor o igual de 60.5°C y un punto inicial de ebullición mayor a 35°C.
+IV. Líquidos que presentan un punto de inflamación, en copa cerrada, menor de 23°C y un punto inicial de ebullición mayor de 35°C, y
+
+V. Líquidos que presentan un punto de inflamación, en copa cerrada, mayor o igual de 23°C, menor o igual de 60.5°C y un punto inicial de ebullición mayor a 35°C.
 
 ###### ARTICULO 11.
 
@@ -537,49 +619,37 @@ e) Causar daños a la vista.
 
 Clase 6, tóxicos agudos (venenos) y agentes infecciosos, son substancias que se definen y dividen, tomando en consideración su riesgo en:
 
-DIVISION DESCRIPCION DE LAS
+DIVISION DESCRIPCION DE LAS SUBSTANCIAS
 
-SUBSTANCIAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-6.1 Tóxicos agudos (venenos):
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
-Son aquellas substancias
+6.1 Tóxicos agudos (venenos): Son aquellas substancias que pueden
 
-que pueden causar la muerte,
+causar la muerte o lesiones graves o ser nocivas para la salud
 
-lesiones graves o ser nocivas
+humana y/o animal si se ingieren, inhalan o entran en contacto con la
 
-para la salud humana si se
+piel u ojos. Los gases tóxicos (venenos) comprimidos están incluidos
 
-ingieren, inhalan o entran en
+en la división 2.3.
 
-contacto con la piel. Los gases
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-tóxicos (venenos)
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
-comprimidos pueden incluirse
+6.2 Agentes infecciosos: Substancias respecto de las cuales se sabe o
 
-en la clase "Gases".
+se cree fundadamente que contienen agentes patógenos. Agentes
 
-6.2 Agentes infecciosos: Son las
+patógenos son las bacterias, virus, rickettsias, parásitos, hongos,
 
-que contienen
+priones y demás entidades biológicas microorgánicas capaces de
 
-microorganismos viables
+producir enfermedades en los seres humanos o en los animales o en
 
-incluyendo bacterias, virus,
-
-parásitos, hongos, o una
-
-combinación híbrida o mutante;
-
-que son conocidos o se cree
-
-que pueden provocar
-
-enfermedades en el hombre o
-
-los animales.
+los vegetales.
 
 ###### ARTICULO 14.
 
@@ -595,9 +665,13 @@ Clase 9 varios, son aquellas substancias que durante el transporte presentan un 
 
 En la norma respectiva se contendrán las listas de dichas substancias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 17.
 
-La identificación de las substancias peligrosas se deberá ajustar a la norma que contenga las listas de las substancias y residuos peligrosos más usualmente transportadas de acuerdo a su clase, división de riesgo, riesgo secundario, el número asignado por la Organización de las Naciones Unidas, así como las disposiciones especiales a que deberá sujetarse el traslado y el método de envase y embalaje.
+La identificación de las substancias peligrosas se deberá ajustar a la norma que contenga las listas de las substancias peligrosas más usualmente transportadas de acuerdo a su clase, división de riesgo, riesgo secundario, el número asignado por la Organización de las Naciones Unidas, así como las disposiciones especiales.
 
 ## TITULO SEGUNDO. DEL ENVASE Y EMBALAJE
 
@@ -607,7 +681,11 @@ La identificación de las substancias peligrosas se deberá ajustar a la norma q
 
 Las disposiciones contenidas en el presente Capítulo, son aplicables a los envases y embalajes nuevos y reutilizables, empleados para el transporte de substancias o residuos, a excepción de:
 
-I. Envases y embalajes que contengan substancias de la Clase 7, radiactivos, o sus residuos, los cuales se sujetarán a las normas que expida la Secretaría de Energía, Minas e Industria Paraestatal por conducto de la Comisión Nacional de Seguridad Nuclear y Salvaguardias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Envases y embalajes que contengan substancias de la Clase 7, radiactivos, o sus residuos, los cuales se sujetarán a las normas que expida la Secretaría de Energía, por conducto de la Comisión Nacional de Seguridad Nuclear y Salvaguardias;
 
 II. Envases y embalajes que se usen para el transporte de gases comprimidos, refrigerados, licuados o disueltos a presión, Clase 2, los cuales se regirán por la norma respectiva; y
 
@@ -629,13 +707,21 @@ Grupo III.- Para substancias poco peligrosas.
 
 La asignación de las substancias peligrosas a cada uno de los grupos señalados, se indicará en la norma respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 21.
 
-El envase y embalaje, antes de ser llenado y entregado para su transporte, deberá ser inspeccionado por el expedidor de la substancia o residuo peligros para cerciorarse de que no presenta corrosión, presencia de materiales extraños u otro tipo de deterioro.
+El envase y embalaje, antes de ser llenado y entregado para su transporte, deberá ser inspeccionado por el expedidor o por el generador de la substancia o material o residuo peligroso para cerciorarse de que no presenta corrosión, presencia de materiales extraños u otro tipo de deterioro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 22.
 
-Los envases y embalajes deberán estar cerrados para que una vez preparados para su expedición, no sufran en condiciones normales de transporte, algún escape debido a cambios de temperatura, humedad o presión.
+Los envases y embalajes deberán estar cerrados para que una vez preparados para su expedición, no sufran en condiciones normales de transporte, algún deterioro o liberación debido a cambios de temperatura, humedad o presión en el interior de los mismos.
 
 ###### ARTICULO 23.
 
@@ -657,23 +743,35 @@ Los envases y embalajes interiores que contengan substancias o residuos peligros
 
 Las substancias y residuos peligrosos sólo deberán contenerse en envases y embalajes que tengan la resistencia suficiente para soportar la presión interna que pudiera desarrollarse en condiciones normales de transporte y circunstancias especiales, de acuerdo a la norma que al efecto se expida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 28.
 
-Todo envase y embalaje vacío que haya contenido una substancia o residuo peligroso o sus remanentes debe ser considerado también como peligroso.
+Todo envase y embalaje vacío que haya contenido una substancia, material, residuo peligroso o sus remanentes debe ser considerado también como peligroso y debe ser transportado de conformidad con las disposiciones contenidas en este Reglamento.
 
 ###### ARTICULO 29.
 
 Las especificaciones y características de construcción y reconstrucción, así como los métodos de prueba, de los envases y embalajes, se establecerán en las normas correspondientes. Todo envase y embalaje que presente indicios de haber sufrido cambio en su estructura, en comparación con lo especificado en las normas respectivas, no deberá utilizarse o en su caso, deberá ser reacondicionado, de forma que pueda superar las pruebas aplicables al envase y embalaje de que se trate.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 30.
 
-Las especificaciones adicionales patra (sic) los envases y embalajes destinados al transporte de la Clase 1, explosivos, y las divisiones 5.2, peróxidos orgánicos, y 6.2 agentes infecciosos, se establecerá de acuerdo a la norma respectiva y a la clasificación a que se refiere el artículo 20.
+Las especificaciones adicionales para los envases y embalajes destinados al transporte de la Clase 1, explosivos, Clase 2, gases y las divisiones 5.2, peróxidos orgánicos, y 6.2, agentes infecciosos, se establecerán de acuerdo a la norma respectiva y a la clasificación a que se refiere el artículo 20 de este Reglamento.
 
 ### CAPITULO II. DEL ETIQUETADO Y MARCADO DEL ENVASE Y EMBALAJE
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 31.
 
-Con objeto de identificar a distancia las substancias o residuos peligrosos y reconocer su riesgo, así como la designación oficial para su transporte, cada envase y embalaje deberá contar con la etiqueta o etiquetas correspondientes, cuyas características estarán señaladas en las normas respectivas.
+Todo envase y embalaje debe contar con la etiqueta o etiquetas que identifiquen las substancias, materiales o residuos peligrosos que contienen, indicando el riesgo que presentan, observando la norma respectiva.
 
 ###### ARTICULO 32.
 
@@ -697,19 +795,31 @@ Los autotanques, unidades de arrastre, recipientes intermedios para granel y con
 
 La construcción, reconstrucción y reparación de autotanques, unidades de arrastre, recipientes intermedios para granel y contenedores cisterna, deberán sujetarse al proceso de certificación y verificación de conformidad con las normas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 36.
 
-El constructor deberá conservar por el tiempo que determine la Secretaría, y en su caso proporcionar a ésta o a la Secretaría de Comercio y Fomento Industrial, el informe relativo a las pruebas a que hayan sido sometidos los autotanques, carros tanque, recipientes intermedios para granel y contenedores cisterna, en el que se indiquen los resultados obtenidos, así como los materiales y residuos peligrosos para cuyo transporte ha sido aprobada la unidad.
+El constructor o fabricante de unidades deberá conservar por el tiempo que determine la Secretaría, y en su caso proporcionar a ésta o a la Secretaría de Economía, el informe relativo a las pruebas a que hayan sido sometidos los autotanques, carros tanque, recipientes intermedios para granel, cisternas portátiles y contenedores cisterna, en el que se indiquen los resultados obtenidos, así como los materiales y residuos peligrosos para cuyo transporte ha sido aprobada la unidad.
 
 ### CAPITULO II. DE LA IDENTIFICACION DE LAS UNIDADES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 37.
 
-Para su identificación, los camiones, las unidades de arrastre, contenedores cisterna y recipientes intermedios para granel destinados al transporte de materiales y residuos peligrosos, tendrán una placa de metal inoxidable permanentemente fija en un lugar de fácil acceso para la inspección, y en el formato que determinen las normas correspondientes.
+Para su identificación, los camiones unitarios, las unidades motrices, unidades de arrastre, contenedores, contenedores cisterna y recipientes intermedios para granel destinados al transporte de substancias, materiales y residuos peligrosos, tendrán una placa de metal inoxidable permanentemente fija o estencilados en un lugar de fácil acceso para la inspección, y en el formato que determinen las normas correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
-Los camiones, las unidades de arrastre, contenedores cisterna y recipientes intermedios para granel deberán tener cuatro carteles que identifiquen el material y residuo peligroso que se transporta, de acuerdo a lo establecido por las normas que para el efecto se expidan.
+Los camiones unitarios, las unidades motrices, unidades de arrastre, contenedores, contenedores cisterna y recipientes intermedios para granel deberán portar en ambos costados y en los extremos los carteles o rótulos, que identifiquen la substancia, el material o residuo peligroso que se transporta, de acuerdo a lo establecido por las normas que para el efecto se expidan.
 
 ###### ARTICULO 39.
 
@@ -737,29 +847,45 @@ Durante las inspecciones en operación se supervisarán las condiciones mecánic
 
 Cuando no se pueda llevar a cabo la inspección, por las características propias del material o residuo, en otro lugar que no sea su origen, la empresa transportista llevará la unidad a su destino final, en donde podrá descargar y se procederá a la inspección correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 44.
 
-En caso del autotransporte, el costo de ambas inspecciones deberá ser cubierto por el transportista.
+El Autotransportista, en forma voluntaria, podrá solicitar que la Secretaría o las unidades de verificación practiquen las inspecciones referidas en el artículo 41 de este Reglamento. En estos casos, será el propio Autotransportista quien cubra los costos que origine la inspección.
 
 Cuando el equipo de arrastre ferroviario sea proporcionado por el usuario, se deberá presentar el dictamen de verificación, expedido por las unidades de verificación de las empresas aprobadas por la Secretaría, en el que se avalen las condiciones físicas y mecánicas de operación del equipo, cuya existencia comprobará la empresa ferroviaria.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Los transportistas están obligados a proporcionar y a llevar un control del mantenimiento preventivo y correctivo a sus unidades; así como un registro de los materiales y residuos peligrosos transportados.
+Los transportistas y poseedores de unidades y arrendatarios están obligados a proporcionar y a llevar un control del mantenimiento preventivo y correctivo a sus unidades; así como un registro de las substancias, materiales y residuos peligrosos transportados.
 
-La Secretaría podrá requerir los mencionados controles y registros, a fin de verificarlos en cualquier momento.
+La Secretaría, en cualquier momento, podrá requerir los mencionados controles y registros, a fin de verificarlos.
 
 ### CAPITULO II. DEL ACONDICIONAMIENTO DE LA CARGA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 46.
 
-Las unidades que transporten materiales y residuos peligrosos deberán estar en óptimas condiciones de operación, físicas y mecánicas, verificando el transportista que la unidad reúna tales condiciones antes de proceder a cargar los materiales y residuos peligrosos.
+Toda Unidad y Unidad de Arrastre que transporte substancias, materiales y residuos peligrosos deberá estar en óptimas condiciones de operación, físicas y mecánicas, verificando el expedidor y transportista que reúnan tales características, antes de proceder a cargar y descargar los materiales y residuos peligrosos.
 
 ###### ARTICULO 47.
 
 Para que el transporte del material o residuo peligroso sea seguro, éste deberá ser cargado, distribuido y sujeto en las unidades de autotransporte y arrastre ferroviario de acuerdo a las normas expedidas por la Secretaría, de tal manera que no se ocasione ningún daño por efectos de la vibración originada durante su tránsito, debiendo, además, proteger la carga de las condiciones ambientales o de cualquier otra fuente que genere una reacción del mismo.
 
-Los embarques que no estén debidamente acondicionados para su transportación o que no sean cargados conforme a lo previsto en las normas correspondientes, no deberán ser aceptados por los transportistas para su traslado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+El expedidor deberá entregar al transportista las substancias, los materiales o residuos peligrosos debidamente acondicionados para su transporte de conformidad con lo previsto en las normas correspondientes. Los embarques que no estén debidamente acondicionados o que no sean cargados en cumplimiento a la normatividad, no deberán ser aceptados por los transportistas para su traslado.
 
 Para el almacenamiento y la transportación de materiales y residuos peligrosos en sus distintos grupos de riesgo, se considerará la compatibilidad que tengan, de conformidad con las normas correspondientes.
 
@@ -767,9 +893,19 @@ Para el almacenamiento y la transportación de materiales y residuos peligrosos 
 
 Las condiciones para el transporte de los materiales peligrosos en cantidades limitadas se establecerán en la norma correspondiente en función de la clase y división a la que pertenezcan y de la cantidad a transportar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+Los productos para el consumidor final elaborados a partir de alguna substancia o material peligroso podrán ser transportados en unidades diferentes a las de carga especializada para el transporte de materiales peligrosos y su identificación y transporte se sujetará a las normas que al efecto expida la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 49.
 
-Las unidades cargadas con materiales y residuos peligrosos de diversas clases, deberán llevar la información de emergencia en transportación de cada uno de los materiales, los que deberán indicar las acciones a seguir para cada uno de ellos, así como el registro de su ubicación en la unidad, el cual deberá ser señalado en la propia hoja de embarque. En el caso de transporte de materiales y residuos peligrosos en cantidades limitadas se estará a lo dispuesto en el artículo que precede.
+Las unidades cargadas con substancias, materiales o residuos peligrosos de diversas clases, deberán llevar la información de emergencia en transportación de cada uno de los materiales, que indiquen las acciones a seguir para cada uno de ellos, así como el registro de su ubicación en la unidad, lo cual deberá ser señalado en el propio documento de embarque. En el caso de transporte de materiales y residuos peligrosos en cantidades limitadas se estará a lo dispuesto en el artículo que precede.
 
 ### CAPITULO III. DE LA DOCUMENTACION
 
@@ -781,67 +917,101 @@ Para el transporte de materiales y residuos peligrosos, el transportista y el ex
 
 El fabricante de substancias o generador de residuos peligrosos deberá proporcionar la descripción e información complementaria del producto que se transporte la que estará a disposición del transportista y las dependencias competentes que la requieran.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 52.
 
-En el traslado de materiales y residuos peligrosos será obligatorio que en la unidad de transporte se cuente con los siguientes documentos:
+En el traslado de substancias, materiales o residuos peligrosos será obligatorio que en la unidad de transporte se cuente con los siguientes documentos, mismos que deberán colocarse en un lugar visible y accesible de la cabina de la unidad, de preferencia en una carpeta-portafolios:
 
-I. Documentos de embarque del material o residuo peligroso;
+I. Documento de embarque de las substancias, materiales o residuos peligrosos;
 
-II. "Información de emergencia en transportación", que indique las acciones a seguir en caso de suscitarse un accidente, de acuerdo al material o residuo peligroso de que se trate, la cual deberá apegarse a la norma que expida la Secretaría y colocarse en un lugar visible de la cabina de la unidad, de preferencia en una carpeta-portafolios que contenga los demás documentos;
+II. Información de emergencia en transportación, que indique las acciones a seguir en caso de suscitarse un accidente, de acuerdo a la substancia, material o residuo peligroso de que se trate, la cual deberá apegarse a la norma que expida la Secretaría;
 
-III. Documento que avale la inspección técnica de la unidad;
+III. Póliza de seguro individual o en conjunto del transportista y del expedidor de la substancia, material o residuo peligroso;
 
-IV. Manifiesto de entrega, transporte y recepción, para el caso de transporte de residuos peligrosos, expedido por la Secretaría de Desarrollo Social;
+IV. Licencia federal de conductor vigente específica para el transporte de materiales y residuos peligrosos o licencia federal ferroviaria vigente; según corresponda;
 
-V. Autorización respectiva, para el caso de importación y exportación de materiales peligrosos; y
+V. Documento que avale la inspección técnica de la unidad;
 
-VI. Manifiesto para casos de Derrames de Residuos Peligrosos por Accidente:
+VI. Manifiesto de entrega, transporte y recepción, para el caso de transporte de residuos peligrosos, de acuerdo al formato que determine la Secretaría de Medio Ambiente y Recursos Naturales;
 
-Cuando por cualquier evento se produzcan derrames, infiltraciones, descargas o vertidos de substancias peligrosas, se deberá dar aviso de inmediato de los hechos a la Secretaría de Desarrollo Social, y presentar a más tardar 78 horas después el manifiesto a que se refiere esta fracción; y
+VII. Autorización respectiva, para el caso de importación y exportación de materiales peligrosos;
 
-VII. Los demás que se establezcan en las normas.
+VIII. Manifiesto para casos de Derrames de Residuos Peligrosos por Accidente, y
+
+IX. Los demás que se establezcan en las normas.
 
 Será obligatorio además de lo anterior, que en la unidad de autotransporte se cuente con los siguientes documentos:
 
-I. Licencia federal de conducir específica para el transporte de materiales peligrosos;
+I. Bitácora de horas de servicio del conductor;
 
-II. Bitácora de horas de servicio del conductor;
+II. Bitácora del operador relativa a la inspección ocular diaria de la unidad, y
 
-III. Bitácora del operador relativa a la inspección ocular diaria de la unidad;
-
-IV. Póliza de seguro individual o conjunto del autotransportista y del expedidor del material o residuo peligroso; y
-
-V. Documento que acredite la limpieza y control de remanentes de la unidad, cuando ésta se realice. La limpieza sólo será obligatoria por razones de incompatibilidad de los productos a transportar.
+III. Documento que acredite la limpieza y control de remanentes de la unidad, cuando ésta se realice. La limpieza será obligatoria por razones de incompatibilidad de los productos a transportar de conformidad con la norma respectiva.
 
 ###### ARTICULO 53.
 
 Cuando se transporte un embarque de materiales o residuos peligrosos de una sola clase en trenes unitarios, directamente de un punto a otro, la "Información de emergencia en transportación" debe acompañarse de la relación completa de las iniciales y números de las unidades que remolcan.
 
-### CAPITULO IV. DEL SISTEMA NACIONAL DE EMERGENCIA EN TRANSPORTACION DE MATERIALES Y RESIDUOS PELIGROSOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+### CAPITULO IV. DEL SISTEMA DE EMERGENCIA EN TRANSPORTACIÓN DE SUBSTANCIAS, MATERIALES Y RESIDUOS PELIGROSOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 54.
 
-La Secretaría en coordinación con la Secretaría de Gobernación, y demás dependencias competentes, autoridades estatales y municipales, así como fabricantes e industriales que produzcan, generen y utilicen substancias o residuos peligrosos y los transportistas de los mismos, establecerán el Sistema Nacional de Emergencia en transportación de materiales y residuos peligrosos.
+La Secretaría en coordinación con la Secretaría de Gobernación, y demás dependencias competentes, autoridades estatales, del Distrito Federal y municipales, así como fabricantes e industriales que produzcan, generen y utilicen substancias, materiales o residuos peligrosos y los transportistas de los mismos, establecerán el Sistema.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 55.
 
-El Sistema Nacional de Emergencia tiene por objeto proporcionar información técnica y específica sobre las medidas y acciones que deben adoptarse en caso de algún accidente o incidente, durante el transporte de materiales y residuos peligrosos. El Sistema funcionará las 24 horas del día.
+El Sistema tiene por objeto proporcionar información técnica y específica sobre las medidas y acciones que deben adoptarse en caso de algún accidente o incidente, durante el transporte de substancias, materiales y residuos peligrosos. El Sistema funcionará las veinticuatro horas del día.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 56.
 
-Cuando el Sistema reciba información de alguna emergencia en el transporte de materiales y residuos peligrosos, se alertará de inmediato a la Policía Federal de Caminos y Puertos, al Gobierno de la entidad federativa y las autoridades municipales donde aquella suceda y en su caso a la Secretaría de Gobernación a fin de poner en marcha los operativos de protección civil existentes para la salvaguardia de la población, sus bienes y entorno.
+Cuando el Sistema reciba información de alguna emergencia en el transporte de substancias, materiales y/o residuos peligrosos, se alertará de inmediato a la autoridad responsable de la seguridad de las personas y del ambiente, así como a la Policía Federal, y en su caso a la Secretaría de Gobernación, a fin de poner en marcha los operativos de protección civil existentes para la salvaguardia de la población, sus bienes y entorno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 57.
 
-En caso de accidente, tales como fugas, derrames, incendios u otros, el operador de la unidad de autotransporte o tripulación ferroviaria deberán aplicar las medidas de seguridad detalladas en la "Información de emergencia en transportación", cuyo diseño y contenido deberá apegarse a la norma que al efecto expida la Secretaría.
+En caso de fugas, derrames, infiltraciones, descargas, vertidos o liberación de substancias, materiales o residuos peligrosos el operador de la unidad de autotransporte o tripulación ferroviaria deberán aplicar las medidas de seguridad detalladas en la Información de emergencia en transportación, cuyo diseño y contenido deberá apegarse a la norma que al efecto expida la Secretaría. Lo anterior, sin perjuicio de los avisos que deban dar a otras autoridades en términos de las disposiciones jurídicas que resulten aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 57 Bis.
+
+Los transportistas y expedidores deberán avisar de inmediato y reportar a la Secretaría y a la Secretaría de Medio Ambiente y Recursos Naturales, en un plazo no mayor a tres días hábiles a que hayan ocurrido los hechos, los accidentes e incidentes que tengan sus unidades durante el transporte de las substancias, materiales y residuos peligrosos, en el formato que para tal fin se determine. Tratándose de radiactivos, el aviso deberá realizarse a la Comisión Nacional de Seguridad Nuclear y Salvaguardias, en el formato que ésta determine.
 
 ## TITULO QUINTO. DEL TRANSITO EN VIAS DE JURISDICCION FEDERAL
 
 ### CAPITULO I. DEL AUTOTRANSPORTE
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 58.
 
-Ninguna unidad que traslade materiales o residuos peligrosos deberá transportar personas no relacionadas con las operaciones de la unidad.
+Queda prohibido al transportista, transportar personas no relacionadas con el embarque. Salvo que exista previa acreditación por la empresa autotransportista.
 
 ###### ARTICULO 59.
 
@@ -855,9 +1025,13 @@ Los operadores de vehículos se abstendrán de realizar paradas no justificadas,
 
 Las unidades que transporten materiales o residuos peligrosos, a excepción de las substancias de la Clase 7 (radiactivos), no podrán circular en convoy.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 62.
 
-Se prohibe purgar al piso o descargar en el camino, calles o en instalaciones no diseñadas para tal efecto; así como ventear innecesariamente cualquier tipo de material o residuo peligroso.
+Se prohíbe purgar al piso, realizar operaciones de carga y descarga de unidades, fuera de las instalaciones del expedidor o del destinatario, así como en caminos, calles o en instalaciones no diseñadas para tal efecto; salvo en caso de accidente o de lo establecido en el artículo 64 de este Reglamento. Asimismo, se prohíbe ventear innecesariamente al medio ambiente cualquier tipo de substancia, material o residuo peligroso.
 
 ###### ARTICULO 63.
 
@@ -881,9 +1055,21 @@ Las unidades que transporten materiales o residuos peligros, por ningún motivo 
 
 Si durante el transporte del material o residuo peligroso se presentan condiciones meteorológicas adversas, que impidan la visibilidad a una distancia aproximada de 50 metros, tales como tormenta eléctrica, lluvias intensas, niebla cerrada y presencia de vientos fuertes, el conductor del vehículo deberá estacionarlo, absteniéndose de hacerlo en pendientes, declives, curvas, puentes, cruceros, túneles, cruces de ferrocarril, cerca de instalaciones eléctricas de alta tensión u otro lugar que presente peligro para la carga.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 68.
 
-Cuando por cualquier circunstancia se requiera estacionamiento nocturno en carretera se deben colocar triángulos de seguridad tanto en la parte delantera, como trasera, a la distancia que permita a los otros usuarios del camino tomar las precauciones necesarias.
+Los operadores de unidades, sólo en caso de emergencia o avería podrán estacionar la unidad de que se trate en las vías generales de comunicación terrestre, y quedan obligados a colocar dispositivos de advertencia tanto en la parte delantera, como trasera, a la distancia que permita a los otros usuarios del camino tomar las precauciones necesarias para evitar un accidente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 68 Bis.
+
+Bajo ninguna circunstancia se permitirá el depósito de vehículos de unidades vehiculares que transporten substancias, materiales, residuos y/o remanentes peligrosos.
 
 ### CAPITULO II. DEL FERROCARRIL
 
@@ -895,21 +1081,37 @@ La empresa ferroviaria por cuestiones de seguridad deberá establecer rutas tron
 
 No se deberá transportar por ferrocarril nitroglicerina o fulminantes, con excepción de fulminantes de mercurio en cápsulas, explosivos cebados y dinamita exudada; tampoco se permitirá el transporte de substancias explosivas de una reactividad tal que puedan reaccionar espontáneamente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 71.
 
-No se deberá exceder el peso máximo permitido por el riel, siendo necesario que las unidades sean pesadas desde su origen, de ser posible en báscula particular certificada y autorizada por autoridad competente.
+No se deberá exceder el peso máximo permitido por el riel.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 72.
 
-La unidad que presente algún desperfecto que le imposibilite continuar su movimiento con seguridad, deberá ser cortada del servicio y estacionada en el ladero más próximo, con personal que se encargue de su cuidado, procediendo de acuerdo a la normatividad establecida.
+La unidad de arrastre que presente algún desperfecto que le imposibilite continuar su movimiento con seguridad, deberá ser cortada del servicio y estacionada en el ladero más próximo, con personal que se encargue de su cuidado, procediendo de acuerdo a la normatividad establecida, dando aviso de inmediato al expedidor y destinatario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 73.
 
-Cuando una unidad sea cortada del servicio por algún defecto y se requiera transvasar o transbordar el material peligroso transportado, deberán observarse las medidas necesarias para garantizar la seguridad de la operación.
+Cuando una unidad de arrastre sea cortada del servicio por algún defecto y se requiera transvasar o transbordar el material peligroso transportado, deberán observarse las medidas necesarias para garantizar la seguridad de la operación, de conformidad con la norma que a tal efecto se expida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 74.
 
-Los trenes que transporten materiales o residuos peligrosos, deberán llevar a bordo y en forma permanente un supervisor de la empresa ferroviaria que verifique el cumplimiento de la reglamentación aplicable.
+Los trenes que transporten substancias, materiales y/o residuos peligrosos, deberán ser supervisados por la empresa ferroviaria de conformidad con la norma que a tal efecto se expida.
 
 ###### ARTICULO 75.
 
@@ -951,17 +1153,25 @@ La empresa ferroviaria deberá identificar mediante placas especiales, los punto
 
 Los trenes unitarios que remolquen unidades cargadas con material o residuo peligroso deberán circular a una velocidad menor a 30 km/hr. al ingresar a un área metropolitana, ciudad o poblado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 85.
 
-Los trenes que transporten materiales o residuos peligrosos, deberán transitar con su sistema de frenos de aire, freno de mano y herrajes de freno en condiciones adecuadas de operación. En caso de que dichos trenes tengan que transitar en zonas topográficas que presenten fuertes pendientes y radios críticos de curvatura, deberán tener en óptimas condiciones de operación el sistema de freno dinámico.
+Los trenes que transporten substancias, materiales o residuos peligrosos, deberán transitar con su sistema de freno dinámico, freno de aire, freno de mano y herrajes de freno en condiciones adecuadas de operación.
 
 ###### ARTICULO 86.
 
 Los trenes que transporten materiales o residuos peligrosos deberán utilizar los libramientos ferroviarios existentes para evitar el tránsito en zonas urbanas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 87.
 
-Sólo se transportarán materiales y residuos peligrosos en trenes de flete. En caso de explosivos comprendidos en la Clase 1, sólo se admitirán remesas que no excedan un total de 5000 kg. por tren.
+Sólo se transportarán substancias, materiales y residuos peligrosos en trenes de carga. En caso de explosivos comprendidos en la Clase 1, sólo se admitirán remesas que no excedan un total de cinco mil kilogramos, por tren.
 
 ###### ARTICULO 88.
 
@@ -983,9 +1193,13 @@ Los movimientos de acoplamiento de unidades deberán realizarse a una velocidad 
 
 Los carros tanque cargados con gases comprimidos, refrigerados, licuados o disueltos a presión, Clase 2, que sean cortados en tránsito para ser conectados a otra clase de equipo o bien para ser conectados directamente a carros tanque cargados con materiales similares, deberán ser manejados en cortes de no más de 2 carros.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 93.
 
-El manejo de unidades que contengan materiales y residuos peligrosos, deberán realizarse para su estacionamiento, embarque o desembarque, fuera de áreas pobladas.
+Las unidades de arrastre que contengan substancias, materiales y residuos peligrosos, sólo podrán estacionarse fuera de áreas pobladas.
 
 ###### ARTICULO 94.
 
@@ -995,9 +1209,13 @@ Los carros que porten carteles indicando la presencia de material o residuo peli
 
 Cuando se requiera realizar movimientos en patio con unidades que contengan materiales o residuos peligrosos, deberán utilizarse dos unidades que sirvan de protección entre la locomotora y la unidad o unidades que contengan dichos materiales, debiendo manejarse con el sistema de frenos de aire acoplado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 96.
 
-Las unidades de arrastre vacías destinadas al transporte de materiales y residuos peligrosos no deberán estacionarse en vías de patio, una vez que hayan sido descargadas se remitirán de inmediato a sus propietarios y en caso de pertenecer a la misma empresa ferroviaria, se enviarán a sus instalaciones de mantenimiento.
+Las unidades de arrastre vacías destinadas al transporte de substancias, materiales y residuos peligrosos no deberán permanecer más de dieciséis horas, salvo caso fortuito o fuerza mayor en vías de patio, una vez que hayan sido descargadas se remitirán de inmediato a sus poseedores y en caso de pertenecer a la misma empresa ferroviaria, se enviarán a sus instalaciones de mantenimiento.
 
 ###### ARTICULO 97.
 
@@ -1011,9 +1229,13 @@ Al hacer movimiento en las vías particulares de industrias, se deberán revisar
 
 Antes de iniciar el movimiento de unidades en vías particulares, el personal de la empresa deberá verificar las diferentes medidas de seguridad que se tengan establecidas en la planta para el manejo de unidades conteniendo materiales o residuos peligrosos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 100.
 
-La empresa ferroviaria deberá verificar que las condiciones físicas de las vías particulares presten seguridad para la realización de maniobras y movimientos con unidades de arrastre que contengan materiales y residuos peligrosos.
+Las empresas ferroviarias podrán negarse a prestar el servicio de transporte ferroviario de substancias, materiales y/o residuos peligrosos cuando las vías particulares no reúnan las condiciones de seguridad.
 
 ###### ARTICULO 101.
 
@@ -1023,25 +1245,47 @@ Las unidades que sean entregadas en espuelas particulares, deberán ser asegurad
 
 ### CAPITULO I. DISPOSICIONES ESPECIALES PARA EL TRANSPORTE DE RESIDUOS PELIGROSOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 102.
 
-El transporte de residuos peligrosos deberá efectuarse conforme a la clase de substancia peligrosa de que se trate y que dio origen al residuo. Asimismo, para establecer el destino final del residuo peligroso, deberá sujetarse a las normas que se expidan.
+El transporte de residuos peligrosos deberá efectuarse conforme a la clase de substancia peligrosa de que se trate, de conformidad con este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 103.
 
-Las empresas de transporte terrestre que generen cualquier remanente peligroso por lavado o descontaminación de las unidades utilizadas para el transporte de alguna substancia peligrosa, deberán apegarse a las normas que expida la Secretaría de Desarrollo Social.
+Los transportistas que por sus actividades del transporte o de la limpieza de las unidades de transporte, generen cualquier remanente o residuo peligroso serán responsables de darle manejo adecuado de acuerdo a la normatividad expedida por la Secretaría de Medio Ambiente y Recursos Naturales. En caso de que dicho remanente o el residuo peligroso esté contaminado con material radiactivo, adicionalmente, dichos transportistas deberán cumplir con la normativa que al efecto emita la Secretaría de Energía, por conducto de la Comisión Nacional de Seguridad Nuclear y Salvaguardias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 104.
 
-En la carta porte se establecerá claramente el destino final del residuo generado y se notificará a las autoridades correspondientes.
+En la carta porte se establecerá claramente el destino del residuo peligroso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 105.
 
-El propietario o generador del residuo peligroso quedará obligado a cerciorarse de que el sistema de transporte y las instalaciones del destinatario de la carga, estén autorizadas por la Secretaría de Desarrollo Social.
+El generador o poseedor de los residuos peligrosos quedará obligado a cerciorarse de que el transportista y el destinatario, estén debidamente autorizados por la autoridad competente.
+
+Cuando por cualquier evento se produzcan derrames, infiltraciones, descargas o vertidos de substancias peligrosas, el responsable del material peligroso o el generador del residuo peligroso y, en su caso la empresa que preste el servicio, deberá dar aviso de inmediato de los hechos a la Procuraduría Federal de Protección al Ambiente y presentar dentro de los tres días hábiles siguientes a que haya ocurrido el hecho la formalización por escrito del aviso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 106.
 
-Para el traslado de residuos peligrosos la unidad a utilizar deberá cumplir con las especificaciones de construcción determinadas para el transporte de materiales, de acuerdo a la norma correspondiente.
+Para el transporte de residuos peligrosos, las unidades que se utilicen deberán cumplir con las especificaciones de construcción determinadas para el transporte de materiales peligrosos, de acuerdo a la norma correspondiente.
 
 ###### ARTICULO 107.
 
@@ -1059,21 +1303,35 @@ Para transportar residuos peligrosos, éstos deberán ser compatibles entre sí,
 
 Los transportistas, expedidores o generadores de los materiales o residuos peligrosos, deberán contratar, un seguro que ampare los daños que puedan ocasionarse a terceros en sus bienes y personas, ambiente, vías generales de comunicación y cualquier otro daño que pudiera generarse por la carga en caso de accidente de conformidad con la normatividad respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 110.
 
-El seguro deberá amparar el traslado de la carga desde el momento en que salga de las instalaciones del expedidor o generador hasta que se reciba en las instalaciones señaladas como destino final.
+El seguro deberá amparar el traslado de la carga desde el momento en que salga de las instalaciones ya sean del usuario, expedidor y/o generador hasta que se reciba en las instalaciones señaladas como destino final.
 
 ###### ARTICULO 111.
 
 La cobertura mínima de los seguros para cada riesgo del material y residuo peligroso de que se trate, se determinarán conjuntamente por las autoridades involucradas, en función del tipo de material que se transporta, cantidad o volumen de la carga y alcance de los daños que pudieran provocar los materiales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 112.
 
-Los seguros a que se refieren los artículos anteriores no limitan la responsabilidad del transportista y del expedidor o generador del material o residuo peligroso.
+Los seguros a que se refiere este capítulo no limitan la responsabilidad del transportista, expedidor, generador y/o destinatario del material o residuo peligroso.
 
 ###### ARTICULO 113.
 
 La carga y descarga de materiales y residuos peligrosos quedará a cargo de los expedidores y destinatarios respectivamente, por lo que éstos deberán de tomar las medidas necesarias para evitar accidentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+En caso de requerirse la atención a emergencias durante el transporte de substancias, materiales y residuos peligrosos por ferrocarril, el expedidor y/o destinatario, deberán proporcionar el apoyo y asesoría al transportista para tomar las medidas necesarias para garantizar la seguridad.
 
 ## TITULO OCTAVO. DE LAS OBLIGACIONES ESPECIFICAS
 
@@ -1087,19 +1345,45 @@ I. Cerciorarse que los envases y embalajes que contengan las (sic) materiales o 
 
 II. Identificar los materiales y residuos con las etiquetas y carteles correspondientes en los envases, embalajes y unidades de transporte de acuerdo a las normas respectivas;
 
-III. Proporcionar la "Información de emergencia en transportación", del material o residuo transportado conforme a lo que estipula este Reglamento, la cual deberá apegarse a la norma que expida la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV. Indicar al transportista sobre el equipo de seguridad necesario con que debe contar en caso de accidente, de acuerdo al material o residuo peligroso de que se trate;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
-V. Proporcionar al transportista los carteles que deberá instalar en las unidades, de acuerdo al tipo de material o residuo peligroso de que se trate;
+III. Proporcionar la “Información de emergencia en transportación”, así como el documento correspondiente al embarque de la substancia, material o residuo peligroso a transportarse conforme a lo que estipula este Reglamento, la cual deberá apegarse a la norma que expida la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+IV. Indicar al transportista sobre el equipo de seguridad necesario de acuerdo al material o residuo de que se trate;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+V. Proporcionar al transportista los carteles o rótulos que deberán instalar en las unidades, de acuerdo al tipo de substancia, material o residuo peligroso de que se trate; conforme a la norma correspondiente;
 
 VI. No efectuar el envío de materiales o residuos peligrosos en unidades que no cumplan con las especificaciones indicadas en el presente Reglamento o en las normas correspondientes;
 
 VII. Contar con las autorizaciones necesarias y la documentación complementaria requerida para evitar que se retrase el traslado de la carga;
 
-VIII. Proporcionar al destinatario todos los datos relativos al embarque de materiales y residuos peligrosos, con objeto de que éste pueda, en cualquier momento, realizar el seguimiento de los materiales o residuos transportados, indicándole además fecha y hora prevista para su llegada al punto de destino; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IX. Verificar que las maniobras de carga se realicen exclusivamente por personal capacitado, que cuente con equipo de protección adecuado.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Proporcionar al destinatario todos los datos relativos al embarque de materiales y residuos peligrosos, con objeto de que éste pueda, en cualquier momento, realizar el seguimiento de los materiales o residuos transportados, indicándole además fecha y hora prevista para su llegada al punto de destino;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+IX. Verificar que las maniobras de carga se realicen exclusivamente por personal capacitado, que cuente con equipo de protección adecuado, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+X. Contar con seguro vigente que ampare los daños que puedan ocasionarse al ambiente, vías generales de comunicación y cualquier otro daño que pudiera generarse por la carga en caso de accidente.
 
 ###### ARTICULO 115.
 
@@ -1115,17 +1399,21 @@ Cuando así se estipule, los usuarios de unidades pertenecientes a transportista
 
 ### CAPITULO II. DEL AUTOTRANSPORTE
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 118.
 
-El expedidor, el autotransportista y el destinatario, dentro de la esfera de sus responsabilidades, deberán coordinarse para que el material y residuo peligrosos se transporten en condiciones de seguridad y llegue a tiempo a su destino y en buen estado. Al efecto deberán tomar las siguientes medidas:
+El expedidor, el autotransportista y el destinatario, dentro de la esfera de sus responsabilidades, deberán coordinarse para que la substancia, el material y el residuo peligroso se transporten en condiciones de seguridad y llegue a tiempo a su destino y en buen estado. Al efecto deberán tomar las siguientes medidas:
 
-I. Acordar métodos de control previos por escrito entre expedidor, autotransportista y destinatario;
+I. Establecer los procedimientos necesarios para coordinar sus actividades, a fin de que el transporte se realice bajo condiciones de seguridad que garanticen la llegada de la substancia, material o residuo peligroso, a su destino final y en buenas condiciones;
 
-II. Efectuar la transportación con la documentación indicada en el presente Reglamento, además de toda aquella necesaria para que el envío se efectúe de manera expedita, a fin de evitar la detención de la unidad por falta de algún documento. Los documentos de transporte deben indicar además, la fecha y nombre de los lugares de transbordo;
+II. Contar con la documentación indicada en el presente Reglamento y normas respectivas para efectuar la transportación, y el envío de manera segura y expedita;
 
-III. Determinar la ruta de transporte que presente mejores condiciones de seguridad. Si hay que hacer transbordos, deberán tomarse las medidas necesarias para que los materiales y residuos peligrosos en tránsito sean manipulados con cuidado, sin demora y con vigilancia para que no se dañen la salud ni el ambiente que los rodea; y
+III. Determinar la ruta de transporte que presente mejores condiciones de seguridad, y
 
-IV. Vigilar que en caso de transvase o transbordo, éstos se efectúen conforme a lo que indica el presente Reglamento.
+IV. Vigilar que en caso de transvase o trasbordo, éstos se efectúen conforme a lo que indica el presente Reglamento. Al efecto deberán tomarse las medidas necesarias para que las substancias, materiales y residuos peligrosos en tránsito sean manipulados con cuidado, sin demora y con vigilancia para que no se dañen la salud ni el ambiente que los rodea.
 
 ###### ARTICULO 119.
 
@@ -1141,13 +1429,21 @@ IV. Revisar que la unidad no cuente con elementos punzocortantes y otros que pue
 
 V. Contar con unidades adecuadas a los materiales y residuos peligrosos que transporten y que cumplan con las características y especificaciones que establece el presente Reglamento;
 
-VI. Colocar en lugar visible la razón social, dirección y teléfono de la empresa; así como los correspondientes al Sistema Nacional de Emergencias en Transportación de Materiales y Residuos Peligrosos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+VI. Colocar en un lugar visible de la unidad, su denominación o razón social, dirección y teléfono de la empresa; así como los correspondientes al Sistema;
 
 VII. Vigilar que el manejo de sus vehículos destinados al transporte de materiales y residuos peligrosos quede encomendado sólo a conductores que posean la licencia federal de conductor respectiva;
 
 VIII. Proporcionar capacitación y actualización de conocimientos a su personal y conductores, conforme a lo que establece el presente Reglamento;
 
-IX. Instalar en las unidades los carteles proporcionados por el expedidor; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+IX. Instalar en las unidades los carteles o rótulos proporcionados por el expedidor, y
 
 X. Llevar la estadística de los accidentes e incidentes que tengan sus unidades y personal para determinar las acciones tendientes a reducir las probabilidades de siniestros.
 
@@ -1159,9 +1455,17 @@ Todo conductor que transporte materiales y residuos peligrosos estará obligado 
 
 I. Contar con la licencia federal expedida por la Secretaría que lo autorice a conducir vehículos con materiales o residuos peligrosos;
 
-II. Aprobar cursos de capacitación y actualización de conocimientos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. Efectuar la revisión ocular diaria del vehículo, para asegurarse que éste se encuentra en buenas condiciones mecánicas y de operación y en caso de irregularidades reportarlo al transportista de conformidad con la norma que se emita;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+II. Aprobar los cursos de capacitación y actualización de conocimientos relacionados con el manejo y transporte de materiales y residuos peligrosos en los Centros de Capacitación autorizados por la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. Efectuar la revisión ocular diaria del vehículo, para asegurarse que éste se encuentra en buenas condiciones mecánicas y de operación y en caso de irregularidades, según la norma que se emita, reportarlo al transportista;
 
 IV. En caso de accidentes, deberán realizar las indicaciones de seguridad estipuladas en la información de emergencia en transportación, y permanecer al cuidado del vehículo y su carga, si no presenta peligro para su persona, hasta que llegue el auxilio correspondiente; y
 
@@ -1175,11 +1479,21 @@ DE LA EMPRESA FERROVIARIA
 
 Será obligación de la empresa ferroviaria:
 
-I. Garantizar la seguridad de los trenes que circulen por rutas troncales seleccionadas para el transporte de materiales y residuos peligrosos, realizando inspecciones periódicas a la infraestructura de acuerdo a lo establecido en la reglamentación vigente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Verificar las remesas y, en su caso, abstenerse de recibirlas cuando éstas contengan armas de fuego, municiones, explosivos o fósforos o cualquier otra substancia o material al cual le corresponda el permiso que emita la Secretaría de la Defensa Nacional;
 
 II. Mantener en óptimas condiciones de operación las locomotoras asignadas para servicio de trenes unitarios y directos, con objeto de que el arrastre sea rápido y eficaz;
 
-III. Vigilar que las tripulaciones asignadas a la operación de trenes observen jornadas de trabajo que no excedan un máximo de 11 horas y que tengan un período mínimo de 12 horas de descanso antes de su llamada a servicio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. Vigilar que las jornadas de las tripulaciones de trenes que transporten substancias, materiales y/o residuos peligrosos, se establezcan con base a viajes, estableciendo sitios de remplazo de las tripulaciones, en jornadas máximas de once horas.
+
+En los casos en que las tripulaciones cumplan la jornada señalada en el párrafo anterior y el tren no esté en el punto final del viaje, deberá instruir que el cambio de las tripulaciones se realice en la próxima estación o sitio seguro.
 
 IV. Mover con rapidez los trenes unitarios y directos, estableciendo sus corridas con derecho preferencial sobre cualquier otra clase de trenes, excepto los de pasajeros;
 
@@ -1189,7 +1503,11 @@ VI. Tomar las medidas necesarias para que los envases, embalajes, contenedores y
 
 VII. Proporcionar las tripulaciones necesarias en las conexiones interdivisionales y asegurar que se encuentren listas para tomar el control de los trenes, inmediatamente después de que lleguen a los puntos de conexión;
 
-VIII. Instalar en las unidades los carteles proporcionados por el expedidor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Vigilar que las unidades de arrastre cuenten con los carteles proporcionados por el expedidor;
 
 IX. Suministrar todas las partes y componentes necesarios para la conservación de las unidades tractivas y de arrastre;
 
@@ -1199,9 +1517,47 @@ XI. Exigir que las tripulaciones sustenten al inicio de sus recorridos los exám
 
 XII. Proporcionar en forma semestral a la Secretaría la relación del equipo propio y de intercambio utilizado para el transporte de materiales y residuos peligrosos que se encuentre operando sobre su red, incluyendo récord de mantenimiento y características generales de las unidades;
 
-XIII. Verificar que las unidades ajenas a la empresa ferroviaria cumplan con la normatividad establecida para el transporte de materiales y residuos peligrosos; y
+XIII. Verificar que las unidades ajenas a la empresa ferroviaria cumplan con la normatividad establecida para el transporte de materiales y residuos peligrosos; y (sic)
 
 XIV. Proporcionar capacitación y actualización al personal que intervenga en la operación de trenes conforme lo establece el presente Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+XV. Instrumentar en caso de accidente, las acciones necesarias para fortalecer las condiciones de seguridad, en donde los concesionarios más próximos, están obligados a prestar auxilio a trenes a través de la contraprestación correspondiente.
+
+En caso de que no se pongan de acuerdo en el pago de la contraprestación, se deberá prestar el auxilio y la Secretaría resolverá lo conducente a lo establecido en los artículos 112 y 113 del Reglamento del Servicio Ferroviario;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+XVI. Designar personal para:
+
+a) Revisar que las unidades de arrastre a utilizar para transportar substancias, materiales y residuos peligrosos se encuentren en óptimas condiciones físicas, con objeto de evitar que los materiales a transportar caigan accidentalmente fuera de la unidad y ocasionen alguna explosión, incendio, o cualquier otra clase de daño;
+
+b) Recibir únicamente mercancía clasificada como substancia, material o residuo peligroso hasta que dispongan de la unidad o unidades necesarias, quedando prohibido almacenar este tipo de materiales en las instalaciones del ferrocarril;
+
+c) Aceptar únicamente la carga cuando los envases o embalajes hayan sido debidamente identificados con sus etiquetas y carteles de acuerdo a lo establecido en este Reglamento;
+
+d) Impedir la descarga de unidades de arrastre que transporten substancias, materiales y residuos peligrosos en patios de estaciones, vías auxiliares, escapes o laderos en donde se realicen encuentros o paso de trenes, así como en otras vías que se encuentren fuera de las industrias y que no cuenten con la protección adecuada para el manejo de estos materiales y residuos;
+
+e) Solicitar a un inspector de unidades de arrastre que efectúe una minuciosa revisión del equipo neumático y mecánico de la unidad para certificar que sus condiciones para operación son adecuadas, cuando reciban solicitud de remolcar unidades conteniendo materiales o residuos peligrosos;
+
+f) Verificar que el envase y embalaje de los materiales y residuos peligrosos a transportar cumplan con las disposiciones del presente Reglamento;
+
+g) Asignar personal que se encargue exclusivamente de la vigilancia de unidades que contengan substancias, materiales o residuos peligrosos, desde el momento que finalice su cargadura hasta que sean remolcadas a su destino;
+
+h) Únicamente recibir cilindros de acero que contengan gas licuado, acetileno u oxígeno cuando sus válvulas estén debidamente protegidas con una tapa de seguridad (cachucha), e
+
+i) Informar a los usuarios que lo soliciten sobre el tipo de envases y embalajes adecuados para los materiales y residuos peligrosos que deseen transportar indicándoles además la manera en que dichos envases y embalajes deben ser identificados y etiquetados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+XVII. Verificar que todo equipo de arrastre ferroviario destinado al transporte de substancias, materiales y residuos peligrosos, deberá contar con el dictamen de verificación, antes de su puesta en operación.
 
 DE LAS TRIPULACIONES DE TRENES
 
@@ -1213,17 +1569,29 @@ I. Sujetarse a las disposiciones contenidas en la normatividad vigente;
 
 II. Verificar que los carros cargados con materiales o residuos peligrosos cuenten con los carteles reglamentarios;
 
-III. Exigir que les sean entregadas las guías de embarque que deberán contener los datos indicados en la norma correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+III. Exigir que le sean entregados los documentos de embarque que deberán contener los datos indicados en la norma correspondiente;
 
 IV. Verificar en la documentación de embarque, antes de abrir las puertas de las unidades, si en el interior de éstas se encuentran cilindros conteniendo gases licuados (butano o propano) o cualquier otro material clasificado como inflamable Clase 2 que pudiera estarse escapando o despidiendo vapores, a fin de que se tomen las precauciones indicadas en este Reglamento para cada caso en particular y se evite acercar flamas o luces de bengala al momento de abrir el carro;
 
 V. Prestar ayuda para realizar la inspección periódica al estado físico y a los dispositivos de seguridad instalados en las unidades que manejen en sus trenes, independientemente de las obligaciones que les impone la reglamentación vigente;
 
-VI. Verificar antes de iniciar sus recorridos, que cuentan con la herramienta y materiales reglamentarios, a fin de que en caso necesario se realice el reemplazo de piezas dañadas o en mal estado que puedan ser sustituidas en camino;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+VI. Verificar antes de iniciar sus recorridos, que cuenten con lo siguiente: reglamento interno de transporte, horario, licencia federal ferroviaria, reglamento para el transporte terrestre de materiales y residuos peligrosos, equipo de radiocomunicación, banderas luces y petardos, y reloj reglamentario;
 
 VII. Llevar el registro de la formación del tren, que indique la posición que tienen los carros que transporten materiales y residuos peligrosos; cuando en camino se adicione o cambie la posición de unidades por los requerimientos de servicio deberá anotarse en dicho registro; y
 
-VIII. Portar la licencia federal vigente y el documento que avale los exámenes médicos practicados por la autoridad competente, al inicio de su recorrido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Portar la licencia federal ferroviaria vigente y someterse a los exámenes médicos practicados por la autoridad competente o por médicos particulares o instituciones de salud privada, autorizados para ese efecto por la Secretaría de Comunicaciones y Transportes.
 
 DE LOS JEFES DE PATIO
 
@@ -1231,37 +1599,27 @@ DE LOS JEFES DE PATIO
 
 Serán obligaciones de los jefes de patio:
 
-I. Solicitar la presencia de un oficial de transportes que supervise las actividades de la tripulación durante su recorrido; así como la presencia de un inspector de unidades de arrastre que verifique las unidades que componen el tren antes de su salida;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Supervisar que el arrastre de unidades que transporten materiales o residuos peligrosos se efectúe de preferencia en trenes unitarios o directos; y
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Solicitar la presencia de un inspector de unidades de arrastre, que verifique, las condiciones físicas y mecánicas de las unidades que componen el tren antes de su salida;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+II. Garantizar que las unidades de arrastre cargadas con substancias, materiales y residuos peligrosos siempre que sea posible, serán agregadas en trenes directos o unitarios, y
 
 III. En terminales donde existan instalaciones para clasificación de unidades, que utilicen sistemas de desplazamiento por gravedad, deberán evitar que las unidades que transporten materiales y residuos peligrosos sean clasificadas de esta manera.
 
 DE LOS JEFES DE ESTACION
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### ARTICULO 124.
 
-Serán obligaciones de los jefes de estación:
-
-I. No recibir remesas de armas de fuego, municiones, explosivos o fósforos, sin el permiso correspondiente de las autoridades competentes;
-
-II. Revisar que los carros a utilizar para transportar materiales y residuos peligrosos se encuentren en óptimas condiciones físicas, con objeto de evitar que los materiales a transportar caigan accidentalmente fuera de la unidad y ocasionen alguna explosión, incendio, o cualquier otra clase de daño;
-
-III. No recibir mercancía clasificada como material ó residuo peligroso hasta que dispongan de la unidad o unidades necesarias, quedando prohibido almacenar este tipo de materiales en las instalaciones del ferrocarril;
-
-IV. Aceptar únicamente la carga cuando los envases o embalajes hayan sido debidamente identificados con sus etiquetas y carteles, de acuerdo a lo establecido en este Reglamento;
-
-V. No permitir la descarga de carros que transporten materiales y residuos peligrosos en patios de estaciones, vías auxiliares, escapes o laderos en donde se realicen encuentros o paso de trenes, así como en otras vías que se encuentren fuera de las industrias y que no cuenten con la protección adecuada para el manejo de estos materiales y residuos;
-
-VI. Solicitar un inspector de unidades de arrastre que efectúe una minuciosa revisión del equipo neumático y mecánico de la unidad para certificar que sus condiciones para operación son adecuadas, cuando reciban solicitud de remolcar unidades conteniendo materiales o residuos peligrosos;
-
-VII. Verificar que el envase y embalaje de los materiales y residuos peligrosos a transportar cumplan con las disposiciones del presente Reglamento;
-
-VIII. Asignar personal que se encargue exclusivamente de la vigilancia de unidades que contengan materiales o residuos peligrosos, desde el momento en que finalice su cargadura hasta que sean remolcadas a su destino;
-
-IX. No recibir cilindros de acero que contengan gas licuado, acetileno u oxígeno si sus válvulas no están protegidas con una tapa de seguridad (cachucha); y
-
-X. Informar a los usuarios que lo soliciten sobre el tipo de envases y embalajes adecuados para los materiales y residuos peligrosos que deseen transportar, indicándoles además la manera en que dichos envases y embalajes deben ser identificados y etiquetados.
+(DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2012)
 
 DE LA EMPRESA CONSTRUCTORA, RECONSTRUCTORA O ARRENDADORA DE UNIDADES DE ARRASTRE
 
@@ -1279,9 +1637,15 @@ Las arrendadoras, deberán proporcionar en forma semestral a la Secretaría la r
 
 ### CAPITULO IV. DE LA CAPACITACION
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 128.
 
-El personal y conductores que intervengan en el transporte de materiales y residuos peligrosos deberán contar con una capacitación específica y actualización de conocimientos.
+Las personas y conductores que intervengan en el transporte de las substancias, materiales y residuos peligrosos, recibirán capacitación en función de sus responsabilidades, la capacitación incluirá disposiciones relativas a dichas substancias y materiales, así como específicas para seguridad del transporte de materiales y residuos peligrosos.
+
+Cada una de las personas que clasifican, envasan y embalan substancias y residuos peligrosos, marcan, etiquetan o rotulan unidades, así como aquellas que las presentan o las aceptan para su transporte, las mueven o manipulan durante su transporte o efectúan operaciones de carga y descarga en los vehículos de transporte o para graneles o en contenedores o de algún otro modo intervienen directamente en el transporte de substancias, materiales y residuos clasificados como peligrosos, recibirán capacitación específica a la función que desempeñen y en materia de seguridad.
 
 ###### ARTICULO 129.
 
@@ -1295,9 +1659,13 @@ Los autotransportistas tomarán las medidas necesarias para asegurar el cumplimi
 
 La capacitación y actualización de conocimientos al personal y conductores que intervengan en el transporte de materiales y residuos peligrosos, se efectuará mediante la impartición de cursos de instrucción teórica y práctica. Esta deberá realizarse en centros especialmente diseñados y con programas de capacitación autorizados por la Secretaría para este propósito, en coordinación con la Secretaría de Trabajo y Previsión Social. En el caso del conductor, la aprobación de los cursos de capacitación y actualización de conocimientos, será requisito para obtener la licencia federal de conductor específica para operar unidades que transporten materiales y residuos peligrosos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 132.
 
-La empresa ferroviaria deberá asegurar que el personal de las tripulaciones asignadas al servicio de los trenes, cuenten con los conocimientos indispensables para el manejo seguro de los materiales y residuos peligrosos transportados estableciendo para ello los programas de capacitación y actualización necesarios que avalen su aptitud técnica. Los programas de actualización deberán impartirse cada tres años, expidiéndose en cada caso los certificados correspondientes.
+La empresa ferroviaria deberá asegurarse que los oficiales, supervisores y tripulaciones asignadas al servicio de los trenes, cuenten con los conocimientos indispensables para el manejo seguro de las substancias, materiales y residuos peligrosos transportados, estableciendo para ello los programas de capacitación y actualización necesarios que avalen su aptitud técnica. Los programas de actualización deberán impartirse cada que existan modificaciones a las disposiciones vigentes en la materia o como máximo cada tres años, expidiéndose en cada caso los certificados de capacitación correspondientes.
 
 ###### ARTICULO 133.
 
@@ -1305,31 +1673,47 @@ Previa autorización de la Secretaría la empresa ferroviaria deberá editar y a
 
 ## TITULO NOVENO. SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 134.
 
 Las infracciones al presente Reglamento, salvo en materia de transporte terrestre de materiales y residuos peligrosos en unidades de autotransporte federal y transporte privado en la zona terrestre de las vías generales de comunicación a que se refiere el artículo 134 Bis, serán sancionadas en la forma siguiente:
 
-I. Se aplicará multa hasta por el equivalente a mil días de salario mínimo, por las infracciones a los artículos 5o, 17, 20, 31, 32, 35, 36, 37, 38, 39, 40, 41, 44, 45, 46, 48, 49, 50, 51, 52, 53, 57, 58, 61, 63, 65, 69, 71, 74, 75, 78, 80, 81, 82, 83, 84, 86, 88, 89, 90, 91, 92, 94, 95, 96, 97, 99, 102, 103, 104, 105, 110, 114, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132 y 133.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+I. Se aplicará multa hasta por el equivalente a mil días de salario mínimo, por las infracciones a los artículos 5o., 5o. Bis, 17, 20, 31, 32, 35, 36, 37, 38, 39, 40, 41, 44, 45, 46, 48, 49, 50, 51, 52, 53, 57, 57 Bis, 58, 61, 63, 65, 69, 71, 74, 75, 78, 80, 81, 82, 83, 84, 86, 88, 89, 90, 91, 92, 94, 95, 96, 97, 99, 102, 103, 104, 105, 110, 114, 116, 117, 118, 119, 120, 122, 123, 125, 126, 127, 128, 129, 130, 131, 132 y 133.
 
 II. Se aplicará multa hasta por el equivalente a dos mil días de salario mínimo, las infracciones a los artículos 18, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 33, 34, 42, 43, 47, 60, 64, 67, 68, 72, 73, 85, 93, 98, 100, 101, 106, 115, y 121.
 
 III. Se aplicará multa hasta por el equivalente a cinco mil días de salario mínimo, las infracciones a los artículos 6o, 19, 59, 62, 66, 70, 76, 77, 79, 87, 108 y 109.
 
-IV. Se aplicará multa hasta por el equivalente de cien días de salario mínimo, por infracciones a los límites de velocidad establecidos en los artículos aplicables de este Reglamento y en los ordenamientos de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
+
+IV. Se aplicará multa hasta por el equivalente de quinientos a mil días de salario mínimo; así como suspensión de la licencia por seis meses por la segunda infracción, y cancelación de la misma por la tercera infracción, al o los responsables de rebasar los límites máximos de velocidad establecidos en los artículos aplicables de este Reglamento y en los ordenamientos de la materia. En estos supuestos, al concesionario del servicio de transporte también se le impondrá una multa de quinientos a dos mil salarios mínimos.
 
 En caso de reincidencia, las infracciones al Reglamento se sancionarán con multas hasta por el doble de las cantidades que le correspondan.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 134 Bis.
 
-La Secretaría y la Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, impondrán, en el ámbito de sus respectivas competencias y conforme al Tabulador de Multas que forma parte de este Reglamento, las sanciones por el incumplimiento a las disposiciones del mismo, en materia de transporte terrestre de materiales y residuos peligrosos en unidades de autotransporte federal y transporte privado en la zona terrestre de las vías generales de comunicación.
+La Secretaría y la Secretaría de Seguridad Pública a través de la Policía Federal, impondrán, en el ámbito de sus respectivas competencias y conforme al Tabulador de Multas que forma parte de este Reglamento, las sanciones por el incumplimiento a las disposiciones del mismo, en materia de transporte terrestre de materiales y residuos peligrosos en unidades de autotransporte federal y transporte privado en la zona terrestre de las vías generales de comunicación.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
 Para la imposición de las sanciones a que se refiere este Reglamento, se atenderán los criterios que establece el artículo 77 de la Ley de Caminos, Puentes y Autotransporte Federal y los previstos en la Ley Federal de Procedimiento Administrativo.
 
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
 Las sanciones que se impongan, no eximen al infractor del pago de los daños y perjuicios ocasionados a las vías generales de comunicación y otros bienes de la Nación o a terceros.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
 En caso de reincidencia, las infracciones al presente Reglamento se podrán sancionar con multas hasta por el doble de las cantidades que correspondan.
 
@@ -1353,7 +1737,7 @@ CUARTO.- La Secretaría en coordinación con las demás autoridades competentes 
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de marzo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.- El Secretario de Desarrollo Social, Donaldo Colosio Murrieta.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.- Secretaría de Comercio y Fomentos Industrial, Jaime Serra Puche.- Rúbrica.- Secretaría de Comunicaciones y Transportes, Andrés Caso Lombardo.- Rúbrica.- El Secretario de Salud, Jesús Kumate Rodríguez.- Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 28 DE NOVIEMBRE DE 2006.
 
@@ -1363,4 +1747,10 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente De
 
 TABULADOR DE MULTAS
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
+
+D.O.F. 20 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días naturales posteriores de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La mención que se hace al Sistema Nacional de Emergencia en el segundo párrafo del artículo 44 C del Reglamento de Autotransporte Federal y Servicios Auxiliares, se entenderá hecha al Sistema de Emergencia de Transportación de Materiales y Residuos Peligrosos.
