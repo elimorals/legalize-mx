@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-11-06"
+last_updated: "2012-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -169,9 +167,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de la independencia económica y a la continuidad y crecimiento de nuestra cultura, y
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando la cultura de la igualdad y equidad de género y el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
+III. Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando la cultura de la igualdad y equidad de género y el respeto por derechos humanos de las personas, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
 
 ###### ARTICULO 9o.
 
@@ -2332,3 +2330,7 @@ SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Educac
 TERCERO. Se concede un plazo de tres años para que, de manera paulatina y progresiva, las instituciones autorizadas o reconocidas para impartir educación media superior y superior en el estado se preparen para la entrada en vigor del decreto.
 
 CUARTO. El presente decreto aplicará para los maestros que ingresen a partir de la entrada en vigor, dejando a salvo los derechos de los actuales.
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
