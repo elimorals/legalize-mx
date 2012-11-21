@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2012-11-14"
+last_updated: "2012-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE NOVIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -329,8 +329,6 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 Para efectos informativos, la Secretaría integrará y difundirá los programas anuales de obras públicas y servicios relacionados con las mismas, para lo cual podrá requerir a las dependencias o ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas y los pondrá a disposición de los interesados.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
@@ -339,15 +337,25 @@ Para efectos informativos, la Secretaría integrará y difundirá los programas 
 
 Los titulares de las unidades, dependencias, secretarías o ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas que tengan proyectadas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
 
-Coordinarse y seguir los lineamientos, directrices, políticas y acuerdos de la unidad administrativa encargada de dirigir todos los procesos de adjudicación de contratos, conforme al reglamento que para tal efecto se emita;
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
 
-Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
+I. Coordinarse y seguir los lineamientos, directrices, políticas y acuerdos de la unidad administrativa encargada de dirigir todos los procesos de adjudicación de contratos, conforme al reglamento que para tal efecto se emita;
 
-Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 39 de esa Ley;
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
 
-Elaborar y aprobar el manual de integración y funcionamiento del comité, conforme a las bases que expida la Contraloría, y
+II. Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
 
-Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 39 de esta Ley;
+
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+IV. Elaborar y aprobar el manual de integración y funcionamiento del comité, conforme a las bases que expida la Contraloría, y
+
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+V. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
