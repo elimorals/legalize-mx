@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-aplicables-al-procedimiento-de-conciliacion-de-767
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-10-04"
-last_updated: "2010-10-04"
+last_updated: "2012-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-08-17"
 ---
 # LINEAMIENTOS APLICABLES AL PROCEDIMIENTO DE CONCILIACION DE CONFLICTOS ENTRE MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL
 
-ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES AL PROCEDIMIENTO DE CONCILIACIÓN DE CONFLICTOS ENTRE MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL.
+ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES AL PROCEDIMIENTO DE CONCILIACIÓN DE CONFLICTOS ENTRE MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DEL ACUERDO SEGUNDO Y DE SU ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO JGE128/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 21 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: SIN EFECTO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de octubre de 2010.
 
@@ -378,3 +380,19 @@ El cumplimiento del convenio celebrado ante la DESPE será obligatorio para las 
 El incumplimiento del convenio se podrá denunciar por la parte agraviada, para que el Titular de la DESPE valore el inicio del procedimiento disciplinario.
 
 En el caso de acreditarse el incumplimiento del convenio, se condenará a la parte que ha incumplido con una sanción equivalente a la que se le aplicaría por la conducta originalmente reprochable, materia del conflicto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 2012.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo. Se aprueba dejar sin efectos los Lineamientos aplicables al procedimiento de conciliación de conflictos entre miembros del Servicio Profesional Electoral, aprobados mediante Acuerdo JGE86/2010, de fecha 17 de agosto de 2010.
+
+## Artículos Transitorios.
+
+PRMERO (SIC). En virtud de lo establecido en el artículo 11, numeral 3 de estos Lineamientos, el Instituto deberá realizar a través de las autoridades conciliadoras, todas las acciones necesarias para que el personal que pueda fungir como Conciliador, sea debidamente capacitado con el objetivo de que cuente con las habilidades necesarias para el buen desempeño de la aplicación del procedimiento de conciliación; por lo que antes del inicio de la vigencia de estos lineamientos se implementará un programa de capacitación para dicho personal, en el cual se deberá incluir sin excepción la sensibilización en materia de género y no discriminación, así como una capacitación especializada para aquéllos casos en los que se presuma acoso u hostigamiento sexual, a efecto de que puedan dar la orientación necesaria y dar aviso a las instancias correspondientes.
+
+SEGUNDO. Cuando las autoridades competentes para instruir el procedimiento disciplinario o administrativo, reciban una queja o denuncia en un asunto con un conflicto susceptible de resolverse mediante la figura de la conciliación, deberán hacer saber a las partes de dicho conflicto sobre la existencia de este medio alternativo de solución de conflictos, para que en su caso se sujeten voluntariamente a él.
+
+TERCERO. Las disposiciones de los presentes Lineamientos, entrarán en vigor el primero de mayo de 2013, previa ministración de los recursos financieros asignados a las unidades que serán autoridades conciliadoras, para poder realizar las acciones de capacitación previstas en el artículo transitorio PRIMERO de este ordenamiento o contratar como servidores públicos del Instituto a quienes fungirán como Conciliadores según determine el Secretario Ejecutivo.
