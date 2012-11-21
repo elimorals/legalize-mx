@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-operacion-en-materia-de-capacitacion-mejoramiento-899
 country: "mx"
 rank: "reglas"
 publication_date: "2012-11-07"
-last_updated: "2012-11-07"
+last_updated: "2012-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89936&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-10-29"
 ---
 # REGLAS DE OPERACION EN MATERIA DE CAPACITACION, MEJORAMIENTO, Y ESPECIALIZACION PROFESIONAL, PARA SERVIDORES PUBLICOS BENEFICIARIOS DEL PODER JUDICIAL DE LA FEDERACION, CON CARGO A LOS RECURSOS DISPONIBLES DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAS DE OPERACIÓN EN MATERIA DE CAPACITACIÓN, MEJORAMIENTO, Y ESPECIALIZACIÓN PROFESIONAL, PARA SERVIDORES PÚBLICOS BENEFICIARIOS DEL PODER JUDICIAL DE LA FEDERACIÓN, CON CARGO A LOS RECURSOS DISPONIBLES DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE NOVIEMBRE DE 2012.</small>
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de noviembre de 2012.
 
@@ -34,8 +34,6 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 PRIMERA.- Las presentes reglas establecen la regulación del Apoyo Económico, en materia de capacitación, mejoramiento y especialización profesional para servidores públicos beneficiarios del Poder Judicial de la Federación, con cargo a los recursos disponibles del Fondo de Apoyo a la Administración de Justicia.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 SEGUNDA.- Para efecto de las presentes Reglas, se entenderá por:
 
@@ -51,41 +49,73 @@ V. Capacitación: Estudios que se realizan para integrar y compenetrar a los ser
 
 VI. Carta Compromiso: Documento suscrito por el Beneficiario del Fondo de Apoyo a la Administración de Justicia del Poder Judicial de la Federación, en el que se compromete a cumplir con la normativa establecida para el otorgamiento del Apoyo Económico y en caso de incumplimiento, autoriza se realice la recuperación económica correspondiente;
 
-VII. Carta de No Adeudo: Documento expedido por la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia, a solicitud de parte, para (sic)
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-VIII. acreditar que el Beneficiario a quien le fue otorgado el Apoyo Económico con anterioridad, no presenta ningún adeudo, derivado esto último por el óptimo cumplimiento de sus obligaciones académicas y por el pago correspondiente, por lo que queda liberado de responsabilidades económicas con el Fondo de Apoyo a la Administración de Justicia;
+VII. Carta de No Adeudo: Documento expedido por la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia, a solicitud de parte, para acreditar que el Beneficiario a quien le fue otorgado el Apoyo Económico con anterioridad, no presenta ningún adeudo, derivado esto último por el óptimo cumplimiento de sus obligaciones académicas y por el pago correspondiente, por lo que queda liberado de responsabilidades económicas con el Fondo de Apoyo a la Administración de Justicia;
 
-IX. Comité Técnico: Comité Técnico del Fondo de Apoyo a la Administración de Justicia;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-X. Consejo: Consejo de la Judicatura Federal;
+VIII. Comité Técnico: Comité Técnico del Fondo de Apoyo a la Administración de Justicia;
 
-XI. Descuento vía nómina: Es la parte proporcional descontada por el área de recursos humanos respectiva de cada Organo del Poder Judicial de la Federación, realizada al servidor público Beneficiario por concepto de Financiamiento o en su caso recuperación de una Beca;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XII. Expediente Académico: Contenido histórico, académico y documental del servidor público Beneficiario, para el control y seguimiento del Apoyo Económico a cargo de la Dirección General de Servicios al Personal del Consejo;
+IX. Consejo: Consejo de la Judicatura Federal;
 
-XIII. Financiamiento: El préstamo que se otorga en los porcentajes que en su oportunidad determine el Comité Técnico, para la realización de estudios de los servidores públicos Beneficiarios del Poder Judicial de la Federación con cargo al Fondo de Apoyo a la Administración de Justicia;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XIV. Fondo: El Fondo de Apoyo a la Administración de Justicia del Poder Judicial de la Federación;
+X. Descuento vía nómina: Es la parte proporcional descontada por el área de recursos humanos respectiva de cada Organo del Poder Judicial de la Federación, realizada al servidor público Beneficiario por concepto de Financiamiento o en su caso recuperación de una Beca;
 
-XV. Licencia: Autorización que se emite a los servidores públicos Beneficiarios por parte del área respectiva de cada Organo del Poder Judicial de la Federación, para ausentarse temporalmente del ejercicio de sus funciones;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XVI. Lineamientos: Los Lineamientos para el Ejercicio de los Recursos Disponibles del Fondo de Apoyo a la Administración de Justicia del Poder Judicial de la Federación;
+XI. Expediente Académico: Contenido histórico, académico y documental del servidor público Beneficiario, para el control y seguimiento del Apoyo Económico a cargo de la Dirección General de Servicios al Personal del Consejo;
 
-XVII. Organos: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XVIII. Organos de Decisión: El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación; la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación; el Pleno y las Comisiones del Consejo de la Judicatura Federal, con facultades para autorizar la ejecución de proyectos;
+XII. Financiamiento: El préstamo que se otorga en los porcentajes que en su oportunidad determine el Comité Técnico, para la realización de estudios de los servidores públicos Beneficiarios del Poder Judicial de la Federación con cargo al Fondo de Apoyo a la Administración de Justicia;
 
-XIX. Pagaré: Documento suscrito por el Beneficiario a nombre del Fondo, por medio del cual garantiza la recuperación del Apoyo Económico;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XX. Programa Académico: Conjunto de actividades y estudios orientados a la formación profesional que implique el ejercicio de recursos; o el gasto específico, con cargo a los recursos disponibles del Fondo;
+XIII. Fondo: El Fondo de Apoyo a la Administración de Justicia del Poder Judicial de la Federación;
 
-XXI. Reglas: Reglas de Operación en materia de capacitación, mejoramiento, y especialización profesional para servidores públicos Beneficiarios del Poder Judicial de la Federación, con cargo a los recursos disponibles del Fondo de Apoyo a la Administración de Justicia;
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XXII. Secretaría Técnica: Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia;
+XIV. Licencia: Autorización que se emite a los servidores públicos Beneficiarios por parte del área respectiva de cada Organo del Poder Judicial de la Federación, para ausentarse temporalmente del ejercicio de sus funciones;
 
-XXIII. Suprema Corte: La Suprema Corte de Justicia de la Nación; y
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
 
-XXIV. Tribunal: Tribunal Electoral del Poder Judicial de la Federación.
+XV. Lineamientos: Los Lineamientos para el Ejercicio de los Recursos Disponibles del Fondo de Apoyo a la Administración de Justicia del Poder Judicial de la Federación;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XVI. Organos: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XVII. Organos de Decisión: El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación; la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación; el Pleno y las Comisiones del Consejo de la Judicatura Federal, con facultades para autorizar la ejecución de proyectos;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XVIII. Pagaré: Documento suscrito por el Beneficiario a nombre del Fondo, por medio del cual garantiza la recuperación del Apoyo Económico;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XIX. Programa Académico: Conjunto de actividades y estudios orientados a la formación profesional que implique el ejercicio de recursos; o el gasto específico, con cargo a los recursos disponibles del Fondo;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XX. Reglas: Reglas de Operación en materia de capacitación, mejoramiento, y especialización profesional para servidores públicos Beneficiarios del Poder Judicial de la Federación, con cargo a los recursos disponibles del Fondo de Apoyo a la Administración de Justicia;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XXI. Secretaría Técnica: Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia;
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XXII. Suprema Corte: La Suprema Corte de Justicia de la Nación; y
+
+> <small>(F. DE E., D.O.F. 21 DE NOVIEMBRE DE 2012)</small>
+
+XXIII. Tribunal: Tribunal Electoral del Poder Judicial de la Federación.
 
 TERCERA.- El Apoyo Económico otorgado a un Beneficiario estará enfocado a incrementar los conocimientos de los servidores públicos, conforme a los requerimientos que establece la función encomendada en el contexto laboral, con base en el perfil del puesto del servidor público Beneficiario y tomando en cuenta los méritos académicos del aspirante seleccionado.
 
