@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2012-07-04"
+last_updated: "2012-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1295,15 +1295,21 @@ V.- Adopción; y
 
 VI.- Declaración administrativa.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+ART. 299 BIS.- La declaración administrativa sobre presunción de paternidad se realizará conforme a lo establecido en el procedimiento contemplado en la Ley de Paternidad Responsable del Estado de Tamaulipas.
+
+Para la procedencia, inicio y prosecución del procedimiento administrativo de presunción de paternidad establecido en el presente Código, se estará sujeto a los términos que para tal efecto se establecen en la Ley de Paternidad Responsable del Estado de Tamaulipas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+ART. 299 TER.- Cuando de las constancias se desprenda fehacientemente que el menor ya ha sido registrado con anterioridad por su madre u otra persona, el oficial del Registro Civil resolverá declarando la no procedencia del reconocimiento de paternidad a favor del presunto padre, y la inscripción que se haya realizado con motivo del inicio del procedimiento sobre presunción de paternidad quedará sin efecto, y será cancelado por el Oficial haciendo las anotaciones correspondientes.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-ART. 299 BIS.- La declaración administrativa sobre presunción de paternidad se realizará conforme a lo dispuesto por la Ley de Paternidad Responsable ante el Oficial del Registro Civil correspondiente.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-ART. 299 TER.- Cuando de las constancias se desprenda fehacientemente que el menor ya ha sido registrado con anterioridad, el Oficial del Registro Civil resolverá declarando la no procedencia del reconocimiento de paternidad a favor del presunto padre, y la inscripción que se haya realizado con motivo del inicio del procedimiento sobre presunción de paternidad quedará sin efecto, y será cancelado por el Oficial.
 
 Siempre que le sean turnados al Oficial los resultados de la prueba de marcadores genéticos, resolverá declarando el reconocimiento administrativo de paternidad o bien el no reconocimiento, según los resultados de la prueba.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Contra la resolución que emita el Oficial del Registro Civil no procede recurso alguno.
 
@@ -1327,7 +1333,9 @@ I.- Que el menor ya haya sido registrado por la madre;
 
 II.- Que el menor ya haya sido reconocido por el presunto padre o por persona distinta; o
 
-III.- Que el futuro reconocido sea mayor de edad.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+III.- Que el presunto padre radique fuera del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -10024,3 +10032,9 @@ Se derogan los Capítulos III "De la Adopción" y IV "De la Adopción Plena", de
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
