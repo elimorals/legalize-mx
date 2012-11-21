@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2007-12-31"
+last_updated: "2012-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -81,7 +81,7 @@ i) Secretaría de Salud: la Secretaría de Salud en el Estado de Tamaulipas;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-j) Tribunal: El Supremo Tribunal de en el Estado de Tamaulipas; y
+j) Tribunal: El Supremo Tribunal de Justicia en el Estado de Tamaulipas; y
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -109,13 +109,19 @@ El procedimiento de inscripción del menor con los apellidos de uno o de ambos p
 
 El Oficial del Registro Civil, deberá informar a la madre o padre sobre las disposiciones legales y administrativas establecidas respecto a la declaración e inscripción de la paternidad o maternidad, así como las responsabilidades civiles y penales en que puede incurrir por señalar como tal a quien no resultare ser el padre o la madre biológica.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 5.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ella presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad ante el Oficial del Registro Civil del Municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre.
 
-1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ésta presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad en el municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre. El término para iniciar el procedimiento a que se refiere el presente artículo será de un año a partir del nacimiento del menor. La solicitud quedará sin efecto, perdiendo además la madre la posibilidad de volver a intentar por esta vía el reconocimiento de su hijo, si en un lapso de cincuenta días la parte interesada, sin causa que se estime justificada, no se presenta a dar seguimiento a su petición, archivándose consecuentemente el expediente. Si el presunto padre radica fuera del Estado de Tamaulipas, el procedimiento administrativo comprendido en esta Ley no resultará aplicable, sin perjuicio de que, en este supuesto, se oriente a la interesada sobre la opción del procedimiento judicial.
+2. El término para iniciar el procedimiento a que se refiere la presente ley será de un año a partir del nacimiento del menor.
 
-2. En ese acto el menor quedará inscrito bajo los apellidos de su madre.
+3. Si el presunto padre radica fuera del Estado de Tamaulipas, el procedimiento administrativo comprendido en esta ley no resultará aplicable, siendo ésta una causa de improcedencia, sin perjuicio de que, en este supuesto se oriente a la interesada sobre la opción del procedimiento judicial.
+
+4. Si en un lapso de cincuenta días, en cualquier estado del procedimiento, sin causa que se estime justificada, las partes no promueven ninguna acción, la solicitud quedará sin efecto, perdiendo la madre la posibilidad de volver a intentar por vía administrativa el reconocimiento de su hijo, archivándose consecuentemente el expediente.
+
+5. No obstante lo establecido en los párrafos que anteceden, el Oficial del Registro Civil deberá de registrar al menor en el acto de comparecencia de la madre, quedando inscrito bajo los apellidos de su madre.
 
 ###### ARTICULO 6.
 
@@ -159,7 +165,13 @@ c) En caso de ser positivo el resultado de las pruebas de comparativos de marcad
 
 ###### ARTICULO 16.
 
-Las acciones a que se refiere la presente ley, en relación al reconocimiento sobre la paternidad responsable, son imprescriptibles.
+El derecho a promover las acciones relativas a la filiación, reconocimiento o investigación de paternidad, distintas a las previstas en la presente ley, se ajustarán a las reglas de prescripción de la legislación civil.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTICULO 17.
+
+En todo lo relativo al procedimiento administrativo sobre presunción de paternidad, además de lo contemplado por esta ley, deberá ser observado lo previsto en el Capítulo I, del Título Quinto, del Libro Primero del Código Civil para el Estado de Tamaulipas.
 
 ### CAPITULO IV. DECLARACION ADMINISTRATIVA
 
@@ -176,6 +188,8 @@ Las acciones a que se refiere la presente ley, en relación al reconocimiento so
 ### CAPITULO V. DECLARACION DE PATERNIDAD Y REEMBOLSO DE GASTOS A FAVOR DE LA MADRE
 
 ### CAPITULO VI. DE LA PRESCRIPCIÓN
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -195,8 +209,14 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
