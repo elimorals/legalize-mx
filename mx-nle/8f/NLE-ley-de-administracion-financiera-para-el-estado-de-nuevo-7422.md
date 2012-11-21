@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2011-07-01"
+last_updated: "2012-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -539,11 +539,7 @@ La Contraloría y Transparencia Gubernamental informará al titular del Ejecutiv
 
 ###### ARTICULO 59.
 
-Los órganos de control a que se refiere este Título, estarán obligados a guardar absoluta reserva de los programas a efectuar y de los resultados obtenidos del ejercicio de sus actividades.
-
-La reserva a que se refiere el párrafo anterior no incluye los requerimientos formulados por autoridad competente en materia penal, respecto de datos, informes, documentos o resultados específicos estrictamente necesarios para dilucidar el proceso, obtenidos por los órganos de control financiero con motivo del ejercicio de sus facultades. En estos casos la información será proporcionada exclusivamente por los titulares de los órganos de control.
-
-Por acuerdo del Titular del Ejecutivo del Estado, el Secretario de Finanzas y Tesorero General del Estado podrá determinar el carácter reservado de la información y documentos que obran en los registros y sistemas contables del Estado y sus entidades paraestatales. La información y documentos reservados únicamente podrán ser proporcionados, previo acuerdo del Ejecutivo del Estado, a los órganos encargados del control de las finanzas públicas y su revisión. El personal oficial que intervenga en los diversos asuntos relativos a la aplicación de las disposiciones reguladas por esta Ley, estará obligado a guardar absoluta reserva en lo concerniente a la información y documentos a que se refiere este párrafo. La obligación de guardar esta reserva, subsistirá aún cuando el servidor público deje de tener ese carácter.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 60.
 
@@ -1660,3 +1656,7 @@ P.O. 1 DE JULIO DE 2011.
 Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entrada en vigor del presente decreto, para que los Poderes Ejecutivo, Legislativo y Judicial comiencen a planear, diseñar, elaborar, ejecutar y evaluar los presupuestos con perspectiva de equidad de género.
+
+P.O. 21 DE NOVIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
