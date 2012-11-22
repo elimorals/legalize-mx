@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-federales-429"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-06-10"
-last_updated: "2000-08-08"
+last_updated: "2012-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1973-10-08"
 ---
 # REGLAMENTO DE TRANSITO EN CARRETERAS FEDERALES
 
-REGLAMENTO DE TRANSITO EN CARRETERAS FEDERALES
+REGLAMENTO DE TRÁNSITO EN CARRETERAS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO EN CARRETERAS Y PUENTES DE JURISDICCIÓN FEDERAL, PUBLICADO EN EL D.O.F. DE 22 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 10 de junio de 1975.
 
@@ -2235,7 +2237,7 @@ El presente Reglamento entrará en vigor 30 días después de su publicación en
 
 Dado en la residencia del Poder Ejecutivo Federal a los ocho días del mes de octubre de mil novecientos setenta y tres.- El Presidente de la República, Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 7 DE NOVIEMBRE DE 1988.
 
@@ -2252,3 +2254,19 @@ D.O.F. 8 DE AGOSTO DE 2000.
 UNICAMENTE SE TRANSCRIBE EL TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL REGLAMENTO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los sesenta días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Reglamento, se abroga el Reglamento de Tránsito en Carreteras Federales, publicado en el Diario Oficial de la Federación del 10 de junio de 1975.
+
+TERCERO.- Las disposiciones administrativas en vigor se continuaran aplicando en lo que no se opongan a este Reglamento.
+
+CUARTO.- Se abroga el Instructivo para el Cumplimiento de los Artículos 533 y 536 de la Ley de Vías Generales de Comunicación, sobre Colisiones en Carreteras Federales con motivo del Tránsito de Vehículos, publicado en el Diario Oficial de la Federación el 5 de noviembre de 1979, así como todas las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+QUINTO.- El Secretario de Seguridad Pública, emitirá los formatos de Boleta de Infracción, de Amonestación Escrita, de Acta-Convenio, Dictamen Técnico de Hechos de Tránsito y de cualquier otro que se requiera para el cumplimiento de este Reglamento, mismos que se expedirán dentro de los 90 días siguientes a la publicación del presente reglamento en el Diario Oficial de la Federación.
+
+SEXTO.- Las acciones que se deriven de la aplicación del presente Reglamento, se sujetarán al presupuesto aprobado por la H. Cámara de Diputados para la Secretaría de Seguridad Pública y su Órgano Administrativo Desconcentrado Policía (sic) Federal, en el ejercicio fiscal correspondiente.
+
+SÉPTIMO.- Las menciones que en cualquier disposición se hagan respecto del Reglamento de Tránsito en Carreteras Federales, se entenderán referidas al presente Reglamento.
