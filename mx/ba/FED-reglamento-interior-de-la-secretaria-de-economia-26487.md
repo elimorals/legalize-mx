@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-26487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-22"
-last_updated: "2009-08-17"
+last_updated: "2012-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-11-19"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL D.O.F. DE 22 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2002.
 
@@ -237,7 +239,7 @@ XIII.- Las demás que le señale el Secretario o le confieran otras disposicione
 
 La Subsecretaría de Comercio Exterior coordinará y dirigirá las negociaciones comerciales internacionales, y dará seguimiento y supervisión a los acuerdos comerciales internacionales de los que México sea parte.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IV. De las Facultades del Coordinador General de Minería y del Oficial Mayor
 
@@ -313,7 +315,7 @@ XXVI.- Las demás que le señale el Secretario o le confieran otras disposicione
 
 Para los efectos de la fracción IV de este artículo, habrá un coordinador administrativo por cada Subsecretaría o equivalente y por cada unidad administrativa adscrita directamente al Secretario, en los términos del artículo 5, fracción XIV de este Reglamento; respecto al ámbito desconcentrado habrá un responsable administrativo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO V. De las Atribuciones del Secretariado Técnico de la Competitividad, de las Coordinaciones Generales, Unidades y Direcciones Generales
 
@@ -323,7 +325,7 @@ Para los efectos de la fracción IV de este artículo, habrá un coordinador adm
 
 El Secretariado Técnico de la Competitividad, las coordinaciones generales, unidades y direcciones generales, estarán a cargo de un titular, que para el ejercicio de sus atribuciones se auxiliará por los directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en este Reglamento y en el Manual General de Organización de la Secretaría, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
@@ -1547,7 +1549,7 @@ TERCERO.- Los asuntos pendientes a la entrada en vigor del presente Reglamento, 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de noviembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
 
-N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 D.O.F. 28 DE ENERO DE 2004.
 
@@ -1566,3 +1568,19 @@ TERCERO.- El cambio de denominación del Secretario Técnico de Planeación, Com
 D.O.F. 17 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Economía, publicado el 22 de noviembre de 2002 en el Diario Oficial de la Federación.
+
+TERCERO.- Las atribuciones, facultades y funciones que las disposiciones jurídicas aplicables confieren a la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, serán ejercidas directamente por el Instituto Nacional de la Economía Social. Las referencias que se hagan en las disposiciones administrativas a la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, se entenderán hechas al referido Instituto.
+
+CUARTO.- Conforme al artículo tercero transitorio, cuarto párrafo de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, se continuará aplicando el Acuerdo por el que se establece la Organización y Funcionamiento Interno de la Coordinación General del Programa Nacional de Apoyo para Empresas de Solidaridad, publicado en el Diario Oficial de la Federación el 20 de octubre de 2009, en tanto no se expida el Reglamento Interno del Instituto Nacional de la Economía Social.
+
+QUINTO.- Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia conforme a este ordenamiento.
+
+SEXTO.- Las referencias que se hagan en otros instrumentos jurídicos a las unidades administrativas que en razón del presente instrumento hayan cambiado su denominación se entenderán referidas a estas últimas.
+
+SÉPTIMO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Dependencia.
