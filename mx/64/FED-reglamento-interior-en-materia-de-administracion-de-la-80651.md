@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-en-materia-de-administracion-de-la-80651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-12"
-last_updated: "2011-04-12"
+last_updated: "2012-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-03-25"
 ---
 # REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de abril de 2011.
 
@@ -73,7 +73,9 @@ I. Comités: los Comités ordinarios de Ministros con carácter consultivo y de 
 
 II. Comité de Adquisiciones: el Comité de Adquisiciones y Servicios, Obras y Desincorporaciones de la Suprema Corte;
 
-III. Organos: la Secretaría General de Acuerdos; la Oficialía Mayor; la Subsecretaría General de Acuerdos; la Secretaría de la Presidencia; la Contraloría; la Coordinación de Compilación y Sistematización de Tesis; el Centro de Documentación y Análisis, Archivos y Compilación de Leyes; la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad; el Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de la Etica Judicial; las direcciones generales de: Recursos Humanos; Presupuesto y Contabilidad; la Tesorería; Recursos Materiales; Infraestructura Física; Tecnologías de la Información; Seguridad; Casas de la Cultura Jurídica; Asuntos Jurídicos; Comunicación y Vinculación Social; Canal Judicial; Desarrollo Interinstitucional; Atención y Servicios; Auditoría; y Responsabilidades Administrativas y de Registro Patrimonial;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+III. Organos: la Secretaría General de Acuerdos; la Oficialía Mayor; la Subsecretaría General de Acuerdos; la Secretaría de la Presidencia; la Contraloría; la Coordinación de Compilación y Sistematización de Tesis; el Centro de Documentación y Análisis, Archivos y Compilación de Leyes; la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad; el Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de la Etica Judicial; las Direcciones Generales de: Recursos Humanos e Innovación Administrativa, Presupuesto y Contabilidad, la Tesorería, Recursos Materiales, Infraestructura Física, Tecnologías de la Información, Seguridad, Casas de la Cultura Jurídica, Asuntos Jurídicos, Comunicación y Vinculación Social, del Canal Judicial, Atención y Servicios, Auditoría, y Responsabilidades Administrativas y de Registro Patrimonial; así como la Unidad de Relaciones Institucionales.
 
 IV. Pleno: el Tribunal Pleno de la Suprema Corte;
 
@@ -103,7 +105,9 @@ II. Organos Administrativos
 
 A. Oficialía Mayor.
 
-a. Dirección General de Recursos Humanos.
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+a. Dirección General de Recursos Humanos e Innovación Administrativa.
 
 b. Dirección General de Presupuesto y Contabilidad.
 
@@ -119,7 +123,7 @@ g. Dirección General de Seguridad.
 
 h. Dirección General de Casas de la Cultura Jurídica.
 
-i. Unidad de Innovación y Mejora Administrativa.
+i. (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 2012)
 
 B. Secretaría de la Presidencia.
 
@@ -129,9 +133,13 @@ b. Dirección General de Comunicación y Vinculación Social.
 
 c. Dirección General del Canal Judicial.
 
-d. Dirección General de Desarrollo Interinstitucional.
+d. (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 2012)
 
 e. Dirección General de Atención y Servicios.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+f. Unidad de Relaciones Institucionales
 
 C. Contraloría.
 
@@ -227,7 +235,9 @@ X. Aprobar las políticas de racionalidad, austeridad y disciplina presupuestal;
 
 XI. Autorizar las políticas y los mecanismos en materia de tecnología de la información y comunicación, de manera que contribuyan eficazmente a las labores jurídicas y administrativas de la Suprema Corte;
 
-XII. Interpretar las disposiciones del presente Acuerdo; y,
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XII. Interpretar las disposiciones del presente Reglamento.
 
 XIII. Las demás que le confieran las disposiciones normativas.
 
@@ -251,7 +261,9 @@ El Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Instit
 
 I. Resolver los asuntos estratégicos y de alta dirección, de carácter prioritario, que por su trascendencia, magnitud o complejidad le sean presentados en materia de publicaciones, comunicación social, difusión y relaciones institucionales;
 
-II. Aprobar los Programas Anuales de Trabajo de Publicaciones, Comunicación y Vinculación Social, de Publicaciones y de Desarrollo Interinstitucional;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+II. Aprobar los Programas Anuales de Trabajo de Publicaciones, de Comunicación y Vinculación Social, y de Relaciones Institucionales;
 
 III. Propiciar la oportuna publicación y difusión del Semanario Judicial y de las obras y trabajos que sean publicados por la Suprema Corte, a fin de que puedan ser conocidos por el público en general;
 
@@ -323,9 +335,11 @@ XV. Evaluar la operación de las direcciones generales bajo su cargo y, en su ca
 
 XVI. Las demás que le confieran las disposiciones generales aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-Los directores generales tendrán las siguientes atribuciones:
+Los directores generales y titular de unidad tendrán las siguientes atribuciones:
 
 I. Administrar los recursos humanos, materiales, tecnológicos y presupuestales que se le asignen para el cumplimiento de sus atribuciones;
 
@@ -353,7 +367,9 @@ XII. Atender las solicitudes de acceso a la información de las materias compete
 
 XIII. Suscribir y administrar los contratos de prestación de servicios, adquisiciones, arrendamientos y obra pública, celebrados para cubrir las necesidades del órgano a su cargo, avalando que los alcances del bien, obra o servicios a contratar, son precisamente los que darán satisfacción al requerimiento, así como administrar los contratos dando seguimiento a su ejecución y complimiento (sic);
 
-XIV. Suscribir los contratos de prestación de servicios profesionales subordinados asimilables a salarios que hayan sido autorizados, con el carácter de administrador del contrato, en unión con la Dirección General de Recursos Humanos, así como llevar el seguimiento y control de la ejecución y su cumplimiento;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XIV. Suscribir los contratos de prestación de servicios profesionales subordinados asimilables a salarios que hayan sido autorizados, con el carácter de administrador del contrato, en unión con la Dirección General de Recursos Humanos e Innovación Administrativa, así como llevar el seguimiento y control de la ejecución y su cumplimiento;
 
 XV. Otorgar las facilidades necesarias a la Contraloría Interna, a la Auditoría Superior de la Federación, a los despachos de auditores externos y proporcionarles la información que requieran con objeto de llevar a cabo la evaluación de la gestión del área a su cargo y de las que se le encuentran adscritas; y,
 
@@ -421,7 +437,9 @@ XXIV. Las demás que le confieran las disposiciones de observancia general aplic
 
 Para el ejercicio de sus atribuciones la Oficialía Mayor contará con los siguientes órganos:
 
-I. Dirección General de Recursos Humanos.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+I. Dirección General de Recursos Humanos e Innovación Administrativa.
 
 II. Dirección General de Presupuesto y Contabilidad.
 
@@ -433,15 +451,19 @@ V. Dirección General de Infraestructura Física.
 
 VI. Dirección General de Tecnologías de la Información.
 
-VII. Dirección General de Seguridad.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+VII. Dirección General de Seguridad, y
 
 VIII. Dirección General de Casas de la Cultura Jurídica.
 
-IX. Unidad de Innovación y Mejora Administrativa.
+IX. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
-El Director General de Recursos Humanos tendrá las siguientes atribuciones:
+El Director General de Recursos Humanos e Innovación Administrativa tendrá las siguientes atribuciones:
 
 I. Proponer, dirigir y operar los mecanismos de administración establecidos en materia de remuneraciones, sistemas de pago de sueldos y prestaciones, reclutamiento y selección de personal, así como dar seguimiento y control a los movimientos ocupacionales e incidencias del personal;
 
@@ -487,9 +509,45 @@ XXI. Coordinar los programas educativos del Centro de Desarrollo Infantil, bajo 
 
 XXII. Atender, mediante el servicio de estancia infantil, a los hijos de los trabajadores de la Suprema Corte, que asisten a la escuela primaria, en tanto sus padres concluyen el horario laboral, a través de programas estratégicos de trabajo que favorezcan el desarrollo integral de los niños;
 
-XXIII. Coordinar los servicios médicos de atención a los trabajadores de la Suprema Corte y a sus hijos inscritos en el Centro de Desarrollo Infantil y en la Estancia Infantil en términos de la normativa aplicable, y
+XXIII. Coordinar los servicios médicos de atención a los trabajadores de la Suprema Corte y a sus hijos inscritos en el Centro de Desarrollo Infantil y en la Estancia Infantil en términos de la normativa aplicable, y (sic)
 
-XXIV. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Oficial Mayor.
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXIV. Coordinar la integración de los planes estratégicos y programas anuales de trabajo, validarlos, integrarlos, llevar su seguimiento, elaborar los informes de avance respectivos y presentarlos semestralmente a la Oficialía Mayor.
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXV. Desarrollar los lineamientos e instrumentos técnicos para la integración, seguimiento y control de los planes estratégicos y programas anuales de trabajo de los órganos, que consideren elementos de sustentabilidad, con el enfoque de impulso al respeto de los derechos humanos, así como para la generación de los indicadores que permitan evaluar los resultados en su ejecución;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXVI. Formular los instrumentos técnico-normativos para la integración, actualización, dictamen, formalización, registro y difusión de las estructuras orgánico-ocupacionales, manuales de organización general y específicos, manuales de puestos y manuales de procedimientos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXVII. Emitir los dictámenes de procedencia y razonabilidad de las estructuras organizacionales, de creación o transformación de plazas, de readscripción y de ascensos de rango.
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXVIII. Analizar y evaluar el marco normativo y procedimental de la función administrativa y proponer acciones de mejora tendentes a su simplificación, sistematización o innovación, que conlleven mejores prácticas administrativas, coadyuven a la gestión jurisdiccional, favorezcan la transparencia, la rendición de cuentas, el respeto a los derechos humanos y sustentabilidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXIX. Elaborar los instrumentos metodológicos para la generación de estándares relativos a plantillas de personal, espacios físicos, mobiliario y equipamiento de oficinas y los demás bienes y servicios que sean necesarios para optimizar el aprovechamiento de los recursos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXX. Integrar y actualizar el manual de organización general de la Suprema Corte, así como validar y registrar los manuales de organización específicos y de procedimientos de los órganos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXXI. Gestionar ante la Dirección General de Tecnologías de la Información la publicación de las estructuras orgánicas y manuales administrativos de los órganos en Intranet e Internet de la Suprema Corte;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XXXII. Llevar a cabo investigaciones en temas relacionados con mejores y nuevas prácticas administrativas, con el enfoque de respeto a los derechos humanos y sustentabilidad, susceptibles de implantarse en la Suprema Corte y proponer su instrumentación, y
+
+XXXIII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Oficial Mayor.
 
 ###### Artículo 16.
 
@@ -641,7 +699,9 @@ XIII. Establecer, administrar y mantener actualizado, con carácter permanente u
 
 XIV. Proporcionar la información y, en su caso, la asesoría necesaria para el aseguramiento de los bienes inmuebles y para las reclamaciones a la aseguradora en caso de siniestros ocurridos;
 
-XV. Emitir lineamientos sobre la ocupación y aprovechamiento de espacios para uso de los órganos, con la participación que corresponda a la Unidad de Innovación y Mejora Administrativa;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XV. Emitir lineamientos sobre la ocupación y aprovechamiento de espacios para uso de los órganos, con la participación que corresponda a la Dirección General de Recursos Humanos e Innovación Administrativa;
 
 XVI. Adecuar, reasignar y distribuir los espacios y mobiliario en atención a los requerimientos que le sean realizados, previo acuerdo con el Oficial Mayor;
 
@@ -757,7 +817,9 @@ VIII. Proponer la firma de convenios de colaboración con instituciones de justi
 
 IX. Acordar con el Oficial Mayor las acciones, criterios, sistemas, procedimientos y asuntos relacionados con la ejecución del Programa de Casas de la Cultura Jurídica;
 
-X. Elaborar materiales informativos, gráficos y publicitarios para el conocimiento de la sociedad sobre las tareas del sistema de Casas de la Cultura Jurídica y de los eventos de difusión de la cultura jurídica, jurisdiccional y de respeto a los derechos humanos que dentro de la mismo (sic)se llevan a cabo, con la participación que corresponda a la Dirección General de Vinculación y Comunicación Social;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+X. Elaborar materiales informativos, gráficos y publicitarios para el conocimiento de la sociedad sobre las tareas del sistema de Casas de la Cultura Jurídica y de los eventos de difusión de la cultura jurídica, jurisdiccional y de respeto a los derechos humanos que dentro de la misma se llevan a cabo, con la participación que corresponda a la Dirección General de Comunicación y Vinculación Social;
 
 XI. Elaborar crónicas, reseñas argumentativas y sinopsis de asuntos resueltos por la Suprema Corte, así como crónicas de eventos relevantes organizados, coordinados o apoyados logísticamente por la propia Dirección General; y,
 
@@ -765,33 +827,15 @@ XII. Las demás que le confieran las disposiciones de observancia general aplica
 
 ###### Artículo 23.
 
-El titular de la Unidad de Innovación y Mejora Administrativa tendrá las siguientes atribuciones:
-
-I. Formular los instrumentos técnico-normativos para la integración, actualización, dictaminación, formalización, registro y difusión de las estructuras orgánico-ocupacionales, manuales de organización general y específicos y manuales de procedimientos;
-
-II. Elaborar los instrumentos metodológicos para la generación de estándares relativos a plantillas de personal, espacios físicos, mobiliario y equipamiento de oficinas y los demás bienes y servicios que sean necesarios para optimizar el aprovechamiento de los recursos;
-
-III. Desarrollar los lineamientos e instrumentos técnicos para la integración, seguimiento y control de los planes estratégicos y programas anuales de trabajo de los órganos que consideren elementos de sustentabilidad, con el enfoque de impulso al respeto de los derechos humanos, así como para la generación de los indicadores que permitan evaluar los resultados en su ejecución;
-
-IV. Coordinar la integración de los planes estratégicos y programas anuales de trabajo, validarlos, integrarlos, llevar su seguimiento y elaborar y presentar periódicamente los informes de avance respectivos;
-
-V. Emitir los dictámenes de procedencia y razonabilidad de las estructuras organizacionales y de creación o transformación de plazas;
-
-VI. Integrar y actualizar el manual de organización general de la Suprema Corte y Validar y registrar los manuales de organización específicos y de procedimientos de los órganos;
-
-VII. Gestionar ante la Dirección General de Tecnologías de la Información la publicación de las estructuras orgánicas y manuales administrativos de los órganos en Intranet e Internet;
-
-VIII. Analizar y evaluar el marco normativo y procedimental de la función administrativa y proponer acciones de mejora tendentes a su simplificación, sistematización o innovación que conlleven mejores prácticas administrativas, coadyuven a la gestión jurisdiccional, favorezcan la transparencia, la rendición de cuentas, el respeto a los derechos humanos y sustentabilidad;
-
-IX. Llevar a cabo investigaciones en temas relacionados con mejores y nuevas prácticas administrativas, con el enfoque de respeto a los derechos humanos y sustentabilidad, susceptibles de implantarse en la Suprema Corte y proponer su instrumentación; y,
-
-X. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Oficial Mayor.
+(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 2012)
 
 ### CAPITULO SEXTO. DE LA SECRETARIA DE LA PRESIDENCIA
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-El Secretario de la Presidencia realizará las actividades relacionadas con la atención de los asuntos jurídicos en lo consultivo y contencioso; la difusión del quehacer institucional; acciones de vinculación y comunicación social; del Canal Judicial; la atención y servicios a Ministros; las de desarrollo interinstitucional y lo relativo con la materia de transparencia y acceso a la información.
+El Secretario de la Presidencia realizará las actividades relacionadas con la atención de los asuntos jurídicos en lo consultivo y contencioso; la difusión del quehacer institucional; las acciones de comunicación y vinculación social; el Canal Judicial; la atención y servicios a Ministros; las relaciones institucionales; las audiencias, escritos y atención a la ciudadanía, y lo relacionado con la materia de transparencia y acceso a la información.
 
 ###### Artículo 25.
 
@@ -805,17 +849,29 @@ III. Suscribir los convenios marco y específicos de cooperación que aprueben l
 
 IV. Conducir la difusión del quehacer institucional de la Suprema Corte;
 
-V. Proponer al Presidente la política de información, vinculación y comunicación social de la Suprema Corte;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
 
-VI. Conducir la formulación de los programas de vinculación y comunicación social, coordinar, supervisar y evaluar su ejecución;
+V. Proponer al Presidente la política de información, comunicación y vinculación social de la Suprema Corte;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+VI. Conducir la formulación de los programas de comunicación y vinculación social, coordinar, supervisar y evaluar su ejecución;
 
 VII. Conducir la organización de eventos que contribuyan a incrementar la cultura jurídica de los comunicadores, así como de su conocimiento sobre la Suprema Corte;
 
 VIII. Dirigir acciones que en materia jurídico-consultiva y contenciosa requieran los órganos;
 
-IX. Presentar para validación del Oficial Mayor, los asuntos en el ámbito de su competencia que deban conocer los Comités; y,
+IX. Presentar para validación del Oficial Mayor, los asuntos en el ámbito de su competencia que deban conocer los Comités; y, (sic)
 
-X. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités o el Presidente.
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+X. Coordinar, dirigir y supervisar la recepción, análisis, control y trámite de las solicitudes de audiencia, escritos y demás comunicados de Jueces de Distrito, Magistrados de Circuito, servidores públicos del Poder Judicial, así como de otros poderes de la federación, particulares e instituciones privadas, que se dirijan al Presidente por la vía escrita, telefónica, personal, electrónica o por cualquier otro medio de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XI. Coordinar el servicio de atención ciudadana, en el ámbito de sus atribuciones, y
+
+XII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités o el Presidente.
 
 ###### Artículo 26.
 
@@ -827,9 +883,13 @@ II. Dirección General de Comunicación y Vinculación Social
 
 III. Dirección General del Canal Judicial
 
-IV. Dirección General de Desarrollo Interinstitucional
+IV. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2012)
 
 V. Dirección General de Atención y Servicios
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+VI. Unidad de Relaciones Institucionales.
 
 ###### Artículo 27.
 
@@ -885,9 +945,19 @@ XII. Fungir como unidad de enlace en materia de transparencia y acceso a la info
 
 XIII. Diseñar la imagen del portal de Internet y la red interna institucional, con el apoyo técnico de la Dirección General de Tecnologías de la Información, contando con la participación de los órganos en cuanto a los contenidos que deben publicarse, de conformidad con los lineamientos respectivos;
 
-XIV. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios de comunicación; y,
+XIV. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios de comunicación; y, (sic)
 
-XV. Las demás que le confieran las disposiciones generales aplicables, así como las que le sean encomendadas por el Secretario de la Presidencia.
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XV. Realizar eventos que tengan como fin la divulgación del quehacer institucional, capacitación y actualización jurisdiccional;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XVI. Dar seguimiento en los medios impresos de comunicación a las actividades del Ministro Presidente y de sus representantes, en eventos nacionales o extranjeros, y
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+XVII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Secretario de la Presidencia.
 
 ###### Artículo 29.
 
@@ -919,29 +989,7 @@ XII. Las demás que expresamente le confieran las disposiciones generales aplica
 
 ###### Artículo 30.
 
-El Director General de Desarrollo Interinstitucional tendrá las siguientes atribuciones:
-
-I. Proponer estrategias para que el acceso a la estadística judicial que genera la Suprema Corte se encuentre disponible de manera inmediata y confiable, para ponerla a disposición de cualquier peticionario que la requiera;
-
-II. Realizar las investigaciones y estudios que le sean encomendados para la mejora del sistema de impartición de justicia mexicano;
-
-III. Ejecutar las políticas de colaboración institucional que se determine en las relaciones con los Poderes Judiciales de las entidades federativas de la República Mexicana y de otros países, organizaciones internacionales, gobiernos extranjeros, así como instituciones académicas y barras o colegios de abogados nacionales y extranjeros;
-
-IV. Proponer y recibir propuestas de compromisos y acuerdos a celebrar con instituciones y organismos nacionales e internacionales;
-
-V. Coordinar las acciones con los órganos para el cumplimiento de los compromisos adquiridos en el ámbito nacional e internacional;
-
-VI. Establecer y mantener relaciones de colaboración con las áreas encargadas de las relaciones internacionales del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación, previo acuerdo del Pleno;
-
-VII. Planear y organizar las visitas oficiales a los Poderes Judiciales de otros países, así como las que se reciban en esta Suprema Corte;
-
-VIII. Elaborar proyectos de convenios marco y específicos de cooperación y dar seguimiento a su implementación;
-
-IX. Coordinar la participación de la Suprema Corte en las cumbres y reuniones internacionales de organismos jurisdiccionales y fungir como enlace;
-
-X. Llevar el registro de las participaciones de los Ministros en los diversos foros nacionales e internacionales, y,
-
-XI. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Secretario de la Presidencia.
+(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 31.
 
@@ -962,6 +1010,28 @@ VI. Recibir, organizar y entregar correspondencia externa para los Ministros Jub
 VII. Atender las peticiones de los Ministros Jubilados, ex-Ministros y las viudas de Ministros;
 
 VIII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Secretario de la Presidencia.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 31 bis. La Unidad de Relaciones Institucionales tendrá las siguientes atribuciones:
+
+I. Auxiliar al Secretario de la Presidencia en la propuesta e implementación de estrategias para que el acceso a la estadística judicial que genera la Suprema Corte; que ésta se encuentre disponible de manera inmediata y confiable. De igual forma, administrar el portal en línea Estadística @lex;
+
+II. Auxiliar al Secretario de la Presidencia en la ejecución de las políticas de vinculación y colaboración institucional con los Poderes de las entidades federativas de la República Mexicana y de otros países, organizaciones internacionales, gobiernos extranjeros, así como instituciones académicas. Salvo las que encomiende el Ministro Presidente a la Coordinación de Derechos Humanos y Asesoría de la Presidencia;
+
+III. Auxiliar al Secretario de la Presidencia en la propuesta y diagnóstico de compromisos y acuerdos a celebrar con instituciones y organismos nacionales e (sic) extranjeros, así como en la coordinación de acciones para su cumplimiento;
+
+IV. Apoyar al Secretario de la Presidencia en el establecimiento y mantenimiento de relaciones de colaboración con las áreas encargadas de las relaciones internacionales del Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
+
+V. Auxiliar al Secretario de la Presidencia en la planeación y organización de las visitas oficiales tanto nacionales como internacionales;
+
+VI. Apoyar al Secretario de la Presidencia en la elaboración de proyectos de convenios marco y específicos de cooperación y dar seguimiento a su implementación;
+
+VII. Auxiliar al Secretario de la Presidencia en la coordinación de la participación de la Suprema Corte en las cumbres y reuniones internacionales de organismos jurisdiccionales y fungir como enlace, salvo que dicha participación esté asignada a la Coordinación de Derechos Humanos y Asesoría de la Presidencia;
+
+VIII. Apoyar al Secretario de la Presidencia en el registro de las participaciones de los Ministros en los diversos foros nacionales e internacionales, y
+
+IX. Auxiliar al Secretario de la Presidencia en las demás tareas encomendadas por el Ministro Presidente.
 
 ### CAPITULO SEPTIMO. DE LA CONTRALORIA
 
@@ -1122,3 +1192,13 @@ Artículo Quinto. Publíquese en el Semanario Judicial de la Federación y su Ga
 El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- Los Ministros: Luis María Aguilar Morales, Arturo Zaldívar Lelo de Larrea.- Rúbricas.
 
 EL LICENCIADO MARIO ALBERTO TORRES LOPEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 153, FRACCION III, Y 162, FRACCION XII, DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN RELACION AL ARTICULO CUARTO TRANSITORIO, PARRAFO TERCERO, DEL ACUERDO GENERAL DE ADMINISTRACION 01/2011, DEL TRES DE ENERO DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REESTRUCTURA ORGANICA Y FUNCIONALMENTE SU ADMINISTRACION, CERTIFICA: Que esta copia del "Reglamento Interior en Materia de Administración de la Suprema Corte de Justicia de la Nación", constante de cuarenta y siete fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente. México, Distrito Federal, a veinticinco de marzo de dos mil once.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La distribución de las atribuciones de la Dirección General de Desarrollo Interinstitucional que se suprime de la estructura orgánica básica administrativa de la Suprema Corte de Justicia de la Nación, quedará formalizada a la entrada en vigor del presente Acuerdo General de Administración.
+
+TERCERO. La distribución de las atribuciones de la Unidad de Innovación y Mejora Administrativa que se suprime de la estructura orgánica básica administrativa de la Suprema Corte de Justicia de la Nación, habrá de quedar formalizada a la entrada en vigor del presente Acuerdo General de Administración.
