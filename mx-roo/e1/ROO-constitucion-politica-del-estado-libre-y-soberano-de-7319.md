@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2011-09-23"
+last_updated: "2012-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 POR EL QUE SE REFORMÓ LA CONSTITUCIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -113,7 +115,7 @@ El Estado de Quintana Roo asegura para sus habitantes el goce irrestricto de las
 
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra esta Constitución.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 13.
 
@@ -309,7 +311,7 @@ d).- Aquellos que estén intitulados a nombre de terceros, pero existan suficien
 
 III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 24.
 
@@ -457,7 +459,7 @@ La prolongación de la detención en su perjuicio será sancionada por la ley pe
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 28.
 
@@ -511,7 +513,7 @@ Las garantías previstas en las fracciones V, VII y IX también serán observada
 
 En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
@@ -525,11 +527,11 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, los azotes, los palos, el tormento de toda especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ### CAPITULO II. De las Garantías Sociales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 31.
 
@@ -663,7 +665,11 @@ Son prerrogativas de los ciudadanos del Estado de Quintana Roo:
 
 I.- Votar en las elecciones populares estatales y municipales.
 
-II.- Poder ser votado para todo cargo de elección popular teniendo las calidades que establezca la ley.
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+II.- PODER SER VOTADO PARA TODO CARGO DE ELECCIÓN POPULAR TENIENDO LAS CALIDADES QUE ESTABLEZCA LA LEY. EL DERECHO DE SOLICITAR EL REGISTRO DE CANDIDATOS ANTE LA AUTORIDAD ELECTORAL CORRESPONDE A LOS PARTIDOS POLÍTICOS ASÍ COMO A LOS CIUDADANOS QUE SOLICITEN SU REGISTRO DE MANERA INDEPENDIENTE Y CUMPLAN CON LOS REQUISITOS, CONDICIONES Y TÉRMINOS QUE DETERMINE LA LEGISLACIÓN;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
@@ -733,7 +739,7 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 ### CAPITULO I. Principios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 49.
 
@@ -743,9 +749,11 @@ El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutiv
 
 Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-La renovación de los Poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos o en coaliciones. La Ley reglamentará estas participaciones.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+LA RENOVACIÓN DE LOS PODERES LEGISLATIVO Y EJECUTIVO SE REALIZARÁ MEDIANTE ELECCIONES LIBRES, AUTÉNTICAS Y PERIÓDICAS, EN LAS QUE PODRÁN PARTICIPAR LOS PARTIDOS POLÍTICOS NACIONALES Y ESTATALES, POR SÍ MISMOS O EN COALICIONES, ASÍ COMO CANDIDATOS INDEPENDIENTES. LA LEY REGLAMENTARÁ ESTAS PARTICIPACIONES.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -791,7 +799,7 @@ La retribución que perciban los Consejeros Electorales, así como los Magistrad
 
 El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 III. Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de estos al poder público, de acuerdo con los programas, principios e ideas que postulan; su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el dos por ciento de la votación total emitida en la elección de Diputados según el principio de mayoría relativa inmediata anterior.
 
@@ -803,23 +811,27 @@ La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsab
 
 Los partidos políticos nacionales derivado de su participación en las elecciones locales gozarán de los mismos derechos y prerrogativas y tendrán las mismas obligaciones y responsabilidades dispuestos en la Ley para los partidos políticos estatales.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde, única y exclusivamente a los partidos políticos, el derecho de solicitar el registro de candidatos a cargos elección popular por ambos principios.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+LOS PARTIDOS POLÍTICOS PROMOVERÁN Y GARANTIZARÁN EN LOS TÉRMINOS QUE SEÑALE LA LEY, LA IGUALDAD DE OPORTUNIDADES Y LA EQUIDAD ENTRE MUJERES Y HOMBRES EN LA VIDA POLÍTICA DEL ESTADO, A TRAVÉS DE POSTULACIONES A CARGO DE ELECCIÓN POPULAR, TANTO DE MAYORÍA RELATIVA COMO DE REPRESENTACIÓN PROPORCIONAL. CORRESPONDE A LOS PARTIDOS POLÍTICOS EL DERECHO DE SOLICITAR EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR POR AMBOS PRINCIPIOS. LOS CIUDADANOS TENDRÁN EL DERECHO DE SOLICITAR SU REGISTRO COMO CANDIDATOS INDEPENDIENTES A CARGOS DE ELECCIÓN POPULAR ÚNICAMENTE POR EL PRINCIPIO DE MAYORÍA RELATIVA.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos tenga una representación mayor al 60 por ciento. Quedan exceptuadas las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante voto directo.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-La Ley garantizará que los partidos políticos cuenten de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación propiedad del Estado permanentemente y, accederán a la radio y la televisión, de acuerdo a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+LA LEY GARANTIZARÁ QUE LOS PARTIDOS POLÍTICOS CUENTEN DE MANERA EQUITATIVA Y GRATUITA CON ELEMENTOS PARA LLEVAR CABO SUS ACTIVIDADES, POR LO TANTO, TENDRÁN DERECHO AL USO DE LOS MEDIOS DE COMUNICACIÓN PROPIEDAD DEL ESTADO PERMANENTEMENTE Y, ACCEDERÁN A LA RADIO Y LA TELEVISIÓN, DE ACUERDO A LAS NORMAS ESTABLECIDAS POR EL APARTADO B DE LA BASE III DEL ARTÍCULO 41 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS. ADEMÁS, LA LEY SEÑALARÁ LAS REGLAS A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS Y SUS CAMPAÑAS ELECTORALES, ASÍ COMO LAS REGLAS PARA EL ACCESO DE LOS CANDIDATOS INDEPENDIENTES A DICHAS PRERROGATIVAS, A EFECTO DE QUE SE ENCUENTREN EN APTITUD DE PARTICIPAR EN LA ELECCIÓN EN LA CUAL HAYAN SIDO REGISTRADOS COMO TALES.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
 
@@ -845,7 +857,17 @@ b) El setenta por ciento restante se distribuirá según el porcentaje de la vot
 
 La Ley fijara los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos.
 
-Los partidos políticos observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso, la duración de las campañas no podrán exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando sólo se elijan diputados a la Legislatura y miembros de los Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+LA LEY TAMBIÉN ESTABLECERÁ LAS REGLAS Y LÍMITES A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LAS ACTIVIDADES DE LOS CIUDADANOS QUE OBTENGAN SU REGISTRO COMO CANDIDATOS INDEPENDIENTES DENTRO DE UN PROCESO ELECTORAL, ASÍ COMO LOS PROCEDIMIENTOS PARA EL CONTROL Y VIGILANCIA DE TODOS LOS RECURSOS CON LOS QUE CUENTEN, INCLUYENDO AQUELLOS QUE HUBIESEN UTILIZADO PARA FINANCIAR LAS ACTIVIDADES TENDENTES A OBTENER DICHO REGISTRO.
+
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES OBSERVARÁN LAS DISPOSICIONES QUE SE ESTABLEZCAN PARA LAS PRECAMPAÑAS Y CAMPAÑAS ELECTORALES; EN TODO CASO LA DURACIÓN DE LAS CAMPAÑAS NO PODRÁN EXCEDER DE NOVENTA DÍAS PARA LA ELECCIÓN DE GOBERNADOR, NI DE SESENTA DÍAS CUANDO SÓLO SE ELIJAN DIPUTADOS A LA LEGISLATURA Y MIEMBROS DE LOS AYUNTAMIENTOS; LAS PRECAMPAÑAS NO PODRÁN DURAR MÁS DE LAS DOS TERCERAS PARTES DEL TIEMPO PREVISTO PARA LAS CAMPAÑAS.
 
 La Ley establecerá las sanciones en caso de incumplimiento de los supuestos previstos en la presente base.
 
@@ -871,9 +893,11 @@ VI.- La Ley respectiva tipificará los delitos y determinará las faltas y respo
 
 VII.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse;
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VIII.- La propaganda impresa deberá ser reciclable y deberá elaborarse con materiales reciclados o biodegradables que no contengan sustancias tóxicas ni materiales que produzcan riesgos a la salud de las personas. Los partidos políticos y coaliciones estarán obligados a retirar su propaganda y llevarla a un centro de reciclaje.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- LA PROPAGANDA IMPRESA DEBERÁ SER RECICLABLE Y DEBERÁ ELABORARSE CON MATERIALES RECICLADOS O BIODEGRADABLES QUE NO CONTENGAN SUSTANCIAS TÓXICAS NI MATERIALES QUE PRODUZCAN RIESGOS A LA SALUD DE LAS PERSONAS. LOS PARTIDOS POLÍTICOS Y COALICIONES, ASÍ COMO CANDIDATOS INDEPENDIENTES, ESTARÁN OBLIGADOS A RETIRAR SU PROPAGANDA Y LLEVARLA A UN CENTRO DE RECICLAJE.
 
 ###### ARTICULO 50.
 
@@ -1051,7 +1075,7 @@ Incurran en responsabilidad y se harán acreedores a las sanciones que la Ley se
 
 También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros electos no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 66.
 
@@ -1223,7 +1247,7 @@ XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
 XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Órgano de Fiscalización Superior del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada a más tardar el 5 de abril posterior al año del ejercicio fiscal que corresponda.
 
@@ -1333,7 +1357,7 @@ XIII.- Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEXTA. De la Fiscalización del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 77.
 
@@ -1355,7 +1379,7 @@ Para ser Titular del Órgano de Fiscalización Superior del Estado, se requiere 
 
 La Legislatura del Estado, al elegir al Titular del Órgano de Fiscalización Superior, elegirá un titular suplente, en los términos previstos en los dos párrafos anteriores, quien cubrirá las ausencias o falta (sic) definitivas del Titular del Órgano de Fiscalización del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
@@ -1365,7 +1389,7 @@ I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos
 
 También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los usuarios del sistema financiero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 5 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
@@ -1619,7 +1643,7 @@ XII.- Mejorar las condiciones Económicas y sociales de vida de los campesinos f
 
 XIII.- Las demás que señalen esta Constitución y sus leyes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 1981)</small>
 
 #### SECCION PRIMERA. Del Presidente Municipal
 
@@ -1655,7 +1679,7 @@ El Presidente de la Comisión de Derechos Humanos del Estado de Quintana Roo, qu
 
 El Titular del citado Organismo presentará anualmente a la Legislatura en funciones un informe de actividades. Al efecto comparecerá ante la Comisión correspondiente en los términos que disponga la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 95.
 
@@ -1679,7 +1703,7 @@ Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 96.
 
@@ -1729,7 +1753,7 @@ El Pleno del Tribunal se integrará solamente con los Magistrados Numerarios, co
 
 Las Salas se organizarán por materia o por circuito, y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 99.
 
@@ -1815,7 +1839,7 @@ En los recesos de la Legislatura, la Diputación Permanente hará el nombramient
 
 Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1893,7 +1917,7 @@ La admisión de una acción de inconstitucionalidad no dará lugar a la suspensi
 
 Las resoluciones del Pleno del Tribunal Superior de Justicia solo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por cuando menos las dos terceras partes del Pleno, y no tendrán efectos retroactivos, salvo en materia penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:
 
@@ -1961,7 +1985,7 @@ En comisiones ejercerá las funciones de administración, carrera judicial, disc
 
 Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la ley orgánica y en su reglamento interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ### CAPITULO II. De la Hacienda Pública
 
@@ -2915,7 +2939,7 @@ IV. Subdelegaciones.
 
 La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones, así como las atribuciones y las formas de elección o designación y remoción de los titulares de los órganos auxiliares del Gobierno Municipal en cada una de ellas, serán determinados por cada Ayuntamiento, en términos de la Ley de la Materia.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO IV. De las Funciones y Servicios Públicos
 
@@ -2945,7 +2969,7 @@ II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, 
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 135.
 
@@ -2964,6 +2988,12 @@ II. El Partido Político que obtenga mayoría de votos acreditará a sus miembro
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
 III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los (sic) menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
+
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+
+IV. LA LEY ESTABLECERÁ LOS TÉRMINOS Y REQUISITOS QUE DEBERÁN SATISFACER LOS CIUDADANOS QUE PRETENDAN SER REGISTRADOS COMO CANDIDATOS INDEPENDIENTES A LOS AYUNTAMIENTOS.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3025,7 +3055,7 @@ Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayunta
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 143.
 
@@ -3055,7 +3085,7 @@ EN TODO CASO, el Concejo Municipal se constituirá en una estructura igual a la 
 
 La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan y se respete la garantía de legalidad.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO V. De la Hacienda Pública
 
@@ -3071,7 +3101,7 @@ Los Ayuntamientos, tendrán facultades para formular, aprobar y publicar, de acu
 
 Conforme al artículo anterior, la Ley establecerá las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; asimismo, las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO VI. Desarrollo Urbano
 
@@ -3145,7 +3175,7 @@ En la Ley o en el convenio se preverá la correspondiente transferencia de medio
 
 La Legislatura del Estado emitirá las normas que establezcan los procedimientos mediante los cuales, la misma resolverá los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los artículos del 148 al 151 y artículo 153 fracción III inciso a) párrafo segundo de la presente Constitución.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO VII. Seguridad Pública
 
@@ -3157,7 +3187,7 @@ Los Municipios administrarán libremente su hacienda conforme a las siguientes b
 
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 15 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
 
@@ -3199,7 +3229,7 @@ La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras 
 
 Los bienes del dominio público municipal son inalienables, imprescriptibles e inembargables, y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de los miembros del Ayuntamiento en los términos y procedimientos que señale la Ley; la misma Ley determinará cuales tienen ese carácter.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO VIII. Relaciones Laborales
 
@@ -3243,7 +3273,7 @@ Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la m
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios, para hacer efectivas las atribuciones señaladas en el presente capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
@@ -3261,7 +3291,7 @@ El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde
 
 Los cuerpos de Seguridad Pública y Tránsito de los Municipios coordinarán sus actividades con los correspondientes organismos del Estado y la Federación, en el marco de los Sistemas Nacional y Estatal de Seguridad Pública, conforme a los convenios que al efecto se suscriban.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
@@ -3275,7 +3305,7 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 ## TITULO SEPTIMO. De los Municipios
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
@@ -3287,7 +3317,7 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Consejeros de la Judicatura del Poder Judicial, Magistrados de los Tribunales Unitarios, Jueces de Fuero Común, al Titular del Órgano de Fiscalización Superior, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
@@ -3463,7 +3493,7 @@ Diputado Presidente: Pedro Joaquín Coldwell. Diputado Vicepresidente: Gilberto 
 
 Por tanto para que se imprima, circule y publique por bando solemne en todo el Estado de Quintana Roo, y para su debido cumplimiento y observancia expido el presente Decreto en la residencia del Poder Ejecutivo del Estado de Quintana Roo, a los once días del mes de enero de mil novecientos setenta y cinco. El Gobernador Provisional del Estado de Quintana Roo: David Gustavo Gutiérrez Ruiz.- Rúbrica.- El Secretario General de Gobierno: Dionisio Vera Casanova.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 10 DE NOVIEMBRE DE 1977.
 
@@ -4236,3 +4266,11 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 POR EL QUE SE REFORMÓ LA CONSTITUCIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+P.O. 22 DE NOVIEMBRE DE 2012.
+
+PRIMERIO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
