@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-10-26"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -235,9 +235,13 @@ XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan 
 
 XX.- Inculcar los conceptos y principios fundamentales de la prevención de riesgos y accidentes, la educación vial, así como la protección civil y su importancia para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
 
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+XXI.- Promover el uso responsable y seguro de Internet y las redes sociales digitales; y
+
 > <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-XXI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -1550,3 +1554,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- La integración de la educación vial a los planes y programas de estudio, será analizada por el sistema educativo estatal para su valoración e inclusión al nivel y grado académico que se determine por el personal educativo especializado.
 
 TERCERO.- El Poder Ejecutivo del Estado, enviará en tiempo y forma a la Secretaría de Educación Pública, la inclusión de los contenidos educativos en materia de "educación vial" para su adición a los planes y programas de estudio del año 2013.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado realizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo a las presentes Reformas de Ley.
