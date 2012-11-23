@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-603
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-15"
-last_updated: "2012-09-29"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE SEPTIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de marzo de 2008.
 
@@ -1231,11 +1229,15 @@ P.O. 18 DE AGOSTO DE 2012.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. El Congreso del Estado, procederá en un plazo máximo de noventa días naturales a partir de la entrada en vigor del presente Decreto a elegir a los Consejeros que integrarán la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Por esta única ocasión, los Consejeros serán electos para cumplir un periodo de cinco, seis y siete años respectivamente a efecto de cumplir con la sustitución escalonada prevista en el artículo 114 de la Constitución Política del Estado libre y Soberano de Oaxaca.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+SEGUNDO. El H. Congreso del Estado, procederá en un plazo máximo de ciento diez días hábiles a partir de la entrada en vigor del presente Decreto a elegir a los Consejeros que integrarán la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Por esta única ocasión, los Consejeros serán electos para cumplir un periodo de cinco, seis y siete años respectivamente a efecto de Cumplir con la sustitución escalonada prevista en el Artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 Los actuales Comisionados del Instituto Estatal de Acceso a la Información Pública, que en virtud del presente Decreto concluyen sus funciones, tendrán derecho en términos del párrafo segundo del artículo noveno transitorio del decreto 397 del 6 de abril del 2011, de la Sexagésima Primera Legislatura, a participar en el proceso de designación de los nuevos consejeros de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
-TERCERO. El Congreso del Estado procederá en un plazo máximo de noventa días naturales, a integrar el Consejo Consultivo Ciudadano de conformidad con el procedimiento que la Ley establece.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+TERCERO. El H. Congreso del Estado procederá en un plazo máximo de ciento diez días hábiles a integrar el Consejo Consultivo Ciudadano de conformidad con el procedimiento que la Ley establece.
 
 Para cumplir con los fines del artículo 84 de esta Ley, por única vez se deberán designar a los integrantes del Consejo Consultivo Ciudadano, por periodos diferenciados de uno, dos, tres, cuatro y cinco años.
 
@@ -1248,3 +1250,7 @@ La Comisión preverá en su presupuesto, los gastos de operación indispensables
 QUINTO. El Reglamento Interior de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales será expedido por su Consejo General dentro de los dos meses siguientes a la instalación del propio Consejo, y deberá ser publicado en el Periódico Oficial del Estado.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Gobierno del Estado.
