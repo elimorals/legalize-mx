@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-10-04"
+last_updated: "2012-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3187,7 +3187,9 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 
 133.- La privación de derechos civiles o políticos prescribirá en veinte años.
 
-134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
@@ -5804,6 +5806,10 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
 
 TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### Artículo 10.
 
