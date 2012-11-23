@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-acceso-a-la-informacion-publica-del-56112"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-29"
-last_updated: "2007-06-29"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO PARA ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO PARA ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 23 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 29 de junio de 2007.
 
@@ -502,3 +504,13 @@ MEXICALI, BAJA CALIFORNIA A TRECE DE JUNIO DEL AÑO DOS MIL SIETE.
 LIC. LEONOR IMELDA MÁRQUEZ FIOL
 
 SECRETARIA GENERAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Acceso a la Información Pública del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, publicado en el Periódico Oficial del Estado, número 27, Tomo CXIV, de fecha 29 de junio de 2007.
+
+TERCERO.- Para efectos del registro correspondiente a que se refiere el artículo 43 de la Ley, notifíquese al Órgano Garante la integración del Comité una vez que éste se haya instalado formalmente.
