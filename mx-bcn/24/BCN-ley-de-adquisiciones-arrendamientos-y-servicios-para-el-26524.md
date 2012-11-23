@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2012-05-25"
+last_updated: "2012-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -152,6 +152,10 @@ Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretar
 ###### ARTÍCULO 9.
 
 En materia de adquisiciones, arrendamientos y servicios, los titulares de las dependencias y entidades observarán los criterios de modernización y desarrollo administrativo que establezca la unidad administrativa.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+En la selección, adquisición y arrendamiento de los equipos de computación, relacionados con el Sistema Estatal de Informática, los titulares de las dependencias y entidades, tendrán la obligación de incluir las especificaciones técnicas relacionadas a las soluciones tecnológicas que impidan el acceso de cualquier persona a sitios de Internet con contenido sexual o erótico, no educativo.
 
 ###### ARTÍCULO 10.
 
@@ -1120,3 +1124,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.
 
 TERCERO.- Hasta en tanto se modifique el Reglamento, las Secretarías de Planeación y Finanzas; y de Desarrollo Económico, podrán emitir las disposiciones de carácter general que consideren necesarias para la aplicación del presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.
