@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2012-06-01"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -101,31 +101,49 @@ III.- Una educación que desarrolle íntegramente su personalidad, en los térmi
 
 IV.- La salud. Para salvaguardar este derecho, el Estado y los municipios deberán brindar el servicio y la atención médica, hospitalaria y de medicación en las instituciones de asistencia social que tengan para tal efecto. El servicio será gratuito cuando el menor sea derechohabiente de alguna institución de seguridad social o la situación socioeconómica de quienes lo tengan bajo su cuidado, no les permita solventarlo;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-V.- Protección contra cualquier forma de explotación, agresión o maltrato, actos u omisiones que puedan afectar su salud física o mental y su normal desarrollo. Las normas establecerán las formas de prever y evitar estas conductas. Enunciativamente, se les protegerá cuando se vean afectados por el descuido, la negligencia, el abandono, el abuso emocional, físico y sexual.
+V.- Ser protegido en contra de cualquier forma de explotación, agresión o maltrato, actos u omisiones que puedan afectar su salud física o mental y su normal desarrollo, tales como el uso de drogas y enervantes, secuestro, pornografía, corrupción de menores y trata de personas. Las normas establecerán las formas de prever y evitar estas conductas. Enunciativamente, se les protegerá cuando se vean afectados por el descuido, la negligencia, el abandono, el abuso emocional, físico y sexual.
 
 Para efectos de lo anterior, el Estado y los municipios en el ámbito de su competencia, deberán establecer programas tendientes a la prevención, detección y denuncia de abusos en contra de menores, así como de apoyo a favor de las víctimas y sus familiares;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+VI.- Ser protegido de toda solicitud que de manera directa, vía informática, audiovisual, virtual, de imágenes o sonidos propios, o de terceros menores de edad con contenido sexual o erótico, no educativo, explícito o no, reales o simuladas, que atenten contra su sano desarrollo.
+
+Para garantizar lo anterior, el Estado y los municipios dentro de su esfera competencial, establecerán programas enfocados a la prevención, detección y denuncia de abusos en contra de menores, así como de apoyo a favor de las víctimas y sus familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+VII.- Ser protegido mediante la restricción de acceso a sitios de Internet con contenido sexual no educativo, a fin de evitar que sean objeto de las solicitudes que señala la fracción anterior y que puedan ser utilizadas para fines sexuales.
+
+El Estado y los municipios como garantes de este derecho de los menores, dispondrán que los equipos de cómputo que se utilicen en las oficinas públicas, los centros educativos oficiales, así como en las instituciones particulares con autorización o reconocimiento oficial de validez de estudios, cuenten inexcusablemente con las soluciones tecnológicas adecuadas para impedir el acceso a los sitios de internet de contenido sexual o erótico, no educativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- Ser protegido en contra de la pornografía impresa que se publicita de manera abierta y sin la cubierta necesaria, dejándola a la vista y alcance de los menores sin restricción alguna, en los distintos lugares dedicados a su comercialización, venta y distribución de este tipo de producciones, que de igual manera atentan contra el sano desarrollo de los menores.
+
+Para asegurar lo anterior, el Estado y los municipios en el ámbito de sus respectivas competencias, deberán formular los programas necesarios para prevenir, detectar y atender las denuncias de este tipo de abusos en contra de menores, dictando al efecto, las medidas que estime pertinentes;
+
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VI.- Recibir cuidados, educación y asistencia especiales y adecuados en los casos de discapacidad física o mental, o con algún tipo de trastorno del desarrollo, de acuerdo a los recursos de sus padres o demás personas que los tengan a su cargo y, en su caso, del Estado o municipio correspondiente que le permitan un desarrollo integral;
+IX.- Recibir cuidados, educación y asistencia especiales y adecuados en los casos de discapacidad física o mental, o con algún tipo de trastorno del desarrollo, de acuerdo a los recursos de sus padres o demás personas que los tengan a su cargo y, en su caso, del Estado o municipio correspondiente que le permitan un desarrollo integral;
 
-VII.- La libre expresión de sus ideas y opinión en todos los asuntos que lo afecten o beneficien, cuyo ejercicio se efectuará conforme a la evolución de sus facultades edad y madurez;
+X.- La libre expresión de sus ideas y opinión en todos los asuntos que lo afecten o beneficien, cuyo ejercicio se efectuará conforme a la evolución de sus facultades edad y madurez;
 
-VIII.- El descanso y acceso a actividades recreativas y culturales propias de su edad;
+XI.- El descanso y acceso a actividades recreativas y culturales propias de su edad;
 
-IX.- Recibir alimentos de quienes tienen el deber de otorgárselos;
+XII.- Recibir alimentos de quienes tienen el deber de otorgárselos;
 
-X.- Su integración a un núcleo familiar;
+XIII.- Su integración a un núcleo familiar;
 
-XI.- Recibir particularmente de quienes ejerzan la patria potestad, tutela o custodia un trato digno y humano, para desarrollarse en un ambiente de afecto, seguridad moral y material y en general gozar de las condiciones necesarias para su estabilidad emocional y adecuado desarrollo físico y mental, que lo preparen para una vida independiente en sociedad;
+XIV.- Recibir particularmente de quienes ejerzan la patria potestad, tutela o custodia un trato digno y humano, para desarrollarse en un ambiente de afecto, seguridad moral y material y en general gozar de las condiciones necesarias para su estabilidad emocional y adecuado desarrollo físico y mental, que lo preparen para una vida independiente en sociedad;
 
-XII.- Contar con la protección legal y cuidados especiales que requiera, tanto antes como después de su nacimiento, que lo coloquen en igualdad de oportunidades, con el objeto de lograr su pleno desarrollo;
+XV.- Contar con la protección legal y cuidados especiales que requiera, tanto antes como después de su nacimiento, que lo coloquen en igualdad de oportunidades, con el objeto de lograr su pleno desarrollo;
 
-XIII.- Recibir del Estado la protección y tutela en los casos en que peligren, se vean afectados sus derechos o se encuentre en estado de vulnerabilidad; y,
+XVI.- Recibir del Estado la protección y tutela en los casos en que peligren, se vean afectados sus derechos o se encuentre en estado de vulnerabilidad; y,
 
-XIV.- Gozar de todos los derechos y garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como las demás leyes estatales y federales.
+XVII.- Gozar de todos los derechos y garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como las demás leyes estatales y federales.
 
 ###### ARTÍCULO 6.
 
@@ -772,3 +790,9 @@ P.O. 28 DE OCTUBRE DE 2011.
 P.O. 1 DE JUNIO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado realizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo a las presentes Reformas de Ley.
