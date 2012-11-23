@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-527-del-notariado-del-estado-de-veracruz-de-66455"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-29"
-last_updated: "2009-01-29"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2009
 
@@ -1391,7 +1391,9 @@ VI. Integrar expedientes de las Notarías y de los Notarios en lo que correspond
 
 VII. Autorizar los libros que constituirán el protocolo cerrado, verificar la razón del cierre de éstos y de los del protocolo abierto;
 
-VIII. Practicar las inspecciones y visitas a las Notarías, ordenadas por el Ejecutivo o por la Secretaría;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Ordenar y practicar visitas de inspección a las Notarías, así como practicar las ordenadas por el Ejecutivo o por la Secretaría;
 
 IX. Integrar y operar el registro de avisos de disposiciones testamentarias y poderes notariales;
 
@@ -1449,41 +1451,69 @@ III. Directorio general de Notarios y Notarías.
 
 ### CAPÍTULO TERCERO. DE LA SUPERVISIÓN NOTARIAL
 
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 162.
 
-El Ejecutivo, por conducto de la Secretaría, vigilará el correcto ejercicio de la función notarial y ordenará a la Dirección General la práctica de visitas de inspección a las Notarías, cuando lo considere necesario para conocer su funcionamiento o cuando exista denuncia o queja fundada de que no ajustan sus actos a las disposiciones legales aplicables al ejercicio del Notariado.
+El Ejecutivo vigilará el correcto ejercicio de la función notarial. Para esos efectos, la Secretaría o la Dirección General podrán ordenar la práctica de visitas de inspección a las Notarías, cuando lo considere necesario para conocer su funcionamiento o cuando exista denuncia o queja fundada de que no ajustan sus actos a las disposiciones legales aplicables al ejercicio del Notariado.
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 163.
 
-La Secretaría ordenará a la Dirección General la práctica de visitas generales de inspección, que deberán practicarse por lo menos una vez al año; y especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un Notario ha incurrido en una probable contravención de la Ley.
+La Secretaría, así como la Dirección General son autoridades competentes para ordenar la práctica de visitas generales de inspección a las Notarías, que deberán practicarse por lo menos una vez al año; y la práctica de visitas especiales, cuando tengan conocimiento, por queja o por cualquier otro medio, de que un Notario ha incurrido en una probable contravención de la Ley.
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 164.
 
-Las visitas de inspección se regirán por lo siguiente:
+Las visitas de inspección se practicarán, previa orden de autoridad competente, conforme a las reglas siguientes:
 
-I. Previo mandamiento escrito debidamente fundado y motivado, en el que se expresará:
+I. La Secretaría o la Dirección General emitirán el oficio de orden de visita que deberá expresar:
 
-a). El nombre y número del Notario;
+a) El nombre y número del Notario al que se dirige y el lugar en que deba practicarse;
 
-b). El nombre del inspector o inspectores designados que deban efectuar la inspección;
+b) El nombre del inspector o inspectores que practicarán la diligencia, quienes se podrán sustituir, aumentar o reducir en cualquier tiempo por la autoridad que expidió la orden, de lo cual se notificará al Notario visitado;
 
-c). El lugar, día y hora en que ha de verificarse;
+c) El lugar, día y hora en que ha de verificarse la inspección y su duración; y
 
-d). El tipo de inspección a realizarse; y
+d) El tipo de inspección a realizarse.
 
-e). La visita se realizará en el lugar señalado en el mandamiento.
+II. La visita se realizará en el lugar señalado en la orden y se entenderá con el Notario visitado. En caso de no encontrarse al Notario, se le dejará citatorio para que esté presente al día siguiente hábil, en el que se indicará el día y la hora en que se efectuará la visita de inspección. En el supuesto de que el Notario no atienda al citatorio, la diligencia se entenderá con la persona encargada de la Notaría en ese momento, a quien se le mostrará y entregará la orden escrita que autorice la inspección; en este caso, la visita iniciará al día siguiente hábil al señalado en la orden;
 
-II. Los inspectores entregarán la orden al Notario, o si no estuviere presente, a quien se encuentre en el lugar en que deba practicarse la diligencia. Al iniciarse la inspección, el inspector o inspectores que en ella intervengan se deberán identificar ante el Notario o la persona con quien se entienda la diligencia, con credencial o documento vigente expedido por autoridad administrativa que los acredite para desempeñar su función.
+III. Al iniciar la visita, los inspectores deberán exhibir, para su identificación, credencial vigente con fotografía, expedida por la autoridad que los acredite para desempeñar dicha facultad, así como el oficio de orden de visita, dirigido al Notario, del que deberán entregar el original a la persona con quien entiendan la visita. Las personas designadas para efectuar la visita podrán practicarla en forma conjunta o separada;
 
-III. El Notario o la persona con quien se entienda la diligencia, será requerido por los inspectores para que nombre a dos testigos que intervengan en la diligencia; si éstos no son nombrados o los señalados no aceptan servir como tales, los inspectores los designarán. Los testigos podrán ser sustituidos por motivos debidamente justificados, en cualquier tiempo, siguiendo las mismas reglas para su nombramiento.
+IV. Los inspectores designados por la autoridad levantarán acta circunstanciada de sus actuaciones en presencia de dos testigos, para lo cual requerirán al Notario o a la persona con quien entiendan la diligencia, que los designe; pero si éste no lo hiciere o los designados no aceptaren serlo, los inspectores nombrarán a quienes fungirán con esa calidad, haciendo constar esta circunstancia en el acta que levanten;
 
-IV. El Notario o la persona con quien se entienda la diligencia, está obligado a permitir a los inspectores al acceso al lugar de la visita, así como poner a la vista la documentación y objetos relacionados con la función notarial que le requieran. Los inspectores harán constar en el acta que al efecto se levante, todas y cada una de las circunstancias, hechos u omisiones que se hayan observado en la diligencia.
+V. Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer al lugar donde se realice la visita, por ausentarse antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En cualquiera de estas circunstancias, el Notario o la persona con quien se entienda la visita deberá designar de inmediato a otros testigos y, ante la negativa o imposibilidad de los designados, los inspectores nombrarán a quienes deban sustituirlos;
 
-V. El Notario o la persona con quien se entienda la diligencia y los inspectores firmarán el acta, así como quienes hayan intervenido en la misma. Un ejemplar legible del documento se entregará al Notario o a la persona con quien se entienda la diligencia. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el referido documento, sin que esta circunstancia afecte la validez del acta o de la diligencia practicada.
+VI. El Notario o la persona con quien se entienda la visita estará obligado a permitir a los inspectores designados por la autoridad ordenadora, el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición los libros, registros, sistemas y demás documentos que contengan información sobre la función notarial objeto de la inspección, los cuales serán examinados en el domicilio visitado. Los inspectores podrán solicitar y obtener copia de dichos documentos. En el acta que al efecto se levante, los inspectores harán constar todas y cada una de las circunstancias, hechos u omisiones que se hayan observado durante la diligencia. En caso de encontrarse irregularidades que sean presuntamente violatorias de las disposiciones legales que regulan el ejercicio de la función notarial, las asentarán en el acta, haciendo mención del precepto y ordenamiento legal previsiblemente transgredido;
 
-VI. El Notario o la persona con quien se entienda la inspección, podrá formular observaciones en la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en ella o en el acta de la misma; o bien, el Notario podrá hacer uso de ese derecho por escrito, dentro del término de cinco días hábiles siguientes a la fecha en que se hubiera levantado el acta.
+VII. El Notario o la persona con quien se entienda la inspección, podrá formular alegatos y ofrecer pruebas en relación a los hechos u omisiones asentados en el acta por los inspectores; también, el Notario podrá hacer uso de ese derecho, mediante escrito que podrá presentar ante la Dirección General dentro del plazo de cinco días hábiles, contados a partir de la fecha de cierre del acta de visita;
 
-VII. Si la inspección fuere general, el Notario deberá ser notificado por lo menos con setenta y dos horas de anticipación; y con cuarenta y ocho horas tratándose de inspección especial; se podrá inclusive llevar a cabo tal notificación por correo registrado con acuse de recibo.
+VIII. En las actas circunstanciadas se hará constar:
+
+a) Nombre y número del Notario;
+
+b) Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+c) Lugar en el que se practique la diligencia;
+
+d) Autoridad emisora del oficio de orden de visita que la motivó;
+
+e) Nombre y cargo de la persona con quien se entendió la diligencia, y los documentos con los que se identifica;
+
+f) Nombre, domicilio y documentos con que se identificaron los inspectores y las personas que fungieron como testigos;
+
+g) Documentación que fue solicitada al Notario o persona que atendió la visita y la que fue entregada por ésta a los inspectores; y
+
+h) Los hechos u omisiones observados por los inspectores y, en su caso, los alegatos y pruebas del Notario o persona con la que se entendió la diligencia con relación a los hechos u omisiones asentados en el acta.
+
+IX. Las actas, así como las declaraciones, manifestaciones o hechos en ella contenidos, harán prueba plena en términos de ley;
+
+X. A juicio de los inspectores, o por petición del Notario visitado, el levantamiento del acta podrá suspenderse y reanudarse tantas veces como sea necesario. El acta será firmada por los que intervengan en la diligencia y se dejará copia de ella al Notario o persona con quien se entendió la visita; y
+
+XI. Si al cierre del acta la persona con quien se entendió la diligencia o los testigos se negaren a firmarla, o aquélla se negare a aceptar copia de la misma, esta circunstancia también se asentará en la propia acta, sin que afecte su validez y valor probatorio, dándose por concluida la visita.
 
 ###### Artículo 165.
 
@@ -1525,9 +1555,11 @@ Tratándose de inspecciones especiales, el acta se levantará por duplicado, un 
 
 Si el instrumento motivo de la inspección especial se encuentra en la Dirección General, ésta se realizará en esa oficina, para cuyo efecto se notificará al Notario para que esté presente en ese lugar.
 
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 169.
 
-El inspector, en un plazo no mayor de setenta y dos horas posteriores a la inspección general o especial, entregará el acta y sus anexos a la Dirección General, la que procederá conforme a sus atribuciones.
+Practicadas las diligencias de inspección y levantada el acta correspondiente, los inspectores, dentro de los tres días hábiles siguientes, harán entrega de las actuaciones a la Dirección General, la que, después de analizarlas, conjuntamente con los alegatos y pruebas presentados por el Notario, elaborará el proyecto de resolución del procedimiento de inspección, en el que, en su caso, se determine la existencia de infracciones a la legislación de la materia y se aplique la sanción correspondiente, para firma, según corresponda, del Ejecutivo, del Secretario o del Director General. En caso de que los alegatos y pruebas aportados por el Notario desvirtúen las irregularidades encontradas, se emitirá una resolución en ese sentido. Cualquiera que sea el sentido de la resolución, deberá ser emitida dentro de los cuarenta y cinco días hábiles siguientes a la fecha en que el Notario presente el escrito de pruebas y alegatos, o de que venza el plazo que tiene para presentarlo.
 
 ###### Artículo 170.
 
@@ -1712,3 +1744,13 @@ Lic. Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 584 QUE REFORMA LOS ARTÍCULOS 160, 162, 163, 164 Y 169 DE LA LEY DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
