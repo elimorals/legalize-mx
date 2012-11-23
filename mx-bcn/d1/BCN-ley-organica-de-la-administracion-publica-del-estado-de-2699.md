@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2012-10-05"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -135,9 +135,13 @@ El Gobernador del Estado expedirá el Reglamento Interno de cada Dependencia del
 
 El Gobernador del Estado autorizará al Titular de cada Dependencia a expedir los manuales de organización, procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener la información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, de acuerdo con el presupuesto que se le asigne y las normas generales de administración interna que se establezcan. Los manuales y demás instrumentos de apoyo administrativo, deberán mantenerse permanentemente actualizados.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 12.
 
 Los Titulares de las Dependencias del Ejecutivo a que se refiere esta Ley, formularán los Anteproyectos de Ley, Reglamentos, Decretos y Acuerdos del Gobernador cuyas materias correspondan a sus atribuciones y funciones y las remitirán al Ejecutivo a través de la Secretaría General de Gobierno.
+
+Las Dependencias de la Administración Pública Centralizada tiene (sic) la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### ARTICULO 13.
 
@@ -2072,6 +2076,10 @@ CUARTO: Las presentes reformas entrarán en vigor el día primero de enero del a
 P.O. 5 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+ÚNICO: Las presentes Reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
