@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-premio-estatal-de-ciencia-y-tecnologia-34520"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2004-10-15"
+last_updated: "2012-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DEL PREMIO ESTATAL DE CIENCIA Y TECNOLOGIA
 
-REGLAMENTO DEL PREMIO ESTATAL DE CIENCIA Y TECNOLOGIA
+REGLAMENTO DEL PREMIO ESTATAL DE CIENCIA Y TECNOLOGÍA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 24 de octubre de 2003.
 
@@ -47,9 +47,13 @@ Las disposiciones del presente Reglamento tienen por objeto establecer las bases
 
 Para los efectos de este Reglamento se entenderá por:
 
-I.- COCYT: Al Consejo Estatal de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-II.- LEY: A la Ley de Fomento a la Ciencia y la Tecnología del Estado de Baja California
+I.- COCIT: Al Consejo Estatal de Ciencia e Innovación Tecnología;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+II.- LEY: A la Ley de Ciencia, Tecnología e Innovación para el Estado de Baja California
 
 III.- REGLAMENTO: Al Reglamento del Premio Estatal de Ciencia y Tecnología;
 
@@ -57,37 +61,29 @@ IV.- PREMIO: Al Premio Estatal de Ciencia y Tecnología; y
 
 V.- COMITÉ: Al Comité del Premio Estatal de Ciencia y Tecnología.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 3.
 
-El Premio tiene por objeto reconocer, promover y estimular la investigación científica y tecnológica, realizada de manera individual o colectiva, por científicos o tecnólogos bajacalifornianos o que radiquen en la Entidad, cuya obra en estos campos se haga acreedora de distinción.
+El Premio tiene por objeto reconocer, promover y estimular la innovación, investigación científica y tecnológica, realizada de manera individual o colectiva, por científicos o tecnólogos que radiquen en la Entidad, cuya obra en estos campos se haga acreedora de distinción.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 4.
 
-El Premio consistirá en un diploma y en una remuneración económica cuyo monto será de 3,000 veces el salario mínimo general vigente en el Estado, al momento de emitir la Convocatoria.
+El Premio consistirá en un reconocimiento y una remuneración económica cuyo monto no podrá ser menor de 3,000 veces el salario mínimo general vigente en el Estado, al momento de emitir la convocatoria. Podrán otorgarse varios premios atendiendo a las bases y áreas temáticas que se indiquen en la Convocatoria, siempre y cuando al momento de emitir ésta, la Secretaría de Desarrollo Económico del Estado, cuente con la disponibilidad presupuestaria para cubrir dichos premios.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
-El Premio se otorgará al investigador o grupo de investigadores que hayan desarrollado el mejor trabajo de investigación científica y/o tecnológica durante los últimos cinco años previos a la convocatoria, en cualquiera de las siguientes áreas:
+El Premio se otorgará al investigador o grupo de investigadores que hayan desarrollado el mejor trabajo de investigación científica y/o tecnológica y/o innovación durante los últimos cinco años previos a la convocatoria, (sic)
 
-I.- Ciencias Exactas y Naturales;
-
-II.- Ciencias Médicas;
-
-III.- Ciencias Agropecuarias;
-
-IV.- Ciencias Sociales y Administrativas;
-
-V.- Ciencias de la Educación y Humanidades; y,
-
-VI.- Ciencias de la Ingeniería y Tecnología.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-El investigador o grupo de investigadores a los que se les ha otorgado el Premio, no podrán participar por segunda ocasión con el mismo trabajo de investigación científica y/o tecnológica que se sustente en documentación que ha sido base del Premio otorgado, conforme a lo señalado en las fracciones IV y V, del artículo 9, de este Reglamento.
+Podrán participar aquellos investigadores que lo hubieren hecho en años anteriores.
 
 ### CAPÍTULO SEGUNDO. DE LOS CANDIDATOS
 
@@ -109,7 +105,9 @@ d) Organizaciones privadas, civiles e instituciones y centros vinculados con la 
 
 e) Organismos productivos, cámaras y núcleos empresariales.
 
-Los postulantes podrán proponer sólo un candidato, que puede ser de su especialidad o no, de su institución o de otra institución.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+Los postulantes podrán proponer a uno o varios candidatos, independientemente de la especialidad o institución en la que se ubiquen.
 
 ###### Artículo 8.
 
@@ -137,29 +135,31 @@ V.- Documentos y materiales bibliográficos, audiovisuales, gráficos y de cualq
 
 ### CAPÍTULO TERCERO. DEL COMITÉ
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-Para la aplicación de las disposiciones de este Reglamento, así como para todo el proceso de otorgamiento del Premio, se contará con un Comité, el cual estará integrado por 5 miembros del COCYT, quienes serán designados a propuesta de su Presidente, el cual formará parte de los 5 miembros de dicho comité, presidiendo el mismo.
+Para la aplicación de las disposiciones de este Reglamento, así como para todo el proceso de otorgamiento del Premio, se contará con un Comité, el cual estará integrado por 5 miembros del COCIT, quienes serán designados a propuesta de su Presidente, el cual formará parte de los 5 miembros de dicho Comité, presidiendo el mismo.
 
 Los cargos de los miembros del Comité serán honoríficos, por lo tanto, quienes lo integren no percibirán retribución, emolumento o compensación alguna.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
 El Comité tendrá las siguientes atribuciones:
 
-I.- Designar al Secretario Técnico;
+I.- Designar al Secretario Técnico, a propuesta del Presidente del Comité;
 
-II.- Nombrar a los miembros del Jurado Calificador del Premio, dentro de los primeros quince días de haber sido instalado;
+II.- Establecer las formas y términos de la convocatoria que deberá expedirse, de conformidad con las bases establecidas en este Reglamento;
 
-III.- Establecer las formas y términos de la convocatoria que deberá expedirse, de conformidad con las bases establecidas en este Reglamento;
+III.- Procurar información y asesoramiento de funcionarios públicos, de instituciones públicas o privadas de cualesquier persona, cuando lo estime pertinente;
 
-IV.- Procurar información y asesoramiento de funcionarios públicos, de instituciones públicas o privadas o de cualesquier persona, cuando lo estime pertinente;
+IV.- Formular y aprobar al momento de su instalación, la convocatoria para el Premio, en la cual se deberá prever, entre otras cosas, un periodo de 30 días para recibir las candidaturas;
 
-V.- Formular y aprobar, al momento de su instalación, la convocatoria para el Premio, en la cual se deberá prever, entre otras cosas, un periodo de 30 días para recibir las candidaturas;
+V.- Determinar la fecha en la cual se entregará el Premio en el año siguiente; y,
 
-VI.- Determinar la fecha en la cual se entregará el Premio en el año siguiente; y,
-
-VII.- Las demás que sean necesarias para el eficaz desempeño de sus funciones y adecuado otorgamiento del Premio.
+VI.- Las demás que sean necesarias para el eficaz desempeño de sus funciones y adecuado otorgamiento del Premio.
 
 ###### Artículo 12.
 
@@ -197,41 +197,39 @@ IV.- Cualquier otra función que le sea asignada por el Comité.
 
 ###### Artículo 15.
 
-El Comité se apoyará de un Comisario mismo que se encargará de rendir los informes de evaluación gubernamental, conforme a las normas y criterios generales aprobados por la Dirección de Control y Evaluación Gubernamental.
-
-El Comisario podrá asistir a las sesiones que celebre el comité, con voz pero sin derecho a voto.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 16.
 
-El Comisario contará con un suplente, y para efectos de la adecuada y oportuna vigilancia de la evaluación gubernamental, el Comisario podrá adscribir a su área, al personal que sea necesario para su correcto funcionamiento, quienes en todo caso, se encontraran bajo su mando y dirección.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 17.
 
-El Secretario Técnico y el Comisario no formarán parte del Comité y sus cargos serán honoríficos, por lo que no recibirán remuneración alguna por su desempeño.
+El Secretario Técnico no formará parte del Comité y su cargo será honorífico, por lo que no recibirá remuneración alguna por su desempeño.
 
-### CAPÍTULO CUARTO. DEL JURADO CALIFICADOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
+### CAPÍTULO CUARTO. DE LA EVALUACIÓN
 
 ###### Artículo 18.
 
-El Jurado Calificador estará integrado por cinco miembros que deberán ser investigadores o tecnólogos que destaquen en sus respectivas especialidades, o que se hayan destacado en labores de gestión o promoción del desarrollo científico o tecnológico, su encargo será de carácter honorífico, por lo tanto no percibirán remuneración alguna por su desempeño.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 19.
 
-La selección de los miembros del Jurado Calificador, se realizará de conformidad con los más elevados criterios de excelencia en el ámbito del desarrollo científico o tecnológico.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 20.
 
-Para ser miembro del Jurado Calificador se deberá cumplir con los siguientes requisitos:
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2012)
 
-I.- Ser bajacaliforniano, o contar con una residencia mínima de 5 años en la Entidad al momento de emitirse la convocatoria;
-
-II.- Contar con reconocida honorabilidad en la Entidad; y,
-
-III.- Haber destacado en el campo de la investigación científica y desarrollo tecnológico.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-El Jurado Calificador decidirá por mayoría de votos, en consideración a:
+El Comité decidirá por mayoría de votos, en consideración a:
 
 I.- La calidad científica o técnica;
 
@@ -243,9 +241,9 @@ IV.- El carácter innovador de la aplicación del conocimiento al desarrollo de 
 
 V.- Su impacto en la sociedad.
 
-En caso de empate, se someterá a una segunda votación del Jurado Calificador, y de persistir el empate, el Presidente del Comité tendrá voto de calidad.
+En caso de empate, se someterá a una segunda votación, y de persistir el empate, el Presidente del Comité tendrá voto de calidad.
 
-El Jurador Calificador presentará al Comité su veredicto fundamentado con las razones que determinaron la decisión, en un plazo máximo de 30 días hábiles a partir de la recepción de las candidaturas. El Comité emitirá el dictamen final, el cual será inapelable.
+El Comité presentará al Gobernador su veredicto fundamentado con las razones que determinaron la decisión, en un plazo máximo de 30 días hábiles a partir de la recepción de las candidaturas. El Comité emitirá el dictamen final, el cual será inapelable.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
 
@@ -255,15 +253,19 @@ El Jurado Calificador podrá, en casos excepcionales, recomendar al Comité el o
 
 Serán considerados como casos excepcionales cuando la calidad de los trabajos de los candidatos reúnan los requisitos establecidos en las fracciones I, II, III, IV y V, del artículo 21, del Reglamento, y además se presente en dos o más áreas de las referidas en el artículo 5 del Reglamento.
 
+(REPUBLICADO, P.O. 23 DE NOVIEMBRE DE 2012)
+
 ###### Artículo 22.
 
 El Comité podrá declarar desierto el Premio, cuando a su juicio los investigadores no cumplan con los requisitos establecidos en este Reglamento, o bien, no se presenten candidaturas.
 
 ### CAPÍTULO QUINTO. DEL OTORGAMIENTO DEL PREMIO
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
-El Premio será entregado anualmente por el Congreso del Estado a través de su Presidente, o en su caso, por la comisión o comisionado que éste designe para tal efecto.
+El Premio será entregado anualmente por el Gobernador del Estado o en su caso, por el comisionado que éste designe para tal efecto.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
 
@@ -323,8 +325,12 @@ SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ GABRIEL POSADA GALLEGO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 15 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
