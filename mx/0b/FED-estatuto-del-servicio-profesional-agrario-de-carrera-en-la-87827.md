@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-agrario-de-carrera-en-la-8782
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-23"
-last_updated: "2012-05-23"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-08"
 
 ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2012.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -123,11 +123,23 @@ IX. Jefe de Departamento;
 
 X. Jefe de Residencia;
 
-XI. Visitador Agrario;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XI. Supervisor de área;
 
 XII. Abogado Agrario, y
 
-XIII. Programador Analista.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XIII. Visitador Agrario;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XIV. Programador Analista y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XV. Profesional Ejecutivo de Servicios Especializados.
 
 Los puestos anteriores comprenden los niveles de adjunto, homólogos o cualquier otro equivalente, independientemente de la denominación que se les dé.
 
@@ -147,13 +159,17 @@ IV. Titular del Organo Interno de Control y personal nombrado por la Secretaría
 
 V. Personal que esté sujeto al pago por honorarios;
 
-VI. Servidores públicos que realicen funciones administrativas, y
+VI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2012)
 
 VII. Servidores públicos que estén considerados como de base.
 
-Para efectos de este Estatuto se entenderá por Gabinete de Apoyo, cada una de las unidades adscritas a la oficina del Procurador y de la Secretaría General, que pueden integrarse, de acuerdo con la capacidad presupuestaria de la Procuraduría, por las siguientes áreas: secretaría particular, secretaría técnica o equivalente, coordinación de asesores y personal de los servicios de apoyo.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
 
-Los servidores públicos que formen parte de estas unidades serán nombrados y removidos libremente por su superior jerárquico inmediato y estarán impedidos para ejercer atribuciones que correspondan a los servidores públicos de carrera.
+Para los efectos de este Estatuto se entenderá por Gabinete de Apoyo a las áreas que integran la Secretaría Particular, Secretaría Técnica o equivalente, Coordinación de Asesores y el personal de apoyo de la Oficina del Procurador, así como el personal que apoya directamente al Secretario General.
+
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+Los servidores públicos que formen parte de estas unidades serán nombrados y removidos libremente por el Procurador Agrario, y estarán impedidos para ejercer atribuciones que correspondan a los servidores públicos de carrera.
 
 ###### Artículo 9o.
 
@@ -183,7 +199,9 @@ II. Recibir el nombramiento como miembro del Sistema una vez cubiertos los requi
 
 III. Percibir las remuneraciones correspondientes a su cargo, además de los beneficios y estímulos que se prevean;
 
-IV. Acceder a un cargo distinto cuando se haya cumplido con los requisitos y procedimientos descritos en este ordenamiento;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+IV. Acceder a un cargo distinto de igual o mayor nivel cuando se haya cumplido con los requisitos del perfil y procedimientos establecidos en este Estatuto;
 
 V. Recibir capacitación y actualización con carácter profesional para el mejor desempeño de sus funciones;
 
@@ -195,11 +213,17 @@ VIII. Participar en el comité de selección cuando se trate de incorporar a un 
 
 IX. Promover los medios de defensa que establece este Estatuto, contra las resoluciones emitidas en aplicación del mismo;
 
-X. Conservar la remuneración y la denominación del puesto, aun cuando se le designe para desempeñar funciones que correspondan a un nivel de menor jerarquía, o en otra área;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
 
-XI. Recibir la protección de la justicia laboral, cuando se pretenda un despido injustificadamente, y
+X. Conservar la remuneración y la denominación del puesto, previo consentimiento, aun cuando se le designe para desempeñar funciones que correspondan a un nivel de menor jerarquía, o en otra área;
 
-XII. Las demás que se deriven de los preceptos de este Estatuto.
+XI. Recibir la protección de la justicia laboral, cuando se pretenda un despido injustificadamente, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XII. Solicitar licencia con o sin goce de sueldo;
+
+XIII. Las demás que se deriven de los preceptos de este Estatuto.
 
 ### Capítulo segundo. De las obligaciones
 
@@ -225,9 +249,15 @@ VIII. Proporcionar la información y documentación necesarias al servidor públ
 
 IX. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos de la Procuraduría o de las personas que allí se encuentren;
 
-X. Excusarse de conocer asuntos que puedan implicar conflicto de intereses con las funciones que desempeña dentro del servicio, y
+X. Excusarse de conocer asuntos que puedan implicar conflicto de intereses con las funciones que desempeña dentro del servicio, y (sic)
 
-XI. Las demás que señalen las leyes y disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XI. Observar lo dispuesto en el Artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+XII. Las demás que señalen las Leyes y disposiciones aplicables.
 
 ## TITULO TERCERO. DE LA ESTRUCTURA DEL SISTEMA
 
@@ -253,9 +283,11 @@ VII. Subsistema de control y evaluación. Su objetivo es diseñar y operar los p
 
 ### Capítulo segundo. De la Comisión
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-La Comisión es el órgano colegiado encargado de conocer y operar cualquier asunto relativo al Sistema.
+La Comisión es el órgano colegiado encargado de conocer, aprobar y operar cualquier asunto relativo al Sistema.
 
 ###### Artículo 16.
 
@@ -307,7 +339,7 @@ III. Con el Coordinador General de Delegaciones, quien suplirá al presidente en
 
 IV. Con el Director General Jurídico y de Representación Agraria, y
 
-V. Con el Secretario General, quien vigilará el cumplimiento del Sistema y proveerá los medios necesarios para la ejecución de los acuerdos tomados por la Comisión, teniendo únicamente voz en las sesiones que intervenga.
+V. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2012)
 
 La Comisión se reunirá de manera ordinaria al menos una vez cada seis meses y de manera extraordinaria cuando se requiera, previa convocatoria emitida por su presidente.
 
@@ -319,6 +351,10 @@ En los casos en que la Comisión trate asuntos que incidan sobre el conjunto de 
 
 A propuesta de la Comisión, el Procurador autorizará y expedirá las reglas para la operación del Sistema.
 
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+El Secretario General será el encargado de vigilar el cumplimiento y proveer los medios necesarios para la ejecución de los acuerdos tomados por la Comisión, los cuales deberán ser atendidos en un término que no exceda los 3 días hábiles a partir de que le sean notificados por la Comisión.
+
 ###### Artículo 18.
 
 El presidente de la Comisión podrá invitar a uno o más miembros representantes de los distintos puestos a participar en sus reuniones con voz, pero sin voto, cuando se traten asuntos generales del Sistema.
@@ -327,7 +363,9 @@ El presidente de la Comisión podrá invitar a uno o más miembros representante
 
 Son atribuciones del Presidente de la Comisión las siguientes:
 
-I. Autorizar la orden del día de las sesiones ordinarias o extraordinarias;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+I. Autorizar la orden del día de las sesiones ordinarias o extraordinarias y emitir la correspondiente convocatoria;
 
 II. Presidir las reuniones de la Comisión;
 
@@ -361,7 +399,9 @@ Son funciones del secretario de la Comisión:
 
 I. Proponer los puntos del orden del día de las sesiones ordinarias o extraordinarias de la Comisión;
 
-II. Convocar en tiempo y forma a los integrantes de la Comisión;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+II. Distribuir, en tiempo y forma, la convocatoria para las sesiones ordinarias o extraordinarias de la Comisión;
 
 III. Elaborar y formalizar las actas de las reuniones de la Comisión y de sus comités;
 
@@ -417,7 +457,9 @@ El subsistema de ingreso tiene como propósito atraer a los mejores candidatos p
 
 El ingreso como servidor público de carrera se realizará por oposición, mediante concursos públicos anuales que serán organizados en etapas eliminatorias y deberán contemplar los siguientes exámenes, cursos y actividades:
 
-I. Exámenes generales de conocimientos y evaluación de habilidades;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+I. Contar con una certificación de competencias laborales acreditada por el Consejo Nacional de Normalización y Certificación de Competencias Laborales y aprobada por el Comité de Gestión por Competencias de la Procuraduría;
 
 II. Evaluación de la experiencia y valoración del mérito de los candidatos;
 
@@ -435,7 +477,9 @@ El comité de ingreso estará integrado por:
 
 I. El Secretario Técnico de la Comisión;
 
-II. El Director de Capacitación;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+II. El Director de Certificación de Competencias Laborales;
 
 III. El Director de Personal, y
 
@@ -537,7 +581,9 @@ El proceso de este subsistema estará a cargo del comité de capacitación y cer
 
 I. El Secretario Técnico de la Comisión;
 
-II. El Director de Capacitación, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+II. El Director de Certificación de Competencias Laborales, y
 
 III. Los representantes de las instituciones de educación superior, que refiere la fracción IV del artículo 16 de este estatuto.
 
@@ -603,9 +649,11 @@ En el supuesto de que el servidor público de carrera no acredite de manera sati
 
 Para efectos de este Estatuto se entenderá por separación del Sistema la terminación del nombramiento de los servidores públicos de carrera o a las situaciones por las que dicho nombramiento deje de surtir sus efectos.
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 45.
 
-Los miembros del Sistema sólo podrán ser separados de sus cargos ya sea temporalmente por medio de suspensión como consecuencia de la aplicación de una sanción administrativa y, en forma definitiva, por baja y destitución en términos del presente de este (sic) Estatuto.
+Los miembros del Sistema sólo podrán ser separados de sus cargos ya sea temporalmente por medio de suspensión como consecuencia de la aplicación de una sanción por faltas al sistema y, en forma definitiva por baja y destitución en los términos del presente Estatuto.
 
 ###### Artículo 46.
 
@@ -633,11 +681,13 @@ La licencia sin goce de sueldo no será mayor a un año y sólo podrá prorrogar
 
 La licencia con goce de sueldo no podrá ser mayor a 15 días y sólo se autorizará por causas relacionadas con la capacitación del servidor público vinculadas al ejercicio de sus funciones o por motivos justificados a juicio del Procurador.
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 48.
 
-Para cubrir el cargo del servidor público de carrera que haya sido separado por cualquiera de las causas de baja que contempla el artículo 46 u obtenga licencia, la Comisión nombrará a un servidor público de carrera que actuará de manera provisional. La designación del servidor público que ocupará dicho cargo se realizará conforme a las disposiciones que refieren los artículos 25, 28 y 29 de este Estatuto.
+Para cubrir el cargo del servidor público de carrera que haya sido separado por cualquiera de las causas de baja que contempla el artículo 46 u obtenga licencia, la Comisión nombrará a un servidor público de carrera que actuará de manera provisional, considerando el perfil y el merito de aquellos miembros del Sistema que ocupen un puesto jerárquicamente inmediato inferior. Aquellos servidores públicos de carrera que de manera temporal se hagan cargo de otra función, deberán recibir puntuación adicional en su evaluación de desempeño.
 
-Aquellos servidores públicos de carrera que de manera temporal se hagan cargo de otra función, deberán recibir puntuación adicional en su evaluación de desempeño.
+La designación definitiva en los puestos que se comprenden de la fracción I a XI del artículo 7o del Estatuto, serán concursados entre el personal de carrera que tenga la titularidad en el puesto, previo cumplimiento de los requisitos del perfil y procedimientos establecidos en este Estatuto. Para los niveles de la fracción XII a la XV del artículo en referencia se realizará conforme a las disposiciones que refieren los artículos 25, 28 y 29 del Estatuto.
 
 ###### Artículo 49.
 
@@ -645,23 +695,31 @@ La pertenencia al Sistema de los servidores públicos de carrera, garantiza que 
 
 ### Capítulo noveno. De las sanciones administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 50.
 
-Las sanciones por faltas administrativas consistirán en:
+Las sanciones por faltas al sistema consistirán en:
 
 I. Amonestación privada o pública;
 
 II. Suspensión;
 
-III. Destitución, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+III. Separación definitiva, y
 
 IV. Sanción económica.
 
-En todos los casos de destitución el sancionado quedará inhabilitado para reingresar al Sistema o desempeñar algún puesto, cargo o comisión temporal en el mismo.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+En todos los casos de separación definitiva el sancionado quedara inhabilitado para reingresar al sistema o desempeñar algún puesto, cargo o comisión temporal en el mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-Darán motivo a la aplicación de sanciones administrativas las siguientes conductas de los miembros del Sistema:
+Darán motivo a la aplicación de sanciones al sistema las siguientes conductas de los miembros del sistema:
 
 I. Abandonar el empleo, entendiendo por esto la falta a las labores por más de tres días consecutivos sin causa justificada;
 
@@ -669,15 +727,21 @@ II. Violar las obligaciones de los miembros del Sistema establecidas en el artí
 
 III. Incurrir en el incumplimiento de alguna de las obligaciones previstas en el artículo 8 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-IV. Ser condenado por sentencia ejecutoriada dictada por delito intencional;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+IV. Ser condenado por sentencia ejecutoriada privativa de la libertad.
 
 V. Incurrir en morosidad, descuido manifiesto o ineptitud comprobada en el desempeño de sus obligaciones oficiales, y
 
-VI. Desatender las funciones, principios o códigos de la Procuraduría o las instrucciones de los jefes superiores.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+VI. Desatender las funciones, principios o códigos de la Procuraduría o las instrucciones de los jefes superiores, siempre y cuando estas se encuentren vinculadas al puesto, encargo o comisión que desempeñe el servidor público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 52.
 
-El Comité de separación conocerá de las faltas de los miembros del Sistema que ameriten la imposición de sanciones administrativas y estará compuesto por:
+El Comité de separación conocerá de las faltas de los miembros del Sistema que ameriten la imposición de sanciones y estará compuesto por:
 
 I. El Director General Jurídico y de Representación Agraria, quien fungirá como secretario técnico jurídico, responsable de elaborar el proyecto de resolución que presentará al comité para valoración;
 
@@ -703,17 +767,23 @@ V. Desahogadas las pruebas, si las hubiere, el comité de separación cerrará l
 
 En lo no previsto por este Estatuto respecto a los procedimientos disciplinarios de los miembros del Sistema, será aplicable supletoriamente el Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 54.
 
-El Procurador según la gravedad de la responsabilidad determinará la sanción administrativa a imponer, misma que será aplicada por el Secretario General, según lo dispone el Reglamento Interior de la Procuraduría Agraria una vez que quede firme, dándose vista a la Contraloría Interna y en el caso de imposición de sanciones económicas, deberá notificar a la Tesorería de la Federación la resolución, a efecto de que proceda a efectuar el cobro correspondiente.
+La Comisión según la gravedad de la falta o infracción, determinará la sanción a imponer, misma que será aplicada por el Procurador Agrario, según lo dispone el Reglamento Interior de la Procuraduría Agraria una vez que quede firme, dándose vista a la Contraloría Interna.
 
-Las resoluciones del Procurador podrán ser impugnadas ante los tribunales competentes.
+Las resoluciones que deriven de este artículo podrán ser impugnadas ante los tribunales competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 55.
 
-Para la imposición de las sanciones administrativas se tomarán en cuenta los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público de carrera cuando incurrió en la falta, que a continuación se refieren:
+Para la imposición de las sanciones por faltas al sistema se tomarán en cuenta los elementos propios del empleo, cargo o comisión que desempeña (sic) el servidor público de carrera cuando incurrió en la falta, que a continuación se refieren:
 
-I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Estatuto o las que se dicten con base en el;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+I. La gravedad de la infracción en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Estatuto o las que se dicten con base en el;
 
 II. Las circunstancias socioeconómicas del servidor público de carrera;
 
@@ -726,6 +796,10 @@ V. La reincidencia en el incumplimiento de obligaciones, y
 VI. El monto del beneficio, lucro, o daño o perjuicio derivado del incumplimiento de obligaciones.
 
 Para los efectos de este Estatuto, se considerará reincidente al servidor público de carrera que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere este Estatuto, incurra nuevamente en una o varias conductas infractoras a dicho precepto legal.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2012)</small>
+
+El procedimiento al que se refiere este capitulo, es autónomo a aquellas conductas que por su naturaleza impongan sanciones administrativas a los servidores públicos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como contra las que decidan los recursos administrativos, previstos en dicho ordenamiento.
 
 ### Capítulo décimo. Del recurso de revocación
 
@@ -790,3 +864,9 @@ Los derechos, prerrogativas y obligaciones que se generen con motivo del present
 Sufragio Efectivo. No Relección.
 
 México, D.F., a 8 de mayo de 2012.- El Procurador Agrario, Rocendo González Patiño.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE NOVIEMBRE DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor a partir del siguiente día de su publicación en el Diario Oficial de la Federación.
