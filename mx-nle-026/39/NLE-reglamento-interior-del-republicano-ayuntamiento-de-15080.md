@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2012-06-15"
+last_updated: "2012-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -411,7 +411,15 @@ l.- Lista de Asistencia.
 
 II.- Declaratoria de quórum y apertura de la Sesión
 
-III.- Punto Único motivo de la reunión extraordinaria.
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+III.- Lectura, rectificación en su caso y aprobación del acta o actas correspondientes a sesiones anteriores que hayan quedado pendientes de lectura y rectificación.
+
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+IV.- Informe de cumplimiento de acuerdos del Ayuntamiento
+
+III (SIC).- Punto Único motivo de la reunión extraordinaria.
 
 IV.- Clausura.
 
@@ -421,7 +429,15 @@ l.- Lista de Asistencia.
 
 II.- Declaratoria de quórum y apertura de la Sesión
 
-III.- Punto único del Orden del Día, que corresponda, o las disposiciones contenidas en los incisos a), b), c), y d) del artículo 22 fracción III de este reglamento.
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+III.- Lectura, rectificación en su caso y aprobación del acta o actas correspondientes a sesiones anteriores que hayan quedado pendientes de lectura y rectificación.
+
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+IV.- Informe de cumplimiento de acuerdos del Ayuntamiento
+
+III (SIC).- Punto único del Orden del Día, que corresponda, o las disposiciones contenidas en los incisos a), b), c), y d) del artículo 22 fracción III de este reglamento.
 
 IV.- Clausura.
 
@@ -833,43 +849,41 @@ h).- promover campañas de atención a la mujer en enfermedades de cáncer mamar
 
 i).- Los que le sean encomendadas por el Ayuntamiento o por el Presidente Municipal.
 
-IX.- EDUCACIÓN Y CULTURA.- Corresponde a la Comisión de Educación y Cultura, el conocimiento y despacho de los siguientes asuntos:
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-a).- Fomentar y vigilar que las actividades educativas se lleven a cabo en lugares y condiciones idóneas para ello y observen los ordenamientos legales educativos.
+IX.- EDUCACIÓN: EDUCACIÓN BÁSICA, EDUCACIÓN MEDIA SUPERIOR Y EDUCACIÓN SUPERIOR.- Corresponde a la Comisión de Educación, Educación Media Superior y Educación Superior el conocimiento y despacho de los siguientes asuntos:
 
-b).- Cooperar con las autoridades federales y estatales, en lo relacionado con la promoción y difusión de la educación en todos los niveles.
+a) Fomentar la calidad educativa de todos los niveles y servicios educativos ubicados en el municipio.
 
-c).- Informar a la comunidad sobre el contenido de los programas educativos del gobierno municipal.
+b) Promover acciones de actualización, capacitación y superación profesional del magisterio que labora en el municipio.
 
-d).- Atender los requerimientos, las necesidades y los problemas de las comunidades que no tengan acceso al servicio público educativo.
+c) Apoyar las acciones de evaluación, acreditación y certificación de los docentes que prestan sus servicios en los planteles del municipio.
 
-e).- Establecer y mantener relaciones con las autoridades educativas y con las Asociaciones de padres de familia de los planteles educativos.
+d) Fomentar y vigilar que las actividades educativas se lleven a cabo en escuelas dignas y en condiciones idóneas para ello y observen los ordenamientos legales educativos.
 
-f).- Promover becas para los estudiantes de bajos recursos económicos.
+e) Gestionar la atención de los requerimientos, las necesidades y los problemas de las Comunidades que no tengan acceso al servicio público educativo.
 
-g).- Propiciar y coordinar la participación oficial del Municipio en certámenes educativos, dentro y fuera del Municipio.
+f) Apoyar los programas de eficiencia terminal de todos los niveles educativos, así como la educación para adultos
 
-h).- Fomentar las visitas de toda la ciudadanía a las bibliotecas, centros culturales, lugares históricos, parques y centros recreativos del Municipio.
+g) Gestionar la instalación de planteles de educación media superior, superior y de capacitación para el trabajo
 
-i).- Colaborar con las comisiones de Patrimonio y Desarrollo Urbano y con las Instituciones educativas para que cada plantel cuente con toda la documentación necesaria, en lo referente a planos de terrenos, construcciones, instalaciones y comodatos.
+h) Promover el otorgamiento de becas para los estudiantes de bajos recursos económicos y estudiantes destacados por su desempeño académico.
 
-j).- Coadyuvar en la relación de los eventos cívicos para rendirles honores a los símbolos patrios.
+i) Cooperar con las autoridades educativas federales y estatales en la promoción de los servicios educativos de todos los niveles y en las campañas educativas
 
-k).- Promover actividades artísticas y culturales.
+j) Establecer convenios de cooperación con las asociaciones de padres de familia de los diversos niveles educativos para preservar y promover los valores y apoyar los procesos educativos.
 
-l).- Elaborar programas para la difusión de la cultura.
+k) Coadyuvar a preservar la cobertura de la demanda de educación básica y ampliar la oferta y diversificación de la educación media superior y superior en el municipio.
 
-m).- Elaborar y difundir los programas de actividades cívicas del Municipio.
+l) Apoyar el establecimiento de instituciones de educación media superior y superior así como universidades e institutos tecnológicos públicos y privados.
 
-n).- Vigilar y procurar el respeto a los símbolos patrios.
+m) Gestionar proyectos de vinculación de universidades e instituciones de educación media superior y superior con el sector productivo.
 
-ñ).- Participar en la constitución de comités pro-festividades.
+n) Apoyar y organizar proyectos de investigación e innovación tecnológica en las instituciones educativas ubicadas en el municipio
 
-o).- Elaborar el calendario de actividades cívicas y vigilar su exacto cumplimiento.
+o) Propiciar la participación del sector empresarial en apoyo de las instituciones de educación profesional técnica
 
-p).- Promover la creación, conservación y funcionamiento del Museo de la Ciudad.
-
-q).- Los que le sean encomendadas por el Ayuntamiento o por el Presidente Municipal.
+p) Los que le sean encomendados por el Ayuntamiento y / o por el Presidente Municipal
 
 X.- PROTECCIÓN AMBIENTAL.- Corresponde a la Comisión de Protección Ambiental, el conocimiento y despacho de los siguientes asuntos:
 
@@ -1119,6 +1133,54 @@ h). Proponer conjuntamente con la Comisión de Régimen Interior de Gobierno las
 
 i).- Los que le sean encomendadas por el Ayuntamiento o por el Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+XXII.- CULTURA.- Corresponde a la Comisión de Cultura el conocimiento y despacho de los siguientes asuntos:
+
+a) Fomentar y vigilar que las instancias municipales lleven a cabo la realización de programas de promoción, difusión y realización de todas las manifestaciones y expresiones de la cultura, en todos los niveles sociales del municipio.
+
+b) Promover la realización de convenios de cooperación con las autoridades federales, estatales y municipales para incentivar la promoción, difusión y realización de actividades culturales en todos los niveles sociales.
+
+c) Supervisar que las actividades culturales se lleven a cabo en lugares y condiciones idóneas para ello.
+
+d) Disponer lo conducente para que las autoridades responsables de la cultura en el municipio atiendan los requerimientos, las necesidades y los problemas de las comunidades que no tengan acceso a los servicios municipales de cultura.
+
+e) Impulsar que las dependencias municipales del ámbito cultural lleven a cabo la realización de convenios de cooperación con organizaciones e instituciones de la sociedad civil cuyos objetivos sea la promoción y difusión de la cultura a efecto de llevar a cabo acciones conjuntas en el municipio.
+
+f) Propiciar y coordinar la participación oficial del Municipio en certámenes culturales regionales nacionales e internacionales
+
+g) Revisar que las instancias municipales lleven a cabo el fomento de las visitas de toda la ciudadanía a las bibliotecas, centros Culturales, lugares históricos, Museos, Parques y Centros Recreativos del Municipio.
+
+h) Coadyuvar en la relación de los eventos cívicos para rendirles honores a Los símbolos patrios
+
+i) Supervisar la difusión de los programas de actividades cívicas del Municipio.
+
+j) Vigilar y procurar el respeto a los símbolos patrios.
+
+k) Participar en la constitución de comités pro-festividades, Regionales y Culturales
+
+l) Promover la conservación y funcionamiento del Museo de la Ciudad.
+
+m) Los que le sean encomendadas (sic) por el Ayuntamiento o por el Presidente Municipal.
+
+> <small>(ADICIONADA, P.O. 23 NOVIEMBRE DE 2012)</small>
+
+XXIII.- ASUNTOS RELIGIOSOS
+
+a) Supervisar el conjunto de políticas públicas del Ayuntamiento, para promover, defender y garantizar los derechos de libertad e igualdad de todos los credos religiosos, garantizando el derecho consagrado en la constitución para el ejercicio igualitario de la libertad de cultos
+
+b) Vigilar que la dependencia municipal encargada de los Asuntos Religiosos lleve a cabo acciones de interlocución para garantizar la libertad de conciencia y de religión, así como que sus actividades se realicen con espíritu incluyente, participativo con todas las iglesias.
+
+c) Garantizar que les Instancias del gobierno municipal estén en estrecho contacto de colaboración con todas las entidades religiosas.
+
+d) Coadyuvar con las políticas públicas de atención de las solicitudes que las diferentes iglesias gestionen en el municipio para vigorizar los valores, las instituciones sociales, la familia a fin de fortalecer la convivencia y el tejido social.
+
+e) Fortalecer las políticas públicas municipales de la defensa de los Derechos Humanos a fin de que la ciudadanía pueda disfrutar de sus derechos religiosos.
+
+f) Contribuir con las disposiciones e instancias municipales en el apoyo de las gestiones para llevar a cabo el registro de las diversas asociaciones religiosas o iglesias ante la Secretaría de Gobernación
+
+g) Los que le sean encomendadas (sic) por el Ayuntamiento o por el Presidente Municipal.
+
 ###### Artículo 53.
 
 Las Comisiones Especiales.- Son las que el Ayuntamiento forma para casos especiales con duración mientras se resuelve el mismo.
@@ -1199,9 +1261,9 @@ Contenido.- El Ayuntamiento cuidará que los reglamentos que expida se ajusten a
 
 Consulta Pública.- Es indispensable la consulta entre los diversos sectores de la población para recibir las observaciones, sugerencias y propuestas Propiciando que la ciudadanía haga suyo el proyecto de reglamento y de el respaldo necesario para su aplicación con legitimidad y legalidad.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-Cuando el Ayuntamiento decida iniciar la revisión, modificación y/o expedición de un reglamento, deberá informar a la ciudadanía en general, mediante la publicación de la convocatoria a Consulta Pública, en el Periódico Oficial del Estado, en el Portal de Internet o Sitio Web de la página oficial del Municipio y en Tablero de Avisos del R. Ayuntamiento, ó en su caso cuando asi expresamente lo señale la Ley en un periódico de los de mayor circulación en el municipio, a fin de que los interesados en opinar acerca del reglamento puedan hacerlo y que sus observaciones sean consideradas por el Ayuntamiento.
+Cuando el Ayuntamiento decida iniciar la revisión, modificación y/o expedición de un reglamento, deberá informar a la ciudadanía en general, mediante la Publicación de la Convocatoria a Consulta Pública, en el Portal de Internet o Sitio Web de la página oficial del Municipio y en Tablero de Avisos del R. Ayuntamiento, ó en su caso, cuando así expresamente lo señale la Ley en un periódico de los de mayor circulación en el municipio, a fin de que los interesados en opinar acerca del reglamento puedan hacerlo y que sus observaciones sean consideradas por el Ayuntamiento.
 
 ###### Artículo 66.
 
@@ -1338,3 +1400,11 @@ P.O. 15 DE JUNIO DE 2012.
 Primero.- La presente reforma por adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
 
 Segundo.- Quedan sin efecto así mismo, todas las disposiciones municipales que contravengan lo establecido en la presente reforma por adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento Interior del Republicano Ayuntamiento de Guadalupe. N.L., entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L.
+
+TERCERO.- Instrúyase al C. Secretario del Ayuntamiento para que remita a su publicación el presente Acuerdo en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
