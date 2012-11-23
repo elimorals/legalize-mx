@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-11-16"
+last_updated: "2012-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2843,7 +2843,7 @@ Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean 
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
@@ -3001,15 +3001,17 @@ Pena adicional para el delito cometido por medio de vehículo, motor o maquinari
 
 ###### Artículo 255.
 
-Tipo y punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero el Ministerio Público le apercibirá formalmente, dejando constancia, de que si incurre nuevamente en este ilícito dentro del plazo de dos años, será consignado a la autoridad judicial.
+Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero la autoridad aprehensora lo presentará ante la Autoridad Administrativa Municipal que determinen los reglamentos, quien le formará registro para establecer antecedente, apercibiéndole formalmente de que si incurre de nuevo en esta conducta dentro del plazo de dos años, será consignado a la autoridad judicial.
 
-Cuando se cause daño a las personas o a las cosas o si dentro de este plazo, contado a partir del apercibimiento, el sujeto incurre en la misma conducta prevista en el párrafo anterior, se le impondrá prisión de seis meses a tres años, y la multa de cincuenta a quinientos veces el salario mínimo y suspensión hasta por uno año del derecho a conducir vehículos de motor.
+En todos los casos la Autoridad Administrativa remitirá copia certificada de las constancias que integren el registro en que formó el antecedente, a la Agencia del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de seis meses a tres años, multa de cincuenta a quinientas veces el salario mínimo y suspensión hasta por un año del derecho a conducir vehículos de motor. La misma pena se impondrá a quien dentro del plazo mencionado contado a partir del apercibimiento incurre en la misma conducta prevista en el primer párrafo del presente artículo.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 256.
 
-Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
+Agravación de la pena.- Si el delito se comete por conductores de vehículo destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
 ### CAPITULO II. SEDICION
 
@@ -4904,3 +4906,9 @@ P.O. 26 DE OCTUBRE DE 2012.
 P.O. 16 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado, en términos de las facultades que les concede el artículo 115, de la Constitución Política de los Estados Unidos Mexicanos, deberán adecuar su respectiva reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente decreto, en todo lo necesario para alcanzar el objetivo de la presente reforma.
