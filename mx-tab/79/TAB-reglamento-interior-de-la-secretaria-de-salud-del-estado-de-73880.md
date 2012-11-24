@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-738
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-03"
-last_updated: "2010-03-03"
+last_updated: "2012-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de marzo de 2010.
 
@@ -65,9 +65,17 @@ VIII. UNEME: Unidad de Especialidades Médicas;
 
 IX. SoRID: Sobrepeso, Riesgo Cardiovascular y Diabetes Mellitus;
 
-X. CAPA: Centro de Atención Primaria en Adicciones; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-XI. CAPASITS: Centro Ambulatorio para la Prevención y Atención del VIH/SIDA e Infecciones de Transmisión Sexual.
+X. CAPA: Centro de Atención Primaria en Adicciones;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XI. CAPASITS: Centro Ambulatorio para la Prevención y Atención del VIH/SIDA e Infecciones de Transmisión Sexual; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XII. UR: Úneme's de Rehabilitación.
 
 ###### ARTÍCULO 3.
 
@@ -117,7 +125,7 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 1.3. Secretaría Técnica.
 
-1.4. Coordinación de Análisis de Daños a la Salud de Prioridad Estatal.
+1.4. (DEROGADO, P.O. 24 DE NOVIEMBRE DE 2012)
 
 1.5. Unidad de Comunicación Social.
 
@@ -146,6 +154,10 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 2.5. Unidad de Enfermería.
 
 2.6. Unidad de la Red de Laboratorios Clínicos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+2.7. Unidad de Análisis de Daños a la Salud de Prioridad Estatal.
 
 3. SUBSECRETARÍA DE SALUD PÚBLICA:
 
@@ -251,93 +263,101 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.3.2.2. UNEME CAPA Cárdenas
 
-4.3.2.3. Centros de Salud:
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.2.3.1. Centro de Salud Cárdenas
+4.3.2.3. UNEME de Rehabilitación de Cárdenas
 
-4.3.2.3.2. Centro de Salud Ampliación Cañales
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.2.3.3. Centro de Salud Poblado C-27 Eduardo Chávez
+4.3.2.4. Centros de Salud:
 
-4.3.2.3.4. Centro de Salud Poblado C-29 General Vicente Guerrero
+4.3.2.4.1. Centro de Salud Cárdenas
 
-4.3.2.3.5. Centro de Salud Colonia Jacinto López
+4.3.2.4.2. Centro de Salud Ampliación Cañales
 
-4.3.2.3.6. Centro de Salud Habanero
+4.3.2.4.3. Centro de Salud Poblado C-27 Eduardo Chávez
 
-4.3.2.3.7. Centro de Salud Melchor Ocampo
+4.3.2.4.4. Centro de Salud Poblado C-29 General Vicente Guerrero
 
-4.3.2.3.8. Centro de Salud Calzada 2da.
+4.3.2.4.5. Centro de Salud Colonia Jacinto López
 
-4.3.2.3.9. Centro de Salud Miguel Hidalgo 2da.
+4.3.2.4.6. Centro de Salud Habanero
 
-4.3.2.3.10. Centro de Salud R/a. Santa Teresa Arroyo Hondo
+4.3.2.4.7. Centro de Salud Melchor Ocampo
 
-4.3.2.3.11. Centro de Salud Santa Ana 1ra. Sección
+4.3.2.4.8. Centro de Salud Calzada 2da.
 
-4.3.2.3.12. Centro de Salud Santa Ana 2da. Sección
+4.3.2.4.9. Centro de Salud Miguel Hidalgo 2da.
 
-4.3.2.3.13. Centro de Salud Ingenio Santa Rosalía Poblado C-33 20 de Noviembre
+4.3.2.4.10. Centro de Salud R/a. Santa Teresa Arroyo Hondo
 
-4.3.2.3.14. Centro de Salud Ejido Lázaro Cárdenas 1ra.
+4.3.2.4.11. Centro de Salud Santa Ana 1ra. Sección
 
-4.3.2.3.15. Centro de Salud Villa Benito Juárez
+4.3.2.4.12. Centro de Salud Santa Ana 2da. Sección
 
-4.3.2.3.16. Centro de Salud Villa Sánchez Magallanes
+4.3.2.4.13. Centro de Salud Ingenio Rosalía Poblado C-33 20 de Noviembre
 
-4.3.2.3.17. Centro de Salud Ignacio Gutiérrez Gómez
+4.3.2.4.14. Centro de Salud Ejido Lázaro Cárdenas 1ra.
 
-4.3.2.3.18. Centro de Salud Poblado C-14 Plutarco Elías Calles
+4.3.2.4.15. Centro de Salud Villa Benito Juárez
 
-4.3.2.3.19. Centro de Salud Poblado C-22 José María Pino Suárez
+4.3.2.4.16. Centro de Salud Villa Sánchez Magallanes
 
-4.3.2.3.20. Centro de Salud Poblado C-23 Venustiano Carranza
+4.3.2.4.17. Centro de Salud Ignacio Gutiérrez Gómez
 
-4.3.2.3.21. Centro de Salud Paileboth
+4.3.2.4.18. Centro de Salud Poblado C-14 Plutarco Elías Calles
 
-4.3.2.3.22. Centro de Salud Cuauhtemoczin
+4.3.2.4.19. Centro de Salud Poblado C-22 José María Pino Suárez
 
-4.3.2.3.23. Centro de Salud Sinaloa
+4.3.2.4.20. Centro de Salud Poblado C-23 Venustiano Carranza
 
-4.3.2.3.24. Centro de Salud Naranjeño 2da.
+4.3.2.4.21. Centro de Salud Paileboth
 
-4.3.2.3.25. Centro de Salud Ojoshal
+4.3.2.4.22. Centro de Salud Cuauhtemoczin
 
-4.3.2.3.26. Centro de Salud Manatinero
+4.3.2.4.23. Centro de Salud Sinaloa
 
-4.3.2.3.27. Centro de Salud Poblado C-16 Emiliano Zapata
+4.3.2.4.24. Centro de Salud Naranjeño 2da.
 
-4.3.2.3.28. Centro de Salud Azucena 2da.
+4.3.2.4.25. Centro de Salud Ojoshal
 
-4.3.2.3.29. Centro de Salud Azucena 4ta.
+4.3.2.4.26. Centro de Salud Manatinero
 
-4.3.2.3.30. Centro de Salud Poblado C-11 General José María Morelos
+4.3.2.4.27. Centro de Salud Poblado C-16 Emiliano Zapata
 
-4.3.2.3.31. Centro de Salud Poblado C-10 General Lázaro Cárdenas
+4.3.2.4.28. Centro de Salud Azucena 2da.
 
-4.3.2.3.32. Centro de Salud Poblado C-15 Adolfo López Mateos
+4.3.2.4.29. Centro de Salud Azucena 4ta.
 
-4.3.2.3.33. Centro de Salud Poblado C-17 Independencia
+4.3.2.4.30. Centro de Salud Poblado C-11 General José María Morelos
 
-4.3.2.3.34. Centro de Salud Poblado C-20 Miguel Hidalgo y Costilla
+4.3.2.4.31. Centro de Salud Poblado C-10 General Lázaro Cárdenas
 
-4.3.2.3.35. Centro de Salud Poblado C-21 Benito Juárez
+4.3.2.4.32. Centro de Salud Poblado C-15 Adolfo López Mateos
 
-4.3.2.3.36. Centro de Salud Poblado Poza Redonda 1ra.
+4.3.2.4.33. Centro de Salud Poblado C-17 Independencia
 
-4.3.2.3.37. Centro de Salud Poblado C-28 Coronel Gregorio Méndez
+4.3.2.4.34. Centro de Salud Poblado C-20 Miguel Hidalgo y Costilla
 
-4.3.2.3.38. Centro de Salud Poblado C-9 Francisco I. Madero
+4.3.2.4.35. Centro de Salud Poblado C-21 Benito Juárez
 
-4.3.2.3.39. Centro de Salud El Golpe
+4.3.2.4.36. Centro de Salud Poblado Poza Redonda 1ra.
 
-4.3.2.3.40. Centro de Salud Encrucijada 3ra.
+4.3.2.4.37. Centro de Salud Poblado C-28 Coronel Gregorio Méndez
 
-4.3.2.3.41. Centro de Salud Santuario 2da.
+4.3.2.4.38. Centro de Salud Poblado C-9 Francisco I. Madero
 
-4.3.2.4. Caravanas de la Salud:
+4.3.2.4.39. Centro de Salud El Golpe
 
-4.3.2.4.1. Caravana Tipo 0 No. 1 San Felipe
+4.3.2.4.40. Centro de Salud Encrucijada 3ra.
+
+4.3.2.4.41. Centro de Salud Santuario 2da.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+4.3.2.5. Caravanas de la Salud:
+
+4.3.2.5.1. Caravana Tipo 0 No. 1 San Felipe
 
 4.3.3. Jurisdicción Sanitaria de Centla
 
@@ -345,77 +365,87 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.3.3.2. UNEME CAPA Centla
 
-4.3.3.3. Centros de Salud:
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.3.3.1. Centro de Salud Boca de Chilapa 1ra.
+4.3.3.3. UNEME de Rehabilitación de Centla
 
-4.3.3.3.2. Centro de Salud Chichicastle 1ra.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.3.3.3. Centro de Salud Chilapa Margen Izquierda 1ra.
+4.3.3.4. Centros de Salud:
 
-4.3.3.3.4. Centro de Salud Ejido Juárez
+4.3.3.4.1. Centro de Salud Boca de Chilapa 1ra.
 
-4.3.3.3.5. Centro de Salud Francisco I. Madero
+4.3.3.4.2. Centro de Salud Chichicastle 1ra.
 
-4.3.3.3.6. Centro de Salud Felipe Carrillo Puerto
+4.3.3.4.3. Centro de Salud Chilapa Margen Izquierda 1ra.
 
-4.3.3.3.7. Centro de Salud La Estrella
+4.3.3.4.4. Centro de Salud Ejido Juárez
 
-4.3.3.3.8. Centro de Salud La Victoria
+4.3.3.4.5. Centro de Salud Francisco l. Madero
 
-4.3.3.3.9. Centro de Salud Mixteca 2da.
+4.3.3.4.6. Centro de Salud Felipe Carrillo Puerto
 
-4.3.3.3.10. Centro de Salud Nuevo Centla
+4.3.3.4.7. Centro de Salud La Estrella
 
-4.3.3.3.11. Centro de Salud Quintín Arauz
+4.3.3.4.8. Centro de Salud La Victoria
 
-4.3.3.4. CESSA Vicente Guerrero
+4.3.3.4.9. Centro de Salud Mixteca 2da.
 
-4.3.3.4.1. Centro de Salud Álvaro Obregón
+4.3.3.4.10. Centro de Salud Nuevo Centla
 
-4.3.3.4.2. Centro de Salud Adolfo López Mateos
+4.3.3.4.11. Centro de Salud Quintin Arauz
 
-4.3.3.4.3. Centro de Salud R/A Benito Juárez
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.3.4.4. Centro de Salud Caparroso
+4.3.3.5. CESSA Vicente Guerrero
 
-4.3.3.4.5. Centro de Salud Constancia y Venecia
+4.3.3.5.1. Centro de Salud Álvaro Obregón
 
-4.3.3.4.6. Centro de Salud Cuauhtémoc
+4.3.3.5.2. Centro de Salud Adolfo López Mateos
 
-4.3.3.4.7. Centro de Salud Gobernador Cruz
+4.3.3.5.3. Centro de Salud R/A Benito Juárez
 
-4.3.3.4.8. Centro de Salud Ignacio Allende
+4.3.3.5.4. Centro de Salud Caparroso
 
-4.3.3.4.9. Centro de Salud Ignacio Zaragoza
+4.3.3.5.5. Centro de Salud Constancia y Venecia
 
-4.3.3.4.10. Centro de Salud Jalapita
+4.3.3.5.6. Centro de Salud Cuauhtémoc
 
-4.3.3.4.11. Centro de Salud Ejido La Sabana
+4.3.3.5.7. Centro de Salud Gobernador Cruz
 
-4.3.3.4.12. Centro de Salud Libertad de Allende
+4.3.3.5.8. Centro de Salud Ignacio Allende
 
-4.3.3.4.13. Centro de Salud Simón Sarlat
+4.3.3.5.9. Centro de Salud Ignacio Zaragoza
 
-4.3.3.4.14. Centro de Salud Tabasquillo
+4.3.3.5.10. Centro de Salud Jalapita
 
-4.3.3.5. Caravanas de La Salud:
+4.3.3.5.11. Centro de Salud Ejido La Sabana
 
-4.3.3.5.1. Caravana Tipo I No. 1 Frontera
+4.3.3.5.12. Centro de Salud Libertad de Allende
 
-4.3.3.5.2. Caravana Tipo 0 No. 2 Quintín Arauz
+4.3.3.5.13. Centro de Salud Simón Sarlat
 
-4.3.3.5.3. Caravana Tipo I No. 3 Frontera
+4.3.3.5.14. Centro de Salud Tabasquillo
 
-4.3.3.5.4. Caravana Tipo 0 No. 4 Frontera
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.3.5.5. Caravana Tipo I No. 6 Frontera
+4.3.3.6. Caravanas de la Salud:
 
-4.3.3.5.6. Caravana Tipo 0 No. 7 Chichicastle
+4.3.3.6.1. Caravana Tipo I No. 1 Frontera
 
-4.3.3.5.7. Caravana Tipo 0 No. 8 Mixteca 2da.
+4.3.3.6.2. Caravana Tipo 0 No. 2 Quintín Arauz
 
-4.3.3.5.8. Caravana Tipo 0 No. 9 Frontera
+4.3.3.6.3. Caravana Tipo I No. 3 Frontera
+
+4.3.3.6.4. Caravana Tipo 0 No. 4 Frontera
+
+4.3.3.6.5. Caravana Tipo I No. 6 Frontera
+
+4.3.3.6.6. Caravana Tipo 0 No. 7 Chichicastle
+
+4.3.3.6.7. Caravana Tipo 0 No. 8 Mixteca 2da.
+
+4.3.3.6.8. Caravana Tipo 0 No. 9 Frontera
 
 4.3.4. Jurisdicción Sanitaria de Centro
 
@@ -425,269 +455,293 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.3.4.3. UNEME CAPASITS Tierra Colorada
 
-4.3.4.4. CESSA Tierra Colorada
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.4.1. Centro de Salud Acachapan y Colmena 1ra.
+4.3.4.4. CREE de Centro
 
-4.3.4.4.2. Centro de Salud Acachapan y Colmena 2da.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.4.3. Centro de Salud Nueva Constitución (Lagartera)
+4.3.4.5. CESSA Tierra Colorada
 
-4.3.4.4.4. Centro de Salud Lagartera 2da.
+4.3.4.5.1. Centro de Salud Acachapan y Colmena 1ra.
 
-4.3.4.4.5. Centro de Salud Casa Blanca
+4.3.4.5.2. Centro de Salud Acachapan y Colmena 2da.
 
-4.3.4.4.6. Centro de Salud Medellín y Pigua 1ra.
+4.3.4.5.3. Centro de Salud Nueva Constitución (Lagartera)
 
-4.3.4.4.7. Centro de Salud Medellín y Pigua 2da.
+4.3.4.5.4. Centro de Salud Lagartera 2da.
 
-4.3.4.4.8. Centro de Salud Medellín y Pigua 3ra.
+4.3.4.5.5. Centro de Salud Casa Blanca
 
-4.3.4.4.9. Centro de Salud Tierra Amarilla 2da.
+4.3.4.5.6. Centro de Salud Medellín y Pigua 1ra.
 
-4.3.4.5. CESSA Tamulte Delicias
+4.3.4.5.7. Centro de Salud Medellín y Pigua 2da.
 
-4.3.4.5.1. Centro de Salud Anacleto Canabal 2da.
+4.3.4.5.8. Centro de Salud Medellín y Pigua 3ra.
 
-4.3.4.5.2. Centro de Salud Anacleto Canabal 1ra.
+4.3.4.5.9. Centro de Salud Tierra Amarilla 2da.
 
-4.3.4.5.3. Centro de Salud González 1ra.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.5.4. Centro de Salud González 2da.
+4.3.4.6. CESSA Tamulte Delicias
 
-4.3.4.5.5. Centro de Salud González 3ra.
+4.3.4.6.1. Centro de Salud Anacleto Canabal 2da.
 
-4.3.4.5.6. Centro de Salud Lázaro Cárdenas 1ra.
+4.3.4.6.2. Centro de Salud Anacleto Canabal 1ra.
 
-4.3.4.5.7. Centro de Salud Lázaro Cárdenas 2da.
+4.3.4.6.3. Centro de Salud González 1ra.
 
-4.3.4.5.8. Centro de Salud González 1ra La Gloria
+4.3.4.6.4. Centro de Salud González 2da.
 
-4.3.4.5.9. Centro de Salud Plátano y Cacao 1ra.
+4.3.4.6.5. Centro de Salud González 3ra.
 
-4.3.4.5.10. Centro de Salud Plátano y Cacao 2da.
+4.3.4.6.6. Centro de Salud Lázaro Cárdenas 1ra
 
-4.3.4.6. CESSA Gaviotas
+4.3.4.6.7. Centro de Salud Lázaro Cárdenas 2da
 
-4.3.4.6.1. Centro de Salud San José Gaviotas
+4.3.4.6.8. Centro de Salud González 1a La Gloria
 
-4.3.4.6.2. Centro de Salud Alvarado Jimbal 3ra.
+4.3.4.6.9. Centro de Salud Plátano y Cacao 1ra
 
-4.3.4.6.3. Centro de Salud Estanzuela 1ra.
+4.3.4.6.10. Centro de Salud Plátano y Cacao 2da
 
-4.3.4.6.4. Centro de Salud Huasteca 2da. (Alvarado La Raya)
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.6.5. Centro de Salud Tumbulushal
+4.3.4.7. CESSA Gaviotas
 
-4.3.4.6.6. Centro de Salud Villa Parrilla
+4.3.4.7.1. Centro de Salud San José Gaviotas
 
-4.3.4.6.7. Centro de Salud La Lima
+4.3.4.7.2. Centro de Salud Alvarado Jimbal 3ra.
 
-4.3.4.6.8. Centro de Salud Huapinol
+4.3.4.7.3. Centro de Salud Estanzuela 1ra.
 
-4.3.4.6.9. Centro de Salud Parrilla II
+4.3.4.7.4. Centro de Salud Huasteca 2da. (Alvarado La Raya)
 
-4.3.4.6.10. Centro de Salud Parrilla IV
+4.3.4.7.5. Centro de Salud Tumbulushal
 
-4.3.4.6.11. Centro de Salud Playas del Rosario
+4.3.4.7.6. Centro de Salud Villa Parrilla
 
-4.3.4.6.12. Centro de Salud el Manzano
+4.3.4.7.7. Centro de Salud La Lima
 
-4.3.4.6.13. Centro de Salud Pueblo Nuevo
+4.3.4.7.8. Centro de Salud Huapinol
 
-4.3.4.6.14. Centro de Salud Torno Largo 2da.
+4.3.4.7.9. Centro de Salud Parrilla II
 
-4.3.4.6.15. Centro de Salud Torno Largo 3ra. (Sabanilla)
+4.3.4.7.10. Centro de Salud Parrilla IV
 
-4.3.4.7. CESSA Ocuiltzapotlán
+4.3.4.7.11. Centro de Salud Playas del Rosario
 
-4.3.4.7.1. Centro de Salud Lomas de Ocuiltzapotlán 1ra.
+4.3.4.7.12. Centro de Salud el Manzano
 
-4.3.4.7.2. Centro de Salud Fraccionamiento Ocuiltzapotlán II Las Rosas
+4.3.4.7.13. Centro de Salud Pueblo Nuevo
 
-4.3.4.7.3. Centro de Salud Medellin y Madero 2da.
+4.3.4.7.14. Centro de Salud Torno Largo 2da.
 
-4.3.4.7.4. Centro de Salud Tamulte de las Sabanas
+4.3.4.7.15. Centro de Salud Torno Largo 3ra. (Sabanilla)
 
-4.3.4.7.5. Centro de Salud Acachapan y Colmena 5ta.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.7.6. Centro de Salud Buenavista 1ra.
+4.3.4.8. CESSA Ocuiltzapotlán
 
-4.3.4.7.7. Centro de Salud Buenavista 2da.
+4.3.4.8.1. Centro de Salud Lomas de Ocuiltzapotlán 1ra.
 
-4.3.4.7.8. Centro de Salud Jolochero 2da.
+4.3.4.8.2. Centro de Salud Fraccionamiento Ocuiltzapotlán II Las Rosas
 
-4.3.4.7.9. Centro de Salud La Ceiba
+4.3.4.8.3. Centro de Salud Medellín y Madero 2da.
 
-4.3.4.7.10. Centro de Salud Macultepec
+4.3.4.8.4. Centro de Salud Tamulte de las Sabanas
 
-4.3.4.7.11. Centro de Salud El Espino
+4.3.4.8.5. Centro de Salud Acachapan y Colmena 5ta.
 
-4.3.4.8. CESSA Luis Gil Pérez
+4.3.4.8.6. Centro de Salud Buenavista 1ra.
 
-4.3.4.8.1. Centro de Salud Estancia 1ra.
+4.3.4.8.7. Centro de Salud Buenavista 2da.
 
-4.3.4.8.2. Centro de Salud Rio Viejo 1ra.
+4.3.4.8.8. Centro de Salud Jolochero 2da.
 
-4.3.4.8.3. Centro de Salud Boquerón 1ra.
+4.3.4.8.9. Centro de Salud La Ceiba
 
-4.3.4.8.4. Centro de Salud Boquerón 4ta.
+4.3.4.8.10. Centro de Salud Macultepec
 
-4.3.4.8.5 Centro de Salud Buenavista Rio Nuevo 1ra.
+4.3.4.8.11. Centro de Salud El Espino
 
-4.3.4.8.6. Centro de Salud Buenavista Rio Nuevo 3ra.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.8.7. Centro de Salud Corregidora 1ra.
+4.3.4.9. CESSA Luis Gil Pérez
 
-4.3.4.8.8. Centro de Salud Corregidora 3ra.
+4.3.4.9.1. Centro de Salud Estancia 1ra.
 
-4.3.4.8.9. Centro de Salud Corregidora 5ta.
+4.3.4.9.2. Centro de Salud Río Viejo 1ra.
 
-4.3.4.8.10. Centro de Salud Guineo 1ra.
+4.3.4.9.3. Centro de Salud Boquerón 1ra.
 
-4.3.4.8.11. Centro de Salud Ixtacomitán 1ra.
+4.3.4.9.4. Centro de Salud Boquerón 4ta.
 
-4.3.4.8.12. Centro de Salud Ixtacomitán 2da.
+4.3.4.9.5 Centro de Salud Buenavista Río Nuevo 1ra.
 
-4.3.4.8.13. Centro de Salud Miguel Hidalgo 1ra.
+4.3.4.9.6. Centro de Salud Buenavista Río Nuevo 3ra.
 
-4.3.4.8.14. Centro de Salud Pablo L. Sidar.
+4.3.4.9.7. Centro de Salud Corregidora 1ra.
 
-4.3.4.8.15. Centro de Salud Rio Tinto 1ra.
+4.3.4.9.8. Centro de Salud Corregidora 3ra.
 
-4.3.4.8.16. Centro de Salud Rio Tinto 3ra.
+4.3.4.9.9. Centro de Salud Corregidora 5ta.
 
-4.3.4.9. CESSA Maximiliano Dorantes
+4.3.4.9.10. Centro de Salud Guineo 1ra.
 
-4.3.4.9.1. Centro de Salud 1º de Mayo
+4.3.4.9.11. Centro de Salud Ixtacomitán 1ra.
 
-4.3.4.9.2. Centro de Salud Carrizal
+4.3.4.9.12. Centro de Salud Ixtacomitán 2da.
 
-4.3.4.9.3. Centro de Salud Brisas del Carrizal
+4.3.4.9.13. Centro de Salud Miguel Hidalgo 1ra.
 
-4.3.4.9.4. Centro de Salud Emiliano Zapata
+4.3.4.9.14. Centro de Salud Pablo L. Sidar.
 
-4.3.4.9.5. Centro de Salud Sabina
+4.3.4.9.15. Centro de Salud Rio Tinto 1ra.
 
-4.3.4.10. CESSA LA MANGA 1A
+4.3.4.9.16. Centro de Salud Rio Tinto 3ra.
 
-4.3.4.10.1. Centro de Salud Dos Montes
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.10.2. Centro de Salud Acachapan y Colmena 3ra (el jobo)
+4.3.4.10. CESSA Maximiliano Dorantes
 
-4.3.4.10.3. Centro de Salud Aztlán 2da
+4.3.4.10.1. Centro de Salud 1ro. de Mayo
 
-4.3.4.10.4. Centro de Salud Aztlán 1ra
+4.3.4.10.2. Centro de Salud Carrizal
 
-4.3.4.10.5. Centro de Salud El Corcho
+4.3.4.10.3. Centro de Salud Brisas del Carrizal
 
-4.3.4.10.6. Centro de Salud Barranca y Amate 3ra
+4.3.4.10.4. Centro de Salud Emiliano Zapata
 
-4.3.4.10.7. Centro de Salud Coronel Traconis 3ra (pajonal)
+4.3.4.10.5. Centro de Salud Sabina
 
-4.3.4.10.8. Centro de Salud La Cruz del Bajio
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.4.10.9. Centro de Salud La Manga 2da
+4.3.4.11. CESSA La Manga 1A
 
-4.3.4.10.10. Centro de Salud Chiquiguao 2da
+4.3.4.11.1. Centro de Salud Dos Montes
 
-4.3.4.10.11. Centro de Salud Miraflores 2da
+4.3.4.11.2. Centro de Salud Acachapan y Colmena 3ra (el jobo)
 
-4.3.4.10.12. Centro de Salud La Vuelta (la jagua)
+4.3.4.11.3. Centro de Salud Aztlán 2a
 
-4.3.4.10.13. Centro de Salud Matillas 4ta
+4.3.4.11.4. Centro de Salud Aztlán 1a
 
-4.3.4.10.14. Centro de Salud Cocoyol
+4.3.4.11.5. Centro de Salud El Corcho
 
-4.3.4.10.15. Centro de Salud Ismate y Chilapilla 1ra
+4.3.4.11.6. Centro de Salud Barranca y Amate 3ra
 
-4.3.4.10.16. Centro de Salud Coronel Traconis 3ra (guerrero)
+4.3.4.11.7. Centro de Salud Coronel Traconis 3ra (pajonal)
 
-4.3.4.10.17. Caravana Tipo 0 No. 1 Acachapan y Colmena 5ta sección
+4.3.4.11.8. Centro de Salud La Cruz del Bajío
 
-4.3.4.10.18. Caravana Tipo 0 No.2 Centro
+4.3.4.11.9. Centro de Salud La Manga 2a
 
-4.3.4.10.19. Caravana Tipo III No. 1 Dos Montes
+4.3.4.11.10. Centro de Salud Chiquiguao 2a
 
-4.3.4.10.20. Caravana Tipo III No. 2 Centro
+4.3.4.11.11. Centro de Salud Miraflores 2a
+
+4.3.4.11.12. Centro de Salud La Vuelta (la jagua)
+
+4.3.4.11.13. Centro de Salud Matillas 4a
+
+4.3.4.11.14. Centro de Salud Cocoyol
+
+4.3.4.11.15. Centro de Salud Ismate y Chilapilla 1ra
+
+4.3.4.11.16. Centro de Salud Coronel Traconis 3ra (guerrero)
+
+4.3.4.11.17. Caravana Tipo 0 No. 1 Acachapan y colmena 5ta sección
+
+4.3.4.11.18. Caravana Tipo 0 No. 2 Centro
+
+4.3.4.11.19. Caravana Tipo III No. 1 Dos Montes
+
+4.3.4.11.20. Caravana Tipo III No. 2 Centro
 
 4.3.5. Jurisdicción Sanitaria de Comalcalco
 
 4.3.5.1. Hospital General de Comalcalco
 
-4.3.5.2. CESSA Villa Tecolutilla
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.5.2.1. Centro de Salud Comalcalco
+4.3.5.2. UNEME de Rehabilitación de Comalcalco
 
-4.3.5.2.2. Centro de Salud Chichicapa
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.5.2.3. Centro de Salud Cupilco
+4.3.5.3. CESSA Villa Tecolutilla
 
-4.3.5.2.4. Centro de Salud Independencia 2da.
+4.3.5.3.1. Centro de Salud Comalcalco
 
-4.3.5.2.5. Centro de Salud Norte 1ra.
+4.3.5.3.2. Centro de Salud Chichicapa
 
-4.3.5.2.6. Centro de Salud Norte 2da.
+4.3.5.3.3. Centro de Salud Cupilco
 
-4.3.5.2.7. Centro de Salud Occidente 2da.
+4.3.5.3.4. Centro de Salud Independencia 2da.
 
-4.3.5.2.8. Centro de Salud Oriente 2da.
+4.3.5.3.5. Centro de Salud Norte 1ra.
 
-4.3.5.2.9. Centro de Salud Oriente 3ra.
+4.3.5.3.6. Centro de Salud Norte 2da.
 
-4.3.5.2.10. Centro de Salud Sur 1ra. Sección
+4.3.5.3.7. Centro de Salud Occidente 2da.
 
-4.3.5.2.11. Centro de Salud Sur 2da. Sección
+4.3.5.3.8. Centro de Salud Oriente 2da.
 
-4.3.5.2.12. Centro de Salud Lagartera 3ra.
+4.3.5.3.9. Centro de Salud Oriente 3ra.
 
-4.3.5.2.13. Centro de Salud Paso de Cupilco
+4.3.5.3.10. Centro de Salud Sur 1ra. Sección
 
-4.3.5.2.14. Centro de Salud Villa Aldama
+4.3.5.3.11. Centro de Salud Sur 2da. Sección
 
-4.3.5.2.15. Centro de Salud Arena 2da.
+4.3.5.3.12. Centro de Salud Lagartera 3ra.
 
-4.3.5.2.16. Centro de Salud Arena 1ra.
+4.3.5.3.13. Centro de Salud Paso de Cupilco
 
-4.3.5.2.17. Centro de Salud Arroyo Hondo 2da.
+4.3.5.3.14. Centro de Salud Villa Aldama
 
-4.3.5.2.18. Centro de Salud Carlos Greene
+4.3.5.3.15. Centro de Salud Arena 2da.
 
-4.3.5.2.19. Centro de Salud Emiliano Zapata
+4.3.5.3.16. Centro de Salud Arena 1ra.
 
-4.3.5.2.20. Centro de Salud León Zarate
+4.3.5.3.17. Centro de Salud Arroyo Hondo 2da.
 
-4.3.5.2.21. Centro de Salud Francisco I. Madero 2da.
+4.3.5.3.18. Centro de Salud Carlos Greene
 
-4.3.5.2.22. Centro de Salud Sargento López 1ra.
+4.3.5.3.19. Centro de Salud Emiliano Zapata
 
-4.3.5.2.23. Centro de Salud Sargento López 2da.
+4.3.5.3.20. Centro de Salud León Zarate
 
-4.3.5.2.24. Centro de Salud Ignacio Gutiérrez Gómez
+4.3.5.3.21. Centro de Salud Francisco I. Madero 2da.
 
-4.3.5.2.25. Centro de Salud Miguel Hidalgo
+4.3.5.3.22. Centro de Salud Sargento López 1ra.
 
-4.3.5.2.26. Centro de Salud Cocohital
+4.3.5.3.23. Centro de Salud Sargento López 2da.
 
-4.3.5.2.27. Centro de Salud Patastal 1ra.
+4.3.5.3.24. Centro de Salud Ignacio Gutiérrez Gómez
 
-4.3.5.2.28. Centro de Salud Progreso Tular 1ra.
+4.3.5.3.25. Centro de Salud Miguel Hidalgo
 
-4.3.5.2.29. Centro de Salud Zaragoza 1ra.
+4.3.5.3.26. Centro de Salud Cocohital
 
-4.3.5.2.30. Centro de Salud Guayo 1ra.
+4.3.5.3.27. Centro de Salud Patastal 1ra.
 
-4.3.5.2.31. Centro de Salud José María Pino Suárez 2da.
+4.3.5.3.28. Centro de Salud Progreso Tular 1ra.
 
-4.3.5.2.32. Centro de Salud José María Pino Suárez 1ra.
+4.3.5.3.29. Centro de Salud Zaragoza 1ra.
 
-4.3.5.2.33. Centro de Salud Lázaro Cárdenas 2da.
+4.3.5.3.30. Centro de Salud Guayo 1ra.
 
-4.3.5.2.34. Centro de Salud Gregorio Méndez 1ra.
+4.3.5.3.31. Centro de Salud José María Pino Suárez 2da.
 
-4.3.5.2.35. Centro de Salud Gregorio Méndez 2da.
+4.3.5.3.32. Centro de Salud José María Pino Suárez 1ra.
 
-4.3.5.2.36. Centro de Salud Zapotal 2da.
+4.3.5.3.33. Centro de Salud Lázaro Cárdenas 2da.
+
+4.3.5.3.34. Centro de Salud Gregorio Méndez 1ra.
+
+4.3.5.3.35. Centro de Salud Gregorio Méndez 2da.
+
+4.3.5.3.36. Centro de Salud Zapotal 2da.
 
 4.3.6. Jurisdicción Sanitaria de Cunduacán
 
@@ -775,23 +829,29 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.3.7.3. UNEME CAPA Emiliano Zapata
 
-4.3.7.4. Centros de Salud:
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.7.4.1. Centro de Salud Chablé
+4.3.7.4. UNEME de Rehabilitación de Emiliano Zapata
 
-4.3.7.4.2. Centro de Salud Coronel Gregorio Méndez
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.7.4.3. Centro de Salud Chacama
+4.3.7.5. Centros de Salud:
 
-4.3.7.4.4. Centro de Salud Pocvicuc
+4.3.7.5.1. Centro de Salud Chablé
 
-4.3.7.4.5. Centro de Salud Tres Letras (El Cuyo)
+4.3.7.5.2. Centro de Salud Coronel Gregorio Méndez
 
-4.3.7.4.6. Centro de Salud Aguacate
+4.3.7.5.3. Centro de Salud Chacama
 
-4.3.7.4.7. Centro de Salud Pochote
+4.3.7.5.4. Centro de Salud Pocvicuc
 
-4.3.7.4.8. Caravana Tipo 0 No. 2 El Jobal
+4.3.7.5.5. Centro de Salud Tres Letras (El Cuyo)
+
+4.3.7.5.6. Centro de Salud Aguacate
+
+4.3.7.5.7. Centro de Salud Pochote
+
+4.3.7.5.8. Caravana Tipo O No. 2 El Jobal
 
 4.3.8. Jurisdicción Sanitaria de Huimanguillo
 
@@ -1345,43 +1405,49 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.3.16.2. UNEME SoRID Teapa
 
-4.3.16.3. Centros de Salud:
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.16.3.1. Centro de Salud Teapa (Col. La Sierra)
+4.3.16.3. UNEME de Rehabilitación de Teapa
 
-4.3.16.3.2. Centro de Salud Col. Independencia
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-4.3.16.3.3. Centro de Salud Col. Morelia
+4.3.16.4. Centros de Salud:
 
-4.3.16.3.4. Centro de Salud Col. Tejería
+4.3.16.4.1. Centro de Salud Teapa (Col. La Sierra)
 
-4.3.16.3.5. Centro de Salud Andrés Quintana Roo 3ra.
+4.3.16.4.2. Centro de Salud Col. Independencia
 
-4.3.16.3.6. Centro de Salud Arcadio Zentella
+4.3.16.4.3. Centro de Salud Col. Morelia
 
-4.3.16.3.7. Centro de Salud Ej. Hermenegildo Galeana 3ra.
+4.3.16.4.4. Centro de Salud Col. Tejería
 
-4.3.16.3.8. Centro de Salud Ej. Mariano Pedrero 3ra.
+4.3.16.4.5. Centro de Salud Andrés Quintana Roo 3ra.
 
-4.3.16.3.9. Centro de Salud Ej. Vicente Guerrero Lerma
+4.3.16.4.6. Centro de Salud Arcadio Zentella
 
-4.3.16.3.10. Centro de Salud Ignacio Allende 2da.
+4.3.16.4.7. Centro de Salud Ej. Hermenegildo Galeana 3ra.
 
-4.3.16.3.11. Centro de Salud Ignacio López Rayón
+4.3.16.4.8. Centro de Salud Ej. Mariano Pedrero 3ra.
 
-4.3.16.3.12. Centro de Salud José María Morelos y Pavón 1ra.
+4.3.16.4.9. Centro de Salud Ej. Vicente Guerrero Lerma
 
-4.3.16.3.13. Centro de Salud Juan Aldama 1ra.
+4.3.16.4.10. Centro de Salud Ignacio Allende 2da.
 
-4.3.16.3.14. Centro de Salud Manuel Buelta y Rayón
+4.3.16.4.11. Centro de Salud Ignacio López Rayón
 
-4.3.16.3.15. Centro de Salud Miguel Hidalgo 2da.
+4.3.16.4.12. Centro de Salud José María Morelos y Pavón 1ra.
 
-4.3.16.3.16. Centro de Salud Mina y Matamoros
+4.3.16.4.13. Centro de Salud Juan Aldama 1ra.
 
-4.3.16.3.17. Centro de Salud Nicolás Bravo 2da.
+4.3.16.4.14. Centro de Salud Manuel Buelta y Rayón
 
-4.3.16.3.18. Centro de Salud José María Morelos 2da. "Santa Rita"
+4.3.16.4.15. Centro de Salud Miguel Hidalgo 2da.
+
+4.3.16.4.16. Centro de Salud Mina y Matamoros
+
+4.3.16.4.17. Centro de Salud Nicolás Bravo 2da.
+
+4.3.16.4.18. Centro de Salud José María Morelos 2da. "Santa Rita"
 
 4.3.17. Jurisdicción Sanitaria de Tenosique
 
@@ -1453,11 +1519,25 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 4.4 LABORATORIO DE SALUD PÚBLICA
 
-4.5 ADMINISTRACIÓN DE LA BENEFICENCIA PÚBLICA
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+4.5. CENTRO DE REHABILITACIÓN Y EDUCACIÓN ESPECIAL
 
 4.6 CENTRO ESTATAL DE HEMOTERAPIA
 
 4.7 SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+5. ORGANISMOS DESCENTRALIZADOS:
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+5.1. COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MÉDICO.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+5.2. SERVICIOS DE SALUD DEL ESTADO DE TABASCO.
 
 ## TÍTULO III. DE LA SECRETARÍA
 
@@ -1585,33 +1665,13 @@ XII. Dar seguimiento a los acuerdos y compromisos tomados en las reuniones trime
 
 XIII. Las demás que establezcan las disposiciones legales aplicables y el Secretario.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
 ### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE ANÁLISIS DE DAÑOS A LA SALUD DE PRIORIDAD ESTATAL
 
 ###### ARTÍCULO 13.
 
-Corresponde a la Coordinación de Análisis de Daños a la Salud de Prioridad Estatal el ejercicio de las siguientes atribuciones:
-
-I. Proponer correcciones en los procesos de atención;
-
-II. Proponer acciones para limitar los daños a la salud;
-
-III. Revisar con profundidad el comportamiento de enfermedades de prioridad e interés estatal;
-
-IV. Analizar profundamente los casos de muerte materna;
-
-V. Informar y compartir con el personal involucrado, los resultados de las investigaciones realizadas;
-
-VI. Aplicar la metodología de Brann en el análisis de las defunciones perinatales;
-
-VII. Participar en la reorganización del Programa Estatal de Prevención del Suicidio;
-
-VIII. Asesorar en la implementación de nuevas estrategias en el Programa de Prevención del Suicidio;
-
-IX. Analizar profundamente los casos de morbilidad y mortalidad por diabetes mellitus, hipertensión arterial, cáncer cervicouterino y mamario;
-
-X. Analizar profundamente a los personas que padezcan enfermedades emergentes y reemergentes; y
-
-XI. Las demás que determinen los ordenamientos legales aplicables y el Secretario.
+(DEROGADO, P.O. 24 DE NOVIEMBRE DE 2012)
 
 ### CAPÍTULO QUINTO. DE LA UNIDAD DE COMUNICACIÓN SOCIAL
 
@@ -1695,9 +1755,21 @@ XVII. Asesorar a las Unidades Administrativas de la Secretaría para que cumplan
 
 XVIII. Certificar los documentos que obren en los archivos de la Secretaría para ser exhibidos ante las autoridades judiciales, administrativas o del trabajo, y en general, para cualquier trámite o juicio, previo mandato de autoridad debidamente fundado y motivado;
 
-XIX. Asesorar a la Dirección de Administración en los procesos de regularización inmobiliaria ante las instancias correspondientes, respecto de los inmuebles que por cualquier tipo de título o documento estén destinados al servicio de la Secretaría; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-XX. Las demás que determinen las disposiciones legales aplicables y el Secretario.
+XIX. Coadyuvar en los procesos de regularización inmobiliaria ante las instancias correspondientes, respecto de los inmuebles que por cualquier tipo de título o documento estén destinados al servicio de la Secretaría;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XX. Recibir, tramitar y resolver las quejas o denuncias que formulen en contra de los Servidores Públicos, derivados de los actos u omisiones contrarios a los principios de: Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia en el desempeño del servicio público;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XXI. Iniciar el procedimiento administrativo y citar al denunciante o al quejoso para la ratificación de la denuncia o queja presentada en contra del servidor público adscrito a la Secretaría, por presuntas violaciones a los dispuesto por la Ley de Responsabilidades de los servidores público (sic); y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XXII. Las demás que determinen las disposiciones legales aplicables y el Secretario.
 
 ### CAPÍTULO OCTAVO. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
 
@@ -1845,9 +1917,17 @@ XXVII. Apoyar técnicamente la descentralización de los servicios de Salud, la 
 
 XXVIII. Proponer al Secretario, la delegación de facultades en servidores públicos subalternos, así como las desconcentración y descentralización de éstas, y una vez acordadas llevarlas a cabo;
 
-XXIX. Regular la expedición de nombramientos, así como las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio de la Secretaria; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
-XXX. Las demás que determinen las disposiciones legales aplicables y el Secretario.
+XXIX. Regular la expedición de nombramientos, así como las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio de la Secretaría;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XXX. Expedir las comisiones internas y externas del personal, en los casos que así se requiera; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+XXXI. Las demás que determinen las disposiciones legales aplicables y el Secretario.
 
 ## TÍTULO V. DE LAS SUBSECRETARÍAS
 
@@ -2113,7 +2193,37 @@ X. Evaluar la satisfacción del usuario sobre los servicios de los laboratorios 
 
 XI. Las demás que dispongan los ordenamientos legales aplicables o el Subsecretario de Servicios de Salud.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA UNIDAD DE ANÁLISIS DE DAÑOS A LA SALUD DE PRIORIDAD ESTATAL
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 28 Bis.
+
+Corresponde a la Unidad de Análisis de Daños a la Salud de Prioridad Estatal, el ejercicio de las siguientes atribuciones:
+
+I. Proponer correcciones en los procesos de atención;
+
+II. Proponer acciones para limitar los daños a la salud;
+
+III. Revisar con profundidad el comportamiento de enfermedades de prioridad e interés estatal;
+
+IV. Analizar profundamente los casos de muerte materna;
+
+V. Informar y compartir con el personal involucrado, los resultados de las investigaciones realizadas;
+
+VI. Aplicar la metodología de Brann en el análisis de las defunciones perinatales;
+
+VII. Participar en la reorganización del Programa Estatal de Prevención del Suicidio;
+
+\/III. Asesorar en la implementación de nuevas estrategias en el Programa de Prevención del Suicidio;
+
+IX. Analizar profundamente los casos de morbilidad y mortalidad por diabetes mellitus, hipertensión arterial, cáncer cervicouterino y mamario;
+
+X. Analizar profundamente a las personas que padezcan enfermedades emergentes y reemergentes; y
+
+XI. Las demás que determinen los ordenamientos legales aplicables y el Secretario.
 
 ### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE SALUD PÚBLICA Y SUS DIRECCIONES
 
@@ -2143,7 +2253,7 @@ X. Ejecutar programas especiales en materia de salud pública o control sanitari
 
 XI. Proponer y evaluar el programa de gastos y la aplicación de los recursos autorizados tanto federales como estatales.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
 
 ###### ARTÍCULO 30.
 
@@ -2172,6 +2282,8 @@ X. Promover y apoyar la capacitación del personal de las instituciones de salud
 XI. Integrar la información, estadísticas y documentos de los programas sustantivos que apoyen la planeación, evaluación y seguimiento de las acciones en materia de salud preventiva; y
 
 XII. Las demás que determinen las disposiciones legales aplicables o el Subsecretario de Salud Pública.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
 ###### ARTÍCULO 31.
 
@@ -2441,7 +2553,9 @@ El Centro de Referencia de Especialidades Odontológicas (CREO), tendrá la comp
 
 I. Brindar servicio como Unidad Médica de Especialidades Básicas de Odontología a la población que así lo requiera;
 
-II. Proporcionar servicios de Odontología Especializada en Odonto-Pediatría, Endodoncia, Parodoncia, Prótesis Bucal y Cirugía Bucal, en toda clase de cirugías de tipo ambulatorias y Ortopedia Maxilar;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+II. Proporcionar servicios de Odontología Especializada en Odonto-Pediatría, Endodoncia, Parodoncia, Prótesis Bucal y Cirugía Bucal, en toda clase de cirugías de tipo ambulatorias;
 
 III. Aplicar los programas dentro de su cobertura, implementando estrategias de acuerdo al área y necesidades de atención, con base en metas establecidas para cada programa;
 
@@ -2649,27 +2763,31 @@ XIV. Fomentar y desarrollar la investigación en seguimiento a los convenios con
 
 XV. Las demás que determinen las disposiciones legales aplicables o su superior jerárquico.
 
-### CAPÍTULO NOVENO. DE LA ADMINISTRACIÓN DE LA BENEFICENCIA PÚBLICA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+### CAPÍTULO NOVENO. DEL CENTRO DE REHABILITACIÓN Y EDUCACIÓN ESPECIAL
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 56.
 
-A la Administración de la Beneficencia Pública con personalidad jurídica y patrimonio propio corresponde el ejercicio de las siguientes atribuciones:
+Al Centro de Rehabilitación y Educación Especial, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Ejercer los derechos que conforme a la legislación le correspondan;
+l. Proporcionar la información y la cooperación técnico-administrativa que le sean solicitados, conforme al área de su competencia, a las políticas y lineamientos de la Secretaría;
 
-II. Representar los intereses de la Beneficencia Pública en toda clase de actos, juicios o procedimientos;
+II. Formular en coordinación con las unidades administrativas de la Secretaría, los asuntos de su competencia: anteproyectos de leyes, reglamentos, decretos, acuerdos, órdenes, lineamientos generales, manuales de organización, manuales de procedimientos y manuales de servicios al público, para proponerlos al Secretario;
 
-III. Administrar el patrimonio que corresponda a la Beneficencia Pública;
+III. Suscribir en coordinación con la Unidad Jurídica de la Secretaría, los contratos, acuerdos y convenios que se requieran para el ejercicio, operación y distribución del presupuesto asignado, excepto los instrumentos legales que por disposición de la ley o por funciones no delegables del Secretario deban ser suscritos por éste, así como en los que se vea implicado el Sector;
 
-IV. Promover, gestionar y proponer al Secretario la enajenación de bienes pertenecientes a la Beneficencia Pública, en caso de no ser necesarios para el cumplimiento de su objeto;
+IV. Elaborar para su autorización contratos, acuerdos y convenios de prestación de servicios profesionales médicos en materia de rehabilitación con terceros;
 
-V. Distribuir conforme a las políticas y lineamientos que fije el Secretario, los programas de salud del Estado, los recursos financieros que se le asignen;
+V. Aplicar los procedimientos de valoración integral a los usuarios, de conformidad con las disposiciones normativas aplicables, con el objeto de proporcionarles el tratamiento adecuado y así proporcionar atención médica especializada a pacientes con algún tipo de discapacidad;
 
-VI. Establecer los mecanismos necesarios para la debida aplicación de los recursos de la Beneficencia Pública;
+VI. Desarrollar actividades de terapia física, ocupacional, auditiva y de lenguaje, en el campo de la rehabilitación;
 
-VII. Formular el Programa de Apoyos y Subsidios Específicos a Instituciones en Materia de Salud o que tengan por objeto la asistencia a la población en general o a grupos determinados por ella;
+VII. Efectuar el correcto seguimiento y control de los pacientes a través del sistema de referencia y contrarreferencia, con el objeto de asegurar su atención integral y su reintegración a la sociedad, de acuerdo a cada caso en particular;
 
-VIII. Actuar como fuente de financiamiento, en apoyo a las actividades que realiza la Secretaría; y
+VIII. Aquellas que se generen de los acuerdos establecidos por las autoridades competentes en la materia y que lleven al fortalecimiento de los servicios de rehabilitación; y
 
 IX. Las demás que determinen las disposiciones legales aplicables o su superior jerárquico.
 
@@ -3038,3 +3156,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 DR. LUIS FELIPE GRAHAM ZAPATA
 
 SECRETARIO DE SALUD.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
