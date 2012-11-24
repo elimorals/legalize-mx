@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-84280
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2012-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL DEL AÑO 2012.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el folleto anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 2011.
 
@@ -396,6 +396,72 @@ ARTÍCULO DECIMOSEXTO.- Se condona el pago de los derechos que se generen por la
 De igual forma, se condona el pago de derechos por la expedición de Actas del estado civil de las personas inscritas bajo el programa “Chihuahua Vive”; las relativas a los beneficiarios de las acciones del “Fideicomiso Fondo de Atención a Niños y Niñas Hijos de las Víctimas de la Lucha Contra el Crimen” y las correspondientes a los beneficiados de las acciones del “Centro de Prevención y Atención a Mujeres y Familias en Situación de Violencia” (MUSIVI).
 
 ARTÍCULO DECIMOSÉPTIMO.- Para el ejercicio fiscal de 2012, se establece una sobretasa del 5% al Impuesto Sobre Nóminas, que se aplicará para la competitividad y seguridad ciudadana.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO DECIMOCTAVO.- Se autoriza al Ejecutivo para que, por conducto de la Secretaría de Hacienda, constituya un fideicomiso cuyos fines, entre otros, sea la recepción de Inversión Financiera al Estado de Chihuahua, documentando la misma en caso de que provenga del Mercado Bursátil Mexicano, mediante la emisión o emisiones de Certificados Bursátiles Fiduciarios, mismos que serán ofertados y colocados en la Bolsa Mexicana de Valores; y de ser el caso de que provenga del sector Bancario Mexicano, en los términos del artículo siguiente, por ofertar los recursos financieros en mejores condiciones, suscribir el o los documentos que así se requieran.
+
+De cualquier forma, el Ejecutivo, a través de la Secretaría de Hacienda, deberá buscar las mejores condiciones conforme a la situación prevaleciente en el mercado financiero Bancario y/o Bursátil.
+
+En el contrato podrán convenirse libremente todas las condiciones permitidas o exigidas por la normatividad aplicable, de las autoridades e instituciones bancarias y bursátiles, por los mercados financieros y aquellas acordes a los usos bancarios y fiduciarios, y las demás que sean necesarias para la emisión y colocación de los instrumentos bursátiles o la suscripción de los documentos requeridos por el sector Bancario, pero observando en la contratación del Fideicomiso los siguientes lineamientos, generales y no limitativos, mismos que se podrán adecuar, según sea el caso, de que los recursos financieros de los inversionistas, provengan del sector Bursátil o del Bancario.
+
+El Fideicomitente podrá afectar en fideicomiso:
+
+a) El derecho que tiene a percibir remanentes de recursos, una vez cumplidas las obligaciones de pago conforme al Fideicomiso 80599, así como los remanentes en sí.
+
+b) El derecho de reversión que el Fideicomitente tiene respecto a los bienes que formen parte del patrimonio del Fideicomiso 80599 a la extinción de éste y, consecuentemente, los bienes y derechos inherentes a dicha reversión, incluyendo, a partir de dicha extinción, los ingresos de peaje y el derecho de la Fiduciaria a recibirlos del Fideicomitente, cualquier ingreso que el Fideicomitente obtenga por el cobro de pólizas de seguro que tenga contratadas o llegase a contratar para cubrir riesgos relacionados con la operación de los tramos carreteros cuyo ingreso se afecte en fideicomiso, cualquier ingreso que el Fideicomitente obtenga del Gobierno Federal, sea o no por conducto de la Secretaría de Comunicaciones y Transportes, derivado de la terminación o extinción anticipada de las concesiones federales, y cualquier otro ingreso que el Fideicomitente perciba derivado de las concesiones federales.
+
+En virtud de la afectación del derecho de reversión mencionado y a fin de cumplir con las prestaciones a cargo del Fideicomiso que se contrate, se confieren al Fideicomitente facultades para pactar en el nuevo Fideicomiso, además de las obligaciones autorizadas en el Decreto No. 575/08 I P.O., en lo que le resulten aplicables y necesarias. Con el mismo propósito, subsistirán los deberes que el Decreto mencionado impone al Estado, mientras existan compromisos pendientes de cumplir a cargo del nuevo fideicomiso que se contrate.
+
+La afectación en fideicomiso podrá hacerse hasta por el plazo que se negocie y que mejor convenga al Fideicomitente y, en su caso, hasta liquidar íntegramente a los inversionistas, sin que, tratándose de los ingresos correspondientes a los tramos carreteros concesionados, los plazos puedan exceder de los especificados en las concesiones.
+
+I.-Serán partes en el Fideicomiso:
+
+Fideicomitente: El Estado Libre y Soberano de Chihuahua,
+
+por conducto de la Secretaría de Hacienda.
+
+Fideicomisarios Los tenedores de los Certificados Bursátiles,
+
+en Primer Lugar: que serán representados por un Representante Común,
+
+en los términos del contrato de Fideicomiso, o la Institución
+
+o Instituciones Bancarias, con la o las cuales suscriban
+
+el o los Contratos y demás documentos requeridos
+
+y sancionados por la Comisión Nacional Bancaria
+
+y de Valores.
+
+Fideicomisario El Estado Libre y Soberano de Chihuahua, por conducto
+
+en Segundo de la Secretaría de Hacienda, en los términos del
+
+Lugar: contrato de Fideicomiso.
+
+Fiduciario: Cualquier Institución de Banca Múltiple o Banca de
+
+Desarrollo que ofrezca las mejores condiciones.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO DECIMONOVENO.- Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Hacienda, directamente o a través del Fideicomiso referido en el artículo anterior, suscriba los contratos o documentos Bancarios o, en su caso, instruya al Fiduciario para que éste emita los certificados bursátiles, en ambos casos hasta por un monto que no exceda los seis mil millones de pesos y que afecte en el fideicomiso el derecho que tiene como fideicomitente y fideicomisario en segundo lugar en el Fideicomiso número 80599 celebrado con Nacional Financiera, S.N.C. como fiduciaria, de recibir remanentes conforme a dicho contrato de fideicomiso, así como el derecho a la reversión del patrimonio de ese mismo Fideicomiso 80599, una vez que éste se extinga. Los recursos inherentes a dichos derechos también quedarán afectos al fideicomiso.
+
+Así mismo, y si fuera el caso de que al contar el Fideicomiso como patrimonio del mismo, con un porcentaje o monto determinado de las Participaciones Federales que le corresponden al Estado en el Fondo General de Participaciones, como fuente alterna de pago o garantía, Fideicomitente y Fiduciario, pudieran mejorar sustancialmente las condiciones en que se suscriban los compromisos financieros, se autoriza al Ejecutivo para que afecte con el carácter antes descrito, dicho porcentaje o monto de ese rubro del ingreso Estatal, debiendo inscribir dichos compromisos financieros, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público, así mismo en el Registro Estatal de Deuda del Estado de Chihuahua.
+
+El Ejecutivo del Estado deberá acompañar los estados financieros del Fideicomiso a la Cuenta Pública Anual.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO VIGÉSIMO.
+
+Los recursos netos de la Inversión Financiera que obtenga el Estado, en cualesquiera de sus modalidades, no podrán aplicarse a gasto corriente y deberán destinarse a Inversión Pública Productiva.
+
+El Ejecutivo deberá ejercer íntegramente dichos recursos, a través del Fondo para el Desarrollo de Infraestructura, creado mediante Decreto No. 446/02 I P.O., publicado en el Periódico Oficial del Estado el 9 de noviembre de 2002, pudiendo adicionarle a los programas y acciones incluidos en el Decreto mencionado, las obras de infraestructura que vayan acordes con el Plan Estatal de Desarrollo 2010-2016.
+
+Por lo tanto, el Fondo para el Desarrollo de Infraestructura continuará operando, en lo conducente y que no contravenga al presente, en los términos y condiciones previstos en el Decreto No. 446/02 I P.O.
 
 T R A N S I T O R I O S
 
@@ -2312,3 +2378,19 @@ b). A color por cada hoja. 16.74
 1.5 Disco compacto grabable (CD-R) cada uno. 9.92
 
 1.6 Disco DVD grabable (DVD+R) cada uno. 13.64
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En caso de que el Ejecutivo del Estado ejerza las autorizaciones a que se refiere el presente Decreto, se entenderá por reformados la Ley de Ingresos y el Presupuesto de Egresos para el Ejercicio Fiscal de 2012, en el monto correspondiente, en los rubros de "Aprovechamientos" y "Fideicomisos de Certificados Bursátiles", respectivamente.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Ejecutivo del Estado para que los créditos contraídos en el Ejercicio Fiscal 2012, sean liquidados en los primeros ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
