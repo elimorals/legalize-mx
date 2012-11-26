@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-hospital-regional-de-alta-68690"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-19"
-last_updated: "2009-06-11"
+last_updated: "2012-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, DEL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, PUBLICADO EN LA G.G. DE 26 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 19 de mayo de 2009.
 
@@ -241,7 +243,7 @@ DIRECTORA GENERAL DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO Y SECRE
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 11 DE JUNIO DE 2009.
 
@@ -250,3 +252,11 @@ PRIMERO.-Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La organización y funcionamiento del Consejo Consultivo contemplado en el Capítulo Quinto de la Ley que crea el organismo público descentralizado de carácter estatal denominado Hospital Regional de Alta Especialidad de Zumpango, se establecerá una vez que sean autorizadas las unidades administrativas correspondientes del Hospital Regional de Alta Especialidad de Zumpango.
+
+G.G. 26 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Hospital Regional de Alta Especialidad de Zumpango, publicado en el Periódico Oficial "Gaceta del Gobierno" el 19 de mayo de 2009.
