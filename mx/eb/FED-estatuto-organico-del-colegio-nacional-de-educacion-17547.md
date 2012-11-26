@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-colegio-nacional-de-educacion-17547"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-11-09"
-last_updated: "2000-11-09"
+last_updated: "2012-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17547&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-10-24"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO NACIONAL DE EDUCACION PROFESIONAL TECNICA
 
-ESTATUTO ORGANICO DEL COLEGIO NACIONAL DE EDUCACION PROFESIONAL TECNICA
+ESTATUTO ORGÁNICO DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO, DEL ESTATUTO ORGÁNICO DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA, PUBLICADO EN EL D.O.F. DE 26 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el jueves 9 de noviembre de 2000.
 
@@ -1590,3 +1592,27 @@ Artículo Cuarto
 Una vez suscritos los Convenios de Coordinación para la Federalización de los Servicios de Educación Profesional Técnica con el Distrito Federal y con el Gobierno del Estado de Oaxaca, se procederá a realizar la actualización y ajustes necesarios al presente Estatuto Orgánico.
 
 Aprobado por la H. Junta Directiva del Colegio Nacional de Educación Profesional Técnica, en sesión celebrada en México, Distrito Federal, el veinticuatro de octubre de dos mil.- El Secretario de Educación Pública y Presidente de la Junta Directiva, Miguel Limón Rojas.- Rúbrica.- El Coordinador de Organos Desconcentrados y del Sector Paraestatal, Ramón Díaz de León Espino.- Rúbrica.- El Director General, Antonio Argüelles Díaz González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE NOVIEMBRE DE 2012.
+
+Artículo Primero
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo
+
+En caso de duda sobre la interpretación del presente ordenamiento la Junta Directiva, escuchando la opinión del Director General del CONALEP, resolverá lo conducente.
+
+Artículo Tercero
+
+Se abroga Estatuto Orgánico del CONALEP publicado en el Diario Oficial de la Federación el jueves 9 de noviembre de 2000, así como las disposiciones legales y administrativas que se opongan al presente, sin perjuicio de que conserven su vigencia los ordenamientos internos que rigen al CONALEP hasta en tanto se expidan los que correspondan.
+
+Artículo Cuarto
+
+Una vez suscritos los Convenios de Coordinación para la Federalización de los Servicios de Educación Profesional Técnica y Profesional Técnica Bachiller con el Distrito Federal y con el gobierno del Estado de Oaxaca, se procederá a realizar la actualización y ajustes necesarios al presente Estatuto Orgánico.
+
+Artículo Quinto
+
+Se instruye al Director General del Colegio Nacional de Educación Profesional Técnica, realizar los trámites necesarios para la publicación del Estatuto Orgánico en el Diario Oficial de la Federación de conformidad con lo dispuesto por el artículo 59, fracción XII de la Ley Federal de las Entidades Paraestatales.
