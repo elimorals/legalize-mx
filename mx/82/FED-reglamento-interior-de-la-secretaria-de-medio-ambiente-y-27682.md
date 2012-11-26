@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-27682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2009-08-24"
+last_updated: "2012-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-01-17"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL D.O.F. DE 26 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -4732,3 +4734,439 @@ Se derogan los artículos 44 a 109 del Reglamento Interior de la Secretaría de 
 D.O.F. 24 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el Diario Oficial de la Federación el 21 de enero de 2003 y los decretos que modificaron su contenido publicados en el mismo medio de difusión oficial los días 22 de noviembre de 2004, 29 de noviembre de 2006 y 24 de agosto de 2009.
+
+TERCERO. El personal, los recursos, los expedientes en trámite, el archivo, el mobiliario y, en general, el equipo que las unidades administrativas a que se refiere este ordenamiento, hubieren utilizado en el ejercicio de sus atribuciones, deberán trasladarse a las unidades administrativas que se crean en el mismo, debiendo distribuirse, en su caso, de conformidad con las atribuciones que a cada una de ellas correspondan y de acuerdo con los lineamientos que emita la Oficialía Mayor.
+
+Las modificaciones que se lleven a cabo a la estructura orgánica de la Secretaría se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
+
+CUARTO. Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que se le atribuya la competencia en el propio instrumento jurídico.
+
+QUINTO. Los acuerdos secretariales sobre delegación de atribuciones que se hayan expedido con anterioridad a la entrada en vigor del presente Decreto, seguirán vigentes en lo que no se opongan al mismo.
+
+SEXTO. Se deroga el Acuerdo por el que se delega a favor del Subsecretario de Gestión para la Protección Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales, la facultad para aprobar los programas de gestión de calidad del aire elaborados por los gobiernos locales, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2009.
+
+SÉPTIMO. En tanto se emita el Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático a que se refiere el Artículo Sexto Transitorio de la Ley General de Cambio Climático, dicho Instituto seguirá operando con la estructura que tenía asignadas el entonces Instituto Nacional de Ecología, a saber:
+
+A) Dirección General;
+
+B) Dirección General de Investigación en Conservación y Planeación Ambiental Territorial;
+
+C) Dirección General de Investigación sobre la Contaminación Urbana y Regional;
+
+D) Dirección General de Investigación en Política y Economía Ambiental;
+
+E) Dirección General del Centro Nacional de Investigación y Capacitación Ambiental;
+
+F) Dirección General de Investigación sobre Cambio Climático, y
+
+G) Unidad Ejecutiva de Administración y Asuntos Jurídicos.
+
+OCTAVO. Las unidades administrativas señaladas en el artículo anterior, tendrán las atribuciones siguientes:
+
+A. La Dirección General del Instituto Nacional de Ecología y Cambio Climático las de:
+
+I. Brindar apoyo técnico y científico a las unidades administrativas de la Secretaría para formular, conducir y evaluar la política nacional en materia de equilibrio ecológico y protección del medio ambiente;
+
+II. Coordinar, promover y desarrollar la investigación científica para formular y conducir la política general de saneamiento ambiental, en coordinación con las áreas competentes de la Secretaría, con la Secretaría de Salud y demás dependencias competentes;
+
+III. Coordinar, promover y desarrollar la investigación científica para administrar y promover la conservación y el aprovechamiento sustentable de la vida silvestre, de especies y ecosistemas prioritarios, así como de las especies migratorias, en el ámbito de su competencia;
+
+IV. Coordinar, promover y desarrollar la investigación científica para apoyar la formulación y conducción de la política general en materia de prevención y control de la contaminación atmosférica, residuos, suelos contaminados, sustancias tóxicas y la evaluación de riesgos ecotoxicológicos y cambio climático;
+
+V. Elaborar, promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los recursos naturales y sobre la calidad ambiental de los procesos productivos, de los servicios y de transporte, en coordinación con las unidades administrativas de la Secretaría;
+
+VI. Apoyar a las unidades administrativas competentes de la Secretaría en la formulación de los estudios de ordenamiento ecológico del territorio, regulación ambiental del desarrollo urbano y cambio climático con la participación que corresponda a otras dependencias y entidades;
+
+VII. Participar con la Oficialía Mayor de la Secretaría, en el diseño de instrumentos económicos fiscales, financieros y de mercado vinculados a la política ambiental, con la finalidad de que las diversas dependencias y entidades de la Administración Pública Federal los operen en el ámbito de su competencia, así como crear metodologías y procedimientos para evaluar económicamente al capital natural, a través de los bienes y servicios ambientales que presta, y cooperar con las dependencias y entidades de la Administración Pública Federal para desarrollar un sistema integrado de contabilidad ambiental y económico;
+
+VIII. Apoyar técnicamente a las unidades administrativas de la Secretaría en la aplicación de instrumentos de política ambiental que propicien el desarrollo sustentable;
+
+IX. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la contaminación del ambiente y el agotamiento de los recursos naturales provocados por las actividades económicas para calcular el Producto Interno Neto Ecológico;
+
+X. Contribuir al diagnóstico de la situación ambiental en relación con los compromisos internacionales, así como al diseño de políticas para cumplir con los mismos, en apoyo a la Unidad Coordinadora de Asuntos Internacionales;
+
+XI. Contribuir al diseño de instrumentos de política ambiental y de aprovechamiento de recursos naturales, así como evaluar, con la participación que corresponda a la Dirección General de Estadística e Información Ambiental y a otras unidades administrativas de la Secretaría y de otras dependencias y entidades, los costos y beneficios económicos, sociales y ambientales de la normatividad ambiental;
+
+XII. Proponer al Secretario, fomentar y desarrollar, actividades e iniciativas que en materia ambiental promueva el Consejo Nacional de Ciencia y Tecnología y demás instancias competentes en la materia;
+
+XIII. Participar con otras unidades administrativas de la Secretaría, en el diseño de mecanismos de financiamiento que permitan llevar a cabo los proyectos de investigación para la conservación y aprovechamiento sustentable de los recursos naturales y control de la contaminación, entre otros, en donde intervengan las unidades administrativas de la Secretaría;
+
+XIV. Participar en los grupos de trabajo y comités técnicos y científicos creados en el seno de las instancias de coordinación metropolitanas;
+
+XV. Participar en la integración y toma de decisiones del Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre, así como desarrollar estudios científicos que tengan por objeto identificar las especies en riesgo, determinar las especies y poblaciones prioritarias para la conservación y promover la declaración de hábitats críticos y áreas de refugio;
+
+XVI. Dar apoyo técnico a los estudios que propongan y justifiquen el establecimiento y recategorización de las áreas naturales protegidas de competencia federal, zonas de restauración, así como la elaboración de los respectivos programas de manejo;
+
+XVII. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de ordenamiento ecológico, conservación de ecosistemas y especies de vida silvestre, contaminación y calidad ambiental, de colecta de especímenes con fines científicos y de investigación, de aprovechamiento para su utilización en biotecnología, acceso a recursos genéticos, así como para la utilización confinada, el manejo, la movilización y la liberación experimental, en programas piloto y comercial, de organismos genéticamente modificados;
+
+XVIII. Otorgar apoyo técnico a los programas que se realicen en los centros de investigación de la vida silvestre;
+
+XIX. Aplicar y promover programas y proyectos de rescate de la vida silvestre y ecosistemas, basados en la investigación existente y la normatividad vigente en la materia, en cooperación con el Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre;
+
+XX. Opinar respecto de las autorizaciones relativas a la colecta e investigación científica sobre especies silvestres y ecosistemas basados en la investigación existente y en la normatividad vigente en la materia, en coordinación con la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, así como en todo lo relativo a la seguridad de la biotecnología;
+
+XXI. Emitir opiniones relacionadas con el otorgamiento de autorizaciones en materia de aprovechamiento de la vida silvestre con fines de utilización en la biotecnología y acceso a recursos genéticos, y para el manejo, liberación al ambiente y tránsito por el territorio nacional de organismos vivos modificados y organismos genéticamente modificados, así como en todo lo relativo a la seguridad de la biotecnología;
+
+XXII. Desarrollar un sistema de bases de datos ambientales, con la intervención que corresponda a la Dirección General de Estadística e Información Ambiental;
+
+XXIII. Participar y supervisar el desarrollo, con la participación de las unidades administrativas competentes de la Secretaría, de los sistemas de información geográfica para el ordenamiento ecológico general y regional del territorio nacional y los programas de ordenamiento ecológico marinos, de conformidad con las disposiciones jurídicas aplicables;
+
+XXIV. Participar en iniciativas, comités y consorcios ambientales científicos y de investigación, educación y capacitación, tanto nacionales como internacionales;
+
+XXV. Promover el intercambio científico con instituciones de investigación y enseñanza media superior y superior, tanto nacionales como internacionales;
+
+XXVI. Promover la celebración de convenios y proyectos de colaboración con dependencias e instituciones académicas y de investigación, nacionales e internacionales, así como difundir sus resultados;
+
+XXVII. Organizar, participar y presentar en conferencias y talleres nacionales e internacionales trabajos sobre los estudios científicos, desarrollos normativos y otras experiencias de gestión ambiental relevantes, relacionados con las actividades del Instituto Nacional de Ecología y Cambio Climático y de las unidades administrativas de la Secretaría;
+
+XXVIII. Preparar y publicar libros, publicaciones periódicas, en versiones electrónicas, impresas o a través de Internet, catálogos, manuales, artículos e informes técnicos sobre los trabajos que realice en las materias de su competencia, para su difusión a especialistas y al público en general;
+
+XXIX. Coordinar, promover y desarrollar la investigación científica para apoyar la política general de la Secretaría en materia de cambio climático;
+
+XXX. Elaborar, aplicar y evaluar, de conformidad con los lineamientos legales aplicables, su programa de desarrollo informático;
+
+XXXI. Establecer, en coordinación con la Dirección General de Estadística e Información Ambiental, y la Unidad Coordinadora de Participación Social y Transparencia, los mecanismos para garantizar el acceso del público a los resultados de la investigación ambiental;
+
+XXXII. Administrar la biblioteca del Instituto Nacional de Ecología y Cambio Climático, así como emitir los lineamientos y criterios de operación que deberá observar el mencionado Instituto en la prestación de los servicios de consulta pública documental;
+
+XXXIII. Difundir los resultados de los proyectos, estudios e investigaciones realizados en el Instituto Nacional de Ecología y Cambio Climático, a través de publicaciones científicas y del Sistema de Bases de Datos Ambientales;
+
+XXXIV. Participar en la difusión de la información científica ambiental entre los sectores productivos, gubernamentales y sociales;
+
+XXXV. Coadyuvar con el Centro de Educación y Capacitación para el Desarrollo Sustentable en la promoción y el desarrollo de planes y programas para la formación de especialistas ambientales en instituciones de educación media superior y superior;
+
+XXXVI. Diseñar, promover e implementar cursos especializados de capacitación sobre aspectos técnicos, científicos y gerenciales de la gestión ambiental, para el personal operativo y para mandos medios y superiores del Instituto Nacional de Ecología y Cambio Climático, y de otras unidades administrativas de la Secretaría, así como para otras instituciones y dependencias, con la participación del Centro de Educación y Capacitación para el Desarrollo Sustentable;
+
+XXXVII. Diseñar, proponer y fomentar el desarrollo de capacidades de investigación y gestión ambiental en las entidades federativas y los municipios del país en coordinación con las unidades administrativas que le sean adscritas a la Subsecretaría de Planeación y Política Ambiental; así como asesorar y capacitar a las entidades federativas en el diseño de los Planes Estatales de Cambio Climático;
+
+XXXVIII. Promover y desarrollar con instituciones académicas y de investigación, la investigación jurídica en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, en coordinación con la Unidad Coordinadora de Asuntos Jurídicos;
+
+XXXIX. Desarrollar, en colaboración y coordinación con organismos internacionales, investigación científica en los asuntos de su competencia;
+
+XL. Diseñar, instrumentar y desarrollar, en coordinación con las Direcciones Generales de Informática y Telecomunicaciones, y de Estadística e Información Ambiental, el programa de informática científica de la Secretaría, incluyendo bases de datos ambientales y biológicos, sistema de información geográfica, registro automatizado de datos ambientales, sistemas computarizados de seguimiento, modelos de simulación ambiental, procesos de gestión ambiental, normatividad informática, innovación tecnológica, así como la integración de un repositorio de sistemas de uso común para la Secretaría;
+
+XLI. Aplicar las políticas y disposiciones emitidas en materia de transparencia y acceso a la información;
+
+XLII. Formular, implementar, aplicar, ejecutar, gestionar, evaluar y supervisar los programas y los presupuestos para apoyar la formación de recursos humanos de alto nivel de especialización, incluyendo programas de posgrado en el extranjero en el Sector Ambiental y, en general, en los distintos órdenes de gobierno, así como en los sectores social y privado en las materias de su competencia;
+
+XLIII. Promover, en coordinación con la Secretaría de Educación Pública, que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes, programas y estrategias de difusión para la formación de especialistas y para la investigación sobre cambio climático, en coordinación con el Centro de Educación y Capacitación para el Desarrollo Sustentable en educación básica y medio (sic);
+
+XLIV. Establecer vínculos de colaboración con centros e instituciones de investigación establecidos en otros países, así como fomentar la cooperación técnica en temas relacionados con el cambio climático;
+
+XLV. Participar, en representación de la Secretaría en foros, proyectos de investigación y acuerdos internacionales relacionados con el cambio climático, en coordinación con la Unidad Coordinadora de Asuntos Internacionales; así como asesorar a los tomadores de decisiones y a las delegaciones de México en foros internacionales sobre cambio climático;
+
+XLVI. Coordinar la elaboración de las comunicaciones nacionales de México ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático, así como la formulación de estrategias de acción climática, con la participación de la Unidad Coordinadora de Asuntos Internacionales y de las unidades administrativas competentes de otras secretarías;
+
+XLVII. Promover y coordinar estudios sobre los beneficios compartidos derivados de la aplicación de medidas y estrategias para reducir simultáneamente la emisión de contaminantes tóxicos y de gases de efecto invernadero;
+
+XLVIII. Promover y coordinar estudios para la actualización, mejoramiento y sistematización permanente del inventario nacional de emisiones de gases de efecto invernadero;
+
+XLIX. Participar en proyectos y actividades de cooperación internacional con investigaciones sobre cambio climático, en coordinación, cuando corresponda, con la Unidad Coordinadora de Asuntos Internacionales;
+
+L. Promover y coordinar estudios sobre elaboración de inventarios de emisiones de gases de efecto invernadero, nacionales y estatales, escenarios de emisiones, medidas de mitigación de emisiones de gases efecto invernadero en sectores clave de la economía nacional, así como sobre la vulnerabilidad y las opciones de adaptación al cambio climático, con el fin de instrumentar las medidas de adaptación, y a la variabilidad climática en el país;
+
+LI. Preparar y publicar materiales sobre cambio climático, así como elaborar nuevos y actualizar de forma continua los portales de cambio climático, tanto el de difusión científica como el de información por estados y por Sector, para su difusión a especialistas y al público en general;
+
+LII. Dirigir, proponer y desarrollar investigaciones referentes a organismos genéticamente modificados;
+
+LIII. Proponer al Consejo Nacional de Ciencia y Tecnología elementos para la formulación del programa de desarrollo de la bioseguridad y la biotecnología;
+
+LIV. Proponer, en el ámbito de su competencia, los elementos que deban integrarse a las políticas ambientales de la Secretaría, a través de la Subsecretaría de Planeación y Política Ambiental;
+
+LV. Coordinar, desarrollar y promover el muestreo, monitoreo, evaluación y análisis de contaminantes ambientales y de sustancias tóxicas, persistentes y bioacumulables, así como la realización de pruebas ecotoxicológicas para evaluar los efectos de tóxicos en la biota;
+
+LVI. Promover la captación de donativos, aportaciones, asignaciones y demás recursos financieros y materiales, que sean necesarios para el desarrollo de programas del Instituto Nacional de Ecología y Cambio Climático, así como administrar, controlar y evaluar la aplicación de los mismos y, en su caso, efectuar las gestiones para su rembolso;
+
+LVII. Proponer al Secretario del Ramo la creación y operación de mecanismos financieros, que permitan la captación de recursos externos, nacionales e internacionales, que se dirijan a complementar el financiamiento de las actividades de investigación, apegándose para ello a lo establecido en la Ley de Ciencia y Tecnología, y
+
+LVIII. Las demás que le confiera el Titular de la Secretaría, las que señalen las disposiciones legales y reglamentarias, así como las que correspondan a las unidades administrativas a su cargo.
+
+B. La Dirección General de Conservación y Planeación Ambiental Territorial las de:
+
+I. Apoyar a la Secretaría en la supervisión de los estudios para la formulación del programa de ordenamiento ecológico general del territorio y los programas de ordenamiento ecológico marinos, así como los ordenamientos ecológicos regionales de competencia federal;
+
+II. Apoyar técnicamente a las unidades administrativas competentes de la Secretaría en la formulación de los programas de ordenamiento ecológico regionales y locales, a cargo de las entidades federativas y municipios que lo soliciten;
+
+III. Desarrollar las metodologías y elementos técnicos de apoyo para la planeación territorial en coordinación con las autoridades pertinentes de la Secretaría que coadyuven a la regulación de actividades productivas, la conservación y el manejo sustentable de los ecosistemas y de los recursos naturales;
+
+IV. Establecer acuerdos y mecanismos de coordinación con instituciones académicas y gubernamentales, nacionales e internacionales, y fomentar la investigación y cooperación técnica en temas relacionados a la planeación ambiental territorial, el análisis geográfico de la problemática ambiental, la conservación y el manejo sustentable de los ecosistemas y de la vida silvestre en el ámbito de su competencia;
+
+V. Participar en foros, proyectos de investigación y acuerdos internacionales relacionados con la planeación territorial, el manejo integral de cuencas hídricas, la conservación y manejo de la vida silvestre, y ecosistemas, con la participación, en su caso, de las unidades y direcciones generales competentes de la Secretaría;
+
+VI. Proponer a las unidades administrativas competentes de la Secretaría y, en su caso, promover los elementos técnicos y científicos para la celebración de convenios y acuerdos con los gobiernos de los estados y municipios, así como con los sectores social y privado, para la realización de acciones tendentes a la investigación, educación, conservación, manejo y aprovechamiento sustentable de los ecosistemas y la vida silvestre;
+
+VII. Coordinar la elaboración y desarrollo de las metodologías necesarias para la definición de regiones ecológicas del territorio nacional, y participar en los proyectos o iniciativas internacionales relacionadas con el tema en el ámbito de su competencia;
+
+VIII. Diseñar y proponer, en coordinación con las unidades administrativas de la Secretaría y sus órganos desconcentrados, estudios de viabilidad técnica, financiera y social, asociados a proyectos de conservación de ecosistemas y de áreas naturales protegidas;
+
+IX. Proponer a las unidades administrativas competentes de la Secretaría y, en su caso, apoyar técnicamente, la realización de estudios de biología poblacional de especies de vida silvestre, incluidas las prioritarias en riesgo y migratorias, así como realizar proyectos de campo para su conservación o su recuperación;
+
+X. Identificar, con la participación de las unidades administrativas competentes de la Secretaría, las especies y poblaciones en riesgo y clasificar a las especies y poblaciones de vida silvestre de acuerdo a su estatus de conservación, en colaboración con la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
+
+XI. Diseñar programas de conservación, recuperación, reintroducción, erradicación y manejo sustentable, así como coordinar, promover y realizar estudios de monitoreo de poblaciones de especies de vida silvestre en riesgo, en coordinación con las unidades administrativas de la Secretaría;
+
+XII. Proponer y apoyar técnicamente a las unidades administrativas competentes de la Secretaría, en la propuesta y formulación de normas para el manejo y la conservación de especies de vida silvestre y comunidades biológicas prioritarias;
+
+XIII. Realizar, conducir y promover estudios para la conservación, manejo o aprovechamiento, restauración, propagación, recuperación, siembra, introducción, reintroducción, control, traslocación, trasplante y repoblamiento y erradicación de especies de flora y fauna silvestres;
+
+XIV. Actualizar las bases de datos y los sistemas de información geográfica para el ordenamiento ecológico, en coordinación con las Direcciones Generales de Política Ambiental e Integración Regional y Sectorial, y de Estadística e Información Ambiental;
+
+XV. Emitir opiniones técnicas para la colecta de especímenes o sus partes con fines científicos, de investigación y de aprovechamiento sustentable;
+
+XVI. Integrar a los sistemas de ordenamiento ecológico los datos del Registro de Emisiones y Transferencia de Contaminantes, en coordinación con las Direcciones Generales de Gestión Integral de Materiales y Actividades Riesgosas, y de Estadística e Información Ambiental;
+
+XVII. Apoyar los programas de recuperación de especies de vida silvestre en riesgo;
+
+XVIII. Generar métodos e investigación aplicada pertinente para el apoyo de instrumentos y estrategias de planeación del uso del territorio, incluyendo, de manera enunciativa y no limitativa, ordenamiento ecológico del territorio, áreas naturales protegidas, corredores biológicos, unidades de manejo de vida silvestre y planeación comunitaria;
+
+XIX. Apoyar con técnicas y metodologías a las unidades administrativas competentes de la Secretaría en el análisis de los principales procesos de degradación ambiental en el país;
+
+XX. Apoyar técnicamente a las unidades administrativas competentes de la Secretaría, y a sus órganos desconcentrados, mediante el diseño, promoción y desarrollo de proyectos de investigación científica que aborden la dinámica socio-ambiental de las cuencas hidrográficas;
+
+XXI. Proponer a las unidades administrativas competentes de la Secretaría, y a sus órganos desconcentrados, métodos y elementos técnicos para fortalecer la gestión integrada de los recursos naturales y la formulación de planes de manejo, empleando a la cuenca hidrográfica como unidad territorial;
+
+XXII. Proponer a las unidades administrativas competentes de la Secretaría, y a sus órganos desconcentrados, estudios que coadyuven a comprender mejor la degradación de los recursos naturales de las cuencas hidrográficas, tanto desde la perspectiva ambiental como la institucional;
+
+XXIII. Realizar, conducir y promover estudios para la conservación, manejo y restauración de ecosistemas terrestres, costeros y marinos;
+
+XXIV. Identificar, con la participación de las unidades administrativas competentes de la Secretaría, los ecosistemas terrestres, marinos y costeros prioritarios para su conservación;
+
+XXV. Diseñar programas de conservación, así como coordinar, promover y realizar estudios tendentes a la conservación y manejo sustentable de ecosistemas terrestres, marinos y costeros;
+
+XXVI. Emitir opiniones técnicas sobre el impacto de diferentes actividades productivas, de infraestructura y de investigación en los ecosistemas terrestres, marinos y costeros, y
+
+XXVII. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
+
+C. La Dirección General de Investigación sobre la Contaminación Urbana y Regional, las de:
+
+I. Diseñar, dirigir y colaborar en estudios y asesorías para evaluar las tendencias espaciales y temporales de los contaminantes atmosféricos, así como de las sustancias tóxicas, residuos peligrosos y de manejo especial y materiales con potencial de contaminación al ambiente;
+
+II. Dirigir estudios y asesorías tendentes a evaluar o estimar la exposición, los riesgos y los impactos de la contaminación ambiental en los ecosistemas y en la salud humana;
+
+III. Participar en el diseño, realización y evaluación de estudios en materia de calidad del aire, así como de sustancias tóxicas, residuos peligrosos y de manejo especial y materiales con potencial de contaminación al ambiente, en diversas zonas del país;
+
+IV. Promover, en coordinación con la Secretaría de Educación Pública, que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes, programas y mecanismos de difusión para la formación de especialistas y para la investigación sobre contaminación atmosférica, ecotoxicología y salud ambiental;
+
+V. Establecer vínculos de colaboración con centros e instituciones de investigación establecidos en México y en otros países y fomentar la cooperación técnica en toxicología, ecotoxicología y salud ambiental en temas relacionados con la contaminación del aire, sustancias tóxicas, residuos peligrosos y de manejo especial y los materiales con potencial de contaminación al ambiente;
+
+VI. Participar, en representación de la Secretaría, en foros, proyectos de investigación y acuerdos internacionales relacionados con la salud ambiental, la contaminación atmosférica y la seguridad química, en coordinación con la Unidad Coordinadora de Asuntos Internacionales;
+
+VII. Promover y participar conjuntamente con universidades, centros de investigación y otras instituciones nacionales e internacionales, en proyectos y estudios dirigidos a la adaptación y utilización de métodos y modelos de simulación de la calidad del aire, así como toxicológicos, ecotoxicológicos y para la evaluación de riesgos ambientales, en su caso, bajo los lineamientos de la Unidad Coordinadora de Asuntos Internacionales;
+
+VIII. Participar en proyectos y actividades de cooperación internacional con investigaciones sobre medidas, estrategias y políticas tendentes a mejorar la calidad del aire, así como sobre la gestión, el manejo y tratamiento de residuos peligrosos y de manejo especial, sustancias tóxicas y materiales con potencial de contaminación al ambiente, en coordinación con la Unidad Coordinadora de Asuntos Internacionales;
+
+IX. Proponer, evaluar y conducir proyectos de investigación sobre exposición personal, toxicología, ecotoxicología y evaluación de riesgos al ambiente y a la salud, en temas de contaminación atmosférica, sustancias tóxicas, residuos peligrosos y de manejo especial y materiales con potencial de contaminación al ambiente;
+
+X. Promover, desarrollar y operar sistemas de información y bases de datos sobre contaminantes atmosféricos, sustancias tóxicas, residuos peligrosos y de manejo especial, así como de materiales con potencial de contaminación al ambiente;
+
+XI. Promover y coordinar estudios para el desarrollo de herramientas e información para la estimación de contaminantes a la atmósfera, incluyendo el estimar o actualizar factores de emisión y patrones de actividades de fuentes diversas de emisión;
+
+XII. Promover y difundir los resultados de los estudios que dirige, así como aquellos en que participa, dirigiendo o participando en el diseño y promoción del material para fortalecer las capacidades de otros organismos y sectores en materia de contaminantes atmosféricos, sustancias tóxicas, residuos peligrosos y de manejo especial, así como de materiales con potencial de contaminación al ambiente, y
+
+XIII. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
+
+D. La Dirección General de Investigación en Política y Economía Ambiental las de:
+
+I. Dictaminar los análisis que sean puestos a consideración del Instituto Nacional de Ecología y Cambio Climático o de la Secretaría relativos al significado económico de los ecosistemas y los servicios ambientales, o bien, a productos y actividades contaminantes específicos;
+
+II. Diseñar y proponer instrumentos económicos fiscales, financieros y de mercado, destinados a apoyar la internalización de los costos ambientales y articular las decisiones económicas y ambientales de los sectores productivos, en coordinación con las unidades administrativas y órganos desconcentrados de la Secretaría y otras dependencias competentes de la Administración Pública Federal;
+
+III. Promover y coordinar el análisis, el diseño y la aplicación de metodologías para la valuación económico-ambiental de ecosistemas, recursos naturales y servicios ambientales;
+
+IV. Conducir la realización de estudios sobre los determinantes y efectos económicos del cumplimiento de la normatividad ambiental, en coordinación con las unidades administrativas y órganos desconcentrados correspondientes de la Secretaría;
+
+V. Proponer a las unidades administrativas competentes de la Secretaría, criterios para la obtención y uso eficiente de créditos externos y donaciones otorgadas por organizaciones y organismos internacionales, destinados a resolver problemas ambientales y de manejo de recursos naturales en el territorio nacional, de conformidad con la legislación aplicable;
+
+VI. Conducir estudios relativos a los efectos de la política ambiental sobre los hogares que viven en pobreza y contribuir, en el ámbito de su competencia, en el diseño de programas de reducción de pobreza que tengan beneficios ambientales;
+
+VII. Promoverá anualmente en coordinación con la Dirección General de Estadística e Información Ambiental y del Instituto Nacional de Estadística y Geografía, la entrega de información generada por la Dirección General de Investigación en Política y Economía Ambiental, que contribuya al desarrollo del Sistema Nacional de Información Ambiental y Recursos Naturales;
+
+VIII. Promover y participar conjuntamente con universidades, centros de investigación y otras entidades nacionales e internacionales en la construcción, elaboración y operación de modelos que representen analíticamente la interacción de los sistemas biofísicos y los procesos económicos y sociales;
+
+IX. Evaluar y utilizar en coordinación con las autoridades del sector energía, los modelos computacionales y de equilibrio general para evaluar diversos escenarios futuros energético-ambientales, y de calidad de combustibles;
+
+X. Proponer y desarrollar líneas de investigación aplicada sobre economía urbana, regional o sectorial que puedan coadyuvar a formular e implementar políticas, programas, normas, lineamientos, medidas, criterios y procedimientos en materia de gestión ambiental en coordinación con las direcciones generales competentes de la Secretaría;
+
+XI. Participar en proyectos o actividades de cooperación internacional relacionados con la valuación económico ambiental de ecosistemas, recursos naturales y servicios ambientales, con la colaboración de la Unidad Coordinadora de Asuntos Internacionales, la Dirección General del Sector Primario y Recursos Naturales Renovables, ambas de la Secretaría, y la Unidad Ejecutiva de Administración y Asuntos Jurídicos del propio Instituto Nacional de Ecología y Cambio Climático;
+
+XII. Conducir investigaciones relacionadas con el análisis de cuentas económico-ambientales, a partir de la evaluación de gastos incurridos en el cuidado ambiental y la estimación del desgaste del capital natural;
+
+XIII. Desarrollar estudios relacionados con el mercado de bienes y servicios derivados de la vida silvestre, así como realizar estudios de valoración económica de ecosistemas, servicios ambientales y externalidades;
+
+XIV. Realizar investigaciones, estudios y proyectos sobre la creación de mercados ambientales, diseño de instrumentos económicos, valuación de ecosistemas, recursos naturales y servicios ambientales, en coordinación con las unidades administrativas adscritas a la Subsecretaría de Fomento y Normatividad Ambiental de la Secretaría;
+
+XV. Investigar el impacto de las políticas sectoriales sobre el ambiente, mediante estudios que establezcan los índices e indicadores necesarios para evaluar la relación entre las políticas y la calidad ambiental;
+
+XVI. Conducir y realizar investigaciones relacionadas con el análisis de las políticas públicas ambientales a fin de establecer criterios y pautas para el diseño de las mismas, y
+
+XVII. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
+
+E. La Dirección General del Centro Nacional de Investigación y Capacitación Ambiental, las de:
+
+I. Emitir opiniones sobre proyectos de innovación tecnológica en materia de contaminación atmosférica, residuos, sustancias tóxicas, remediación de suelos contaminados, monitoreo, análisis y evaluación de contaminantes ambientales y de organismos genéticamente modificados, cuando así lo requieran las autoridades competentes;
+
+II. Participar en los comités de evaluación para la acreditación de los laboratorios de pruebas en materia de muestreo y análisis de contaminantes atmosféricos, residuos, sustancias tóxicas, bioensayos, de organismos genéticamente modificados y de los laboratorios de calibración de instrumentos de medición de contaminantes atmosféricos para efecto de la evaluación de la conformidad, de las normas oficiales mexicanas, de acuerdo a la Ley Federal sobre Metrología y Normalización y en cumplimiento a los criterios y lineamientos que para tal efecto emita la Subsecretaría de Fomento y Normatividad Ambiental de la Secretaría;
+
+III. Proponer a las autoridades competentes especificaciones técnicas, bases de diseño y protocolos de operación y manejo de datos de los sistemas de monitoreo atmosférico; supervisar y evaluar la operación y aseguramiento de la calidad de los sistemas de monitoreo atmosférico, así como promover, coordinar y supervisar el establecimiento de sistemas de monitoreo atmosférico en las entidades federativas;
+
+IV. Realizar, coordinar y dirigir la investigación aplicada en los campos de contaminación atmosférica, monitoreo atmosférico, microambiental y personal, residuos, sustancias tóxicas, remediación de suelos contaminados, bioensayos, monitoreo, análisis y evaluación de contaminantes y organismos genéticamente modificados para coadyuvar a formular e implementar políticas, programas, normas, lineamientos, medidas, criterios y procedimientos en materia ambiental;
+
+V. Desarrollar, realizar y dirigir proyectos de monitoreo y evaluación tendentes a determinar la calidad del ambiente en áreas metropolitanas, entidades federativas y municipios, en coordinación con dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas y municipios y las Direcciones Generales de Gestión Integral de Materiales y Actividades Riesgosas y de Gestión de la Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes ambas de la Secretaría;
+
+VI. Establecer vínculos de colaboración con centros de investigación establecidos en otros países y fomentar la cooperación técnica en temas relacionados a la prevención y control de la contaminación atmosférica, residuos, sustancias tóxicas, remediación de suelos contaminados, bioensayos, monitoreo, análisis y evaluación de contaminantes y organismos genéticamente modificados, con la participación de la Unidad Coordinadora de Asuntos Internacionales de la Secretaría;
+
+VII. Participar, en colaboración con la Dirección General de Investigación sobre la Contaminación Urbana y Regional, en la adaptación y operación de modelos computacionales que apoyen la gestión de la calidad del aire;
+
+VIII. Representar a la Secretaría en foros internacionales relacionados con el manejo sustentable de cuencas atmosféricas, contaminación atmosférica, residuos, sustancias tóxicas, remediación de suelos contaminados, bioensayos, monitoreo, análisis y evaluación de contaminantes y organismos genéticamente modificados, en colaboración con las Direcciones Generales de Gestión Integral de Materiales y Actividades Riesgosas y de Gestión de la Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes y la Unidad Coordinadora de Asuntos Internacionales todas de la Secretaría;
+
+IX. Proponer a las unidades administrativas competentes de la Secretaría, la elaboración y aplicación de normas mexicanas o regulaciones específicas en materia de metodologías para el muestreo y análisis de contaminantes ambientales, así como desarrollar y proponer a los laboratorios ambientales, el diseño y ejecución de programas de intercomparación e intercalibración, la aplicación de métodos analíticos y procedimientos de control y aseguramiento de la calidad en los procesos de medición y caracterización de contaminantes ambientales y de organismos genéticamente modificados;
+
+X. Desarrollar e implementar los sistemas nacionales de información de la calidad del aire y de residuos y, en coordinación con la Dirección General de Investigación sobre la Contaminación Urbana y Regional, otras bases de datos sobre contaminación y deterioro ambiental, conforme a los lineamientos de la Dirección General de Estadística e Información Ambiental de la Secretaría;
+
+XI. Generar, proporcionar y difundir información científica sobre contaminación atmosférica, residuos, sustancias tóxicas, remediación de suelos contaminados, bioensayos, monitoreo, análisis y evaluación de contaminantes y organismos genéticamente modificados;
+
+XII. Organizar, en coordinación con las unidades administrativas competentes de la Secretaría, programas de capacitación técnica y científica en materia de contaminación atmosférica, de residuos, remediación de suelos contaminados, bioensayos, muestreo y monitoreo ambiental, de técnicas analíticas y sobre monitoreo de organismos genéticamente modificados para profesionales mexicanos de los sectores público, privado y académico;
+
+XIII. Funcionar como laboratorio de referencia en materia de análisis y calibración de equipo de medición de contaminantes atmosféricos, residuos, suelos, sedimentos y de organismos genéticamente modificados;
+
+XIV. Realizar y promover investigación científica que apoye el análisis y evaluación de riesgos y el monitoreo de las actividades de liberación al ambiente de organismos genéticamente modificados, así como llevar a cabo el monitoreo por la liberación de estos organismos;
+
+XV. Emitir opiniones técnicas sobre el acceso a recursos genéticos y lo relativo a la seguridad de la biotecnología en el ámbito de su competencia;
+
+XVI. Coadyuvar con la Dirección General del Sector Primario y Recursos Naturales Renovables de la Secretaría en las materias que ésta le requiera sobre bioseguridad de los organismos genéticamente modificados y participar en la formulación de las listas referidas en la Ley de Bioseguridad de Organismos Genéticamente Modificados, y
+
+XVII. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
+
+F. La Dirección General de Investigación sobre Cambio Climático las de:
+
+I. Conducir la investigación aplicada, para su análisis, jerarquizando los fundamentos técnicos y científicos para la formulación y propuesta de estudios en sectores de atención prioritaria por su contribución al cambio climático global;
+
+II. Coordinarse con las Direcciones Generales del Instituto Nacional de Ecología y Cambio Climático, cuando se requiera de su participación, en el desarrollo de acciones en materia de cambio climático;
+
+III. Instrumentar el apoyo técnico a la Secretaría para formular, conducir y evaluar la política ambiental en materia de cambio climático;
+
+IV. Organizar y participar en reuniones talleres, seminarios y cursos, nacionales e internacionales, con científicos, académicos, técnicos, expertos y la sociedad en general sobre el tema de cambio climático;
+
+V. Participar, con otras unidades administrativas de la Secretaría y demás dependencias de la Administración Pública Federal, estatal, municipal o del Distrito Federal en acciones relacionadas en el tema de cambio climático y su vinculación con la agenda nacional e internacional;
+
+VI. Instrumentar y conducir el desarrollo, promoción y fomento de la investigación aplicada sobre problemas prioritarios nacionales de vulnerabilidad y adaptación al cambio climático;
+
+VII. Promover la concertación con los diferentes sectores, público, privado, social y académico, para obtener la información necesaria con el fin de llevar a cabo la actualización de los inventarios nacionales de emisiones de gases de efecto invernadero;
+
+VIII. Instrumentar y conducir el desarrollo, promoción y fomento de la investigación aplicada sobre problemas prioritarios nacionales en materia de mitigación de emisiones de gases de efecto invernadero;
+
+IX. Instrumentar y conducir el desarrollo, promoción y fomento de la investigación aplicada sobre problemas prioritarios en los estados, en materia de mitigación de emisiones de gases de efecto invernadero; así como de inventarios estatales de gases de efecto invernadero;
+
+X. Proponer, apoyar e impulsar la realización de investigaciones a nivel nacional, estatal y municipal en materia de adaptación al cambio climático en las áreas de: hidrología, agricultura, silvicultura, salud, biodiversidad, ecosistemas, economía, costas, pesca, ciclo del carbono, impactos sociales y de género;
+
+XI. Promover la elaboración de planes estatales de cambio climático, a través de la capacitación técnica correspondiente, con las guías elaboradas por el Instituto Nacional de Ecología y Cambio Climático para tal fin y con los talleres de capacitación correspondientes;
+
+XII. Promover la concertación con el sector social, a través de sus comunidades, para la realización de trabajos técnicos para la identificación de medidas de mitigación y opciones de adaptación;
+
+XIII. Organizar talleres técnicos con los gobiernos de los estados y el Distrito Federal sobre señales de cambio climático en México;
+
+XIV. Promover y concertar la integración de información en materia de vulnerabilidad y adaptación al cambio climático de los estados, incluyendo la elaboración de guías para la evaluación de la vulnerabilidad en éstos y la realización de los talleres de capacitación correspondientes;
+
+XV. Conducir la elaboración de las Comunicaciones Nacionales sobre cambio climático ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático, a través de la integración y análisis de la información a nivel nacional y estatal que se produzca en los estados en materia de inventarios de emisiones de gases efecto invernadero, escenarios de emisiones futuras, evaluación de la vulnerabilidad y opciones de adaptación al cambio climático;
+
+XVI. Coordinar el asesoramiento científico-técnico en materia de cambio climático a los sectores: público, académico, privado y organizaciones no gubernamentales;
+
+XVII. Participar como invitado en las iniciativas, programas y foros, nacionales o internacionales relativos a las materias de su competencia;
+
+XVIII. Participar en las reuniones internacionales que convoca la Convención de las Naciones Unidas sobre Cambio Climático y sus órganos subsidiarios, para dar asesoría técnica a la Delegación Mexicana;
+
+XIX. Participar en las reuniones que convoque los organismos internacionales en materia de cambio climático;
+
+XX. Elaborar documentos, impresos y electrónicos, sobre los resultados de las investigaciones a nivel nacional y estatal para su difusión; así como la elaboración de materiales de difusión para la sociedad en general y una estrategia de comunicación;
+
+XXI. Promover y fortalecer la participación de las organizaciones no gubernamentales y del enfoque de género en las investigaciones a nivel nacional y de los estados;
+
+XXII. Participar en las consultas públicas del Programa Especial de Cambio Climático y de los Programas Estatales de cambio climático que se elaboren;
+
+XXIII. Colaborar en la adopción de los resultados de los programas estatales de cambio climático en sus políticas públicas;
+
+XXIV. Promover y orientar la inversión internacional para investigaciones en mitigación y adaptación al cambio climático a nivel nacional, estatal y municipal;
+
+XXV. Promover y gestionar recursos de nacionales para cofinanciamiento de fondos internacionales;
+
+XXVI. Elaborar las cartas de intención y convenios con la Conferencia Nacional de Gobernadores, y con los estados a través de la Secretaría, para la asesoría técnica correspondiente, directa o con componente internacional;
+
+XXVII. Coordinarse con las dependencias y entidades de la Administración Pública Federal para su participación en diferentes proyectos de cambio climático, y proponer la inclusión de temas de cambio climático en sus programas sectoriales, así como la realización de programas intersecretariales en materia de mitigación y adaptación al cambio climático;
+
+XXVIII. Proponer contenidos de cambio climático para los libros de educación básica de la Secretaría de Educación Pública;
+
+XXIX. Coordinar la formación de recursos humanos en materia de mitigación y adaptación al cambio climático, a través de cursos, talleres, estudios de posgrado, elaboración de tesis, en instituciones nacionales e internacionales;
+
+XXX. Promover la participación de científicos de México en los grupos de trabajo del Panel Intergubernamental de Cambio Climático, y
+
+XXXI. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
+
+G. La Unidad Ejecutiva de Administración y Asuntos Jurídicos, las de:
+
+I. Instrumentar, establecer, aplicar y controlar los sistemas, procedimientos y servicios técnicos, administrativos, presupuestales y contables para el manejo de los recursos humanos, financieros y materiales que requiera el Instituto Nacional de Ecología y Cambio Climático, de conformidad con los criterios, lineamientos y normas que formulen las unidades administrativas competentes de la Secretaría;
+
+II. Formular, en coordinación con la Oficialía Mayor, el anteproyecto de programación-presupuesto en materia de administración, capacitación y desarrollo de personal, así como el de adquisiciones y suministro del Instituto Nacional de Ecología y Cambio Climático y vigilar su correcta ejecución;
+
+III. Gestionar ante las unidades administrativas competentes de la Secretaría, la autorización, asignación y modificación al presupuesto de gasto corriente y de inversión del Instituto Nacional de Ecología y Cambio Climático;
+
+IV. Notificar, a las unidades administrativas del Instituto Nacional de Ecología y Cambio Climático, las asignaciones presupuestales de gasto corriente y de inversión que les corresponden y evaluar su correcta ejecución;
+
+V. Coordinar la formulación de los manuales de organización y de procedimientos de las unidades administrativas del Instituto Nacional de Ecología y Cambio Climático;
+
+VI. Definir y establecer políticas y lineamientos en materia de reclutamiento, selección, inducción, nombramientos, contratación, prestaciones, remuneraciones, servicios, capacitación, desarrollo y movimientos del personal de las unidades administrativas del Instituto Nacional de Ecología y Cambio Climático;
+
+VII. Establecer lineamientos para el pago de las remuneraciones al personal del Instituto Nacional de Ecología y Cambio Climático y la aplicación de descuentos y retenciones autorizadas conforme a la ley aplicable vigente;
+
+VIII. Promover, establecer y coordinar programas internos de bienestar social, así como fomentar la participación de los trabajadores y sus familias en actividades culturales, deportivas y recreativas;
+
+IX. Coordinar la ejecución e instrumentación del programa de protección civil del Instituto Nacional de Ecología y Cambio Climático;
+
+X. Proponer y aplicar políticas para la administración de recursos materiales y la prestación de servicios generales del Instituto Nacional de Ecología y Cambio Climático;
+
+XI. Integrar y aplicar el programa anual de adquisiciones y servicios del Instituto Nacional de Ecología y Cambio Climático, de acuerdo con las normas, políticas y lineamientos aplicables;
+
+XII. Suscribir los contratos y convenios relativos a la adquisición de bienes y servicios del Instituto Nacional de Ecología y Cambio Climático;
+
+XIII. Diseñar, aplicar y supervisar los sistemas de control de inventarios generales de bienes, así como dictaminar y vigilar su afectación, baja y destino final;
+
+XIV. Administrar, controlar y evaluar la aplicación de los recursos provenientes de créditos y aportaciones de origen externo para financiar el desarrollo de programas del Instituto Nacional de Ecología y Cambio Climático y efectuar las gestiones para su reembolso;
+
+XV. Representar legalmente al Director General del Instituto Nacional de Ecología y Cambio Climático y a sus unidades administrativas, en los procedimientos judiciales y administrativos en que se requiera su intervención, así como designar, autorizar y delegar en los servidores públicos adscritos a la Unidad dicha representación, contestar demandas, denunciar, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendentes a la defensa de los intereses del mencionado Instituto;
+
+XVI. Representar a quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y demás servidores públicos de dicho Instituto en los juicios de amparo en los que sean señalados como autoridades responsables o intervengan como quejosos o terceros perjudicados y podrá autorizar o acreditar como delegados de las autoridades responsables del citado Instituto a los servidores públicos que determine para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan los incidentes y recursos de conformidad con las disposiciones jurídicas aplicables;
+
+XVII. Atender y dirigir los asuntos jurídicos del Instituto Nacional de Ecología y Cambio Climático;
+
+XVIII. Representar, defender, contestar, rendir informes, demandar, denunciar, querellarse, allanarse, desistirse, desahogar pruebas, interponer recursos, otorgar perdón, certificar y realizar los trámites necesarios para defender los intereses del Instituto Nacional de Ecología y Cambio Climático y los que se requieran para el cumplimiento y la aplicación de la ley respectiva, así como designar, autorizar y delegar en los servidores públicos adscritos a la Unidad dichas atribuciones;
+
+XIX. Iniciar, a petición de las unidades administrativas del Instituto Nacional de Ecología y Cambio Climático, el procedimiento de rescisión de los contratos que éste celebre así como tramitarlo y emitir la resolución correspondiente, incluyendo la que se refiera a su rescisión cuando proceda, y aplicar las penas convencionales en los términos de la legislación aplicable;
+
+XX. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir los servidores públicos del Instituto Nacional de Ecología y Cambio Climático señalados como autoridades responsables, así como los escritos de demanda o contestación, según proceda; intervenir en los juicios de amparo cuando el mencionado Instituto tenga carácter de tercero perjudicado; formular, en general, todas las promociones que a dichos juicios se refieran, y designar a los abogados del Instituto que serán autorizados o acreditados como delegados por las autoridades responsables del Instituto Nacional de Ecología y Cambio Climático para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan los incidentes y recursos de conformidad con las disposiciones jurídicas aplicables;
+
+XXI. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos de las unidades administrativas que deriven en obligaciones para el Instituto Nacional de Ecología y Cambio Climático, así como llevar el control y registro de los mismos;
+
+XXII. Representar legalmente a quien ejerza la Dirección General en los juicios de orden laboral, respecto de trabajadores del Instituto Nacional de Ecología y Cambio Climático, formular dictámenes, demandas de cese y contestación de demandas, formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento, así como designar, autorizar y delegar dichas atribuciones en los servidores públicos adscritos a la Unidad;
+
+XXIII. Revisar las bases e intervenir en los procesos de licitación que efectúe el Instituto Nacional de Ecología y Cambio Climático;
+
+XXIV. Realizar los trámites legales para la adquisición, regularización y protección jurídica de los bienes inmuebles administrados por el Instituto Nacional de Ecología y Cambio Climático o destinados a éste, así como llevar un catálogo de los mismos;
+
+XXV. Opinar sobre los proyectos de normas oficiales mexicanas en el ámbito de competencia del Instituto Nacional de Ecología y Cambio Climático, así como opinar sobre los reglamentos, decretos, acuerdos y demás disposiciones jurídicas en que intervenga el mencionado Instituto y que, en su caso, se sometan a firma del Secretario;
+
+XXVI. Compilar y promover la difusión de las disposiciones jurídicas relacionadas con las funciones del Instituto Nacional de Ecología y Cambio Climático;
+
+XXVII. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos del Instituto Nacional de Ecología y Cambio Climático;
+
+XXVIII. Promover y desarrollar con instituciones académicas y de investigación, los trabajos jurídicos en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente;
+
+XXIX. Ejercer las funciones que correspondan a la Unidad de Enlace que se constituya en materia de transparencia y acceso a la información pública gubernamental, conforme a las disposiciones aplicables en la materia;
+
+XXX. Supervisar el adecuado funcionamiento de los archivos y guías de los sistemas de catalogación de éstos y apoyar la formulación de los índices de los expedientes clasificados como reservados en materia de transparencia y acceso a la información, y
+
+XXXI. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
