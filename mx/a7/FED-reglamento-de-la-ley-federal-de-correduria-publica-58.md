@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-correduria-publica-58"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-06-04"
-last_updated: "1993-06-04"
+last_updated: "2012-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1993-06-02"
 ---
 # REGLAMENTO DE LA LEY FEDERAL DE CORREDURIA PUBLICA
 
-REGLAMENTO DE LA LEY FEDERAL DE CORREDURIA PUBLICA
+REGLAMENTO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: D.O.F. 26 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 4 de junio de 1993.
 
@@ -39,17 +39,25 @@ El presente ordenamiento tiene por objeto reglamentar el ejercicio de la funció
 
 Corresponde a la Secretaría aplicar y vigilar el debido cumplimiento de las disposiciones de la Ley y este reglamento.
 
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+Las autoridades proveerán lo conducente para auxiliar a los corredores públicos en el ejercicio de sus funciones.
+
 ###### ARTICULO 2o.
 
 Para los efectos del presente reglamento, se entenderá por:
 
 I.- Ley, la Ley Federal de Correduría Pública;
 
-II.- Secretaría, la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+II.- Secretaría, la Secretaría de Economía;
 
 III.- Días, los días naturales; y
 
-IV.- Corredor o corredor público, el particular habilitado por la Secretaría para desempeñar las funciones que previenen la Ley y este reglamento.
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Corredor o corredor público, el particular con habilitación legalmente expedida por la Secretaría y publicada en el Diario Oficial de la Federación en los términos de la Ley y este Reglamento investido de fe pública y autorizado para ejercer las funciones que previene la propia Ley.
 
 > <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
 
@@ -75,13 +83,65 @@ El corredor debe guardar reserva sobre los asuntos pasados ante él y está suje
 
 Para efectos del artículo 20 de la Ley, no se consideran prohibiciones:
 
-I.- Desempeñar cargos docentes o de investigación, en instituciones educativas, así como los que se desempeñen en instituciones de asistencia pública o privada, y los concejiles; y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-II.- Promover, en representación de los interesados, en los procedimientos necesarios para el otorgamiento, trámite o registro de los instrumentos en que intervenga.
+I.- Desempeñar cargos docentes, de investigación o de dirección, en instituciones educativas, así como los que se desempeñen en instituciones de asistencia pública o privada, y los concejiles;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+II.- Promover, en representación de los interesados, en los procedimientos necesarios para el otorgamiento, trámite o registro de los instrumentos en que intervenga;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+III.- Desempeñar el cargo de consejero independiente o secretario sin ser miembro del órgano de administración o secretario de actas, miembro de comités de vigilancia o de prácticas corporativas, comisario o delegado fiduciario;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Ejercer las funciones que expresamente le confieran otras leyes y reglamentos en los términos de la fracción VIII del artículo 6o. de la propia Ley; sin perjuicio de las facultades que le confieren las leyes o disposiciones locales;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+V.- Desempeñar el cargo de mediador, síndico o conciliador en la resolución de controversias;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+VI.- Ser tutor, curador o albacea;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+VII.- Actuar en representación de su cónyuge o parientes en línea recta ascendiente o descendiente sin limitación de grado;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- Ejercer su actividad sin que se considere inhabilitado o impedido para ejercer en el mismo asunto sus funciones de fe pública, perito valuador, árbitro, agente intermediario de comercio o asesor jurídico;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IX.- Dar forma a aquellos actos, contratos y convenios mercantiles que sin requerir este requisito las partes intervinientes así quisieren dar, excepto en tratándose de inmuebles;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+X.- Actuar como fedatario público en la celebración o formalización de cualquier acto de comercio conceptualizado como tal en el artículo 75 del Código de Comercio excepto en tratándose de inmuebles; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+XI.- Actividades semejantes que no causen conflicto ni dependencia que afecte su imparcialidad o autonomía.
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+Para efectos del presente artículo se entiende por mediación la función de establecer comunicación y negociación entre las partes para prevenir o resolver un conflicto, y por conciliación el método para proponer a las partes alternativas concretas de solución para que resuelvan de común acuerdo sus diferencias.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-Para efectos de las fracciones V, VI y VII del artículo 6º de la Ley, cuando en las leyes o reglamentos se haga referencia a "notario o fedatario público", "escritura", "protocolo" y "protocolización", se entenderá que se refiere a "corredor público", a la "póliza expedida por corredor", a cualquier "libro de registro del corredor" y al hecho de "asentar algún acto en los libros de registro del corredor", respectivamente.
+Para efectos de las fracciones V, VI, VII y VIII del artículo 6o. de la Ley, cuando en las leyes o reglamentos se haga referencia a "notario o fedatario público", "escritura", "protocolo", "apéndice" y "protocolización", se entenderá que se refiere a "corredor público", a la "póliza o acta autorizada por corredor y que conserva en su archivo", a cualquier "libro que en sus funciones de fedatario lleve el corredor", al "archivo del corredor público o al legajo de documentos que integre por cada póliza o acta el corredor y que correspondan a éstas" y a la acción de "formalizar algún acto o relacionar un hecho en instrumento ante corredor público", respectivamente.
+
+Así también, para efectos de la fracción II del artículo 6o. de la Ley, cuando en las leyes y reglamentos, en general, se haga referencia a "valuador", "perito valuador", "valuador profesional", "valuador reconocido o autorizado", "especialista en valuación" o cualquier otro término análogo, se entenderá que tales términos incluyen al corredor público.
+
+Para efectos del artículo 6o., fracción VI, de la Ley, se entiende por representación orgánica aquella que comprende actos relativos al nombramiento y facultamiento de los órganos de representación de las sociedades mercantiles, ya sea Consejo de Administración, sus Consejeros, administradores o administradores únicos, y gerentes siempre que se trate de funcionarios de la sociedad, por ser todos éstos quienes representan orgánicamente a la empresa y que se realiza en el acto de constitución o posteriormente por resolución de la asamblea, consejo, administrador u órgano que tenga atribuciones para el otorgamiento de dicho nombramiento de funcionarios de estructura orgánica de conformidad con la legislación aplicable.
+
+Con las excepciones y prohibiciones de Ley, para los efectos del artículo 6o., fracción V se entiende que el corredor público podrá actuar en aquellos contratos, convenios, actos o hechos jurídicos en que intervenga por sí o representado un comerciante; cuando el contrato, convenio, acto o hecho jurídico se encuentra previsto en una ley mercantil; cuando se trate de cosas mercantiles, actos o efectos de comercio; cuando el contrato, convenio, acto o hecho jurídico se encuentra previsto en una ley que fije la mercantilidad; cuando el contrato, convenio, acto o hecho jurídico sea un medio para el ejercicio de la actividad mercantil del comerciante; y en cualquier caso en asuntos de tráfico mercantil.
 
 ### CAPITULO II
 
@@ -91,15 +151,29 @@ Para efectos de las fracciones V, VI y VII del artículo 6º de la Ley, cuando e
 
 Los exámenes para aspirante, así como el definitivo, serán elaborados por la Secretaría y se realizarán de conformidad con lo dispuesto por la Ley y este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 8o.
 
-Los cuestionarios del examen para aspirante deberán ser elaborados de conformidad con las siguientes bases:
+Los exámenes para aspirante se realizarán de conformidad con las siguientes bases:
 
 I.- Las preguntas deberán estar redactadas en idioma español, en forma clara y precisa, y versar sobre cuestiones teóricas y prácticas de relevancia y actualidad en la materia;
 
-II.- Deberán ser formulados por licenciados en derecho con título legalmente expedido y aprobados por el titular de la Dirección General competente de la Secretaría; y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-III.- Deberán contener el número de preguntas suficientes para realizar una evaluación general de los conocimientos del sustentante en materia de fe pública mercantil, intermediación mercantil, valuación y arbitraje comercial.
+II.- Deberán ser formulados por licenciados en derecho con título legalmente expedido y aprobados por el titular de la Dirección General competente de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+III.- Deberán contener el número de preguntas suficientes para realizar una evaluación general de los conocimientos del sustentante en materia jurídica con énfasis en derecho mercantil en general, de fe pública, intermediación, mediación, valuación y arbitraje;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IV.- El examen podrá ser elaborado y presentado mediante el uso de los medios electrónicos que establezca la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+V.- La Secretaría podrá solicitar la intervención de los Colegios de Corredores Públicos, en su caso, para la elaboración y desarrollo de los exámenes.
 
 La Secretaría elaborará cuando menos cinco cuestionarios, los cuales deberán renovarse por periodos mínimos de cuatro meses.
 
@@ -111,31 +185,43 @@ I.- Acta de nacimiento o comprobante de nacionalidad mexicana;
 
 II.- Título profesional de licenciado en derecho, así como la cédula respectiva;
 
-III.- Constancia o declaración de haber realizado práctica profesional durante dos años, por lo menos; y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-IV.- Curriculum vitae.
+III.- Constancia de haber realizado práctica profesional durante dos años en correduría pública o notaría, por lo menos;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Curriculum vitae, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+V.- En caso de que la Clave Única de Registro de Población (CURP) no se encuentre asentada en la cédula mencionada en la fracción II del presente artículo, deberá anexarse a la solicitud la constancia que contenga la CURP.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría resolverá dentro de los noventa días siguientes a la fecha de recepción de la solicitud requisitada y, en su caso, notificará al interesado, personalmente o a través del colegio de corredores respectivo, la fecha, lugar y hora en que tendrá lugar el examen para aspirante, así como las bases y reglas a que se sujetará y el material de apoyo con el que podrá contar durante su desarrollo.
+La Secretaría resolverá dentro de los diez días siguientes a la fecha de recepción de la solicitud requisitada y, en su caso, notificará al interesado, personalmente, o por cualquier medio de comunicación electrónica cuando así lo haya aceptado expresamente el solicitante, la fecha, lugar y hora en que tendrá lugar el examen para aspirante, así como las bases y reglas a que se sujetará y el material de apoyo con el que podrá contar durante su desarrollo.
 
 ###### ARTICULO 11.
 
 El examen para aspirante se realizará de conformidad con lo siguiente:
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-I.- Cada sustentante deberá resolver por escrito el cuestionario correspondiente dentro del tiempo asignado para tal efecto. Los cuestionarios serán asignados mediante sorteo de los cinco sobres cerrados que al efecto se le presenten;
+I.- Cada sustentante deberá resolver por escrito o por los medios que al efecto establezca la Secretaría el cuestionario correspondiente dentro del tiempo asignado para tal efecto. El cuestionario será elegido por el sustentante de entre cinco sobres cerrados o, en caso de presentarlo mediante los medios electrónicos, de entre cinco archivos electrónicos cerrados que al efecto se le presenten;
 
 II.- El examen podrá ser anulado cuando el sustentante no se sujete a las bases, reglas y material que señale la Secretaría; y
 
 III.- La Secretaría revisará y calificará los exámenes, siendo su resolución definitiva.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría notificará el resultado del examen al sustentante, directamente o a través del colegio de corredores local, al día siguiente de la fecha de celebración del mismo y, en caso de resultar aprobado, expedirá la constancia que acredite la calidad de aspirante.
+La Secretaría notificará directamente o a través del colegio de corredores local, a más tardar el día siguiente, el resultado del examen al sustentante de forma personal, o por cualquier medio de comunicación electrónica, siempre que lo hubiese aceptado expresamente el solicitante. En caso de resultar aprobado, expedirá la constancia que acredite la calidad de aspirante.
 
-El sustentante que no apruebe el examen de aspirante, no podrá volver a sustentar otro sino hasta transcurridos seis meses posteriores de la fecha de presentación del mismo.
+El sustentante que no apruebe el examen de aspirante, pero que obtenga una calificación mayor a 6.5 podrá volver a sustentar otro en cuanto lo solicite de conformidad con el calendario de exámenes publicado en el Diario Oficial de la Federación por la Secretaría; si la calificación es inferior a 6.5 no podrá volver a sustentar otro sino hasta transcurridos seis meses posteriores de la fecha de presentación del mismo.
 
 ###### ARTICULO 13.
 
@@ -153,13 +239,11 @@ En su caso, el colegio de corredores correspondiente analizará la documentació
 
 Los aspirantes deberán presentarse el día y hora señalados en el lugar designado para la realización del examen definitivo. El aspirante que no se presente en tiempo perderá su derecho a presentar el examen en ese momento y podrá solicitar a la Secretaría una nueva fecha.
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 15.
 
-El examen definitivo constará de una prueba escrita y otra oral que se sustentarán ante un jurado. El jurado funcionará conforme a lo dispuesto por la Ley y este reglamento. Los representantes que integren el jurado deberán ser licenciados en derecho, el representante de la Secretaría fungirá como Presidente y designará al Secretario.
-
-La ausencia del representante del colegio de corredores local será suplida por la persona designada por el representante de la Secretaría. El jurado sesionará válidamente cuando menos con dos de sus miembros. En ningún caso podrá celebrarse el examen si se encuentra ausente el representante de la Secretaría.
+El examen definitivo constará de una prueba escrita y otra oral que se sustentarán ante un jurado. El jurado funcionará conforme a lo dispuesto por la Ley y este reglamento. Los representantes que integren el jurado deberán ser licenciados en derecho; el representante de la Secretaría fungirá como Presidente y designará al Secretario.
 
 ###### ARTICULO 16.
 
@@ -175,11 +259,17 @@ El Secretario del jurado levantará un acta por cada examen en la que se hará c
 
 #### Sección Segunda. De las Habilitaciones
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 18.
 
-Aprobado el examen definitivo, el Secretario de Comercio y Fomento Industrial expedirá la habilitación correspondiente. Las habilitaciones deberán contener el nombre del corredor, el número de correduría que se le asigne, la plaza en que ejercerá sus funciones y fotografía reciente del corredor.
+El aspirante que haya aprobado el examen definitivo, solicitará, dentro de los cinco días siguientes, la expedición de la habilitación al titular de la Secretaría. La habilitación deberá contener el nombre del corredor, el número de correduría que se le asigne, la plaza en que ejercerá sus funciones, fotografía reciente y la fecha de expedición.
 
-La Secretaría expedirá las habilitaciones a que se refiere este artículo dentro de los treinta días siguientes a la fecha de celebración del examen definitivo.
+La Secretaría expedirá los títulos de habilitación a que se refiere este artículo, dentro de los treinta días siguientes a la fecha de presentación de la solicitud; así como también, expedirá y renovará las credenciales con las cuales se identifiquen los corredores públicos, mismas que tendrán efecto de constancias de la existencia y registro de las citadas habilitaciones.
+
+La Secretaría ocupará en primer lugar los números de corredurías públicas que se encuentren vacantes por cualquier causa.
+
+El corredor público que ocupe un número de correduría vacante deberá continuar con el número progresivo de pólizas y actas de dicha correduría, así como el número progresivo que corresponda al libro de registro.
 
 ###### ARTICULO 19.
 
@@ -197,15 +287,23 @@ El corredor deberá exhibir en el interior de sus instalaciones la habilitación
 
 El corredor sólo podrá tener un domicilio en la plaza en que ejerza sus funciones, el cual deberá estar abierto para servicio al público en días y horas hábiles, salvo por causa de fuerza mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 22.
 
-La Secretaría sólo autorizará el cambio de plaza de un corredor, cuando:
+La Secretaría resolverá sobre los cambios de plaza que soliciten los corredores públicos previa opinión de los colegios de corredores correspondientes y sólo autorizará el cambio de plaza de un corredor cuando:
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-I.- No exista juicio por responsabilidad civil o denuncia penal en su contra, derivada del ejercicio de sus funciones; y
+I.- No exista juicio por responsabilidad civil o denuncia penal en su contra, derivada del ejercicio de sus funciones;
 
-II.- No se hayan impuesto tres o más amonestaciones o multas al corredor, o no se le hubiere suspendido por cualquiera de las causas que señala la Ley o este reglamento.
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+II.- No se hayan impuesto tres o más amonestaciones o multas al corredor, o no se le hubiere suspendido por cualquiera de las causas que señala la Ley o este reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+III.- Habiéndose publicado el Acuerdo de habilitación en el Diario Oficial de la Federación el corredor público acredite el ejercicio de sus funciones en la plaza de origen.
 
 Los cambios de domicilio que realice un corredor dentro de una misma plaza sólo requerirán de aviso previo a la Secretaría.
 
@@ -219,9 +317,11 @@ Ninguna persona podrá tener más de una habilitación como corredor público, y
 
 #### Sección Primera. De la Garantía
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 24.
 
-El corredor, previamente al inicio de sus actividades, deberá garantizar el debido ejercicio de su función mediante fianza, prenda o hipoteca o cualquier otra garantía legalmente constituida, de acuerdo con lo que señale la Secretaría, designándose como beneficiario de la misma a la Tesorería de la Federación.
+El corredor, previamente al inicio de sus actividades, deberá garantizar el debido ejercicio de su función mediante fianza, prenda o hipoteca o cualquier otra garantía legalmente constituida, de acuerdo con lo que señale la Secretaría, designándose como beneficiario de la misma a la Tesorería de la Federación. Esta garantía podrá ser otorgada de manera solidaria por parte del Colegio de Corredores Públicos de la Plaza.
 
 El monto inicial de la garantía será equivalente a cinco mil veces el salario mínimo general diario vigente para el Distrito Federal.
 
@@ -247,15 +347,19 @@ La Secretaría autorizará el o los sellos necesarios para que el corredor reali
 
 En caso de pérdida o destrucción del sello, el corredor deberá notificar a la Secretaría, al Registro Público de Comercio respectivo y, en su caso, al colegio de corredores local; tratándose de robo deberá, además, levantar acta ante el ministerio público que corresponda.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 29.
 
-El corredor que vaya a dejar de ejercer temporalmente sus funciones por un término mayor a noventa días naturales, deberá entregar su sello al colegio de corredores de la plaza que corresponda y, en caso de que éste no exista, a la Secretaría.
+El corredor que vaya a dejar de ejercer temporalmente sus funciones por un término mayor a noventa días naturales, deberá entregar su sello al Archivo General de Correduría Pública.
 
 ###### ARTICULO 30.
 
 El corredor deberá notificar a la Secretaría los cambios significativos que tenga su firma durante el transcurso del tiempo.
 
-#### Sección Tercera. De las Pólizas, Actas y Copias Certificadas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+#### Sección Tercera. De las Pólizas y Actas
 
 ###### ARTICULO 31.
 
@@ -271,9 +375,11 @@ I.- No podrán utilizarse abreviaturas ni guarismos, excepto cuando la misma can
 
 II.- Los huecos y espacios en blanco deberán cruzarse con una línea de tinta;
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-III.- El documento deberá ser redactado en idioma español. Los documentos que se le presenten en idioma extranjero deberán ser traducidos por perito traductor debidamente autorizado;
+III.- El documento deberá ser redactado en idioma español, pudiendo utilizar términos de ciencia o arte que son de uso común, tomando en consideración las excepciones que al respecto establece la Ley. Los documentos que se le presenten en idioma extranjero al Corredor deberán ser traducidos por perito traductor reconocido por alguna autoridad, excepto en los casos que la propia Ley establece. En caso de que el corredor público sea además perito traductor reconocido por alguna autoridad en el idioma en que se encuentre el documento, podrá realizar la traducción, debiendo dejar constancia en el instrumento respectivo.
+
+De conformidad con el artículo 19, fracción V, tercer párrafo de la Ley, se entiende que el corredor público comprende cabalmente el contenido y alcance de los documentos que se le presenten en idioma extranjero cuando declara conocer el idioma en que se encuentran dichos documentos o bien cuando el solicitante bajo su responsabilidad le explique el contenido. En uno u otro caso se deberá asentar claramente en el instrumento el medio utilizado;
 
 IV.- Deberá acreditarse la legal constitución de la persona moral y la debida representación del mandatario que comparezca, en su caso, así como la representación legal o voluntaria, tratándose de personas físicas;
 
@@ -289,87 +395,127 @@ IX.- Cuando se hayan de testar palabras en las pólizas o actas, éstas se cruza
 
 El corredor hará constar que los otorgantes tienen capacidad legal cuando no encuentre en ellos manifestaciones evidentes de incapacidad natural y no tenga noticias de que estén sujetos a interdicción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 33.
 
-El corredor deberá imprimir su sello y firma, en tinta indeleble, en los instrumentos y copias certificadas que expida en ejercicio de sus funciones.
+El corredor deberá de imprimir su sello y firma, en tinta indeleble, en los instrumentos que autorice, copias certificadas, certificaciones, testimonios y demás constancias, documentos y ejemplares que expida en el ejercicio de sus funciones.
 
 El corredor deberá utilizar su media rúbrica en todas las fojas que integren los instrumentos y documentos que expida, pero utilizará la rúbrica completa en la última foja en la que se haga constar la autorización.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 34.
 
-El corredor sólo podrá expedir un primer original de pólizas o actas por cada una de las partes que haya intervenido en el acto, así como las copias certificadas o constancias que les soliciten de los asientos e instrumentos que obren en sus libros de registro y archivo, de las pólizas y actas que hayan otorgado y de los documentos que formen parte de éstas, así como de los documentos originales que haya tenido a la vista.
+Las pólizas y actas autorizadas por el corredor deberán quedar integradas en su archivo y, en su caso, podrá expedir cuantos testimonios le sean solicitados por quien demuestre tener interés jurídico, así como las copias certificadas o constancias que le soliciten de los instrumentos y asientos que obren en su libro de registro y archivo, de las pólizas y actas autorizadas y de los documentos que formen parte de éstas, así como de los documentos originales que haya tenido a la vista de los referidos en la fracción VII del artículo 6o. de la Ley.
 
-No será necesario anexar a la copia certificada o constancia los documentos mencionados en el archivo o libros de registro cuando éstos hayan sido destinados al cumplimiento de obligaciones fiscales.
+Para los efectos del presente artículo se entiende por testimonio la copia en que se transcriba íntegramente una póliza o acta, y se transcriben, o se incluyen reproducidos por cualquier medio, los documentos anexos a las mismas y que por la fe del corredor público y la matricidad de su archivo tienen el valor de instrumento público. Las hojas que integren el testimonio irán numeradas progresivamente, debiendo cumplir con lo dispuesto en el segundo párrafo del artículo 33 del presente reglamento.
+
+Al expedir las copias certificadas a que se refiere la fracción VII del artículo 6o. de la Ley, deberán también elaborar el acta respectiva misma que se agregará al archivo del corredor público haciendo referencia al número y fecha de la misma en la leyenda de cotejo y/o certificación que contenga la mencionada copia.
+
+No será necesario anexar al testimonio o copia certificada o constancia los documentos mencionados en el archivo o libro de registro cuando éstos hayan sido destinados al cumplimiento de obligaciones fiscales.
+
+El corredor público podrá expedir copias certificadas electrónicas de las pólizas o actas en que intervenga para efectos registrales o a petición de autoridad competente, de conformidad con lo dispuesto por la legislación aplicable.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 35.
 
-El corredor hará constar mediante acta:
+El corredor público hará constar mediante acta:
 
-I.- Aquellos hechos materiales, ratificaciones, abstenciones, estados y situaciones que guarden las personas y cosas, relacionados con hechos mercantiles y que puedan ser apreciadas objetivamente; y
+I.- Aquellos hechos materiales, ratificaciones, abstenciones, estados y situaciones que guarden las personas y cosas, relacionados con hechos mercantiles y que puedan ser apreciadas objetivamente;
 
 II.- Las notificaciones, interpelaciones, requerimientos, protestos de documentos mercantiles y otras diligencias en las que se encuentre autorizado para intervenir, de conformidad con las leyes y reglamentos.
 
 En los casos a que se refiere la fracción II se observarán las siguientes modalidades:
 
-a) Bastará mencionar el nombre que manifieste tener la persona con quien se practique la diligencia, sin necesidad de agregar sus demás generales, y
+a) Habiéndose cerciorado por cualquier medio que es el domicilio donde tiene que practicar la diligencia, bastará mencionar el nombre que manifieste tener la persona que atienda, sin que la negativa a proporcionar su nombre o identificarse sea causa para que la misma no se lleve a cabo y así se asiente en el instrumento;
 
-b) El destinatario del objeto de la diligencia podrá manifestar en el momento de la misma, las observaciones que estime convenientes en relación con la diligencia, pudiendo manifestar su conformidad o inconformidad con los hechos respectivos, lo cual deberá quedar asentado en el acta respectiva.
+b) El destinatario del objeto de la diligencia y, en su caso, la persona que atienda, podrán manifestar en el momento de la misma, las observaciones que estime convenientes en relación con la diligencia pudiendo manifestar su conformidad o inconformidad con los hechos respectivos, lo cual deberá quedar asentado en el acta correspondiente.
 
-El corredor podrá autorizar el acta, aun cuando ésta no haya sido firmada por el solicitante de la diligencia o por las demás personas que hayan intervenido en ella.
+No se entenderá al destinatario o persona que atienda una diligencia como compareciente o parte para efectos del artículo 19 de la Ley; e
+
+c) Por instrucciones del solicitante y bajo su responsabilidad la diligencia podrá llevarse a cabo en el domicilio que al efecto se le señale al corredor como domicilio del destinatario, no obstante que al momento de la actuación la persona que atienda informe al corredor público de lo contrario, y
+
+III.- Cotejo de documentos a que se refiere el artículo 6o., fracción VII de la Ley.
+
+En los casos a que se refiere la fracción III bastará con mencionar en el acta el nombre del solicitante y de la persona moral en su caso, así como los requisitos establecidos en el artículo 19 fracciones I, II, III, V y XIII de la Ley.
+
+El corredor podrá autorizar las actas a que se refiere este artículo aun cuando éstas no hayan sido firmadas por el solicitante de la diligencia o por las demás personas que hayan intervenido en ella con cualquier carácter.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 36.
 
-Cuando el corredor no encuentre a la persona con quien deba entenderse la diligencia deberá cerciorarse de que ésta tiene su domicilio en el lugar señalado para hacer la notificación, pudiendo en el mismo acto practicar la notificación mediante la entrega del instructivo respectivo a los parientes, empleados o domésticos del interesado, o a cualquier otra persona que se encuentre presente, haciendo constar en el acta la forma en que se llevó a cabo la diligencia. El instructivo deberá contener una relación suscinta (sic) del objeto de la notificación.
+Cuando el corredor no encuentre a la persona con quien deba entenderse la diligencia, deberá cerciorarse por cualquier medio de que ésta tiene su domicilio en el lugar señalado para hacer la notificación, pudiendo en el mismo acto practicar la notificación mediante la entrega del instructivo y anexos respectivos a los parientes, empleados o domésticos de la persona a notificar, o a cualquier otra persona que se encuentre en el lugar, o en su defecto por instrucciones del solicitante y bajo su responsabilidad, podrá practicar la notificación mediante la fijación del instructivo y anexos correspondientes en la puerta u otro lugar visible del domicilio, o bien depositándolos de ser posible en el interior del domicilio indicado por cualquier acceso. En el acta respectiva se deberá dejar constancia del medio utilizado para realizar la notificación.
+
+En caso de que el solicitante de la diligencia haya proporcionado un domicilio y sin embargo la persona a notificar se encuentre en otro, siempre y cuando dicha persona o bien, sus parientes, empleados, domésticos, vecinos o cualquier otra persona que se encuentre en el lugar, manifiesten que es domicilio de la persona con la cual se debe practicar la notificación de referencia, el corredor público podrá llevar a cabo dicha diligencia en ese domicilio por instrucciones y bajo la responsabilidad del propio solicitante.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 37.
 
-Cuando se trate de ratificación de firmas o de firmar un documento ante corredor, se hará constar que ante él se reconocieron o, en su caso, se estamparon las firmas, y que se aseguró de la identidad de las partes.
+Cuando se trate de ratificación de firmas o de firmar un documento ante corredor, se hará constar que ante él se reconocieron o, en su caso, se estamparon las firmas, que se aseguró de la identidad de las partes, debiéndose asentar los datos esenciales que permitan la identificación del documento que se ratifica en el acta correspondiente, agregando a su archivo junto con el acta respectiva, un ejemplar del documento cuyas firmas se reconocieron o estamparon.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
-El cotejo de un documento con su copia escrita, fotográfica o fotostática o de cualquier otra clase, se llevará a cabo presentando el original y la copia respectiva al corredor, el cual hará constar que la copia es fiel reproducción de su original. La copia se devolverá debidamente certificada al interesado, y otra se archivará por el corredor.
+El cotejo de un documento, con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se llevará a cabo presentando el original y la copia respectiva al corredor, el cual hará constar que la copia es fiel reproducción de su original asentando en ella los datos del acta que al efecto se elabore. La copia se devolverá debidamente certificada al solicitante, y otra se archivará por el corredor junto con el acta respectiva.
+
+El corredor público podrá realizar cotejos de mensajes de datos, impresiones de comunicaciones y datos consignados en medios electrónicos, ópticos o de cualquier naturaleza análoga, así como hacer constar el contenido de archivos o reproducciones de éstos en medios electrónicos, ópticos o de otras tecnologías.
 
 ###### ARTICULO 39.
 
 Las copias certificadas o constancias deberán expedirse utilizando cualquier medio de reproducción o impresión indeleble, asentándose en ellas la firma y sello del corredor que las otorga.
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-#### Sección Cuarta. De los Libros de Registro y Archivo del Corredor
+#### Sección Cuarta. Del Libro de Registro y Archivos del Corredor
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 40.
 
-El corredor público deberá llevar los siguientes libros de registro:
+El corredor público llevará el Libro de Registro, para lo cual observará lo previsto por el artículo 44 del presente reglamento.
 
-I.- El de actas y pólizas; y
+Para cumplir lo dispuesto por el tercer párrafo del artículo 16 de la Ley, el corredor público deberá grabar en medios digitales el contenido íntegro del libro el cual deberá firmarse electrónicamente por dicho corredor una vez que se hubieren utilizado las doscientas cincuenta hojas foliadas, momento en que deberá resguardar el archivo electrónico en dispositivos de almacenamiento magnético, óptico o de cualquier otra tecnología que permita su conservación segura y posterior consulta inalterada.
 
-II.- El de sociedades mercantiles.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 41.
 
-En el libro de registro de actas y pólizas se asentará, en el caso de las pólizas, un extracto que contenga los elementos esenciales y modalidades del acto u operación que se hace constar, y en el de actas, las partes que hayan intervenido y la clase de hecho que se hace constar.
+Cuando la Ley, en su artículo 16, se refiera a "los libros" se deberá entender como aquellos tomos del Libro de Registro o archivo que genere el corredor público durante el transcurso de su ejercicio como fedatario público.
+
+En el libro de registro se asentará el extracto que contenga los elementos esenciales y modalidades del acto u operación que se hace constar en las pólizas que se otorguen ante corredor público. Por lo que hace a las actas, las mismas se asentarán en el mencionado Libro debiendo mencionar el número progresivo que le corresponda a cada acta, respetando en todo momento el orden que exista entre éstas y las pólizas, así como el nombre del solicitante y la clase de hecho que se hace constar de aquellos descritos en el artículo 35 del presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 42.
 
-En el libro de registro de sociedades mercantiles se asentarán los actos a que se refiere la fracción VI del artículo 6º de la Ley y se llevará, en lo conducente, conforme a lo dispuesto por la sección cuarta del capítulo tercero de la Ley del Notariado para el Distrito Federal, y por lo que disponga este reglamento.
+El archivo electrónico que contenga el libro de registro digitalizado a que se refiere el segundo párrafo del artículo 40 del presente reglamento será enviado a la Secretaría por el corredor público de conformidad con los Criterios que al efecto emita la Secretaría.
+
+Los archivos electrónicos a que se refiere el párrafo que antecede se remitirán a la Secretaría bajo protesta de decir verdad que la información contenida en ellos corresponde al contenido del Libro de Registro y tendrá los efectos de aviso ante autoridad administrativa y no prejuzgan sobre el cumplimiento que el corredor público haya dado a las disposiciones legales que le son aplicables en ejercicio de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Los libros de registro deberán permanecer en la oficina del corredor, salvo en los casos en que haya que recoger las firmas de personas que no puedan asistir a la correduría.
+Los libros de registro, pólizas, actas y demás documentos que integran el archivo deberán permanecer en la oficina del Corredor, salvo en los casos en que haya que obtener firmas de las pólizas o actas de personas que no puedan asistir a la correduría.
 
-Cuando exista la necesidad de sacar los libros de la correduría, lo hará el propio corredor o, bajo su responsabilidad, la persona que designe.
+Cuando exista la necesidad de sacar las pólizas o actas de la correduría, lo hará el propio corredor o bajo su responsabilidad, la persona que designe.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 44.
 
-Cada libro de registro deberá estar encuadernado y empastado, constar de ciento cincuenta hojas foliadas por ambos lados y de una hoja sin número al principio del libro.
+Cada libro de registro constará de doscientas cincuenta hojas foliadas por el anverso en la parte superior derecha y de una hoja sin número al principio y otra al final del libro, que el corredor público deberá encuadernar una vez que concluya la utilización de las doscientas cincuenta hojas.
 
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
+Las hojas foliadas deberán reunir los requisitos de seguridad que determine la Secretaría mediante los lineamientos correspondientes.
 
-Las hojas de los libros deberán ser uniformes, de papel blanco de treinta y cuatro centímetros de largo por veinticuatro de ancho, en su parte utilizable, con un margen izquierdo de ocho centímetros separado por una línea de tinta roja. El margen deberá dejarse en blanco y se utilizará únicamente para asentar las razones y anotaciones marginales que sean necesarias. En caso de agotarse el margen, se utilizará una hoja anexa y separada, destinada al efecto, la cual se agregará al libro.
+Las razones y anotaciones que sean necesarias se integrarán en hoja por separado al archivo.
 
-Además, se deberá respetar una franja de un centímetro y medio de ancho por el lado del doblez del libro, así como otra equivalente en las orillas, para proteger lo asentado.
-
-El corredor deberá solicitar a la Secretaría la autorización de los libros necesarios para el ejercicio de su función. En la hoja sin número de cada libro la Secretaría hará constar el lugar y fecha de la autorización, la clase de libro, el número que corresponda al libro, el número de páginas útiles, nombre y apellidos del corredor y la plaza en la que esté autorizado para ejercer sus funciones.
+El corredor, dentro de un plazo de diez días deberá dar aviso a la Secretaría cuando inicie la utilización de un nuevo libro de registro, así como cuando asiente el cierre del mismo.
 
 ###### ARTICULO 45.
 
@@ -387,17 +533,25 @@ El corredor deberá imprimir su sello en el ángulo superior izquierdo de cada p
 
 El corredor es responsable del buen uso, custodia y conservación de su archivo y libros de registro durante todo el tiempo que se encuentre en ejercicio, debiendo cuidar que éstos no sufran deterioro que los vuelvan inutilizables o ilegibles.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 48.
 
-El corredor deberá llevar un índice actualizado, mediante cualquier sistema manual, mecanizado o electrónico que permita la rápida consulta e identificación de las actas y pólizas en que haya intervenido en ejercicio de sus funciones, el cual deberá llevarse por orden alfabético, indicando la fecha de celebración, la naturaleza del acto o hecho, y el libro de registro en el que se encuentra.
+Al iniciarse la formación de un libro de registro el Corredor deberá asentar en la hoja sin número que se encuadernará al principio una razón señalando el lugar y fecha, su nombre, número, plaza, firma y sello, así como la fecha en que dio aviso a la Secretaría y la mención de que el libro de registro contendrá los extractos y asientos de las pólizas y actas otorgadas ante él o ante su asociado o quien legalmente los sustituya.
+
+Al inicio de una suplencia se deberá asentar una razón inmediatamente después del último asiento por el corredor suplente indicando la fecha y motivo de inicio de suplencia. De igual forma se asentará una razón al concluir la suplencia por el Corredor Público que reinicie funciones.
+
+Se procederá igualmente al iniciarse o concluirse una asociación.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 49.
 
-Los corredores en forma diaria, por orden de fecha y de manera progresiva, numerarán las pólizas y actas en que intervengan, en el mismo orden integrarán el archivo respectivo y asentarán el extracto de las pólizas y actas en los libros de registro correspondientes. El libro de registro seguirá al archivo y los documentos que integren las pólizas y actas no podrán desglosarse de las mismas.
+Los corredores en forma diaria, por orden de fecha y de manera progresiva, numerarán las pólizas y actas en que intervengan, en el mismo orden integrarán el archivo respectivo y anotarán el extracto y el asiento de todas las pólizas y actas, respectivamente, en la hoja foliada que corresponda del libro de registro. El libro de registro seguirá al archivo y los documentos que integren las pólizas y actas no podrán desglosarse de las mismas.
 
-Al terminarse de utilizar un libro, el corredor deberá hacer constar el cierre del mismo, señalando el lugar y fecha, el número de páginas utilizadas, la plaza en la que fue utilizado, su nombre y firma.
+Al terminarse de utilizar un libro, el corredor deberá hacer constar en la hoja sin número que se encuadernará al final el cierre del mismo, señalando el lugar y fecha, el número de páginas utilizadas, la plaza en la que fue utilizado, su nombre y firma.
 
-El corredor, previamente a la autorización de nuevos libros, deberá manifestar, bajo protesta de decir verdad, que los anteriores excepto el último han sido completamente utilizados, habiendo cumplido satisfactoriamente con los requisitos para su uso y custodia.
+El corredor, en el aviso a que se refiere el artículo 44 de este reglamento, deberá manifestar, bajo protesta de decir verdad, que los anteriores volúmenes del Libro de Registro, incluyendo el último han sido completamente utilizados, habiendo cumplido satisfactoriamente con los requisitos para su uso y custodia.
 
 > <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
 
@@ -429,7 +583,9 @@ III.- En la constitución de hipotecas sobre buques, navíos y aeronaves de conf
 
 IV.- En el otorgamiento de créditos refaccionarios o de habilitación o avío, de conformidad con las (sic) Ley de Instituciones de Crédito, así como en aquellos otros créditos en los que la intervención del corredor esté prevista por dicha ley u otros ordenamientos legales aplicables;
 
-V.- En la constitución, modificación, transformación, fusión, escisión, disolución, liquidación y extinción de sociedades mercantiles, así como en la designación de sus representantes legales y facultades de que estén investidos; y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+V.- En la constitución, modificación, transformación, fusión, escisión, disolución, liquidación, extinción y demás actos de personas morales que por disposición de las leyes deban inscribirse en el Registro Público de Comercio, así como en la designación de sus representantes orgánicos y atribuciones y facultades de representación legal de que estén investidos, y
 
 VI.- En los demás actos y hechos que determinen las leyes o reglamentos.
 
@@ -447,9 +603,73 @@ El corredor, en ejercicio de sus funciones de mediación, podrá:
 
 I.- Transmitir e intercambiar propuestas entre dos o más partes, respecto de cualquier bien o servicio que se ofrezca en el mercado nacional o internacional;
 
-II.- Custodiar las muestras de los bienes que les sean entregados para ese efecto. En este caso, el corredor tendrá todas las obligaciones y derechos de un depositario; y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-III.- Realizar las demás funciones de mediación que le otorguen otras leyes y reglamentos.
+II.- Custodiar las muestras de los bienes que les sean entregados para ese efecto. En este caso, el corredor tendrá todas las obligaciones y derechos de un depositario;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+III.- Prestar servicios de intermediación de toda clase de bienes, derechos, servicios y obligaciones por cuenta de terceros mediante el pago de una remuneración económica;
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Efectuar ventas en remate público ya sea por nombramiento privado o por mandato de autoridad competente en los términos de las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+V.- Realizar las demás funciones de mediación que le otorguen otras leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTICULO 56 Bis.
+
+El corredor público en ejercicio de sus funciones como perito valuador, podrá estimar, cuantificar y valorar los bienes, servicios, derechos y obligaciones que se sometan a su consideración por nombramiento privado o por mandato de autoridad competente.
+
+El informe de valuación debe formularse de manera clara y objetiva, presentando el razonamiento y la información suficiente con las cuales se obtiene el valor conclusivo del bien, servicio, derecho u obligación, y deberá contener cuando menos los siguientes rubros enunciativos:
+
+a) Nombre completo, número y plaza del Corredor así como su firma y sello;
+
+b) Datos del solicitante;
+
+c) Datos del propietario, indicando en su caso la información en que se basa;
+
+d) Tipo de servicio de valuación;
+
+e) Vigencia del avalúo, siendo este requisito obligatorio cuando exista una disposición legal que así lo establezca;
+
+f) Descripción del bien, derecho, servicio u obligación materia del avalúo;
+
+g) Cuando proceda, ubicación del bien materia de la valuación;
+
+h) Propósito del informe de valuación;
+
+i) Uso del informe de valuación;
+
+j) Consideraciones previas a la valuación;
+
+k) Descripción de enfoques de valuación aplicados;
+
+l) Fecha de la Inspección;
+
+m) En su caso fecha de referencia de valor;
+
+n) Fecha del informe de valuación;
+
+ñ) Fuentes de información;
+
+o) Consideraciones previas a la conclusión;
+
+p) Conclusión de valor;
+
+q) Reporte fotográfico, e
+
+r) En su caso, anexos.
+
+Cualquier observación respecto a enfoques, fuentes de información, elementos, limitaciones generales, entre otros, que incidan en la conclusión del valor, deberán ser mencionadas en el informe.
+
+Cuando en razón del servicio valuatorio, territorio, propósito, uso u objeto del dictamen solicitado al corredor se desprenda que, con base en una normatividad particular expedida por autoridad competente que sea de carácter obligatorio, deba expedir o elaborar el dictamen utilizando leyes, normas, lineamientos, manuales o reglas específicas, el corredor podrá optar por sujetarse únicamente a dicha normatividad.
+
+Tratándose de remates, avalúos para efectos judiciales o procedimientos administrativos o avalúos solicitados por autoridades donde sea física o materialmente imposible realizar la inspección física del bien objeto de valuación, u obtener del solicitante o propietario la documentación correspondiente, se deberá señalar expresamente en el dictamen y se realizará el avalúo con los datos e información de los que pueda allegarse el Corredor en el momento con los medios a su alcance.
 
 ###### ARTICULO 57.
 
@@ -461,7 +681,9 @@ En los casos en que el corredor sea designado árbitro por las partes contendien
 
 Los corredores están obligados a proporcionar de manera expedita la información y documentos que les requiera la Secretaría o cualquier otra autoridad competente de acuerdo con la ley.
 
-### CAPITULO V. De los Convenios de Suplencia y de Asociación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+### CAPITULO V. De los Convenios de Suplencia y Asociación
 
 ###### ARTICULO 59.
 
@@ -473,13 +695,25 @@ En caso de que no exista otro corredor en la misma localidad, el convenio de sup
 
 El corredor suplente tendrá todos los derechos y obligaciones que le corresponderían al ausente, y responderá personalmente de su actuación.
 
-El corredor suplente podrá actuar en el archivo, los libros de registro e índice del ausente, y expedir copias certificadas y constancias de los documentos y asientos que obren en los mismos.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+El corredor suplente podrá actuar en el archivo y libro de registro del ausente, y expedir copias certificadas, testimonios y constancias de los documentos y asientos que obren en los mismos para lo cual, el que va a actuar asentará en el libro de registro a continuación del último asiento, su nombre y apellidos, su firma y sello, o en su caso su firma electrónica.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 61.
 
-Los corredores habilitados para ejercer en una misma plaza, podrán celebrar convenios de asociación entre sí, con objeto de mejorar la prestación del servicio y optimizar la utilización de sus recursos.
+Cada corredor público estará a cargo de un solo archivo. Cada correduría pública será servida por un corredor. Quedan a salvo el caso de la asociación, las previsiones para la suplencia, las intervenciones en caso de cesación de funciones y la general del archivo, a partir de la entrega de los libros correspondientes en el plazo legal.
 
-Los corredores asociados deberán continuar actuando en su propio archivo, libros e índice, y les estará prohibido utilizar los de su asociado.
+Los corredores habilitados para ejercer en una misma plaza, podrán celebrar convenios de asociación entre sí, con objeto de mejorar la prestación del servicio y optimizar la utilización de sus recursos por el tiempo que estimen conveniente para actuar indistintamente en el mismo libro de registro y archivo, que será el del corredor de mayor antigüedad; al disolverse los convenios de asociación los corredores actuarán en sus respectivos archivos.
+
+Si la disolución fuere por la cesación en funciones o cancelación de la habilitación del corredor más antiguo, en cuyo archivo actuaban otros corredores asociados, tal archivo corresponderá al asociado que continúe en funciones con mayor antigüedad y en él seguirá actuando, debiendo solicitar a la Secretaría la expedición de una nueva habilitación con el número de la correduría del corredor cesante. Si subsistiera asociación de ese con otros corredores deberán continuar actuando en el archivo del más antiguo.
+
+Los asociados continuarán actuando con su propio sello.
+
+Los corredores que hayan celebrado convenios de asociación, podrán celebrar válidamente convenios de suplencia.
+
+Los convenios de suplencia y asociación, así como sus modificaciones y disolución se inscribirán ante la Secretaría, el Registro Público de Comercio y el colegio que corresponda.
 
 ### CAPITULO VI. De las Separaciones y Licencias
 
@@ -545,11 +779,11 @@ VIII.- Una vez levantada el acta se procederá a su lectura, al término de la c
 
 IX.- Los visitadores podrán hacerse acompañar de un representante del colegio de corredores de la plaza respectiva.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 69.
 
-En caso de que del acta de inspección se desprendan irregularidades o anomalías, previamente a la imposición de la sanción que corresponda, la Secretaría notificará al corredor esa circunstancia y le concederá un plazo de diez días para que manifieste lo que a su derecho convenga, y para que aporte las pruebas que considere convenientes en relación con la infracción que se le imputa.
-
-Concluido el plazo, la Secretaría valorará las pruebas ofrecidas y determinará si se cometieron o no infracciones, imponiendo las sanciones que en su caso correspondan.
+En caso de que del acta de inspección se desprendan presuntas irregularidades o anomalías que ameriten sanción, la Secretaría notificará al corredor el inicio del procedimiento administrativo, el cual se tramitará y resolverá de conformidad con lo previsto en la Ley Federal de Procedimiento Administrativo, incluyendo las normas que son supletorias a la misma.
 
 ### CAPITULO VIII. De las Sanciones
 
@@ -563,9 +797,21 @@ a) Por tardanza injustificada en alguna actuación o trámite, solicitados y exp
 
 b) Por separarse del ejercicio de sus funciones o cambiar de domicilio sin dar el aviso correspondiente;
 
-c) Por cualquier otro incumplimiento de importancia menor, a juicio de la Secretaría, y
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-d) Por no proporcionar la información y documentos en la forma y a las autoridades que señala el artículo 58 de este reglamento.
+c) Por cualquier otro incumplimiento de importancia menor, a juicio de la Secretaría;
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+d) Por no proporcionar la información y documentos en la forma y a las autoridades que señala el artículo 58 de este reglamento;
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+e) Por haber sido expulsado del Colegio de Corredores derivado del incumplimiento del pago de las cuotas previstas por el Estatuto autorizado por la Secretaría, e
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+f) Por ser omiso en la obligación a que se refiere la fracción IX del artículo 15 de la Ley por más de treinta días;
 
 II.- Multa hasta por el equivalente a 500 veces el salario mínimo general diario vigente en el Distrito Federal al cometerse la infracción:
 
@@ -599,9 +845,17 @@ d) Por intervenir en un hecho o acto cuyo fin sea física o legalmente imposible
 
 e) Por no conservar vigente o actualizada la garantía que señala la fracción I del artículo 12 de la Ley;
 
-f) Por no presentarse a ejercer sus funciones al vencimiento del plazo de la licencia concedida; y
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
-g) Por cambiar de plaza sin la previa autorización a que se refiere el artículo 5º de la Ley.
+f) Por no presentarse a ejercer sus funciones al vencimiento del plazo de la licencia concedida;
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+g) Por cambiar de plaza sin la previa autorización a que se refiere el artículo 5o. de la Ley, e
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+h) Por violar alguna de las prohibiciones de las fracciones VII y VIII del artículo 20 de la Ley.
 
 IV.- Cancelación definitiva de la habilitación:
 
@@ -611,7 +865,7 @@ b) Por no desempeñar sus funciones conforme a lo señalado en el artículo 3º 
 
 c) Por no constituir la garantía a que se refiere el inciso e) de la fracción anterior;
 
-d) Por violar alguna de las prohibiciones de las fracciones VII y VIII del artículo 20 de la Ley; y
+d) (DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 e) En los demás casos señalados en la fracción IV del artículo 21 de la Ley.
 
@@ -645,25 +899,27 @@ IV.- Fallecimiento.
 
 La Secretaría aplicará las sanciones que correspondan por el incumplimiento a lo dispuesto en la Ley y este reglamento.
 
-La declaración de cancelación definitiva será dictada por el Secretario de Comercio y Fomento Industrial.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+La declaración de cancelación definitiva será dictada por el Secretario de Economía.
 
 Las resoluciones que se dicten sobre suspensión o cancelación definitiva de habilitaciones se deberán publicar en el Diario Oficial de la Federación, o en el periódico o gaceta de la entidad federativa que corresponda.
 
 ### CAPITULO IX. Del Archivo General de Correduría Pública
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTICULO 74.
 
-El Archivo General de Correduría Pública estará a cargo de la Secretaría, se dividirá en secciones, y habrá una sección por cada plaza.
+El Archivo General de Correduría Pública estará a cargo de la Secretaría y se integrará con las actas, pólizas, libros de registro e índices y demás documentación que haya expedido el corredor en ejercicio de sus funciones, que sean puestos a su disposición.
+
+El Archivo General de Correduría Pública sólo podrá mostrar y/o expedir copias certificadas de los instrumentos y documentos que tengan en custodia, a las personas que tengan interés jurídico en el acto o hecho de que se trate, a los corredores o a la autoridad judicial, así como a los notarios en caso de reciprocidad o convenio específico con los archivos que correspondan.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 75.
 
-Las secciones del Archivo General de Correduría Pública se integrarán con:
-
-I.- Las pólizas, actas y demás documentos que los corredores de la plaza respectiva les entreguen, en cumplimiento de las disposiciones de este reglamento;
-
-II.- Los libros de registro e índices que sean puestos a su disposición, en cumplimiento a lo señalado en este reglamento; y
-
-III.- Los sellos que los corredores hayan depositado o quedado inutilizados, de conformidad con lo que establezca este reglamento.
+En todos los casos en los que se deje de utilizar en forma definitiva un sello, se deberá entregar a la Secretaría para su destrucción. De la diligencia se levantará acta circunstanciada en la que participará un representante de la Secretaría y, en su caso, un representante del Colegio de Corredores y el interesado.
 
 > <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
 
@@ -691,7 +947,9 @@ Solamente podrán pertenecer a los colegios los corredores habilitados conforme 
 
 El recurso de revisión procederá en contra de las resoluciones de la Secretaría dictadas con fundamento en la Ley y este reglamento.
 
-Dicho recurso se interpondrá por escrito directamente ante la unidad administrativa que emitió la resolución, dentro de los quince días siguientes a la fecha en que se realice la notificación de la resolución respectiva.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2012)</small>
+
+Para la sustanciación del referido recurso, se estará en lo conducente a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 En tratándose de multas, será optativo para el interesado interponer el recurso de revisión o acudir directamente ante el Tribunal Fiscal de la Federación.
 
@@ -699,39 +957,23 @@ El recurso de revisión será resuelto por el superior jerárquico del funcionar
 
 ###### ARTICULO 81.
 
-El escrito del recurso deberá contener lo siguiente.
-
-I.- Nombre y domicilio de recurrente;
-
-II.- La resolución que se impugna, acompañándose el documento en que conste el acto impugnado;
-
-III.- Los hechos en que se funde el recurso, los cuales se expondrán suscintamente (sic), con claridad y precisión;
-
-> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 1993)</small>
-
-IV.- Los agravios que le causa el acto impugnado; y
-
-V.- Las pruebas que se ofrezcan, acompañándose las documentales correspondientes y, en caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los cuales deban versar, y señalarán los nombres y domicilios del perito o de los testigos.
-
-Cuando se omitan lo datos o no se adjunten los documentos que se señalan en las fracciones anteriores, se desechará por improcedente el recurso interpuesto.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 82.
 
-En el recurso de revisión se podrán ofrecer toda clase de pruebas siempre que se relacionen con la resolución recurrida, excepto la confesional de las autoridades.
-
-El superior jerárquico competente podrá allegarse los elementos de prueba o mandar practicar cualquier diligencia que considere necesaria.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 83.
 
-Concluido el periodo probatorio, la Secretaría dictará resolución dentro de los quince días siguientes, la cual podrá confirmar, modificar o revocar el acto recurrido y, en su caso, señalar los términos y condiciones en que haya de cumplimentarse.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 84.
 
-El recurso de revisión se sustanciará, en lo no previsto por la Ley y este reglamento, por lo dispuesto, en lo conducente, en el Código Federal de Procedimientos Civiles.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 85.
 
-La interposición del recurso de revisión sólo podrá suspender la ejecución de la resolución impugnada por lo que hace al pago de multas.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 2012)
 
 ## TRANSITORIOS
 
@@ -746,3 +988,27 @@ TERCERO.- Los corredores que deseen obtener la habilitación a que se refiere el
 CUARTO.- El plazo de sesenta días a que se refiere el artículo 59 de este reglamento, se contará a partir del 1o. de enero de 1994.
 
 Dado en la residencia del Poder Ejecutivo Federal, en México, Distrito Federal, a los dos días del mes de junio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Manuel Camacho Solís.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría tendrá 180 días contados a partir del día siguiente a la entrada en vigor del presente Decreto para emitir los Criterios a que hace referencia el artículo 16 de la Ley y el 42 del Reglamento, así como los lineamientos a que se refiere el segundo párrafo del artículo 44.
+
+TERCERO.- Por lo que hace al Libro de Registro de Sociedades Mercantiles los corredores públicos deberán cerrar dicho libro mediante asiento que así lo señale y deberá inutilizar las páginas restantes, cruzándolas con una línea horizontal.
+
+CUARTO.- Los corredores públicos que con motivo de la reforma al artículo 16 de la Ley Federal de Correduría Pública, publicada en el Diario Oficial de la Federación el 8 de junio de 2011, no hayan asentado los asientos de las actas en el Libro de Registro, deberán hacerlo a partir de la entrada en vigor del presente Decreto.
+
+Para tal efecto, deberán hacer una anotación en el Libro de Registro que actualmente utilicen, en la que señalen su número de corredor público, la plaza en la que ejercen, la fecha en la cual dejaron de asentar las actas, la fecha en la que están realizando la anotación y que actas se encuentran comprendidas en ese periodo. Asimismo y posterior a la anotación mencionada procederán al asiento de las actas que corresponda, sin importar, por esa única ocasión, que el orden cronológico de los extractos y asientos en el Libro de Registro no sea continuo.
+
+QUINTO.- Las autorizaciones de los Libros de Registro de los Corredores Públicos que se estén tramitando a la entrada en vigor del presente Decreto, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables vigentes.
+
+SEXTO.- Los Corredores deberán utilizar el Libro de Registro que se encuentre en uso a la entrada en vigor de este Decreto hasta su terminación, momento en que iniciarán la conformación del libro utilizando hojas foliadas, el cual deberá continuar con la numeración progresiva que le corresponda al Libro de Registro de Actas y Pólizas o Libro de Registro que se encuentre en uso, así como con la numeración progresiva de las pólizas y actas correspondientes.
+
+SÉPTIMO.- La obligación de enviar los archivos electrónicos, a que hacen referencia los artículos 16 de la Ley y 40 del Reglamento, por parte de los Corredores Públicos comenzará a partir de la entrada en vigor de los Criterios mencionados en el artículo segundo de los transitorios.
+
+OCTAVO.- Los Colegios de Corredores Públicos deberán realizar las modificaciones que correspondan a sus estatutos sociales en un plazo que no excederá de seis meses.
+
+NOVENO.- La Secretaría de Economía realizará las acciones necesarias para que la implementación del presente Decreto se realice con cargo a su presupuesto autorizado para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para dicho propósito.
