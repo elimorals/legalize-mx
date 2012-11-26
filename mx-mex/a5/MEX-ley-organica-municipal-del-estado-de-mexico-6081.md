@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-10-30"
+last_updated: "2012-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -73,7 +73,11 @@ Los municipios del Estado son 125, con la denominación y cabeceras municipales 
 
 MUNICIPIO CABECERA MUNICIPAL
 
-ACAMBAY ACAMBAY
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2012)</small>
+
+ACAMBAY DE RUIZ VILLA DE ACAMBAY DE RUIZ CASTAÑEDA
+
+CASTAÑEDA
 
 ACOLMAN ACOLMAN DE
 
@@ -3684,6 +3688,12 @@ TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía qu
 CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
 
 G.G. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
