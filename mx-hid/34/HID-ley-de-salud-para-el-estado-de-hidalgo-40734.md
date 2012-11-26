@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2010-12-13"
+last_updated: "2012-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -87,21 +87,49 @@ IX.- La educación para la salud;
 
 X.- La orientación y vigilancia en materia de nutrición;
 
-XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-XII.- La salud ocupacional;
+XI.- El fomento de buenos hábitos alimentarios;
 
-XIII.- La prevención y el control de enfermedades transmisibles;
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+XII.- La promoción de una vida saludable mediante el consumo de una dieta suficiente, completa, adecuada, variada e inocua, además de la actividad física;
 
-XV.- La prevención de la invalidez y la rehabilitación de los discapacitados;
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-XVI.- La asistencia social;
+XIII.- Recomendar una alimentación que cubra con las proporciones adecuadas de nutrientes de acuerdo a las características fisiológicas de cada individuo;
 
-XVII.- Participar con las Autoridades Federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo; y
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-XVIII.- Las demás que establezca la Ley General de Salud y otras disposiciones legales.
+XIV.- El combate a los trastornos de sobrepeso y obesidad;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XV.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
+
+XVI.- La salud ocupacional;
+
+XVII.- La prevención y el control de enfermedades transmisibles;
+
+XVIII.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XIX.- La prevención de la invalidez y la rehabilitación de las personas discapacitadas;
+
+XX.- La asistencia social;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XXI.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XXII.- Las demás que establezca la Ley General de Salud y otras disposiciones legales; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XXIII.- Que se fomente la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables.
 
 B.- EN MATERIA DE SALUBRIDAD GENERAL, CON FACULTADES CONCEDIDAS POR ACUERDOS DE COORDINACIÓN:
 
@@ -129,15 +157,39 @@ VI.- La operación de las siguientes materias de Salubridad General:
 
 a).- La salud materno-infantil y planificación familiar y/o salud sexual y reproductiva;
 
-b).- La promoción de la salud;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-c).- La medicina preventiva y
+b).- La promoción y conservación de la salud física;
+
+c).- La medicina preventiva y (sic)
 
 d).- La vigilancia epidemiológica;
 
-e).- Los servicios de atención médica y asistencia social; y
+e).- Los servicios de atención médica y asistencia social; y (sic)
 
-VII.- Las demás que se establezcan por acuerdos de coordinación específicos y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+VII.- Participar con las Autoridades Federales y Municipales en el desarrollo de programas tendientes a evitar y combatir el sobrepeso y la obesidad.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- La promoción de una alimentación equilibrada baja en grasas y azucares;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+IX.- Promover investigaciones sobre los efectos del consumo de productos con bajo contenido nutricional;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+X.- La regulación de anuncios publicitarios de alimentos con escaso valor nutrimental dirigidos a menores;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XI.- La inclusión dentro de las tareas escolares la práctica de ejercicio entre padres e hijos; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+
+XII.- Las demás que se establezcan por acuerdos de coordinación específicos y otras disposiciones aplicables.
 
 C.- EN MATERIA DE SALUBRIDAD LOCAL, LA REGULACION Y CONTROL SANITARIO DE:
 
@@ -191,7 +243,7 @@ XXIV.- La sanidad en los límites con otras Entidades Federativas; y
 
 XXV.- Las demás materias que establezca esta ley u otras disposiciones generales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEPTIMO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -235,13 +287,13 @@ VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de
 
 IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la fármacodependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -321,17 +373,19 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
+### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
+### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
 
 ###### Artículo 12.
 
 Compete al Gobierno del Estado, a través de la Secretaría de Salud, y a los Municipios en el ámbito de sus respectivas competencias, en los términos de esta Ley, de los Convenios que en ambos órdenes de Gobierno suscriban, y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 3 apartados B y C de esta ley.
 
-### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
+### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
 
 ###### Artículo 13.
 
@@ -363,7 +417,7 @@ Todo cambio de propietario de un establecimiento, de razón o denominación, de 
 
 Los establecimientos relacionados con las actividades, productos o servicios regulados por esta Ley en materia de Salubridad Local, entre otros requisitos que en particular señale la presente Ley, deberán contar con: área física suficiente para la prestación del servicio de que se trate, Iluminación y ventilación adecuadas, instalación eléctrica debidamente protegida y en buen estado, instalaciones hidráulicas y drenaje en buen estado, rejillas, coladeras, paredes, puertas, ventanas y pintura en buen estado de conservación e instalaciones sanitarias funcionales.
 
-### CAPITULO VI. LIMPIEZA PUBLICA
+### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 17.
 
@@ -397,9 +451,21 @@ En ningún caso y bajo ninguna circunstancia se podrán expender o suministrar b
 
 El Estado a través de la Secretaría de Salud, celebrará Convenios de regulación y fomento sanitarios con los Municipios.
 
-### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO VIII. RASTROS
+### CAPITULO VI. LIMPIEZA PUBLICA
+
+###### Artículo 22 Bis.
+
+La Secretaría de Salud, en coordinación con la Secretaría de Educación, de conformidad con las disposiciones aplicables y dentro de su ámbito de competencia, vigilarán:
+
+I.- Que los alimentos y bebidas que se brinden o expendan en las escuelas de nivel preescolar, primaria y secundaria posean el valor nutricional que coadyuve a una dieta para el óptimo desempeño intelectual, el sano desarrollo y la lucha con la obesidad de los educandos, en total apego al Acuerdo mediante el cual se establecen los lineamientos generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica, Publicado en el Diario Oficial de la Federación el 10 de agosto de 2011, del mismo modo que se establezcan las sanciones correspondientes a los concesionarios que incumplan dicho acuerdo;
+
+II.- Que los Establecimientos de Consumo Escolar, de conformidad con lo establecido en la Ley de la materia y en el Reglamento de cooperativas escolares, promoverán el consumo de bebidas y alimentos de buen contenido nutricional; y
+
+III.- El cumplimiento de la obligación escolar de practicar 30 minutos diarios de ejercicio físico para prevenir padecimientos de sobrepeso y obesidad que ponen en peligro la salud física y mental de los menores.
+
+### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
 
 ###### Artículo 23.
 
@@ -425,7 +491,7 @@ El Municipio ordenará la fumigación periódica de los mercados, centrales de a
 
 Los vendedores, locatarios y personal que su actividad este vinculada con los mercados y central de abastos, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
+### CAPITULO VIII. RASTROS
 
 ###### Artículo 27.
 
@@ -465,7 +531,7 @@ Lo anterior se aplicará para la creación, ampliación o modificación de colon
 
 Para el cumplimiento de lo previsto en este capítulo la Secretaría de Salud, se coordinarán con las Autoridades Municipales, Estatales y Federales competentes en cada área.
 
-### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
+### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
 
 ###### Artículo 36.
 
@@ -499,7 +565,7 @@ La Autoridad Sanitaria podrá ordenar la ejecución de las obras o trabajos que 
 
 La Autoridad Municipal hará la declaración al momento en que se encuentre saturado un panteón y podrá prohibir que en el se realicen más inhumaciones o depósito de cadáveres, restos humanos y restos humanos áridos o cremados; así como el tratamiento que se le dará al predio.
 
-### CAPITULO XI. PROSTITUCION
+### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
 
 ###### Artículo 42.
 
@@ -535,7 +601,7 @@ El control sanitario de los transportes de desechos sólidos, vertederos y/o rel
 
 El transporte sanitario de los desechos sólidos deberá cumplir con los requisitos que establezcan las disposiciones legales y normas ecológicas aplicables.
 
-### CAPITULO XII. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO XI. PROSTITUCION
 
 ###### Artículo 49.
 
@@ -595,7 +661,7 @@ Bajo ninguna circunstancia el propietario o la población podrá oponerse o impe
 
 El Municipio será responsable de reglamentar de manera específica la tenencia de mascotas en el ámbito de su competencia.
 
-### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
+### CAPITULO XII. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### Artículo 63.
 
@@ -653,7 +719,7 @@ La matanza de animales en los rastros autorizados, se efectuará en los días y 
 
 Todos los rastros deberán contar con el adecuado transporte sanitario de la carne. Este servicio podrá ser concesionado a los particulares.
 
-### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
 
 ###### Artículo 75.
 
@@ -701,9 +767,7 @@ Las Autoridades Municipales procurarán que sus poblaciones cuenten con sistemas
 
 Queda prohibido arrojar agua residual sin tratamiento a la vía pública.
 
-### CAPITULO XV
-
-ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
+### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 86.
 
@@ -729,7 +793,9 @@ Para el establecimiento de nuevos establos se deberá contar con la aprobación 
 
 Las condiciones sanitarias que deben reunir estos establecimientos estarán fijadas por esta Ley, otras disposiciones legales aplicables, y las normas oficiales y técnicas correspondientes.
 
-### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
+### CAPITULO XV
+
+ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
 
 ###### Artículo 90.
 
@@ -761,7 +827,7 @@ Queda prohibido el acceso a menores de dieciocho años de edad a donde se ejerza
 
 La Autoridad Municipal determinará los lugares en donde se permita el ejercicio de la prostitución.
 
-### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
 
 ###### Artículo 97.
 
@@ -771,7 +837,7 @@ Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptaci�
 
 Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -785,7 +851,7 @@ Los encargados de los servicios médicos de reclusorios y centros de readaptaci�
 
 La Secretaría de Salud, en coordinación con las autoridades competentes, vigilarán la sanidad de los reclusorios y centros de readaptación social, a fin de prevenir y evitar riesgos o daños a la salud de los internos.
 
-### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 101.
 
@@ -823,7 +889,7 @@ No se permitirá el acceso a las albercas con animales, alimentos, bebidas; o pe
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
+### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 108.
 
@@ -837,7 +903,7 @@ Además de los requisitos reglamentarios respectivos, las instalaciones y edific
 
 Previo a la apertura de los centros de reunión y espectáculos, la autoridad sanitaria hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO XX. GIMNASIOS
+### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
 
 ###### Artículo 111.
 
@@ -851,7 +917,7 @@ Queda prohibido utilizar productos de belleza no autorizados ni registrados por 
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 111 de este ordenamiento, deberán apegarse a lo establecido en esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XXI. TERMINALES DE TRANSPORTE
+### CAPITULO XX. GIMNASIOS
 
 ###### Artículo 114.
 
@@ -861,7 +927,7 @@ Para los efectos de esta Ley, se entiende por: tintorerías, lavanderías y plan
 
 Dichos establecimientos deberán contar con el aviso correspondiente presentado ante la Secretaría de Salud, oyendo la opinión de la Autoridad Municipal. En el aspecto sanitario, se regirán por esta Ley y otras disposiciones aplicables.
 
-### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
+### CAPITULO XXI. TERMINALES DE TRANSPORTE
 
 ###### Artículo 116.
 
@@ -881,11 +947,7 @@ Además de los requisitos señalados en el Artículo 16 de esta Ley, en los esta
 
 En caso de contar con los servicios complementarios como restaurantes, servicio de bar, peluquerías, sala de belleza, lavandería, planchaduría y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen las disposiciones aplicables, como establecimientos independientes.
 
-### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
 
 ###### Artículo 120.
 
@@ -919,9 +981,11 @@ Los transportes dedicados al traslado de carne a distancias mayores de cincuenta
 
 Queda prohibido el transporte publico de carne en vehículos que no cumplan con los requisitos sanitarios que establezcan las disposiciones aplicables y la Autoridad Sanitaria competente.
 
-### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
+### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 126.
 
@@ -939,13 +1003,9 @@ Además de las disposiciones de seguridad que establezcan los ordenamientos lega
 
 Los establecimientos a los que se refiere este Capítulo, deberán presentar aviso de funcionamiento ante la Autoridad Sanitaria y estarán sujetos a verificación.
 
-### CAPITULO XXV
+### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
 
-PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 130.
 
@@ -959,7 +1019,13 @@ Los gimnasios deberán dar aviso de funcionamiento ante la Secretaría de Salud,
 
 Se prohíbe la comercialización no autorizada de artículos o productos en el interior de los gimnasios, que atenten contra la salud de las personas.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XXV
+
+PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 133.
 
@@ -977,7 +1043,7 @@ La limpieza higiene y conservación de las áreas comunes de estos establecimien
 
 Los servicios sanitarios de estos establecimientos, deberán ser suficientes para los usuarios y mantenerse en permanente higiene y buen estado de conservación.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 137.
 
@@ -995,21 +1061,21 @@ Los puestos semifijos o ambulantes en donde se expendan productos alimenticios, 
 
 La Autoridad Municipal será la responsable de la autorización de estos giros.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 140.
 
 Se entiende por establecimientos especializados en adicciones, a las instituciones de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 141.
 
 Los establecimientos a que se refiere este capítulo requieren de licencia sanitaria y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; y en el caso de los grupos de ayuda mutua, éste podrá ser un adicto en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para los usuarios, conforme a lo que establezca el Reglamento correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1019,9 +1085,9 @@ La Autoridad Sanitaria, aprobará la instalación de estos establecimientos cuan
 
 En estos establecimientos, se garantizará el respeto a los derechos humanos y a la dignidad de las personas, quedando prohibido cualquier acto de agresión física o moral, tortura, mutilación, abuso sexual, así como toda conducta que atente contra la vida o la integridad de las personas.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 142 Bis 1.
 
@@ -1035,23 +1101,23 @@ III.- La realización de Programas de Prevención y Control de Enfermedades Buco
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 142 Bis 2.
 
 Se crea el Consejo Estatal Contra las Adiciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los Artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1065,13 +1131,13 @@ II. La educación sobre los efectos del alcohol en la salud y en las relaciones 
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Tabaquismo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1085,13 +1151,13 @@ II. La educación sobre los efectos del tabaco en la salud y en las relaciones s
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el tabaquismo en los grupos de población considerados de alto riesgo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra la Farmacodependencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1105,7 +1171,7 @@ II.- La educación sobre los efectos del uso de estupefacientes, substancias psi
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1115,7 +1181,7 @@ La Secretaría de Salud elaborará un Programa Estatal contra la fármacodepende
 
 Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Estatal de Salud en todo el territorio y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1133,9 +1199,11 @@ Las instituciones mencionadas en el párrafo que antecede, deberán cubrir los m
 
 En el caso de que a cualquiera de dichas instituciones públicas o privadas haya sido canalizado un fármacodependiente por la Procuraduría General de Justicia Estatal, se deberá informar de manera mensual al servidor público que realizó la remisión, si el fármacodependiente ha cumplido con el tratamiento, así mismo, informará el avance del mismo.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1591,7 +1659,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE OCTUBRE DE 2008.
 
@@ -1618,3 +1686,7 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
