@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-del-regimen-estatal-de-proteccion-social-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2008-11-17"
+last_updated: "2012-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERNO DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-REGLAMENTO INTERNO DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
+REGLAMENTO INTERNO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE VERACRUZ, PUBLICADO EN EL G.O. 27 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 17 de noviembre de 2008.
 
@@ -530,3 +532,13 @@ LEONEL BUSTOS SOLÍS
 DIRECTOR GENERAL DEL REPSS
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE NOVIEMBRE DE 2012.
+
+Primero. Queda derogado el Reglamento Interno del REPSS, aprobado por la Junta de Gobierno, en su primera sesión ordinaria el 30 de octubre de 2008 y publicado en el número extraordinario 380 de la Gaceta oficial del estado de fecha 17 de noviembre de 2008.
+
+Segundo. Los Manuales de Organización y Procedimientos, deberán expedirse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Reglamento Interior.
+
+Tercero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
