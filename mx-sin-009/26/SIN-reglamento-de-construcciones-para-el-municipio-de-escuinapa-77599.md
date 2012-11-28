@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-construcciones-para-el-municipio-de-escuinapa-775
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-03"
-last_updated: "2010-12-03"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "SIN"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL MUNICIPIO DE ESCUINAPA, DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE CONSTRUCCIONES PARA EL MUNICIPIO DE ESCUINAPA, SINALOA, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de diciembre de 2010.
 
@@ -251,7 +253,7 @@ Para el estudio, elaboración y propuestas de iniciativas de reformas al present
 
 Para los efectos de este reglamento, las edificaciones, se clasificarán en los géneros, subgéneros y tipologías especificados en los Planes y Programas de Desarrollo Urbano, así como en la siguiente tabla.
 
-> <small>N. DE E. VEASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINAS DE LA 79 A LA 84.</small>
+> <small>N. DE E. VÉASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINAS DE LA 79 A LA 84.</small>
 
 ###### Artículo 10.
 
@@ -1301,7 +1303,7 @@ Para garantizar las condiciones de habitabilidad, accesibilidad, funcionamiento,
 
 Los locales de las edificaciones según su tipología, deberán tener como mínimo las dimensiones y características que se establecen en la siguiente tabla:
 
-> <small>N. DE E. VEASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINAS DE LA 99 A LA 100.</small>
+> <small>N. DE E. VÉASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINAS DE LA 99 A LA 100.</small>
 
 OBSERVACIONES:
 
@@ -1369,7 +1371,7 @@ Para efectos de las disposiciones de este reglamento, se considera un promedio d
 
 Las edificaciones deberán contar con los espacios destinados al estacionamiento de vehículos, de acuerdo a su tipología y a su ubicación, conforme a lo siguiente:
 
-> <small>N. DE E. VEASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINAS DE LA 102 A LA 108.</small>
+> <small>N. DE E. VÉASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINAS DE LA 102 A LA 108.</small>
 
 Cualquier otra tipología de edificación, no comprendida en esta relación, se sujetará a estudios y resoluciones de la Dirección con la opinión del Consejo.
 
@@ -1401,7 +1403,7 @@ La aplicación de este impuesto sustituto estará sujeto a que el H. Ayuntamient
 
 Todas las edificaciones deberán contar con el servicio de agua potable de calidad y cantidad suficiente para cubrir las demandas mínimas de acuerdo a las Normas Oficiales Mexicanas y a la siguiente tabla de dosificación:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINA 109.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINA 109.</small>
 
 OBSERVACIONES:
 
@@ -1425,7 +1427,7 @@ III. Los locales de trabajo hasta 120 m2 y hasta 10 trabajadores o usuarios cont
 
 IV. En los demás casos se proveerán los muebles sanitarios que se enumeran en la siguiente tabla:
 
-> <small>N. DE E. VEASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINAS DE LA 110 A LA 111.</small>
+> <small>N. DE E. VÉASE TABLAS EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINAS DE LA 110 A LA 111.</small>
 
 En edificaciones de comercio, los sanitarios se proporcionarán para empleados y público en partes iguales, dividiendo entre dos las cantidades indicadas.
 
@@ -2267,7 +2269,7 @@ IV. Se deberá colocar barandal en las escaleras y en las plataformas a una altu
 
 V. La superficie del agua deberá mantenerse agitada en las albercas con plataforma a fin de que los clavadistas la distingan claramente.
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINA 121.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINA 121.</small>
 
 Deberán diferenciarse con señalamientos adecuados las zonas de natación y de clavados e indicarse en lugar visible las profundidades mínimas y máximas, así como el punto en la que la profundidad sea de un metro cincuenta centímetros y en donde cambie la pendiente del piso de fondo.
 
@@ -2435,7 +2437,7 @@ e) Subgrupo B5: Los demás que considere necesarios la Dirección con la opinió
 
 Las construcciones se diseñarán de acuerdo a los códigos y manuales nacionales y norteamericanos vigentes, que se señalan en este título. El corresponsable en seguridad estructural podrá optar por las normas que se consideren las más convenientes para cada proyecto en particular. Los códigos y manuales que podrán utilizarse, para cada materia, son los que se muestran en la siguiente tabla:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PAGINA 124.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE DICIEMBRE DE 2010, PÁGINA 124.</small>
 
 El uso de los códigos norteamericanos indicados presupone la inclusión de las especificaciones, guías, ayudas de diseño y demás estudios y recomendaciones, de instituciones relacionadas con la temática como: la American Society of Civil Engineers Standard (ASCE), la American National Standards Institute (ANSI), la American Society for Testing and Materials (ASTM), Pórtland Cement Association (PCA), Concrete Reinforcing Steel linstitute (sic) (CRSI) y de la American Welding Society (AWS), entre otras. Lo anterior es extensivo a los códigos nacionales autorizados, el Reglamento de Construcciones para el Distrito Federal y los manuales de la CFE.
 
@@ -4498,3 +4500,11 @@ PRESIDENTE MUNICIPAL
 Dr. Francisco Romo Salazar
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. Se abroga el Reglamento de Construcciones del Municipio de Escuinapa, Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" número 145 del 03 de Diciembre de 2010
+
+Artículo Segundo. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
