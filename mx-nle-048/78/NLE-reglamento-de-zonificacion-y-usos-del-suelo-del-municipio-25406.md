@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2010-05-14"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -1325,7 +1325,9 @@ Las promociones e iniciativas a que se refiere el artículo anterior se someter�
 
 I. La Secretaría de Desarrollo Urbano y Obras Públicas, emitirá un dictamen técnico urbanístico sobre la propuesta, tomando en cuenta de la zona: vialidad, paisaje urbano, lineamientos, servicios públicos y los aspectos ecológicos.
 
-II. El interesado deberá proporcionar la factibilidad o visto bueno de parte de Comisión Federal de Electricidad, Compañía de Agua y Drenaje y de la Compañía de Gas correspondiente, para satisfacer las necesidades del uso de suelo propuestas, así como las firmas de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres por cada lado, cinco en frente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso se deberá velar porque no se lesionen intereses o derechos jurídicos adquiridos con anterioridad debiendo estar de acuerdo las dos terceras partes del total de los vecinos.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+II. El interesado deberá justificar que cuenta con los servicios de la Comisión Federal de Electricidad, Compañía de Agua y Drenaje y la Compañía de Gas correspondiente para satisfacer las necesidades del uso de suelo propuesto y en caso de ser insuficiente será obligación del particular hacer las gestiones requeridas ante dichas instituciones para que se adecue a su costa el servicio necesario, así como las firmas de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres por cada lado, cinco en frente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso se deberán velar por que no se lesionen intereses o derechos jurídicos adquiridos con anterioridad debiendo estar de acuerdo las dos terceras partes del total de los vecinos. Cuando se trate de Cambios de Lineamientos para lotes en breña o sin construcción, además de cumplirse con los requisitos de Ley y los señalados en el presente reglamento, deberá obtenerse dictamen de factibilidad de la Comisión Federal de Electricidad, de Servicios de Agua y Drenaje y Compañía de Gas
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
@@ -1621,15 +1623,11 @@ En el caso de predios o lotes de configuración geométrica irregular, la Secret
 
 Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Obras Públicas aprobará o rechazará lo solicitado.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-Los lineamientos específicos aplicables a un lote o predio, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta del treinta por ciento (30%), en densidades, alturas y estacionamientos. La solicitud deberá acompañarse con firmas de apoyo de la mayoría de los propietarios de los lotes o predios ubicados en una zona de cien metros de radio, tomando como centro la mitad del frente del terreno, así como de los dictámenes favorables de la Comisión Federal de Electricidad y de los Servicios de Agua y Drenaje de Monterrey.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
-
-La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Ordenamiento Territorial de Desarrollo Urbano.
+Los lineamientos específicos aplicables a un lote o predio, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta el treinta por ciento (30%) en densidades, alturas y estacionamientos. La solicitud deberá acompañarse con firmas de apoyo de la mayoría de los propietarios de los lotes o predios urbanizados en una zona de cien metros de radio, tomando como centro la mitad del frente del terreno, así como los dictámenes favorables de la Comisión Federal de Electricidad y Agua y Drenaje de Monterrey IPD correspondiente y en caso de que el predio cuente con dichos servicios, lo deberá de justificar con los recibos de pago correspondientes. La Secretaría de Desarrollo Urbano y Obras Públicas aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Obras Públicas y Desarrollo Urbano.
 
 ###### Artículo 40.
 
@@ -3168,3 +3166,7 @@ TERCERO.- Envíese su publicación al Periódico Oficial del Estado, por conduct
 P.O. 14 DE MAYO DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente acuerdo surtirá efectos al momento de su aprobación y Publicación en el Periódico Oficial del Estado.
