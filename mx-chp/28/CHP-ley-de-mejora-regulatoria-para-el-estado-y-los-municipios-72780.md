@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-mejora-regulatoria-para-el-estado-y-los-municipios-72780
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-23"
-last_updated: "2009-12-23"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de diciembre de 2009.
 
@@ -91,7 +93,7 @@ XII. RUPEA: Al Registro Único de Personas y Empresas Acreditadas.
 
 XIII. SARE: Al Sistema de Apertura Rápida de Empresas que establezca la Administración Pública Estatal y Municipal.
 
-XlV. Secretaría: A la Secretaría de Economía del Estado de Chiapas.
+XIV. Secretaría: A la Secretaría de Economía del Estado de Chiapas.
 
 XV. Simplificación Administrativa: A las acciones conducentes a eliminar y/o modificar los procesos que se ventilan ante las Autoridades Administrativas, aquellos trámites que se dupliquen o sean excesivos, en aras de facilitar la apertura rápida de empresas.
 
@@ -428,3 +430,21 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de diciembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, emitida mediante Decreto número 031 y publicada en el Periódico Oficial número 206-2a. Sección de fecha 23 de diciembre de 2009.
+
+Artículo Cuarto.- En un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Economía deberá someter a consideración del Ejecutivo del Estado, para su expedición y publicación en el Periódico Oficial el Reglamento de la Ley.
+
+Artículo Quinto.- Los procedimientos y demás asuntos relacionados con los instrumentos a que se refiere esta Ley, que hayan iniciado con anterioridad a su entrada en vigor, se tramitarán y resolverán conforme a las disposiciones que les dieron origen, en lo que no se oponga a esta Ley.
+
+Artículo Sexto.- En un plazo no mayor a cuarenta y cinco días hábiles, contados a partir de la entrada en vigencia de esta Ley, deberá instalarse el Consejo, de acuerdo a la nueva estructura y atribuciones.
+
+Artículo Séptimo.- Las Dependencias, Entidades que integran la Administración Pública y los Ayuntamientos, deberán dar cumplimiento a lo establecido en el artículo 56 de la presente Ley, en un término no mayor a cuarenta y cinco días hábiles a partir de la entrada en vigor de la presente Ley.
