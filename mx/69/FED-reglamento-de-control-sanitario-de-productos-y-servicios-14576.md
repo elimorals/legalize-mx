@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2012-10-09"
+last_updated: "2012-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -681,6 +681,8 @@ Como medida de seguridad sanitaria, la Secretaría determinará el destino de la
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 70.
 
 Los establecimientos que se dediquen al proceso de la carne y vísceras sólo podrán sacrificar, procesar o expender animales o productos que cumplan con las normas correspondientes y que provengan de rastros que hayan dado aviso de funcionamiento a la Secretaría.
@@ -1177,9 +1179,11 @@ Las aguas envasadas para consumo humano y los establecimientos en donde se proce
 
 El agua mineral no deberá exceder el límite de radionúclidos que se establezca en la norma correspondiente.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 105.
 
-En las bebidas saborizadas no alcohólicas se podrán emplear edulcorantes y los siguientes aditivos para alimentos: espumantes, reguladores del pH, saborizantes y colorantes naturales y artificiales, conforme a las normas correspondientes.
+En las bebidas saborizadas no alcohólicas, productos para prepararlas y congelados de las mismas se podrán emplear los aditivos y coadyuvantes de elaboración establecidos en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 106.
 
@@ -1189,7 +1193,7 @@ Las bebidas para deportistas podrán contener la clase y cantidad de electrolito
 
 ###### ARTÍCULO 107.
 
-En los productos para preparar bebidas no alcohólicas, sólo se podrán emplear los enturbiadores y espesantes que se establezcan en las normas correspondientes.
+(DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 108.
 
@@ -1265,9 +1269,11 @@ I. Aceite vegetal, y
 
 II. Aceite animal.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 118.
 
-Los aceites vegetales comestibles se podrán adicionar con los saboreadores que se establezcan en las normas correspondientes.
+Los aceites vegetales comestibles se podrán adicionar con los aditivos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 119.
 
@@ -1293,9 +1299,11 @@ VI. Margarina u oleomargarina.
 
 La manteca vegetal deberá elaborarse únicamente a partir de los aceites vegetales comestibles señalados por la Secretaría en la lista correspondiente.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 122.
 
-La margarina u oleomargarina podrá adicionarse con los acidulantes, alcalinizantes y edulcorantes que se establezcan en las normas correspondientes.
+La margarina u oleomargarina podrán adicionarse con los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 123.
 
@@ -1337,9 +1345,11 @@ c. Soluble y
 
 d. Mezclas con café.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 126.
 
-En la norma correspondiente se establecerán los aditivos para alimentos que se podrán emplear en la elaboración del café y de los productos del cacao.
+En el Acuerdo al que se refiere el artículo 22 de este Reglamento se establecerán los aditivos para alimentos que se podrán emplear en la elaboración de los productos del café, sucedáneos del café y en los derivados del cacao.
 
 ###### ARTÍCULO 127.
 
@@ -1377,9 +1387,11 @@ Los alimentos preparados o semipreparados no deberán exceder los límites máxi
 
 Los ingredientes utilizados para elaborar los alimentos preparados o semipreparados no deberán rebasar los límites de materia extraña que se establezcan en las normas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 135.
 
-El empleo de colorantes artificiales en los caldos o consomés, se sujetará a lo que establezca la norma correspondiente.
+El empleo de aditivos y coadyuvantes de elaboración en los caldos o consomés, se sujetará a lo establecido en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 136.
 
@@ -1393,7 +1405,9 @@ En la elaboración de los alimentos para lactantes y niños de corta edad, se de
 
 I. Los ingredientes deberán estar limpios, ser inocuos y aptos para el consumo infantil;
 
-II. Los aditivos que se podrán emplear son aquéllos que establezcan este Reglamento y la norma correspondiente, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+II. Los aditivos y coadyuvantes de elaboración que se podrán emplear son aquéllos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento, y
 
 III. Los nitritos, glutamatos y edulcorantes artificiales, no se podrán emplear en la elaboración de estos productos.
 
@@ -1417,9 +1431,11 @@ II. Fórmula no láctea, cuando el producto no contenga leche o alguno de sus de
 
 Las fórmulas para lactantes y de continuación deberán ser nutrimentalmente adecuadas para fomentar el crecimiento normal y el desarrollo de quien las consuma.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 142.
 
-En la elaboración de las fórmulas para lactantes sólo se podrán emplear los aditivos para alimentos que se establezcan en la norma correspondiente.
+En la elaboración de las fórmulas para lactantes se podrán emplear los aditivos y coadyuvantes de elaboración para alimentos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 143.
 
@@ -1477,9 +1493,11 @@ La sal para consumo humano directo en cualquiera de sus clasificaciones deberá 
 
 Se exceptúa de fluorurarse la sal que se destine a la industria alimentaria y de yodarse, únicamente cuando el yodo interfiera en la calidad de los productos que se elaboren con ella.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 155.
 
-En las especias molidas sólo se podrán utilizar los antiaglomerantes que se establezcan en las normas correspondientes.
+En las especias molidas se podrán utilizar los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 156.
 
@@ -1597,9 +1615,9 @@ En las normas se establecerán, según corresponda, los lineamientos o especific
 
 ###### ARTÍCULO 168.
 
-Los suplementos alimenticios podrán estar constituidos por carbohidratos, proteínas, aminoácidos, ácidos grasos, metabolitos, plantas, hierbas, algas, alimentos tradicionales deshidratados u otros que establezca la Secretaría, presentarse ya sea en forma aislada o en combinación, adicionados o no de vitaminas o minerales y su consumo no deberá representar un riesgo para la salud.
+Los suplementos alimenticios podrán estar constituidos por carbohidratos, proteínas, aminoácidos, ácidos grasos, metabolitos, plantas, hierbas, algas, alimentos tradicionales deshidratados u otros que establezca la Secretaría, presentarse ya sea en forma aislada o en combinación, adicionados o no, de vitaminas o minerales y su consumo no deberá representar un riesgo para la salud.
 
-En la elaboración de los suplementos alimenticios podrán emplearse los aditivos para alimentos que se establezcan en las normas correspondientes.
+En la elaboración de los suplementos alimenticios podrán emplearse los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 169.
 
@@ -1975,55 +1993,7 @@ Los repelentes de insectos que se destinen para uso humano y que contengan ingre
 
 ###### ARTÍCULO 200.
 
-Para efectos de este Reglamento, dentro de los aditivos quedan comprendidos los siguientes:
-
-I. Acentuadores de sabor;
-
-II. Acidulantes, alcalinizantes o reguladores de pH;
-
-III. Antiaglomerantes;
-
-IV. Antiespumantes;
-
-V. Antihumectantes;
-
-VI. Antioxidantes;
-
-VII. Antisalpicantes;
-
-VIII. Colorantes y pigmentos;
-
-IX. Conservadores;
-
-X. Edulcorantes no nutritivos;
-
-XI. Emulsificantes, emulsivos, estabilizadores, espesantes y gelificantes;
-
-XII. Enturbiadores;
-
-XIII. Enzimas (catalizadores biológicos);
-
-XIV. Espumantes;
-
-XV. Gasificantes para panificación;
-
-XVI. Humectantes;
-
-XVII. Ingredientes para goma de mascar;
-
-XVIII. Leudantes;
-
-XIX. Oxidantes;
-
-XX. Saboreadores, saborizantes o aromatizantes;
-
-XXI. Clarificantes;
-
-XXII. Acondicionadores de masa;
-
-XXIII. Agentes para retener el color y sustancias adjuntas para fijar el color, y
-
-XXIV. Misceláneos y otras funciones.
+(DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 ###### ARTÍCULO 201.
 
@@ -2031,13 +2001,17 @@ Los aditivos deberán:
 
 I. Usarse únicamente en la cantidad necesaria para obtener el efecto deseado;
 
-II. No exceder los límites permitidos por la Secretaría, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+II. No exceder los límites permitidos en el Acuerdo al que se refiere el artículo 22 de este Reglamento, y
 
 III. Estar libres, en su caso, de descomposición, putrefacción y otras alteraciones que los hagan no aptos para el consumo humano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 202.
 
-El uso de los aditivos, así como la cantidad a emplear, quedan sujetos a las disposiciones que se señalan en este Reglamento y a las que se establezcan en las normas correspondientes.
+El uso de los aditivos y coadyuvantes de elaboración, así como la cantidad a emplear, quedan sujetos a las disposiciones que se señalan en el presente ordenamiento y a las que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
 
 Las leyendas de advertencia que, en su caso, deberán utilizarse para los productos que contengan estos aditivos se establecerán en las normas correspondientes.
 
@@ -2057,9 +2031,11 @@ IV. Que tenga un método analítico que controle efectivamente su uso o justifiq
 
 No se podrán emplear los colorantes denominados sudanes, solvente rojo 23, rojo toney, color índex 26100 o rojo DC 17, ni cualquier otro colorante no permitido en alimentos y bebidas, de conformidad con la lista respectiva.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 205.
 
-Cuando la Secretaría tenga conocimiento, basado en investigación científica reconocida, de que un aditivo muestra indicios confirmados de efectos cancerígenos, teratogénicos, mutagénicos o cualquier otro riesgo a la salud, no permitirá su importación, prohibirá su elaboración, almacenamiento y venta, aplicará las medidas de seguridad correspondientes y procederá a modificar las listas a que se refiere el artículo 22 de este Reglamento.
+Cuando la Comisión Federal para la Protección contra Riesgos Sanitarios tenga conocimiento, basado en investigación científica reconocida, de que un aditivo muestra indicios confirmados de efectos cancerígenos, teratogénicos, mutagénicos o cualquier otro riesgo a la salud, no permitirá su importación, prohibirá su elaboración, almacenamiento y venta, aplicará las medidas de seguridad correspondientes y propondrá las modificaciones correspondientes al Acuerdo a que se refiere el artículo 22 de este Reglamento.
 
 ###### ARTÍCULO 206.
 
@@ -2069,9 +2045,11 @@ Todos los aditivos deberán estar debidamente envasados y etiquetados. Los envas
 
 Los materiales para envases que tengan sustancias que puedan migrar a los productos, sin poner en riesgo la salud del consumidor, se consideran como aditivos indirectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 208.
 
-Las listas de aditivos permitidos, prohibidos o restringidos a que se refiere este Reglamento, también se podrán modificar a petición de cualquier interesado, para lo cual deberá proporcionar a la Secretaría la siguiente información:
+Las listas de aditivos permitidos, prohibidos o restringidos contenidas en el Acuerdo al que se refiere el artículo 22 de este Reglamento, se podrán modificar a petición de cualquier interesado, siempre que proporcione la siguiente información:
 
 I. El nombre genérico y el sinónimo más conocido, si se trata de una sustancia química, o el género y especie, si se trata de un producto derivado de un vegetal o animal;
 
@@ -2084,6 +2062,16 @@ IV. Los estudios toxicológicos de origen nacional o extranjero, a corto y largo
 V. Los métodos analíticos para determinar su identidad, pureza y contaminantes, y
 
 VI. Los productos en los que se propone su empleo y proporción, de manera que ésta no rebase los márgenes de seguridad, a fin de determinar si su uso representa un riesgo para la salud del consumidor.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+La modificación de las listas de aditivos permitidos, prohibidos o restringidos contenidas en el Acuerdo al que se refiere el artículo 22 de este Reglamento, también podrá llevarse a cabo a petición de cualquier interesado, cuando proporcione para su aprobación a la Secretaría las evaluaciones y aprobaciones del Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios, el Codex Alimentarius, de la Unión Europea o de los Estados Unidos de América.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 208 Bis.
+
+Se podrán utilizar de manera inmediata aquellos aditivos y coadyuvantes de elaboración que hayan sido evaluados y aprobados por la Secretaría, en tanto se actualiza el Acuerdo al que se refiere el artículo 22 de este Reglamento, siempre que dichas sustancias sean difundidas en la página electrónica de la Comisión Federal para la Protección contra Riesgos Sanitarios. La actualización del citado Acuerdo deberá realizarse cada seis meses.
 
 ## TÍTULO VIGÉSIMO CUARTO. Envases y envasado de productos
 
@@ -3761,31 +3749,19 @@ VII.1.4. Proceso:
 
 a. Esterilización comercial, al tratamiento térmico aplicado al producto para la destrucción de todos los microorganismos viables de importancia en la salud pública y aquéllos capaces de reproducirse en el alimento bajo condiciones normales de almacenamiento y distribución, sin la condición de refrigeración.
 
-VII.2. En la fruta y productos de la fruta sólo se permite el empleo de los siguientes aditivos para alimentos:
-
-VII.2.1. Esencias naturales de frutas, los ácidos: cítrico, málico, tartárico o láctico y no más de 10 mg/kg de dimetil-polisiloxano como antiespumante;
-
-VII.2.2. Metabisulfito de sodio, no más de 100 mg/kg expresado como SO2;
-
-VII.2.3. Ácido sórbico o sorbato de sodio o de potasio para tratamiento superficial de frutas secas o deshidratadas, en una cantidad no mayor de 100 mg/kg de fruta, expresado como ácido sórbico, benzoato de sodio, no más de 1 000 mg/kg;
-
-VII.2.4. Butil hidroxianisol (BHA), Butil hidroxitolueno (BHT) solos o combinados, como antioxidantes en las frutas secas libres de cáscara, en una cantidad no mayor de 200 mg/kg de grasa contenida en la fruta;
-
-VII.2.5. Cera de abeja, cera carnauba y otras ceras permitidas, para la protección externa de frutos, y
-
-VII.2.6. Los colorantes naturales y artificiales que se establezcan en las normas correspondientes, de acuerdo con el producto.
+VII.2. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 VII.3. Los jugos concentrados, deshidratados y elaborados de concentrados no deberán exceder los límites de contaminantes establecidos para los jugos.
 
-VII.4. En los jugos concentrados, cuando sea necesario, se podrán emplear los mismos aditivos establecidos para los jugos tratados térmicamente en la norma correspondiente.
+VII.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VII.5. Para los jugos clarificados, se podrán utilizar como coadyuvantes de la elaboración, clarificantes, filtrantes, carbón activado y nitrógeno en la cantidad mínima necesaria.
+VII.5. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 VII.6. El jugo de fruta o de hortaliza podrá ser concentrado y luego reconstituido con agua potable o purificada, según sea el caso, para conservar los factores esenciales de composición y calidad del mismo.
 
 VII.7. El jugo de hortalizas podrá condimentarse.
 
-VII.8. El jugo de fruta podrá carbonatarse con anhídrido carbónico en una cantidad mínima necesaria.
+VII.8. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 VII.9. Para los jugos se podrá emplear sacarosa, glucosa, fructosa o jarabe de maíz para ajustar la relación brix/acidez, de acuerdo con lo que se establezca en las normas correspondientes.
 
@@ -3955,167 +3931,31 @@ VIII.10.3. Mohos 10 UFC/ml 25 UFC/ml, y
 
 VIII.10.4. Levaduras 10 UFC/ml 25 UFC/ml.
 
-VIII.11. En las bebidas saborizadas no alcohólicas, se podrán emplear como acidulantes, ácido cítrico, málico, láctico, fumárico y tartárico, en la cantidad mínima necesaria, de acuerdo con las buenas prácticas de fabricación, así como ácido fosfórico con un límite máximo de 0,60%.
+VIII.11. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VIII.12. En las bebidas saborizadas no alcohólicas se podrán utilizar como conservadores únicamente los siguientes:
+VIII.12. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-MÁXIMO %
+VIII.13. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VIII.12.1. Tetracetato de calcio y
+VIII.14. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-sodio del ácido
+VIII.15. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-Etilendiamino tetracético
+VIII.15.1. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-(sólo en enlatados) 0,0033;
+VIII.15.2. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VIII.12.2. Metil paraben 0,1;
+VIII.15.3. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VIII.12.3. Propil paraben 0,1;
+VIII.15.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-VIII.12.4. Ácido benzoico y su sal
+VIII.16. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-de sodio o de potasio
+VIII.17. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-(expresado como
+VIII.18. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-ácido benzoico) 0,1, y
-
-VIII.12.5. Ácido sórbico y su sal
-
-de sodio o de potasio
-
-(expresado como
-
-ácido sórbico) 0,1.
-
-La mezcla no deberá exceder de 0,1 g/100 ml tomando en cuenta el límite máximo de cada conservador.
-
-VIII.13. En las bebidas saborizadas no alcohólicas, se podrán utilizar como antioxidantes únicamente los siguientes:
-
-MÁXIMOg/100 ml
-
-VIII.13.1. Etilendiamino tetracético
-
-(sólo en enlatados) 0,0033;
-
-VIII.13.2. Ácido ascórbico y sus
-
-sales (expresado como
-
-ácido ascórbico) 0,03;
-
-VIII.13.3. Ácido eritórbico y sus
-
-sales (expresado como
-
-ácido eritórbico) 0,03;
-
-VIII.13.4. Resina de guayaco 0,1;
-
-VIII.13.5. Galato de propilo 0,01;
-
-VIII.13.6. Citrato de monoisopropilo 0,01;
-
-VIII.13.7. Tocoferoles mezclados 0,1;
-
-VIII.13.8. Butilhidroxianisol (BHA) 0,1*, y
-
-VIII.13.9. Butilhidroxitolueno (BHT) 0,1*.
-
-* Cantidad máxima referida al peso total de los aceites esenciales.
-
-VIII.14. En las bebidas saborizadas no alcohólicas se podrán emplear únicamente como emulsificantes y estabilizadores los siguientes:
-
-MÁXIMO %
-
-VIII.14.1. Dioctil sulfosuccinato
-
-de sodio 0,001;
-
-VIII.14.2. Aceite vegetal bromado 0,0015;
-
-VIII.14.3. Éster de glicérido 0,01;
-
-VIII.14.4. Diacetato hexa-isobutirato
-
-de sacarosa 0,03;
-
-VIII.14.5. Carboximetil celulosa y
-
-su sal de sodio 0,5;
-
-VIII.14.6. Alginatos y sus
-
-derivados BPF;
-
-VIII.14.7. Almidones modificados BPF;
-
-VIII.14.8. Carragenina BPF;
-
-VIII.14.9. Gomas naturales:
-
-Acacia, Tragacanto,
-
-Ghatti, Guar, Damar,
-
-Algarrobo y Xantano BPF;
-
-VIII.14.10. Lecitina y lecitina
-
-hidroxilada BPF;
-
-VIII.14.11. Metafosfato de sodio BPF;
-
-VIII.14.12. Mono y diglicéridos
-
-de ácidos grasos BPF, y
-
-VIII.14.13. Pectina o sus derivados BPF.
-
-BPF equivale a buenas prácticas de fabricación.
-
-VIII.15. En las bebidas saborizadas no alcohólicas se podrán utilizar únicamente como colorantes artificiales los siguientes:
-
-MÁXIMO %
-
-VIII.15.1. Rojo
-
-a. Rojo altura (Rojo 40) 0.0100,
-
-b. Rojo carmoisina (Rojo 5) 0,0050 y
-
-c. Rojo ponceau o punzo 4R
-
-(Rojo 6) 0,0050;
-
-VIII.15.2. Amarillo
-
-a. Tartrazina (Amarillo 5) 0,0050 y
-
-b. Amarillo Sunset FCF
-
-(Amarillo 6) 0,0100;
-
-VIII.15.3. Verde
-
-a. Verde rápido FCF (verde) 0,0100, y
-
-VIII.15.4. Azul
-
-a. Azul brillante (Azul 1) 0,0100 y
-
-b. Indigotina (Azul 2) 0,0100.
-
-La mezcla en el producto terminado listo para consumo no deberá exceder de 100 mg/kg tomando en cuenta el límite máximo de cada colorante.
-
-VIII.16. En las bebidas saborizadas no alcohólicas se podrá usar como antiespumante el dimetilpolisiloxano hasta 0,001 g/ml.
-
-VIII.17. Las bebidas saborizadas no alcohólicas no deberán contener más de 0,02% de cafeína.
-
-VIII.18. Las bebidas sabor ginger ale no deberán contener más de 0,0065% de extracto de jengibre o 0,0017% de aceite de jengibre.
-
-VIII.19. Las bebidas de quina no deberán contener más de 0,001% de quinina o 0,01% de bisulfato de quinina o de clorhidrato de quinina.
+VIII.19. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 VIII.20. Las bebidas de sabores de frutas cítricas deberán contener aceite esencial de la fruta correspondiente.
 
@@ -4127,7 +3967,7 @@ VIII.23. Las bebidas reducidas en calorías, bebidas bajas en calorías y bebida
 
 VIII.24. Los productos para preparar bebidas no alcohólicas no deberán contener microorganismos patógenos. La tolerancia máxima de mesofílicos aerobios deberá ser de 5000 UFC/g y de levaduras y mohos de 100 UFC/g.
 
-VIII.25. En los productos para preparar bebidas no alcohólicas sólo se podrán emplear los siguientes aditivos para alimentos: edulcorantes y edulcorantes no nutritivos; como acidulantes, el ácido cítrico, málico, tartárico, fumárico, y fosfórico; como conservadores, el benzoato de sodio y sorbato de potasio o sus sales; como antioxidantes, el ácido L-ascórbico, eritórbico y sus sales; como antiaglomerantes, el dióxido de silicio y fosfato tricálcico; como reguladores de pH, el citrato de sodio o de potasio.
+VIII.25. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 VIII.26. Los polvos para preparar bebidas, no deberán exceder de 4% de humedad.
 
@@ -4389,9 +4229,7 @@ X.3.7. No contener más de 0,1 mg/kg de plomo, y
 
 X.3.8. No contener más de 0,1 mg/kg de arsénico.
 
-X.4. Las grasas y aceites comestibles se podrán adicionar con los siguientes aditivos o mezclas de ellos, como antioxidantes y sinérgicos:
-
-MÁXIMO
+X.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 X.4.1. Tocoferoles 0,03%;
 
@@ -4487,29 +4325,7 @@ X.14. Las etiquetas de las grasas y mantecas comestibles deberán incluir el por
 
 X.15. A las margarinas u oleomargarinas de mesa y margarinas modificadas en su composición, se deberá adicionar 6 670 µg de retinol (20 000 UI de Vitamina A) por kilogramo.
 
-X.16. La margarina u oleomargarina, podrá adicionarse únicamente con los siguientes aditivos para alimentos:
-
-X.16.1. Emulsificantes:
-
-a. Mono y diglicéridos de ácidos grasos 0,5%,
-
-b. Mono y diglicéridos de ácidos grasos esterificados con los siguientes ácidos: acético, acetil tartárico, cítrico, láctico, tartárico y sus sales de sodio y calcio 0,5%,
-
-c. Los mono-diglicéridos citados en el punto anterior en combinación con derivados del sulfoacetato de sodio 0,5%,
-
-d. Ésteres de poliglicerol y ácidos grasos 0,5%,
-
-e. Ésteres de 1,2 propilenglicol y ácidos grasos 2,0% y
-
-f. Lecitina de soya 0,5%;
-
-X.16.2. Conservadores:
-
-a. Ácido sórbico, ácido benzoico y sus sales de sodio, potasio y calcio en forma individual 0,1%, en forma combinada 0,2% y EDTA 0,0075%, y
-
-X.16.3. Antioxidantes:
-
-a. BHA, BHT, TBHQ, galatos de propilo, octilo, dodecilo, palmitato de ascorbilo, citrato de estearilo, solos o en combinación 0,02%.
+X.16. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 X.17. Las margarinas u oleomargarinas deberán cumplir con las siguientes especificaciones microbiológicas:
 
@@ -4737,7 +4553,7 @@ XII.9. En las sopas que contengan ingredientes que hayan sido tratados con dióx
 
 XII.10. La mezcla de ingredientes deshidratados para preparar sopa deshidratada no deberá contener más de 1000 UFC/g de Staphylococcus aureus.
 
-XII.11. En los moles y sus variedades se podrán emplear los siguientes aditivos para alimentos y condimentos: ácido cítrico y tartárico, aceites esenciales, esencias, extracto de especias y condimentos en la cantidad mínima necesaria; como antioxidante: butil hidroxitolueno (BHT), butil hidroxianisol (BHA), terbutilhidroquinona (TBHQ), galato de propilo en la cantidad de 0,02% en relación con el porcentaje de grasa contenida en el producto y palmitato de ascorbilo al 0,05% y los demás que establezca la Secretaría en las normas correspondientes. La cantidad de antioxidante que tenga el producto final deberá corresponder al porcentaje de grasa utilizada.
+XII.11. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XII.12. Los moles y sus variedades no deberán exceder los límites microbiológicos siguientes:
 
@@ -4897,15 +4713,11 @@ f. Staphylococcus aureus Negativa/g y
 
 g. Salmonella spp Negativa en 25g.
 
-XIV.7. En la mayonesa se podrán utilizar los siguientes aditivos para alimentos, en las cantidades señaladas:
-
-XIV.7.1. Sal de sodio o calcio del ácido etilendiamino tetracético (EDTA) 75mg/kg máximo, y
-
-XIV.7.2. Oxiestearina 0,125% máximo.
+XIV.7. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XIV.8. Las especificaciones microbiológicas para los aderezos de mayonesa, deberán corresponder a las señaladas para las mayonesas.
 
-XIV.9. En la elaboración de los aderezos de mayonesa se podrán utilizar los mismos aditivos para alimentos establecidos para la mayonesa y como estabilizadores la goma arábiga, goma guar, goma de karaya, goma de traganto, goma de xantano, ya sean solos o combinados en una cantidad no mayor de 0,75% y otros que se establezcan en las normas correspondientes.
+XIV.9. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XIV.10. La mostaza preparada o mostaza preparada amarilla, deberá cumplir con las siguientes especificaciones:
 
@@ -4927,7 +4739,7 @@ c. Salmonella spp Negativa en 25g.
 
 XIV.11. En la elaboración de la mostaza preparada o mostaza preparada amarilla, no se podrán emplear colorantes artificiales, ácido acético o ácido piroleñoso.
 
-XIV.12. Los aditivos para alimentos que podrán emplearse en la mostaza preparada o mostaza preparada amarilla, son el ácido láctico, ácido cítrico, ácido tartárico o su mezcla.
+XIV.12. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XV. Edulcorantes, sus derivados y productos de confitería.
 
@@ -5001,7 +4813,7 @@ XV.5. Las mieles de abeja y de maguey no deberán contener microorganismos pató
 
 XV.6. Los jarabes deberán someterse a tratamiento térmico para su conservación.
 
-XV.7. En los jarabes se podrán emplear colorantes naturales o sintéticos, saboreadores o aromatizantes naturales o sintético artificiales, acidulantes y conservadores como benzoato de sodio y sorbato de sodio, o potasio, hasta 0,10% y otros aditivos para alimentos que se establezcan en las normas correspondientes.
+XV.7. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XV.8. Los jarabes no deberán contener mohos, microorganismos patógenos, ni parásitos.
 
@@ -5017,7 +4829,7 @@ XV.9.3. Staphylococcus aureus Negativo, y
 
 XV.9.4. Salmonella spp Negativa en 25g.
 
-XV.10. En los polvos para preparar gelatina de sabor, imitación de gelatina de sabor o postre imitación flan se podrán emplear benzoato o sorbato de sodio o potasio, en una cantidad no mayor de 0,1%.
+XV.10. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XVI. Alimentos y bebidas no alcohólicas con modificaciones en su composición.
 
@@ -5395,51 +5207,51 @@ XXI.1. Para efectos de este apartado, se entiende por:
 
 XXI.1.1. Aditivos:
 
-a. Acentuador de sabor, a la sustancia o mezcla de sustancias destinadas a realzar los aromas o los sabores de los alimentos,
+a. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-b. Acidulante, alcalinizante o regulador de pH, a la sustancia que modifica o mantiene la acidez o alcalinidad de los productos,
+b. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-c. Acondicionadores de masa, a la sustancia que se utiliza en panificación para mejorar diversas cualidades de la masa,
+c. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-d. Aditivo, a la sustancia que se adiciona directamente a los productos, durante su elaboración, para proporcionar o intensificar aroma, color o sabor, para mejorar su estabilidad o para su conservación,
+d. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-e. Antiaglomerante, a la sustancia o mezcla de sustancias que se agrega a los productos o aditivos para evitar su cohesión,
+e. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-f. Antiespumante, a la sustancia o mezcla de sustancias que, adicionada durante la elaboración de los productos, disminuye la formación de espuma,
+f. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-g. Antihumectante, a la sustancia que disminuye las características higroscópicas de los productos,
+g. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-h. Antioxidante, a la sustancia o mezcla de sustancias destinada a retardar o impedir la oxidación y enranciamiento de los productos,
+h. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-i. Antisalpicante, a la sustancia o mezcla de sustancias que añadidas a las grasas emulsionadas con agua, evitan el esparcimiento de la misma al calentarse,
+i. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-j. Clarificante, a la sustancia que elimina la turbidez en un líquido, dejándolo claro,
+j. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-k. Colorante, a la sustancia que tiene la propiedad de impartir color al medio que lo contiene por la solubilidad que tenga en el mismo, ya sea un medio hidrofílico o lipofílico o a otro material o mezcla, elaborado por un proceso de síntesis o similar, por extracción o por separación, obtenido de una fuente animal, vegetal o mineral y que, posteriormente, ha sido sometido a pruebas fehacientes de seguridad que permiten su uso en alimentos y productos de perfumería, belleza y aseo o en alguna parte de ellos y que, directamente o a través de su reacción con otras sustancias, es capaz de impartir el color que le caracteriza,
+k. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-l. Conservador, a la sustancia o mezcla de sustancias que previene, retarda o detiene la fermentación, el enmohecimiento, la putrefacción, acidificación u otra alteración de los productos causados por algunos microorganismos y por algunas enzimas,
+l. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-m. Edulcorante no nutritivo, a la sustancia natural o sintética, que puede sustituir parcial o totalmente el dulzor del azúcar,
+m. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-n. Emulsivo o emulsificante y estabilizador, a la sustancia o mezcla de sustancias que mantiene homogéneos a los productos constituidos por dos o más fases inmiscibles, impidiendo la separación de las mismas,
+n. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-ñ. Enturbiador, a la sustancia o mezcla de sustancias que al agregarse a un líquido le resta claridad o que sirve para equilibrar la baja densidad de los aceites esenciales en un producto determinado,
+ñ. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-o. Enzima o catalizador biológico, a la sustancia proteica producida por células vivas que catalizan reacciones específicas en diversos procesos de elaboración de productos,
+o. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-p. Espesante, a la sustancia que incrementa la viscosidad de los productos,
+p. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-q. Espumante, a la sustancia que, adicionada a un líquido, modifica su tensión superficial y estabiliza las burbujas formadas o favorece la formación de espuma,
+q. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-r. Gasificante para panificación o polvos para hornear, a la sustancia o mezcla de sustancias que adicionadas durante el proceso de elaboración de productos de panadería favorece el desprendimiento de dióxido de carbono,
+r. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-s. Gelificante, a la sustancia que confiere consistencia de gel a los productos,
+s. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
-t. Humectante, a la sustancia o mezcla de sustancias destinadas a prevenir la pérdida de humedad de los productos,
+t. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 u. Laca, al producto preparado por la suspensión o precipitación de algún colorante artificial, sobre un compuesto insoluble,
 
-v. Leudante, a la levadura de cerveza prensada, húmeda o deshidratada, obtenida por proliferación del Saccharomyces cereviceae, empleada en productos de panadería para favorecer la formación de dióxido de carbono,
+v. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 w. Oxidante, a la sustancia o mezcla de sustancias que por proceso de oxidación condiciona o mantiene determinadas características en algunos ingredientes de los productos; que también puede ser empleado como blanqueador y
 
@@ -5469,15 +5281,7 @@ d. Esencia natural, al producto obtenido por dilución de los aceites esenciales
 
 e. Extracto y extracto destilado aromático o saboreador, al producto obtenido de los vegetales por maceración, percolación, destilación u otros procedimientos que permitan extraerles los principales saboreadores y aromatizantes;
 
-XXI.1.4.Saboreadores, saborizantes o aromatizantes:
-
-a. Saboreador, saborizante o aromatizante, a la sustancia o mezcla de sustancias de origen natural, las idénticas a las naturales y las sintéticas artificiales, con o sin diluyentes, agregados o no de otros aditivos que se utilizan para proporcionar o intensificar el sabor o aroma de los productos,
-
-b. Saboreador, saborizante o aromatizante idéntico al natural, a la sustancia químicamente aislada a partir de materias primas aromáticas u obtenidas sintéticamente; químicamente idénticas a las sustancias presentes en productos naturales procesados o no y que son aptas para consumo humano,
-
-c. Saboreador, saborizante o aromatizante natural, a la preparación de sustancias o sus mezclas obtenidas exclusivamente por procesos físicos, a partir de vegetales o de materias primas de origen animal en su estado natural o procesadas o por fermentación de materias lácteas y que son aptas para consumo humano y
-
-d. Saboreador, saborizante o aromatizante sinteticoartificial, a las sustancias que no han sido aún identificadas en productos naturales procesados o no y que son aptas para consumo humano, y
+XXI.1.4.(DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
 
 XXI.1.5.Coadyuvantes:
 
@@ -5612,3 +5416,9 @@ D.O.F. 9 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
 
 SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
+
+D.O.F. 28 DE NOVIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Salud revisará y en su caso realizará las modificaciones correspondientes a las normas oficiales mexicanas cuyo contenido tenga relación con el presente Decreto en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización y demás disposiciones jurídicas aplicables.
