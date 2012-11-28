@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2012-10-29"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -541,7 +543,7 @@ XV.- Las demás que le sean encomendadas por el Presidente Municipal.
 
 Para el despacho de los asuntos de competencia de la Secretaría dé Promoción de Obras, su titular se auxiliará de las unidades administrativas que resulten necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 29.
 
@@ -569,7 +571,7 @@ IV.- Promover la participación de la comunidad a través de la formación de gr
 
 V.- Promover, administrar y coordinar los eventos especiales del Presidente Municipal, en el área de su competencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 B) De Educación
 
@@ -1021,7 +1023,7 @@ II.- Instalación del equipamiento vial; (sic)
 
 Para el despacho de los asuntos de competencia de la Secretaría de Obras Públicas, su titular se auxiliará directamente con las siguientes Direcciones: Dirección de Planeación de Obras y Atención Ciudadana, Dirección de Proyectos, Dirección de Contratación, Dirección de Construcción y demás unidades administrativas que resulten necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 33.
 
@@ -1145,7 +1147,7 @@ XII.- Elaborar y verificar para su evaluación, la respuesta a los resultados de
 
 XIII.- Constatar el cumplimiento que señala la Ley Orgánica de la Administración Pública Municipal y la Ley del Órgano de Fiscalización Superior del Estado, respecto a la presentación de la cuenta pública y los informes de avance de gestión financiera respectiva ante el Congreso del Estado y Auditoría Superior del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
 
 C) De Normatividad, Transparencia, y Cuenta Pública
 
@@ -1613,7 +1615,7 @@ LIC. FERNANDO CANALES STELZER
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE FEBRERO DE 2010.
 
@@ -1666,3 +1668,275 @@ P.O. 29 DE OCTUBRE DE 2012.
 Artículo Primero.- Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ...
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado, difundiéndose posteriormente en la Gaceta Municipal y en el portal de Internet Oficial del Municipio en el hipervínculo www.sanpedro.gob.mx.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, publicado en el Periódico Oficial del Estado No. 154 de fecha 16 de noviembre de 2009 y se derogan todas las disposiciones municipales que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se reforman los correspondientes reglamentos, disposiciones administrativas y circulares de carácter general, manuales, políticas, lineamientos internos y acuerdos, las referencias establecidas en ellos que se efectúen a favor las (sic) dependencias que a continuación se enlistan se entenderá que se hace referencia conforme la siguiente tabla según sea el caso:
+
+REFERENCIA SE ENTENDERÁ QUE REFIERE A
+
+Secretaría de Finanzas y Tesorería Secretaría de Finanzas y Tesorería
+
+Municipal
+
+Dirección de Patrimonio Municipal Dirección de Patrimonio de la
+
+Secretaría de Finanzas y Tesorería
+
+Dirección del Servicio Médico y Salud Dirección del Servicio Médico de la
+
+Secretaría de Administración
+
+Dirección de Áreas Administrativas Dirección de Servicios Administrativos
+
+de la Secretaría de Administración
+
+Dirección de Sistemas Dirección de Tecnologías de la
+
+Secretaría de Administración
+
+Secretaría de Promoción Humana Secretaría de Desarrollo Social y
+
+Humano
+
+Dirección de Productividad y Fomento Dirección de Desarrollo Económico de
+
+Económico la Secretaría de Desarrollo Social y
+
+Humano
+
+Dirección de Salud Pública o Dirección La unidad administrativa que
+
+de Salud Pública Municipal corresponda de la Secretaría de
+
+Desarrollo Social y Humano
+
+Dirección del Desarrollo Integral de la Dirección General para el Desarrollo
+
+Familia o Dirección del DIF Integral de la Familia
+
+Secretaría de Control Urbano o Secretaría de Desarrollo Sustentable
+
+Secretaría de Desarrollo Urbano y
+
+Ecología o Secretaría de Desarrollo
+
+Urbano
+
+Secretaría de Medio Ambiente y Dirección General de Medio Ambiente
+
+Desarrollo Sustentable de la Secretaría de Desarrollo
+
+Sustentable
+
+Dirección de Ecología o Dirección de Dirección General de
+
+Ecología Municipal Medio Ambiente de la Secretaría
+
+de Desarrollo Sustentable
+
+Dirección de Urbanismo y Planificación Dirección de Control Urbano de la
+
+Secretaría de Desarrollo Sustentable
+
+Secretaría de la Contraloría y Secretaría de la Contraloría y
+
+Transparencia Municipal o Secretaría Transparencia
+
+de la Contraloría Municipal
+
+Dirección de Auditoría Dirección de Auditoría y Control Interno
+
+de la Secretaría de la Contraloría y
+
+Transparencia
+
+Dirección de Planeación de Obras y Dirección de Promoción de Obras y
+
+Atención Ciudadana y Dirección de Proyectos de la Secretaria de Obras
+
+Proyectos Públicas
+
+Secretaría de Seguridad Pública y Secretaría de Seguridad Municipal
+
+Vialidad o Secretaría de Policía,
+
+Tránsito y Vialidad
+
+Dirección General de Policía Dirección de Policía de la Secretaría de
+
+Seguridad Municipal
+
+Dirección General de Tránsito y Dirección de Tránsito de la Secretaría
+
+Vialidad o Dirección de Tránsito y de Seguridad Municipal
+
+Vialidad
+
+Dirección de Prevención del Delito La unidad administrativa de la
+
+Secretaría de Seguridad Municipal
+
+que cumpla con dichas funciones
+
+Dirección de Infraestructura Dirección de Servicios Generales de la
+
+Secretaría de Servicios Públicos
+
+Secretaria de Promoción de Obras Secretaría de Obras Públicas
+
+Secretaria de Vinculación Ciudadana Secretaría de Participación Ciudadana
+
+Dirección Jurídica de la Secretaría del Dirección de Asuntos Jurídicos de la
+
+Ayuntamiento Secretaría del Republicano Ayuntamiento
+
+Secretaria de Cultura Secretaría de Desarrollo Cultural
+
+###### ARTÍCULO CUARTO.
+
+En tanto no sea adecuado el marco jurídico municipal, la Dirección de Adquisiciones y la Dirección de Participación Ciudadana, en lo que no se oponga al presente Reglamento, continuarán ejerciendo las atribuciones a que refiere el Reglamento Interior de la Secretaría del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no sea adecuado el marco jurídico municipal, la (sic) atribuciones que corresponden a la Dirección Jurídica que refiere el Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León, en lo que-no se oponga al presente Reglamento, serán ejercidas por el personal que determine el Titular de la Secretaría de la Contraloría y Transparencia.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos humanos, materiales y financieros asignados a las dependencias que cambian de denominación o adscripción serán transferidos respectivamente conforme a la siguiente tabla:
+
+DE LA DEPENDENCIA A LA DEPENDENCIA
+
+Dirección de Adquisiciones de la Dirección de Adquisiciones de la
+
+Secretaría del Republicano Secretaría de Administración
+
+Ayuntamiento
+
+Dirección de Participación Ciudadana Secretaría de Participación Ciudadana
+
+de la Secretaría del Republicano
+
+Ayuntamiento
+
+Secretaría de Finanzas y Tesorería Secretaría de Finanzas y Tesorería
+
+Municipal
+
+Dirección de Servicio Médico y Salud Dirección de Servicio Médico de la
+
+de la Secretaría de Administración Secretaría de Administración
+
+Dirección de Áreas Administrativas de Dirección de Servicios Administrativos
+
+la Secretaria de Administración de la Secretaría de Administración
+
+Dirección de Sistemas de la Secretaría Dirección de Tecnologías de la
+
+de Administración Secretaría de Administración
+
+Secretaría de Cultura, Dirección de Secretaría de Desarrollo Cultural
+
+Patrimonio Cultural y
+
+Profesionalización, Dirección de
+
+Promoción de Cultura, Dirección del
+
+Auditorio San Pedro y Dirección del
+
+Museo Centenario de la Secretaría de
+
+Cultura
+
+Dirección de Productividad y Fomento Dirección de Desarrollo Económico de
+
+Económico de la Secretaría de la Secretaría de Desarrollo Social y
+
+Desarrollo Social y Humano Humano
+
+Secretaría de la Contraloría y Secretaría de la Contraloría y
+
+Transparencia Municipal Transparencia
+
+Dirección de Auditoría de la Secretaría Dirección de Auditoría y Control Interno
+
+de la Contraloría y Transparencia de la Secretaría de la Contraloría y
+
+Municipal Transparencia
+
+Dirección Jurídica de la Secretaría La Secretaría de la Contraloría y
+
+de Contraloría y Transparencia Transparencia
+
+Municipal
+
+Dirección de Planeación de Obras y Dirección de Promoción de Obras y
+
+Atención Ciudadana y Dirección de Proyectos de la Secretaría de Obras
+
+Proyectos de la Secretaría de Obras Públicas
+
+Públicas
+
+Dirección General de Policía de la Dirección de Policía de la Secretaría de
+
+Secretaría de Seguridad Municipal Seguridad Municipal
+
+Dirección General de Tránsito y Dirección de Tránsito de la Secretaría
+
+Vialidad de la Secretaría de Seguridad de Seguridad Municipal
+
+Municipal
+
+Dirección de Prevención del Delito La unidad administrativa de la
+
+de la Secretaría de Seguridad Secretaría de Seguridad Municipal
+
+Municipal que cumpla con dichas funciones
+
+Dirección de Protección Civil de la Dirección de Protección Civil de la
+
+Secretaría de Seguridad Municipal Secretaría del Republicano
+
+Ayuntamiento
+
+Dirección Técnica de la Secretaría de Dirección de Atención y Calidad de la
+
+Servicios Públicos Secretaría de Servicios Públicos
+
+Dirección de Infraestructura de la Dirección de Servicios Generales de la
+
+Secretaría de Servicios Públicos Secretaría de Servicios Públicos
+
+Secretaría de Medio Ambiente y Dirección General de Medio Ambiente
+
+Desarrollo Sustentable de la Secretaría de Desarrollo
+
+Sustentable
+
+Secretaría de Promoción de Obras Secretaría de Obras Públicas
+
+Dirección del Desarrollo Integral de la Dirección para el Desarrollo Integral de
+
+Familia de la Secretaría de Desarrollo la Familia dependiente del Presidente
+
+Social y Humano Municipal
+
+Las demás unidades administrativas Las dependencias municipales que
+
+que actualmente están adscritas a las correspondan conforme a la nueva
+
+dependencias municipales asignación de funciones, atribuciones y
+
+responsabilidades
