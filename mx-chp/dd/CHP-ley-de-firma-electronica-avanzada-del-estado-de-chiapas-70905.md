@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-firma-electronica-avanzada-del-estado-de-chiapas-70905"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2012-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DE FIRMA ELECTRONICA AVANZADA DEL ESTADO DE CHIAPAS
 
-LEY DE FIRMA ELECTRONICA AVANZADA DEL ESTADO DE CHIAPAS
+LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -67,15 +67,23 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Autoridad Certificadora: A la Dependencia, u Órgano designado por el Poder Legislativo y Judicial, Organismos Autónomos y Ayuntamientos, que vincula al Firmante con el uso de la firma electrónica avanzada en las operaciones que realice, administra la parte tecnológica del procedimiento o ejerce el proceso de autenticidad; para el Poder Ejecutivo lo será la Secretaría de la Función Pública;
 
-II. Agente Certificador: Al órgano que ha sido designado por la Autoridad Certificadora para prestar los servicios relacionados con la Firma Electrónica Avanzada;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-III. Certificado Digital: El documento emitido electrónicamente por la Autoridad Certificadora, mediante el cual se confirma el vínculo existente entre el titular y la Firma Electrónica Avanzada.
+II. Agente Certificador: A la persona física designada y acreditada por la Autoridad Certificadora, para prestar los servicios relacionados con la Firma Electrónica Avanzada.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+III. Certificado Digital: El documento emitido de manera electrónica por la Autoridad Certificadora, mediante el cual se confirma el vínculo existente entre el Firmante y la Firma Electrónica Avanzada.
 
 IV. Entes Públicos: Al Poder Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Ayuntamientos;
 
-V. Firma electrónica avanzada: Al conjunto de datos electrónicos, del titular del certificado digital, consignados en la información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología entendiéndose por estos a los actos, convenios, comunicaciones, procedimientos administrativos, trámites, promociones y la prestación de servicios públicos que correspondan a los Entes Públicos sujetos a esta Ley y a los particulares que sirven para identificar la autenticidad de éste, debidamente validado por la Autoridad Certificadora;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-VI. Firmante: A la persona que posee los datos de creación de la firma electrónica avanzada y que actúa en nombre propio;
+V. Firma Electrónica Avanzada: Al conjunto de datos electrónicos del Firmante, consignados en un mensaje de datos que sirven para identificar la autenticidad de éste, debidamente validado por la Autoridad Certificadora.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+VI. Firmante: A la persona física quien a su favor se le expidió el Certificado Digital para la Firma Electrónica Avanzada.
 
 VII. Ley: A la Ley de Firma Electrónica Avanzada para el Estado de Chiapas;
 
@@ -107,19 +115,23 @@ Esta Ley tampoco será aplicable en los procedimientos seguidos en forma de juic
 
 ### Capítulo II. De la Firma Electrónica Avanzada
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Los entes públicos sujetos a esta Ley, deberán verificar que la firma electrónica avanzada sea expedida por la Autoridad Certificadora y la vigencia del certificado en los mensajes de datos que correspondan a éstos.
+###### Artículo 6°.
 
-###### Artículo 7º.
+Los entes públicos sujetos a esta Ley, deberán verificar que la Firma Electrónica Avanzada sea expedida por la Autoridad Certificadora.
 
-La firma electrónica tendrá el carácter de avanzada cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 7°.
+
+La Firma Electrónica Avanzada, tendrá ese carácter cuando:
 
 I. Cuente con un certificado digital expedido por la Autoridad Certificadora;
 
 II. Los datos de creación de firma correspondan únicamente al firmante y se encuentren bajo su control exclusivo al momento de emitir la firma electrónica avanzada;
 
-III. Sea susceptible de verificación y auditoría con los datos incluidos en el certificado digital;
+III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2012)
 
 IV. Sea posible detectar cualquier alteración de la firma electrónica hecha después del momento de la firma; y,
 
@@ -127,25 +139,31 @@ V. Esté vinculada al mensaje de datos de modo tal que cualquier modificación d
 
 ### Capítulo III. Del Uso de Medios Electrónicos y Mensajes de Datos
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Para que surta efectos un mensaje de datos, se requiere de un acuse de recibo electrónico, entendiéndose como tal el generado por el sistema de Información del Destinatario.
+###### Artículo 8°.
 
-Se considera que el mensaje de datos ha sido enviado y recibido, cuando se pruebe la existencia del acuse de recibo electrónico o impreso respectivo.
+Para que surta efectos un mensaje de datos con la Firma Electrónica Avanzada, se requiere de un acuse de recibo electrónico, entendiéndose como tal el generado por el sistema de información del destinatario.
 
-###### Artículo 9º.
+Se considera que el mensaje de datos con la Firma Electrónica Avanzada ha sido enviado y recibido, cuando se pruebe la existencia del acuse de recibo electrónico o impreso respectivo.
 
-El contenido de los mensajes de datos que incluya la firma electrónica avanzada, deberán conservarse en archivos electrónicos durante 6 años y podrán otorgarse en forma impresa, cuando así lo soliciten expresamente los que intervienen en los mismos o mediante requerimiento judicial.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 9°.
+
+El contenido de los mensajes de datos que incluya la Firma Electrónica Avanzada, deberán conservarse conforme a lo establecido en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
-Todo mensaje de datos se entenderá por expedido en el lugar donde el emisor tenga su domicilio legal y por recibido en el lugar donde el destinatario tenga el suyo.
+Todo mensaje de datos con la Firma Electrónica Avanzada se tendrá por expedido en el lugar donde el emisor tenga su domicilio y por recibido en el lugar donde el destinatario tenga el suyo.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
-Los documentos presentados por medios electrónicos correspondientes a los entes públicos y particulares, que contengan la firma electrónica avanzada, producirán los mismos efectos jurídicos que los documentos firmados de manera autógrafa.
-
-La reproducción en formato impreso del mensaje de datos tendrá valor probatorio pleno, cuando se ha conservado en su integridad la información contenida en el mismo a partir de que se generó por primera vez en su forma definitiva como tal y no sea impugnada la autenticidad o exactitud del mensaje y la firma electrónica.
+La reproducción en formato impreso del mensaje de datos con la Firma Electrónica Avanzada tendrá valor probatorio pleno, cuando se ha conservado en su integridad la información contenida en el mismo a partir de que se generó por primera vez en su forma definitiva como tal y, no sea impugnada la autenticidad o exactitud del mensaje y la Firma Electrónica Avanzada.
 
 ###### Artículo 12.
 
@@ -167,45 +185,51 @@ Se presumirá salvo prueba en contrario, que un mensaje de datos proviene de una
 
 El momento de recepción de un mensaje de datos se determinará al ingresar en el sistema de información designado por el destinatario.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-Cuando los particulares realicen comunicaciones o soliciten la prestación de servicios públicos o promuevan cualquier trámite por medios electrónicos en hora o día inhábil, se tendrán por presentados en la primera hora hábil del siguiente día laborable.
+Cuando los particulares realicen mensaje de datos con Firma Electrónica Avanzada en hora o día inhábil, se tendrán por presentados en la primera hora hábil del siguiente día laborable.
 
-Los documentos a que se refiere el párrafo anterior, se tendrán por no presentados, cuando no contengan la firma electrónica avanzada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 16.
 
-Cuando las leyes requieran que una información o documento sea presentado y conservado en su forma original, se tendrá por satisfecho este requisito respecto a un mensaje de datos:
+Cuando las leyes requieran que una información o documento sea presentado y conservado en su forma original, se tendrá por satisfecho este requisito respecto a un mensaje de datos con la Firma Electrónica Avanzada.
 
 I. Si existe, en términos de esta ley, la certeza de que se ha conservado la integridad de la información a partir del momento en que se generó por primera vez en su forma definitiva, como mensaje de datos; y,
 
 II. La misma, podrá presentarse únicamente a los que intervinieron en el mensaje y mediante requerimiento judicial.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-A los mensajes de datos les serán aplicables las disposiciones constitucionales y legales en materia de protección de datos personales.
+A los mensajes de datos con la Firma Electrónica Avanzada les serán aplicables las disposiciones legales, en materia de protección de datos personales.
 
 ### Capítulo IV. De las facultades de la Autoridad Certificadora
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 18.
 
 La Autoridad Certificadora tendrá las siguientes facultades:
 
-I. Expedir y revocar certificados de firma electrónica avanzada y prestar servicios relacionados con la misma;
+I. Expedir y revocar el Certificado Digital y prestar servicios relacionados con el mismo.
 
-II. Llevar el registro de certificados de firma electrónica avanzada;
+II. Llevar el registro del Certificado Digital.
 
-III. Celebrar los convenios necesarios con las demás autoridades certificadoras, a efecto de establecer los estándares tecnológicos, así como homologar los certificados digitales de firma electrónica y servicios electrónicos, aplicables en el ámbito de su competencia;
+III. Celebrar los convenios necesarios con las demás autoridades certificadoras, a efecto de establecer los estándares tecnológicos, así como homologar el Certificado Digital y servicios electrónicos, aplicables en el ámbito de su competencia.
 
-IV. Asesorar al ente público en el cual funcione como Autoridad Certificadora y particulares, sobre la aplicación y uso de la Firma Electrónica Avanzada;
+IV. Asesorar a los entes públicos que funcionen como Autoridad Certificadora y a los particulares, respecto del uso y aplicación de la Firma Electrónica Avanzada.
 
-V. Auditar, evaluar, monitorear y supervisar el proceso de las emisiones y revocaciones de los certificados digitales que expidan los Agentes Certificadores;
+V. Auditar, evaluar, monitorear y supervisar el proceso de la emisión y revocación del Certificado Digital que expida el Agente Certificador.
 
-VI. Auditar las transacciones electrónicas dando constancia de la fecha y hora a petición del propietario del certificado digital;
+VI. Auditar las transacciones electrónicas, dando constancia de la fecha y hora, a petición del Firmante.
 
-VII. Colaborar en el desarrollo de sistemas informáticos internos y externos para la prestación de servicios; y,
+VII. Colaborar en el desarrollo de sistemas informáticos internos y externos para la prestación de servicios.
 
-VIII. Las demás que les otorgue la presente Ley.
+VIII. Las demás que le otorgue la presente Ley.
 
 ### Capítulo V. De los Requisitos y facultades de los Agentes Certificadores
 
@@ -217,17 +241,25 @@ I. Solicitar a la Autoridad Certificadora la acreditación como Agente Certifica
 
 II. Contar con los elementos humanos, económicos y tecnológicos necesarios para prestar el servicio, a efecto de garantizar la seguridad de la información y su confidencialidad;
 
-III. Acatar los procedimientos definidos y específicos para la tramitación del certificado, así como con las medidas que garanticen la confidencialidad y autenticidad de los certificados emitidos, su conservación y consulta; y,
+III. Acatar los procedimientos definidos y específicos para la tramitación del certificado, así como con las medidas que garanticen la confidencialidad y autenticidad de los certificados emitidos, su conservación y consulta; y, (sic)
 
-IV. Las demás que le otorgue la presente Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+IV. No almacenar, ni copiar los datos de creación del Certificado Digital.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+V. Los demás que le requieran la presente Ley.
 
 ###### Artículo 20.
 
 El Agente Certificador tendrá las siguientes facultades:
 
-I. Expedir y revocar los certificados digitales en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-II. Establecer una relación de confianza con el titular del área de recursos humanos o equivalente, del ente público al que se encuentre adscrito, para el conocimiento de las altas y bajas del personal correspondiente;
+I. Expedir y revocar el Certificado Digital.
+
+II. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2012)
 
 III. Otorgar la capacitación y asesorías pertinentes a los Firmantes; y,
 
@@ -235,31 +267,31 @@ IV. Las demás que les otorguen la presente Ley y su Reglamento.
 
 ### Capítulo VI. De los Servicios de Certificación
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-Las autoridades certificadoras de conformidad con los reglamentos respectivos, establecerán los requisitos jurídicos y técnicos, necesarios para la expedición de certificados digitales, siendo indispensables:
+Las autoridades certificadoras dé conformidad con el reglamento respectivo, establecerán los requisitos jurídicos y técnicos, necesarios para la expedición del certificado digital, siendo indispensables:
 
-I. Identificación oficial con fotografía.
+I. Identificación oficial vigente con fotografía.
 
 II. Clave Única de Registro de Población.
 
-III. Comprobante de domicilio.
+III. Comprobante de domicilio reciente.
 
-IV. Constancia de servicio activo, en el supuesto de ser servidor público.
+IV. Comprobante de pago reciente, en el supuesto de ser servidor público.
 
-V. Acta constitutiva, en el supuesto de personas morales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
-El registro de certificados digitales será público y deberá mantenerse actualizado, con base a los procedimientos establecidos en los reglamentos que emanen de esta Ley, conteniendo lo siguiente:
+El registro del Certificado Digital será público y deberá mantenerse actualizado, con base en el procedimiento establecido en el reglamento que emane de esta Ley.
 
-I. Las condiciones de operación del registro; y,
-
-II. Los procedimientos de consulta, actualización y mantenimiento del registro.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 23.
 
-La firma electrónica avanzada y los certificados digitales expedidos de conformidad con esta Ley y su reglamento, sólo surtirán efectos respecto de los mensajes de datos que correspondan a los entes públicos y particulares.
+El Certificado Digital expedido de conformidad con esta Ley y su reglamento, sólo surtirá efectos respecto a los mensajes de datos con la Firma Electrónica Avanzada que correspondan a los entes públicos y particulares.
 
 ### Capítulo VII. De las Obligaciones de las Autoridades Certificadoras y los Agentes Certificadores
 
@@ -273,27 +305,39 @@ II. Recibir y revisar que la documentación presentada por los solicitantes, sea
 
 III. Guardar confidencialidad respecto de la información que hayan recibido para la prestación del servicio de certificación;
 
-IV. Poner a disposición del Firmante los dispositivos de creación y de verificación de firma electrónica;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-V. No almacenar ni copiar los datos de creación de firma electrónica avanzada de la persona a la que hayan prestado sus servicios;
+IV. Poner a disposición del Firmante el dispositivo de verificación del Certificado Digital.
 
-VI. Conservar registrada toda la información y documentación relativa a un certificado de firma electrónica, durante seis años; y,
+V. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+VI. Conservar registrada toda la información y documentación relativa a un Certificado Digital, conforme a lo establecido en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y, demás disposiciones legales aplicables.
 
 VII. Cumplir con las demás obligaciones que deriven de ésta y otras leyes y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 25.
 
-Los agentes certificadores cuando expidan certificados digitales, únicamente pueden recabar datos personales directamente de los titulares de los mismos. Los datos requeridos serán, exclusivamente, los necesarios para la expedición y el mantenimiento del certificado digital.
+El Agente Certificador, al momento de expedir un Certificado Digital, solicitará únicamente datos exclusivos del firmante, los cuales se encuentran establecidos en la presente Ley y su reglamento.
 
-### Capítulo VIII. De los Certificados Digitales de Firma Electrónica Avanzada
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+### Capítulo VIII. Del Certificado Digital
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 26.
 
-El Certificado Digital permite al titular, identificarse ante terceros, firmar documentos electrónicamente, evitar la suplantación de la identidad, proteger la información transmitida y garantizar la integridad de la comunicación entre las partes.
+El Certificado Digital permite al Firmante, identificarse ante terceros, evitar la suplantación de identidad, proteger la información transmitida y garantizar la integridad de la comunicación entre las partes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
-Los certificados digitales de firma electrónica avanzada deberán contener:
+El Certificado Digital deberá contener:
 
 I. La expresión de que tienen esa naturaleza;
 
@@ -303,103 +347,123 @@ III. La firma electrónica avanzada de la Autoridad Certificadora que lo expide;
 
 IV. Los datos de identificación del Firmante, en el supuesto de personas físicas, el nombre, apellidos y domicilio, en el caso de personas morales, la denominación o razón social, así como el nombre, apellidos y domicilio del representante. Se podrá consignar en el certificado de firma electrónica cualquier otra circunstancia personal del titular, siempre que aquél otorgue su consentimiento;
 
-V. El período de validez del certificado de firma electrónica avanzada; y,
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-VI. La referencia de la tecnología empleada para la creación de la firma electrónica avanzada.
+V. El período de su vigencia.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+VI. La referencia de la tecnología empleada para su creación.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 28.
 
-Los efectos del certificado digital de firma electrónica avanzada, son los siguientes:
+Los efectos del Certificado Digital son los siguientes:
 
-I. Autentificar que la firma electrónica avanzada pertenece a determinada persona; y,
+I. Autentificar que la Firma Electrónica Avanzada pertenece a determinada persona.
 
-II. Verificar la vigencia de la firma electrónica avanzada.
+II. Verificar la vigencia del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
-Los certificados digitales de firma electrónica avanzada, se extinguirán por las siguientes causas:
+El Certificado Digital, se extinguirá por las siguientes causas:
 
-I. Expiración de su vigencia, que nunca será superior a dos años;
+I. Resolución judicial o administrativa.
 
-II. Revocación por el Firmante, Agente Certificador y la Autoridad Certificadora;
-
-III. Pérdida, robo o inutilización del certificado digital;
-
-IV. Resolución judicial o administrativa;
-
-V. Fallecimiento, incapacidad superveniente, total o parcial del Firmante;
-
-VI. En caso de personas morales, fallecimiento, incapacidad superveniente, total o parcial del representante legal, terminación de la representación o disolución de la misma;
-
-VII. Errores en los datos aportados por el Firmante para la obtención del certificado digital;
-
-VIII. Por haberse comprobado que al momento de su expedición, el certificado digital no cumplió con los requisitos establecidos en esta Ley, situación que no afectará los derechos de terceros de buena fe.
-
-IX. Cuando el Firmante deje de prestar sus servicios al ente público correspondiente; y,
-
-X. A petición del Firmante, expresando el motivo por el cual requiere tal acción.
+II. Fallecimiento, incapacidad superveniente, total o parcial del Firmante.
 
 ###### Artículo 30.
 
-Para los efectos de lo establecido en la fracción IX, del Artículo anterior, el superior jerárquico comunicará vía correo institucional, dentro del término de treinta días hábiles, dicha circunstancia a la Autoridad Certificadora o Agente Certificador.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
-Los certificados de firma electrónica iniciarán su vigencia en el momento mismo de su emisión y expirarán el día y hora en ellos expresados.
+El Certificado Digital tendrá un periodo de vigencia máximo de dos años, contados a partir de la fecha de expedición, el cual expirará el día y la hora en él expresado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
-Las autoridades certificadoras deberán publicar en las páginas de Internet del ente público sujeto a esta ley, la situación de los certificados de firma electrónica para el efecto de que cualquier persona pueda conocer la vigencia de los mismos.
+La Autoridad Certificadora deberá publicar en su página de internet las herramientas necesarias para conocer la situación del Certificado Digital, para efecto de que cualquier persona pueda conocer la vigencia del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-Todo certificado digital de firma electrónica avanzada, deberá ser reconocido por las autoridades certificadoras establecidas en la presente Ley, para efectos de que el Firmante cuente una sola Firma Electrónica Avanzada en el Estado.
+Todo Certificado Digital deberá ser reconocido por las autoridades certificadoras establecidas en la presente Ley, para efectos de que el Firmante cuente con una sola Firma Electrónica Avanzada en el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 34.
 
-Todo certificado de firma electrónica avanzada expedido por una autoridad distinta a las que esta Ley les otorga competencia para ello, podrá ser homologado ante las autoridades certificadoras para que produzca los mismos efectos jurídicos que un certificado de firma electrónica avanzada expedido conforme a esta Ley.
+Todo Certificado Digital expedido por una autoridad certificadora distinta a las que esta Ley les otorga competencia para ello, podrá ser homologado ante las autoridades certificadoras, para que produzca los mismos efectos jurídicos que un Certificado Digital expedido conforme a esta Ley.
 
-### Capítulo IX. De la Revocación de los Certificados de Firma Electrónica Avanzada
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+### Capítulo IX. De la Revocación del Certificado Digital
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 35.
 
-Los certificados de firma electrónica avanzada podrán ser revocados por la Autoridad Certificadora cuando ocurra alguna de las siguientes circunstancias:
+El Certificado Digital deberá ser revocado por la Autoridad Certificadora y/o el Agente Certificador, cuando ocurra alguna de las siguientes circunstancias:
 
-I. Cuando se adviertan errores en los datos aportados por el Firmante para la obtención del certificado de firma electrónica avanzada;
+I. Cuando se adviertan errores en los datos aportados por el Firmante.
 
-II. Por haberse comprobado que al momento de su expedición, el certificado de firma electrónica avanzada, no cumplió con los requisitos establecidos en esta Ley, situación que no afectará los derechos de terceros de buena fe;
+II. Por haberse comprobado que al momento de su expedición, no cumpla con los requisitos establecidos en esta Ley, situación que no afectará los derechos de terceros de buena fe.
 
-III. Que el Firmante manifieste la sospecha de utilización de la clave privada, contraseña o de la propia firma electrónica avanzada por parte de un tercero no autorizado; y,
+III. Que el Firmante manifieste la sospecha de utilización de la clave privada, contraseña o de la propia Firma Electrónica Avanzada por parte de un tercero no autorizado.
 
-IV. Que el Firmante solicite la modificación y se efectúe la misma respecto de alguno de los datos contenidos en el certificado de firma electrónica avanzada.
+IV. Que el Firmante solicite la modificación y se efectúe la misma respecto de alguno de los datos contenidos en el Certificado Digital.
+
+V. Cuando el Firmante manifieste la pérdida o robo.
+
+VI. Cuando el Firmante manifieste el olvido de la contraseña.
+
+VII. A petición del Firmante, expresando el motivo por el cual requiere tal acción.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 36.
 
-El procedimiento de revocación se iniciará de oficio por la Autoridad Certificadora o a instancia de parte interesada, el cual deberá notificarse mediante correo electrónico al Firmante, a efecto de que dentro del plazo de cinco días hábiles, contados a partir del día siguiente al de la notificación, manifieste lo que a su interés convenga y ofrezca las pruebas que tuviere.
+El Firmante deberá presentar alguna identificación oficial vigente con fotografía al Agente Certificador, cuando este último no lo haya expedido, su actual Agente Certificador deberá solicitar la revocación a la Autoridad Certificadora a través del sistema electrónico correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 37.
 
-Dentro de los quince días hábiles siguientes al vencimiento del plazo a que se refiere el Artículo anterior, la Autoridad Certificadora emitirá la resolución correspondiente, la cual deberá notificarse mediante medios electrónicos.
+Para efectos de dar cumplimiento a lo establecido en el artículo que antecede, el Agente Certificador cuenta con un plazo de tres días hábiles, contados a partir de la recepción de la solicitud vía electrónica.
 
-### Capítulo X. De los Derechos y Obligaciones de los Titulares de Certificados Digitales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+### Capítulo X. De los Derechos y Obligaciones del Firmante
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 38.
 
-Sin perjuicio de lo establecido por otras leyes, los titulares de certificados digitales tendrán los siguientes derechos:
+Sin perjuicio de lo establecido por otras leyes, el firmante tendrá los siguientes derechos:
 
-I. Solicitar se les expida constancia de la existencia y registro del certificado;
+I. Solicitar se le expida constancia de la existencia y registro del Certificado Digital.
 
-II. Solicitar la variación de los datos y elementos de la firma, cuando así convenga a su interés;
+II. Solicitar la variación de los datos del Certificado Digital, implicando la revocación del mismo, cuando así convenga a su interés.
 
-III. A ser informados sobre, las características generales de los procedimientos de certificación y creación de firma electrónica avanzada y de las demás reglas que la Autoridad Certificadora se comprometa a seguir en la prestación de sus servicios;
+III. A obtener información relacionada en materia de Firma Electrónica Avanzada.
 
-IV. A que se guarde confidencialidad sobre la información proporcionada; y,
+IV. A que se guarde confidencialidad sobre la información proporcionada.
 
-V. A conocer el domicilio físico, la página de internet y el correo electrónico de la Autoridad Certificadora para solicitar aclaraciones, presentar quejas o reportes.
+V. A conocer el domicilio físico, la página de internet y el correo electrónico de la autoridad certificadora para solicitar aclaraciones, presentar quejas o reportes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-Son obligaciones de los titulares de certificados de firma electrónica avanzada:
+Son obligaciones del Firmante:
 
 I. Proporcionar datos veraces, completos y exactos;
 
@@ -411,31 +475,43 @@ IV. Informar al Agente Certificador, cuando así proceda, la actualización de l
 
 ### Capítulo XI. Disposiciones Complementarias
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-Por virtud de la aplicación de la presente Ley, en contra de los actos o resoluciones de la Autoridad Certificadora o Agentes Certificadores, procederá el juicio en la forma y términos señalados en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+En contra de los actos o resoluciones de la Autoridad Certificadora o Agente Certificador, procederá el juicio en la forma y términos señalados en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 41.
 
-Los titulares de los entes públicos, en los reglamentos respectivos, establecerán las formalidades, modalidades y condiciones que deben observar los particulares en la presentación de los mensajes de datos que se realicen utilizando la firma electrónica avanzada en términos de esta normatividad. De la misma manera, los reglamentos establecerán el diseño de los formatos que se utilicen empleando la firma electrónica avanzada contenida en un mensaje de datos.
+Los entes públicos, en sus reglamentos respectivos, establecerán las formalidades, modalidades, condiciones y diseño de los formatos que deben observar los particulares en la presentación del mensaje de datos con la Firma Electrónica Avanzada en términos de esta normatividad.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 42.
 
-Los procedimientos de quejas o reportes, respecto a los certificados de firma electrónica, se regularán de acuerdo a lo previsto en los reglamentos que emanen de ésta ley y resolverán respecto a las quejas, las autoridades certificadoras.
+Las quejas y fallas técnicas respecto a la Firma Electrónica Avanzada, deberán reportarse ante la Autoridad Certificadora o el Agente Certificador correspondiente, para que determine lo conducente y de acuerdo a lo que establezca la normatividad en la materia.
 
 ### Capítulo XII. De las Responsabilidades y Sanciones
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 43.
 
-Las Autoridades o Agentes certificadores que incumplan con las obligaciones establecidas en la presente Ley, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+La Autoridad o Agente Certificador que incumpla con las obligaciones establecidas en la presente Ley, serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-Si las Autoridades o Agentes Certificadores se encontrasen sujetos a un procedimiento de responsabilidad administrativa o penal, se les suspenderán las facultades establecidas en esta Ley, se revocará la firma de éste para darle de alta a otro, hasta en tanto se emita sentencia definitiva.
+La Autoridad o Agente Certificador sujeto a un procedimiento de responsabilidad administrativa o penal, le serán suspendidas las facultades establecidas en esta Ley y sus reglamentos; revocándosele, además, el Certificado Digital de éste, hasta en tanto se emita sentencia definitiva favorable.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 45.
 
-Los servidores públicos y particulares que le dieren un uso indebido, utilicen o se sirvan de un certificado de firma electrónica avanzada, como medio para cometer actos, hechos u omisiones que constituyan algún tipo de responsabilidad en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado, del Código Penal para el Estado de Chiapas o cualquier otro ordenamiento legal, les serán aplicables las sanciones que en ellas se establezcan.
+Al Firmante que utilice o se sirva de un Certificado Digital, como medio para cometer actos, hechos u omisiones que constituyan algún tipo de responsabilidad o delito, en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, el Código Penal para el Estado de Chiapas o de cualquier otro ordenamiento legal, le serán aplicables las sanciones que en ellas se establezcan.
 
 T r a n s i t o r i o s
 
@@ -450,3 +526,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los doce días del mes de septiembre del año dos mil nueve
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan las presentes disposiciones.
+
+Artículo Tercero.- La Secretaría de la Función Pública, propondrá al Ejecutivo del Estado, para su aprobación, expedición y publicación en un término de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el proyecto de Reglamento de la Ley.
