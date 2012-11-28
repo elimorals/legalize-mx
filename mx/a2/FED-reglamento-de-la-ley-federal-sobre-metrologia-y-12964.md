@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-sobre-metrologia-y-12964"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-14"
-last_updated: "1999-01-14"
+last_updated: "2012-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1999-01-13"
 ---
 # REGLAMENTO DE LA LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-REGLAMENTO DE LA LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
+REGLAMENTO DE LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 14 de enero de 1999.
 
@@ -211,7 +211,9 @@ II. La clave o código de la norma se integrará con lo siguiente, en el orden q
 
 a) Las siglas "PROY-NOM" cuando se trate de proyectos de normas oficiales mexicanas, "NOM" en el caso de normas oficiales mexicanas o "NOM-EM", para aquellas expedidas con carácter de emergencia;
 
-b) El número consecutivo de la norma que le asigne el comité consultivo nacional de normalización que elabore el proyecto;
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+b) El número consecutivo de la norma que le asigne el comité consultivo nacional de normalización o la dependencia que elabore el proyecto;
 
 c) Las siglas que indiquen el nombre de la dependencia que la expide, conforme a los lineamientos que dicte la Comisión Nacional de Normalización, y
 
@@ -219,13 +221,19 @@ d) El año en que el proyecto de norma oficial mexicana o la norma oficial mexic
 
 La clave o código de la norma oficial mexicana deberá respetarse en cualquier modificación parcial a la misma;
 
-III. Deberán ser redactadas y estructuradas de acuerdo a lo que establezcan las normas mexicanas expedidas para tal efecto. No obstante, cuando a juicio del comité consultivo nacional de normalización correspondiente, dichas normas no constituyan un medio eficaz para tales efectos, podrán utilizarse otras reglas de redacción y estructuración previstas en normas o lineamientos internacionales expedidos en materia de redacción y estructuración de normas o regulaciones técnicas.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+III. Deberán ser redactadas y estructuradas de acuerdo a lo que establezcan las normas mexicanas expedidas para tal efecto. No obstante, cuando a juicio del comité consultivo nacional de normalización o la dependencia correspondiente, dichas normas no constituyan un medio eficaz para tales efectos, podrán utilizarse otras reglas de redacción y estructuración previstas en normas o lineamientos internacionales expedidos en materia de redacción y estructuración de normas o regulaciones técnicas.
 
 En el caso de cancelación, el proemio de la norma oficial mexicana deberá especificar la denominación y clave o código de la norma oficial mexicana que se cancela;
 
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
 IV. Deberán señalar el grado de concordancia con normas internacionales y normas mexicanas, para lo cual se mencionará si ésta es idéntica, equivalente o no equivalente.
 
-Para que el comité consultivo nacional de normalización pueda hacer referencia o armonizar una norma oficial mexicana con normas o lineamientos internacionales, normas o regulaciones técnicas extranjeras, deberá traducir en su caso, el contenido de las mismas, adecuarlas a las necesidades del país e incorporarlas al proyecto de norma oficial mexicana, respetando en todo caso los derechos de propiedad intelectual que existan sobre ellas;
+Para que el comité consultivo nacional de normalización o la dependencia puedan hacer referencia o armonizar una norma oficial mexicana con normas o lineamientos internacionales, normas o regulaciones técnicas extranjeras, deberán traducir en su caso, el contenido de las mismas, adecuarlas a las necesidades del país e incorporarlas al proyecto de norma oficial mexicana, respetando en todo caso los derechos de propiedad intelectual que existan sobre ellas.
+
+El comité consultivo nacional de normalización, o la dependencia, tratándose de casos de emergencia, al elaborar o modificar la norma oficial mexicana conforme al procedimiento establecido en los artículos 46, 47, 48, 64 y demás aplicables de la Ley y este Reglamento, podrán resolver que se prescinda de la traducción a que se refiere el párrafo anterior en aquellos casos en que la norma, lineamiento o regulación técnica, internacional o extranjera sea reconocida como práctica internacional por las industrias, sectores o subsectores que por su naturaleza o nivel de especialización pueden entenderlas en su idioma original;
 
 V. Deberán incluirse en el capítulo de bibliografía las normas o lineamientos internacionales y normas o regulaciones técnicas extranjeras que, en su caso, se tomen como base para la elaboración de una norma oficial mexicana, y
 
@@ -480,6 +488,10 @@ El cumplimiento de los requisitos de información comercial contenidos en las no
 Los productores, fabricantes, importadores, comercializadores o prestadores de servicios podrán recurrir a los servicios de unidades de verificación acreditadas y aprobadas para obtener constancia de conformidad o dictamen de cumplimiento en los que se demuestre que cumplen con los requisitos establecidos en las normas oficiales mexicanas de información comercial. Dichos documentos tendrán validez ante las autoridades competentes.
 
 La autoridad competente deberá reconocer aquellas constancias o dictámenes expedidos por las unidades de verificación, aun cuando exista alguna discrepancia o error en ellas. No obstante, la autoridad competente que lo detecte deberá notificarlo a la Secretaría para que en su caso, aplique las sanciones correspondientes a la unidad de verificación de que se trate, independientemente de que ésta corrija dicha discrepancia o error, sin costo para el particular.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 50 BIS. Para el cumplimiento de la norma oficial mexicana elaborada conforme al artículo 28, fracción IV, párrafo tercero de este Reglamento, los sujetos obligados que no entiendan en el idioma original las normas o lineamientos internacionales, normas o regulaciones técnicas extranjeras referenciados en la misma, podrán solicitar a la dependencia que la expidió una aclaración o traducción parcial o total según se requiera, a la cual se sujetarán. La dependencia competente resolverá tal solicitud y, en su caso, la aclaración o traducción parcial o total que emita se hará pública directamente a través de su sitio de internet, y surtirá efectos en beneficio de todo aquel que lo solicite.
 
 ###### ARTÍCULO 51.
 
@@ -790,6 +802,10 @@ Las dependencias competentes determinarán la entrada en vigor de los procedimie
 ###### ARTÍCULO 82.
 
 La Secretaría notificará a quien corresponda, los procedimientos para la evaluación de la conformidad que expidan las dependencias y sean publicados en el Diario Oficial de la Federación, conforme a lo dispuesto en los acuerdos y tratados internacionales de los que los Estados Unidos Mexicanos sean parte.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 82 BIS.- Las personas acreditadas y aprobadas se sujetarán a la publicación a través de los sitios de internet de las dependencias competentes, de la aclaración o traducción parcial o total que efectúe, cuando se requiera para su correcta aplicación, la dependencia que expidió la norma oficial mexicana de la normativa extranjera o internacional escrita en un idioma distinto al español, referenciada en la norma oficial mexicana elaborada conforme al artículo 28, fracción IV, párrafo tercero de este Reglamento, para la aplicación de los procedimientos de evaluación de la conformidad y de verificación y vigilancia que señala la Ley.
 
 ### Capítulo III. De las Contraseñas y Marcas Oficiales
 
@@ -1196,3 +1212,9 @@ TERCERO. La publicación a que hace referencia el artículo 79 del presente Regl
 CUARTO. Se abroga el decreto por el que se determinan los procedimientos para la selección de los acreedores, el otorgamiento y el uso del Premio Nacional de Calidad, publicado en el Diario Oficial de la Federación el 30 de noviembre de 1989, así como el Reglamento de la Ley de Pesas y Medidas, publicado en el Diario Oficial de la Federación el 14 de diciembre de 1928.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de enero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Desarrollo Social, Esteban Moctezuma Barragán.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Romárico Arroyo Marroquín.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.- El Secretario de Turismo, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
