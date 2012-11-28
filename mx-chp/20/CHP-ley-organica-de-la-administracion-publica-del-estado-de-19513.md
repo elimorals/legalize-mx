@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2012-09-17"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -807,7 +807,9 @@ XII. FOMENTAR EL CUMPLIMIENTO DE LAS OBLIGACIONES FISCALES DE LOS CONTRIBUYENTES
 
 XIII. NORMAR, VALIDAR, COORDINAR, PRESIDIR Y EJECUTAR POR SI O A TRAVES DEL SERVIDOR PUBLICO QUE DESIGNE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE CHIAPAS, LOS PROCESOS DE ADQUISICION DE BIENES Y SERVICIOS QUE REQUIERA LA ADMINISTRACION PUBLICA ESTATAL, A TRAVES DE LOS COMITES RESPECTIVOS, MEDIANTE LAS LICITACIONES CORRESPONDIENTES QUE DETERMINEN LAS DISPOSICIONES JURIDICAS DE LA MATERIA.
 
-XIV. (DEROGADA, P.O. 27 DE OCTUBRE DE 2010)
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+XIV. COORDINAR LA IMPLEMENTACION DE LOS MECANISMOS PARA LA INTEGRACION, EVALUACION Y VINCULACION DE INFORMACION DE OPERACIONES FINANCIERAS, RECURSOS, DERECHOS O BIENES DE CUALQUIER NATURALEZA, PARA COADYUVAR EN LA PREVENCION DE DELITOS.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3028,3 +3030,15 @@ Artículo Segundo.- La petición a que se refiere el artículo 36 Bis de la Ley 
 Artículo Tercero.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Decreto, con motivo de las denuncias o querellas formuladas con fundamento en la fracción XXIII del artículo 30 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, continuarán su trámite de acuerdo a dicha disposición vigente antes de la entrada en vigor de este Decreto.
 
 Artículo Cuarto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Dependencias normativas en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato lo necesario para la creación de un órgano administrativo en la Secretaría de Hacienda, a través del cual se hará cargo de coordinar los mecanismos a que se refiere la fracción XIV del artículo 29, de esta Ley, adecuando para tal efecto la estructura orgánica y funcional de la aludida dependencia.
+
+Los funcionarios que integren el órgano administrativo referido en el párrafo que antecede, deberán ser previamente evaluados por el Centro Estatal de Control de Confianza Certificado, a efecto de asegurar que lo constituyan servidores públicos con capacidad, compromiso, lealtad y confianza.
+
+Artículo Cuarto.- El Titular de la Secretaría de Hacienda, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera su respectivo Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
