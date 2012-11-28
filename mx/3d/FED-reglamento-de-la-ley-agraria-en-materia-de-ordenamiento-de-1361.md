@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-agraria-en-materia-de-ordenamiento-de-1361
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-01-04"
-last_updated: "1996-01-04"
+last_updated: "2012-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-01-03"
 
 REGLAMENTO DE LA LEY AGRARIA EN MATERIA DE ORDENAMIENTO DE LA PROPIEDAD RURAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 4 de enero de 1996.
 
@@ -1270,3 +1270,23 @@ Los asuntos de las colonias no contemplados en el párrafo que antecede, deberá
 Artículo Octavo.- Los lineamientos de operación del Fondo para el Ordenamiento de la Propiedad Rural y el Reglamento de Operación del Comité de Valuación de la Secretaría, deberán ser expedidos en un término no mayor de noventa días, contado a partir de la vigencia de este Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de enero de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Reforma Agraria, Arturo Warman Gryj.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural, publicado en el Diario Oficial de la Federación el 4 de enero de 1996.
+
+TERCERO.- Las disposiciones administrativas vigentes que se expidieron con fundamento en el Reglamento que se abroga, continuarán aplicándose en lo que no se opongan al presente Reglamento y hasta en tanto no se expidan las nuevas disposiciones administrativas.
+
+CUARTO.- Los solicitantes y poseedores de terrenos nacionales que tengan expediente instaurado en la Secretaría, contarán con un plazo de seis meses a partir de la publicación del presente Reglamento para actualizar su solicitud. Para tal efecto, deberán presentar copia de la misma, constancia actualizada de posesión, croquis o plano del predio de que se trate, con la identificación de la superficie y colindancias.
+
+La Secretaría contará con un plazo de noventa días para resolver la procedencia de la solicitud, previa compulsa con la documentación que al efecto obre en la misma.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo primero, se ordenará el archivo de los expedientes de solicitudes de terrenos nacionales que no hubieren presentado su actualización.
+
+QUINTO.- Los asuntos en trámite relacionados con la titularidad de los lotes de colonos, se resolverán por la Secretaría en el Programa de Regularización de Colonias instrumentado, observando las normas establecidas en el Título Quinto del presente Reglamento.
+
+Los asuntos de las colonias no contemplados en el párrafo que antecede deberán ser resueltos por la Asamblea de colonos y, en su defecto, por el Tribunal Agrario competente.
