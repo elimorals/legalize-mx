@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2012-10-19"
+last_updated: "2012-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL AL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA Y A SU TITULAR, RESPECTIVAMENTE; SE ENTENDERÁN HECHAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA Y A SU RESPECTIVO TITULAR.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -771,17 +773,27 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+Tratándose de la Cuenta Pública Parcial del primer día del mes de noviembre al último día de conclusión de la administración constitucional del Ejecutivo del Estado, quien hubiere fungido como su Titular, la presentará ante el Congreso del Estado por conducto de la Auditoría Superior del Estado, dentro de los primeros cinco días del mes de enero del año siguiente, la cual se examinará, revisará, calificará y aprobará en este Periodo de Sesiones.
 
-> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Por lo que hace a la Cuenta Pública Parcial del primer año de la administración constitucional del Ejecutivo del Estado, será presentada por su Titular ante el Congreso del Estado, dentro del mes de enero del año siguiente, para su examen, revisión, calificación y aprobación durante este Periodo de Sesiones.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 II.- El segundo comenzará el primero de junio y terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en el párrafo primero de la fracción anterior, se examinará, revisará, calificará y en su caso, aprobará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por los Titulares del Ejecutivo y del Legislativo ante el Congreso del Estado antes del inicio de este periodo.
 
-En el caso previsto en el párrafo anterior, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+En el año de conclusión de la administración constitucional del Ejecutivo y del Legislativo del Estado, dentro de los primeros quince días del mes de julio, serán presentadas por sus respectivos titulares ante el Congreso del Estado por conducto de la Auditoría Superior del Estado, las Cuentas Públicas Parciales correspondientes a los meses de enero a junio.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+En el supuesto a que se refiere el párrafo anterior, la Legislatura en funciones sesionará de manera Ordinaria del primer día hábil del mes de septiembre al catorce del mismo mes y año, en el que incluirán en la agenda legislativa, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales de enero a junio, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -793,9 +805,13 @@ Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, 
 
 Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Asimismo deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+En el caso del año de conclusión de la administración constitucional del Ejecutivo del Estado, deberá incluirse en la agenda legislativa, el examen, revisión, calificación y aprobación de la Cuenta Pública Parcial correspondiente a los meses de julio a octubre, que deberá ser presentada por su Titular ante el Congreso de (sic) Estado por conducto de la Auditoría Superior del Estado dentro de los primeros quince días del mes de noviembre, declarando en el mismo Periodo de Sesiones, si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Tratándose del año de conclusión del periodo constitucional de la Legislatura del Estado, deberá preverse en el mismo Periodo de Sesiones, el examen, revisión, calificación y aprobación de la Cuenta Pública Parcial correspondiente del día 1 de julio al día de conclusión de la Legislatura anterior, que deberá ser presentada por quien fungiera como Titular, dentro de los primeros quince días del mes de noviembre, realizando las declaraciones previstas en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -871,17 +887,17 @@ Examinar, discutir y aprobar, en su caso, a través de la ley aplicable, el esta
 
 El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-IX.- Supervisar, coordinar y evaluar al Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere el artículo 113 de esta Constitución, y expedir la Ley que regule su organización, funcionamiento y atribuciones.
+IX.- Supervisar, coordinar y evaluar a la Auditoría Superior del Estado, sin perjuicio de la autonomía que le confiere el artículo 113 de esta Constitución, y expedir la Ley que regule su organización, funcionamiento y atribuciones;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-X.- Nombrar y remover a los servidores públicos que por ley le correspondan; así como al Titular del Órgano de Fiscalización Superior del Estado, de acuerdo a lo previsto en esta Constitución;
+X.- Nombrar y remover a los servidores públicos que por ley le correspondan; así como al Titular de la Auditoría Superior del Estado, de acuerdo a lo previsto en esta Constitución;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-XI.- Dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado con base en el Informe del Resultado de la revisión que éste le remita en cualquiera de los periodos de sesiones a que se refiere esta Constitución.
+XI.- Dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo de la Auditoría Superior del Estado con base en el Informe del Resultado de la revisión que éste le remita en cualquiera de los periodos de sesiones a que se refiere esta Constitución;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -893,9 +909,9 @@ XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de ca
 
 XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados en la legislación vigente.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer.
+XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor Superior del Estado y demás que conforme a la ley deba conocer;
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -951,9 +967,9 @@ En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Con
 
 XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos, así como al Auditor General del Órgano de Fiscalización Superior del Estado, y a todos los demás que conforme a las Leyes no deban otorgar protesta ante otra autoridad;
+XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos, así como al Auditor Superior del Estado, y a todos los demás que conforme a las leyes no deban otorgar protesta ante otra autoridad;
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -1031,13 +1047,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales, del Consejero Presidente del Consejo General del Instituto Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer el Congreso.
+II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales, del Consejero Presidente del Consejo General del Instituto Electoral del Estado, del Auditor Superior del Estado y demás que conforme a ley deba conocer el Congreso;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor General del Órgano de Fiscalización Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley corresponda al Congreso.
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, del Auditor Superior del Estado y demás que conforme a ley corresponda al Congreso;
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -1891,41 +1907,71 @@ Las participaciones que corresponden al Estado y a los Municipios en ingresos Fe
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 113.
 
-El Órgano de Fiscalización Superior del Estado, es la unidad de fiscalización, control y evaluación, dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes respectivas, el cual contará con las atribuciones siguientes:
+La Auditoría Superior del Estado, es la Unidad de Fiscalización, Control y Evaluación, dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes respectivas, el cual contará con las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 I.- Fiscalizar en forma posterior, los ingresos y egresos, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos de los Poderes del Estado, Ayuntamientos, organismos autónomos, entidades paraestatales y paramunicipales, organismos públicos desconcentrados, fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demás que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores públicos estatales, municipales o federales, tanto en el país como en el extranjero;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 II.- Ejercer la función de fiscalización conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejercicio y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales o federales. Las observaciones y recomendaciones que, respectivamente, emita el Órgano de Fiscalización Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Sin perjuicio del principio de posterioridad, el Órgano de Fiscalización Superior del Estado, podrá realizar revisiones preventivas;
+Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejercicio y pago, diversos Ejercicios Fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales o federales. Las observaciones y recomendaciones que, respectivamente, emita la Auditoría Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Sin perjuicio del principio de posterioridad, la Auditoría Superior del Estado, podrá realizar revisiones preventivas;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 III.- Llevar a cabo visitas domiciliarias, auditorías y compulsas, en las que podrá requerir la exhibición de los documentos que resulten indispensables para el ejercicio de sus funciones de fiscalización e investigación;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 IV.- Establecer y difundir normas, procedimientos, métodos y sistemas técnicos, informáticos, contables, de evaluación del desempeño y de auditoría para la fiscalización de las Cuentas Públicas; así como formular observaciones y recomendaciones que sobre el particular procedan, a los sujetos de revisión;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 V.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos estatales, municipales y federales, de los Poderes del Estado, de los Ayuntamientos, de los organismos autónomos del Estado y demás sujetos de revisión establecidos en la legislación aplicable;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 VI.- Realizar auditorías sobre el desempeño para verificar el cumplimiento de los objetivos contenidos en los planes y programas, presentados a través de los informes que rindan en los términos que disponga la Ley;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 VII.- Determinar los daños y perjuicios por la afectación a las haciendas públicas estatal, municipal o federal, o al patrimonio de las entidades paraestatales, paramunicipales, de los organismos autónomos del Estado y demás sujetos de revisión;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 VIII.- Emitir resoluciones, imponer sanciones, medidas de apremio, fincar directamente a los responsables las indemnizaciones y promover en su caso, ante las autoridades competentes, el fincamiento de otras responsabilidades, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 IX.- Promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley; y
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 X.- Las demás que deriven de esta Constitución, su Ley y otras disposiciones legales aplicables en la materia.
 
-El Titular del Órgano de Fiscalización Superior del Estado, será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto la Gran Comisión, debiendo contar los aspirantes con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-El Titular de este Órgano durará en su encargo siete años y podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y procedimientos previstos en el Título Noveno de esta Constitución.
+El Titular de la Auditoría Superior del Estado, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura Estatal, de la terna que se derive de la Convocatoria que emita para tal efecto el Órgano de Gobierno del Congreso del Estado, debiendo contar los aspirantes con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-La ley respectiva determinará los requisitos que debe cumplir el Titular del Órgano de Fiscalización Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remunerables docentes, artísticas, de beneficencia y en asociaciones científicas.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+El Titular de la Auditoría Superior del Estado, será nombrado por un periodo de siete años; pudiendo ser ratificado por una sola vez para un periodo igual, de acuerdo a las disposiciones de la Ley de la materia y podrá ser removido exclusivamente, conforme a lo previsto en los artículos 125 fracción II y 127 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+La ley respectiva determinará los requisitos que debe cumplir el Titular de la Auditoría Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remunerables, docentes, artísticas, de beneficencia y en asociaciones científicas.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -1933,21 +1979,31 @@ La ley respectiva determinará los requisitos que debe cumplir el Titular del Ó
 
 La revisión de las Cuentas Públicas tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ajustaron a los criterios señalados en los presupuestos, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas.
 
-El Órgano de Fiscalización Superior entregará al Congreso del Estado por conducto de la Comisión respectiva, el Informe del Resultado de la revisión de las Cuentas Públicas en cualquiera de los periodos de sesiones a que se refiere esta Constitución. Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión respectiva, de las Cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
+La Auditoría Superior entregará al Congreso del Estado por conducto de la Comisión respectiva, el Informe del Resultado de la revisión de las Cuentas Públicas en cualquiera de los periodos de sesiones a que se refiere esta Constitución. Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la ley.
 
-El incumplimiento de este precepto será causa de responsabilidad de los servidores públicos del Órgano de Fiscalización Superior del Estado o de la Comisión respectiva del Poder Legislativo del Estado.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Las sanciones y demás resoluciones del Órgano de Fiscalización Superior del Estado podrán ser impugnadas por los sujetos de revisión y, en su caso, por los servidores públicos afectados adscritos a las mismas ante el propio Órgano de Fiscalización, en términos de las disposiciones legales aplicables.
+La Auditoría Superior, también informará al Pleno del Congreso, a través de la Comisión respectiva, de las cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
 
-Los Poderes del Estado, los Ayuntamientos y demás sujetos de revisión, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados directamente por el Órgano de Fiscalización Superior del Estado en los términos que establezcan su propia Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+El incumplimiento de este precepto, será causa de responsabilidad de los servidores públicos de la Auditoría Superior del Estado o de la Comisión respectiva del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán ser impugnadas por los sujetos de revisión, y en su caso, por los servidores públicos afectados adscritos a las mismas ante la propia Auditoría Superior, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Los Poderes del Estado, los Ayuntamientos y demás sujetos de revisión, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados directamente por la Auditoría Superior del Estado en los términos que establezcan su propia Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 115.
 
-El Órgano de Fiscalización Superior del Estado, deberá rendir oportunamente, por conducto de la comisión respectiva, los informes que le sean solicitados por el Congreso del Estado.
+La Auditoría Superior del Estado, deberá rendir oportunamente, por conducto de la Comisión respectiva, los informes que le sean solicitados por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -2059,7 +2115,9 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los servidores p
 
 I.- Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
 
-II.- Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza, al Gobernador del Estado, Diputados al Congreso Local y Magistrados del Tribunal Superior de Justicia, por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+II.- Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza, al Gobernador del Estado, Diputados al Congreso Local, Auditor Superior y Magistrados del Tribunal Superior de Justicia, por:
 
 a).- Violaciones graves a la Constitución del Estado.
 
@@ -2097,23 +2155,33 @@ No podrán concederse las gracias de indulto o conmutación de pena a los conden
 
 El Gobernador, durante el período de su encargo, sólo podrá ser acusado por delitos oficiales de la competencia del Estado y por delitos graves del orden común.
 
-Para procesar por un delito del orden común a un Diputado, al Gobernador o a un Magistrado, se necesita que la Legislatura, erigida en Gran Jurado, declare por los dos tercios de los votos de sus miembros presentes, si ha lugar o no a formarle causa. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no prejuzga sobre los fundamentos de la acusación ni impide que ésta continúe su curso cuando el acusado haya dejado de tener fuero. En el afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los tribunales ordinarios.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+
+Para procesar por un delito del orden común a un Diputado, al Gobernador, al Auditor Superior o a un Magistrado, se necesita que la Legislatura, erigida en Gran Jurado, declare por los dos tercios de los votos de sus miembros presentes, si ha lugar o no a formarle causa. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no prejuzga sobre los fundamentos de la acusación ni impide que ésta continúe su curso cuando el acusado haya dejado de tener fuero. En el afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los Tribunales Ordinarios.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 No se requiere declaración de procedencia en caso de que alguno de los servidores públicos mencionados en el párrafo anterior se encuentre separado de su cargo o aún no lo haya asumido. Tampoco se requerirá cuando se trate de servidores públicos que tengan el carácter de suplente, salvo si se encuentran en ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 127.
 
-Para procesar por delitos oficiales a los Diputados y a los Magistrados se seguirán las reglas siguientes:
+Para procesar por delitos oficiales a los Diputados, al Auditor Superior y a los Magistrados, se seguirán las reglas siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 I.- Será preciso que la Legislatura declare la culpabilidad del acusado, por los dos tercios de sus miembros presentes.
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+
 II.- Si la declaración fuere absolutoria, el funcionario continuará en el desempeño de su cargo.
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+
 III.- Si la declaración fuere condenatoria, el funcionario acusado quedará separado inmediatamente del cargo y será puesto a disposición del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 IV.- El Tribunal Superior de Justicia del Estado, en acuerdo pleno y con audiencia del acusado, de su defensor y de dos acusadores que designe la Legislatura, entre sus miembros, procederá a imponer por mayoría absoluta de votos la pena correspondiente.
 
@@ -2942,3 +3010,45 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Para efectos del último año previo al de conclusión de la administración constitucional del actual Titular del Poder Ejecutivo del Estado, la Cuenta Pública Parcial correspondiente a los meses de enero a octubre, deberá ser presentada por su Titular ante el Congreso del Estado por conducto de la Auditoría Superior del Estado dentro de los primeros quince días del mes de noviembre de 2016, para su examen, revisión, calificación y aprobación en el Tercer Periodo Ordinario de Sesiones del mismo año.
+
+La Cuenta Pública Parcial de los meses de noviembre y diciembre, deberá presentarse dentro de los cinco primeros días del mes de enero de 2017, para su examen, revisión, calificación y aprobación durante el mismo mes y año del Primer Periodo Ordinario de Sesiones.
+
+Tratándose del año de la conclusión de la administración constitucional del Ejecutivo, la Cuenta Pública Parcial del mes de enero de 2017, será presentada por quien hubiere fungido como su Titular ante el Congreso del Estado por conducto de la Auditoría Superior del Estado, dentro de los primeros diez días del mes de febrero del mismo año, la cual se examinará, revisará calificará y aprobará en el mismo periodo de sesiones.
+
+El Congreso del Estado, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+CUARTO.- Para efectos del último año previo al de conclusión de la administración constitucional de la LVIII Legislatura del Estado, la Cuenta Pública Parcial correspondiente a los meses de enero a octubre, deberá ser presentada por su Titular ante el Congreso del Estado por conducto de la Auditoría Superior del Estado dentro de los primeros quince días del mes de noviembre de 2013, para su examen, revisión, calificación y aprobación en el Tercer Periodo Ordinario de Sesiones del mismo año.
+
+En el año de conclusión de la LVIII Legislatura del Estado, ésta sesionará de manera ordinaria del primer día hábil del mes de enero de 2014 al día 14 del mismo mes y año, en el que se avocará al examen, revisión, calificación y aprobación de la Cuenta Pública Parcial de los meses de noviembre y diciembre del año anterior, la que será presentada dentro de los primeros cinco días del mes de enero de 2014.
+
+Tratándose del año de conclusión de la LVIII Legislatura del Estado, la Cuenta Pública Parcial del 1 al 14 de enero de 2014, será presentada por quien hubiere fungido como su Titular ante el Congreso del Estado por conducto de la Auditoría Superior del Estado, dentro de los primeros diez días del mes de febrero del mismo año, la cual se examinará, revisará, calificará y aprobará en el mismo periodo de sesiones.
+
+QUINTO.- El actual Auditor General del Órgano de Fiscalización Superior del Estado de Puebla, será el Titular de la Auditoría Superior del Estado de Puebla.
+
+Para efectos del párrafo anterior, la Legislatura del Estado, expedirá el nombramiento de Auditor Superior del Estado de Puebla, cuyo periodo comenzará a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- Las referencias que a la entrada en vigor de este Decreto se hagan en todo instrumento legal, jurídico o administrativo y norma en sentido formal o material al Órgano de Fiscalización Superior del Estado de Puebla y a su Titular, respectivamente; se entenderán hechas a la Auditoría Superior del Estado de Puebla y a su respectivo Titular.
+
+SÉPTIMO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Órgano de Fiscalización Superior del Estado o en los que éste sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
+
+OCTAVO.- En tanto se realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación que obre en el Órgano de Fiscalización Superior del Estado, se seguirá utilizando, hasta que la Auditoría Superior del Estado realice las adecuaciones conducentes sin exceder de los seis meses siguientes a la entrada en vigor de este Decreto.
+
+NOVENO.- Se ratifica el contenido de los acuerdos, circulares, guías, manuales y demás normatividad que hubieren emitido las autoridades competentes del Órgano de Fiscalización Superior del Estado y que a la entrada en vigor del presente Decreto se encuentren vigentes, hasta en tanto se sustituyan o dejen sin efectos.
+
+DÉCIMO.- A partir de la entrada en vigor del presente Decreto, todos los recursos humanos, financieros y materiales con que cuenta actualmente el Órgano de Fiscalización Superior del Estado de Puebla, pasarán a formar parte de la Auditoría Superior del Estado de Puebla.
+
+DÉCIMO PRIMERO.- Los servidores públicos del Órgano de Fiscalización Superior del Estado de Puebla, no sufrirán afectación alguna, en sus derechos laborales, con motivo de la entrada en vigor de este Decreto.
+
+DÉCIMO SEGUNDO.- La Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla vigentes, en tanto no se modifiquen, se seguirán aplicando en lo que no se opongan al presente Decreto.
+
+La actual estructura orgánica y el personal adscrito a la misma del Órgano de Fiscalización Superior del Estado, continuará funcionando como parte de la Auditoría Superior del Estado, hasta en tanto no se modifique, y las actuaciones de su personal tendrán plena validez.
+
+DÉCIMO TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
