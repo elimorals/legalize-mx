@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-contraloria-y-64859"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-02"
-last_updated: "2008-11-02"
+last_updated: "2012-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y MODERNIZACION ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y MODERNIZACION ADMINISTRATIVA DEL ESTADO DE DURANGO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 2 de noviembre de 2008.
 
@@ -778,3 +780,19 @@ LIC. OLIVERIO REZA CUELLAR
 LA SECRETARIA DE CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
 C.P. MARÍA DE LOURDES NEVÁREZ HERRERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría de Contraloría y Modernización Administrativa del Estado de Durango, publicado en el Periódico Oficial del Estado de Durango el día 2 de noviembre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones administrativas que se contrapongan al presente Reglamento Interno.
