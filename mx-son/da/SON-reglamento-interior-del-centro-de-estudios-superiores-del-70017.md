@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-centro-de-estudios-superiores-del-70017
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-31"
-last_updated: "2012-05-17"
+last_updated: "2012-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ REGLAMENTO INTERIOR DEL CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 172, DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. 17 DE MAYO DE 2011, SE MODIFICA EL NOMBRE EN TODOS LOS ORDENAMIENTOS JURÍDICOS QUE INDIQUEN "CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA" POR EL DE "UNIVERSIDAD ESTATAL DE SONORA".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DE SONORA, PUBLICADO EN EL B.O. 29 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 31 de agosto de 2009.
 
@@ -738,3 +740,17 @@ A efecto de dar continuidad al desarrollo de la vida académica y administrativa
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 29 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Centro de Estudios Superiores del Estado de Sonora; Publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Tomo CLXXXIV, Núm. 18, Secc. I, Hermosillo, Sonora; 31 de agosto del 2009.
+
+###### ARTICULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento Interior. En tanto no se expidan los mencionados manuales administrativos, el Rector queda facultado para resolver las cuestiones que se presenten.
