@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-a-los-animales-para-el-estado-de-jalisco-5450
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2007-01-30"
+last_updated: "2012-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN Y CUIDADO A LOS ANIMALES DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -548,3 +550,17 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL Ríos MARTINEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se tiene el término de noventa días a partir de la entrada en vigor del presente ordenamiento para la creación del reglamento del mismo.
+
+TERCERO. Se abroga la Ley de Protección a los Animales del Estado de Jalisco, publicada mediante decreto 21741 el día 30 de enero de 2007.
+
+CUARTO. Se tiene el término de noventa días naturales, a partir de la entrada en vigor de la presente ley, para la conformación del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco.
+
+QUINTO. Se tiene un término de sesenta días naturales a partir de la conformación del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco, para la creación del reglamento del mismo.
