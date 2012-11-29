@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-de-la-vivienda-420
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-13"
-last_updated: "2006-08-04"
+last_updated: "2012-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de diciembre de 2004.
 
@@ -89,7 +89,13 @@ II. Aprobar los proyectos de modificación a la estructura orgánica del Institu
 
 III. Aprobar la distribución del presupuesto de ingresos autorizado al Instituto.
 
-IV. Las demás que le establezcan otros ordenamientos legales.
+> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2012)</small>
+
+IV. Establecer y negociar mediante reestructuras financieras o a través de otros instrumentos jurídicos, el cobro de las cantidades provenientes de convenios de regularización, acuerdos y contratos en materia civil, mercantil o de otra naturaleza en que sea parte el Instituto, así como los intereses moratorios y/o financieros que se generen por su incumplimiento; y
+
+> <small>(ADICIONADA, G.G. 29 DE NOVIEMBRE DE 2012)</small>
+
+V. Las demás que le establezcan otros ordenamientos legales.
 
 ### CAPITULO III. DEL DIRECTOR GENERAL
 
@@ -129,7 +135,7 @@ IX. Contraloría Interna.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO IV. DE LOS DIRECTORES Y DEL COORDINADOR
 
@@ -137,7 +143,7 @@ El Instituto contará con las demás unidades administrativas que le sean autori
 
 Al frente de cada Dirección y Coordinación habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y con el presupuesto autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 12.
 
@@ -171,7 +177,7 @@ XIII. Proponer al Director General la suscripción de acuerdos, convenios y cont
 
 XIV. Las demás que les confieren otras disposiciones legales y aquellas que les encomienden el Consejo Directivo o el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO V. DE LAS DIRECCIONES, COORDINACION Y CONTRALORIA INTERNA
 
@@ -617,7 +623,7 @@ DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL.
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 4 DE AGOSTO DE 2006.
 
@@ -630,3 +636,9 @@ TERCERO.- Los asuntos y procedimientos que se encuentren en trámite en la Coord
 CUARTO.- La Dirección General del Instituto Mexiquense de la Vivienda Social determinará el uso y destino de los recursos humanos, materiales y financieros con los que venían operando la Dirección de Proyectos Estratégicos y Enlace Institucional y la Coordinación del Programa de Incorporación de Suelo al Desarrollo.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 29 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
