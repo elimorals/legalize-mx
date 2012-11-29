@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-25809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-09-17"
-last_updated: "2012-10-24"
+last_updated: "2012-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2001-10-02"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE NOVIEMBRE DE 2012.</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 17 de septiembre de 2002.
 
@@ -1021,13 +1021,11 @@ XXV. Las demás que con ese carácter le confieran las disposiciones legales apl
 
 ### CAPITULO II. DE LA DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS Y SUS UNIDADES ADMINISTRATIVAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE NOVIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE OCTUBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE OCTUBRE DE 2012) (F. DE E., D.O.F. 29 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 45.
 
-La persona Titular de la Dirección General de Administración y Finanzas será asistida por las direcciones de Finanzas, Administración y Recursos Humanos, así como por el personal que se requiera para satisfacer las necesidades del servicio y tendrá las siguientes facultades:
+La persona Titular de la Dirección General de Administración y Finanzas será asistida por las direcciones de Finanzas, Administración, Recursos Humanos y de Tecnologías de la Información y Comunicaciones, así como por el personal que se requiera para satisfacer las necesidades del servicio y tendrá las siguientes facultades:
 
 > <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
