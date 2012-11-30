@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2012-10-15"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1134,9 +1134,11 @@ DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Art. 40.
 
-Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
+Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
@@ -6011,3 +6013,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 15 DE OCTUBRE DE 2012.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y quedarán derogadas todas las disposiciones normativas que contravengan a este decreto.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
