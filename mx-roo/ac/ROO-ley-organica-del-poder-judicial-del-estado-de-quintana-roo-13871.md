@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2012-03-15"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -705,6 +705,16 @@ Los Jueces de Primera Instancia conocerán de todos los asuntos de la competenci
 
 Los Juzgados estarán a cargo de un Juez, que será el titular del órgano, y contarán con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Los Juzgados y Tribunales Orales contarán con el número de Jueces que el servicio requiera y, además, con el personal siguiente:
+
+I.- Un Administrador de Gestión Judicial;
+
+II.- Notificadores; y
+
+III.- El personal auxiliar que determine el Consejo de la Judicatura.
+
 ###### Artículo 59.
 
 Los Jueces, cuando lo estimen necesario en el ejercicio de sus funciones, requerirán de la autoridad administrativa del lugar, el auxilio de la fuerza pública del Estado; y si no la hubiere o no fuere suficiente, la solicitarán del Gobernador del Estado por conducto del Tribunal Superior de Justicia, pero están eximidos de este trámite en casos urgentes.
@@ -823,13 +833,25 @@ III.- Visitar los centros preventivos o de readaptación social, a fin de cercio
 
 Los Juzgados de Primera Instancia conocerán de los asuntos del orden civil, mercantil, familiar, penal o competencia mixta, conforme a la organización jurisdiccional establecida por esta Ley o la que determine el Pleno del Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-En la materia penal, los juzgados de Control se integrarán por un Juez, y los Tribunales de Juicio Oral se integrarán por tres Jueces.
+La administración de los Juzgados y Tribunales Orales estarán a cargo de un Administrador de Gestión Judicial.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-Los jueces de oralidad Mercantil, Civil y Familiar, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Comercio Vigente y de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, respectivamente, debiendo sustanciarse conforme al procedimiento oral respectivo.
+En la materia penal, los juzgados de Control y el Tribunal Unipersonal de juicio oral penal se integrarán por un Juez, y los Tribunales de Juicio Oral se integrarán por tres jueces.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+En la materia familiar, los juzgados se integrarán por un Juez de Instrucción y un Juez de Juicio Oral.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo y que deban sustanciarse conforme al procedimiento oral. Los Jueces de oralidad Mercantil, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Comercio Vigente debiendo sustanciarse conforme al procedimiento oral respectivo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Los jueces de los Juzgados y Tribunales orales para la realización y desarrollo de las audiencias orales que se lleven a cabo en las Salas de los Juzgados o Tribunales del Poder Judicial del Estado, deberán portar toga con las características que determine el Consejo de la Judicatura.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -1252,6 +1274,88 @@ V.- Practicar los inventarios, embargos, requerimientos, secuestros y demás dil
 VI.- Levantar inmediatamente las actas correspondientes, haciendo constar en ellas todos los incidentes de la diligencia y las razones que en contra de esta expongan los interesados, sin suspenderla por ningún motivo, salvo los casos expresamente determinados por la ley; y
 
 VI.- Las demás que las leyes y los Jueces determinen.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 86
+
+bis.- Los Administradores de Gestión Judicial de los Juzgados y Tribunales orales, tendrán las siguientes facultades comunes:
+
+I.- Dirigir las labores administrativas de los juzgados o tribunales de su adscripción;
+
+II.- Supervisar el desempeño de los servidores públicos a su cargo;
+
+III.- Llevar el manejo administrativo y la custodia de las salas de audiencias, juzgados y tribunales a su cargo, a fin de que se encuentren en condiciones óptimas de uso;
+
+IV.- Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+
+V.- Supervisar por turno la distribución de los asuntos entre los jueces o tribunales.
+
+VI.- Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencia a su cargo.
+
+VII.- Elaborar y remitir los informes estadísticos anuales, mensuales y demás que determine el Consejo de la Judicatura.
+
+VIII.- Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados o tribunales.
+
+IX.- Controlar el manejo de registros de los asuntos tramitados en el juzgado o tribunal.
+
+X.- Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos.
+
+XI.- Revisar físicamente los expedientes digitalizados de los juicios o de las causas.
+
+XII.- Dar cuenta de la correspondencia al juez de despacho, al de instrucción u oral, según sea el caso.
+
+XIII.- Tramitar la correspondencia administrativa del juzgado o tribunal.
+
+XIV.- Auxiliar al titular de juzgado o tribunal en el trámite de los juicios de amparo.
+
+XV.- Auxiliar en el desahogo de las audiencias.
+
+XVI.- Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso.
+
+XVII.- Dar cuenta al titular del árgano jurisdiccional respectivo de los medios de impugnación que se hagan valer.
+
+XVIII.- Atender los requerimientos que formule la Unidad de Información del Poder Judicial.
+
+XIX.- Coordinar el trabajo de los notificadores.
+
+XX.- Verificar que se realicen las notificaciones que se hayan ordenado.
+
+XXI.- Tener a su cargo el archivo del órgano jurisdiccional.
+
+XXII.- Remitir al archivo general los asuntos que se encuentren concluidos.
+
+XXIII.- Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto.
+
+XXIV.- Ingresar y ubicar en las salas de audiencias, en el lugar que les corresponda, a los sujetos procesales, testigos, peritos y demás intervinientes.
+
+XXV.- Cumplir durante las audiencias, con las instrucciones que emita el titular del órgano jurisdiccional.
+
+XXVI.- Realizar las tareas administrativas que le encomienden los titulares de los órganos jurisdiccionales de su adscripción.
+
+XXVII.- Tomar las medidas administrativas necesarias para la buena marcha de los asuntos.
+
+XXVIII.- Instrumentar un expediente judicial de cada asuntos (sic) que sea sometido a la competencia de los órganos jurisdiccionales de su adscripción.
+
+XXIX.- Remitir los valores y garantías que se reciban en el juzgado o tribunal dentro de los plazos señalados en las disposiciones administrativas.
+
+XXX.- Vigilar que el rol de turnos de jueces y demás personal del juzgado o tribunal se realice en los términos autorizados por el Consejo de la Judicatura.
+
+XXXI.- Supervisar que en cada audiencia se redacte el acta mínima correspondiente.
+
+XXXII.- Las demás que determine la Ley o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 86
+
+ter.- Para ser Administrador de Gestión Judicial se requiere:
+
+I.- Ser mayor de veinticinco años;
+
+II.- Ser licenciado en Derecho o licenciado en Administración o carrera afín; y
+
+III.- No haber sido condenado por delito doloso.
 
 ## TITULO TERCERO. DE LA ORGANIZACION ADMINISTRATIVA DEL PODER JUDICIAL
 
@@ -1713,9 +1817,13 @@ VI.- Secretarios de Estudio y Cuenta de Juzgados de Primera Instancia;
 
 VII.- Secretarios de Acuerdos de Juzgados de Primera Instancia;
 
-VIII.- Secretario de Juzgados de Paz; y
+VIII.- Secretario de Juzgados de Paz; y (sic)
 
 IX.- Actuario del Poder Judicial del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X.- Secretario Auxiliar.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -2102,3 +2210,17 @@ Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 15 DE MARZO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El procedimiento oral en la materia familiar, que contempla el Código de Procedimientos Civiles, reformado de conformidad al presente Decreto, se aplicará en principio únicamente en el Distrito Judicial de Chetumal. Con respecto a su aplicación en el resto de los Distritos Judiciales de la entidad, se procederá conforme a lo Que se previó en el artículo segundo transitorio del Decreto 419, publicado en el Periódico Oficial del Estado en fecha 10 de febrero de 2011, y aprobado por la Décima Segunda Legislatura del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos en materia familiar, mismos a los que hace referencia el procedimiento oral, iniciados con anterioridad a la entrada en vigor de este Decreto y de conformidad a lo establecido en el artículo segundo transitorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
