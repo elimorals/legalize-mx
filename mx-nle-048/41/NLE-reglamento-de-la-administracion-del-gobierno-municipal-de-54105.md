@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-administracion-del-gobierno-municipal-de-54105
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-22"
-last_updated: "2011-01-14"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SANTA CATARINA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO DE LA ADMINISTRACION DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE LA ADMINISTRACIÓN DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de enero de 2007.
 
@@ -149,7 +149,7 @@ X. Coordinarse con las diversas instancias de Gobierno Municipal, Estatal y Fede
 
 XI. Brindar asesoría jurídica gratuita a la ciudadanía en general con la finalidad de que la familia tenga un entorno de tranquilidad legal;
 
-XII. Dar seguimiento a los programas incluidos en el Programa Nacional para la Incorporación y Desarrollo de las Personas con Capacidades Diferenciadas, así como los propios del Municipio; y, (sic)
+XII. Dar seguimiento a los programas incluidos en el Programa Nacional para la Incorporación y Desarrollo de las Personas con Capacidades Diferenciadas, así como los propios del Municipio; y,
 
 XIII. Promover y desarrollar programas que involucren a diversos organismos, asociaciones civiles y sociedad en general cuyo objetivo sea brindar más beneficios a las personas más vulnerables;
 
@@ -1260,3 +1260,19 @@ Artículo Primero.- Se Aprueban las modificaciones y adiciones al Reglamento de 
 Articulo Segundo.- Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Tercero.- Envíese al Ejecutivo del Estado por conducto del Secretario General de Gobierno, para que se efectúe su publicación en el Periódico Oficial del Estado y que produzca sus efectos legales.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SANTA CATARINA, NUEVO LEÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el REGLAMENTO DE LA ADMINISTRACIÓN DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, Nuevo León, Publicado en (sic) Periódico Oficial de fecha 22 Enero (sic) 2007 y deroga todos los acuerdos o disposiciones que se opongan al mismo.
+
+TERCERO.- Los Trámites y Recursos Administrativos iniciados antes de la entrada en vigor del presente Reglamento, se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad que se impugna.
+
+CUARTO.- Para todos los efectos legales y reglamentarios cuando se haga mención de la Tesorería en normas jurídicas vigentes se entenderá referida a la Secretaría de Administración y Finanzas.
+
+QUINTO.- Las facultades, atribuciones y responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento (sic) y demás disposiciones administrativas en materia de Obras Públicas de la Secretaría de Desarrollo Urbano y Obras Públicas, se entenderán referidas a la Secretaría de Obras Públicas.
+
+SEXTO.- Las facultades, atribuciones y responsabilidades establecidas para la Secretaría de la Contraloría y Transparencia, establecidas en las fracciones XXIII a la XXVIII, de este ordenamiento legal, entrarán en vigencia de manera paulatina una vez que se vaya contando con la capacidad administrativa, financiera, material y física; así mismo con la infraestructura necesaria que permita la operatividad y funcionalidad de la Dirección de Almacenes en la que se auxiliara dicha Secretaría, para el cumplimiento de tales disposiciones y el despacho de los asuntos de su competencia, dando un término para tal efecto de 90-noventa días naturales a partir de la fecha de la publicación del presente reglamento.
