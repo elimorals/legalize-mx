@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2012-10-19"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -75,7 +75,9 @@ Estos objetivos se entienden encomendados al Ejecutivo del Estado y a los Ayunta
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de los Tribunales, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, del Instituto de Ciencias Forenses del Estado de Baja California, de los Tribunales, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 ###### ARTÍCULO 5.
 
@@ -113,7 +115,9 @@ XIII. Evaluación: El mecanismo para estimar los conocimientos, aptitudes y rend
 
 XIV. Formación: El proceso mediante el cual se desarrollan las capacidades, se amplían los conocimientos y las destrezas que el aspirante requiere para el ejercicio profesional en un área específica de las Instituciones de Seguridad Pública;
 
-XV. Instituciones de Seguridad Pública: Procuraduría General de Justicia del Estado, Secretaría de Seguridad Pública del Estado y las Dependencias y Unidades Administrativas de Seguridad Pública de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+xv. Instituciones de Seguridad Pública: Procuraduría General de Justicia del Estado, Secretaría de Seguridad Pública del Estado, Instituto de Ciencias Forenses del Estado de Baja California y las Dependencias y Unidades Administrativas de Seguridad Pública de los Ayuntamientos;
 
 XVI. Instituto: Instituto de Estudios Avanzados de Procuración de Justicia del Estado;
 
@@ -527,9 +531,11 @@ La Academia se organizará y funcionará de conformidad con el reglamento que al
 
 ### CAPÍTULO SEGUNDO. DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 38.
 
-Se crea el Instituto de Estudios Avanzados en Procuración de Justicia, como una unidad administrativa dependiente de la Procuraduría, para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes y Agentes del Ministerio Público, Peritos y demás servidores públicos adscritos a la misma.
+Se crea el Instituto de Estudios Avanzados en Procuración de Justicia, como una unidad administrativa dependiente de la Procuraduría, para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes y Agentes del Ministerio Público y demás servidores públicos adscritos a la misma.
 
 El Instituto para su funcionamiento estará integrado por un Director, y por el personal técnico, administrativo y académico que se requiera, según las necesidades del servicio.
 
@@ -541,7 +547,9 @@ El Instituto tendrá, entre otras, las siguientes atribuciones:
 
 I. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
 
-II. Capacitar en materia de investigación científica y técnica a los Agentes del Ministerio Público, Peritos y demás servidores públicos de la Procuraduría;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+II.- Capacitar en materia de investigación científica y técnica a los Agentes del Ministerio Público y demás servidores públicos de la Procuraduría;
 
 III. Proponer y desarrollar los programas de investigación académica en materia ministerial y pericial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -561,7 +569,9 @@ X. Colaborar en el diseño y actualización tanto de las políticas como de las 
 
 XI. Realizar los estudios para detectar las necesidades de capacitación de los servidores públicos de la Procuraduría y proponer los cursos correspondientes;
 
-XII. Proponer las convocatorias para el ingreso a la Procuraduría, en los cargos de Agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XII. Proponer las convocatorias para el ingreso a la Procuraduría, en los cargos de Agentes del Ministerio Público y Agentes de la Policía Ministerial;
 
 XIII. Tramitar los registros, autorizaciones y reconocimientos de los planes y programas de estudio ante las autoridades competentes;
 
@@ -2229,13 +2239,19 @@ I. Con la celebración de la audiencia administrativa, y
 
 II. Con la interposición de algún juicio o medio de defensa en contra de la resolución que se hubiese emitido dentro del Procedimiento.
 
-## TÍTULO DÉCIMO SÉPTIMO. DE LA CERTIFICACIÓN DE LOS AGENTES DEL MINISTERIO PÚBLICO, PERITOS Y ELEMENTOS DE APOYO DE LA PROCURADURÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+## TÍTULO DÉCIMO SÉPTIMO. DE LA CERTIFICACIÓN DE LOS AGENTES DEL MINISTERIO PÚBLICO, ELEMENTOS DE APOYO DE LA PROCURADURÍA Y PERITOS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 186.
 
-El Centro de Control de Confianza emitirá el Certificado y registro correspondiente a los aspirantes, Agentes del Ministerio Público, Peritos y Elementos de apoyo de la Procuraduría de conformidad con lo establecido por esta Ley.
+El Centro de Control de Confianza emitirá el Certificado y registro correspondiente a los aspirantes, Agentes del Ministerio Público y Elementos de apoyo de la Procuraduría de conformidad con lo establecido por esta Ley.
+
+Asimismo, el Centro de Control de Confianza emitirá el Certificado y registro correspondiente a los Peritos de carrera del Instituto de Ciencias Forenses del Estado de Baja California.
 
 ###### ARTÍCULO 187.
 
@@ -2350,3 +2366,7 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente reforma entrará en vigor el día 01 de Enero de 2013.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
