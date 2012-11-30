@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2012-05-30"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -952,6 +954,10 @@ II.- .
 III.- .
 
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### ARTICULO 90.
 
@@ -2341,7 +2347,9 @@ Para el delito de trata de personas, se atenderá a lo dispuesto por la Ley para
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VI. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPÍTULO VI. USO INDEBIDO DE INFORMACIÓN SOBRE LAS ACTIVIDADES DE SEGURIDAD PUBLICA Y PROCURACION DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 194
 
@@ -2369,7 +2377,7 @@ QUÁTER.- Se sancionará con prisión de tres a seis años e inhabilitación del
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
 ###### ARTICULO 194
 
@@ -2381,7 +2389,7 @@ Si la finalidad de la entrega fuere el matrimonio, cualquier forma de explotaci�
 
 Si el agente se valiese de una función pública o tuviere la patria potestad, guarda o custodia del menor de edad, la pena de prisión se aumentará en una mitad más de la establecida, sin exceptuar las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos aplicables.
 
-### CAPITULO II. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 195.
 
@@ -2389,11 +2397,11 @@ Los profesionistas y sus auxiliares que cometan delitos en el ejercicio de su ac
 
 Si reincidieren, la suspensión para ejercer dicha actividad podrá aumentarse hasta en una mitad más.
 
-### CAPITULO III. ABUSO DE FUNCIONES PUBLICAS
+### CAPITULO II. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
 
 ## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
-### CAPITULO IV. TRAFICO DE INFLUENCIAS
+### CAPITULO III. ABUSO DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 196.
 
@@ -2429,17 +2437,17 @@ A los profesionistas o técnicos no comprendidos en las disposiciones anteriores
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO IV. TRAFICO DE INFLUENCIAS
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR SERVIDORES PUBLICOS
 
-### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 #### SECCION CUARTA. DELITOS CONTRA EL ESTADO
 
 ## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 200.
 
@@ -2447,13 +2455,13 @@ A los que en forma tumultuaria ataquen a la autoridad para impedir el libre ejer
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición se les aplicará prisión de uno a cuatro años.
 
-### CAPITULO IV. ULTRAJES A LA AUTORIDAD
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 201.
 
 A los que pretextando el ejercicio de un derecho se reúnan tumultuariamente; empleando violencia en las personas o fuerza sobre las cosas, y bienes del Estado, se les aplicará de seis meses a dos años de prisión.
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES
+### CAPITULO IV. ULTRAJES A LA AUTORIDAD
 
 ###### ARTICULO 202.
 
@@ -2466,6 +2474,14 @@ II.- Impedir la elección, renovación o funcionamiento de alguno de los Poderes
 III.- Separar o impedir el desempeño de su cargo al Gobernador o alguno de los altos funcionarios del Estado o del Municipio, o
 
 IV.- Sustraer de la obediencia del Gobierno, toda o una parte de la población del Estado o algún cuerpo de Seguridad Pública de la Entidad.
+
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES
+
+###### ARTICULO 203.
+
+A los que utilizando explosivos, sustancias tóxicas, armas de fuego por incendio, inundación o por cualquier otro medio violento, realicen actos en contra de las personas, las cosas o los servicios al público que perturben la paz pública o causen terror en la población, con la finalidad de menoscabar la seguridad y autoridad del Estado, la integridad de su territorio o el orden constitucional, o de presionar para que la autoridad tome una determinación, se les impondrá prisión de tres a veinte años, sin perjuicios de las penas que correspondan por otros delitos que resulten.
+
+Al que teniendo conocimiento de las actividades de un terrorista y de su identidad no lo haga saber a las autoridades, se le aplicará de uno a siete años de prisión.
 
 ### CAPITULO VI. VIOLACION DE LAS ORDENES DE PROTECCION
 
@@ -2499,14 +2515,6 @@ IV. Se niegue a la petición de acceso al domicilio de la receptora o víctima, 
 
 Este delito se persigue por querella, y cuando se otorgue el perdón al probable responsable de los señalados en el artículo 220 bis y 220 ter, dicho perdón se hará extensivo al servidor público, relacionado con dicha orden.
 
-###### ARTICULO 203.
-
-A los que utilizando explosivos, sustancias tóxicas, armas de fuego por incendio, inundación o por cualquier otro medio violento, realicen actos en contra de las personas, las cosas o los servicios al público que perturben la paz pública o causen terror en la población, con la finalidad de menoscabar la seguridad y autoridad del Estado, la integridad de su territorio o el orden constitucional, o de presionar para que la autoridad tome una determinación, se les impondrá prisión de tres a veinte años, sin perjuicios de las penas que correspondan por otros delitos que resulten.
-
-Al que teniendo conocimiento de las actividades de un terrorista y de su identidad no lo haga saber a las autoridades, se le aplicará de uno a siete años de prisión.
-
-### CAPITULO I. FRAUDE PROCESAL
-
 ###### ARTICULO 204.
 
 Se impondrá de dos a quince años de prisión al que con el fin de trastornar gravemente la vida cultural y económica del Estado o Municipio o para alterar la capacidad de éstos, dañe, destruya o entorpezca:
@@ -2519,9 +2527,23 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Al que teniendo conocimiento de las actividades de un saboteador y de su identidad no lo haga saber a las autoridades, se le impondrá prisión de seis meses a cinco años.
 
-### CAPITULO II. FALSO TESTIMONIO
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO III. DENUNCIAS FALSAS
+### CAPITULO I. FRAUDE PROCESAL
+
+###### ARTICULO 204
+
+BIS.- Al que obtenga información privilegiada de las Instituciones de Seguridad Pública o de las Fuerzas Armadas y la utilice para avisar a terceros, para evitar que éstos sean detenidos o para que puedan concretar una actividad delictiva, se le impondrá una sanción de dos a seis años de prisión y de cien a mil días multa.
+
+Cuando la conducta se lleve a cabo utilizando a personas menores de edad, personas que no tengan la capacidad de comprender la conducta o a personas discapacitadas la pena se aumentará hasta en una mitad de la señalada en el primer párrafo. Así mismo se aumentará la pena hasta en una mitad cuando la conducta se lleve a cabo por servidores públicos que pertenezcan o han pertenecido a alguna Institución de Seguridad Pública, a las Fuerzas Armadas o se trate de personas que han pertenecido o pertenezcan a personas morales que brinden Servicios de Seguridad Privada.
+
+Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, o vehículos de servicio de transporte público o mercantil, o que por sus características sean similares a esos en apariencia, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+
+Para efectos de este artículo, se entenderá por Instituciones de Seguridad Pública, las previstas en el artículo 5 fracción XVI de la Ley de Seguridad Pública del Estado de Quintana Roo. Asimismo, se entenderá por información privilegiada aquella relacionada con las actividades provenientes de operativos, investigación y persecución de los delitos y sus autores, que en términos de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, es considerada como reservada o confidencial.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI] P.O. 30 DE NOVIEMBRE DE 2012)
+
+### CAPITULO II. FALSO TESTIMONIO
 
 ###### ARTICULO 205.
 
@@ -2531,7 +2553,7 @@ Además de las penas señaladas para los delitos previstos en este título, se i
 
 ## TITULO CUARTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO III. DENUNCIAS FALSAS
 
 ###### ARTICULO 206.
 
@@ -2541,7 +2563,7 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 Los Servidores Públicos que cometan alguno de los delitos previstos en el presente Título, además de las penas de prisión y de multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad, a partir de la extinción de ésta.
 
-### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 207.
 
@@ -2561,7 +2583,7 @@ VI.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme
 
 VII.- Otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe un empleo, cargo o comisión de que se haga referencia en dicha identificación.
 
-### CAPITULO VI. ENCUBRIMIENTO
+### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 208.
 
@@ -2571,7 +2593,7 @@ I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por inte
 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no sea materia de sus funciones y que no sea del conocimiento público hasta por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. ENCUBRIMIENTO
 
 ###### ARTICULO 209.
 
@@ -2583,11 +2605,7 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
-### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### ARTICULO 210.
 
@@ -2605,7 +2623,11 @@ Al particular que estando obligado legalmente a la custodia, administración o a
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Funcionarios y Empleados del Estado.
 
-### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
+### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
 
 ###### ARTICULO 213.
 
@@ -2629,13 +2651,13 @@ Al que por medio de la violencia física o moral, exija a una autoridad la ejecu
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, solo se consumarán los delitos de resistencia y desobediencia cuando se hubieren agotado tales medios.
 
-### CAPITULO II. INCOMPATIBILIDAD DE LABORES
+### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
 ###### ARTICULO 218.
 
 Al que quebrante los sellos puestos por orden de la autoridad pública competente, se le impondrá prisión de seis meses a dos años y de veinte a sesenta días multa.
 
-### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
+### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
 ###### ARTICULO 219.
 
@@ -2643,7 +2665,7 @@ Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor p�
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 1991)</small>
 
-### CAPITULO IV. COALICION INDEBIDA
+### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
 ###### ARTICULO 220.
 
@@ -2655,15 +2677,15 @@ II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derech
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
+### CAPITULO IV. COALICION INDEBIDA
+
 ### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
 ### CAPITULO I. ABANDONO DE EMPLEO
 
-### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
-
 ## TITULO SEXTO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
 
 ###### ARTICULO 221.
 
@@ -2671,7 +2693,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
 
 ###### ARTICULO 222.
 
@@ -2683,7 +2705,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPITULO I. COHECHO
+### CAPITULO II. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 224.
 
@@ -2695,7 +2717,7 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
 ###### ARTICULO 225.
 
@@ -2721,7 +2743,7 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
 
 ###### ARTICULO 230.
 
@@ -2731,7 +2753,7 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 ###### ARTICULO 231.
 
@@ -2778,6 +2800,8 @@ Se sancionará con prisión de seis meses a tres años al sujeto activo que adqu
 Se presume que no se tomaron las precauciones ni las providencias indispensables cuando por la edad o condición económica del que propone los bienes por la naturaleza o valor de éstos o por el precio en que se ofrecen, se infiera que no es propietario de los mismos.
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
+
+### CAPITULO IV. INTIMIDACION
 
 ###### ARTICULO 235.
 
@@ -3039,7 +3063,7 @@ V.- En ejercicio de sus funciones, ejerza presión sobre los electores y los ind
 
 VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y
 
-VIII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
+VII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
 
 ###### ARTICULO 265.
 
