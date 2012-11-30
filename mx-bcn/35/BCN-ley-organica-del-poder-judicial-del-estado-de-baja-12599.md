@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2012-10-19"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1933,7 +1933,9 @@ XXII.- Designar, al representante del Poder Judicial del Estado ante el Consejo 
 
 XXIII.- Apercibir, amonestar e imponer multas hasta de treinta días del importe del salario mínimo general en la zona al día de cometerse la falta a aquellas personas que falten el respeto a algún órgano o miembro del Poder Judicial del Estado en promociones que hagan ante el Consejo de la Judicatura del Estado.
 
-XXIV.- Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, como Auxiliares de la Administración de Justicia; ordenándolas por ramas y especialidades judiciales.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXIV.- Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, como Auxiliares de la Administración de Justicia, ordenándolas por ramas y especialidades judiciales. Al respecto se podrán reconocer a los Peritos que pertenezcan o certifique el Instituto de Ciencias Forenses del Estado de Baja California;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2491,99 +2493,43 @@ DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 208.
 
-El Servicio Médico Forense para la Administración de Justicia del Estado, será desempeñado por los médicos de hospitales, por los médicos municipales, por los de centros de Readaptación Social y por peritos médicos legistas.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 209.
 
-Son obligaciones de los médicos de hospital:
-
-I.- Reconocer a los lesionados y enfermos que se reciban en el establecimiento y encargarse de la curación de ellos, expidiendo sin demora cuando proceda, los certificados correspondientes.
-
-II.- Extender los certificados de clasificación de lesiones.
-
-III.- Practicar la autopsia de los cadáveres de las personas que, hallándose a disposición de las autoridades judiciales, fallezcan en el hospital y extender el Certificado respectivo, expresando con toda exactitud cual haya sido la causa de la muerte, poniendo en todo la mayor atención y escrupulosidad a fin de facilitar las averiguaciones.
-
-IV.- Rendir con toda oportunidad los informes que les pidan los Tribunales.
-
-V.- Las demás que les encomienden las leyes.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 210.
 
-Los médicos municipales estarán a las órdenes inmediatas del delegado o agente del Ministerio Público a que se les adscriba, pero deberán rendir todos los informes que les pidan los jueces del ramo penal, en lo relativo al servicio que en cada caso hayan desempeñado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 211.
 
-Son obligaciones de los médicos municipales:
-
-I.- Proceder con oportunidad al reconocimiento y curación de los heridos que se reciban en la sección médica que esté a su cargo.
-
-II.- Asistir a las diligencias de fe de cadáveres y a todas las otras que a juicio del Ministerio Público que sean (sic) necesarias o útiles sus servicios.
-
-III.- Redactar el parte médico legal, las actas de descripción de lesiones o heridas que se extiendan en las delegaciones o agencias del Ministerio Público y expedir las certificaciones médico legales conducentes a la comprobación del delito.
-
-IV.- Recoger y entregar al Ministerio Público los objetos y sustancias que puedan servir para el esclarecimiento del hecho de que se trate e indicar las precauciones con que deban ser guardados o remitidos a quien corresponda.
-
-V.- Describir exactamente en los certificados de lesiones, las alteraciones que hubieren (sic) sido necesario hacer con motivo de la curación.
-
-VI.- Hacer en el certificado de lesiones la clasificación provisional o definitiva de ellas.
-
-VII.- Las demás que le correspondan según las leyes o reglamentos.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 212.
 
-Los médicos de los centros de readaptación social deberán asistir a los presos enfermos que no ameriten hospitalización extendiendo los certificados correspondientes; proporcionarán los primeros auxilios en los casos de lesiones que ocurran en la prisión e intervendrán en cualquier diligencia judicial que ahí se practique, cuando para ello fueren requeridos por los Jueces o por el Ministerio Público.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 213.
 
-Habrá cuando menos cuatro peritos médicos legistas por cada uno de los partidos judiciales de Mexicali y Tijuana, y dos para los de Ensenada y Tecate, los cuales dependerán administrativamente del Consejo de la Judicatura del Estado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 214.
 
-El Consejo de la Judicatura del Estado tendrá las siguientes atribuciones:
-
-I.- Cuidar de que el Servicio Médico Forense se desempeñe eficaz y cumplidamente en todo el Estado.
-
-II.- Distribuir el trabajo en forma equitativa.
-
-III.- Convocar a junta, cuando lo estime pertinente, a los peritos médicos con objeto de estudiar los casos graves.
-
-IV.- Girar las instrucciones necesarias para el desempeño de los trabajos encomendados a cada uno.
-
-V.- Las demás que fijen las leyes y reglamentos respectivos.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 215.
 
-Para desempeñar el cargo de perito médico legista se requiere:
-
-I.- Ser mexicano por nacimiento, en ejercicio de los derechos civiles y políticos.
-
-II.- No tener más de sesenta y cinco años de edad, ni menos de veinticinco el día de su designación.
-
-III.- Tener título de Médico Cirujano expedido por autoridad o corporación debidamente facultado para ello y registrada ante autoridad competente.
-
-IV.- Poseer los conocimientos necesarios en la materia.
-
-V.- No haber sido sentenciado por delito intencional.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 216.
 
-Los peritos médicos legistas serán nombrados por el Consejo de la Judicatura del Estado y durarán en su cargo tres años pudiendo ser ratificados por períodos iguales.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ###### ARTICULO 217.
 
-Son obligaciones de los médicos legistas:
-
-I.- Reconocer a los heridos expidiendo sin demora cuando proceda los certificados correspondientes.
-
-II.- Extender los certificados de clasificación definitiva de lesiones que les soliciten las autoridades.
-
-III.- Practicar la autopsia de personas que se hallen a disposición de las autoridades judiciales cuando el fallecimiento ocurra en lugar distinto al hospital, extendiendo el certificado respectivo, en el que expresarán con toda exactitud la causa de la muerte.
-
-IV.- Rendir los informes que les soliciten los tribunales, con la debida oportunidad, asistiendo a las juntas y diligencias a que fueran citados por los mismos y extender los dictámenes respectivos.
-
-V.- Calzar con su firma y nombre completo, los certificados y constancias que expidan.
-
-VI.- Las demás que les encomienden las leyes.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
 ### CAPITULO I. DE SU NATURALEZA
 
@@ -3958,3 +3904,7 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tal fin por el Congreso del Estado, en el presupuesto de egresos asignado al Poder Judicial para el ejercicio fiscal 2013.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
