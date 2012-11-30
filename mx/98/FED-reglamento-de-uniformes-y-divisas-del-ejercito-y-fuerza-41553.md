@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-y-divisas-del-ejercito-y-fuerza-41553"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-19"
-last_updated: "2004-11-19"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2004-11-10"
 ---
 # REGLAMENTO DE UNIFORMES Y DIVISAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-REGLAMENTO DE UNIFORMES Y DIVISAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
+REGLAMENTO DE UNIFORMES Y DIVISAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 > <small>N. DE E. PARA CONSULTAR LAS IMAGENES, VEASE D.O.F. DEL 19 DE NOVIEMBRE DE 2004.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado de la Segunda a la Cuarta Sección del Diario Oficial de la Federación, el viernes 19 de noviembre de 2004.
 
@@ -3128,3 +3130,17 @@ SEGUNDO.- Se abroga el Reglamento de Uniformes y Divisas del Ejército y Fuerza 
 TERCERO.- La Secretaría de la Defensa Nacional expedirá las disposiciones administrativas que se hagan necesarias para el cumplimiento de este Reglamento y ordenará las divisas apropiadas al establecerse nuevas armas, servicios y especialidades.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de noviembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto autorizado a la Secretaría de la Defensa Nacional sin requerir recursos adicionales para tales efectos, por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+
+TERCERO.- Se abroga el Reglamento de Uniformes y Divisas del Ejército y Fuerza Aérea Mexicanos, publicado en el Diario Oficial de la Federación el 19 de noviembre del 2004.
+
+CUARTO.- La Secretaría de la Defensa Nacional, emitirá el Manual gráfico para el uso de uniformes, divisas y equipo, del Ejército y Fuerza Aérea Mexicanos, en un plazo no mayor a ciento ochenta días de la entrada en vigor del presente Reglamento.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
