@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2007-12-28"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
+CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -105,7 +107,7 @@ Para ser electo se requiere no estar en ninguno de los supuestos anteriores.
 
 Los ciudadanos podrán libremente organizarse en partidos políticos, adherirse o separarse de ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 7.
 
@@ -189,7 +191,7 @@ Los ciudadanos designados para desempeñar una función electoral, podrán ser e
 
 ### Capítulo Tercero. De los Requisitos de Elegibilidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 13.
 
@@ -249,7 +251,7 @@ La elección para renovarlos se realizará en la fecha dispuesta por la Constitu
 
 Las elecciones ordinarias y extraordinarias se realizarán conforme a lo dispuesto en esta legislación y demás leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 18.
 
@@ -291,7 +293,7 @@ Los ciudadanos que resulten electos entrarán a ejercer su cargo a más tardar c
 
 Cuando se declare empate entre los partidos políticos que hayan obtenido la más alta votación y una vez resueltos los medios de impugnación correspondientes, se convocará a elecciones extraordinarias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 # Libro Segundo. De los Partidos Políticos y las Agrupaciones Políticas
 
@@ -383,7 +385,7 @@ Son requisitos para constituir un partido político estatal, los siguientes:
 
 I. Contar con un mínimo de doscientos afiliados en cada uno de por lo menos la mitad de los municipios del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 II. Haber celebrado en cada uno de los municipios referidos, una asamblea sancionada por un Notario Público o funcionario designado para tal efecto por el Presidente del Consejo General; quien certificará que en el evento:
 
@@ -563,11 +565,11 @@ Los partidos políticos pueden solicitar ante el Consejo General, aportando elem
 
 Los dirigentes y los representantes de los partidos políticos son responsables civil y penalmente, por los actos que realicen en el ejercicio de sus funciones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ## Título Tercero Bis. De los Procesos de Selección de Candidatos
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Único
 
@@ -711,7 +713,7 @@ IV. (DEROGADA, P.O. 8 DE FEBRERO DE 2001)
 
 El Consejo General gestionará ante las autoridades competentes, la posibilidad del otorgamiento de las franquicias postal y telegráfica para los partidos políticos estatales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Segundo. Acceso a los Medios de Comunicación
 
@@ -721,7 +723,7 @@ El Consejo General gestionará ante las autoridades competentes, la posibilidad 
 
 Los partidos políticos, al ejercer sus prerrogativas en la radio y la televisión, deberán en todo tiempo difundir la ideología del partido así como el programa de acción y plataforma electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 40.
 
@@ -843,7 +845,7 @@ II. En el año de la elección se les otorgará una cantidad igual, para gastos 
 
 III. El Consejo General calculará, adicionalmente a lo establecido en las fracciones I y II del párrafo 1 de este artículo, el financiamiento a distribuir entre los partidos políticos que se encuentren en los supuestos de este párrafo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 4. Los partidos políticos nacionales, que habiendo participado en el proceso local ordinario inmediato anterior, no alcancen por lo menos el dos por ciento de la votación estatal emitida de diputados de mayoría relativa, tendrán derecho a que se les asigne financiamiento en el año de la elección, hasta que postulen candidatos a diputados en por lo menos cincuenta por ciento de los distritos. Se les otorgará financiamiento para la obtención del voto una cantidad equivalente al dos por ciento respecto del total del financiamiento determinado para los partidos políticos por concepto de actividades ordinarias.
 
@@ -989,9 +991,9 @@ El día de la jornada electoral y durante los tres días previos no se permitir�
 
 En los lugares señalados para la ubicación de mesas directivas de casilla y hasta cincuenta metros a la redonda, no habrá ninguna propaganda electoral, y si la hubiere deberá ser retirada al momento de instalar la casilla. Los partidos serán corresponsables de que esta disposición se cumpla.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Quinto Bis. De la Fiscalización del Gasto de los Partidos Políticos
 
@@ -1009,15 +1011,15 @@ b) Serán reportados los ingresos totales y los gastos ordinarios que los partid
 
 II. Informes de campaña:
 
-> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 a) Deberán presentarse por los partidos políticos o coaliciones por cada una de las campañas en las elecciones respectivas, especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente;
 
-> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 b) Tratándose de candidaturas comunes entre dos o más partidos políticos, se establecerá desde el registro de la candidatura, cuál de ellos presentará el informe integrado de los gastos realizados por el candidato;
 
-> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 c) Serán presentados a más tardar dentro de los noventa días siguientes contados a partir del día en que concluya la etapa posterior a la elección; y,
 
@@ -1093,11 +1095,11 @@ VI. Proporcionar a los partidos políticos la orientación y asesoría necesaria
 
 VII. Las demás que le confiera el Consejo General y este Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ## Título Quinto. De las Coaliciones, Candidaturas Comunes, Fusiones y Frentes
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Primero. De las Coaliciones y Candidaturas Comunes
 
@@ -1329,11 +1331,11 @@ VII. No participar en un proceso electoral local ordinario.
 
 La resolución del Consejo General determinará la forma y términos en que surta efectos la pérdida del registro de un partido político, la cual deberá emitirse una vez que concluya el proceso electoral ordinario. La pérdida de registro de un partido no anula los triunfos de mayoría que sus candidatos hayan obtenido en las elecciones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ## Titulo Sexto Bis. De las Agrupaciones Políticas
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Único. De las Agrupaciones
 
@@ -1685,7 +1687,7 @@ Bis.- (DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 96.
 
@@ -1723,7 +1725,7 @@ La etapa posterior a la jornada, se inicia con la remisión de la documentación
 
 El Estado, los ciudadanos y los partidos políticos son corresponsables de la preparación, desarrollo y vigilancia del proceso electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 101.
 
@@ -1813,7 +1815,7 @@ Si realizadas por lo menos dos rondas de votación no se alcanzara la mayoría r
 
 II. Dos comisionados del Poder Legislativo; uno propuesto por la fracción mayoritaria y otro por la primera minoría integrante del Congreso, que deberán registrarse a más tardar cinco días antes de la instalación del Consejo General;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 III. Cuatro consejeros electorales designados por el Congreso, conforme al procedimiento siguiente:
 
@@ -1849,7 +1851,7 @@ V. El Secretario General del Instituto y los vocales de la Junta Estatal Ejecuti
 
 Tendrán derecho a voto únicamente el Presidente y los consejeros electorales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 112.
 
@@ -2035,7 +2037,7 @@ XXXVIII. Al inicio del proceso electoral el Consejo General a propuesta del Pres
 
 XXXIX. Todas las demás que le confiere este Código y otras disposiciones legales.
 
-> <small>(REFORMADO [N, DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N, DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 114.
 
@@ -2311,7 +2313,7 @@ IX. Las demás que le confiera este Código, el Consejo General, el Presidente y
 
 Cuando los trabajos relativos al Registro de Electores en el Estado sean desarrollados por el Instituto Federal Electoral, éstas atribuciones recaerán en la Vocalía del Registro Federal de Electores de la Junta Local Ejecutiva de este organismo en la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 124.
 
@@ -2339,7 +2341,7 @@ VII. Las demás que le confiera este Código, el Consejo General, el Presidente 
 
 ### Capítulo Quinto. De los Órganos Desconcentrados del Instituto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 125.
 
@@ -2463,7 +2465,7 @@ XVII. Solicitar, por conducto de su Presidente, el apoyo de la fuerza pública p
 
 XVIII. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 129.
 
@@ -2571,7 +2573,7 @@ XIX. Solicitar por conducto de su Presidente, el apoyo de la fuerza pública par
 
 XX. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 132.
 
@@ -2611,7 +2613,7 @@ Los ciudadanos que hubieran fungido como capacitadores electorales, podrán actu
 
 La mesa directiva de casilla es el órgano que tiene a su cargo la recepción, escrutinio y cómputo de los votos en la casilla correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 136.
 
@@ -2707,7 +2709,7 @@ V. Inutilizar las boletas sobrantes, de conformidad con lo dispuesto por este C�
 
 VI. Las demás que le confiera este Código y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 140.
 
@@ -2901,7 +2903,7 @@ Los representantes de partido ante mesas directivas de casilla y generales, no s
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 153.
 
@@ -2917,7 +2919,7 @@ b) Su distintivo, con el color o combinación de colores que lo identifiquen;
 
 c) En su caso, la mención de que solicita el registro en común con otros partidos políticos y la denominación de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 II. De los candidatos:
 
@@ -3183,7 +3185,7 @@ Mientras se reciba la votación en la casilla, permanecerán en ella únicamente
 
 Los observadores electorales, podrán permanecer libremente en las casillas para realizar las actividades que les corresponden durante la jornada electoral, sin intervenir en el desarrollo de la misma ni interferir las atribuciones de los funcionarios de la mesa directiva de casilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 169.
 
@@ -3243,7 +3245,7 @@ II. Si el elector pertenece a las fuerzas armadas o a la policía, debe presenta
 
 No se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de proselitismo político el día de la elección, ni en los tres que le precedan.
 
-> <small>(ADICIONADO SEGUNDO PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(ADICIONADO SEGUNDO PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 Toda empresa que pretenda difundir encuestas o sondeos de opinión de preferencia electoral, deberá publicar la metodología y resultados, informando de las mismas al Consejo General del Instituto Electoral de Michoacán.
 
@@ -3401,7 +3403,7 @@ En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron i
 
 ## Título Cuarto. Del Envío y Recepción de los Paquetes Electorales
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CAPITULO UNICO], P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Primero. Del Envío y Recepción de los Paquetes Electorales
 
@@ -3427,7 +3429,7 @@ Se integrará un expediente que estará conformado por un ejemplar de las actas 
 
 Se guardará en un sobre por separado un ejemplar legible de las actas de escrutinio y cómputo levantada en la casilla, que irá adherido al paquete de la casilla, dirigido al presidente del consejo electoral correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Segundo. De la información preliminar de los resultados
 
@@ -3671,7 +3673,7 @@ b) Fijar en el exterior del local del Consejo General el resultado del cómputo 
 
 c) Remitir al Tribunal Electoral el expediente del cómputo estatal de la elección de Gobernador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2007)</small>
 
 Artículo 199 A.- El Consejo General hará el cómputo de la circunscripción plurinominal el domingo siguiente a la elección.
 
@@ -3887,7 +3889,7 @@ XVII. Las demás que le señale este Código, el Pleno y otras disposiciones leg
 
 (DEROGADO, P.O. 11 DE FEBRERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 211.
 
@@ -3971,15 +3973,15 @@ El Pleno del Tribunal calificará y resolverá de inmediato la excusa.
 
 Una vez concluido el proceso electoral o resueltos en definitiva todos los medios de impugnación presentados, según sea el caso, los magistrados entrarán en receso, salvo el Presidente quien resolverá los medios de impugnación que se presenten y convocará al Pleno en los casos en que sea necesario.
 
-> <small>(REFORMADO SU DOMINACION, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(REFORMADO SU DOMINACIÓN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 # Libro Octavo. De las Faltas y Sanciones Administrativas
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN], P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN], P.O. 11 DE FEBRERO DE 2007)</small>
 
 ## Título Primero. Del Personal del Tribunal
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, ANTES CAPITULO PRIMERO], P.O. 11 DE FEBRERO DEL 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, ANTES CAPÍTULO PRIMERO], P.O. 11 DE FEBRERO DEL 2007)</small>
 
 ### Capítulo Único
 
@@ -4043,7 +4045,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 ### Capítulo Segundo. De la Competencia
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Tercero. Requisitos de Procedibilidad
 
@@ -4051,7 +4053,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Cuarto. De las Partes
 
@@ -4059,7 +4061,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Quinto. De la Legitimación y Personería
 
@@ -4071,7 +4073,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Sexto. De los Términos
 
@@ -4083,7 +4085,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Séptimo. De las Pruebas
 
@@ -4103,7 +4105,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Octavo. Reglas del procedimiento
 
@@ -4167,7 +4169,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Noveno. De la Acumulación
 
@@ -4175,7 +4177,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo. De la Improcedencia y del Sobreseimiento
 
@@ -4191,7 +4193,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo Primero. De las resoluciones
 
@@ -4223,7 +4225,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo Segundo. De las Notificaciones
 
@@ -4259,11 +4261,11 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ## Título Segundo. De las nulidades
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Primero. De los casos de nulidad
 
@@ -4287,7 +4289,7 @@ A falta de disposición expresa en este Capítulo será aplicable supletoriament
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Segundo. De los Efectos de la Declaración de Nulidad
 
@@ -4323,7 +4325,7 @@ I. A los integrantes del Consejo General, en los casos en que la gravedad de la 
 
 II. A los integrantes de los órganos desconcentrados con multa de cincuenta a doscientas veces el salario mínimo, y en los casos en que la gravedad de la falta lo amerite o se trate de casos de reincidencia, con la privación inmediata del cargo y, en su caso, la inhabilitación para volver a ser designado para el mismo hasta por dos procesos electorales ordinarios sucesivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 276.
 
@@ -4345,7 +4347,7 @@ Conocida la infracción, la Presidencia integrará un expediente que remitirá a
 
 La Secretaría de Gobierno deberá comunicar a la Presidencia del Consejo las medidas que haya adoptado en un plazo no mayor de treinta días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 278.
 
@@ -4445,15 +4447,15 @@ La confesional y la testimonial podrán ser ofrecidas y admitidas cuando versen 
 
 Las pruebas deberán presentarse junto con el escrito en que se comparezca al procedimiento. Ninguna prueba se admitirá con posterioridad, salvo que sea superveniente.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 # Libro Noveno. Del Voto de los Michoacanos en el Extranjero
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ## Título Único. Del Voto en el Extranjero
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Primero. De los Michoacanos en el extranjero
 
@@ -4523,7 +4525,7 @@ III. Un instructivo para votar, donde se indique el carácter secreto, personal 
 
 IV. Dos sobres; uno de resguardo en que el ciudadano introducirá la boleta sufragada y otro de envío en el que remitirá el sobre anterior, por correo postal. Este último tendrá impreso un código de barras con la clave del elector remitente, así como el domicilio del Instituto que determine la Junta Estatal Ejecutiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Segundo. Del Registro y de la Lista de Votantes Michoacanos en el Extranjero
 
@@ -4573,7 +4575,7 @@ Los partidos políticos tendrán derecho a designar un representante por cada me
 
 En caso de ausencia de los funcionarios de las mesas directivas de casilla, el Consejo General, a propuesta de la Junta Estatal Ejecutiva, determinará el procedimiento para la designación del personal del Instituto que los supla y adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Tercero. Del Voto Postal
 
@@ -4645,7 +4647,7 @@ Las actas de escrutinio y cómputo de cada mesa serán conjuntadas y sumados sus
 
 El Consejo General, el miércoles siguiente al día de la elección, realizará la suma de los resultados consignados en las actas de escrutinio y cómputo de las mesas, para obtener el cómputo de la votación estatal recibida del extranjero, lo cual se hará constar en acta que será firmada por sus integrantes y por los representantes de los partidos políticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2007)</small>
 
 ### Capítulo Cuarto. Disposiciones generales
 
@@ -4711,7 +4713,7 @@ En cumplimiento a lo dispuesto por la Fracción I del Artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- LIC. J. JESUS REYNA GARCIA.- (FIRMADOS).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MAYO DE 1999.
 
@@ -4842,3 +4844,21 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+30 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y procedimientos que a la entrada en vigor del presente Decreto, esté desarrollando o substanciando la Comisión de Administración, Prerrogativas y Fiscalización del Instituto Electoral de Michoacán, continuarán substanciándose hasta la conclusión de los mismos con la normatividad que estaba vigente al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Para el caso del nombramiento de los titulares de la Unidad de Fiscalización y la Contraloría, ambos del Instituto Electoral de Michoacán, el Consejo General deberá nombrarlos dentro de los noventa días contados a partir del 01 de enero del año 2013.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Código Electoral del Estado de Michoacán publicado en la Sección Quinta en el Periódico Oficial, el jueves 4 de mayo de 1995, bajo el Decreto Número 164 y se derogan todas las disposiciones que se opongan al presente Decreto.
