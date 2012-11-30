@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-11-23"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2091,25 +2091,17 @@ El delito de robo equiparado se perseguirá por querella de parte ofendida.
 
 Consumación del robo.- Para la aplicación de la sanción se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 201.
 
 Punibilidad.- A quien cometa el delito de robo se le impondrán las penas siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+I.- De seis meses a tres años de prisión y hasta cien días multa, cuando el valor de lo robado no exceda de ochenta veces el salario.
 
-I.- De seis meses a tres años de prisión y hasta cien días multa, cuando el valor de lo robado no exceda de ciento cincuenta veces el salario.
+II.- De tres a seis años de prisión y de cien a doscientos días multa, cuando el valor de lo robado exceda de ochenta veces pero no de doscientos cincuenta veces el salario.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
-
-II.- De tres a seis años de prisión y de cien a doscientos días multa, cuando el valor de lo robado exceda de ciento cincuenta veces pero no de quinientas veces el salario.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
-
-III.- De seis a catorce años de prisión y de doscientos hasta quinientos días multa, cuando el valor de lo robado exceda de quinientas veces el salario.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+III.- De seis a catorce años de prisión y de doscientos hasta quinientos días multa, cuando el valor de lo robado exceda de doscientos cincuenta veces el salario.
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
@@ -2592,6 +2584,26 @@ Para efectos de este delito la violencia física o moral se ejerce cuando el suj
 Cuando exista reincidencia por parte del activo, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, a quien tenga el ejercicio de ésta, por resolución judicial.
 
 Este delito se perseguirá por querella de la víctima, salvo que la víctima sea persona menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, en cuyo caso la denuncia correspondiente también podrá ser presentada por el ofendido o cualquiera de las instituciones públicas encargadas de atender asuntos en materia de protección y defensa de personas menores de dieciocho años de edad o la familia.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Artículo 242 TER.- Violencia familiar equiparada.- Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
+
+Se entenderá por relación de hecho, la que exista entre quienes:
+
+I.- Haga la vida en común, en forma constante y permanente, por un período mínimo de seis meses;
+
+II.- Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+
+III.- Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
+
+IV.- Se incorporen a un núcleo familiar aunque no tengan parentesco con ninguno de sus integrantes;
+
+V.- Tengan relación con los hijos de su pareja, siempre que no los hayan procreado en común, y
+
+VI.- Tengan relación con la pareja de alguno de sus progenitores.
+
+Este delito se perseguirá por querella.
 
 ###### Artículo 232.
 
@@ -4912,3 +4924,17 @@ P.O. 23 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos del Estado, en términos de las facultades que les concede el artículo 115, de la Constitución Política de los Estados Unidos Mexicanos, deberán adecuar su respectiva reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente decreto, en todo lo necesario para alcanzar el objetivo de la presente reforma.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 335, POR EL QUE SE APRUEBA LA ADICIÓN DEL ARTÍCULO 242 TER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO: Las presentes Reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 336, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 201 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se procesarán bajo las disposiciones contenidas por el Artículo 201 únicamente aquellos delitos que se comentan a partir de la entrada en vigencia del referido numeral.
