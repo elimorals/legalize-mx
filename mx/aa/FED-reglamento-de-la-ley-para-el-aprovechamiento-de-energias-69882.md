@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-para-el-aprovechamiento-de-energias-69882"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-02"
-last_updated: "2009-09-02"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69882&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-08-31"
 ---
 # REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
 
-REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
+REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de septiembre de 2009.
 
@@ -103,6 +103,12 @@ En los convenios o acuerdos de coordinación que celebre la Secretaría con las 
 
 La Secretaría podrá celebrar convenios de concertación para promover la participación de las personas y del sector social involucrados en la formulación y aplicación de medidas para la transición energética, y para el establecimiento y actualización del Inventario.
 
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 6 Bis.
+
+La participación de las dependencias y entidades de la Administración Pública Federal, como intermediarias en la obtención de recursos de mecanismos internacionales que promuevan la reducción de emisiones de gases de efecto invernadero en el mercado internacional, destinados a los proyectos de Generación Renovable y Cogeneración Eficiente, se formalizará a través de los convenios que resulten necesarios; sin perjuicio de los mecanismos regulados en otros ordenamientos jurídicos.
+
 #### Sección II. Del Consejo
 
 ###### Artículo 7.
@@ -111,7 +117,9 @@ El Consejo se integra con los miembros siguientes:
 
 I. Un presidente, que será el servidor público que designe el titular de la Secretaría;
 
-II. Un representante por cada una de las Secretarías de Medio Ambiente y Recursos Naturales; Economía; Hacienda y Crédito Público, y Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+II. Un representante por cada una de las Secretarías de Medio Ambiente y Recursos Naturales; Salud; Economía; Hacienda y Crédito Público, y Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 III. Un representante de la Comisión;
 
@@ -187,9 +195,13 @@ VII. Los demás aspectos que determine la Secretaría.
 
 La Secretaría elaborará la metodología para la valoración de Externalidades asociadas con la generación de electricidad y la revisará cada tres años.
 
-Las Externalidades de las tecnologías de Generación Renovable se evaluarán comparativamente con aquellas basadas en combustibles fósiles que estén siendo consideradas por la Secretaría para la instalación de nuevas centrales de generación.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-La metodología propuesta por la Secretaría será remitida a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Medio Ambiente y Recursos Naturales y a la Secretaría de Salud, para que en el ámbito de sus competencias emitan la opinión que resulte aplicable dentro de los tres meses siguientes.
+Las Externalidades de las tecnologías de generación se considerarán en la planeación de nuevas centrales de generación, el despacho eléctrico y las contraprestaciones a que refiere el artículo 14 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+La metodología propuesta por la Secretaría será remitida a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Medio Ambiente y Recursos Naturales y a la Secretaría de Salud, para que en el ámbito de sus competencias emitan la opinión que resulte aplicable dentro de los veinte días hábiles siguientes, contados a partir de su recepción. Dichas dependencias podrán solicitar a la Secretaría, por única ocasión, una prórroga de hasta veinte días hábiles. Transcurridos los veinte días hábiles o, en su caso, la prórroga señalada en este artículo, sin que se haya entregado la opinión requerida, se entenderá que no existen comentarios al respecto.
 
 La Secretaría, previa opinión y análisis con las dependencias antes indicadas, emitirá la metodología correspondiente.
 
@@ -209,7 +221,9 @@ La prospectiva de energías renovables a la que se refiere el artículo anterior
 
 La Secretaría incluirá en el Programa lo previsto en el artículo 11 de la Ley, especificando lo siguiente:
 
-I. Metas para la Generación Renovable, para las distintas tecnologías;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+I. Metas de participación de energías renovables en la generación de electricidad;
 
 II. Metas para proyectos de Cogeneración Eficiente como parte de la expansión de la capacidad de generación del Sistema Eléctrico Nacional;
 
@@ -219,23 +233,41 @@ IV. Las estrategias y acciones que se llevarán a cabo para promover las diferen
 
 V. Metas de electrificación rural con Energías renovables;
 
-VI. Objetivos, metas y líneas de acción a cargo de las dependencias de la Administración Pública Federal competentes en materia de desarrollo rural y social, de acuerdo a lo señalado en el Capítulo II del Título Tercero del presente ordenamiento, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-VII. Acciones para el apoyo a la investigación y el desarrollo tecnológico nacionales, según lo establecido en el Capítulo III del Título Tercero de este reglamento.
+VI. Objetivos, metas y líneas de acción a cargo de las dependencias de la Administración Pública Federal competentes en materia de desarrollo rural y social, de acuerdo a lo señalado en el Capítulo II del Título Tercero del presente ordenamiento;
 
-Cuando exista justificación para ello, las metas a las que se refieren las fracciones I y II del presente artículo podrán establecerse de manera diferenciada para las distintas regiones del país.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+VII. Acciones para el apoyo a la investigación y el desarrollo tecnológico nacionales, según lo establecido en el Capítulo III del Título Tercero de este reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Acciones sobre bases de viabilidad económica y potencial técnico existente que permitan el aumento gradual en la participación de energías renovables en la capacidad instalada y suministro eléctrico.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+Las metas se deberán actualizar cada seis meses y publicarse en la página electrónica de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+Cuando la Secretaría determine que no existen variaciones sobre bases de viabilidad económica y potencial técnico existente que permitan la actualización de las metas a que hace referencia el artículo 11 de la Ley, se mantendrán las que en ese momento se encuentren vigentes, lo cual se hará del conocimiento del público en general mediante publicación en la página electrónica de la misma.
 
 ###### Artículo 20.
 
 La Secretaría, en la ejecución y evaluación del Programa, tomará en cuenta las opiniones del Consejo, así como los comentarios y propuestas procedentes que resulten de los mecanismos de consulta que determine.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-La Secretaría solicitará a las dependencias y entidades de la Administración Pública Federal la información que, en su caso, se requiera para la evaluación del Programa.
+La Secretaría solicitará a las dependencias y entidades de la Administración Pública Federal para que, en un plazo de veinte días hábiles, le entreguen la información que, en su caso, se requiera para la evaluación del Programa.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
-El programa anual del Suministrador deberá ser congruente con lo referido en las fracciones I, II, III y IV del artículo 19 del presente reglamento.
+El programa anual del Suministrador deberá ser congruente con lo referido en la fracción III del artículo 11 de la Ley, así como en los artículos 16 y las fracciones I, II, III y IV del artículo 19 del presente reglamento.
 
 ###### Artículo 23.
 
@@ -357,7 +389,9 @@ De las licitaciones para proyectos de Generación Renovable y de Cogeneración E
 
 El Suministrador llevará a cabo licitaciones separadas para proyectos de Generación Renovable y para proyectos de Cogeneración Eficiente, de acuerdo con las metas que establezca el Programa, referidas en las fracciones I y II del artículo 19 de este reglamento.
 
-Las convocatorias y bases de licitación que se emitan para la Generación Renovable responderán a las metas establecidas en el Programa y deberán ajustarse a los principios siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+Las convocatorias y bases de licitación que se emitan, responderán a las metas establecidas en el Programa, se apegarán a lo dispuesto por la Sección Duodécima del Capítulo IX del Reglamento de la Ley del Servicio Público de Energía Eléctrica en lo aplicable a las licitaciones y deberán ajustarse a los principios siguientes:
 
 I. Las convocatorias podrán ser nacionales o regionales;
 
@@ -369,23 +403,41 @@ IV. Las bases de la licitación procurarán la máxima flexibilidad posible a lo
 
 V. Se incluirán mecanismos para fomentar tanto a aquellos proyectos de generación que aporten capacidad en firme al sistema como a aquellos que puedan estar disponibles en la (sic) horas de mayor demanda de la Red Eléctrica.
 
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Comisión expedirá lineamientos que contengan la metodología que deberán observar los participantes a las licitaciones que presenten propuestas de planteamientos técnicos, a que se refiere la fracción IV del párrafo anterior, y los criterios para la evaluación de tales planteamientos. Dichos lineamientos considerarán las particularidades relativas a los proyectos de pequeña producción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-La Comisión elaborará las metodologías para la determinación de contraprestaciones máximas que pagarán los suministradores a los generadores que utilicen Energías renovables, con base en los costos eficientes estimados para el desarrollo de los proyectos más una utilidad razonable.
+La Comisión elaborará las metodologías para la determinación de contraprestaciones mínimas y máximas que pagarán los suministradores a los generadores que utilicen Energías renovables, con base en los costos eficientes estimados para el desarrollo de los proyectos más una utilidad razonable.
 
-La determinación de las contraprestaciones máximas podrá sujetarse a cualquiera de los siguientes esquemas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+La determinación de las contraprestaciones mínimas y máximas podrá sujetarse a cualquiera de los siguientes esquemas:
 
 I. Contraprestaciones por capacidad y energía que reflejen, respectivamente, los costos fijos, incluyendo el rendimiento sobre la inversión, y los variables en que incurra el permisionario, y
 
 II. Una contraprestación por unidad de energía que incorpore las retribuciones por concepto de capacidad y de energía.
 
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 37 Bis.
+
+La Comisión entregará a las secretarías señaladas en el artículo 14 de la Ley los proyectos de las metodologías referidas en el artículo anterior, a efecto de que éstas emitan su opinión, en el ámbito de sus respectivas competencias.
+
+Las secretarías entregarán a la Comisión sus opiniones en un plazo de veinte días hábiles, contados a partir de la recepción de los proyectos. Dichas dependencias, antes de concluir el plazo indicado, podrán solicitar a la Comisión una prórroga de hasta veinte días hábiles más. Si transcurrido el plazo señalado y, en su caso, la prorroga, sin que se haya entregado la opinión requerida, se entenderá que la dependencia no tiene observación alguna al proyecto.
+
 ###### Artículo 38.
 
 Las contraprestaciones establecidas se mantendrán durante la vigencia del convenio respectivo, y serán ajustables conforme a lo señalado en la metodología expedida por la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 39.
 
-El convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo, tomando en cuenta lo siguiente:
+El convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo, considerando que la remuneración que recibirá el generador estará sujeta a las contraprestaciones mínimas y máximas conforme a la metodología que expida la Comisión, y tomando en cuenta lo siguiente:
 
 I. En caso de que las bases de licitación establezcan las contraprestaciones referidas en la fracción I del artículo 37 del presente reglamento, las propuestas se compararán con base en el costo económico total de largo plazo, y
 
@@ -399,21 +451,25 @@ La Comisión otorgará los permisos correspondientes para proyectos de pequeña 
 
 De los proyectos de Generación Renovable y de Cogeneración Eficiente fuera de convocatoria.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 41.
 
-La Comisión publicará en el Diario Oficial de la Federación las directrices a que se sujetarán los modelos de contrato y las reglas de procedencia que regirán la adquisición por parte del Suministrador de energía eléctrica producida por los generadores renovables y por los cogeneradores eficientes fuera de convocatoria.
+La Comisión publicará en el Diario Oficial de la Federación las directrices a que se sujetarán los modelos de contrato y las reglas que regirán la adquisición por parte del Suministrador de los excedentes de energía eléctrica producida por los generadores renovables y por los cogeneradores eficientes fuera de convocatoria, derivados de proyectos de autoabastecimiento o de cogeneración de electricidad.
 
 ###### Artículo 42.
 
 La entrega de energía eléctrica al Sistema Eléctrico Nacional por generadores renovables y por cogeneradores eficientes fuera de convocatoria se podrá llevar a cabo con los permisos correspondientes otorgados por la Comisión, conforme a lo establecido en la Ley del Servicio Público de Energía Eléctrica y su reglamento, en lo que resulten procedentes.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 43.
 
-Los proyectos a los que se refiere este Capítulo podrán recibir una contraprestación por capacidad y energía asociada, cuando se encuentren dentro de las metas establecidas en el Programa y mencionadas en las fracciones I y II del artículo 19 de este reglamento, de acuerdo a las disposiciones administrativas que expida la Comisión. Los proyectos que no se encuentren incluidos en el Programa, únicamente recibirán pago por la energía entregada al Suministrador, en los términos que emita la Comisión.
+Los proyectos a los que se refiere este Capítulo recibirán pago por la energía entregada al Suministrador, en los términos que establezca la metodología expedida por la Comisión.
 
 ###### Artículo 44.
 
-La Comisión determinará las contraprestaciones por energía y capacidad, para los proyectos de Generación Renovable y las metodologías para la determinación de las contraprestaciones de los proyectos de Cogeneración Eficiente materia de este Capítulo. Para tales efectos, la Comisión podrá considerar total o parcialmente los Beneficios Económicos Netos referidos en el artículo 15 del presente reglamento, según el grado de cumplimiento de las metas establecidas en las fracciones I y II del artículo 19 de este ordenamiento.
+(DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
 ###### Artículo 45.
 
@@ -430,3 +486,9 @@ TERCERO.- Dentro de los dos meses siguientes a la entrada en vigor del presente 
 CUARTO.- El Suministrador deberá proponer a la Comisión las Reglas generales de interconexión al Sistema Eléctrico Nacional, a las que se refiere la fracción IV del artículo 31 de éste reglamento, dentro de los tres meses siguientes a la entrada en vigor del presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
