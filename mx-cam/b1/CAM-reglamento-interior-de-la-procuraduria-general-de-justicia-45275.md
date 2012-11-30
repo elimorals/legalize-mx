@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-procuraduria-general-de-justicia-4527
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-21"
-last_updated: "2005-06-21"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
+REGLAMENTO INTERIOR DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 21 de junio de 2005.
 
@@ -97,9 +97,15 @@ XVIII. La Visitaduría General;
 
 XIX. La Unidad Especializada de Atención Ciudadana;
 
-XX. La Unidad de Capacitación y Profesionalización; y
+XX. La Unidad de Capacitación y Profesionalización; y (sic)
 
-XXI. La Unidad de Comunicación Social.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXI. La Unidad de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXII. Órganos administrativos desconcentrados.
 
 Tendrán la calidad de agentes del Ministerio Público para todos los efectos a que haya lugar los titulares de las unidades comprendidas en las fracciones I a XII, XVIII y XIX.
 
@@ -1141,11 +1147,91 @@ V. Ser el enlace de la Procuraduría con los representantes de los medios de com
 
 VI. Las demás que le confieran otras disposiciones legales, reglamentarias y administrativas y el Procurador.
 
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+### CAPÍTULO XXI BIS. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCIÓN PRIMERA. DEL CENTRO DE JUSTICIA PARA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 BIS.- El Centro de Justicia para las Mujeres es un organismo con autonomía técnica y de gestión, dependiente de la Procuraduría General de Justicia, que tiene por objeto coordinar la prestación de servicios integrales destinados a prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 TER.- Los objetivos del Centro de Justicia para las Mujeres son:
+
+I. Garantizar a las mujeres víctimas de violencia el acceso a una justicia integral, a través de la concentración de servicios con perspectiva de género en un lugar cómodo y seguro para las mujeres y sus hijos;
+
+II. Fomentar entre las mujeres víctimas de violencia, una cultura de la denuncia, y así reducir la impunidad en los delitos cometidos contra mujeres;
+
+III. Apoyar a las mujeres en la construcción de un nuevo proyecto de vida sin violencia que favorezca su desarrollo integral y el de su familia;
+
+IV. Coadyuvar con los organismos que ofrecen refugio temporal para brindar un ambiente seguro y confiable para las mujeres víctimas de violencia, sus hijas e hijos, a través de servicios especializados y con enfoque de respeto a los derechos de la niñez.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 QUÁTER.- Dentro de las instalaciones que ocupa el Centro de Justicia para las Mujeres prestarán sus servicios las dependencias de la administración pública del Estado, organismos descentralizados, sociedades y asociaciones civiles cuyas funciones y objetivos contribuyan a erradicar la discriminación y la violencia contra las mujeres en el Estado. Así como juzgados familiares, dependientes del Poder Judicial del Estado, con la finalidad de contribuir a facilitar el acceso a la justicia para las mujeres y los menores que de ellas dependan.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 QUINQUIES.- El Procurador General de Justicia del Estado podrá, a través de la Coordinación General del Centro de Justicia para las mujeres, celebrar convenios de colaboración con dependencias de nivel Federal y Municipal, al igual que con organismos no gubernamentales defensores de los derechos humanos, especialmente los defensores de los derechos de la mujer; con el fin de que presten sus servicios dentro de las instalaciones del Centro de Justicia o que aporten recursos económicos destinados a mejorar la prestación de los servicios.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 SEXIES.- La Dirección del Centro de Justicia para las Mujeres estará a cargo de una Coordinadora General, cargo que siempre ocupará una mujer, quien tendrá las siguientes facultades y obligaciones:
+
+I. Administrar operativa mente al Centro de. Justicia para las Mujeres en el Estado de Campeche;
+
+II. Coordinar las actividades de las Dependencias y organismos públicos y privados que formen parte del Centro de Justicia;
+
+III. Asesorar a las personas que acudan al Centro de Justicia para las Mujeres en el Estado de Campeche, sobre los servicios gubernamentales o no gubernamentales disponibles para su atención y tratamiento;
+
+IV. Convocar a las dependencias que forman parte del Centro, para el análisis interinstitucional de los casos que se considere necesario a fin de buscar alternativas de solución con una visión multidisciplinaria y darle el seguimiento correspondiente;
+
+V. Dar seguimiento a los planes y programas, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para la eliminación de la violencia en contra de las mujeres;
+
+VI. Rendir informes trimestrales al Procurador General de Justicia, respecto del estado que guarda la administración del Centro de Justicia para las Mujeres;
+
+VII. Establecer una base de datos que contenga los registros de servicios proporcionados por el Centro de Justicia para las Mujeres;
+
+VIII. Promover la participación y colaboración de organismos públicos y privados que sean afines al objeto del Centro de Justicia para las Mujeres;
+
+IX. Aplicar los recursos financieros federales y estatales asignados al Centro de Justicia para las Mujeres en el Estado de Campeche para el cumplimiento de su objeto;
+
+X. Diseñar, con el apoyo de las autoridades competentes, planes, proyectos y programas de prevención y educación dirigidos a fomentar los valores de la no violencia, el respeto, la equidad de género y la preparación para la vida familiar con derechos y obligaciones compartidas; y
+
+XI. Las demás que le otorgue este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 SEPTIES.- Para ser Coordinadora General del Centro de Justicia para las Mujeres, se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadana mexicana;
+
+II. Tener 25 años cumplidos al momento de su designación;
+
+III. Contar con estudios mínimos de Licenciatura en cualquiera de las áreas de Derecho, Psicología o Trabajo Social;
+
+IV. No ser ministra de algún culto religioso;
+
+V. No haber sido condenada por delito intencional, ni estar sujeta a proceso penal;
+
+VI. No desempeñar ningún otro cargo, empleo, puesto o comisión, a excepción de los relacionados con la docencia; y
+
+VII. Gozar de buena reputación personal y profesional.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 OCTIES.- La remuneración que perciban los servidores públicos que presten sus servicios en el Centro de Justicia estará a cargo de la dependencia u organismo al que se encuentre adscrito.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 58 NONIES.- Los recursos presupuestales del Centro de Justicia para las Mujeres estarán compuestos, además de la partida presupuestal que le sea asignada en la Ley del Presupuesto Egresos de cada ejercido fiscal, por las aportaciones que a manera de donaciones realicen instituciones y organismos públicos o privados defensores de los derechos de la mujer.
+
 ### CAPÍTULO XXII. DE LOS SERVIDORES PÚBLICOS DE CONFIANZA
-
-#### SECCIÓN PRIMERA. DE LOS IMPEDIMENTOS Y EXCUSAS
-
-### CAPÍTULO XXIII. DE LAS REGLAS DE CONDUCTA DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 59.
 
@@ -1159,7 +1245,7 @@ III. Los Comandantes, Jefes de Grupo y agentes especializados de la Policía Min
 
 IV. En general, todos aquellos servidores públicos que con motivo de sus funciones, comisión o nombramiento, tengan acceso a información, documentación o cualquier servicio brindado por la institución, que por su naturaleza requiera de reserva, discrecionalidad o confidencialidad.
 
-### CAPÍTULO XXIV. DEL RÉGIMEN DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO XXIII. DE LAS REGLAS DE CONDUCTA DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 60.
 
@@ -1191,13 +1277,9 @@ Serán causas especiales de responsabilidad las previstas en el artículo 22 de 
 
 Se considerarán infracciones graves, el incumplimiento de las obligaciones previstas en las fracciones IV, V, VI, VII, VIII, IX, X, XII, XIII, XIV, XV XVI, XVII, XVIII y XIX del artículo 31 de la Ley Orgánica de la Procuraduría General de Justicia del Estado; así como lo señalado en las fracciones I, III, V, VI, VII, VIII y IX del artículo 60 del presente Reglamento.
 
-### CAPÍTULO XXV. DE LA MEDIACIÓN Y CONCILIACIÓN
+### CAPÍTULO XXIV. DEL RÉGIMEN DE LOS SERVIDORES PÚBLICOS
 
-> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2005)</small>
-
-#### SECCIÓN SEGUNDA. DE LAS SUPLENCIAS Y LICENCIAS
-
-> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2005)</small>
+#### SECCIÓN PRIMERA. DE LOS IMPEDIMENTOS Y EXCUSAS
 
 ###### ARTÍCULO 63.
 
@@ -1234,6 +1316,10 @@ I. Perito por parte de la defensa del presunto responsable;
 II. Perito tercero en discordia, cuando en etapa de investigación ministerial la Dirección de Servicios Periciales a la que esté adscrito ya haya emitido un dictamen; y
 
 III. Perito de un particular en asuntos que no sean del orden penal o en los que el Ministerio Público no actúe como parte o intervenga por disposición de la ley.
+
+#### SECCIÓN SEGUNDA. DE LAS SUPLENCIAS Y LICENCIAS
+
+> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 67.
 
@@ -1279,6 +1365,10 @@ La concesión de licencia por tiempo indefinido, sin goce de sueldo, siempre y c
 
 Lo no previsto por el presente Reglamento, con la salvedad de lo previsto por el artículo 13 de la Ley Orgánica, será resuelto por el Procurador en la forma prevista por el artículo 14 de la misma Ley.
 
+### CAPÍTULO XXV. DE LA MEDIACIÓN Y CONCILIACIÓN
+
+> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 71.
 
 En aquellos asuntos de la competencia de la Procuraduría, cuya naturaleza no revista una trascendencia social relevante, las partes interesadas podrán acudir a la mediación y conciliación para, de común acuerdo, llegar a una solución satisfactoria para todos los involucrados.
@@ -1312,3 +1402,9 @@ Sexto.- Se derogan todas aquellas disposiciones reglamentarias y administrativas
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo, en la ciudad de Campeche, Municipio y Estado del mismo nombre, a los quince días del mes de septiembre del año dos mil cuatro.
 
 C.P. JORGE CARLOS HURTADO VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. CARLOS FELIPE ORTEGA RUBIO, SECRETARIO DE GOBIERNO.- LIC. JUAN MANUEL HERRERA CAMPOS, PROCURADOR GENERAL DE JUSTICIA.- C.P. VICTOR SANTIAGO PEREZ AGUILAR, SECRETARIO DE FINANZAS Y ADMINISTRACION.- LICDA. MARGARITA ROSA ALFARO WARING, SECRETARIA DE LA CONTRALORIA.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
