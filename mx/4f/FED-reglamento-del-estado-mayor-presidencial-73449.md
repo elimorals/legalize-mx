@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-estado-mayor-presidencial-73449"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-08"
-last_updated: "2010-03-08"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-03-01"
 
 REGLAMENTO DEL ESTADO MAYOR PRESIDENCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 8 de marzo de 2010.
 
@@ -53,7 +53,9 @@ El Estado Mayor Presidencial, conducirá sus actividades de acuerdo a las órden
 
 El Estado Mayor Presidencial tendrá las misiones generales siguientes:
 
-I. Garantizar la seguridad del Presidente de la República, de su familia, de los mandatarios y altos funcionarios extranjeros que visiten el territorio nacional, de los ex Presidentes de la República, y de otras personas que por la importancia de su cargo o encomienda, o por su situación, expresamente ordene el titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+I. Garantizar la seguridad del Presidente de la República, de su familia, de jefes de Estado y/o de Gobierno extranjeros que visiten el territorio nacional, de los ex Presidentes de la República, y de otras personas que por la importancia de su cargo o encomienda, o por su situación, expresamente ordene el titular del Ejecutivo Federal;
 
 II. Garantizar la seguridad permanente de los inmuebles donde el Presidente de la República, resida o labore habitualmente;
 
@@ -115,9 +117,17 @@ XXI. Coordinación de Promoción Social;
 
 XXII. Unidad de Asuntos Jurídicos;
 
-XXIII. Centro Hospitalario, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-XXIV. Centro de Adiestramiento y Capacitación.
+XXIII. Centro Hospitalario;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXIV. Centro de Adiestramiento y Capacitación, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXV. Unidad de Informática.
 
 ###### Artículo 6.
 
@@ -175,9 +185,21 @@ VI. Accionar al Cuerpo de Guardias Presidenciales, al Batallón de Infantería d
 
 VII. Aprobar el programa anual de auditorías internas en el Estado Mayor Presidencial;
 
-VIII. Autorizar y, en su caso, suscribir los convenios que el Estado Mayor Presidencial celebre con dependencias y entidades de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-IX. Las demás que las disposiciones legales y administrativas le confieran, así como las que le encomiende el Presidente de la República.
+VIII. Autorizar y, en su caso, suscribir los convenios que el Estado Mayor Presidencial celebre con dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX. Autorizar, de acuerdo a los análisis de riesgo correspondientes, la ampliación de los servicios para garantizar la seguridad de los ex Presidentes de la República y de su familia, en cada caso en particular;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+X. Autorizar la asignación de un servicio de seguridad para los ex jefes del Estado Mayor Presidencial, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+XI. Las demás que las disposiciones legales y administrativas le confieran, así como las que le encomiende el Presidente de la República.
 
 ###### Artículo 12.
 
@@ -325,15 +347,19 @@ III. Coordinar la participación del personal del Estado Mayor Presidencial, de 
 
 Corresponde a la Sección Sexta (Eventos de la Esposa del Presidente de la República) organizar, coordinar, conducir y supervisar el desarrollo de los programas relativos a las actividades públicas de la esposa del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
 Corresponde a la Sección Séptima (Protección de Personas):
 
-I. Planear, coordinar, supervisar y proporcionar la seguridad inmediata de mandatarios y otros altos funcionarios extranjeros que visiten el territorio nacional, de conformidad con los lineamientos correspondientes;
+I. Planear, coordinar, proporcionar y supervisar la seguridad a los Jefes de Estado y/o de Gobierno extranjeros que visiten el territorio nacional, de conformidad con los lineamientos correspondientes;
 
-II. Planear, organizar, proporcionar y controlar los servicios para garantizar la seguridad inmediata de los ex Presidentes de la República, y
+II. Planear, organizar, proporcionar y controlar los servicios para garantizar la seguridad inmediata de los ex Presidentes de la República y su familia, realizando los análisis de riesgo correspondientes con el fin de proponer la asignación de efectivos y demás medios de seguridad para cada caso en particular, y
 
-III. Planear, organizar, proporcionar y controlar los servicios para garantizar la seguridad inmediata de las personas que por la importancia de su cargo, encomienda o situación (sic), expresamente ordene el titular del Ejecutivo Federal.
+III. Planear, organizar y controlar los servicios de escolta para proporcionar seguridad dinámica a las personas que por la importancia de su cargo, encomienda o situación, expresamente ordene el titular del Ejecutivo Federal.
+
+Para cumplir las anteriores atribuciones, las actividades se desarrollarán de conformidad con los lineamientos y procedimientos correspondientes.
 
 ###### Artículo 25.
 
@@ -343,9 +369,11 @@ Corresponde a la Sección Octava (Protección Personal del Presidente de la Rep�
 
 Corresponde a la Sección Novena (Seguridad de Instalaciones) planear, coordinar, organizar, y ejecutar las medidas necesarias para garantizar, de manera permanente, la seguridad física de los inmuebles donde el Presidente de la República resida o labore habitualmente.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 27.
 
-Corresponde a la Sección de Transmisiones controlar, operar y mantener los sistemas y medios de comunicación, sonido, informática y coordinar otros apoyos en aspectos de su competencia, necesarios para el cumplimiento de las misiones generales del Estado Mayor Presidencial.
+Corresponde a la Sección de Transmisiones controlar, operar y mantener los sistemas y medios de comunicación, sonido y coordinar otros apoyos en aspectos de su competencia, necesarios para el cumplimiento de las misiones generales del Estado Mayor Presidencial.
 
 ###### Artículo 28.
 
@@ -407,17 +435,39 @@ Corresponde a la Unidad de Asuntos Jurídicos asesorar, actuar como órgano de c
 
 La representación legal del Estado Mayor Presidencial, recaerá en el titular de la Unidad de Asuntos Jurídicos, o en la persona que para tal objeto se designe.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 35.
+
+Corresponde a la Unidad de Informática:
+
+I. Planear, organizar, dirigir y controlar el desarrollo informático y la automatización del Estado Mayor Presidencial, en sus ámbitos de seguridad, logístico y administrativo, dando cumplimiento a las normas establecidas por el Gobierno Federal, en relación al gobierno digital, y
+
+II. Proponer políticas y procedimientos, para la adquisición y empleo de las tecnologías de la información en el Estado Mayor Presidencial, en los campos de infraestructura tecnológica, sistemas informáticos, redes de datos y seguridad en la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REUBICADO ANTES ARTÍCULO 35], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 36.
 
 Corresponde al Centro Hospitalario:
 
-I. Adoptar las medidas necesarias para garantizar la salud y el bienestar físico del Presidente de la República y de su familia, de los miembros del Estado Mayor Presidencial, de sus derechohabientes y de quien se ordene;
+I. Dirigir, desarrollar y operar un sistema de adiestramiento y capacitación en materia de seguridad y logística para el personal del Estado Mayor Presidencial;
 
-II. Coordinar el apoyo médico para el cumplimiento de las misiones generales del Estado Mayor Presidencial, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-III. Seleccionar desde el punto de vista médico al personal aspirante a ingresar al Estado Mayor Presidencial.
+II. Coordinar el apoyo médico para el cumplimiento de las misiones generales del Estado Mayor Presidencial;
 
-###### Artículo 36.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+III. Seleccionar desde el punto de vista médico al personal aspirante a ingresar al Estado Mayor Presidencial, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+IV. Proporcionar atención médica a los ex Presidentes y a los ex jefes y ex subjefes del Estado Mayor Presidencial, incluyendo a su cónyuge e hijos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 36], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 37.
 
 Corresponde al Centro de Adiestramiento y Capacitación:
 
@@ -436,3 +486,13 @@ SEGUNDO.- Se abroga el Reglamento del Estado Mayor Presidencial publicado en el 
 TERCERO.- Las acciones a cargo del Estado Mayor Presidencial se deberán ajustar al presupuesto que al efecto emita la H. Cámara de Diputados, para cada ejercicio fiscal.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a primero de marzo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.- El Secretario de Marina, Mariano Francisco Saynez Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los ex Presidentes de la República mantendrán el mismo número de elementos del Estado Mayor Presidencial que tuvieren asignados para su seguridad y la de su familia con antelación a la entrada en vigor del presente decreto. Lo anterior, sin perjuicio de solicitar la autorización a que se refiere la fracción IX del artículo 11 del Reglamento.
+
+TERCERO.- Las erogaciones que deriven de la aplicación del presente decreto serán realizadas mediante movimientos compensados, por lo que el Estado Mayor Presidencial debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
