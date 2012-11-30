@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2010-04-30"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -101,9 +101,7 @@ ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y a
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTICULO 12.
-
-Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca; o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de registrar la demanda cambiare el dueño y poseedor jurídico del predio, con este continuará el juicio.
+ART. 12.- Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca; o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de registrar la demanda cambiare el dueño y poseedor jurídico del predio, con este continuará el juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -561,7 +559,7 @@ ART. 72.- Los tribunales no admitirán nunca recursos notoriamente frívolos o i
 
 Los incidentes ajenos al negocio principal o notoriamente frívolos e improcedentes, deberán ser repelidos de oficio por los jueces.
 
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ART. 73.- Los Jueces, para hacer cumplir sus determinaciones y sin sujetarse a un orden preestablecido, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
@@ -967,7 +965,7 @@ III.- Tres días para la celebración de juntas, reconocimientos de firmas, exhi
 
 IV.- Tres días para todos los demás casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
 
 ART. 138.- La caducidad de la instancia operará, cualquiera que sea el estado del procedimiento, desde la presentación de la demanda hasta antes de que se cite a las partes para oír resolución, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
 
@@ -1377,11 +1375,9 @@ V.- En los demás actos que no radiquen jurisdicción, ni importen conocimiento 
 
 ### CAPITULO IV. Del tiempo en que debe proponerse la recusación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTICULO 179.
-
-En los procedimientos de apremio y en los juicios sumarios que empiezan por ejecución no se dará curso a la recusación, sino practicado el aseguramiento, hecho el embargo o desembargo en su caso.
+ART. 179.- En los procedimientos de apremio y en los juicios sumarios que empiezan por ejecución no se dará curso a la recusación, sino practicado el aseguramiento, hecho el embargo o desembargo en su caso.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1439,7 +1435,7 @@ ART. 188.- En el incidente de recusación son admisibles todos los medios de pru
 
 ART. 189.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ART. 190.- Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de diez salarios mínimos, si se tratare de un Juez de Paz; y hasta de veinte veces el salario mínimo, si fuere un Juez de lo Civil; y hasta de treinta veces el salario mínimo si fuere un Magistrado. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
@@ -1549,7 +1545,7 @@ ART. 205.- Si es instrumento público o privado reconocido y contiene cantidad i
 
 La liquidación se hace incidentalmente con un escrito de cada parte y la resolución del juez, sin ulterior recurso más que el de responsabilidad.
 
-(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ### CAPITULO III. Separación de personas como acto prejudicial
 
@@ -1927,7 +1923,7 @@ ART. 271. Queda abolida la práctica de oponer excepciones o defensas contradict
 
 ART. 272.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos, que podrán ser escritos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ART. 272 BIS.- Es deber del juez conciliar a las partes, durante cualquier etapa del procedimiento, hasta antes de citación a sentencia.
 
@@ -2141,7 +2137,7 @@ ART. 301.- Las diligencias de prueba sólo podrán practicarse dentro del térmi
 
 ART. 302.- Las pruebas documentales que se presenten fuera de término serán admitidas en cualquier estado del juicio hasta la citación para sentencia, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria, quien dentro del tercer día y sumariamente será oída, reservándose la decisión de los puntos que suscitare hasta la definitiva.
 
-(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 #### SECCION II. De la confesión y declaración de las partes
 
@@ -2477,7 +2473,9 @@ ART. 348.- El honorario de cada perito será pagado por la parte que lo nombró,
 
 ART. 348 BIS.- En las acciones de investigación de paternidad o maternidad, cuando estas se nieguen o se ponga en duda las mismas, podrá pedirse y decretarse la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, también denominada ADN que se practicará conforme a las siguientes reglas:
 
-I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado, o bien, se podrá designar a un Perito del Instituto de Ciencias Forenses del Estado de Baja California;
 
 II.- El Juez con la presencia de las partes interesadas, sus representantes legales, del Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores e (sic) Dieciocho Años de Edad y la Familia en su caso, y del perito designado, presidirá la diligencia en la cual se tomarán las muestras físicas del presunto progenitor.
 
@@ -3115,9 +3113,7 @@ IX.- Los convenios celebrados por las partes ante la Procuraduría General de Ju
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
-###### ARTICULO 437.
-
-Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos o juicios de Contadores; los convenios celebrados ante la Procuraduría General de Justicia del Estado; los convenios celebrados ante la Procuraduría de la Defensa de los Menores y la Familia, ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz en el Estado, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
+ART. 437.- Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos o juicios de Contadores; los convenios celebrados ante la Procuraduría General de Justicia del Estado; los convenios celebrados ante la Procuraduría de la Defensa de los Menores y la Familia, ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz en el Estado, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3249,7 +3245,7 @@ ART. 455.- Procede también la acción ejecutiva para recuperar, bajo las mismas
 
 ART. 456.- Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden, se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO III. DEL JUICIO ESPECIAL HIPOTECARIO
 
@@ -3327,9 +3323,7 @@ El deudor que no haya aceptado la responsabilidad de depositario en el momento d
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTICULO 462.
-
-Si en el título con base al cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez, mandará notificarles de la existencia del juicio para que manifiesten lo que a su derecho corresponda en un término de tres días. Si se presentan uno o más acreedores hipotecarios se procederá conforme a las reglas de los concursos.
+ART. 462.- Si en el título con base al cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez, mandará notificarles de la existencia del juicio para que manifiesten lo que a su derecho corresponda en un término de tres días. Si se presentan uno o más acreedores hipotecarios se procederá conforme a las reglas de los concursos.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -3375,9 +3369,13 @@ II.- Las partes y, en su caso, los acreedores diversos, tendrán derecho de exhi
 
 III.- En el caso de que alguna de las partes, o de que los acreedores diversos, dejen de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo o avalúos que se hayan exhibido;
 
-IV.- En el supuesto de que ninguna de las partes o los acreedores diversos exhiba el avalúo dentro del plazo señalado en la fracción II de este artículo, el Juez, de oficio nombrará un perito autorizado por el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-V.- Si las partes y los acreedores diversos, exhibieren los avalúos en el plazo a que se refiere la fracción II de este Artículo, y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de los avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por corredor público, Institución Bancaria, o por perito autorizado por el Consejo de la Judicatura; el cual se emitirá dentro de los cinco días siguientes a la aceptación del cargo. El juzgador deberá analizar todos los dictámenes rendidos, para determinar el valor el inmueble hipotecado;
+IV.- En el supuesto de que ninguna de las partes o los acreedores diversos exhiba el avalúo dentro del plazo señalado en la fracción II de este artículo, el Juez, de oficio nombrará un perito autorizado por el Consejo de la Judicatura o el Instituto de Ciencias Forenses del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+V.- Si las partes y los acreedores diversos, exhibieren los avalúos en el plazo a que se refiere la fracción II de este Artículo, y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de los avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por corredor público, Institución Bancaria, o por perito autorizado por el Instituto de Ciencias Forenses del Estado de Baja California; el cual se emitirá dentro de los cinco días siguientes a la aceptación del cargo. El juzgador deberá analizar todos los dictámenes rendidos, para determinar el valor del inmueble hipotecado;
 
 VI.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores, aplicando el índice nacional de precios al consumidor que se publique en el Diario Oficial de la Federación o el que en el futuro lo substituya, a menos que conforme al criterio prudente del juzgador, debido a circunstancias imprevistas y extraordinarias, requiera nuevo avalúo; y
 
@@ -3929,7 +3927,7 @@ ART. 559.- Es postura legal la que cubra las dos terceras partes del avalúo o d
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las dos tercias partes del avalúo dadas al contado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ART. 560.- Para tomar parte en la subasta deberán los licitadores consignar previamente, en la Caja Auxiliar del Tribunal Superior de Justicia en el Estado, una cantidad igual por lo menos al diez por ciento en efectivo del valor de los bienes, que sirva de base para el remate sin cuyo requisito no serán admitidos.
 
@@ -4149,7 +4147,7 @@ La apelación se substanciará sumariamente.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
+ART. 594.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4551,7 +4549,7 @@ ART. 667.- La sentencia que decrete el divorcio por mutuo consentimiento, es ape
 
 ART. 668.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Juez del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 111, 113 y 288 del Código Civil.
 
-(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 TITULO DECIMOSEGUNDO
 
@@ -4637,7 +4635,7 @@ ART. 682.- De las sentencias interlocutorias con fuerza de definitivas, que no p
 
 Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, prudencialmente, el importe de los daños y perjuicios, que no bajarán de mil pesos ni podrán exceder de cinco mil, además de lo que importen las costas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ART. 683.- Si la apelación procediera en el solo efecto devolutivo, solo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no geréricamente (sic) las constancias que deban de integrarlo, que se adicionará con las que en la misma forma y dentro de tres días señale el colitigante. En todo caso, el juez determinará las constancias estrictamente necesarias para el conocimiento de la apelación, mismas que si el recurrente omite hacer el señalamiento en la forma prescrita, se le requerirá para que lo subsane en tres días y de no hacerlo se le tendrá por no interpuesto el recurso, a no ser que el apelante manifieste que prefiere esperar el envío de los autos originales cuando estén en estado.
 
@@ -4661,7 +4659,7 @@ III.- La contragarantía que se otorgue comprenderá el pago de lo juzgado y sen
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 686.- Además de los casos determinados expresamente en la Ley, se admitirán en ambos efectos las apelaciones que se interpongan:
 
@@ -4735,7 +4733,7 @@ ART. 700.- La apelación interpuesta en los juicios sumarios, solo se admitirán
 
 ART. 701.- En las apelaciones en materia sumaria, solo será admisible la prueba documental pública superveniente.
 
-(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ### CAPITULO II. De la revisión de oficio
 
@@ -5241,9 +5239,7 @@ Luego que se presenten los herederos ausentes cesará la representación del Min
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 781.
-
-Si el tutor o cualquier representante legítimo de algún heredero que sea persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho tiene interés en la herencia, la proveerá el Juez con arreglo a derecho, de un tutor especial para el juicio o hará que le nombre, si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
+ART. 781.- Si el tutor o cualquier representante legítimo de algún heredero que sea persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho tiene interés en la herencia, la proveerá el Juez con arreglo a derecho, de un tutor especial para el juicio o hará que le nombre, si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5953,11 +5949,9 @@ ART. 893.- Siempre que el tutor nombrado no reúna los requisitos que la ley exi
 
 ART. 894.- En el Tribunal Superior de Justicia, bajo el cuidado y responsabilidad del Presidente, habrá un registro en que se inscribirá testimonio simple de todos los discernimientos que se hicieren de los cargos de tutor y curador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 895.
-
-Dentro de los ocho primeros días de cada año, en audiencia pública con citación del Ministerio Público, se procederá a examinar dicho registro y, ya en su vista, dictará las siguientes medidas.
+ART. 895.- Dentro de los ocho primeros días de cada año, en audiencia pública con citación del Ministerio Público, se procederá a examinar dicho registro y, ya en su vista, dictará las siguientes medidas.
 
 (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
@@ -5987,7 +5981,7 @@ VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que 
 
 ART. 896.- En todos los casos de impedimento, separación o excusa del curador propietario, se nombrará curador interino mientras se decide el punto. Resuelto, se nombrará, en su caso, nuevo curador conforme a derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ART. 897.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones contenidas en los artículos 505 y siguientes, con estas modificaciones: 1o.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme los dispone el artículo 587 del Código Civil; 2o.- Se requiere prevención judicial para que las rindan antes de llegar a ese término; 3o.- Las personas a quienes deban ser rendidas, son el mismo Juez, el curador, la misma persona que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejaré de serlo, y las demás personas que fija el Código Civil; 4o.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances.
 
@@ -6021,7 +6015,7 @@ La solicitud del tutor se sustanciará en forma de incidente con intervención d
 
 Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ART. 902.- Respecto de las alhajas y muebles preciosos, el Juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte a la persona menor de dieciocho años de edad; si se decreta, se procederá conforme al artículo 584.
 
@@ -6084,6 +6078,34 @@ V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, y con la intervención del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia y del Ministerio Público adscrito al Juzgado Familiar, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado o representante legal del interesado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ART. 908 BIS.- la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia contará con un término no mayor a nueve meses para la práctica de entrevistas, valoraciones psicológicas, estudios socioeconómicos, análisis, cursos escuela para padres adoptivos y demás exámenes necesarios, que permitan concluir un proceso sano y determinar la viabilidad para adoptar del ó los solicitantes, expidiendo al efecto el Certificado de Idoneidad respectivo. Todo esto regulado de acuerdo al Manual Interno de Proceso de Adopción que rige al Consejo de Adopciones, en el cual se incluye la forma en que se harán los estudios a los adoptantes y los requisitos que deben cumplir.
+
+El término antes referido podrá excederse en los casos de que alguna de las áreas que conforman a la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, recomienden al ó los solicitantes canalizaciones a procesos terapéuticos externos, cumplimiento de plan social u otras circunstancias análogas, a fin de que la Adopción que se pretende sea benéfica en el interés superior del menor. Así también, podrá excederse el citado término de nueve meses en el caso de los menores bajo Tutela de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, ya que su asignación en calidad de Hogar Sustituto en Vías de Adopción, se encuentra supeditada, hasta en tanto se reúnan las condiciones del perfil del ó los solicitantes y del menor, así como la viabilidad jurídica de éste.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ART. 908 TER.- Para los efectos previstos en el presente Capítulo, el Consejo de Adopciones para el Estado de Baja California, deberá estar integrado por:
+
+I.- UN PRESIDENTE: Que será el Presidente del Patronato del Sistema para el desarrollo integral de la familia en el Estado.
+
+II.- UN SECRETARIO TÉCNICO: Que será el Director General del Sistema para el desarrollo integral de la Familia en el Estado.
+
+III.- UN COORDINADOR: Que será el Procurador para la defensa de las Personas Menores de Dieciocho Años de Edad y la Familia.
+
+IV.- UN CONSEJERO: Que será el Coordinador de Adopciones.
+
+V.- UN CONSEJERO: Que será designado y en su caso removido por el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado.
+
+VI.- UN VOCAL: Que será un Psicólogo designado y en su caso removido por el Director General del Sistema para el desarrollo Integral de la Familia en el Estado.
+
+VlI.- CINCO VOCALES: Que serán cada uno de los Titulares de la Presidencia del Sistema para el Desarrollo Integral de la Familia a nivel municipal, de los cinco municipios en la Entidad, que participaran en forma directa o exclusivamente por conducto del Director del Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda.
+
+Su representación será honorífica y no recibirán retribución alguna por el desempeño de la misma.
+
+A las sesiones del Consejo de Adopciones deberán asistir con voz pero sin voto los Subprocuradores para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia correspondientes a los cinco Municipios que conforman al Estado.
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6221,7 +6243,7 @@ La persona menor de dieciocho años de edad que deseando contraer matrimonio nec
 
 TITULO DECIMOSEXTO
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ### CAPITULO UNICO. De las controversias del orden familiar
 
@@ -6507,9 +6529,17 @@ ART. 966.- Los Jueces de Paz tienen obligación de proveer a la eficaz e inmedia
 
 I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el Juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
 
-II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el Juez con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aún mayor tiempo, si el que obtuvo estuviere conforme en ella. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-III.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al secuestro de bienes conforme a los Artículos que siguen.
+II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el Juez, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aun mayor tiempo, si el que obtuvo estuviere conforme en ella. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+III.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al secuestro de bienes conforme a los artículos que siguen; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Tratándose de los convenios celebrados ante el Centro Estatal de Justicia Alternativa de Baja California, se ejecutarán conforme a lo previsto en la sección I del Capítulo V del Título Séptimo de este Código.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6673,7 +6703,7 @@ Francisco Santana Peralta.
 
 (Firmado).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JUNIO DE 1975.
 
@@ -6833,37 +6863,37 @@ SEGUNDO.- Los procesos que se hayan iniciado anterior a la vigencia de la presen
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 409
+DECRETO No. 409 POR EL QUE SE REFORMAN LOS ARTÍCULOS 114 FRACCIÓN VII, 117 FRACCIÓN III, 268, 674 FRACCIÓN III Y 683 PRIMER PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 114 CON UNA FRACCIÓN VIII Y 476 CON UN ÚLTIMO PÁRRAFO. TODOS ELLOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 422
+DECRETO No. 422 POR EL QUE SE REFORMAN LOS ARTÍCULOS 33 Y 272 BIS, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 423
+DECRETO No. 423 POR EL QUE SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 348 BIS Y LA REFORMA AL ARTÍCULO 908 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 426
+DECRETO No. 426 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 190 Y 263 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 427
+DECRETO No. 427 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 272 BIS, 926 Y 928 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO No. 428
+DECRETO No. 428 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 268 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -6876,3 +6906,29 @@ SEGUNDO.- En todos los artículos del presente ordenamiento en que se haga alusi
 P.O. 30 DE ABRIL DE 2010.
 
 Único.- Las presentes reformas entrarán en vigor al día siguiente de la publicación en el Periódico oficial, del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 337 POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN II Y III, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 966 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 340 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 348 BIS FRACCIÓN I Y 469 FRACCIONES IV Y V DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 343 POR EL QUE SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 908 BIS ASÍ COMO UN ARTÍCULO 908 TER, AMBOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Una vez publicadas las presentes reformas, el Congreso del Estado, deberá homologar las disposiciones relativas a las mismas, en los diversos ordenamientos del Estado, en un plazo que no exceda los treinta días hábiles.
+
+Tercero.- Se derogan todas las disposiciones que se opongan o contradigan a lo contenido en estas Reformas.
+
+Cuarto.- El Titular del Ejecutivo del Estado, deberá emitir en un plazo que no exceda los 30 días hábiles contados a partir de que entren en vigor las reformas planteadas, un Decreto por el que se modifica el Acuerdo PUBLICADO EL 22 DE ENERO DE 1999 EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, RELACIONADO CON EL CONSEJO DE ADOPCIONES, a fin de que se contemple una descripción de los tiempos de desahogo del procedimiento de adopción los cuales deberán ajustarse para que en conjunto sean acordes a los nueve meses señalados en el mencionado artículo 908 BIS del Código de Procedimientos Civiles y así también en dicho Acuerdo, quede asentada la nueva conformación del Consejo de Adopciones.
+
+Quinto.- De igual forma, el Titular del Ejecutivo Estatal, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes a las presentes reformas, dentro del plazo de treinta días hábiles a partir de su entrada en vigor.
