@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-72"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-31"
-last_updated: "2012-08-24"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-05-26"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 31 de mayo de 1993.
 
@@ -37,51 +37,75 @@ REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
 El presente ordenamiento tiene por objeto reglamentar la Ley del Servicio Público de Energía Eléctrica en lo que se refiere a la prestación de dicho servicio y a las actividades previstas en la propia Ley que no constituyen servicio público.
 
-> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 2o.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para efectos de este Reglamento, se entenderá por:
 
-I. Comisión: La Comisión Federal de Electricidad;
+I. Área de control: Área geográfica en que se ubica el sistema eléctrico coordinado por el centro de control de área respectivo de la Comisión;
 
-II. Contrato de suministro: El acuerdo de voluntades por el cual el suministrador, en una relación de coordinación, se obliga a proporcionar energía eléctrica al usuario, a cambio del pago de la tarifa correspondiente;
+II. Capacidad de respaldo: La capacidad que la Comisión se compromete a proporcionar a un permisionario para cubrir sus posibles fallas en la planta generadora de éste, así como salidas parciales o totales de la misma por otra causa;
 
-III. Distribución: La conducción de energía eléctrica desde los puntos de entrega de la transmisión hasta los puntos de suministro a los usuarios;
+III. Comisión: La Comisión Federal de Electricidad;
 
-IV. Especificaciones técnicas del suministrador: Las normas técnicas, procedimientos, características y requisitos que deben cumplir los equipos, los materiales y las instalaciones que se incorporen al sistema eléctrico nacional, elaboradas por el suministrador y aprobadas por la Secretaría;
+IV. Contrato de suministro: El acuerdo de voluntades por el cual el suministrador, en una relación de coordinación, se obliga a proporcionar energía eléctrica al usuario, a cambio del pago de la tarifa correspondiente;
 
-V. Facturación: Cálculo, en moneda nacional, del consumo de energía eléctrica que el suministrador debe incluir en el aviso-recibo que, para tal efecto, elabore con base en la información contenida en el dispositivo electrónico que presente el usuario en los lugares autorizados por el suministrador, la que se conocerá como facturación en punto de venta, o con base en la información que recabe el suministrador y que remita al usuario a su domicilio o a través de los medios que convengan;
+V. Costo total de corto plazo de la energía eléctrica: Corresponde al costo unitario de la energía eléctrica proveniente de una planta, determinado durante el período de que se trate, incluyendo el costo de los energéticos utilizados, el costo de las externalidades ambientales que se consideren para cada tecnología, de acuerdo con la metodología publicada por la Secretaría y todos los costos variables de operación y mantenimiento en los que dicha planta incurra como resultado de las actividades de generación y transmisión de la energía hasta el punto de interconexión;
 
-VI. Generación: La producción de energía eléctrica a partir de fuentes primarias de energía, utilizando los sistemas y equipos correspondientes;
+VI. Costo económico total de largo plazo de la energía eléctrica: Al costo unitario de la energía eléctrica proveniente de una planta, determinado a lo largo de la vida útil de ésta, incluyendo entre otros los costos de inversión y financieros; el costo de las externalidades ambientales que se consideren para cada tecnología, de acuerdo con la metodología publicada por la Secretaría; el riesgo de construcción; el rendimiento sobre la inversión; los costos de los energéticos utilizados; el costo de los recursos del sector público para obtenerlos y el costo de oportunidad para destinarlos a inversiones alternativas; el incremento en el riesgo derivado de posibles modificaciones del marco regulatorio del sector, y los costos y riesgos de operación y mantenimiento en los que incurra la planta e infraestructura en cuestión, como resultado de las actividades de generación y transmisión de dicha energía hasta el punto de interconexión o hasta la interconexión;
 
-VII. Ley: La Ley del Servicio Público de Energía Eléctrica;
+VII. Disponibilidad: Característica que tienen las unidades generadoras de energía eléctrica, de producir potencia a su plena capacidad en el momento preciso en que el despacho de carga se lo demande;
 
-VIII. Mantenimiento: El conjunto de actividades para conservar las obras e instalaciones en adecuado estado de funcionamiento para la prestación del servicio;
+VIII. Distribución: La conducción de energía eléctrica desde los puntos de entrega de la transmisión hasta los puntos de suministro a los usuarios;
 
-IX. Operación: El conjunto de actividades a cargo del suministrador para generar, transmitir, transformar, distribuir y vender energía eléctrica, así como las de controlar y proteger el sistema eléctrico nacional;
+IX. Emergencia: Estado del sistema eléctrico en el que se ha interrumpido el servicio o que puede poner en peligro vidas humanas, el servicio o las instalaciones, y que requiere de una acción inmediata;
 
-X. Pago de energía eléctrica: Es la entrega de la cantidad en moneda nacional que hace el usuario al suministrador, por la prestación del servicio y que corresponde a la energía eléctrica suministrada y demás conceptos que integran la tarifa en un periodo determinado;
+X. Energía eléctrica entregada: Energía eléctrica medida en el punto de interconexión que un permisionario entrega a la Comisión;
 
-XI. Prepago de energía eléctrica: Es la entrega de una cantidad, en moneda nacional, que hace el usuario al suministrador por la prestación del servicio y corresponde al equivalente a la energía eléctrica que consumirá, indicada en la facturación respectiva conforme a la tarifa vigente al momento del prepago;
+XI. Especificaciones técnicas del suministrador: Las normas técnicas, procedimientos, características y requisitos que deben cumplir los equipos, los materiales y las instalaciones que se incorporen al sistema eléctrico nacional, elaboradas por el suministrador y aprobadas por la Secretaría;
 
-XII. Secretaría: La Secretaría de Energía;
+XII. Externalidades Ambientales: Aquéllas que se manifiestan a través de impactos ambientales, positivos o negativos, generados por la producción o consumo de un bien o por la prestación de un servicio, y por los cuales no se está compensando o retribuyendo el costo total de los daños y beneficios causados por dicho bien o servicio;
 
-XIII. Servicio: El servicio público de energía eléctrica;
+XIII. Factor de disponibilidad: Es un indicador de la disponibilidad relativa de una unidad generadora en un período determinado, calculado como la diferencia entre la energía máxima que la unidad puede producir y la energía que no llegó a producirse debido a las actividades de mantenimiento, fallas, decrementos de capacidad u otras causas, dividida dicha diferencia entre la energía máxima que la unidad puede producir;
 
-XIV. Sistema eléctrico nacional: El conjunto de instalaciones destinadas a la generación, transmisión, transformación, subtransmisión, distribución y venta de energía eléctrica de servicio en toda la República Mexicana, estén o no interconectadas;
+XIV. Facturación: Cálculo, en moneda nacional, del consumo de energía eléctrica que el suministrador debe incluir en el aviso-recibo que, para tal efecto, elabore con base en la información contenida en el dispositivo electrónico que presente el usuario en los lugares autorizados por el suministrador, la que se conocerá como facturación en punto de venta, o con base en la información que recabe el suministrador y que remita al usuario a su domicilio o a través de los medios que convengan;
 
-XV. Solicitante: La persona física o moral que presenta una petición al suministrador, por los medios que este último indique;
+XV. Generación: La producción de energía eléctrica a partir de fuentes primarias de energía, utilizando los sistemas y equipos correspondientes;
 
-XVI. Suministrador: La Comisión Federal de Electricidad;
+XVI. Interconexión: Conexión eléctrica entre dos áreas de control o entre la instalación de un permisionario y un área de control;
 
-XVII. Suministro: El conjunto de actos y trabajos necesarios para proporcionar energía eléctrica;
+XVII. Ley: La Ley del Servicio Público de Energía Eléctrica;
 
-XVIII. Transformación: La modificación de las características de la tensión y de la corriente eléctrica, para adecuarlas a las necesidades de transmisión y distribución de la energía eléctrica;
+XVIII. Mantenimiento: El conjunto de actividades para conservar las obras e instalaciones en adecuado estado de funcionamiento para la prestación del servicio;
 
-XIX. Transmisión: La conducción de energía eléctrica desde las plantas de generación hasta los puntos de entrega para su distribución, y
+XIX. Operación: El conjunto de actividades a cargo del suministrador para generar, transmitir, transformar, distribuir y vender energía eléctrica, así como las de controlar y proteger el sistema eléctrico nacional;
 
-XX. Usuario: Persona física o moral a la que el suministrador le proporciona el servicio, previo contrato celebrado por las partes.
+XX. Pago de energía eléctrica: Es la entrega de la cantidad en moneda nacional que hace el usuario al suministrador, por la prestación del servicio y que corresponde a la energía eléctrica suministrada y demás conceptos que integran la tarifa en un periodo determinado;
+
+XXI. Prepago de energía eléctrica: Es la entrega de una cantidad, en moneda nacional, que hace el usuario al suministrador por la prestación del servicio y corresponde al equivalente a la energía eléctrica que consumirá, indicada en la facturación respectiva conforme a la tarifa vigente al momento del prepago;
+
+XXII. Productor externo: Titular de un permiso para realizar actividades de generación que no constituyen servicio público;
+
+XXIII. Punto de interconexión: Punto en donde se conviene la entrega de energía eléctrica de un permisionario a la Comisión, en el cual se medirá la potencia entregada;
+
+XXIV. Secretaría: La Secretaría de Energía;
+
+XXV. Servicio: El servicio público de energía eléctrica;
+
+XXVI. Sistema eléctrico nacional: El conjunto de instalaciones destinadas a la generación, transmisión, transformación, subtransmisión, distribución y venta de energía eléctrica de servicio en toda la República Mexicana, estén o no interconectadas;
+
+XXVII. Solicitante: La persona física o moral que presenta una petición al suministrador, por los medios que este último indique;
+
+XXVIII. Suministrador: La Comisión Federal de Electricidad;
+
+XXIX. Suministro: El conjunto de actos y trabajos necesarios para proporcionar energía eléctrica;
+
+XXX. Transformación: La modificación de las características de la tensión y de la corriente eléctrica, para adecuarlas a las necesidades de transmisión y distribución de la energía eléctrica;
+
+XXXI. Transmisión: La conducción de energía eléctrica desde las plantas de generación hasta los puntos de entrega para su distribución, y
+
+XXXII. Usuario: Persona física o moral a la que el suministrador le proporciona el servicio, previo contrato celebrado por las partes.
 
 ###### Artículo 3o.
 
@@ -823,7 +847,9 @@ I. Para cada obra por emprender que lo amerite:
 
 a) Sus características más importantes, su presupuesto y el programa de inversiones respectivo;
 
-b) Un estudio económico de los costos de generación y transmisión de la energía eléctrica, considerando razonadamente las inversiones, su financiamiento y los gastos de operación previsibles a lo largo de la vida útil del proyecto respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+b) Un estudio económico de los costos de generación y transmisión de la energía eléctrica, considerando razonadamente las inversiones, su financiamiento, y los gastos de operación previsibles a lo largo de la vida útil del proyecto respectivo. En el estudio de los costos de generación se considerarán también las externalidades ambientales para cada tecnología.
 
 > <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
@@ -835,69 +861,13 @@ II. Los programas relativos a las obras ya existentes incluirán los aspectos de
 
 ### CAPITULO IX. De las Actividades que no constituyen Servicio Público
 
-#### Sección primera.- Definiciones
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+#### Sección primera
 
 ###### Artículo 71.
 
-Para los efectos del presente capítulo, se entenderá por:
-
-I. Area de control:
-
-Area geográfica en que se ubica el sistema eléctrico coordinado por el centro de control de área respectivo de la Comisión;
-
-II. Capacidad de respaldo:
-
-La capacidad que la Comisión se compromete a proporcionar a un permisionario para cubrir sus posibles fallas en la planta generadora de éste, así como salidas parciales o totales de la misma por otra causa;
-
-III. Carga conectada:
-
-Potencia eléctrica usada por los dispositivos conectados al sistema de generación de energía eléctrica;
-
-IV. Costo total de corto plazo de la energía eléctrica:
-
-Corresponde al costo unitario de la energía eléctrica proveniente de una planta, determinado durante el periodo de que se trate, incluyendo el costo de los energéticos utilizados y todos los costos variables de operación y mantenimiento en los que dicha planta incurra como resultado de las actividades de generación y transmisión de la energía hasta el punto de interconexión;
-
-> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 1997)</small>
-
-V. Costo económico de largo plazo de la energía eléctrica:
-
-Al costo unitario de la energía eléctrica proveniente de una planta, determinado a lo largo de la vida útil de ésta, incluyendo entre otros los costos de inversión y financieros; el riesgo de construcción; el rendimiento sobre la inversión; los costos de los energéticos utilizados; el costo de los recursos del sector público para obtenerlos y el costo de oportunidad para destinarlos a inversiones alternativas; el incremento en el riesgo derivado de posibles modificaciones del marco regulatorio del sector, y los costos y riesgos de operación y mantenimiento en los que incurra la planta e infraestructura en cuestión, como resultado de las actividades de generación y transmisión de dicha energía hasta el punto de interconexión o hasta la interconexión;
-
-VI. Despachabilidad:
-
-Característica operativa de una unidad de generación de incrementar o decrementar su generación o de conectarse y desconectarse a requerimiento de la Comisión;
-
-VII. Despacho de carga:
-
-Control operativo del sistema eléctrico nacional, ejercido por la Comisión, que determina la asignación del nivel de generación de unidades generadoras, tanto propias como de permisionarios con quienes hubiere celebrado convenios para la adquisición de energía eléctrica, considerando los flujos de potencia en líneas de transmisión, subestaciones y equipo;
-
-VIII. Disponibilidad:
-
-Característica que tienen las unidades generadoras de energía eléctrica, de producir potencia a su plena capacidad en el momento preciso en que el despacho de carga se lo demande;
-
-IX. Emergencia:
-
-Estado del sistema eléctrico en el que se ha interrumpido el servicio o que puede poner en peligro vidas humanas, el servicio o las instalaciones, y que requiere de una acción inmediata;
-
-X. Energía eléctrica entregada:
-
-Energía eléctrica medida en el punto de interconexión que un permisionario entrega a la Comisión;
-
-XI. Factor de disponibilidad:
-
-Es un indicador de la disponibilidad relativa de una unidad generadora en un período determinado, calculado como la diferencia entre la energía máxima que la unidad puede producir y la energía que no llegó a producirse debido a las actividades de mantenimiento, fallas, decrementos de capacidad u otras causas, dividida dicha diferencia entre la energía máxima que la unidad puede producir;
-
-XII. Interconexión:
-
-Conexión eléctrica entre dos áreas de control o entre la instalación de un permisionario y un área de control;
-
-XIII. Productor externo:
-
-Titular de un permiso para realizar actividades de generación que no constituyen servicio público; y
-
-XIV. Punto de interconexión:
-
-Punto de donde se conviene la entrega de energía eléctrica de un permisionario a la Comisión, en el cual se medirá la potencia entregada.
+(DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
 #### Sección segunda.- Disposiciones generales
 
@@ -909,7 +879,9 @@ I. La generación de energía eléctrica para cualquiera de los fines que a cont
 
 a) Su venta a la Comisión;
 
-b) Su consumo por los mismos particulares en las modalidades de autoabastecimiento, cogeneración o pequeña producción;
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+b) Su consumo por los mismos particulares en las modalidades de autoabastecimiento, cogeneración o pequeña producción, ésta última cuando los solicitantes destinen el total de la producción de energía eléctrica a pequeñas comunidades rurales o áreas aisladas que carezcan de la misma y que la utilicen para su autoconsumo, siempre que los interesados constituyan cooperativas de consumo, copropiedades, asociaciones o sociedades civiles, o celebren convenios de cooperación solidaria para dicho propósito y que los proyectos, en tales casos, no excedan de 1 MW;
 
 c) Su uso en emergencias derivadas de interrupciones en el servicio público de energía eléctrica, y
 
@@ -1679,17 +1651,23 @@ La entrega de energía eléctrica a la red del servicio público, se sujetará a
 
 Los administradores deberán observar reglas comunes para la adecuada operación del sistema eléctrico nacional.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 149.
 
-En los términos del artículo 36-Bis de la Ley, la Comisión en sus operaciones de control de las entregas que hacen a la red de transmisión para el servicio público las distintas plantas de generación, tanto las pertenecientes a la propia Comisión como las de los particulares con los que dicha entidad tenga convenio, aceptará las entregas de energía eléctrica estrictamente en el orden creciente de su respectivo costo total de corto plazo o precio propuesto según sea el caso, hasta lo que se requiera para satisfacer en cada momento la demanda.
+En los términos del artículo 36-Bis de la Ley, la Comisión en sus operaciones de control de las entregas que hacen a la red de transmisión para el servicio público las distintas plantas de generación, tanto las pertenecientes a la propia Comisión como las de los particulares con los que dicha entidad tenga convenio, aceptará las entregas de energía eléctrica estrictamente en el orden creciente de su respectivo costo total de corto plazo, o precio propuesto según sea el caso, hasta lo que se requiera para satisfacer en cada momento la demanda.
+
+Tratándose de la energía generada por fuentes renovables se aceptará según se genere y se pagará de acuerdo a las metodologías aplicables.
 
 ###### Artículo 150.
 
 Lo previsto en el artículo anterior deberá atenderse por la Comisión en todo momento como regla permanente, salvo por razones de seguridad o en circunstancias y condiciones de emergencia técnica en las que por fuerza mayor o caso fortuito el servicio de energía eléctrica pudiera interrumpirse, restringirse o sufrir daño considerable.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 151.
 
-La Comisión notificará por los medios idóneos, al comienzo de cada mes, a cada uno de los productores externos con los que tenga celebrados convenios para la adquisición de energía eléctrica, acerca de los pronósticos de energía eléctrica que se despachará del productor respectivo en promedio, durante cada uno de los siguientes tres meses. Los pronósticos mencionados se elaborarán por la Comisión considerando las previsiones sobre la demanda de energía eléctrica, la disponibilidad de todos los generadores, las condiciones operativas de la red en las distintas zonas geográficas, la normatividad en materia ambiental y los precios de los diferentes energéticos. Esta notificación no tendrá carácter vinculatorio para la Comisión, ni creará derechos para los productores externos.
+La Comisión notificará por los medios idóneos, al comienzo de cada mes, a cada uno de los productores externos con los que tenga celebrados convenios para la adquisición de energía eléctrica, acerca de los pronósticos de energía eléctrica que se despachará del productor respectivo en promedio, durante cada uno de los siguientes tres meses. Los pronósticos mencionados se elaborarán por la Comisión considerando las previsiones sobre la demanda de energía eléctrica, la disponibilidad de todos los generadores, las condiciones operativas de la red en las distintas zonas geográficas, la normatividad en materia ambiental, las externalidades ambientales que se consideren para cada tecnología, de acuerdo con la metodología publicada por la Secretaría y los precios de los diferentes energéticos. Esta notificación no tendrá carácter vinculatorio para la Comisión, ni creará derechos para los productores externos.
 
 ###### Artículo 152.
 
@@ -2048,3 +2026,7 @@ En tanto la Secretaría apruebe las especificaciones técnicas del suministrador
 TERCERO.- Los procedimientos de conciliación que se encuentren en trámite o pendientes de resolución ante la Secretaría a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
 
 CUARTO.- La Secretaría, en un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente Decreto, deberá emitir el Manual de Disposiciones relativas al suministro y venta de energía eléctrica destinada al servicio público, a que refiere el artículo 43 de este Decreto.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
