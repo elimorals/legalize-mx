@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-11-09"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2595,9 +2595,9 @@ El adoptado tendrá para con la persona o personas que lo adopten los mismos der
 
 Para que la adopción simple o plena pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-I.- El que ejerce la patria potestad sobre la persona menor de dieciocho años de edad que se trata de adoptar;
+I.- El que ejerce la patria potestad sobre la persona menor de dieciocho años de edad que se trata de adoptar, salvo que se trate de abandonados, expósitos o entregados a instituciones públicas;
 
 II.- El tutor del que se va a adoptar;
 
@@ -2937,6 +2937,38 @@ II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IV.- Cuando quienes ejerzan la patria potestad hayan aceptado ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VI.- Cuando se exponga por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+En relación a la fracción V, se tendrá por abandonada, la persona menor de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El abandono en los términos aquí previstos, será acreditado mediante constancia de abandono expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, misma que valorara y resolverá el Juez competente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Para los efectos de la fracción VI, se considera expósito a la persona menor de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de las personas menores de dieciocho años de edad expósitos o abandonados, a un ambiente familiar a través de hogares adoptivos o substitutos.
+
 ###### ARTICULO 441.
 
 La patria potestad se pierde:
@@ -2949,35 +2981,23 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 28
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-III. Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
+III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+V.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
 
-V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada; y
+VI.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-VI.- Cuando se exponga por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-Para los efectos del párrafo anterior, se considera expósito a la persona menor de dieciocho años de edad cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-Se reputa abandonada la persona menor de dieciocho años de edad cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, podrá promover la pérdida de patria potestad de las personas menores dieciocho años de edad expósitos o abandonados y tendrá atribuciones para promover en su carácter de tutor, la reintegración inmediata y oportuna de estos a un ambiente familiar a través de hogares adoptivos o substitutos.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 442.
 
@@ -11453,7 +11473,7 @@ La acción y la excepción de nulidad por falta de forma compete a todos los int
 
 ###### ARTICULO 2104.
 
-La nulidad por causa de error dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado hecho.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
 
@@ -11945,7 +11965,7 @@ Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredi
 
 ###### ARTICULO 2203.
 
-El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se haya (sic) aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se haya (sic) aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
 
 ###### ARTICULO 2204.
 
@@ -14957,7 +14977,7 @@ III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la 
 
 ###### ARTICULO 2804.
 
-La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOS I y III Libro primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOs I y III Libro primero.
 
 ###### ARTICULO 2805.
 
@@ -16078,3 +16098,11 @@ P.O. 9 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Una vez publicadas las presentes reformas, el Congreso del Estado, deberá homologar las disposiciones relativas a las mismas, en los diversos ordenamientos del Estado, en un plazo que no exceda los treinta días hábiles.
+
+Tercero.- Se derogan todas las disposiciones que se opongan o contradigan a lo contenido en estas Reformas.
