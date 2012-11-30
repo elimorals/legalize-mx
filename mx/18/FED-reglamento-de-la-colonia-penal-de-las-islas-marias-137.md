@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-colonia-penal-de-las-islas-marias-137"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-17"
-last_updated: "1991-09-17"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1991-09-12"
 ---
 # REGLAMENTO DE LA COLONIA PENAL DE LAS ISLAS MARIAS
 
-REGLAMENTO DE LA COLONIA PENAL FEDERAL DE ISLAS MARIAS
+REGLAMENTO DE LA COLONIA PENAL FEDERAL DE ISLAS MARÍAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 17 de septiembre de 1991.
 
@@ -454,3 +456,27 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Colonia Penal de Islas Marías,
 TERCERO.- El Secretario de Gobernación expedirá los Manuales de Organización, Funcionamiento y Procedimientos para la Colonia Penal, dentro de un plazo de 180 días contados a partir de la entrada en vigor de este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de septiembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Colonia Penal Federal de Islas Marías publicado en el Diario Oficial de la Federación el 17 de septiembre de 1991 y se derogan todas las disposiciones normativas que contravengan el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Se establece el término de un año a partir de la entrada en vigor del presente Reglamento para la elaboración, modificación, o actualización de los manuales específicos y administrativos, de organización, y de procedimientos, así como los instructivos, criterios y lineamientos para el cumplimiento de las disposiciones normativas en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que a la fecha de entrada en vigor del presente Reglamento se estén substanciando deberán continuar su trámite conforme a las disposiciones legales vigentes al momento de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio fiscal y subsecuentes, ni se incrementará su presupuesto regularizable.
