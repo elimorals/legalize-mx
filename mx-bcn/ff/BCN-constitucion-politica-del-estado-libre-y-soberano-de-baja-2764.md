@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2012-10-19"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -633,7 +633,7 @@ II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la c
 
 III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE PÁRRAFO INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -733,7 +733,7 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1089,7 +1089,7 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1119,7 +1119,7 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1655,6 +1655,10 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su conducción y mando en el ejercicio de esta función, y tendrá las atribuciones y estructura que la Ley le establezca. Asimismo, intervendrá en todos los demás negocios que determinen esta Constitución y las leyes.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La persecución de Delitos Electorales estará a cargo de la Fiscalía Especializada para la Atención de Delitos Electorales, en los términos de esta Constitución.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
@@ -1662,6 +1666,26 @@ El Ministerio Público es la Institución encargada de la investigación y perse
 ###### ARTICULO 70.
 
 El Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley, ejercen y representan al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Procuraduría General de Justicia del Estado y la Fiscalía Especializada para la Atención de Delitos Electorales del Estado, de acuerdo con la Ley Orgánica que las rige, sentarán las bases de coordinación para la investigación de los delitos, así como el auxilio de peritos y técnicos, y de la Policía Ministerial.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Fiscalía Especializada para la Atención de Delitos Electorales es un órgano con autonomía técnica y operativa, con personalidad jurídica y patrimonio propio; la fiscalía es responsable de la investigación y persecución de los delitos electorales, función que deberá de realizar con la más estricta reserva. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El Fiscal Especializado para la Atención de Delitos Electorales, será nombrado por el Congreso del Estado, mediante un procedimiento de consulta pública en los términos, requisitos y condiciones que establezcan las Leyes, durará en su cargo cuatro años y podrá ser reelecto por una sola ocasión.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El Fiscal, estará sujeto al sistema de responsabilidades que fija esta Constitución en su Título Octavo y la Ley de Responsabilidades de los Servidores Públicos del Estado y podrá ser removido de su cargo cuando incurra en alguna de las causas previstas en estos ordenamientos.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El Fiscal Especializado para la Atención de Delitos Electorales, deberá enviar un informe Semestral al Congreso, sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las averiguaciones previas iniciadas, las archivadas, en la que no se ejerció acción penal y las enviadas a reserva, así como las consignaciones efectuadas, de los procesos y de los amparos, en su caso, así como de las funciones que en materia de prevención del delito le corresponden.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2149,7 +2173,9 @@ La resolución emitida por el Congreso estará investida de soberanía, por lo q
 
 IV.- Se establecerá la obligación de los servidores públicos de elección popular, así como de los que desempeñen empleo, cargo o comisión de primer nivel en los Poderes del Estado, Ayuntamientos y los órganos autónomos, de someterse anualmente a examen para la detección de drogas de abuso.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE TEXTO ENTRARÁ EN VIGOR A PARTIR DEL 1 DE NOVIEMBRE DE 2013; POR LO QUE A EFECTO DE CONSULTAR EL TEXTO QUE ESTARÁ VIGENTE HASTA ANTES DEL 1 DE NOVIEMBRE DE 2013, SE SUGIERE CONSULTAR EL ARCHIVO ADJUNTO.</small>
+> <small>N. DE E. EN ARCHIVO ANEXO SE MUESTRA EL TEXTO DEL ARTÍCULO 93, CON SU REFORMA PUBLICADA EN EL DECRETO No. 342 P.O. 30 DE NOVIEMBRE DE 2012.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE ARTÍCULO INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -2181,11 +2207,11 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3550,3 +3576,13 @@ TERCERO.- Para dar eficiencia a lo dispuesto en el párrafo cuarto del artículo
 P.O. 19 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado de Baja California, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas de los artículos 69, 70, 93 y 94 de la Constitución Política del Estado de Baja California, la reforma del Capítulo VI para denominarlo "DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES" la reforma de los artículos 39, 40, 41, 42, 43, 44 y 45, así como recorrer los Capítulos VI y VII denominado "RESPONSABILIDADES Y SANCIONES" Y "DE LAS EXCUSAS Y RECUSACIONES" para pasar a ser Capítulos VII y VIII, los artículos 39, 40, 41, 42, 43, 44, 45, 46 y 47, para pasar a ser artículos 46, 47, 48, 49 , 50, 51, 52, 53 y 54 de la LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, la reforma a la fracción XXXIX DEL ARTÍCULO 7 DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DEL ESTADO DE BAJA CALIFORNIA.
+
+TERCERO.- La Fiscalía Especializada para la Atención de Delitos Electorales a que se refieren los artículos 69 y 70 del presente Decreto, entrará en funcionamiento a partir del primero de Enero de 2013, por lo que deberá realizarse la asignación de recursos presupuestales para el ejercicio fiscal 2013. El Congreso del Estado, en un término que no exceda de 10 días a partir de la vigencia de las presentes reformas, emitirá convocatoria pública y procedimiento para la selección del Fiscal Especializado para la Atención de Delitos Electorales, mismo que deberá ser nombrado a más tardar el 20 de Diciembre de 2012.
+
+CUARTO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
