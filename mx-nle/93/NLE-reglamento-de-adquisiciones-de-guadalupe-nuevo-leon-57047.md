@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-guadalupe-nuevo-leon-57047"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-20"
-last_updated: "2007-08-20"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 20 de agosto de 2007.
 
@@ -245,9 +245,13 @@ VIII.- Vocal: El Director Jurídico o su representante; con derecho a voz pero s
 
 IX.- Un representante en calidad de observador, designado por el titular de la Contraloría, con derecho a voz pero sin derecho a voto; y
 
-X.- Para verificar la transparencia de los procedimientos de licitación y adjudicación el Presidente Municipal podrá invitar a un representante de las Cámaras que corresponda, Asociaciones, Colegios de Profesionistas y ciudadanos que estén vinculados a la realización de adquisiciones, bienes y servicios, con derecho a voz pero sin derecho a voto.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-No podrán ser integrantes del Comité quienes se encuentren en los supuestos previstos en el Artículo 38-treinta y ocho del Reglamento de Adquisiciones de Guadalupe N. L.
+X.- Para verificar la transparencia de los procedimientos de licitación y adjudicación el Presidente Municipal invitara a integrarse al Comité, a tres ciudadanos residentes en el municipio, que podrán ser profesionistas independientes ó representantes de las Cámaras que correspondan, Asociaciones, Colegios de Profesionistas.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+Los ciudadanos invitados a integrarse al comité, deberán estar vinculados a la realización de adquisiciones, bienes y servicios, sus cargos serán honoríficos y tendrán derecho a voz y voto.
 
 ###### ARTÍCULO 23.
 
@@ -1278,3 +1282,15 @@ SEGUNDO.- Queda abrogado el Reglamento de Adquisiciones de Ciudad Guadalupe, Nue
 TERCERO.- Los procedimientos relativos a la materia de adquisiciones de bienes y/o servicios, y de arrendamiento de bienes y/o servicios pendientes de concluir continuarán rigiéndose por el anterior Reglamento hasta su conclusión, a excepción de aquellos que se inicien a partir de la fecha de entrada en vigor del presente Reglamento.
 
 Así lo firman y acuerdan los integrantes de las Comisiones Unidas de Hacienda y de Régimen Interior de Gobierno, a los 13-trece días del mes de agosto de 2007-dos mil siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA EL REGLAMENTO DE ADQUISICIONES DE GUADALUPE, NUEVO LEÓN”.]
+
+PRIMERO. La presente reforma, al Reglamento de Adquisiciones de Guadalupe N.L. entrará en vigor a partir de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el Sitio Oficial de Internet del municipio de Guadalupe, N.L.
+
+SEGUNDO. Los procesos de adquisición o de licitación que estén en trámite o en proceso, a la entrada en vigor del presente decreto, se seguirán tramitando hasta su conclusión en los términos de la normatividad anterior.
+
+TERCERO. El Presidente Municipal tendrá un termino de hasta noventa días naturales, para que designe a los ciudadanos que formarán parte del Comité de Adquisiciones, que establece la presente reforma.
