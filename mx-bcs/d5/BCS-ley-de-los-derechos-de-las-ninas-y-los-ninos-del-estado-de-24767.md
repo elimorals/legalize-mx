@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2012-07-31"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -157,9 +157,13 @@ IV. El de familia como espacio preferente para el desarrollo de las niñas y ni�
 
 V. El de que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentre, con el objeto de procurar que todas las niñas y niños ejerzan sus derechos con equidad;
 
-VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y
+VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y (sic)
 
 VII. El del respeto universal a la diversidad cultural, étnica y religiosa.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VIII. El de tener una vida saludable, tanto física como psíquica para el sano desarrollo integral.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -212,6 +216,10 @@ III. A recibir orientación y capacitación para obtener conocimientos básicos 
 IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción;
 
 V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VI. A ser orientados para prevenirlos sobre los efectos de la desnutrición, el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, mediante la promoción de la actividad física, el deporte y una alimentación saludable.
 
 D) A la Educación, recreación, información y participación:
 
@@ -269,7 +277,9 @@ I. Asegurar el respeto, y la aplicación eficaz de los derechos establecidos en 
 
 II. Prevenir las situaciones, acciones o hechos que amenacen o violen sus derechos previstos en el presente ordenamiento y en las demás leyes;
 
-III. Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+III. Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y saludable para prevenir la desnutrición, el sobrepeso, la obesidad, el sedentarismo y los trastornos de la conducta alimentaria;
 
 IV. Cumplir con el trámite de inscripción en el Registro Civil;
 
@@ -277,9 +287,13 @@ V. Realizar los trámites de inscripción para que reciban la educación obligat
 
 VI. Incentivarlos para que realicen actividades culturales, recreativas, deportivas y de esparcimiento, que les ayuden a su desarrollo integral;
 
-VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y
+VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y (sic)
 
 VIII. Darles a conocer sus derechos, así como brindarles orientación y dirección para su ejercicio y debida observancia.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX. Prestar atención de las alteraciones de conducta que permita suponer la existencia de alguna alteración emocional, ocasionada por distintas problemáticas como la violencia familiar o escolar, que pudiera detonar en enfermedades o suicidios.
 
 ###### Artículo 10.
 
@@ -383,9 +397,11 @@ XIII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
 XIV. Las demás que le confieran otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 19.
 
-La Secretaría General de Gobierno, de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, se coordinarán a fin de que promuevan y vigilen el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban la alimentación de calidad que necesitan para su desarrollo integral.
+La Secretaría General de Gobierno, de Salud, de Educación y el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, se coordinarán a fin de que promuevan y vigilen el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban la alimentación de calidad que necesitan para su desarrollo integral, previniendo la desnutrición, el sobrepeso, la obesidad, sedentarismo y los trastornos de la conducta alimentaria, mediante la promoción de la actividad física y de una alimentación saludable, fomentando en los niños y niñas su autoestima, la autoimagen y, dado el caso, canalizar a tratamiento psicológico.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -415,9 +431,21 @@ X. Diseñar programas para garantizar la atención, en los servicios integrales 
 
 XI. Orientar a la comunidad, sobre el significado de la maternidad y paternidad responsables, del parto y de los cuidados personales de la madre y de la niña o niño;
 
-XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y
+XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y (sic)
 
-XIII. Las demás que le confieran la Ley de Salud del Estado de Baja California Sur y otros ordenamientos jurídicos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XIII. Prevenir la desnutrición, el sobrepeso, la obesidad, el sedentarismo y los trastornos de la conducta alimentaria, mediante la promoción del deporte, la actividad física y una alimentación saludable.
+
+XIV. Las demás que le confieran la Ley de Salud del Estado de Baja California Sur y otros ordenamientos jurídicos.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XIV (SIC). Establecer programas de prevención del suicidio en niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XV. Las demás que le confieran la Ley de Salud del Estado de Baja California Sur y otros ordenamientos jurídicos. (sic)
 
 ###### Artículo 21.
 
@@ -643,9 +671,11 @@ IV.- Las demás que le sean asignadas en el Reglamento del Comité.
 
 ### CAPITULO I. DE LA EDUCACION Y CULTURA
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 29.
 
-En materia de educación y cultura los (sic) niñas y niños tienen el derecho inalienable a las mismas oportunidades de acceso y permanencia a la educación obligatoria; el derecho a ser respetado por sus profesores; y el derecho a acceder a la educación básica de manera gratuita.
+En materia de educación y cultura los (sic) niñas y niños tienen el derecho inalienable a las mismas oportunidades de acceso y permanencia a la educación obligatoria; el derecho a ser respetado por sus profesores; el derecho a un ambiente educativo que fomente la participación de los alumnos y el equilibrio bio-psicosocial, la no discriminación y la no violencia; y el derecho a acceder a la educación básica de manera gratuita.
 
 ###### Artículo 30.
 
@@ -921,7 +951,7 @@ EL SECRETARIO GENERAL DEL GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 31 DE DICIEMBRE DE 2007.
 
@@ -952,3 +982,23 @@ En un plazo no mayor de 30 días hábiles a partir de la entrada en vigor del pr
 ###### ARTÍCULO TERCERO.
 
 En un término no mayor de 90 días naturales a partir de la instalación de los Comités Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, estos deberán expedir el Reglamento a que se refiere la fracción XVI del artículo 27 de la Ley de los Derechos de las Niñas y los Niños del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 2015, POR EL QUE SE REFORMA EL PÁRRAFO DEL ARTÍCULO 29 Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 4, UNA FRACCIÓN IX AL ARTÍCULO 9, UNA FRACCIÓN XIV RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIV A LA SUBSECUENTE DEL ARTÍCULO 20, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+B.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 2016, POR EL QUE SE REFORMA EL ARTÍCULO 9, FRACCIÓN III; 19, PÁRRAFO PRIMERO; Y SE ADICIONA LA FRACCIÓN VI, INCISO C AL ARTÍCULO 5; UNA FRACCIÓN XIII AL ARTÍCULO 20, RECORRIÉNDOSE LA ACTUAL PARA CONVERTIRSE EN LA NUEVA FRACCIÓN XIV DEL MISMO; TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO: El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en un plazo de 60 días después de publicado el presente Decreto a fin de hacer efectivas las disposiciones establecidas en la presente Ley.
+
+TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
+
+CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
