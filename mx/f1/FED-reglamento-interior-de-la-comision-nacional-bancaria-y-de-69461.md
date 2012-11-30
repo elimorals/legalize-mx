@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-69461
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-12"
-last_updated: "2012-04-23"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-08-10"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 12 de agosto de 2009.
 
@@ -151,71 +151,77 @@ B. Direcciones Generales:
 
 9) Dirección General de Supervisión de Banca de Desarrollo y Entidades de Fomento;
 
-10) Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo;
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-11) Dirección General de Supervisión de Entidades Bursátiles;
+10) Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo A;
 
-12) Dirección General de Supervisión de Mercados;
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-13) Dirección General de Asuntos Jurídicos Bursátiles;
+11) Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo B;
 
-14) Dirección General de Emisiones Bursátiles;
+12) Dirección General de Supervisión de Entidades Bursátiles;
 
-15) Dirección General de Metodologías y Análisis de Riesgo;
+13) Dirección General de Supervisión de Mercados;
 
-> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+14) Dirección General de Asuntos Jurídicos Bursátiles;
 
-16) Dirección General de Supervisión de Administración Integral de Riesgos;
+15) Dirección General de Emisiones Bursátiles;
 
-17) Dirección General de Supervisión de Riesgo Operacional y Tecnológico;
-
-18) Dirección General de Análisis e Información;
-
-19) Dirección General de Administración de Inversiones;
-
-20) Dirección General de Desarrollo Regulatorio;
-
-21) Dirección General de Asuntos Internacionales;
-
-22) Dirección General de Estudios Económicos;
-
-23) Dirección General para el Acceso a Servicios Financieros;
-
-24) Dirección General de Delitos y Sanciones;
-
-25) Dirección General Contenciosa;
-
-> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
-
-26) Dirección General de Visitas de Investigación;
-
-27) Dirección General de Autorizaciones al Sistema Financiero;
-
-28) Dirección General de Autorizaciones Especializadas;
-
-29) Dirección General de Normatividad;
+16) Dirección General de Metodologías y Análisis de Riesgo;
 
 > <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-30) Dirección General de Prevención de Operaciones con Recursos de Procedencia Ilícita A;
+17) Dirección General de Supervisión de Administración Integral de Riesgos;
+
+18) Dirección General de Supervisión de Riesgo Operacional y Tecnológico;
+
+19) Dirección General de Análisis e Información;
+
+20) Dirección General de Administración de Inversiones;
+
+21) Dirección General de Desarrollo Regulatorio;
+
+22) Dirección General de Asuntos Internacionales;
+
+23) Dirección General de Estudios Económicos;
+
+24) Dirección General para el Acceso a Servicios Financieros;
+
+25) Dirección General de Delitos y Sanciones;
+
+26) Dirección General Contenciosa;
 
 > <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-31) Dirección General de Prevención de Operaciones con Recursos de Procedencia Ilícita B;
+27) Dirección General de Visitas de Investigación;
 
-32) Dirección General de Atención a Autoridades;
+28) Dirección General de Autorizaciones al Sistema Financiero;
 
-33) Dirección General de Informática;
+29) Dirección General de Autorizaciones Especializadas;
 
-34) Dirección General de Programación, Presupuesto y Recursos Materiales;
+30) Dirección General de Normatividad;
 
-35) Dirección General de Organización y Recursos Humanos;
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-36) Dirección General de Planeación Estratégica;
+31) Dirección General de Prevención de Operaciones con Recursos de Procedencia Ilícita A;
 
-37) Dirección General de Métodos y Procesos de Supervisión, y
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-38) Dirección General de Proyectos Especiales y Comunicación Social.
+32) Dirección General de Prevención de Operaciones con Recursos de Procedencia Ilícita B;
+
+33) Dirección General de Atención a Autoridades;
+
+34) Dirección General de Informática;
+
+35) Dirección General de Programación, Presupuesto y Recursos Materiales;
+
+36) Dirección General de Organización y Recursos Humanos;
+
+37) Dirección General de Planeación Estratégica;
+
+38) Dirección General de Métodos y Procesos de Supervisión, y
+
+39) Dirección General de Proyectos Especiales y Comunicación Social.
 
 ###### ARTÍCULO 5.
 
@@ -297,9 +303,9 @@ f) Los demás asuntos que estime pertinentes.
 
 Sin perjuicio de lo previsto en este Reglamento Interior, el Presidente podrá ejercer sus funciones directamente o, mediante acuerdo delegatorio a través de los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión, mismo que, en su caso, se publicará en el Diario Oficial de la Federación, en cumplimiento de lo previsto en el artículo 16, antepenúltimo párrafo de la LCNBV.
 
-> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-Adicionalmente, el Presidente de la Comisión determinará, atendiendo a la competencia que fija el presente Reglamento, qué entidades, federaciones, fondos de protección, oficinas de representación de entidades financieras del exterior, centros cambiarios, transmisores de dinero, sociedades financieras de objeto múltiple no reguladas o personas físicas o morales sujetas a la supervisión de la Comisión, lo estarán respecto de cada una de las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Supervisión de Administración Integral de Riesgos; de Supervisión de Riesgo Operacional y Tecnológico; de Metodologías y Análisis de Riesgo; de Análisis e Información; de Administración de Inversiones; de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, conforme a la clasificación establecida en el Padrón de Entidades Supervisadas publicada en la página electrónica de la Comisión.
+Adicionalmente, el Presidente de la Comisión determinará, atendiendo a la competencia que fija el presente Reglamento, qué entidades, federaciones, fondos de protección, oficinas de representación de entidades financieras del exterior, centros cambiarios, transmisores de dinero, sociedades financieras de objeto múltiple no reguladas o personas físicas o morales sujetas a la supervisión de la Comisión, lo estarán respecto de cada una de las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo A y B; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Supervisión de Administración Integral de Riesgos; de Supervisión de Riesgo Operacional y Tecnológico; de Metodologías y Análisis de Riesgo; de Análisis e Información; de Administración de Inversiones; de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, conforme a la clasificación establecida en el Padrón de Entidades Supervisadas publicada en la página electrónica de la Comisión.
 
 ###### ARTÍCULO 12.
 
@@ -349,11 +355,11 @@ Las Vicepresidencias estarán integradas por las direcciones generales y direcci
 
 ARTÍCULO 15 BIS.- Las Direcciones Generales que se indican en el Apartado B de la fracción II del artículo 4 del presente Reglamento, en adición a las facultades que se señalan en los artículos 16 a 50 de este Reglamento, tendrán la atribución de presentar los informes o asuntos que deban someterse a la consideración de la Junta de Gobierno, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
-Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos; de Administración de Inversiones y de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, en el ámbito de sus respectivas competencias y acorde a lo previsto en este Reglamento Interior, ejercerán, a través de sus titulares, las facultades de supervisión que de conformidad con la legislación y reglamentos aplicables correspondan a la Comisión, procurando en todo momento el mejoramiento constante de la supervisión, mediante el desarrollo, actualización y homologación de las metodologías de supervisión.
+Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo A y B; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos; de Administración de Inversiones y de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, en el ámbito de sus respectivas competencias y acorde a lo previsto en este Reglamento Interior, ejercerán, a través de sus titulares, las facultades de supervisión que de conformidad con la legislación y reglamentos aplicables correspondan a la Comisión, procurando en todo momento el mejoramiento constante de la supervisión, mediante el desarrollo, actualización y homologación de las metodologías de supervisión.
 
 Al ejercer las facultades de supervisión los Directores Generales a que se refiere este artículo podrán:
 
@@ -387,11 +393,11 @@ VIII. Desempeñar las atribuciones señaladas en el artículo 17 y demás del pr
 
 La facultad de ordenar visitas de investigación a las entidades para verificar el cumplimiento de la LIC y LMV y disposiciones de carácter general que de estas emanen, en materia de manejo de cartera de valores, prestando servicios de asesoría, supervisión y, en su caso, toma de decisiones a nombre y por cuenta de terceros respecto de valores, así como de intermediación de valores con el público en general y procesos de venta y administración de inversiones, corresponderá de manera exclusiva a la Dirección General de Administración de Inversiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 17.
 
-Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos; de Administración de Inversiones y de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, a través de sus titulares, en el ámbito de su competencia y sin perjuicio de las facultades de supervisión a que se refiere el artículo 16 anterior, también podrán:
+Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo A y B; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos; de Administración de Inversiones y de Prevención de Operaciones con Recursos de Procedencia Ilícita A y B, a través de sus titulares, en el ámbito de su competencia y sin perjuicio de las facultades de supervisión a que se refiere el artículo 16 anterior, también podrán:
 
 > <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
 
@@ -475,11 +481,11 @@ XII. Desempeñar las atribuciones que les sean delegadas por el Presidente de la
 
 La atribución señalada en la fracción VIII de este artículo, en materia de manejo de cartera de valores, prestando servicios de asesoría, supervisión y, en su caso, toma de decisiones a nombre y por cuenta de terceros respecto de valores, así como de intermediación de valores con el público en general y procesos de venta y administración de inversiones, será ejercida únicamente por la Dirección General de Administración de Inversiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 18.
 
-Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos y de Administración de Inversiones, a través de sus titulares, en el ámbito de su competencia y sin perjuicio de las facultades de supervisión a que se refieren los artículos 16 y 17 del presente Reglamento, también podrán ejercer respecto de las personas físicas o morales que sin ser entidades realicen actividades previstas en las leyes financieras, que sean contratadas por las entidades para la prestación de servicios conforme a dichas leyes, o sean oficinas de representación de entidades financieras del exterior, y en estos casos se encuentren sujetas a la supervisión de la Comisión, en términos de las disposiciones legales o administrativas aplicables, las siguientes facultades:
+Las Direcciones Generales de Supervisión de Grupos e Intermediarios Financieros A, B, C, D, E y F; de Supervisión de Banca de Desarrollo y Entidades de Fomento; de Supervisión de Uniones de Crédito; de Supervisión de Cooperativas de Ahorro y Préstamo A y B; de Supervisión de Sociedades Financieras Populares; de Supervisión de Mercados; de Supervisión de Entidades Bursátiles; de Emisiones Bursátiles; de Metodologías y Análisis de Riesgo; de Supervisión de Administración Integral de Riesgos y de Administración de Inversiones, a través de sus titulares, en el ámbito de su competencia y sin perjuicio de las facultades de supervisión a que se refieren los artículos 16 y 17 del presente Reglamento, también podrán ejercer respecto de las personas físicas o morales que sin ser entidades realicen actividades previstas en las leyes financieras, que sean contratadas por las entidades para la prestación de servicios conforme a dichas leyes, o sean oficinas de representación de entidades financieras del exterior, y en estos casos se encuentren sujetas a la supervisión de la Comisión, en términos de las disposiciones legales o administrativas aplicables, las siguientes facultades:
 
 I. Ordenar la realización de visitas de inspección, así como efectuar la vigilancia, para lo cual podrán llevar a cabo la revisión, verificación, comprobación y evaluación de operaciones y auditoría de registros o procesos, incluyendo aquéllos que se encuentren en sistemas automatizados, en el ámbito de su competencia, conforme a las leyes y disposiciones aplicables y el presente Reglamento;
 
@@ -699,9 +705,11 @@ VI. Supervisar, cuando resulte procedente, el cumplimiento de lo dispuesto por l
 
 Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Dirección General de Autorizaciones al Sistema Financiero o la Dirección General de Autorizaciones Especializadas, conforme a los procedimientos internos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
-A la Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo, a través de su titular, le corresponderán las facultades siguientes:
+A las Direcciones Generales de Supervisión de Cooperativas de Ahorro y Préstamo A y B, a través de sus titulares, les corresponderán las facultades siguientes:
 
 I. Realizar la supervisión de:
 
@@ -1485,9 +1493,7 @@ XI. Fungir como órgano de consulta del Gobierno Federal en materia financiera, 
 
 XII. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
-
-La facultad a que se refiere la fracción V de este artículo, se ejercerá en coordinación con la Dirección General de Autorizaciones al Sistema Financiero y con la Dirección General de Normatividad, cuando involucre actos u operaciones que sean materia de autorizaciones previstas en las leyes o en las disposiciones que de ella emanan, o de la aplicación de disposiciones, dentro de la esfera de la competencia de dichas direcciones generales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1925,9 +1931,9 @@ Los servidores públicos titulares de las Vicepresidencias, direcciones generale
 
 Las facultades atribuidas por este Reglamento a los titulares de las Vicepresidencias y direcciones generales serán ejercidas por estos en forma individual o por 2 servidores públicos que les estén adscritos, siempre que estos actúen mancomunadamente y cuenten con nombramientos de director general adjunto, director de área o su equivalente. Las direcciones generales adjuntas o sus equivalentes, que conforme a este Reglamento cuenten con facultades expresamente atribuidas, las podrán ejercer en forma individual a través de su titular, sin perjuicio de que conforme a lo antes señalado, tratándose del personal que con nivel jerárquico de director de área, subdirector o su equivalente, que le esté adscrito, ejerzan sus facultades mancomunadamente.
 
-> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-Tratándose de disposiciones de carácter general; autorizaciones, salvo que se trate de autorizaciones de difusión de información con fines de promoción, comercialización o publicidad sobre valores y aprobaciones para inversión institucional en términos de la LMV; inscripciones; la infracción de leyes o disposiciones relacionadas con la operación y funcionamiento de las entidades, federaciones, fondos de protección y oficinas de representación de entidades financieras del exterior; opiniones que conforme a las leyes corresponda emitir a la Comisión; observaciones; medidas correctivas; suspensión de operaciones; emplazamientos para revocación de autorizaciones; revocaciones; sanciones y la celebración de contratos o convenios que conforme a la ley sean competencia de la Comisión emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Dirección General de Autorizaciones al Sistema Financiero, de Autorizaciones Especializadas, de Normatividad, Contenciosa, Delitos y Sanciones o Asuntos Jurídicos Bursátiles, según el ámbito de sus atribuciones, junto con un servidor público de la Vicepresidencia que se encuentre facultado para atender y resolver el asunto de que se trate, salvo en el caso de la materia contenciosa, opiniones de delito y sanciones, que conforme al presente Reglamento sean competencia de las citadas Dirección General Contenciosa o Dirección General de Delitos y Sanciones, supuesto en el cual podrán ejercerlas individualmente. La expedición de disposiciones de carácter general en materia de contabilidad, auditoría externa, catálogos de cuentas, formulación y publicación de estados financieros; la autorización de criterios o registros contables especiales o para la apertura de cuentas y subcuentas; así como las resoluciones a consultas y opiniones que impliquen interpretación a las disposiciones de carácter general anteriormente descritas, que siendo relevantes, requieran un análisis de carácter técnico contable, los documentos correspondientes deberán ser firmados adicionalmente por un servidor público de la Dirección General de Desarrollo Regulatorio. La emisión de opiniones que se relacionen con el mantenimiento y fomento del sistema financiero mexicano deberán ser firmadas adicionalmente por un servidor público de la Dirección General para el Acceso a Servicios Financieros.
+Tratándose de disposiciones de carácter general; autorizaciones, salvo que se trate de autorizaciones de difusión de información con fines de promoción, comercialización o publicidad sobre valores y aprobaciones para inversión institucional en términos de la LMV; inscripciones; consultas sobre la aplicación de leyes o disposiciones relacionadas con la operación y funcionamiento de las entidades, federaciones, fondos de protección, oficinas de representación de entidades financieras del exterior y demás personas que realicen actividades previstas en las leyes del sistema financiero o la infracción de estas; opiniones que conforme a las leyes corresponda emitir a la Comisión; observaciones; medidas correctivas; suspensión de operaciones; emplazamientos para revocación de autorizaciones; revocaciones; sanciones y la celebración de contratos o convenios que conforme a la ley sean competencia de la Comisión emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Dirección General de Autorizaciones al Sistema Financiero, de Autorizaciones Especializadas, de Normatividad, Contenciosa, Delitos y Sanciones o Asuntos Jurídicos Bursátiles, según el ámbito de sus atribuciones, junto con un servidor público de la Vicepresidencia que se encuentre facultado para atender y resolver el asunto de que se trate, salvo en el caso de la materia contenciosa, opiniones de delito y sanciones, que conforme al presente Reglamento sean competencia de las citadas Dirección General Contenciosa o Dirección General de Delitos y Sanciones, supuesto en el cual podrán ejercerlas individualmente. La expedición de disposiciones de carácter general en materia de contabilidad, auditoría externa, catálogos de cuentas, formulación y publicación de estados financieros; la autorización de criterios o registros contables especiales o para la apertura de cuentas y subcuentas; así como las resoluciones a consultas y opiniones sobre la aplicación de las disposiciones de carácter general anteriormente descritas, que requieran un análisis de carácter técnico contable, los documentos correspondientes deberán ser firmados adicionalmente por un servidor público de la Dirección General de Desarrollo Regulatorio. La emisión de opiniones que se relacionen con el mantenimiento y fomento del sistema financiero mexicano deberán ser firmadas adicionalmente por un servidor público de la Dirección General para el Acceso a Servicios Financieros.
 
 Lo dispuesto en el párrafo anterior, no será aplicable tratándose de las facultades a que se refieren los artículos 43 y 44 de este Reglamento.
 
@@ -1972,3 +1978,11 @@ El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo 
 TERCERO.- Se respetarán con estricto apego a la Ley los derechos laborales de los trabajadores de la Comisión Nacional Bancaria y de Valores que, con motivo de la entrada en vigor del presente Decreto, cambie su adscripción en la organización administrativa de la propia Comisión.
 
 CUARTO.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Comisión Nacional Bancaria y de Valores.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica de la Comisión Nacional Bancaria y de Valores que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de ese Órgano Desconcentrado.
+
+TERCERO.- Las referencias que en el presente o en otros ordenamientos se realicen respecto de la Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo, se entenderán realizadas respecto de la Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo A.
