@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-10-30"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -123,11 +123,15 @@ I. PRIMER CIRCUITO:
 
 II. SEGUNDO CIRCUITO:
 
-1. Quince tribunales colegiados especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez y un tribunal colegiado en Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 41/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados mixtos en Nezahualcóyotl.
 
 2. Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-3. Veintitrés juzgados de Distrito en el Estado de México: seis especializados de Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 40/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+3. Veinticinco juzgados de Distrito en el Estado de México: seis especializados de Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
 4. Tres Juzgados de Distrito Especializados en Ejecución de Penas, con sede en Tlalnepantla de Baz, Estado de México.
 
@@ -151,7 +155,9 @@ IV. CUARTO CIRCUITO:
 
 2. Dos tribunales unitarios con residencia en Monterrey.
 
-3. Trece juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, tres en materia administrativa y cuatro en materias civil y de trabajo, todos con residencia en Monterrey.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 37/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+3. Trece juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, dos en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
 
 V. QUINTO CIRCUITO:
 
@@ -868,3 +874,37 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+ACUERDO GENERAL 37/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO IV. CUARTO CIRCUITO, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+QUINTO. El titular del órgano jurisdiccional que cambia de denominación y que se trasforma, deberá colocar en un lugar visible de la puerta de entrada, estrados y demás que considere necesarios del local que ocupa, letreros en los que se informe que de conformidad con el Acuerdo General 37/2012, del Pleno del Consejo de la Judicatura Federal, se autorizó la transformación, cambio de denominación y competencia del Juzgado Tercero de Distrito en Materia Administrativa en el Estado de Nuevo León, con sede en Monterrey, en Juzgado Quinto de Distrito en Materias Civil y de Trabajo en el mismo Estado y residencia. La colocación de avisos se hará también en las oficinas de correspondencia común a que se hace referencia en el presente Acuerdo General.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+ACUERDO GENERAL 40/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO II. SEGUNDO CIRCUITO, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la república mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 30 DE NOVIEMBRE DE 2012.
+
+ACUERDO GENERAL 41/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO II. SEGUNDO CIRCUITO, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la república mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
