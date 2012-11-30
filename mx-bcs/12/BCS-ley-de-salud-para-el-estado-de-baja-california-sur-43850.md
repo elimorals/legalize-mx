@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2005-12-28"
+last_updated: "2012-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -91,7 +91,9 @@ VIII.- Información relativa a las condiciones, recursos y servicios de salud;
 
 IX.- Educación para la salud;
 
-X.- Orientación y vigilancia en la familia en materia de nutrición;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, trastornos de la conducta alimentaria en la familia;
 
 XI.- Control sanitario de los expendios de alimentos, bebidas no alcohólicas y alcohólicas;
 
@@ -247,9 +249,17 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y (sic)
 
 VIII.- Promover un sistema de regulación y fomento sanitario que verifique que los productos y servicios no sean nocivos para la salud.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación saludable y su relación con la salud, y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimenticia, y cuyos avances y resultados sean objeto de evaluación.
 
 ###### ARTÍCULO 11.
 
@@ -451,7 +461,9 @@ VIII.- La prevención y el control de las enfermedades buco dentales;
 
 IX.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-X.- La promoción del mejoramiento de la nutrición saludable;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X.- La orientación alimentaria, el mejoramiento de la nutrición y el desarrollo de programas y acciones destinadas a impulsar el deporte y la actividad física para la salud;
 
 XI.- La promoción del mejoramiento del medio ambiente;
 
@@ -783,9 +795,21 @@ III.- La realización obligatoria de programas para prevención del uso de subst
 
 IV.- La creación de instituciones públicas especializadas en el tratamiento e internamiento de personas con padecimientos mentales crónicos;
 
-V.- Las demás acciones que directa o indirectamente contribuyan al fomento y conservación de la salud mental de la población; y
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento y conservación de la salud mental de la población; y (sic)
 
-VI.- Un programa permanente de diagnóstico, prevensión y tratamiento de enfermedades mentales.
+VI.- Un programa permanente de diagnóstico, prevensión (sic) y tratamiento de enfermedades mentales.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VII.- La implementación de programas de información, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- La instrumentación de acciones de participación en redes sociales de Internet y en medios masivos de comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX.- El establecimiento de mecanismos gratuitos de asesoría, orientación y atención especializada para los tipos de trastornos mentales, procurando ofrecer mecanismos remotos de recepción a través de una línea pública de atención telefónica y por medios electrónicos.
 
 ###### ARTÍCULO 75.
 
@@ -795,9 +819,11 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psic
 
 II.- La organización, operación y supervisión de Instituciones Públicas y Privadas, dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, llevando para ello un registro de los mismos, que estará a cargo de la Secretaría de Salud.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 76.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores y jóvenes de hasta 25 años de edad que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales. A tal efecto, deberán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores y jóvenes de hasta 25 años de edad que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales. A tal efecto, deberán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales. Asimismo, deberán de prestar especial atención a las patologías que pudieran conducir a las niñas, niños y adolescentes al suicidio, garantizando la atención oportuna a través de programas preventivos para esos casos.
 
 ###### ARTÍCULO 77.
 
@@ -1047,7 +1073,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+II.- Nutrición y orientación alimentaria;
 
 III.- Identificación y control de los efectos nocivos del ambiente en la salud;
 
@@ -1065,15 +1093,21 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas y consecuencias de la disfunción familiar y/o de enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-III.- Orientar y capacitar a la población preferentemente en materia de salud mental, disfunción familiar, nutrición, salud bucal, educación sexual, riesgos de embarazos en edad temprana, planificación familiar, ejercicios para la salud, riesgos de automedicación, prevención de la fármaco dependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de salud mental, disfunción familiar, nutrición, sobrepeso, obesidad, trastornos de la conducta alimentaria, salud bucal, educación sexual, riesgos de embarazos en edad temprana, planificación familiar, actividad física para la salud, riesgos de automedicación, prevención de la fármaco dependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades; y
 
 IV.- Dar a conocer las leyes, reglamentos e instrumentos normativos que permitan a los usuarios mejor conocimiento de sus derechos.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 111.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales y estatales competentes, formularán, propondrán, desarrollarán y aplicarán programas de educación para la salud, los cuales deberán ser difundidos en los medios de comunicación masiva que actúen en el ámbito del Estado, optimizando los recursos para alcanzar una cobertura total de la población.
+Las autoridades sanitarias estatales en coordinación con las autoridades federales y estatales competentes, formularán, propondrán, desarrollarán y aplicarán programas de educación para la salud, que limiten el consumo de alimentos y bebidas con alto contenido calórico y bajo contenido nutrimental, e impulsen la actividad física para la salud, los cuales deberán ser difundidos en los medios de comunicación masiva que actúen en el ámbito del Estado, optimizando los recursos para alcanzar una cobertura total de la población.
 
-### CAPÍTULO III. NUTRICIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
 
 ###### ARTÍCULO 112.
 
@@ -1081,21 +1115,45 @@ La Secretaría de Salud en coordinación con las autoridades federales competent
 
 En los programas a que se refiere el párrafo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurarán, al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Secretaría de Salud, las Unidades Estatales del Sector Salud y los Gobiernos Municipales proporcionarán a la población información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta saludable a nivel individual, familiar o colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales.
+
 ###### ARTÍCULO 113.
 
 La Secretaría de Salud tendrá a su cargo:
 
-I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-II.- Vigilar y difundir el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición, el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física para la salud;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+II.- Vigilar y difundir el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición, sobrepeso, obesidad y trastornos de la conducta alimentaria, encaminados a promover estilos de vida saludables, especialmente en los grupos sociales más vulnerables;
 
 III.- Vigilar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
-IV.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimento, para el mantenimiento de las buenas condiciones de salud de la población;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento por la población en general y promover en la esfera de su competencia a dicho consumo a través de los medios de comunicación masiva; y
+IV.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición y hábitos alimenticios que prevalecen en la población y establecer las necesidades mínimas de nutrimento, para el mantenimiento de las buenas condiciones de salud de la población;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+V.- Recomendar los planes de alimentación y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento por la población en general y, según el caso, de la ingesta máxima, y promover en la esfera de su competencia a dicho consumo a través de los medios de comunicación masiva; y (sic)
 
 VI.- Advertir a la población mediante los medios de comunicación masiva, sobre el peligro del consumo de aquellos productos que sean considerados nocivos para la salud.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VII.- En coordinación con la Secretaría de Educación Pública, a través de los consejos de participación social en la educación, llevar a cabo el seguimiento de talla, peso e índice de masa corporal de la población escolar en educación básica y llevar a cabo la entrega informada de la cartilla nacional de salud a dicha población, con la finalidad de garantizar el acceso de los educandos a los servicios de prevención, detección y tratamiento oportuno de padecimientos como sobrepeso, obesidad, trastornos de la conducta alimentaria, diabetes mellitus y riesgo cardiovascular:
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VIII.- Emitir los lineamientos que deben seguirse para la formulación de políticas públicas en materia de alimentación y nutrición, y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX.- Difundir en los ámbitos familiar, escolar y laboral los buenos hábitos alimenticios y el mejoramiento de la calidad nutricional.
 
 ### CAPÍTULO IV. CONTROL DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -1747,9 +1805,7 @@ II.- Centro de abasto: El sitio destinado al servicio público en maniobras de c
 
 Los mercados y centros de abasto se sujetarán a lo siguiente:
 
-a) Contarán con servicios de agua potable, drenaje sanitario, iluminación y
-
-ventilación;
+a) Contarán con servicios de agua potable, drenaje sanitario, iluminación y ventilación;
 
 b) Deberán mantenerse claramente delimitadas las áreas de tránsito y las de expendio;
 
@@ -2265,6 +2321,16 @@ Se entienden como vendedores ambulantes, aquellas personas que realicen activida
 
 Los vendedores ambulantes que expendan productos alimenticios, deberán cumplir con las condiciones higiénicas que establezca la autoridad sanitaria competente, pero en ningún caso lo podrá hacer en zonas consideradas como insalubres.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+ARTÍCULO 275 BIS.- Se prohíbe la venta de alimentos por vendedores ambulantes en un perímetro de doscientos metros a la redonda de las instituciones educativas de nivel básico y medio superior del Estado.
+
+Los vendedores ambulantes que transiten por las calles, o que se ubiquen a una distancia fuera del perímetro de doscientos metros de los planteles educativos no podrán vender o distribuir alimentos con bajo valor nutricional y que contengan un alto contenido de azucares o endulzantes artificiales o sodio, así como bebidas carbonatadas, o alimentos con alto contenido en grasas trans que puedan originar problemas de salud.
+
+La Secretaría de Salud en coordinación con la Secretaria de Educación Publica y las autoridades que estipulen los reglamentos de la materia de los Ayuntamientos del Estado, realizarán operativos permanentes en las instituciones de nivel básico y medio superior del Estado a fin de revisar el cumplimiento de lo establecido en el párrafo primero del presente articulo.
+
+Los infractores podrán ser objeto de orientación y educación sobre los alimentos y productos que si pueden vender al publico, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes tales como la remoción, decomiso de mercancía y revocación de permisos, en caso de no cumplir con lo enumerado en los párrafos primero y segundo. Además de cumplir con todas las medidas de higiene correspondientes, como la acreditación sobre el manejo higiénico de los alimentos, así como el uso de trastes herméticos, exhibidores transparentes, hieleras, guantes y redes para el cabello, entre otros, que eviten la contaminación de los alimentos.
+
 ### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 276.
@@ -2703,9 +2769,11 @@ Se impondrá sanción administrativa de veinte y hasta cuarenta veces el salario
 
 Se impondrá sanción administrativa equivalente hasta cien veces el salario mínimo diario vigente en el Estado, a la violación de la disposición contenida en el artículo 105 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 333.
 
-Se impondrá sanción administrativa equivalente de veinte hasta cien veces el salario mínimo vigente en el Estado, por la violación a las disposiciones contenidas en los artículos 116, 127, 136, 175, 207, 211, 215, 234, 236, 253, 273 y 275 de esta Ley.
+Se impondrá sanción administrativa equivalente de veinte hasta cien veces el salario mínimo vigente en el Estado, por la violación a las disposiciones contenidas en los artículos 116, 127, 136, 175, 207, 211, 215, 234, 236, 253, 273, 275 y 275 Bis de esta Ley.
 
 Se sancionarán con el equivalente de cincuenta hasta quinientas veces de salario mínimo general diario en el Estado, a la violación de las disposiciones contenidas en los artículos 308 y 324 de esta Ley.
 
@@ -3047,7 +3115,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 14 DE JUNIO DE 2005.
 
@@ -3058,3 +3126,23 @@ B.O. 28 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se deroga cualquier disposición que se oponga al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 2015, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 76 Y SE ADICIONA LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 74, TODOS DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+B.O. 30 DE NOVIEMBRE DE 2012.
+
+DECRETO No. 2016 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, APARTADO A, FRACCIÓN X; 32, FRACCIÓN X; 109, FRACCIÓN II; 110, FRACCIÓN III; 111, PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SÉPTIMO DE LA LEY; 113, FRACCIONES I, II, IV Y V; 333, PÁRRAFO PRIMERO: Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 10; EL PÁRRAFO TERCERO AL ARTÍCULO 112; LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 113; EL ARTÍCULOS (SIC) 275 BIS; TODOS DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO: El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en un plazo de 60 días después de publicado el presente Decreto a fin de hacer efectivas las disposiciones establecidas en la presente Ley.
+
+TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
+
+CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
