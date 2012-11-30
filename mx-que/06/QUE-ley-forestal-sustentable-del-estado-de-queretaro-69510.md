@@ -4,7 +4,7 @@ identifier: "QUE-ley-forestal-sustentable-del-estado-de-queretaro-69510"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2012-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERETARO
 
-LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERETARO
+LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público e interés social. Tiene por objeto regular
 
 Son objetivos de esta Ley:
 
-I. Promover la organización, capacidad operativa, integralidad y profesionalización de las instituciones públicas del Estado y de sus municipios, para el desarrollo forestal sustentable y para la conservación de los ecosistemas;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+I. Promover la organización, capacidad operativa, integralidad y profesionalización de las instituciones públicas del Estado y de sus municipios con el propósito de promover el desarrollo forestal sustentable, a fin de lograr la conservación, protección, restauración y aprovechamiento de los ecosistemas forestales;
 
 II. Respetar el derecho al uso y disfrute preferente de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos del artículo 2, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables;
 
@@ -113,17 +115,33 @@ Además de las definiciones contenidas en el artículo 7 de la Ley General de De
 
 I. Acahual: toda vegetación derivada de intervenciones humanas en las áreas arboladas, cuya constitución no es leñosa;
 
-II. Degradación: proceso que describe el fenómeno causado por el hombre que impacta, disminuye y elimina la capacidad presente o futura del suelo y de los ecosistemas, para sustentar vida vegetal, animal y humana;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-III. Ecosistema Forestal: unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+II. Área forestal estatal: toda superficie que soporta recursos forestales que se localiza fuera de un ecosistema forestal natural y que no está caracterizado como tal por el Inventario Forestal Nacional, el Estatal, la Zonificación Forestal, el Programa de Ordenamiento Ecológico Regional, ni se encuentra en un espacio y tiempo determinado por los ordenamientos antes citados;
 
-IV. Erosión del suelo: desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua y el viento;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-V. Secretaría: la Secretaría de Desarrollo Agropecuario;
+III. Capital climático: instrumento de compensación ambiental que se constituye con recursos económicos que aportan los beneficiarios de autorizaciones de obras que se ubican en terrenos distintos a los forestales y que son sometidas al proceso de evaluación en materia de impacto ambiental de competencia estatal, mismo que será utilizado en acciones orientadas a la prevención y mitigación del cambio climático local;
 
-VI. Servicios ambientales: capacidad que tienen los ecosistemas para generar productos útiles para el hombre, entre los que se pueden citar regulación de gases, belleza escénica, y protección de la biodiversidad, suelos e hídrica; y
+IV. Degradación: proceso que describe el fenómeno causado por el hombre que impacta, disminuye y elimina la capacidad presente o futura del suelo y de los ecosistemas, para sustentar vida vegetal, animal y humana;
 
-VII. Veda forestal: restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el titular del Poder Ejecutivo Federal.
+V. Ecosistema Forestal: unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+VI. Erosión del suelo: desprendimiento, arrastre y depósito de las partículas del suelo por la acción del agua y el viento;
+
+VII. Secretaría: la Secretaría de Desarrollo Agropecuario;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VIII. Servicios ambientales: capacidad que tienen los ecosistemas para generar productos útiles para el hombre, entre los que se pueden citar regulación de gases, belleza escénica, y protección de la biodiversidad, suelos e hídrica;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IX. Veda forestal: restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el titular del Poder Ejecutivo Federal; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X. Vegetación forestal secundaria: toda vegetación natural no inducida que se deriva de intervenciones humanas en los ecosistemas forestales cuya constitución no es leñosa.
 
 ### Capítulo Tercero. De la coordinación entre instancias gubernamentales
 
@@ -149,11 +167,29 @@ La Comisión Nacional Forestal podrá participar en la integración y funcionami
 
 Para la atención y coordinación de las distintas materias del sector forestal, el Servicio Estatal Forestal contará, al menos, con los siguientes grupos de trabajo:
 
-I. Prevención y protección de incendios forestales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-II. Protección y restauración de ecosistemas; y
+I. Prevención y combate de incendios forestales;
+
+II. Protección y restauración de ecosistemas; y (sic)
 
 III. Inspección y vigilancia forestal.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IV. Cambio de uso de suelo de terrenos forestales;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+V. Planeación e inversión forestal;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VI. Aprovechamientos forestales maderables y no maderables; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VII. Evaluación de los servicios técnicos forestales.
 
 ###### Artículo 10.
 
@@ -165,9 +201,11 @@ Los recursos humanos, financieros y materiales que se requieran para el cumplimi
 
 El titular del Poder Ejecutivo del Estado, a través de las autoridades competentes y los municipios, ejercerá sus atribuciones y obligaciones en materia forestal, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-Corresponde al titular del Poder Ejecutivo del Estado:
+Corresponde al titular del Poder Ejecutivo del Estado a través de la Secretaría:
 
 I. Diseñar, formular, aplicar y vigilar, en concordancia con la política forestal nacional, la política forestal en el Estado;
 
@@ -203,13 +241,17 @@ XVI. Participar, de conformidad con los acuerdos y convenios que se celebren con
 
 XVII. Elaborar estudios técnicos para, en su caso, recomendar al Poder Ejecutivo Federal, a través de la Secretaría de Medio Ambiente y Recursos Naturales, el establecimiento, la modificación o el levantamiento de vedas, así como para la protección de ecosistemas y cuencas hidrológicas forestales;
 
-XVIII. Elaborar estudios técnicos para, en su caso, recomendar a la autoridad federal competente, el establecimiento de restricciones a la forestación y reforestación en su territorio;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XVIII. Elaborar estudios técnicos para, en su caso, recomendar a la autoridad federal competente, las prioridades, ubicación de áreas y estrategias a seguir a fin de eficientar las acciones de forestación y reforestación en su territorio;
 
 XIX. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la Entidad, teniendo en cuenta las consideraciones y proyecciones de largo plazo que se hagan, vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
 
 XX. Elaborar, monitorear, difundir y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
 
-XXI. Regular el cambio de uso de suelo en terrenos forestales y preferentemente forestales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXI. Previo acuerdo de coordinación con la autoridad competente, regular el cambio de uso de suelo en terrenos forestales;
 
 XXII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
 
@@ -223,7 +265,9 @@ XXVI. Promover y participar en la restauración de los ecosistemas forestales af
 
 XXVII. Realizar, evaluar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XXVIII. Elaborar y aplicar, de forma coordinada con los municipios, programas de reforestación y forestación en zonas degradadas que no sean competencia de la federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXVIII. Elaborar y aplicar, de forma coordinada con los municipios y la federación, programas de reforestación en los ecosistemas forestales y de forestación en terrenos distintos a los forestales, así como, llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
 
 XXIX. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal sustentable de la Entidad, de conformidad con esta Ley y con la política nacional forestal;
 
@@ -231,9 +275,27 @@ XXX. Promover la inversión en el mejoramiento de la infraestructura en las áre
 
 XXXI. Fortalecer y ampliar la participación de la producción forestal sustentable en el crecimiento económico estatal;
 
-XXXII. Atender los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley y otros ordenamientos aplicables, y que no estén expresamente reservados a la federación o a los municipios; y
+XXXII. Atender los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley y otros ordenamientos aplicables, y que no estén expresamente reservados a la federación o a los municipios; y (sic)
 
-XXXIII. Las demás que le determinen la presente y otras leyes aplicables.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXXIII. Autorizar el aprovechamiento de recursos forestales en terrenos ubicados fuera de los ecosistemas forestales naturales, determinados por el Inventario Nacional y Estatal Forestal y de Suelos, el Programa de Ordenamiento Ecológico y en predios con uso de suelo distinto al forestal;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXXIV. Autorizar la remoción de vegetación en terrenos distintos a los forestales e imponer medidas de compensación ambiental;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXXV. Determinar con base en el artículo 145 C, de la Ley de Hacienda del Estado de Querétaro y el reglamento de la presente Ley, los recursos económicos que los beneficiarios de una obra autorizada en materia de impacto ambiental de carácter estatal, deberán aportar al instrumento denominado Capital Climático como medida de compensación;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXXVI. Evaluar las actividades de las Unidades de Manejo Forestal y emitir recomendaciones que permitan mejorar la eficacia en materia forestal; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+XXXVII. Las demás que le determinen la presente y otras leyes aplicables.
 
 ###### Artículo 13.
 
@@ -319,9 +381,11 @@ En la celebración de convenios o acuerdos de coordinación, se tomará en consi
 
 Asimismo, los convenios y acuerdos deberán ajustarse, en lo conducente, a las bases previstas en la Ley General de Desarrollo Forestal Sustentable y demás disposiciones legales aplicables y se basarán en los principios de congruencia del Servicio Estatal Forestal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 16.
 
-Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este Capítulo, intervenga el Consejo Estatal Forestal.
+En el proceso de evaluación y seguimiento de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este Capítulo, deberá intervenir el Consejo Estatal Forestal.
 
 ###### Artículo 17.
 
@@ -351,9 +415,19 @@ I. La Planeación del Desarrollo Forestal Sustentable;
 
 II. El Sistema Estatal de Información Forestal;
 
-III. El Inventario Estatal Forestal y de Suelos; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+III. El Inventario Forestal Estatal y de Suelos mismo que deberá realizarse a nivel de microcuenca;
 
 IV. El ordenamiento forestal.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+V. Las Unidades de Gestión Ambiental contenidas en el Programa de Ordenamiento Ecológico Regional del Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VI. La zonificación forestal del Estado misma que deberá realizarse a nivel de microcuenca.
 
 En el diseño, la elaboración, la aplicación, la evaluación y el seguimiento de los instrumentos de política forestal, deberá observarse lo previsto en el artículo 19 de esta Ley.
 
@@ -373,9 +447,11 @@ Dichos programas indicarán los objetivos, estrategias y líneas de acción prio
 
 El Programa Estratégico Forestal Estatal de largo plazo, deberá ser elaborado, monitoreado, evaluado y revisado por la Secretaría y, en su caso, actualizado cada dos años.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 22.
 
-En la elaboración de la planeación del desarrollo forestal estatal y municipal, deberá tomarse en cuenta al Consejo Estatal Forestal.
+En la elaboración de la planeación del desarrollo forestal estatal y municipal, deberá tomarse en cuenta la opinión del Consejo Estatal Forestal.
 
 ###### Artículo 23.
 
@@ -383,9 +459,11 @@ El Gobernador del Estado y los Presidentes municipales incorporarán en sus info
 
 #### Sección Segunda. Del Sistema Estatal de Información Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir los indicadores y la información relacionada con la materia forestal que servirá como base estratégica para la planeación y la evaluación del desarrollo forestal sustentable, misma que estará disponible al público para su consulta.
+El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir los indicadores y la información relacionada con la materia forestal que servirá como base estratégica para la planeación y la evaluación del desarrollo forestal sustentable, misma que estará disponible al público para su consulta a través de la Secretaría.
 
 La Secretaría integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología emitidas por la Secretaría de Medio Ambiente y Recursos Naturales.
 
@@ -411,9 +489,13 @@ VI. La económica de la actividad forestal;
 
 VII. La referente a investigaciones y desarrollo tecnológico;
 
-VIII. La concerniente a organizaciones e instituciones de los sectores social y privado, así como de organismos públicos relacionados con este sector; y
+VIII. La concerniente a organizaciones e instituciones de los sectores social y privado, así como de organismos públicos relacionados con este sector; y (sic)
 
 IX. La demás que se considere estratégica para la planeación, monitoreo, conservación y evaluación del desarrollo forestal sustentable.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+X. Los cambios de uso de suelo de terrenos forestales autorizados, la tasa anual de deforestación, la de reforestación y el índice de sobrevivencia por municipio, microcuenca y ecosistema.
 
 #### Sección Tercera. Del Inventario Estatal Forestal y de Suelos
 
@@ -431,7 +513,9 @@ II. Los terrenos forestales temporales, su superficie y localización, así como
 
 III. Los tipos de vegetación forestal y de suelos, su localización, formaciones, clases y superficies, con tendencias y proyecciones que permitan clasificar y delimitar su extensión, así como el estado actual de la degradación, tanto en las zonas de conservación, protección y restauración como en las zonas de producción forestal, en relación con las cuencas hidrológicas forestales, las regiones ecológicas, las áreas forestales que serán permanentes y las áreas naturales protegidas;
 
-IV. La dinámica de cambio de la vegetación forestal del país, que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales, proyecciones y tendencias;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+IV. La dinámica de cambio de la vegetación forestal del Estado, que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales, proyecciones y tendencias;
 
 V. La cuantificación de los recursos forestales, que incluya la valoración de los ecosistemas y de los bienes y servicios ambientales que generen, así como la valoración directa e indirecta de los impactos que se ocasionen en los mismos;
 
@@ -487,15 +571,19 @@ Para llevar a cabo la ordenación, el titular del Poder Ejecutivo del Estado exp
 
 ### Capítulo Tercero. De las unidades de manejo forestal
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 35.
 
-El titular del Poder Ejecutivo del Estado, en coordinación con la Comisión Nacional Forestal, delimitará las Unidades de Manejo Forestal, con el propósito de lograr la ordenación forestal sustentable, la planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales. Las Unidades de Manejo Forestal contarán con las funciones que para el efecto le confiera el reglamento de esta Ley.
+La Secretaría en coordinación con la Comisión Nacional Forestal, delimitará las Unidades de Manejo Forestal, con el propósito de lograr la ordenación forestal sustentable, la planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales. Las Unidades de Manejo Forestal contarán con las funciones que para el efecto le confiera el reglamento de esta Ley y en su constitución deberán participar los dueños de terrenos forestales.
 
 ### Capítulo Cuarto. Del sistema de ventanilla única
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-El titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes y los municipios, procurará impulsar y promover, en su caso, dentro del ámbito de su competencia, el establecimiento del sistema de ventanilla única para la atención del usuario del sector forestal.
+El titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes y los municipios, impulsará y promoverá dentro del ámbito de su competencia, el establecimiento del sistema de ventanilla única para la atención del usuario del sector forestal.
 
 ###### Artículo 37.
 
@@ -505,13 +593,19 @@ Por medio del sistema de ventanilla única, las autoridades estatales y municipa
 
 ### Capítulo Primero. De las autorizaciones para el aprovechamiento de los recursos forestales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-En el marco de la coordinación institucional previsto en la Ley General de Desarrollo Forestal Sustentable, corresponderá al titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes, otorgar autorización sobre:
+Una vez celebrado el acuerdo de coordinación respectivo con la Federación, en el marco de la coordinación institucional previsto en la Ley General de Desarrollo Forestal Sustentable, corresponderá al titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes, otorgar autorización sobre:
 
-I. Cambio de uso de suelo en terrenos forestales o preferentemente forestales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-II. Aprovechamiento de recursos maderables en terrenos forestales y preferentemente forestales;
+I. Cambio de uso de suelo en terrenos forestales;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+II. Aprovechamiento de recursos maderables y no maderables en terrenos forestales;
 
 III. Establecimiento de plantaciones forestales comerciales en superficies mayores de cincuenta hectáreas, excepto aquellas en terrenos forestales temporales; y
 
@@ -549,9 +643,15 @@ El superficiario gozará del derecho del tanto si el propietario pretende enajen
 
 El Poder Ejecutivo del Estado y los municipios, consolidarán y promoverán en sus programas de desarrollo respectivos, los terrenos con uso de suelo forestal y preferentemente forestal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 46.
 
-Las autoridades estatales y municipales sólo podrán autorizar los cambios de uso de suelo en terrenos forestales y preferentemente forestales cuando el Consejo Estatal Forestal y la Secretaría de Medio Ambiente y Recursos Naturales otorguen su visto bueno.
+Previo acuerdo de coordinación, la Secretaría solamente podrá autorizar cambios de uso de suelo de terrenos forestales cuando se cuente con la opinión favorable debidamente fundada y motivada del Consejo Estatal Forestal, la cual estará basada en los estudios técnicos justificativos los cuales deberán contener un análisis integral cualitativo y cuantitativo del impacto ambiental que el cambio solicitado traerá sobre el ecosistema, los recursos forestales y asociados, la microcuenca de influencia, la valoración numérica de los servicios ambientales que presta el terreno solicitado, su participación en el cambio climático, su vinculación con los instrumentos vigentes de ordenación del territorio, tales como el Programa de Ordenamiento Ecológico Regional y los Programas o Planes Parciales de Desarrollo Urbano, entre otros.
+
+En la elaboración de los estudios técnicos justificativos de cambio de uso de suelo de terrenos forestales y sus correspondientes manifestaciones de impacto ambiental, se procurará la participación de profesionistas vinculados con las ciencias de la tierra.
+
+Cuando se solicite autorización de cambio de uso de suelo de terrenos forestales para terrenos incendiados, el expediente se acompañará de un estudio que describirá por lo menos, el tipo de incendio, los daños por estrato, abundancia y diversidad de las especies de flora y fauna afectadas, ciclo de vida o temporalidad de las especies, estado de los recursos forestales asociados y el impacto en el ecosistema y en la microcuenca.
 
 ### Capítulo Cuarto. De las certificaciones forestales y de bienes y servicios ambientales
 
@@ -569,33 +669,41 @@ II. Expedir certificados de bienes y servicios ambientales, que son los que brin
 
 ### Capítulo Quinto. De la investigación, colecta y uso de los recursos forestales
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 49.
 
-Será prioritario para el Poder Ejecutivo del Estado impulsar la investigación en el sector forestal, asignando los recursos correspondientes.
+El Poder Ejecutivo del Estado, impulsará la investigación necesaria para promover la conservación, protección, aprovechamiento y restauración de los ecosistemas forestales, asignando anualmente y de conformidad con el presupuesto de egresos aprobado por la Legislatura del Estado, los recursos correspondientes.
 
 ###### Artículo 50.
 
 El Poder Ejecutivo del Estado fomentará y promoverá la investigación relativa a la materia forestal, mediante convenios de colaboración con instituciones públicas y privadas.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-La colecta y uso de recursos biológicos forestales, con fines de utilización en investigación o biotecnología, requiere de autorización por parte de la Secretaría.
+Una vez celebrado el acuerdo de coordinación con la federación, la Secretaría autorizará la colecta y uso de recursos biológicos forestales, con fines de utilización en investigación o biotecnología.
 
 La autorización a que se refiere este artículo, sólo podrá otorgarse si se cuenta con el consentimiento escrito previo, expreso e informado del propietario o legítimo poseedor del predio en el que el recurso biológico forestal se encuentre.
 
-Cuando la colecta se realice por entidades públicas de los gobiernos federal, estatal o municipales, o bien, por el dueño del recurso, bastará con que se presente el aviso respectivo ante la Secretaría, ajustándose a la norma oficial mexicana y a la legislación correspondiente, acreditando que se cuenta con el consentimiento del propietario del terreno.
+Cuando la colecta se realice por entidades públicas de los gobiernos federal, estatal o municipales, o bien, por el dueño del recurso, bastará con que se presente el aviso respectivo ante la Secretaría, ajustándose a las normas oficiales mexicanas y a la legislación correspondiente, acreditando que se cuenta con el consentimiento del propietario del terreno.
 
 Podrá revocarse el permiso correspondiente, si se acredita que no fueron satisfechos los requisitos mencionados.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 52.
 
-También se requerirá de autorización, por parte de la Secretaría, cuando se trate de la colecta de especies forestales maderables y no maderables con fines de investigación científica, cuyos términos y formalidades se estipularán en las normas oficiales mexicanas que se expidan, así como en las demás disposiciones administrativas que resulten aplicables.
+También se requerirá de autorización, por parte de la Secretaría, previo acuerdo de coordinación con la federación, cuando se trate de la colecta de especies forestales maderables y no maderables con fines de investigación científica, cuyos términos y formalidades se ajustarán a las normas oficiales mexicanas vigentes.
 
 Las autorizaciones correspondientes a solicitudes que contemplen la manipulación o la modificación genética de germoplasma, para la obtención de organismos vivos genéticamente modificados con fines comerciales, deberán contar previamente con el dictamen favorable de la Secretaría y se sujetarán, en su caso, a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 53.
 
-El aprovechamiento de los recursos forestales para usos domésticos y colecta para fines de investigación en áreas que sean el hábitat de especies de flora o fauna silvestres endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies, sujetándose a los ordenamientos aplicables.
+El aprovechamiento de los recursos forestales maderables y no maderables para usos domésticos y colecta para fines de investigación en áreas que sean el hábitat de especies de flora o fauna silvestres enlistadas en la -NOM-059-SEMARNAT-2001 deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies sujetándose a los ordenamientos aplicables.
 
 ###### Artículo 54.
 
@@ -647,9 +755,11 @@ III. A pesar de las acciones instauradas en el terreno afectado y después de at
 
 Compete a la Secretaría la planificación, coordinación, vigilancia y ejecución de las medidas precisas para la regulación de las quemas con fines agropecuarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 61.
 
-Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, los interesados deberán solicitar el permiso correspondiente a la autoridad municipal, quien habrá de dar respuesta en un plazo no mayor de tres días hábiles; si no lo hace, se entenderá como una respuesta en sentido positivo. Asimismo, la autoridad municipal deberá informar inmediatamente de la quema autorizada, a la Secretaría, para que lleve el registro correspondiente.
+Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, una vez suscrito el acuerdo de coordinación respectivo los interesados deberán solicitar el permiso correspondiente a la Secretaría, quien habrá de dar respuesta en un plazo no mayor de tres días hábiles; si no lo hace, se entenderá como una respuesta en sentido positivo. Asimismo, la Secretaría establecerá el registro correspondiente.
 
 De igual forma, el interesado deberá dar aviso de la quema a los ocupantes de los predios colindantes, cuando menos con tres días de anticipación a la fecha en que se efectuará, con el objeto de que adopten las precauciones necesarias y, en su caso, coadyuven en los trabajos de control de fuego.
 
@@ -745,15 +855,19 @@ La Secretaría de Planeación y Finanzas diseñará, propondrá y aplicará medi
 
 Asimismo, establecerá estímulos fiscales y creará los instrumentos crediticios adecuados para el financiamiento de la actividad forestal, así como su conservación, incluyendo tasas de interés preferencial y garantizará mecanismos de apoyo para impulsar el desarrollo forestal sustentable.
 
-El Poder Legislativo del Estado, procurará aprobar anualmente las partidas necesarias para atender, promover e incentivar el desarrollo forestal del Estado.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+El Poder Legislativo del Estado, programará anualmente las partidas necesarias para atender, promover e incentivar el desarrollo forestal del Estado.
 
 ###### Artículo 76.
 
 El Poder Ejecutivo del Estado, promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales permanentes bajo programa de manejo forestal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 77.
 
-Se otorgarán incentivos económicos fiscales, de acuerdo a las leyes correspondientes, a las personas jurídicas que, bajo este esquema, impulsen el sector forestal del Estado.
+Se otorgarán incentivos económicos fiscales, de acuerdo a las leyes correspondientes, a las personas físicas y morales que, bajo este esquema, impulsen el sector forestal del Estado.
 
 ### Capítulo Segundo. Del Fondo Forestal Estatal
 
@@ -773,13 +887,23 @@ I. Las aportaciones que efectúen la Federación, el Estado y los municipios;
 
 II. Los créditos y apoyos de organismos nacionales e internacionales;
 
-III. Las aportaciones y donaciones de personas físicas o jurídicas de carácter privado, mixto, nacionales e internacionales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+III. Las aportaciones y donaciones de personas físicas o morales de carácter privado, mixto, nacionales e internacionales;
 
 IV. Los ingresos que se obtengan por la prestación de bienes y servicios ambientales y por asistencia técnica;
 
-V. Los recursos que se perciban por el cobro de multas por infracciones a esta Ley; y
+V. Los recursos que se perciban por el cobro de multas por infracciones a esta Ley; y (sic)
 
-VI. Los demás recursos que obtenga por cualquier título legal.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VI. Previo acuerdo con la federación, de recursos provenientes por concepto de compensación ambiental por cambio de uso de suelo de terrenos forestales;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+VII. Los recursos depositados en el instrumento denominado capital climático; y
+
+VIII. Los demás recursos que obtenga por cualquier título legal.
 
 ### Capítulo Tercero. De la cultura, la educación y la capacitación forestal
 
@@ -805,7 +929,9 @@ VII. Otras que sean de interés para desarrollar y fortalecer la cultura foresta
 
 En materia de educación y capacitación, la Secretaría, en coordinación con la Secretaría de Educación Pública y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará las siguientes acciones:
 
-I. Formación, capacitación, certificación y evaluación de técnicos y profesionistas forestales para los ecosistemas forestales del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+I. Formación, capacitación, certificación y evaluación anual de los técnicos y profesionistas forestales que presten servicios en el Estado;
 
 II. Recomendar la actualización constante de los planes de estudios de carreras forestales y afines que se impartan por escuelas públicas o privadas;
 
@@ -825,9 +951,11 @@ VI. Las demás que resulten necesarias para el desarrollo y fortalecimiento de l
 
 El titular del Poder Ejecutivo del Estado y los Presidentes municipales, en el ámbito de su competencia, promoverán la participación de la sociedad en general en la planeación, el diseño, la aplicación y la evaluación de los programas e instrumentos de la política forestal estatal, para que manifiesten su opinión y propuestas al respecto.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 83.
 
-El Poder Ejecutivo del Estado y los municipios podrán convocar a foros de consulta, a agrupaciones sociales y privadas y a personas físicas relacionadas con los servicios técnicos forestales, con la finalidad de incluir sus propuestas y opiniones a los programas y planes relativos al desarrollo forestal estatal y municipal.
+El Poder Ejecutivo del Estado y los municipios deberán convocar a foros de consulta, a agrupaciones sociales y privadas y a personas físicas y morales relacionadas con los servicios técnicos forestales, con la finalidad de incluir sus propuestas y opiniones en los programas y planes relativos al desarrollo forestal estatal y municipal.
 
 ###### Artículo 84.
 
@@ -839,27 +967,35 @@ El Poder Ejecutivo del Estado, promoverá y creará estímulos e incentivos econ
 
 ### Capítulo Segundo. Del Consejo Estatal Forestal
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 86.
 
-El Consejo Estatal Forestal, como órgano de carácter consultivo, de asesoría y de concertación en materia de planeación, supervisión y evaluación de las políticas de aprovechamiento, conservación y restauración de los ecosistemas forestales.
+El Consejo Estatal Forestal, es un órgano de carácter consultivo, de asesoría y de concertación en materia de planeación, supervisión y evaluación de las políticas de aprovechamiento, conservación y restauración de los ecosistemas forestales.
 
-El Poder Ejecutivo del Estado y los municipios, invariablemente deberán solicitar al Consejo Estatal Forestal su opinión técnica en materia de planeación forestal.
+El Poder Ejecutivo del Estado, los municipios y las Unidades de Manejo Forestal, invariablemente deberán solicitar al Consejo Estatal Forestal su opinión técnica en materia de planeación e inversión forestal.
 
 ###### Artículo 87.
 
 El reglamento interno del Consejo establecerá la composición y funcionamiento del mismo, así como sus atribuciones.
 
-En el Consejo podrán participar representantes de las dependencias y entidades del Poder Ejecutivo Federal, del Poder Ejecutivo del Estado, de los municipios, de los ejidos, las comunidades, los pequeños propietarios, los prestadores de servicios técnicos forestales, industriales y demás personas físicas o morales relacionadas e interesadas en la materia forestal.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-En la constitución de este Consejo se propiciará la representación proporcional y equitativa de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación.
+En el Consejo deberán participar representantes de las dependencias y entidades del Poder Ejecutivo Federal, del Poder Ejecutivo del Estado, de los municipios, de los ejidos, comunidades, pequeños propietarios, asociaciones de silvicultores, representantes de los colegios o asociaciones de prestadores de servicios técnicos forestales que estén debidamente constituidos en el Estado, industriales forestales, instituciones de investigación y organizaciones ciudadanas no gubernamentales relacionadas con el sector forestal.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+En la constitución de este Consejo se tendrá una representación proporcional y equitativa de sus integrantes y sus normas de operación interna responderán a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación y en todo momento, al interés público.
 
 ## Título Séptimo. De los medios de control, vigilancia y sanción forestal
 
 ### Capítulo Primero. De la prevención y vigilancia forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 ###### Artículo 88.
 
-La prevención y vigilancia forestal estará a cargo de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado y de los municipios respectivos, en el ámbito de su competencia. Tendrán como función primordial, la salvaguarda y el patrullaje de los ecosistemas y recursos forestales, así como la prevención de infracciones administrativas del orden forestal.
+La prevención y vigilancia forestal estará a cargo de la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano en el ámbito de su competencia.
 
 El Poder Ejecutivo del Estado, en coordinación con la Federación y los municipios, y con la colaboración de los propietarios forestales organizados, así como otras instituciones públicas, formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en las zonas ambientalmente críticas previamente diagnosticadas; prevenir actos indebidos de cambio de uso del suelo en terrenos forestales o preferentemente forestales; prevenir tráfico de especies y recursos forestales; impedir la modificación de cuencas hidrológico forestales, la extracción del suelo forestal, o bien, el transporte, el almacenamiento, la transformación o la posesión ilegal de materias primas forestales.
 
@@ -903,21 +1039,31 @@ I. El aseguramiento precautorio de los productos y materias primas forestales, a
 
 II. La clausura temporal, parcial o total de las instalaciones, maquinaria o equipos, según corresponda, para el aprovechamiento, almacenamiento o transformación de los recursos y materias primas forestales o de los sitios o instalaciones en donde se desarrollen los actos que puedan dañar o hayan dañado la biodiversidad o los recursos naturales.
 
-La Secretaría, previo aviso de la Secretaría de Desarrollo Sustentable, la única facultada para imponer la suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Secretaría de Desarrollo Sustentable será la única facultada para imponer la suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
 
 A juicio de la autoridad, se podrá designar al inspeccionado como depositario de los bienes asegurados, siempre y cuando se asegure que los bienes les dará un adecuado cuidado.
 
-La Secretaría de Desarrollo Sustentable podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán ante la instancia correspondiente hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause efectos, estos recursos se entregarán a quien beneficie el sentido de la resolución para que restaure el ecosistema dañado o se realicen las medidas de prevención correspondientes. El reglamento de esta Ley, determinará los mecanismos para implementar esta disposición.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+La Secretaría de Desarrollo Sustentable podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán ante la instancia correspondiente hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause efectos, estos recursos se utilizaran, de demostrarse la culpabilidad del presunto infractor en la resolución, en labores de restauración en el ecosistema dañado. El reglamento de esta Ley, determinará los mecanismos para implementar esta disposición.
 
 ###### Artículo 94.
 
 Cuando se imponga alguna o algunas de las medidas de seguridad previstas en este ordenamiento legal, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el retiro de las mismas.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+En todo caso se deberá ordenar la restauración del sitio dañado.
+
 ### Capítulo Quinto. De las infracciones
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 95.
 
-La violación a las disposiciones de esta Ley, a su reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Secretaría de Desarrollo Sustentable y por la Secretaría de Desarrollo Agropecuario, según sea el caso, siempre que no estén reservadas expresamente a otra dependencia o entidad; en los demás casos, por la autoridades municipales, de conformidad a las disposiciones aplicables.
+La violación a las disposiciones de esta Ley, a su reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Secretaría de Desarrollo Sustentable a través de la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano, siempre que no estén reservadas expresamente a otra dependencia o entidad; en los demás casos, por la (sic) autoridades municipales, de conformidad a las disposiciones aplicables.
 
 ###### Artículo 96.
 
@@ -1058,3 +1204,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. A partir de la entrada en vigor de la presente Ley, el titular del Poder Ejecutivo del Estado, tendrá un plazo de 360 días para emitir la normatividad reglamentaria necesaria.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Envíese la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
