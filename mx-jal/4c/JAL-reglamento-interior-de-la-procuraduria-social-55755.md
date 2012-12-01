@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-procuraduria-social-55755"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-19"
-last_updated: "2009-09-24"
+last_updated: "2012-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA PROCURADURIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 19 de mayo de 2007.
 
@@ -1009,13 +1009,17 @@ VIII. Apoyar al Procurador en el análisis de las excusas e impedimentos de los 
 
 IX. Proponer al Procurador las reformas legales que considere convenientes para el funcionamiento de la Procuraduría;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-X. Rendir los informes que le sean solicitados por el Procurador; y
+X. Rendir los informes que le sean solicitados por el Procurador;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-XI. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
+XI. Fungir como Secretario Técnico del Comité de Clasificación de Información Pública; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+XII. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
 
 #### SECCIÓN VII. COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
@@ -1295,7 +1299,7 @@ VIII. Verificar que los servidores públicos de la Procuraduría cumplan con la 
 
 IX. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador;
 
-X. Fungir como Secretario Técnico del Comité de Clasificación de Información Pública; y
+X. (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 
 XI. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
 
@@ -1410,3 +1414,7 @@ P.O. 24 DE SEPTIEMBRE DE 2009.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Hasta en tanto se realizan las modificaciones legales correspondientes, los procedimientos de responsabilidad administrativa serán sustanciados por la Dirección de Asuntos Internos y ratificados por el Director General de Visitaduría.
+
+P.O. 1 DE DICIEMBRE DE 2012.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
