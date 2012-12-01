@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2012-04-01"
+last_updated: "2012-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1349,15 +1351,21 @@ Los derechos por la prestación de servicios públicos, se causaran en el moment
 
 El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el comprobante que acredite su pago.
+El ente público o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el comprobante que acredite su pago.
 
-###### Artículo 45.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando el derecho por la prestación de un servicio deba pagarse por anualidad, el entero deberá efectuarse en el mes de enero del año al que corresponda el pago y presentar el comprobante a más tardar el 15 de febrero siguiente ante la dependencia que presta el servicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 45.
+
+Cuando el derecho por la prestación de un servicio deba pagarse por anualidad, el entero deberá efectuarse en el mes de enero del año al que corresponda el pago y presentar el comprobante a más tardar el 15 de febrero siguiente ante el ente público que presta el servicio.
 
 Si el servicio, cuyas cuotas se paguen por anualidades se solicita después de transcurrido el mes de enero, el entero deberá efectuarse dentro de los diez días siguientes a la autorización por parte del estado. Las subsecuentes anualidades se pagaran conforme al párrafo anterior.
 
@@ -1831,469 +1839,11 @@ XIV.- Por la colocación temporal de dispositivo físico de monitoreo a vehícul
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 52.
 
-Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio.
-
-Número de días
-
-de salario mínimo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario actualizado:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 12.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 16.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin que el mínimo sea inferior a 17.000
-
-ni el máximo superior a 2,162.00
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-No será exigible la presentación del avalúo comercial o bancario, si no son requeridos en la operación que se registra.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario, se cobrará:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 12.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 16.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin que el mínimo sea inferior a 17.000
-
-ni el máximo superior a 2,162.00
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-No será exigible la presentación del avalúo comercial o bancario, si no son requeridos en la operación que se registra.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, así como la servidumbre de paso sobre el monto total de las rentas pactadas y/o de la prestación recibida durante el período de vigencia del contrato, se pagará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
-
-ni el máximo superior a 136.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.3%, sin que el mínimo sea inferior a 6.000
-
-Ni el máximo superior a 541.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Por los créditos de habilitación o avío destinados a fines agropecuarios, agroindustriales y de pesca, se pagará el 50% de lo que resulte de conformidad con esta fracción, sin que el mínimo sea inferior a 6.000
-
-Si derivado de la celebración de convenios modificatorios, se incrementa el crédito pero se mantiene la misma garantía, se causarán los derechos, solo por la parte que se incrementa.
-
-Se excluyen de pago los convenios modificatorios de gravámenes ya inscritos, siempre que en el convenio prevalezca el monto del crédito y la garantía originales.
-
-Si con motivo de la celebración de convenios modificatorios se cambia la garantía original otorgada, se causarán los derechos por inscripción de gravámenes a que se refiere esta fracción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se causará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
-
-ni el máximo superior a 7.000
-
-En caso de sociedades anónimas constituidas en la modalidad de capital variable, solo se causarán, los derechos mencionados cuando dichas modificaciones se refieran al capital social fijo.
-
-Cuando se presente para su inscripción una escritura o protocolización de acta de asamblea general de accionistas, en la que se adviertan modificaciones al capital social realizadas con anterioridad sin que se hubiera efectuado el pago de los derechos correspondientes, será base para el pago de los derechos previstos en esta fracción, el monto del capital que resulte de restarle al capital social que aparezca consignado en el documento que se presente para su inscripción, la suma de los importes que aparezcan ya inscritos en el folio mercantil correspondiente.
-
-Lo dispuesto en el párrafo anterior, es aplicable también para la fracción siguiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se cobrará la tasa del 0.3 %, sin que el mínimo sea inferior a 9.000
-
-ni el máximo superior a 7.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 9.000
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-VIII.- Inscripción de operaciones de crédito de cualquier tipo celebradas con instituciones, entidades, sociedades u organismos auxiliares, de crédito.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Cuando el monto de la operación sea hasta el equivalente a 648 días de salario mínimo 5.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Cuando el monto de la operación sea esté entre los 649 y 1,295 días de salario mínimo 6.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 7.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Cuando el monto de la operación esté entre 1,944 y 2,591 días de salario mínimo 8.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-e).- Cuando el monto de la operación esté entre 2,592 y 3,814 días de salario mínimo 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario mínimo 12.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-g).- Cuando el monto de la operación esté entre los 4,965 y 9,600 días de salario mínimo 16.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-h).- Cuando el valor de la operación sea mayor al equivalente de 9,601 días de salario mínimo, se pagará sobre el monto del crédito, el 0.3%, sin que el máximo sea superior a 274000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-i).- Por los créditos de habilitación o avío destinados a fines agropecuarios, agroindustriales y de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 5.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-j).- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el incremento del crédito reestructurado siempre y cuando se mantenga la misma garantía, sin que el mínimo sea inferior a 6.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-k).- Además de los derechos de inscripción que correspondan de acuerdo con los incisos anteriores, se pagará por cada anotación que se requiera realizar para inscribir las garantías 5.000
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-En el caso de inscripción de créditos destinados a fraccionar, urbanizar o construir varios lotes a la vez, el pago se realizará por cada lote.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.3 % sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea inferior a 6.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.3%, sin que el importe del derecho sea menor de 6.000
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-XI.- Por la inscripción de fraccionamientos o régimen en propiedad en condominio, se pagará por cada lote o unidad, respectivamente, de acuerdo con la siguiente clasificación:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Habitacional densidad baja y campestre 8.150
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Habitacional densidad media 7.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Habitacional densidad alta 4.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Industrial, comercial y granjas 5.900
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
-
-XII.- Inscripción de relotificaciones de fraccionamientos, por cada lote, conforme a la siguiente clasificación;
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Habitacional densidad baja campestre 7.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Habitacional densidad media 6.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Habitacional densidad alta 5.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Industrial, comercial y granjas 4.360
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Inscripción de actas de asambleas de socios o de juntas de administradores 7.690
-
-XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Por la disolución 7.700
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Por la liquidación 7.700
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Por la disolución y liquidación, cuando se hubieran realizado en un solo acto 9.400
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.3 %, sin que el mínimo sea inferior a 6.000
-
-ni el máximo superior a 541.000
-
-XV.- Inscripción de la fusión y escición (sic) de sociedades mercantiles:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%, sin que se pague menos de 6.000
-
-ni el máximo superior 541.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Por la escisión, sobre el monto del capital social de las empresas escindidas, el 0.3%, sin que se pague menos de 6.000
-
-ni el máximo superior a 541.000
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-XVI.- Inscripción del otorgamiento de poderes, de la renovación, sustitución o revocación de los mismos:
-
-a).- Otorgamiento o sustitución de poderes:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-1.- Si se designa un solo apoderado 7.700
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-2.- Por cada apoderado adicional que se designe en el mismo documento 5.080
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-3.- Por cada poderdante, cuando aparezca en el documento más de uno 5.080
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Renovación de poderes, por cada apoderado 5.080
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Revocación de poderes, por cada apoderado 5.080
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 9.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 7.000
-
-XIX.- Inscripción de modificaciones o rectificaciones de superficie de predios, así como de las medidas y colindancias registradas en el folio o libro correspondiente:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Cuando se incremente la superficie, se cobrará la tasa del 0.3% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 6.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y colindancias 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Inscripción de fusiones y subdivisiones sin traslación de dominio 9.000
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-XIX Bis.- Por la inscripción del programa parcial o incorporación municipal, de un fraccionamiento:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Programa parcial o incorporación municipal sin protocolización 19.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Programa parcial o incorporación municipal protocolizado 9.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.125%, sin que se pague menos de 6.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XX BIS.- Por la corrección de folios respecto de errores cometidos en el documento inscrito, cuando no traiga consigo la modificación al valor que hubiera servido de base para la determinación de los derechos pagados por la inscripción, por cada dato que se corrija 4.500
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 7.500
-
-XXII.- Anotaciones en folios o libros, por cada una:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 7.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Por la anotación de demandas judiciales 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima y 2905 del Código Civil del Estado de Colima 7.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-d).- Por la anotación de fianzas judiciales o legales 10.500
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 4.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Si se hubiesen otorgado en garantía varios inmuebles para una misma operación de crédito o que varias operaciones de crédito se hayan garantizado con un solo inmueble, a partir de la segunda cancelación el derecho a pagar será de 5.000
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-En el caso del párrafo anterior, se entenderá que a cada inmueble corresponderá una cancelación, aún cuando la inscripción del gravamen esté realizada en un solo folio.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 7.500
-
-XXV.- Depósito de cualquier documento:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Si se depositan directamente en las oficinas de la Dirección 9.000
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-b).- Por recibir el depósito fuera de las oficinas de la Dirección en horas ordinarias o extraordinarias 12.000
-
-En el caso del inciso b), deberán cubrirse adicionalmente los gastos de traslado y demás que se generen.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXVI.- Ratificación de documentos y firmas ante el registrador 9.000
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXVII.- Atención de consultas de particulares sobre existencia o inexistencia de inscripciones en el Registro sin expedición de constancia impresa, por cada consulta 3.480
-
-XXVIII.- Expedición de certificados, informes y constancias:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Búsqueda de documentos para la expedición de certificados o informes, por cada predio, por año 7.500
-
-a1).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-1.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-2.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-b).- Expedición de certificados de existencia o inexistencia de gravámenes 3.500
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-1.- De uno a diez años anteriores 3.069
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-2.- De once a más años anteriores 4.202
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 1.000
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-Sin que el máximo sea superior a 5.105
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
-
-b1).- Expedición de certificados de existencia o inexistencia de gravámenes en los Kioscos de Servicios e Información:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
-
-1.- Si el predio no tiene gravámenes 3.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
-
-2.- Si el predio tiene gravámenes 5.110
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-c).- Expedición de certificados de no inscripción de propiedad solicitados vía internet o en ventanilla 4.620
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-d).- Expedición de constancias de registro independientemente de la búsqueda, solicitadas vía internet o en ventanilla 4.620
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-e).- Expedición mecanografiada de constancias de registro, por cada hoja escrita hasta por ambas caras 4.069
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-f).- Expedición de constancias en copia fotostática certificadas 8.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
-
-g).- Expedición de copias fotostáticas simples de constancias de registro 4.500
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-XXIX.- Tratándose de servicio urgente por prelación, para cualquier inscripción o expedición de cualquier clase de documento, las cuotas anteriores se incrementarán en un 100%.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XXX.- Tratándose de escritura pública de inscripción y cancelación, otorgados fuera de esta entidad federativa, las cuotas anteriores tendrán un pago adicional de 24.000
-
-XXXI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3151,6 +2701,8 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
@@ -3191,71 +2743,207 @@ a).- En las oficinas de la dependencia 1.000
 
 b).- En los Kioscos de Servicios e información 0.830
 
-IV.- Por la prestación de servicios relacionados con la autorización para la operación y vigilancia de empresas de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- Por el estudio y tramite de la solicitud para la autorización 97.625
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-b).- Por el otorgamiento de la autorización para prestar los servicios de vigilancia en inmuebles 97.625
+IV.- Por la prestación de servicios relacionados con la expedición de la autorización estatal para la operación de servicios de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
 
-c).- Por el otorgamiento de la autorización para prestar los servicios de traslado y custodia de bienes y valores 125.052
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d).- Por el otorgamiento de la autorización para prestar los servicios de traslado y protección de personas 97.625
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-e).- Por el otorgamiento de la autorización para prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
+a).- Por el estudio y trámite de la solicitud para la expedición de la autorización estatal. 97.625
 
-f).- Por el otorgamiento de la autorización para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.052
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-h).- Por el otorgamiento de la revalidación o renovación anual para el servicio de vigilancia en inmuebles:
+b).- Por el otorgamiento de la autorización estatal para prestar los servicios de vigilancia en inmuebles. 97.625
 
-1.- Prestadoras con nómina de 1 a 25 elementos 125.052
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2.- Prestadoras con nómina de 26 a 50 elementos 167.360
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-3.- Prestadoras con nómina de 51 a 100 elementos 251.040
+c).- Por el otorgamiento de la autorización estatal para prestar los servicios de traslado y custodia de bienes y valores 125.052
 
-4.- Prestadoras con nómina de 101 a 200 elementos 348.670
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-5.- Prestadoras con nómina de 201 en adelante 418.410
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 150.675
+d).- Por el otorgamiento de la autorización estatal para prestar los servicios de traslado y protección de personas. 97.625
 
-j).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y protección de personas 138.470
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-k).- Por el otorgamiento de la revalidación o renovación anual para el servicio de localización en información sobre personas físicas o morales y bienes 111.570
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-l).- Por el otorgamiento de la revalidación o renovación anual para el servicio de establecimiento y operación de sistemas y equipos de seguridad 125.052
+e).- Por el otorgamiento de la autorización estatal para prestar los servicios de localización e información sobre personas físicas o morales y bienes. 55.785
 
-m).- Por el otorgamiento de la revalidación o renovación anual de cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.052
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-n).- Por la inscripción del personal en el registro de la Secretaría General de Gobierno, por cada elemento que se inscriba 0.830
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-ñ).- Por la consulta de antecedentes laborales de cada elemento 0.410
+f).- Por el otorgamiento de la autorización estatal para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad. 83.680
 
-o).- Por la expedición de la credencial única de personal o por su resello anual 0.550
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-p).- Por cambio de representante legal de la prestadora 55.780
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-q).- Por cada cambio en la titularidad de las acciones o partes sociales de la prestadora 55.780
+g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada, con autorización estatal. 125.052
 
-r).- Por la ampliación o cambio de la modalidad del servicio:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1.- Por prestar los servicios de vigilancia en inmuebles 97.620
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+h).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para modalidad de vigilancia en inmuebles.
+
+1.- Prestadoras con nómina de 1 a 25 elementos. 125.052
+
+2.- Prestadoras con nómina de 26 a 50 elementos. 167.360
+
+3.- Prestadoras con nómina de 51 a 100 elementos. 251.040
+
+4.- Prestadoras con nómina de 101 a 200 elementos. 348.670
+
+5.- Prestadoras con nómina de 201 en adelante. 418.410
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+i).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de traslado y custodia de bienes o valores. 150.675
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+j).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de traslado y protección de personas. 138.470
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+k).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de localización en información sobre personas físicas o morales y bienes. 111.570
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+l).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 125.052
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+m).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada. 125.052
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+n).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+ñ).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+o).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+p).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+q).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+r).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+s).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+V.- Por la prestación de servicios relacionados con la operación de las prestadoras de servicios de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
+
+a).- Por la inscripción del personal de las prestadoras con autorización estatal en el Registro Nacional de Personal de Seguridad Pública, por cada elemento que se inscriba. 0.830
+
+b).- Por la consulta de antecedentes laborales y/o criminales de cada elemento de las prestadoras con autorización estatal. 0.410
+
+c).- Por la expedición de la credencial única de personal o por su resello anual. 0.550
+
+d).- Por el registro del cambio de representante legal de la prestadora. 55.780
+
+e).- Por el registro del cambio en la titularidad de las acciones o partes sociales de los socios de la prestadora. 55.780
+
+f).- Por la ampliación o cambio de la modalidad de servicio de seguridad privada autorizada:
+
+1.- Por prestar los servicios de vigilancia en inmuebles. 97.620
 
 2.- Por prestar los servicios de traslado y custodia de bienes y valores 125.052
 
 3.- Por prestar los servicios de traslado y protección de personas 97.620
 
-4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.780
+4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes. 55.780
 
-5.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
+5.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad. 83.680
 
-6.- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 251.040
+6.- Por cada actividad distinta a las anteriores relacionado y vinculada directamente con los servicios seguridad privada. 251.040
 
-s).- Por cada curso de capacitación básico, por cada elemento del personal operativo 6.970
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+VI.- Por la prestación de servicios relacionados con la inscripción en el Registro Estatal de prestadoras de servicios de seguridad privada con autorización federal, se pagarán derechos conforme a las siguientes cuotas:
+
+a) Por el registro de prestadoras con autorización para la modalidad de vigilancia en inmuebles. 97.625
+
+b) Por el registro de prestadoras con autorización para la modalidad de traslado y custodia de bienes y valores. 125.052
+
+c) Por el registro de prestadoras con autorización para la modalidad de traslado y protección de personas. 97.625
+
+d) Por el registro de prestadoras con autorización para la modalidad de localización e información sobre personas físicas o morales y bienes. 55.785
+
+e) Por el registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 83.68
+
+f) Por el registro de prestadoras con autorización para la modalidad de actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada. 125.052
+
+g) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de vigilancia en inmuebles:
+
+1.- Prestadoras con nómina de 1 a 25 elementos. 125.052
+
+2.- Prestadoras con nómina de 26 a 50 elementos. 167.360
+
+3.- Prestadoras con nómina de 51 a 100 elementos. 251.040
+
+4.- Prestadoras con nómina de 101 a 200 elementos. 348.670
+
+5.- Prestadoras con nómina de 201 en adelante. 418.410
+
+h) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de traslado y custodia de bienes y valores. 150.675
+
+i) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de traslado y protección de personas. 138.470
+
+j) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de localización e información sobre personas físicas o morales y bienes. 111.570
+
+k) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 125.052
+
+l) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada. 125.052
+
+m).- Por la inscripción del personal de las prestadoras con autorización federal en el Sistema Estatal de Seguridad Pública, por cada elemento que se inscriba. 2.27
+
+n).- Por la consulta de antecedentes laborales y/o criminales de cada elemento de las prestadoras con autorización federal, por cada elemento que se consulte. 0.676
+
+ñ).- Por la inscripción del personal de las prestadoras con autorización federal en el Registro Nacional de Personal de Seguridad Pública, por cada elemento que se inscriba. 2.27
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 57.
 
@@ -3729,39 +3417,93 @@ h).- Por uso del inmueble en cualquier evento que no sea deportivo, por hora, re
 
 Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Colimán, así como del Estadio Colima y el Auditorio Manuel Bonilla Valle.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 59 Bis.
+
+Por los servicios prestados en la Coordinación de los Servicios Educativos del Estado, se pagarán los derechos siguientes:
+
+Número
+
+de días
+
+de salario
+
+mínimo
+
+I.- Reposición de credencial de alumno 0.330
+
+II.- Expedición de duplicado de certificados escolares en los
+
+niveles de Educación Básica: Preescolar, Primaria y
+
+Secundaria 0.470
+
+III.- Informe de Calificaciones de Estudios Parciales de
+
+Educación Secundaria 0.470
+
+IV.- Revalidación de Estudios de Educación Básica de nivel
+
+Primaria y Secundaria 0.330
+
 ###### Artículo 60.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPÍTULO VII TER
+
+Servicios prestados por el Instituto para el Registro del Territorio del Estado de Colima.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 61.
 
 Por los servicios prestados en la Secretaría de Salud y Bienestar Social se pagarán los siguientes derechos:
 
-Número de días
+Número
 
-de salario mínimo
+de días
+
+de salario
+
+mínimo
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
-I.- Opinión técnica para el funcionamiento de
+I.- Opinión técnica:
 
-establecimientos:
+a).- Para el funcionamiento de establecimientos con venta
 
-a).- Con venta de alimentos 4.000
+de alimentos. 4.000
 
-b).- Con venta de alimentos y bebidas alcohólicas 8.000
+b).- Para el funcionamiento de establecimientos con venta de
 
-c).- Con venta de bebidas alcohólicas 12.000
+alimentos y bebidas alcohólicas. 8.000
 
-d).- De insumos para la salud 4.000
+c).- Para el funcionamiento de establecimientos con venta de
 
-e).- De servicios de salud 6.000
+bebidas alcohólicas. 12.000
+
+d).- Para el funcionamiento de establecimientos con venta de
+
+insumos para los servicios de salud. 4.000
+
+e).- En materia de servicios de salud. 6.000
+
+f).- En materia de salud ambiental. 8.000
+
+g).- En materia de publicidad. 5.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3807,9 +3549,13 @@ IX.- Por autorización de libros de bancos de
 
 sangre y transfusión sanguínea 10.000
 
-X.- Por autorización de libros de control de
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-estupefacientes y psicotrópicos 6.000
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+X.- Por autorización de libros de control de estupefacientes y
+
+Psicotrópicos, por cada libro 6.000
 
 XI.- Por reposición de licencia sanitaria 6.000
 
@@ -3883,6 +3629,14 @@ XIX.- Consulta en materia de sanidad internacional 4.000
 
 XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+XXI.- Dictamen técnico de la infraestructura física, funcional
+
+y operativa, de establecimientos de servicios de salud. 45.000
+
 ###### Artículo 62.
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
@@ -3891,9 +3645,1013 @@ XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+
 ### CAPITULO IX. Otros Derechos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 62 Bis 3.
+
+Por los servicios prestados en la Dirección del Registro del Territorio.
+
+I.- Por cada asignación o punto de coordenadas geodésicas 10.000
+
+II.- Informes catastrales relacionados con los predios registrados,
+
+a solicitud de los interesados:
+
+1.- Certificado 1.800
+
+2.- Sin Certificar 1.000
+
+III.- Por cartografía a escala 1:1,000 en forma digital de las
+
+distintas manchas urbanas:
+
+1.- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
+
+2.- Por cada capa adicional 20.000
+
+IV.- Por la impresión de archivos digitales:
+
+a).- Plano general a diferentes escalas:
+
+1.- Graficado y certificado incluyendo manzanas, predios y calles 8.000
+
+2.- Por cada impresión de hasta 1.10 X 0.84 mts. 8.000
+
+3.- Por cada capa adicional al plano general 2.500
+
+4.- Por cada impresión de hasta 1.10 X 0.84 mts. 2.500
+
+b.- Por la expedición de planos de predios urbanos con medidas,
+
+superficies y nombre de calles:
+
+1.- Sin nombre de colindantes. 3.600
+
+2.- Con nombres de colindantes. 4.600
+
+c).- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
+
+1.- Manzanas, predios y nombre de calles. 5.000
+
+2.- Predios rústicos, vías de comunicación, hidrografía. 5.000
+
+3.- Por cada nombre de colindante o propietario. 3.480
+
+d).- Por cartografía en formato digital por cada mancha urbana
+
+que incluya:
+
+1.- Archivo en formato “Shape”, manzanas y predios. 100.000
+
+2.- Por cada capa adicional. 50.000
+
+e).- Por cartografía a escala 1:1,000 en formato digital de los
+
+distintos polígonos ejidales parcelarios o solares, así como de
+
+los predios de pequeña propiedad por municipio:
+
+1.- Archivos en formatos DXF (predios) 75.000
+
+2.- Por cada capa adicional 20.000
+
+f).- Por cartografía en formato digital por cada polígono ejidal
+
+parcelario o solar, así como de predios de pequeña propiedad
+
+por municipio:
+
+1.- Archivos en formatos SHAPE (predios) 100.000
+
+2.- Por cada capa adicional 50.000
+
+g).- Por búsqueda en los archivos históricos catastrales 7.500
+
+h).- Por cartografía en formato digital en archivo de formato PDF:
+
+1.- Por mancha urbana (manzanas, predios y nomenclaturas
+
+de calles) 37.500
+
+2.- Por cada capa adicional en mancha urbana 10.000
+
+3.- Por cada Polígono ejidal parcelario o solar, así como de
+
+predios de pequeña propiedad por municipio 37.500
+
+4.- Por cada capa adicional de polígonos parcelarios, solares o
+
+predios de la pequeña propiedad 10.000
+
+V.- Por el uso de puntos de lared (sic) geodésica estatal:
+
+a).- Por documento impreso o digital de uno o varios puntos del
+
+conjunto vértices geodésicos, distribuidos en el territorio estatal,
+
+que proporcionan servicios de posicionamiento geodésico mediante
+
+datos en línea y coordenadas en el marco oficial vigente.
+
+1.- Por punto geodésico 2.000
+
+VI.- Georreferenciación de mapa o plano:
+
+a).- Por cada imagen georreferenciada del plano o mapa y archivo de
+
+metadatos en base a la norma vigente INEGI 1.350
+
+VII.- Digitalización de información del plano o mapa:
+
+a).- Por la digitalización del contenido del mapa o plano, incluye capa
+
+(s) vectorial (es) que conforman el plano o mapa:
+
+1.- Por cada capa vectorial. 6.000
+
+b).- Escaneo de plano o mapa de diferentes formatos y entrega de
+
+archivos:
+
+1.- Tamaño carta, oficio y doble carta 1.500
+
+2.- Tamaño mayor hasta 90 X 60 cm 2.500
+
+VIII.- Impresión de plano o mapa.
+
+a).- Plano general a diferentes escalas:
+
+1.- Incluyendo objetos territoriales 8.000
+
+2.- Por cada impresión hasta de 1.10 X 0.84 Mts. 8.000
+
+3.- Por cada capa adicional al plano general. 2.500
+
+b).- Por expedición de planos referidos en la superficie territorial del
+
+Estado de Colima:
+
+1.- Con objetos territoriales 4.600
+
+c).- Por cada impresión simple de planos en tamaño carta u oficio
+
+que incluya:
+
+1.- Objetos territoriales 5.000
+
+2.- Vías de comunicación, hidrografía, glorietas, monumentos,
+
+etc. 5.000
+
+3.- Por cada objeto territorial 1.000
+
+d).- Por cartografía a escala 1:1,000 en formato digital de los
+
+distintos polígonos establecido en la superficie territorial del
+
+Estado de Colima, por municipio
+
+1.- Archivos en formato DXF. 5.000
+
+2.- Por cada capa adicional 15.000
+
+e).- Por cartografía en formato digital por cada polígono establecido
+
+en la superficie territorial del Estado de Colima, por municipio
+
+1.- Archivos en formato SHAPE. 100.000
+
+2.- Por cada capa adicional. 50.000
+
+f).- Por cartografía en formato digital en archivo en formato PDF
+
+1.- Por municipio del Estado de Colima 37.500
+
+2.- Por cada capa adicional 100.000
+
+3.- Por cada polígono establecido en la superficie del Estado de
+
+Colima 37.500
+
+4.- Por cada capa adicional de polígonos establecidos en la
+
+superficie del Estado de Colima, por municipio 10.000
+
+IX.- Levantamiento geodésico y topográfico:
+
+a).- Por levantamiento y trabajos de planimetría en terreno Plano -
+
+Lomerío de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 20.50
+
+2.- Por máximo desde 1000 hectáreas 1,862.000
+
+b).- Por levantamiento y trabajos de planimetría en terreno
+
+Montañoso de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 34.000
+
+2.- Por máximo desde 1000 hectáreas 1,946.500
+
+c).- Por levantamiento y trabajos de planimetría y
+
+configuracióntopográfica (sic) en terreno Plano - Lomerío de 1 a
+
+1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 34.000
+
+2.- Por máximo desde 1000 hectáreas 2,623.500
+
+d).- Por levantamiento y trabajos de planimetría y configuración
+
+topográfica en terreno montañoso de 1 a 1000hectáreas (sic).
+
+1.- Como mínimo desde 1 hectárea 67.700
+
+2.- Por máximo desde 1000 hectáreas 6,601.000
+
+X.- Certificación de levantamiento geodésico y topográfico:
+
+a).- Por levantamiento y trabajos de planimetría en terreno Plano -
+
+Lomerío de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 20.500
+
+2.- Por máximo desde 1000 hectáreas 1,862.000
+
+b).- Por levantamiento y trabajos de planimetría en terreno
+
+Montañoso de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 34.000
+
+2.- Por máximo desde 1000 hectáreas 1,946.500
+
+c).- Por levantamiento y trabajos de planimetría y configuración
+
+topográfica en terreno Plano - Lomerío de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 34.000
+
+d).- Por levantamiento y trabajos de planimetría y configuración
+
+topográfica en terreno montañoso de 1 a 1000 hectáreas.
+
+1.- Como mínimo desde 1 hectárea 67.700
+
+2.- Por máximo desde 1000 hectáreas 6,601.000
+
+XI.- Disposición vía Web de Mapa Base
+
+a).- Disposición vía web para uso restringido (Consulta) de
+
+capas de información del Mapa base
+
+1.- Disposición por mes 6.000
+
+XII.- Expedición de cartas geográficas.
+
+a).- Para la expedición de la información territorial en cuanto
+
+a los límites, superficie y capas de información.
+
+1.- Por cada capa del mapa base Estatal 6.000
+
+XIII.- Registro de peritos valuadores:
+
+1.- Por los derechos de registro y expedición de credencial de
+
+perito valuador. 30.000
+
+2.- Refrendo 20.000
+
+XIV.- Todo trámite solicitado y realizado vía WEB en las diferentes
+
+direcciones del Instituto para el Registro del Territorio, se cobrará
+
+un salario mínimo menos del costo total de dicho trámite
+
+XV.- Por impresión de la Cedula Territorial con información general
+
+de un objeto territorial 4.000
+
+XVI.- Por las asesorías que se realicen por parte del Instituto
+
+a).- Asesoría en generación y uso de metadatos geográficos
+
+(4 horas) 41.000
+
+b).- Asesoría en Arcgis nivel básico (12 horas) 142.000
+
+c).- Asesoría en Arcgis nivel medio (12 horas) 203.000
+
+d).- Asesoría en Arcgis nivel avanzado (12 horas) 244.000
+
+e).- Asesoría en Autocad (civilcad) nivel básico (10 horas) 102.000
+
+f.-) (sic) Asesoría en Autocad (civilcad) nivel medio
+
+(10 horas) 135.000
+
+g).- Asesoría en Autocad (civilcad nivel avanzado (10 horas) 169.000
+
+h).- Asesoría en normatividad vigente (5 horas) 51.000
+
+i).- Asesoría en el uso y tratamiento de imágenes (16 horas) 406.000
+
+j).- Asesoría en el manejo de GPS (8 horas) 203.000
+
+k).- Asesoría en manejo de estación total (8 horas) 162.000
+
+l).- Asesoría en el uso y manejo de navegador (8 horas) 122.000
+
+m).- Asesoría en la interpretación de la norma ISO 9000
+
+(15 horas) 80.000
+
+n).- Asesoría en la aplicación de la norma ISO 9001 (15 horas) 90.000
+
+ñ).- Asesoría en la generación de planes y procesos de calidad
+
+(20 horas) 120.000
+
+o).- Asesoría en generación de indicadores de calidad (15 horas) 80.000
+
+p).- Asesoría en el uso manejo de documentos de calidad
+
+(15 horas) 90.000
+
+q).- Asesoría en la formación del coordinación de calidad
+
+(20 horas) 120.000
+
+r).- Asesoría en la generación de manuales de organización
+
+(15 horas) 80.000
+
+s).- Asesoría en manejo del sistema integral de gestión registral
+
+(SIGER) (20 horas) 102.000
+
+t).- Asesoría en manejo del sistema web del Instituto (20 horas) 102.000
+
+u).- Asesoría en instalación de redes y adquisición de equipos
+
+(20 horas) 102.000
+
+v).- Asesoría en herramientas informáticas (20 horas) 102.000
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+
+###### Artículo 62 Bis 1.
+
+Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio, se pagarán los siguientes derechos
+
+Número
+
+de días
+
+de salario
+
+mínimo
+
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario actualizado:
+
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 9.000
+
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964
+
+días de salario mínimo. 12.000
+
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario
+
+mínimo. 16.000
+
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo,
+
+el 0.3%, sin que el mínimo sea inferior a. 17.000
+
+Ni el máximo superior a 2,162.000
+
+No será exigible la presentación del avalúo comercial o bancario,
+
+si no son requeridos en la operación que se registra.
+
+Si la adquisición del inmueble cuya inscripción genera el pago
+
+del derecho, se realiza por persona física con actividades
+
+empresariales o persona moral constituida como sociedad
+
+mercantil, siempre que el inmueble se destine a fines comerciales
+
+o industriales y dichos fines se asienten por el fedatario en el
+
+instrumento público presentado para su inscripción, la cuota a
+
+pagar será. 5.000
+
+La cuota señalada en el párrafo anterior no aplica cuando el
+
+inmueble objeto de la adquisición se destine a su enajenación o a
+
+la construcción con fines habitacionales.
+
+II.- Por la inscripción de contratos de fideicomiso de cualquier tipo,
+
+sobre el valor de los bienes fideicomitidos que resulte mayor entre
+
+el de operación, el catastral vigente en el ejercicio fiscal en que se
+
+solicite el servicio y el de avalúo comercial o bancario, se cobrará:
+
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo. 9.000
+
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario
+
+mínimo. 12.000
+
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario
+
+mínimo. 16.000
+
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin
+
+que el mínimo sea inferior a. 17.000
+
+Ni el máximo superior a. 2,162.000
+
+No será exigible la presentación del avalúo comercial o bancario, si no son
+
+requeridos en la operación que se registra.
+
+III.- Inscripción de contratos de arrendamiento puro, de arrendamiento
+
+financiero, o de cualquier otro tipo, así como la servidumbre de paso
+
+sobre el monto total de las rentas pactadas y/o de la prestación recibida
+
+durante el período de vigencia del contrato, se pagará la tasa del 0.3%,
+
+sin que el mínimo sea inferior a. 6.000
+
+Ni el máximo superior a. 36.000
+
+IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto
+
+del adeudo o garantía, el 0.3%, sin que el mínimo sea inferior a. 6.000
+
+Ni el máximo superior a 541.000
+
+Por los créditos refaccionarios y de habilitación o avío, destinados
+
+a fines agropecuarios, agroindustriales y de pesca, se pagará el
+
+30% de lo que resulte de conformidad con esta fracción, sin que
+
+el mínimo sea inferior a 6.000
+
+Si derivado de la celebración de convenios modificatorios, se
+
+incrementa el crédito pero se mantiene la misma garantía, se
+
+causarán los derechos, solo por la parte que se incrementa.
+
+Se excluyen de pago los convenios modificatorios de gravámenes
+
+ya inscritos, siempre que en el convenio prevalezca el monto del
+
+crédito y la garantía originales.
+
+Si con motivo de la celebración de convenios modificatorios se cambia
+
+la garantía original otorgada, se causarán los derechos por inscripción
+
+de gravámenes a que se refiere esta fracción.
+
+V.- Por la inscripción de la escritura constitutiva de sociedades
+
+mercantiles, del capital social o de los incrementos al mismo, sobre
+
+el monto del capital social ya sea fijo o variable o del incremento,
+
+se causará la tasa del 0.3%, sin que el mínimo sea inferior a. 7.000
+
+Ni el máximo superior a 541.000
+
+En caso de sociedades anónimas constituidas en la modalidad de
+
+capital variable, solo se causarán, los derechos mencionados cuando
+
+dichas modificaciones se refieran al capital social fijo.
+
+Cuando se presente para su inscripción una escritura o
+
+protocolización de acta de asamblea general de accionistas, en la
+
+que se adviertan modificaciones al capital social realizadas con
+
+anterioridad sin que se hubiera efectuado el pago de los derechos
+
+correspondientes, será base para el pago de los derechos previstos
+
+en esta fracción, el monto del capital que resulte de restarle al capital
+
+social que aparezca consignado en el documento que se presente
+
+para su inscripción, la suma de los importes que aparezcan ya
+
+inscritos en el folio mercantil correspondiente.
+
+Lo dispuesto en el párrafo anterior, es aplicable también para la fracción
+
+siguiente.
+
+VI.- Por la inscripción de la escritura constitutiva de sociedades o
+
+asociaciones civiles, del capital social o de los incrementos al mismo,
+
+sobre el monto del capital social ya sea fijo o variable o del incremento,
+
+se cobrará la tasa del 0.3 %, sin que el mínimo sea inferior a. 7.000
+
+Ni el máximo superior a. 139.000
+
+VII.- Inscripción de las modificaciones a la escritura constitutiva de las
+
+sociedades o asociaciones de cualquier tipo, que no se refieran a
+
+aumento de capital social 9.000
+
+VIII.- Inscripción de operaciones de crédito de cualquier tipo
+
+celebradas con instituciones, entidades, sociedades u organismos
+
+auxiliares, de crédito.
+
+a).- Cuando el monto de la operación sea hasta el equivalente a
+
+648 días de salario mínimo 5.000
+
+b).- Cuando el monto de la operación sea de entre 649 y 1,295
+
+días de salario mínimo. 6.000
+
+c).- Cuando el monto de la operación esté entre los 1,296 y
+
+1,943 días de salario mínimo 7.000
+
+d).- Cuando el monto de la operación sea de entre 1,944 y
+
+2,591 días de salario mínimo 8.000
+
+e).- Cuando el monto de la operación esté entre 2,592 y
+
+3,814 días de salario mínimo 9.000
+
+f).- Cuando el monto de la operación esté entre 3,815 y 4,964
+
+días de salario mínimo 12.000
+
+g).- Cuando el monto de la operación esté entre los 4,965 y 9,600
+
+días de salario mínimo 16.000
+
+h).- Cuando el valor de la operación sea mayor al equivalente de
+
+9,601 días de salario mínimo, se pagará sobre el monto del crédito,
+
+el 0.3% sin que el máximo sea superior a 274.000
+
+i).- Por los créditos refaccionarios, de habilitación o avío destinados
+
+a fines agropecuarios, agroindustriales y de pesca, se pagará el
+
+30% de lo que resulte de conformidad con los incisos anteriores, sin
+
+que se pague menos del equivalente a 5.000
+
+j).- Cuando se trate de reestructuración de créditos, el derecho a
+
+pagar se calculará sobre el incremento del crédito reestructurado
+
+siempre y cuando se mantenga la misma garantía, sin que el mínimo
+
+sea inferior a 6.000
+
+k).- Además de los derechos de inscripción que correspondan de
+
+acuerdo con los incisos anteriores, se pagará por cada anotación
+
+que se requiera realizar para inscribir las garantías. 5.000
+
+En el caso de inscripción de créditos destinados a fraccionar,
+
+urbanizar o construir varios lotes a la vez, el pago del derecho se
+
+realizará por cada lote.
+
+IX.- Por la inscripción de la constitución del patrimonio de la familia
+
+y de las informaciones ad-perpetuam, se pagará la tasa del 0.3 %
+
+sobre el valor que resulte mayor entre el catastral y el de avalúo
+
+bancario, sin que el mínimo sea inferior a 6.000
+
+X.- Inscripción de compraventa de bienes muebles, sobre el valor
+
+de la operación, el 0.3%, sin que el importe del derecho sea
+
+menor de. 6.000
+
+XI.- Por la inscripción de fraccionamientos o régimen en propiedad
+
+en condominio, se pagará por cada lote o unidad, respectivamente,
+
+de acuerdo con la siguiente clasificación:
+
+a).- Habitacional densidad baja y campestre 7.000
+
+b).- Habitacional densidad media 6.000
+
+c).- Habitacional densidad alta 5.000
+
+d).- Industrial, comercial y granjas 4.360
+
+XII.- Inscripción de relotificaciones de fraccionamientos, por cada
+
+lote, conforme a la siguiente clasificación;
+
+a).- Habitacional densidad baja campestre 6.000
+
+b).- Habitacional densidad media 5.000
+
+c).- Habitacional densidad alta 4.000
+
+d).- Industrial, comercial y granjas 3.360
+
+XIII.- Inscripción de actas de asambleas de socios o de juntas de
+
+administradores 7.690
+
+XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
+
+a).- Por la disolución 7.700
+
+b).- Por la liquidación 7.700
+
+c).- Por la disolución y liquidación, cuando se hubieran realizado
+
+en un solo acto 9.400
+
+d).- Si como consecuencia de la liquidación de la sociedad se
+
+adjudican bienes inmuebles, los derechos se causarán sobre el
+
+valor de los que se adjudiquen a los socios o a terceros, aplicando
+
+la tasa del 0.3 %, sin que el mínimo sea inferior a 6.000
+
+Ni el superior a. 541.000
+
+XV.- Inscripción de la fusión y escisión de sociedades mercantiles:
+
+a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%,
+
+sin que se pague menos de. 6.000
+
+Ni el máximo superior a. 540.000
+
+b).- Por la escisión, sobre el monto del capital social de las
+
+empresas escindidas, el 0.3%, sin que se pague menos de. 6.000
+
+Ni el máximo superior a. 541.000
+
+XVI.- Inscripción del otorgamiento de poderes, de la renovación,
+
+sustitución o revocación de los mismos:
+
+a).- Otorgamiento o sustitución de poderes:
+
+1.- Si se designa un solo apoderado 7.700
+
+2.- Por cada apoderado adicional que se designe en el mismo
+
+documento 5.08
+
+3.- Por cada poderdante, cuando aparezca en el documento más
+
+de uno. 5.08
+
+b).- Renovación de poderes, por cada apoderado 5.08
+
+c).- Revocación de poderes, por cada apoderado 5.08
+
+XVII.- Inscripción de contratos de comisión y mediación mercantil,
+
+así como de seguros de toda especie 9.000
+
+XVIII.- Inscripción de resoluciones judiciales en que se declare una
+
+quiebra o se admita una liquidación judicial 7.000
+
+XIX.- Inscripción de modificaciones o rectificaciones de superficie de
+
+predios, así como de las medidas y colindancias registradas en el
+
+folio o libro correspondiente:
+
+a).- Cuando se incremente la superficie, se cobrará la tasa del 0.3%
+
+sobre el valor catastral actualizado de la superficie aumentada, sin
+
+que el mínimo a pagar sea inferior a. 6.000
+
+b).- Cuando disminuya la superficie o simplemente se modifiquen las
+
+medidas y colindancias 9.000
+
+c).- Inscripción de fusiones y subdivisiones sin traslación de dominio. 9.000
+
+XX.- Por la inscripción del programa parcial o incorporación municipal,
+
+de un fraccionamiento:
+
+a).- Programa parcial o incorporación municipal sin protocolización 9.000
+
+b).- Programa parcial o incorporación municipal protocolizado 6.000
+
+XXI.- Por la inscripción de cualquier otro documento distinto a los
+
+señalados en las fracciones I a XIX Bis, sobre el monto de la
+
+operación o del valor consignado, se cobrará la tasa del 0.125%,
+
+sin que se pague menos de 6.000
+
+XXII.- Por la corrección de folios respecto de errores cometidos
+
+en el documento inscrito, cuando no traiga consigo la modificación
+
+al valor que hubiera servido de base para la determinación de los
+
+derechos pagados por la inscripción, por cada prelación que se
+
+corrija 4.500
+
+XXIII.- Examen de cualquier documento público o privado
+
+presentado ante la Dirección para su inscripción, cuando se rechace
+
+por no ser inscribible. 7.500
+
+XXIV.- Anotaciones en folios o libros, por cada una:
+
+a).- Anotación de un segundo o ulterior testimonio de cualquier acto
+
+jurídico. 7.500
+
+b).- Por la anotación de demandas judiciales 9.000
+
+c).- Anotaciones preventivas diversas a la prevista en el artículo 32
+
+de la Ley del Notariado del Estado de Colima y 2905 del Código Civil
+
+del Estado de Colima 7.500
+
+d).- Por la anotación de fianzas judiciales o legal. 10.50
+
+XXV.- Cancelación de gravámenes en general y de anotaciones de
+
+todo tipo, por cada cancelación o por cada inmueble. 4.500
+
+Si se hubiesen otorgado en garantía varios inmuebles para una
+
+misma operación de crédito, o que varias operaciones de crédito
+
+se hayan garantizado con un solo inmueble, a partir de salarios
+
+mínimos la segunda cancelación el derecho a pagar será de. 5.000
+
+En el caso del párrafo anterior, se entenderá que a cada inmueble
+
+corresponderá una cancelación, aún cuando la inscripción del
+
+gravamen esté realizada en un solo folio.
+
+XXVI.- Cancelación del registro de sociedades civiles, sobre el
+
+monto del capital social en la fecha de la cancelación, la tasa del
+
+0.2%, sin que el mínimo sea inferior a 7.500
+
+XXVII.- Depósito de cualquier documento:
+
+a).- Si se depositan directamente en las oficinas de la Dirección. 9.000
+
+b).- Por recibir el depósito fuera de las oficinas de la Dirección en
+
+horas ordinarias o extraordinarias 12.000
+
+En el caso del inciso b), deberán cubrirse adicionalmente los gastos
+
+de traslado y más que se generen.
+
+XXVIII.- Ratificación de documentos y firmas ante el registrador. 9.000
+
+XXIX.- Atención de consultas de particulares sobre existencia o
+
+inexistencia de inscripciones en el Registro sin expedición de
+
+constancia impresa, por cada consulta. 3.480
+
+XXX.- Expedición de certificados, informes y constancias:
+
+a).- Por expedición de informes regístrales. 7.500
+
+b).- Expedición de certificados de existencia o inexistencia
+
+de gravámenes. 3.500
+
+Además de las cuotas señaladas en los incisos anteriores, se
+
+pagará por cada gravamen o limitación de dominio inscrito. 1.000
+
+Sin que el máximo sea superior a. 5.110
+
+1.- De uno a diez años anteriores. 3.070
+
+2.- De once a más años anteriores. 4.200
+
+3.- Además de las cuotas señaladas en los incisos anteriores,
+
+se pagará por cada gravamen o limitación de dominio inscrito. 1.310
+
+b1).- Expedición de certificados de existencia o inexistencia de
+
+gravámenes en los Kioscos de Servicios Electrónicos:
+
+1.- Si el predio no tiene gravámenes. 3.500
+
+2.- Si el predio tiene gravámenes. 5.110
+
+c).- Expedición de certificados de no inscripción de propiedad
+
+solicitados. 10.000
+
+d).- Expedición de constancias de registro, independientemente de
+
+la búsqueda. 4.620
+
+e).- Expedición mecanografiada de constancias de registro,
+
+por cada hoja escrita hasta por ambas caras. 4.620
+
+f).- Expedición de constancias en copia fotostática certificadas 8.500
+
+g).- Expedición de copias fotostáticas simples de constancias
+
+de registro 4.500
+
+XXXI.- Tratándose de escritura pública de inscripción y
+
+cancelación, otorgados fuera de esta entidad federativa, las
+
+cuotas anteriores tendrán un pago adicional. 24.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 62 Bis 2.
+
+Por los servicios prestados en la Dirección de Catastro.
+
+I).- Copias fotostática certificada de planos generales:
+
+1.- Copia fotostática certificada de un predio con acotaciones. 8.500
+
+2.- Copia fotostática certificada de plano manzanero. 8.500
+
+3.- Plano manzanero 1:500 graficado y certificado. 10.000
+
+4.- Por copia fotostática de cada fotografía de contacto en
+
+formato 23x23 cm. escala 1:4500. 1.000
+
+5.- Copia fotostática de planos de predios rústicos:
+
+5.1.- Hasta 1-00-00 hectárea. 5.000
+
+5.2.- De 1-00-01 a 3-00-00 hectáreas. 7.000
+
+5.3.- De 3-00-01 a 5-00-00 hectáreas. 10.000
+
+5.4.- Más de 5-00-00 hectáreas. 13.000
+
+6.- Por cada copia de tarjetas de registro a solicitud del
+
+Interesado. 4.500
+
+7.- Por cada copia de traslado de dominio a solicitud del
+
+Interesado. 4.500
+
+8.- Por expedición de copias de avalúos catastrales. 4.000
+
+9.- Por cada copia fotostática de planos de fraccionamientos. 4.600
+
+10.- Copia fotostática simple por mancha ejidal y por hoja. 4.500
+
+II.- Certificaciones:
+
+a).- Certificaciones de documentos catastrales a solicitud del
+
+interesado. 5.000
+
+b).- Certificación catastral de un predio para tramitar juicio a favor
+
+del poseedor. 10.000
+
+c).- Constancia certificada de inscripción o no en los registros
+
+catastrales. 2.000
+
+III).- Avalúos y mediciones:
+
+a).- Por avalúo o rectificación de avalúo de predio urbano a solicitud
+
+del interesado:
+
+1.- Hasta un valor catastral equivalente a 3,814 días de salario
+
+mínimo. 2.000
+
+2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario
+
+mínimo. 2.500
+
+3.- Cuando el valor catastral esté entre 4,965 y 6,616 días de salario
+
+Mínimo. 3.500
+
+4.- Más de un valor catastral equivalente a 6,616 días de salario
+
+mínimo, se pagará sobre dicho valor, el 0.1%
+
+b).- Por avalúo o rectificación de avalúo de predio rústico que se
+
+practique sobre plano levantado y firmado por el perito responsable
+
+incluyendo clasificación de suelo; a solicitud del interesado:
+
+1.- Hasta un valor catastral equivalente a 3,814 días de salario
+
+mínimo. 2.000
+
+2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario
+
+mínimo. 2.500
+
+3.- Cuando el valor catastral esté entre los 4,965 y 6,116 días de salario
+
+mínimo. 3.500
+
+4.- Más de un valor catastral equivalente a 6,116 días de salario
+
+mínimo, se pagará sobre dicho valor, el 0.1%
+
+c).- Cuando por motivo de una solicitud de rectificación o asignación
+
+de coordenadas geodésicas, sea necesario el traslado del personal
+
+técnico para la verificación física respectiva, se cubrirá previamente
+
+el siguiente derecho:
+
+1.- En la ciudad de las oficinas del Instituto. 1.800
+
+2.- Fuera de la ciudad de oficinas del Instituto. 1.800
+
+- Por cada 50 kilómetros recorridos 5.000
+
+- Por cada 100 kilómetros recorridos 10.000
+
+- Por cada 200 kilómetros recorridos 20.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
 
@@ -3944,10 +4702,6 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -4045,167 +4799,13 @@ IV.- Certificados digitales 25.450
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-V.- Servicios catastrales.
-
-a).- Copias fotostáticas:
-
-1.- Copia fotostática certificada de planos generales de:
-
-1.1.- Colima-Villa de Alvarez 4.050
-
-1.2.- Colima-Villa de Alvarez, en reducción 2.700
-
-1.3.- Manzanillo 5.850
-
-1.4.- Manzanillo, en reducción 3.600
-
-1.5.- Otras poblaciones 2.250
-
-2.- Copia fotostática certificada de un predio con acotaciones 3.600
-
-3.- Copia fotostática certificada de plano manzanero 3.600
-
-4.- Plano manzanero 1:500 graficado y certificado 5.000
-
-5.- Por copia fotostática de cada fotografía de contacto en formato 23x23 cm. escala 1:4500 1.000
-
-6.- Copia fotostática de planos de predios rústicos:
-
-6.1.- Hasta 1-00-00 hectárea 5.000
-
-6.2.- De 1-00-01 a 3-00-00 hectáreas 7.000
-
-6.3.- De 3-00-01 a 5-00-00 hectáreas 10.000
-
-6.4.- Más de 5-00-00 hectáreas 13.000
-
-7.- Por cada copia de tarjetas de registro a solicitud del interesado 2.500
-
-8.- Por cada copia de traslado de dominio a solicitud del interesado 2.500
-
-9.- Por expedición de copias de avalúos catastrales 3.000
-
-10.- Por cada copia fotostática de planos de fraccionamientos 4.600
-
-11.- Copia fotostática simple por mancha ejidal y por hoja 2.300
-
-b).- Certificaciones:
-
-1.- Certificaciones de documentos catastrales a solicitud del interesado 1.800
-
-2.- Certificación catastral de un predio para tramitar juicio a favor del poseedor 6.000
-
-3.- Constancia certificada de inscripción o no en los registros catastrales 0.600
-
-c).- Avalúos y mediciones:
-
-1.- Por avalúo o rectificación de avalúo de predio urbano a solicitud del interesado:
-
-1.1.- Hasta un valor catastral equivalente a 3,814 días de salario mínimo 2.000
-
-1.2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario mínimo 2.500
-
-1.3.- Cuando el valor catastral esté entre 4,965 y 6,616 días de salario mínimo 3.500
-
-1.4.- Más de un valor catastral equivalente a 6,616 días de salario mínimo, se pagará sobre dicho valor, el 0.1 %
-
-2.- Por avalúo o rectificación de avalúo de predio rústico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo; a solicitud del interesado:
-
-2.1.- Hasta un valor catastral equivalente a 3,814 días de salario mínimo 2.000
-
-2.2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario mínimo 2.500
-
-2.3.- Cuando el valor catastral esté entre los 4,965 y 6,116 días de salario mínimo
-
-2.4.- Más de un valor catastral equivalente a 6,116 días de salario mínimo, se pagará sobre dicho valor, el 0.1 %
-
-3.- Cuando por motivo de una solicitud de rectificación o asignación de coordenadas geodésicas, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
-
-3.1.- En la ciudad de las oficinas catastrales 1.800
-
-3.2.- Fuera de la ciudad de oficinas centrales 1.800
-
-- Más, por cada kilómetro recorrido 0.090
-
-4.- Por cada asignación o punto de coordenadas geodésicas 10.000
-
-d).- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
-
-1.- Certificado 1.800
-
-2.- Sin Certificar 0.500
-
-e).- Registro de peritos valuadores:
-
-1.- Por derechos de registro y expedición de credencial de perito valuador 15.000
-
-2.- Refrendo anual 10.000
-
-f).- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
-
-1.- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
-
-2.- Por cada capa adicional 20.000
-
-g).- Por la impresión de archivos digitales:
-
-1.- Plano general a diferentes escalas:
-
-1.1.- Graficado y certificado incluyendo manzanas, predios y calles 8.000
-
-1.2.- Por cada impresión de hasta 1.10 X 0.84 mts 8.000
-
-1.3.- Por cada capa adicional al plano general 2.500
-
-1.4.- Por cada impresión de hasta 1.10 X 0.84 mts 2.500
-
-2.- Por la expedición de planos de predios urbanos con medidas, superficies y nombre de calles:
-
-2.1.- Sin nombre de colindantes 3.600
-
-2.2.- Con nombres de colindantes 4.600
-
-3.- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
-
-3.1.- Manzanas, predios y nombre de calles 5.000
-
-3.2.- Predios rústicos, vías de comunicación, hidrografía 5.000
-
-3.3.- Por cada nombre de colindante o propietario 0.700
-
-h).- Por cartografía en formato digital por cada mancha urbana que incluya:
-
-1.- Archivo en formato "Shape", manzanas y predios 100.000
-
-2.- Por cada capa adicional 50.000
-
-i).- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios o solares, así como de los predios de pequeña propiedad por municipio:
-
-1.-Archivos en formatos DXF (predios) 75.000
-
-2.- Por cada capa adicional 20.000
-
-j).- Por cartografía en formato digital por cada polígono ejidal parcelario o solar, así como de predios de pequeña propiedad por municipio:
-
-1.-Archivos en formatos SHAPE (predios) 100.000
-
-2.- Por cada capa adicional 50.000
-
-k).- Por búsqueda en los archivos históricos catastrales 1.000
-
-I).- Por cartografía en formato digital en archivo de formato PDF:
-
-1.- Por mancha urbana (manzanas, predios y nomenclaturas de calles) 37.500
-
-2.- Por cada capa adicional en mancha urbana 10.000
-
-3.- Por cada Polígono ejidal parcelario o solar, así como de predios de pequeña propiedad por municipio 37.500
-
-4.- Por cada capa adicional de polígonos parcelarios, solares o predios de la pequeña propiedad 10.000
+V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -4217,15 +4817,15 @@ Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Fede
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
+## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
-
-## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -4776,3 +5376,21 @@ P.O. 1 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2013, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Durante el ejercicio fiscal 2013, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2013, siempre que se cumpla con los requisitos siguientes:
+
+I.- Que el contribuyente no tenga adeudos del ejercicio 2012 y anteriores por cualquiera de los conceptos siguientes:
+
+a).- Impuestos, derechos y aprovechamientos estatales;
+
+b).- Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos; y
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2013 que resulte procedente se efectúe de enero a marzo de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2013 o durante el periodo aquí señalado.
+
+Respecto de los vehículos nuevos o importados que se inscriban en el Registro Público Vehicular del Estado entre el 01 de abril y el 31 de diciembre de 2013, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con el requisito señalado en la fracción I, incisos a) y b).
+
+TERCERO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios Electrónicos, durante el año 2013 el monto se ajustará a la decena de pesos inferior más próxima.
