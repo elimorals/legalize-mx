@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2012-09-13"
+last_updated: "2012-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1213,10 +1213,6 @@ Las comisiones y comités deberán elaborar anualmente un plan general de trabaj
 
 ###### ARTICULO 139.
 
-Los presidentes de las comisiones y comité podrán solicitar directamente de la Oficial a Mayor del Congreso, el apoyo logístico que requieran para llevar a cabo las actividades de las mismas; y ésta deberá atender tales peticiones en los términos que establezca previamente la Junta.
-
-###### ARTICULO 139.
-
 Los presidentes de las comisiones y comités podrán solicitar directamente de la Oficialí a (sic) Mayor del Congreso, el apoyo logístico que requieran para llevar a cabo las actividades de las mismas; y ésta deberá atender tales peticiones en los términos que establezca previamente la Junta.
 
 ###### ARTICULO 140.
@@ -1497,11 +1493,15 @@ Los diputados deberán presentar la declaración de su situación patrimonial, c
 
 ### CAPITULO III. DE LA COORDINACION DE FINANZAS
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 171.
 
 Los titulares de los órganos de soporte técnico y de apoyo del Congreso del Estado, podrán ser removidos por causa justificada, cuando así lo determine el Pleno por mayoría de votos de los diputados presentes en la sesión de que se trate.
 
 ### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 172.
 
@@ -1517,17 +1517,19 @@ Para el manejo de documentos legislativos y de correspondencia, el Oficial Mayor
 
 El Oficial Mayor dependerá de la Junta de Coordinación Política en cuanto a la administración de los bienes y al suministro de elementos y servicios del Congreso.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 175.
 
-Para ser Oficial Mayor del Congreso es necesario cumplir los siguientes requisitos:
+Para ser Oficial Mayor del Congreso se requiere:
 
-I. Contar con título y cédula profesional legalmente expedidos, y cinco años, cuando menos, de experiencia en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años, cuando menos, de experiencia en el ejercicio profesional;
 
-II. Ser mayor de treinta años, en pleno ejercicio de sus derechos políticos y civiles;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que demerite la buena fama en el concepto público; y
+III. No haber sido condenado por delito doloso, y
 
-IV. No prestar sus servicios profesionales en la administración pública en cualquiera de los tres ámbitos de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 176.
 
@@ -1575,17 +1577,19 @@ XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
 ### CAPITULO V. DE LA COORDINACION DE INFORMATICA
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 178.
 
-Para ser Coordinador de Finanzas del Congreso es necesario cumplir los siguientes requisitos
+Para ser Coordinador de Finanzas del Congreso se requiere:
 
-I. Contar con título y cédula profesional legalmente expedidos relacionados con la función y cinco años cuando menos en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años cuando menos en el ejercicio profesional;
 
-II. Ser mayor de treinta años, en pleno ejercicio del sus derechos políticos y civiles;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que demerite la buena fama en el concepto público; y
+III. No haber sido condenado por delito doloso, y
 
-IV. No prestar sus servicios profesionales en cualquiera de los tres ámbitos de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 179.
 
@@ -1625,19 +1629,19 @@ XVI. Las demás que le confiera la Ley Orgánica, y las que la Junta y la Oficia
 
 ### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 180.
 
-Para ser Coordinador de Servicios Internos del Congreso es necesario cumplir los siguientes requisitos:
+Para ser Coordinador de Servicios Internos del Congreso se requiere:
 
-I. Contar con título y célula profesional legalmente expedidos, y cinco años, cuando menos, de experiencia en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años, cuando menos, de experiencia en el ejercicio profesional;
 
-II. Ser mayor de treinta años, en pleno ejercicio de sus derechos políticos y civiles;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que demerite la buena fama en el concepto público; y
+III. No haber sido condenado por delito doloso, y
 
-IV. No prestar sus servicios profesionales en la administración pública en cualquiera de los tres ámbitos de gobierno, a excepción de las actividades de carácter docente.
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 181.
 
@@ -1661,15 +1665,19 @@ VIII. Controlar y disponer que se realice el servicio de intendencia, conservaci
 
 ### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 182.
 
-Para ser Coordinador de Informática se requiere:
+Para ser Coordinador de Informática del Congreso se requiere:
 
-I. Contar con título y célula profesional legalmente expedidos, relacionados con la función, y cinco años cuando menos en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función, y tres años cuando menos en el ejercicio profesional;
 
-II. Tener cuando menos treinta años de edad al día a de su nombramiento; y
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que las- time seriamente la buena fama en el concepto público.
+III. No haber sido condenado por delito doloso, y
+
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 183.
 
@@ -1705,41 +1713,47 @@ XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación 
 
 ### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 184.
 
-El Congreso del Estado contará con un Instituto de Investigaciones Legislativas; que tiene como finalidad exclusiva, apoyar al Congreso en su tarea de elaborar las normas jurídicas, por medio de la investigación documental y de campo, en las áreas jurídica, histórica, política, económica, y en las demás materias que sean motivo de legislación.
+El Congreso del Estado contará con un Instituto de Investigaciones Legislativas; que tiene como finalidad exclusiva, apoyar al Congreso en su tarea de elaborar las normas jurídicas, por medio de la investigación documental y de campo, en las áreas, jurídica; histórica; política; económica; y en las demás materias que sean motivo de legislación.
 
-La supervisión y vigilancia del Instituto estará a cargo del Comité del Instituto de Investigaciones Legislativas, a que se refiere el artículo 120 de la Ley Orgánica.
+La supervisión y vigilancia del Instituto estará a cargo del Comité del Instituto de Investigaciones Legislativas, a que se refiere el artículo 120 de la Ley Orgánica; y en los términos del Reglamento del mismo.
 
-Dependerán de este Instituto, la biblioteca del Congreso, la unidad de informática legislativa, y la unidad de investigación y análisis legislativo.
+Dependerán del Instituto, la biblioteca del Congreso; la unidad de informática legislativa; y la unidad de investigación y análisis legislativo.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+El Instituto estará a cargo de un Coordinador designado por el Pleno; contará con el personal y cuerpo de investigadores necesario para el ejercicio de sus funciones y de acuerdo al presupuesto aprobado.
 
-El Instituto estará a cargo de un Coordinador designado por el Pleno; contará con el personal y cuerpo de investigadores necesario para el ejercicio de sus funciones conforme al presupuesto aprobado; y ejercerá sus funciones conforme lo determine su Reglamento Interior.
+Para ser Coordinador del Instituto de Investigaciones Legislativas del Congreso se requiere:
 
-Para ser Coordinador del Instituto de Investigaciones Legislativas se requiere:
+I. Contar, preferentemente, con título de licenciado en derecho o carrera afín; o bien, acreditar ser perito, o tener conocimientos específicos que a juicio del Comité, se hagan necesarios para dirigir las labores del Instituto;
 
-I. Contar, preferentemente, con título de licenciado en derecho o carrera afín; o bien, acreditar ser perito o tener conocimientos específicos que a juicio del Comité se hagan necesarios para las labores del Instituto;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Contar con experiencia profesional de cinco años como mínimo al día de su designación; y
+III. Contar con experiencia docente o de investigación;
 
-III. Contar con experiencia docente o de investigación.
+IV. No haber sido condenado por delito doloso, y
+
+V. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 185.
 
-Dependiente de la Directiva, el Congreso contará con una Coordinación de Servicios Parlamentarios, encargada de brindar los servicios necesarios para el desarrollo de las sesiones del Pleno del Congreso.
+Dependiente de la Directiva, el Congreso contará con una Coordinación de Servicios Parlamentarios, que se encargará de brindar los servicios necesarios para el desarrollo de las sesiones del Pleno del Congreso.
 
-Para ser Coordinador de Servicios Parlamentarios del Congreso es, necesario cumplir los siguientes requisitos:
+Para ser Coordinador de Servicios Parlamentarios del Congreso se requiere:
 
-I. Contar con titulo y célula profesional legalmente expedidos, y cinco anos, cuando menos, de experiencia en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años, cuando menos de experiencia en el ejercicio profesional;
 
-II. Ser mayor de treinta años, en pleno ejercicio de sus derechos políticos civiles;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que hay ameritado pena privativa de libertad, ni por algún otro que demerite la buena fama en el concepto público; y
+III. No haber sido condenado por delito doloso, y
 
-IV. No prestar sus servicios profesionales en la administración pública en cualquiera de los tres ámbitos de gobierno, a excepción de las actividades de carácter docente.
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 186.
 
@@ -1779,13 +1793,15 @@ XIII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva confo
 
 ###### ARTICULO 187.
 
-Para ser Coordinador de Asesoría y Secretariado Técnico de Comisiones se requiere:
+Para ser Coordinador de Asesoría y Secretariado Técnico de Comisiones del Congreso se requiere:
 
-I. Contar con título y célula profesional legalmente expedidos, y cinco años, cuando menos, de experiencia en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años, cuando menos, de experiencia en el ejercicio profesional;
 
-II. Tener cuando menos treinta años de edad al día de su nombramiento; y
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado más de un año de prisión, ni por algún otro que lesione la buena fama en el concepto público.
+III. No haber sido condenado por delito doloso, y
+
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -1847,15 +1863,19 @@ VII. Las demás que le asigne la comisión en relación con el trabajo de la mis
 
 ### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 191.
 
-Para ser Coordinador de Asuntos Jurídicos se requiere:
+Para ser Coordinador de Asuntos Jurídicos del Congreso se requiere:
 
-I. Contar con título de abogado o licenciado en derecho, y célula profesional, expedidos por autoridad competente, y acreditar ejercicio profesional de cuando menos cinco años;
+I. Contar con título de abogado o licenciado en derecho, y cédula profesional, expedidos por autoridad competente, relacionados con la función y acreditar ejercicio profesional de cuando menos tres años;
 
-II. Tener cuando menos treinta años de edad al día de su nombramiento; y
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que lastime seriamente la buena fama en el concepto público; (sic)
+III. No haber sido condenado por delito doloso, y
+
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 192.
 
@@ -1877,17 +1897,21 @@ Para ser notificador del Congreso se requiere ser licenciado en derecho, con tí
 
 Dependiente de la Directiva habrá una Coordinación de Comunicación Social del Congreso; encargada de la difusión de los asuntos institucionales del Congreso.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 195.
 
-Para ser Coordinador de Comunicación Social se requiere:
+Para ser Coordinador de Comunicación Social del Congreso se requiere:
 
-I. Contar con título y cédula profesional legalmente expedidos; relacionados con la función, y cinco años cuando menos en el ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función, y tres años cuando menos en el ejercicio profesional;
 
-II. Tener cuando menos treinta años de edad al día de su nombramiento;
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No haber sido condenado por delito doloso que haya ameritado pena privativa de libertad, ni por algún otro que lastime seriamente la buena fama en el concepto público; y
+III. No haber sido condenado por delito doloso;
 
-IV. Acreditar experiencia en comunicación social en instituciones públicas o privadas.
+IV. Acreditar experiencia en la materia de comunicación social en instituciones públicas o privadas, y
+
+V. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
 ###### ARTICULO 196.
 
@@ -1903,13 +1927,15 @@ IV. El apoyo en las relaciones públicas del Congreso.
 
 ###### ARTICULO 197.
 
-Para ser Contralor Interno se requiere:
+Para ser Contralor Interno del Congreso se requiere:
 
-I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función, y cinco años cuando menos en ejercicio profesional;
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función, y tres años cuando menos en el ejercicio profesional;
 
-II. Ser mayor de treinta años, en pleno ejercicio de sus derechos; no haber sido condenado por delito doloso, cualquiera que haya sido la pena, y
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No prestar sus servicios profesionales a la administración pública en cualquiera de los tres ámbitos de gobierno durante el año anterior a su nombramiento; a excepción de actividades de carácter docente; ni desempeñar actividades privadas en donde exista conflicto de intereses.
+III. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses, y
+
+IV. No haber sido condenado por delito doloso.
 
 ###### ARTICULO 198.
 
@@ -1981,7 +2007,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2009.
 
@@ -2068,3 +2094,9 @@ P.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
