@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-general-de-73865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-22"
-last_updated: "2011-10-05"
+last_updated: "2012-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE TRANSPARENCIA Y DEL COMITE CIUDADANO PARA LA TRANSPARENCIA DE PUEBLA, PUEBLA
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE TRANSPARENCIA Y DEL COMITE CIUDADANO PARA LA TRANSPARENCIA
+REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE TRANSPARENCIA Y DEL COMITE CIUDADANO PARA LA TRANSPARENCIA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DICTAMEN DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE TRANSPARENCIA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA Y DEL COMITÉ CIUDADANO PARA LA TRANSPARENCIA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. 3 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de enero de 2010.
 
@@ -680,3 +682,17 @@ P.O. 5 DE OCTUBRE DE 2011.
 PRIMERO.- Las presentes reformas y adiciones al Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en las presentes reformas y adiciones al Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia.
+
+P.O. 3 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento Interior de la Coordinación General de Transparencia del Honorable Ayuntamiento del Municipio de Puebla y del Comité Ciudadano para la Transparencia, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en el presente Reglamento.
+
+DICTAMEN
+
+PRIMERO.- Se abroga el Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, publicado en el Periódico Oficial del Estado el veintidós de enero de dos mil diez, así como sus modificaciones publicadas con fechas cinco de octubre de dos mil once.
+
+SEGUNDO.- Se aprueba el Reglamento Interior de la Coordinación General de Transparencia del Honorable Ayuntamiento del Municipio de Puebla y del Comité Ciudadano para la Transparencia, en los términos señalados en el Considerando XXVI del presente Dictamen.
+
+TERCERO.- Se instruye a la Secretaria del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado de Puebla, el Reglamento Interior de la Coordinación General de Transparencia del Honorable Ayuntamiento del Municipio de Puebla y del Comité Ciudadano para la Transparencia.
