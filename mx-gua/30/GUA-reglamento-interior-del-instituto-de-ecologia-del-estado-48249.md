@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2012-04-24"
+last_updated: "2012-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGÍA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -45,7 +45,9 @@ REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO
 
 El presente Reglamento tiene por objeto regular la organización, funcionamiento y facultades de las unidades administrativas que integran el Instituto de Ecología del Estado.
 
-El Instituto de Ecología del Estado estará sectorizado a la Secretaría de Desarrollo Económico Sustentable.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+El Instituto de Ecología del Estado estará sectorizado a la Secretaría de Desarrollo Social y Humano.
 
 ###### Artículo 2o.
 
@@ -149,35 +151,41 @@ El gobierno y administración del Instituto estará a cargo de un Consejo Direct
 
 #### SECCIÓN PRIMERA. CONSEJO DIRECTIVO
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 9o.
 
 El Consejo Directivo será el máximo órgano de gobierno del Instituto y estará integrado por:
 
-I.- El Titular de la Secretaría de Desarrollo Económico Sustentable, quien fungirá como Presidente;
+I. Un ciudadano designado por el Gobernador del Estado, quien fungirá como Presidente;
 
-II.- El Titular de la Secretaría de Finanzas y Administración;
+II. El Titular de la Secretaría de Desarrollo Social y Humano,
 
-III.- El Titular de la Secretaría de Educación;
+III. El Titular de la Secretaría de Finanzas, Inversión y Administración;
 
-IV.- El Titular de la Secretaría de Desarrollo Social y Humano;
+IV. El Titular de la Secretaría de Educación;
 
-V.- El Titular de la Secretaría de Salud;
+V. El Titular de la Secretaría de Desarrollo Económico Sustentable;
 
-VI.- El Titular de la Secretaría de Desarrollo Agropecuario;
+VI. El Titular de la Secretaría de Salud;
 
-VII.- El Titular de la Secretaría de la Gestión Pública;
+VII. El Titular de la Secretaría de Desarrollo Agropecuario;
 
-VIII.- El Secretario Ejecutivo de la Comisión Estatal del Agua de Guanajuato;
+VIII. El Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-IX.- El Director General del Consejo de Ciencia y Tecnología del Estado de Guanajuato;
+IX. El Director General de la Comisión Estatal del Agua de Guanajuato;
 
-X.- El Director General del Instituto; y
+X. El Director General del Consejo de Ciencia y Tecnología del Estado de Guanajuato;
 
-XI.- Hasta cuatro representantes del sector social designados por el Ejecutivo del Estado.
+XI. El Director General del Instituto; y
 
-Los consejeros tendrán la calidad de propietarios y nombrarán un suplente, quien tendrá las mismas facultades del consejero propietario en caso de ausencia de éste.
+XII. Hasta cuatro representantes del sector social designados por el Ejecutivo del Estado.
 
-Los integrantes del Consejo Directivo, asistirán a las sesiones y ejercerán su derecho a voz y voto, salvo el Titular de la Secretaría de la Gestión Pública, quien solamente tendrá derecho a voz.
+Los consejeros tendrán la calidad de propietarios y nombrarán un suplente quien tendrá las mismas facultades del consejero propietario en caso de ausencia de éste.
+
+Los integrantes del Consejo Directivo, asistirán a las sesiones y ejercerán su derecho a voz y voto, salvo el Titular de la Secretaría de la Transparencia y Rendición de Cuentas, quien solamente tendrá derecho a voz.
+
+Los ciudadanos previstos en las fracciones I y XII duraran en su encargó cuatro años y podrán ser reelectos por una sola ocasión.
 
 ###### Artículo 10.
 
@@ -193,9 +201,11 @@ El Secretario Técnico tendrá por función obtener la información técnica que
 
 El Presidente del Consejo Directivo podrá invitar a participar a las sesiones del Consejo a otros miembros de la Administración Pública Estatal, así como a instituciones de orden público o privado, dependiendo del asunto o tema enlistado en el orden del día de la sesión, a fin de facilitar la atención de los asuntos competencia del Instituto, quienes únicamente tendrán derecho a voz.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 13.
 
-Cuando el Gobernador del Estado asista a las sesiones del Consejo Directivo fungirá como Presidente del mismo y el Secretario de Desarrollo Económico Sustentable será un integrante más del Consejo. En este caso el Gobernador del Estado y el Secretario de Desarrollo Económico Sustentable tendrán derecho a voz y voto.
+Cuando el Gobernador del Estado asista a las sesiones del Consejo Directivo fungirá como Presidente del mismo y el ciudadano designado por el Gobernador será un integrante más del Consejo. En este caso Gobernador del Estado y el ciudadano tendrán derecho a voz y voto.
 
 ###### Artículo 14.
 
@@ -223,13 +233,17 @@ X.- Autorizar actos jurídicos en los términos de la Ley de Adquisiciones, Enaj
 
 XI.- Autorizar actos de dominio sobre su patrimonio, sujetándose a las disposiciones constitucionales y a las leyes de la materia;
 
-XII.- Supervisar el desarrollo de programas y proyectos institucionales, el cumplimiento de objetivos y metas del Instituto y, en su caso, determinar las acciones correctivas que considere necesarias para que éstos se ajusten a lo autorizado y al presupuesto anual aprobado, en congruencia con el Plan de Gobierno correspondiente; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+XII. Supervisar el desarrollo de programas y proyectos institucionales, el cumplimiento de objetivos y metas del Instituto y, en su caso, determinar las acciones correctivas que considere necesarias para que éstos se ajusten a lo autorizado y al presupuesto anual aprobado, en congruencia con el Programa de Gobierno del Estado correspondiente; y
 
 XIII.- Aprobar en su caso, de conformidad con las normas legales aplicables, la obtención de empréstitos que proponga el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-El Titular de la Secretaría de la Gestión Pública o su suplente, en el Consejo Directivo tendrán las siguientes facultades:
+Titular de la Secretaría de la Transparencia y Rendición de Cuentas o su suplente, en el Consejo Directivo tendrán las siguientes facultades:
 
 I.- Vigilar el cumplimiento de las disposiciones normativas en el establecimiento de las políticas y desarrollo de los programas que permitan alcanzar el objeto del Instituto; y
 
@@ -345,11 +359,13 @@ Los titulares de las unidades administrativas a que se refiere el artículo ante
 
 El control y vigilancia del Instituto estará a cargo de un órgano de vigilancia, el cual tendrá el carácter de Contraloría Interna, encargada de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del organismo, con el fin de determinar su correcto desempeño general.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 22.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Gestión Pública y presupuestalmente del Instituto.
+La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Transparencia y Rendición de Cuentas y presupuestalmente del Instituto.
 
-La Contraloría Interna estará integrada por un Titular designado por la Secretaría de la Gestión Pública y el personal necesario que el presupuesto del Instituto permita.
+La Contraloría Interna estará integrada por un Titular designado por la Secretaría de la Transparencia y Rendición de Cuentas y el personal necesario que el presupuesto del Instituto permita.
 
 ###### Artículo 23.
 
@@ -357,9 +373,13 @@ La Contraloría Interna, además de las atribuciones conferidas en la Ley Orgán
 
 I.- Vigilar, fiscalizar y evaluar los programas del Instituto con el fin de determinar su correcto desarrollo y desempeño general;
 
-II.- Elaborar un programa anual de auditoría, el que autorizado por el Titular de la Secretaría de la Gestión Pública, aplicará en tiempo y forma, rindiendo en cada sesión del Consejo Directivo un informe de los resultados y avances;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
-III.- Coordinar el desarrollo de sus funciones con las unidades administrativas del Instituto, de manera congruente a la competencia que le señale la normatividad y la Secretaría de la Gestión Pública;
+II.- Elaborar un programa anual de auditoría, el que autorizado por el Titular de la Secretaría de la Transparencia y Rendición de Cuentas, aplicará en tiempo y forma, rindiendo en cada sesión del Consejo Directivo un informe de los resultados y avances;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+III.- Coordinar el desarrollo de sus funciones con las unidades administrativas del Instituto, de manera congruente a la competencia que le señale la normatividad y la Secretaría de la Transparencia y Rendición de Cuentas;
 
 IV.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del Instituto se apeguen a las disposiciones legales aplicables;
 
@@ -373,13 +393,17 @@ VIII.- Efectuar el análisis e interpretación de los estados financieros del or
 
 IX.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el Instituto;
 
-X.- Recibir y canalizar a la Secretaría de la Gestión Pública las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+X.- Recibir y canalizar a la Secretaría de la Transparencia y Rendición Cuentas las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
 XI.- Intervenir en los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
 
 XII.- Fiscalizar los recursos federales ejercidos por el Instituto derivados de los acuerdos o convenios respectivos, en su caso; y
 
-XIII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+XIII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Transparencia y Rendición de Cuentas.
 
 ### CAPÍTULO QUINTO. DE LOS DIRECTORES
 
@@ -923,13 +947,13 @@ La Dirección de Planeación y Política Ambiental tiene por función general de
 
 Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Planeación y Política Ambiental tendrá las siguientes facultades:
 
-I.- Definir, desarrollar e implementar los planes estratégicos y operativos del Instituto, congruentes a su objeto y al Plan de Gobierno;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Definir, desarrollar e implementar los planes estratégicos y operativos del Instituto, congruentes a su objeto y al Programa de Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
-II.- Evaluar, dar seguimiento y reportar los avances institucionales con relación al cumplimiento de objetivos y metas contemplados en el Plan de Gobierno, Programa Sectorial, Programa Institucional y el Programa Especial de Cambio Climático;
+II.- Evaluar, dar seguimiento y reportar los avances institucionales con relación al cumplimiento de objetivos y metas contemplados en el Programa de Gobierno del Estado, Programa Sectorial, Programa Institucional y el Programa Especial de Cambio Climático;
 
 III.- Definir, desarrollar y promover la instrumentación de nuevos proyectos en el Instituto, a propuesta de las demás Direcciones;
 
@@ -1358,3 +1382,27 @@ Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto
 P.O. 24 DE ABRIL DE 2012.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. La presente modificación iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Denominación
+
+Artículo Segundo. La referencia al Director General de la Comisión Estatal del Agua de Guanajuato, se entenderá hecha al Secretario Ejecutivo de Comisión Estatal del Agua de Guanajuato, hasta en tanto inicia la vigencia del Código Territorial para el Estado y los Municipios de Guanajuato, el 1 de enero de 2013, conforme al artículo primero transitorio del Decreto Legislativo 272.
+
+TRANSITORIOS DEL DECRETO
+
+Inicio de vigencia del Decreto
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con las excepciones que se señalan en los artículos transitorios anteriores.
+
+Fideicomisos
+
+Artículo Segundo. Las dependencias que cuenten con fideicomisos que conforme al contenido del presente decreto deban cambiar de sectorización, contarán con un término de ciento ochenta días, para efectuar los ajustes correspondientes.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto Gubernativo.
