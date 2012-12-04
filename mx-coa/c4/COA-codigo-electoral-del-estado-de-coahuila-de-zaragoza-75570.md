@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-75570"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-06-29"
-last_updated: "2012-07-31"
+last_updated: "2012-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 29 de junio de 2010.
 
@@ -525,7 +525,9 @@ f) Los procedimientos y sanciones aplicables a los militantes que violen las dis
 
 a) Contar con declaración de principios, programa de acción y estatutos, y
 
-b) Acreditar, mediante las hojas de afiliación, en los formatos aprobados por el Consejo General del Instituto, que cuenta con al menos un número de afiliados equivalente al 0.26% del total de ciudadanos inscritos en el Padrón Electoral del Estado, considerando para el efecto el utilizado en la elección estatal inmediata anterior.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+b) Acreditar que cuentan con un mínimo de ciudadanos afiliados, distribuidos al menos en nueve distritos del estado, equivalente al 1.5% de los inscritos en la lista nominal de electores vigente al 31 de Enero del año en que se presente la solicitud de registro. Para la comprobación de este requisito la organización política deberá presentar cédulas de afiliación individuales por cada uno de sus miembros, las que deberán contener los datos de identificación del afiliado, domicilio, clave de elector y firma de conformidad, acompañándola de copia simple de su credencial para votar por ambas caras.
 
 4. Los interesados deberán presentar al Instituto los documentos a que se refiere el párrafo anterior, a más tardar al mes siguiente de que se presente la solicitud a que se refiere el párrafo primero de este artículo.
 
@@ -533,13 +535,29 @@ b) Acreditar, mediante las hojas de afiliación, en los formatos aprobados por e
 
 6. Si del resultado de la revisión que realice el Instituto resulta el incumplimiento de cualquiera de los requisitos establecidos en este Código, el Secretario Ejecutivo formulará el dictamen correspondiente, en sentido negativo, para su aprobación por el Consejo General. En caso positivo, notificará a los interesados a fin de que procedan a lo siguiente:
 
-a) Celebrar, dentro del mes siguiente al de la fecha de notificación, una Asamblea Estatal Constitutiva, cumpliendo los siguientes requisitos:
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
-I. Contar con delegados propietarios en una proporción de máximo, un delegado por cada doscientos afiliados;
+a) Celebrar dentro del mes siguiente, en cuando menos nueve de los distritos electorales del estado, una asamblea en presencia de la Comisión de Verificación para el Registro de Partidos Políticos Estatales del Instituto, y uno o varios notarios públicos acreditados por el mismo Instituto, quienes certificarán:
 
-II. Integrar la lista de delegados, acreditando que concurrieron, por lo menos, la mitad más uno, y
+I. Que en dichas asambleas se nombró un delegado distrital propietario y un suplente por cada doscientos asistentes, para asistir a la asamblea estatal, con facultades para aprobar los documentos básicos del partido y elegir a su dirigencia estatal.
 
-III. Que los delegados aprobaron los documentos básicos del partido político y eligieron a los integrantes de su órgano estatal de dirección.
+II. Que se identificó a los asistentes a las asambleas distritales por medio de su credencial para votar.
+
+III. Que los ciudadanos asistentes a cada una de las asambleas distritales representen por lo menos el cinco por ciento de las cédulas de afiliación presentadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+b) Haber celebrado una asamblea estatal constitutiva ante la presencia de la Comisión de Verificación para el Registro de Partidos Políticos Estatales del Instituto, y uno o varios notarios públicos acreditados por el mismo Instituto, quienes certificarán:
+
+I. Que asistieron los delegados propietarios o suplentes elegidos en las asambleas distritales y que acreditaron con las actas correspondientes, que éstas se celebraron con la formalidad requerida en la fracción f) de este artículo.
+
+II. Que se identificó debidamente a los delegados asistentes a la asamblea estatal, así como la residencia de los mismos, por medio de la credencial para votar.
+
+III. Que por cada distrito donde se celebró asamblea, los delegados presentaron una lista de personas afiliadas, en las que se señala su nombre, domicilio y clave de elector.
+
+IV. Que las listas mencionadas en el inciso que antecede contengan los datos de cuando menos el cuarenta y cinco por ciento de los ciudadanos afiliados que menciona la fracción I de este artículo.
+
+V. Que en la asamblea fueron aprobados su declaración de principios, su programa de acción y sus estatutos.
 
 7. La Asamblea deberá realizarse en presencia del funcionario designado por el Instituto, quién deberá certificar el cumplimiento de los requisitos señalados en el párrafo anterior, elaborando para tal efecto el acta correspondiente.
 
@@ -809,7 +827,11 @@ e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-I. El Consejo General del Instituto determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral estatal, a la fecha de corte de septiembre de cada año, por el 25% del salario mínimo diario vigente en el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+I. El Consejo General del Instituto determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral estatal, a la fecha de corte de septiembre de cada año, por el 35% del salario mínimo diario vigente en el Estado;
 
 II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente manera;
 
@@ -4238,3 +4260,11 @@ P.O. 31 DE JULIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto deberá publicarse en el periódico Oficial del Gobierno del Estado, y su vigencia por lo que corresponde al artículo 30 iniciará al día siguiente de la publicación.
+
+SEGUNDO.- La reforma al artículo 45 su vigencia iniciará a partir del 1 de enero del año 2014, hasta en tanto se observara lo dispuesto en el ordenamiento vigente.
+
+TERCERO.- Notifíquese al Instituto Electoral y de Participación Ciudadana de Coahuila para los efectos correspondientes.
