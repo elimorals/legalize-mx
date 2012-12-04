@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2010-11-26"
+last_updated: "2012-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -309,9 +309,13 @@ II. Deberá alimentarse mensualmente de los datos que arrojen las instituciones 
 
 III. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internaciones, redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado;
 
-IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada; y
+IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada; y (sic)
 
 V. Se deberá publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+VI. Contará con un apartado que será público en el que se registrarán los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos en su caso; características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, consignación o imputación, sanción, reparación del daño e índices de incidencia. Este registro se integrará a la estadística criminal y victimal para definir políticas públicas en materia de prevención del delito, procuración y administración de justicia
 
 ### Capítulo VIII. Atención a víctimas y refugios
 
@@ -529,9 +533,19 @@ V. Emitir los lineamientos para permitir que la víctima reciba atención médic
 
 VI. Desarrollar campañas de difusión sobre los derechos que tienen las víctimas de delitos que atentan contra la libertad y la seguridad sexuales y de violencia intrafamiliar, así como de las agencias especializadas que atienden estos delitos;
 
-VII. Formar y especializar con perspectiva de género, a los agentes del Ministerio Público y al personal encargado de la procuración de justicia responsable de conocer la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
-VIII. Las demás previstas para el cumplimiento de esta Ley.
+VII. Formar y especializar con perspectiva de género, a los agentes del Ministerio Público, al personal de servicios periciales y en general al personal encargado de la procuración de justicia responsable de conocer la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas; así como en la investigación de los delitos de feminicidio, trata de personas y contra la libertad sexual;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+IX. Proponer la celebración de convenios de cooperación, coordinación y concertación en la materia; y
+
+X. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Undécima. Facultades del titular Sistema para el Desarrollo Integral de la Familia
 
@@ -934,3 +948,19 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2012.
+
+Inicio de la vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazo para adecuar el Banco Estatal
+
+Artículo Segundo. La Procuraduría General de Justicia del Estado, deberá realizar las adecuaciones al Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres a que le obliga el presente decreto, dentro de los noventa días posteriores a la publicación del presente Decreto.
+
+Previsión presupuestal
+
+Artículo Tercero. El Ejecutivo del Estado preverá los recursos presupuestales para la adecuación del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres derivado de la entrada en vigor del presente decreto.
