@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2012-09-14"
+last_updated: "2012-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -685,7 +685,7 @@ XIV.- Proponer al Pleno, la designación de los representantes del Congreso ante
 
 XV.- Autorizar a solicitud de sus integrantes o de las comisiones, la contratación de asesorías externas o de especialistas para el trabajo de las mismas, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones fuera del Recinto Oficial o la celebración de congresos, seminarios, simposiums y eventos similares, atendiendo a la disponibilidad presupuestaria;
 
-XVI.- Emitir el acuerdo de clasificación de la información reservada y confidencial del Poder Legislativo, de conformidad con la Ley de Acceso a la Información Pública para el Estado y los municipios de Guanajuato;
+XVI.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2012)
 
 XVII.- Establecer las políticas, lineamientos y estrategias de la comunicación social del Congreso del Estado;
 
@@ -1465,6 +1465,8 @@ IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de 
 
 ### Capítulo Primero. De la Apertura y Clausura de los Periodos de Sesiones
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 104.
 
 La Junta de Enlace en Materia Financiera es un mecanismo de vinculación entre los Ayuntamientos y el Congreso del Estado en materia de Finanzas Públicas.
@@ -1555,7 +1557,7 @@ La aplicación de las cantidades a que se hace referencia en este Artículo, deb
 
 ###### Artículo 116.
 
-El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones. El primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y terminará a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
+El Congreso del Estado sesionará en los periodos ordinarios que señale la Constitución.
 
 ###### Artículo 117.
 
@@ -1567,9 +1569,11 @@ El 25 de septiembre se reunirán los diputados a la hora señalada para la apert
 
 Después de que diputados e invitados hubieren ocupado sus respectivos asientos, el Presidente del Congreso, de pie, hará la siguiente declaración: "La (número ordinal sucesivo que le corresponda) Legislatura del Congreso del Estado Libre y Soberano de Guanajuato, abre hoy (día, mes y año) su primer periodo ordinario de sesiones del (primer, segundo o tercer) año de su ejercicio".
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 119.
 
-Si el periodo que se abre o clausura, corresponde al segundo o tercero ordinario, o a periodos de sesiones extraordinarias, el Presidente hará la declaratoria expresa en ese sentido.
+El presidente hará la declaratoria sobre el periodo ordinario o extraordinario que se abre o clausura, indicando el número ordinal.
 
 La apertura y clausura de los periodos ordinarios y extraordinarios de sesiones, se comunicarán al Gobernador del Estado, al Presidente del Supremo Tribunal de Justicia, a la Cámara de Diputados del Congreso de la Unión, al Senado de la República, al Presidente de la República, al Presidente de la Suprema Corte de Justicia de la Nación, a los órganos legislativos de los Estados y del Distrito Federal, y a los Ayuntamientos del Estado.
 
@@ -1693,7 +1697,9 @@ Los servidores públicos que comparezcan ante el Congreso para los efectos del A
 
 Lo acontecido en las sesiones a las que se refiere este Capítulo, será consignado en un medio de difusión oficial denominado Diario de los Debates, en el que se publicará la fecha y lugar donde se verifiquen, el sumario, nombre de quien presida, copia fiel del acta de sesión anterior, la trascripción de la versión magnetofónica de las discusiones en el orden que se desarrollen e inserción de todos los asuntos con que se de cuenta.
 
-No se publicarán las discusiones y documentos relacionados con las sesiones secretas, lo anterior sin perjuicio de lo dispuesto en el Artículo 15 en relación con la fracción XVI del Artículo 14 de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
+No se publicarán las discusiones y documentos relacionados con las sesiones secretas, lo anterior sin perjuicio de lo dispuesto en el artículo 16 en relación con la fracción XIV del artículo 15 de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ### Capítulo Primero. De las Iniciativas
 
@@ -2707,17 +2713,19 @@ IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del p
 
 #### Sección Sexta. De la Unidad de Acceso a la Información Pública
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 250.
 
-La Unidad de Acceso a la Información Pública, además de las atribuciones previstas en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, tendrá las siguientes:
+La Unidad de Acceso a la Información Pública, además de las atribuciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, tendrá las siguientes:
 
-I.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados;
+I.- Emitir el acuerdo de clasificación como reservada o confidencial de la información del Poder Legislativo;
 
-II.- Vigilar que sólo se distribuyan, difundan o comercialicen los datos personales contenidos en los sistemas de acceso a la información pública, cuando medie el consentimiento de los individuos a que haga referencia la información pública;
+II.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados;
 
-III.- Proporcionar los datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley de Acceso a la Información Pública. Así como tramitar el procedimiento de corrección de datos personales; y
+III.- Tramitar las solicitudes de informes, de cesión, de corrección o de cancelación de datos personales, de conformidad con la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato; y
 
-IV.- Intervenir en los recursos que prevé la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+IV.- Intervenir en los recursos que prevén las leyes de Protección de Datos Personales para el Estado y los Municipios de Guanajuato y de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 251.
 
@@ -2920,3 +2928,11 @@ P.O. 14 DE SEPTIEMBRE DE 2012.
 Artículo Primero. El presente Decreto entrará en vigencia en la misma fecha en que entre en vigencia el Decreto por el cual se reforman y adicionan diversos artículos de la Constitución Política para el Estado de Guanajuato para la armonización de la reforma constitucional federal en materia de Derechos Humanos.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2012.
+
+Artículo primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. El Congreso del Estado deberá expedir el Reglamento de Acceso a la Información Pública del Poder Legislativo del Estado de Guanajuato, dentro de los ciento veinte días siguientes a la entrada en vigencia del presente decreto.
+
+Artículo tercero. El acuerdo de clasificación de la información del Poder Legislativo emitido por la Junta de Gobierno y Coordinación Política ante la Sexagésima Primera Legislatura seguirá observándose en lo conducente, hasta en tanto la Unidad de Acceso a la Información Pública del Poder Legislativo emite el acuerdo de clasificación de conformidad con la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y el presente Decreto.
