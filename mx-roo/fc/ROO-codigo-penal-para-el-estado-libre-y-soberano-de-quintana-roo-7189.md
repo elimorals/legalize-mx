@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2012-11-30"
+last_updated: "2012-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -959,6 +957,12 @@ P.O. 30 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
+P.O. 5 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
 ###### ARTICULO 90.
 
 Al que prive de la vida a otro, encontrándose en estado de emoción violenta, motivado por alguna ofensa grave a sus sentimientos afectivos o al honor de sus padres, hijos, cónyuge o al suyo propio que las circunstancias hicieren excusables, se le impondrá de dos a ocho años de prisión.
@@ -1445,6 +1449,8 @@ Al que en el ejercicio de sus funciones, valiéndose de su posición jerárquica
 
 ### CAPITULO I. ROBO
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 ### CAPITULO II. DELITOS EN MATERIA DE APICULTURA
 
 ### CAPITULO III. ABIGEATO
@@ -1541,13 +1547,9 @@ Este delito se perseguirá por querella.
 
 ###### ARTICULO 142.
 
-Comete el delito de robo el que se apodere de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella conforme a la Ley, se le aplicará las siguientes penas:
+Se impondrá de seis meses a seis años de prisión y de diez a cincuenta días de multa, al que se apodere de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella conforme a la Ley.
 
-I.- Se impondrá de seis meses a seis años de prisión y de uno a veinte días de multa, al responsable de robo, cuyo monto no excedad (sic) de trescientos días del salario mínimo general vigente en el Estado.
-
-II.- Cuando el valor de lo robado exceda de trescientos días del salario mínimo, la sanción será de cuatro a doce años de prisión y de diez a cincuenta días de multa.
-
-III.- No se impondrá sanción alguna, cuando el valor de lo robado no exceda de treinta días de salario mínimo general vigente y el culpable restituya la cosa espontáneamente y pague todos los daños y perjuicios antes de que la Autoridad tome conocimiento del delito, si no se ha ejecutado el robo por medio de violencia.
+No se impondrá sanción alguna, cuando el valor de lo robado no exceda de treinta días de salario mínimo general vigente y el culpable restituya la cosa espontáneamente y pague todos los daños y perjuicios antes de que la Autoridad tome conocimiento del delito, si no se ha ejecutado el robo por medio de violencia.
 
 ###### ARTICULO 143.
 
@@ -1561,35 +1563,43 @@ II.- Aproveche energía eléctrica o algún fluido, sin consentimiento de la per
 
 Al que se le imputare el hecho de haberse apoderado de una cosa mueble ajena, sin consentimiento del dueño o el legítimo poseedor y acredite haberla tomado con el solo fin de usarla temporalmente y no para apropiársela o venderla, se le aplicará de seis a nueve meses de prisión o multa de quince a sesenta días, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 145.
 
-Se aumentarán hasta en una mitad las penas previstas en los artículos anteriores si se realizan:
+Se impondrá de cuatro a doce años de prisión y de veinte a ochenta días de multa, si el robo se realiza:
+
+I.- Acometiendo a la víctima encontrándose ésta en un vehículo particular o de transporte público;
+
+II.- Respecto de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
+
+III.- Respecto de instrumentos de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar;
+
+IV.- Sobre embarcaciones o cosas que se encuentren en ellas;
+
+V.- Quebrantando la confianza o seguridad derivada de una relación de servicios, trabajo u hospitalidad, o
+
+VI.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 145
+
+BIS.- Se impondrá de seis a dieciocho años de prisión y de treinta a ciento cincuenta días de multa, si el robo se realiza:
 
 I.- Con violencia contra la persona robada o sobre otra que la acompañe, o cuando ejerza violencia para darse a la fuga o defender lo robado;
 
-II.- En lugar cerrado, habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles;
+II.- En lugar cerrado o habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles:
 
-III.- Acometiendo a la víctima encontrándose ésta en un vehículo particular o de transporte público;
+III.- Aprovechando la consternación que una desgracia privada cause al ofendido, a su familia o a las condiciones de confusión que se produzcan por catástrofe o desorden público;
 
-IV.- Aprovechando la consternación que una desgracia privada cause al ofendido, a su familia o a las condiciones de confusión que se produzcan por catástrofe o desorden público;
+IV.- Por intervención de dos o más personas;
 
-V.- Por intervención de dos o más personas;
+V.- Mediante uso de armas u otros medios peligrosos;
 
-VI.- Mediante uso de armas u otros medios peligrosos;
+VI.- En contra de una oficina bancaria, recaudadora u otra en que se conservan caudales, o en contra de las personas que las custodian, manejan o transportan;
 
-VII.- En contra de una oficina bancaria, recaudadora u otra en que se conservan caudales, o en contra de las personas que las custodian, manejan o transportan;
-
-VIII.- En local comercial abierto al público;
-
-IX.- Respecto de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
-
-X.- Respecto de instrumentos de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar;
-
-XI.- Sobre embarcaciones o cosas que se encuentren en ellas;
-
-XII.- Quebrantando la confianza o seguridad derivada de una relación de servicios, trabajo u hospitalidad, o
-
-XIII.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad.
+VII.- En local comercial abierto al público;
 
 ###### ARTICULO 146.
 
@@ -2785,13 +2795,27 @@ I.- No procure por los medios lícitos que tenga a su alcance impedir la consuma
 
 Se exceptúan de sanción aquellos que no puedan cumplir tal obligación, sin peligro de su persona o intereses, o de la persona o bienes del cónyuge, concubina o concubinatario, o de algún pariente en línea recta o colateral dentro del segundo grado, o los que estén ligados por extrema gratitud, respeto o amistad y los que no puedan ser compelidos por las autoridades a revelar secretos que se les hubiese confiado en el ejercicio de su profesión o encargo, siempre y cuando no se trate de los delitos graves cometidos en contra de las personas menores de 18 años o que no tengan la capacidad para comprender el significado del hecho.
 
-II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió una cosa mueble en venta o prenda, tendría derecho para disponer de ella, si resultare robada;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+II.- No haya tomado las precauciones necesarias, a través de los medios legales idóneos como un contrato privado de compraventa, para asegurarse de que la persona de quien recibió una cosa mueble en venta o prenda, tiene el derecho para disponer de ella, y no resulte producto de un robo, extorsión o secuestro;
 
 III.- Requerido por las Autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los sujetos activos. En relación con esta persecución rige la excepción a que se contrae el último párrafo de la fracción primera de este precepto;
 
 IV.- Preste auxilio o cooperación de cualquier especie al responsable de un delito, con conocimiento de esta circunstancia por acuerdo posterior a la ejecución del ilícito; y
 
 V.- Oculte al delincuente o los efectos, objetos o instrumentos del delito, o impida que se investigue éste.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+VI.- Encontrándose en una situación o estado de hecho con respecto bienes provenientes o productos del delito de extorsión o secuestro, no justifiquen legalmente o no exponga el motivo razonable de su posesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+No configurará delito a quien exponiendo el motivo razonable de su posesión, revele datos ciertos, precisos y verificables del nombre o identidad de la persona de quien obtuvo la posesión del bien.
+
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+Tampoco se configura encubrimiento cuando se acredite que la persona haya servido o sirvió de instrumento inconsciente para la realización de ese acto o estado de posesión.
 
 ###### ARTICULO 234.
 
