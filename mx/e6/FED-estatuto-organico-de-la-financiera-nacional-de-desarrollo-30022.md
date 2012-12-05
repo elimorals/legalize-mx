@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2012-05-24"
+last_updated: "2012-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2012.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -501,9 +501,9 @@ VII. Instruir estrategias de coordinación técnica dirigidas a las gerencias ju
 
 Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
-VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los asesores jurídicos de las agencias de Crédito Rural, y (sic)
+VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los ejecutivos jurídicos de las agencias de Crédito Rural;
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -727,13 +727,17 @@ VII. Dirigir las actividades relativas a la planeación estratégica de la insti
 
 VIII. Dirigir las políticas de comunicación social de la Financiera;
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
-IX. Coordinar las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera, y
+IX. Coordinar las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
-X. Apoyar las gestiones específicas que realice la Agencia Corporativa de Crédito Rural.
+X. Apoyar las gestiones específicas que realice la Agencia Corporativa de Crédito Rural; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
+
+XI. Negociar con instituciones de banca de desarrollo, fideicomisos públicos de fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y organismos financieros internacionales contratos de líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera, y en su caso suscribirlos previa autorización del Consejo y demás instancias competentes, controlando su aplicación y beneficios.
 
 > <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -1655,13 +1659,17 @@ VI. Dictar políticas y estrategias en materia presupuestal, y (sic)
 
 VII. Definir estrategias y políticas encaminadas al desarrollo e implantación del sistema de gestión de calidad y el programa de certificación y mejora continua;
 
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
 VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales;
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
-IX. Dictar estrategias y políticas en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas.
+IX. Dictar estrategias y políticas en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
+
+X. Realizar las gestiones de autorización ante las instancias competentes, para la contratación de créditos de las instituciones de banca de desarrollo, de los fideicomisos públicos de fomento, de los Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y de los organismos financieros internacionales, en términos de las disposiciones aplicables, cuyos recursos se destinen al sector de atención de la Financiera, registrando en su caso y vigilando el comportamiento de la deuda.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2131,11 +2139,11 @@ XIV. Definir acciones de coordinación para la operación de los productos y mod
 
 XV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior.
 
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Corresponde a las Agencias de Crédito Rural a través de los promotores de financiamiento rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X y XI del artículo 52 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
+Corresponde a las Agencias de Crédito Rural a través de los ejecutivos de financiamiento rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X y XI del artículo 52 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2627,6 +2635,14 @@ Los coordinadores regionales serán suplidos por los gerentes regionales en el �
 
 Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
+
+Los directores ejecutivos serán suplidos en sus ausencias, por los subdirectores corporativos o bien por el servidor público a su cargo que ostente el nivel inmediato inferior, en los asuntos de su respectiva competencia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2012)</small>
+
+Los subdirectores corporativos serán suplidos en sus ausencias, por los Gerentes o bien por el servidor público a su cargo que ostente el nivel inmediato inferior, en los asuntos de su respectiva competencia.
+
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO II. DEL EJERCICIO DE LAS ATRIBUCIONES
@@ -2756,3 +2772,7 @@ UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguien
 D.O.F. 24 DE MAYO DE 2012.
 
 PRIMERO (SIC).- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 2012.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
