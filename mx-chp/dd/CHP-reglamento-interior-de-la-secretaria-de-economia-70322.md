@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-economia-70322"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2012-05-30"
+last_updated: "2012-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -83,63 +83,61 @@ Los Titulares de los Órganos Administrativos que integran la Secretaría, coord
 
 ### Capítulo I. De la Estructura Orgánica de la Secretaría
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 7°.
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, funciones y despacho de los asuntos de su competencia, la Secretaría tendrá los órganos administrativos siguientes:
 
-I. Oficina del C. Secretario.
+I. Oficina del C. Secretario
 
-Unidad de Apoyo Administrativo.
+a) Unidad de Apoyo Administrativo
 
-Unidad de Planeación.
+b) Unidad de Planeación
 
-Unidad de Asuntos Jurídicos.
+c) Unidad de Asuntos Jurídicos
 
-Unidad de Informática.
+d) Unidad de Informática
 
-Coordinación de Enlace Interinstitucional.
+e) Coordinación de Enlace Interinstitucional
 
-Delegación Altos.
+Delegación Altos
 
-Delegación Fronteriza-Sierra.
+Delegación Fronteriza-Sierra
 
-Delegación Norte.
+Delegación Norte
 
-Delegación Selva.
+Delegación Selva
 
-Delegación Soconusco.
+Delegación Soconusco
 
-II. Subsecretaría de Mejora Regulatoria.
+II. Subsecretaría de Industrialización y Promoción de Inversiones
 
-Dirección de Simplificación Administrativa.
+a) Dirección de Infraestructura Industrial
 
-Dirección de Normas Regulatorias.
+b) Dirección de Promoción de Inversiones
 
-III. Subsecretaría de Industrialización y Promoción de Inversiones.
+c) Dirección de Corredores Estratégicos
 
-Dirección de Infraestructura Industrial.
+d) Dirección de Inteligencia y Oportunidades de Mercado
 
-Dirección de Promoción de Inversiones.
+III. Subsecretaría de Comercio
 
-Dirección de Corredores Estratégicos.
+a) Dirección de Comercio Interior y Exterior
 
-Dirección de Inteligencia y Oportunidades de Mercado.
+b) Dirección de Promoción a la Industria de la Transformación
 
-IV. Subsecretaría de Comercio.
+IV. Subsecretaría de Micro, Pequeñas, Medianas y Grandes Empresas
 
-Dirección de Comercio Interior y Exterior.
+a) Dirección de Capacitación Empresarial
 
-Dirección de Promoción a la Industria de la Transformación.
+b) Dirección de Atención Empresarial
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+c) Dirección de Atención a Mercados
 
-V. Subsecretaría de Micro, Pequeñas, Medianas y Grandes Empresas.
+V. Órgano Administrativo Desconcentrado
 
-Dirección de Capacitación Empresarial.
-
-Dirección de Atención Empresarial.
-
-Dirección de Atención a Mercados.
+Comisión Estatal de Mejora Regulatoria
 
 ###### Artículo 8º.
 
@@ -165,7 +163,9 @@ La representación, el trámite y resolución de los asuntos competencia de la S
 
 El Secretario, tendrá las atribuciones indelegables siguientes:
 
-I. Proponer al Titular del Ejecutivo, las políticas de desarrollo económico para la entidad, ejecutarlas y evaluar sus resultados, fomentando y promoviendo las actividades económicas, comerciales, industriales, de mejora regulatoria, de inversión y el comercio interior y exterior de las mercancías que se produzcan en el Estado; basándose en el Plan de Desarrollo Chiapas Solidario 2007- 2012.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+I. Proponer al Titular del Ejecutivo, las políticas de desarrollo económico para la Entidad, ejecutarlas y evaluar sus resultados, fomentando y promoviendo las actividades económicas, comerciales, industriales, de mejora regulatoria, de inversión y el comercio interior y exterior de las mercancías que se produzcan en el Estado, basándose en el Plan Estatal de Desarrollo.
 
 II. Determinar, dirigir y controlar la política y organización de la Secretaría, así como, planear, aprobar, coordinar y evaluar sus programas en los términos de la legislación aplicable, los objetivos, estrategias y prioridades del Plan de Desarrollo Chiapas Solidario 2007-2012, y con los lineamientos que el Titular del Ejecutivo le señale.
 
@@ -611,55 +611,11 @@ XXV. Las demás que en el ámbito de su competencia, le confieran las disposicio
 
 ###### Artículo 28.
 
-La Subsecretaría de Mejora Regulatoria, está integrada por los Órganos Administrativos siguientes:
-
-a) Dirección de Simplificación Administrativa.
-
-b) Dirección de Normas Regulatorias.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 29.
 
-El Titular de la Subsecretaría de Mejora Regulatoria, tiene las siguientes atribuciones:
-
-I. Proponer al Secretario la creación y el establecimiento del Consejo Estatal de Mejora Regulatoria, así como los mecanismos para su funcionamiento.
-
-II. Supervisar el cumplimiento de los acuerdos y compromisos contraídos en el Consejo Estatal de Mejora Regulatoria.
-
-III. Promover ante el Secretario, en coordinación con la Unidad de Asuntos Jurídicos, las Iniciativas de Leyes, Reglamentos y demás disposiciones jurídicas, así como las reformas que se requieran, para la Mejora Regulatoria, Simplificación Administrativa e Incentivos a la Inversión en la Administración Pública Federal, Estatal y Municipal.
-
-IV. Elaborar, operar y dar seguimiento al Programa de Mejora Regulatoria, previo acuerdo con el Secretario.
-
-V. Opinar sobre los Proyectos de Mejora Regulatoria y las manifestaciones de impacto regulatorio, que presenten y propongan Entidades, Dependencias y Organismos Públicos del Gobierno del Estado y de los municipios.
-
-VI. Opinar y emitir criterios para el establecimiento de requisitos, trámites y plazos, que las Dependencias, Entidades y Organismos de la Administración Pública Estatal, propongan que incidan en las actividades económicas y en la sociedad.
-
-VII. Proponer al Secretario, el proyecto de acuerdo de creación del Registro Único de Trámites y Servicios Electrónicos y sus respectivos catálogos, para su posterior publicación en el Periódico Oficial; coordinar y administrar su operación, así como promover y supervisar su difusión y utilización en beneficio de la ciudadanía.
-
-VIII. Instrumentar el Registro Único de Trámites y Servicios Electrónicos a nivel Estatal y Municipal, así como formular los catálogos correspondientes, previa publicación en el Periódico Oficial, así como coordinar y administrar su operación.
-
-IX. Coordinar la publicación a través del portal de Internet, de los dictámenes derivados del proceso de revisión de las distintas regulaciones y desregulaciones económicas y administrativas, previo acuerdo con el Secretario.
-
-X. Promover, coordinar y operar con los municipios, los módulos del Sistema de Apertura Rápida de Empresas.
-
-XI. Implementar, en coordinación con los municipios, las Ventanillas Únicas de Gestión Municipal.
-
-XII. Promover con las Dependencias de nivel Federal, Estatal, Municipal, Organizaciones Empresariales, así como los distintos Centros Educativos Universitarios, Tecnológicos, Colegios de Notarios y Colegios de Profesionistas afines, el programa de Mejora Regulatoria para el Estado de Chiapas.
-
-XIII. Proponer acciones de modernización e innovación en Materia de Mejora Regulatoria de la Administración Pública Estatal y Municipal.
-
-XIV. Impulsar y coordinar las acciones y actividades de apoyo directo, a los grupos de productores y empresarios en el territorio Estatal, a través del extensionismo económico, con la finalidad de hacerlos más competitivos y productivos.
-
-XV. Coordinar la organización de foros, congresos, conferencias y capacitaciones en Materia de Mejora Regulatoria, así como las campañas de difusión para su impulso en el Estado.
-
-XVI. Promover y vincular la participación y la creación de fuentes de trabajo especializado para los egresados de las Instituciones Educativas, con las Empresas y las Dependencias, Entidades y Organismos Estatales, a través del Programa de Servicio Social.
-
-XVII. Coordinar la capacitación y asesoría permanente para servidores públicos estatales y municipales en materia de Mejora Regulatoria, Simplificación Administrativa, así como promover la modernización tecnológica y la adopción de mejores procesos para las empresas.
-
-XVIII. Impulsar acciones y estrategias para la instrumentación de Procesos de Calidad y Mejora Regulatoria, que incentiven el Desarrollo y Competitividad en las actividades económicas en el Estado.
-
-XIX. Establecer los mecanismos de coordinación con los municipios, para obtener las quejas y sugerencias de la ciudadanía en materia de Mejora Regulatoria.
-
-XX. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 30.
 
@@ -867,73 +823,19 @@ XVIII. Las demás que en el ámbito de su competencia, le confieran las disposic
 
 ###### Artículo 37.
 
-la Dirección de Simplificación Administrativa, está integrada por los Órganos Administrativos siguientes:
-
-a) Departamento de Control de Gestión Administrativa.
-
-b) Departamento de Simplificación Administrativa.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 38.
 
-El Titular de la Dirección de Simplificación Administrativa, tiene las siguientes atribuciones:
-
-I. Coordinar la logística del Consejo Estatal de Mejora Regulatoria, revisar y dar seguimiento a los acuerdos y convenios establecidos.
-
-II. Proponer al Subsecretario de su adscripción, el calendario de sesiones del Consejo Estatal de Mejora Regulatoria.
-
-III. Supervisar y dar seguimiento a la aplicación de los acuerdos y propuestas surgidos en el Consejo Estatal de Mejora Regulatoria.
-
-IV. Opinar sobre las propuestas que emanen del Comité Técnico, en materia de Mejora Regulatoria y Simplificación Administrativa, para su presentación ante el Consejo Estatal de Mejora Regulatoria, previo acuerdo con el Subsecretario de Mejora Regulatoria.
-
-V. Dar seguimiento a los proyectos legislativos que en materia de regulación, desregulación económica y simplificación administrativa, sean aprobados.
-
-VI. Supervisar proyectos de iniciativas en materia de Simplificación Administrativa y normas aplicables en el ámbito Estatal.
-
-VII. Coordinar con los H. Ayuntamientos, la homologación de trámites, lineamientos, criterios, requisitos y tiempos de respuesta para la apertura de negocios y empresas, así como de servicios municipales que se presten a la población y publicación respectiva, en la gaceta municipal en materia de Simplificación Administrativa.
-
-VIII. Elaborar en coordinación con el Área de Asuntos Jurídicos, proyectos de Iniciativas de Leyes, Reglamentos y demás disposiciones jurídicas en materia de Simplificación Administrativa, Incentivos a la Inversión y desarrollo económico.
-
-IX. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como, las que le asigne el Subsecretario al cual se encuentre adscrita, o directamente el Secretario.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 39.
 
-La Dirección de Normas Regulatorias, está integrada por los Órganos Administrativos siguientes:
-
-a) Departamento de Desregulación Normativa.
-
-b) Departamento de Vigilancia Regulatoria.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 40.
 
-El Titular de la Dirección de Normas Regulatorias tiene las siguientes atribuciones:
-
-I. Autorizar previo acuerdo y autorización con el Subsecretario, las Cédulas de Organización para las Micro, Pequeñas, Medianas y Grandes Empresas; así como, la constitución de sociedades de responsabilidad limitada microindustrial.
-
-II. Coordinar los programas de asistencia técnica y capacitación, diseñados para la micro, pequeña y mediana empresa, en materia de comercio y facturación electrónica, así como de protección de la propiedad industrial.
-
-III. Impulsar la modernización tecnológica y la adopción de mejores prácticas y procesos para las empresas en el Estado.
-
-IV. Coordinar las actividades para la instrumentación de procesos de calidad y Mejora Regulatoria, que incentiven el desarrollo de las actividades económicas en el Estado.
-
-V. Elaborar, en coordinación con la Unidad de Asuntos Jurídicos, el proyecto de Ley de Mejora Regulatoria, su Reglamento, así como las reformas que se requieran.
-
-VI. Coordinar la creación del Registro Único de Trámites y Servicios Electrónicos a nivel Estatal y Municipal, a fin de impulsar su aplicación en las Dependencias, Entidades, Organismos Estatales y municipios.
-
-VII. Elaborar el formato para el catálogo de trámites y servicios que deberá aplicarse a las empresas y a la Administración Pública Estatal, así como, las estrategias de difusión de su contenido y los beneficios que aporta el Registro Único de Trámites y Servicios Electrónicos al Estado y a la ciudadanía.
-
-VIII. Realizar previo acuerdo con el Subsecretario y la aprobación del Secretario, campañas de difusión, para impulsar la Mejora Regulatoria en el Estado.
-
-IX. Coordinar la capacitación y asesoría permanente para servidores públicos Estatales y municipales, en materia de Mejora Regulatoria, Simplificación Administrativa y temas homólogos y análogos a sus funciones operativas.
-
-X. Promover e impulsar el programa de capacitación sobre los servicios que presta la Secretaría, dirigido a los municipios, en materia de Mejora Regulatoria, Sistema de Apertura Rápida de Empresas y Ventanilla Única de Gestión Municipal, previo acuerdo con éstos.
-
-XI. Realizar la evaluación y seguimiento a los resultados que se alcancen en la operación del Sistema de Apertura Rápida de Empresas, del Registro Único de Trámites y Servicios Electrónicos y Ventanillas Únicas de Gestión Municipal, en las Delegaciones y en los municipios, mediante reportes mensuales y trimestrales.
-
-XII. Coordinar con las Delegaciones Regionales de la Secretaría, las actividades y funcionamiento de los Módulos de Ventanilla Única de Gestión Municipal, así como del Sistema de Apertura Rápida de Empresas que se instalen en los municipios.
-
-XIII. Coordinar la creación y expedición de la Guía Básica de Datos, que se derive del registro único y mantener su actualización permanente en el sistema electrónico.
-
-XIV. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como, las que le asigne el Subsecretario al cual se encuentre adscrita, o directamente el Secretario.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2012)
 
 ###### Artículo 41.
 
@@ -1179,9 +1081,11 @@ VII. Las demás que en el ámbito de su competencia le sean encomendadas por el 
 
 ### Capítulo IV. De las Atribuciones de los Titulares de las Delegaciones
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-Para el despacho de los asuntos de su competencia, la Secretaría, cantará con los Órganos Desconcentrados denominados Delegaciones, que le estarán jerárquicamente subordinados, con facultades específicas para resolver sobre las materias que se le señalen y en el ámbito territorial determinado, de acuerdo a las disposiciones relativas.
+Para el despacho de los asuntos de su competencia, la Secretaría, contará con Órganos Administrativos Desconcentrados y Delegaciones que le estarán jerárquicamente subordinados, con facultades específicas para resolver sobre la materia de su competencia, en el ámbito territorial determinado y de acuerdo a las disposiciones relativas.
 
 ###### Artículo 57.
 
@@ -1219,9 +1123,27 @@ XV. Implementar las medidas técnicas administrativas, para la operación de las
 
 XVI. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario.
 
-## Título Cuarto. De las Suplencias de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Único. De las Ausencias y el Orden de Suplencias
+## Título Cuarto. Del Órgano Administrativo Desconcentrado de la Secretaría
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Único. De la Comisión Estatal de Mejora Regulatoria
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 57 Bis.
+
+La Secretaría contará con un Órgano Administrativo Desconcentrado, jerárquicamente subordinado a ésta, denominado Comisión Estatal de Mejora Regulatoria, el cual tendrá la integración y atribuciones que establezca su Decreto de Creación, su Reglamento Interior y demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+## Título Quinto. De las Suplencias de los Servidores Públicos
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Único. De las Ausencias y el Orden de las Suplencias
 
 ###### Artículo 58.
 
@@ -1268,3 +1190,21 @@ Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor 
 Artículo Tercero.- El Secretario deberá establecer dentro de su estructura orgánica, la Unidad Interna de Protección Civil, la cual adoptará las medidas encaminadas a instrumentar, en el ámbito de sus funciones, la ejecución de los programas de protección civil, dentro de la Secretaría, de conformidad con la Ley de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas y demás disposiciones aplicables.
 
 Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto, y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- Los Manuales Administrativos de la Secretaría, deberán actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este Decreto.
+
+Artículo Sexto.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de
+
+Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Séptimo.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
