@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-80344"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-16"
-last_updated: "2011-03-16"
+last_updated: "2012-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 5 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 16 de marzo de 2011.
 
@@ -546,3 +548,15 @@ EL SECRETARIO DE DESARROLLO AGROPECUARIO
 BERNARDO PASTRANA GÓMEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+PRIMERA.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDA.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial "Tierra y Libertad" número 4878, sexta época, del 16 de marzo del dos mil once.
+
+TERCERA.- Se derogan las disposiciones administrativas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+CUARTA.- A partir de la entrada en vigor del presente Reglamento, la Secretaría de Desarrollo Agropecuario contará con un plazo de ciento veinte días hábiles para realizar las modificaciones necesarias a sus respectivos Manuales de Organización, y de. Políticas y Procedimientos; y en tanto se expidan dichos manuales, seguirán vigentes los anteriores y en caso de ser necesario, el Secretario resolverá las cuestiones de procedimientos y operación que se originen por la aplicación del presente ordenamiento.
