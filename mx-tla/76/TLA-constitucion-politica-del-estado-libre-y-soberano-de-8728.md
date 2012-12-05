@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2012-04-11"
+last_updated: "2012-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -52,6 +52,14 @@ El Estado de Tlaxcala es parte integrante de los Estados Unidos Mexicanos, es Li
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Tiene el Estado de Tlaxcala una composición pluricultural sustentada originalmente en sus pueblos náhuatl y otomí, por lo que se reconocen los pueblos y comunidades indígenas y se les garantiza el derecho a preservar su forma de vida y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, cultura, religión, educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico, artesanal y formas específicas de organización social y se garantiza a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+Sólo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad de la mujer.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -311,11 +319,17 @@ III. Por la realización de estudios o comisiones científicas, culturales o dep
 
 ### CAPITULO I. PRINCIPIOS GENERALES
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 14.
 
-En el Estado de Tlaxcala todo individuo gozará de los derechos humanos que se garantizan en la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, instrumentos internacionales incorporados al orden jurídico mexicano y leyes secundarias. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad a la familia, a los más desfavorecidos, a la sociedad y al Estado.
+En el Estado de Tlaxcala toda persona gozará de los derechos humanos que se garantizan en la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, instrumentos internacionales incorporados al orden jurídico mexicano y leyes secundarias. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad a la familia, a los más desfavorecidos, a la sociedad y al Estado.
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad, en primer lugar, con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas en la protección más amplia.
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, independencia, indivisibilidad y progresividad, en consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -498,6 +512,10 @@ I. Toda persona tiene garantizado por esta Constitución un mínimo de bienestar
 II. La educación y al acceso a la formación profesional y continua. Este derecho incluye la facultad de recibir gratuitamente la enseñanza obligatoria en los términos que establece el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos. Se garantiza el derecho de los padres a asegurar la enseñanza de sus hijos;
 
 Corresponde al Estado otorgar atención especial al debido ejercicio de este derecho; éste promoverá y atenderá todos los tipos y modalidades educativos necesarios para el desarrollo del Estado;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 III. Las personas de sesenta y cinco años en adelante gozarán de los programas que se establezcan por ley y de acuerdo con ésta;
 
@@ -1879,7 +1897,7 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 
 ### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO III. DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES
 
@@ -2191,17 +2209,21 @@ La Sala Electoral Administrativa del Tribunal Superior de Justicia conocerá en 
 
 ###### ARTICULO 96.
 
-La Comisión Estatal de Derechos Humanos es un organismo autónomo, con personalidad jurídica y patrimonio propio; su finalidad es la protección, observancia, promoción, estudio y divulgación de los derechos humanos.
+La Comisión Estatal de Derechos Humanos, es un organismos (sic) autónomo, con personalidad jurídica y patrimonio propios; su finalidad es la protección, observancia, promoción, estudio y divulgación de los derechos humanos que ampara el orden jurídico mexicano.
 
-Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier servidor público que violen estos derechos; formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas. No tendrá competencia en asuntos electorales, laborales, de fiscalización, agrarios y jurisdiccionales de fondo.
+Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier servidor público que violen estos derechos; formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas. Este organismo no tendrá competencia en asuntos electorales, laborables, de fiscalización, agrarios y jurisdiccionales de fondo.
 
-El presidente de la Comisión será electo por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso, asistirá al presidente un consejo consultivo, de carácter honorífico, integrado por cuatro miembros, designados por mayoría de los diputados presentes.
+Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado podrá llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables, para que comparezcan ante dicho Órgano Legislativo, a efecto de que expliquen el motivo de su negativa.
 
-Para la elección del presidente y los consejeros se expedirá previamente por el Congreso una convocatoria pública abierta en la forma y términos que la ley señale.
+La Comisión podrá investigar hechos que constituyan violaciones graves a los derechos humanos, cuando así lo juzgue conveniente o lo pidiera el titular del Ejecutivo Estatal o el Congreso del Estado.
 
-Para ser presidente se requiere ser preferentemente licenciado en derecho y cumplir con los demás requisitos que determine la ley de la materia.
+El titular de la Comisión será electo por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso, asistirá al titular un Consejo Consultivo, de carácter honorífico, integrado por cuatro miembros, designados por mayoría de los diputados presentes.
 
-El presidente y los consejeros durarán en su encargo cuatro años y no podrán ser reelectos.
+La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo se ajustarán a un procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley.
+
+Para ser titular de la Comisión se requiere ser preferentemente Licenciado en Derecho y cumplir con los demás requisitos que determine la ley de la materia.
+
+El titular de la Comisión y los consejeros durarán en su encargo cuatro años y no podrán ser reelectos.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3170,3 +3192,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación, e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado adecuará la Ley de la Comisión Estatal de Derechos Humanos, en un plazo de un año, contado a partir de la vigencia de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
