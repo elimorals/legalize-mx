@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2012-05-24"
+last_updated: "2012-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,2331 +19,625 @@ issue_date: "2003-04-09"
 ---
 # ESTATUTO ORGANICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO - ANTES ESTATUTO ORGANICO DE LA FINANCIERA RURAL -
 
-ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
+LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2012.
+TEXTO ORIGINAL.
 
-Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
+Ley publicada en el Suplemento 6813 al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2007.
 
-Al margen un logotipo, que dice: Financiera Rural.
+DECRETO 039
 
-El Consejo Directivo, en su sesión correspondiente al 28 de marzo de 2003, con fundamento en lo dispuesto por los artículos 33 fracción I de la Ley Orgánica de la Financiera Rural y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, ha tenido a bien aprobar el siguiente:
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 51 FRACCION I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
-ESTATUTO ORGANICO DE LA FINANCIERA RURAL
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO; Y CON BASE EN LOS SIGUIENTES:
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+ANTECEDENTES
+
+.
+
+UNDÉCIMO.- En virtud de lo anterior, siendo facultad del Congreso del Estado, de conformidad con lo establecido en el artículo 36 fracción I de la Constitución Política del Estado Libre y Soberano de Tabasco, expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado; se emite el siguiente:
+
+DECRETO 039
+
+###### ARTICULO UNICO.
+
+Se expide la Ley que Regula las Casas de Empeño en el Estado de Tabasco, para quedar de la siguiente manera:
+
+LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE TABASCO
 
 ## TITULO I. DE LA ORGANIZACION
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 1.
 
-###### ARTICULO 1.
+La presente Ley es de orden público e interés social, y tiene por objeto regular la instalación y funcionamiento de establecimientos que otorguen préstamos de dinero al público mediante la celebración de contratos de mutuo con interés y garantía prendaria dentro de la circunscripción territorial del Estado de Tabasco.
 
-La Financiera Rural es un organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público, con personalidad jurídica y patrimonio propio, constituido conforme a su Ley Orgánica, publicada en el Diario Oficial de la Federación el 26 de diciembre de 2002.
+###### ARTÍCULO 2.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+Corresponde la aplicación e interpretación de esta Ley al Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas.
 
-###### ARTICULO 2.
+###### ARTÍCULO 3.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases conforme a las cuales se regirán la organización, funcionamiento y atribuciones de los órganos y unidades administrativas que integran la Financiera Rural.
+En lo previsto por esta Ley y demás disposiciones que de ella se deriven serán aplicables, a falta de norma expresa y en forma supletoria, las disposiciones relativas a la Ley Federal de Protección al Consumidor, la Norma Oficial Mexicana respectiva, el Código Fiscal de Estado de Tabasco y las leyes fiscales respectivas.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 4.
 
-###### ARTICULO 3.
+Para efectos de la presente Ley se entenderá por:
 
-Para los efectos del presente Estatuto Orgánico se entenderá por:
+I. Almoneda.- Lugar donde se exhiben las prendas para su venta;
 
-I. Ley, la Ley Orgánica de la Financiera Rural;
+II. Casa de empeño/establecimiento.- Las personas físicas y jurídicas colectivas que otorguen préstamos de dinero al público mediante la celebración de contratos de mutuo con interés y garantía prendaria;
 
-II. Financiera, la Financiera Rural;
+III. Contrato/Contrato de Mutuo con Interés y Garantía Prendaria.- Es el contrato que realiza la Casa de Empeño, permisionada por el Ejecutivo Estatal y que registra ante la Procuraduría Federal del Consumidor; y mediante éste, el pignorante y la Casa de Empeño, se sujetan a las cláusulas que lo integran;
 
-III. Consejo, el Consejo Directivo;
+IV. Demasías.- Remanente que queda a favor del pignorante, después de que la Casa de Empeño descuenta del monto de la venta de prenda, el préstamo, los intereses devengados, los gastos de almacenaje y los gastos de operación;
 
-IV. Director General, el Director General de la Financiera Rural;
+V. Demasías Caducas.- Demasías no cobradas por los pignorantes dentro del Plazo establecido de un año a partir de haberse efectuado la venta de su prenda; después de este plazo las demasías caducadas se registran como un producto para la Casa de Empeño;
 
-V. Estatuto, el presente Estatuto Orgánico;
+VI. Depósito.- Lugar físico donde se almacenan y custodian las prendas pignoradas;
 
-VI. Intermediarios Financieros Rurales, a las sociedades cooperativas de ahorro y préstamo y sociedades financieras populares que se regulan en la Ley de Ahorro y Crédito Popular; a las uniones de crédito y almacenes generales de depósito a que se refiere la ley de la materia y los demás intermediarios financieros que determine la legislación vigente, así como aquellos que acuerde el Consejo y coadyuven al cumplimiento del objeto de la Financiera, cuyo acuerdo respectivo se publique en el Diario Oficial de la Federación, y
+VII. Derechos de almacenaje.- Es el porcentaje mensual nominal que se cobra sobre la base del préstamo, cuando las prendas desempeñadas no son recogidas en la fecha acordada para ello;
 
-VII. Productor o Productores, a las personas físicas o morales incluyendo aquellas comprendidas en las Leyes Agraria y de Aguas Nacionales que se dediquen a actividades agropecuarias, forestales, pesqueras o a cualquier otra actividad económica vinculada al medio rural.
+VIII. Desempeño.- Es el proceso mediante el cual, el interesado o pignorante, cumpliendo lo pactado en el contrato, puede recuperar la prenda depositada en garantía mediante el pago del préstamo, los intereses devengados y lo correspondiente a los gastos de almacenaje;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+IX. Empeño.- Es el proceso mediante el cual, el interesado o pignorante recibe en forma inmediata una suma de dinero en efectivo a cambio de dejar en depósito y como garantía una prenda de su propiedad;
 
-###### ARTICULO 4.
+X. Gastos de almacenaje.- Es un cargo mensual nominal que se cobra por la guarda y custodia de la prenda;
 
-La Financiera Rural tiene por objeto coadyuvar a realizar la actividad prioritaria del Estado de impulsar el desarrollo de las actividades agropecuarias, forestales, pesqueras y todas las demás actividades vinculadas al medio rural, con la finalidad de elevar la productividad, así como de mejorar el nivel de vida de su población.
+XI. Gastos de operación.- Es el porcentaje único que se carga sobre el precio de venta de las prendas de cumplido;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+Xll. Interés.- Porcentaje que se cobra al pignorante en términos anuales sobre saldos insolutos del préstamo por los días efectivamente devengados, tomando en cuenta la fecha en que se realice el empeño o refrendo;
 
-###### ARTICULO 5.
+XIII. Ley.- La Ley que Regula las Casas da Empeño en el Estado de Tabasco;
 
-El patrimonio de la Financiera se integrará de conformidad con lo establecido por el artículo 22 de la Ley.
+XIV. Liquidación de desempeño.- Monto de la liquidación del préstamo prendario integrado por la cantidad prestada más los intereses devengados, más gastos de almacenaje;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+XV. Permisionario.- La persona física o jurídica colectiva que obtenga el permiso a que se refiere el artículo 7 de esta Ley;
 
-### CAPITULO II. DE LA ESTRUCTURA
+XVI. Permiso.- El que se expide al Permisionario de conformidad con el artículo 7 de la Ley;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+XVII. Peticionario.- La persona física o moral que conforme a la Ley solicite la expedición, revalidación o modificación del Permiso;
 
-###### ARTICULO 6.
+XVIII. Pignorante/Deudor Prendario/Prestatario.- Persona que solicita un préstamo con garantía prendaria;
 
-Para el ejercicio de sus atribuciones, la Financiera contará con las siguientes unidades administrativas, que para efectos enunciativos se dividirán como a continuación se establece:
+XIX. Pignorar.- Dejar en prenda un objeto como garantía de un préstamo;
 
-I. Consejo Directivo;
+XX. Prendas de cumplido.- Traslado de prendas no desempeñadas o refrendadas a las almonedas;
 
-II. Dirección General;
+XXI. Refrendo.- Es el proceso mediante el cual el interesado o pignorante, cumpliendo lo pactado en el contrato de mutuo con interés y garantía prendaria puede, mediante el pago de los intereses devengados y lo correspondiente al costo del almacenaje, mantener la prenda empeñada;
 
-III. Comités de la Financiera;
+XXII. Secretaría.- La Secretaría de Administración y Finanzas del Estado de Tabasco; y
 
-IV. Direcciones generales adjuntas;
+XXIII. Venta con contrato.- Con el fin de darle al pignorante otra oportunidad de recuperar su prenda se le da la preferencia mediante la presentación de su contrato para que la adquiera.
 
-V. Direcciones ejecutivas;
+###### ARTÍCULO 5.
 
-VI. Subdirecciones corporativas;
+Los establecimientos, además de los libros que deban llevar como comerciantes, deberán incluir otros en los que asentarán por orden correlativo los números de los contratos de empeño emitidos, fecha del empeño, nombre del pignorante, detalle de los objetos dados en prenda, valor real de éstos, importe del préstamo, intereses y gastos cargados, vencimiento, fecha de cancelación o refrendo del préstamo y, en su caso, precio de la venta de los objetos.
 
-VII. Coordinaciones regionales;
+### CAPÍTULO II. DE LOS PERMISOS
 
-VIII. Agencias;
+#### SECCIÓN PRIMERA. DE LA SOLICITUD Y TRÁMITE DE LOS PERMISOS
 
-IX. Módulos;
+###### ARTÍCULO 6.
 
-Las unidades administrativas mencionadas, salvo por las señaladas en los numerales I y III, tendrán adscritas otras áreas y el personal necesario para el desempeño de sus funciones.
+Los establecimientos deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y, visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar los derechos y el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 7.
 
-###### ARTICULO 7.
+Las personas físicas y jurídicas colectivas que lleven a cabo las actividades en el artículo 1 de esta Ley, independientemente de las obligaciones que otras leyes, reglamentos y cualquier otra disposición les impongan, deberán obtener permiso del Ejecutivo del Estado. Por conducto de la Secretaría, para su instalación y funcionamiento.
 
-La Financiera tendrá su domicilio en el Distrito Federal, el cual se ubicará en el sitio que designe el Director General. Los domicilios de las coordinaciones regionales y agencias serán determinados por los coordinadores regionales en la localidad que para el efecto haya designado el Consejo a propuesta del Director General.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+La expedición, modificación y revalidación del permiso a que se refiere el párrafo anterior se hará por persona física o moral y tendrá vigencia por dos años fiscales. En caso de que el peticionario desee establecer sucursales u otro establecimiento deberá dar aviso a la Secretaría y pagar el derecho correspondiente por cada uno de ellos.
 
 ## TITULO II. DE LAS UNIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO I. DEL CONSEJO DIRECTIVO
+### CAPÍTULO III. DE LA REGULACIÓN DE LOS CONTRATOS
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 8.
 
-###### ARTICULO 8.
+La expedición, revalidación o modificación de los permisos causará los derechos establecidos en la Ley de Hacienda del Estado correspondiente al ejercicio fiscal de que se trate.
 
-El Consejo estará integrado por los siguientes consejeros:
+###### ARTÍCULO 9.
 
-I. El Secretario de Hacienda y Crédito Público;
+Para obtener el permiso para la instalación y funcionamiento de los establecimientos que rige la presente Ley, el interesado presentará ante la Secretaría lo siguiente:
 
-II. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+I Original y dos copias de la solicitud de permiso, en el que se deberá señalar:
 
-III. El Secretario de la Reforma Agraria;
+Nombre, razón social o denominación del Permisionario;
 
-IV. El Gobernador del Banco de México;
+Domicilio para oír y recibir notificaciones y persona autorizada para recibirlas en su nombre y representación, incluyendo el permiso que, en su caso, obtenga en los términos de esta Ley;
 
-V. El Subsecretario de Hacienda y Crédito Público;
+Ser Casa de Empeño; y
 
-VI. El Subsecretario de Fomento a los Agronegocios de la Secretaría de Agricultura;
+Fecha y lugar de la solicitud.
 
-VII. El Director General de Banca de Desarrollo de la Secretaría de Hacienda;
+II Si el solicitante es persona física, deberá adjuntar copia certificada del acta de nacimiento; en el caso de persona jurídica colectiva, deberá acompañar copia certificada del acta constitutiva, así como del Poder Notarial otorgado al representante legal, si lo hubiere;
 
-VIII. El Director General de Agroasemex, S.A.;
+III Adjuntar copia simple del Registro Estatal del Contribuyente;
 
-IX. El Director General de los fideicomisos instituidos en el Banco de México en relación con la agricultura;
+IV Adjuntar copia simple de la Clave Única de Registro Poblacional del peticionario o representante legal, en su caso;
 
-X. Dos representantes de la Confederación Nacional Campesina;
+V Adjuntar copia del recibo fiscal de pago de los derechos correspondientes expedido por la Secretaria; y
 
-XI. Un representante de la Confederación Nacional de Propietarios Rurales;
+VI Adjuntar copia simple del formato del Contrato de Mutuo con Interés y Garantía Prendaria que utilizará para la celebración de los préstamos ofertados al público, registrado ante la Procuraduría Federal del Consumidor.
 
-XII. Un representante del Consejo Nacional Agropecuario;
+###### ARTÍCULO 10.
 
-XIII. Un representante del Congreso Agrario Permanente, y
+La Secretaría contará con un plazo de diez días hábiles a partir de la recepción de la solicitud para realizar el análisis de la documentación y practicar las visitas de verificación que considere necesarias.
 
-XIV. Un consejero independiente designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda.
+Cuando la documentación presentada no cumpla con la totalidad de los requisitos señalados en la Ley, la Secretaría requerirá al peticionario la presentación de los documentos omitidos, otorgándole un plazo de diez días hábiles para que dé cumplimiento, apercibiéndolo que de no hacerlo se tendrá por rechazada su petición.
 
-Todos los integrantes del Consejo tendrán derecho a voz y voto en las sesiones de la misma. El Director General de la Financiera podrá asistir a las sesiones teniendo derecho a voz pero no a voto, pudiéndose hacer acompañar por los servidores públicos de la Financiera que considere pertinente. El Comisario Propietario y/o suplente podrán asistir a las sesiones con voz pero sin voto.
+###### ARTÍCULO 11.
 
-El Consejo podrá autorizar, a propuesta del Director General, la asistencia de invitados, quienes participarán en las sesiones con voz pero sin voto.
+La Secretaría deberá resolver la petición de solicitud de permiso en un plazo no mayor de treinta días hábiles contados a partir del día siguiente a la recepción integral de la documentación, en los términos del artículo anterior; debiéndose notificar al peticionario personalmente o por correo certificado con acuse de recibo. Transcurrido dicho plazo sin que se emita la resolución que corresponda, la Secretaría podrá establecer una prórroga, hasta por un plazo igual, para emitir su resolución.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 12.
 
-###### ARTICULO 9.
+La existencia de un dato falso en la solicitud será motivo suficiente para resolver negativamente y desechar de plano la solicitud de permiso.
 
-Cada consejero propietario designará a su suplente. En el caso de los servidores públicos, sus suplentes deberán ocupar, por lo menos, el nivel de director general de la administración pública centralizada, o su equivalente.
+###### ARTÍCULO 13.
 
-El consejero independiente no tendrá suplente y deberá asistir, cuando menos, al setenta por ciento de las sesiones que se hayan convocado en un ejercicio. En caso contrario y de no justificarse las ausencias debidamente en opinión del Consejo, la Secretaría de Hacienda procederá a hacer una nueva designación.
+En caso de que la resolución notificada niegue el otorgamiento del permiso, el solicitante tendrá inconformarse en los términos previstos por el artículo 59 de ley.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+#### SECCIÓN SEGUNDA. DE LA EXPEDICIÓN DEL PERMISO
 
-###### ARTICULO 10.
+###### ARTÍCULO 14.
 
-El Consejo será presidido por el Secretario de Hacienda y Crédito Público y en su ausencia será presidido por el Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+La Secretaría, al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de diez días hábiles contados a partir de la notificación de la resolución, exhiba póliza de seguro otorgada por compañía aseguradora autorizada, cuyo monto asegurado sea el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los pignorantes. Dicha póliza tendrá vigencia de un año y deberá ser refrendada anualmente.
 
-En ausencia de ambos, presidirá el Subsecretario de Hacienda y Crédito Público.
+###### ARTÍCULO 15.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2008)</small>
+Exhibido el documento señalado en el artículo anterior, la Secretaría deberá expedir y hacer entrega del original del permiso al peticionario o a quien para tal efecto autorice en su escrito de solicitud, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
 
-###### ARTICULO 11.
+### CAPÍTULO IV. DE LAS CASAS DE EMPEÑO
 
-El Consejo se reunirá en sesión ordinaria de manera bimestral. El presidente podrá convocar a sesión ordinaria o extraordinaria cuando lo estime necesario, así como a petición de la mayoría de los consejeros o del Director General a través del secretario o el Prosecretario del Consejo.
+#### SECCIÓN PRIMERA. DEL EMPEÑO
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 16.
 
-###### ARTICULO 12.
+El permiso deberá contener:
 
-La convocatoria para las sesiones, deberá enviarse con cinco días hábiles de anticipación, a la fecha señalada para la reunión; con la finalidad de que los consejeros conozcan con toda oportunidad los temas que deberán de tratarse en la sesión. Para las sesiones extraordinarias, la convocatoria deberá hacerse con por lo menos tres días hábiles de anticipación.
+I Nombre de la dependencia que lo emite;
 
-El Consejo sesionará validamente con la asistencia de por lo menos ocho de sus integrantes de los cuales, cinco deberán tener la calidad de servidores públicos, siempre y cuando se encuentre presente el presidente del Consejo o su suplente.
+II Fundamento legal para la expedición, especificando que se ha cumplido con los requisitos exigidos por esta Ley y demás disposiciones aplicables;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+III Número y clave de identificación del permiso;
 
-###### ARTICULO 13.
+IV Nombre, razón social o denominación del permisionario;
 
-Los acuerdos del Consejo se tomarán por mayoría simple de los votos de los presentes.
+V Registro del contribuyente, federal y estatal;
 
-Todos los integrantes del Consejo deberán emitir su voto sobre los asuntos que se desahoguen en las sesiones, salvo que se encuentren impedidos para ello, en cuyo caso el interesado comunicará tal circunstancia al presidente del Consejo, lo cual se asentará en el acta respectiva.
+VI Clave Única del Registro Poblacional del permisionario o representante legal, en su caso;
 
-En caso de empate, quien actúe como presidente en la sesión decidirá con voto de calidad.
+VII. Domicilio del establecimiento;
 
-Los consejeros se obligan a tratar los asuntos que se discutan en el Consejo como información confidencial por lo que no podrán divulgar dicha información de manera pública. Asimismo, los consejeros se obligan a no utilizar la información confidencial para cualquier otra finalidad distinta a la establecida en la Ley y en el presente Estatuto.
+VIII. Mención de ser casa de empeño;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+IX. La obligación del Permisionario de revalidar el permiso en los términos que establezca la Ley;
 
-###### ARTICULO 14.
+X. Vigencia del permiso;
 
-El Consejo tendrá las atribuciones indelegables siguientes:
+XI. Nombre y firma del servidor público autorizado para expedir el permiso; y
 
-I. Aprobar el Estatuto Orgánico, así como la demás normativa necesaria para el funcionamiento de la Financiera, a propuesta del Director General;
+XII. Fecha y lugar de expedición.
 
-II. Aprobar el programa institucional de la Financiera;
+### CAPÍTULO V. DE LA SECRETARÍA
 
-III. Aprobar anualmente sus estimaciones de ingresos, sus programas operativo y financiero y su presupuesto general de gastos e inversión, así como los requerimientos de transferencias o subsidios de la Financiera, los cuales deberán ser sometidos a consideración del Ejecutivo Federal;
+###### ARTÍCULO 17.
 
-IV. Establecer el porcentaje respecto del promedio anual del saldo de la cartera crediticia del año anterior para el gasto de administración y operación, procurando en el mediano plazo la autosuficiencia financiera de la Entidad;
+El permiso que se expida será personal e intransferible y con vigencia de dos años fiscales.
 
-V. Aprobar anualmente, previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la Financiera y autorizar la publicación de los mismos;
+#### SECCIÓN TERCERA. DE LA MODIFICACIÓN DEL PERMISO
 
-VI. Determinar las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones de la Financiera, orientadas a preservar y mantener los recursos de su patrimonio;
+###### ARTÍCULO 18.
 
-VII. Constituir los comités de Operación, de Crédito, de Administración Integral de Riesgos, el de Recursos Humanos y de Desarrollo Institucional de la Financiera, así como los demás que considere necesarios;
+La Secretaría podrá autorizar la modificación de un permiso expedido en los términos de la Ley por las causas siguientes:
 
-VIII. Dictar las reglas de operación para el funcionamiento de los comités señalados en la fracción anterior, así como aprobar los informes que éstos presenten;
+I Por cambio de domicilio del establecimiento autorizado;
 
-IX. Nombrar al Secretario y Prosecretario del Consejo, a propuesta del Presidente del Consejo, de entre los servidores públicos de la Financiera;
+II Por cambio en la razón social o denominación del Permisionario; y
 
-X. Nombrar, a propuesta del Director General, a los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, a sus delegados fiduciarios y a los titulares de las coordinaciones regionales;
+III Por cambio de propietario.
 
-XI. Determinar a los intermediarios, distintos a las sociedades cooperativas de ahorro y préstamo, a las sociedades financieras populares, a las uniones de crédito y almacenes generales de depósito, para ser considerados como Intermediarios Financieros Rurales;
+###### ARTÍCULO 19.
 
-XII. Aprobar los lineamientos del Comité de Operación para el otorgamiento de los préstamos o créditos a que se refieren las fracciones I y II del artículo 9o. de la Ley, cuidando que en todo momento las instancias encargadas del otorgamiento del crédito estén separadas de las que lo promueven;
+El Permisionario deberá solicitar la modificación del permiso en un plazo que no exceda de quince días hábiles, contados a partir de que se dé alguno de los supuestos previstos en el artículo que antecede.
 
-XIII. Fijar la cantidad máxima para el otorgamiento de préstamos o créditos, conforme a la fracción II del artículo 9o. de la Ley;
+###### ARTÍCULO 20.
 
-XIV. Autorizar el otorgamiento de préstamos o créditos complementarios a que se refiere la fracción III del artículo 9o. de la Ley;
+Para la modificación de un permiso el interesado deberá presentar ante la Secretaría los siguientes documentos:
 
-XV. Aprobar los montos globales de préstamos o créditos a los Intermediarios Financieros Rurales, así como los lineamientos del Comité de Operación;
+I Solicitud por escrito expresando la causa que motiva la petición;
 
-XVI. Aprobar los lineamientos del Comité de Operación para la recuperación y liquidación, reestructuración, quitas y quebrantos, de los préstamos o créditos otorgados por la Financiera;
+II El permiso original;
 
-XVII. Autorizar la aplicación de las reservas que constituya la Financiera;
+III Los documentos idóneos que acrediten la causa invocada; y
 
-XVIII. Determinar los términos y condiciones para la aplicación y, en su caso, enajenación, de los bienes que la Financiera reciba en pago por las operaciones que celebre;
+IV El recibo de pago de los derechos correspondientes.
 
-XIX. Autorizar las políticas para la celebración de fideicomisos, mandatos y comisiones relacionados con el objeto de la Financiera;
+###### ARTÍCULO 21.
 
-XX. Aprobar las Reglas de Operación y los lineamientos conforme a los cuales la Financiera apoye actividades de capacitación y asesoría a los Productores, para la mejor utilización de sus recursos crediticios, así como a los que decidan constituirse como Intermediarios Financieros Rurales;
+Recibida la solicitud de modificación de un permiso en los términos previstos en el artículo anterior, dentro de los treinta días hábiles siguientes, la Secretaría resolverá sobre la procedencia de la solicitud. Transcurrido dicho plazo sin que se emita la resolución que corresponda, la Secretaría podrá establecer una prórroga, hasta por un plazo igual, para emitir su resolución.
 
-XXI. Aprobar las políticas generales y autorizar la celebración de convenios de coordinación con los gobiernos de las entidades federativas y municipios, así como de colaboración con los sectores social y privado, para los efectos de su objeto;
+De resolverse favorable dicha petición, se expedirá un nuevo permiso con las modificaciones solicitadas y se cancelará el anterior dejando constancia de ello en el expediente respectivo.
 
-XXII. Aprobar las reglas de operación de los programas que en materia de financiamiento rural se determine en el Presupuesto de Egresos de la Federación;
+La entrega del permiso original se hará en los términos de los artículos 14 y 15 de esta Ley, por lo qua en todo caso, deberá exhibirse la póliza de seguro, atendiendo a los ajustes que deriven de la modificación autorizada.
 
-XXIII. Autorizar el establecimiento, reubicación y cierre de coordinaciones regionales y agencias en el territorio nacional, a propuesta del Director General, conforme a lo dispuesto en el artículo 3o. de la Ley;
+###### ARTÍCULO 22.
 
-XXIV. Autorizar, con sujeción a las disposiciones que emita la Secretaría de Hacienda en la materia, la estructura orgánica básica, los niveles de puestos, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos, tomando en cuenta las condiciones del mercado laboral imperante en el ámbito financiero; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio de los trabajadores de la Financiera, a propuesta del Director General, oyendo la opinión del Comité de Recursos Humanos y Desarrollo Institucional, como excepción a lo dispuesto en los artículos 31 fracción XXIV, y 37 fracción XVIII de la Ley Orgánica de la Administración Pública Federal;
+En caso de que la resolución notificada niegue la modificación del permiso el interesado podrá inconformarse en los términos previstos por el artículo 59 de esta Ley.
 
-XXV. Aprobar las reglas de operación del fondo a que se refiere el último párrafo del artículo 22 de la Ley, a propuesta del Director General;
+#### SECCIÓN CUARTA. DE LA REVALIDACIÓN DEL PERMISO
 
-XXVI. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Financiera requiera para el cumplimiento de su objeto, así como las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables;
+###### ARTÍCULO 23.
 
-XXVII. Analizar y aprobar, en su caso, los informes semestrales que rinda el Director General, con la intervención que corresponda a los comisarios;
+El permisionario tiene la obligación de revalidar cada dos años su permiso dentro del mes de enero de cada nuevo ejercicio fiscal, debiendo presentarse ante la Secretaría lo siguiente:
 
-XXVIII. Conocer y resolver aquellos asuntos que someta a su consideración el Director General;
+I. Solicitud por escrito;
 
-XXIX. Conocer y resolver aquellos asuntos que por su importancia, trascendencia o características especiales así lo ameriten, y
+II. El permiso original sujeto a revalidación,
 
-XXX. Las demás que la ley señala.
+III. Copia simple del recibo de pago de los derechos correspondientes; y
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+IV. Copia simple del recibo del refrendo de la póliza de seguro previsto en el artículo 14 de la Ley, previo cotejo con el original.
 
-###### ARTICULO 15.
+En caso de que la petición de revalidación del permiso sea en forma extemporánea, se impondrá la multa establecida en el artículo 51 fracción V de esta Ley. Una vez cubierta la multa se dará el trámite que corresponda.
 
-El Secretario del Consejo Directivo, tendrá derecho a voz en las sesiones y podrá ejercer indistintamente las siguientes atribuciones:
+###### ARTÍCULO 24.
 
-I. Realizar la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que les formulen los miembros del Consejo y el Director General;
+Recibida la solicitud de revalidación de un permiso en los términos previstos en el artículo anterior, deberá resolverse la petición en un plazo no mayor de quince días hábiles;
 
-II. Preparar y enviar a los integrantes del Consejo la documentación e información correspondiente a los asuntos que serán tratados en las sesiones con la anticipación debida;
+De aprobarse, se expedirá la constancia de revalidación correspondiente y se hará la devolución del permiso original, conservando copia de la constancia de revalidación en el expediente respectivo y se notificará al Permisionario en forma personal o por correo certificado con acuse de recibo. Transcurrido dicho plazo sin que se emita la resolución que corresponda, la Secretaría podrá establecer una prórroga, hasta por un plazo igual, para emitir su resolución.
 
-III. Pasar lista de asistencia, verificar el quórum legal en las sesiones de Consejo y someter las actas a la aprobación de los integrantes del Consejo Directivo;
+###### ARTÍCULO 25.
 
-IV. Levantar las actas de las sesiones, mismas que deberán ser firmadas por el Presidente y Secretario o por el Prosecretario y deberán asentarse en el libro que para tal efecto se lleve;
+Si la resolución niega la revalidación del permiso; el interesado podrá inconformarse en los términos previstos por el artículo 59 de la Ley.
 
-V. Coordinar con las unidades administrativas o áreas responsables, el seguimiento a los acuerdos del Consejo e informar a los consejeros sobre los avances que de ellos se tengan, de conformidad con la información que proporcionen las distintas unidades administrativas o áreas responsables;
+###### ARTÍCULO 26.
 
-VI. Expedir las certificaciones de los acuerdos aprobados por el Consejo; así como las copias certificadas de las actas del Consejo, una vez que se encuentren debidamente firmadas, y
+Las personas físicas y jurídicas colectivas a que se refiere el artículo 7 de esta Ley deberán sujetar los contratos de mutuo con interés y garantía prendaria que celebren a las formalidades que se establecen en este Capitulo y en la Norma Oficial Mexicana respectiva.
 
-VII. Las demás que expresamente le asigne el Consejo.
+###### ARTÍCULO 27.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+El contrato contendrá:
 
-### CAPITULO II. DEL DIRECTOR GENERAL
+I. Leyenda del establecimiento de ser contrato;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+II. Folio progresivo;
 
-###### ARTICULO 16.
+III. Nombre del negocio, dirección y número del permiso;
 
-Corresponde al Director General el ejercicio de las atribuciones siguientes:
+IV. Lugar y fecha de la operación;
 
-I. En el ejercicio de sus atribuciones de representante legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Financiera. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados, previa autorización expresa del Consejo cuando se trate de otorgar poderes generales para actos de dominio;
+V. Identificación del pignorante con documento oficial y comprobante de domicilio;
 
-II. Ejecutar los acuerdos del Consejo;
+VI. Descripción de la cosa pignorada y en su caso, los datos que la individualicen;
 
-III. Actuar como delegado fiduciario general;
+VII. Datos de la factura que ampare la propiedad de la prenda, en el caso de que ésta se exhiba;
 
-IV. Presentar al Consejo las propuestas que, conforme a la Ley, correspondan efectuar a los comités de la Financiera;
+VIII. Valor real de los objetos pignorados, convenido por las partes, previo avalúo;
 
-V. Proponer al Consejo el nombramiento de los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, así como a sus delegados fiduciarios y a los titulares de las coordinaciones regionales;
+IX. Monto de la operación de crédito y cantidad que realmente se entrega al prestatario;
 
-VI. Someter a la autorización del Consejo el establecimiento, reubicación y cierre de coordinaciones regionales y agencias en el territorio nacional;
+X. Importe de los gastos por avalúo y almacenaje del bien dado en prenda;
 
-VII. Autorizar el establecimiento, reubicación y cierre de módulos en territorio nacional;
+XI. Cantidad que debe pagarse por concepto de interés;
 
-VIII. Someter a consideración y aprobación del Consejo las reglas de operación del fondo a que se refiere el último párrafo del artículo 22 de la Ley;
+XII. Plazo para pago de refrendos, capital y/o de interés;
 
-IX. Presentar anualmente al Consejo los programas operativo y financiero, las estimaciones de ingresos anuales y el presupuesto de gastos e inversión para el ejercicio siguiente, en el que se deberán incorporar los requerimientos presupuestarios para la Financiera, los cuales deberán contemplarse en el Presupuesto de Egresos de la Federación;
+XIII. Término de vencimiento del préstamo;
 
-X. Nombrar a los servidores públicos de la Financiera, distintos de los señalados en la fracción V anterior;
+XIV. Fecha de comercialización; y
 
-XI. Remover a los servidores públicos y empleados de la Financiera;
+XV. Firma de la persona autorizada por la casa de empeño.
 
-XII. Designar el domicilio de la Financiera en el Distrito Federal y ordenar su publicación en el Diario Oficial de la Federación;
+###### ARTÍCULO 28.
 
-XIII. Instruir la constitución de comités internos de trabajo distintos a los contemplados por los artículos 37 y 38 de la Ley, integrados por servidores públicos de la Financiera, a efecto de que lleven a cabo tareas definidas por el propio Director General en materias específicas, de conformidad con las necesidades operativas y sustantivas de la propia Institución;
+La información mínima relativa a las cláusulas del contrato, será la siguiente:
 
-XIV. Rendir al Consejo informes semestrales, con la intervención que corresponda a los comisarios;
+I. El contrato se rige por lo dispuesto en el Código Civil del Estado de Tabasco en lo relativo al mutuo con interés y garantía prendaria, esta Ley y demás disposiciones aplicables;
 
-XV. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera, y (sic)
+II. El deudor prendario acepta el avalúo de la prenda practicado por el establecimiento;
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+III. El Contrato es el único comprobante de la operación realizada. En caso de robo o extravío de éste, el establecimiento establecerá los requisitos para el desempeño de la prenda operación que podrá realizar únicamente el pignorante;
 
-XVI. Coordinar el funcionamiento del área que desempeñe las funciones de contraloría interna, en cuanto a los asuntos que competan a la Dirección General;
+IV. La casa de empeño no se hace responsable de los daños y deterioros que por el transcurso del tiempo sufran las prendas empeñadas durante el almacenamiento. Tampoco será responsable del saneamiento en caso de evicción de las prendas que se rematen o vendan en almoneda;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+V. La tasa de interés por el préstamo otorgado será la que se señale en el contrato;
 
-XVII. Las demás que le atribuya el Consejo y la Ley.
+VI. A solicitud del deudor prendario podrá adelantarse la venta de la prenda, con autorización de la casa de empeño. En este caso, cuando la prenda se haya vendido, se descontará del precio de venta el préstamo, los intereses devengados pactados, los gastos de almacenaje y la cantidad o el porcentaje del precio de venta por concepto de gastos de operación señalados;
 
-Las facultades del Director General previstas en las fracciones III, IV, V, VI, VII y X de este artículo serán indelegables.
+VII. Si la venta se realiza una vez cumplido el término del empeño, el establecimiento, de lo que resulte el precio de venta, cobrará el préstamo, los intereses devengados pactados, los gastos de almacenaje y de operación, de acuerdo a lo señalado en el Contrato;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+VIII. El Contrato es nominativo e intransferible. Los derechos y obligaciones principales y accesorios establecidos en el mismo, incluyendo el bien dado en prenda, no podrán ser cedidos ni transmitidos por su titular bajo ningún medio legal, en propiedad, uso o usufructo;
 
-### CAPITULO III. ATRIBUCIONES Y FACULTADES ESPECIFICAS QUE CORRESPONDEN A LAS UNIDADES ADMINISTRATIVAS DE LA FINANCIERA
+IX. El deudor prendario designará beneficiarios para el caso de muerte a cualquiera de sus herederos, debiéndose presentar ante este caso el contrato, acta de defunción y actas del registro civil que acrediten el parentesco con el deudor prendario y cumplir con todas las demás obligaciones que se establezcan en el contrato;
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+X. El contrato no deberá tener enmendaduras, borraduras o raspaduras, ni tampoco deberá cambiar el sentido sobre alguna circunstancia o punto sustancial del mismo, en cuyo caso el establecimiento se reservará el derecho de ejercer la acción legal correspondiente;
 
-###### ARTICULO 17.
+XI. El término del contrato será fijado por las partes que lo celebren, pudiendo renovarse de conformidad con lo que establezcan las disposiciones legales correspondientes; y
 
-Corresponde a la Unidad para la Administración Integral de Riesgos:
+XII. Señalará la jurisdicción a la que se someterán en caso de controversia.
 
-I. Coordinar que el proceso de administración de riesgos considere todos los riesgos en que incurre la Financiera dentro de sus diversas unidades de negocio;
+###### ARTÍCULO 29.
 
-II. Proponer al Comité de Administración Integral de Riesgos para su aprobación las metodologías, modelos y parámetros para identificar, medir, vigilar, limitar, controlar, informar y revelar los distintos tipos de riesgos a que se encuentra expuesta la Financiera, así como sus modificaciones;
+Las Casas de Empeño tienen la obligación de proporcionar al pignorante, al momento de formalizar la operación, copia del respectivo contrato, sin espacios en blanco y debidamente firmado por ambas partes. Así mismo, están obligadas a proporcionar al prestatario, a costo de éste y siempre que lo solicite, un estado del movimiento de la cuenta respectiva. El costo de este servicio no será mayor al que se utiliza generalmente en el mercado.
 
-III. Coordinar la verificación de la observación de los límites globales y específicos, así como los niveles de tolerancia aceptables por tipo de riesgo cuantificables, desglosados por unidad de negocio o factor de riesgo, causa u origen de éstos, utilizando, para tal efecto, los modelos, parámetros y escenarios para la medición y control del riesgo establecidos por el Comité de Administración Integral de Riesgos;
+###### ARTÍCULO 30.
 
-IV. Coordinar la evaluación de los riesgos no cuantificables y el probable impacto que dichos riesgos pudieran tener en la adecuada operación de la Financiera;
+Los documentos que amparen la identidad del pignorante y su domicilio y, en su caso, el de la propiedad del bien pignorado deberán anexarse al contrato correspondiente en copia simple debidamente cotejada.
 
-V. Dirigir la verificación de la suficiencia, integridad, consistencia y grado de integración de los sistemas de procesamiento de información para el análisis de riesgos, así como de su contenido;
+###### ARTÍCULO 31.
 
-VI. Coordinar la verificación de la consistencia, precisión, integridad, oportunidad y validez de las fuentes de información utilizadas en los modelos de medición;
+Las casas de empeño deberán cumplir con el requisito de registrar el contrato de adhesión de Mutuo con Interés Garantía Prendaria ante la Procuraduría Federal del Consumidor de acuerdo con las disposiciones legales y normativas aplicables al caso.
 
-VII. Comunicar al Comité de Administración Integral de Riesgos, la información relativa a:
+###### ARTÍCULO 32.
 
-a). La exposición tratándose de riesgos discrecionales, así como la incidencia e impacto en el caso de los riesgos no discrecionales de la Financiera, por unidad de negocio o factor de riesgo, causa u origen de éstos. Los informes sobre la exposición de riesgo deberán incluir un análisis de sensibilidad y pruebas bajo diferentes escenarios, incluyendo los extremos. En este último caso deberán incluirse escenarios donde los supuestos fundamentales y los parámetros utilizados se colapsen, así como los planes de contingencia que consideren la capacidad de respuesta de la Financiera ante dichas condiciones.
+Son susceptibles de empeño todo tipo de bienes muebles, con excepción de aquellos que se inscriban en registros oficiales, los semovientes y los fungibles.
 
-b). Las desviaciones que, en su caso, se presenten con respecto a los límites de exposición y los niveles de tolerancia al riesgo establecidos.
+###### ARTÍCULO 33.
 
-c). Las propuestas de acciones correctivas necesarias como resultado de una desviación observada respecto a los límites de exposición y niveles de tolerancia al riesgo autorizados;
+Los establecimientos a que se refiere el artículo 1 de esta Ley sólo otorgarán préstamos con garantía prendaria hasta por un monto máximo de 2,500 salarios mínimos por transacción y hasta por un plazo máximo de 4 meses contados a partir de la celebración del contrato, y con opción a tres refrendos.
 
-VIII. Coordinar la investigación y documentación de las causas que originan desviaciones a los límites establecidos de exposición al riesgo, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Administración Integral de Riesgos, a la Dirección General y al responsable de las funciones de auditoría interna;
+Si al quinto mes nominal el deudor no desempeña o refrenda la prenda en los términos del párrafo anterior, se llevará a cabo la comercialización correspondiente directamente en las almonedas de la casa de empeño o a través de remate, a elección del establecimiento. El plazo máximo para refrendar será de dos días hábiles anteriores a la fecha que la casa de empeño haya fijado para la comercialización.
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
+Hecha la comercialización a que refiere el párrafo anterior, si hubiera remanente será puesto a disposición del titular del Contrato a los ocho días calendario contados a partir de la fecha de venta y contra entrega del Contrato. El remanente no cobrado en un lapso de un año a partir de la venta quedará a favor de la casa de empeño.
 
-IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso; y
+Por las prendas que lleguen al sexto mes nominal posterior al mes de la comercialización sin que hayan sido vendidas, el titular del Contrato no tendrá derecho a pago alguno por concepto de remanente.
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
+#### SECCIÓN SEGUNDA. DE LOS INTERESES
 
-X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan.
+###### ARTÍCULO 34.
 
-XI. (DEROGADA, D.O.F. 24 DE MAYO DE 2012)
+Las casas de empeño fijarán las tasas de interés al préstamo, pero deberán considerar las disposiciones que al efecto se encuentren establecidos en el Código Civil del Estado de Tabasco, en esta Ley y demás disposiciones legales aplicables.
 
-###### ARTICULO 18.
+###### ARTÍCULO 35.
 
-(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
+En todos los préstamos se adicionará a la tasa de interés, los puntos por concepto de gastos de operación y almacenaje correspondientes (sic) la prenda.
 
-###### ARTICULO 19.
+###### ARTÍCULO 36.
 
-(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
+Las casas de empeño deberán informar a la Secretaría la tasa de interés que cobren por mes, para los efectos de que la Secretaría las publique de manera mensual en el Periódico Oficial del Estado, en dos diarios de mayor circulación y en su página electrónica.
 
-###### ARTICULO 20.
+#### SECCIÓN TERCERA. DE LAS RESPONSABILIDADES
 
-(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
+###### ARTÍCULO 37.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+Además de las responsabilidades señaladas en esta Ley y demás disposiciones aplicables, la Casa de Empeño tiene la obligación de solicitar la identificación y comprobante de domicilio al pignorante para la formalización del contrato y cualquier trámite relacionado con este.
 
-###### ARTICULO 21.
+###### ARTÍCULO 38.
 
-Corresponde a la Dirección Ejecutiva de Contraloría Interna:
+No podrán concertarse operaciones con menores de edad o incapaces. Cuando en el establecimiento se tenga la sospecha sobre la procedencia de los objetos ofrecidos en prenda, se podrá solicitar al interesado la factura que acredite la propiedad de los mismos.
 
-I. Desempeñar las funciones de contraloría interna en la Entidad, en cumplimiento a lo establecido en las disposiciones legales aplicables;
+###### ARTÍCULO 39.
 
-II. Coadyuvar con el Director General en el cumplimiento de sus obligaciones relacionadas con la implementación y desarrollo del sistema de control interno de la Financiera;
+En los establecimientos no podrán utilizarse, bajo ningún título, los objetos, pignorados en beneficio de persona alguna, ni tomar dinero prestado de su garantía.
 
-III. Planear y dirigir acciones para llevar a cabo permanentemente las funciones de auditoría interna en materia de administración integral de riesgos;
+###### ARTÍCULO 40.
 
-> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+La casa de empeño será responsable en caso de pérdida de la prenda almacenada, para cuyo caso el establecimiento pagará al deudor el importe fijado como avalúo y de ser el caso, se deducirá el préstamo, los intereses devengados y los gastos de almacenaje.
 
-IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración Integral de Riesgos en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico, de mercado, liquidez, crédito, legal, y en función a las necesidades de la Institución; y (sic)
+Igualmente será responsable en el caso de siniestro o cualquier otro evento que dañe parcial o totalmente la prenda, debiendo contar con el seguro vigente a que alude el artículo 14 de esta Ley, para los efectos de responder de los daños y perjuicios que se ocasionen al deudor por dicha causa.
 
-V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y (sic)
+###### ARTÍCULO 41.
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+A la Secretaría corresponderá realizar las siguientes funciones:
 
-V Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de la Dirección Ejecutiva de Contraloría Interna;
+I. La recepción, análisis y calificación de las solicitudes para la expedición, revalidación y modificación de permiso para la instalación y funcionamiento de los establecimientos, así .como la integración del expediente correspondiente;
 
-> <small>(REFORMADA, 18 DE ENERO DE 2012)</small>
+II. Resolver las solicitudes de expedición, modificación, revalidación y cancelación de permiso para la instalación y funcionamiento de los establecimientos;
 
-VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
+III. Sancionar a los permisionarios por infracción a la Ley;
 
-> <small>(REFORMADA, 18 DE ENERO DE 2012)</small>
+IV. Notificar las resoluciones sobre la expedición, modificación, revalidación y cancelación del permiso y cualquier otro acto que derive de la aplicación de esta Ley;
 
-VII. Fungir como enlace y coordinador ante los Organos Fiscalizadores en las Auditorías Internas y Externas aplicadas en la Institución, así como coadyuvar con las Unidades Administrativas responsables de los procesos sustantivos en la coordinación y seguimiento de los trabajos inherentes a la solventación de las observaciones y/o señalamientos que hayan realizado las instancias fiscalizadoras, y
+V. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+VI. Publicar bimestralmente la lista de las tasas de interés que cobren las casas de empeño, así como en su caso la lista de las casas de empeño que cuenten con el permiso otorgado por esta Secretaría;
 
-VIII. Dirigir y coordinar las acciones y procedimientos necesarios para dar cumplimiento a las normativas y a las mejores prácticas financieras en materia de prevención, detección y reporte de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo.
+VII. Llevar a cabo las visitas de inspección y en su caso, de fiscalización, con las reglas y formalidades que establece esta Ley y el Código Fiscal del Estado de Tabasco respectivamente; y
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2012)</small>
+VIII. Las demás que sean necesarias para el debido cumplimiento de la Ley.
 
-ARTICULO 21 BIS.- Corresponde a la Unidad de Prevención de Lavado de Dinero y Combate al Financiamiento al Terrorismo:
+###### ARTÍCULO 42.
 
-I. Elaborar y someter a consideración del Comité de Comunicación y Control las políticas, medidas, criterios y procedimientos de identificación y conocimiento del cliente y criterios, medidas y procedimientos que deberán adoptar para dar cumplimiento a lo previsto en la normativa y mejores prácticas financieras en materia de prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo;
+La Secretaría autorizará a servidores públicos mediante mandato debidamente fundado y motivado, a la práctica de diligencias de inspección o auditoria a los establecimientos regulados por esta Ley, conforme a las formalidades previstas en esta Ley y en el Código Fiscal del Estado de Tabasco.
 
-II. Verificar la correcta ejecución de las medidas del Comité de Comunicación y Control;
+###### ARTÍCULO 43.
 
-III. Informar al Comité de Comunicación y Control sobre aquellos casos en los que se detecten en Financiera Rural conductas, actividades o comportamientos realizados por los empleados o apoderados que provoquen que la Institución incurra en infracción a lo dispuesto en materia prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo, así como aquellos casos de celebración de contratos cuyas características pudieran generar un alto riesgo para la Institución;
+El Permisionario está obligado a permitir el acceso y facilitar las diligencias de inspección o auditoria que pretenda realizar la Secretaría.
 
-IV. Coordinar las actividades de seguimiento de operaciones; así como las investigaciones que deban llevarse a cabo a nivel institucional respecto de aquellas que deban ser sometidas a consideración del Comité de Comunicación y Control, para efectos de que éste las dictamine, en su caso, como inusuales y/o internas preocupantes;
+###### ARTÍCULO 44.
 
-V. Fungir como enlace entre el Comité de Comunicación y Control y la Secretaría de Hacienda y Crédito Público, así como con la Comisión Nacional Bancaria y de Valores en relación a los temas de prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo;
+Si del resultado de la diligencia de inspección o auditoria la Secretaría determina infracciones cometidas por los Permisionarios, deberá imponer la sanción que corresponda, en los términos previstos en el Código Fiscal del Estado de Tabasco y en esta Ley.
 
-VI. Enviar a la Secretaría de Hacienda y Crédito Público por conducto de la Comisión Nacional Bancaria y de Valores, los reportes de operaciones relevantes, inusuales e internas preocupantes;
+###### ARTÍCULO 45.
 
-VII. Fungir como órgano interno de consulta respecto a la aplicación de las políticas de identificación y conocimiento de clientes;
+Para los efectos de vigilar la estricta observancia de la presente Ley, la Secretaría autorizará a servidores públicos, los cuales para practicar visitas de inspección deberán contar con orden escrita que contendrá los siguientes requisitos:
 
-VIII. Definir las características, contenido y alcance de los programas institucionales de capacitación para el personal en dicha materia;
+I. Nombre completo del servidor público autorizado a realizar la inspección;
 
-IX. Recibir, dar seguimiento al interior de la entidad y respuesta a los requerimientos y órdenes que formulen las autoridades en materia de prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo;
+II. Nombre de la dependencia y unidad administrativa que expide la orden de inspección;
 
-X. Dar seguimiento a los avisos emitidos por personal de la Financiera en materia de prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo; y
+III. Fundamentos legales y motivación en la que se sustente la visita de inspección;
 
-XI. Realizar las demás funciones y/o responsabilidades que dentro del ámbito de su competencia se deriven de las normativas y disposiciones aplicables, así como aquellas que en la materia le instruya el Director Ejecutivo de Contraloría Interna.
+IV. Lugar y fecha en que ha de efectuarse la inspección, asimismo el nombre del establecimiento, del representante legal y su número de permiso;
 
-###### ARTICULO 22.
+V. Objeto de la visita y alcance de la misma; y
 
-(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
+VI. Firma del funcionario autorizado que expide el documento y sello de la dependencia que ordena la visita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+###### ARTÍCULO 46.
 
-###### ARTICULO 23.
+Las visitas de inspección se practicarán con el representante legal o, en su caso, con quien se encuentre al frente del establecimiento, exigiéndose la presentación de la documentación siguiente:
 
-Corresponde a la Dirección General Adjunta Jurídica y Fiduciaria:
+I. Original del permiso correspondiente;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+II. Identificación de la persona con quien se entiende la visita;
 
-I. Dictar las políticas y estrategias tendientes a que los procesos jurídicos de la Financiera se apeguen a la legalidad;
+III. Tratándose de representantes legales, documento notarial original o certificado con el que se acredite la personalidad;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+IV. Comprobante de la 'revalidación del permiso, en su caso; y
 
-II. Emitir estrategias y políticas para la representación y defensa en materia contenciosa de la Institución ante instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+V. Todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones de la Ley, así como los que se señalan en el permiso.
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 47.
 
-III. Definir estrategias para la compilación y divulgación de la legislación relacionada al funcionamiento de la Financiera;
+De toda visita de inspección que se practique se levantará acta circunstanciada en la que se harán constar los siguientes datos y hechos:
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+I. Lugar, hora y fecha en que se practique la visita;
 
-IV. Definir estrategias para la protocolización de actas, así como para el otorgamiento y revocación de poderes de los servidores públicos de la Institución;
+II. Nombre y cargo de la persona con quien se entiende la diligencia;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+III. Identificación vigente del servidor público autorizado a practicar la visita, asentando su nombre, así como de la autoridad que ordenó la inspección;
 
-V. Emitir políticas para la prevención de riesgos en materia legal para la Financiera;
+IV. Requerimiento al visitado para que designe a dos testigos y; en ausencia o negativa de aquél, la designación se hará por el servidor público que practique la visita;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+V. Descripción detallada de la documentación que se ponga a la vista del inspector;
 
-VI. Dentro de su esfera de atribuciones, suplir al Director General de la Financiera en el cumplimiento de las obligaciones que tengan término;
+VI. Descripción circunstanciada de los hechos ocurridos durante la visita y las observaciones e infracciones descubiertas por el servidor público autorizado, otorgándole el uso de la voz al visitado o a los terceros, en su caso, para que manifiesten lo que a su derecho convenga; y
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+VII. Lectura y cierre del acta, firmándola en todas sus fojas, las personas que en ella intervinieron.
 
-VII. Instruir estrategias de coordinación técnica dirigidas a las gerencias jurídicas de las coordinaciones regionales, así como de apoyo corporativo jurídico a las unidades administrativas de la Financiera.
+La negativa a firmar el acta por parte del visitado o recibir la copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+Del acta que se levante se dejará una copia al visitado.
 
-Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
+En caso de que al practicarse una inspección el establecimiento de que se trate se encuentre cerrado, el servidor público autorizado deberá levantar la constancia correspondiente, dando aviso de ello a la autoridad que emitió la orden de inspección para los efectos legales a que haya lugar.
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 48.
 
-VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los asesores jurídicos de las agencias de Crédito Rural, y (sic)
+Cualquier infracción a las disposiciones de esta Ley será sancionada por la Secretaría en los términos previstos por este ordenamiento.
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE INSPECCIÓN
 
-IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Jurídica y Fiduciaria;
+###### ARTÍCULO 49.
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+Para sancionar al permisionario por infracciones a las disposiciones de esta Ley, la Secretaría le hará saber:
 
-X. Diseñar y coordinar la política de relaciones interinstitucionales con las dependencias y entidades de la administración pública federal, los poderes legislativo y judicial, los representantes de los diversos órganos de gobierno, así como con los sectores privado y social;
+I La infracción que se le imputa; y
 
-XI. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
+II El día, hora y lugar en que tendrá verificativo la audiencia de declaración y pruebas en relación a los hechos constitutivos de la infracción.
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+###### ARTÍCULO 50.
 
-XII. Representar al Director General en los asuntos que le encomiende;
+Desahogada la audiencia a que se refiere la fracción II del artículo anterior, la Secretaría, dentro de los ocho días hábiles siguientes a su celebración, resolverá sobre la procedencia o improcedencia de la sanción y notificará al permisionario la resolución.
 
-XIII. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
+### CAPÍTULO VII. DE LAS SANCIONES
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+###### ARTÍCULO 51.
 
-XIV. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
+Se impondrá multa de cincuenta a quinientos salarios mínimos, cuando:
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+I Una persona física o moral instale y haga funcionar una casa de empeño sin contar con el permiso expedido por el Ejecutivo del Estado;
 
-XV. Presentar al Consejo políticas y dirigir las acciones relacionadas con la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de la administración de fondos que deriven de las disposiciones aplicables;
+II El permisionario cancele con anticipación a la fecha de conclusión del período de vigencia la póliza de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los pignorantes;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+III El permisionario omita anexar en sus expedientes, el contrato de mutuo con interés, los documentos que amparen la identidad del pignorante o, en su caso, la factura que ampare la propiedad del bien pignorado;
 
-XVI. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales;
+IV El permisionario se oponga sin causa justificada a la práctica de una visita de inspección o auditoria al establecimiento; y
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+V El permisionario solicite extemporáneamente la revalidación del permiso.
 
-XVII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
+###### ARTÍCULO 52.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2009)</small>
+Se impondrá suspensión temporal del permiso hasta por treinta días hábiles cuando:
 
-ARTICULO 23 BIS.- Corresponde a la Dirección Ejecutiva Jurídica:
+I El permisionario no revalide el permiso en el plazo correspondiente dos veces consecutivas o se niegue a revalidarlo;
 
-I. Dirigir la ejecución de las políticas y estrategias tendientes a que los procesos jurídicos se apeguen a la legalidad;
+II El permisionario no modifique el permiso dentro del término establecido por la Ley;
 
-II. Dirigir la implementación de estrategias y políticas para la representación y defensa en materia contenciosa de la Financiera ante las instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+III El permisionario acumule dos multas por la misma causa dentro de un ejercicio fiscal; y
 
-III. Dirigir la implementación de estrategias para la compilación y divulgación de la legislación relacionada al funcionamiento de la Financiera;
+IV El permisionario no renueve la póliza de seguro para garantizar los daños y perjuicios a los pignorantes, dentro del término de tres días hábiles contados a partir de que haya recibido personalmente y por escrito el requerimiento para ello por parte de la Secretaría.
 
-IV. Dirigir la ejecución de los trámites realizados por la Financiera ante fedatario público para la protocolización, cotejo y certificación de documentos, formalización y revocación de poderes que otorga la Financiera;
+###### ARTÍCULO 53.
 
-V. Coadyuvar en la coordinación técnica dirigida a las gerencias jurídicas de las Coordinaciones Regionales, así como el apoyo jurídico a las unidades administrativas de la Financiera;
+Los permisos a que se refiere esta Ley podrán cancelarse por:
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+I. Incumplir las disposiciones de esta Ley o las previstas en las Leyes Fiscales del Estado, la Norma Oficial Mexicana respectiva, así como la Ley Federal de Protección al Consumidor.
 
-VI. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
+II. El permisionario cometa acciones fraudulentas realizadas con motivo de las actividades reguladas en este ordenamiento previa resolución de la autoridad competente que así lo determine;
 
-VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y (sic)
+III. El permisionario acumule dos sanciones de suspensión temporal dentro de un ejercicio fiscal; y
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+IV. El permisionario sin causa justificada suspenda las operaciones del establecimiento autorizado al público por más de treinta días naturales.
 
-VIII. Sancionar los contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, así como aquellos en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado;
+###### ARTÍCULO 54.
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+Para imponer la sanción que corresponda, la autoridad deberá tomar en cuenta lo siguiente:
 
-IX. Dirigir las acciones jurídico corporativas tendientes a la rendición de los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México;
+I La gravedad de la infracción cometida;
 
-X. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
+II Las condiciones del infractor;
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+III La conveniencia de evitar prácticas que contravengan las disposiciones de la Ley; y
 
-XI. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Jurídica y Fiduciaria.
+IV La reincidencia.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+### CAPÍTULO VIII. DE LAS NOTIFICACIONES
 
-###### ARTICULO 24.
+###### ARTÍCULO 55.
 
-Corresponde a la Subdirección Corporativa Jurídica Contenciosa:
+Las notificaciones, citatorios, solicitud de informes o documentos y resoluciones administrativas podrán realizarse:
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+I Personalmente con quien debe entenderse la diligencia, en el domicilio del interesado.
 
-I. Definir las estrategias para la defensa de los intereses de la institución, así como defender los intereses de la Institución en todo tipo de controversia administrativa y judicial;
+II Mediante oficio entregado por correo certificado con acuse de recibo.
 
-II. Coordinar el apoyo técnico jurídico que se brinde a las unidades administrativas de la Financiera para la defensa de sus intereses en asuntos de naturaleza contenciosa, así como autorizar, en cualquier etapa procesal, la conclusión de los juicios interpuestos en su contra, fundamentándose para ello en el dictamen jurídico que justifique su conveniencia;
+III Por edicto cuando se desconozca el domicilio, del interesado o en el caso de que la persona a quien deba notificarse haya desaparecido o se ignore su domicilio.
 
-III. Supervisar las labores de defensa de los intereses de la Institución en todo tipo de controversia judicial;
+###### ARTÍCULO 56.
 
-IV. Fungir como titular de la unidad de consultas y reclamaciones de usuarios de la Financiera;
+Las notificaciones personales se harán en el domicilio señalado por el interesado o, en su defecto, en el domicilio donde se encuentre el establecimiento. En todo caso, el notificador deberá cerciorarse del domicilio y entregará copia del acto que se notifique y señalará fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia.
 
-V. Proponer modificaciones a los lineamientos para la contratación de servicios de abogados externos para la defensa de los intereses de la Financiera Rural, que contemplen entre otras cosas, la autorización del pago de honorarios por servicios brindados por despachos externos y la aprobación de los gastos judiciales de la Financiera Rural, y
+De toda diligencia de notificación personal se levantará acta circunstanciada firmada por las personas que intervengan y por dos testigos que nombre la persona con quien se realiza la notificación o en su negativa, los que nombre el notificador.
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2009)</small>
+Si la persona con quien se entienda la diligencia se niega a firmar se hará constar en el acta de notificación sin que ello afecte su validez.
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
+Las notificaciones personales se entenderán con la persona que debe ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que el interesado espere a una hora fija del día hábil siguiente.
 
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+El citatorio a que se refiere el párrafo anterior, será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el establecimiento. En caso de que éste último se negare a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar la razón de tal circunstancia.
 
-ARTICULO 24 BIS.- Corresponde a la Subdirección Corporativa Jurídica de Crédito y apoyo al Prosecretariado:
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
 
-I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito;
+###### ARTÍCULO 57.
 
-II. Sancionar y supervisar la elaboración de los modelos de convenios y contratos en materia de crédito, verificando que los mismos se apeguen a los lineamientos y políticas establecidas;
+Las notificaciones por edicto se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por tres veces consecutivas en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la ciudad en que se encuentre el domicilio del establecimiento de que se trate.
 
-III. Coordinar en el ámbito de su competencia las acciones para la administración del riesgo legal, promoviendo que los contratos y convenios en los que participe la Institución, prevengan vicios en la celebración de operaciones;
+###### ARTÍCULO 58.
 
-IV. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajo que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección Ejecutiva;
+Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día siguiente a aquel en que haya surtido efecto la notificación.
 
-V. Coadyuvar con el Prosecretario en el control de la información, integración de la documentación de aquellos asuntos que se someterán a la consideración del Consejo Directivo, así como en el seguimiento de los acuerdos que adopte dicho Organo Directivo, y
+Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
+###### ARTÍCULO 59.
 
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+En caso de inconformidad por la aplicación de las disposiciones o resoluciones contenidas en esta Ley, se interpondrá el recurso de revisión ante el Secretario de Administración y Finanzas.
 
-ARTICULO 24 QUATER (SIC).- Corresponde a la Subdirección Corporativa Fiduciaria:
+###### ARTÍCULO 60.
 
-I. Proponer lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos, comisiones y avalúos en la Financiera;
+Este recurso deberá hacerse valer dentro del término de quince días hábiles siguientes de notificado el acto o, en su caso, de que se tenga conocimiento de la violación que se impugne. Es cuanto diputado presidente. (sic)
 
-II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
+###### ARTÍCULO 61.
 
-III. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
+El interesado podrá interponer este recurso ante la unidad administrativa que haya emitido el acto de autoridad, quien lo admitirá y enviará el expediente al Secretario de Administración y Finanzas, siempre que el escrito en que se haga valer se haya presentado dentro del término legal; en caso contrario, se considerará improcedente por extemporáneo.
 
-IV. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
+### CAPITULO IX. DEL RECURSO DE REVISIÓN
 
-V. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
+###### ARTÍCULO 62.
 
-VI. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, avalúos, mandatos y comisiones;
+El Secretario de Administración y Finanzas deberá dictar resolución en relación con el recurso interpuesto dentro de los quince días hábiles siguientes al de la fecha de su presentación.
 
-VII. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas;
+###### ARTÍCULO 63.
 
-VIII. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
-
-IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
-
-X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
-
-XI. Generar y proponer políticas y estrategias para el desarrollo de los negocios fiduciario (sic) y de avalúos, y
-
-XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 25.
-
-Corresponde a la Subdirección Corporativa Jurídica de Normatividad y Consulta:
-
-I. Supervisar y evaluar el desarrollo del análisis, interpretación y consulta de leyes, reglamentos, decretos y demás disposiciones legales y administrativas aplicables;
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-I Bis. Supervisar la revisión, opinión y dictaminación de contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado; correspondientes a fideicomisos, mandatos y comisiones, así como bases de licitación y demás actos jurídicos que celebre la Financiera Rural y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
-
-II. Contemplar estrategias para la función jurídica de la Financiera;
-
-III. Sancionar y supervisar la elaboración de los contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, así como aquellos en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado;
-
-IV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
-
-V. Supervisar las actividades de compilación, y divulgación de la legislación relacionada al funcionamiento de la Financiera;
-
-VI. Supervisar la ejecución de los trámites ante fedatario público para la protocolización, cotejo y certificación de documentos, formalización y revocación de poderes que otorga la Financiera;
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajos que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección Ejecutiva;
-
-VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
-
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2009)</small>
-
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
-
-ARTICULO 25 BIS.- (DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 25 TER.- Corresponde a la Subdirección Corporativa de Desarrollo Institucional:
-
-I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales, a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
-
-II. Formular recomendaciones sobre los programas de financiamiento, apoyo y capacitación;
-
-III. Dar seguimiento a las iniciativas legislativas y a puntos de acuerdo de las cámaras vinculados al sector rural;
-
-IV. Coordinar y facilitar las reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas al sector rural, instituciones académicas, empresas y organismos nacionales e internacionales;
-
-V. Promover vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales, y
-
-VI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 25 QUATER.- Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
-
-> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
-
-El Prosecretario del Consejo podrá ejercer indistintamente y en cualquier momento las atribuciones del Secretario a que hacen referencia las fracciones V y VI del artículo 15 del presente Estatuto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-###### ARTICULO 26.
-
-Corresponde a la Dirección General Adjunta de Planeación Estratégica y Análisis Sectorial:
-
-I. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-II. Dirigir las actividades de seguimiento y evaluación de las Coordinaciones Regionales y Agencias;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Coadyuvar con las unidades administrativas correspondientes para el desarrollo del programa operativo anual, y (sic)
-
-IV. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-V. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VI. Dirigir las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural; y (sic)
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VII. Dirigir las actividades relativas a la planeación estratégica de la institución;
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-VIII. Dirigir las políticas de comunicación social de la Financiera;
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-IX. Coordinar las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-X. Apoyar las gestiones específicas que realice la Agencia Corporativa de Crédito Rural.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-ARTICULO 26 BIS.- Corresponde a la Dirección Ejecutiva de Enlace y Evaluación de Coordinaciones Regionales:
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-I. Coadyuvar en la evaluación de las Coordinaciones Regionales y Agencias;
-
-II. Participar en la planeación, desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
-
-III. Dirigir y establecer mecanismos que permitan la generación de informes y retroalimentación de resultados operativos de las agencias, con las Coordinaciones Regionales y con las áreas corporativas;
-
-IV. Informar, en el ámbito de su competencia, a las instancias superiores, y órganos de control, de los resultados de la operación crediticia de la Institución;
-
-V. Dirigir y coordinar las funciones inherentes a la evaluación de las Coordinaciones Regionales con relación al cumplimiento del programa crediticio anual;
-
-VI. Participar en la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
-
-VII. Promover acciones para la mejora continua e innovación de los programas, productos y procesos de la Financiera Rural;
-
-VIII. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural; y (sic)
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-IX. Coadyuvar en la coordinación de las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-X. Coadyuvar en el apoyo de las gestiones específicas que realice la Agencia Corporativa de Crédito Rural, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-XI. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
-
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-###### ARTICULO 27.
-
-Corresponde a la Dirección Ejecutiva de Análisis Sectorial:
-
-I. Dirigir las actividades encaminadas al análisis del mercado objetivo de la Financiera Rural, identificando áreas de oportunidad que permitan a la Institución mantener una participación activa en el desarrollo del sector rural;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Dirigir el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural a fin de contribuir en la identificación de nuevas oportunidades de negocio, así como al mejoramiento de los programas y productos de crédito y los programas de apoyo de la Institución;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-III. Generar y difundir información sectorial de manera oportuna, enriqueciendo la información sectorial disponible en la Institución, particularmente en las áreas encargadas de analizar y autorizar las solicitudes de crédito, y brindando información relevante a los clientes de la Institución a través de la página web, o bien, a través de cualquier otro medio que se estime pertinente;
-
-IV. Dirigir las funciones de análisis y evaluación del impacto de los diferentes instrumentos de política gubernamental enfocada al desarrollo del sector rural;
-
-V. Dirigir las funciones vinculadas con la planeación estratégica de la institución;
-
-> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
-
-V BIS. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados;
-
-VI. Dirigir los trabajos de evaluación interna y externa de los programas de apoyo sujetos a reglas de operación que se determinen en el Presupuesto de Egresos de la Federación y dar seguimiento a las recomendaciones que de dicha evaluación emanen, así como a la normatividad que en materia de evaluación de estos programas resulte aplicable; y
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
-
-ARTICULO 27 BIS.- (DEROGADO, D.O.F. 30 DE MARZO DE 2011)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-ARTICULO 27 TER.- Corresponde a la Subdirección Corporativa de Coordinación y Evaluación Regional:
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-I. Participar en la coordinación y evaluación de las Coordinaciones Regionales y Agencias;
-
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-II. Participar en el desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-III. Coordinar la preparación de los reportes de seguimiento de las Coordinaciones Regionales y de las Agencias;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IV. Analizar los avances de las áreas operativas respecto de los programas crediticios previamente establecidos;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-V. Coordinar la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
-
-VI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
-
-VII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
-
-VIII. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
-
-IX. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
-
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-X. Aplicar los esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural;
-
-XI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales en el ámbito de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 27 QUATER.- Corresponde a la Agencia Corporativa de Crédito Rural, que tendrá su domicilio en la Ciudad de México, Distrito Federal:
-
-I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
-
-II. Verificar que el proceso de promoción, evaluación, originación, autorización, contratación, disposición, supervisión y recuperación, se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
-
-III. Coordinar las acciones y resultados de la Agencia en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
-
-IV. Representar a la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
-
-V. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
-
-VI. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
-
-VII. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
-
-VIII. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
-
-IX. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
-
-X. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en la agencia;
-
-XI. Supervisar y coordinar las gestiones y desarrollo de sus áreas, verificando la atención a las funciones, actividades y comisiones asignadas;
-
-XII. Promover el desarrollo de proyectos y nuevos negocios en los sectores estratégicos identificados por Financiera Rural;
-
-XIII. Atender de manera directa las solicitudes de financiamiento que presenten las empresas y productores rurales;
-
-XIV. Coordinar y supervisar la estructuración de financiamientos y cofinanciamientos acorde a la profundidad del mercado, considerando las tendencias de los instrumentos financieros existentes tanto en mercado nacional como internacional;
-
-XV. Identificar a las entidades Gubernamentales, así como a otras instituciones financieras y fondos de inversión privados, involucrados en los financiamientos y cofinanciamientos estructurados y fungir como enlace entre éstos y las empresas y productores rurales involucrados en los proyectos a financiarse;
-
-XVI. Desarrollar y establecer las bases para determinar nuevas formas de financiamiento que se consideren viables y necesarias para la institución, y
-
-XVII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial.
-
-###### ARTICULO 28.
-
-(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
-
-###### ARTICULO 29.
-
-(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
-
-###### ARTICULO 30.
-
-(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2011)</small>
-
-ARTICULO 30 BIS.- Corresponde a la Subdirección Corporativa de Comunicación Social y Enlace Institucional:
-
-I. Dirigir estrategias de comunicación externa e interna que promuevan los productos y servicios de la Financiera;
-
-II. Establecer políticas de comunicación interna;
-
-III. Dirigir el diseño y producción de los materiales gráficos que se requieran para los eventos en los que participe la Financiera;
-
-IV. Dirigir el diseño de aplicaciones gráficas que requieran las distintas direcciones de la Financiera;
-
-V. Dirigir la elaboración de campañas de comunicación en las que se promuevan los servicios y productos de la Financiera;
-
-VI. Informar al personal de Financiera (sic) sobre las campañas internas y externas;
-
-VII. Coordinar la elaboración y emisión de boletines y comunicados para medios de comunicación;
-
-VIII. Dirigir la relación con medios de comunicación para proveerles de información sobre los eventos, programas y servicios de la Financiera;
-
-IX. Coordinar la contratación de medios de comunicación para la difusión de campañas;
-
-X. Dar seguimiento a la información publicada en los medios de comunicación referente a la Financiera, así como al sector rural;
-
-XI. Elaborar un análisis diario que dé seguimiento a las notas informativas que se refieran a la Financiera en medios de comunicación;
-
-XII. Coordinar el seguimiento de la atención de las peticiones de información y aclaraciones solicitadas a la Financiera, por parte de los medios de comunicación sobre sus actividades;
-
-XIII. Dirigir la administración de los contenidos de la página de Internet e Intranet de la institución y coordinar su actualización con todas las áreas responsables de la información;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XIV. Dirigir y supervisar la labor del Call Center Institucional;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XV. Generar y actualizar un banco documental de imagen fija, video y audio, al alcance de las áreas sustantivas, sobre los proyectos e iniciativas apoyadas por la Financiera Rural, con el propósito de documentar experiencias y apoyar la producción de materiales audiovisuales de capacitación y difusión sobre el quehacer institucional, en los medios y soportes que requieran estos servicios; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XVI. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 31.
-
-Corresponde a la Dirección General Adjunta de Crédito:
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-I. Dictar y difundir las políticas, lineamientos, normas, reglas y procedimientos de crédito, de reporto y de otros financiamientos, así como sus modificaciones;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-II. Dictar, difundir y vigilar los criterios y herramientas con los que se analicen, resuelvan y otorguen los financiamientos solicitados;
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-II Bis. Dirigir el análisis, resolución y otorgamiento de los créditos presentados al Comité de Crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-III. Emitir las disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito, de reporto y de otros financiamientos;
-
-IV. Presidir el Comité de Crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-V. Dirigir la relación de la Financiera con las sociedades de información crediticia; y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VI. Proponer al Director General el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional de Análisis de Crédito y de los Gerentes Regionales de Supervisión y Cobranza de la Financiera y de los servidores públicos adscritos a dichas gerencias, mismos que tendrán dependencia funcional de esta Dirección General Adjunta;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VII. Atraer los asuntos en materia crediticia, que a consideración del Director General o del Director General Adjunto de Crédito deban ser atendidos directamente por dicho servidor público;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VIII. Dictar mecanismos para la supervisión y la cobranza extrajudicial de la cartera crediticia de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IX. Dictar lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera.
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-X. Instrumentar las acciones para verificar que las operaciones de financiamiento se apeguen a la normatividad vigente y a los términos y condiciones aprobados por los órganos e instancias facultadas;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XI. Instrumentar la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito, de reporto y de otros financiamientos; así como de guardavalores;
-
-XII. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XIII. Instrumentar las acciones de supervisión a los Almacenes Generales de Depósito como emisores de certificados de depósito y bonos de prenda;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XIV. Instrumentar las acciones para el seguimiento al proceso de crédito;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XV. Dirigir las acciones de capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XVI. Dictar las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XVII. Instrumentar las acciones para la calificación de la cartera crediticia.
-
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 31 BIS.- Corresponde a la Dirección Ejecutiva de Análisis y Normatividad de Crédito:
-
-I. (DEROGADA, D.O.F. 18 DE ENERO DE 2012)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-II. Dirigir y vigilar la correcta aplicación de las políticas, lineamientos, normas, reglas y procedimientos de las operaciones de financiamiento, así como sus modificaciones;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-III. Vigilar la correcta aplicación de las disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito, de reporto y de otros financiamientos;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IV. Vigilar y asegurar la correcta aplicación de los criterios y herramientas con los que se analicen, resuelvan y otorguen los financiamientos solicitados;
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IV BIS. Vigilar el análisis, resolución y otorgamiento de los créditos presentados al Comité de Crédito;
-
-V. Participar en el Comité de Crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VI. Vigilar y mantener la relación de la Financiera con las sociedades de información crediticia y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VII. Proponer al Director General Adjunto de Crédito el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional de Análisis de Crédito y de los Gerentes Regionales de Supervisión y Cobranza de la Financiera, y de los servidores públicos adscritos a dichas gerencias, mismos que tendrán dependencia funcional de la Dirección General Adjunta de Crédito;
-
-VIII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por la Dirección Ejecutiva;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IX. Dirigir y vigilar los mecanismos para la supervisión y cobranza extrajudicial de la cartera crediticia de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-X. Dirigir y vigilar la correcta aplicación de los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera; y (sic)
-
-XI. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
-
-XII. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XIII. Dirigir la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito, de reporto y de otros financiamientos, así como de guardavalores.
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XIV. Dirigir las acciones de supervisión a los Almacenes Generales de Depósito como emisores de certificados de depósito y bonos de prenda;
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XV. Dirigir el seguimiento al proceso de crédito;
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-XVI. Establecer la capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XVII. Vigilar la implementación de las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XVIII. Llevar a cabo las actividades dentro del área de su competencia que le encomiende el Director General Adjunto de Crédito; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-XIX. Dirigir el proceso de la calificación de la cartera crediticia.
-
-###### ARTICULO 32.
-
-(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 33.
-
-Corresponde a la Subdirección Corporativa de Mesa de Control:
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-I. Asegurar el cumplimiento de los términos y condiciones que se establecen en los acuerdos de las instancias de autorización, vigilando la correcta aplicación conforme a la normatividad de la institución;
-
-II. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-III. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IV. Vigilar el procesamiento de las operaciones de crédito, de reporto y de otros financiamientos en la mesa de control;
-
-V. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
-
-VI. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-VII. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito.
-
-###### ARTICULO 34.
-
-(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 35.
-
-Corresponde a la Subdirección Corporativa de Análisis de Crédito:
-
-I. Desempeñar la función de Secretario del Comité de Crédito;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Dirigir la integración de las carpetas con los asuntos que deban ser sometidos a consideración del Comité de Crédito con la información que envíen los subcomités de crédito y demás instancias o áreas competentes;
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-III. Coordinar las actividades de las Gerencias de Coordinación Regional de Análisis de Crédito;
-
-IV. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-V. Coordinar las propuestas de capacitación en materia de análisis de crédito;
-
-VI. Desarrollar y proponer a las instancias que corresponda herramientas y elementos de apoyo para el análisis de crédito;
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VI BIS. Realizar el análisis para la resolución y otorgamiento de los créditos presentados al Comité de Crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Crédito que deban ser turnados al Comité de Operación o Consejo Directivo, en materia de crédito, de reporto y de otros financiamientos;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-VIII. Coordinar las actividades internas y externas relacionadas con las Sociedades de Información Crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
-
-X. Coordinar los trabajos de calificación de cartera e integración de la información para su presentación y autorización por parte de las instancias correspondientes.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 36.
-
-Corresponde a la Subdirección Corporativa de Normatividad de Crédito:
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-I. Coordinar las propuestas del Manual de Normas y Políticas de Crédito y del Manual de Normas y Políticas de Reporto así como sus modificaciones o ajustes;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-II. Coordinar las propuestas de circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y al Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas y procedimientos;
-
-REFORMADA, D.O.F. 20 DE JULIO DE 2010)
-
-III. Coordinar la actualización de las normas, políticas y procedimientos aplicables al proceso de crédito y de reporto y actuar como área consultiva en dichas materias;
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-IV. Coordinar las propuestas de procedimientos de crédito y de reporto, así como sus modificaciones;
-
-V. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VI. Coordinar el seguimiento al proceso de crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VII. Coordinar las propuestas de capacitación en materia de normatividad y procesos de crédito y de reporto;
-
-VIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IX. Coordinar la supervisión a los Almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Crédito y del Manual de Normas y Políticas de Reporto; y
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-X. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-ARTICULO 36 BIS.- Corresponde a la Subdirección Corporativa de Supervisión y Cobranza:
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-I. Coordinar las acciones de supervisión y seguimiento de los financiamientos que realicen las Coordinaciones Regionales;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-II. Coordinar la evaluación del desempeño en la recuperación y cobranza que efectúen las Coordinaciones Regionales, y en su caso, realizar en forma directa las acciones de cobranza extrajudicial que considere pertinentes;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-III. Implementar las propuestas de los mecanismos de supervisión y cobranza administrativa y extrajudicial de la cartera de la Financiera, para su seguimiento y vigilancia a fin de identificar, evaluar y corregir el desempeño de las acciones realizadas por las Coordinaciones Regionales;
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-IV. Coordinar la Implementación con el área jurídica, de las estrategias de recuperación en casos particulares;
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-V. Coordinar la evaluación de la calidad de los reportes de seguimiento al acreditado, durante la vigencia del financiamiento;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Coordinar la correcta administración e integración de los expedientes de financiamiento;
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-VI Bis. Supervisar periódicamente que las Agencias cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VII. Coordinar el seguimiento y supervisión de la cartera crediticia de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-VIII. Coordinar las actividades de las Gerencias Regionales de Supervisión y Cobranza, y
-
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
-
-IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-###### ARTICULO 37.
-
-Corresponde a la Dirección General Adjunta de Fomento y Promoción de Negocios:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-I. Establecer y dirigir los programas, planes, proyectos, acciones, políticas y compromisos en materia de promoción, capacitación, asesoría, consultoría, organización y otras modalidades, destinados al diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-II. Establecer y dirigir estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los productores y el desarrollo de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Proporcionar apoyos y servicios de promoción, capacitación, asesoría, organización y otras modalidades que contribuyan al desarrollo sustentable de los proyectos productivos, empresas rurales y del fortalecimiento técnico de las organizaciones de productores para la mejor utilización de sus recursos crediticios;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-V. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Jurídica y Fiduciaria;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VII. Establecer y dirigir el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción ante instituciones nacionales e internacionales orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VIII. Establecer y dirigir vínculos estratégicos con instituciones nacionales e internacionales con posibilidades de invertir en proyectos productivos que impulsen el desarrollo del campo;
-
-IX. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-X. Fomentar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y (sic)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-XI. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XII. Establecer y dirigir las actividades de seguimiento y evaluación de la promoción del crédito de las Coordinaciones Regionales y Agencias;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XIII. Coadyuvar en la promoción de las líneas de negocio de la Financiera Rural, por medio de los programas y productos de crédito y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XIV. Coordinar la preparación de reportes de seguimiento de las agencias en materia de fomento y promoción del crédito;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y (sic)
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XVI. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución;
-
-XVII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-###### ARTICULO 38.
-
-Corresponde a la Dirección Ejecutiva de Atención y Fomento a Productores, Organizaciones y Empresas Rurales:
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-I. Diseñar los programas, planes, proyectos, y acciones destinadas al diseño, incubación y fortalecimiento de proyectos productivos y empresas rurales;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Diseñar estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los Productores y el desarrollo de proyectos productivos y empresas rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IV. Coordinar los convenios celebrados con los sectores público, social y privado destinados a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-V. Aprobar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de productores;
-
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VI. Coadyuvar al establecimiento y dirección de las actividades de seguimiento y evaluación de la promoción del crédito en primer piso de las Coordinaciones Regionales y Agencias;
-
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VII. Apoyar a la Dirección General Adjunta de Fomento y Promoción de Negocios en la promoción de las líneas de negocio de la Financiera Rural por medio de los programas y productos para operaciones de crédito y de los programas de apoyo en operaciones de primer piso que determine el Presupuesto de Egresos de la Federación, y
-
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VIII. Coadyuvar en el establecimiento, dirección y supervisión de la promoción crediticia en primer piso a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 39.
-
-Corresponde a la Subdirección Corporativa de Atención a Productores, Organizaciones y Empresas Rurales:
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y servicios de promoción, organización, capacitación, asesoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de los proyectos productivos, empresas rurales y organizaciones de Productores para el mejor uso de los recursos crediticios;
-
-II. Coordinar las estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante el fomento de la asociación de los Productores, el fortalecimiento técnico de sus organizaciones y el desarrollo de proyectos productivos y de empresas rurales;
-
-III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de Productores, y (sic)
-
-V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Coordinar las acciones previstas en los programas para la inscripción de prestadores de servicios en la Red de Prestadores de Servicios de la Financiera Rural.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-###### ARTICULO 40.
-
-Corresponde a la Dirección Ejecutiva de Promoción de Negocios con Intermediarios Financieros Rurales:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e intermediarios financieros;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-II. Coordinar las estrategias para simplificar la atención a los usuarios de los servicios crediticios de la Financiera Rural, mediante la constitución, operación y desarrollo de las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Coordinar las acciones previstas en los convenios celebrados con los sectores público, social y privado destinadas a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IV. Autorizar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VI. Coadyuvar en el establecimiento y dirección de las actividades de seguimiento y evaluación de promoción del crédito con Intermediarios Financieros Rurales;
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VII. Apoyar a la Dirección General Adjunta de Fomento y Promoción de Negocios en la promoción de las líneas de negocio de la Financiera Rural por medio de los programas y productos para operaciones de crédito y de los programas de apoyo con Intermediarios Financieros Rurales que determine el Presupuesto de Egresos de la Federación;
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2008)</small>
-
-VIII. Coadyuvar en el establecimiento, dirección y supervisión de la función de promoción con Intermediarios Financieros Rurales a través de técnicas de mercadeo, venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo crediticio; y
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IX. Coadyuvar en la coordinación de la preparación de los reportes de seguimiento de la agencias (sic) en materia de fomento y promoción del crédito.
-
-ARTICULO 40 BIS.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2008)
-
-###### ARTICULO 41.
-
-(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE ENERO DE 2010)</small>
-
-ARTICULO 41 BIS.- Corresponde a la Dirección Ejecutiva de Programas y Productos:
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-I. Proponer la creación y adecuación de programas y productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución y participar activamente en el desarrollo e implementación de los mismos;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la institución a su clientela;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IV. Elaborar en coordinación con otras áreas de la institución, en su caso, estudios que propicien mejores condiciones de mercado y la conveniencia de operar nuevos productos y servicios, que permitan a la Institución ofrecer un servicio integral y competitivo;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-V. Instrumentar los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VI. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural; y (sic)
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VII. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas institucionales;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-VIII. Coordinar la promoción de reportos de la Financiera Rural para incrementar y diversificar su portafolio crediticio, en estricto apego a los lineamientos de administración de riesgos de la institución;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-IX. Identificar proyectos productivos potenciales en el medio rural, que requieran de financiamientos especializados para su viabilidad;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-X. Estructurar financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-XI. Identificar a los actores involucrados en los financiamientos y cofinanciamientos estructurados (otras entidades Gubernamentales, otras instituciones financieras, fondos de inversión privados, etc.) y fungir como enlace entre éstos y los productores y emprendedores rurales involucrados en los proyectos a financiarse;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-XII. Fomentar la inserción de los productores y emprendedores rurales mexicanos en las cadenas productivas nacionales e internacionales; y
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-XIII. Fomentar la participación de Financiera Rural en foros internacionales y buscar la participación de instituciones extranjeras en proyectos productivos del medio rural mexicano.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 42.
-
-Corresponde a la Dirección General Adjunta de Administración:
-
-I. Aprobar las políticas relativas a administración y desarrollo del personal, y en materia de recursos materiales y servicios generales de la Financiera;
-
-II. Dictaminar la estructura orgánica de la Financiera, y solicitar su registro, una vez aprobada, ante las autoridades correspondientes;
-
-III. Validar y presentar al Director General la estructura orgánica básica de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio (sic) los trabajadores, para la aprobación del Consejo;
-
-IV. Representar a la Financiera ante las autoridades laborales, así como ante diversas instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal;
-
-V. Aprobar políticas sobre el ejercicio del gasto en las unidades administrativas de la Financiera;
-
-VI. Aprobar políticas, programas y medidas en materia de austeridad y racionalidad en el ejercicio del gasto;
-
-VII. Proponer las políticas, bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, para la aprobación de las instancias correspondientes;
-
-VIII. Proponer las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables, para la aprobación de las instancias correspondientes;
-
-IX. Aprobar políticas sobre la utilización, conservación, salvaguarda y aseguramiento de los bienes muebles e inmuebles que sean patrimonio de la Financiera;
-
-X. Dictar las normas en materia de almacenes y supervisar los sistemas de control de inventarios de bienes, dictaminando, controlando y vigilando su afectación, baja y destino final;
-
-XI. Aprobar políticas relativas a los recursos materiales y servicios generales en la Financiera, y (sic)
-
-XII. Aprobar políticas de seguridad, vigilancia y protección civil que resguarden la integridad del personal, y salvaguarden los bienes muebles e inmuebles patrimonio de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-XIII. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera Rural, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 43.
-
-Corresponde a la Dirección Ejecutiva de Recursos Humanos:
-
-I. Coordinar la formulación de políticas en materia de administración y desarrollo del personal, para la aprobación del Director General Adjunto de Administración;
-
-II. Prever, integrar y controlar los recursos humanos de la Institución con el propósito de homologar criterios de actuación en incidencias de personal;
-
-III. Evaluar y establecer políticas y procedimientos que permitan una relación laboral formal e informal sana del personal en los centros de trabajo de la Financiera Rural;
-
-IV. Dirigir la instrumentación de las políticas en materia de administración y desarrollo del personal;
-
-V. Gestionar el registro de la estructura orgánica de la Financiera;
-
-VI. Coordinar la elaboración de la estructura organizacional de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio (sic) los trabajadores, para la presentación y aprobación de las instancias correspondientes;
-
-VII. Coordinar la instrumentación de las políticas salariales y para el otorgamiento de incentivos, prestaciones, ascensos y promociones, y de evaluación del desempeño para la determinación de compensaciones;
-
-VIII. Dirigir la aplicación de las políticas de selección, reclutamiento, capacitación, movimientos y baja de personal;
-
-IX. Establecer mecanismos de descripción y valuación de puestos de la Financiera Rural;
-
-X. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en beneficio de funcionarios y personal;
-
-XI. Vigilar el cumplimiento del contrato colectivo de trabajo y de otros instrumentos normativos internos que rigen las relaciones laborales;
-
-XII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales, y (sic)
-
-XIII. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente del área jurídica;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIV. Formular el anteproyecto de presupuesto del Capítulo 1000 de Servicios Personales, con base al comportamiento del gasto, programas específicos de Recursos Humanos, necesidades estructurales y factores económicos y político laborales con el fin de que la Institución cuente con la suficiencia presupuestal para su operación, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XV. Coordinar la formulación de reportes solicitados por la Secretaría de la Función Pública; Programa de Transparencia y Combate a la Corrupción.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 44.
-
-Corresponde a la Dirección Ejecutiva de Recursos Materiales y Servicios:
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-I. Coordinar la formulación de políticas en materia de recursos materiales y servicios generales, para la aprobación de las instancias correspondientes;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Dirigir la instrumentación de las políticas relativas a los recursos materiales, suministros y servicios generales en la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-III. Coordinar la elaboración de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, para aprobación de las instancias correspondientes;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IV. Coordinar la elaboración de las políticas, bases y lineamientos generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables, para aprobación de las instancias correspondientes;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-V. Dirigir la instrumentación de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles que sean patrimonio de la Financiera, de realización de obras y prestación de servicios;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Dirigir la instrumentación de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera celebre con terceros;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Dirigir las estrategias para la licitación, adquisición de bienes, contratación de servicios, arrendamientos, obra pública, mantenimiento y enajenación de bienes, conforme a la normatividad vigente;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Dirigir la ejecución de las políticas sobre utilización, conservación y salvaguarda y aseguramiento de los bienes muebles e inmuebles al servicio de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Dirigir el sistema de control de inventarios de bienes muebles e inmuebles, así como supervisar su operación en la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Dirigir el uso y conservación de los equipos de transporte de la Institución con el fin de otorgar el servicio con márgenes de seguridad y funcionalidad;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XI. Dirigir la instrumentación de las políticas de seguridad y protección civil emitidas para proteger la integridad del personal, y salvaguardar bienes muebles e inmuebles patrimonio de la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y (sic)
-
-XIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIV. Dirigir la instrumentación de las políticas para la conformación de archivos de la Financiera Rural en términos de la normatividad aplicable para tal fin;
-
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-XV. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera Rural, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-###### ARTICULO 45.
-
-Corresponde a la Dirección General Adjunta (sic) Finanzas, Operaciones y Sistemas:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-I. Establecer directrices para conformar el plan estratégico institucional;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-II. Dictar estrategias y políticas en materia contable y fiscal, encaminadas al cumplimiento de las obligaciones que al respecto tiene la institución de acuerdo a las leyes y normas vigentes;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Establecer directrices para la implantación de sistemas de información financiera y de gestión, tendientes a evaluar el desempeño institucional y satisfacer requerimientos de información internos y externos al respecto;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IV. Dictar estrategias y políticas relativas a la planeación financiera y administración de la tesorería de la institución;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-V. Dictar estrategias y políticas para la planeación financiera y administración de la plataforma informática institucional;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VI. Dictar políticas y estrategias en materia presupuestal, y (sic)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VII. Definir estrategias y políticas encaminadas al desarrollo e implantación del sistema de gestión de calidad y el programa de certificación y mejora continua;
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Dictar estrategias y políticas en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 46.
-
-Corresponde a la Dirección Ejecutiva de Finanzas:
-
-I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-II. Establecer directrices para la planeación financiera;
-
-III. Supervisar la conformación de los informes de auto-evaluación;
-
-IV. Dictar lineamientos en materia contable y fiscal, encaminados al cumplimiento de las obligaciones que al respecto tiene la institución de acuerdo a las leyes y normas vigentes;
-
-V. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-VII. Dictar lineamientos para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras;
-
-VIII. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, y (sic)
-
-IX. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Supervisar y dirigir el proceso de programación, presupuestación, control y seguimiento presupuestal, en apego a la normatividad establecida;
-
-> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
-
-XI. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XII. Dirigir proyectos para la implementación y/o mantenimiento de sistemas de información financiera, fiscal, contable y presupuestal, así como satisfacer requerimientos internos y externos de dicha información, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIII. Fungir como Representante del Sistema de Gestión de Calidad ante la Alta Dirección con la responsabilidad y la autoridad para coordinar el desarrollo, implantación y mantenimiento del Sistema de Gestión de la Calidad de Financiera Rural, así como de promover su adecuación a los requisitos de la norma.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2010)</small>
-
-ARTICULO 46 BIS.- Corresponde a la Dirección Ejecutiva de Tecnologías de la Información:
-
-I. Supervisar y administrar los servicios que la función de Tecnologías de la Información provee a las diferentes áreas de Financiera Rural;
-
-II. Diseñar e impulsar cambios dentro de la organización funcional y sus diversos procesos de cualquier índole de la función de Tecnologías de la Información para mantener la alineación con la estrategia de ésta, los cuales deben soportar con calidad y oportunidad a los objetivos de la Financiera;
-
-III. Establecer y mantener las relaciones del negocio e internamente en la función de Tecnologías de la Información, asegurando el cumplimiento de los objetivos del negocio;
-
-IV. Dirigir y supervisar las estrategias para la mejora continua y la optimización de los procesos definidos dentro de la función de Tecnologías de la Información bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria, donde dichas tareas deberán cumplir con las regulaciones que el gobierno central dicte relativas a Tecnologías de la Información;
-
-V. Administrar y controlar el portafolio de los proyectos para la optimización de procesos, asimismo dar seguimiento y control a los proyectos críticos de la Financiera, y
-
-VI. Definir los procesos de operación de Tecnologías de la Información, para la optimización de los niveles de servicio existente y/o adquirido con los clientes internos, así como impulsar y liderar cambios de infraestructura y aplicaciones tecnológicas que redunden en mejoras en la calidad del servicio.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 47.
-
-Corresponde a la Subdirección Corporativa de Sistemas:
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-I. Ejecutar los lineamientos en relación a planeación y administración de la plataforma informática y sus actualizaciones tecnológicas;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-II. Ejecutar proyectos relativos a los servicios de soporte técnico y telecomunicaciones;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-III. Ejecutar los proyectos en relación con las adecuaciones, actualizaciones y nuevos desarrollos de sistemas aplicativos que la institución requiera o utilice;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-IV. Ejecutar Proyectos relativos a la operación y seguridad informática de la institución tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional;
-
-V. Definir lineamientos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y (sic)
-
-VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-VII. Las demás que le encomiende el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Proponer y desarrollar estrategias para la mejora continua y optimización de los procesos definidos dentro de la función de Tecnologías de Información bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Vigilar el cabal cumplimiento del plan estratégico de Tecnología de la Institución, para las tareas de producción, desarrollo y de nuevos productos;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Coordinar y colaborar en la implementación de los cambios dentro de la organización y procesos de la función de Tecnologías de Información para mantener la alineación con la estrategia de Tecnologías de Información y de la Financiera;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XI. Coordinar y colaborar en la definición de los lineamientos y procesos que permitan mantener la función de Tecnologías de Información asegurando el cumplimiento de los objetivos del negocio;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XII. Controlar y vigilar que los lineamientos existentes relativos a la operación y seguridad informática, tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional sean de prioridad absoluta;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIII. Coadyuvar en la supervisión del cumplimiento del decreto de austeridad en lo referente a Tecnologías de Información y Comunicaciones, Gobierno Electrónico y Agenda Digital, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIV. Supervisar la elaboración de los dictámenes para la firma del Director Ejecutivo.
-
-> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
-
-ARTICULO 47 BIS.- Corresponde a la Subdirección Corporativa de Reingeniería de Procesos:
-
-I. Diseñar y proponer estrategias para asegurar una operación eficiente y de calidad de los servicios;
-
-II. Proponer, administrar y dirigir las estrategias para la mejora continua de la gestión y optimización de los procesos;
-
-III. Proponer y sustentar las mejoras a los procesos, mediante la definición de procesos automatizados en función a las necesidades de los usuarios, sin perder de vista que estén alineados a la estrategia funcional de la Financiera;
-
-IV. Diseñar y proponer los métodos y procedimientos derivados de las mejoras detectadas a los procesos, que faciliten el cumplimiento de los objetivos del negocio;
-
-V. Validar que las propuestas y la aplicación de las mejoras sean bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria;
-
-VI. Proponer, dirigir e implementar procesos estadísticos y de referencia, que permitan realizar evaluaciones de forma permanente, mediante indicadores de gestión en las diferentes áreas de la institución;
-
-VII. Dirigir y coordinar las acciones de corrección o perfeccionamiento a los procesos implementados, para lograr la mejora continua de los procesos;
-
-VIII. Proponer los cambios factibles tecnológicos y de sistemas, derivados del análisis y evaluación de los procesos, que se consideren factibles de su automatización, y
-
-IX. Vigilar el cabal cumplimiento del plan estratégico de Tecnología de la Institución, para las tareas de planeación, control y mejora de los procesos de la Institución.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-ARTICULO 47 TER.- Corresponde a la Subdirección Corporativa de Diseño y Construcción:
-
-I. Proponer y participar en la definición, desarrollo y mantenimiento de la arquitectura de sistemas e integrar aplicaciones de flexibilidad en la construcción de productos y servicios financieros, permitiendo la reducción en costos por transacción;
-
-II. Proponer e Implementar las metodologías tecnológicas que coadyuven en reducir los costos de desarrollo de sistemas, acelerar los tiempos de entrega de proyectos, productos, servicio y apoyar la arquitectura de sistemas;
-
-III. Participar y contribuir en el desarrollo de técnicas que aseguren la calidad de los sistemas para reducir los errores de operación en productos y servicios de la institución;
-
-IV. Proponer e Implementar metodologías que coadyuven a realizar evaluaciones, selección y procesos de negociación para la tecnología de información adecuada para el logro de los objetivos de negocio, mejora continua de los procesos y alineado al plan estratégico de Tecnología de la institución;
-
-V. Participar en la alineación de los planes estratégicos y operativos de sistemas que soportan la misión y estrategia de la institución;
-
-VI. Participar y contribuir en el desarrollo del plan estratégico de tecnología de la institución, que asegure el retorno de la inversión en sistemas, coadyuvando a la sustentabilidad a través de una visión de negocio;
-
-VII. Participar y contribuir en el diseño de soluciones tecnológicas acorde a los requerimientos de negocio que aseguren el mejor enfoque, para cumplir con los requerimientos del usuario a través de análisis de las oportunidades y alternativas comparadas contra los requerimientos de los usuarios, considerando, definiciones de requerimientos de información, estudios de factibilidad, arquitectura de información, seguridad, pistas de auditoría, contratación de terceros, aceptación de instalaciones y tecnología; y
-
-VIII. Investigar e Identificar los mecanismos o técnicas más adecuados para los procesos de liberación de sistemas o módulos adicionales de los sistemas actuales.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 48.
-
-Corresponde a la Subdirección Corporativa de Tesorería:
-
-I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-II. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-III. Emitir lineamientos y procedimientos para la administración de la posición y flujo de efectivo en moneda nacional y extranjera de la tesorería en apego a la normatividad establecida;
-
-IV. Supervisar y evaluar la ejecución de los procesos básicos de la tesorería: dispersión, concentración, inversión-valuación, cierre y conciliación operativa contable, de acuerdo a la normatividad vigente;
-
-V. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
-
-VI. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
-
-VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Administrar las necesidades de recursos en moneda nacional y extranjera de la Financiera;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Administrar, supervisar y evaluar el Fondo de Inversión o Portafolio de la Financiera Rural en apego al régimen de inversión y estrategia, aprobado por el Comité de Inversión y dentro de los parámetros de exposición al riesgo establecido por el Comité de Administración Integral de Riesgos, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
-
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-ARTICULO 48 BIS.- Corresponde a la Dirección Ejecutiva de Operación:
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-I. Establecer mecanismos de supervisión sobre la dispersión de los recursos;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-II. Establecer los mecanismos de conciliación de cifras de cartera de crédito, apoyos administrativos y cualquier otra operación de financiamiento que realice la Financiera Rural, respecto de la contabilidad institucional;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-III. Dirigir la definición, administración, operación y control de la base de datos de la cartera de crédito Institucional, así como de los apoyos administrados y cualquier otra operación de financiamiento;
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y (sic)
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-V. Establecer mecanismos de supervisión sobre la aplicación de la concentración de los recursos recibidos;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Ser el enlace Institucional con fuentes de fondeo en temas operativos;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Establecer los mecanismos para la coordinación general del proceso, la administración y el control de las Garantías y las fuentes de fondeo;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Establecer los mecanismos para la administración, supervisión y control de las conciliaciones con la fuente de Fondeo, así como el registro contable, de pagos y recuperaciones de los recursos fondeados;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Establecer los mecanismos para instrumentar la cobranza de créditos considerados como “corporativos” (PROCAMPO), así como cualquier esquema de operaciones especiales que opere la institución, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Coordinar el soporte de la operación en el otorgamiento de apoyos específicamente encomendados.
-
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-ARTICULO 48 TER.- Corresponde a la Subdirección Corporativa de Operación Crediticia:
-
-I. Coordinar la dispersión de recursos;
-
-II. Coordinar la aplicación de la concentración de los recursos recibidos;
-
-III. Coordinar que se lleve a cabo la conciliación de las cifras de cartera con la contabilidad institucional así como la definición de los perfiles de usuarios para la operación;
-
-IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y (sic)
-
-V. Coordinar la definición, administración y operación de la base de datos de cartera institucional;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Coordinar la definición, administración y operación de la base de datos de cartera institucional, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Coordinar y gestionar la cobranza de créditos considerados como “corporativos” (PROCAMPO), así como cualquier esquema de operaciones especiales que opere la institución.
-
-> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
-
-ARTICULO 48 QUATER.- Corresponde a la Subdirección Corporativa de Operaciones Especiales:
-
-I. Coordinar la administración y operación del descuento de cartera, con las diferentes fuentes de fondeo;
-
-II. Coordinar la definición de los lineamientos y procedimientos operativos en materia de descuento de cartera;
-
-III. Coordinar la capacitación y asesoría técnica en la operación crediticia hacia las diferentes áreas de la Financiera Rural;
-
-IV. Coordinar la difusión de las mecánicas operativas relativas al descuento de cartera y servicio de Garantía FIRA;
-
-V. Coordinar la automatización de nuevas funcionalidades en el Sistema Integral de Crédito, así como la implementación y adecuación a las funcionalidades existentes;
-
-VI. Coordinar la administración y operación del servicio de Garantías FIRA, así como la definición de los lineamientos y procedimientos aplicables;
-
-VII. Coordinar la administración, supervisión y control de las Conciliaciones con las fuentes de fondeo y del Servicio de Garantías FIRA, y
-
-VIII. Coordinar el proceso de validaciones operativas de crédito.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-### CAPITULO IV. ATRIBUCIONES Y FACULTADES GENERICAS QUE CORRESPONDEN A LAS UNIDADES ADMINISTRATIVAS DE LA FINANCIERA
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 49.
-
-Corresponde de manera genérica a las direcciones generales adjuntas:
-
-I. Acordar con el Director General los asuntos de su competencia, e informarle sobre el desarrollo de las actividades de las unidades administrativas a su cargo;
-
-II. Preparar los asuntos de su competencia que el Director General deba someter a la consideración y aprobación del Consejo;
-
-III. Dentro de su ámbito de competencia, dictar las estrategias, planes, normas, acuerdos y políticas necesarias para la consecución de los fines de la Financiera, con apego a normatividad aplicable;
-
-IV. Resolver los asuntos relacionados con su ámbito de competencia, que no estén expresamente asignados a otra unidad administrativa de la Financiera y con excepción de aquellos que, con carácter indelegable, correspondan al Consejo o al Director General;
-
-V. Aprobar los programas de trabajo de sus respectivas competencias y los programas específicos que determinen las disposiciones legales aplicables, así como de las unidades administrativas adscritas, conforme a las políticas y lineamientos que determinen el Consejo y el Director General;
-
-VI. Atender y resolver los requerimientos, consultas y solicitudes que les formulen en el ámbito de su competencia, el Consejo, el Director General o las autoridades competentes;
-
-VII. Acordar con los subalternos de su adscripción los asuntos de su competencia;
-
-VIII. Constituir grupos de trabajo cuando existan asuntos de la competencia de dos o más direcciones generales adjuntas;
-
-IX. Desempeñar las comisiones y demás funciones que les encomiende el Director General;
-
-X. Instrumentar, dentro del área de su competencia, la política institucional de cumplimiento normativo que dicte la Financiera y asegurar su cumplimiento mediante la debida comunicación de la misma a los servidores públicos de la Institución, así como mediante la capacitación de servidores públicos en dicha materia; fomentar la cultura de cumplimiento normativo y optimizar la relación de la Financiera con los entes que la regulan;
-
-XI. Procurar que dentro del ámbito de su competencia los servidores públicos a su cargo otorguen la debida atención a las áreas respectivas con el objeto de optimizar la operación de la Financiera;
-
-XII. Solicitar información relacionada con el ejercicio de sus atribuciones, a las dependencias y entidades de la administración pública federal y local;
-
-XIII. Participar en los comités que apruebe el Consejo o en otros comités internos de trabajo de los que sean integrantes;
-
-XIV. Representar al Director General en los asuntos que le encomiende;
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-XIV Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de sus respectivas direcciones generales adjuntas;
-
-XV. Representar a la Financiera, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo del Director General, y
-
-XVI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General o el Consejo.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 50.
-
-Corresponde de manera genérica a las direcciones ejecutivas y subdirecciones corporativas:
-
-I. Acordar con superior jerárquico los asuntos de su competencia, e informarle sobre el desarrollo de las actividades de las unidades administrativas a su cargo;
-
-II. Dentro de su ámbito de competencia, dictar los programas, proyectos, reglas, lineamientos, circulares, manuales y procedimientos necesarios para la consecución de los fines de la Financiera, con arreglo a normatividad aplicable;
-
-III. Resolver los asuntos relacionados con su ámbito de competencia, que no estén expresamente asignados a otra unidad administrativa de la Financiera, con excepción de aquellos que, con carácter indelegable, correspondan al Consejo o al Director General;
-
-IV. Observar, dentro del área de su competencia, la política institucional de cumplimiento normativo de la Financiera, y fomentar una cultura de control interno valores y cumplimiento aplicable a las áreas de su competencia;
-
-V. Formular los programas de trabajo de sus respectivas competencias y los programas específicos que determinen las disposiciones legales aplicables;
-
-VI. Atender y resolver los requerimientos, consultas y solicitudes que les formulen en el ámbito de su competencia, el Director General, su superior jerárquico o las autoridades competentes;
-
-VII. Acordar con los subalternos de su adscripción los asuntos de su competencia;
-
-VIII. Desempeñar las comisiones y demás funciones que, en el ámbito de su competencia, les encomiende su superior jerárquico;
-
-IX. Solicitar información relacionada con el ejercicio de sus atribuciones, a las dependencias y entidades de la administración pública federal y local;
-
-X. Participar en los comités que apruebe el Consejo o en otros comités internos de trabajo, de conformidad con la normatividad aplicable y el acuerdo de su superior jerárquico;
-
-XI. Representar a su superior jerárquico en los asuntos que le encomiende;
-
-XII. Representar a la Financiera, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo expreso de su superior jerárquico, y
-
-XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende su superior jerárquico.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-### CAPITULO V. DE LAS COORDINACIONES REGIONALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 51.
-
-Corresponde a las coordinaciones regionales:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-I. Coordinar la promoción y ejecución de los productos y programas de crédito y promoción con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y direcciones generales adjuntas;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-II. Coordinar las acciones y resultados de las agencias de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Coordinar los diferentes programas con los gobiernos estatales y municipales;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-IV. Representar a la Financiera en las comisiones que se le asignen;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-V. Proponer al Director General la apertura, reubicación y clausura de agencias y módulos en la región;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VI. Apoyar las gestiones específicas que realicen las agencias y módulos en el ámbito de su competencia;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VII. Administrar los recursos humanos que tengan asignados, así como disponer que las gerencias a su cargo se ubiquen en la sede de la coordinación regional o de manera indistinta, en los estados que correspondan a su circunscripción;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VIII. Administrar las estructuras orgánicas y ocupacionales, así como los recursos materiales y servicios generales de las instancias de su adscripción regional;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-IX. Coordinar e integrar los informes que le sean requeridos;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-X. Representar legalmente a la Financiera en el ámbito de su competencia;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-XI. Determinar el domicilio de las propias coordinaciones regionales, agencias y módulos en el ámbito de sus respectivas competencias;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente, y (sic)
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-XIII. Coordinar las actividades para dar seguimiento a la cobranza administrativa y extrajudicial de la cartera crediticia.
-
-Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales de Supervisión y Cobranza las cuales dependerán orgánicamente de éstas;
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-XIII Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de sus respectivas coordinaciones regionales; y
-
-> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-XIV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-Se adscribirán a las coordinaciones regionales, gerencias, agencias estatales de crédito rural, agencias de crédito rural y módulos, así como la estructura administrativa de base y de confianza que les sea asignada.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-Para el ejercicio de las actividades enumeradas en el presente artículo, las coordinaciones regionales se apoyarán en la estructura aprobada por el Consejo.
-
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
-
-###### ARTICULO 52.
-
-Corresponde a las agencias estatales de Crédito Rural:
-
-I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
-
-II. Verificar que el proceso de originación, autorización, contratación, disposición y supervisión se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
-
-III. Coordinar, en su caso, las acciones y resultados de las Agencias de Crédito Rural, en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
-
-IV. Coordinar y vincular los diferentes programas con los gobiernos estatales y municipales de su adscripción;
-
-V. Representar a la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
-
-VI. Analizar y proponer al coordinador regional la apertura, reubicación y clausura de agencias y módulos en su adscripción estatal;
-
-VII. Apoyar las gestiones específicas que realicen las agencias de Crédito Rural y módulos en el ámbito de su competencia;
-
-VIII. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
-
-IX. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
-
-X. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
-
-XI. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
-
-XII. Supervisar y coordinar las gestiones y desarrollo de sus áreas, así mismo los módulos que llegaran a establecerse en su zona de influencia, verificando la atención a las funciones, actividades y comisiones asignadas;
-
-XIII. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
-
-XIV. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en las agencias, y
-
-XV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior.
-
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
-
-###### ARTICULO 53.
-
-Corresponde a las Agencias de Crédito Rural a través de los promotores de financiamiento rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X y XI del artículo 52 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 54.
-
-Corresponde a los módulos, el ejercicio de las atribuciones siguientes:
-
-I. Establecerse temporalmente en plazas donde no tenga presencia la Financiera y que presenten demanda de recursos crediticios por temporadas, ciclos agrícolas o afluencia de negocios;
-
-II. Recibir solicitudes de crédito, capacitar y asesorar a los Productores o Intermediarios Financieros Rurales e identificar proyectos productivos que impulsen el desarrollo rural;
-
-III. Establecerse en recintos u oficinas públicas en las plazas donde el apoyo de servicios de recepción de solicitudes de crédito se hace necesario;
-
-IV. Cambiar en número y ubicación ya que su instalación es temporal en zonas geográficas productivas cuya demanda crediticia lo requiera en determinada época del año, en función del desarrollo y cobertura de los Productores e Intermediarios Financieros Rurales, así como de la demanda de créditos para actividades diferentes a las agrícolas;
-
-V. Servir de vehículo a la Financiera para apoyar las actividades tendientes al cumplimiento de su objeto, y
-
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Agente Estatal de Crédito o el Coordinador Regional.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-### CAPITULO VI. NUMERO Y CIRCUNSCRIPCION DE LAS COORDINACIONES REGIONALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-###### ARTICULO 55.
-
-La Financiera tendrá Cinco Coordinaciones Regionales, mismas que a continuación se señalan:
-
-I. Coordinación Regional Noroeste;
-
-II. Coordinación Regional Norte;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-III. Coordinación Regional Centro-Occidente;
-
-IV. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
-
-V. Coordinación Regional Sur, y
-
-VI. Coordinación Regional Sureste.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 56.
-
-La Coordinación Regional Noroeste tendrá como sede la ciudad de Hermosillo, Sonora y se adscriben a su competencia las siguientes entidades federativas:
-
-I. Baja California,
-
-II. Baja California Sur,
-
-II Bis. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-III. Sinaloa, y
-
-IV. Sonora.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-###### ARTICULO 57.
-
-La Coordinación Regional Norte tendrá como sede la ciudad de Monterrey, Nuevo León y se adscriben a su competencia las siguientes entidades federativas:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-I. Chihuahua,
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-II. Coahuila,
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Nuevo León,
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-III Bis. San Luis Potosí;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-III Ter. Zacatecas;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-IV. Tamaulipas, y
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-V. Durango.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2010)</small>
-
-###### ARTICULO 58.
-
-La Coordinación Regional Centro-Occidente tendrá como sede la ciudad de Guadalajara, Jalisco y se adscriben a su competencia las siguientes entidades federativas:
-
-I. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
-
-II. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-III. Guanajuato,
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-III Bis. Jalisco;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-III Ter. Colima;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-IV. Querétaro,
-
-V. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
-
-VI. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VII. Aguascalientes;
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-VIII. Michoacán; y
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-IX. Nayarit.
-
-###### ARTICULO 59.
-
-(DEROGADO, D.O.F. 3 DE JUNIO DE 2010)
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 60.
-
-La Coordinación Regional Sur tendrá como sede la ciudad de Puebla, Puebla y se adscriben a su competencia las siguientes entidades federativas:
-
-I. Guerrero,
-
-II. Oaxaca,
-
-III. Veracruz,
-
-IV. Puebla,
-
-V. Tlaxcala,
-
-> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2010)</small>
-
-VI. Morelos,
-
-VI Bis. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
-
-VII. Las zonas rurales del Distrito Federal,
-
-> <small>(ADICIONADA, D.O.F. 12 DE MARZO DE 2010)</small>
-
-VIII. Hidalgo, y
-
-> <small>(ADICIONADA, D.O.F. 12 DE MARZO DE 2010)</small>
-
-IX. Estado de México.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 61.
-
-La Coordinación Regional Sureste tendrá como sede la ciudad de Mérida, Yucatán y se adscriben a su competencia las siguientes entidades federativas:
-
-I. Tabasco,
-
-II. Campeche,
-
-II. (sic) Yucatán,
-
-IV. Quintana Roo, y
-
-V. Chiapas.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-### CAPITULO I (SIC). DEL CONTROL, VIGILANCIA Y EVALUACION
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 62.
-
-La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 63.
-
-La Financiera contará con un Organo Interno de Control, cuyo titular será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designadas en los mismos términos.
-
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+Respecto de los actos de auditoria y fiscalización que lleve a cabo la Secretaría, se interpondrán los recursos administrativos contemplados por el Código Fiscal del Estado de Tabasco.
 
 ## TITULO IV (SIC). DE LOS COMITES DE LA FINANCIERA
 
@@ -2639,120 +933,22 @@ Las atribuciones encomendadas por este Estatuto a los titulares de las direccion
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- Esta Ley entrará en vigor el primer día del mes de enero de 2008.
 
-SEGUNDO.- Ordénese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 fracción IX y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
+SEGUNDO.- Las Casas de Empeño ya instaladas en el Estado con anterioridad a la vigencia de la presente Ley, igualmente deberán cumplir con las disposiciones de la misma, por lo que contarán con un máximo de sesenta días hábiles contados a partir de que entre vigor, para solicitar el permiso a que alude el artículo 7 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS SEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE, DIP. OVIDIO CHABLÉ MARTÍNEZ DE ESCOBAR, PRESIDENTE; DIP. FRANCISCO JAVIER CUSTODIO GÓMEZ, SECRETARIO.- RÚBRICAS.
 
-El presente Estatuto fue aprobado en la sesión número uno extraordinaria, celebrada el 28 de marzo del año 2003 por el Consejo Directivo de la Financiera Rural, Organismo Público Descentralizado, creado por decreto publicado en el Diario Oficial de la Federación el 26 de diciembre de 2002.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-En cumplimiento del Acuerdo Segundo de la referida sesión, que me instruye para llevar a cabo los trámites necesarios para la publicación del citado Estatuto Orgánico, en el Diario Oficial de la Federación y en uso de las facultades que me confiere el artículo 44 de la Ley Orgánica de la Financiera, como administrador y representante legal, para su debida publicación y observancia expido el presente Estatuto en la Ciudad de México, Distrito Federal, a los nueve días del mes de abril del año dos mil tres. José Antonio Meade Kuribreña, Director General de la Financiera Rural. Rúbrica.
+EXPEDIDO EN. EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL .PODER EJECUTIVO, EN LA CIUDAD DE VILLA HERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DIECISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
-México, D.F., a 9 de abril de 2003.- El Director General de la Financiera Rural, José Antonio Meade Kuribreña.- Rúbrica.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN."
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+QUÍM. ANDRES RAFAEL GRANIER MELO
 
-D.O.F. 17 DE NOVIEMBRE DE 2003.
+GOBERNADOR DEL ESTADO DE TABASCO.
 
-UNICO.- La presente Reforma al Estatuto Orgánico y las modificaciones a los artículos que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
-D.O.F. 4 DE JULIO DE 2005.
-
-UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE NOVIEMBRE DE 2007.
-
-UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 23 DE ENERO DE 2008.
-
-UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 16 DE ABRIL DE 2008.
-
-UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE MAYO DE 2008.
-
-UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 23 DE JULIO DE 2008.
-
-UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 17 DE SEPTIEMBRE DE 2008.
-
-UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 1 DE DICIEMBRE DE 2008.
-
-UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 17 DE ABRIL DE 2009.
-
-UNICO.- La presente reforma al Estatuto deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE JUNIO DE 2009.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 13 DE JULIO DE 2009.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE SEPTIEMBRE DE 2009.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 27 DE NOVIEMBRE DE 2009.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE ENERO DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE MARZO DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE JUNIO DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE JULIO DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 14 DE OCTUBRE DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE DICIEMBRE DE 2010.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE MARZO DE 2011.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 31 DE MAYO DE 2011.
-
-PRIMERO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-SEGUNDO.- Una vez que entre en vigor la presente reforma al Estatuto Orgánico y mientras se ajusta la normatividad interna de la Financiera Rural, todas las referencias que se hagan respecto al promotor de crédito rural, se entenderán realizadas al promotor de financiamiento rural.
-
-La presente reforma fue aprobada en la Quincuagésima Sesión Ordinaria, celebrada con fecha veintisiete de abril del año dos mil once, por el H. Consejo Directivo de la Financiera Rural, organismo descentralizado creado por decreto publicado en el Diario Oficial de la Federación el veintiséis de diciembre del año dos mil dos.
-
-D.O.F. 18 DE OCTUBRE DE 2011.
-
-UNICO.- El H. Consejo Directivo de Financiera Rural, con fundamento en los artículos 33, fracciones I y XXVIII de la Ley Orgánica de la Financiera Rural y 14, fracciones I y XXVIII del Estatuto Orgánico de la Financiera Rural, aprueba la modificación al referido Estatuto, en los términos del documento presentado. Las reformas al Estatuto Orgánico deberán publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 18 DE ENERO DE 2012.
-
-UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE MAYO DE 2012.
-
-PRIMERO (SIC).- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
