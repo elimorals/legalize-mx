@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-792
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2012-10-01"
+last_updated: "2012-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DEL 5 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 31 de enero de 2011.
 
@@ -1132,3 +1134,17 @@ P.O. 1 DE OCTUBRE DE 2012.
 PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO. Cuando en otros ordenamientos jurídicos o administrativos se haga referencia o confieran atribuciones a las unidades que por virtud de este Decreto cambian de denominación, se entenderán realizadas o conferidas a las unidades con nueva denominación.
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+PRIMERA. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el
+
+Periódico Oficial "Tierra y Libertad" número 4867, de fecha 31 de enero de 2011, así como se derogan todas las disposiciones administrativas que se opongan al presente Reglamento de igual o menor rango jerárquico normativo.
+
+TERCERA. Se abroga el Acuerdo que crea un Órgano de Coordinación Interinstitucional del Poder Ejecutivo del Estado de Morelos, denominado Consejo Consultivo de Asesores, publicado en el Periódico Oficial "Tierra y Libertad" número 4297, de fecha 17 de diciembre de 2003.
+
+CUARTA. Los Manuales de las Unidades Administrativas de la Secretaría de Gobierno deberán actualizarse en un plazo máximo de noventa días hábiles contados a partir de la publicación del presente Reglamento.
+
+QUINTA. Las atribuciones a que se refieren las fracciones XIX, XX y XXI del artículo 6 del presente Reglamento, iniciarán su vigencia el día 1 de enero del año 2013.
