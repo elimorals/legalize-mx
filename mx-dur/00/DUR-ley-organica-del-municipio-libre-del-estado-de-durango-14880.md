@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2012-05-27"
+last_updated: "2012-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -525,7 +525,11 @@ XX. Auxiliar a las autoridades competentes en la aplicación y cumplimiento de l
 
 XXI. Previa autorización del ayuntamiento, firmar en unión del secretario, las iniciativas de ley o decreto;
 
-XXII. Solicitar autorización del ayuntamiento para ausentarse del Municipio por más de 10 días y hasta por 15; si la ausencia no excede de 10 días, sólo requerirá avisar de ello a los miembros del ayuntamiento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XXII. Solicitar autorización del ayuntamiento para ausentarse del Municipio por más de 10 días y hasta por 15; si la ausencia no excede de 10 días, sólo requerirá avisar formalmente de ello a los miembros del ayuntamiento en la sesión de Cabildo previo a su ausencia.
+
+El Presidente Municipal que se ausente del territorio del Estado o del País, enviará al Ayuntamiento, a más tardar en la segunda sesión a su regreso, un informe de las actividades realizadas durante su ausencia.
 
 XXIII. Vigilar que el ayuntamiento cumpla con las disposiciones que señala la Ley, y con los planes y programas establecidos; y
 
@@ -2138,3 +2142,13 @@ P.O. 27 DE MAYO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas la disposiciones legales que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
