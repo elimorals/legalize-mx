@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2012-07-31"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1209,7 +1209,7 @@ XIX. Las demás que le señalen las leyes y reglamentos municipales.
 
 ###### ARTICULO 79.
 
-Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
+Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento, conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -1239,29 +1239,45 @@ II. Asumir bajo su estricta responsabilidad lo relativo a las erogaciones que re
 
 III. Determinar, liquidar y recaudar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos que correspondan al Municipio conforme a la respectiva ley de ingresos municipal y demás leyes fiscales; así como administrar las participaciones y transferencias en contribuciones federales y estatales;
 
-IV. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-V. Tener al corriente el padrón fiscal municipal, así como ordenar y practicar visitas de auditoría conforme a derecho, a los obligados en materia de contribuciones hacendarias municipales;
+IV. Resguardar los ingresos que en efectivo recaude por los conceptos enunciados en la fracción anterior que correspondan al municipio, en términos de la ley de ingresos respectiva, y realizar el depósito bancario de los mismos al día hábil siguiente de su recaudación; se exceptúa de esta obligación al ayuntamiento que no cuente en su municipio con institución bancaria, en cuyo caso, el depósito lo deberá efectuar a más tardar el tercer día hábil siguiente al de su recepción;
 
-VI. Ejercer la facultad económico-coactiva para hacer efectivo el pago de las contribuciones cuyo cobro le corresponda al Municipio;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-VII. Llevar la contabilidad del Municipio;
+V. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-VIII. Formular mensualmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el propio Cabildo, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del Ayuntamiento;
+VI. Tener al corriente el padrón fiscal municipal, así como ordenar y practicar visitas de auditoría conforme a derecho, a los obligados en materia de contribuciones hacendarias municipales;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-IX. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen de acuerdo con los programas aprobados por el Cabildo, exigiendo que los comprobantes respectivos estén avisados por el Presidente Municipal, el Secretario del Ayuntamiento y el Presidente de la Comisión de Hacienda;
+VII. Ejercer la facultad para hacer efectivo el pago de las contribuciones cuyo cobro le corresponda al municipio;
 
-X. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+VIII. Llevar la contabilidad del municipio;
 
-XI. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-XII. Las demás que le señalen las leyes y reglamentos municipales.
+IX. Formular mensualmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+X. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen de acuerdo con los programas aprobados por el ayuntamiento, exigiendo que los comprobantes respectivos estén visados por el presidente municipal, el secretario del ayuntamiento, y el presidente de la Comisión de Hacienda;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XI. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal, y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la constitución Política del Estado, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XIII. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO VI. De la Oficialía Mayor
 
@@ -2434,3 +2450,9 @@ P.O. 31 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
