@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-08-25"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1439,7 +1439,9 @@ En los vehículos destinados al servicio de transporte público y los servicios 
 
 ###### ARTICULO 101.
 
-No se autorizará en los vehículos destinados al servicio de transporte público y en los servicios auxiliares del mismo, ningún tipo de publicidad o propaganda relacionada con partidos políticos o candidatos en procesos electorales, así como con bebidas alcohólicas, tabaco o establecimientos donde se expendan los mismos para consumo inmediato.
+No se autorizará en los vehículos destinados al servicio de transporte público, y en los servicios auxiliares del mismo, ningún tipo de publicidad o propaganda relacionada con partidos políticos, o candidatos en procesos electorales.
+
+También queda prohibido todo tipo de publicidad, o promoción de productos y sustancias que causen adicciones, o de los establecimientos donde se expendan las mismas para su consumo inmediato.
 
 ###### ARTICULO 102.
 
@@ -2034,3 +2036,9 @@ SEGUNDO. La Secretaría de Comunicaciones y Transportes tendrá sesenta días pa
 TERCERO. Los prestadores del servicio de transporte escolar tendrán un año a partir de la entrada vigor (sic) del presente Decreto, para llevar a cabo el cambio de unidades.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
