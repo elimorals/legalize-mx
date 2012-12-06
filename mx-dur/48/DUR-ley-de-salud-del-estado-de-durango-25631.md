@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2012-08-30"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE SALUD DEL ESTADO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 310, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2012, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2013.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -244,6 +244,10 @@ LIX. Cuarentena: La limitación a la libertad de tránsito de personas sanas que
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2008)</small>
 
 LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+LXI.- Bebidas energizantes: Bebidas no alcohólicas que son elaboradas por la disolución en agua para consumo humano, con una adición de cafeína de 15 mg y hasta 33 mg de cafeína por 100 ml de producto, taurina o glucoronolactona y/o cualquier otra sustancia que produzca efectos estimulantes similares.
 
 ###### ARTÍCULO 4.
 
@@ -1578,6 +1582,14 @@ VIII. Los planteles de educación básica y media superior o equivalente contar�
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2011)</small>
 
 La Secretaría y el Organismo, en coordinación con las dependencias del sector educativo estatal y federal y los Gobiernos Municipales garantizarán el cumplimiento de lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+IX. Llevar a cabo campañas de información acerca de los riesgos del consumo de bebidas energizantes solas o mezcladas con bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+X. Promover con las autoridades correspondientes la prohibición de venta de bebidas energizantes a menores de edad.
 
 ### CAPÍTULO VI. SALUD OCUPACIONAL
 
@@ -3364,3 +3376,13 @@ El presente decreto entrará en vigor el día 1 de febrero del año 2013, a efec
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
