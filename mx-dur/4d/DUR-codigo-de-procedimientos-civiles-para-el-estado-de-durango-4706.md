@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2011-04-07"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -5787,13 +5787,25 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPITULO VIII.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-De la tramitación por notarios.
+### CAPITULO VIII. Tramitación extrajudicial ante notario público
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 861.
 
-Cuando todos los herederos fueren mayores de edad y hubieren sido constituidos en un testamento público, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna, con arreglo a lo que se establece en los artículos siguientes.
+Cuando todos los herederos o legatarios sean mayores de edad, con pleno ejercicio de sus derechos civiles conforme a la Ley y hayan sido instituidos en testamento público abierto, o bien, en testamento público cerrado o en testamento privado, si estos fueron debidamente protocolizados por disposición judicial, y siempre y cuando no haya controversia alguna entre los interesados, podrán ocurrir ante un notario del lugar a que se refiere el artículo 156, fracción V, de este Código, solicitando la apertura del procedimiento sucesorio testamentario extrajudicial, en cuyo caso se observarán las reglas siguientes:
+
+I. Todos los herederos o legatarios instituidos comparecerán ante el notario público, exhibiendo la partida o acta de defunción del autor de la herencia y el testimonio del testamento o de su protocolización, declarando que están conformes con la disposición testamentaria, que aceptan la herencia o el legado y que se reconocen recíprocamente sus derechos hereditarios. El albacea designado por el testador o por los herederos, según sea el caso, quien también deberá estar presente, aceptará el cargo, protestará desempeñarlo fiel y legalmente, caucionará su manejo, conforme a las bases acordadas con los herederos, si no está exento de ello y manifestará que va a proceder a formar el inventario de los bienes de la herencia. Para constancia de lo anterior, el notario público levantará acta circunstanciada fuera de protocolo, que deberán firmar todos los comparecientes y en la cual fijará día y hora para que tenga lugar la junta de herederos.
+
+II. El notario público dará a conocer los hechos a que se refiere la fracción que antecede, por medio de dos publicaciones, que se harán de diez en diez días en un periódico de los de mayor circulación en el lugar donde se tramita la testamentaría. En el texto del aviso se consignará el hecho de haberse promovido el procedimiento sucesorio testamentario extrajudicial; la fecha de su iniciación; el nombre y apellido de los herederos o legatarios instituidos; el nombre, el apellido y el domicilio del albacea; el nombre y apellido del notario, con expresión del número y el Distrito de la notaría a su cargo, y el domicilio de su despacho. A criterio del notario público los avisos podrán contener más elementos que los anteriores, y ser publicados con mayor difusión.
+
+III. El notario público solicitará en su caso la búsqueda del testamento exhibido a la Dirección General de Notarías y a la Dirección del Registro Público de la Propiedad del Estado de Durango, quien solicitará además vía electrónica su búsqueda en el Registro Nacional de Avisos de Testamentos, y toda la información necesaria para verificar si el que exhibieron ante él los interesados, es el último testamento otorgado por el autor de la herencia. Conforme a su criterio, el notario público podrá recabar información en otras entidades federativas, así como de otros notarios públicos de la entidad.
+
+IV. El día y horas señalados para la junta de herederos a que se refiere la parte final de la fracción I del presente artículo, con la presencia del albacea designado, de los herederos y de los legatarios, si los hubiere se dará cuenta y se hará constar si se hicieron oportunamente las publicaciones, la contestación que el Registro Público y la Dirección de Notarías hayan hecho respecto de los informes solicitados, y, en su caso, la forma en que el albacea caucionó su manejo. Acto continuo, si de los documentos anteriores no resulta la existencia de testamento posterior al presentado; si los herederos y legatarios instituidos, confirmarán ante el notario público que son conformes con el testamento y que recíprocamente, se reconocen sus respectivos derechos, sin objeción alguna; el notario público levantará acta circunstanciada fuera de protocolo, que deberán firmar todos los comparecientes para debida constancia de lo anterior.
+
+El notario público procederá a protocolizar todo lo actuado, con lo que se dará por concluida la sección de sucesión de la testamentaria y dispondrá que el testimonio de la escritura de protocolización se mande inscribir en el Registro Público, si así lo dispone el Código Civil.
 
 ###### ARTICULO 862.
 
@@ -5803,17 +5815,41 @@ El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción d
 
 El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días en un periódico de los de mayor circulación en el Estado.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 863.
 
-Practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al notario para que lo protocolice.
+En tratándose de testamentarias, practicado el inventario y avalúo por el albacea y firmado de conformidad por él y todos los herederos, lo presentarán al notario público para que lo protocolice. Simultáneamente con el inventario se hará el avalúo. También se presentarán los títulos de propiedad de los bienes inventariados de contarse con ellos.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 864.
 
-Formado por el albacea con la aprobación de los herederos el proyecto de partición de herencia, lo exhibirán al notario, quien efectuará su protocolización. Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención.
+Formado por el albacea, con la aprobación de los herederos el proyecto de partición de la herencia, suscrito por todos, lo exhibirán al notario público, quien efectuará su protocolización, así como el instrumento de adjudicación, que deberá satisfacer los requisitos de los artículos 857 y 858 de este ordenamiento.
+
+Si se trata de bienes susceptibles de registro se expedirá testimonio para su inscripción en el Registro Público y se procederá a la entrega de los títulos que acrediten la propiedad o el derecho adjudicado. El albacea rendirá cuentas a los herederos, haciéndose constar en el acta respectiva el resultado de las mismas.
+
+Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario público suspenderá su intervención.
 
 ###### ARTICULO 865.
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 865 BIS 1.- Iniciado el procedimiento sucesorio ante un notario público, los interesados no podrán sustituirlo salvo que exista causa grave justificada calificada por la autoridad judicial.
+
+En caso de que haya oposición de algún aspirante a la herencia, o litigio entre los herederos, el notario público suspenderá de inmediato su tramitación y enviará testimonio de las actas que hubiere levantado a la autoridad judicial que corresponda.
+
+Si un mismo procedimiento sucesorio se promoviera por distintos herederos simultáneamente ante diferentes notarios públicos, no mediando acuerdo de partes para reducirlo a uno solo, se remitirán todos al juez competente para continuar un único procedimiento judicial.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 865 BIS 2.- Cuando se requieran medidas que sólo puedan cumplirse por mandato judicial, como entrega de fondos, colocación de sellos, apertura de cajas fuertes, etc., el pedimento se formulará al notario público quién, a su vez, se dirigirá al juez competente por escrito, solicitándole el decreto y cumplimiento de tales medidas.
+
+El juzgador podrá, antes de ordenarlas, disponer que se lleve a su vista el expediente extrajudicial, el que será devuelto al notario público una vez cumplidas las medidas.
+
+Si fuere menester rendir alguna información supletoria, los testigos declararán ante el notario público del procedimiento extrajudicial, quién redactará el acta de sus deposiciones con las formalidades establecidas en los artículos 356 de este Código y siguientes en cuanto fueren aplicables.
 
 ### CAPITULO IX.
 
@@ -6837,7 +6873,7 @@ Por tanto mando se imprima, publique, circule y se comunique a quienes correspon
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Victoria de Durango, Durango, a los trece días del mes de diciembre de mil novecientos cuarenta y siete.- JOSE RAMON VALDEZ.- El Secretario Gral. de Gobierno, Lic. FERNANDO ARENAS.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE ENERO DE 1971.
 
@@ -6909,7 +6945,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 3 DE MARZO DE 1988.
 
-(N. DE E. LAS PRESENTES REFORMAS, ADICIONES Y DEROGACIONES AL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE DURANGO, CONTENIDAS EN EL DECRETO No. 74, CONTINUARON SU PUBLICACION EN LAS FECHAS: 6, 10, 13, 17 Y 20 DE MARZO DE 1988).
+(N. DE E. LAS PRESENTES REFORMAS, ADICIONES Y DEROGACIONES AL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE DURANGO, CONTENIDAS EN EL DECRETO No. 74, CONTINUARON SU PUBLICACIÓN EN LAS FECHAS: 6, 10, 13, 17 Y 20 DE MARZO DE 1988).
 
 ###### ARTICULO PRIMERO.
 
@@ -6980,3 +7016,9 @@ P.O. 7 DE ABRIL DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
