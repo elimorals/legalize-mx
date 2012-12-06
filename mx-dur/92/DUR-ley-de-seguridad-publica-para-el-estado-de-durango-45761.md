@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2012-08-26"
+last_updated: "2012-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -826,6 +828,16 @@ Las policías municipales se conformarán por las corporaciones de carácter ope
 La Seguridad Penitenciaria, se conformará como la función de carácter operativo, dependiente de la Secretaría de Seguridad, de acuerdo a la estructura correspondiente, con la finalidad de asegurar la reclusión de las personas a disposición del Poder Judicial estatal o federal, en calidad de imputados o vinculados a proceso, así como de los sentenciados en cumplimiento de la pena de prisión. Asumen igualmente, el servicio público de seguridad en los centro de reinserción social del Estado, atendiendo la protección de la integridad de las personas que por cualquier motivo se encuentren en ellas.
 
 El Cuerpo de Policía asignado para el efecto, deberá apoyar la labor de la autoridad judicial en los procedimientos relativos a la justicia penal y la aplicación de medidas de seguridad que se determinen en el Código de la materia.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+(SIC) Cada establecimiento penitenciario contará con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social y de menores infractores.
+
+Dichos equipos serán operados por autoridades distintas a las de los establecimientos penitenciarios y de menores infractores en centros remotos, contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados por el Sistema Nacional de Seguridad Pública, con la colaboración de los concesionarios de redes públicas de telecomunicaciones.
+
+El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -3324,3 +3336,13 @@ SEGUNDO. A partir de la entrada en vigor del presente decreto, se conformará el
 TERCERO. Una vez instaurado el Consejo Directivo, este tendrá 30 días para la elaboración del reglamento interno del mismo.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
