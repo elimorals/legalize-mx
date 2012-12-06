@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-76222"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2010-07-22"
+last_updated: "2012-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -453,9 +453,75 @@ La Secretaría, con la participación de las distintas dependencias y entidades 
 
 Las instituciones, dependencias y entidades del sector público del Ejecutivo Estatal y de los Municipios promoverán entre sus trabajadores el turismo social.
 
-### CAPÍTULO IX. DEL TURISMO ACCESIBLE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO X. DE LA CULTURA TURÍSTICA
+### CAPÍTULO VIII BIS. DEL TURISMO ALTERNATIVO
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31 Bis.
+
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal y los particulares, fomentara y promoverá el desarrollo del turismo alternativo en las diferentes regiones de la Entidad, cuyas características sean apropiadas para ello.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31 Bis 1.
+
+Las modalidades del turismo alternativo son:
+
+I.- Ecoturismo: Modalidad especifica del turismo alternativo en el cual se privilegia la sustentabilidad, la preservación y la apreciación del medio ambiente (tanto natural y cultural) a través de acciones de educación y concientización a los visitantes sobre los elementos naturales, respetando las capacidades de carga de los ecosistemas y minimizando los impactos ambientales que la actividad turística genera;
+
+II.- Turismo de aventura: Modalidad especifica del turismo alternativo que tiene como finalidad ofrecer al turista una gama diversificada de actividades que implican cierto nivel de riesgo físico y que en su mayoría se desarrollan dentro de espacios naturales.
+
+III.- Turismo rural: Modalidad específica del turismo alternativo en los cuales el turista participa en actividades de la vida cotidiana de las comunidades agrarias, ejidales e indígenas, con fines culturales, educativos y recreativos, que le permiten conocer y participar en las tradiciones de las comunidades autóctonas.
+
+IV.- Turismo cultural: Es aquel que ofrece visitas guiadas a sitios históricos y arqueológicos en el Estado, con recorridos dirigidos por guías de turistas especializados e investigadores encargados del estudio y protección de dichos lugares;
+
+V.- Las demás que establezcan los reglamentos que deriven de la presente Ley.
+
+En todo lo no dispuesto en el presente Capítulo serán aplicables las disposiciones que las normas oficiales mexicanas establecen sobre la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31 Bis 2.
+
+Se reconocen como actividades del turismo alternativo las siguientes:
+
+a) Actividades aéreas;
+
+b) Actividades náuticas;
+
+c) Buceo;
+
+d) Cabalgatas;
+
+e) Cicloturismo;
+
+f) Escalada;
+
+g) Espeleísmo;
+
+h) Observación de la flora y la fauna;
+
+i) Safari fotográfico;
+
+j) Supervivencia; y
+
+k) Turismo en rodados doble tracción.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31 Bis 3.
+
+En el desarrollo de actividades relacionadas con el turismo alternativo, podrán participar, bajo la coordinación y asesoría de la Secretaría, las comunidades rurales, ejidos y pueblos indígenas con fines culturales, educativos y recreativos, con el objetivo de que el turista conozca los recursos y valores culturales, la forma de vida, manejo ambiental, usos, costumbres y aspectos de su historia y tradiciones, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la protección de los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31 Bis 4.
+
+Los prestadores de servicios turísticos alternativos podrán ser apoyados por la Secretaría en la gestión de las autorizaciones que se requieran ante las autoridades competentes para desarrollar sus diferentes modalidades.
+
+### CAPÍTULO IX. DEL TURISMO ACCESIBLE
 
 ###### Artículo 32.
 
@@ -467,7 +533,7 @@ De esta forma, la Secretaría integrará una estrategia de acciones que favorezc
 
 Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
 
-### CAPÍTULO XI. DE LOS RECURSOS PRIORITARIOS PARA EL DESARROLLO TURÍSTICO
+### CAPÍTULO X. DE LA CULTURA TURÍSTICA
 
 ###### Artículo 34.
 
@@ -481,7 +547,7 @@ Se promoverá además, la suscripción de convenios con Universidades e Instituc
 
 Las características, alcance y estrategias en esta materia, serán determinadas en el Reglamento de esta Ley.
 
-### CAPÍTULO XII. DE LAS ZONAS PRIORITARIAS PARA EL DESARROLLO TURÍSTICO
+### CAPÍTULO XI. DE LOS RECURSOS PRIORITARIOS PARA EL DESARROLLO TURÍSTICO
 
 ###### Artículo 36.
 
@@ -497,7 +563,7 @@ La Secretaría formulará los proyectos de declaratorias a que se refieren los A
 
 Para la formulación de la declaratoria de Recurso Prioritario para el Desarrollo Turístico que tenga incidencia en cualquier superficie o recurso natural, se atenderá en su caso, a los estudios y dictámenes que realicen las autoridades federales, estatales y municipales correspondientes.
 
-### CAPÍTULO XIII. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
+### CAPÍTULO XII. DE LAS ZONAS PRIORITARIAS PARA EL DESARROLLO TURÍSTICO
 
 ###### Artículo 39.
 
@@ -523,7 +589,7 @@ V. Garantizar el equilibrio del medio natural en la utilización de los servicio
 
 En las zonas prioritarias para el desarrollo turístico, se establecerán además, programas para la preservación y restauración de las zonas culturales con valor histórico, que por sus características históricas o artísticas, incentiven la demanda turística.
 
-### CAPÍTULO XIV. DE LAS COMUNIDADES DURANGUENSES EN EL EXTRANJERO
+### CAPÍTULO XIII. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
 ###### Artículo 42.
 
@@ -605,7 +671,7 @@ Dichas campañas tenderán a educar y fomentar entre los duranguenses una concie
 
 La Secretaría podrá asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones mediante campañas participativas.
 
-### CAPÍTULO XV. DE LA DIVERSIFICACIÓN DEL TURISMO
+### CAPÍTULO XIV. DE LAS COMUNIDADES DURANGUENSES EN EL EXTRANJERO
 
 ###### Artículo 51.
 
@@ -617,7 +683,7 @@ Las estrategias y lineamientos generales deberán sujetarse a lo establecido en 
 
 A efecto de que las comunidades duranguenses en el extranjero puedan promocionar el turismo en la Entidad o simplificar su acceso a los servicios y la oferta turística duranguense, la Secretaría facilitará la información disponible sobre las actividades del sector turístico, así como los derechos y obligaciones del turista y de las dependencias del sector público.
 
-### CAPÍTULO XVI. DE LA CINEMATOGRAFÍA TELEVISIVA Y AUDIOVISUAL
+### CAPÍTULO XV. DE LA DIVERSIFICACIÓN DEL TURISMO
 
 ###### Artículo 53.
 
@@ -629,7 +695,7 @@ La Secretaría, en coordinación con los Municipios y la Secretaría Federal, re
 
 Para el logro de los fines antes mencionados, la Secretaría deberá analizar las potencialidades y vocación turística de las regiones y destinos en el estado, a fin de identificar las ventajas comparativas y mercados potenciales, con el propósito de definir los productos y segmentos en que Durango sea más competitivo, considerando en particular los señalados en el artículo 49 de esta Ley. Las estrategias y directrices deberán sujetarse a los lineamientos definidos en el Reglamento de la Ley.
 
-### CAPÍTULO XVII. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
+### CAPÍTULO XVI. DE LA CINEMATOGRAFÍA TELEVISIVA Y AUDIOVISUAL
 
 ###### Artículo 55.
 
@@ -667,7 +733,7 @@ La Filmoteca Estatal "John Wayne", estará a cargo del Instituto de Cultura del 
 
 Toda producción cinematográfica, televisiva o audiovisual, realizada en el Estado, debe dar crédito al mismo, para que la difusión de nuestra entidad se de de manera constante.
 
-### CAPÍTULO XVIII. DE LOS SERVICIOS TURÍSTICOS Y DE LA PROTECCIÓN AL TURISTA
+### CAPÍTULO XVII. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
 
 ###### Artículo 64.
 
@@ -709,7 +775,7 @@ La inscripción se realizará por escrito o por los medios que la propia Secreta
 
 La información contenida en el Registro será turnada a la Secretaría Federal, para mantener actualizado el Registro Nacional de Turismo
 
-### CAPÍTULO XIX. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO XVIII. DE LOS SERVICIOS TURÍSTICOS Y DE LA PROTECCIÓN AL TURISTA
 
 ###### Artículo 70.
 
@@ -777,9 +843,15 @@ XII. Inscribirse en el Registro Nacional y Estatal de Turismo y actualizar los d
 
 XIII. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a personas con discapacidad;
 
-XIV. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; y
+XIV. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; y (sic)
 
-XV. Las demás que establezca la legislación aplicable en la materia.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XV. Establecer medidas de seguridad tendientes a la protección de los turistas, y de sus pertenencias, así como contratar los seguros que se requieran de acuerdo a la naturaleza del servicio que presten; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+XVI. Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 75.
 
@@ -853,7 +925,7 @@ A fin de proporcionar la información y orientación al turista, se promoverá l
 
 Con el propósito de proteger la salud y seguridad en las zonas turísticas, se coordinarán acciones con las correspondientes autoridades estatales y municipales. Aquellos Municipios considerados como de alto grado de desarrollo turístico, dispondrán obligatoriamente de servicios de primeros auxilios en la medida que la demanda turística lo requiera.
 
-### CAPITULO XX. REGISTROS Y PERMISOS
+### CAPÍTULO XIX. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 84.
 
@@ -889,7 +961,7 @@ La Secretaría, con el objeto de elevar la calidad de los servicios turísticos,
 
 La Secretaría promoverá la celebración de convenios de coordinación y colaboración con las diversas instituciones educativas del Estado, con el objeto de que los alumnos de las mismas, presenten su servicio social en esta Dependencia.
 
-### CAPITULO XXI. FACULTADES DE LA SECRETARÍA EN MATERIA DE VERIFICACIONES Y SANCIONES
+### CAPITULO XX. REGISTROS Y PERMISOS
 
 ###### Artículo 88.
 
@@ -948,6 +1020,8 @@ II. Contar con programas de manejo del desarrollo, mismos que deberán contener,
 III. Presentar informes periódicos avalados por el responsable técnico de la ejecución del desarrollo, así como de los programas de manejo del proyecto respectivo; dicho informe no podrá ser menor de un año, salvo en los casos de contingencias, dicha obligación se establecerá en la autorización correspondiente para la prestación de servicios respectivos; y
 
 IV. Realizar funciones de guardias ecológicas en las regiones donde presten su servicio, por lo que estarán obligados a denunciar toda infracción a las disposiciones de la presente Ley, sus reglamentos o las disposiciones jurídicas aplicables, así como todo acto que afecte o pudiera afectar el ambiente o los ecosistemas de la región.
+
+### CAPITULO XXI. FACULTADES DE LA SECRETARÍA EN MATERIA DE VERIFICACIONES Y SANCIONES
 
 #### SECCIÓN I. DE LAS VERIFICACIONES
 
@@ -1088,3 +1162,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
