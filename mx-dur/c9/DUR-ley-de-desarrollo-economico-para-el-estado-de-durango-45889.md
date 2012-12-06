@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-economico-para-el-estado-de-durango-45889"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-31"
-last_updated: "2010-04-01"
+last_updated: "2012-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
 
-LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
+LEY DE DESARROLLO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de julio de 2005.
 
@@ -84,6 +84,12 @@ VI. Sistema de Apertura: El Sistema Duranguense de Apertura Rápida de Empresas;
 VII. Fondo de Fomento Económico: Es el conjunto de asignaciones presupuestales establecidas en la Ley de Egresos del Gobierno del Estado, para el ejercicio fiscal correspondiente, aprobado por el Congreso del Estado, que por sí o a través de mezcla con recursos federales o municipales se destina al desarrollo económico de la entidad, de la competitividad y productividad empresarial;
 
 VIII. Empresa: La persona física o moral, nacional o extrajera que desarrolla una actividad económica conforme a lo dispuesto en la Clasificación Mexicana de Actividades y Productos por sí sola o aliada en cualquier forma de asociación empresarial;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+VIII bis. Empresa Socialmente Responsable: La persona física o moral, de acuerdo a lo establecido por la fracción VIII del presente artículo que asume el compromiso consiente (sic) y congruente de cumplir integralmente con la finalidad de la empresa, tanto en lo interno como en lo externo, considerando las expectativas económicas, sociales y ambientales de todos sus participantes, demostrando respeto por la gente, los valores éticos, la comunidad y el medio ambiente, contribuyendo así a la construcción del bien común y que cuenta con la (sic) dictamen emitida por la Secretaría;
 
 IX. Adultos Mayores: Son las personas que con este carácter determine la Ley de la materia;
 
@@ -233,9 +239,13 @@ Cada Consejo Municipal de Desarrollo Económico, designará a una persona para q
 
 El Gobernador del Estado, por conducto de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría, establecerá un sistema de incentivos orientado a facilitar el desarrollo de las actividades económicas, en los términos que dispongan la presente Ley y demás ordenamientos aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-Los Ayuntamientos, podrán establecer sistemas de incentivos que cumplan con los objetivos de este ordenamiento, en las iniciativas de leyes de ingresos que envíen a la consideración del Congreso del Estado, en el presupuesto de egresos respectivo, en los reglamentos, circulares y demás disposiciones administrativas de carácter general aplicables dentro de sus respectivas jurisdicciones.
+Los Ayuntamientos, deberán establecer sistemas de incentivos que cumplan con los objetivos de este ordenamiento, en las iniciativas de leyes de ingresos que envíen a la consideración del Congreso del Estado, en el presupuesto de egresos respectivo, en los reglamentos circulares y demás disposiciones administrativas de carácter general aplicables dentro de sus respectivas jurisdicciones.
 
 ###### Artículo 12.
 
@@ -253,7 +263,7 @@ IV. Servicios de apoyo y gestoría institucional.
 
 El Gobierno del Estado adquirirá productos elaborados en el propio Estado, de conformidad con las disposiciones aplicables, con igualdad de circunstancias de calidad y precio, con respecto a los productos foráneos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
@@ -321,6 +331,12 @@ i) Derechos por disposición de residuos sólidos.
 
 Las autoridades municipales otorgarán los incentivos a que se refiere la presente fracción, de conformidad con el sistema de incentivos y los procedimientos que se establezcan en las leyes de ingresos municipales o en los reglamentos respectivos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+Además de los incentivos fiscales establecidos en el presente capitulo, las autoridades podrán otorgaran (sic) a las Empresas Socialmente Responsables un 2.5%, adicional a los incentivos otorgados conforme a la presente Ley, de acuerdo a la reglamentación correspondiente y previa obtención de dictamen emitido por la Secretaría.
+
 ###### Artículo 14.
 
 El Gobernador del Estado incluirá las disposiciones, conceptos y partidas presupuestales destinadas al otorgamiento de subsidios para el fomento de la actividad económica, en la iniciativa de Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal correspondiente que envíe anualmente al Congreso del Estado.
@@ -343,7 +359,11 @@ VI. Inviertan en la formación y capacitación especializada de técnicos y prof
 
 VII. Operen bajo esquemas de mejora continua orientados a elevar su productividad y competitividad y alcancen su certificación ante organismos acreditados;
 
-VIII. Contribuyan a la protección del medio ambiente conforme a principios de sustentabilidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+VIII. Las empresas debidamente reconocidas por la Secretaria como socialmente responsables que estimulen y fomenten las inversiones en el Estado mediante el respeto a la dignidad de las personas, los calores éticos, la comunidad y el medio ambiente, en apego a la normatividad vigente;
 
 IX. Incrementen sus exportaciones;
 
@@ -351,7 +371,7 @@ X. Empleen, de manera preferente, personas con discapacidad, adultos mayores o m
 
 XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza estratégica empresarial, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 16.
 
@@ -425,7 +445,7 @@ El derecho a recibir el subsidio único a que se refiere el presente artículo, 
 
 En caso de que la empresa declare falsamente o no cumpla con los requisitos establecidos en el presente artículo respecto del tiempo en que se encuentren laborando las personas con discapacidad o adultos mayores, estarán obligados a la devolución de las cantidades recibidas con motivo del subsidio y a pagar las cantidades correspondientes a los beneficios descritos en los articules 16 y 16 bis, más los accesorios correspondientes de acuerdo con lo establecido por el Código Fiscal del Estado. En su caso, la devolución de la cantidad correspondiente, deberá enterarse en las cajas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### Artículo 17.
 
@@ -653,7 +673,7 @@ Para dar continuidad a la Mejora Regulatoria, la Secretaría integrará y operar
 
 El Programa fortalecerá e impulsará en forma permanente acciones para disminuir los tiempos y costos relativos a los trámites para el establecimiento y operación de las empresas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VII. DEL FOMENTO A LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE PRODUCTOS DURANGUENSES
 
@@ -687,33 +707,33 @@ Las empresas promoverán en sus anaqueles los productos procesados en Durango, e
 
 Dependiendo del nivel de promoción de productos duranguenses, dentro y fuera del Estado, el Ejecutivo Estatal, a través de su sistema de incentivos, otorgará apoyos adicionales a las empresas que operen desde Durango.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO VII], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO VII], P.O. 24 DE DICIEMBRE DE 2009)
 
 ### CAPÍTULO VIII. DE LAS VERIFICACIONES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 37], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 42.
 
 La Secretaría podrá llevar a cabo visitas de verificación a la empresa con el objeto de revisar la información y documentación, así como constatar el cumplimiento de los compromisos que dieron origen al otorgamiento de los incentivos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 38], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 43.
 
 Las visitas de verificación, a que se refiere el artículo anterior, se deberán ajustar al procedimiento previsto para tal efecto en el Código de Justicia Administrativa para el Estado de Durango.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 39], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 44.
 
 Los beneficiarios del sistema de incentivos que así lo consideren podrán solicitar por escrito a la Secretaría la ampliación de los plazos para la ampliación de los compromisos pactados. El solicitante podrá gozar de la ampliación de los plazos por una sola ocasión.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO VIII], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO VIII], P.O. 24 DE DICIEMBRE DE 2009)
 
 ### CAPÍTULO IX. DE LAS INFRACCIONES Y SANCIONES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 40], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 45.
 
@@ -727,7 +747,7 @@ III. Aprovechar los incentivos señalados en esta Ley para fines distintos a los
 
 IV. Ceder los beneficios concedidos en la resolución emitida por la Secretaría.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 41], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 46.
 
@@ -741,7 +761,7 @@ III. Los daños que se hubieran producido a la hacienda pública estatal; y
 
 IV. La reincidencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 42], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 47.
 
@@ -757,7 +777,7 @@ IV. Reparación del daño causado a la hacienda pública estatal. En caso de que
 
 Las sanciones establecidas en esta Ley se aplicarán sin perjuicio de las establecidas por otros ordenamientos legales.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 43], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 48.
 
@@ -769,11 +789,11 @@ La resolución deberá notificarse al infractor y para ejecutarse se podrá hace
 
 Serán aplicables supletoriamente al procedimiento contenido en el presente artículo, en todo lo que no se opongan, las disposiciones del Título Cuarto del Código de Justicia Administrativa para el Estado de Durango.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO IX], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO IX], P.O. 24 DE DICIEMBRE DE 2009)
 
 ### CAPÍTULO X. DE LOS MEDIOS DE DEFENSA
 
-(REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 44], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 49.
 
@@ -781,13 +801,13 @@ Contra de los actos y resoluciones de la Secretaría y de la Secretaría de Fina
 
 La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado de Durango.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 45], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 50.
 
 La tramitación y resolución del recurso de inconformidad se hará con apego a lo establecido en el Título Quinto, secciones Segunda y Tercera del Código de Justicia Administrativa para el Estado de Durango.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 46], P.O. 24 DE DICIEMBRE DE 2009)
 
 ###### Artículo 51.
 
@@ -875,7 +895,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE DICIEMBRE DE 2009.
 
@@ -896,3 +916,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 01 de enero de 2013. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Gobernador del Estado, por conducto de la Secretaria contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente decreto para hace (sic) las adecuaciones pertinentes al reglamento de la Ley de Desarrollo Económico para el Estado de Durango.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
