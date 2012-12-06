@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-10-20"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1701,7 +1701,9 @@ ART. 407.- La valorización de las pruebas se hará de acuerdo con el presente C
 
 ### CAPITULO VI. De los Alegatos y Citación para Sentencia
 
-ART. 408.- Concluída la recepción de las pruebas ofrecidas, el juez mandará poner los autos a la vista de las partes, por su orden, primero el actor y después al demandado, por el término de diez días a cada uno, para que aleguen de buena prueba.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+ART. 408.- Concluida la recepción de las pruebas ofrecidas, el juez mandará poner los autos a la vista de las partes, por el término de cinco días comunes, para que produzcan sus alegatos.
 
 ART. 409.- Presentados o no los alegatos, una vez transcurrido el término concedido para alegar, el juez dictará auto de citación para sentencia.
 
@@ -5290,3 +5292,9 @@ P.O. 20 DE OCTUBRE DE 2012.
 PRIMERO. El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
