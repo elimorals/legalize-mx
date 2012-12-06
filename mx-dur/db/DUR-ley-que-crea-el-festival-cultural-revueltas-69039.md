@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-festival-cultural-revueltas-69039"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2009-06-07"
+last_updated: "2012-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL FESTIVAL CULTURAL REVUELTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -85,7 +85,9 @@ Para los efectos de la fracción tercera de este artículo, puede considerarse c
 
 La programación de actividades del Festival, deberá realizarse en el mayor número de municipios posibles, para lo que se deberán establecer los convenios específicos de colaboración con cada uno de los Ayuntamientos que acepte participar.
 
-Independientemente de la participación de los Ayuntamientos, el Festival se realizará mínimamente en las ciudades de Durango, Santiago Papasquiaro, y Lerdo.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
+Independientemente de la participación de los Ayuntamientos, el Festival se realizará mínimamente en las ciudades de Durango, Santiago Papasquiaro, Lerdo y Gómez Palacio.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL ORGANISMO PÚBLICO DESCONCENTRADO DENOMINADO FESTIVAL CULTURAL REVUELTAS
 
@@ -204,3 +206,19 @@ C. P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
