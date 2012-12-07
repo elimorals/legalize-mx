@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2012-08-13"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -453,7 +453,7 @@ Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro C
 
 Si el nacimiento ocurriere en un establecimiento de reclusión o de Readaptación Social, el Oficial del Registro Civil deberá asentar como domicilio del nacido, el nombre de la población del Estado que corresponda.
 
-En los casos de los artículos 73 y 89 de este Código, el Oficial del Registro Civil pondrá el apellido paterno de los progenitores o el apellido del que lo reconozca, en la forma que se establece en el primer párrafo de este artículo.
+En los casos de los artículos 73 y 89 de este Código, el Oficial del Registro Civil pondrá el apellido paterno de los progenitores o el apellido del que lo reconozca, en la forma que se establece en el segundo párrafo de este artículo.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -1249,7 +1249,7 @@ El menor que con arreglo a la ley pueda contraer matrimonio, puede también otor
 
 Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### Art. 194.
 
@@ -1819,7 +1819,7 @@ XX.- La separación de los cónyuges por más de dos años, independientemente d
 
 XXI.- Las conductas de violencia familiar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -2551,7 +2551,7 @@ De los efectos de la patria potestad respecto de los bienes del hijo.
 
 De la Adopción en General.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2000)</small>
 
 ###### Art. 406.
 
@@ -2741,7 +2741,7 @@ Art. 419 bis.- La adopción simple podrá convertirse en plena siempre que se cu
 
 La adopción simple producirá sus efectos aunque sobrevengan hijos al adoptante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2000)</small>
 
 ###### Art. 421.
 
@@ -3663,7 +3663,7 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente, a n
 
 ###### Art. 534.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquélla.
+Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquella.
 
 ###### Art. 535.
 
@@ -4179,7 +4179,7 @@ El curador que no llene los deberes prescritos en el artículo precedente, será
 
 ###### Art. 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el (sic) curaduría.
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría (sic).
 
 ###### Art. 643.
 
@@ -7839,6 +7839,10 @@ Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario 
 
 Del testamento público abierto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 1380.
 
 Puede el testador substituir una o más personas al heredero o herederos instituidos, para el caso de que muera antes que él, o de que no puedan o no quieran aceptar la herencia.
@@ -8055,23 +8059,37 @@ Del testamento privado.
 
 ###### Art. 1419.
 
-Testamento público abierto, es el que se otorga ante Notario y tres testigos idóneos.
+El testamento público abierto, es el que se otorga ante el Notario, salvo lo dispuesto en el artículo siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Art. 1420.
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al Notario. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador y el Notario. En su caso, cuando así lo solicite o disponga el testador, podrá firmar el testigo y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Art. 1421.
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+En los casos previstos en los artículos 1422, 1424 y 1425 de este Código, así como cuando el testador o el notario lo soliciten, un testigo deberá concurrir al acto de otorgamiento y firmar el testamento. El testigo instrumental a que se refiere este artículo podrá intervenir, además, como testigo de conocimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Art. 1422.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más que firme a su ruego.
+Cuando el testador declare que no sabe o no puede firmar el testamento, un testigo firmará a ruego del testador y éste imprimirá su huella digital.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 1423.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Art. 1424.
 
@@ -8639,7 +8657,7 @@ A falta de todos los herederos llamados en los capítulos anteriores, sucederá 
 
 Si en la porción hereditaria que corresponda a la Hacienda Pública existen bienes raíces que no pueda adquirir el fisco conforme al artículo 27 de la Constitución Federal, se venderán en pública subasta, y el producto se aplicará de preferencia, a la Beneficencia o a la Instrucción Pública.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 1981)</small>
 
 ### CAPITULO III.
 
@@ -10287,7 +10305,7 @@ Si ambas cosas se perdieren por culpa del deudor, podrá el acreedor exigir el v
 
 Si ambas cosas se pierden sin culpa del deudor, se hará la distinción siguiente:
 
-I.- Si se hubiere hecho ya la elección o designación de la cosa, la pérdida será por cuenta del acreedor;
+I.- Si se hubiere hecho ya la elección o designación de la cosa, la pérdida será, por cuenta del acreedor;
 
 II.- Si la elección no se hubiere hecho, quedará el contrato sin efecto.
 
@@ -15089,7 +15107,7 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 2823.
 
@@ -15825,7 +15843,7 @@ Las cancelaciones se harán en la forma que fije el reglamento; pero deberán co
 
 Con respecto a la nulidad del Registro, por no haberse llenado los requisitos esenciales que exige la ley, y en lo referente a la rectificación de las inscripciones, por omisión o inexactitud en el asiento, se observará lo que disponga el reglamento respectivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### Art. 2931.
 
@@ -15995,11 +16013,11 @@ Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los trece días del mes de octubre del año de mil novecientos cuarenta y dos.- El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez.- El Secretario General de Gobierno Interino, Lic. Francisco Alvarez Barret.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 5 DE ENERO DE 1943.
 
-POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
+POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO.
 
 ###### ARTICULO UNICO.
 
@@ -16085,7 +16103,7 @@ P.O. 9 DE JUNIO DE 1999.
 
 Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+Segundo: Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al presente decreto.
 
 P.O. 25 DE JUNIO DE 1999.
 
@@ -16168,6 +16186,12 @@ SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de
 TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
