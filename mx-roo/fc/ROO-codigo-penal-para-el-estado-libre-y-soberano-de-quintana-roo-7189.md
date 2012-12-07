@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2012-12-05"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -963,6 +963,8 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
+P.O. 7 DE DICIEMBRE DE 2012.
+
 ###### ARTICULO 90.
 
 Al que prive de la vida a otro, encontrándose en estado de emoción violenta, motivado por alguna ofensa grave a sus sentimientos afectivos o al honor de sus padres, hijos, cónyuge o al suyo propio que las circunstancias hicieren excusables, se le impondrá de dos a ocho años de prisión.
@@ -1714,6 +1716,8 @@ BIS.- Si se comete el delito de abigeato sobre un ganado que por sus particulari
 TER.- Se sancionará con prisión de hasta una mitad más de la pena que corresponda, al servidor público que incurra en alguna de las conductas señaladas en el presente Capítulo, así como con la destitución e inhabilitación del cargo que ostente al momento de cometer el ilícito.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
+
+ARTICULO 149{QUATER.- A quien incurra en forma reincidente en las conductas tipificadas como delito en el presente Capítulo, la pena que le corresponda, se aumentará hasta en una mitad más.
 
 ###### ARTICULO 149
 
@@ -3045,11 +3049,15 @@ Al servidor público que por sí o por interpósita persona, utilizando la viole
 
 Para los efectos de este capítulo, se entiende por:
 
-I.- Funcionarios Electorales, quienes en los términos de la legislación estatal electoral, integren los órganos que cumplen funciones públicas electorales;
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, sus candidatos a puestos de elección estatal y los ciudadanos a quienes en el curso de los procesos electorales estatales, los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales; y
+I. Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, la de los documentos expedidos en el ejercicio de sus funciones por los Organismos Electorales.
+II. Funcionarios Electorales, quienes en los términos de la legislación estatal electoral, integren los órganos que cumplen funciones públicas electorales;
+
+III. Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, sus candidatos a puestos de elección estatal y los ciudadanos a quienes en el curso de los procesos electorales estatales, los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales; y
+
+IV. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, la de los documentos expedidos en el ejercicio de sus funciones por los Organismos Electorales.
 
 ###### ARTICULO 261.
 
@@ -3085,9 +3093,17 @@ IV.- No entregue o impida la entrega oportuna de documentos oficiales, sin media
 
 V.- En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en lugar donde los propios electores se encuentren formados;
 
-VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y
+VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y (sic)
 
 VII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Ejerza presión sobre los ciudadanos que compareciendo ante ellos para otorgar su respaldo a un aspirante a candidato independiente, lo induzcan a manifestarlo en uno u otro sentido, y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IX.- Revele, divulgue o utilice de manera indebida información relacionada con las manifestaciones de respaldo que la ciudadanía emita a favor de quienes pretendan registrarse como candidatos.
 
 ###### ARTICULO 265.
 
@@ -3101,9 +3117,17 @@ III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales de
 
 IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
 
-V.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+V.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o (sic)
 
 VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VII.- Ejerza presión sobre ciudadanos y los induzca a respaldar a otro para obtener su registro como candidato, u
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Obtenga y utilice a sabiendas fondos provenientes de actividades ilícitas para fines electorales.
 
 ###### ARTICULO 266.
 
@@ -3406,3 +3430,11 @@ T R A N SI T O R I O:
 P.O. 30 DE MAYO DE 2012.
 
 PRIMERO.- En el caso de las Averiguaciones Previas que deba iniciar la Procuraduría de Justicia del Estado, con motivo de la persecución del delito de feminicidio, antes de la vigencia del nuevo Código Procesal para el Estado Libre y Soberano de Quintana Roo, se aplicará la fracción I del Artículo 89 Ter, conforme al siguiente texto:
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
