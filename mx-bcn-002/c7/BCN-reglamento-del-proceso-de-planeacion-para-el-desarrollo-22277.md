@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-proceso-de-planeacion-para-el-desarrollo-22277"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-21"
-last_updated: "2001-09-21"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DEL PROCESO DE PLANEACION PARA EL DESARROLLO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DEL PROCESO DE PLANEACION PARA EL DESARROLLO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DEL PROCESO DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de septiembre de 2001.
 
@@ -107,7 +107,9 @@ III.- Subcomité Sectorial de Desarrollo Económico, que se integrará con las s
 
 a.- Desarrollo rural;
 
-b.- Fomento industrial, y
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+b.- Desarrollo Económico, y
 
 c.- Turismo.
 
@@ -117,9 +119,11 @@ a.- Cultura y recreación, y
 
 b.- Deporte.
 
-V.- Subcomité Sectorial de Asistencia Social, que se integrará con las siguientes comisiones
+V.- Subcomité Sectorial de Asistencia Social, que se integrará con las siguientes comisiones:
 
-a.- Población;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+a.- Desarrollo y Asistencia social;
 
 b.- Asistencia a personas con discapacidad, y
 
@@ -147,7 +151,9 @@ I.- Un coordinador, que será el titular de la dependencia o entidad de la admin
 
 II.- El Regidor coordinador de la comisión del Ayuntamiento a la que corresponda la supervisión de las funciones de las dependencias o entidades de la administración pública municipal, respecto de las que conozca preponderantemente la comisión de planeación;
 
-III.- Representantes de los siguientes sectores, cuyas funciones estén relacionadas con los temas que corresponda conocer a la comisión:
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+III.- Representantes de los siguientes sectores, cuya experiencia comprobada mínima sea de cinco años, cuyas funciones y actividades estén relacionadas con los temas que corresponda conocer a la comisión:
 
 a.- Dependencias y entidades de los gobiernos Federal, Estatal y Municipal;
 
@@ -161,7 +167,9 @@ e.- Instituciones públicas y privadas de educación media superior y superior, 
 
 f.- Instituciones, organizaciones y demás personas que el consejo directivo del Coplademm estime pertinentes.
 
-La conformación de cada comisión será de hasta veinticinco integrantes y deberá asegurarse un porcentaje de por lo menos del cuarenta por ciento de participación de representantes de los indicados en los incisos b al f de la fracción que antecede.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+La conformación de cada comisión será de hasta veinticinco integrantes y deberá asegurarse un porcentaje de por lo menos el cincuenta por ciento de participación de representantes de los indicados en los incisos b al f de la fracción que antecede.
 
 De estimarse conveniente que el número de integrantes de alguna comisión se amplíe, el consejo directivo del Coplademm tomará el acuerdo respectivo.
 
@@ -176,6 +184,10 @@ II.- Las dependencias y entidades de los gobiernos Federal y Estatal, serán inv
 III.- Durante el primer mes de cada gestión municipal, el consejo directivo del Coplademm emitirá una convocatoria, en los términos que éste especifique, dirigida a las instituciones, cámaras, colegios, clubes de servicio, asociaciones, agrupaciones empresariales y sociales, y ciudadanos en general, que no estén integrados en las comisiones, a efecto de que presenten solicitud para ser considerados dentro de las que sean de su interés.
 
 En el caso que así lo amerite, el consejo directivo del Coplademm, realizará invitaciones directas a las organizaciones, instituciones o personas que sean reconocidos por sus conocimientos y experiencia en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+Con independencia de la invitación directa que el consejo directivo pueda realizar a participantes ciudadanos, éste último renovará cada tres años a los integrantes ciudadanos de las comisiones, en los términos y condiciones que se especifiquen en la convocatoria que para los efectos emita el Comité Directivo del COPLADEMM y que se refiere la presente fracción. No pudiendo continuar más de dos periodos consecutivos los ciudadanos en general que señala la fracción III, quienes después de cumplidos estos, deberán esperar un periodo de tres años consecutivos para volver a participar como representante ciudadano.
 
 IV.- Recibidas las solicitudes, se turnarán a las comisiones que correspondan, quienes analizarán y resolverán sobre la inclusión de nuevos integrantes, atendiendo a la representatividad y experiencia de los solicitantes en la materia de la que se trate.
 
@@ -551,7 +563,13 @@ i.- El Director de Desarrollo Urbano y Ecología.
 
 j.- El titular de Desarrollo Social Municipal.
 
-k.- El titular del Consejo de Urbanización Municipal de Mexicali.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+k.- El titular del Consejo de Urbanización Municipal de Mexicali; y,
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+l.- El Director del Instituto Municipal de Investigación y Planeación Urbana.
 
 Los organismos a que se refieren las fracciones II y III anteriores serán invitados a integrarse a la Comisión por el coordinador de la misma, y en el caso de que desistieran su participación, el Consejo Directivo del Coplademm determinará a los que por sus fines equivalentes, se invitará a formar parte de la comisión.
 
@@ -714,3 +732,27 @@ En el caso de la Comisión de Seguimiento y Evaluación de la Obra Pública Muni
 ###### ARTÍCULO CUARTO.
 
 Para efectos de lo dispuesto en el artículo 35 del presente Reglamento, para la formulación de planes o proyectos estratégicos de largo plazo, se tomará como base el Plan de Desarrollo Estratégico Mexicali 2010, elaborado por el Coplademm durante la gestión del XV Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL.... ASÍ COMO AL REGLAMENTO DEL PROCESO DE PLANEACIÓN DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, EN SUS ARTÍCULOS 4 EN SUS FRACCIONES III, INCISO B Y V, INCISO A; 6, EN SU FRACCIÓN III Y SU PÁRRAFO TERCERO Y 7, EN SU FRACCIÓN III, ADICIONANDOSE LOS ARTÍCULOS TRANSITORIOS DE ACUERDOS DE REFORMA PRIMERO Y SEGUNDO.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor, a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días siguientes al de entrada en vigor de las presentes reformas, el COPLADEMM ajustará la integración de los subcomités y comisiones de acuerdo con lo previsto en el mismo.
+
+Los organismos e instituciones a que se refieren los incisos b al f de la fracción III del artículo 6 del presente Reglamento, que a la fecha estén integrados en las comisiones, continuarán formando parte de las mismas mientras así lo determinen, en el caso de los ciudadanos en general que menciona la fracción In (sic), deberán someterse a lo señalado en la convocatoria exprofeso publicada.
+
+ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 46 DEL REGLAMENTO DEL PROCESO DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA, EN SU FRACCIÓN V, INCISO "K" Y ADICIÓ N DEL INCISO "L".
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+PRIMERO.-...
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
