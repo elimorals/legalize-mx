@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-coordinacion-de-transportes-aereos-73
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-17"
-last_updated: "2010-02-17"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION DE TRANSPORTES AEREOS
 
-REGLAMENTO INTERIOR DE LA COORDINACION DE TRANSPORTES AEREOS
+REGLAMENTO INTERIOR DE LA COORDINACIÓN DE TRANSPORTES AÉREOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de febrero de 2010.
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Ejecutivo del Estado de Chiapas.
 
-Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 42 y 44 de la Constitución Política del Estado de Chiapas, 5°, 8°, 13 Y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, y;
+Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 42 y 44 de la Constitución Política del Estado de Chiapas, 5°, 8°, 13 y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, y;
 
 C o n s i d e r a n d o.
 
@@ -47,9 +47,11 @@ Las disposiciones del presente Reglamento, son de orden e interés público, y t
 
 El presente Reglamento, es de observancia obligatoria para los servidores públicos adscritos a la Coordinación de Transportes Aéreos.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 2°.
 
-La Coordinación de Transportes Aéreos, es un Órgano Administrativo Desconcentrado de La Oficina de la Gubernatura del Estado, adscrito a la Secretaría Particular del Gobernador, con plena autonomía técnica, administrativa, operativa, presupuestal y de ejecución para el adecuado desarrollo de sus anotaciones, en base a las facultades que le confieren su Decreto de Creación, el presente Reglamento y demás disposiciones legales aplicables dentro del ámbito de su competencia.
+La Coordinación de Transportes Aéreos es un Órgano Desconcentrado de la Secretaría de Transportes, con plena autonomía técnica, administrativa, operativa, presupuestal, y de ejecución, que tiene a su cargo el despacho de los asuntos que le confiere su Decreto de Creación, el presente Reglamento Interior y demás disposiciones legales aplicables dentro del ámbito de su competencia.
 
 ###### Artículo 3°.
 
@@ -59,27 +61,21 @@ La Coordinación de Transportes Aéreos, tiene como objeto fundamental, coordina
 
 La Coordinación de Transportes Aéreos, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, Federal, Estatal y Municipal, impulsarán los objetivos contemplados en el Plan de Desarrollo Chiapas Solidario 2007-2012, en congruencia con el Plan Nacional de Desarrollo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 5°.
 
-Para los efectos del presente Reglamento, se entenderá por:
+Para los efectos del presente Reglamento se entenderá por:
 
-I. Coordinación: A la Coordinación de Transportes Aéreos.
+I. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado.
 
-II. Coordinador: Al Titular de la Coordinación de Transportes Aéreos.
+II. Coordinación: A la Coordinación de Transportes Aéreos.
 
-III. Decreto: Al Decreto de Creación de la Coordinación de Transportes Aéreos.
+III. Coordinador: Al Titular de la Coordinación de Transportes Aéreos.
 
-IV. Oficina: A la Oficina de la Gubernatura del Estado.
+IV. Decreto de Creación: Al Decreto de Creación de la Coordinación de Transportes Aéreos.
 
 V. Órganos Administrativos: A los órganos que forman parte de la estructura orgánica de la Coordinación de Transportes Aéreos.
-
-VI. Reglamento: Al Reglamento Interior de la Coordinación de Transportes Aéreos.
-
-VII. Secretaría Particular: A la Secretaría Particular del Gobernador.
-
-VIII. Secretario Particular: Al Secretario Particular del Gobernador.
-
-IX. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 6°.
 
@@ -165,13 +161,21 @@ El Coordinador tendrá las atribuciones indelegables siguientes:
 
 I. Fijar las políticas y organización de la Coordinación, así como evaluar los programas en los términos de la legislación aplicable.
 
-II. Acordar los asuntos encomendados a la Coordinación que así lo ameriten, en conjunto con el Titular de la Secretaría Particular del Gobernador.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-III. Proponer al Titular de la Secretaría Particular del Gobernador, y en su caso suscribir contratos, convenios y toda clase de actos jurídicos que se relacionen directamente con los asuntos competencia de la Coordinación, que sean necesarios para el cumplimiento de su objeto.
+II. Acordar con el Titular del Ejecutivo, y en su caso con el titular de la Secretaría de Transportes, los asuntos encomendados a la Coordinación que así lo ameriten.
 
-IV. Proponer al Titular de la Secretaría Particular del Gobernador, los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones sobre los asuntos competencia de la Coordinación.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-V. Proponer al Titular de la Secretaría Particular del Gobernador, las políticas y acciones que requiera la instrumentación de los programas sectoriales a su cargo.
+III. Proponer al Titular del Ejecutivo, y en su caso suscribir contratos, convenios y toda clase de actos jurídicos que se relacionen directamente con los asuntos competencia de la Coordinación, que sean necesarios para el cumplimiento de su objeto.
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV. Proponer al Titular del Ejecutivo, los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones sobre los asuntos competencia de la Coordinación.
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V. Proponer al Titular del Ejecutivo, las políticas y acciones que requiera la instrumentación de los programas sectoriales a su cargo.
 
 VI. Autorizar la tramitación de transferencias, reducciones y ampliaciones de las partidas presupuestales asignadas a la Coordinación, ante la Dependencia normativa correspondiente.
 
@@ -293,7 +297,9 @@ c) Área de Recursos Materiales y Servicios Generales.
 
 El Titular de la Unidad de Apoyo Administrativo tendrá las atribuciones siguientes:
 
-I. Vigilar el cumplimiento de las leyes estatales en materia presupuestal y financiera, de recursos humanos y de recursos materiales, las políticas, lineamientos y procedimientos que establezca la Secretaría Particular del Gobernador; en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+I. Vigilar el cumplimiento de las leyes estatales en materia presupuestal y financiera, de recursos humanos y de recursos materiales, las políticas, lineamientos y procedimientos que establezca el Titular del Ejecutivo, en el ámbito de su competencia.
 
 II. Proponer al Coordinador el anteproyecto de Presupuesto Anual de Egresos, Programa Operativo Anual, la Cuenta de la Hacienda Pública y el Informe de Gobierno competencia de la Coordinación.
 
@@ -377,9 +383,11 @@ IV. Las demás que en el ámbito de su competencia le confieran las disposicione
 
 ### Capítulo Único. De las Ausencias y el Orden de Suplencias
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-El Coordinador, será suplido en sus ausencias por el servidor público que éste designe, previo acuerdo del Secretario Particular del Gobernador.
+El Coordinador será suplido en sus ausencias por el servidor público que éste designe, previo acuerdo del Titular del Ejecutivo.
 
 ###### Artículo 25.
 
@@ -408,3 +416,17 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de enero del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al contenido del mismo.
+
+Artículo Tercero. La Coordinación deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto. En tanto se actualizan los Manuales Administrativos respectivos, el Coordinador resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto. Conforme a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
