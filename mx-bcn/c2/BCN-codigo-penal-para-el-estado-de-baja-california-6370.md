@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-11-30"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "BCN"
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2012.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1235,9 +1237,7 @@ Homicidio calificado.- Se impondrá de veinte a cincuenta años de prisión al r
 
 ### CAPITULO III. FEMINICIDIO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012) (F. DE E., P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 127.
 
@@ -1257,13 +1257,15 @@ Parentesco no consanguíneo.- Al que dolosamente prive de la vida de su cónyuge
 
 ###### Artículo 129.
 
-Tipo y punibilidad.- Comete el delito de feminicidio la persona que dolosamente prive de la vida a una o varias mujeres por motivos o razones de género y se le impondrán de 20 a 50 años, además de una multa de hasta 500 días.
+Tipo y punibilidad.- Comete el delito de feminicidio la persona que dolosamente prive de la vida a una o varias mujeres por motivos o razones de género y se le impondrán de 20 a 50 años de prisión, además de una multa de hasta 500 días.
 
 Para los efectos del párrafo anterior, se consideran razones de género, cuando además de que se acredite la manifestación de expresiones de misoginia a (sic) desprecio al género femenino realizados por el sujeto activo:
 
 I.- Existan antecedentes de que el sujeto activo ejerció amenazas, acoso, tratos infamantes o cualquier forma de violencia en contra de la víctima; o
 
-II.- Al momento de la comisión del delito, el sujeto activo ejerció violencia sexual en contra la de (sic) víctima.
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+II.- Al momento de la comisión del delito, el sujeto activo ejerció violencia sexual en contra de la víctima.
 
 ###### Artículo 130.
 
