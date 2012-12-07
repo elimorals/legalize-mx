@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-del-servicio-de-18781"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-17"
-last_updated: "2005-05-27"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DEL SERVICIO DE CLASIFICACION DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DEL SERVICIO DE CLASIFICACION DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO PARA EL FUNCIONAMIENTO DEL SERVICIO DE CLASIFICACIÓN DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL SERVICIO DE CLASIFICACION DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 17 de noviembre de 2000.
 
@@ -60,7 +62,7 @@ Sin embargo, tratándose de huevo no clasificado se deberán cumplir con las dis
 
 A solicitud de la Comisión de Asistencia Técnica, Agropecuaria y Forestal del Estado de Baja California, la Secretaría de Fomento Agropecuario, previo cumplimiento de los requisitos previstos en el artículo 4 del presente Reglamento, podrá expedir la acreditación oficial como técnico clasificador de huevo para plato en el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 4o.
 
@@ -124,7 +126,7 @@ PEQUEÑO MENOS DE 45 MENOS DE 540
 
 GRAMOS GRAMOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 10.
 
@@ -236,7 +238,7 @@ Tratándose de huevo para plato no clasificado que se oferte al público consumi
 
 La Secretaría de Fomento Agropecuario tendrá la más amplía facultad para ordenar mediante oficio de comisión, las visitas de inspecciones a granjas, bodegas, distribuidores, tiendas y demás establecimientos fijos y semi-fijos que se dediquen a la comercialización de huevo para plato, práctica que ejecutará con el propietario, representante legal, comercializador, responsable, encargado u ocupante del ramo a que corresponda, para comprobar que se cumplan las disposiciones contenidas en el Acuerdo por el que se establecen las bases de la prestación del servicio de clasificación de huevo para plato en el Estado de Baja California, y las de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 21.
 
@@ -412,8 +414,14 @@ EL SECRETARIO DE FOMENTO AGROPECUARIO DEL ESTADO
 
 ING. GENARO LÓPEZ BOJÓRQUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE MAYO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento para el Funcionamiento del Servicio de Clasificación de Huevo para Plato en el Estado de Baja California publicado en el Periódico Oficial del Estado No. 50 de fecha 17 de noviembre de 2000.
