@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2012-10-26"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -571,6 +571,10 @@ En aquellos casos en que no se causen daños y perjuicios ni exista lucro, la in
 
 Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV y XVI del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+Así mismo será considerado como falta grave, en caso de los Titulares de los Órganos de Control no den seguimiento hasta su total terminación y/o en su caso aplicar la sanción que corresponda, a las observaciones que sean turnadas por el Congreso del Estado con motivo de la fiscalización superior de las cuentas públicas.
+
 ###### ARTÍCULO 61.
 
 Las sanciones se impondrán tomando en cuenta los siguientes elementos:
@@ -998,3 +1002,7 @@ P.O. 1 DE JUNIO DE 2012.
 P.O. 26 DE OCTUBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
