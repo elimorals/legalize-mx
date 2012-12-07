@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-44975"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-31"
-last_updated: "2006-09-08"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 31 de mayo de 2005.
 
@@ -67,7 +67,9 @@ c) Dirección General de Registros Públicos de la Propiedad y Notarías;
 
 d) Dirección General del Registro Civil;
 
-e) Dirección General de Seguridad en la Tenencia de la Tierra;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e) (DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 f) Dirección de Desarrollo del Transporte;
 
@@ -105,13 +107,13 @@ q) Dirección de Oficialías del Registro Civil;
 
 r) Coordinación de Gestión Administrativa y Operativa;
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-s) Dirección de Regularización de Asentamientos Humanos; y
+s) (DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-t) Dirección de Asuntos Agrarios.
+t) (DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 II.- Subsecretaría de Vinculación y Desarrollo Político:
 
@@ -319,9 +321,11 @@ II.- Dirección General de Servicios Sociales;
 
 III.- Dirección General de Registros Públicos de la Propiedad y Notarías;
 
-IV.- Dirección General del Registro Civil; y
+IV.- Dirección General del Registro Civil; y (sic)
 
-V.- Dirección General de Seguridad en la Tenencia de la Tierra.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 11.
 
@@ -337,9 +341,11 @@ III.- Organizar y controlar el funcionamiento del Registro Público de la Propie
 
 IV.- Llevar el control y vigilancia del ejercicio notarial de conformidad con las leyes que regulan la materia;
 
-V.- Organizar y controlar el Registro Civil; y
+V.- Organizar y controlar el Registro Civil; y (sic)
 
-VI.- Diseñar e implementar estrategias, programas y acciones para la regularización de la tenencia de la tierra, en coordinación con las dependencias federales, estatales y municipales que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE TRÁNSITO Y TRANSPORTE
 
@@ -799,67 +805,27 @@ XVI.- Las demás que le confiera el Director General.
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 30.
 
-La Dirección General de Seguridad en la Tenencia de la Tierra, deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes direcciones de área:
-
-I.- Dirección de Regularización de Asentamientos Humanos; y
-
-II.- Dirección de Asuntos Agrarios.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 31.
 
-La Dirección de Regularización de Asentamientos Humanos, tendrá las siguientes facultades:
-
-I.- Organizar y ejecutar acciones para la regularización de los asentamientos humanos en el Estado;
-
-II.- Detectar los asentamientos humanos irregulares en la Entidad, en coordinación con los municipios, y llevar el padrón de los mismos;
-
-III.- Promover y obtener de las autoridades municipales, los censos actualizados de los asentamientos humanos, los análisis socio-políticos respectivos, la documentación jurídica y la información técnica necesaria para integrar la propuesta de regularización;
-
-IV.- Solicitar a las dependencias y entidades del Poder Ejecutivo del Estado la información técnica y jurídica que se requiera para la integración de los expedientes de regularización de asentamientos humanos;
-
-V.- Coordinarse con las autoridades federales, estatales y municipales para la ejecución de las acciones de regularización de asentamientos humanos;
-
-VI.- Asesorar a las autoridades municipales en la conformación de las Comisiones Municipales de Regularización, para la integración de expedientes de asentamientos humanos susceptibles de ser regularizados y proporcionar el apoyo técnico que se requiera para ello;
-
-VII.- Apoyar a las diversas dependencias y entidades de los gobiernos federales, estatales y municipales en trámites expropiatorios en asuntos de su competencia, cuando así se lo requieran;
-
-VIII.- Proponer al Director General, el establecimiento de normas, criterios y métodos para la coordinación con las instituciones que participen en la regularización de la tenencia de la tierra;
-
-IX.- Coordinar y ejecutar las acciones que competan a la Secretaría, conforme a los convenios que se celebren para el desarrollo urbano y la regularización de la tenencia de la tierra;
-
-X.- Participar como Vocal Ejecutivo en la Comisión Intersecretarial para la Vivienda Popular por Autoconstrucción, coordinando y ejecutando los acuerdos que de ella emanen;
-
-XI.- Tramitar y dar seguimiento a las solicitudes de regularización de los asentamientos humanos en la Entidad, que le sean turnados para su atención; y
-
-XII.- Las demás que le confiera el Director General.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS AGRARIOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 32.
 
-La Dirección de Asuntos Agrarios, tendrá las siguientes facultades:
-
-I.- Organizar y ejecutar programas y acciones para la regularización de predios rústicos en la Entidad;
-
-II.- Conciliar los intereses de comuneros, ejidatarios y pequeños propietarios, a solicitud de parte interesada;
-
-III.- Llevar el registro de los conflictos agrarios en la Entidad;
-
-IV.- Coordinar, vigilar y supervisar el funcionamiento de la Inspectoría Rural adscrita a esta unidad administrativa y de las inspectorías móviles que se establezcan;
-
-V.- Participar en las actividades del Comité Estatal de Regularización de Predios Agrícolas y Ganaderos de la pequeña propiedad y en los demás órganos y procedimientos que se establezcan para ello;
-
-VI.- Participar en las actividades del Comité Ejecutivo para la Concertación Rural en el Estado, y en los demás órganos y procedimientos que se establezcan para ello;
-
-VII.- Apoyar a las diversas dependencias y entidades de los gobiernos federales, estatales y municipales en trámites expropiatorios en asuntos de su competencia, cuando así se lo requieran;
-
-VIII.- Tramitar y dar seguimiento a las solicitudes de regularización de los predios rústicos en la Entidad, que le sean turnados para su atención; y
-
-IX.- Las demás que le confiera el Director General.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ## TÍTULO CUARTO. DE LA SUBSECRETARÍA DE VINCULACIÓN Y DESARROLLO POLÍTICO
 
@@ -1305,7 +1271,11 @@ VIII.- Dictar, con aprobación del Secretario, las medidas jurídicas y administ
 
 IX.- Tramitar, previo acuerdo con el Secretario las concesiones, licencias, permisos y autorizaciones, cuya expedición no esté asignada a otra dependencia estatal o a otra Dirección General de la Secretaría;
 
-X.- Coordinar el trámite de los procedimientos de expropiación, ocupación temporal y limitación de dominio de bienes de propiedad particular, en los términos de la Ley de la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+X.- Coordinar el trámite de los procedimientos de expropiación, ocupación temporal y limitación de dominio de bienes de propiedad particular en los términos de la ley de la materia, que no correspondan a otra unidad administrativa u órgano desconcentrado de la Secretaría;
 
 XI.- Llevar a cabo el trámite de legalización y apostillamiento de aquellos documentos públicos que surtirán efectos jurídicos fuera del Estado, así como el Registro de Autógrafos de los servidores públicos estatales y municipales a quienes las leyes faculten para hacer constar la legitimidad de documentos públicos;
 
@@ -1353,9 +1323,15 @@ I.- Intervenir en la defensa jurídica de los actos del Secretario y de las dem�
 
 II.- Tramitar los recursos administrativos que no se encuentren expresamente conferidos por la ley o el presente ordenamiento a las demás unidades administrativas de la Secretaría, poniendo el asunto en estado de resolución;
 
-III.- Previo acuerdo del Secretario, tramitar los expedientes relativos a la expropiación, ocupación temporal y limitación de dominio de bienes inmuebles ubicados en el Estado, conforme a la legislación estatal de la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Apoyar a la Dirección General de Seguridad en la Tenencia de la Tierra, en el trámite de los expedientes relativos a la regularización de predios rústicos y asentamientos humanos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+III.- Previo acuerdo del Secretario, tramitar los expedientes de expropiación, ocupación temporal y limitación de dominio de bienes de propiedad particular, conforme a la legislación estatal de la materia, que no correspondan a otra unidad administrativa u órgano desconcentrado de la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 V.- Elaborar las denuncias y querellas respecto de los asuntos competencia de la Secretaría o de sus unidades administrativas;
 
@@ -1583,7 +1559,7 @@ EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE SEPTIEMBRE DE 2006.
 
@@ -1592,3 +1568,25 @@ Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuar
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
 
 Artículo Tercero.- La Coordinación de Defensoría de Oficio Especializada para Adolescentes atenderá de manera oportuna los asuntos de adolescentes que le remita la Gestoría Oficiosa dependiente del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, procurando en todo caso la adecuada defensa de los derechos de los adolescentes sujetos a cualquier etapa del procedimiento a que se refiere el Sistema Integral de Justicia para Adolescentes.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el 1 de enero de 2013.
+
+Obligación de la SFIA y STRC
+
+Artículo Segundo. Las secretarías de Finanzas, Inversión y Administración, y de la Transparencia y Rendición de Cuentas, acompañarán el proceso de modificación de la estructura de la Dirección General de Seguridad en la Tenencia de la Tierra al Órgano Desconcentrado Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato.
+
+Cumplimiento de obligaciones
+
+Artículo Tercero. Las obligaciones y compromisos adquiridos por la Dirección General de Seguridad en la Tenencia de la Tierra, para la realización de sus funciones sustantivas, serán asumidas por el Órgano Desconcentrado Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y corresponderá a éste continuar su cumplimiento.
+
+Transferencia de recursos
+
+Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos de la Secretaría de Gobierno que a la fecha se destinan a la Dirección General de Seguridad en la Tenencia de la Tierra para su operación y funcionamiento, se reasignen al Órgano Desconcentrado Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, los cuales deberán concluirse antes del inicio de vigencia del presente Decreto.
+
+Expedición de Reglamento Interior
+
+Artículo Quinto. El Director General deberá presentar al Gobernador del Estado el proyecto de Reglamento Interior del Instituto de Seguridad en la Tenencia de la Tierra en un término de treinta días contado a partir del inicio de vigencia del presente Decreto.
