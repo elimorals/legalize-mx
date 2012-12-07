@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2012-10-05"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -445,8 +445,6 @@ El Programa Escolar de Protección Civil es el instrumento rector en materia de 
 
 El Programa Escolar de Protección Civil servirá como base para que en cada centro escolar se cuente con un Programa Interno de Protección Civil, en cuya elaboración participe la comunidad escolar; será autorizado por la Dirección de Protección Civil y su aplicación será supervisada por dicha autoridad y la Secretaría.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 31.
 
 En el subprograma de prevención se definirán medidas para evitar y mitigar el impacto destructivo de desastres de origen natural o humano sobre la comunidad escolar y medio ambiente, siendo como mínimas, las siguientes:
@@ -457,15 +455,25 @@ II. Actualizar directorios e inventarios.
 
 III. Revisión de normas y señales y equipamiento conforme a la normatividad aplicable.
 
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 IV. Programa de mantenimiento.
 
-IV (SIC). Conformar, coordinar y capacitar brigadas.
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-V. Implementar medidas de difusión de acciones.
+V. Conformar, coordinar y capacitar brigadas.
 
-VI. Ejercicios y simulacros.
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-VII. Procedimiento de cierre forzoso.
+VI. Implementar medidas de difusión de acciones.
+
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VII. Ejercicios y simulacros.
+
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII. Procedimiento de cierre forzoso.
 
 ###### Artículo 32.
 
