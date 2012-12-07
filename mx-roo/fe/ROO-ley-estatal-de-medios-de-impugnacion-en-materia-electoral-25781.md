@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2010-03-15"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -127,11 +127,13 @@ II. La autoridad u órgano partidista señalado como responsable, que será el �
 
 III. El tercero interesado, que será el ciudadano, el partido político, la coalición, el candidato, la organización o agrupación política que tengan un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
 
-Los ciudadanos y los candidatos, podrán participar con este carácter, sólo cuando se trate del juicio para la protección de los derechos político electorales del ciudadano quintanarroense.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
-En los medios de impugnación, el candidato, con excepción del juicio para la protección de los derechos político electorales del ciudadano, podrá participar únicamente con el carácter de coadyuvante del partido político o coalición que lo registró, bajo las siguientes reglas:
+En los medios de impugnación, el candidato que haya sido registrado por un partido político o coalición, con excepción del juicio para la protección de los derechos político electorales del ciudadano, podrá participar únicamente con el carácter de coadyuvante del partido político o coalición que lo registro, bajo las siguientes reglas:
 
 I. Con la presentación de escritos ante la autoridad responsable, en los que manifieste lo que a su derecho convenga, sin que en ningún caso pueda ampliar o modificar la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido político o coalición;
 
@@ -161,9 +163,21 @@ II. Las coaliciones, por conducto de sus representantes autorizados;
 
 III. La organización de ciudadanos o agrupaciones políticas, por conducto de sus representantes, únicamente en contra de la resolución que niegue o cancele su registro como agrupación política o partido político, según corresponda, en términos de la Ley Electoral;
 
-IV. Los ciudadanos y los candidatos, por su propio derecho, sin que sea admisible representación alguna, cuando se trate del juicio para la protección de sus derechos político electorales;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-V. Los servidores electorales, y los particulares en su caso, cuando se trate del recurso de revocación, en los términos de este ordenamiento.
+IV. Los ciudadanos y los candidatos que hayan sido registrados por un partido político o coalición, por su propio derecho, cuando se trate del juicio para la protección de sus derechos político electorales;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V. Los candidatos independientes por su propio derecho, o a través de sus representantes autorizados ante los órganos del Instituto, en los siguientes términos:
+
+A) En el recurso de revocación, para combatir los actos y resoluciones de los Consejos Municipales y Distritales que causen un perjuicio a su esfera jurídica;
+
+B) En el juicio de inconformidad, para impugnar las resoluciones recaídas a los recursos de revocación en los que hubiesen sido parte, los actos o resoluciones de los órganos centrales del Instituto que causen un perjuicio a su esfera jurídica, así como la determinación, y en su caso, la aplicación de sanciones que en los términos de la Ley Electoral, realice el Consejo General;
+
+C) En el juicio de nulidad, contra los resultados de la elección en que hubiesen participado, para demandar la nulidad de la votación recibida en una o varias casillas, la nulidad de la elección, el error aritmético o la declaración de validez y otorgamiento de las constancias de mayoría respectivas, conforme a lo dispuesto en las fracciones I a IV del artículo 88 de esta Ley, y
+
+D) En el juicio para la protección de los derechos político electorales, cuando consideren que algún acto o resolución de cualquiera de los órganos del Instituto vulnera su derecho a ser votados al cargo de elección popular para el cual fueron registrados.
 
 ###### Artículo 12.
 
@@ -513,7 +527,9 @@ El Presidente del Tribunal, podrá solicitar a las autoridades federales o reque
 
 Bis.- El Tribunal, a través del Magistrado instructor y a petición fundada y motivada de las partes en los procedimientos de los medios de impugnación, podrá ordenar abrir un incidente de recuento de votos en una, varias o en la totalidad de las casillas impugnadas, CUANDO DEL ANÁLISIS A LOS HECHOS Y AGRAVIOS QUE SE HAGAN VALER SE ADVIERTA QUE HABIENDO SIDO SOLICITADO EL RECUENTO EN TIEMPO Y FORMA ANTE EL ÓRGANO RESPONSABLE, ÉSTE SE HUBIESE NEGADO INDEBIDAMENTE A SU REALIZACIÓN.
 
-El desahogo de las diligencias de recuento se podrá efectuar en los consejos distritales o municipales; será facultad del Tribunal el allegarse de la documentación electoral pertinente para llevar a cabo los recuentos. Para la realización de recuentos, en caso necesario, el Tribunal designará el personal suficiente para el desahogo de la diligencia, previa citación a la responsable y a todos los partidos políticos o coaliciones a fin de salvaguardar los principios rectores de la materia electoral.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+El desahogo de las diligencias de recuento se podrá efectuar en los consejos distritales o municipales; será facultad del Tribunal el allegarse de la documentación electoral pertinente para llevar a cabo los recuentos. Para la realización de recuentos, en caso necesario, el Tribunal designará el personal suficiente para el desahogo de la diligencia, previa citación a la responsable y a todos los partidos políticos, coaliciones o candidatos independientes a fin de salvaguardar los principios rectores de la materia electoral.
 
 El Tribunal deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por el propio Tribunal sin necesidad de recontar los votos.
 
@@ -533,7 +549,9 @@ El Presidente del Tribunal tomará las medidas necesarias para que se dé cumpli
 
 Para la resolución pronta y expedita de los medios de impugnación, por economía procesal o cuando la naturaleza del acto o resolución impugnada así lo requiera, por acuerdo del Presidente del Tribunal, la Secretaría General de Acuerdos ordenará su acumulación, la cual se sujetará a lo siguiente:
 
-I. Podrán acumularse los expedientes de los recursos o juicios en que se impugne simultáneamente, por dos o más partidos políticos o coaliciones, el mismo acto o resolución;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+l. Podrán acumularse los expedientes de los recursos o juicios en que se impugne simultáneamente, por dos o más partidos políticos, coaliciones o candidatos independientes, el mismo acto o resolución;
 
 II. La acumulación podrá decretarse al inicio, durante la sustanciación o para la resolución de los medios de impugnación; y
 
@@ -669,9 +687,11 @@ Las notificaciones de los acuerdos o sentencias de los órganos del Instituto o 
 
 Las notificaciones se realizarán a quien corresponda, a más tardar el día siguiente de aquel en que se dictó el acuerdo o sentencia; y se deberá asentar la razón en el expediente respectivo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-El partido político o coalición cuyo representante haya estado presente en la sesión del órgano del Instituto que emitió el acuerdo o resolución que se impugne, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
+El partido político, coalición o candidato independiente cuyo representante haya estado presente en la sesión del órgano del Instituto que emitió el acuerdo o resolución que se impugne, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
 ###### Artículo 57.
 
@@ -837,9 +857,11 @@ Las nulidades establecidas en esta Ley, podrán afectar la votación emitida en 
 
 Los efectos de las nulidades decretadas por el Tribunal respecto de la votación emitida en una o varias casillas, o de una elección, modifican o afectan de nulidad exclusivamente la votación o elección para la que expresamente se haya hecho valer el juicio respectivo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 80.
 
-Ningún partido político o coalición, podrá invocar como causa de nulidad, hechos o circunstancias que hayan provocado ellos mismos.
+Ningún partido político, coalición o candidato independiente, podrá invocar como causa de nulidad, hechos o circunstancias que hayan provocado ellos mismos.
 
 ###### Artículo 81.
 
@@ -861,7 +883,9 @@ III. Se reciba la votación en fecha distinta a la señalada para la celebració
 
 IV. La recepción o el cómputo de la votación fuere por personas u órganos distintos a los facultados por la legislación correspondiente;
 
-V. Se impida el acceso a las casillas a los representantes acreditados de los partidos políticos o coaliciones, o se les expulse sin causa justificada;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V. Se impida el acceso a las casillas a los representantes acreditados de los partidos políticos, coaliciones o candidatos independientes, o se les expulse sin causa justificada;
 
 VI. Se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas cuyos nombres no aparezcan en la lista nominal de electores, salvo los casos de excepción que señala la Ley Electoral, y siempre que ello sea determinante para el resultado de la votación;
 
@@ -949,9 +973,11 @@ Además de los requisitos establecidos en el Artículo 26 del presente ordenamie
 
 ### Capítulo Segundo. De la Resolución y sus Efectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 90.
 
-Al resolver los juicios de nulidad, el Tribunal deberá tomar en consideración los escritos de protesta que obren en el expediente y que se hayan presentado por los partidos políticos o coaliciones.
+Al resolver los juicios de nulidad, el Tribunal deberá tomar en consideración los escritos de protesta que obren en el expediente y que se hayan presentado por los partidos políticos, coaliciones o candidatos independientes.
 
 Los escritos de protesta a que se refiere el párrafo anterior, son un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral. Los escritos se presentarán ante la Mesa Directiva de Casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de iniciar la sesión de los cómputos respectivos.
 
@@ -1003,13 +1029,15 @@ II. Al haber obtenido oportunamente el documento a que se refiere la fracción a
 
 III. Sin causa justificada sea excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
 
-IV. Siendo candidato registrado, sea indebidamente declarado inelegible y el partido político o coalición que lo registró no lo haya recurrido;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV. Siendo candidato registrado, sea indebidamente declarado inelegible;
 
 V. Se le niegue indebidamente participar como observador electoral;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-VI. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+VI. Considere que se violó su derecho político-electoral de ser votado cuando, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1108,3 +1136,13 @@ Artículo Único.- El Artículo Segundo del presente Decreto entrará en vigor e
 ARTICULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
