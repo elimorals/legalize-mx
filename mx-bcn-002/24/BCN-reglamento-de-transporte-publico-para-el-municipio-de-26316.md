@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2010-11-19"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -246,6 +246,10 @@ LI.- Vialidad.- Es el sistema de vías públicas utilizadas para él tránsito e
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 LII.- Punto estratégico.- Es el espacio en propiedad privada o en la vía publica, autorizado por el Sistema previo cumplimiento de los requisitos correspondientes, para que se estacionen los vehículos destinados al servicio de transporte de alquiler en la modalidad de radio taxi, en espera de la instrucción de la central de la base para la prestación de un nuevo servicio.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+LIII.- Departamento de Ingeniería de Tránsito.- Departamento perteneciente a la Dirección de Administración Urbana encargado de elaborar y autorizar estudios y proyectos de ingeniería de tránsito, que tengan por objeto asegurar la fluidez de las vialidades municipales, así como aumentar la seguridad de peatones y vehículos.
 
 #### SECCION II
 
@@ -803,9 +807,11 @@ La documentación que en materia de transporte expida la Autoridad Municipal por
 
 Clasificación del Servicio de Transporte Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 51.
 
-Para los fines de este Reglamento y conforme al servicio que prestan los vehículos destinados al transporte público, sujetos a concesión o permiso se clasifican de la siguiente forma:
+Para los fines de éste Reglamento y conforme al servicio que prestan los vehículos destinados al transporte público, sujetos a concesión o permiso se clasifican de la siguiente forma:
 
 I. Transporte de pasajeros, en las siguientes modalidades:
 
@@ -835,9 +841,9 @@ II.- Transporte de carga, en las siguientes modalidades:
 
 A) De servicio general.- Este tipo de servicios se prestará en vehículos que reúnan las características adecuadas para transportar productos agropecuarios, maquinaria, materiales para la construcción, materiales pétreos, mercancías, desechos orgánicos, objetos diversos y en general todo tipo de carga. Para el caso de servicio especializado, será prestado en vehículos acondicionados para transportar un tipo especifico de carga, como puede ser materiales peligrosos, explosivos, corrosivos, inflamables, contaminantes, residuos sólidos municipales, residuos industriales no peligrosos, y los demás que por las características del vehículo en que se traslada, sólo permitan el traslado de un tipo de carga en particular.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-Este servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Transito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio.
+Éste servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Tránsito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio.
 
 B) De servicio de grúa y remolque.- Los destinados a transportar o remolcar vehículos, en unidades diseñadas para tal fin. Este servicio estará sujeto a tarifa fija, el cual podrá prestarse sin restricción de itinerario y horario, partiendo del lugar previamente autorizado por el Sistema, donde el usuario pueda comunicarse o acudir para contratarlo.
 
@@ -995,9 +1001,11 @@ En las unidades que prestan servicio de transporte público de pasajeros, el sis
 
 Disposiciones para el Servicio Público de Transporte de Carga y Grúas.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 78.
 
-El Sistema Municipal del Transporte con la Intervención con el departamento de Ingeniería de Tránsito podrá restringir y sujetar a horarios y vialidades, la circulación al transporte de carga en general, conforme el volumen de tránsito y al interés público, en coordinación con las autoridades auxiliares en la materia.
+El Sistema Municipal del Transporte con la intervención del Departamento de Ingeniería de Tránsito deberá restringir y sujetar a horarios y vialidades, la circulación al transporte de carga en general, conforme el volumen de tránsito y al interés público, en coordinación con las autoridades auxiliares en la materia.
 
 ###### ARTÍCULO 79.
 
@@ -1015,17 +1023,41 @@ Las unidades que prestan el servicio de carga en general que requieran espacio e
 
 Los vehículos automotor de remolque o semiremolque, deberán estar provistos en la parte posterior, de dos lámparas indicadoras del frenaje, que emitan una luz roja al aplicar los frenos y que sean visibles bajo la luz solar normal, desde una distancia no menor de 90 metros, a excepción de aquellos vehículos fabricados originalmente con una sola lámpara. En combinaciones de vehículos solamente será necesario que las luces de freno sean visibles en la parte posterior del último vehículo.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 82 BIS.- Los permisionarios deberán emitir por cada embarque, según sea el caso, una carta porte, nota de remisión, talón de embarque, guía de manifiesto de carga o factura; documentos que deberán contener, cuando menos, los datos siguientes:
+
+a) Nombre y domicilio del transportista, remitente y destinatario;
+
+b) Descripción de la mercancía con expresión de su peso, volumen, marca o signos exteriores de los bultos o embalaje en que contengan y en su caso el valor declarado de los mismos;
+
+c) El precio pactado para el servicio, cuando así lo requiera;
+
+d) Fecha de expedición;
+
+e) Lugar de recepción de la mercancía por el transportista; y,
+
+f) Lugar y fecha o pla. (sic) en que habrá de hacerse la entrega al destinatario.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 82 TER.- El transporte de carga, deberá circular por el carril derecho, el Sistema Municipal del Transporte de Mexicali podrá permitir que lo hagan por otros carriles, cuando por el horario en que circulen, no entorpezcan o pongan en riesgo a los demás vehículos.
+
 ###### ARTÍCULO 83.
 
 Los vehículos automotor, de remolque o semiremolques, deberán estar provistos de lámparas direccionales en el frente y en la parte posterior de los mismos, que indiquen la intención de dar vuelta o hacer cualquier movimiento para cambiar de dirección, alcanzar o adelantar otro vehículo. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Estas luces deberán estar complementadas con un indicador en el tablero del vehículo, que permita al conductor verificar su operación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 84.
 
-Los vehículos automotor (sic) de remolque o semiremolque, que tengan 2.00 metros o más de anchura total, deben contar:
+Los vehículos automotores de remolque o semirremolque, que tengan 2.00 metros o más de anchura total, deben contar:
 
 I.- En el frente, dos lámparas demarcadoras, una a cada lado;
 
-II.- En la parte posterior, dos lámparas demarcadoras, una a cada lado y tres lámparas de identificación que cumplan con las especificaciones contenidas en (sic) artículo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+II.- En la parte posterior, dos lámparas demarcadoras, una a cada lado y tres lámparas de identificación que cumplan con las especificaciones contenidas en éste reglamento;
 
 III.- A cada lado, dos lámparas demarcadoras, uno cerca del frente y otro (sic) cerca de la parte posterior;
 
@@ -1078,6 +1110,28 @@ II.- Los vehículos grúas que presten el servicio público serán clasificados 
 ###### ARTÍCULO 91.
 
 Los conductores de vehículos de transporte de carga podrán efectuar maniobras de carga y descarga en la vía pública, únicamente durante los horarios, en las zonas y calles que determine Ingeniería de Transito, en coordinación con el Sistema Municipal del Transporte.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 91 BIS.- Los vehículos utilizados para el servicio de transporte de vehículos con grúa en las vías públicas dentro de la zona urbana, deberán reunir los requisitos exigidos en el Capítulo V, Sección III, del Título I, del presente reglamento y además los siguientes:
+
+a) Juego de herramientas para reparación y desarme de mecanismos;
+
+b) Cuatro conos de hule o plástico de color rojo o ámbar;
+
+c) Dos arcos y seguetas de acero, cepillo, pala y escoba;
+
+d) Por lo menos dos cadenas de un metro mínimo y con ganchos;
+
+e) Tablones para maniobra;
+
+f) Extinguidor de incendios; y,
+
+g) Botiquín de primeros auxilios.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 91 TER.- Los vehículos mencionados en éste reglamento y demás aplicables, que se utilicen para el arrastre de vehículos dentro del municipio de Mexicali, se clasificarán conforme a su capacidad y uso.
 
 ### CAPÍTULO VI. DE LAS NOTIFICACIONES, TÉRMINOS E INSPECCIÓN DE LOS VEHÍCULOS DE TRANSPORTE PÚBLICO
 
@@ -3690,3 +3744,9 @@ P.O. 19 DE NOVIEMBRE DE 2010.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 SEGUNDO.- SE INSTRUYE AL SISTEMA MUNICIPAL DEL TRANSPORTE A EFECTO DE QUE INICIE LOS ESTUDIOS TÉCNICOS NECESARIOS PARA DETERMINAR LAS TARIFAS A LAS QUE SE DEBERÁ SUJETAR LA PRESTACIÓN DEL SERVICIO PÚBLICO DE CARGA; ASÍ COMO PARA QUE DENTRO DEL TÉRMINO DE TREINTA DÍAS SIGUIENTES A LA ENTRADA EN VIGOR DEL PRESENTE ACUERDO, INFORME AL AYUNTAMIENTO SOBRE LOS AVANCES DE DICHOS TRABAJOS.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
