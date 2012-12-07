@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-738
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-28"
-last_updated: "2010-02-28"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el domingo 28 de febrero de 2010.
 
@@ -576,3 +578,13 @@ Ing. Sergio Amín Chufani Abarca
 Secretario de Desarrollo Urbano y Obras Públicas
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Artículo primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 28 de febrero de 2010.
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
