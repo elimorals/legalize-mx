@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2011-11-23"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -437,21 +437,77 @@ V. Promover en coordinación con el órgano correspondiente de la Procuraduría,
 
 VI. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Cuarta
+#### Sección Cuarta. De la Fiscalía Especializada en Secuestro
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2011)
+La Fiscalía Especializada en Secuestro conocerá de la investigación y persecución de los delitos en materia de secuestro, en todas sus formas y modalidades, mediante el correspondiente ejercicio de la acción penal y de reparación del daño, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 34.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2011)
+La Fiscalía Especializada en Secuestro será competente para:
+
+l. Recibir toda denuncia, querella, noticia o aviso que tenga relación con hechos posiblemente constitutivos de delito en materia de secuestro, en todas sus formas y modalidades;
+
+II. Investigar los delitos en materia de secuestro, en todas sus formas y modalidades, con el auxilio de la Policía Especializada, los Servicios Periciales, demás unidades administrativas y operacionales a su cargo, así como otras autoridades competentes, en los términos de las disposiciones legales aplicables, practicando las diligencias necesarias para la integración de la investigación y allegándose de las pruebas que considere pertinentes para la acreditación del hecho delictivo y la probable responsabilidad o participación de quién o quiénes en él hubieren intervenido, así como determinar el monto de los daños y perjuicios causados;
+
+III. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, en los términos de las disposiciones jurídicas aplicables;
+
+IV. Instruir a los agentes de la Policía Especializada a su mando y a los Peritos que le estén adscritos, sobre los elementos o indicios que deban ser investigados o recabados, así como sobre otras acciones de investigación que fueren necesarias para la acreditación del hecho delictivo y la probable responsabilidad o participación del o los indiciados en los delitos en materia de secuestro, en todas sus formas y modalidades;
+
+V. Solicitar a las Dependencias y Entidades de la Administración Pública Federal, de los Estados, del Distrito Federal y Municipios de la República, en los términos de las disposiciones aplicables, los informes, documentos, opiniones y dictámenes necesarios para la integración de las investigaciones que versen sobre los delitos en materia de secuestro, en todas sus formas y modalidades;
+
+VI. Requerir informes y documentos de los particulares para el ejercicio de sus atribuciones;
+
+VII. Auxiliar al Ministerio Público Federal y al de las entidades federativas en los términos que determinen las disposiciones jurídicas aplicables;
+
+VIII. Solicitar al Ministerio Público Federal o de las entidades federativas, el auxilio o colaboración para la práctica de diligencias de investigación, de conformidad con el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, las demás disposiciones aplicables y los convenios de colaboración que suscriban las respectivas Procuradurías y demás disposiciones aplicables;
+
+IX. Asegurar los bienes, instrumentos, huellas, objetos, vestigios o productos relacionados con los hechos delictivos, en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional;
+
+X. Las demás que le confiera la ley, este Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 35.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2011)
+Son atribuciones del Fiscal Especializado en Secuestro, además de las consignadas en el artículo 32 de la ley, las siguientes:
+
+I. La investigación y persecución de los delitos en materia de secuestro, en todas sus formas y modalidades, con facultad de atracción de los asuntos que conozcan las unidades administrativas de cualquier Fiscalía de Distrito, Especializada o Especial de la Procuraduría, previo acuerdo con el Procurador, o cuando éste así lo determine;
+
+II. Desempeñar las funciones y comisiones que el Procurador General de Justica del Estado le encomiende; asimismo, deberá informarle sobre el desarrollo y resultado de las mismas;
+
+III. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las atribuciones de la Fiscalía Especializa a su cargo;
+
+IV. Vigilar y coordinar al personal adscrito a la Fiscalía Especializada a su cargo;
+
+V. Coordinarse con los Titulares de las Fiscalías de Distrito, Especializadas y Especiales, Unidades Administrativas y la Dirección General de la Policía Especializada, cuando el caso lo requiera, para el mejor desempeño de las atribuciones de la Fiscalía Especializada a su cargo;
+
+VI. Elaborar y someter a consideración del Procurador, los proyectos de manuales de organización, de procedimientos normativos, de coordinación y de operación;
+
+VII. Elaborar las opiniones e informes que les sean encomendados por el Procurador;
+
+VIII. Recibir en acuerdo a los servidores públicos que le estén adscritos;
+
+IX. Proponer al Procurador los programas permanentes de capacitación y actualización del personal adscrito a la Fiscalía Especializada a su cargo, en coordinación con el área responsable;
+
+X. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquellos que le sean solicitados por el Procurador;
+
+XI. Informar periódicamente al Procurador sobre el ejercicio de las actividades que le correspondan;
+
+XII. Vigilar el exacto cumplimiento del principio de legalidad y de pronta y expedita procuración de justicia;
+
+XIII. Establecer y supervisar los procedimientos adecuados para que se turnen los asuntos que por competencia, deban ser del conocimiento de los servidores públicos que estén adscritos a la Fiscalía Especializada a su cargo;
+
+XIV. Vigilar el buen despacho de los asuntos a su cargo;
+
+XV. Despachar todos aquellos asuntos y ejercer las demás atribuciones que le señalen las disposiciones aplicables y las que le confiera el Procurador en el ámbito de sus atribuciones.
 
 #### Sección Quinta. De la Fiscalía Especializada en Procedimientos Penales
 
@@ -1039,41 +1095,21 @@ VIII. Solicitar de las dependencias y entidades de la Administración Pública F
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Décima Cuarta. De la Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en aquellos cometidos en el Poblado de Acteal
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Décima Cuarta
 
 ###### Artículo 68.
 
-La Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en aquellos cometidos en el Poblado Acteal, conocerá de los delitos cometidos por los servidores públicos que realizaron en el ejercicio de sus funciones, actos u omisiones relacionados con la procuración y administración de justicia en el Estado, y en aquellos cometidos en el poblado de Acteal, Municipio de Chenalhó, Chiapas, el veintidós de diciembre de mil novecientos noventa y siete.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 69.
 
-La Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en aquellos cometidos en el Poblado Acteal, será competente para:
-
-I. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley, este Reglamento, y demás disposiciones aplicables.
-
-II. Investigar y perseguir los delitos cometidos por los cuerpos de seguridad estatales y municipales, Peritos, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en delito en ejercicio de sus funciones.
-
-III. Remitir al órgano competente los informes necesarios para la instauración de los procedimientos administrativos en contra de los cuerpos de seguridad estatales y municipales, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en faltas en ejercicio de sus funciones.
-
-IV. Integrar o iniciar las indagatorias correspondientes, así como dar continuidad, trámite y seguimiento a las averiguaciones previas y, los procedimientos relacionados con los hechos del poblado de Acteal.
-
-V. Realizar la sistematización de la información contenida en las averiguaciones previas a su cargo.
-
-VI. Coordinarse con los demás órganos de la Procuraduría competentes, para salvaguardar a las víctimas u ofendidos, las garantías que en su favor otorga el artículo 20, apartado C, de la Constitución Federal y demás disposiciones aplicables.
-
-VII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 70.
 
-Son atribuciones del Fiscal Especializado en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en aquellos cometidos en el Poblado Acteal, además de las consignadas en el artículo 32, de la Ley, las siguientes:
-
-I. Coordinar a los Fiscales del Ministerio Público, que le estén adscritos para investigar y perseguir los delitos cometidos en el ámbito de su competencia.
-
-II. Dirigir, coordinar y supervisar las investigaciones y, en su caso, la persecución de los Delitos cometidos en el Poblado de Acteal, Municipio de Chenalhó, Chiapas, el veintidós de diciembre de mil novecientos noventa y siete.
-
-III. Coordinarse con los demás órganos de la Procuraduría, a fin de coadyuvar en la investigación y persecución de los delitos de su competencia.
-
-IV. Las demás que le confieran otras disposiciones o el Procurador.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 #### Sección Décima Quinta. De la Fiscalía Especializada en Delitos Cometidos en contra de Inmigrantes
 
@@ -1157,15 +1193,21 @@ IV. Establecer la coordinación con los demás órganos de la Procuraduría y ot
 
 V. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Décima Séptima. De la Fiscalía Especial de Asuntos Relevantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Décima Séptima. De la Fiscalía Especializada en Asuntos Especiales y Relevantes
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 77.
 
-La Fiscalía Especial de Asuntos Relevantes, estará a cargo de integrar de manera pronta y expedita, y con estricto apego a derecho, las Averiguaciones Previas que por su naturaleza, impacto social o gravedad sean consideradas como relevantes.
+La Fiscalía Especializada en Asuntos Especiales y Relevantes, estará a cargo de integrar de manera pronta y expedita, y con estricto apego a derecho, las investigaciones que por su naturaleza, impacto social o gravedad sean consideradas como especiales y relevantes; asimismo conocerá de todo asunto que el Procurador someta a su conocimiento, por lo que tendrá competencia en todo el territorio del Estado, tanto para iniciar, integrar y determinar las investigaciones ministeriales como para conocer de los procesos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 78.
 
-La Fiscalía Especial de Asuntos Relevantes, será competente para:
+La Fiscalía Especializada en Asuntos Especiales y Relevantes será competente para:
 
 I. Integrar y consignar las averiguaciones previas en las que se requiera de estricta reserva, mayor atención y rapidez en su resolución que por su impacto social se consideren especiales y relevantes.
 
@@ -1175,9 +1217,11 @@ III. Vigilar y dar seguimiento al trámite de los procedimientos penales conside
 
 IV. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 79.
 
-Son atribuciones del Fiscal Especial de Asuntos Relevantes, además de las consignadas en el artículo 32, de la Ley, las siguientes:
+Son atribuciones del Fiscal Especializado en Asuntos Especiales y Relevantes, además de las consignadas en el artículo 32 de la ley, las siguientes:
 
 I. Coordinar a los Fiscales del Ministerio Público, y demás personal a su cargo.
 
@@ -1315,7 +1359,17 @@ XI. Llevar a cabo y supervisar los exámenes de control de confianza a los cuerp
 
 XII. Practicar todas las investigaciones que sean necesarias para establecer el grado de confianza del personal.
 
-XIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XIII. Investigar y perseguir los hechos delictivos cometidos por los Cuerpos de Seguridad Estatales y Municipales, Peritos, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en delito en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XIV. Remitir al órgano competente los informes necesarios para la instauración de los procedimientos administrativos en contra de los Cuerpos de Seguridad Estatales y Municipales, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en faltas en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XV. Las demás que le confiera la ley, este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 88.
 
@@ -2133,31 +2187,49 @@ XVI. Ejecutar medidas específicas que sirvan de herramientas de acción para la
 
 XVII. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo XIII. De la Unidad de Comunicación Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo XIII. De la Dirección de Comunicación Social
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 122.
 
-El Titular de la Unidad de Comunicación Social, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Comunicación Social tendrá las atribuciones siguientes:
 
-I. Participar en eventos, presididos por el Procurador, así como de los titulares de los diferentes órganos que integran la institución.
+l. Acudir a los actos presididos por el Procurador, así como de los titulares de los diversos órganos, para tomar nota de lo más relevante y proceder a su difusión en los medios impresos y electrónicos.
 
-II. Recabar y respaldar en medios digitales, audio, video y fotografía la información institucional de eventos y acciones que realizan servidores públicos de la Procuraduría.
+II. Recabar y respaldar en medios digitales, audio, video y fotografía la información institucional de eventos y acciones que realizan los funcionarios públicos de la Procuraduría.
 
 III. Difundir información institucional en medios impresos y electrónicos a nivel estatal y nacional.
 
-IV. Diseñar campañas de difusión de las acciones más importantes de la Procuraduría para mantener informada a la ciudadanía, y dar a conocer las acciones y avances en materia de prevención y procuración de justicia.
+IV. Diseñar campañas de difusión de las acciones más importantes de la Procuraduría, para dar a conocer las acciones y avances en materia de la procuración de justicia y prevención del delito a la ciudadanía.
 
-V. Recepcionar solicitudes para la publicación de edictos y material informativo de los diferentes órganos de la institución.
+V. Recibir solicitudes para la publicación de edictos y material informativo de las diversas áreas de la institución.
 
-VI. Elaborar la síntesis informativa de la Procuraduría, sobre la información recabada en los diferentes medios impresos locales y nacionales que circulan en el Estado y a nivel Federal.
+VI. Distribuir y elaborar la síntesis sobre la información recabada en los diferentes medios impresos de circulación local y nacional.
 
-VII. Monitorear las opiniones, comentarios e información de interés y competencia de la Procuraduría, emitida en los medios de comunicación masiva como radio, televisión e Internet.
+VII. Monitorear las opiniones, comentarios e información de interés y competencia de la Procuraduría, emitida en los medios de comunicación masivos como radio, televisión e internet.
 
-VIII. Coordinar acciones de comunicación en las diferentes representaciones de la Procuraduría; a través de enlaces en las Fiscalías de Distrito.
+VIII. Coordinar acciones de comunicación en las diferentes representaciones de la Procuraduría.
 
-IX. Asistir en materia de manejo de medios, imagen e información a los diferentes órganos que integran a la Procuraduría.
+IX. Asistir en materia de manejo de medios, imagen e información, a los diferentes órganos que integran a la Procuraduría.
 
-X. Las demás que le confieran otras disposiciones o el Procurador.
+X. Realizar seguimientos informativos de eventos noticiosos relevantes en el ámbito local, nacional e internacional, de material impreso y/o digital.
+
+XI. Mantener estrecha relación con representantes de los medios de comunicación para difundir, de manera oportuna, las diversas acciones y programas que impulsa la Procuraduría, así como, atender las peticiones informativas de los medios de comunicación.
+
+XII. Mantener relación con el Instituto de Comunicación Social del Gobierno del Estado de Chiapas, para tramitar espacios para las publicaciones de boletines de prensa en los medios de comunicación masivos y para la difusión en medios electrónicos.
+
+XIII. Coordinar las acciones de comunicación social de la Dirección y de la Procuraduría.
+
+XIV. Mantener comunicación con los medios de Comunicación Social, las actividades oficiales, en cuanto a boletines y comunicados de prensa.
+
+XV. Implementar políticas y estrategias de comunicación, así como los planes de medios.
+
+XVI. Revisión y presentación de síntesis, monitoreo y análisis informativos al Procurador.
+
+XVII. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo XIV. De la Unidad de Control y Seguimiento Documental
 
@@ -2744,3 +2816,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
