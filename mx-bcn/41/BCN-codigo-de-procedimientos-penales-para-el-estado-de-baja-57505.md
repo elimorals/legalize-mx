@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-11-16"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE DICIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 221 PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2012.</small>
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -2697,11 +2697,11 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGUO PÁRRAFO 3ro. FORMA PARTE DEL ACTUAL PÁRRAFO 2do.]</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el Juez o el Ministerio Público imponer a quien no los entregue los medios de apremio permitidos para el testigo que rehúsa declarar; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos. En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente de la policía ministerial.
+Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el Juez o el Ministerio Público imponer a quien no los entregue los medios de apremio permitidos para el testigo que rehúsa declarar; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos. En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente de la policía ministerial. En los casos urgentes, esta medida podrá delegarse por orden de Ministerio Público, bajo su estricta responsabilidad, en un agente policial.
 
 ###### Artículo 249.
 
@@ -3549,7 +3549,7 @@ IV. Cuando esté previsto específicamente en este Código o en otra Ley.
 
 V. Cuando el Tribunal estime que existen razones fundadas para justificarlo.
 
-La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando, de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
+La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
 
 El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este artículo o cuando se limite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
@@ -4867,7 +4867,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 2009.
 
@@ -4967,13 +4967,13 @@ TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesar
 
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
-DECRETO No. 286, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTICULOS 21, 119, 159, 161, 162, 163, 196, 198, 206, 245, 284, 377, 380, 385, 387, 388 Y 413 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO CON FECHA 19 DE OCTUBRE DE 2007.
+DECRETO N°. 286, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 21, 119, 159, 161, 162, 163, 196, 198, 206, 245, 284, 377, 380, 385, 387, 388 Y 413 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en los municipios restantes será conforme lo dispuesto en el artículo primero transitorio de dicho ordenamiento.
 
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
-DECRETO No. 289, SEGUNDO: SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 281 BIS, 281 BIS 1 Y 281 BIS 2 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN 2007.
+DECRETO N°. 289, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 281 BIS, 281 BIS 1 Y 281 BIS 2 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
