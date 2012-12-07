@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-pueblos-indios-68474"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PUEBLOS INDIOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PUEBLOS INDIOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PUEBLOS INDIOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PUEBLOS Y CULTURAS INDÍGENAS, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2008.
 
@@ -305,7 +307,7 @@ XIV. Elaborar y emitir opinión respecto a los convenios, contratos y autorizaci
 
 XV. Suscribir acuerdos, documentos y demás actos jurídicos y administrativos relativos al ejercicio de sus funciones y aquellos que le sean asignados por delegación o le correspondan por suplencia.
 
-XVI. Proponer al Secretario, los movimientos nominales del Órgano Administrativo a su cargo, yen su caso, autorizar los permisos y tolerancias de éstos, de conformidad con las disposiciones legales vigentes.
+XVI. Proponer al Secretario, los movimientos nominales del Órgano Administrativo a su cargo, y en su caso, autorizar los permisos y tolerancias de éstos, de conformidad con las disposiciones legales vigentes.
 
 XVII. Comunicar al personal a su cargo las remociones o cambios de adscripción, que por sanción o necesidades del servicio se apliquen a los mismos.
 
@@ -851,10 +853,30 @@ Artículo Tercero.- En los casos no previstos en el presente reglamento y, en lo
 
 Artículo Cuarto.- Para las cuestiones no previstas en este reglamento, respecto de las delegaciones regionales, áreas, departamentos, oficinas y demás funciones del personal, se estará a lo dispuesto por el manual de organización de la Secretaría.
 
-Articulo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
 
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de diciembre de dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario de Gobierno.- José Fernando López Hernández, Secretario de Pueblos Indios.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Pueblos Indios, publicado en el Periódico Oficial, número 135, 2a. Sección, 2ª. Parte, Tomo III, de fecha 31 de diciembre de 2008; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
