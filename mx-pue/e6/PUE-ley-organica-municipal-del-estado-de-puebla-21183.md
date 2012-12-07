@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2012-02-20"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -832,6 +832,50 @@ Son vecinos de un Municipio las personas físicas que residen en cualquier lugar
 ###### ARTÍCULO 40.
 
 Transcurrido el plazo señalado en el artículo anterior, se tendrá como lugar del domicilio del vecino, el de su residencia, a menos que dentro de los quince días siguientes al vencimiento de aquél, declare tanto a la autoridad municipal del lugar en que anteriormente residiera, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir uno nuevo, pero esta declaración no producirá efectos en perjuicio de terceros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 40 BIS.- Para acreditar la calidad de vecino, los ayuntamientos expedirán la constancia de vecindad, a solicitud del interesado y previo pago de los derechos que al efecto establezcan los ordenamientos correspondientes. A la solicitud, deberá acompañarse:
+
+I.- Copia o extracto certificado del acta de nacimiento, carta de naturalización, certificado de nacionalidad, o en su caso, del documento vigente con el que acredite su estancia legal en el país;
+
+II.- Copia de identificación oficial con fotografía;
+
+Para el caso de que el solicitante no cuente con documentos que acrediten su identidad, podrá presentar dos testigos de la misma y que sean vecinos cercanos a su domicilio.
+
+III.- Dos fotografías recientes; y
+
+IV.- Comprobante de domicilio que acredite la residencia de por lo menos seis meses anteriores a la fecha de la solicitud.
+
+La autoridad municipal podrá, en términos de la normatividad que al efecto emita, realizar visitas domiciliarias para verificar la información proporcionada por el solicitante o requerir de cualquier otro documento complementario a fin de confirmar la identidad y residencia del solicitante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 40 TER.- La constancia de vecindad contendrá cuando menos, los datos siguientes del solicitante:
+
+I.- Nombre completo:
+
+II.- Sexo;
+
+III.- Lugar y fecha de nacimiento;
+
+IV.- Datos de identificación del acta de nacimiento, del certificado de nacionalidad, de la carta de naturalización, o en su caso, del documento vigente con el que acredite su estancia legal en el país;
+
+V.- Nacionalidad;
+
+VI.- Clave Única de Registro de Población, en su caso;
+
+VII.- Fotografía y huella dactilar;
+
+VIII.- Domicilio en el Municipio; y
+
+IX.- Tiempo de residencia que acredite en el Municipio.
+
+La autoridad municipal llevará un registro de las constancias de vecindad expedidas.
 
 ###### ARTÍCULO 41.
 
@@ -3506,3 +3550,11 @@ SEXTO.- El Consejo General del Instituto nombrará al Secretario Ejecutivo, al T
 Los Servidores Públicos que a la fecha de publicación de este Decreto realicen las funciones de Secretario General, de Director General y de Titular de la Unidad Jurídica del Instituto, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor del presente, deberán hacer entrega a la instancia que determine el Consejo General del Instituto, de todos los recursos patrimoniales que hayan tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones. Para tal efecto, el Consejero Presidente del Consejo General instrumentará las medidas necesarias respectivas conforme a la legislación aplicable.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los treinta días de su publicación.
+
+SEGUNDO.- Los trámites de expedición de constancias de vecindad que se encuentren pendientes a la entrada en vigor del presente Decreto, se concluirán en términos de las disposiciones vigentes al momento de su inicio.
+
+TERCERO.- Los Ayuntamientos expedirán, o en su caso modificarán, la normatividad necesaria para la expedición de las constancias de vecindad en los términos del presente Decreto.
