@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-72756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2010-01-29"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 2010.
 
@@ -77,15 +77,19 @@ IV.- Dirección del Centro de Evaluación y Control de Confianza del Estado de B
 
 V.- Dirección de la Policía Estatal Preventiva;
 
-\/l.- Dirección de Planeación y Desarrollo Institucional;
+VI.- Dirección de Planeación y Desarrollo Institucional;
 
-Vll.- Dirección de Información, Análisis y Estrategias;
+VII.- Dirección de Información, Análisis y Estrategias;
 
 VIII.- Dirección de Administración;
 
-IX.- Dirección de Asuntos Internos; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-X.- Coordinación de Comunicación y Relaciones Públicas.
+X.- Dirección del Centro de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Baja California; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XI.- Coordinación de Comunicación y Relaciones Públicas.
 
 Para el trámite de los asuntos correspondientes la oficina del Secretario, contará con la Secretaría Particular, así como con las áreas de apoyo técnico que determine.
 
@@ -355,13 +359,7 @@ A) Departamento de Servicios de Seguridad Privada, Zona Mexicali; y,
 
 B) Departamento de Servicios de Seguridad Privada, Zona Tijuana, Tecate, Playas de Rosarito y Ensenada.
 
-IV.- Dirección de Prevención del Delito y Participación de la Comunidad:
-
-A) Departamento de Prevención del Delito y Participación de la Comunidad, Zona Mexicali:
-
-B) Departamento de Prevención del Delito y Participación de la Comunidad, Zona Tijuana, Tecate y Playas de Rosarito:
-
-C) Departamento de Prevención del Delito y Participación de la Comunidad, Zona Ensenada:
+IV.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 V.- Coordinación de Estadística; y,
 
@@ -391,9 +389,13 @@ II.- Dirección de Ejecución de Penas y Medidas Judiciales:
 
 A) Departamento Jurídico de las Unidades Ejecutoras o Centros;
 
-B) Departamento de Beneficios Penitenciarios a Sentenciados;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-C) Departamento de Vigilancia y Seguimiento de Beneficios Penitenciarios, Sustitutivos Penales y Medidas Judiciales.
+B) Departamento de Integración de Beneficios de Libertad Anticipada; y
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+C) Departamento de Vigilancia de Medidas y Beneficios Judiciales.
 
 III.- Dirección de Programas de Reinserción Social:
 
@@ -431,11 +433,17 @@ De la Subsecretaría:
 
 XVI.- Coordinación de Infraestructura Penitenciaria; y,
 
-XVIII (SIC).- Coordinación de Sistemas y de Tecnología.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XVII.- Coordinación de Sistemas y de Tecnología.
+
+XVIII.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 Las Direcciones Normativas en el ámbito de su competencia, establecerán las políticas, programas, lineamientos y directrices que deberán aplicar en sus funciones y actividades las Unidades Ejecutoras o Centros.
 
-El personal jurídico y técnico adscrito a las Unidades Ejecutoras o Centros, dependerá normativamente de la Dirección de Ejecución de Penas y Medidas de Seguridad y de la Dirección Estatal de Programas de Reinserción Social, respectivamente.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+El personal jurídico y técnico adscrito a las Unidades Ejecutoras o Centros, dependerá normativamente de la Dirección de Ejecución de Penas y Medidas Judiciales y de la Dirección de Programas de Reinserción Social, respectivamente.
 
 El personal directivo de las Unidades Ejecutoras o Centros, dependerá jerárquicamente del Director de Centros de Reinserción Social y de Adolescentes y observarán las políticas y lineamientos emitidos por las Direcciones Normativas, en el ámbito de su competencia.
 
@@ -955,83 +963,11 @@ XI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 ###### Artículo 40.
 
-La Dirección de Prevención del Delito y Participación de la Comunidad, estará a cargo de un Director, que será auxiliado por las unidades administrativas señaladas en el artículo 12 fracción IV, incisos A, B y C del presente Reglamento y tendrá el ejercicio de las atribuciones siguientes:
-
-l.- Elaborar y proponer al Subsecretario las políticas y ejecutar los programas y proyectos en materia de prevención del delito y de la participación de la comunidad;
-
-II.- Proponer políticas criminológicas tendientes a disminuir la incidencia delictiva, atendiendo los factores de riesgo;
-
-III.- Supervisar y ejecutar la aplicación de los programas de prevención del delito y de participación de la comunidad para fomentar la cultura de la legalidad y la denuncia;
-
-IV.- Coadyuvar en la difusión de acciones para la asistencia y tratamiento de personas con problemas de adicción y alcoholismo, en coordinación con las autoridades competentes e instituciones privadas que corresponda;
-
-V.- Concertar acciones con instituciones de asistencia médica, educativa y social, públicas y privadas, para desarrollar programas conjuntos en materia de prevención del delito;
-
-VI.- Desarrollar programas de colaboración comunitaria para fomentar la cultura de la legalidad y de la seguridad en la comunidad;
-
-VII.- Establecer y ejecutar programas de vinculación, recepción, atención, orientación y en su caso, seguimiento y canalización de las quejas y denuncias de la población en materia de seguridad pública;
-
-VIII.- Promover la participación de la comunidad, organismos empresariales y demás organizaciones no gubernamentales, para que se involucren en las acciones tendientes a la prevención del delito, incluyendo la búsqueda de soluciones conjuntas acerca de temas relacionados con la seguridad pública que las afecten;
-
-IX.- Promover dentro del sistema educativo estatal la información relativa al conocimiento de los organismos de seguridad pública, así como sus actividades y programa, en especial los relativos a la participación de la comunidad;
-
-X.- Establecer los mecanismos de enlace, colaboración y participación de la comunidad, en materia de seguridad pública;
-
-XI.- Promover el intercambio de información con entidades federativas e instituciones nacionales e internacionales de carácter público o privado que privilegien la participación y atención de la comunidad en temas relacionados con la seguridad pública;
-
-XII.- Proporcionar información general a la comunidad sobre sus actividades, así como realizar campañas, encuestas y sondeos de opinión entre la población en torno a la seguridad pública;
-
-XIII.- Estudiar las conductas parasociales y antisociales, así como los factores que las propician y en base a éstos, elaborar programas de prevención del delito en el ámbito de su competencia;
-
-XIV.- Proporcionar, establecer y coordinar sistemas, mecanismos y procedimientos que permitan obtener información sobre la problemática de violencia intrafamiliar y la comisión de los delitos en general;
-
-XV.- Promover actividades y programas relacionados con la seguridad escolar, estableciendo vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la sociedad, tendientes a modificar las actividades y formar hábitos y valores de los alumnos a efecto de prevenir el desarrollo o comisión de conductas antisociales;
-
-XVI.- Coordinarse con los municipios y las delegaciones del Gobierno del Estado para ejecutar trabajos en conjunto, encaminados a la prevención del delito, la participación de la comunidad y el mejoramiento de los entornos en las comunidades;
-
-XVII.- Solicitar, analizar e interpretar la información geodelictiva para determinar los factores que generan conductas antisociales e identificar las zonas y sectores de alto riesgo;
-
-XVIII.- Incluir en el desarrollo de las políticas criminológicas a los diversos sectores que conforman la sociedad, como una estrategia de permanencia y consolidación al interior de las comunidades;
-
-XIX.- Gestionar la participación de dependencias de gobierno que desarrollen programas que incidan en la seguridad pública, para que se integren y participen en el desarrollo de la política criminológica, con la finalidad de acercar a la ciudadanía las acciones de la Secretaría;
-
-XX.- Proporcionar a la unidad administrativa encargada de la comunicación y relaciones públicas de la Secretaría, las actividades a desarrollarse por la Dirección;
-
-XXI.- Planear, coordinar, promover y desarrollar, actividades en las comunidades tendientes al mejoramiento del entorno en que se desarrollan;
-
-XXII.- Certificar los documentos que obren en los archivos de la Dirección y expedir certificaciones relativas a los asuntos de su competencia, por acuerdo expreso de autoridad competente; y,
-
-XXI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 41.
 
-A los Jefes de Departamento de Prevención del Delito y Participación de la Comunidad Zona Mexicali, Zona Tijuana, Tecate y Playas de Rosarito y la Zona Ensenada, les corresponderá el ejercicio de las atribuciones siguientes:
-
-l.- Llevar control del seguimiento en la aplicación de los programas preventivos y de participación de la comunidad en el Estado e informar al Director y Subdirector de los resultados de los mismos;
-
-II.- Planear el calendario a seguir en la aplicación de los programas preventivos de participación de la comunidad y las jornadas de mejoramiento de entornos que se lleven a cabo en la comunidad o en los centros escolares;
-
-III.- Coordinar la difusión, reproducción y entrega de material informativo de los programas preventivos y de participación de la comunidad que se lleven a cabo por la Dirección;
-
-IV.- Realizar brigadas comunitarias en el Estado, en comunidades que tengan mayor índice delictivo, con el objetivo de instalar módulos de seguridad pública para la atención y orientación de las inquietudes o quejas de la población en materia de seguridad pública;
-
-V.- Gestionar la participación de dependencias y entidades gubernamentales que realicen actividades de carácter social, para que se integren y participen en las brigadas comunitarias, con la finalidad de acercar a la comunidad dichos servicios y programas;
-
-VI.- Conformar comités y redes vecinales en los municipios del Estado, para implementar los programas de la Secretaría;
-
-VII.- Organizar en coordinación con la Dirección, actividades en materia de participación de la comunidad;
-
-VIII.- Asistir previo acuerdo del Director, a las brigadas de atención comunitaria que organicen las diferentes autoridades estatales o municipales; así como, a reuniones con comités de vecinos priorizando las colonias consideradas como conflictivas en el Estado;
-
-IX.- Realizar promoción de las diversas actividades y programas implementados por la Dirección;
-
-X.- Realizar por instrucciones de la dirección, la aplicación de encuestas y sondeos de opinión a la población en torno a la seguridad pública, así como difundir las políticas encaminadas a la prevención de conductas ilícitas;
-
-XI.- Mantener coordinación permanente, con los Comités Ciudadanos de Seguridad Pública del Estado;
-
-XII.- Proponer al Director e implementar mecanismos de coordinación y apoyo al interior de la dependencia, que faciliten la instrumentación, cumplimiento y seguimiento de los programas, políticas e instrucciones que establezca la Subsecretaría en materia de prevención del delito y participación de la comunidad; y,
-
-XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores jerárquicos, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 42.
 
@@ -1077,27 +1013,41 @@ IX.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 Corresponde a la Subsecretaría del Sistema Estatal Penitenciario, además de las establecidas en el artículo 9 de este Reglamento, el ejercicio de las atribuciones siguientes:
 
-I.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificación de internos, diseñar y ejecutar los programas de readaptación y reinserción social, promover la creación y funcionamiento del Patronato para Liberados, incluyendo el relativo a los adolescentes en conflicto con la legislación penal;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Otorgar a los sentenciados a disposición del Ejecutivo Estatal, los beneficios de libertad anticipada, en los supuestos y con los requisitos establecidos en la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California y en base al proveído de la Comisión Dictaminadora de proyectos de beneficios de libertad anticipada y demás normatividad aplicable;
+I.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificación de internos, diseñar y ejecutar los programas de reinserción social, promover la creación y funcionamiento del Patronato para Liberados, incluido el relativo a adolescentes en conflicto con la ley penal;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+II.- Proponer al Juez de Ejecución el otorgamiento de beneficios de libertad anticipada, por conducto de la Dirección de Ejecución de Penas y Medidas Judiciales, en los términos de las disposiciones aplicables;
 
 II (SIC).- Operar y administrar a la Policía Estatal de Seguridad y Custodia Penitenciaria, así como, garantizar a través de las instancias correspondientes la aplicación del régimen disciplinario de sus Miembros;
 
 IV.- Ejecutar, vigilar y supervisar la ejecución de las sentencias dictadas por los órganos jurisdiccionales penales el fuero común;
 
-V.- Aplicar la normatividad sobre ejecución de penas y medidas de seguridad en los Centros de Reinserción Social del Estado;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V.- Aplicar y supervisar la normatividad sobre medidas de seguridad en los Centros de Reinserción Social del Estado;
 
 VI.- Vigilar la ejecución de las medidas de tratamiento a los adultos inimputables impuestas por los órganos competentes;
 
-VII.- Ordenar los traslados de sentenciados que se encuentren a su disposición en los términos de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-VIII.- Participar en la elaboración y cumplimiento de los convenios de coordinación que se celebren con los gobiernos de las entidades federativas en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión, para el traslado de reos a los establecimientos dependientes del Poder Ejecutivo Federal y para que los reos del orden federal o común cumplan su sentencia en establecimientos dependientes de los gobiernos de las entidades federativas o en su caso de los municipios;
+VII.- Ordenar los traslados de sentenciados que se encuentren a su disposición, así como de imputados y procesados, en los términos de la Ley de Ejecución de Penas y Medidas Judiciales para el Estado de Baja California, y demás normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Participar en la elaboración y verificar el cumplimiento de los convenios de coordinación que se celebren con Federación y los gobiernos de las entidades federativas, en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión; así como aquellos para el traslado de imputados, procesados y sentenciados a los establecimientos dependientes del Poder Ejecutivo Federal o de las entidades federativas;
 
 IX.- Señalar en su caso, de conformidad con la normatividad aplicable el lugar donde los sentenciados deben cumplir sus penas;
 
-X.- Supervisar que los sentenciados o imputados en libertad, cumplan con las medidas de orientación, supervisión y vigilancia que se dicten al otorgarse por la autoridad judicial competente algún beneficio de libertad anticipada o una medida cautelar;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-XI.- Resolver lo conducente en los casos de conmutación de la pena, así como integrar los expedientes de indultos para el trámite ante la instancia correspondiente;
+X.- Supervisar que los sentenciados o imputados y procesados en libertad, cumplan con las medidas de orientación, supervisión y vigilancia que se dicten al otorgarse por la autoridad judicial competente, algún beneficio o medida judicial;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XI.- Integrar los expedientes de indulto en los términos de la normatividad aplicable, cuando así sea requerido;
 
 XII.- Verificar que los procedimientos de anuencia de cupo se cumplan de conformidad con la normatividad aplicable;
 
@@ -1107,7 +1057,9 @@ XIV.- Intervenir en los juicios de amparo cuando sea señalada como autoridad re
 
 XV.- Atender las quejas o denuncias que se presenten por particulares, derivadas del incumplimiento de las obligaciones de los servidores públicos de la Subsecretaría a su cargo;
 
-XVI.- Dirigir, supervisar y evaluar el funcionamiento de los programas de reinserción social en las Unidades Ejecutoras o Centros y en las instituciones de auxilio post liberacional, de conformidad con el modelo estratégico del tratamiento de reinserción social, así como los programas de tratamiento para adolescentes en conflicto con la legislación penal;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XVI.- Dirigir, supervisar y evaluar el funcionamiento de los programas de reinserción social en las unidades ejecutoras o centros y en las instituciones de auxilio post liberacional, de conformidad con el modelo estratégico del sistema de reinserción social; así como los programas de tratamiento para adolescentes en conflicto con la ley penal;
 
 XVII.- Supervisar la aplicación del sistema de desarrollo policial de los Miembros de la Policía Estatal de Seguridad y Custodia Penitenciaria, a que se refiere la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública y la demás disposiciones aplicables;
 
@@ -1119,13 +1071,19 @@ XIX.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 La Dirección de Centros de Reinserción Social y de Adolescentes, estará a cargo de un Director General, auxiliado por las unidades administrativas referidas en el artículo 13 fracción I, incisos A, B, C, D y E del presente Reglamento, de las Unidades Ejecutoras o Centros y demás previstas en los reglamentos y normatividad de la materia y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Coordinar y supervisar a través de las unidades ejecutoras o centros, la recepción de indiciados, procesados y sentenciados, que envíen las autoridades competentes y que por disposición de las mismas deban permanecer privados de la libertad;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Vigilar y supervisar que los directores de las unidades ejecutoras o centros, dejen en inmediata libertad a los imputados, procesados o sentenciados, cuando así sea ordenado por autoridad competente y esta sea procedente;
+I.- Coordinar y supervisar, a través de las unidades ejecutoras o centros, la recepción de indiciados, imputados, procesados y sentenciados, que envíen las autoridades judiciales competentes y, que por disposición de las mismas, deban permanecer privados de la libertad;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+II.- Vigilar y supervisar que los directores de las unidades ejecutoras o centros, dejen en inmediata libertad a los indiciados, imputados, procesados o sentenciados, cuando así sea ordenado por autoridad competente, y ésta sea procedente;
 
 III.- Vigilar y supervisar que los titulares de las unidades ejecutoras o centros, dejen en inmediata libertad a los sentenciados que hayan recibido un beneficio de libertad anticipada, indulto o amnistía; siempre y cuando no se encuentren a disposición de alguna otra autoridad competente por la cual deben permanecer internos, dando aviso de ello al Subsecretario y a la Dirección Estatal de Ejecución de Penas y Medidas Judiciales;
 
-IV.- Ejecutar los traslados de internos, de acuerdo a las instrucciones que le sean giradas por el Subsecretario del Sistema Estatal Penitenciario o por el Director de Ejecución de Penas y Medidas Judiciales, instruyendo para tal efecto, a la Policía Estatal de Seguridad y Custodia Penitenciaria;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV.- Ejecutar los traslados de internos, de acuerdo a las instrucciones que le sean giradas por el Subsecretario del Sistema Estatal Penitenciario o por el Director de Ejecución de Penas y Medidas Judiciales, instruyendo para tal efecto, a la Policía Estatal de Seguridad y Custodia Penitenciaria, o en su caso, solicitar el auxilio a otras instituciones policiales;
 
 V.- Determinar la viabilidad de las anuencias de cupo que sean solicitadas a la Subsecretaría del Sistema Estatal Penitenciario;
 
@@ -1139,7 +1097,9 @@ IX.- Atender las quejas o denuncias que presenten los particulares sobre las acc
 
 X.- Instruir la implementación de acciones o medidas que conlleven a la dignificación penitenciaria;
 
-XI.- Promover periódicamente la actualización de la Policía Estatal de Seguridad y Custodia Penitenciaria, mediante la impartición de cursos en materia de seguridad y formación penitenciaria aplicables al desempeño de su labor y demás materias afines;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XI.- Promover periódicamente la capacitación y adiestramiento de la Policía Estatal de Seguridad y Custodia Penitenciaria, mediante la impartición de cursos en materia de seguridad y formación penitenciaria aplicables al desempeño de su labor y demás materias afines;
 
 XII.- Instrumentar la medidas que sean pertinentes, a efecto de que la alimentación que reciben los internos de las unidades ejecutoras o centros, sea la necesaria en cantidad y calidad nutricional a través del Coordinación de Administración de Centros de Reinserción Social y de Adolescentes;
 
@@ -1169,9 +1129,13 @@ II.- Recibir las quejas o denuncias que presenten los particulares sobre las acc
 
 III.- Coordinar y supervisar las acciones que en materia de información penitenciaria se genere en las Unidades Ejecutoras o Centros, así como en la Unidad de Investigación Penitenciaria;
 
-IV.- Presentar al Director, propuestas e iniciativas de proyectos tendientes a la mejoría de las condiciones generales en el Sistema Estatal Penitenciario;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-V.- Llevar a cabo las acciones necesarias a efecto de que la alimentación que reciben los internos de las unidades ejecutoras o centros, sea la necesaria en cantidad y calidad nutricional;
+IV.- Presentar al Director, propuestas e iniciativas de proyectos tendientes a la mejoría de las condiciones generales en los Centros de Reinserción Social en el Estado;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V.- Llevar a cabo las acciones necesarias, para que la alimentación que reciban los internos en los Centros de Reinserción Social en el Estado, sea en cantidad, calidad y valor nutricional necesaria;
 
 VI.- Proponer, coordinar y supervisar por instrucción del Director, los trabajos de mantenimiento requeridos por las Unidades Ejecutoras o Centros de su competencia; y,
 
@@ -1195,9 +1159,11 @@ VI.- Proponer, coordinar y supervisar por instrucción del Director, los trabajo
 
 VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 48.
 
-La Policía Estatal de Seguridad y Custodia Penitenciaria, estará a cargo del miembro que ejerza el nivel jerárquico mayor dentro de su organización; y además de las atribuciones previstas en su ley y reglamento, tendrá el ejercicio de las siguientes:
+La Policía Estatal de Seguridad y Custodia Penitenciaria, estará a cargo de un Comisario, que tendrá el más alto rango en la organización jerárquica de dicha institución policial, sobre la cual ejercerá las atribuciones de mando operativo y disciplina; además de la estructura y atribuciones previstas en su Ley y su Reglamento, le corresponde el ejercicio de las atribuciones siguientes:
 
 I.- Supervisar, evaluar y coordinar el servicio de los miembros de la Policía Estatal de Seguridad y Custodia Penitenciaria, de acuerdo a las disposiciones aplicables y a las instrucciones y lineamientos establecidos por el Director;
 
@@ -1215,7 +1181,9 @@ VII- Vigilar que se mantenga el orden y disciplina dentro de las Unidades Ejecut
 
 VIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
-El Miembro que ejerza el nivel jerárquico mayor dentro de la organización de la Policía Estatal de Seguridad y Custodia Penitenciaria, para el ejercicio de sus facultades y obligaciones, será auxiliado por las unidades operativas o agrupamientos que se conformen en los términos de la Ley de Seguridad Pública, la ley de la Institución Policial, su reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+El Comisario de la Policía Estatal de Seguridad y Custodia Penitenciaria, para el ejercicio de sus facultades y obligaciones, será auxiliado por las unidades operativas o agrupamientos que se conformen en los términos de la Ley de Seguridad Pública, la Ley de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 49.
 
@@ -1269,9 +1237,11 @@ XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 La Dirección de Ejecución de Penas y Medidas Judiciales, estará a cargo de un Director, quien será auxiliado por las unidades administrativas referidas en el artículo 13 fracción II, incisos A, B y C del presente Reglamento, y tendrá a su cargo el ejercicio de las atribuciones siguientes:
 
-I.- Otorgar, previa consulta con el Subsecretario del Sistema Estatal Penitenciario, a los sentenciados a disposición del Ejecutivo Estatal, los beneficios de libertad anticipada en los supuestos y con los requisitos establecidos en la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California y en base al proveído de la Comisión Dictaminadora de proyectos de beneficios de libertad anticipada;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Presidir la Comisión Dictaminadora de proyectos de beneficios de libertad anticipada;
+I.- Proponer al Juez de Ejecución el otorgamiento de beneficios de libertad anticipada, en los términos de las disposiciones aplicables, previo conocimiento del Subsecretario del Sistema Estatal Penitenciario;
+
+II.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 III.- Vigilar la ejecución de las sentencias dictadas por los órganos jurisdiccionales penales del orden común;
 
@@ -1279,23 +1249,33 @@ IV.- Aplicar la normatividad aplicable sobre ejecución de penas y medidas judic
 
 V.- Vigilar la ejecución de las medidas de tratamiento a los adultos inimputables impuestos por los órganos competentes;
 
-VI.- Ordenar, previa autorización del Subsecretario, traslados de sentenciados que se encuentren a su disposición en los términos de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-VII.- Participar en la elaboración y cumplimiento de los convenios de coordinación que se celebren con los gobiernos de las entidades federativas, en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión, para el traslado de internos a los establecimientos dependientes del Poder Ejecutivo Federal y para que los internos del orden federal o común cumplan su sentencia en establecimientos dependientes de los gobiernos de los estados, o en su caso de los municipios;
+VI.- Ordenar previa autorización del Subsecretario del Sistema Estatal Penitenciario, traslados de sentenciados que se encuentren a su disposición, en los términos de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VII.- Participar en la elaboración y dar seguimiento al cumplimiento de los convenios de coordinación que se celebren con la Federación y los gobiernos de las entidades federativas, en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión; así como aquellos para el traslado de imputados, procesados y sentenciados a los establecimientos dependientes del Poder Ejecutivo Federal o de las entidades federativas;
 
 VIII.- Señalar en su caso, de conformidad con la normatividad aplicable, el lugar donde los sentenciados deberán cumplir sus penas;
 
 IX.- Sujetar y supervisar a los sentenciados ó imputados en libertad, a las medidas de orientación, supervisión y vigilancia que se dicten al otorgarse por la autoridad judicial algún beneficio de libertad anticipada, una medida cautelar, medida cautelar anticipada, providencia precautoria o penas privativas de libertad;
 
-X.- Resolver lo conducente en los casos de conmutación de la pena, así como integrar los expedientes de indultos para el trámite ante la instancia correspondiente;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+X.- Integrar los expedientes de indultos, en los términos de la normatividad aplicable, cuando así sea requerido;
 
 XI.- Autorizar si lo considera procedente, la solicitud de anuencia realizada por otra entidad federativa, a fin de que los liberados del orden común cumplan en este Estado con las obligaciones impuestas en el beneficio que le haya sido concedido;
 
-XII.- Expedir solicitud de anuencia a otro Estado con el objeto de que los liberados del orden común con algún beneficio penitenciario o judicial por lo que hace solo a la suspensión condicional de la ejecución de la pena, cumplan en aquel lugar con las obligaciones impuestas en el beneficio que les fue concedido;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-XIII.- Ejecutar los sustitutivos de la pena privativa de libertad, suspensión condicional de la ejecución de la pena, suspensión de proceso a prueba o alguna medida cautelar, ejerciendo la orientación y vigilancia necesaria sobre las personas para que cumplan su sentencia en esta modalidad y notificando a la autoridad que los otorgó, ante el incumplimiento de las condiciones y conclusión de la pena impuesta;
+XII.- Solicitar anuencia a otro Estado a fin que los liberados del orden común con algún beneficio judicial cumplan en aquel lugar con las obligaciones impuestas en el beneficio que les fue concedido;
 
-XIV.- Adecuar en los términos que previene la legislación penal, la sanción impuesta a los sentenciados que se encuentren a su disposición cuando por la entrada en vigor de una nueva ley, esta les resulte más favorable;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XIII.- Ejecutar los sustitutivos de la pena privativa de libertad, suspensión condicional de la ejecución de la pena, o alguna medida judicial; ejerciendo sobre las personas la orientación y vigilancia necesaria, para que cumplan con las condiciones impuestas; así como notificar a la autoridad que los otorgó, ante el incumplimiento de las mismas; lo anterior, en apego a las disposiciones aplicables;
+
+XIV.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 XV.- Proporcionar constancias de antecedentes penales a las autoridades competentes y expedir éstas, previa solicitud del interesado, con independencia de que se pueda delegar esta facultad en la forma que establece el presente Reglamento o mediante acuerdo que expida la Dirección;
 
@@ -1309,9 +1289,17 @@ XIX.- Certificar los documentos que obren en los archivos de la Dirección y exp
 
 XX.- Representar al Subsecretario y en su caso, a los titulares de las direcciones de la Subsecretaría del Sistema Estatal Penitenciario, en los procedimientos judiciales y administrativos o cualquier otro asunto de carácter legal, en que tenga interés o injerencia la misma, mediante mandamiento expreso de conformidad con la normatividad aplicable;
 
-XXI.- Suscribir los documentos relacionados con las funciones y atribuciones del Subsecretario del Sistema Estatal Penitenciario, previo acuerdo por escrito del mismo; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-XXII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+XXI.- Suscribir documentos en suplencia y por ausencia del Subsecretario del Sistema Estatal Penitenciario, sin necesidad de acuerdo previo, en asuntos relacionados con las funciones y atribuciones de éste;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XXII.- Solicitar el auxilio de la fuerza pública, a efecto de dar el cumplimiento a las medidas y beneficios judiciales, ordenadas por la autoridad judicial competente, en los términos de las disposiciones aplicables; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+XXIII.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por su superior, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -1323,11 +1311,15 @@ II.- Recibir las quejas o denuncias que presenten los particulares sobre las acc
 
 III.- Proporcionar previo acuerdo con el Director de Ejecución de Penas y Medidas Judiciales, las constancias de antecedentes penales en los términos de la normatividad aplicable, a las autoridades competentes y expedir previa solicitud del interesado, constancias de los mismos para el ejercicio de un derecho o el cumplimiento de un deber que legalmente corresponda;
 
-IV.- Suscribir documentos y desahogar toda clase de trámites en ausencia del Director de Ejecución de Penas y Medidas Judiciales, del Jefe del Departamento de Beneficios Penitenciarios a sentenciados y del Jefe del Departamento de Vigilancia y Seguimiento de Beneficios Penitenciarios Sustitutivos Penales y Medidas Judiciales,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales;
 
 V.- Coordinar normativamente las áreas jurídicas existentes en las Unidades Ejecutoras o Centros;
 
-VI.- Realizar los proyectos de autorización de traslados, excarcelaciones para atención médica y diligencias judiciales de sentenciados que se encuentren a disposición de la Dirección de Ejecución de Penas y Medidas Judiciales, en los términos de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VI.- Realizar los proyectos de autorización de traslados, excarcelaciones para atención médica y diligencias judiciales de sentenciados que se encuentren a disposición de la Dirección de Ejecución de Penas y Medidas Judiciales, en los términos de la normatividad aplicable;
 
 VII.- Integrar en los casos procedentes, los expedientes jurídicos de los internos para la obtención de beneficios de libertad anticipada;
 
@@ -1347,13 +1339,17 @@ XIV.- Elaborar estudios comparados sobre las legislaciones de las entidades fede
 
 XV.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 53.
 
-La Jefatura del Departamento de Beneficios Penitenciarios a Sentenciados, tendrá las atribuciones siguientes:
+La Jefatura del Departamento de Integración de Beneficios de Libertad Anticipada, tendrá las atribuciones siguientes:
 
-l.- Llevar a cabo el procedimiento y formular los proyectos de resolución de beneficios de libertad anticipada;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Integrar la Comisión Dictaminadora de proyectos de beneficios de libertad anticipada, como instancia responsable de la formulación de dichos proyectos;
+I.- Integrar el expediente jurídico administrativo de sentenciados, a quienes se les haya practicado los estudios técnicos de personalidad, para en su caso, proponer al Juez de Ejecución, el otorgamiento de beneficios de libertad anticipada, en los términos de las disposiciones aplicables;
+
+II.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
 III.- Proporcionar previo acuerdo con el Director de Ejecución de Penas y Medidas Judiciales, las constancias de antecedentes penales en los términos del Código de Procedimientos Penales para el Estado de Baja California, a las autoridades competentes y expedir, previa solicitud del interesado, constancias para el ejercicio de un derecho o el cumplimiento de un deber que legalmente corresponda;
 
@@ -1365,51 +1361,75 @@ VI.- Coordinar y supervisar el área de asuntos federales de la Dirección de Ej
 
 VII.- Realizar brigadas jurídicas en las Unidades Ejecutoras o Centros señalados en el artículo 13 fracción IV a la IX del presente Reglamento, para la revisión de expedientes de sentenciados comunes y federales, como prospectos a obtener algún beneficio de libertad anticipada;
 
-VIII.- Coordinar a las áreas jurídicas de las Unidades Ejecutoras o Centros, en relación a los trabajos de otorgamiento de los beneficios de libertad anticipada; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-IX.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores jerárquicos, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+VIII.- Coordinar las áreas jurídicas de las unidades ejecutoras o centros señaladas en la fracción que antecede, en relación a los trabajos a realizar sobre beneficios de libertad anticipada;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IX.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores, así como las determinadas en el presente reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 54.
 
-La Jefatura del Departamento de Vigilancia y Seguimiento de Beneficios Penitenciarios, Sustitutivos Penales y Medidas Judiciales, estará a cargo de un Jefe de Departamento, auxiliado por las coordinaciones de Zona Mexicali, Zona Ensenada y Zona Tijuana, esta última que comprende los municipios de Tecate y Playas de Rosarito, y tendrá el ejercicio de las atribuciones siguientes:
+La Jefatura del Departamento de Vigilancia de Medidas y Beneficios Judiciales, estará a cargo de un Jefe de Departamento, el cual será auxiliado por las coordinaciones de zona Mexicali, zona Ensenada y zona Tijuana, ésta última que comprende los municipios de Tecate y Playas de Rosarito, y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Vigilar el cumplimiento de las obligaciones impuestas a los sentenciados e imputados según proceda una vez que se les ha otorgado algún beneficio penitenciario o judicial comprendiendo éste la suspensión condicional de la ejecución de la pena, suspensión de proceso a prueba, los sustitutivos penales, la semilibertad, medida cautelar, medida cautelar anticipada, providencia precautoria, penas privativas de libertad o alguna medida de seguridad;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Visitar a los liberados en sus domicilios o trabajos a efecto de vigilar el cumplimiento de las obligaciones derivadas del otorgamiento de un beneficio penitenciario o judicial, informando a la autoridad judicial competente por conducto del Director de Ejecución de Penas y Medidas Judiciales, cuando se incumplan las obligaciones impuestas;
+I.- Vigilar el cumplimiento de las obligaciones impuestas a los sentenciados e imputados según proceda, una vez que se les ha otorgado algún beneficio judicial comprendiendo éste la suspensión condicional de la ejecución de la pena, suspensión de proceso a prueba, los sustitutivos penales, la semilibertad, alguna medida cautelar, medida cautelar anticipada, providencia precautoria, penas privativas de libertad, o alguna medida de seguridad, que considere la autoridad judicial competente;
 
-III.- Citar, si lo considera procedente y solo por una vez a los liberados con beneficio penitenciario o judicial, cuando hayan dejado de cumplir con las obligaciones impuestas, y en caso de no presentarse el día y hora señalado, sin necesidad de apercibimiento alguno, deberá informarse por conducto del Director de Ejecución de Penas y Medidas Judiciales, el incumplimiento a la autoridad judicial competente;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-IV.- Llevar los libros de control necesarios o un registro digitalizado de quienes obtengan como beneficio penitenciario o judicial realizar presentaciones;
+II.- Visitar a los imputados y sentenciados en sus domicilios o trabajo, para vigilar el cumplimiento de las obligaciones derivadas del otorgamiento de una medida o beneficio judicial, informando a la autoridad judicial por conducto del Director de Ejecución de Penas y Medidas Judiciales, cuando incumplan las obligaciones impuestas;
 
-V.- Vigilar a las personas sujetas a una condena o medida cautelar dictada por la autoridad judicial competente que suspenda algún derecho cuando la autoridad judicial considere que el sentenciado o imputado puede violar esta determinación, debiendo solicitar el apoyo de las Instituciones Policiales a que se refiere a Ley de Seguridad Pública, para la vigilancia del sentenciado o imputado, por todo el tiempo que debiera durar la medida, así como, cuando se sustituya la multa por libertad vigilada;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+III.- Citar, si lo considera procedente y sólo por una vez, a los sentenciados con beneficio judicial, cuando hayan dejado de cumplir con las obligaciones impuestas y, en caso de no presentarse el día y hora señalado, sin necesidad de apercibimiento alguno, deberá informarse el incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV.- Llevar los libros de control necesarios o un registro digitalizado de quienes obtengan algún beneficio judicial;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V.- Vigilar a las personas que sean sujetas a una obligación derivada de una sentencia o medida judicial, dictada por la autoridad judicial competente;
 
 VI.- Asignar el cumplimiento del trabajo en favor de la comunidad en institución pública o privada de tipo educativo o asistencial, cuando la autoridad judicial competente lo imponga como pena directa o sustitutiva, previo estudio de habilidades laborales y de disponibilidad realizado por la Dirección de Programas de Reinserción Social;
 
-VII.- Apercibir al sentenciado o imputado que tenga un beneficio penitenciario o judicial, cuando éste incumpla con las obligaciones inherentes a dicho beneficio, esto una vez que haya sido citado por una sola vez y haber comparecido a justificar el incumplimiento; en caso de reincidencia informar por conducto del Director de Ejecución de Penas y Medidas Judiciales, del incumplimiento a la autoridad judicial competente; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-VIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores jerárquicos, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+VII.- Apercibir al sentenciado que tenga un beneficio judicial, cuando este incumpla con las obligaciones inherentes a dicho beneficio, esto, una vez que haya sido citado por una sola vez y haber comparecido a justificar el incumplimiento; en caso de reincidencia, informar del incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IX.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 55.
 
-La Comisión Dictaminadora de Proyectos de Beneficios de Libertad Anticipada, será la responsable de la elaboración del proveído correspondiente para el otorgamiento o negación del beneficio de libertad anticipada, que servirá de base para que el Director de Ejecución de Penas y Medidas Judiciales determine la procedencia del otorgamiento o negación del beneficio, y estará integrada por:
-
-l.- El Director de Ejecución de Penas y Medidas Judiciales, quien la presidirá;
-
-II.- El Jefe del Departamento de Beneficios Penitenciarios a Sentenciados, quien fungirá como secretario técnico;
-
-III.- Tres dictaminadores del Departamento de Beneficios Penitenciarios a Sentenciados;
-
-IV.- Un representante de la Dirección de Programas de Reinserción Social.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 56.
 
 La Dirección de Programas de Reinserción Social, estará a cargo de un Director, auxiliado por las unidades administrativas que prevé el artículo 13 fracción III, incisos A y B del presente Reglamento, así como por el personal administrativo necesario para el cumplimiento de sus funciones y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Planear, dirigir, supervisar y evaluar el funcionamiento de los programas de reinserción social en las Unidades Ejecutoras o Centros y en las instituciones de auxilio post liberacional, de conformidad con el modelo estratégico del tratamiento de reinserción social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+I.- Planear, dirigir, supervisar y evaluar el funcionamiento de los programas de reinserción social en las unidades ejecutoras o centros y en las instituciones de auxilio post liberacional, de conformidad con el modelo estratégico del sistema de reinserción social;
 
 II.- Opinar sobre la designación del personal técnico propuesto por los Directores de las Unidades Ejecutoras o Centros;
 
-III.- Planear, programar, dirigir, evaluar y supervisar el funcionamiento de los programas de diagnóstico y tratamiento, los programas en externación en las Unidades Ejecutoras o Centros, así como los programas de seguimiento de liberados, estos últimos en coordinación con el Departamento de Vigilancia y Seguimiento de Beneficios Penitenciarios, Sustitutivos Penales y Medidas Judiciales;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+III.- Planear, programar, dirigir, evaluar y supervisar el funcionamiento de los programas de diagnóstico y tratamiento, los programas en externación en las unidades ejecutoras o centros, así como los programas de seguimiento de liberados, éstos últimos en coordinación con el Departamento de Vigilancia de Medidas y Beneficios Judiciales;
 
 IV.- Proponer al Subsecretario y en su caso establecer las políticas y normas técnicas para regular las actividades de reinserción social en las Unidades Ejecutoras o Centros;
 
@@ -1435,15 +1455,21 @@ XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 La Jefatura del Departamento de Programas de Reinserción Social, estará a cargo de un Jefe de Departamento, auxiliado por las coordinaciones de área de Psicología, Criminología, Trabajo Social, Médica, Educativa, Cultural y Deportiva, Proyectos Productivos, de Justicia Restaurativa y las demás que se constituyan y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Promover y supervisar la implementación de los distintos programas de readaptación social y medidas de tratamiento en las Unidades Ejecutoras o Centros, de conformidad con lo establecido en el modelo estratégico de tratamiento de reinserción social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+I.- Promover y supervisar la implementación de los distintos programas de reinserción social y medidas de tratamiento en las unidades ejecutoras o centros, de conformidad con lo establecido en el modelo estratégico del sistema de reinserción social;
 
 II.- Promover la implementación de programas de deshabituamiento y tratamiento de adicciones, a través de las áreas técnicas de las Unidades Ejecutoras o Centros, así como de las instituciones de apoyo con las que exista coordinación;
 
 III.- Promover y apoyar en la clasificación criminológica de la población interna de las Unidades Ejecutoras o Centros;
 
-IV.- Dar seguimiento a los estudios técnicos de personalidad que se realicen a la población interna en las Unidades Ejecutoras o Centros, con motivo de la aplicación del modelo estratégico de reinserción social y demás supuestos contemplados en la ley;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-V.- Gestionar y promover la coordinación interinstitucional para la aplicación y fortalecimiento del modelo estratégico del tratamiento de reinserción social; y,
+IV.- Dar seguimiento a los estudios técnicos de personalidad que se realicen a la población interna en las unidades ejecutoras o centros, con motivo de la aplicación del modelo estratégico del sistema de reinserción social y demás supuestos contemplados en la ley;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+V.- Gestionar y promover la coordinación interinstitucional para la aplicación y fortalecimiento del modelo estratégico del sistema de reinserción social, y
 
 VI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
@@ -1451,17 +1477,23 @@ VI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 La Jefatura del Departamento de Atención y Seguimiento a Liberados, tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Coordinar y auxiliar en las actividades y programas de trabajo que se desarrollen en cada una de las áreas que integran el departamento a su cargo, de acuerdo al modelo estratégico de tratamiento de reinserción social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+I.- Coordinar y auxiliar en las actividades y programas de trabajo que se desarrollen en cada una de las áreas que integran el departamento a su cargo, de acuerdo al modelo estratégico del sistema de reinserción social;
 
 II.- Auxiliar a los patronatos para liberados, en la relación con las instituciones públicas y organismos sociales o privados;
 
-III.- Dar seguimiento a los liberados para verificar su proceso de reinserción social, de acorde al modelo estratégico de tratamiento de reinserción social y la normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+III.- Dar seguimiento a los liberados para verificar su proceso de reinserción social, de acorde (sic) al modelo estratégico del sistema de reinserción social y la normatividad aplicable;
 
 IV.- Supervisar el trabajo en favor de la comunidad, determinando las instituciones públicas o privadas que requieran apoyo;
 
 V.- Coordinarse con la Dirección de Ejecución de Penas y Medidas Judiciales en lo relativo al programa de trabajo en favor de la comunidad; y,
 
-V (SIC).- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VI.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por su superior, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 59.
 
@@ -1473,7 +1505,9 @@ II.- Dejar en inmediata libertad a los sentenciados que hayan cumplido las sanci
 
 III.- Dejar en inmediata libertad a los imputados, procesados o sentenciados, cuando así sea ordenado por autoridad competente;
 
-IV.- Proponer, incentivar y supervisar la aplicación del modelo estratégico de reinserción social y demás lineamientos que para tal efecto establezca la Dirección de Programas de Reinserción Social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+IV.- Proponer, incentivar y supervisar la aplicación del modelo estratégico del sistema de reinserción social y demás lineamientos que para tal efecto establezca la Dirección de Programas de Reinserción Social;
 
 V.- Supervisar los lineamientos de seguridad en coordinación con la Policía Estatal de Seguridad y Custodia Penitenciaria adscrita al Centro a su cargo;
 
@@ -1541,9 +1575,19 @@ III.- Coordinar la implementación y/o actualización de los procedimientos nece
 
 IV.- Llevar a cabo los estudios y evaluaciones tecnológicas pertinentes que permitan ampliar la cobertura y mantener actualizada la infraestructura de los sistemas y de tecnología de las Unidades Ejecutoras o Centros del Sistema Estatal Penitenciario;
 
-V.- Atender y canalizar ante las instancias correspondientes, los problemas de los equipos de cómputo, sistemas y comunicación resguardados en la Subsecretaría; y,
+V.- Atender y canalizar ante las instancias correspondientes, los problemas de los equipos de cómputo, sistemas y comunicación resguardados en la Subsecretaría; y, (sic)
 
-VI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VI.- Administrar, conformar y proporcionar el soporte técnico, así como ejecutar todas aquellas acciones tendientes a asegurar la eficiente operación tecnológica del sistema de monitoreo electrónico implementado por la Subsecretaría del Sistema Estatal Penitenciario, para la vigilancia de localizadores electrónicos colocados a personas, impuestos por la autoridad judicial competente, a solicitud de la Dirección de Ejecución de Penas y Medidas Judiciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VII.- Prestar asistencia técnica y auxilio a la Dirección de Ejecución de Penas y Medidas Judiciales, para la colocación, reemplazo y retiro de los localizadores electrónicos, impuestos por la autoridad judicial competente; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por su superior, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE PLANEACIÓN Y DESARROLLO INSTITUCIONAL
 
@@ -1591,9 +1635,13 @@ XVII.- Las demás que le sean encomendadas por el Secretario y aquellas que le c
 
 La Dirección de Información, Análisis y Estrategias, estará a cargo de un Director, que será auxiliado por las unidades administrativas a que se refiere el artículo 18 del presente Reglamento y demás Servidores públicos que las necesidades del servicio requieran. Además de las establecidas en el artículo 9 de este Reglamento, tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Coordinar la estrategia policial de prevención del delito de acuerdo al ámbito de su competencia y de acuerdo a las disposiciones constitucionales y normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-II.- Coordinar e instrumentar las estrategias policiales en el ámbito de sus atribuciones, con las instituciones de seguridad pública e instituciones policiales a que se refiere la Ley de Seguridad Pública, así como con las de la Administración Pública Federal;
+I.- Definir y proponer al Secretario las estrategias de las instituciones policiales de la Secretaría, en materia de prevención y combate al delito, en el ámbito de su competencia y de acuerdo a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+II.- Diseñar las estrategias en materia de seguridad pública, en el ámbito de sus atribuciones, y promoverlas ante las instituciones de seguridad pública e instituciones policiales a que se refiere la Ley de Seguridad Pública, así como las correspondientes del Gobierno Federal;
 
 III.- Tener acceso y supervisar los bancos institucionales de datos y demás a los que les corresponda acceso legalmente a la Secretaría;
 
@@ -1603,7 +1651,9 @@ V.- Recabar de las unidades administrativas de la Secretaría la información ne
 
 VI.- Proponer políticas, lineamientos generales de coordinación y apoyo interinstitucional en materia de seguridad pública para su debida aprobación por parte del Secretario;
 
-VII.- Proponer acciones de mejora en el diseño, instrumentación y flujo de operación de los sistemas, métodos y procedimientos de trabajo policiales, para la aprobación del Secretario; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+VII.- Proponer acciones de mejora en el diseño, instrumentación y flujo de operación de los sistemas, métodos y procedimientos de trabajo en materia de seguridad pública, para la aprobación del Secretario; y,
 
 VIII.- Las demás que le sean encomendadas por el Secretario y aquellas que le confiera la normatividad aplicables.
 
@@ -1911,7 +1961,117 @@ a) No existen elementos para solicitar el inicio del procedimiento correspondien
 
 b) Existen elementos de prueba suficientes que establecen la presunción de que un Miembro ha dejado de reunir alguno de los requisitos de permanencia o incumplido con alguna de las obligaciones clasificadas como graves, para proceder en los términos de la Ley de Seguridad Pública.
 
-#### SECCIÓN VIII. DE LA COORDINACIÓN DE COMUNICACIÓN Y RELACIONES PÚBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+#### SECCIÓN VIII. DE LA DIRECCIÓN DEL CENTRO DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 78 Bis.
+
+La Dirección del Centro de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Baja California, estará a cargo de un Director y tendrá el ejercicio de las atribuciones siguientes:
+
+I.- Atender los factores que generen violencia y delincuencia mediante la participación ciudadana y comunitaria, a través de mecanismos que garanticen su efectiva intervención en el diseño e implementación de planes y programas estatales, así como en su control, evaluación y sostenibilidad;
+
+II.- Coadyuvar en la difusión de acciones para la asistencia de tratamiento de personas con problemas de adicción y alcoholismo, en coordinación con las autoridades públicas e instituciones sociales y privadas competentes;
+
+III.- Generar los modelos de prevención social enfocados a la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+IV.- Concertar acciones con instituciones de asistencia médica, educativa y social, públicas y privadas, para desarrollar programas conjuntos en materia de prevención social de la violencia y la delincuencia;
+
+V.- Desarrollar programas de colaboración comunitaria para fomentar y promover la cultura de la paz, la legalidad, la denuncia, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+VI.- Establecer y ejecutar programas de vinculación, recepción, atención, orientación y, en su caso, seguimiento y canalización de las quejas y denuncias de la población, en materia de prevención social de la violencia y la delincuencia;
+
+VII.- Promover la participación de la comunidad, organismos empresariales y demás organizaciones no gubernamentales, para que se involucren en las acciones tendientes a la prevención social de la violencia y la delincuencia, incluyendo la búsqueda de soluciones conjuntas acerca de temas que les afecten, relacionados con la seguridad pública;
+
+VIII.- Promover dentro del sistema educativo estatal la información relativa al conocimiento de los organismos de seguridad pública, así como sus actividades y programas, en especial los relativos a la participación de la comunidad;
+
+IX.- Establecer los mecanismos de enlace, colaboración y participación de la comunidad, en materia de prevención social de la violencia y la delincuencia;
+
+X.- Promover el intercambio de información con entidades federativas, así como con instituciones nacionales e internacionales de carácter público o privado que privilegien la participación y atención de la comunidad en temas relacionados con la prevención social de la violencia y la delincuencia;
+
+XI.- Proporcionar a la comunidad, información general sobre sus actividades, así como realizar campañas, encuestas y sondeos de opinión entre la población en torno a la prevención social de la violencia y la delincuencia;
+
+XII.- Estudiar las conductas parasociales y antisociales, así como los factores que las propician y, en base a éstos, elaborar programas de prevención social de la violencia y la delincuencia en el ámbito de su competencia;
+
+XIII.- Proporcionar, establecer y coordinar sistemas, mecanismos y procedimientos que permitan obtener información sobre la problemática de violencia intrafamiliar y la comisión de los delitos en lo general;
+
+XIV.- Promover actividades y programas relacionados con la seguridad escolar, estableciendo vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la sociedad, tendientes a modificar las actividades y formar hábitos y valores de los alumnos, a efecto de prevenir el desarrollo o comisión de conductas antisociales;
+
+XV.- Coordinarse con los municipios y demás dependencias y entidades del Gobierno del Estado, para ejecutar trabajos en conjunto, encaminados a la prevención social de la violencia y la delincuencia, la participación de la comunidad y al mejoramiento de los entornos en las comunidades;
+
+XVI.- Incluir en el desarrollo de las políticas criminológicas a los diversos sectores que conforman la sociedad, como una estrategia de permanencia y consolidación al interior de las comunidades;
+
+XVII.- Gestionar la participación de dependencias y entidades de los órdenes de gobierno, para que desarrollen programas que incidan en materia de prevención social de la violencia y la delincuencia, para que se integren y participen en el desarrollo de la política criminológica, con la finalidad de acercar las acciones de la Secretaría a la ciudadanía;
+
+XVIII.- Proporcionar a la unidad administrativa encargada de la comunicación y relaciones públicas de la Secretaría, las actividades a desarrollarse por la Dirección;
+
+XIX.- Certificar los documentos que obren en los archivos de la Dirección y expedir certificaciones relativas a los asuntos de su competencia, por acuerdo expreso de autoridad competente;
+
+XX.- Proponer al Secretario, los lineamientos en materia de prevención social de la violencia y la delincuencia, en el Estado;
+
+XXI.- Promover la convivencia, participación y la cohesión social entre las comunidades;
+
+XXII.- Emitir opiniones, recomendaciones, dar seguimiento y solicitar información sobre los diversos planes, programas y acciones implementadas por los Ayuntamientos y demás dependencias y entidades de la Administración Pública Estatal, en materia de prevención social de la violencia y la delincuencia;
+
+XXIII.- Realizar diagnósticos participativos en materia de prevención social de la violencia y la delincuencia en el Estado;
+
+XXIV.- Generar espacios para la participación de los jóvenes como agentes de cambio que contribuyan a la cohesión social;
+
+XXV.- Promover en las mujeres competencias organizativas, comunicativas y de liderazgo para crear grupos, redes o asociaciones que fomenten la cultura de la paz y la seguridad e impulsen proyectos de prevención social para fortalecer la cohesión social y comunitaria;
+
+XXVI.- Promover la participación y representatividad de mujeres, niñas, niños, jóvenes y demás grupos vulnerables, centrándose en estrategias que los involucren en el fomento a la seguridad ciudadana; y,
+
+XXVII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores jerárquicos, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 78 Ter.
+
+La Dirección del Centro de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Baja California, contará con las unidades administrativas siguientes:
+
+a) Departamento de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Zona Mexicali;
+
+b) Departamento de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Zona Tijuana;
+
+Este Departamento ejercerá sus atribuciones en la demarcación territorial que corresponde a los municipios de Tijuana, Tecate y Playas de Rosarito.
+
+c) Departamento de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Zona Ensenada; (sic)
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+Artículo 78 Quarter.- Las unidades administrativas previstas en el artículo que antecede, estarán a cargo de un jefe de departamento, y les corresponderá el ejercicio de las atribuciones siguientes:
+
+I.- Llevar control del seguimiento en la aplicación de las políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia, con la participación ciudadana en su zona de adscripción; así como informar al Director de los resultados de los mismos;
+
+II.- Planear el calendario a seguir en la aplicación de las políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia, con la participación ciudadana y las jornadas de mejoramiento de entornos que se lleven a cabo en la comunidad o en los centros escolares en la zona de su adscripción;
+
+III.- Coordinar la difusión, reproducción y entrega de material informativo de los programas y acciones que en materia de prevención social de la violencia y la delincuencia, realice la Dirección;
+
+IV.- Realizar brigadas comunitarias, en comunidades que tengan mayor índice delictivo, con el objeto de instalar módulos de seguridad pública para la atención y orientación de las inquietudes o quejas de la población en materia de prevención social de la violencia y la delincuencia;
+
+V.- Gestionar la participación de dependencias y entidades gubernamentales que realicen actividades de carácter social, para que se integren y participen en las brigadas comunitarias, con la finalidad de acercar a la comunidad dichos servicios y programas;
+
+VI.- Conformar comités y redes vecinales en los municipios del Estado, para implementar las políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia;
+
+VII.- Organizar, en coordinación con la Dirección, actividades en materia de participación de la ciudadanía, sobre prevención social de la violencia y la delincuencia;
+
+VIII.- Asistir, previo acuerdo del Director, a las brigadas de atención comunitaria que organicen las diferentes autoridades estatales o municipales; así como a reuniones con comités de vecinos, priorizando las colonias consideradas como conflictivas en el Estado;
+
+IX.- Realizar promoción de las diversos programas y acciones implementados por la Dirección en materia de prevención social de la violencia y la delincuencia;
+
+X.- Realizar, por instrucciones de la Dirección, la aplicación de encuestas y sondeos de opinión a la población en torno de la prevención social de la violencia y la delincuencia, así como difundir las políticas encaminadas a la prevención de conductas ilícitas;
+
+XI.- Mantener coordinación permanente, con los Comités Ciudadanos de Seguridad Pública del Estado;
+
+XII.- Proponer al Director e implementar mecanismos de coordinación y apoyo al interior de la dependencia, que faciliten la instrumentación, cumplimiento y seguimiento de las políticas, programas y acciones que establezca la Secretaría en materia de prevención social de la violencia y la delincuencia, con la participación ciudadana; y,
+
+XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores jerárquicos, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+#### SECCIÓN IX. DE LA COORDINACIÓN DE COMUNICACIÓN Y RELACIONES PÚBLICAS
 
 ###### Artículo 79.
 
@@ -1986,3 +2146,13 @@ JOSÉ FRANCISCO BLAKE MORA
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 DANIEL DE LA ROSA ANAYA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+De conformidad con lo dispuesto por el artículo 49, fracción I, de la Constitución Política del Estado Libre y Soberano de Baja California, imprímase y publíquese el presente Decreto para su debido cumplimiento y observancia.
