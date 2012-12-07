@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2010-09-10"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -271,7 +271,7 @@ Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan
 
 La atención en materia de violencia familiar se proporcionará a través de las autoridades enunciadas en el Artículo 3, fracción I, incisos b) y k).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
@@ -303,7 +303,7 @@ XI. Las demás que le señalen ésta u otras leyes.
 
 Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento de esta Ley:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -429,6 +429,12 @@ El monto de las sanciones se destinará a la ejecución del Programa.
 
 La facultad de aplicar las sanciones económicas prescribe en seis meses, plazo que contará a partir del día siguiente a aquél en que se hubiere cometido la infracción.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 40.
+
+El incumplimiento de las obligaciones, facultades o funciones que por omisión o comisión, hagan las autoridades consideradas como competentes en la aplicación de esta Ley, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, con independencia de los supuestos normativos que en materia penal pueda actualizar su conducta.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -485,7 +491,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE NOVIEMBRE DE 2005.
 
@@ -510,3 +516,7 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 l.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
 
 II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
