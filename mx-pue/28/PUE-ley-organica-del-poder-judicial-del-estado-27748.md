@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2012-09-14"
+last_updated: "2012-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -761,9 +761,9 @@ I.- Los Juzgados de lo Civil;
 
 II.- Los Juzgados de lo Familiar;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-III.- En materia penal, los Juzgados de Oralidad Penal, ya sean de Control o de Juicio Oral, y de Ejecución de Sanciones;
+III.- En materia penal, los Juzgados Penales, los Juzgados de Oralidad Penal, ya sean de Control o de Juicio Oral, y de Ejecución de Sanciones;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -2864,3 +2864,11 @@ SEGUNDO.- La operación de los Juzgados de Oralidad Penal se sujetará, por lo q
 TERCERO.- Los Jueces Municipales no tendrán competencia para conocer de la materia penal cuando entre en vigor el Código de Procedimientos Penales para el Estado de Puebla, publicado en el Periódico Oficial del Estado el veintiuno de febrero de dos mil once. En tanto entre en vigor el presente Decreto, continuarán conociendo de la materia penal los Juzgados Municipales y mixtos.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto y que se encuentren en trámite, deberán ajustarse a los términos previstos en el mismo.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
