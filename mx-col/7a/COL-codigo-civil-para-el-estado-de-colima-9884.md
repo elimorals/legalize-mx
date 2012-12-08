@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-08-25"
+last_updated: "2012-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -8461,6 +8461,10 @@ ART. 2289.- La renta o precio del arrendamiento puede consistir en una suma de d
 
 ART. 2290.- Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumirse; excepto aquellos que la ley prohibe arrendar y los derechos estrictamente personales.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Los contratos de arrendamientos deberán ser inscritos en el Instituto para el Registro del Territorio por cualquiera de las partes, a fin de que se lleve un registro de éstos; su inscripción será gratuita.
+
 ART. 2291.- El que no fuere dueño de la cosa podrá arrendarla si tiene facultad para celebrar ese contrato, ya en virtud de autorización del dueño, ya por disposición de la ley.
 
 ART. 2292.- En el primer caso del artículo anterior, la constitución del arrendamiento se sujetará a los límites fijados en la autorización, y en el segundo, a los que la ley haya fijado a los administradores de bienes ajenos.
@@ -8476,6 +8480,50 @@ ART. 2295.- Se prohibe a los encargados de los establecimientos públicos y a lo
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
 
 ART. 2296.- El arrendamiento debe otorgarse por escrito cuando la renta pase de 30 salarios mínimos al mes, la falta de esta formalidad se imputara al arrendador.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+El arrendador deberá inscribir el contrato de arrendamiento en el Instituto para el Registro del Territorio a más tardar dentro de los quince días naturales siguientes al de haberse otorgado, independientemente de que la parte arrendataria entre o no, aún en posesión del bien objeto del contrato, la falta de esta formalidad se imputará al arrendador. En caso que no realice la inscripción el arrendador podrá hacerlo el arrendatario.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Para dar inicio a dicho trámite bastará que quienes comparezcan, presenten el contrato de arrendamiento, así como la documentación oficial que los identifique.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+El registro del contrato de arrendamiento se podrá hacer por ventanilla o en forma electrónica en el sitio del Instituto para el Registro del Territorio; en este último caso el solicitante adjuntará documentos oficiales digitalizados que lo identifiquen y se le extenderá electrónicamente el aviso de acudir, dentro de los quince días naturales siguientes, a ratificar el mismo.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Para tales efectos, dentro del referido aviso, se le hará de su conocimiento, que en caso de no acudir a ratificar el mismo, el registrador en forma oficiosa declarará el no registro del contrato.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+ART. 2296 BIS.- El contrato de arrendamiento para ser registrado en la base de datos del Instituto para el Registro del Territorio, deberá contener cuando menos la siguiente información:
+
+a) Nombre del arrendador y nombre del arrendatario;
+
+b) Los datos generales de ambos, entendiendo como tales, su domicilio, en el caso del arrendatario puede indicar el del bien inmueble objeto del contrato; edad, ocupación, estado civil, nacionalidad y demás datos que ayuden a identificar plenamente a los contratantes;
+
+c) Domicilio del bien arrendado si se tratase de un inmueble;
+
+d) Descripción del bien arrendado si se tratase de un mueble;
+
+e) Importe de la renta;
+
+f) Temporalidad;
+
+g) La finalidad del uso del bien arrendado, en este caso se deberá indicar dicho propósito, siempre que sea lícito y posible, atendiendo a la naturaleza del bien;
+
+h) Una manifestación de la parte arrendadora de otorgar el arrendamiento para alguno de los fines indicados en la fracción anterior, con la cual se deslinda de cualquier responsabilidad que pudiera generarse en virtud del mal uso que la parte arrendataria pudiera darle al bien inmueble sin su conocimiento y consentimiento;
+
+i) Una manifestación de la parte arrendataria donde se comprometa a darle un buen uso al bien en cuestión; y
+
+j) Las firmas de dos testigos.
+
+Anexo al contrato de arrendamiento deberá acompañarse copia de identificación oficial de las partes contratantes y de los testigos que lo suscriban.
+
+El registro del contrato de arrendamiento y el cumplimiento de lo señalado en este artículo hacen presumir la buena fe de parte del arrendador.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
 
@@ -10814,3 +10862,9 @@ Los recursos humanos, materiales y financieros con los que venía operando la Di
 SEXTO.- Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Instituto para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registrales o documentos de duplicados, el Instituto podrá proceder a su reposición a petición de parte interesada.
 
 SÉPTIMO.- Las normas que en su contenido se refieran al Registro Público de la Propiedad y del Comercio, se entenderá que son aplicables para el INSTITUTO PARA EL REGISTRO DEL TERRITORIO, en tanto se realice la armonización correspondiente.
+
+P.O. 8 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
