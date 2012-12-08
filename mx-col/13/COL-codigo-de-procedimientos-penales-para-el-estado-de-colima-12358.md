@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2012-07-07"
+last_updated: "2012-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -205,27 +205,29 @@ IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguri
 
 V.- Ordenar y llevar a cabo, en los términos procedentes, las medidas de aseguramiento provisional de bienes, con los cuales pueda hacerse efectiva la reparación del daño;
 
-VI.- Asegurar o restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando estén acreditados los elementos del tipo penal de que se trate. La restitución no procede cuando se trate de bienes inmuebles, sobre los cuales, sólo la resolverá el órgano jurisdiccional.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+VI.- Asegurar o restituir al ofendido o a un tercero en el goce de sus derechos, provisional e inmediatamente de oficio o a petición del interesado, en cualquier fase de la preparación de la acción procesal penal. La restitución respecto de los bienes inmuebles, será con el carácter provisional y una vez remitida la Averiguación Previa al Órgano Jurisdiccional, éste último determinará si la ratifica o la revoca.
 
 Cuando por la naturaleza del bien y circunstancias de comisión del delito resulte evidente la necesidad de impedir su consumación, el Ministerio Público realizará todos los actos que se requieran para ello, tomando además las providencias adecuadas para evitar que con dichos actos se generen daños y perjuicios; aun cuando la posesión sea dudosa o se encuentre en litigio;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VII. Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal;
+VII.- Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal;
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VIII. Proveer regularmente a las victimas sobre los avances en la investigación y darles pleno acceso a los expedientes;
+VIII.- Proveer regularmente a las victimas sobre los avances en la investigación y darles pleno acceso a los expedientes;
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-IX. Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor; y (sic)
+IX.- Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor; y (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-X. Canalizar a las víctimas a los servicios de atención a víctimas del delito, para que se les proporcionen los servicios correspondientes; y
+X.- Canalizar a las víctimas a los servicios de atención a víctimas del delito, para que se les proporcionen los servicios correspondientes; y
 
-XI. Lo demás que éste Código y las leyes le autoricen expresamente.
+XI.- Lo demás que éste Código y las leyes le autoricen expresamente.
 
 ###### ARTICULO 21.
 
@@ -1321,7 +1323,9 @@ Transcurrido el plazo fijado sin que se promueva el juicio civil o el incidente,
 
 El Ministerio Público, durante la averiguación previa y encontrándose acreditado el cuerpo del delito, podrá a solicitud del ofendido, ordenar y llevar a cabo el aseguramiento provisional y por un tiempo que no exceda de treinta días, de bienes muebles que por otra razón legal no se encuentren a su disposición para garantizar el pago de la reparación del daño y puedan ser objeto de embargo precautorio por el juzgador. Dichos bienes quedarán en depósito bajo la responsabilidad de su poseedor o propietario.
 
-Si se trata de inmuebles, la medida se concretará a solicitar del Registro Público de la Propiedad, que no se efectúe la inscripción de ningún acto jurídico que afecte total o parcialmente el derecho de propiedad o constituya gravamen sobre los mismos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Si se trata de inmuebles, se llevará a cabo el aseguramiento provisional y se podrá solicitar al Instituto para el Registro del Territorio, que no se efectúe la inscripción de ningún acto jurídico que afecte total o parcialmente el derecho de propiedad o constituya gravamen sobre los mismos.
 
 La medida se dejará sin efectos si durante el lapso mencionado se paga o garantiza de otra forma legal, la reparación del daño.
 
@@ -1329,11 +1333,11 @@ La medida se dejará sin efectos si durante el lapso mencionado se paga o garant
 
 ### CAPITULO VI. RESTITUCION A LA VÍCTIMA Y AL OFENDIDO EN SUS DERECHOS Y PROTECCIÓN DE SU INTEGRIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 158.
 
-Una vez que se acredite el cuerpo del delito, el Ministerio Público durante el periodo de preparación de la acción procesal penal o el juzgador en el proceso, de oficio o a petición de parte, dictarán las medidas y providencias necesarias para proteger la vida, la integridad física y moral, los bienes posesiones o derechos de las víctimas y ofendidos, incluyendo los familiares directos y de los testigos que declaren en su favor, contra todo acto de intimidación o represalia, o bien cuando existan datos suficientes que demuestran que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados. También dictarán las providencias que se requieran para restituir a las victimas u ofendidos en el goce de sus derechos, siempre que estén justificados legalmente.
+Una vez que se acredite el cuerpo del delito, el Ministerio Público durante el periodo de preparación de la acción procesal penal o el juzgador en la preparación del proceso o en el proceso, de oficio o a petición de parte, dictarán las medidas y providencias necesarias para proteger la vida, la integridad física y moral, los bienes posesiones o derechos de las víctimas y ofendidos, incluyendo los familiares directos y de los testigos que declaren en su favor, contra todo acto de intimidación o represalia, o bien cuando existan datos suficientes que demuestran que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados. También dictarán las providencias que se requieran para restituir a las victimas u ofendidos en el goce de sus derechos, siempre que estén justificados legalmente.
 
 El Ministerio público, durante la averiguación previa y cuando se trate de bienes inmuebles sólo podrá asegurarlos por el tiempo indicado en el párrafo primero y en la forma prevista en el párrafo segundo del artículo 157.
 
@@ -2190,6 +2194,20 @@ Siempre que sea necesario tener a la vista algunas de las cosas a que se refiere
 ###### ARTICULO 263.
 
 Los bienes de uso lícito, asegurados por el Ministerio Público para efectos en la averiguación previa, que en el plazo de treinta días no sean puestos a disposición de autoridad judicial, no podrán ser retenidos por más tiempo sin el consentimiento de sus legítimos poseedores o propietarios. De estimarse necesario para la práctica de diligencias posteriores, la entrega de dichos bienes se efectuará con el carácter de depósito.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 263 BIS. Cuando existan indicios suficientes que hagan presumir fundadamente que una persona es miembro de la delincuencia organizada, el Ministerio Público podrá disponer dentro de la averiguación previa, el aseguramiento de los bienes de dicha persona, así como de aquellos respecto de los cuales se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse levantar el aseguramiento.
+
+De igual forma el Ministerio Público podrá disponer dentro de la averiguación previa, el aseguramiento de los bienes, que sean propiedad de un tercero y hayan sido utilizados para la comisión de delitos. Cuando se trate de bienes inmuebles dados en arrendamiento o en comodato, podrán devolverse a su legítimo propietario en calidad de depositario, mientras se resuelve en definitiva, si se acredita que hizo la inscripción del contrato respectivo en el Instituto para el Registro del Territorio en términos de lo establecido por el Código Civil, y además cumplió con los requisitos que la ley disponga o, en su caso, cuente con elementos suficientes que acrediten buena fe en la suscripción de dicho contrato; lo anterior siempre y cuando las circunstancias del hecho y el estado procesal lo permitan.
+
+Si no existen indicios de conocimiento de participación de los posibles delitos por los cuales se está ejerciendo esta acción, la buena fe quedará acreditada si el contrato de arrendamiento presentado por el arrendador quedó registrado ante el Instituto para el Registro del Territorio o, en su caso, presente elementos suficientes que la acrediten irrefutablemente.
+
+El aseguramiento de bienes a que se refiere este artículo, podrá realizarse en cualquier periodo del procedimiento penal.
+
+Los bienes asegurados por el Ministerio Público se pondrán, en su oportunidad procesal, a disposición del juez de la causa previa determinación del Ministerio Público de las medidas provisionales necesarias para su conservación y resguardo, sin perjuicio de lo que sobre aseguramiento de bienes, objetos e instrumentos de delito establecen el Código Penal para el Estado de Colima, este Código, la Ley Orgánica del Ministerio Público para el Estado de Colima y otros ordenamientos aplicables a este tema.
+
+El Ministerio Público podrá ordenar el registro de la anotación preventiva inherente al aseguramiento del bien inmueble ante el Instituto para el Registro del Territorio.
 
 ### CAPITULO V. CATEOS
 
@@ -3662,3 +3680,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones necesarias al Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
+
+P.O. 8 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
