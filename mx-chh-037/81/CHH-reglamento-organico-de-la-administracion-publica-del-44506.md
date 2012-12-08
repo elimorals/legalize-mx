@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2012-06-20"
+last_updated: "2012-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -699,6 +701,8 @@ XII (SIC). Las demás que señalen las leyes, reglamentos y manuales de organiza
 
 DIRECCION GENERAL DE SERVICIOS PUBLICOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 46.
 
 La Dirección General de Servicios Públicos es el órgano encargado de proporcionar, regular, promover y fomentar los siguientes servicios:
@@ -707,7 +711,9 @@ Son atribuciones del Director General de Servicios Públicos:
 
 I. Planear y mantener en condiciones eficientes de operación los servicios públicos municipales, los bienes muebles e inmuebles y el equipamiento que son necesarios para ello;
 
-II. Establecer y coordinar programas, con participación de la comunidad, para la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+II. Establecer y coordinar programas, con participación de la comunidad y de los poblados cercanos que forman parte del municipio, para la prestación de los servicios públicos y promover su participación en los planes, programas y acciones que lleve a cabo la administración municipal;
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
@@ -737,27 +743,33 @@ XIV. Organizar el despacho de la Dirección General con un Director Administrati
 
 XV. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
-Para el desempeño de sus funciones la Dirección General de Servicios Públicos, contará con las siguientes Direcciones de Área:
+Para el desempeño de sus funciones la Dirección General de Servicios Públicos, contará con las siguientes Direcciones de Área y Coordinaciones:
 
-Dirección Técnica;
+I. Dirección Técnica;
 
-Dirección de Limpia;
+II. Dirección de Limpia;
 
-Dirección de Parques y Jardines;
+III. Dirección de Parques y Jardines;
 
-Dirección de Alumbrado Público;
+IV. Dirección de Alumbrado Público;
 
-Dirección de Sistemas de Control de Tráfico;
+V. Dirección de Sistemas de Control de Tráfico;
 
-Dirección de Mantenimiento de Vías Públicas Municipales;
+VI. Dirección de Mantenimiento de Vías Públicas Municipales;
 
-Dirección de Industrialización Agropecuaria, y
+VII. Dirección de Industrialización Agropecuaria;
 
-Dirección Administrativa.
+VIII. Dirección Administrativa;
+
+IX. Dirección de Atención Ciudadana del Sur Oriente, y
+
+X. Coordinación de Desarrollo Rural y Forestal Sustentable.
 
 ###### Artículo 48.
 
@@ -804,6 +816,18 @@ El Director de Industrialización Agropecuaria tendrá a su cargo la vigilancia 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 Artículo 54 bis.- El Director Administrativo, tendrá a su cargo el seguimiento de los proyectos estratégicos y recursos que sean aprobados por el cabildo, así como la fiscalización de los almacenes, las altas y bajas del personal, y el seguimiento a cada uno de los resguardos patrimoniales de los empleados.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Artículo 54 ter.- El Director de Atención Ciudadana del Sur Oriente, atenderá a los ciudadanos de la zona urbana ubicada en el Sur Oriente de la localidad y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la administración municipal en beneficio de esas comunidades, coordinándose para ello con las dependencias correspondientes.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2012)</small>
+
+Artículo 54 cuáter. El Coordinador de Desarrollo Rural y Forestal Sustentable, impulsará, el mejoramiento integral del bienestar social de la población y de las actividades económicas, en el territorio comprendido, fuera de los núcleos de la población considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio, sugerirá criterios para la planeación y ejecución de las políticas y programas de desarrollo rural y forestal, en el ámbito municipal.
 
 OFICIALIA MAYOR
 
@@ -1377,6 +1401,8 @@ Son atribuciones de la Dirección Operativa, manejar y operar la infraestructura
 
 UNIDADES DE COORDINACIÓN Y APOYO ADSCRITAS AL PRESIDENTE
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 95.
@@ -1391,9 +1417,7 @@ III. Secretaría Técnica
 
 IV. Secretaría de Comunicación Social
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
-
-V. Coordinadora de Atención Ciudadana del Sur-Oriente
+V. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2012)
 
 VI. Coordinación General de Planeación y Evaluación
 
@@ -1485,29 +1509,15 @@ El Secretario de Comunicación Social procurará la identificación de la activi
 
 Artículo 99 bis.- Para el mejor desempeño de sus atribuciones el Secretario de Comunicación Social, contará con la Dirección de Prensa, que se encargará de la difusión y cobertura en medios de comunicación de las actividades de la Administración Pública Municipal, así como de las demás funciones que le encomiende el Presidente Municipal y el Secretario de Comunicación Social.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2012)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 100.
 
-El Coordinador de Atención Ciudadana del Sur Oriente, atenderá directamente a los ciudadanos de la zona urbana ubicada en el Sur Oriente de la localidad y de los poblados cercanos que forman parte del Municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la administración en beneficio de esas comunidades, coordinándose para ello con las dependencias correspondientes. Para el mejor desempeño de sus atribuciones, el Coordinador de Atención Ciudadana del Sur Oriente, contará con la dirección de área denominada Dirección de Desarrollo Rural y Forestal Sustentable, que tendrá las atribuciones previstas en el siguiente artículo.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-Artículo 100 bis.- Son atribuciones del Director de Desarrollo Rural y Forestal Sustentable:
-
-I. Impulsar, el mejoramiento integral del bienestar social de la población y de las actividades económicas, en el territorio comprendido fuera de los núcleos de la población considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
-
-II. Proponer al Ayuntamiento la celebración de acuerdos y convenios de colaboración entre las dependencias y entidades de la Administración Pública Estatal, con las del Ejecutivo Federal, de otras Entidades Federativas, del Municipio y de otros Ayuntamientos, así como con Organizaciones Nacionales e Internacionales, involucradas en la formulación y ejecución de políticas en materia de desarrollo rural y forestal sustentable y ejecutar los que en su caso se aprueben;
-
-III. Establecer, en congruencia con los programas, acuerdos y convenios aprobados por el Ayuntamiento, las políticas generales y definir las prioridades a las que deberá sujetarse la Dirección;
-
-IV. Sugerir criterios para la planeación y ejecución de las políticas y programas de desarrollo rural y forestal, en el ámbito municipal;
-
-V. Promover lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública federal y estatal competentes;
-
-VI. Recibir, la denuncia popular, respecto de los hechos u omisiones, que violenten o contravengan las disposiciones en materia de desarrollo forestal, de conformidad con los términos y el procedimiento previsto en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Chihuahua, y
-
-VII. Las demás que le asignen, las Leyes y Reglamentos aplicables en la materia y los convenios que conforme a dichos ordenamientos se celebren.
+Artículo 100 bis.- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
@@ -1686,3 +1696,7 @@ P.O. 28 DE MARZO DE 2012.
 P.O. 20 DE JUNIO DE 2012.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 8 DE DICIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma del Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
