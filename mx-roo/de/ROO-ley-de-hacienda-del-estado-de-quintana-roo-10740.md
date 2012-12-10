@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2011-12-19"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -5791,117 +5791,61 @@ Por la reposición de la Licencia de Bebidas Alcohólicas en cualquiera de sus g
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 172.
 
-Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal antes las oficinas Recaudadoras de Rentas en el Estado, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente contado a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo y obtener a su vez la correspondiente Licencia de Funcionamiento según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
+Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios. y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las oficinas Recaudadoras de Rentas en el Estado, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente, contado a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo y obtener a su vez la correspondiente Licencia de Funcionamiento según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Folio del aviso de inscripción o apertura de establecimiento realizado en el Servicio de Administración Tributaria;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+II.- Domicilio fiscal del contribuyente y del establecimiento;
 
-I.- Folio del aviso de inscripción o apertura de establecimiento realizado en el Servicio de Administración Tributaria.
+III.- Giro o actividad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- En su caso, el número de licencia de bebidas alcohólicas con refrendo vigente;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+V.- En su caso, el número de operación del recibo de pago de comodato vigente;
 
-II.- Domicilio fiscal del contribuyente y del establecimiento
+VI.- En su caso, número de autorización vigente para operar como casa de empeño y préstamo;
 
-III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2004)
+VII.- En su caso, número de autorización vigente para operar como prestador de servicios de seguridad privada; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Obligaciones fiscales a cargo.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+Tratándose de aumento de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
 
-IV.- Giro o actividad
-
-V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
-
-VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-VIII.- En su caso el número de Licencia de bebidas alcohólicas con refrendo vigente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-IX.- En su caso número de operación del recibo de pago de comodato vigente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-X.- En su caso, número de autorización vigente para operar como casa de empeño y préstamo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-XI.- En su caso, número de autorización vigente, para operar como prestador de servicios de seguridad privada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-XII.- Obligaciones fiscales a cargo.
-
-Tratándose de aumento de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada.
-
-Tratándose de disminución de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
-
-a) Constancia de cumplimiento de obligaciones.
+Tratándose de disminución de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
 
 Tratándose de cambio de domicilio, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
 
-a) Constancia de cumplimiento de obligaciones.
+a) Folio de aviso de cambio de domicilio del establecimiento realizado en el Servicio de Administración Tributaria;
 
-b) Folio del Aviso de cambio de domicilio del establecimiento realizado en el Servicio de Administración Tributaria,
+b) Domicilio fiscal del contribuyente;
 
-c) Domicilio fiscal del contribuyente,
+c) Domicilio del establecimiento y referencias;
 
-d) Domicilio del establecimiento y referencias;
+d) En su caso, número de licencia de bebidas alcohólicas con refrendo vigente;
 
-e) En su caso, número de Licencia de bebidas alcohólicas con refrendo vigente;
+e) En su caso, número de operación del recibo de pago de comodato vigente;
 
-f) En su caso, número de operación del recibo de pago comodato (sic) vigente;
+f) En su caso, número de autorización vigente para operar como casa de empeño y préstamo; y
 
-g) En su caso, número de autorización vigente para operar como casa de empeño y préstamo;
-
-h) En su caso, número de autorización vigente para operar como operador de servicios de seguridad privada.
+g) En su caso, número de autorización vigente para operar como operador de servicios de seguridad privada.
 
 Tratándose de cambio de giro o actividad, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
 
-a) Folio del Aviso de actualización de actividades económicas y obligaciones del establecimiento realizado en el Servicio de Administración Tributaria;
+a) Folio del aviso de actualización de actividades económicas y obligaciones del establecimiento realizado en el Servicio de Administración Tributaria; y
 
 b) Giro o actividad.
 
-Tratándose de cierre de establecimiento o suspensión de actividades se contará con un mes para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener cancelación de la licencia de funcionamiento, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
+Tratándose de cierre de establecimiento o suspensión de actividades se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener cancelación de la licencia de funcionamiento, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley y acompañar a su aviso la referencia al folio del aviso de suspensión de actividades económicas del establecimiento realizado en el Servicio de Administración Tributaria.
 
-a) Folio del Aviso de suspensión de actividades económicas del establecimiento realizado en el Servicio de Administración Tributaria;
+Las licencias a que se refiere este capítulo, incluyendo las actualizadas derivadas de algún movimiento, tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán renovarse en los dos primeros meses del siguiente ejercicio fiscal; en efecto, para la procedencia de lo dispuesto en este párrafo se deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
 
-b) Constancia de cumplimiento de obligaciones.
-
-Las licencias a que se refiere este capítulo incluyendo las actualizadas derivadas de algún movimiento tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán, renovarse en los dos primeros meses del siguiente ejercicio fiscal, proporcionando la constancia de cumplimiento de obligaciones, mediante el uso de los dispositivos o medios electrónicos que la Secretaría disponga para tal efecto.
-
-La Secretaría se reserva la facultad de verificar mediante la inspección al establecimiento que la información proporcionada para la obtención de la Licencia de Funcionamiento o sus cambios y actualizaciones son auténticos, contrario a esto se impondrán las infracciones a que se refiere el Código Fiscal del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Cuando en un mismo establecimiento se realicen varias actividades, deberán solicitar en el mismo plazo la expedición de las licencias de funcionamiento, por cada uno de los giros o actividades, a excepción de los giros comerciales denominados Super ó Minisupers.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Las licencias a que se refiere este capítulo, tendrán una vigencia a partir de la expedición y finalizará cuando el contribuyente, realice un tipo de cambio, presente el aviso de baja o cierre del local o sucursal. Tratándose de contribuyentes con giros con venta de alcoholes se sujetará al artículo 170-A de esta Ley.
+La Secretaría se reserva la facultad de verificar mediante la inspección al establecimiento que la información proporcionada para la obtención de la licencia de Funcionamiento o sus cambios y actualizaciones son auténticos, contrario a esto se impondrán las infracciones a que se refiere el Código Fiscal del Estado.
 
 ###### ARTICULO 173.
 
@@ -6773,11 +6717,15 @@ m) Por permisos provisionales para circulación de vehículos por:
 
 2.- 30 días sin placas, 6.90 veces el S.M.G. vigente en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-n) Por expedición y reposición de tarjetas de circulación 0.75 el S.M.G. en el estado.
+n) Por expedición y reposición de tarjetas de circulación por:
+
+1.- Un año 0.75 veces el S.M.G.
+
+2.- Dos años 1.50 veces el S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -7357,61 +7305,111 @@ Las dependencias y organismos auxiliares de la administración pública estatal 
 
 ### CAPITULO IX. DE LA CONSTANCIA DE COMPATIBILIDAD URBANISTICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 182.
 
-Por la expedición de la constancia de compatibilidad urbanística estatal con una vigencia de tres años, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con la siguiente:
+Por el análisis y calificación de proyectos para la expedición de la constancia de compatibilidad urbanística estatal con una vigencia de tres años, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con lo siguiente:
 
-I.- En caso de fraccionamiento de tipo habitacional, hotelero, comercial, industrial, funerario, granjas de explotación agropecuaria, y demás aprovechamientos y usos, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
+I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburbano o rural, turístico, comerciales, industriales, de servicios funerarios, todos en sus diversas modalidades y demás aprovechamientos y usos, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-II.- 10 S.M.G. Por fracción resultante para el caso de ser una subdivisión en predio menor de 10,000mt2 en tres fracciones o más; y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000mt2 se cobrará 12 S.M.G. por fracción resultante;
+II.- Para el caso de una subdivisión de un predio cuya superficie original sea igual o mayor a los 2,500mt2; se cobrará 12 S.M.G. por fracción resultante;
 
-III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social; 24 S.M.G. en el caso de desarrollos habitacionales tipo medio, 48 S.M.G. para tipo residencial y 52 S.M.G. por cada unidad comercial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
+III.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
 
-IV.- Para centros comerciales y/o locales, plazas con uso comercial y oficinas y centrales de abasto, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
+a) 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
 
-V.- Para las centrales camioneras y de carga, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
+b) 24 S.M.G., en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
 
-VI.- Para proyectos de industrias, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
+c) 48 S.M.G., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
 
-VII.- Para proyectos de hospitales y centros médicos, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
+d) 52 S.M.G. en el caso de desarrollos de tipo comercial, por cada unidad comercial.
 
-VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
+En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+V.- Para las centrales camioneras y de carga, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción.
+
+VI.- Para proyectos de industrias de cualquier tipo, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción.
+
+VII.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción,
+
+VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+
+IX.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+X.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+XI.- Por relotificación de terrenos, se cobrarán 10 S.M.G., por lote;
+
+XII.- Por fusión de terrenos, se cobrarán 12 S.M.G., por lote;
+
+XIII.- Hoteles en todas sus modalidades, de 0.05 S.M.G. hasta 1.50 S.M.G., por metro cuadrado de la superficie de construcción:
+
+XIV.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+XV.- Bancos de extracción de materiales pétreos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno; y
+
+XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2 , de 0,05 S.M.G. hasta 1.5 S.M.G., por metro cuadrado de la superficie de construcción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 182
 
-BIS.- Por la autorización de prórroga de la constancia de compatibilidad urbanística estatal de conformidad al artículo 84 último párrafo de la Ley de Asentamientos Humanos, para los siguientes conceptos:
+BIS.- Por la autorización de prórroga de la constancia de compatibilidad urbanística estatal de conformidad al artículo 84 penúltimo párrafo de la Ley de Asentamientos Humanos, para los siguientes conceptos:
 
-a) Para fraccionamientos, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización del desarrollo que falten por ejecutarse.
+I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburbano o rural, turístico, comerciales, industriales, de servicios funerarios, todos en sus diversas modalidades, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización del desarrollo que falten por ejecutarse;
 
-b) Por régimen de propiedad en condominio, se cobrará por cada unidad privativa asignada que falte por ejecutarse 16 S.M.G. en el caso de desarrollos habitacionales de interés social, 24 S.M.G. en el caso de desarrollos habitacionales tipo medio, 48 S.M.G. para tipo residencial y 52 S.M.G. por cada unidad comercial; de igual manera se cobrara el 0.5% sobre el monto total de las obras de urbanización que falten de ejecutar.
+II.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
 
-c) Por régimen de propiedad en condominio con vialidades intermedias dentro del predio, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización o de introducción de servicios que falten por ejecutar.
+a) 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
 
-d) Para centros comerciales y/o locales, plazas con uso comercial, oficinas y centrales de abasto, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
+b) 24 S.M.G., en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
 
-e) Para centrales camioneras y de carga, de 0.5 S.M.G. hasta 2 S.M.G. por cada metro cuadrado, de la superficie del terreno.
+c) 48 S.M.G., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
 
-f) Para proyectos de industrias, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
+d) 52 S.M.G. en el caso de desarrollos de tipo comercial, por cada unidad comercial.
 
-g) Para proyectos de hospitales y centros médicos. De 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
+En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización o de introducción de servicios que falten por ejecutar.
 
-h) Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
+III.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Para las centrales camioneras y de carga, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+V.- Para proyectos de industrias de cualquier tipo de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+
+VI.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+
+VII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+
+VIII.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+IX.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+X.- Por relotificación de terrenos, se cobrarán 10 S.M.G., por lote;
+
+XI.- Por fusión de terrenos, se cobrarán 12 S.M.G., por lote;
+
+XII.- Hoteles en todas sus modalidades, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+
+XIII.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+
+XIV.- Bancos de extracción de materiales pétreos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno; y
+
+XV.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0.05 S.M.G. hasta 1.50 S.M.G., por metro cuadrado de la superficie de construcción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 182
 
-TER.- Por la autorización de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G. este derecho será adicional de las unidades privativas que se incrementen y el 0.5% de las obras de urbanización que falten por ejecutarse, en el caso de que aun este vigente la constancia que haya sido expedida en su momento de conformidad al artículo 182 de la presente Ley.
+TER.- Por el análisis y calificación de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G., este derecho será adicional de las unidades privativas que se incrementen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7483,39 +7481,87 @@ c).- en (sic) los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozum
 
 III.- Análisis de laboratorio:
 
-1. Mesofolicos aerobios (enlatados) $ 175.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2. Termofilos aerobios (enlatados) $ 175.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
-3. Termofilos anaerobios (enlatados) $ 175.00
+1. Mesofolicos aerobios (enlatados) $ 208.00
 
-4. Mesofílicos anaerobios (enlatados) $ 175.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-5. Hongos y levaduras $ 175.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+2. Termofilos aerobios (enlatados) $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+3. Termofilos anaerobios (enlatados) $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+4. Mesofílicos anaerobios (enlatados) $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+5. Hongos y levaduras $ 208.00
 
 6. Investigación de Shigella sp. $ 925.00
 
-7. Métodos para la cuenta bacteriana aerobias en placa $ 175.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-8. Determinación de coniformes totales por el número más probable NMP $ 180.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
-9. Investigación de S. Aureus $ 260.00
+7. Métodos para la cuenta bacteriana aerobias en placa $ 208.00
 
-10. Investigación de salmonella sp. $ 310.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-11. Métodos para la determinación de cuentas de mohos y levaduras en alimentos $ 180.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
-12. Investigación de Toxinas S. Aureus $2,835.00
+8. Determinación de coniformes totales por el número más probable NMP $ 219.00
 
-13. Investigación de E. Coli 0157:H7 $1,160.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+9. Investigación de S. Aureus $ 312.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+10. Investigación de salmonella sp. $ 371.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+11. Métodos para la determinación de cuentas de mohos y levaduras en alimentos $ 208.00
+
+12. Investigación de Toxinas S. Aureus $ 2,835.00
+
+13. Investigación de E. Coli 0157:H7 $ 1,160.00
 
 14. Determinación de E. Coli por el número más probable NMP $ 230.00
 
 15. Investigación de V. Cholerae (aislamiento del microorganismo y detención de enterotoxinas) $ 575.00
 
-16. Efectividad de germicidas. $ 247.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-17. Métodos para la determinación de bacterias coniformes totales en placa. $ 180.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+16. Efectividad de germicidas. $ 599.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+17. Métodos para la determinación de bacterias coniformes totales en placa. $ 219.00
 
 18. Métodos para la determinación de bacterias coniformes fecales para la técnica del número más probable. $ 180.00
 
@@ -7525,37 +7571,437 @@ III.- Análisis de laboratorio:
 
 21. PH. (Determinación de la acidez en una solución) $ 80.00
 
-22. Cloro residual. $ 80.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
+
+22. Cloro residual. $ 104.00
 
 23. Investigación de gnathostoma. $ 200.00
 
 24. Investigación de Biotoxina Ciguata por bioensayo en ratón. $ 2, 200.00
 
-25. Entrococos. $200.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-26. Colinesterasa. $70.00
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-27. Clenbuterol por Elisa. $1,124.00
+25. Enterococos. $ 261.00
 
-28. Determinación del Cloro libre residual-método con ortotoluidina y ersenito. $107.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-29. Cloruros.método por titulación-argento métrico. $330.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
-30. Conductividad. $100.00
+26. Colinesterasa. $ 115.00
 
-31. Dureza total CaCO3. $100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-32. Fluoruros como ión fluor-método potenciómetro. $812.00
+(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
-33. SAAN (sustancias activas al azul de metileno). $526.00
+27. Clenbuterol por Elisa. $ 1,346.00
+
+28. Determinación del Cloro libre residual-método con ortotoluidina y ersenito. $ 107.00
+
+29. Cloruros.método por titulación-argento métrico. $ 330.00
+
+30. Conductividad. $ 100.00
+
+31. Dureza total CaCO3. $ 100.00
+
+32. Fluoruros como ión fluor-método potenciómetro. $ 812.00
+
+33. SAAN (sustancias activas al azul de metileno). $ 526.00
 
 34. Turbiedad. $189.00
 
-35. Determinación de fluoruros como ión flúor en sal para consumo humano. $812.00
+35. Determinación de fluoruros como ión flúor en sal para consumo humano. $ 812.00
 
-36. Yodatados y yoduros de sodio y potasio como ión yodo (sal para consumo humano). $475.00
+36. Yodatados y yoduros de sodio y potasio como ión yodo (sal para consumo humano). $ 475.00
 
-37. Grado alcohólico. $430.00
+37. Grado alcohólico. $ 430.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+38. Aislamiento y tipificación a partir de muestras fecales de escherichia ooli $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+39. Aislamiento y tipificación a partir de muestras fecales de salmonella sp $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+40. Aislamiento y tipificación a partir de muestras fecales de shigella sp $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+41. Aislamiento y tipificación a partir de muestras fecales de vibrio cholerae $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+42. Investigación de enfermedades prevenibles por vacunación de sarampión IgM $ 500.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+43. Investigación de enfermedades prevenibles por vacunación de sarampión IgG $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+44. Investigación de enfermedades prevenibles por vacunación de rubeola IgM $ 375.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+45. Investigación de enfermedades prevenibles por vacunación de rubeola IgG $ 469.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+46. Cultivo nasofaríngeo para Bordetella pertussi $ 521.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+47. Aislamiento bacteriano de neumococo, estreptococo, sp $ 156.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+48. Aislamiento de micobacterias (diagnóstico y control) $ 88.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+49. Identificación de BAAR en esputo (Ziehl-Neelsen) $ 52.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+50. Identificación microscópica (Impronta) de Leishmania $ 141.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+51. Prueba de intradermorreacción de Leishmania (Reacción de Montenegro) $ 66.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+52. Hepatitis B; Anticuerpos anti antígeno Core. (HBc) ELISA en peine $ 333.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+53. Hepatitis C (HCV IgG), ELISA en peine $ 333.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+54. Hepatitis C (HCV IgG). Aglutinación de Partículas $ 333.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+55. Hepatitis C (HCV IgG). Prueba Rápida $ 333.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+56. Varicela Anticuerpos IgM, ELISA $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+57. Varicela Anticuerpos IgG, ELISA $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+58. Carga Viral para VIH $ 1584.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+59. Conteo de Linfocitos CD4 / CD8 $ 1667.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+60. Sífilis: VDRL (Anticuerpos anti cardiolipina-a-lecitina) $ 63.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+61. Sífilis: Aglutinación de partículas $ 156.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+62. Sífilis: Prueba Rápida Inmunocromatográfica $ 156.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+63. Sífilis: Prueba confirmatoria FTA-Abs $ 261.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+64. Chlamydia trachomatis IgG ELISA en peine $ 167.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+65. Aislamiento Bacteriano de Neisseria gonohrroeae $ 104.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+66. Identificación de Pneumocistis carinii. Tinción enfrotis de expectoración $ 198.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+67. Toxoplasmosis, Anticuerpos IgM, ELISA en peine. $ 521.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+68. Toxoplasmosis, Anticuerpos IgG, ELISA en peine. $ 521.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+69. Leptospiras, Identificación microscópica en campo oscuro $ 104.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+70. Leptospiras, Aislamiento a partir de muestras de sangre, LCR, biopsia o tejido. $ 313.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+71. Leptospiras, Determinación de anticuerpos séricos por Microaglutinación $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+72. Leptospiras, Determinación de anticuerpos IgM, ELISA en placa. $ 188.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+73. Chinches triatominas. Determinación taxonómica y búsqueda parasitológica $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+74. Helicobacter pylori IgG $ 422.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+75. Cultivo y aislamiento de hongos de importancia Médica $ 269.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+76. Exámenes citológicos (Citología Cérvico Vaginal Papanicolau) $ 158.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+77. Investigación de Lepra (Observación microscópica) $ 198.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+78. Identificación de M. tuberculosis por PCR $ 677.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+79. Otros virus respiratorios (sincisial respiratorio, adenovirus y otros) $ 1160.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+80. Determinación anticuerpos IgM para virus del oeste del nilo(VON) $ 245.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+81. Leptospiras por PCR $ 521.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+82. Determinación anticuerpos IgM para Epteins Baar $ 365.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+83. Determinación anticuerpos IgG para Epteins Baar $ 365.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+84. Legionella por PCR en muestras humanas $ 438.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+85. Determinación de Rickettsias por IFA $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+86. Determinación de Rickettsias por PCR $ 625.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+87. Determinación de anticuerpos para histoplasmosis $ 125.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+88. Determinación intradérmica para histoplasmosis (Histoplasmina) $ 63.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+89. Determinación intradérmica para Coccidiomicosis (cocciodioidina) $ 63.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+90. Superficies vivas $ 365.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+91. Superficies inertes $ 365.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+92. Ameba vida libre $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+93. Esterilidad comercial $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+94. Derivados clorados $ 365.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+95. Sales cuaternarias de amonio $ 417.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+96. Oxidantes $ 208.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+97. Determinación de E. coli por el Num. más probable NMP (incluye colif.fecales) $ 275.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+98. Identificación rápida por coaglutinación de: S. pneumoniae; H. influenzae b; N. meningitidis, $ 474.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+99. Identificación de virus Influenza RT-PCR tiempo real $ 1146.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+100. Aislamiento de legionella muestras ambientales $ 2084.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+101. Determinación de Brucella por PCR $ 625.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7733,9 +8179,9 @@ Por la legalización de firmas y copias certificadas que se expiden de constanci
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Por certificados de no adeudo de cooperación para Obras Públicas. 4.04 S.M.G.
+I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -7987,115 +8433,59 @@ III.- Los demás profesionales. 13.80 S.M.G.
 
 IV.- Peritos valuadores. 17.25 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 193.
 
-Los derechos que establece este capítulo se causarán por la ejecución de las siguientes obras públicas de urbanización:
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-I.- Tubería de distribución de agua potable.
-
-II.- Atarjeas.
-
-III.- Conexión de las redes de agua potable o fraccionamientos de terrenos.
-
-IV.- Conexión de sistemas de atarjeas o fraccionamientos de terrenos.
-
-V.- Banquetas.
-
-VI.- Pavimentos, y
-
-VII.- Alumbrado público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 194.
 
-Para que causen los derechos de cooperación a que se refiere el artículo anterior, será necesario que los predios beneficiados se encuentren en alguna de las siguientes circunstancias:
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-I.- Que tengan frente a la calle donde se hubieran ejecutado las obras si son exteriores.
-
-II.- Que tengan acceso a la calle en que se hubieran ejecutado las obras si son interiores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 195.
 
-Están obligados a pagar los derechos de cooperación:
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-I.- Los propietarios de los predios a que es (sic) refiere el artículo anterior,
-
-II.- Los poseedores de dichos predios en los casos siguientes:
-
-a).- Cuando no exista propietario.
-
-b).- Cuando la posesión del predio se derive de contrato de promesa de venta, de venta con reserva de dominio y promesa de venta de certificados de participación inmobiliaria, mientras estos contratos estén en vigor y no se traslade el dominio del predio.
-
-Si se tratan de las obras a que es (sic) refieren las fracciones III y IV del artículo 193 los derechos serán pagados por las empresas fraccionadoras.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 196.
 
-Los derechos de cooperación para las obras públicas se pagarán de acuerdo con el costo de las mismas proporcionalmente por cada metro lineal del frente del predio beneficiado.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-El Estado tendrá a su cargo el costo de las obras públicas que se ejecuten en la bocacalle y correspondiente a los frentes de los edificios públicos, así mismo serán a su cargo los gastos erogados en los proyectos y estudios previos que se requieran para estas obras. El costo de las obras comprenderán los siguientes conceptos:
-
-a).- El de la ejecución material de la obra, considerando exclusivamente el precio que se pague al constructor de la misma.
-
-b).- Los gastos de financiamiento para la ejecución de la misma incluyendo los que se eroguen para obtenerlo, los de administración en su caso y los intereses que devenguen.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Los notarios no autorizarán actos de traslación de dominio ni el personal del Registro Publico de la Propiedad harán las inscripciones respectivas, si no se comprueba que se han pagado los derechos de cooperación para obras públicas mediante la respectiva constancia de no adeudo expedida por la Recaudadora de Rentas correspondiente y serán solidariamente responsables con el contribuyente del pago de los derechos que se hubieren omitido.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-La vigencia de la constancia de no adeudo de cooperación por obras públicas será de un año, estando obligados los contribuyentes en renovar su constancia vencido dicho término.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 197.
 
-La determinación de los derechos de cooperación para obras públicas, se sujetara a las obras siguientes:
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-I.- Si es (sic) trata de tuberías de agua potable o de atarjeas, por cada metro lineal del frente del predio.
-
-a).- Si es una sola tubería y va por el eje de la calle, se conciderarán (sic) beneficiadas ambas aceras y por los predios con frente a uno y orto (sic) lado de la calle será cobrado el 10 % de las cuotas unitarias que correspondan proporcionalmente a cada metro lineal de los predios beneficiados.
-
-b).- Si es una sola tubería instalada en uno de los lados de la calle y solo se presta servicio a los predios de la acera más cercana, será cobrado el total de las cuotas a los propietarios o poseedores de dichos predios. Si la misma tubería beneficia a los de la otra acera, se cobrara a todos el 50 %.
-
-c).- Si son dos o mas tuberías y se instalan ambos lados del arroyo o por el eje de la calle, serán consideradas ambas aceras y por los predios con frente a uno y otro lado de la calle serán cobradas íntegras las cuotas correspondientes.
-
-II.- En los casos de las (sic) construcción de banquetas y guarniciones, los derechos serán cobrados a los propietarios de los predios ubicados en la acera en la que se ubieren (sic) realizado las obras y se determinarán multiplicando la cuota unitaria que corresponda atendiendo al costo de la obra por el número de metros lineales del ancho de la banqueta,
-
-III.- Cuando se trate de pavimentos los derechos serán causados en las siguientes formas:
-
-a).- Si la pavimentación cubre la totalidad del ancho del arroyo, causarán los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente. El monto de los derechos se determinará multiplicando la cuota unitaria que corresponda, atendiendo al costo del pavimento construido por el número de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto, por el número de metros lineales de frente a cada predio.
-
-b).- Si la pavimentación cubre únicamente una faja cuyo ancho sea igual o menor a la mitad del arroyo, sólo causarán estos derechos los propietarios o poseedores de los predios situados sobre la acera más cercana a la parte del arroyo que se haya pavimentado. El monto de los derechos se determinará multiplicando la cuota unitaria que corresponda, atendiendo al costo del pavimento construido por el ancho de metros lineales de la faja pavimentada y el producto, por el número de metros lineales del frente de cada predio.
-
-c).- Si la obra de pavimentación cubre una faja que comprende ambos lados del eje del arroyo pero sin que abarque todo el ancho de éste, los propietarios o poseedores de los predios situados en ambas aceras causarán los derechos, proporcionalmente al ancho de la faja pavimentada, comprendida dentro de cada una de las mitades del arroyo. Los derechos que correspondan por cada predio se determinarán de acuerdo con la regla que establece el inciso anterior, aplicada separadamente a cada una de las fajas comprendidas a uno y otro lado del eje del arroyo, y
-
-d).- Los derechos para obras de alumbrado público serán pagados por los propietarios o poseedores de los predios ubicados en ambas aceras y se determinarán multiplicando la cuota unitaria, que corresponda atendiendo al costo de la obra de iluminación por el número de metros lineales del frente de cada predio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 198.
 
-Los derechos de cooperación serán causados al determinar las obras en cada tramo que se ponga en servicio y serán pagados en un plazo de dos años, que podrán ampliarse hasta cuatro, cuando los contribuyentes comprueben que su situación económica no les permite hacer el pago en el plazo fijado y siempre que la ampliación no exceda al termino estipulado para la autorización del financiamiento, si lo hubo.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Cuando no sea posible determinar el valor de las obras, se pagarán los derechos respectivos a razón de 30 pesos por metro lineal de frente a la obra que beneficia a dicho predio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 199.
 
-Están exentos del pago de derechos de cooperación:
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-I.- La Federación;
-
-II.- El Estado;
-
-III.- Los Municipios;
-
-IV.- Las instituciones de beneficencia legalmente establecidas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 200.
 
-Por la instalación o reconección (sic) de tomas para derivar agua de las tuberías de distribución, por la instalación o reconstrucción de albañales para conectarse con las atarjeas, por la limpia y desasolve (sic) de alvañales (sic), fosas sépticas particulares, de tanques de sedimentación y por el desagüe de sótanos de predios particulares inundados, por causas no imputables al servicio público de aguas y saneamiento, se cobrarán derechos de cooperación cuyo importe será el de los presupuestos de gastos correspondientes que formule el Gobierno del Estado.
-
-El pago de estos derechos deberá hacerse previamente a la prestación del servicio de que se trate.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
 ### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
@@ -8437,121 +8827,39 @@ f).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia 
 
 g).- Por concepto de verificación e inspección de áreas, predios y obras: 60 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 206
 
-TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Ecología y Medio Ambiente, conforme al reglamento en la materia, las personas físicas y morales pagaran un derecho conforme a la siguiente:
+TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Ecología y Medio Ambiente, conforme al Reglamento en la materia, las personas físicas y morales pagarán conforme a la siguiente:
 
 TARIFA
 
-I.- Por concepto de recepción y evaluación de los documentos que se en listan a continuación:
+I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
 
-a).- Estudios de emisiones a la atmósfera: 190 S.M.G.
+a) Auditorías Ambientales: 440 S.M.G.
 
-b).- Auditorias ambientales: 440 S.M.G.
+b) Aclaraciones, rectificaciones o ampliaciones al contenido de las auditorías ambientales: 80 S.M.G.
 
-c).- Aclaraciones, rectificaciones o ampliaciones al contenido de los estudios de emisiones a la atmósfera y auditorias ambientales: 80 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-d).- Estudios de Riesgo 150 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-e).- Programa de Prevención de Accidentes 130 S.M.G.
+c) Estudio de Riesgo: 150 S.M.G.
 
 II.- Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 70 S.M.G.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 40 S.M.G.
 
-a).- Expedición anual del permiso por vehículo automotor para el transporte de Aguas Residuales Tratadas: 70 S.M.G.
+c) Por análisis y resolución de la Cédula de Desempeño Ambiental: 300 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+d) Por refrendo y resolución de la Cédula de Desempeño Ambiental: 120 S.M.G.
 
-b).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
+e) Por solicitud extemporánea de la Cédula de Desempeño Ambiental: 400 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental: 200 S.M.G.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-c).- Expedición anual del permiso por vehículo automotor para el transporte de sustancias contenidas dentro del Listado de Actividades Riesgosas para el Estado de Quintana Roo: 120 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-d).- Expedición anual del permiso por vehículo automotor para el transporte de Materiales y Residuos Peligrosos de Competencia Estatal: 100 S.M.G.
-
-e).- Expedición de la exención de la presentación de los estudios de emisiones a la atmósfera: 100 S.M.G.
-
-f).- Ingreso al Registro de Prestadores de Servicio en Materia de Prevención y Control de la Contaminación Ambiental del Gobierno del Estado de Quintana Roo: 200 S.M.G.
-
-g).- Inscripción al Curso de Capacitación en Materia de Prevención y Control de la Contaminación Ambiental por especialidad:
-
-1.- Contaminación Acuática y Control: 50 S.M.G.
-
-2.- Contaminación del Suelo y Control: 50 S.M.G.
-
-3.- Contaminación del Aire y Control: 50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-4.- Riesgo Ambiental y Programas de Prevención de Accidentes: 60 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-5.- Manejo de Materiales y Residuos Peligrosos: 60 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-6.- Auditoría Ambiental: 80 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-7.- Llenado de la Licencia de Funcionamiento Ambiental y Cédula de Desempeño Ambiental: 10 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-g) (sic).- Capacidad de carga por metro cúbico del vehículo automotor para obtener el permiso para el transporte de Aguas Residuales y Aguas Residuales Tratadas: 1.0 S.M.G.
-
-h).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de Prevención y Control de la Contaminación Ambiental del Gobierno del Estado de Quintana Roo: 150 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-i).- Por concepto de verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal: 60 S.M.G
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-j).- Por concepto de Autorización de Licencia de Funcionamiento Ambiental (LFA): 240 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-k).- Por concepto de Refrendo de la Licencia Ambiental (LFA): 120 S.M.G.
+g) Verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal para exceptuar la obtención de la Cédula de Desempeño Ambiental: 60 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8593,19 +8901,27 @@ Por concesiones anuales a comerciantes de artesanías, manualidades, de alimento
 
 Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 206
 
-QUINQUIES.- Por los servicios de regulación que en materia de residuos sólidos, presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+QUINQUIES.- Por los servicios que en materia de Residuos de competencia Estatal presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
 
 TARIFA
 
-I.- Por registro y autorización de planes de manejo de residuos: 100 S.M.G.
+I.- Por análisis y resolución de Planes de Manejo de Residuos 100 S.M.G.
 
-II.- Por refrendo del registro y autorización de planes de manejo de residuos: 50 S.M.G.
+II.- Por Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50 S.M.G.
+
+III.- Por Inscripción y refrendo anual al padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial. 100 S.M.G.
+
+IV.- Por inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
+
+V.- Por análisis y resolución de los proyectos ejecutivos para sitios de disposición final de Residuos Sólidos Urbanos y de Manejo Especial, centros de compostaje, centros de transferencia, planta de tratamiento y tecnología sustentable de residuos 150 S.M.G.
+
+VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
 
 ### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
 
@@ -8613,35 +8929,41 @@ II.- Por refrendo del registro y autorización de planes de manejo de residuos: 
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO XVIII A. DE LA PRESTACION DE SEGURIDAD PUBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO XVIII-A. DE LA PRESTACION DE SERVICIOS DE SEGURIDAD Y VIGILANCIA
 
-#### SECCION PRIMERA. PRESTACION DE SEGURIDAD PUBLICA A PARTICULARES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+#### SECCION PRIMERA. DE LA SEGURIDAD PRIVADA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 207-A.
 
-Las persona físicas y las empresas mexicanos, debidamente constituidas conforme a las leyes, que presten servicios de vigilancia en áreas de propiedad particular, tales como hoteles, centros comerciales, bancos, industrias, fábricas, fraccionamientos, casas habitación y similares, tanto para su seguridad interior, como para el traslado de valores objetos y personas; así como las actividades relacionadas con éstas, deberán solicitar su registro y autorización correspondiente a la Dirección Jurídica de la Secretaría de Protección y Vialidad, en las formas y requisitos que para tal efecto establece el Reglamento de Vigilancia Privada en el Estado. Dentro del mes siguiente de aquel en que inicien sus operaciones.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 207-B.
 
-Por el registro y autorización para su funcionamiento, se causará un derecho de 180 S.M.G.
+Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos:
 
-Asimismo, deberán renovar su registro anualmente, dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición, acreditando el pago de 180 S.M.G.
+a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G.; y
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 207-C.
 
-Los contribuyentes de este capítulo que no hayan solicitado su registro y autorización, serán sancionados según lo dispuesto por el Reglamento de Vigilancia Privada del Estado de Quintana Roo.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -8685,137 +9007,87 @@ Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requerido
 
 ### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que presta la Secretaría de Educación, se pagaran conforme a la siguiente:
+Los derechos por los servicios que prestan la Secretaría de Educación, se pagarán conforme a la siguiente:
 
 TARIFA
 
-I.- Autorización a particulares para impartir educación Primaria y Secundaria. 300 S.M.G.
+I.- Reconocimiento de validez oficial de estudios a particulares para impartir educación media Superior. 400 S.M.G.
 
-II.- Autorización a particulares para impartir Educación Normal. 500 S.M.G.
+II.- Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 S.M.G.
 
-III.- Reconocimiento de validez oficial de estudios a particulares para impartir Educación Preescolar. 200 S.M.G.
+III.- Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 4 S.M.G.
 
-IV.- Reconocimiento de validez oficial de estudios a particulares para impartir educación media superior. 400 S.M.G.
+Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
 
-V.- Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 S.M.G.
+IV.- Refrendo y/o actualización del acuerdo de incorporación de bachillerato o educación superior. 150 S.M.G.
 
-VI.- Inspección y vigilancia por cada ciclo escolar o semestre, por alumno:
+Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
 
-a).- Preescolar 0.80 S.M.G.
+V.- Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50 S.M.G.
 
-b).- Primaria 1.20 S.M.G.
+VI.- Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70 S.M.G.
 
-c).- Secundaria 1.80 S.M.G.
+VII.- Exámenes profesionales o de grado de bachillerato bivalente, licenciatura y posgrados. 13 S.M.G.
 
-d).- Bachillerato 3.00 S.M.G
+VIII.- Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00 S.M.G.
 
-e).- Licenciaturas 5.00 S.M.G
+IX.- Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 S.M.G.
 
-VII.- Actualización del acuerdo de incorporación.
+X.- Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo 300 S.M.G.
 
-a).- Preescolar 67 S.M.G.
+XI.- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno 1.20 S.M.G.
 
-b).- Primaria y secundaria 100 S.M.G.
+XII.- Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación. 11 S.M.G.
 
-c).- Bachillerato 133 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d).- Educación Normal 167 S.M.G.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-e).- Licenciaturas 167 S.M.G.
+### CAPITULO XIX-A. SERVICIOS QUE OTORGA LOS SERVICIOS EDUCATIVOS
 
-VIII.- Certificaciones de estudios por alumno:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- Primaria 0.80 S.M.G.
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-b).- Secundaria 1.20 S.M.G.
+###### ARTICULO 207
 
-c).- Bachillerato 1.80 S.M.G.
+H BIS.- Los derechos por los servicios que presta el organismo descentralizado de la Administración pública paraestatal denominado Servicios Educativos, se pagarán conforme a la siguiente:
 
-d).- Licenciaturas 5.00 S.M.G.
+TARIFA
 
-IX.- Exámenes extraordinarios por materia:
+I.- Análisis y calificación para la autorización a particulares para impartir Educación Preescolar, Primaria y Secundaria. 350 S.M.G.
 
-a).- Secundaria 0.80 S.M.G.
+II.- Análisis y calificación para la autorización a particulares para impartir Educación Normal 500 S.M.G.
 
-b).- Bachillerato 1.20 S.M.G.
+III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1.50 S.M.G.
 
-c).- Licenciaturas 2.20 S.M.G.
+Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
 
-X.- Exámenes especiales por materia:
+IV.- Refrendo y/o Actualización del acuerdo de incorporación a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar. 60 S.M.G.
 
-a).- Bachillerato 2.00 S.M.G.
+Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
 
-b).- Licenciatura 3.00 S.M.G.
+V.- Certificaciones de estudios de educación primaria, secundaria y normal, por alumno. 1.40 S.M.G.
 
-XI.- Exámenes globales a título de suficiencia por grado de:
+VI.- Exámenes extraordinarios de regularización de educación secundaria y normal, por asignatura. 1.50 S.M.G.
 
-a).- Primaria 5.00 S.M.G.
+VII.- Evaluación General de Conocimientos de educación primaria y secundaria, por alumno. 6.50 S.M.G.
 
-b).- Secundaria 8.00 S.M.G.
+VIII.- Exámenes Profesionales de educación normal, por alumno. 50 S.M.G.
 
-XII.- Exámenes a título de suficiencia por materia:
+IX.- Revalidación de Estudios de educación primaria y secundaria 4.50 S.M.G.
 
-a).- Bachillerato 10.00 S. M. G.
+X.- Equivalencia de Estudios de Secundaría 8 S.M.G.
 
-b).- Licenciatura 12.00 S.M.G.
+XI.-. Expedición de Constancia de registro de Control Escolar 1 S.M.G.
 
-XIII.- Exámenes profesionales o de grado:
-
-a).- Bachillerato 12.00 S. M. G.
-
-b).- Licenciaturas 15.00 S. M. G.
-
-XIV.- Expedición de diplomas de secundarias técnicas por alumno: 1.20 S.M.G.
-
-XV.- Revalidación de estudios de:
-
-a).- Primaria 1.00 S.M.G.
-
-b).- Secundaria 8.00 S.M.G.
-
-XVI.- Trámite de equivalencia o revalidación de estudios de:
-
-a).- Bachillerato 10.00 S. M. G.
-
-b).- Licenciaturas 12.00 S.M.G.
-
-XVII.- Equivalencias de estudios de secundaria: 8.00 S.M.G.
-
-XVIII.- Cotejo de documentos por hoja: 0.27 S.M.G.
-
-XIX.- Instructivo para trámite de incorporación: 3.00 S.M.G.
-
-XX.- Expedición de constancias de control escolar: 1.00 S.M.G.
-
-XXI.- Reposición de Boletas de Evaluación de Educación Básica: 0.40 S.M.G.
-
-XXII.- Reimpresión de certificado de Educación Básica: 0.40 S.M.G.
-
-XXIII.- Reimpresión de formato de apoyo de control escolar: 0.40 S.M.G.
-
-XXIV.- Legalización de firmas 2.00 S.M.G.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-XXVI (SIC).- Autorización a particulares para impartir educación técnica o capacitación para el trabajo. 300 S.M.G.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-XXVII (SIC).- Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo. 300 S.M.G.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-XXVIII (SIC).- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno. 1.20 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, deberán ser enterados a la Secretaría de Hacienda a través de sus oficinas autorizadas en un plazo no mayor a los diez días en que se generaron.
+XII.- Reposición de Cartillas de Educación Básica. 1.00 S.M.G.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
@@ -8823,33 +9095,15 @@ Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, debe
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 207
-
-Ñ.- Los derechos por los servicios que presta la Secretaría de Infraestructura y Transporte, se pagarán conforme a la siguiente:
-
-TARIFA
-
-I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo: 15 S.M.G.
-
-II.- Por concepto de renovación de la inscripción: 10 S.M.G.
-
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
-
-### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 207-I.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
+### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
 
-ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 207-J.
 
@@ -8903,9 +9157,9 @@ Por registro de patente de notario público pagará 75 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
+### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 207-M.
 
@@ -8949,9 +9203,9 @@ Para el envío de documentos o de material que contenga información a través d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
+### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 207-N.
 
@@ -9181,17 +9435,29 @@ IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultu
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
+### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 207
+
+Ñ.- Los derechos por los servicios que presta la Secretaría de Infraestructura y Transporte, se pagarán conforme a la siguiente:
+
+TARIFA
+
+I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo: 15 S.M.G.
+
+II.- Por concepto de renovación de la inscripción: 10 S.M.G.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
+
 ### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
-
-### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 207-O.
 
@@ -9211,11 +9477,11 @@ III.- Por la expedición de copias certificadas, independientemente del número 
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE HACIENDA
+### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 207-P.
 
@@ -9231,7 +9497,7 @@ en el registro 25.00 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
+### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE HACIENDA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9257,7 +9523,11 @@ f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 S
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-R.
 
@@ -9265,23 +9535,23 @@ por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 a) Por la aplicación de evaluaciones integrales que incluyen la psicológica, médica, poligráfica, de entorno social, y toxicológica 26.70 veces el S.M.G. por persona.
 
+### CAPITULO UNICO
+
 ### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
-
-### CAPITULO III. MULTAS
 
 #### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
 #### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
 
-### CAPITULO IV. CAUCIONES JUDICIALES
+### CAPITULO III. MULTAS
 
-### CAPITULO V. DONACIONES DE PARTICULARES
+### CAPITULO IV. CAUCIONES JUDICIALES
 
 ## TITULO IV. DE LOS PRODUCTOS
 
-### CAPITULO VI. INGRESOS POR COORDINACION
+### CAPITULO V. DONACIONES DE PARTICULARES
 
 #### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
 
@@ -9531,7 +9801,7 @@ BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda p
 
 ## TITULO V. APROVECHAMIENTOS
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+### CAPITULO VI. INGRESOS POR COORDINACION
 
 ###### ARTICULO 219.
 
@@ -9539,7 +9809,7 @@ Los contribuyentes que no cumplan con las obligaciones fiscales establecidas por
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 220.
 
@@ -9549,9 +9819,7 @@ Son rezagos los adeudos de impuestos, derechos y productos que pasen a nuevo añ
 
 Los rezagos serán cubiertos en las oficinas que debieron pagarse los impuestos, derechos y/o productos de los cuales provengan.
 
-### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 222.
 
@@ -9559,7 +9827,7 @@ Las multas se harán efectivas en los términos de las disposiciones legales que
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
+### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -9567,7 +9835,7 @@ Las multas se harán efectivas en los términos de las disposiciones legales que
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO UNICO
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -9576,6 +9844,10 @@ Las multas se harán efectivas en los términos de las disposiciones legales que
 Las donaciones que los particulares hagan al Gobierno del Estado se harán efectivas en los términos fijados por el donante.
 
 > <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 225.
 
@@ -10640,3 +10912,75 @@ Lo antes citado será aplicable, siempre y cuando cumplan los requisitos que est
 CUARTO. Se dejan sin efecto todas las disposiciones legales de que se opongan al presente decreto.
 
 QUINTO. El presente decreto entrará en vigor a partir del 1° de enero de 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+PRIMERO.- En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+A) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro Civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C) Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D) Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de estos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en las incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de las Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, a aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran corno derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de afiliación y cobranza del Instituto Mexicano del Seguro Social.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones legales de que se opongan al presente decreto.
+
+CUARTO.- El presente decreto entrará en vigor a partir del 1° de enero de 2013, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
