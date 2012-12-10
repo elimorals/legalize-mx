@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-568-electoral-para-el-estado-de-veracruz-de-88689
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-01"
-last_updated: "2012-08-01"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 568 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO NÚMERO 568 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 10 DE DICIEMBRE DE 2012.</small>
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de agosto de 2012.
 
@@ -41,11 +41,13 @@ Que la Sexagésima Segunda Legislatura del Honorable Congreso del Estado, se ha 
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.-Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-La Sexagésima Segunda Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide el siguiente:
+> <small>(F. DE E., G.O. 10 DE DICIEMBRE DE 2012)</small>
+
+La Sexagésima Segunda Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del Pueblo, expide el siguiente:
 
 CÓDIGO NÚMERO 568
 
-ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+Electoral para el Estado de Veracruz de Ignacio de la Llave
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1151,8 +1153,6 @@ V. Nombre de la persona autorizada por el precandidato para la recepción, admin
 
 VI. El domicilio de los precandidatos, para oír y recibir notificaciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2012 EN EL G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 73.
 
 Los ciudadanos que realicen precampaña para ocupar un cargo de elección popular cumplirán los lineamientos siguientes:
@@ -1161,7 +1161,9 @@ I. Respetar los estatutos, la convocatoria y los acuerdos del partido que se hay
 
 II. Respetar el tope de gastos que se determine al interior de cada partido;
 
-III. Rendir un informe por escrito al partido por el cual desean postularse, en los términos del artículo 75 de este Código, respecto del manejo y aplicación de los recursos;
+> <small>(F. DE E., G.O. 10 DE DICIEMBRE DE 2012)</small>
+
+III. Rendir un informe por escrito al partido por el cual desean postularse, en los términos del artículo 78 de este Código, respecto del manejo y aplicación de los recursos;
 
 IV. Designar a su representante ante el órgano interno encargado del proceso; y
 
@@ -5217,8 +5219,6 @@ Una vez aprobado el dictamen, el presidente de la Comisión lo enviará de inmed
 
 Las resoluciones del Consejo General del Instituto podrán ser impugnadas ante el Tribunal Electoral del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 Artículo primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
@@ -5227,19 +5227,9 @@ Artículo segundo. Se abroga el Código Electoral número 307 para el Estado de 
 
 Artículo tercero. El Consejo General del Instituto Electoral Veracruzano, a partir de la entrada en vigor del presente Código, contará con un plazo de tres meses para realizar las modificaciones correspondientes a su normativa interna.
 
-Dado en el salón de sesiones de la LXII Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa- Enríquez, Veracruz de Ignacio de la Llave, a los treinta días del mes de julio del año dos mil doce.
+> <small>(F. DE E., G.O. 10 DE DICIEMBRE DE 2012)</small>
 
-Eduardo Andrade Sánchez
-
-Diputado presidente
-
-Rúbrica.
-
-Juan Carlos Castro Pérez
-
-Diputado secretario
-
-Rúbrica.
+Dado en el Salón de Sesiones de la LXII Legislatura del Honorable Congreso del Estado, en la Ciudad de Xalapa- Enríquez, Veracruz de Ignacio de la Llave, a los treinta días del mes de julio del año dos mil doce. Eduardo Andrade Sánchez, diputado Presidente.- Rúbrica. Juan Carlos Castro Pérez, diputado Secretario.- Rúbrica.
 
 Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001201 de los diputados presidente y secretario de la Sexagésima Segunda Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta días del mes de julio del año dos mil doce.
 
