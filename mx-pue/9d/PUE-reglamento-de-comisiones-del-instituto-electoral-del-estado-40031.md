@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-comisiones-del-instituto-electoral-del-estado-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-19"
-last_updated: "2007-09-05"
+last_updated: "2012-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
+> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO CG/AC-075/16 QUE APRUEBA DIVERSAS MODIFICACIONES AL REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA, PUBLICADO EN LA TERCERA SECCIÓN DEL P.O. DE 17 DE OCTUBRE DE 2016, SE ADVIERTE QUE DICHAS MODIFICACIONES ESTÁN CONTENIDAS EN EL ANEXO ÚNICO DE CONFORMIDAD CON LO QUE SEÑALA EL PUNTO SEXTO DE DICHO ACUERDO, EL CUAL NO FUE PUBLICADO EN DICHO ÓRGANO DE DIFUSIÓN OFICIAL DEL ESTADO, POR LO QUE SE SUGIERE CONSULTAR LA PÁGINA DE ESE ORGANISMO http://www.iee-puebla.org.mx.]</small>
+
 REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de marzo de 2001.
 
@@ -495,7 +497,19 @@ VIII.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Co
 
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-IX.- En caso de que no se reúna el quórum legal para la sesión, después de aguardar una hora, ésta se declarará suspendida y el Presidente convocará de nueva cuenta a sesión, notificando de manera personal a los integrantes de la Comisión respectiva, para que se lleve a cabo con los integrantes presentes, dentro de las veinticuatro horas siguientes a su suspensión, siendo válidos los acuerdos y resoluciones que en ella se tomen.
+IX.- En caso de que no se reúna el quórum legal para la sesión, después de aguardar una hora, ésta se declarará suspendida y el Presidente convocará de nueva cuenta a sesión, notificando de manera personal a los integrantes de la Comisión respectiva, para que se lleve a cabo con los integrantes presentes, dentro de las veinticuatro horas siguientes a su suspensión, siendo válidos los acuerdos y resoluciones que en ella se tomen;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+X.- Cuando se presente la ausencia del Secretario de la Comisión sus funciones serán desarrolladas por el Consejero Electoral que determinen sus integrantes en mesa de trabajo previa a la celebración de la sesión que corresponda, debiéndose levantar por parte de los consejeros presentes la minuta correspondiente en la que se haga constar la determinación que se adopte;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+XI.- Las Comisiones en su sesión de instalación aprobarán un acuerdo a través del cual se establezca el procedimiento a seguir para cubrir las ausencias temporales de su presidente, tanto para los efectos de convocar a sesión como para el desarrollo de dichas reuniones; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+XII.- Las demás que les señalen el Código, el presente Reglamento y el propio Consejo.
 
 ###### Artículo 22.
 
@@ -621,9 +635,17 @@ El escrito en el que se haga constar la inconformidad deberá presentarse dentro
 
 VII.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Consejo General, se presentarán como informes o dictámenes;
 
-VIII.- Las Comisiones sesionarán las veces que sea necesario; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-IX.- Las demás que les señalen el Código, el presente Reglamento y el propio Consejo.
+VIII.- Las Comisiones sesionarán las veces que sea necesario;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+IX.- Las Comisiones en su sesión de instalación aprobarán un acuerdo a través del cual se establezca el procedimiento a seguir para cubrir las ausencias temporales de su presidente, tanto para los efectos de convocar a sesión como para el desarrollo de dichas reuniones; y
+
+(REUBICADA, P.O. 10 DE DICIEMBRE DE 2012)
+
+X.- Las demás que les señalen el Código, el presente Reglamento y el propio Consejo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2001)</small>
 
@@ -982,3 +1004,19 @@ Artículo Primero. La presente reforma al Reglamento de Comisiones del Instituto
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 Artículo tercero. La presente reforma al Reglamento de Comisiones del Instituto Electoral del Estado fue aprobada por el Consejo General del Instituto Electoral del Estado, en sesión (sic) de fecha (sic) de dos mil siete.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, POR EL QUE SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO”.]</small>
+
+PRIMERO.- El Consejo General del Instituto Electoral del Estado es competente para conocer y pronunciarse sobre el presente asunto, según ha quedado plasmado en los Considerandos 1, 2, 3 y 4 del presente Acuerdo.
+
+SEGUNDO.- El Consejo General del Instituto Electoral del Estado aprueba diversas modificaciones al Reglamento de Comisiones del Instituto Electoral del Estado, en términos de lo establecido en numeral 3 de la parte considerativa de esta documental.
+
+TERCERO.- El Órgano Superior de Dirección de este Organismo faculta a su Secretario Ejecutivo para que realice la notifique (sic) narrada en el numeral 4 de la parte considerativa del presente instrumento.
+
+CUARTO.- El Consejo General del Instituto Electoral del Estado faculta al Titular de la Dirección Jurídica realice las acciones plasmadas en el Considerando 4 de este Acuerdo.
+
+QUINTO.- El presente instrumento entrará en vigor a partir de su aprobación por parte del Consejo General.
+
+SEXTO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
