@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-del-estado-de-hidalgo-29418"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-24"
-last_updated: "2012-10-22"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE TURISMO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 2003.
 
@@ -1154,3 +1156,21 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su fecha de Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Turismo del Estado de Hidalgo, Publicada en el Periódico Oficial, el lunes 24 de marzo de 2003.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones expedidas con anterioridad en cuanto se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento de la presente Ley se publicará en un plazo no mayor a 180 días naturales, posteriores a la fecha de su entrada en vigor.
