@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-aguascalentense-para-la-6196
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2010-08-30"
+last_updated: "2012-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de julio de 2008.
 
@@ -39,9 +39,25 @@ REGLAMENTO DEL INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA
 
 ### CAPÍTULO I. De la Personalidad, Domicilio y Objeto
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 1°.
 
 Se crea el Instituto Municipal Aguascalentense para la Cultura como un organismo público descentralizado, en los términos del artículo 162 del Código Municipal de Aguascalientes.
+
+Para los efectos de este reglamento se entenderá por:
+
+I. Instituto: El Instituto Municipal Aguascalentense para la Cultura.
+
+II. Junta de Gobierno: Junta de Gobierno del Instituto Municipal Aguascalentense para la Cultura.
+
+III. Consejo Consultivo o Consejo: El Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes.
+
+IV. Director(a) General: Director(a) General del Instituto Municipal Aguascalentense para la Cultura.
+
+V. Reglamento: El presente Reglamento.
+
+VI. Reglamento Interior: El Reglamento Interior del Instituto Municipal Aguascalentense para la Cultura.
 
 ###### ARTÍCULO 2°.
 
@@ -97,9 +113,13 @@ VI. Las acciones, derechos o productos que adquiera por cualquier otro título l
 
 ###### ARTÍCULO 5°.
 
-Los bienes muebles e inmuebles del Instituto gozarán de las prerrogativas concedidas a los bienes públicos por parte del Municipio de Aguascalientes.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-Dichos bienes, así como los actos y contratos que celebre el propio Instituto en cumplimiento de su objeto, estarán igualmente exentos de toda clase de contribuciones, impuestos y derechos por parte del Municipio de Aguascalientes.
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 5° Bis.
+
+El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
 
 ### CAPÍTULO III. Del Instituto Municipal Aguascalentense para la Cultura
 
@@ -131,7 +151,15 @@ X. Establecer acciones tendientes a la promoción y difusión de la Banda Sinfó
 
 XI. Las demás que le señalen las Leyes, Reglamentos y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 6. Bis.
+
+Las dependencias del Municipio de Aguascalientes, deberán prestar al Instituto el apoyo que les fuere solicitado y esté, dentro de sus facultades, ofrecerlo.
+
 ### CAPÍTULO IV. De los Órganos de Gobierno y Consulta
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 7°.
 
@@ -139,33 +167,33 @@ Para el cumplimiento de sus funciones, el Instituto contará con los siguientes 
 
 I. La Junta de Gobierno.
 
-II. El Director General del Instituto.
+II. La Directora o el Director General del Instituto.
 
 III. El Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 8°.
 
 La Junta de Gobierno estará integrada por:
 
-I. Por el Presidente Municipal, quien tendrá el carácter de Presidente de la Junta.
+I. La Presidenta o el Presidente Municipal, quien tendrá el carácter de Presidente/a de la Junta.
 
-II. El Regidor Presidente de la Comisión de Educación y Cultura del Honorable Ayuntamiento, quien tendrá el carácter de Secretario Técnico de la Junta.
+II. La Regidora o el Regidor Presidente/a de la Comisión de Educación y Cultura del Honorable Ayuntamiento, quien tendrá el carácter de Secretaria Técnica o Secretario Técnico de la Junta.
 
-III. El Regidor Presidente de la Comisión de Gobernación del Honorable Ayuntamiento.
+III. La Regidora o el Regidor Presidente/a de la Comisión de Gobernación del Honorable Ayuntamiento.
 
-IV. El Regidor Presidente de la Comisión de Desarrollo Económico, Turismo y Asuntos Internacionales del Honorable Ayuntamiento.
+IV. La Regidora o el Regidor Presidente/a de la Comisión de Desarrollo Económico, Turismo y Asuntos Internacionales del Honorable Ayuntamiento.
 
-V. El Secretario del H. Ayuntamiento y Director General de Gobierno del Municipio.
+V. La Secretaria o Secretario del H. Ayuntamiento y Directora o Director General de Gobierno del Municipio.
 
-VI. El Secretario de Finanzas Públicas del Municipio.
+VI. La Secretaria o Secretario de Finanzas Públicas del Municipio.
 
-VII. El Secretario de Desarrollo Social del Municipio.
+VII. La Secretaria o Secretario de Integración Social del Municipio.
 
-VIII. Por dos miembros más, designados por el Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes, prefiriéndose para ello a personas que tengan una destacada trayectoria cultural.
+VIII. Por dos miembros más, designados por el Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes, prefiriéndose para ello a personas que tengan una destacada trayectoria cultural. Las o los integrantes de la Junta de Gobierno deberán proponer una persona que los supla, en el caso de que no puedan acudir a alguna de las sesiones de la misma. La persona propuesta como suplente deberá ser aprobada por la misma Junta. A convocatoria de la Secretaria Técnica o el Secretario Técnico de la Junta de Gobierno, ésta se reunirá, en forma ordinaria, cada seis meses y, en forma extraordinaria, cuando haya asuntos urgentes que tratar.
 
-Los integrantes de la Junta de Gobierno deberán proponer una persona que los supla, en el caso de que no puedan acudir a alguna de las sesiones de la misma. La persona propuesta como suplente deberá ser aprobada por la misma Junta.
-
-A convocatoria del Secretario Técnico de la Junta de Gobierno, ésta se reunirá, en forma ordinaria, cada seis meses y, en forma extraordinaria, cuando haya asuntos urgentes que tratar.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 9°.
 
@@ -173,9 +201,9 @@ La Junta de Gobierno tendrá las siguientes facultades y atribuciones:
 
 I. Velar porque el Instituto cumpla con sus objetivos y atribuciones, así como hacer las recomendaciones que estime necesarias respecto a las instancias correspondientes del mismo.
 
-II. Ratificar la designación del Director General del Instituto, que emita el Presidente Municipal.
+II. Ratificar la designación de la Directora o el Director General del Instituto, que emita la Presidenta o el Presidente Municipal.
 
-III. Aprobar el Plan de Desarrollo Cultural del Municipio, los programas derivados del mismo y el presupuesto anual del Instituto.
+III. Aprobar el Plan de Desarrollo Cultural del Municipio, los programas derivados del mismo y el presupuesto anual del Instituto y su distribución.
 
 IV. Revisar periódicamente el estado financiero e inventario de bienes del Instituto.
 
@@ -187,25 +215,23 @@ VII. Las demás que le señalen las disposiciones jurídicas aplicables.
 
 Los acuerdos que tome la Junta serán aprobados por la mayoría de sus integrantes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
-El Director General del Instituto será designado o removido por el Presidente Municipal, contando con la ratificación de la Junta de Gobierno, y permanecerá en su encargo hasta la conclusión de la Administración Pública que se encuentre en funciones al momento de ser designado, debiendo recaer tal nombramiento en la persona que reúna los siguientes requisitos:
+La Directora o el Director General del Instituto será designado o removido por la Presidenta o el Presidente Municipal, contando con la ratificación de la Junta de Gobierno, y permanecerá en su encargo hasta la conclusión de la Administración Pública que se encuentre en funciones al momento de ser designado, debiendo recaer tal nombramiento en la persona que reúna los siguientes requisitos:
 
-I. Ser mexicano, en pleno ejercicio de sus derechos.
+I. Ser mexicana o mexicano, en pleno ejercicio de sus derechos.
 
-II. Tener conocimientos y experiencia en materia de promoción y fomento cultural.
+V. No ser ministra o ministro de culto religioso.
 
-III. Contar con reconocimiento público en el ámbito cultural.
+La Directora o el Director General podrá ser designada/o para otro periodo igual, en los términos del presente artículo.
 
-IV. No desempeñar un cargo de elección popular en el momento de la designación.
-
-V. No ser ministro de culto religioso.
-
-El Director General podrá ser designado para otro periodo igual, en los términos del presente artículo.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
-Son facultades y atribuciones del Director General del Instituto:
+Son facultades y atribuciones de la Directora o el Director General del Instituto:
 
 I. Ejecutar los acuerdos tomados por la Junta de Gobierno.
 
@@ -217,19 +243,17 @@ IV. Realizar convocatorias, concursos y eventos que tengan por objeto la preserv
 
 V. Vigilar el funcionamiento de las casas de cultura, bibliotecas y museos, en el ámbito de su competencia, velando por el cumplimiento de los objetivos establecidos en el Plan de Desarrollo Cultural del Municipio.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
-
-VI. Coordinar las Direcciones de Desarrollo Cultural, Desarrollo Artístico, así como las áreas de apoyo del Instituto.
+VI. Coordinar a las Subdirecciones de Promoción y Difusión Cultural, Enseñanza Artística y Ediciones y Administración y Vinculación, así como las áreas de apoyo del Instituto.
 
 VII. Coordinarse con la Secretaría de Administración, a efecto de elaborar y proponer programas de mejoramiento administrativo que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo del Instituto.
 
 VIII. Coordinarse con la Secretaría de Finanzas Públicas Municipales, para la elaboración de los anteproyectos del Programa Operativo Anual (POA) y del pronóstico de los ingresos y el presupuesto de egresos del Instituto, así como sus propuestas de modificación a los mismos.
 
-IX. Informar, inmediatamente a la Contraloría Municipal, respecto de irregularidades, omisiones o excesos que, en el desempeño de sus funciones, realice el personal administrativo del Instituto y las áreas a su cargo.
+IX Informar, inmediatamente a la Contraloría Municipal, respecto de irregularidades, omisiones o excesos que, en el desempeño de sus funciones, realice el personal administrativo del Instituto y las áreas a su cargo.
 
-X. Nombrar y remover a los funcionarios y empleados del Instituto, de conformidad con las normas jurídicas aplicables.
+X. Nombrar y remover a las funcionarias y/o los funcionarios, empleadas y/o empleados del Instituto, de conformidad con las normas jurídicas aplicables.
 
-XI. Fungir como Secretario Ejecutivo del Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes, de conformidad con el presente ordenamiento.
+XI. Fungir como Secretaria Ejecutiva o Secretario Ejecutivo del Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes, de conformidad con el presente ordenamiento.
 
 XII. Ejercer las facultades y obligaciones que le confiere el presente Reglamento y demás disposiciones legales aplicables, para el cumplimiento de los objetivos del Instituto.
 
@@ -237,57 +261,69 @@ XII. Ejercer las facultades y obligaciones que le confiere el presente Reglament
 
 El Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes es un organismo auxiliar de la Administración Pública Municipal, de acuerdo con lo establecido por la fracción XI del artículo 15 del Código Municipal de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-Los miembros del Consejo Consultivo tienen por objeto actuar como un factor importante en el desarrollo de la vida cultural del Municipio de Aguascalientes, fomentando el orden público e interés social para coadyuvar con la Autoridad Municipal y la sociedad en el fortalecimiento de la identidad local y la promoción de la cultura y las artes, siendo un foro permanente de consulta y formación de criterios para el diseño de una política cultural.
+Los o las integrantes del Consejo Consultivo tienen por objeto actuar como un factor importante en el desarrollo de la vida cultural del Municipio de Aguascalientes, fomentando el orden público e interés social para coadyuvar con la Autoridad Municipal y la sociedad en el fortalecimiento de la identidad local y la promoción de la cultura y las artes, siendo un foro permanente de consulta y formación de criterios para el diseño de una política cultural.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 14.
 
 El Consejo Consultivo estará integrado por:
 
-I. Un Presidente del Consejo, que será el Presidente Municipal.
+I. Una Presidenta o un Presidente del Consejo, que será la Presidenta o el Presidente Municipal.
 
-II. El Regidor Presidente de la Comisión de Educación y Cultura del Honorable Ayuntamiento.
+II. La Regidora o el Regidor Presidente/a de la Comisión de Educación y Cultura del Honorable Ayuntamiento.
 
-III. Un mínimo de seis consejeros designados por el Pleno del Honorable Ayuntamiento.
+III. Un mínimo de seis consejeras o consejeros designada/os por el Pleno del Honorable Ayuntamiento.
 
-IV. Un Secretario Técnico del Consejo, que será el Director General del Instituto.
+IV. Una Secretaria o Secretario Técnica/o del Consejo, que será la Directora o Director General del Instituto.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-Los consejeros serán nombrados por el Honorable Ayuntamiento, a partir de una lista de aspirantes que será propuesta por el Presidente Municipal, dentro de los dos primeros meses del inicio de cada administración.
+Las Consejeras o Consejeros serán nombrada/os por el Honorable Ayuntamiento, a partir de una lista de aspirantes que será propuesta por la Presidenta o el Presidente Municipal, dentro de los dos primeros meses del inicio de cada administración.
 
-Los consejeros durarán en su encargo el tiempo que dure el ejercicio constitucional del Ayuntamiento que los nombró, pudiendo ser reelectos para un periodo adicional.
+Las Consejeras o los Consejeros durarán en su encargo el tiempo que dure el ejercicio constitucional del Ayuntamiento que las/los nombró, pudiendo ser reelecto/as para un periodo adicional.
 
-Se nombrará una lista de tres consejeros suplentes que entrarán en funciones de acuerdo al orden que se les asigne, en caso de que el número de consejeros propietarios disminuyera a menos de seis.
+Se nombrará una lista de tres consejeras o consejeros suplentes que entrarán en funciones de acuerdo al orden que se les asigne, en caso de que el número de consejeras o consejeros propietarias/os disminuyera a menos de seis.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
-Los requisitos para ser nombrado consejero son los siguientes:
+Los requisitos para ser nombrado consejera o consejero son los siguientes:
 
-I. Ser mexicano por nacimiento o naturalización, con vecindad en el Municipio de Aguascalientes de por lo menos diez años.
+I. Ser mexicana o mexicano por nacimiento o naturalización, con vecindad en el Municipio de Aguascalientes de por lo menos diez años.
 
 II. Acreditar una reconocida trayectoria en el ámbito de la cultura, las artes o la promoción de la identidad local.
 
-III. No ser ministro de culto religioso.
+III. No ser ministra o ministro de culto religioso.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 17.
 
-El Consejo tomará acuerdos con la aprobación de la mayoría simple de sus miembros, teniendo el Presidente del mismo voto de calidad.
+El Consejo tomará acuerdos con la aprobación de la mayoría simple de sus integrantes, teniendo la Presidenta o el Presidente voto de calidad.
 
 ###### ARTÍCULO 18.
 
 A las sesiones del Consejo podrán integrarse, a partir de invitación expresa del Consejo, personalidades reconocidas en el campo de la cultura y las artes o integrantes de la sociedad civil, quienes podrán contar con voz pero no con voto dentro del Consejo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-El Consejo sesionará una vez cada dos meses de manera ordinaria, y de forma extraordinaria las veces que el propio Consejo así lo decida, mediante la convocatoria del Presidente del mismo.
-
-El quórum legal requerido para su funcionamiento es la mitad más uno del total de los integrantes considerados en el momento de hacer la convocatoria. En caso de no reunirse el quórum necesario, se volverá a emitir una nueva convocatoria a reunión para verificarse antes de los ocho días naturales siguientes.
+El Consejo sesionará cuatro veces al año de manera ordinaria, y de forma extraordinaria las veces que el propio Consejo así lo decida, mediante la convocatoria de la Presidenta o el Presidente del mismo. El quórum legal requerido para su funcionamiento es la mitad más uno del total de las y los integrantes considerado/as en el momento de hacer la convocatoria. En caso de no reunirse el quórum necesario, se volverá a emitir una nueva convocatoria a reunión para verificarse antes de los ocho días naturales siguientes.
 
 En cada una de las sesiones se decidirán los procedimientos y el sistema de seguimiento de los acuerdos tomados por el Consejo para su cabal cumplimiento.
 
 De cada sesión del Consejo, se elaborará un acta en la que se asienten los acuerdos tomados por el mismo, la cual se someterá a su aprobación en la siguiente sesión.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
@@ -295,7 +331,7 @@ Las facultades del Consejo son las siguientes:
 
 I. Proponer actividades y lineamientos generales para la conformación de una política cultural para el Municipio.
 
-II. Conocer de inmediato de la designación del Director General del Instituto Municipal Aguascalentense para la Cultura.
+II. Conocer de inmediato de la designación de la Directora o el Director General del Instituto Municipal Aguascalentense para la Cultura.
 
 III. Conocer, en cada sesión ordinaria, el avance de las actividades y responsabilidades del Instituto.
 
@@ -305,21 +341,23 @@ V. Diseñar estrategias para la conformación de un Plan de Desarrollo Cultural 
 
 VI. Conocer de los planes y programas de trabajo del Instituto Municipal Aguascalentense para la Cultura.
 
-VII. Conocer de los nombramientos de Directores, Jefes de Departamento, Coordinadores o Comisiones Especiales dentro de la estructura del Instituto.
+VII. Conocer de los nombramientos de las Directoras o Directores, Jefas o Jefes de Departamento, Coordinadoras o Coordinadores o Comisiones Especiales dentro de la estructura del Instituto.
 
 VIII. Conocer anualmente del anteproyecto de presupuesto del Instituto.
 
 IX. Conocer de convenios, contratos y demás actos jurídicos en los que la Dirección General del Instituto intervenga.
 
-X. Integrar las comisiones especiales que el mismo Consejo Consultivo forme de entre sus miembros, para lograr que los programas específicos logren su objetivo y sus metas.
+X. Integrar las comisiones especiales que el mismo Consejo Consultivo forme de entre sus integrantes; para lograr que los programas específicos logren su objetivo y sus metas.
 
 XI. Evaluar el desempeño general de la Dirección General del Instituto, en el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 21.
 
-El Presidente del Consejo tiene las siguientes facultades y atribuciones:
+La Presidenta o Presidente del Consejo tiene las siguientes facultades y atribuciones:
 
-I. Rendir y tomar la protesta a los integrantes del Consejo.
+I. Rendir y tomar la protesta a las o los integrantes del Consejo.
 
 II. Presidir las sesiones que deba celebrar el Consejo.
 
@@ -331,21 +369,23 @@ V. Vigilar y tomar las medidas necesarias para el buen funcionamiento del Consej
 
 VI. Las demás que le confiera el propio Consejo relativas al fomento de la identidad local y la promoción de la cultura y las artes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 22.
 
-Son facultades y atribuciones del Secretario Ejecutivo las siguientes:
+Son facultades y atribuciones de la Secretaria o el Secretario Técnico las siguientes:
 
 I. Estar presente en las sesiones del Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes.
 
-II. Firmar las invitaciones a las reuniones del Consejo Consultivo cuando el Presidente del mismo así se lo delegue.
+II. Firmar las invitaciones a las reuniones del Consejo Consultivo cuando la Presidenta o el Presidente del mismo así se lo delegue.
 
 III. Presentarse, por lo menos, quince minutos antes de la hora señalada para el inicio de la sesión del Consejo Consultivo, a fin de corroborar que el lugar respectivo se encuentre en condiciones adecuadas para celebrar la sesión correspondiente.
 
-IV. Pasar lista de asistencia a los integrantes del Consejo Consultivo y comprobar que exista el quórum requerido.
+IV. Pasar lista de asistencia a las y los integrantes del Consejo Consultivo y comprobar que exista el quórum requerido.
 
-V. Dirigir las sesiones del Consejo Consultivo por delegación del Presidente del mismo y otorgar el uso de la voz a quien tenga derecho a ello.
+V. Dirigir las sesiones del Consejo Consultivo por delegación de la Presidenta o el Presidente del mismo y otorgar el uso de la voz a quien tenga derecho a ello.
 
-VI. Proponer, a petición de los miembros del Consejo Consultivo, concluir, diferir o continuar la sesión respectiva, cuando rebase las dos horas de duración, quienes decidirán por mayoría.
+VI. Proponer, a petición de las y los integrantes del Consejo Consultivo, concluir, diferir o continuar la sesión respectiva, cuando rebase las dos horas de duración, quienes decidirán por mayoría.
 
 VII. Levantar las actas de las sesiones que celebre Consejo Consultivo.
 
@@ -363,17 +403,19 @@ XIII. Elaborar un informe anual de actividades y turnarlo al Honorable Ayuntamie
 
 ### CAPÍTULO V. De la Estructura Administrativa
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
-El Instituto Municipal Aguascalentense para la Cultura, para el cumplimiento de su objeto, estará estructurado en términos organizacionales a partir de las unidades administrativas que establece el presente Reglamento y que se determinen en el Reglamento Interior que expida el Honorable Ayuntamiento para efecto de describir las funciones específicas y atribuciones de cada área.
+El Instituto, para el cumplimiento de su objeto, estará estructurado en términos organizacionales a partir de las unidades administrativas que establece el presente Reglamento y que se determinen en el Reglamento Interior que apruebe la Junta de Gobierno, y que expida el Honorable Ayuntamiento para efecto de describir las funciones especificas y atribuciones de cada área y en el que se deberá regular el procedimiento para en su caso determinar la remoción de los y las integrantes de algún órgano de gobierno del Instituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 24.
 
-El Instituto Municipal Aguascalentense para la Cultura contará, para la actividad de gestión y ejecución de los planes, programas y servicios, por lo menos, con las siguientes Direcciones, Jefaturas de Departamentos y Áreas de Apoyo:
+El Instituto contará preferentemente, para la actividad de gestión y ejecución de los planes, programas y servicios, con las siguientes Subdirecciones, Jefaturas de Departamento y Áreas de Apoyo:
 
-I. Dirección de Desarrollo Cultural: Responsable de impulsar y coordinar los programas y proyectos para el desarrollo de públicos, apoyo a creadores y de prestación de servicios culturales de fomento al arte y la identidad local. Para el cumplimiento de este objetivo, esta Dirección tendrá a su cargo las siguientes Jefaturas:
+I. Subdirección de Promoción y Difusión Cultural: Responsable de planear, organizar y supervisar los eventos artísticos-culturales del Instituto, conforme los lineamientos y estrategias que marque el Director o Directora General del Instituto, así como de las campañas de difusión, divulgación y publicitarias. Para el cumplimiento de este objetivo, esta Subdirección tendrá a su cargo las siguientes Jefaturas:
 
 a) Promoción y Difusión.
 
@@ -381,39 +423,51 @@ b) Proyectos Especiales.
 
 c) Banda Sinfónica Municipal.
 
-II. Dirección de Desarrollo Artístico: Responsable de impulsar y coordinar la oferta de enseñanza y entretenimiento artístico. Para el cumplimento de este objetivo, esta Dirección tendrá a su cargo las siguientes Jefaturas de Departamento:
+II. Subdirección de Enseñanza Artística y Ediciones: Responsable de impulsar y coordinar la oferta de enseñanza, entretenimiento artístico, ediciones y publicaciones; fomento a la lectura y creación literaria, así como proyectos especiales en estas vertientes conforme a lineamientos y estrategias que marque el Plan Municipal para la Cultura y la Dirección General del Instituto para el cumplimento de este objetivo, esta Subdirección tendrá a su cargo las siguientes Jefaturas de Departamento:
 
 a) Enseñanza.
 
 b) Entretenimiento.
 
-III. (DEROGADA, P.O. 30 DE AGOSTO DE 2010)
+III. Subdirección de Administración y Vinculación: Responsable de administrar los recursos humanos, materiales y financieros del Instituto; mantener una organización administrativa integral, tecnificada y sistematizada en lo relativo a los aspectos precisados que coadyuve con las funciones fundamentales del Instituto. Para el cumplimento de estos objetivos, esta Subdirección tendrá a su cargo las siguientes Jefaturas de Departamento:
+
+a) Administración y Capital Humano;
+
+b) Contabilidad Gubernamental; y
+
+c) Vinculación Cultural;
 
 IV. Jefatura de Departamento de Administración, Finanzas y Manejo del Personal.
 
-V. Jefatura de Departamento de Innovación y Vinculación.
+V. Jefatura de Departamento Jurídico.
 
 VI. Jefatura de Departamento de Comunicación Social.
 
 ### CAPÍTULO VI. Del Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-El Órgano de Vigilancia del Instituto estará conformado por el Titular de la Contraloría Municipal y el Regidor que presida la Comisión de Educación y Cultura del Honorable Ayuntamiento.
+El Órgano de Vigilancia del Instituto estará conformado por el o la Titular de la Contraloría Municipal y el Regidor o la Regidora que presida la Comisión de Educación y Cultura del Honorable Ayuntamiento.
 
 ###### ARTÍCULO 26.
 
 El Órgano de Vigilancia evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los recursos en los rubros de gasto corriente y de inversión, y, en general, solicitará la información y efectuará los actos que requiera para el adecuado cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 27.
 
-Para el cumplimiento de las funciones del Órgano de Vigilancia, el Director General del Instituto Municipal Aguascalentense para la Cultura le proporcionará a éste la información que le solicite.
+Para el cumplimiento de las funciones del Órgano de Vigilancia, la Directora o el Director General del Instituto Municipal Aguascalentense para la Cultura le proporcionará a éste la información que le solicite.
 
 ### CAPÍTULO VII. Del Régimen Laboral
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-El personal del Instituto Municipal Aguascalentense para la Cultura se regirá por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes y de sus Municipios.
+El personal del Instituto, se regirá por las disposiciones del Reglamento Interior de Trabajo del Instituto Municipal Aguascalentense para la Cultura, Reglamento Interno del Personal que integra la Banda Sinfónica Municipal de Aguascalientes, así como por la Ley de Responsabilidades de los Servidores Públicos del Estado y de manera supletoria y en orden de prelación el Código Municipal de Aguascalientes, Estatuto Jurídico de los Trabajadores al Servicios (sic) de los Gobiernos del Estado de Aguascalientes, sus Municipios y organismos descentralizados y por la Ley Federal del Trabajo en cuanto al Derecho Procesal.
 
 ###### ARTÍCULO 29.
 
@@ -441,7 +495,7 @@ En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 30 DE AGOSTO DE 2010.
 
@@ -450,3 +504,15 @@ P.O. 30 DE AGOSTO DE 2010.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Lo anterior para el conocimiento de la ciudadanía.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento Interior del Instituto Municipal Aguascalentense para la Cultura entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Las disposiciones jurídicas y administrativas expedidas en las materias que regula este reglamento, vigentes al momento de la publicación del mismo, se seguirán aplicando en todo lo que no se opongan al presente, en tanto se expiden las que deban sustituirlas.
+
+TERCERO. Los procedimientos de contratación, de aplicación de sanciones, y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Reglamento, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+CUARTO. En tanto no sean publicadas las Normas de comprobación de gastos por viáticos, caja chica y realización de eventos por personal del Instituto Municipal Aguascalentense para la Cultura se aplicarán las disposiciones jurídicas contenidas en las Nomas de Control que para tal efecto emite la Contraloría Municipal para la comprobación de dichos gastos.
