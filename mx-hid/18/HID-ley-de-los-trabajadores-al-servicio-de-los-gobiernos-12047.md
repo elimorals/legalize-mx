@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2012-10-22"
+last_updated: "2012-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -184,6 +184,10 @@ Por cada seis días de trabajo disfrutará el trabajador de un día de descanso,
 ###### ARTICULO 17.
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+Los hombres disfrutarán de cinco días hábiles de descanso, con goce de sueldo, posteriores al día del parto de su esposa o concubina. Este derecho, podrá ser disfrutado por las mujeres y hombres trabajadores en el supuesto de que adopten a un menor de edad, conforme a las leyes aplicables al respecto.
 
 ###### ARTICULO 18.
 
@@ -381,7 +385,9 @@ VI. Asistir puntualmente a sus labores;
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y
 
-VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente, entre otros temas, y de manera esencial, sobre derechos humanos, combate a la corrupción, igualdad y equidad de género y la prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
 
 ### CAPITULO UNICO. ESCALAFON
 
@@ -1157,7 +1163,7 @@ Dado en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Estado d
 
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE JUNIO DE 2004.
 
@@ -1166,6 +1172,12 @@ P.O. 7 DE JUNIO DE 2004.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 22 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE DICIEMBRE DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
