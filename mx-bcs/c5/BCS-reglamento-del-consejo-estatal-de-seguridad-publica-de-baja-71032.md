@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-consejo-estatal-de-seguridad-publica-de-baja-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-28"
-last_updated: "2009-10-28"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA Y DEL FONDO DE APORTACIONES DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. 10 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 28 de octubre de 2009.
 
@@ -308,3 +310,11 @@ C. ING. NARCISO AGÚNDEZ MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. T.C.C. LUIS ARMANDO DÍAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto mediante el cual se expide el Reglamento del Consejo Estatal de Seguridad Pública de Baja California Sur, número 50-Bis de fecha 28 de octubre de 2009.
