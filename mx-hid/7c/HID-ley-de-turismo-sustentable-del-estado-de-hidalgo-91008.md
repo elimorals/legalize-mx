@@ -1,0 +1,876 @@
+---
+title: "LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO"
+identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
+country: "mx"
+rank: "ley"
+publication_date: "2012-12-10"
+last_updated: "2012-12-10"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-hid"
+scjn_id: "91008"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "50"
+reform_count: "30"
+scjn_last_update: "2026-08-28"
+issue_date: "2012-11-30"
+state: "HID"
+---
+# LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
+
+LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
+
+JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+
+QUE LA LXI LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+
+D E C R E T O NÚM. 304
+
+QUE CONTIENE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO.
+
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
+
+A N T E C E D E N T E S.
+
+POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O
+
+QUE CONTIENE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO.
+
+Artículo Único.- Se expide la Ley de Turismo Sustentable para el Estado de Hidalgo.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Hidalgo.
+
+Su aplicación e interpretación se hará en coordinación con las autoridades Estatales y Municipales y le corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Turismo y Cultura, en el ámbito de sus respectivas competencias.
+
+###### Artículo 2.
+
+El objeto de esta Ley es establecer las bases para el ordenamiento y gestión del Sector Turístico del Estado de Hidalgo, así como los mecanismos de planeación, promoción, fomento, regulación y desarrollo local sustentable de la actividad turística.
+
+###### Artículo 3.
+
+Se considera a la actividad turística como prioritaria para el desarrollo económico del Estado y de sus Municipios, así como generadora de empleo, desarrollo local sustentable y preservación y fomento del patrimonio natural, histórico y cultural, por lo que el Ejecutivo Estatal, por conducto de la Secretaría, atenderá los siguientes fines:
+
+I.- Establecer las bases generales de coordinación de las facultades concurrentes entre el Ejecutivo Estatal y Municipios, así como la participación de los sectores social y privado;
+
+II.- Fijar las bases para la política, planeación, promoción, evaluación y programación en el territorio del Estado de Hidalgo de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado a corto, mediano y largo plazos;
+
+III.- Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos Estatales, preservando el patrimonio natural, histórico y cultural, además de considerar el equilibrio ecológico promulgados por las leyes en la materia, así como contribuir a la creación y desarrollo de nuevos atractivos turísticos regionales, en apego al marco jurídico vigente;
+
+IV.- Formular las reglas y procedimientos para establecer el ordenamiento turístico del territorio Estatal;
+
+V.- Promover y vigilar el desarrollo del turismo social, propiciando el acceso universal a la población al descanso y recreación mediante esta actividad;
+
+VI.- Facilitar a las personas con alguna discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística;
+
+VII.- Favorecer la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
+
+VIII.- Establecer las reglas y procedimientos para la creación, operación y promoción de las Zonas de Desarrollo Turístico Prioritario de Hidalgo;
+
+IX.- Promover los incentivos y esquemas necesarios para mejorar la calidad, competitividad, modernización y certificación de los servicios turísticos hidalguenses;
+
+X.- Fomentar la inversión pública, privada y social, aprovechando los instrumentos financieros desarrollados por la Federación, el Estado, los Municipios y otras instancias que apoyen al sector;
+
+XI.- Acordar los lineamientos para la emisión de las disposiciones jurídicas tendientes a regular la actividad de los prestadores de servicios turísticos en el Estado;
+
+XII.- Determinar las normas para la integración y operación del Registro Estatal de Turismo, del Catálogo de Atractivos Turísticos y del Atlas Turístico Hidalguense;
+
+XIII.- Establecer las bases para garantizar la seguridad, orientación y asistencia a los turistas nacionales y extranjeros;
+
+XIV.- Desarrollar acciones para diversificar la actividad turística hidalguense; y
+
+XV.- Garantizar y proteger los derechos de los usuarios turísticos.
+
+###### Artículo 4.
+
+Para el cumplimiento del objeto de esta Ley, el Ejecutivo Estatal por sí mismo o por medio del titular de la Secretaría, podrá celebrar todo tipo de contratos, convenios o acuerdos de colaboración y coordinación con las Dependencias y Entidades de la Administración Pública Estatal, Federal y Municipal, así como con los sectores social y privado, previo acuerdo del titular del Poder Ejecutivo Estatal.
+
+###### Artículo 5.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+
+II.- Atlas Turístico de México: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
+
+III.- Atlas Turístico Hidalguense: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo en Hidalgo que puedan constituirse en atractivos turísticos;
+
+IV.- Comisión Ejecutiva: La Comisión Estatal Ejecutiva de Turismo;
+
+V.- Consejo: El Consejo Consultivo para el Desarrollo Turístico Sustentable de Hidalgo;
+
+VI.- Consejo Municipal: El Consejo Consultivo Municipal de Turismo Sustentable del Estado de Hidalgo;
+
+VII.- Guía de turistas: Especialista que tiene conocimiento sobre algún atractivo o tema en específico y obtuvo reconocimiento por la autoridad competente en su respectiva categoría de turismo;
+
+VIII.- Ley: Ley de Turismo Sustentable del Estado de Hidalgo;
+
+IX.- Ley General: Ley General de Turismo;
+
+X.- Modulo de Evaluación del Desempeño del Sector Turístico: Es el conjunto de indicadores de desempeño institucional, cuyo objetivo será monitorear los procesos, programas, proyectos del sector con una visión estratégica, clara, concreta y factible de los resultados que se deben lograr;
+
+XI.- Ordenamiento Turístico del Territorio Estatal: Instrumento de la política turística estatal bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer, promover e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+
+XII.- Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista o visitante, la prestación de algún servicio a que se refiere esta Ley;
+
+XIII.- Programa: Programa Sectorial de Turismo del Estado de Hidalgo;
+
+XIV.- Promotora: Promotora Turística de Hidalgo;
+
+XV.- Recursos Turísticos: Todos los elementos naturales o artificiales de un lugar o región que constituyen o puedan constituir un atractivo para la actividad turística;
+
+XVI.- Reglamento: El de la Ley de Turismo Sustentable del Estado de Hidalgo;
+
+XVII.- Registro Estatal de Turismo: Catálogo público de prestadores de servicios turísticos en el Estado de Hidalgo;
+
+XVIII.- Secretaría: La Secretaría de Turismo y Cultura del Estado de Hidalgo;
+
+XIX.- Servicios Turísticos: Aquéllos dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+
+XX.- Sistema Estadístico de Información Turística del Estado de Hidalgo: Es el instrumento que tendrá por objeto la recopilación, análisis y difusión de información sobre el sector y el cual proveerá y dispondrá de la información necesaria para coadyuvar en el diseño y formulación de proyectos turísticos y estudios de prospectiva, que fomenten la calidad y competitividad del sector turismo y cuantifiquen su impacto social y económico, así como dispongan de los elementos informativos necesarios para la planeación, desarrollo, fomento y promoción del turismo en el Estado;
+
+XXI.- Sistema Estatal de Turismo Sustentable: El conjunto de relaciones que vinculan a las dependencias y entidades de la Administración Pública Estatal con los Municipios y el Poder Legislativo local, así como con las organizaciones de representación empresarial del sector privado y las propias del sector social; a las instituciones académicas; organismos internacionales; a la sociedad civil y sus representaciones, además de otros actores vinculados con el sector turístico;
+
+XXII.- Turismo Alternativo: Aquellos turistas que tienen como fin realizar actividades recreativas de contacto con la naturaleza y con una actitud de observar, respetar, disfrutar y participar de la conservación de los elementos y recursos naturales y culturales; se puede manifestar también como:
+
+a).- Turismo Natural o Ecoturismo: Basado en la observación, comprensión, interacción y apreciación de la naturaleza y de las manifestaciones culturales tradicionales e históricas de las comunidades del Estado, teniendo conciencia del respeto y de la conservación de todos estos atractivos;
+
+b).- Turismo Rural y Comunitario: Implica la participación en actividades propias de las comunidades a las cuales se visita, con fines culturales, educativos y recreativos; y
+
+c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes actividades deportivo-recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
+
+XXIII.- Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos del Estado;
+
+XXIV.- Turismo Sustentable: Aquel que cumple y sigue las siguientes directrices:
+
+a).- Dar un uso adecuado a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia;
+
+b).- Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y
+
+c).- Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+
+XXV.- Turista: La persona que viaja temporalmente fuera de su lugar de residencia habitual y su viaje incluye la pernocta en el lugar de destino y que utiliza alguno de los servicios turísticos a que se refiere esta Ley;
+
+XXVI.- Zonas de Desarrollo Turístico Estatal Prioritarias: Referidas a los espacios del territorio estatal, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyan un atractivo turístico; y
+
+XXVII.-Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específica que emitirá el Presidente de la República.
+
+###### Artículo 6.
+
+Se consideran servicios turísticos, los prestados a través de:
+
+I.- Hoteles, moteles, albergues, estancias, balnearios y demás establecimientos de hospedaje, así como campamentos turísticos y/o educativos y paradores de casas rodantes que presten servicios a turistas, así como los inmuebles privados que sirvan de alojamiento para turistas;
+
+II.- Agencias, operadores, comisionistas y mayoristas de viajes, asesores e intermediarios en la reservación y contratación de servicios turísticos;
+
+III.- Guías de turistas, de acuerdo con la clasificación prevista por el Reglamento de la Ley General;
+
+IV.- Restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos y zonas de atractivos naturales o arqueológicas;
+
+V.- Empresas de transporte especializado en excursiones o viajes de turismo por tierra, aire o cuerpos de agua;
+
+VI.- Empresas dedicadas a la renta de automóviles u otros medios de transporte;
+
+VII.- Centros de enseñanza de idiomas, cuyos servicios estén orientados a turistas; y
+
+VIII.- Los demás considerados como tales por la Ley General.
+
+### CAPÍTULO II. ATRIBUCIONES DE LA SECRETARÍA
+
+###### Artículo 7.
+
+Las atribuciones del Poder Ejecutivo Estatal que se ejercerán a través de la Secretaría son:
+
+I.- Establecer, conducir, supervisar, difundir, dirigir y controlar la política de desarrollo de la actividad turística del Estado;
+
+II.- Celebrar convenios en materia turística conforme a lo previsto en la presente Ley y la Ley General;
+
+III.- Aplicar los instrumentos de política turística previstos en la presente Ley y en la Ley General, así como la ejecución de la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas competencia del Estado;
+
+IV.- Diseñar, establecer y operar el Sistema Estatal de Turismo Sustentable;
+
+V.- Formular, ejecutar y evaluar el Programa, de acuerdo a las directrices previstas en el Plan Estatal de Desarrollo y en el Plan Nacional de Desarrollo;
+
+VI.- Establecer la Comisión Ejecutiva;
+
+VII.- Concertar con los sectores privado y social, las acciones tendientes a desarrollar y fomentar la actividad turística;
+
+VIII.- Diseñar y operar el Modulo de Evaluación del Desempeño del Sector Turístico;
+
+IX.- Coordinar, formular, evaluar y ejecutar las acciones encaminadas al ordenamiento turístico estatal o regional del turismo, con la participación y en coordinación con las Dependencias y Entidades competentes, con una visión sustentable del sector;
+
+X.- Participar en la declaración, regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Estatal Prioritarias, conforme a los convenios que al efecto se suscriban;
+
+XI.- Conducir la política estatal e instrumentar las acciones de promoción y comercialización de las actividades y destinos turísticos del Estado, así como los de nueva creación;
+
+XII.- Impulsar, fomentar, promover y ofrecer asistencia técnica, para la creación, el desarrollo y operación de las micro, pequeñas y medianas empresas turísticas;
+
+XIII.- Proponer, a las instancias responsables, la puesta en marcha de instrumentos de financiamiento que favorezcan la actividad productiva en el sector;
+
+XIV.- Promover, en coordinación con las autoridades competentes, la imagen de Hidalgo como marca turística;
+
+XV.- Diseñar, elaborar, instrumentar, ejecutar, evaluar y difundir programas de investigación y estudios en materia turística para el Estado;
+
+XVI.- Apoyar y respaldar a las Dependencias y Entidades competentes de la Administración Pública Estatal, Federal y Municipal, en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de riesgos, conforme a las políticas y programas de protección civil vigentes, en caso de que algún fenómeno natural haya afectado o esté por afectar a la actividad turística del Estado;
+
+XVII.- Brindar orientación y asistencia al turista nacional y extranjero, así como canalizar las quejas de éstos ante la autoridad competente;
+
+XVIII.- Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
+
+XIX.- Diseñar e instrumentar esquemas estatales de calidad, basados en criterios de competitividad y en función de los requerimientos que la vocación turística del Estado demanden (sic);
+
+XX.- Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General y a las disposiciones reglamentarias;
+
+XXI.- Emitir recomendaciones y opiniones a la Secretaría de Turismo Federal en la materia;
+
+XXII.- Fomentar la cultura y la enseñanza de turismo y de la capacitación y certificación de las personas físicas y morales del sector turístico;
+
+XXIII.- Proponer, en coordinación con los Municipios, los proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable ante la Secretaría Federal;
+
+XXIV.- Propiciar y proponer a través de la Promotora Turística de Hidalgo, la creación de instalaciones, incentivos, fondos y estímulos administrativos, económicos y fiscales, para el fomento de la inversión en el desarrollo de la actividad turística sustentable y competitiva, en coordinación con las autoridades de la Administración Pública Estatal, Federal y Municipal, que por sus facultades corresponda;
+
+XXV.- Proponer al Ejecutivo Estatal un programa anual de apoyos e incentivos a la inversión y el empleo, dando prioridad a las regiones, sectores y ramas definidos como estratégicos, por lo que coadyuvará en la integración de recursos financieros en el marco del Sistema Estatal de Financiamiento;
+
+XXVI.- Brindar asistencia técnica y acompañamiento empresarial a través de la Promotora Turística de Hidalgo, para favorecer el acceso al financiamiento de proyectos turísticos, dando prioridad a los que cumplan con las características de sustentabilidad ambiental y desarrollo de comunidades con bajo desarrollo productivo;
+
+XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de Hidalgo de manera anual, que sirva como promoción y fomento de las oportunidades de negocios que presenta la Entidad en el sector;
+
+XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, entre otros, que generen una afluencia de turistas al Estado;
+
+XXIX.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ellas se deriven; y
+
+XXX.- Las demás necesarias para el logro de los fines establecidos en la presente Ley, en la Ley General y las previstas en otros ordenamientos.
+
+### CAPÍTULO III. DE LA CONCURRENCIA EN MATERIA TURÍSTICA
+
+###### Artículo 8.
+
+Para la debida atención de los asuntos concernientes a la Secretaría y de conformidad con las disposiciones aplicables, las Dependencias y Entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, deberán apoyar a la misma en el ejercicio de sus atribuciones. Por tanto, corresponde a la Secretaría:
+
+I.- Conducir el Sistema Estatal de Turismo Sustentable, coordinando la interacción de las Dependencias y Entidades relacionadas con la actividad, que por sus características multidisciplinarias y de transversalidad sectorial, establecen vínculos y relaciones para el desarrollo y promoción de la actividad.
+
+El sistema parte y dispone de la participación de todos los subsectores y actores que intervienen en la actividad, dada la necesaria interacción del sector, al demandar la intervención y las acciones de los distintos Poderes, los diferentes niveles de Gobierno, los representantes de la iniciativa privada y de la sociedad civil en su conjunto.
+
+Corresponde a la Secretaría desarrollar y proponer los instrumentos jurídicos necesarios para consolidar, fortalecer y buscar las sinergias necesarias para llevar a cabo los compromisos programáticos que le conciernan.
+
+II.- Participar con la Secretaría de Obras Públicas y Ordenamiento Territorial del Gobierno de Hidalgo en:
+
+II. 1. Establecer las necesidades de transporte terrestre que garanticen el acceso a los atractivos turísticos establecidos y con potencial del Estado; y
+
+II. 2. Colaborar en la identificación de las necesidades de señalización para facilitar el acceso a las Zonas de Desarrollo Turístico Estatal Prioritario y a los atractivos turísticos del Estado;
+
+III.- Coadyuvar y coordinar con la Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo:
+
+III. 1. La instrumentación de programas y medidas para la preservación de los recursos naturales, de la prevención de la contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente; y
+
+III. 2. La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico;
+
+IV.- Promover y fomentar con la Secretaría de Desarrollo Económico del Estado de Hidalgo:
+
+IV. 1. La inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
+
+IV. 2. Las modalidades de financiamiento público y privado en esquemas preferenciales a los empresarios y emprendedores hidalguenses, mediante la instancia estatal correspondiente;
+
+IV. 3. Las acciones tendientes a fortalecer y promover a las micro, pequeñas y medianas empresas turísticas;
+
+IV. 4. La instrumentación, en coordinación con las autoridades Federales y de los Municipios competentes, de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas, que permitan la expedita apertura y operación de negocios y empresas en los destinos turísticos; y
+
+IV. 5. El uso y aplicación de los fondos federales disponibles que son sujetos de utilización por parte del sector turismo, prestando especial interés a los correspondientes al Fondo Pymes y los Fondos del Consejo Nacional de Ciencia y Tecnología, entre otros.
+
+V.- Promover y apoyar con la Secretaría de Seguridad Pública y con la Procuraduría General de Justicia del Estado de Hidalgo:
+
+V. 1. La participación con la Secretaría de Seguridad Pública de las acciones de protección de la integridad física de los turistas, así como su seguridad y asistencia legal durante su estancia en el Estado; y
+
+V. 2. La colaboración y ayuda a la Procuraduría General de Justicia del Estado de Hidalgo, respecto a la creación de medidas y acciones que garanticen el apoyo a los turistas durante algún posible acontecimiento que les suceda durante su estancia en el Estado;
+
+VI.- Promover e impulsar con la Secretaría de Educación Pública del Poder Ejecutivo del Estado de Hidalgo:
+
+VI. 1. Los estudios e investigaciones sobre el turismo y la cultura que se relacionen con el aprovechamiento y conservación del patrimonial del Estado;
+
+VI. 2. La difusión de la importancia de respetar y conservar los atractivos turísticos, así como inculcar el espíritu de servicio y hospitalidad hacia el turista nacional y extranjero; y
+
+VI. 3. El trabajo conjunto y coordinado con los centros de enseñanza de los diferentes niveles en los programas que fortalezcan la certificación de la planta laboral;
+
+VII.- Colaborar con la Secretaría de Trabajo y Previsión Social del Estado de Hidalgo, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de los prestadores de servicios turísticos, incorporando a las personas con alguna discapacidad;
+
+VIII.- Promover y fomentar, en coordinación con el Consejo Estatal para la Cultura y las Artes de Hidalgo, así como con el Instituto Nacional de Bellas Artes y Literatura, y el Instituto Nacional de Antropología e Historia, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente;
+
+IX.- Coadyuvar con los centros de enseñanza superior, Dependencias y Entidades de la Administración Pública Estatal, para impulsar proyectos productivos, inversión turística, y de investigación que cumplan con las disposiciones legales y normativas aplicables;
+
+X.- Bajo la coordinación de la Secretaría de Finanzas y Administración del Gobierno de Hidalgo, apoyar la instrumentación de los estímulos fiscales autorizados y aplicables, dirigidos a elevar la inversión y el empleo en el sector turístico, de acuerdo a las disposiciones legales en la materia;
+
+XI.- La Secretaría, en coordinación y con base en los lineamientos que determinen la Secretaría de Planeación, Desarrollo Regional y Metropolitano, así como la Secretaría de Finanzas y Administración, ambas del Gobierno del Estado de Hidalgo, diseñará y operará el Modulo de Evaluación del Desempeño del Sector Turístico, como instrumento estratégico de planeación, seguimiento y evaluación del sector; y
+
+XII.- Las demás previstas en éste y otros ordenamientos aplicables.
+
+### CAPÍTULO IV. DE LOS MUNICIPIOS
+
+###### Artículo 9.
+
+Corresponde a los Municipios, de conformidad con lo dispuesto en esta Ley y en el marco jurídico relativo y aplicable en materia turística, las siguientes atribuciones:
+
+I.- Dirigir, coordinar y evaluar la política turística Municipal;
+
+II.- Celebrar e instrumentar convenios en materia turística, conforme las disposiciones legales y normativas aplicables;
+
+III.- Aplicar los instrumentos de política turística que les sean atribuidos por las Leyes locales;
+
+IV.- Elaborar, aplicar y evaluar, con la participación de la Secretaría, el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial de Turismo del Estado y los Programas Regionales y Especiales derivados del Plan Estatal de Desarrollo, que le sean aplicables;
+
+V.- Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley, u otros ordenamientos legales en concordancia con ella;
+
+VI.- Constituir el Consejo Municipal;
+
+VII.- Consensuar con los sectores privado y social, acciones tendientes a detonar programas en el sector con el impulso de las micro, pequeñas y medianas empresas turísticas;
+
+VIII.- Participar en los programas de ordenamiento turístico del territorio;
+
+IX.- Participar en el diseño, instrumentación, ejecución y evaluación de los Programas Municipales de investigación para el desarrollo turístico;
+
+X.- Apoyar y participar con el Gobierno Estatal, en las acciones de promoción turística del Municipio;
+
+XI- Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+
+XII.- Emitir opinión ante las instancias correspondientes, y ejecutar las acciones que conforme al marco jurídico vigente le correspondan, cuando concurran dentro de su territorio proyectos de desarrollo turístico o relacionados con el sector;
+
+XIII.- Operar módulos de información y orientación al turista;
+
+XIV.- Recibir y canalizar las quejas de los turistas nacionales y extranjeros, para su atención ante la autoridad competente; y
+
+XV.- Las demás previstas en éste y otros ordenamientos vigentes aplicables.
+
+### CAPÍTULO V. DEL PROGRAMA SECTORIAL DE TURISMO DE HIDALGO
+
+###### Artículo 10.
+
+La Secretaría será la encargada de formular el Programa Sectorial, en cumplimiento de lo establecido en la legislación aplicable, considerando las directrices y lineamientos definidos en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y los Programas que incurran en el sector.
+
+Para el desarrollo de las políticas, objetivos y estrategias definidas en el Programa, la Secretaría elaborará los estudios necesarios para contar con la información y elementos requeridos en la toma de decisiones, relacionados con la oferta, demanda turística y sobre el potencial de los segmentos turísticos del Estado, entre otros.
+
+###### Artículo 11.
+
+La planeación de la actividad turística del Estado buscará lograr una visión y crecimiento sustentable del turismo a través de:
+
+I.- Proteger el medio ambiente, así como preservar y manejar adecuadamente los recursos naturales;
+
+II.- Buscar alcanzar un aprovechamiento integral, eficiente y racional de los recursos con potencial turístico, de las riquezas naturales, culturales, arquitectónicas, históricas y gastronómicas del Estado;
+
+III.- Desarrollar acciones que fomenten el uso, conservación y mantenimiento de los recursos naturales, culturales e históricos del Estado que puedan constituir un atractivo turístico; y
+
+IV.- Incluir acciones de coordinación con todos los niveles de gobierno para el alcance de sus objetivos y metas.
+
+###### Artículo 12.
+
+La Secretaría fomentará acciones que tengan como propósito el desarrollo sustentable de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos, haciendas y demás sitios de atractivo turístico del Estado, en coordinación con las Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipal, así como con los sectores privado y social.
+
+###### Artículo 13.
+
+El Programa sectorial propondrá acciones para la modernización del sector turístico de Hidalgo, para fomentar la diversificación y consolidación del mismo, así como para desarrollar la competitividad de las regiones del Estado, de acuerdo a su vocación turística.
+
+###### Artículo 14.
+
+El Programa promoverá el financiamiento y crecimiento de la infraestructura turística, en coordinación con el sector privado y social, para el fomento de los destinos con potencial turístico.
+
+###### Artículo 15.
+
+La Secretaría emprenderá el diseño e implementación, en coordinación con los actores públicos y privados relacionados, de rutas y circuitos turísticos que promuevan la oferta de atractivos y servicios turísticos del Estado.
+
+### CAPÍTULO VI. DE LAS ZONAS DE DESARROLLO TURÍSTICO ESTATAL SUSTENTABLE
+
+###### Artículo 16.
+
+En cumplimiento de lo establecido en la Ley General de Turismo, la Secretaría presentará, previa consulta y autorización expresa del Ejecutivo Estatal, ante la Secretaría de Turismo Federal, la propuesta de creación de Zonas de Desarrollo Turístico Estatal Sustentable, de acuerdo al marco jurídico y reglamentación respectiva.
+
+### CAPÍTULO VII. DE LAS ZONAS DE DESARROLLO TURÍSTICO ESTATAL PRIORITARIO
+
+###### Artículo 17.
+
+La Secretaría podrá impulsar y proponer al Ejecutivo Estatal, en su caso, la creación de Zonas de Desarrollo Turístico Estatal Prioritario, cuando por sus condiciones particulares sean propicias para el desarrollo del turismo, previo estudio de viabilidad, evaluación de impacto y crecimiento económico, así como su delimitación geográfica.
+
+###### Artículo 18.
+
+La Secretaría promoverá ante las autoridades competentes, las modificaciones necesarias para el uso turístico del suelo de las Zonas de Desarrollo Turístico Estatal Prioritario, en los términos de las leyes respectivas.
+
+###### Artículo 19.
+
+Con fundamento en la evaluación y análisis realizado, la Secretaría presentará a consideración del Titular del Ejecutivo Estatal, la creación de Zonas de Desarrollo Turístico Estatal Prioritario, previo acuerdo con el Consejo y los Municipios relacionados, con el fin de promover y preservar la riqueza histórica, cultural y natural del Estado, que tenga un impacto directo a la actividad turística.
+
+### CAPÍTULO VIII. DE LA COMISIÓN EJECUTIVA
+
+###### Artículo 20.
+
+La Comisión Ejecutiva es una comisión intersecretarial, que tiene como objeto conocer, atender y resolver los asuntos de naturaleza turística, relacionados con la competencia de dos o más Dependencias y/o Entidades de la Administración Pública Estatal, además de servir como órgano de consulta institucional para la atención de asuntos vinculados con el sector.
+
+###### Artículo 21.
+
+La Comisión Ejecutiva será presidida .por el Titular del Ejecutivo Estatal y en sus ausencias será sustituido por el titular de la Secretaría; estará integrada por representantes de las Dependencias y Entidades relacionadas con la actividad turística, conforme a lo que establezcan las disposiciones reglamentarias.
+
+###### Artículo 22.
+
+La Comisión Ejecutiva podrá crear comités especializados para los diversos asuntos relacionados con el turismo, como mercadotecnia e inversiones, capacitación y certificación, entre otras. Dichos Comités instrumentarán las medidas de evaluación que consideren convenientes para la actividad y para el logro de las estrategias y actividades emprendidas.
+
+### CAPÍTULO IX. DEL CONSEJO CONSULTIVO PARA EL DESARROLLO TURÍSTICO SUSTENTABLE DE HIDALGO
+
+###### Artículo 23.
+
+En cumplimiento de lo establecido en la Ley General, el Consejo será el órgano de consulta de la Secretaría y el instrumento por el que se fomentarán acciones de cooperación, análisis y suma de esfuerzos entre los sectores público, privado y social, con el fin de lograr un desarrollo integral y sustentable de la actividad turística del Estado.
+
+###### Artículo 24.
+
+El Consejo estará presidido por el Titular del Ejecutivo Estatal y en sus ausencias, por el titular de la Secretaría; estará integrado por los funcionarios competentes de las Dependencias y Entidades de la Administración Pública Estatal involucrados con los asuntos del sector turístico, por los Presidentes Municipales vinculados a los temas, proyectos y asuntos definidos para tratar en cada sesión del Consejo, conforme lo establecido en las disposiciones reglamentarias de esta Ley.
+
+###### Artículo 25.
+
+Cuando el Ejecutivo Estatal así lo resuelva, podrán ser invitados representantes de instituciones y entidades públicas federales, de los sectores privado, social ó de la población, y demás organizaciones académicas u organismos internacionales, o personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
+
+### CAPITULO X. DEL TURISMO SUSTENTABLE
+
+###### Artículo 26.
+
+La Secretaría, en el marco del Sistema Estatal de Turismo Sustentable, promoverá, impulsará y, en coordinación con los sectores privado y social, la academia y los prestadores de servicios turísticos especializados, llevará a cabo las acciones necesarias para desarrollar, integrar y facilitar la comercialización de productos turísticos innovadores, atractivos y sustentables, que permitan acceder a mayores cuotas de mercado y aseguren satisfacer al turismo que visite la Entidad.
+
+###### Artículo 27.
+
+La Secretaría en el ejercicio de sus atribuciones, fomentará los programas y acciones de inversión en oferta de atractivos turísticos sustentables, entre el sector privado y social, en el marco de las disposiciones legales en materia ambiental.
+
+###### Artículo 28.
+
+La Secretaría promoverá el desarrollo del turismo alternativo en sus modalidades de turismo rural, de aventura y ecoturismo dentro de la Entidad.
+
+###### Artículo 29.
+
+La Secretaría, a través de convenios de coordinación, buscará la implementación de acciones para fomentar y promover la identidad de las comunidades originarias del Estado y la riqueza histórica facilitando el desarrollo del turismo cultural dentro del Estado.
+
+###### Artículo 30.
+
+La Secretaría a efecto de impulsar el turismo en la entidad, diversificará y consolidará en su caso la oferta turística del Estado, promoviendo las actividades relacionadas con el turismo recreativo, particularmente las visitas a balnearios, la charrería, el turismo cinegético y deportivo, cuidando la conservación de los recursos naturales, culturales e históricos de la Entidad.
+
+###### Artículo 31.
+
+En el marco del Sistema Estatal de Financiamiento, la Secretaría, en coordinación con la Secretaría de Desarrollo Económico del Estado, promoverá la existencia de instrumentos financieros que respalden el desarrollo y la comercialización de productos turísticos sustentables.
+
+### CAPÍTULO XI. DEL TURISMO SOCIAL
+
+### CAPÍTULO XII. DEL TURISMO ACCESIBLE
+
+###### Artículo 32.
+
+La Secretaría desarrollará acciones para propiciar que todos los habitantes del Estado tengan acceso a la oportunidad de viajar y a obtener los beneficios del turismo que contribuyan a su crecimiento personal y a la valoración de la riqueza natural, cultural e histórica del Estado.
+
+###### Artículo 33.
+
+La Secretaría, en coordinación con las Dependencias y Entidades competentes de la Administración Pública Estatal, Federal y las organizaciones del sector social, llevará a cabo un programa de fomento al turismo social.
+
+###### Artículo 34.
+
+La Secretaría impulsará la celebración de convenios entre los prestadores de servicios y el sector público, privado y social, para facilitar el acceso a los viajes entre los trabajadores y su familia en condiciones de economía y seguridad.
+
+### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
+
+### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
+
+###### Artículo 35.
+
+La Secretaría promoverá las acciones necesarias entre las dependencias competentes y los Prestadores de Servicios Turísticos, para instrumentar los cambios y adaptaciones necesarias en la infraestructura y equipamiento turístico, para facilitar el acceso y disfrute a aquellas personas con alguna discapacidad.
+
+###### Artículo 36.
+
+La Secretaría procurará que los programas de señalización del sector consideren siempre las relativas que ofrezcan facilidades para el libre tránsito y confort de los viajeros con limitaciones físicas.
+
+### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
+
+### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
+
+### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
+
+###### Artículo 37.
+
+La Secretaría con la participación de los Municipios y dentro de sus facultades, impulsará la formación de empresas en el sector que impacten y detonen la prosperidad económica y el empleo de las comunidades receptoras. Promoverá la competencia con el objeto de satisfacer las expectativas de los visitantes y de los prestadores de servicios.
+
+###### Artículo 38.
+
+La Secretaría impulsará, facilitará y promoverá las inversiones en el sector con el apoyo de la Promotora Turística de Hidalgo, elevando la integración vertical y horizontal de las empresas del sector y sus cadenas productivas.
+
+###### Artículo 39.
+
+Será de especial atención la incorporación de micro, pequeñas y medianas empresas al eslabonamiento sectorial, con el propósito de favorecer los vínculos de negocios y productivos con actividades económicas relacionadas de manera directa o indirecta con el turismo. Para ello, la Secretaría, en coordinación con la Secretaría de Desarrollo Económico y las Entidades competentes, pondrá en marcha un programa que atienda las necesidades financieras que se puedan derivar.
+
+###### Artículo 40.
+
+Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrollo Social de Hidalgo, organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico.
+
+### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
+
+###### Artículo 41.
+
+Le corresponde a la Secretaría, con el apoyo de las autoridades Estatales, Federales y Municipales, promover y difundir la riqueza histórica, turística, cultural, así como el cuidado de los recursos turísticos del Estado de Hidalgo, como parte de la vida y desarrollo de las comunidades hidalguenses.
+
+###### Artículo 42.
+
+La Secretaría dotará de herramientas y conocimientos a la población local, para promover la hospitalidad de los hidalguenses y aprovechar los beneficios que conlleva la actividad turística, como factor detonador de desarrollo sustentable y los beneficios que pueden aportar a las personas a nivel cultural, físico, psicológico y espiritual.
+
+###### Artículo 43.
+
+La Secretaría impulsará la firma de acuerdos y fomentará esfuerzos con las Secretarías Estatales de Educación Pública y del Trabajo y Previsión Social, así como con el Consejo Estatal para la Cultura y las Artes de Hidalgo, para desarrollar acciones encaminadas a la capacitación, profesionalización y certificación laboral de los trabajadores del sector, al igual que participará en la elaboración y actualización de los planes de estudio en materia turística.
+
+### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
+
+###### Artículo 44.
+
+La Secretaría en el ejercicio de sus atribuciones, conducirá la política turística e instrumentará las acciones de promoción y comercialización de las actividades, destinos y productos turísticos del Estado;
+
+Los Municipios y demás participantes del sector, deberán coordinarse con la Secretaría para el desarrollo de las campañas de promoción turística en territorio nacional y extranjero, con el propósito de mantener una congruencia, consistencia y uniformidad en las estrategias promocionales del Estado.
+
+###### Artículo 45.
+
+La Secretaría propondrá la imagen conceptual del Estado en materia turística y diseñará un Plan Anual de Mercadotecnia, Relaciones Públicas, Comercialización y Difusión, mismo que deberá ser presentado al Consejo para su conocimiento, opinión y recomendaciones, para en forma posterior, presentarse a la Comisión Ejecutiva para su autorización, durante el último trimestre de cada año en curso.
+
+###### Artículo 46.
+
+Corresponde a la Secretaría desarrollar las acciones de promoción del Estado, de acuerdo a lo señalado en el Plan Anual de Mercadotecnia, para lo cual deberá:
+
+I.- Promover, en coordinación con las Dependencias y Entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres e identidad que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
+
+II.- Desarrollar e implementar la marca Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa;
+
+III.- Impulsar el aprovechamiento sustentable y la difusión del patrimonio histórico, artístico, cultural y natural del Estado;
+
+IV.- Coordinar la participación del Estado en los programas turísticos regionales que conjunten a varias Entidades Federativas, suscribiendo al efecto los convenios necesarios;
+
+V.- Apoyar las celebraciones tradicionales y folklóricas que promuevan las tradiciones y costumbres del Estado, que generen una corriente de visitantes;
+
+VI.- Impulsar, estimular y promover, en coordinación con las Dependencias y Entidades de las Administraciones Públicas del Estado y Municipios, así como con los sectores privado y social, el desarrollo de congresos y convenciones, ferias, exposiciones y certámenes en la Entidad, con el fin de incrementar el flujo de visitantes al Estado y aumentar el gasto promedio;
+
+VII.- Utilizar la información de las investigaciones y estudios sobre los visitantes al Estado, para incrementar la calidad y la competitividad de la oferta turística para generar las estrategias de comunicación y mercadotecnia requeridas;
+
+VIII.- Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
+
+IX.- Promover y coordinar con los diversos participantes de la actividad turística, la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones; y
+
+X.- Elaborar y difundir material especializado de información turística, así como artículos promocionales con recursos propios o a través de convenios con los sectores privado o social.
+
+###### Artículo 47.
+
+La Secretaría deberá mantener una estrecha comunicación y coordinación con la Federación, los Municipios, los sectores privado y social, y otros participantes en el sector turístico, que permita asegurar el establecimiento de una agenda común y facilite el diseño e instrumentación de las campañas promocionales.
+
+###### Artículo 48.
+
+La Secretaría impulsará el desarrollo turístico sustentable de las comunidades mediante la creación y difusión de regiones, rutas y circuitos turísticos con la visión de preservar las raíces históricas y culturales del Estado.
+
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### Artículo 49.
+
+La Secretaría con fundamento en sus atribuciones, establecerá una estrategia de fomento a las inversiones turísticas en el Estado, tanto las inversiones públicas, como las privadas. Para tal fin, la Secretaría deberá presentar para la autorización de la Comisión Ejecutiva, durante el último trimestre de cada año, la propuesta de estrategia para la promoción de inversiones turísticas, que considere el programa de inversiones públicas en el sector y los apoyos y facilidades para respaldar las inversiones del sector privado.
+
+###### Artículo 50.
+
+La Secretaría, en coordinación con la Secretaría de Desarrollo Económico del Estado, otorgará la asesoría y asistencia requerida por las empresas turísticas, para conocer de los apoyos que el Gobierno del Estado dispone, en favor de la modernización y competitividad del sector, considerando, entre otros, las solicitudes de financiamientos para el desarrollo de proyectos turísticos, con base en los criterios y lineamientos definidos en el Sistema Estatal de Financiamiento.
+
+###### Artículo 51.
+
+La Secretaría en el ejercicio de sus atribuciones en materia de fomento a la inversión turística, nacional e internacional dentro del Estado, contará con la Promotora, cuya función primordial es la de apoyar, implementar, asesorar y respaldar el desarrollo de proyectos de carácter turístico dentro del Estado, en coordinación con las Dependencias y Entidades competentes, como el Instituto Hidalguense de Competitividad Empresarial, Entidad con la que la Promotora deberá coordinar los trabajos de asesoría y apoyo financiero a las empresas turísticas.
+
+###### Artículo 52.
+
+La Promotora integrará el portafolio de proyectos turísticos, el cual será actualizado de manera permanente. Los proyectos del portafolio serán presentados por la Secretaría ante el Consejo, para su análisis y determinación de los apoyos a otorgar, entre otros los considerados en el Sistema Estatal de Financiamiento de Hidalgo, de acuerdo a las reglas de operación autorizadas.
+
+###### Artículo 53.
+
+Cuando se trate de inversiones en el sector turístico, se podrá considerar el posible otorgamiento de los estímulos y apoyos que consigna la Ley de Fomento y Desarrollo Económico del Estado de Hidalgo. La Secretaría podrá, en apego a las disposiciones legales vigentes, proponer ante las autoridades competentes, se otorguen incentivos fiscales en apoyo a las inversiones turísticas en la Entidad.
+
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
+
+###### Artículo 54.
+
+La Secretaría, en coordinación con los gobiernos Municipales y en el ejercicio de sus atribuciones, instrumentará programas y acciones para mejorar los niveles de competitividad, calidad, certificación y capacitación de los prestadores de servicios turísticos y de la oferta de servicios.
+
+###### Artículo 55.
+
+La Secretaría fomentará:
+
+I.- Una política pública que incremente la calidad y competitividad de todos los actores del sector turístico;
+
+II.- Programas para certificar a los prestadores de servicios turísticos, con objeto de ofrecer un servicio de calidad;
+
+III.- La actualización y modernización de las empresas turísticas, a través de programas de asesoría y asistencia técnica para acceder a financiamientos institucionales;
+
+IV.- Programas para mejorar la calidad de los servicios turísticos, a través de distintivos, certificados y reconocimientos propios y característicos del Estado; y
+
+V.- La coordinación de acciones entre los diferentes niveles de gobierno para promover, fomentar y respaldar el desarrollo de la oferta turística del Estado que haya cumplido con requisitos de calidad.
+
+###### Artículo 56.
+
+La Secretaría promoverá la coordinación entre las dependencias estatales para la creación, aplicación y evaluación de programas de profesionalización y certificación de competencias laborales del personal que labora en el sector turístico, estas acciones deberán incluir capacitación para la atención que requieran personas con alguna discapacidad.
+
+###### Artículo 57.
+
+La Secretaría en el ejercicio de sus atribuciones, promoverá con la Secretaría de Educación Pública del Estado acciones encaminadas a mejorar la enseñanza turística a todos los niveles educativos.
+
+###### Artículo 58.
+
+La Secretaría realizará estudios e investigaciones en materia turística que conduzcan a elevar la competitividad del sector y facilitar las acciones de planeación de los sectores privado y social.
+
+### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+
+###### Artículo 59.
+
+En cumplimiento de lo establecido en la Ley General, el Ejecutivo Estatal expedirá los Ordenamientos Turísticos del Territorio Estatal, con la participación de los Municipios involucrados. La Secretaría promoverá la participación de grupos y organizaciones empresariales y sociales, instituciones académicas y de investigación y demás personas interesadas.
+
+###### Artículo 60.
+
+Los Ordenamientos Turísticos del Territorio Estatal, tendrán por objeto:
+
+I.- Determinar el área a ordenar, describiendo sus recursos turísticos, incluyendo un análisis de riesgos;
+
+II.- Proponer los criterios para la determinación de los planes o programas de desarrollo urbano, así como del uso de suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos disponibles; y
+
+III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y modificación.
+
+###### Artículo 61.
+
+Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
+
+###### Artículo 62.
+
+La Secretaría en cumplimiento de lo establecido en la legislación aplicable y en el marco del Sistema Estatal de Turismo Sustentable, fortalecerá la generación de información estadística y de inteligencia comercial que favorezca la toma de decisiones de la propia Secretaría, de los Municipios, los inversionistas y los prestadores de servicios turísticos, a través de la integración y operación del Sistema Estadístico de Información Turística del Estado de Hidalgo.
+
+###### Artículo 63.
+
+El Sistema Estadístico de Información Turística del Estado de Hidalgo funcionará conforme lo establecido en el Reglamento de esta Ley y estará compuesto por:
+
+I.- El Registro Estatal de Turismo, con Información completa y actualizada de los prestadores de servicios turísticos del Estado;
+
+II.- El Catálogo de Atractivos Turísticos, con el inventario pormenorizado de los sitios de interés turístico del Estado, conteniendo información para la identificación y descripción de los sitios, como mapas, guías, documentos y demás información física, impresa y digitalizada para su consulta;
+
+III.- El Compendio Estadístico, documento de indicadores estadísticos necesarios para contar con una visión completa y actualizada de información que apoye la planeación y la inversión de los sectores público, privado y social relacionados con el turismo;
+
+IV.- El Atlas Turístico Hidalguense; y
+
+V.- El Modulo de Evaluación del Desempeño del Sector Turístico
+
+###### Artículo 64.
+
+Corresponde a la Secretaría integrar, analizar, evaluar y difundir la información recabada, que sirva como base en la toma de decisiones de mercadotecnia, promoción, o inversión turística en el Estado y para el diseño de instrumentos de la política turística.
+
+###### Artículo 65.
+
+Corresponde a la Secretaría operar el Registro Estatal de Turismo, de acuerdo a lo estipulado en la Ley General y el cual contendrá la información actualizada sobre los prestadores de servicios turísticos del Estado.
+
+###### Artículo 66.
+
+La información administrada en el Registro Estatal de Turismo, estará protegida en la forma y términos que determine la Secretaría, con excepción de aquellos datos que sean de carácter confidencial.
+
+La información incluida en el Registro se gestionará de acuerdo a lo que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo.
+
+###### Artículo 67.
+
+La Secretaría difundirá la información contenida y derivada del Catálogo de Atractivos Turísticos.
+
+###### Artículo 68.
+
+La Secretaría fomentará acuerdos con los Municipios para mantener actualizada la información del Sistema Estadístico de Información Turística del Estado de Hidalgo.
+
+###### Artículo 69.
+
+La Secretaría expedirá de manera anual comprobante de inscripción al Registro, el cual deberá colocarse en lugar visible en los establecimientos del Sector para los turistas.
+
+###### Artículo 70.
+
+Para efectos de esta Ley, se consideran prestadores de servicios turísticos los servicios que se proporcionen a través de:
+
+I.- Los establecimientos de hospedaje en sus diferentes categorías, así como aquellos prestados en modalidades no tradicionales;
+
+II.- Instalaciones de recreación turística ofrecidos por empresas especializadas en todas sus modalidades;
+
+III.- Los Campamentos turísticos y los ubicados en terrenos donde se ofrezcan actividades en forma habitual;
+
+IV.- Agencias de viaje en todas sus modalidades;
+
+V.- Los ofrecidos en Balnearios y en sus alrededores, los ranchos cinegéticos, miradores, zoológicos, ferias, exposiciones de arte popular y desarrollos ecoturísticos dentro del Estado;
+
+VI.- Los que ofrezcan servicios de paquetes turísticos-recreativos, ya sea de forma habitual o esporádica y con fines eminentemente lucrativos;
+
+VII.- Aquellos que ofrezcan servicio de transporte especializado de turistas;
+
+VIII.- Restaurantes, cafeterías, bares, cantinas, centros nocturnos, discotecas, establecimientos de alimentos preparados, balnearios, spa's, parques acuáticos y similares ubicados en lugares considerados como turísticos;
+
+IX.- Los guías de turistas en todas sus modalidades;
+
+X.- Escuelas de idiomas especializadas con servicio orientado a turistas; y
+
+XI.- Los demás considerados como tales por la Ley General.
+
+###### Artículo 71.
+
+Las relaciones que se establezcan entre los prestadores de servicios y los turistas se regirán por la presente Ley y las demás reglamentaciones aplicables.
+
+###### Artículo 72.
+
+Los prestadores de servicios no negarán o condicionarán el servicio por cuestiones de género, nacionalidad, preferencia sexual o religión, a los usuarios de sus servicios.
+
+###### Artículo 73.
+
+La Secretaría determinará los requisitos que deberán cumplir los prestadores de servicios para su operación e inicio de actividades.
+
+###### Artículo 74.
+
+Serán derechos de los prestadores de servicios:
+
+I.- Participar en los foros de consulta promovidos por el Estado y los Municipios, así como en reuniones o Consejos Consultivos, de conformidad con las reglas de organización y funcionamiento de los mismos;
+
+II.- Aparecer en el Registro Estatal de Turismo y recibir los beneficios que se deriven de dicho registro;
+
+III.- Ser incorporado en el Catálogo de Atractivos Turísticos con todos sus servicios, cuando se cumplan con las reglas y lineamientos definidos por la Secretaría;
+
+IV.- Ser incluido en las acciones encaminadas a la profesionalización del sector que promueva la Secretaría y en la certificación del personal que labora en el sector turístico;
+
+V.- Solicitar al personal encargado de las visitas de inspección y procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación; y
+
+VI.- Los demás considerados por la Ley.
+
+###### Artículo 75.
+
+Serán obligaciones de los prestadores de servicios a que se refiere esta Ley:
+
+I.- Mostrar en un lugar visible los datos del responsable del establecimiento, sus precios, tarifas y servicios que incluyen, así como el nombre del responsable ante quien se puede presentar queja de los servicios;
+
+II.- Comunicar al turista los precios, tarifas, condiciones, características, clasificación y costo total de los servicios y productos que éste requiera;
+
+III.- Aplicar los procedimientos para la atención y canalización de quejas ante la autoridad correspondiente;
+
+IV.- Facilitar y apoyar a la Secretaría con la información necesaria y las facilidades para la promoción y fomento del turismo;
+
+V.- Colaborar en el manejo y cuidado responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
+
+VI.- Proceder a su inscripción en el Registro Estatal de Turismo, actualizar sus datos oportunamente y exhibir su comprobante de inscripción en un plazo de noventa días naturales;
+
+VII.- Cumplir en los términos anunciados, ofrecidos o pactados con los servicios, precios, tarifas y promociones;
+
+VIII.- Expedir en toda operación y aún sin solicitud del turista, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
+
+IX.- Promover la participación de sus trabajadores y empleados en los programas de profesionalización y certificación de competencias, en los términos de las Leyes respectivas;
+
+X.- Realizar las modificaciones necesarias a los inmuebles, edificaciones y servicios turísticos que permitan la accesibilidad a toda persona de cualquier condición; y
+
+XI.- Las demás que establezca la legislación aplicable en la materia.
+
+###### Artículo 76.
+
+El prestador de servicios cuidará de no violentar, ni hacer discriminación alguna en la prestación de servicios a los turistas nacionales e internacionales.
+
+###### Artículo 77.
+
+En caso de incumplimiento en la prestación de servicios pactados por parte del prestador de servicios, tendrá la obligación de compensar, reembolsar o bonificar por el servicio incumplido a elección del turista.
+
+###### Artículo 78.
+
+Los turistas con independencia de los derechos que le asisten en su carácter de consumidor, tendrán en los términos previstos en esta Ley, los siguientes derechos:
+
+I.- Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de la prestación de los servicios turísticos;
+
+II.- Obtener los servicios en las condiciones contratadas;
+
+III.- Obtener los documentos que acrediten los términos de su contratación y en cualquier caso, las correspondientes facturas o comprobantes fiscales legalmente emitidas;
+
+IV.- Recibir del prestador de servicios turísticos, los servicios de calidad, acordes con la naturaleza y cantidad de la categoría que ostente el establecimiento elegido;
+
+V.- Recibir los servicios sin ser discriminados en los términos del Artículo 76 de esta Ley;
+
+VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico estatal, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad y lugar; y
+
+VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
+
+###### Artículo 79.
+
+Son deberes del turista:
+
+I.- Observar las normas usuales de convivencia en los establecimientos turísticos;
+
+II.- Respetar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
+
+III.- Acatar las prescripciones particulares de establecimientos mercantiles y empresas, cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o de régimen interior; y
+
+IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
+
+###### Artículo 80.
+
+Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley. El proceso de verificación se realizará conforme a lo previsto en el Título Quinto de la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+
+###### Artículo 81.
+
+Las visitas de verificación se aplicarán, conforme los procedimientos establecidos en la reglamentación aplicable y se sujetarán en todo momento a lo establecido en la Ley y en los ordenamientos legislativos y reglamentarios aplicables de la Entidad y, en su caso, federales.
+
+###### Artículo 82.
+
+Las infracciones que los prestadores de servicios cometan a lo dispuesto en la Ley General y a las disposiciones que deriven de ella, así como a lo dispuesto en esta Ley y su reglamento, serán sancionadas por las autoridades competentes, conforme la legislación aplicable y con base en los acuerdos de coordinación celebrados con el Gobierno Federal, a que se refiere la Ley General.
+
+###### Artículo 83.
+
+La imposición y ejecución de las sanciones, se realizará en los términos de la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+
+###### Artículo 84.
+
+Los afectados por los actos, resoluciones o sanciones emitidos por la autoridad competente, con motivo de la aplicación de la presente Ley, podrán interponer en su caso, su inconformidad, conforme a lo previsto en la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo, o bien, interponer el juicio de nulidad ante la autoridad correspondiente en el Estado.
+
+###### Artículo 85.
+
+Las quejas o denuncias que por incumplimiento de lo pactado o por infracciones a la presente Ley cometan los prestadores de servicios turísticos, deberán ser presentadas por el turista para su tramitación y resolución ante la Secretaría, o en su caso ante la autoridad Federal competente.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su fecha de Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Turismo del Estado de Hidalgo, Publicada en el Periódico Oficial, el lunes 24 de marzo de 2003.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones expedidas con anterioridad en cuanto se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento de la presente Ley se publicará en un plazo no mayor a 180 días naturales, posteriores a la fecha de su entrada en vigor.
+
+AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE
+
+SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS VEINTISIETE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOCE.
+
+PRESIDENTE
+
+DIP. SEVERO BAUTISTA OSORIO.
+
+SECRETARIO
+
+DIP. HÉCTOR MENDOZA MENDOZA.
+
+SECRETARIA
+
+DIP. HEMEREGILDA ESTRADA DÍAZ.
+
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE NOVIEMBRE DEL
+
+AÑO DOS MIL DOCE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+
+LIC. JOSÉ FRANCISCO OLVERA RUIZ
