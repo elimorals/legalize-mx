@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-11-20"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -273,9 +273,13 @@ II. Atentados al Pudor, salvo que la victima sea impúber o persona privada de r
 
 III. Estupro.
 
-IV. Abandono de familiares.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-V. Rapto.
+IV. Abandono de familiares, salvo los casos de excepción que este mismo código señala.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+V. Violencia familiar, salvo los casos a que se refiere el artículo 273 quáter, en los que el delito se perseguirá de oficio;
 
 VI. Golpes simples.
 
@@ -491,7 +495,7 @@ Cuando varias personas cometen el delito, el Juez fijará la multa para cada uno
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-###### Artículo 39.
+###### ARTICULO 39.
 
 Los montos por concepto de conmutación de la pena, son créditos a favor de la hacienda estatal y se aplicarán a favor del Fondo Auxiliar para la Administración de Justicia.
 
@@ -1127,7 +1131,9 @@ IV.- A quienes se conceda el beneficio de la suspensión condicional, se les har
 
 V.- La obligación contraída por el fiador conforme al inciso F) de la fracción I de este artículo concluirá seis meses después de transcurridos los tres años que expresa la fracción II, siempre que el condenado no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria; y,
 
-VI. Cuando el fiador tenga motivos fundados para continuar desempeñando el cargo, lo expondrá el Juez a fin de que éste, si lo estima justo, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente fije, apercibido de que se hará efectiva la sanción sino lo efectúa.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+VI.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, lo expondrá al juez a fin de que éste, si lo estima justo, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente fije, apercibido de que se hará efectiva la sanción si no lo efectúa.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2011)</small>
 
@@ -1159,7 +1165,7 @@ La muerte del delincuente extingue la sanción penal, así como las sanciones qu
 
 ### CAPITULO II. PERDON DEL OFENDIDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2473,7 +2479,7 @@ Si se cometiera en impúber o en persona que por cualquier causa no pudiere resi
 
 ###### ARTICULO 256.
 
-Si con motivo de los actos eróticos o por cualquier otra causa se llegare a introducir en el pasivo ya sea por vía vaginal o rectal, algún objeto o cuerpo extraño o propio, las sanciones aplicables serán las mismas que para los casos que contempla el artículo 260 de este Código.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -2503,67 +2509,61 @@ No se procederá contra el estuprador, sino por queja de persona ofendida o de s
 
 ### CAPITULO III. VIOLACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 260.
 
 Se sancionará con prisión de seis a quince años y multa de cien a trescientos días de salario mínimo, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+Se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima, ya sea por vía anal, oral o vaginal.
 
-Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir.
+Cuando en la violación exista vínculo matrimonial o de concubinato, se impondrá la pena prevista en el primer párrafo de este artículo, y en este caso el delito será perseguido a petición de parte ofendida.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+Tratándose del supuesto previsto en el párrafo anterior, procederá el perdón de parte ofendida por única vez, si el agresor se somete voluntariamente a tratamiento psicológico especializado en institución pública con sede en el Estado, por el tiempo que la autoridad que conozca del asunto determine, el cual no podrá ser menor de seis meses.
 
-Si la persona impúber fuere menor de once años, la sanción será de diez a treinta años de prisión y multa de cien a trescientos días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
-
-La violación de un ascendiente a su descendiente, o de éste a aquél, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
-
-La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
-
-La violación cometida por aquél que en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
-
-Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de cien a trescientos días de salario mínimo.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
-
-Cuando en la violación exista vínculo matrimonial o de concubinato se impondrá la pena prevista en el primer párrafo de este artículo, en este caso el delito será perseguido a petición de parte ofendida.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
-
-Tratándose del supuesto previsto en el párrafo anterior, procederá el perdón de parte ofendida por única vez si el agresor se somete voluntariamente a tratamiento psicológico especializado en institución pública con sede en el Estado, por el tiempo que la autoridad que conozca del asunto determine, el cual no podrá ser menor de seis meses.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
-
-El tratamiento psicológico al que se refiere el párrafo anterior deberá proporcionarse a la familia en los términos que disponga la Ley de la materia.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
+El tratamiento psicológico al que se refiere el párrafo anterior, deberá proporcionarse a la familia en los términos que disponga la Ley de la materia.
 
 En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y por tanto continuará el proceso en sus etapas correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 260 BIS.- Se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo, cuando la violación se cometa en los siguientes casos:
+
+I. La violación de un ascendiente a su descendiente, o de éste a aquél, sin importar el grado u origen del parentesco;
+
+II. La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra o padrastro, así como la cometida por el hermanastro a su hermanastra o hermanastro o entre parientes colaterales hasta el cuarto grado;
+
+III. La violación cometida por el sujeto activo en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación;
+
+IV. Cuando en una violación intervengan tres o más personas, aun cuando sólo una de ellas efectúe la cópula, se aplicarán a todas ellas la pena anteriormente señalada, y
+
+V. Cuando la violación se cometa sobre persona impúber menor de once años.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 260 TER.- Se equipara a la violación y se sancionará con las mismas penas que anteceden:
+
+I. Al que tenga cópula con persona impúber o privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir;
+
+II. La introducción por vía anal o vaginal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, mediando violencia física o moral, cualquiera que sea el sexo de la víctima, y
+
+III. La introducción por vía anal o vaginal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, cometida sobre persona impúber o privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir, cualquiera que sea el sexo de la víctima.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. HOSTIGAMIENTO O ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 260 BIS.- Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a cuatro años de prisión y multa de cien a trescientos días de salario.
+ARTICULO 260 QUATER.- Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a cuatro años de prisión y multa de cien a trescientos días de salario.
 
 Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo.
 
 Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del acoso.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 260 TER.- Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días de salario.
+ARTICULO 260 QUINTUS.- Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días de salario.
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
@@ -2651,17 +2651,29 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 ### CAPITULO VI. ABANDONO DE FAMILIARES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 269.
 
-Se aplicará de uno a tres años de prisión y multa de tres a quince días de salario a quien sin causa justificada falte a la obligación de suministrar alimentos a sus hijos, cónyuge o cualquier otro familiar con quien tenga el deber de asistencia conforme al Código Civil.
+Al que sin causa justificada, falte por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de uno a tres años de prisión y multa de treinta a doscientos días de salario mínimo vigente en la entidad.
+
+La penalidad antes referida podrá aumentarse hasta en una mitad, cuando el deudor alimentario abandone o incumpla sus obligaciones de asistencia alimentaria para con una mujer en estado de gravidez con quien se presuma la paternidad en razón de la relación de matrimonio o concubinato que los una.
+
+Además de las sanciones señaladas y de la reparación del daño a que se tenga derecho, en caso de reincidencia el juez podrá decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que pudiere tener el sujeto activo a su favor respecto de la víctima.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 270.
 
-Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncia, abandone su trabajo, u obtenga licencia sin causa justificada.
+A quien con el propósito de eludir, evitar o suspender el cumplimiento de sus obligaciones alimentarias decretadas previamente por autoridad judicial, se coloque en estado de insolvencia, ya sea renunciando o abandonando su trabajo, solicitando licencia sin goce de sueldo, dilapidando sus bienes o simulando actos jurídicos para tal efecto, se le impondrá de uno a cuatro años de prisión y multa de treinta a trescientos días de salario mínimo vigente en la entidad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 271.
 
-El delito a que se refieren los artículos anteriores, sólo se perseguirán a petición de parte ofendida, o del legítimo representante de los menores; a falta de representante de éstos, la averiguación previa se iniciará de oficio por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de éste precepto.
+El delito de abandono de familiares se perseguirá a petición de parte ofendida o del legítimo representante de los menores; a falta de representante de éstos, la averiguación previa se iniciará de oficio por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este precepto.
+
+Cuando las víctimas sean personas incapaces, privadas de razón o de sentido, el delito siempre se perseguirá de oficio.
 
 ###### ARTICULO 272.
 
@@ -2675,25 +2687,61 @@ Si del abandono resultare algún daño ya sea muerte, lesiones o cualquier otro,
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 273 BIS.- Por violencia familiar se considera el uso de la fuerza física o moral así como la omisión grave, que se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
+ARTICULO 273 BIS.- Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o emocional, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+Se considera miembro de la familia:
 
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+I. Aquella persona con la que el sujeto activo se encuentre unida en relación de matrimonio o concubinato;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+II. Aquella persona con la que el sujeto activo hubiere procreado hijos en común, o
 
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y multa de diez a cien salarios mínimos. Asimismo se le sujetará a tratamiento psicológico especializado por institución pública.
+III. Los parientes del sujeto activo en línea recta ascendente o descendente sin límite de grado, el pariente colateral hasta el cuarto grado o por afinidad hasta el segundo grado.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+Al responsable del delito de violencia familiar se le impondrá de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo vigente en la entidad, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
 
-Este delito se perseguirá por querella de parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+Además de las penas señaladas en el párrafo anterior, la autoridad judicial podrá someter al agresor a tratamiento especializado en institución pública con sede en el Estado, por el tiempo que la autoridad competente determine, el cual no podrá ser mayor al tiempo impuesto en la pena de prisión.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+Tratándose del delito de violencia familiar, procederá el perdón de parte ofendida por única ocasión, si el agresor se somete voluntariamente a tratamiento psicológico especializado en institución pública o privada con sede en el Estado, por el tiempo que la autoridad determine, el cual no podrá ser menor de seis meses. El tratamiento psicológico deberá proporcionarse también al sujeto pasivo en los términos que disponga la Ley de Prevención, Asistencia y Atención de la Violencia Intrafamiliar para el Estado de Nayarit.
 
-ARTICULO 273 TER.- La misma sanción se impondrá al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera de matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y continuará el proceso en sus etapas respectivas.
+
+En caso de reincidencia por parte del agresor o que la víctima se encuentre en estado de gravidez o padezca algún trastorno mental, se aumentará hasta en una mitad la pena que corresponda.
+
+Si de la comisión de la violencia familiar resultaren otras conductas constitutivas de delitos como lesiones, homicidio o contra la libertad sexual, se aplicarán las reglas del concurso.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 273 TER.- Se equipara a la violencia familiar y se sancionará como tal, a quien ejerza cualquiera de los actos señalados en el artículo anterior, en contra de quien esté sujeto a su tutela, curatela, custodia, protección o educación, siempre que el agresor y la víctima cohabiten en el mismo domicilio o ésta se encuentre adscrita al centro educativo donde aquél prestare sus servicios, o con quien el sujeto activo tenga una relación de hecho.
+
+Para los efectos de este artículo se entenderá por relación de hecho, la que subsista por más de seis meses, entre quienes:
+
+I. En forma constante cohabiten manteniendo una relación de pareja, incluyéndose a los descendientes o ascendientes de cualquiera de ellos, siempre y cuando vivan en el mismo domicilio;
+
+II. Mantengan una relación de pareja en forma constante e ininterrumpida, aun cuando no vivan en el mismo domicilio, o
+
+III. Se incorporen a un núcleo familiar cohabitando en el mismo domicilio del activo, aun cuando no tengan vínculo de parentesco con ninguno de sus integrantes.
+
+Los supuestos que regula este artículo se perseguirán conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 273 QUATER.- El delito de violencia familiar se perseguirá por querella, excepto cuando se actualicen los siguientes supuestos:
+
+I. La víctima se encuentre en estado de gravidez o durante los dos meses posteriores al parto;
+
+II. La víctima sea menor de edad, mayor de sesenta años de edad o presente alguna discapacidad física o mental total o parcial, temporal o permanente, que le impida comprender el significado del hecho;
+
+III. Se cometa con el uso de armas de fuego o punzocortantes;
+
+IV. Se cometa con la participación de dos o más personas;
+
+V. Se deje cicatriz permanente en alguna parte del cuerpo;
+
+VI. Existan antecedentes legalmente documentados de violencia familiar cometidos por el mismo agresor contra la víctima, o
+
+VII. Exista imposibilidad material de la víctima de denunciar la violencia familiar ejercida en su contra.
 
 ## TITULO DECIMO SEXTO
 
@@ -3055,9 +3103,11 @@ II.- Si se infieren varias lesiones y constare quiénes efectuaron cada una de e
 
 III.- Cuando las lesiones sean de naturaleza y consecuencias diversas y se ignore quiénes infirieron una y otras, pero constare quiénes lesionaron, a todos éstos se aplicará de un año a cinco años de prisión. Si se ignora quiénes lesionaron a todos los que intervinieron en la riña se les aplicará la misma sanción que señala esta fracción.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 314.
 
-Si las lesiones fueren calificadas en los términos del artículo 325 se aumentará de una a dos terceras partes del mínimo y máximo de la sanción que correspondiera si la lesión fuere simple.
+Si las lesiones fueren calificadas, además de las sanciones señaladas en los artículos que anteceden, la pena correspondiente se aumentará de una tercera parte del mínimo a dos terceras partes del máximo, de la sanción que correspondiere a la lesión inferida.
 
 ###### ARTICULO 315.
 
@@ -3197,7 +3247,9 @@ Se impondrá sanción de tres a seis años de prisión y multa de uno a diez dí
 
 I.- (DEROGADA, P.O. 23 DE ABRIL DE 2011)
 
-II.- Al padre que mate o lesione al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones comunes sobre homicidio o lesiones.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+II. Al ascendiente que mate o lesione al corruptor de su descendiente que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su descendiente, pues en caso contrario quedará sujeto a las disposiciones comunes sobre homicidio o lesiones.
 
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
@@ -3337,7 +3389,9 @@ II.- Cuando exceda de cien veces el salario, pero no de quinientas, la sanción 
 
 III.- Cuando exceda de quinientas veces el salario, la sanción será de cuatro a diez años de prisión y multa de veinte a cien días de salario.
 
-Para estimar la cuantía del robo se atenderá únicamente el valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de uno a cinco años y multa de diez a treinta días de salario.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
+Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere valorado en los términos del artículo 218 del Código de Procedimientos Penales del Estado o no sea estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de uno a cinco años y multa de diez a treinta días de salario mínimo.
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se aplicarán de tres días a tres años de prisión.
 
@@ -3427,33 +3481,37 @@ Cualesquiera que sea el monto de lo robado siempre y cuando se repare el daño c
 
 Comete el delito de abigeato, el que se apodera de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente puede disponer de ellas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 358.
 
 Al responsable del delito de abigeato consumado en ganado bovino, equino, mular o asnal. Se le sancionará conforme a las reglas siguientes:
 
-I.- Si el robo fuere de una cabeza de ganado, se sancionará con prisión de dos a cinco años y multa de diez a cincuenta días de salario;
+I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de dos a cinco años y multa de diez a cincuenta días de salario;
 
-II.- Si el robo fuere de dos a diez cabezas de ganado, se sancionará con prisión de cuatro a ocho años de prisión y multa de quince a sesenta días de salario;
+II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de cuatro a ocho años de prisión y multa de quince a sesenta días de salario, y
 
-III.- Si excediere de diez cabezas de ganado, se sancionará con prisión de seis a diez años y multa de veinte a setenta días de salario.
+III. Si el apoderamiento excediere de diez cabezas de agnado (sic), se sancionará con prisión de seis a diez años y multa de veinte a setenta días de salario.
 
-Cuando el abigeato recaiga sobre ganado caprino, ovino o porcino, el delito se sancionará conforme a las reglas siguientes:
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-I.- Si el robo fuere de una cabeza de ganado, se sancionará con prisión de uno a tres años y multa de uno a diez días de salario;
+ARTICULO 358 BIS.- Cuando el abigeato recaiga sobre ganado caprino, ovino o porcino, el delito se sancionará conforme a las reglas siguientes:
 
-II.- Si el robo fuere de dos a diez cabezas de ganado, se sancionará con prisión de dos a cuatro años de prisión y multa de siete a treinta días de salario;
+I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de uno a tres años y multa de uno a diez días de salario;
 
-III.- Si excediere de diez cabezas de ganado, se sancionará con prisión de tres a cinco años y multa de diez a cuarenta días de salario.
+II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de dos a cuatro años de prisión y multa de siete a treinta días de salario, y
 
-Además de las sanciones señaladas en este artículo, se aumentará la sanción de seis meses a tres años de prisión, cuando se realice en cualquiera de las circunstancias siguientes:
+III. Si excediere de diez cabezas de ganado, se sancionará con prisión de tres a cinco años y multa de diez a cuarenta días de salario.
 
-I.- Quebrantando la confianza o seguridad de una relación de servicio, trabajo o contractual entre el sujeto activo y el ofendido;
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-II.- Aprovechándose de las condiciones de confusión que se produzcan por desorden público o invasión de los terrenos donde pasten los semovientes; y
+ARTICULO 358 TER.- Además de las sanciones señaladas en los artículos anteriores, se aumentará la sanción de seis meses a tres años de prisión, cuando se realice en cualquiera de las circunstancias siguientes:
 
-III.- Si el apoderamiento a que se refiere este artículo, se verifica con violencia física o moral, o de noche, o por dos o más personas.
+I. Quebrantando la confianza o seguridad de una relación de servicio, trabajo o contractual entre el sujeto activo y el ofendido;
+
+II. Aprovechándose de las condiciones de confusión que se produzcan por desorden público o invasión de los terrenos donde pasten los semovientes, y
+
+III. Si el apoderamiento a que se refiere este artículo, se verifica con violencia física o moral, o de noche, o por dos o más personas.
 
 ###### ARTICULO 359.
 
@@ -3463,9 +3521,11 @@ Al responsable del delito de Robo consumado en un apiario, se le sancionará de 
 
 Las mismas sanciones que señalan los dos artículos anteriores se aplicarán a los que adquieran animales robados, según su especie, así como a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de los animales, si no tomaron aquéllos o éstas, las medidas ordinarias para cerciorarse de la procedencia legítima de los propios animales.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 361.
 
-Al que ampare una o más cabezas de ganado robado con documentación alterada e expedida a otro, se le aplicarán las mismas sanciones que respectivamente señala el artículo 358.
+Se equipara al abigeato y se le aplicarán las mismas sanciones que respectivamente señalan los artículos 358 y 358 bis de este código, al que ampare una o más cabezas de ganado robado con documentación alterada o expedida a nombre de otro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -4352,3 +4412,7 @@ Artículo Segundo.- Para los efectos de concientización y difusión del nuevo p
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
