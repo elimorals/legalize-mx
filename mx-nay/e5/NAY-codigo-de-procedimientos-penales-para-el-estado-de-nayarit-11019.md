@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2012-09-29"
+last_updated: "2012-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -267,9 +269,11 @@ Si alguna de las piezas de autos fuere retirada del expediente, no se enmendará
 
 Las promociones que se hagan por escrito deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario a juicio del juez.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 17.
 
-Los secretarios deberán dar cuenta dentro del término de veinticuatro horas, con las promociones que se hicieren, salvo en los casos en que conforme a la Ley deban resolverse inmediatamente.
+Los secretarios deberán dar cuenta al Juez dentro del término de veinticuatro horas con el proyecto de acuerdo respectivo de las promociones recibidas, salvo los casos en que conforme a la Ley deban resolverse inmediatamente.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1993)</small>
 
@@ -1421,6 +1425,8 @@ Se considerará que hay delito flagrante cuando el indiciado es detenido en el m
 
 En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio o perseguible previa querella u otro requisito equivalente, que ya se encuentre satisfecho, o bien ordenará la libertad del detenido.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 157.
@@ -1435,9 +1441,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el articulo 130 y 131; sedición previsto en el articulo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; feminicidio previsto en el artículo 325, fracción IX; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 325 fracción IX, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -2519,9 +2525,11 @@ Siempre que el tribunal de apelación encuentre que se retardó indebidamente el
 
 La misma multa a que se refiere el artículo 306, se impondrá al defensor cuando el tribunal de apelación considere que faltó a sus deberes por no haber interpuesto los recursos procedentes o por haber abandonado los interpuestos. Si el defensor fuere de oficio, el Tribunal dará cuenta además al superior de aquél de su negligencia o ineptitud.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 331 BIS.- Procede el recurso de revisión en contra de las resoluciones dictadas por el agente del ministerio público en las que resolvió el no ejercicio de la acción penal, una vez autorizada por el Procurador General de Justicia, la citada resolución, será notificada personalmente, al denunciante, querellante o sus representantes legales, haciéndoles saber el derecho y término para recurrirla dentro del término de diez días hábiles a partir del día siguiente de la notificación por escrito, en el cual se expresarán los agravios correspondientes.
+ARTICULO 331 BIS.- Procede el recurso de revisión en contra de las resoluciones dictadas por el agente del ministerio público en las que resolvió el no ejercicio de la acción penal, una vez autorizada por el Procurador General de Justicia, la citada resolución, será notificada personalmente, al denunciante, querellante o sus representantes legales, haciéndoles saber el derecho y término para recurrirla dentro del término de quince días hábiles a partir del día siguiente de la notificación por escrito, en el cual se expresarán los agravios correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 Podrán interponer el recurso, el denunciante, querellante o su s representantes legales, por conducto del agente del ministerio público que resolvió el no ejercicio de la acción penal, y éste a su vez remitirá el expediente al juez competente, quien dentro del término de quince días resolverá lo procedente.
 
@@ -3756,3 +3764,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE SEPTIEMBRE DE 2012.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE DICIEMBRE DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
