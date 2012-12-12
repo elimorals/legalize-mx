@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tecnologico-superior-de-76008
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-30"
-last_updated: "2010-06-30"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LA REGIÓN SIERRA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LA REGIÓN SIERRA, PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de junio de 2010.
 
@@ -634,3 +636,13 @@ Dado en la sala de juntas de la Secretaria de Educación, en la Ciudad de Villah
 Ing. Arturo Pérez Herrera
 
 Director
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de la Región Sierra, publicado en el Suplemento "F" al Periódico Oficial número 7076, de fecha 30 de junio de 2010, y se derogan las disposiciones que se opongan al mismo.
+
+CUARTO (SIC). En tanto no se expidan los manuales respectivos, el Director General queda facultado para resolver las cuestiones que conforme a los mismos se deban regular.
