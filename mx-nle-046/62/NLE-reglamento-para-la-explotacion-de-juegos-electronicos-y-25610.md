@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-explotacion-de-juegos-electronicos-y-25610"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-24"
-last_updated: "2002-07-15"
+last_updated: "2012-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRONICOS Y FUTBOLITOS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el miércoles 24 de junio de 1992.
 
@@ -137,13 +137,17 @@ Son auxiliares en la vigilancia del cumplimiento de las disposiciones de este Re
 
 a) Secretaria de Desarrollo Social y Fomento Económico.
 
-b) C. Director de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+b) C. Director de Desarrollo Urbano y Medio Ambiente.
 
 c) C. Director de Policía Municipal.
 
 d) Inspectores de Comercio y Espectáculos.
 
-e) Inspectores de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+e) Inspectores de Desarrollo Urbano y Medo (sic) Ambiente.
 
 f) Los Comisionados Municipales, y
 
@@ -348,3 +352,27 @@ PRESIDENTE MUNICIPAL
 P.O. 15 DE JULIO DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+TERCERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+CUARTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Anuncios del Municipio de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Desarrollo Urbano y Medio Ambiente.
+
+QUINTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Protección al Medio Ambiente del Municipio de San Nicolás de los Garza, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SÉPTIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+OCTAVO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la compra, venta o comercialización de metales en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la explotación de juegos electrónicos y futbolitos en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DÉCIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
