@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-publico-descentralizado-19735
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2011-03-16"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE MORELOS DENOMINADO COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de enero de 2001.
 
@@ -1506,3 +1508,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Tierra y Libe
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad.
 
 TERCERO. Se derogan las demás disposiciones administrativas de igual o menor rango que se opongan a lo establecido en el presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERA. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo de Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior del Organismo Público Descentralizado del Gobierno del Estado de Morelos denominado Comisión Estatal del Agua y Medio Ambiente, publicado en el Periódico Oficial "Tierra y Libertad" número 4101, de fecha 31 de enero de 2001 y demás disposiciones reglamentarias que se opongan a lo dispuesto en el presente Reglamento.
