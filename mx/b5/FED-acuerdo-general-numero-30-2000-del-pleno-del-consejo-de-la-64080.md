@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-30-2000-del-pleno-del-consejo-de-la-6408
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-17"
-last_updated: "2012-08-31"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64080&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-05-17"
 
 ACUERDO GENERAL NÚMERO 30/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE MEDIDAS DE SEGURIDAD Y VIGILANCIA EN LOS INMUEBLES DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 38/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE PROTECCIÓN CIVIL QUE DEBERÁN OBSERVARSE EN EL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XI, Mayo de 2000, página 1021.
 
@@ -428,3 +430,15 @@ Primero.- Este acuerdo entrará en vigor el día siguiente al de su publicación
 Segundo.- Se deroga el artículo 12 del Acuerdo General 30/2000 del Pleno del Consejo de la Judicatura Federal, que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 Tercero.- Quedan sin efecto todas las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+D.O.F. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el Portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- Las Unidades Internas de Protección Civil de cada uno de los inmuebles del Consejo de la Judicatura Federal, deberán quedar constituidas a más tardar treinta días hábiles después de la publicación del presente Acuerdo, debiendo notificar a la Dirección General de Protección Civil y Salud en el Trabajo de dicha constitución.
+
+CUARTO.- Se abrogan el Acuerdo General 30/2000 que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; así como el Acuerdo General 25/2005, que establece las bases de Operación y funcionamiento del Comité de Protección Civil del Consejo de la Judicatura Federal.
+
+QUINTO.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a este Acuerdo.
