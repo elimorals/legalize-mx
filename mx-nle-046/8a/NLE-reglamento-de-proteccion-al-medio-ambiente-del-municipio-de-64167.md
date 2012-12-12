@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-al-medio-ambiente-del-municipio-de-641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-20"
-last_updated: "2008-10-20"
+last_updated: "2012-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION AL MEDIO AMBIENTE DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE PROTECCION AL MEDIO AMBIENTE DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 20 de octubre de 2008.
 
@@ -159,7 +159,9 @@ XLVI. RESOLUCION ADMINISTRATIVA AMBIENTAL: Determinación escrita emitida con li
 
 XLVII. SANCION ADMINISTRATIVA: Es la que se impone a la persona física y/o moral por contravenir los artículos contenidos dentro del presente Reglamento.
 
-XLVIII. SECRETARIA: Secretaría de Desarrollo Urbano, y Medio Ambiente del Municipio de San Nicolás de los Garza, Nuevo León.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+XLVIII. SECRETARIA: Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente del Municipio de San Nicolás de los Garza, Nuevo León.
 
 XLIX. DIRECCION: La Dirección de Medio Ambiente de la Secretaría de Desarrollo Urbano y Medio Ambiente.
 
@@ -171,9 +173,11 @@ LII. TRANSPLANTE: La acción de reubicar un árbol o arbusto de un sitio a otro.
 
 #### SECCION II. DE LAS ACCIONES CONCURRENTES DEL MUNICIPIO CON LA FEDERACION Y EL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 4.
 
-El H. Ayuntamiento, en el marco de su respectiva competencia, podrá coordinarse conjuntamente con el Estado y la Federación para vigilar el cumplimiento y la aplicación de las diversas disposiciones legales y reglamentarias referentes a la protección del ambiente, conforme a lo señalado en la Ley General del Equilibrio y la Protección al Ambiente, y la Ley Ambiental del Estado de Nuevo León. Para lo anterior, el R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente:
+El H. Ayuntamiento, en el marco de su respectiva competencia, podrá coordinarse conjuntamente con el Estado y la Federación para vigilar el cumplimiento y la aplicación de las diversas disposiciones legales y reglamentarias referentes a la protección del ambiente, conforme a lo señalado en la Ley General del Equilibrio y la Protección al Ambiente, y la Ley Ambiental del Estado de Nuevo León. Para lo anterior, el R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente:
 
 I. Podrá celebrar convenios de coordinación con los demás municipios cuando estas acciones impliquen medidas comunes de beneficio ambiental.
 
@@ -197,13 +201,19 @@ II. El Presidente Municipal.
 
 III. La Comisión de Protección al Ambiente del R. Ayuntamiento.
 
-IV. El Secretario de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-V. La Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
+IV. El Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+V. La Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
 
 VI. Los C. Jueces Calificadores.
 
-VII. Los C. Inspectores adscritos a la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones Municipal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+VII. Los C. Inspectores adscritos a la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones Municipal.
 
 VIII. Los C. Oficiales de la Secretaría de Seguridad.
 
@@ -249,11 +259,15 @@ IV. Desarrollar programas de cultura y educación ambiental y promover la protec
 
 V. Los demás que le confieran los Reglamentos y acuerdos municipales en vigor.
 
-#### SECCION III. DE LAS ATRIBUCIONES DEL SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+#### SECCION III. DE LAS ATRIBUCIONES DEL SECRETARIO DE OBRAS PUBLICAS, DESARROLLO URBANO Y MEDIO AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 9.
 
-El Secretario de Desarrollo Urbano y Medio Ambiente, tendrá las siguientes atribuciones en la materia, las cuales podrá ejercer por sí o a través de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones:
+El Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente, tendrá las siguientes atribuciones en la materia, las cuales podrá ejercer por sí o a través de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones:
 
 I. Determinar y actualizar el diagnóstico sobre la problemática ambiental en el Municipio.
 
@@ -337,9 +351,11 @@ IV. Promover el otorgamiento de premios y reconocimientos, a los ciudadanos por 
 
 Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual toda persona física o moral, pública o privada, puede hacer saber a la Autoridad competente en el Municipio, de toda fuente de contaminación o desequilibrio ecológico, de daños ocasionados a la salud de las personas y su calidad de vida, así como el o los responsables de éstos, con el fin de que la autoridad facultada atienda y solucione la queja presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 14.
 
-Corresponde al R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente las siguientes atribuciones en materia de Denuncia Popular:
+Corresponde al R. Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente las siguientes atribuciones en materia de Denuncia Popular:
 
 I. Recibir y dar el trámite legal y administrativo correspondiente a toda denuncia que la población le presente, ya sea por escrito, personal o telefónica.
 
@@ -353,13 +369,17 @@ V. Solicitar a la Federación o al Estado la información que se requiera, para 
 
 VI. Difundir ampliamente su domicilio y el o los números telefónicos destinados a recibir denuncias relacionadas con problemas de contaminación ambiental.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 15.
 
-Cualquier persona física o moral, pública o privada, tiene el derecho y/o la obligación de denunciar ante la Secretaría de Desarrollo Urbano y Medio Ambiente, de todo hecho, acto u omisión que genere o pueda generar deterioro al ambiente, o daños a la salud de la población, bastando para darle curso el señalamiento de los datos necesarios que permitan localizar la fuente y al responsable. La denuncia podrá ser escrita, personal o telefónica, o bien, a través de otras dependencias municipales, estatales y/o federales.
+Cualquier persona física o moral, pública o privada, tiene el derecho y/o la obligación de denunciar ante la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, de todo hecho, acto u omisión que genere o pueda generar deterioro al ambiente, o daños a la salud de la población, bastando para darle curso el señalamiento de los datos necesarios que permitan localizar la fuente y al responsable. La denuncia podrá ser escrita, personal o telefónica, o bien, a través de otras dependencias municipales, estatales y/o federales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente, al recibir una denuncia, identificará debidamente al denunciante, le otorgará un número de expediente y ordenará una inspección para verificar la gravedad de la denuncia y en su caso, impondrá las medidas correctivas y las sanciones correspondientes. De igual forma, escuchará el testimonio del responsable del deterioro ambiental, mediante una diligencia de comparecencia.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, al recibir una denuncia, identificará debidamente al denunciante, le otorgará un número de expediente y ordenará una inspección para verificar la gravedad de la denuncia y en su caso, impondrá las medidas correctivas y las sanciones correspondientes. De igual forma, escuchará el testimonio del responsable del deterioro ambiental, mediante una diligencia de comparecencia.
 
 La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito, personal o vía telefónica:
 
@@ -373,11 +393,13 @@ III. En su caso, las pruebas que se ofrezcan.
 
 Localizada la fuente o actividad que genere deterioro ambiental o daños a la salud de la población y practicadas las inspecciones de que se hablan en el capítulo correspondiente y calificada el acta levantada de la visita de inspección, se procederá a dictar resolución que corresponda conforme a derecho.
 
-###### ARTÍCULO 18.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-Cuando las infracciones a las disposiciones a este Reglamento hubieran ocasionado daños o perjuicios a bienes o propiedades de terceros, él o los afectados podrán solicitar a la Secretaría de Desarrollo Urbano y Medio Ambiente, la elaboración de un dictamen técnico al respecto el cual tendrá el valor de prueba, en caso de ser presentado en juicio.
+###### ARTICULO 18.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente llevará a cabo dicho dictamen, siempre y cuando sea del ámbito de su competencia, en caso contrario, los interesados deberán de solicitar la elaboración del dictamen a las Autoridades Estatales o Federales, según sea el caso.
+Cuando las infracciones a las disposiciones a este Reglamento hubieran ocasionado daños o perjuicios a bienes o propiedades de terceros, él o los afectados podrán solicitar a la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, la elaboración de un dictamen técnico al respecto el cual tendrá el valor de prueba, en caso de ser presentado en juicio.
+
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente llevará a cabo dicho dictamen, siempre y cuando sea del ámbito de su competencia, en caso contrario, los interesados deberán de solicitar la elaboración del dictamen a las Autoridades Estatales o Federales, según sea el caso.
 
 ### CAPITULO CUARTO. DE LA POLITICA ECOLOGICA DEL MUNICIPIO
 
@@ -439,9 +461,11 @@ Queda prohibida la realización de obras y actividades señaladas en los artícu
 
 #### SECCION II .2. DE LA EVALUACION DEL IMPACTO AMBIENTAL EN EL MUNICIPIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 25.
 
-Corresponde al R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
+Corresponde al R Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
 
 I. Realizar la evaluación del estudio del impacto ambiental de las obras, proyectos o actividades públicas y/o privadas que se realicen en el territorio municipal de acuerdo a su competencia.
 
@@ -479,9 +503,11 @@ Las construcciones o fraccionamientos, desarrollos habitacionales y viviendas en
 
 Los establecimientos comerciales, industriales o de servicios de competencia municipal, deberán de adoptar e instalar las medidas y equipos necesarios que permitan mejorar la calidad del ambiente en el Municipio. (Anexo 1)
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 30.
 
-Los responsables de cualquier obra o proyecto, bien sea de desarrollo urbano, turístico, de servicios, comercial y/o industrial, de competencia estatal y/o federal deberán presentar ante la Secretaría de Desarrollo Urbano y Medio Ambiente Municipal a través de las (sic) Dirección de Administración Urbana y Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones copia de la manifestación del impacto ambiental correspondiente.
+Los responsables de cualquier obra o proyecto, bien sea de desarrollo urbano, turístico, de servicios, comercial y/o industrial, de competencia estatal y/o federal deberán presentar ante la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de las Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones copia de la manifestación del impacto ambiental correspondiente.
 
 ###### ARTICULO 31.
 
@@ -489,15 +515,19 @@ A la manifestación del impacto ambiental, se acompañará en su caso, un estudi
 
 En el caso de los proyectos de construcción o regularización de competencia municipal podrá presentarse dicho estudio por peritos en la materia y/o por los asesores técnicos y de ingeniería relacionados con el ramo de actividades del proyecto, sujetándose a los artículos 33, 34 y 35.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 32.
 
-Una vez evaluada la manifestación del impacto ambiental, la Dirección de Medio Ambiente Municipal, emitirá el dictamen que podrá:
+Una vez evaluada la manifestación del impacto ambiental, la Dirección de Desarrollo Urbano y Medio Ambiente, emitirá el dictamen que podrá:
 
 I. Aprobar la autorización para la ejecución de la obra o la realización de la actividad de que se trate en los términos solicitados con lineamientos ambientales adecuados al giro solicitado.
 
 II. Negar la solicitud.
 
-III. Otorgar la aprobación condicionada a la modificación del proyecto de obra o de actividad, a fin de que se eviten o atenúen los impactos ambientales adversos susceptibles o de ser producidos en la operación normal y aún en caso de contingencia. Cuando se trate de la aprobación condicionada, se solicitará a la Secretaría de Desarrollo Urbano y Medio Ambiente a través de la Dirección de Administración Urbana Municipal emitir una resolución que establezca tiempos de cumplimiento y sanciones administrativas de tipo económico o bien inclusive cancelar el permiso de uso de suelo otorgado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+III. Otorgar la aprobación condicionada a la modificación del proyecto de obra o de actividad, a fin de que se eviten o atenúen los impactos ambientales diversos susceptibles o de ser producidos en la operación normal y aún en caso de contingencia. Cuando se trate de la aprobación condicionada, se solicitará a la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano y Medio Ambiente emitir una resolución que establezca tiempos de cumplimiento y sanciones administrativas de tipo económico o bien inclusive cancelar el permiso de uso de suelo otorgado.
 
 #### SECCION II .3. LOS REQUERIMIENTOS ESPECIFICOS PARA LA ELABORACIÓN DE LOS ESTUDIOS DE IMPACTO AMBIENTAL
 
@@ -515,7 +545,9 @@ c) Las descargas de agua residual que generan son resultado de actividades sanit
 
 d) Los residuos sólidos y líquidos que generan son considerados no peligrosos de acuerdo a la Norma Oficial Mexicana NOM-052-SEMARNAT-2005 y pueden ser depositados en los sitios autorizados para la disposición final de los residuos sólidos municipales.
 
-Estas actividades o procesos deberán de presentar para su evaluación ante la Secretaría de Desarrollo Urbano y Medio Ambiente el estudio de impacto ambiental, el cual deberá contener como mínimo lo señalado en las fracciones a), b), c), los números 1, 2, 3, 4, 5, 6, 7 y 8; incisos d), e), f) y g) del artículo 34.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+Estas actividades o procesos deberán de presentar para su evaluación ante la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente el estudio de impacto ambiental, el cual deberá contener como mínimo lo señalado en las fracciones a), b), c), los números 1, 2, 3, 4, 5, 6, 7 y 8; incisos d), e), f) y g) del artículo 34.
 
 II. Actividades de mediano impacto ambiental, son aquellos establecimientos, inmuebles o instalaciones de uso no habitacional cuyas actividades y/o procesos:
 
@@ -615,9 +647,11 @@ f) Presentar un apartado de conclusiones.
 
 #### SECCION III. DE LA EDUCACION AMBIENTAL EN EL MUNICIPIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 36.
 
-Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el R. Ayuntamiento, a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, promoverá la educación ambiental formal y no formal y la participación social de las distintas comunidades del municipio, con el fin de:
+Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el R. Ayuntamiento, a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, promoverá la educación ambiental formal y no formal y la participación social de las distintas comunidades del municipio, con el fin de:
 
 I. Fomentar el respeto, mantenimiento y acrecentamiento de los parques públicos, de las zonas y áreas verdes en general.
 
@@ -629,39 +663,51 @@ IV. Crear conciencia ecológica dentro de la población que le impulse a partici
 
 V. Efectuar campaña permanente de la forma correcta de podar y cuidar los árboles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 37.
 
-Para los fines señalados en el artículo anterior, el R. Ayuntamiento, a través de la Comisión de Protección al Ambiente y en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, propiciará:
+Para los fines señalados en el artículo anterior, el R. Ayuntamiento, a través de la Comisión de Protección al Ambiente y en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, propiciará:
 
 I. El desarrollo de políticas educativas, de difusión y de propaganda metódica y efectiva, a través de los sistemas escolarizados, los medios masivos de comunicación y del Ayuntamiento mismo, sobre temas ecológicos específicos.
 
 II. El desarrollo de programas tendientes a mejorar la calidad del aire, agua y suelo; la producción, desarrollo y protección de la flora y la fauna silvestre existente en el municipio, así como la restauración de aquellas áreas cuyo grado de deterioro afecte a los ecosistemas; invitando a participar en el logro de estos propósitos a las instituciones educativas y de investigación, a los sectores social y privado, y a los particulares en general.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Con la participación de las instituciones educativas, asociaciones civiles, cámaras de comercio, industriales y particulares, el R. Ayuntamiento, a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, promoverá la realización de campañas educativas, tendientes al abatimiento de la contaminación y el mejoramiento de los ecosistemas afectados por el deterioro ambiental.
+Con la participación de las instituciones educativas, asociaciones civiles, cámaras de comercio, industriales y particulares, el R. Ayuntamiento, a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, promoverá la realización de campañas educativas, tendientes al abatimiento de la contaminación y el mejoramiento de los ecosistemas afectados por el deterioro ambiental.
 
 ### CAPITULO QUINTO. DE LA PROTECCIÓN AL AMBIENTE
 
 #### SECCION I. DEL CUIDADO DE LA FLORA URBANA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 39.
 
-El R. Ayuntamiento, a través de la Secretaría de Desarrollo Urbano y Medio Ambiente autorizará y supervisará la poda, derribo y/o el transplante de árboles en espacios públicos y privados condicionando ello a la reposición de la biomasa vegetal perdida. La reposición se hará compensando el área transversal promedio del tronco o rama derribado, con la misma área transversal del tronco de árboles de 5-cinco centímetros de diámetro de tronco por 2-dos metros de altura. Dicha reposición deberá hacerse con las siguientes especies: Trueno, Sombrilla China, Níspero, Frutal (Granado, Manzano, Ciruelo) excepto árboles cítricos o en su caso con el equivalente en especies nativas; una especie nativa equivale a 5 especies introducidas.
+El R. Ayuntamiento, a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente autorizará y supervisará la poda, derribo y/o el trasplante de árboles en espacios públicos y privados condicionando ello a la reposición de la biomasa vegetal perdida. La reposición se hará compensando el área transversal promedio del tronco o rama derribado, con la misma área transversal del tronco de árboles de 5-cinco centímetros de diámetro de tronco por 2-dos metros de altura. Dicha reposición deberá hacerse con las siguientes especies: Trueno, Sombrilla China, Níspero, Frutal (Granado, Manzano, Ciruelo) excepto árboles cítricos o en su caso con el equivalente en especies nativas; una especie nativa equivale a 5 especies introducidas.
 
 I.- Tratándose de personas de muy bajos recursos, en estos casos, se reducirá o podrá suspenderse la reposición de la biomasa vegetal.
 
-II.- Cuando se dictara por parte de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, que el árbol o árboles representan riesgo a la seguridad pública o que se encuentren a una distancia de separación menor de 2 metros de colindancias vecinas o que sus ramas o raíces obstruyan el transito peatonal, se otorgara el permiso correspondiente al propietario del predio, para que proceda a ejercitar su derribo o poda, de no llevarse a cabo lo anterior, el Municipio previo requerimiento dentro del acuerdo administrativo de ejecución procederá a aplicar una multa en los términos del artículo 122 fracción II inciso 1 de este Reglamento, una vez que haya fenecido el plazo otorgado para su realización, el cual empezara a contar a partir de que haya surtido efectos la notificación legalmente hecha.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+II.- Cuando se dictara por parte de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, que el árbol o árboles representan riesgo a la seguridad pública o que se encuentren a una distancia de separación menor de 2 metros de colindancias vecinas o que sus ramas o raíces obstruyan el tránsito peatonal, se otorgara el permiso correspondiente al propietario del predio, para que proceda a ejercitar su derribo o poda, de no llevarse a cabo lo anterior, el Municipio previo requerimiento dentro del acuerdo administrativo de ejecución procederá a aplicar una multa en los términos del artículo 122 fracción II inciso 1 de este Reglamento, una vez que haya fenecido el plazo otorgado para su realización, el cual empezara a contar a partir de que haya surtido efectos la notificación legalmente hecha.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 40.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente a través de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones verificará el cumplimiento de los lineamientos de carácter forestal establecidos en el permiso de uso de suelo y construcción otorgados por la Dirección de Administración Urbana a las industrias, comercios, establecimientos de servicio, desarrollos urbanos y turísticos de competencia municipal, dichos lineamientos deberán incluir las acciones y compromisos de mantenimiento que permitan el establecimiento definitivo de dichas áreas verdes.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones verificará el cumplimiento de los lineamientos de carácter forestal establecidos en el permiso de uso de suelo y construcción otorgados por la Dirección de Desarrollo Urbano y Medio Ambiente a las industrias, comercios, establecimientos de servicio, desarrollos urbanos y turísticos de competencia municipal, dichos lineamientos deberán incluir las acciones y compromisos de mantenimiento que permitan el establecimiento definitivo de dichas áreas verdes.
 
-I.- Si el que obtiene el permiso de uso de suelo o construcción, manifestara su deseo de hacer el pago correspondiente a valor comercial de los árboles solicitados quedará a consideración de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, valorar la solicitud presentada, dándole a conocer la cantidad que pagara por dicho concepto dentro del termino prudente.
+I.- Si el que obtiene el permiso de uso de suelo o construcción, manifestara su deseo de hacer el pago correspondiente a valor comercial de los árboles solicitados quedará a consideración de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, valorar la solicitud presentada, dándole a conocer la cantidad que pagara por dicho concepto dentro, del termino prudente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 41.
 
-Los propietarios y responsables de las obras sean públicas o privadas que se realicen en el Municipio están obligados a restaurar y regenerar el suelo y la cubierta vegetal, con especies nativas y los elementos naturales y artificiales necesarios para evitar el deslave y la erosión, aspecto que será supervisado por la Secretaría de Desarrollo Urbano y Medio Ambiente a través de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
+Los propietarios y responsables de las obras sean públicas o privadas que se realicen en el Municipio están obligados a restaurar y regenerar el suelo y la cubierta vegetal, con especies nativas y los elementos naturales y artificiales necesarios para evitar el deslave y la erosión, aspecto que será supervisado por la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
 
 ###### ARTICULO 42.
 
@@ -671,43 +717,65 @@ Con respecto a la solicitud de tala de los encinos Centenarios (Quercus Sp) en e
 
 La Secretaría de Desarrollo Urbano y Medio Ambiente deberá de actualizar el censo de encinos protegido en forma bianual, debiendo de presentar un reporte del estado fitosanitario a la Comisión de Protección al Ambiente del R. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 44.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente promoverá ante la Comisión de Protección al Ambiente del R. Ayuntamiento gestione ante el pleno del mismo la aprobación de recursos económicos para el mantenimiento fitosanitario trianual a todos aquellos encinos centenarios localizados en las área (sic) públicas municipales, con respecto a los encinos centenarios localizados en propiedades privadas la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones notificará a los propietarios la obligación de dar mantenimiento fitosanitario en forma anual o en su caso la necesidad de derribo.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente promoverá ante la Comisión de Protección al Ambiente del R. Ayuntamiento gestione ante el pleno del mismo la aprobación de recursos económicos para el mantenimiento fitosanitario trianual a todos aquellos encinos centenarios localizados en las área públicas municipales, con respecto a los encinos centenarios localizados en propiedades privadas la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones notificará a los propietarios la obligación de dar mantenimiento fitosanitario en forma anual o en su caso la necesidad de derribo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 45.
 
-Queda prohibido realizar el desmonte de terrenos públicos y/o privados sin autorización. La Secretaría de Desarrollo Urbano y Medio Ambiente, autorizará y dictará los lineamientos para el desmonte y reposición de la biomasa vegetal perdida como lo establece el artículo 39 del presente Reglamento, así como dar cumplimiento a lo dispuesto por la Ley de Hacienda para los Municipios del Estado en cuanto al desmonte y/o deshierbe de los predios.
+Queda prohibido realizar el desmonte de terrenos públicos y/o privados sin autorización. La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, autorizará y dictará los lineamientos para el desmonte y reposición de la biomasa vegetal perdida como lo establece el artículo 39 del presente Reglamento, así como dar cumplimiento a lo dispuesto por la Ley de Hacienda para los Municipios del Estado en cuanto al desmonte y/o deshierbe de los predios.
 
 Serán responsables solidarios las personas que realicen u ordenen la ejecución de acciones que afecten total o parcialmente la vegetación, se harán acreedores a la aplicación de sanciones administrativas que correspondan en los términos de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 46.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente a través de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, será la autoridad responsable de emitir los permisos de derribo, poda o transplante requerido por la ciudadanía.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, será la autoridad responsable de emitir los permisos de derribo, poda o trasplante requerido por la ciudadanía.
 
-Para tramitar el permiso de derribo, transplante o poda de árboles se establece lo siguiente:
+Para tramitar el permiso de derribo, trasplante o poda de árboles se establece lo siguiente:
 
-I. El interesado sea persona física o moral, presentará ante la Secretaría de Desarrollo Urbano y Medio Ambiente la solicitud por escrito o por teléfono, debiendo de precisar al efecto los datos generales, ubicación del árbol y motivo de la solicitud.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-II. La Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones a través del personal de supervisión, ordenará una visita domiciliaria, elaborando un reporte técnico forestal para su evaluación.
+I. El interesado sea persona física o moral, presentará ante la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente la solicitud por escrito o por teléfono, debiendo de precisar al efecto los datos generales, ubicación del árbol y motivo de la solicitud.
 
-III. Se informara al peticionante el resultado de procedencia de su tramite, debiendo acudir personalmente ante la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones a notificarse de la cantidad de árboles a reponer para efectos de que se realice la compensación de la biomasa vegetal perdida producto de la tala, poda o transplante.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-IV. El interesado deberá de compensar la biomasa vegetal perdida plantando los árboles que correspondan dentro del mismo predio en que se hizo la tala, de acuerdo con lo establecido en el artículo 39 de este Reglamento, y únicamente cuando demuestre que materialmente es imposible plantarlos en el predio, podrá llevar a cabo la entrega a la Dirección de Parques y Jardines del municipio a efecto de que sean destinados a los programas de reforestación de las áreas u obras municipales que así lo requieran. Así mismo puede solicitar hacer el pago económico de la compensación de los árboles ante la tesorería municipal, misma que deberá de obrar por escrito su deseo de realizarlo. Una vez acreditado alguno de los supuestos anteriores la Dirección de Medio Ambiente otorgara el permiso correspondiente.
+II. La Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones a través del personal de supervisión, ordenará una visita domiciliaria, elaborando un reporte técnico forestal para su evaluación.
 
-V. La Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones vigilará que el retiro y disposición de los desechos producto de la tala o poda se depositen en sitios autorizados.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+III. Se informara al peticionante el resultado de procedencia de su trámite, debiendo acudir personalmente ante la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones a notificarse de la cantidad de árboles a reponer para efectos de que se realice la compensación de la biomasa vegetal perdida producto de la tala, poda o trasplante.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+IV. El interesado deberá de compensar la biomasa vegetal perdida plantando los árboles que correspondan dentro del mismo predio en que se hizo la tala, de acuerdo con lo establecido en el artículo 39 de este Reglamento, y únicamente cuando demuestre que materialmente es imposible plantarlos en el predio, podrá llevar a cabo la entrega a la Dirección de Parques y Jardines del municipio a efecto de que sean destinados a los programas de reforestación de las áreas u obras municipales que así lo requieran. Así mismo puede solicitar hacer el pago económico de la compensación de los árboles ante la tesorería municipal, misma que deberá de obrar por escrito su deseo de realizarlo.
+
+Una vez acreditado alguno de los supuestos anteriores la Dirección de Desarrollo Urbano y Medio Ambiente otorgara el permiso correspondiente.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+V. La Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones vigilará que el retiro y disposición de los desechos producto de la tala o poda se depositen en sitios autorizados.
 
 VI. Cuando el particular carezca del permiso correspondiente de poda, derribo o transplante, independientemente de la reposición de la biomasa vegetal perdida que se le requiera, se le aplicara una multa en los términos que señala este Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 47.
 
-Los permisos de poda y transplante de árboles sólo podrán ser autorizados durante el período de octubre a febrero, fuera de este periodo se otorgaran cuando el resultado de la inspección demuestre que el árbol representa un riesgo para las personas o sus bienes. En los casos de transplante, la Dirección de Medio Ambiente, establecerá una fianza equivalente a la reposición del 100 % de la masa vegetal correspondiente, otorgando el permiso respectivo para que se lleve a cabo por un experto en la materia para la ejecución de las labores de transplante, así mismo la fianza otorgada podrá ser liberada a consideración y satisfacción de la Dirección de Medio Ambiente una vez que los árboles transplantados se encuentren en condiciones adecuadas de supervivencia.
+Los permisos de poda y trasplante de árboles sólo podrán ser autorizados durante el período de octubre a febrero, fuera de este periodo se otorgaran cuando el resultado de la inspección demuestre que el árbol representa un riesgo para las personas o sus bienes. En los casos de trasplante, la Dirección de Desarrollo Urbano y Medio Ambiente, establecerá una fianza equivalente a la reposición del 100% de la masa vegetal correspondiente, otorgando el permiso respectivo para que se lleve a cabo por un experto en la materia para la ejecución de las labores de trasplante, así mismo la fianza otorgada podrá ser liberada a consideración y satisfacción de la Dirección de Desarrollo Urbano y Medio Ambiente una vez que los árboles trasplantados se encuentren en condiciones adecuadas de supervivencia.
 
 #### SECCION II. DE LAS AREAS PROTEGIDAS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 48.
 
-El R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente determinará y regulará las áreas verdes que representen reservas de especies nativas y/o endémicas y establecerá los criterios ecológicos para su protección y conservación.
+El R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente determinará y regulará las áreas verdes que representen reservas de especies nativas y/o endémicas y establecerá los criterios ecológicos para su protección y conservación
 
 ###### ARTICULO 49.
 
@@ -717,9 +785,11 @@ Se entiende por áreas naturales protegidas de interés municipal aquellas zonas
 
 El R. Ayuntamiento de acuerdo a lo que establece la Ley Federal y la Estatal en la materia, implementará medidas de protección de las áreas naturales, de manera que se asegure en el territorio municipal la preservación y restauración de los ecosistemas, especialmente los más representativos y aquellos que se encuentren sujetos a procesos de degradación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 51.
 
-El R. Ayuntamiento, a través de la Secretaria de Desarrollo Urbano y Medio Ambiente, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en el territorio municipal, para lo cual coordinará sus acciones con el Gobierno del Estado, la Federación y otros Municipios.
+El R. Ayuntamiento, a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en el territorio municipal, para lo cual coordinará sus acciones con el Gobierno del Estado, la Federación y otros Municipios.
 
 Asimismo, establecerá sistemas de evaluación y seguimiento de las acciones que emprenda.
 
@@ -741,9 +811,11 @@ Los parques urbanos son áreas de uso público constituidas en los centros de po
 
 Las áreas naturales protegidas de interés municipal se establecerán de conformidad con este Reglamento y demás disposiciones legales aplicables, mediante declaratoria que expida el R. Ayuntamiento en los casos previstos en la Ley Ambiental del Estado de Nuevo León.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 55.
 
-El R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, deberá realizar los estudios para la expedición de la declaratoria de áreas naturales protegidas. En caso necesario, podrá solicitar la asesoría técnica y legal requerida a las autoridades correspondientes del Gobierno del Estado o de la Federación.
+El R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, deberá realizar los estudios para la expedición de la declaratoria de áreas naturales protegidas. En caso necesario, podrá solicitar la asesoría técnica y legal requerida a las autoridades correspondientes del Gobierno del Estado o de la Federación.
 
 El R. Ayuntamiento deberá considerar dentro de los planes de Desarrollo Urbano, las zonas arboladas con el fin de conservar o mejorar la calidad del ambiente.
 
@@ -767,9 +839,11 @@ El R. Ayuntamiento informará a las autoridades Estatales y Federales sobre las 
 
 #### SECCION III. DEL CONTROL Y PREVENCION DE LA CONTAMINACION ATMOSFERICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 58.
 
-El R. Ayuntamiento por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente, al promover el control, prevención y saneamiento atmosférico dentro del territorio municipal observará los siguientes criterios:
+El R. Ayuntamiento por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, al promover el control, prevención y saneamiento atmosférico dentro del territorio municipal observará los siguientes criterios:
 
 I. Requerir en el ámbito de su competencia, a todas aquellas personas físicas o morales, públicas y privadas, que realicen actividades contaminantes de la atmósfera, la instalación de los equipos de control pertinentes o la aplicación de medidas necesarias para reducir o eliminar las emisiones contaminantes.
 
@@ -799,9 +873,11 @@ XIII. Tomar las medidas preventivas para evitar contingencias por contaminación
 
 XIV. Previo acuerdo de coordinación con la Federación y el Gobierno del Estado, se elaborarán los informes sobre la calidad del aire en el territorio municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 59.
 
-El R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente regulará las siguientes fuentes emisoras de contaminantes atmosféricas.
+El R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente regulará las siguientes fuentes emisoras de contaminantes atmosféricas.
 
 I. Las fuentes fijas; que incluyen industrias, comercios, establecimientos de servicio de competencia municipal.
 
@@ -821,9 +897,11 @@ La emisión de contaminantes a la atmósfera no deberá exceder los niveles perm
 
 Los establecimientos comerciales, industriales y de servicio, así como las actividades de carácter social que en sus procesos y/o actividades generen emisiones contaminantes como gases, humos, olores o polvos, que provoquen molestias o deterioro al ambiente, deberán de estar provistos de los equipos e instalaciones que garanticen su control; tales operaciones sólo podrán realizarse de conformidad con el presente Reglamento, con la Legislación Estatal y Federal en materia ambiental y sus Reglamentos en vigor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 62.
 
-Se prohíbe llevar a cabo simulacros para el control de incendio con emisiones a la atmósfera, sin la autorización expresa de la Secretaría de Desarrollo Urbano y Medio Ambiente. Quienes pretendan llevar a cabo un simulacro de incendio, deberán presentar una solicitud por escrito, justificando el motivo por el que se requiere dicha acción. Dicha solicitud, deberá de presentarse por escrito con 15 días naturales anticipados al evento, informando la ubicación del simulacro, el día y la hora del evento, los materiales, cantidad y equipo a utilizar, la duración, el número de personas a participar y las medidas de seguridad que se implementarán entorno al evento. La Secretaría de Desarrollo Urbano y Medio Ambiente, analizará, aprobando, condicionando o negando el permiso.
+Se prohíbe llevar a cabo simulacros para el control de incendio con emisiones a la atmósfera, sin la autorización expresa de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente. Quienes pretendan llevar a cabo un simulacro de incendio, deberán presentar una solicitud por escrito, justificando el motivo por el que se requiere dicha acción. Dicha solicitud, deberá de presentarse por escrito con 15 días naturales anticipados al evento, informando la ubicación del simulacro, el día y la hora del evento, los materiales, cantidad y equipo a utilizar, la duración, el número de personas a participar y las medidas de seguridad que se implementarán entorno al evento. La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, analizará, aprobando, condicionando o negando el permiso.
 
 Los permisos serán otorgados sólo en el periodo de marzo a septiembre fuera de ese período las solicitudes serán evaluadas de acuerdo a caso particular.
 
@@ -835,9 +913,11 @@ Queda prohibido realizar actividades industriales, comerciales y de servicio en 
 
 Todos los establecimientos dedicados a la reparación y mantenimiento de sistemas de refrigeración, así como los que se dediquen al desarmado de vehículos automotores para comercializar sus partes, deberán de contar con un sistema de captura de refrigerante.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 65.
 
-En ningún caso se podrá utilizar pesticidas en la vía pública sin la previa autorización de la Secretaría de Desarrollo Urbano y Medio Ambiente, excepto cuando la aplicación sea ordenada por la Secretaría de Salud Estatal y/o la Dirección General de Salud Pública Municipal.
+En ningún caso se podrá utilizar pesticidas en la vía pública sin la previa autorización de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, excepto cuando la aplicación sea ordenada por la Secretaría de Salud Estatal y/o la Dirección General de Salud Pública Municipal.
 
 ###### ARTICULO 66.
 
@@ -869,7 +949,9 @@ Las actividades de las dependencias municipales, estatales o federales que en su
 
 Los establecimientos industriales, comerciales y de servicio de carácter municipal que requieran combustible dentro de sus procesos, sólo podrán utilizar gas natural a menos que en la zona donde se localicen, no se tenga línea de abastecimiento de dicho combustible se permitirá el uso de gas licuado presurizado.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente gestionará ante la Federación y el Estado se suspenda el consumo de otro tipo de combustible diferente al gas natural en el caso de las industrias de carácter Federal y/o Estatal.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente gestionará ante la Federación y el Estado se suspenda el consumo de otro tipo de combustible diferente al gas natural en el caso de las industrias de carácter Federal y/o Estatal.
 
 ###### ARTICULO 73.
 
@@ -893,9 +975,11 @@ II. La contaminación del agua se origina por el inmoderado vertimiento de susta
 
 III. Existen Normas Oficiales Mexicanas correspondientes para que los generadores de aguas residuales cumplan con las condiciones que establezca (sic) las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 76.
 
-En cuanto al saneamiento, uso racional y salubre de las aguas residuales, corresponde al R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
+En cuanto al saneamiento, uso racional y salubre de las aguas residuales, corresponde al R Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
 
 I. Vigilar que las instancias responsables de abastecer el agua a la población den el respectivo tratamiento de potabilización.
 
@@ -921,9 +1005,11 @@ Así mismo, se prohíbe el almacenamiento de aguas residuales que no se ajusten 
 
 Las descargas de aguas residuales de cualquier tipo generadas en el territorio municipal, que sean vertidas a los sistemas de drenaje sanitario, deberán registrarse ante la Agencia de Protección al Ambiente del Estado y Servicios de Agua y Drenaje de Monterrey I.P.D. debiendo de cumplir con las condiciones de composición establecidas por las autoridades componentes (sic).
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 79.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente, solicitará el registro de descarga de agua residual, a los establecimientos industriales, comerciales y/o de servicios. Aplicando la multa que corresponda en los términos de este Reglamento, cuando se detecte (sic) descargas clandestinas y/o en evidentes condiciones de contaminación que incumplan con las Normas Oficiales Mexicanas.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, solicitará el registro de descarga de agua residual, a los establecimientos industriales, comerciales y/o de servicios. Aplicando la multa que corresponda en los términos de este Reglamento, cuando se detecte descargas clandestinas y/o en evidentes condiciones de contaminación que incumplan con las Normas Oficiales Mexicanas.
 
 ###### ARTICULO 80.
 
@@ -953,9 +1039,11 @@ I. Los usos productivos del suelo no deben alterar el equilibrio de los ecosiste
 
 II. La degradación, erosión y contaminación de los suelos, así como la disminución de su productividad, tiene en la sobre generación y en el deficiente manejo de residuos sólidos y/o líquidos, una de sus principales causas, por consiguiente, para mantener o incrementar la productividad y conservación del suelo, se debe regular o corregir y sancionar toda acción o actividad que al generar o manejar residuos sólidos y/o líquidos, conlleve a la disminución de las características del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 85.
 
-En cuanto a la protección del suelo y del manejo de los residuos sólidos municipales, corresponde al R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
+En cuanto a la protección del suelo y del manejo de los residuos sólidos municipales, corresponde al R. Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones:
 
 I. Vigilar que los servicios municipales no propicien o generen residuos sólidos sin control.
 
@@ -1031,9 +1119,11 @@ Los propietarios o poseedores de predios de dominio privado y los titulares de �
 
 b) En el caso de abandono de sitios contaminados con residuos peligrosos o que se desconozca el propietario o poseedor del inmueble, el municipio en coordinación con la Secretaria de Medio Ambiente y Recursos Naturales y Estado, podrá formular y solicitar la ejecución de programas de remediación con el propósito de que se lleven a cabo las acciones necesarias para su recuperación y restablecimiento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 97.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente, solicitará los manifiestos de recolección, transporte y disposición final de residuos sólidos y líquidos, a los establecimientos industriales, comerciales y/o de servicio, cuando se detecte el manejo inadecuado o incumplan con las Normas Oficiales Mexicanas Ambientales.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, solicitará los manifiestos de recolección, transporte y disposición final de residuos sólidos y líquidos, a los establecimientos industriales, comerciales y/o de servicio, cuando se detecte el manejo inadecuado o incumplan con las Normas Oficiales Mexicanas Ambientales.
 
 ###### ARTICULO 98.
 
@@ -1057,15 +1147,19 @@ II. Cuando ambas fuentes, las naturales y las artificiales son alteradas, increm
 
 III. La contaminación que es generada por olores, ruidos, vibraciones, energía térmica o lumínica, entre otros debe ser regulada para evitar que se rebasen los límites máximos permitidos y/o aquellos que afecten la salud de las personas o de los bienes de terceros, en su caso, sancionar toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 101.
 
-En materia de prevención de la contaminación ambiental producida por olores, ruidos, luces, radiaciones u otros agentes vectores de energía, así como la regulación de la contaminación visual; corresponde al R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente las siguientes atribuciones:
+En materia de prevención de la contaminación ambiental producida por olores, ruidos, luces, radiaciones u otros agentes vectores de energía, así como la regulación de la contaminación visual; corresponde al R. Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente las siguientes atribuciones:
 
 I. Considerando lo dispuesto por el artículo 155 de la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como las restricciones señaladas en el artículo 187 de la Ley Estatal en la materia; adoptar las medidas que considere necesarias para evitar que las emisiones de contaminación visual, olores, ruido, vibraciones, energía térmica y lumínica rebasen los límites máximos contenidas en las Normas Oficiales Mexicanas en materia ambiental establecidas por la Secretaria de Medio Ambiente y Recursos Naturales, así como las que determinen las autoridades competentes.
 
 II. Establecer el seguimiento administrativo y legal a las denuncias relacionadas con los establecimientos industriales, comerciales, de servicio, generadoras de olores, ruido, radiaciones, vibraciones, energía térmica y lumínica dentro del territorio municipal consideradas como contaminantes.
 
-III. Las actividades de ruido generadas por la pura vida domestica en casas habitación, no serán sujetas a sanción por parte de esta Dirección de Medio Ambiente, siendo la Autoridad responsable de regular tales actividades la Secretaria de Seguridad Publica y Vialidad, en virtud de la alteración del orden publico que se da en el giro habitacional por el uso de equipo domestico de sonido y cuya regulación se establece en articulo 29 inciso II del Reglamento de Policía y Buen Gobierno municipal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+III. Las actividades de ruido generadas por la pura vida domestica en casas habitación, no serán sujetas a sanción por parte de esta Dirección de Desarrollo Urbano y Medio Ambiente, siendo la Autoridad responsable de regular tales actividades la Secretaría de Seguridad, en virtud de la alteración del orden publico que se da en el giro habitacional por el uso de equipo domestico de sonido y cuya regulación se establece en artículo 29 inciso II del Reglamento de Policía y Buen Gobierno municipal.
 
 ###### ARTICULO 102.
 
@@ -1079,45 +1173,63 @@ Toda persona física o moral, pública o privada que realice actividades industr
 
 No se autorizará en las zonas habitacionales o colindantes a ellas, así como en centros escolares y hospitalarios la instalación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por su emisión de olores, ruido, vibraciones, energía térmica, lumínica o sonora, puedan ocasionar molestias a la población.
 
-La autorización del R. Ayuntamiento por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente de que se habla en el párrafo anterior, quedará condicionada a la implementación por parte de los interesados, de medidas tendientes a: prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía térmica y lumínica para evitar los efectos nocivos y desagradables a la población y al ambiente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+La autorización del R. Ayuntamiento por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente de que se habla en el párrafo anterior, quedará condicionada a la implementación por parte de los interesados, de medidas tendientes a: prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía térmica y lumínica para evitar los efectos nocivos y desagradables a la población y al ambiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 105.
 
-Requieren de autorización por parte de la Secretaría de Desarrollo Urbano y Medio Ambiente las actividades que de forma esporádica o temporal se vayan a realizar en el territorio municipal, las cuales durante su desarrollo generen emisiones de olores, ruido, vibraciones, energía térmica y lumínica que rebasen o puedan rebasar los límites máximos establecidos en las Normas Oficiales Mexicanas de carácter ambiental que puedan ocasionar molestias a la población.
+Requieren de autorización por parte de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente las actividades que de forma esporádica o temporal se vayan a realizar en el territorio municipal, las cuales durante su desarrollo generen emisiones de olores, ruido, vibraciones, energía térmica y lumínica que rebasen o puedan rebasar los límites máximos establecidos en las Normas Oficiales Mexicanas de carácter ambiental que puedan ocasionar molestias a la población.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 106.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente de conformidad con lo establecido en el Reglamento de Anuncios vigente en el Municipio, se encargará de vigilar, regular y autorizar la instalación, mantenimiento y ubicación de anuncios.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente de conformidad con lo establecido en el Reglamento de Anuncios vigente en el Municipio, se encargará de vigilar, regular y autorizar la instalación, mantenimiento y ubicación de anuncios.
 
 ### CAPITULO SEXTO. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE PROTECCION AMBIENTAL
 
 #### SECCION I. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 107.
 
-Cuando en el territorio Municipal se presenten emergencias Ecológicas o contingencias ambientales que pongan en peligro la salud pública o repercutan en los ecosistemas locales; la Secretaría de Desarrollo Urbano y Medio Ambiente podrá ordenar como medidas de seguridad: el decomiso de las sustancias o materias contaminantes, la suspensión de trabajos o servicios y la prohibición de actos de uso. De la misma forma, en coordinación con la Dirección de Protección Civil Municipal promoverá ante las Autoridades correspondientes del Municipio, la ejecución de otras medidas de seguridad que en su ámbito de competencia y los ordenamientos locales existan.
+Cuando en el territorio Municipal se presenten emergencias Ecológicas o contingencias ambientales que pongan en peligro la salud pública o repercutan en los ecosistemas locales; la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente podrá ordenar como medidas de seguridad: el decomiso de las sustancias o materias contaminantes, la suspensión de trabajos o servicios y la prohibición de actos de uso. De la misma forma, en coordinación con la Dirección de Bomberos y Protección Civil Municipal promoverá ante las Autoridades correspondientes del Municipio, la ejecución de otras medidas de seguridad que en su ámbito de competencia y los ordenamientos locales existan.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 108.
 
-Cuando se trate de emergencias ecológicas o contingencias ambientales, el R. Ayuntamiento por conducto Secretaría de Desarrollo Urbano y Medio Ambiente notificará inmediatamente a las Autoridades Ambientales Federales y Estatales correspondientes. En tal caso, el R. Ayuntamiento, por conducto de la Secretaría de Desarrollo Urbano y Medio Ambiente en auxilio de las autoridades competentes, procederá a realizar el decomiso, retención o destrucción de sustancias o productos contaminantes, hasta en tanto no tomen conocimiento e intervengan aquéllas.
+Cuando se trate de emergencias ecológicas o contingencias ambientales, el R. Ayuntamiento por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente notificará inmediatamente a las Autoridades Ambientales Federales y Estatales correspondientes. En tal caso, el R. Ayuntamiento, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente en auxilio de las autoridades competentes, procederá a realizar el decomiso, retención o destrucción de sustancias o productos contaminantes, hasta en tanto no tomen conocimiento e intervengan aquéllas.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 109.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente dictará a los establecimientos industriales, comerciales y de servicio, lineamientos de seguridad en coordinación con las autoridades competentes de Protección Civil, para prevenir daños a la calidad del medio ambiente, pudiendo establecer sanciones administrativas por incumplimiento.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente dictará a los establecimientos industriales, comerciales y de servicio, lineamientos de seguridad en coordinación con las autoridades competentes de Protección Civil, para prevenir daños a la calidad del medio ambiente, pudiendo establecer sanciones administrativas por incumplimiento.
 
 ### CAPITULO SEPTIMO. DE LA INSPECCION, VIGILANCIA Y SANCIONES EN MATERIA DE PROTECCION AMBIENTAL
 
 #### SECCION I. DE LA INSPECCION Y VIGILANCIA EN MATERIA DE PROTECCION AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 110.
 
 Son auxiliares para la vigilancia en el cumplimiento de las disposiciones de este Reglamento las siguientes autoridades.
 
-I.- La Dirección de Administración Urbana.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+I.- La Dirección de Desarrollo Urbano y Medio Ambiente.
 
 II.- La Dirección General de Salud Pública.
 
-III.- La Sub-Secretaría Operativa de la Secretaría de Seguridad.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+III.- La Dirección Operativa de la Secretaría de Seguridad.
 
 IV.- La Dirección de Seguridad Vial.
 
@@ -1129,9 +1241,11 @@ VII.- La Dirección de Comercio y Espectáculos.
 
 VIII.- La Dirección de Ingresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 111.
 
-Corresponde al R. Ayuntamiento, por conducto de la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, las siguientes atribuciones en materia de inspección y vigilancia:
+Corresponde al R. Ayuntamiento, por conducto de la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones, las siguientes atribuciones en materia de inspección y vigilancia:
 
 I. Celebrar acuerdos de coordinación con las Autoridades Federales y Estatales para realizar la inspección y vigilancia necesarias dentro del territorio Municipal con el fin de verificar el cumplimiento de los acuerdos dictados por dichas autoridades.
 
@@ -1145,11 +1259,13 @@ V. Llevar cabo las visitas domiciliarias aun y cuando sean en horario y día inh
 
 VI. Sancionar las violaciones al presente Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 112.
 
-Las visitas de inspección en materia de Regulación Ambiental, sólo podrán ser realizadas por el personal debidamente autorizado por la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
+Las visitas de inspección en materia de Regulación Ambiental, sólo podrán ser realizadas por el personal debidamente autorizado por la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
 
-Dicho personal está obligado a identificarse con la persona responsable que atenderá la diligencia, mediante credencial vigente y orden de inspección debidamente fundada y motivada expedida por la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones entregando copia de la misma con firma autógrafa del titular de la Secretaría de Desarrollo Urbano y Medio Ambiente o quien se delegue esta facultad, en el que se deberá de incluir el objeto, alcance y el lugar que habrá de inspeccionarse.
+Dicho personal está obligado a identificarse con la persona responsable que atenderá la diligencia, mediante credencial vigente y orden de inspección debidamente fundada y motivada expedida por la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones entregando copia de la misma con firma autógrafa del titular de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente o quien se delegue esta facultad, en el que se deberá de incluir el objeto, alcance y el lugar que habrá de inspeccionarse.
 
 ###### ARTICULO 113.
 
@@ -1207,17 +1323,23 @@ Si la persona con la que se entendió la diligencia o los testigos, se negara a 
 
 El interesado al recibir la copia del acta de inspección será citado a comparecer en un plazo no mayor de cinco días hábiles, a fin de manifestar con mayor precisión la situación, causas o propósitos del acto sujeto a infracción.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 118.
 
-El R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, con base al resultado de las inspecciones a que se hace referencia en los artículos anteriores, dictará las medidas necesarias para corregir las deficiencias que se refieren, notificándole personalmente al interesado o por correo certificado con acuse de recibo, otorgándole un plazo para su realización, así como cualquiera de las sanciones administrativas a que se hubiere hecho acreedor conforme a las disposiciones legales aplicables.
+El R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, con base al resultado de las inspecciones a que se hace referencia en los artículos anteriores, dictará las medidas necesarias para corregir las deficiencias que se refieren, notificándole personalmente al interesado o por correo certificado con acuse de recibo, otorgándole un plazo para su realización, así como cualquiera de las sanciones administrativas a que se hubiere hecho acreedor conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 119.
 
-Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la Secretaría de Desarrollo Urbano y Medio Ambiente, haber dado cumplimiento a las medidas ordenadas en los términos de la resolución administrativa ambiental.
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, haber dado cumplimiento a las medidas ordenadas en los términos de la resolución administrativa ambiental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 120.
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento o requerimientos anteriores o bien para verificar una reincidencia en la denuncia y de la acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la Secretaría de Desarrollo Urbano y Medio Ambiente podrá imponer la sanción o sanciones que señala el presente Reglamento, una multa adicional que no exceda de los límites señalados en el artículo 122 de este ordenamiento.
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento o requerimientos anteriores o bien para verificar una reincidencia en la denuncia y de la acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente podrá imponer la sanción o sanciones que señala el presente Reglamento, una multa adicional que no exceda de los límites señalados en el artículo 122 de este ordenamiento.
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de tres años, contados a partir de la fecha en que se levante el acta de inspección en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
 
@@ -1227,9 +1349,11 @@ En los casos en que proceda, el Municipio hará del conocimiento del ministerio 
 
 #### SECCION II. DE LAS SANCIONES EN MATERIA DE PROTECCION AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 122.
 
-Las violaciones a lo dispuesto en el presente Reglamento constituyen infracción y serán sancionados por el R. Ayuntamiento, a través del titular de la Secretaría de Desarrollo Urbano y Medio Ambiente; en base a lo que establece el articulo 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242 y 243 de la Ley Ambiental del Estado de Nuevo León, con una o más de las siguientes sanciones:
+Las violaciones a lo dispuesto en el presente Reglamento constituyen infracción y serán sancionados por el R. Ayuntamiento, a través del titular de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente; en base a lo que establece el artículo 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242 y 243 de la Ley Ambiental del Estado de Nuevo León, con una o más de las siguientes sanciones:
 
 I. Multa por el equivalente de 20 a veinte mil días de salario mínimo general vigente en el Municipio, en el momento de la infracción.
 
@@ -1253,9 +1377,11 @@ VI. En caso de reincidir, se podrá imponer hasta dos tantos de la multa.
 
 En caso de comprobarse la responsabilidad de haber realizado actos u omisiones que generen o puedan generar deterioro ambiental o daños a la salud dentro del territorio municipal, independientemente de la sanción impuesta por la autoridad, el infractor tiene la obligación de realizar o, en su defecto, cubrir los gastos de operación, restauración y/o reparación de daños hasta que las condiciones ambientales o de salud se restablezcan.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 124.
 
-La obstrucción de las funciones encomendadas a las autoridades o personal encargado de la aplicación del presente Reglamento o la oposición injustificada para permitir que se realice alguna obra o instalación, para evitar el deterioro ambiental, será sancionado de acuerdo a lo dispuesto en las fracciones I y II del articulo 122 de este Reglamento, de igual forma se sancionará a la persona que no asistiere en los días y horas señaladas dentro de las cédulas citatorias que emita la Secretaria de Desarrollo Urbano y Medio Ambiente, y cuando falte al segundo citatorio sin causa justificada.
+La obstrucción de las funciones encomendadas a las autoridades o personal encargado de la aplicación del presente Reglamento o la oposición injustificada para permitir que se realice alguna obra o instalación, para evitar el deterioro ambiental, será sancionado de acuerdo a lo dispuesto en las fracciones I y II del artículo 122 de este Reglamento, de igual forma se sancionará a la persona que no asistiere en los días y horas señaladas dentro de las cédulas citatorias que emita la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, y cuando falte al segundo citatorio sin causa justificada.
 
 ###### ARTICULO 125.
 
@@ -1271,13 +1397,17 @@ IV.- El carácter intencional o negligente de la acción u omisión constitutiva
 
 #### SECCION III. RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 126.
 
-Las resoluciones dictadas por el R. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, con motivo de la aplicación del presente Reglamento y disposiciones que de él emanen, que no tengan señalado trámite especial, podrán ser recurridas mediante el recurso de inconformidad en un término de 15 días hábiles a partir del día siguiente a aquel en que hubiere surtido efectos la notificación de la resolución que se recurra o en que el interesado tuviere conocimiento de la misma.
+Las resoluciones dictadas por el R. Ayuntamiento a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio·Ambiente, con motivo de la aplicación del presente Reglamento y disposiciones que de él emanen, que no tengan señalado trámite especial, podrán ser recurridas mediante el recurso de inconformidad en un término de 15 días hábiles a partir del día siguiente a aquel en que hubiere surtido efectos la notificación de la resolución que se recurra o en que el interesado tuviere conocimiento de la misma.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 127.
 
-Para la tramitación del recurso de inconformidad establecido en el artículo anterior, el interesado deberá presentarlo por escrito ante la Dirección de Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
+Para la tramitación del recurso de inconformidad establecido en el artículo anterior, el interesado deberá presentarlo por escrito ante la Dirección de Desarrollo Urbano y Medio Ambiente o dependencia facultada por acuerdo delegatorio de funciones.
 
 ###### ARTICULO 128.
 
@@ -1412,3 +1542,29 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C. LIC. JOSÉ ABEL FLORES GARCÍA
 
 Dado en el salón de sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 9-nueve días del mes de octubre del 2008-dos mil ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+TERCERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+CUARTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Anuncios del Municipio de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+QUINTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Protección al Medio Ambiente del Municipio de San Nicolás de los Garza, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente,
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SÉPTIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Servicio de Limpieza Municipal de San·Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+OCTAVO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la compra, venta o comercialización de metales en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la explotación de juegos electrónicos y futbolitos en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DÉCIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
