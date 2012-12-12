@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-11-30"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -149,7 +149,7 @@ III. TERCER CIRCUITO:
 
 IV. CUARTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 26/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 17 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 26/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2012)</small>
 
 1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil, tres en materia de trabajo y, uno en materias de trabajo y administrativa todos con residencia en Monterrey.
 
@@ -375,7 +375,9 @@ XXIX. VIGESIMO NOVENO CIRCUITO:
 
 2. Un tribunal unitario con sede en Pachuca.
 
-3. Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 43/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2012)</small>
+
+3. Cuatro juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
 XXX. TRIGESIMO CIRCUITO:
 
@@ -719,7 +721,9 @@ QUINTO. Se contará con:
 
 1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y seis juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y uno en Cuernavaca, Morelos.
 
-2. El Centro El Centro (sic) Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliar, con residencia en Puebla, Puebla.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 43/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2012)</small>
+
+2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y un juzgado de Distrito Auxiliar, con residencia en Puebla, Puebla.
 
 > <small>(REFORMADO POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
@@ -908,3 +912,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la república mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo la reforma al Acuerdo General 10/2008, del Pleno Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos que lo integrarán.
