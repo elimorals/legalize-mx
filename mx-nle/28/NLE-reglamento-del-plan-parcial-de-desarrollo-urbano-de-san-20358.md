@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2011-05-20"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -145,11 +145,17 @@ II.- Al C. Presidente Municipal,
 
 III.- La Comisión de Obras Publicas del R. Ayuntamiento,
 
-IV.- El Secretario de Obras Públicas, Desarrollo Urbano, Ecología Municipal,
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-V.- El Director de Desarrollo Urbano Municipal, y
+IV.- El Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
 
-VI.- Los C. C. Inspectores adscritos a la Dirección de Desarrollo Urbano Municipal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+V.- El Director de Desarrollo Urbano y Medio Ambiente, y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+VI.- Los C. C. Inspectores adscritos a la Dirección de Desarrollo Urbano y Medio Ambiente.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
 
@@ -177,15 +183,19 @@ g).- Realizar, previa la aprobación de los proyectos relativos, en la forma que
 
 h).- Vigilar en el ámbito de su competencia, el cumplimiento de la Ley de Desarrollo urbano, de este Reglamento y demás ordenamientos en materia de desarrollo urbano, equilibrio ecológico y protección al ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 9.
 
-A la Comisión de Obras Públicas del H. Cabildo, le corresponderá:
+A la Comisión de Obras Públicas, Desarrollo Urbano y Nomenclatura del H. Cabildo, le corresponderá:
 
 a).- Dictaminar los asuntos que le encomiende el R. Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Corresponden al Secretario de Obras Públicas, Desarrollo Urbano y Ecología, las siguientes atribuciones en materia de Desarrollo Urbano:
+Corresponden al Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente, las siguientes atribuciones en materia de Desarrollo Urbano:
 
 a).- Intervenir en la elaboración de los planes y programas de obras y servicios que se relacionen con el desarrollo urbano de su territorio.
 
@@ -197,11 +207,15 @@ d).- Vigilar en el ámbito de su competencia y jurisdicción la observancia de l
 
 e).- Intervenir conjunta y coordinadamente con las Dependencias Estatales, dentro de la competencia Municipal, en la regularización de la tenencia de la tierra urbana.
 
-f).- Resolver los recursos de revisión interpuestos en contra de las resoluciones y acuerdos emitidos por la Dirección de Desarrollo Urbano Municipal.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+f).- Resolver los recursos de revisión interpuestos en contra de las resoluciones y acuerdos emitidos por la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 11.
 
-El Director de Desarrollo Urbano Municipal tendrá las siguientes atribuciones en materia de Desarrollo Urbano:
+El Director de Desarrollo Urbano y Medio Ambiente tendrá las siguientes atribuciones en materia de Desarrollo Urbano:
 
 a).- Elaborar proyectos de Planes y Programas de Desarrollo Urbano conforme a la Legislación aplicable.
 
@@ -281,11 +295,17 @@ d).- La Autoridad Municipal.
 
 Las iniciativas mencionadas en el artículo anterior deberán someterse al siguiente procedimiento:
 
-I.- La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la infraestructura, vialidad, servicios públicos y aspectos ecológicos del área influenciada por el mismo.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-II.- El Presidente Municipal o el Director de Desarrollo Urbano deberán consultar a los vecinos inmediatos y al Comité de Desarrollo Municipal de la Colonia, barrio o sector en el que se encuentre ubicado el predio o predios de que se trate.
+I.- La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la infraestructura, vialidad, servicios públicos y aspectos ecológicos del área influenciada por el mismo.
 
-III.- El presidente Municipal o el Director de Desarrollo Urbano podrán consultar cuando puedan tener interés o se vean afectados a:
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+II.- El Presidente Municipal o el Director de Desarrollo Urbano y Medio Ambiente deberán consultar a los vecinos inmediatos y al Comité de Desarrollo Municipal de la Colonia, barrio o sector en el que se encuentre ubicado el predio o predios de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+III.- El presidente Municipal o el Director de Desarrollo Urbano y Medio Ambiente podrán consultar cuando puedan tener interés o se vean afectados a:
 
 a).- Los Colegios y Asociaciones Profesionales de Urbanismo, Arquitectura, Ingeniería o Ecología.
 
@@ -299,9 +319,11 @@ V.- El R. Ayuntamiento en Sesión Ordinaria aprobará, rechazará o modificará 
 
 VI.- En el caso de aprobación o modificación del R. Ayuntamiento, el Presidente Municipal ordenará su promulgación y publicación en la Gaceta Municipal y la solicitará en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Para cada Barrio se tendrán planos detallados y actualizados que indiquen el USO DEL SUELO predominante y la compatibilidad y complementariedad. Estos planos serán debidamente firmados por el Presidente Municipal, el Director de Desarrollo Urbano y cuando menos cinco miembros de la mesa Directiva del Comité de Desarrollo respectivo.
+Para cada Barrio se tendrán planos detallados y actualizados que indiquen el USO DEL SUELO predominante y la compatibilidad y complementariedad. Estos planos serán debidamente firmados por el Presidente Municipal, el Director de Desarrollo Urbano y Medio Ambiente y cuando menos cinco miembros de la mesa Directiva del Comité de Desarrollo respectivo.
 
 ## TITULO TERCERO. CLASES DE USO DEL SUELO
 
@@ -981,9 +1003,11 @@ D9-B24
 
 Para la aprobación de Licencias de Usos de Suelo y Edificaciones para los diferentes predios o conjunto de predios se estará sujeto a lo dispuesto en las Matrices de Compatibilidad de Usos de Suelo que forman parte de este Reglamento, las cuales se anexan al mismo.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 33.
 
-Si en las Matrices de Compatibilidades algún Uso específico no estuviese listado, el Director de Desarrollo Urbano lo homologará al más semejante.
+Si en las Matrices de Compatibilidades algún Uso específico no estuviese listado, el Director de Desarrollo Urbano y Medio Ambiente lo homologará al más semejante.
 
 ###### ARTICULO 34.
 
@@ -1077,9 +1101,11 @@ No se requerirán remetimientos mínimos en las colindancias entre predios con U
 
 Las edificaciones construídas de acuerdo a planos legalmente autorizados, anteriores a la vigencia de este Reglamento, que no llenen los requisitos de remetimiento mínimo señalados en este Ordenamiento, al cambiar de Uso del Suelo o de Uso de Edificación no tendrán que sujetarse a las normas relativas a remetimientos, no obstante deberán cumplir con las Normas establecidas para estacionamiento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 48.
 
-Para los predios de configuración perimetral no rectangulares o geométricamente irregulares, la Dirección de Desarrollo Urbano, guiada por los criterios señalados en los artículos anteriores, definirá los remetimientos mínimos correspondientes.
+Para los predios de configuración perimetral no rectangulares o geométricamente irregulares, la Dirección de Desarrollo Urbano y Medio Ambiente, guiada por los criterios señalados en los artículos anteriores, definirá los remetimientos mínimos correspondientes.
 
 ### CAPITULO SEGUNDO. OCUPACION DEL SUELO
 
@@ -1087,9 +1113,11 @@ Para los predios de configuración perimetral no rectangulares o geométricament
 
 La ocupación del suelo es de porcentaje que resulta de dividir el área de planta ocupada por construcciones, techadas o cubiertas con cualquier material, entre el área total del predio. A éste porcentaje se le denominará Coeficiente de Ocupación del Suelo, "COS" en su forma abreviada.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 50.
 
-El "COS" máximo permitido para cualquier uso será el que indique el Plan Director de Desarrollo Urbano del Area Metropolitana de Monterrey 1988-2010 ó el Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, Nuevo León, según el distrito o barrio en que se encuentren. En Sectores Especiales será determinado por la Dirección de Desarrollo Urbano, en cuanto sean de competencia Municipal.
+El "COS" máximo permitido para cualquier uso será el que indique el Plan Director de Desarrollo Urbano del Área Metropolitana de Monterrey 1988-2010 o el Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, Nuevo León, según el distrito o barrio en que se encuentren. En Sectores Especiales será determinado por la Dirección de Desarrollo Urbano y Medio Ambiente, en cuanto sean de competencia Municipal.
 
 ### CAPITULO TERCERO. ABSORCION
 
@@ -1103,9 +1131,11 @@ Con el propósito de alimentar los mantos acuíferos, reducir la capacidad neces
 
 La utilización del suelo se medirá dividiendo el área de construcción total techada, cerrada o abierta, incluyendo terrazas, pasillos y estacionamientos techados, entre el área total del predio. A ésta medida se le denominará Coeficiente de Uso del Suelo, "CUS" en su forma abreviada.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 53.
 
-El "CUS" máximo permitido para cualquier uso será el que indiquen el Plan Director de Desarrollo Urbano del Area Metropolitana de Monterrey 1988-2010 ó el Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, Nuevo León, según el Distrito ó Barrio en que se encuentre. En Sectores Especiales será determinado por la Dirección de Desarrollo Urbano, en cuanto sea de competencia Municipal.
+El "CUS" máximo permitido para cualquier uso será el que indique el Plan Director de Desarrollo Urbano del Área Metropolitana de Monterrey 1988-2010 o el Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, Nuevo León, según el Distrito o Barrio en que se encuentre. En Sectores Especiales será determinado por la Dirección de Desarrollo Urbano y Medio Ambiente, en cuanto sea de competencia Municipal.
 
 ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE MAYO DE 2011)
 
@@ -1125,9 +1155,11 @@ Para definir el número de cajones de estacionamiento de cualquier predio que te
 
 Para resolver insuficiencias de estacionamientos, la Autoridad Municipal podrá autorizar la fusión de un predio ubicado frente a un Corredor Comercial, con un predio ubicado en su colindancia posterior, previa anuencia de los propietarios colindantes del predio a fusionarse.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 57.
 
-Cuando en el mismo predio se tengan Usos de Edificación cuya necesidad de estacionamientos por la naturaleza de lo que se trate, se dé a horas desfasadas entre sí, previa solicitud por escrito del propietario, la Dirección de Desarrollo Urbano podrá autorizar una Licencia de Construcción y/o de Uso de Edificación, con requerimientos de estacionamiento menores a los de las sumas de las partes. Al autorizarse dicha solicitud el propietario aceptará por escrito ser clausurado, si la capacidad del estacionamiento resulta reiteradamente insuficiente.
+Cuando en el mismo predio se tengan Usos de Edificación cuya necesidad de estacionamientos por la naturaleza de lo que se trate, se de a horas desfasadas entre sí, previa solicitud por escrito del propietario, la Dirección de Desarrollo Urbano y Medio Ambiente podrá autorizar una Licencia de Construcción y/o de Uso de Edificación, con requerimientos de estacionamiento menores a los de las sumas de las partes. Al autorizarse dicha solicitud el propietario aceptara por escrito ser clausurado, si la capacidad del estacionamiento resulta reiteradamente insuficiente.
 
 ###### ARTICULO 58.
 
@@ -1423,11 +1455,15 @@ Cuando se cuente con una autorización de Uso de Suelo y una Licencia de Constru
 
 Las Licencias de Uso de Suelo y Edificación, en los casos de competencia del Estado, deberán ser otorgadas en los términos de la Legislación aplicable.
 
-La Licencia Municipal de Construcción sólo será válida con la firma y sello del Director de Desarrollo Urbano Municipal.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+La Licencia Municipal de Construcción solo será valida con la firma y sello del Director de Desarrollo Urbano y Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 104.
 
-La Dirección de Desarrollo Urbano tiene la obligación de llevar un libro actualizado con el registro de Licencias de Uso del Suelo, de Construcción y Uso de Edificación en el que se asienten en forma seriada y fechada las licencias expedidas y entregadas.
+La Dirección de Desarrollo Urbano y Medio Ambiente tiene la obligación de llevar un libro actualizado con el registro de Licencias de Uso del Suelo, de Construcción y Uso de Edificación en el que se asienten en forma seriada y fechada las licencias expedidas y entregadas.
 
 ###### ARTICULO 105.
 
@@ -1493,15 +1529,19 @@ b).- Cuando no forme parte estructural del edificio a construir en el predio.
 
 No se requerirá de una Licencia de Construcción para llevar a cabo una remodelación interna o el mantenimiento de una edificación, cuando éstos no alteren su área de construcción, ni su Uso de Suelo o Edificación autorizado.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 110.
 
-La Dirección de Desarrollo Urbano tendrá la obligación de dar contestación a cualquier solicitud de Licencia en un plazo no mayor de 30 días hábiles, ya sea negándola, otorgándola o solicitando mayor información, si la solicitud hubiere sido presentada incompleta.
+La Dirección de Desarrollo Urbano y Medio Ambiente tendrá la obligación de dar contestación a cualquier solicitud de Licencia en un plazo no mayor de 30 días hábiles, ya sea negándola, otorgándola o solicitando mayor información, si la solicitud hubiere sido presentada incompleta.
 
 ###### ARTICULO 111.
 
 Queda prohibido obstruir total o parcialmente la vía pública mediante la instalación de aparatos expendedores, mercancías, materiales de desecho o cualquier otro objeto o impedimento.
 
-Sólo se permitirá el deposito de materiales de construcción de una obra en proceso, previo permiso de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+Sólo se permitirá el depósito de materiales de construcción de una obra en proceso, previo permiso de la Dirección de Desarrollo Urbano y Medio Ambiente.
 
 ## TITULO SEPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1525,9 +1565,13 @@ a).- El Presidente Municipal.
 
 b).- El Secretario de Finanzas y Tesorería Municipal.
 
-c).- El Secretario de Obras Públicas, Desarrollo Urbano y Ecología.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-d).- El Director de Desarrollo Urbano Municipal.
+c).- El Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+d).- El Director de Desarrollo Urbano y Medio Ambiente.
 
 ###### ARTICULO 116.
 
@@ -1547,13 +1591,17 @@ f).- Se deberá tomar en cuenta la capacidad económica del infractor.
 
 ## TITULO OCTAVO. RECURSOS DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 117.
 
-Las resoluciones dictadas por el Director de Desarrollo Urbano, con motivo de la aplicación del Presente Reglamento y disposiciones que de el emanen, que no tengan señalado trámite especial, podrán ser recurridas mediante el Recurso de Inconformidad en un término de 15 días hábiles contados a partir de la fecha de la notificación.
+Las resoluciones dictadas por el Director de Desarrollo Urbano y Medio Ambiente, con motivo de la aplicación del Presente Reglamento y disposiciones que de el emanen, que no tengan señalado trámite especial, podrán ser recurridas mediante el Recurso de Inconformidad en un termino de 15 días hábiles contados a partir de la fecha de la notificación.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 118.
 
-Para la tramitación del Recurso de Inconformidad establecido en el artículo anterior, el interesado deberá presentarlo por escrito ante la Secretaría de Obras Públicas, Desarrollo Urbano, y Ecología Municipal, teniendo como fecha de presentación la del día en que se recibe el escrito.
+Para la tramitación del Recurso de Inconformidad establecido en el artículo anterior, el interesado deberá presentarlo por escrito ante la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, teniendo como fecha de presentación la del día en que se recibe el escrito.
 
 ###### ARTICULO 119.
 
@@ -1591,11 +1639,11 @@ SEGUNDO.- Quedan derogadas todas las disposiciones que existieren en otros orden
 
 TERCERO.- Para los efectos a que se refiere el artículo 12 del presente Reglamento se conceden 120 días naturales, a partir de que entre en vigor éste ordenamiento para tramitar y obtener la Licencia de Uso de Suelo y/o de Edificación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 15 DE JULIO DE 2002.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 2 DE NOVIEMBRE DE 2007.
 
@@ -1624,3 +1672,17 @@ P.O. 1 DE OCTUBRE DE 2010.
 P.O. 20 DE MAYO DE 2011.
 
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+.
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+.
