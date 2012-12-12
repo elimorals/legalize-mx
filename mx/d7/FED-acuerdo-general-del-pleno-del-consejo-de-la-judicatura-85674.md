@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-10-16"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -2041,43 +2041,55 @@ XL. Emitir opinión de la propuesta del Catálogo General de Puestos del Consejo
 
 XLI. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 111 Y 112 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 111.
 
-La Dirección General de Servicios Médicos y Desarrollo Infantil será la encargada de desarrollar e instrumentar los programas en materia de salud dirigidos a los servidores públicos del Poder Judicial de la Federación, en las áreas de medicina interna y odontología, a fin de proporcionar un servicio eficiente y preventivo considerando los lineamientos que en la materia emita la Secretaría de Salud; así como llevar a cabo las acciones educativas y asistenciales que favorezcan el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en los órganos jurisdiccionales federales y en el Consejo.
+La Dirección General de Servicios Médicos y Desarrollo Infantil será la unidad administrativa encargada de proporcionar el servicio médico inicial o de primer contacto, desarrollar e instrumentar las campañas y los programas en materia de salud, elaborar el diagnóstico institucional de salud, promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones para el buen funcionamiento y operación de los servicios médicos del Consejo; así como supervisar que las acciones educativas y asistenciales para el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en el Poder Judicial de la Federación se realicen de manera integral, con la finalidad de proporcionar un servicio eficiente y de calidad con base en la normatividad vigente en materia de salud y desarrollo integral infantil.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 111 Y 112 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 112.
 
 El titular de la Dirección General de Servicios Médicos y Desarrollo Infantil tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona y optimizar el aprovechamiento de los recursos del Consejo;
+I. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la prestación de los servicios de salud en los consultorios médicos y la operación del servicio de desarrollo infantil que proporciona el Consejo;
 
-II. Dirigir, difundir y vigilar la aplicación de los acuerdos que dicte el Consejo en materia de salud y servicios educativos para los servidores públicos y sus familiares;
+II. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona, y optimizar el aprovechamiento de los recursos del Consejo;
 
-III. Aplicar las normas, políticas, lineamientos y demás disposiciones en materia de salud para el buen funcionamiento y operación de los servicios médicos del Consejo;
+III. Difundir y vigilar la aplicación de los acuerdos que dicte el Consejo en materia de salud y servicios de desarrollo infantil para los servidores públicos y sus familiares;
 
-IV. Organizar, dirigir, supervisar y controlar las actividades de los servicios médicos durante la celebración de eventos oficiales;
+IV. Promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones en materia de salud, para el buen funcionamiento y operación de los servicios médicos del Consejo;
 
-V. Programar e implementar campañas de salud en beneficio de los servidores públicos en coordinación con las instituciones de salud;
+V. Organizar, dirigir, supervisar y controlar las actividades de los servicios médicos durante la celebración de eventos oficiales, recreativos, deportivos o culturales que le sean previamente solicitados;
 
-VI. Participar en la elaboración, difusión y aplicación de las normas y programas autorizados por la Comisión de Seguridad y Salud en el Trabajo y vigilar su cumplimiento;
+VI. Programar e implementar campañas de salud en beneficio de los servidores públicos, en coordinación con las instituciones de salud;
 
-VII. Gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado la emisión de los dictámenes relativos a las condiciones de salud de magistrados de circuito y jueces de distrito, para el efecto de lo dispuesto en el acuerdo relativo al retiro por incapacidad física o mental de éstos cuando lo ordene el Pleno o la Comisión de Disciplina;
+VII. Participar en la elaboración, difusión y aplicación de las normas y programas autorizados por la Comisión de Seguridad y Salud en el Trabajo y vigilar su cumplimiento;
 
-VIII. Integrar, orientar, supervisar y controlar el funcionamiento en los centros de trabajo, de las comisiones de seguridad y salud en el trabajo, así como los centros de desarrollo e instancias infantiles;
+VIII. Gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado la emisión de los dictámenes relativos a las condiciones de salud de magistrados de Circuito y jueces de Distrito, para el efecto de lo dispuesto en el acuerdo 74/2004 del Pleno relativo al procedimiento para la separación de los funcionarios por incapacidad física o mental de éstos, cuando lo ordene el Pleno o la Comisión de Disciplina;
 
-IX. Supervisar el cumplimiento de las políticas, normas y procedimientos establecidos por las autoridades de la Secretaría de Educación Pública en lo relativo a programas pedagógicos;
+IX. Integrar, orientar, supervisar y controlar el funcionamiento en los centros de trabajo de las comisiones de seguridad y salud, en el trabajo, así como en los centros de desarrollo e instancias infantiles;
 
-X. Coordinar la operación de programas de apoyo a los servidores públicos relativos a la prestación de ayuda para pago a guarderías particulares y la utilización de las guarderías del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+X. Supervisar el cumplimiento de las políticas, normas y procedimientos derivados de la legislación para la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-XI. Vigilar la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
+XI. Coordinar, dirigir, controlar y supervisar la operación del programa de apoyo para guarderías particulares que se otorga a los servidores públicos, y asesorarlos para la utilización de las guarderías del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XII. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de educación que se realizan en el ámbito de la educación inicial y preescolar;
+XII. Vigilar la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
 
-XIII. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración, la Oficialía Mayor y la Secretaría Ejecutiva de Administración determinen;
+XIII. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
 
-XIV. Mantener informado al superior jerárquico, respecto del funcionamiento y sobre el avance y logro de los objetivos y metas programadas del área a su cargo; y
+XIV. Implementar procesos informáticos para mejorar la operación de su área;
 
-XV. Las demás que establezcan el Pleno y, las comisiones.
+XV. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área;
+
+XVI. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de desarrollo infantil que se realizan en el ámbito de la educación inicial y preescolar;
+
+XVII. Coordinar el proceso para la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial de la Federación en lo relativo a su área y del Diagnóstico Institucional de Salud del Consejo;
+
+XVIII. Rendir informes a la Comisión de Administración; y
+
+XIX. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 113.
 
@@ -3546,5 +3558,19 @@ Con motivo de la actualización de la estructura orgánica que contiene el prese
 Los Consejeros responsables de auxiliar al Presidente en el ejercicio de las atribuciones que le corresponden en materia de derechos humanos, equidad de género y asuntos internacionales, serán los designados por el Pleno con antelación a la entrada en vigor del presente acuerdo, sin perjuicio de las determinaciones que adopte dicho órgano colegiado.
 
 ###### ARTICULO QUINTO.
+
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 12 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+###### ARTICULO TERCERO.
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
