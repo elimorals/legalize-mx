@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-de-limpieza-municipal-de-san-26151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-14"
-last_updated: "2011-09-14"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO DE LIMPIEZA MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de octubre de 2002.
 
@@ -329,11 +329,11 @@ Los propietarios o encargados de estaciones de servicio para venta de gasolina, 
 
 En el caso de las Vulcanizadoras están obligados a comprobar el retiro y disposición final de las llantas en los depósitos o rellenos existentes en el estado.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 23.
 
-Los propietarios, directores responsables de obra y encargados de construcción o demolición son responsables solidariamente de la diseminación de materiales, escombro y cualquier clase de basura que hubiera generado, si se remueven escombros deberán evitar que se diseminen en la vía pública, cuando fuera inevitable utilizar ésta no podrán iniciar los trabajos, si previamente no tienen el permiso correspondiente de la Secretaría de Desarrollo Urbano y Medio Ambiente en tal caso circundarán con materiales idóneos el área respectiva con objeto de evitar que sean diseminados en la vía pública por los peatones, vehículos, aire o lluvia.
+Los propietarios, directores responsables de obra y encargados de construcción o demolición son responsables solidariamente de la diseminación de materiales, escombro y cualquier clase de basura que hubiera generado, si se remueven escombros deberán evitar que se diseminen en la vía pública, cuando fuera inevitable utilizar ésta no podrán iniciar los trabajos, si previamente no tienen el permiso correspondiente de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente en tal caso circundarán con materiales idóneos el área respectiva con objeto de evitar que sean diseminados en la vía pública por los peatones, vehículos, aire o lluvia.
 
 ###### ARTICULO 24.
 
@@ -759,15 +759,15 @@ A).- Comisión de Limpia, Parques y Jardines del R. Ayuntamiento.
 
 B).- Secretaria del R. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-C).- Secretaría de Desarrollo Urbano y Medio Ambiente.
+C).- Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
 
 D).- Secretaria de Administración.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-E).- Dirección de Medio Ambiente.
+E).- Dirección de Desarrollo Urbano y Medio Ambiente.
 
 F).- Dirección de Salud Publica.
 
@@ -779,9 +779,9 @@ G) Secretaría de Desarrollo Humano.
 
 H).- Dirección de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
-I).- Los C.C. Inspectores de Desarrollo Urbano, de Medio Ambiente, de Salud Pública y de Comercio y Espectáculos.
+I).- Los C.C. Inspectores de Desarrollo Urbano y Medio Ambiente, de Salud Pública y de Comercio y Espectáculos.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -791,13 +791,17 @@ K).- Los Ciudadanos del Municipio.
 
 L).- Dirección de Ingresos.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 49.
 
-Los inspectores de las Direcciones de Medio Ambiente, Salud Pública, Desarrollo Urbano, Obras Públicas y Comercio y Espectáculos, así como el personal operativo de la Secretaría de Seguridad y Secretaría de Servicios Públicos, quedan habilitados para levantar las actas de infracción en relación con las faltas que se cometan a las disposiciones de este reglamento. Para el efecto, deberán hacer saber al infractor la falta cometida, procurando que este firme la boleta correspondiente y exprese en ella lo que considere conveniente en su defensa. Si se negare a firmar, se asentara dicha constancia en la boleta mencionada.
+Los inspectores de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente o de sus Direcciones, de Salud Pública, de Comercio y Espectáculos, así como el personal operativo de la Secretaría de Seguridad y Secretaría de Servicios Públicos, quedan habilitados para levantar las actas de infracción en relación con las faltas que se cometan a las disposiciones de este reglamento. Para el efecto, deberán hacer saber al infractor la falta cometida, procurando que este firme la boleta correspondiente y exprese en ella lo que considere conveniente en su defensa. Si se negare a firmar, se asentara dicha constancia en la boleta mencionada.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 Cuando algún particular advierta que se comete infracción a este Reglamento, dará aviso a la Autoridad Municipal, la cual cerciorada de la infracción, procederá a levantar acta de infracción correspondiente en los términos de este mismo articulo.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 En las boletas de infracción se procurara por quienes la levanten, anotar los nombres de los dueños, poseedores, ocupantes, arrendatarios, gerentes, encargados de las casas o negocios, a fin de que puedan ser citados ante la Autoridad Municipal.
 
@@ -898,3 +902,27 @@ Secretario del R. Ayuntamiento. Rubricas
 P.O. 14 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+TERCERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+CUARTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Anuncios del Municipio de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+QUINTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Protección al Medio Ambiente del Municipio de San Nicolás de los Garza, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEPTIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+OCTAVO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la compra, venta o comercialización de metales en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la· explotación de juegos electrónicos y futbolitos en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
