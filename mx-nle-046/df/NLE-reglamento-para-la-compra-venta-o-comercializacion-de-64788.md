@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-compra-venta-o-comercializacion-de-64788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-03"
-last_updated: "2008-12-03"
+last_updated: "2012-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA COMPRA, VENTA O COMERCIALIZACION DE METALES EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO PARA LA COMPRA, VENTA O COMERCIALIZACION DE METALES EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO PARA LA COMPRA, VENTA O COMERCIALIZACIÓN DE METALES EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de diciembre de 2008.
 
@@ -53,13 +53,17 @@ La aplicación del presente Reglamento corresponde a:
 
 I. El Presidente Municipal;
 
-II. El Secretario de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+II. El Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente;
 
 III. El Secretario de Seguridad;
 
 IV. El Secretario de Finanzas y Tesorero Municipal;
 
-V. Los Inspectores adscritos a la Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
+V. Los Inspectores adscritos a la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente;
 
 VI. El personal operativo de la Secretaría de Seguridad.
 
@@ -73,9 +77,11 @@ I. Vigilar el cumplimiento de las disposiciones del presente Reglamento;
 
 II. Las demás que establezca el presente Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-Son facultades del Secretario de Desarrollo Urbano y Medio Ambiente:
+Son facultades del Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente:
 
 I. Vigilar el cumplimiento de las disposiciones del presente Reglamento;
 
@@ -107,9 +113,11 @@ IV. Realizar las denuncias ante las autoridades competentes, con motivo de la fr
 
 V. Las demás que establezca el presente Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-Son facultades de los inspectores adscritos a la Secretaría de Desarrollo Urbano y Medio Ambiente:
+Son facultades de los inspectores adscritos a la Secretario (sic) de Obras Públicas, Desarrollo Urbano y Medio Ambiente:
 
 I. Practicar las órdenes de inspección para los establecimientos dedicados a la compra, venta o comercialización de metales;
 
@@ -141,9 +149,11 @@ III. Las Industrias; y
 
 IV. Las personas físicas que se dedican al desempeño de la citada actividad.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-Los propietarios de establecimientos dedicados a la compra, venta o comercialización de cualquier tipo de producto metálico o derivado de una aleación metálica, deberán contar con la licencia de uso de suelo respectiva, misma que será expedido (sic) por la Secretaría de Desarrollo Urbano y Medio Ambiente.
+Los propietarios de establecimientos dedicados a la compra, venta o comercialización de cualquier tipo de producto metálico o derivado de una aleación metálica, deberán contar con la licencia de uso de suelo respectiva, misma que será expedido (sic) por la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
 
 ###### Artículo 11.
 
@@ -163,11 +173,13 @@ Toda persona tendrá el derecho y la obligación de denunciar ante la Secretarí
 
 ### CAPÍTULO V. DE LAS VISITAS DE INSPECCIÓN Y REVISIÓN DE REGISTRO DE VENDEDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente conforme a las disposiciones del presente Reglamento, podrá llevar a cabo visitas de Inspección para comprobar el cumplimiento de este ordenamiento y en su caso aplicar las sanciones que correspondan.
+La Secretario (sic) de Obras Públicas, Desarrollo Urbano y Medio Ambiente conforme a las disposiciones del presente Reglamento, podrá llevar a cabo visitas de Inspección para comprobar el cumplimiento de este ordenamiento y en su caso aplicar las sanciones que correspondan.
 
-Las visitas de inspección podrán ser ordinarias y extraordinarias, las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, en los términos de la legislación aplicable.
+Las visitas de Inspección podrán ser ordinarias y extraordinarias, las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, en los términos de la legislación aplicable.
 
 En todo tiempo se tendrá la facultad de supervisar mediante inspección técnica el funcionamiento de los establecimientos, vigilando el debido cumplimiento de las disposiciones del presente Reglamento.
 
@@ -293,9 +305,11 @@ III. Cuando en la audiencia de pruebas y alegatos no se desprendan elementos par
 
 Contra los actos y resoluciones que dicte la Autoridad Municipal, con motivo de la aplicación de este Reglamento, los particulares podrán interponer el Recurso de Inconformidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 30.
 
-El recurso de inconformidad deberá presentarse por escrito ante el Secretario de Desarrollo Urbano y Medio Ambiente, dentro del término de quince días hábiles contados a partir del día siguiente al en que tuvo conocimiento de la resolución. El escrito deberá contener:
+El recurso de inconformidad deberá presentarse por escrito ante el Secretario de Desarrollo Urbano y Medio Ambiente, dentro del término de quince días hábiles contados a partir del día siguiente al en que tuvo conocimiento de la resolución.
 
 1.- Nombre y domicilio de quien lo promueve;
 
@@ -330,3 +344,29 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C. LIC. JOSÉ ABEL FLORES GARCÍA
 
 Dado en el salón de sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 27-veintisiete días del mes de noviembre del 2008-dos mil ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+TERCERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+CUARTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Anuncios del Municipio de San Nicolás de los Garza, Nuevo león, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+QUINTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Protección al Medio Ambiente del Municipio de San Nicolás de los Garza, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEPTIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+OCTAVO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la compra, venta o comercialización de metales en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la explotación de juegos electrónicos y futbolitos en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
