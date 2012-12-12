@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-consejo-consultivo-municipal-para-26464
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-23"
-last_updated: "2004-04-21"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DEL CONSEJO CONSULTIVO MUNICIPAL PARA LA INTEGRACION Y DESARROLLO DE PERSONAS CON CAPACIDAD DIFERENCIADA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO ORGANICO DEL CONSEJO CONSULTIVO MUNICIPAL PARA LA INTEGRACION Y DESARROLLO DE PERSONAS CON CAPACIDAD DIFERENCIADA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO ORGÁNICO DEL CONSEJO CONSULTIVO MUNICIPAL PARA LA INTEGRACIÓN Y DESARROLLO DE PERSONAS CON CAPACIDAD DIFERENCIADA DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de octubre de 2002.
 
@@ -219,39 +219,13 @@ d) Realizar reportes mensuales de las funciones o planes llevados,
 
 e) Coordinarse con el Presidente para fijar objetivos anuales y optimizar recursos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-Para el desempeño y eficacia del consejo, además de los nombramientos anteriores estará integrado por comisiones, mismas que trabajarán coordinadamente, siendo estas las siguientes:
+En los auditorios, cines, teatros, salas de conciertos o de conferencias, centros recreativos o deportivos, y en cualquier recinto en que se presenten espectáculos o eventos con acceso al público en general, los empresarios deberán establecer espacios reservados para aquellas personas que por su capacidad diferenciada no pueden ocupar las butacas o asientos ordinarios, mismos que estarán ubicados preferentemente en áreas en las que se cuente con la visibilidad y comodidades adecuadas. La Dirección de Desarrollo Urbano y Medio Ambiente del Municipio deberá observar la presente norma en la expedición de nuevas licencias de construcción.
 
-1.- Salud, Bienestar y Seguridad Social.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-2.- Educación.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-3.- Legislación y Derechos Humanos.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-4.- Rehabilitación Laboral.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-5.- Cultura.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-6.- Accesibilidad, Telecomunicaciones y transporte.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-7. Comunicación y Sistemas de Información.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
-
-8.- Deportes y Recreación.
+El DIF Municipal en coordinación con la (sic) Secretario de Obras Públicas, Desarrollo Urbano y Medio Ambiente, realizarán gestiones ante los propietarios a fin de que en los establecimientos y construcciones ya existentes, que señala este articulo; establezcan en su interior áreas reservadas para personas con capacidad diferenciada, así como la realización de rampas de acceso.
 
 ###### Artículo 13.
 
@@ -494,3 +468,27 @@ Secretario del R. Ayuntamiento
 P.O. 21 DE ABRIL DE 2004.
 
 ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Dirección de Desarrollo Urbano y en la Dirección de Medio Ambiente respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por la Dirección de Desarrollo Urbano y Medio Ambiente facultada para ello.
+
+TERCERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+CUARTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Anuncios del Municipio de San Nicolás de los Garza, Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+QUINTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento de Protección al Medio Ambiente del Municipio de San Nicolás de los Garza, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+SÉPTIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+OCTAVO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la compra, venta o comercialización de metales en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la explotación de juegos electrónicos y futbolitos en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+DÉCIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
