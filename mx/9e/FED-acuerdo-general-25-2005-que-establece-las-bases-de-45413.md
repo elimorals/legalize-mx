@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2005-que-establece-las-bases-de-45413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-07-15"
-last_updated: "2005-07-15"
+last_updated: "2012-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-07-06"
 ---
 # ACUERDO GENERAL 25/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DEL COMITE DE PROTECCION CIVIL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ACUERDO GENERAL 25/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DEL COMITE DE PROTECCION CIVIL DEL CONSEJO DE LA JUDICATURA FEDERAL
+ACUERDO GENERAL 25/2005 QUE ESTABLECE LAS BASES DE OPERACIÓN Y FUNCIONAMIENTO DEL COMITE DE PROTECCIÓN CIVIL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 38/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE PROTECCIÓN CIVIL QUE DEBERÁN OBSERVARSE EN EL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de julio de 2005.
 
@@ -312,3 +314,17 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal de veintinueve de mayo de mil novecientos noventa y seis, relativo al Comité de Protección Civil del Consejo de la Judicatura Federal.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 25/2005 que Establece las Bases de Operación y Funcionamiento del Comité de Protección Civil del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de seis de julio de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a seis de julio de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el Portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- Las Unidades Internas de Protección Civil de cada uno de los inmuebles del Consejo de la Judicatura Federal, deberán quedar constituidas a más tardar treinta días hábiles después de la publicación del presente Acuerdo, debiendo notificar a la Dirección General de Protección Civil y Salud en el Trabajo de dicha constitución.
+
+CUARTO.- Se abrogan el Acuerdo General 30/2000 que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; así como el Acuerdo General 25/2005, que establece las bases de Operación y funcionamiento del Comité de Protección Civil del Consejo de la Judicatura Federal.
+
+QUINTO.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a este Acuerdo.
