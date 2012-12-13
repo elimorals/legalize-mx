@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2012-10-18"
+last_updated: "2012-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -2497,11 +2497,27 @@ La publicación de las leyes o decretos, se efectuará en el Periódico Oficial 
 
 La entrada en vigor de las leyes y decretos, iniciará a los cinco días hábiles de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo que en aquéllos se señalen otros plazos distintos.
 
-### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO VII. DE LA ELECCIÓN O RATIFICACIÓN DE SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 236 BIS.- Cuando el Congreso deba elegir o ratificar servidores públicos, conforme a la Constitución Política local o las leyes, deberá proceder conforme lo dispongan los cuerpos normativos citados; cuando no exista disposición específica o procedimientos particulares de elección, el Pleno, en ejercicio de su potestad soberana, deberá aprobar por mayoría absoluta de sus miembros, el o los procedimientos que deban llevarse a cabo señalando al efecto:
+
+I.- El cargo de cuya designación se trata;
+
+II.- La Comisión legislativa que deberá resolver;
+
+III.- El procedimiento a seguir;
+
+IV.- Los plazos que deban cumplirse; y
+
+V.- En caso de no existir la votación requerida, establecer la condición de esta mediante la cual el Pleno resolverá en definitiva.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD
 
-### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
+### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
 ###### Artículo 237.
 
@@ -2561,7 +2577,7 @@ Si en la causa penal apareciera la inocencia del inculpado, y aún tuviere tiemp
 
 La declaración de procedencia del Congreso, de ninguna manera prejuzga sobre los fundamentos de la imputación.
 
-### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
+### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
 
 ###### Artículo 250.
 
@@ -2679,9 +2695,7 @@ Ninguno de los procedimientos previstos en el presente título podrá efectuarse
 
 En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
-### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
 
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
@@ -2740,6 +2754,10 @@ Decretada la suspensión temporal o revocación del mandato de uno o más de los
 En relación con lo dispuesto en el artículo 55, fracción XXXIII, inciso b) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 282.
 
@@ -2920,3 +2938,27 @@ P.O. 18 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Durango y entrará en vigor el día 1 de marzo del año 2013.
 
 SEGUNDO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Conforme lo establece el artículo tercero transitorio del Decreto 318, expedido por la H. LXV Legislatura del Estado, publicado en el Periódico Oficial del Gobierno del Estado, se expiden las bases para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana del Estado de Durango
+
+BASES
+
+I. Por única vez y con el propósito de dar cumplimiento a lo dispuesto por el Artículo 25 de la Constitución Política del Estado Libre y Soberano de Durango y los artículos 109, 125, 131 bis, 131 bis 1, 131 bis 2 de la Ley Electoral para el Estado de Durango, así como el artículo tercero transitorio del Decreto 318, expedido por la H. LXV Legislatura Local, El Congreso del Estado, procede a iniciar el procedimiento para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana.
+
+II. El procedimiento para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana del Estado, será realizado por la Comisión de Gobernación del Congreso del Estado de Durango.
+
+III. La Mesa Directiva de la H. LXV Legislatura Local, por conducto del presidente, mediante el llamado que deberá hacerse público mediante los medios más eficaces, a partir de la aprobación del presente acuerdo, convocará a los Colegios de Profesionistas e Instituciones Públicas de Educación Superior a proponer candidatos.
+
+IV. Los Colegios de Profesionistas e Instituciones Públicas de Educación Superior, propondrán candidatos, por escrito a la Comisión de Gobernación del Congreso del Estado, acompañando los documentos que acrediten que se satisfacen los requisitos a los que alude el artículo 125 numeral 2 de la Ley Electoral para el Estado de Durango, dentro de las veinticuatro horas, siguientes a el llamado hecho por la Mesa Directiva.
+
+V. La Comisión, evaluará la documentación comprobatoria de los candidatos propuestos y valorará los requisitos de elegibilidad recabados y procederá a elaborar el dictamen respectivo proponiendo una terna al Pleno Legislativo para que, este por mayoría, conforme a la Ley Orgánica del Congreso del Estado, designe a la persona que ocupara el cargo de Contralor General del Instituto Electoral y de Participación Ciudadana del Estado durante el periodo comprendido del 1 de enero de 2013 al 31 de diciembre de 2018.
+
+VI. Se autoriza a la Comisión de Gobernación del Congreso del Estado, a habilitar días y horas inhábiles, aptas para desarrollar el procedimiento de elección al que se refiere el presente acuerdo, ello a efecto de que el dictamen respectivo sea puesto a consideración del Pleno Legislativo a mas tardar las veinticuatro horas del día catorce de diciembre de dos mil doce, posibilitando el proceso de elección.
+
+VII. Se faculta de manera expresa a la Comisión de Gobernación, a resolver los puntos no especificados en el presente acuerdo, sin más requisitos que debe fundar y motivar sus resoluciones que resuelvan tales puntos
+
+SEGUNDO.- El presente decreto surtirá sus efectos al momento de su aprobación, debiéndose mandar publicar en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
