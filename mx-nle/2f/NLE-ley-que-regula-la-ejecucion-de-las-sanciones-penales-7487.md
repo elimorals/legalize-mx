@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2011-06-17"
+last_updated: "2012-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
+LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -483,11 +483,11 @@ La libertad definitiva que se otorgue conforme a este capítulo, será comunicad
 
 Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente de las actividades educativas, artísticas, culturales, deportivas y de capacitación que se organicen en el establecimiento y revele por otros datos una efectiva reinserción social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena o de otros beneficios que contemple la Ley, los cuales no podrán fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del condenado.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 44.
 
-El tratamiento preliberacional señalado en las fracciones IV y V del Artículo 27 y la remisión parcial de la pena a que se contrae el Artículo anterior, no se aplicarán a los reincidentes ni habituales y tampoco en los casos de los Artículos 165 bis, 176, 266 primer párrafo, 267, 268, 269, 271, 318, 325, 357, 357 bis ó 395 del Código Penal vigente en el Estado, salvo que se trate de quienes colaboren con la autoridad en la investigación y persecución de los delitos tipificados en los Artículos 165 bis ó 176 del Código Penal para el Estado de Nuevo León.
+El tratamiento preliberacional señalado en las fracciones IV y V del Artículo 27 y la remisión parcial de la pena a que se contrae el Articulo anterior, no se aplicarán a los reincidentes ni habituales y tampoco en los casos de los artículos; 165 bis, 176, 266 primer párrafo, 267, 268, 269, 271, 318, 325, 357, 357 bis, 363 Bis, 395, 432, 434 ó 439 párrafo primero del Código Penal vigente en el Estado, salvo que se trate de quienes colaboren con la autoridad en la investigación y persecución de los delitos tipificados en los artículos 165 bis, 176, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -978,3 +978,7 @@ También serán aplicables las disposiciones anteriores a este Decreto en la eje
 Tercero.- Las disposiciones previstas en este Decreto solo serán aplicables en la ejecución de sentencias dictadas con motivo de hechos cometidos a partir de su entrada en vigor.
 
 Cuarto.- En la ejecución de sentencias dictadas con motivo de juicios en que se hayan acumulado delitos cometidos con anterioridad y posterioridad de la entrada en vigor de este Decreto, serán aplicables las disposiciones de este Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
