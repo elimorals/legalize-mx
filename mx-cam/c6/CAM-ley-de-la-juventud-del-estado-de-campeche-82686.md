@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2011-07-13"
+last_updated: "2012-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -105,6 +105,20 @@ Los jóvenes tienen derecho a un trabajo digno y bien remunerado que les permita
 
 Tratándose de jóvenes en edad de trabajar y en situación de desventaja social, el Instituto promoverá los mecanismos de colaboración y fomentará programas de protección para los jóvenes menores de edad que tengan necesidad de trabajar, en los términos de la Ley Federal del Trabajo y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+Los jóvenes tienen derecho a una educación integral y de calidad, con igualdad de oportunidades, acorde a su vocación profesional y sin que la capacidad económica o la ubicación geográfica de su vivienda limiten su preparación profesional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 4 Bis.
+
+Como coadyuvante en el fomento a la igualdad de oportunidades para los jóvenes estudiantes, el Instituto podrá signar convenios y acuerdos de colaboración necesarios que permitan la participación activa de los sectores social y privado que impulsen programas de becas y casas del estudiante.
+
 ###### Artículo 5.
 
 El Instituto deberá promover la creación y protección del empleo de la juventud bajo el principio de igualdad de oportunidades; consolidando su incorporación a la actividad económica mediante una ocupación específica y formal. Para ello celebrará convenios con empresas e industrias del sector público o privado a fin de implementar un programa permanente de bolsa de trabajo bajo una perspectiva que permita al joven trabajar sin necesidad de abandonar o suspender sus estudios.
@@ -119,7 +133,11 @@ l. Lograr que los jóvenes puedan adquirir conocimientos prácticos sin suspende
 
 II. Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado;
 
-III. Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+III. Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual, discapacidad o lengua; así como favorecer la integración al mundo laboral de jóvenes embarazadas o en etapa de lactancia, y de madres solteras dentro de la edad mencionada en esta ley.
 
 La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 14 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesas de capacitación y formación articulados con el proceso de educación formal;
 
@@ -249,7 +267,7 @@ II. Preservar su salud a través del autocuidado, prácticas de vida sana, ejecu
 
 III. Procurar el aprendizaje y practicar los valores más altos del ser humano, que contribuyan a darle su verdadera dimensión ética y moral como persona individual y como parte de una sociedad;
 
-IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico sino el afectivo; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y Ia planificación familiar;
+IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico sino el afectivo; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar;
 
 V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
 
@@ -753,4 +771,12 @@ C. Fernando Chan Chi, Diputado Presidente.- C. Rocío Adriana Abreu Artiñano, D
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
-Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, el primer día del mes de Julio del año dos mil once. EL GOBERNADOR CONSTlTUCIONAL DEL ESTADO, LIC. FERNANDO EUTlMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WlLLlAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, el primer día del mes de Julio del año dos mil once. EL GOBERNADOR CONSTlTUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
