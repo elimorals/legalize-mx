@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-seguridad-publica-60879
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2009-12-25"
+last_updated: "2012-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN LA G.O. DE 13 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 11 de abril de 2008.
 
@@ -603,7 +605,7 @@ XIX. Previo acuerdo del Secretario, firmar los contratos relacionados con los re
 
 XX. Expedir copias certificadas de los documentos que obran en los archivos y expedientes de la Dirección, a petición de particulares y autoridades competentes, cuando así proceda en los términos que la ley señale; y (sic)
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
 
 XXI. Fungir como enlace de la Secretaría ante órganos de fiscalización o auditoría, debiendo proporcionarles la información que requieran para el desempeño de sus funciones; y
 
@@ -710,3 +712,11 @@ Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 Tercero. La Secretaría de Finanzas y Planeación y la Secretaría de Seguridad Pública realizarán las adecuaciones y transferencias presupuestales necesarias para el cumplimiento del presente Decreto.
 
 Cuarto. La Secretaría de Seguridad Pública emitirá, en un plazo no mayor a 60 días, los Manuales de Organización y Procedimientos correspondientes.
+
+G.O. 13 DE DICIEMBRE DE 2012.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en la Gaceta Oficial del estado número extraordinario 117 el 11 de abril de 2008, así como sus reformas y adiciones posteriores.
+
+Tercero. Se derogan todas las demás disposiciones que se opongan al presente Reglamento.
