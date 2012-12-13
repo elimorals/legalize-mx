@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-agua-potable-y-alcantarillado-del-estado-de-campeche-340
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-21"
-last_updated: "1992-12-21"
+last_updated: "2012-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 1992.
 
@@ -231,11 +231,33 @@ I. Formar comités para la promoción de la construcción, conservación, manten
 
 II. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar servicio de agua potable y alcantarillado o administrar, operar, conservar o mantener la infraestructura hidráulica respectiva.
 
-### CAPITULO I. Organismos Operadores Municipales
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO III. Del Cuidado y Uso Racional del Agua
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 15 bis.- El Estado y los Municipios, en el ámbito de sus respectivas competencias, con el objeto de promover el cuidado y uso racional del agua, llevarán a cabo las siguientes acciones:
+
+l. Difundir mediante programas los costos y beneficios socioeconómicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua;
+
+II. Fomentar el uso racional del agua en todas sus formas y manifestaciones;
+
+IlI. Promover planes y programas coordinados con las entidades públicas y privadas vinculadas con el uso racional y cuidado del agua;
+
+IV. Fomentar el uso de tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras en el Estado que permitan cuidar y usar de manera racional el agua;
+
+V. Coadyuvar para generar una educación y cultura ambiental sobre el uso y cuidado racional del agua; y
+
+VI. Elaborar e implementar el Programa Estatal para una Nueva Cultura del Cuidado y Uso racional del Agua.
 
 ## TITULO SEGUNDO. ADMINISTRACION DESCENTRALIZADA DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO II. Organismos Operadores Intermunicipales
+### CAPITULO I. Organismos Operadores Municipales
 
 #### SECCION PRIMERA. Disposiciones Generales
 
@@ -409,7 +431,7 @@ VIII. Examinar y aprobar los estados financieros y los informes que deba present
 
 IX. Acordar la extensión de los servicios a otros municipios, previamente a los acuerdos o convenios respectivos en los términos de la presente ley, para que el organismo operador se convierta en intermunicipal;
 
-X. Designar al Director General de (sic) Organismo;
+X. Designar al Director General de Organismo;
 
 XI. Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la ley, así como, en su caso, efectuar los trámites de ley para la desincorporación de los bienes del dominio público que se quieran enajenar;
 
@@ -443,9 +465,33 @@ Los miembros del Consejo Consultivo designarán democráticamente de entre ellos
 
 El Presidente y el Vicepresidente, durarán un año en sus cargos, sin posibilidad de reelección inmediata.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 30.
 
-El Consejo Consultivo tendrá por objeto: hacer partícipe a los usuarios en la operación del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente, eficaz y económico; conocer las tarifas o cuotas y sus modificaciones haciendo las propuestas, observaciones y sugerencias del caso; evaluar los resultados del organismo; proponer mecanismos financieros o crediticios; coadyuvar para mejorar la situación financiera del organismo; y las demás que le señale el reglamento.
+El Consejo Consultivo tendrá por objeto:
+
+I. Hacer partícipe a los usuarios en la operación del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente, eficaz y económico;
+
+II. Conocer las tarifas o cuotas y sus modificaciones haciendo las propuestas, observaciones y sugerencias del caso;
+
+III. Evaluar los resultados del organismo;
+
+IV. Proponer mecanismos financieros o crediticios;
+
+V. Coadyuvar para mejorar la situación financiera del organismo;
+
+VI. Elaborar proyectos y estudios en materia de cuidado y uso racional del agua;
+
+VII. Proponer la implementación de programas y acciones destinados a la concientización entre la población respecto de una nueva cultura del cuidado y uso racional del agua;
+
+VIII. Emitir las opiniones que le sean solicitadas en la materia;
+
+IX. Elaborar, publicar y difundir material informativo sobre el cuidado y uso racional del agua; y
+
+X. Las demás que le señale el reglamento.
 
 ###### ARTICULO 31.
 
@@ -507,7 +553,7 @@ VII. Vigilar ilimitadamente en cualquier tiempo las operaciones del organismo op
 
 El comisario para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera, con cargo al organismo.
 
-### CAPITULO III. Comisión de Agua Potable y Alcantarillado del Estado de Campeche
+### CAPITULO II. Organismos Operadores Intermunicipales
 
 ###### ARTICULO 33.
 
@@ -565,7 +611,7 @@ El Comisario será designado por el Ejecutivo del Estado.
 
 Lo dispuesto en este Capítulo será independiente de que el Congreso del Estado resuelva lo conducente cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente Ley.
 
-### CAPITULO UNICO
+### CAPITULO III. Comisión de Agua Potable y Alcantarillado del Estado de Campeche
 
 ###### ARTICULO 40.
 
@@ -721,7 +767,7 @@ En lo no previsto en este capítulo, se aplicara en lo conducente, lo dispuesto 
 
 ## TITULO TERCERO. PARTICIPACION DEL SECTOR PRIVADO Y SOCIAL EN EL SERVICIO PUBLICO DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
-### CAPITULO I. Contratación de los Servicios y Conexión al Sistema
+### CAPITULO UNICO
 
 ###### ARTICULO 49.
 
@@ -819,7 +865,7 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 ## TITULO CUARTO. PRESTACION DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO II. Corresponsabilidad de los Usuarios
+### CAPITULO I. Contratación de los Servicios y Conexión al Sistema
 
 ###### ARTICULO 60.
 
@@ -927,7 +973,7 @@ Las personas que utilicen los servicios de agua potable y alcantarillado de mane
 
 Los predios, giros o establecimientos; la forma en que otras autoridades o terceros deberán informar o avisar al organismo operador de autorizaciones o actividades relacionadas con la presente ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar el ejercicio de las atribuciones de la autoridad, y en general las demás para proveer a la exacta observación de la presente ley, se precisarán en el Reglamento de la misma.
 
-### CAPITULO III. Cuotas y Tarifas
+### CAPITULO II. Corresponsabilidad de los Usuarios
 
 ###### ARTICULO 77.
 
@@ -971,7 +1017,7 @@ Las autoridades de los municipios del Estado serán las responsables de vigilar 
 
 En épocas de escasez de agua, comprobada o previsible, el organismo operador podrá acordar condiciones de restricción en las zonas y durante el lapso que estime necesario.
 
-### CAPITULO IV. Inspección, Verificación y Determinación Presuntiva del Pago de Servicios
+### CAPITULO III. Cuotas y Tarifas
 
 ###### ARTICULO 85.
 
@@ -1077,7 +1123,7 @@ El organismo operador resolverá la inconformidad en un término de cinco días 
 
 Los notarios públicos y jueces no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por servicios de agua potable, alcantarillado y tratamiento de aguas residuales, en su caso.
 
-### CAPITULO I. Infracciones y Sanciones
+### CAPITULO IV. Inspección, Verificación y Determinación Presuntiva del Pago de Servicios
 
 ###### ARTICULO 95.
 
@@ -1216,6 +1262,8 @@ El organismo operador municipal, intermunicipal o, en su defecto, la Comisión d
 Queda facultado el organismo operador municipal, intermunicipal o, en su defecto, la Comisión de Agua Potable y Alcantarillado del Estado de Campeche a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a lo dispuesto en la presente ley; o bien, en colaboración a las autoridades ecológicas competentes, cuando las descargas no cumplen con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+
+### CAPITULO I. Infracciones y Sanciones
 
 ###### ARTICULO 114.
 
@@ -1394,3 +1442,11 @@ Palacio Legislativo, Campeche, Cam., a 16 de diciembre de 1992.- Dip. José Anto
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado de Campeche, a los diecisiete días del mes de diciembre de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMÓN AZAR GARCIA.- EL SECRETARIO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto.
