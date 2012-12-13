@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2012-06-05"
+last_updated: "2012-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -171,6 +171,10 @@ CONSEJERO (S): Consejero(s) de la Judicatura del Distrito Federal.
 CONTRALORÍA: Contraloría del Tribunal Superior de Justicia del Distrito Federal.
 
 COORDINACIÓN ADMINISTRATIVA: Coordinación Administrativa del Consejo de la Judicatura del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
+DIRECCIÓN DE ENLACE ADMINISTRATIVO: Dirección de Enlace Administrativo de la Oficialía Mayor en el Consejo de la Judicatura del Distrito Federal.
 
 ÓRGANOS NO JURISDICCIONALES: Son las áreas administrativas y de apoyo judicial siguientes:
 
@@ -756,7 +760,9 @@ VIII. Designar al servidor público que asistirá en su representación, a diver
 
 IX. Requerir a los Consejeros, rindan un informe anual de actividades; el cual deberá presentarse por conducto de la Secretaría General, a más tardar el último día hábil del mes de noviembre de cada año;
 
-X. Solicitar a la Coordinación Administrativa, los recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Presidencia, de conformidad con la disponibilidad presupuestaria;
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
+X. Solicitar a la Oficialía Mayor para que por conducto de la Dirección de Enlace Administrativo, se provean los recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Presidencia, de conformidad con la disponibilidad presupuestaria;
 
 XI. Emitir voto particular en caso de desacuerdo con las resoluciones o determinaciones del Pleno del Consejo;
 
@@ -824,7 +830,9 @@ II. Designar al personal que integrará su Ponencia de conformidad con la estruc
 
 III. Delegar funciones entre el personal adscrito a la Ponencia, salvo aquellas que, por disposición legal, deba realizar personalmente;
 
-IV. Solicitar a la Coordinación Administrativa, los recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Ponencia a su cargo, de conformidad con la disponibilidad presupuestaria;
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
+IV. Solicitar a la Oficialía Mayor para que por conducto de la Dirección de Enlace Administrativo, se provean los recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Ponencia a su cargo, de conformidad con la disponibilidad presupuestaria;
 
 V. Integrar y formar parte de los Comités y Comisiones que correspondan, de conformidad con la normatividad aplicable;
 
@@ -976,15 +984,21 @@ IV. Gozar de buena reputación; y
 
 V. No estar inhabilitado por resolución judicial o administrativa.
 
-### CAPÍTULO IX. DE LA COORDINACIÓN ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ENLACE ADMINISTRATIVO
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 69.
 
-La Coordinación Administrativa es el área auxiliar del Consejo encargada de administrar los recursos humanos, materiales y financieros, sí como proporcionar los servicios que se requiera del propio Órgano Colegiado.
+La Dirección de Enlace Administrativo es el área auxiliar de la Oficialía Mayor, que bajo sus directrices se encarga de administrar los recursos humanos, materiales, financieros y proporcionar los bienes y servicios que requiera el Consejo.
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 70.
 
-Para ser Coordinador Administrativo del Consejo, se requiere:
+Para ser Director de Enlace Administrativo, se requiere:
 
 a. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -998,31 +1012,33 @@ e. Gozar de buena reputación; y
 
 f. No estar inhabilitado por resolución judicial o administrativa.
 
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 71.
 
-Corresponden al titular de la Coordinación Administrativa las siguientes obligaciones:
+Corresponde al titular de la Dirección de Enlace Administrativo las siguientes obligaciones:
 
-I. Coordinar las funciones administrativas relacionadas con la planeación, programación, organización, dirección, control y manejo de recursos humanos, financieros, materiales, de informática y de toda índole, que tengan por objeto proporcionar los servicios necesarios para el óptimo funcionamiento del Consejo, conforme al presupuesto autorizado y a los lineamientos fijados por el Pleno;
+I. Coordinar las funciones administrativas bajo la dirección de la Oficialía Mayor a través de las áreas de apoyo administrativo que la componen, relacionadas con la planeación, programación, organización, dirección, control y manejo de recursos humanos, financieros, materiales, tecnológicos y de toda índole, que tengan por objeto proporcionar los bienes y servicios necesarios para el óptimo funcionamiento del Consejo, conforme al presupuesto autorizado y a los lineamientos fijados por el Pleno;
 
-II. Vigilar la correcta aplicación de los criterios de economía, austeridad y disciplina que regirán para la elaboración, control y ejercicio anual del presupuesto de egresos autorizad por la Asamblea;
+II. Vigilar la correcta aplicación de los criterios de economía, austeridad y disciplina que regirán para la elaboración, control y ejercicio anual del presupuesto de egresos autorizado por la Asamblea;
 
-III. Plantear al Pleno, la necesidad de elaborar, modificar y actualizar acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de la Coordinación Administrativa, que permitan eficientar y regular la administración de los recursos humanos, materiales y financieros;
+III. Proponer a la Oficialía Mayor para su presentación al Pleno, la elaboración, modificación y actualización de acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de la Dirección de Enlace Administrativo, que permitan eficientar y regular la administración de los recursos humanos, materiales y financieros;
 
-IV. Apoyar y atender a los titulares de las diferentes áreas del Consejo, en la satisfacción de sus necesidades de servicio, recursos humanos y materiales para su adecuado funcionamiento, siempre que exista disponibilidad presupuestal para tal efecto, y en el caso que se requiera, mediar Acuerdo;
+IV. Apoyar y dar atención a los requerimientos de bienes y servicios de los titulares de las diferentes áreas del Consejo, para su adecuado funcionamiento, siempre que exista disponibilidad presupuestal para tal efecto, y en el caso que se requiera, mediar Acuerdo;
 
 V. Administrar los bienes muebles e inmuebles del Consejo;
 
 VI. Cumplimentar, en el ámbito de su competencia, los acuerdos que emita el Pleno, las diferentes comisiones y comités;
 
-VII. Gestionar ante terceros los pagos de prestaciones, seguros e impuestos retenidos a los servidores públicos, así como vigilar el cumplimiento de las disposiciones fiscales y sus modificaciones;
+VII. Coadyuvar en coordinación con la Oficialía Mayor, en la gestión ante terceros los pagos de prestaciones, seguros e impuestos retenidos a los servidores públicos, así como vigilar el cumplimiento de las disposiciones fiscales y sus modificaciones;
 
-VIII. Presentar el último día hábil del mes de enero el Programa Interno de Trabajo y el informe anual de las actividades desarrolladas del año inmediato anterior, para el cumplimiento del citado programa; y
+VIII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
-IX. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 72.
 
-El Coordinador Administrativo propondrá a la Comisión de Administración y Presupuesto al personal de estructura, enlace y técnico operativo indispensables para el logro de su cometido, para que por su conducto sea presentado al Pleno.
+El titular de la Oficialía Mayor propondrá a la Comisión de Administración y Presupuesto al personal de estructura, enlace y técnico operativo indispensables para el logro de su cometido, para que por su conducto sea presentado al Pleno.
 
 ## TÍTULO TERCERO. FUNCIONES DE ADMINISTRACIÓN, VIGILANCIA, DISCIPLINA Y CARRERA JUDICIAL
 
@@ -1044,17 +1060,21 @@ La función administrativa, se desempeñará a través de la Comisión de Admini
 
 Dicha Comisión ejercerá la función de vigilar la administración de los recursos humanos, materiales y financieros del Tribunal y del Consejo, que operarán los órganos competentes, con apego al presupuesto de egresos autorizado por la Asamblea Legislativa y la normatividad en la materia, conforme a los principios establecidos en la Ley Orgánica y en este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
 
-La Comisión de Administración y Presupuesto, tendrá las obligaciones y facultades siguientes:
+La Comisión de Administración y Presupuesto tendrá las obligaciones y facultades siguientes:
 
 I. Recibir trimestralmente el avance obtenido de los Programas Anuales de Adquisiciones, Arrendamientos y Prestación de Servicios, Obra Pública; Enajenación de Bienes Muebles, y los que determinen los Acuerdos Generales que se emitan respecto a la administración y manejo de recursos, e informar al Pleno cuando así lo determine la Comisión de Administración y Presupuesto;
 
 II. Vigilar que se lleven a cabo las medidas necesarias para el mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Tribunal y del Consejo, conforme a los planes y programas previamente autorizados por el Pleno del Consejo;
 
-III. Dictaminar, dentro del ámbito de su competencia, sobre las propuestas de nombramientos, ascensos, promociones, presentadas por la Oficialía Mayor y la Coordinación Administrativa, de servidores públicos judiciales, de base y de confianza, cuya designación no esté reservada al Pleno del Consejo o a otra autoridad judicial, y conocer y resolver cuestiones de controversias en materia de recursos humanos extraordinarias;
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 2012)</small>
+
+III. Dictaminar las propuestas correspondientes a niveles de Dirección, Subdirección y homólogos, remitiéndolas al Pleno del Consejo para su análisis y aprobación en su caso, así como autorizar las propuestas para ocupar puestos comprendidos entre los niveles O25 a 021 para el Tribunal, así como 25 a 21 para el Consejo, mismas que se remitirán al Oficial Mayor para la realización de los trámites administrativos y la expedición del nombramiento correspondiente y conocer y resolver respecto de las controversias extraordinarias que surjan en materia de recursos humanos, así como aquellas que en forma específica le sean instruidas por el Pleno del Consejo, observando en lo no previsto la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Federal del Trabajo, el presente Reglamento Interior, las Condiciones Generales de Trabajo del Tribunal Superior de Justicia del Distrito Federal y los principios generales de derecho.
+
+La Oficialía Mayor remitirá un informe trimestral a la Secretaría Técnica de la Comisión de Administración y Presupuesto, dentro de los quince días hábiles siguientes a la conclusión del trimestre inmediato anterior, autorizado por el titular de la Dirección Ejecutiva de Recursos Humanos que contenga los movimientos de personal correspondientes a las áreas de apoyo judicial y administrativas del Tribunal, así como de las áreas que integran el Consejo, efectuados en ejercicio de la facultad que le delega el artículo 10, fracción XII, tercer párrafo, de este reglamento, utilizando para ello el formato autorizado por el Pleno del Consejo, que contendrá los antecedentes del movimiento de personal y la validación de los documentos con que se haya acreditado la idoneidad del aspirante o servidor público para la ocupación del cargo o puesto de que se trate, bajo la responsabilidad de la citada Dirección Ejecutiva, incluyendo la fecha en que los mismos hayan sido comunicados a los Titulares de las áreas así como a los servidores públicos correspondientes.
 
 IV. Presentar al Pleno del Consejo, conforme a los ordenamientos jurídicos aplicables, el otorgamiento de estímulos y recompensas del personal del Tribunal y del Consejo;
 
@@ -1080,13 +1100,13 @@ El Secretario Técnico de la Comisión de Administración y Presupuesto deberá 
 
 #### SECCIÓN ÚNICA. DE LAS LICENCIAS
 
-> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 78.
 
 Toda licencia deberá solicitarse por escrito y dirigida al Presidente, expresando las razones que la motiven y en su caso, los documentos que la justifiquen, con quince días hábiles de anticipación a la fecha en que se solicite.
 
-Las solicitudes de licencias se entregarán en la Dirección Ejecutiva de Recursos Humanos del H. Tribunal o en la Coordinación Administrativa del Consejo, según sea el caso y éstas mediante dictamen específico, las remitirán, ya sea a la Secretaría General, en los casos previstos por el artículo 202, fracción IX de la Ley Orgánica, o a la Secretaría Técnica de la Comisión de Administración y Presupuesto, en los casos a que se refieren los artículos 201, fracción XVII, de la misma Ley, así como los artículos 87, 88 y 90, del Reglamento de Condiciones Generales de Trabajo para los Empleados del Tribunal Superior de Justicia del Distrito Federal, y los artículos 81 y 82 bis del presente reglamento, para su respectiva resolución.
+Las solicitudes de licencias se entregarán en la Dirección Ejecutiva de Recursos Humanos del H. Tribunal o en la Dirección de Enlace Administrativo de la Oficialía Mayor en el Consejo de la Judicatura del Distrito Federal, según sea el caso y éstas mediante dictamen específico, las remitirán, ya sea a la Secretaria General, en los casos previstos por el artículo 202, fracción IX de la Ley Orgánica, o a la Secretaria Técnica de la Comisión de Administración y Presupuesto, en los casos a que se refieren los artículos 201, fracción XVII, de la misma Ley, así como los artículos 87, 88 y 90 del Reglamento de Condiciones Generales de Trabajo para los empleados del Tribunal Superior de Justicia del Distrito Federal, y los artículos 81 y 82 bis del presente reglamento, para su respectiva resolución.
 
 ###### Artículo 79.
 
@@ -1963,3 +1983,7 @@ SEGUNDO.- En relación a los procedimientos de queja y procedimientos de oficio 
 TERCERO.- Publíquese en el Boletín Judicial del Distrito Federal y para mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 CUARTO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal".
+
+G.O. 13 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y en la Gaceta Oficial del Distrito Federal, quedando sin efectos las disposiciones anteriores que fueron sujetas a modificación.
