@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-despacho-del-gobernador-y-de-la-89696"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-09"
-last_updated: "2012-10-09"
+last_updated: "2012-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL DESPACHO DEL GOBERNADOR Y DE LA UNIDAD DE DEPENDENCIAS AUXILIARES, DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 9 de octubre de 2012.
 
@@ -112,7 +112,9 @@ II. Secretaría Privada;
 
 III. Coordinación General de Asesores;
 
-IV. Coordinación General de Concertación Social; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+IV. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2012); y
 
 V. Dirección General de Comunicación Social.
 
@@ -300,41 +302,17 @@ V. Analizar y proponer proyectos de desincorporación de bienes del Gobierno del
 
 VI. Las demás que por delegación o disposición legal se le asignen.
 
-#### Sección Quinta. De la Coordinación General de Concertación Social
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA SECCIÓN QUINTA, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+#### Sección Quinta
+
+> <small>(DEROGADA, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 15.
 
-La Coordinación General de Concertación Social tendrá las siguientes atribuciones:
-
-I. Propiciar la concertación social a través de espacios de vinculación ciudadana;
-
-II. Dar seguimiento a los espacios de vinculación ciudadana y a los acuerdos de concertación social así como promover la instalación de consejos ciudadanos;
-
-III. Brindar asesoría técnica a los actores sociales y gubernamentales, para la definición de los compromisos que apoyen el desarrollo del Estado;
-
-IV. Coordinar, valorar, agendar y llevar a cabo, con las demás dependencias del Gobierno del Estado involucradas, las propuestas y los compromisos acordados en los espacios de vinculación ciudadana;
-
-V. Promover, formular y coordinar, con las demás dependencias del Gobierno del Estado, los mecanismos y estrategias de participación ciudadana que promuevan el desarrollo del Estado;
-
-VI. Proponer criterios y lineamientos para una adecuada coordinación entre el sector público y la sociedad, respecto de las estrategias de participación ciudadana y de capacitación y desarrollo de líderes, con base en las políticas que determine el Gobernador;
-
-VII. Promover y coordinar las actividades en materia de formación, capacitación, desarrollo y participación de los liderazgos sociales estatales, regionales y municipales en el marco de la planeación para el desarrollo del Estado;
-
-VIII. Coadyuvar con las demás dependencias del Gobierno del Estado en la formulación de estrategias de capacitación y desarrollo de líderes;
-
-IX. Diseñar e implementar un sistema de seguimiento, control y evaluación con la finalidad de elaborar reportes sobre el cumplimiento de las propuestas, acuerdos y compromisos derivados de los espacios de vinculación ciudadana, de las alianzas con otras instancias, así como de las actividades de coordinación de la participación ciudadana, la capacitación y desarrollo de líderes;
-
-X. Participar en los comités, consejos y demás órganos de coordinación de la administración pública estatal vinculados a la promoción del desarrollo;
-
-XI. Desarrollar y aplicar métodos o técnicas de medición entre los jaliscienses que permitan observar el desempeño del Gobierno, así como la percepción de los ciudadanos sobre la participación ciudadana en el Estado de Jalisco, como herramienta de vinculación;
-
-XII. Promover el desarrollo de estrategias y acciones necesarias para que las dependencias del gobierno del Estado, así como los organismos públicos descentralizados y los gobiernos municipales ciudadanicen su presupuesto, involucrando a los ciudadanos en la definición de los presupuestos asignados a su institución;
-
-XIII. Impulsar a las dependencias del gobierno del Estado, gobiernos municipales y organismos públicos descentralizados, para que incluyan en sus planes operativos anuales las propuestas surgidas de los espacios de vinculación ciudadana;
-
-XIV. Promover alianzas con otras instancias donde se proponga la participación ciudadana en la toma de decisiones, para la definición de compromisos que apoyen el desarrollo del Estado; y
-
-XV. Las demás que por delegación o disposición legal se le asignen.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2012)
 
 #### Sección Sexta. De la Dirección General de Comunicación Social
 
@@ -415,3 +393,13 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1° de enero de 2013, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se instruye a las Secretarías de Finanzas y de Administración para que lleven a cabo las acciones necesarias para que los recursos humanos, materiales y financieros de la Coordinación General de Concertación Social, se trasfieran a la Secretaría de Planeación y a la Unidad de Dependencias Auxiliares, de conformidad con las disposiciones legales aplicables.
+
+TERCERO. Se autoriza la modificación de los manuales administrativos que se vean afectados por la entrada en vigor del presente Acuerdo, de conformidad con el artículo 6 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
