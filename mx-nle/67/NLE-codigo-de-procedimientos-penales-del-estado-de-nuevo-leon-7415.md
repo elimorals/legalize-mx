@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2012-06-15"
+last_updated: "2012-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJARÁ DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, QUEDANDO ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1863,19 +1863,19 @@ Toda persona física o moral en cuyo poder se hallen objetos o documentos que pu
 
 La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
-Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para la localización y aprehensión del inculpado.
+Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 Bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficazmente para la localización y aprehensión del inculpado.
 
 El reglamento respectivo, establecerá los términos, montos y condiciones de la recompensa de que se trate.
 
 Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 182 Bis 7.
 
-La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 Bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 395, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria indicada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
 
@@ -2639,11 +2639,11 @@ Antes de resolver sobre la objeción planteada por una de las partes, el Juez es
 
 El valor probatorio del testimonio se calificará en la sentencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 275 Bis.
 
-Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
+Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -2657,11 +2657,11 @@ En estas diligencias y durante el proceso, la identidad del testigo se asentará
 
 En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 275 Bis 1.
 
-. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León.
+. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
 
 (ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
@@ -5872,3 +5872,7 @@ P.O. 15 DE JUNIO DE 2012.
 Primero.- Las reformas al Artículo 287 Bis 2, del Artículo Segundo del presente Decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 287 Bis 3 señalados en el Artículo Segundo del presente Decreto; así como las demás disposiciones de los Artículos Primero, Segundo y Tercero del presente Decreto, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, que establece, las atribuciones de las autoridades jurisdiccionales en la materia.
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
