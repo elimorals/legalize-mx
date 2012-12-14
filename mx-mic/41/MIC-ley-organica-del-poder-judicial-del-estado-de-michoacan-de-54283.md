@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2011-12-28"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -921,7 +921,9 @@ I. Conducir la administración, vigilancia y disciplina del Poder Judicial;
 
 II. Conocer de los impedimentos de los consejeros en los casos que establece esta Ley;
 
-III. Determinar y adoptar todas aquellas medidas que estime convenientes para la buena marcha de la administración de justicia;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+III. Determinar y adoptar todas aquellas medidas que estime convenientes para la buena marcha de la administración de justicia, incluyendo la incorporación de lineamientos de mejora regulatoria en el ejercicio de sus atribuciones en base a principios de eficacia, eficiencia y transparencia;
 
 IV. Integrar las comisiones permanentes o transitorias que estime convenientes para su adecuado funcionamiento, y designar a los Consejeros que deban integrarlas;
 
@@ -1942,3 +1944,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
