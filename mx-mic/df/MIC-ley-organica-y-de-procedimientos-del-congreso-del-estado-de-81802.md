@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2012-11-16"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1039,7 +1039,13 @@ V. Las normas que se refieran a las actividades que lleven a cabo las universida
 
 VI. Las políticas, planes y programas para el fortalecimiento de la Educación, incluyendo la infraestructura, en todos sus niveles; y,
 
-VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión; y,
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+VIII. Emitir convocatoria pública para el otorgamiento de la Medalla Michoacán al Mérito Docente.
 
 ###### ARTÍCULO 77.
 
@@ -1644,6 +1650,10 @@ VII. La Coordinación de Transparencia y Acceso a la Información Pública;
 VIII. La Coordinación de Editorial, Biblioteca y Archivo; y,
 
 IX. El Instituto de Investigaciones y Estudios Legislativos.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+El Congreso, así como sus órganos técnicos y administrativos, en el ejercicio de sus atribuciones, incorporarán lineamientos de mejora regulatoria en base a principios de eficacia, eficiencia y transparencia.
 
 ###### ARTÍCULO 106.
 
@@ -3338,3 +3348,19 @@ DECRETO NÚMERO 20, POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DE LA
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación, conforme a lo previsto en el artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+DECRETO No. 25, POR EL QUE SE ADICIONA LA FRACCIÓN VIII AL ARTICULO 76, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado emitirá el Reglamento de la Medalla Michoacán al Mérito Docente dentro de los sesenta días siguientes al de la publicación del presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+DECRETO No. 26, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 105 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
