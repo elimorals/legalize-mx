@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-electoral-profesional-del-instituto-66481
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-01-22"
-last_updated: "2010-06-30"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PRIMERO DEL ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL, PUBLICADO EN LA G.G. DE 14 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Estatuto publicado en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el jueves 22 de enero de 2009.
 
@@ -1376,3 +1378,13 @@ G.G. 30 DE JUNIO DE 2010.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página web del Instituto Electoral del Estado de México.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México.
+
+G.G. 14 DE DICIEMBRE DE 2012.
+
+ACUERDO PRIMERO.- Se abroga el Estatuto del Servicio Electoral Profesional del Instituto Electoral del Estado de México, expedido a través del Acuerdo IEEM/CG/05/2009, de fecha diecinueve de enero de dos mil nueve.
+
+## Transitorios
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Los procedimientos y evaluaciones relacionados con miembros del Servicio Electoral Profesional, tanto de los órganos centrales como de órganos desconcentrados, correspondientes a los periodos de 2011 y 2012, se regirán por las disposiciones del Estatuto vigente en la época de su inicio.
