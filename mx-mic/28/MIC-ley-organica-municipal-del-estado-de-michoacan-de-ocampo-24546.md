@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2012-01-13"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -710,6 +710,10 @@ XX bis. Autorizar y establecer, a partir de la propuesta que las áreas técnica
 XXI. Resolver previo concurso, en los términos convenientes para la comunidad y de conformidad con las disposiciones aplicables, los casos de concesión de servicios públicos de su competencia; y,
 
 XXII. Establecer en las disposiciones reglamentarias correspondientes, las sanciones, multas o infracciones que procedan por la violación o incumplimiento de las disposiciones municipales.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Implementar la mejora regulatoria en sus procesos administrativos regulándolos de conformidad con las prácticas reconocidas en la materia.
 
 c).- En materia de Hacienda Pública:
 
@@ -2810,3 +2814,9 @@ Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el 
 ###### ARTÍCULO SEGUNDO.
 
 Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
