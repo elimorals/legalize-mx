@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2012-02-01"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -383,11 +383,23 @@ Asimismo, se aplicará por los delitos instantáneos cometidos fuera del Estado 
 
 Se considerarán como ejecutados en el territorio de Morelos los delitos cometidos a bordo de aeronaves nacionales o extranjeras que se encuentren dentro de dicho territorio.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Son aplicables en lo conducente, las disposiciones de este Código, por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el artículo 474 y demás disposiciones aplicables del Capítulo VII del Título Décimo Octavo de la Ley General de Salud.
+
 ### CAPITULO II. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
 ###### ARTICULO 9.
 
 Cuando se cometa un delito no previsto en este Código, sino en una ley local especial, se aplicarán esta última y las disposiciones del presente Código, en lo procedente.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Cuando se realicen conductas típicas contempladas en leyes del ámbito federal, pero que por disposición de las mismas competa conocer y resolver a las autoridades del Estado, serán esas las que se apliquen, observándose, en su caso, las disposiciones generales del Libro Primero de este Código en lo no previsto por aquéllas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Son aplicables, en lo conducente, las disposiciones del Libro Primero de este Código en los términos de los párrafos que anteceden, por delitos contra la salud en su modalidad de narcomenudeo a que se refiere el artículo 474 y demás disposiciones aplicables del Capítulo VII del Título Décimo Octavo de la Ley General de Salud.
 
 ###### ARTICULO 10.
 
@@ -665,9 +677,9 @@ Las sanciones para imputables e inimputables surtirán sus efectos desde el mome
 
 ###### ARTICULO 29.
 
-La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal. Su duración será de tres meses a ochenta años.
+La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal.
 
-Sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión.
+Su duración será de tres meses a ochenta años. Sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
 
@@ -854,6 +866,10 @@ El Ministerio Público o la autoridad judicial podrán decretar el destino final
 ###### ARTICULO 46.
 
 Cuando se deba devolver un bien o entregar el producto de su venta, la autoridad deducirá los gastos ocasionados por la conservación y la venta, acreditando detalladamente su necesidad y cuantía, salvo cuando se trate de bienes de uso lícito pertenecientes a un tercero que no hubiese participado en la comisión del delito.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 46 BIS.- Las disposiciones contenidas en este capítulo, solamente serán aplicables en el caso de que no contravengan disposiciones o leyes especiales en materia federal.
 
 ### CAPITULO XI. AMONESTACION
 
@@ -1173,7 +1189,9 @@ Para que proceda la sustitución de la sanción privativa de libertad, es necesa
 
 I. Que se acredite la conveniencia de la sustitución, tomando en cuenta los requerimientos de la justicia y las necesidades de la reinserción social en el caso concreto;
 
-II. Que sea la primera vez que delinque el sujeto y haya observado buena conducta positiva antes y después de la comisión del delito. Cuando el juez considere pertinente conceder la suspensión o la sustitución a un reincidente o a quien no haya observado la conducta requerida por la primera parte de esta fracción, lo resolverá así, exponiendo detalladamente las razones que sustentan su determinación. La sentencia deberá ser confirmada, en su caso, por el Tribunal Superior de Justicia, al que se remitirá de oficio para la resolución definitiva que corresponda;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+II. Que sea la primera vez que delinque el sujeto y haya observado buena conducta positiva antes y después de la comisión del delito. Cuando el juez considere pertinente conceder la suspensión o la sustitución a un reincidente o a quien no haya observado la conducta requerida por la primera parte de esta fracción, lo resolverá así, exponiendo detalladamente las razones que sustentan su determinación; la sentencia deberá ser confirmada en su caso, por el Tribunal Superior de Justicia, al que se remitirá de oficio para la resolución definitiva que corresponda. No se considerará que el sujeto ha inobservado la conducta a que se refiere la primera parte de esta fracción, el hecho de que se le haya considerado farmacodependiente. Pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora en términos de lo dispuesto por la Ley General de Salud y demás disposiciones aplicables;
 
 III. Que se reparen los daños y perjuicios causados al ofendido o a sus derechohabientes, o se dé garantía suficiente de repararlos. Esta garantía, patrimonial o de otra naturaleza, será valorada por el juzgador en forma que se asegure razonablemente la satisfacción del ofendido y el acceso del infractor a la sustitución o suspensión;
 
@@ -1851,6 +1869,8 @@ Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentar�
 
 ### CAPITULO VII. TRATA DE PERSONAS
 
+(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 148 Bis.
@@ -1888,6 +1908,8 @@ El careo entre el presunto agresor y la víctima de trata menor de dieciocho añ
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
 El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+
+(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
@@ -4496,3 +4518,11 @@ P.O. 1 DE FEBRERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- En un plazo de seis meses contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el Registro de Deudores Alimentarios Morosos del Estado de Morelos.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- La Procuraduría General de Justicia del Estado, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la especialización y funcionamiento de Agencias del Ministerio Público especializados en materia de narcomenudeo que sean competencia del fuero común acorde a lo establecido en el Capítulo VII de la Ley General de Salud, y de conformidad al presupuesto asignado.
