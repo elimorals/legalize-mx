@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2012-08-15"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -433,17 +433,25 @@ En caso de declararse procedente la excusa, se llamará de inmediato al suplente
 
 Los miembros de los Ayuntamientos sólo podrán excusarse de asumir el cargo o solicitar licencias temporales, determinadas y definitivas por causas graves y justificadas que serán resueltas y calificadas por el Cabildo.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-Los Ayuntamientos se instalarán legalmente, bajo la siguiente solemnidad:
+Dos días antes del día uno de enero, los miembros del Ayuntamiento electo que deban tomar posesión del cargo, serán convocados a sesión pública y solemne de Cabildo del Ayuntamiento saliente, con el fin de rendir protesta Constitucional correspondiente.
 
-El día uno de enero del año siguiente al de su elección, el Ayuntamiento electo celebrará sesión pública y solemne de Cabildo, en la que previa comprobación de que existe quórum legal y con la presencia del Ayuntamiento saliente, el Presidente Municipal rendirá la protesta de Ley en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio…me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden,"
+Verificada la asistencia de los miembros del Ayuntamiento electo, el Presidente Municipal en funciones concederá el uso de la palabra al Presidente Municipal Electo, quien rendirá la protesta de Ley en los términos siguientes:
 
-Concluida su protesta, el Presidente Municipal tomará la protesta a los demás miembros del Ayuntamiento, empleando la siguiente fórmula: "Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido".
+“Protesto guardar y hacer guardar la Constitución Política de los Estado Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden.”
 
-El Síndico y los Regidores, de pie y levantando la mano contestarán: "Sí, protesto". Acto continuo, el Presidente Municipal dirá: "Si no lo hiciereis así, que la Nación, el Estado y este Municipio os lo demanden." Enseguida el Presidente Municipal, ya en funciones, hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante el periodo…" Hecha la declaratoria anterior, el Presidente Municipal hará uso de la palabra con el propósito de dar a conocer las líneas de trabajo que pretenda desarrollar el Ayuntamiento en el período de su gestión. A continuación hará uso de la palabra un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento con el propósito de fijar su posición en un tiempo no mayor de diez minutos.
+Concluida su protesta, el Presidente Municipal Electo tomará la protesta a los demás miembros del Ayuntamiento Electo, empleando la siguiente fórmula: “Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido”.
+
+El Síndico y los Regidores de pie y levantando la mano contestarán: “Si, protesto”. Acto continuo, el Presidente Municipal dirá: “Si no lo hiciereis así, que la Nación, el Estado y este Municipio os lo demanden.”
+
+Rendida la protesta, el Presidente Municipal hará uso de la palabra con el propósito de dar a conocer las líneas de trabajo que pretenda desarrollar el Ayuntamiento en el período de su gestión. A continuación hará uso de la palabra un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento con el propósito de fijar su posición en un tiempo no mayor de diez minutos.
+
+Los miembros del Ayuntamiento que no asistan a esta sesión, deberán rendir la protesta Constitucional correspondiente, previamente a la asunción de su cargo, en la primera sesión de Cabildo a la que sean convocados, aplicándose en lo conducente lo dispuesto por el artículo 22 de la Ley.
+
+A esta sesión podrán asistir, como testigos del acto, los representantes de los Poderes Públicos Estatales, quienes tendrán, en su caso, la intervención que el Cabildo en funciones determine.
 
 ###### Artículo 22.
 
@@ -457,11 +465,33 @@ En el caso de que uno o más miembros del Ayuntamiento, hubieren sido sustituido
 
 ###### Artículo 23.
 
-Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como quedó integrado a los Poderes Públicos del Estado.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 24.
 
-Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de Cabildo, en la que se plantearán y resolverán los siguientes asuntos:
+El día uno de enero del año siguiente a su elección, el Ayuntamiento, a convocatoria del Presidente Municipal, celebrará su Primera Sesión de Cabildo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Una vez verificado el quórum legal, y rendida la protesta por parte de los miembros del Cabildo que no lo hubieren hecho en la sesión a que se refiere el artículo 21 de esta Ley, el Presidente Municipal emitirá la siguiente declaratoria:
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+“Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...”.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como quedó integrado a los Poderes Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté ausente, actuará con tal carácter él Regidor que nombre el propio Ayuntamiento al inicio de la sesión de Cabildo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que incluirá la atención de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -1871,7 +1901,7 @@ VII. Promover la participación y colaboración de los habitantes y vecinos en t
 
 VIII. Colaborar en el mejoramiento y supervisión de los servicios públicos municipales;
 
-IX. Establecer y desarrollar un programa permanente y periódico de información, tanto hacia el Ayuntamiento como hacia la comunidad, sobre el avance de impacto e programas, y la participación del consejo; y
+IX. Establecer y desarrollar un programa permanente y periódico de información, tanto hacia el Ayuntamiento como hacia la comunidad, sobre el avance e impacto de programas, y la participación del consejo; y
 
 X. Las demás que señalen los Reglamentos.
 
@@ -2719,9 +2749,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
 
 ###### Artículo 191.
 
@@ -2968,6 +2998,20 @@ DECRETO No. 2151, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 121 DE
 PRIMERO.- El presente decreto entrará en vigor el 01 de enero del 2013.
 
 SEGUNDO.- Remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
