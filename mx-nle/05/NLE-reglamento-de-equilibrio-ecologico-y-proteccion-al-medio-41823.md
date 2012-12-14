@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-equilibrio-ecologico-y-proteccion-al-medio-41823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-10"
-last_updated: "1992-02-10"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE EQUILIBRIO ECOLOGICO Y PROTECCION AL MEDIO AMBIENTE DEL MUNICIPIO DE CIUDAD BENITO JUAREZ, NUEVO LEON
 
-REGLAMENTO DE EQUILIBRIO ECOLOGICO Y PROTECCION AL MEDIO AMBIENTE DEL MUNICIPIO DE CIUDAD BENITO JUAREZ, NUEVO LEON
+REGLAMENTO DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE DEL MUNICIPIO DE CIUDAD BENITO JUÁREZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. 14 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 10 de febrero de 1992.
 
@@ -530,3 +532,13 @@ Cuando la denuncia fuera de competencia Federal ó Estatal, la autoridad Municip
 La autoridad Municipal convocará permanentemente a la Ciudadanía a fin de denuncia (sic) hechos, actos u omisiones que produzcan o puedan producir un daño al ambiente y al equilibrio ecológico, a su vez llevará un registro de todas las denuncias hechas por la población en general.
 
 LA DISPOSICIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO PUBLICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN VIGENTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal de Juárez Nuevo León.
+
+SEGUNDO: Se abroga en su totalidad el Reglamento Municipal del Equilibrio Ecológico y Protección al Ambiente de Juárez, Nuevo León, aprobado en sesión de cabildo de fecha 4-cuatro de Febrero de 1992.
+
+TERCERO: Gírense las instrucciones al ciudadano Presidente Municipal y al ciudadano Secretario del R. Ayuntamiento, para su publicación en el Periódico Oficial del Estado y se le dé el debido cumplimiento, dado en el despacho del C. Presidente Municipal de Juárez, Nuevo León, a los 29-veintinueve días del mes de Noviembre del 2012 dos mil doce.
