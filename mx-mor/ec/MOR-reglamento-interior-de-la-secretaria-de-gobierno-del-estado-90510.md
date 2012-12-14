@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2012-12-05"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 14 DE DICIEMBRE DE 2012 Y 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE DICIEMBRE DE 2012.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -64,8 +64,6 @@ VI. Secretario.- La persona titular de la Secretaría de Gobierno;
 VII. Subsecretario.- La persona titular de una de las Subsecretarías señaladas en el artículo 3 del presente Reglamento, y
 
 VIII. Titular del Ejecutivo.- La persona titular del Poder Ejecutivo del Estado de Morelos.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 3.
 
@@ -131,8 +129,6 @@ La Secretaría planeará y conducirá sus actividades con sujeción a los objeti
 
 La representación de la Secretaría, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente al Secretario, quien para la mejor atención y despacho de los mismos podrá delegar sus facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, excepto aquellas que por disposición legal o de este Reglamento, deba ejercer directamente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 6.
 
 El Secretario tendrá las facultades que le confieren la Constitución, la Ley Orgánica y las demás disposiciones jurídicas aplicables, las cuales ejercerá conforme a las necesidades del servicio, teniendo además a su cargo las siguientes atribuciones:
@@ -179,7 +175,9 @@ XIV. Promover la participación de la sociedad civil en los programas de protecc
 
 XV. Tramitar los nombramientos que el Titular del Ejecutivo expida para el ejercicio de las funciones notariales y ordenar periódicamente las visitas de inspección a las notarías del Estado;
 
-XVI. Autorizar la apertura y uso de los protocolos y folios notariales, así como los mecanismos que para ello se utilicen, y llevar el Libro de Registro de Notarios; atribución que ejercerá por conducto del Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
+> <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XVI. Autorizar la apertura y uso de los protocolos y folios notariales, así como los mecanismos que para ello se utilicen, y llevar el Libro de Registro de Notarios; atribución que ejercerá por Conducto del Director General Jurídico;
 
 XVII. Planear, programar, presupuestar y vigilar la operación y ejercicio de las funciones del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
@@ -381,8 +379,6 @@ XX. Evaluar y controlar los procesos administrativos y operativos en la implemen
 
 XXI. Evaluar y rediseñar la infraestructura de las instituciones operadoras del Sistema de Justicia Penal al interior del Poder Ejecutivo, para proponer, mediante proyectos arquitectónicos, las modificaciones necesarias para su buen funcionamiento, de acuerdo a las necesidades requeridas, según el modelo de gestión a implementar; (sic)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 12.
 
 A la Coordinación General de Análisis Político y Proyectos Estratégicos corresponden las siguientes atribuciones:
@@ -493,13 +489,13 @@ I. Dirección General de Reorganización Institucional, Control y Evaluación, y
 
 II. Dirección General de Armonización Legislativa y Comunicación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 14 DE DICIEMBRE DE 2012 Y 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 19.
 
 Se adscriben a la Coordinación General de Análisis Político y Proyectos Estratégicos, las siguientes Unidades Administrativas:
 
-I. Dirección General de Desarrollo Político, y
+> <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+I. Dirección General de Análisis Político, y
 
 II. Dirección General de Proyectos Estratégicos.
 
