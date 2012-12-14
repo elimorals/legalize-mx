@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2012-11-14"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1115,11 +1115,19 @@ Corresponde a la Comisión de Desarrollo Agropecuario, el conocimiento y dictame
 
 I. De las iniciativas de reforma y leyes relacionadas con la actividad agropecuaria y de desarrollo rural sustentable de competencia estatal;
 
-II. Los relacionados con los programas y acciones en materia de desarrollo rural sustentable y de desarrollo agropecuario que ejecute el gobierno del estado en favor de ejidatarios, comuneros o pequeños propietarios agrícolas, forestales y ganaderos que sean de competencia estatal, de conformidad con las disposiciones de las leyes de la materia;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-III. Lo relacionado a políticas de inversión, financiamiento, subsidios, apoyo técnico e investigación en la producción, industrialización y comercialización de productos agropecuarios; y
+II. Los relacionados con los programas y acciones en materia de desarrollo rural sustentable y de desarrollo agropecuario que ejecute el gobierno del estado en favor de ejidatarios, comuneros o pequeños propietarios agrícolas, forestales, ganaderos y acuícolas, que sean de competencia estatal, de conformidad con las disposiciones de las leyes y reglamentos de la materia; así como de los convenios y demás actos jurídicos que de estos se deriven.
 
-IV. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+III. Lo relacionado a políticas de inversión, financiamiento, subsidios, planeación, producción, industrialización y comercialización de productos agropecuarios y de todo tipo de bienes y servicios generados en el medio rural, así como a su apoyo técnico, investigación y transferencia de tecnología.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+IV. Conocer, fomentar y coordinar acciones, estudios y proyectos que propicien el intercambio de experiencias y el trabajo conjunto entre los diferentes actores del sector agropecuario y rural del Estado de Morelos, y con sus homólogos de otras entidades federativas, que permitan a los integrantes de esta comisión legislativa ampliar su visión acerca de la problemática que vive el campo Morelense con el fin de mejorar, innovar y complementar en lo necesario el marco normativo en la materia; y
+
+V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1177,7 +1185,7 @@ IV. Propiciar el reconocimiento de condiciones equitativas e igualdad de oportun
 
 V. Contribuir a la creación de espacios de expresión de quienes trabajan por la igualdad de las mujeres y contra la violencia hacia ellas;
 
-VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género;
+VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o. adición, que se relacione con la equidad de género;
 
 VII. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa o situación socioeconómica, entre otros;
 
@@ -2250,3 +2258,9 @@ PRIMERO. El presente decreto entrará en vigor el día de su aprobación por el 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
 
 TERCERO.- Remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor al momento de su aprobación por este Congreso.
+
+Segundo.- Remítase al titular del Poder Ejecutivo para su divulgación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
