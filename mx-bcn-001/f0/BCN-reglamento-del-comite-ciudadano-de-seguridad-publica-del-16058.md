@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-del-16058"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-14"
-last_updated: "2006-11-17"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DEL COMITÉ CIUDADANO DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO RESOLUTIVO PRIMERO DEL ACUERDO DEL H. XX AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de enero de 2000.
 
@@ -498,3 +500,11 @@ P.O. 17 DE NOVIEMBRE DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
 
 SEGUNDO.- En un término no mayor a seis meses contados a partir de la entrada en vigor del presente Reglamento, el Presidente Municipal deberá presentar al H. Cabildo el proyecto de convocatoria y elección de los subcomités en las regiones administrativas existentes en el Ayuntamiento.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PUNTOS RESOLUTIVOS:
+
+PRIMERO.- Se apruebe por el H. XX Ayuntamiento de Ensenada, Baja California la abrogación del Reglamento del Comité Ciudadano de Seguridad Pública del Municipio de Ensenada, Baja California, Publicado en el Periódico Oficial, No. 2 de fecha 14 de enero del 2000, Tomo CVII.
+
+SEGUNDO.- Se apruebe por el H. XX Ayuntamiento de Ensenada, Baja California el Reglamento del Comité Ciudadano de Seguridad Pública del Municipio de Ensenada, Baja California.
