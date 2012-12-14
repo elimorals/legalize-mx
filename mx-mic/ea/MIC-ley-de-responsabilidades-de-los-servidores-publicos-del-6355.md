@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "2007-11-21"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -376,6 +376,30 @@ Son sujetos de responsabilidad administrativa los servidores públicos a que se 
 Los servidores públicos tendrán las siguientes obligaciones para salvaguardar la legalidad, honradez, imparcialidad y eficiencia que deben de observar en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar a que se les apliquen las sanciones que correspondan, según la naturaleza de la infracción en que incurran y sin perjuicio de sus derechos laborales previstos en la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y sus Municipios:
 
 I. Cumplir con diligencia el servicio que les sea encomendado y abstenerse de actos u omisiones que causen la suspensión o deficiencia de dichos servicios o que impliquen abuso o ejercicio indebido en su empleo, cargo o comisión;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+La Coordinación de Contraloría del Estado podrá fincar sanciones administrativas a servidores públicos que obstruyan el procedimiento para la realización de trámites y servicios. Se considerará obstrucción a un trámite o servicio, cualquiera de las conductas siguientes:
+
+a) Incumplimiento de plazos de respuesta al público establecidos (sic);
+
+b) Uso indebido de la información de los solicitantes;
+
+c) Atentar contra la naturaleza confidencial de solicitudes y proyectos;
+
+d) Pérdida de documentos;
+
+e) Solicitud de donaciones o apoyos;
+
+f) Alteración de reglas y procedimientos;
+
+g) Negligencia o negativa en la recepción de documentos;
+
+h) Negligencia para dar seguimiento al trámite, que provoque la aplicación de las figuras de la afirmativa o negativa ficta;
+
+i) Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y,
+
+j) Aquellas que incidan en perjuicio del ciudadano, persona física o moral.
 
 II. Formular y ejecutar de acuerdo con las leyes de la materia, los planes, programas y presupuestos correspondientes a su competencia y cumplir con lo que establece la legislación vigente en materia de manejo de fondos y recursos públicos;
 
@@ -752,3 +776,9 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
