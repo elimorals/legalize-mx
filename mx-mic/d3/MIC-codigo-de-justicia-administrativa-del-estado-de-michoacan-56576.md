@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2011-10-19"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -1113,13 +1113,21 @@ IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar e
 
 En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio administrativo ante el Tribunal.
 
-### Capítulo Décimo Segundo. Registro Estatal de Trámites y Servicios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+### Capítulo Décimo Segundo. Del Registro Estatal de Trámites y Servicios y del Registro Único de Personas acreditadas en Michoacán
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 138.
 
-La Secretaría organizará el Registro de los trámites y servicios de la Administración Pública Estatal Centralizada y Descentralizada, que será público y se actualizará permanentemente, para cuyo efecto las dependencias, coordinaciones y entidades deberán proporcionar para su inscripción, por cada trámite y servicio que presten, la siguiente información:
+La Secretaría de Finanzas y Administración integrará, administrará y actualizará permanentemente el Registro Estatal de Trámites y Servicios de la Administración Pública Estatal, mismo que contendrá todos los trámites y servicios vigentes y los publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Lo estipulado en el Registro será de cumplimiento obligatorio para los servidores públicos de las dependencias o entidades ante quienes se lleven a cabo los trámites y servicios, en la forma establecida en él, y no podrá aplicarse de otra forma, emplear plazos distintos, ni solicitar requisitos, documentación o información adicional a la establecida.
+
+Las personas que lleven a cabo trámites y servicios tendrán derecho a que se realicen de la forma estipulada en el Registro.
+
+Las dependencias y entidades deberán proporcionar para su inscripción, por cada trámite y servicio que presten, la siguiente información, que será publicada en el propio registro:
 
 I. Nombre e identificación del trámite;
 
@@ -1127,15 +1135,13 @@ II. Fundamento jurídico;
 
 III. Casos en los que debe o puede realizarse el trámite o servicio;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
-
-IV. Si el trámite o servicio debe solicitarse por escrito y mediante qué formato;
+IV. Si el trámite o servicio debe solicitarse por escrito o puede realizarse de otra manera;
 
 V. El formato correspondiente;
 
 VI. Los datos y documentos específicos que debe contener o deben adjuntarse al trámite o servicio;
 
-VII. El plazo máximo que tiene la autoridad administrativa correspondiente para resolver el trámite o servicio y la procedencia de la afirmativa o negativa ficta;
+VIl. El plazo máximo que tiene la autoridad administrativa correspondiente para resolver el trámite o servicio y la procedencia de la afirmativa o negativa ficta;
 
 VIII. El monto de los derechos o aprovechamientos aplicables, en su caso, la forma de determinar el monto y los lugares en los que podrán ser liquidados;
 
@@ -1143,41 +1149,51 @@ IX. Vigencia de los permisos, licencias, autorizaciones, registros y demás reso
 
 X. Documento a obtener como resultado del trámite;
 
-XI. Unidades administrativas ante las que se puede solicitar el trámite;
+XI. Unidades administrativas ante las que se puede solicitar el trámite o servicio;
 
 XII. Horario de atención al público; y,
 
-XIII. Los números de teléfono, fax y correo electrónico, en su caso, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas.
+XIII. Los números de teléfono y fax, correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+La información deberá entregarse a la Secretaría de Finanzas y Administración y ésta deberá analizarla y, en su caso, proponer mejoras a la autoridad administrativa operadora del proceso antes de inscribirla en el Registro.
+
+La Secretaría de Finanzas y Administración se coordinará con la Secretaría de Desarrollo Económico para el cumplimiento de esta disposición.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 139.
 
-La información deberá entregarse a la Secretaría y, ésta deberá analizarla y, en su caso, modificarla y mejorarla en coordinación con la autoridad administrativa operadora del proceso antes de inscribirla en el Registro.
+Las dependencias y entidades deberán notificar a la Secretaría de Finanzas y Administración las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+Una vez analizada la modificación, la Secretaría verificará que ésta mejore el trámite o servicio, y procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
+
+Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público la información que al respecto esté inscrita en el Registro.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 140.
 
-Las dependencias, coordinaciones y entidades, deberán notificar a la Secretaría, las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
+Se establece el Registro Único de Personas Acreditadas en Michoacán con el objeto de documentar por una sola vez la información sobre la constitución y funcionamiento de las personas morales y la correspondiente a las personas físicas que así lo deseen, para realizar trámites y servicios ante las dependencias y entidades. Para el efecto se emitirá una clave de identificación particularizada, la cual será válida para toda la Administración Pública Estatal, independientemente de la entidad o dependencia a través de la cual se inscriba en el registro.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+La Secretaría de Finanzas y Administración organizará y actualizará permanentemente el Registro Único de Personas Acreditadas en una base de datos única. Asimismo, emitirá los lineamientos correspondientes y proveerá lo necesario para integrar los expedientes de usuarios y las claves de identificación particularizada, para lo cual se coordinará con la Secretaría de Desarrollo Económico.
 
-Una vez analizada la modificación, la Secretaría, procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
+Una vez inscrito el usuario en el Registro Único de Personas Acreditadas, las dependencias o entidades estarán obligadas a no solicitar de nuevo la documentación integrada en el expediente correspondiente, salvo que el trámite o servicio de que se trate, requiera documentación adicional.
 
-Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público, la información que al respecto esté inscrita en el Registro.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 141.
 
-Las dependencias, coordinaciones y entidades, no podrán requerir trámites adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a lo establecido en el mismo.
+Las dependencias o entidades, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas y Administración, integrarán los expedientes e inscribirán a los usuarios que realicen trámites en el ámbito de su competencia. Para ello, generarán una clave de identificación particularizada basada en los elementos de la Clave Única del Registro de Población para las personas físicas y para las personas morales basado en la Cédula de Identificación Fiscal.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+Los usuarios podrán presentar su información ante la Secretaría de Finanzas y Administración a efecto de inscribirse directamente en el Registro Único de Personas Acreditadas y, en su caso, para solicitar la modificación de datos en su expediente ya inscrito.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 142.
 
-Los ayuntamientos crearán mediante acuerdo el registro de trámites y servicios municipales, aplicando en lo conducente, las disposiciones de este Código. La inobservancia a este precepto será la no publicidad del trámite.
+Los ayuntamientos deberán crear, mediante acuerdo, el registro de trámites municipales y de personas acreditadas, aplicando en lo conducente las disposiciones de este Código. La inobservancia de este precepto será la no publicidad del trámite.
+
+Los ayuntamientos podrán coordinarse con la Secretaría de Finanzas y Administración a efecto de armonizar u homogenizar los lineamientos y requisitos para la integración de dichos registros.
 
 # Libro Cuarto. Tribunal de Justicia Administrativa
 
@@ -2672,3 +2688,9 @@ P.O. 19 DE OCTUBRE DE 2011
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
