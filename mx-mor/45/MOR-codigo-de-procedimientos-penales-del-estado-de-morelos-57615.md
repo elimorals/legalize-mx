@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2011-09-01"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -158,6 +158,14 @@ El Ministerio Público, los cuerpos policiales y el juez, están obligados a vel
 El Ministerio Público deberá promover durante el curso del procedimiento acuerdos reparatorios, medidas cautelares u otros mecanismos que garanticen la reparación del daño causado a la víctima y protejan su integridad personal.
 
 Asimismo, el Ministerio Público, el juez o tribunal, la policía y los demás servidores públicos que entren en contacto con la víctima u ofendido, deberán otorgarle un trato acorde con su condición de víctima, procurando facilitar al máximo su participación en los trámites en que debiere intervenir.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 10 Bis.
+
+De la protección a víctimas y testigos.
+
+Corresponde a la Procuraduría General de Justicia del Estado, prestar apoyo a víctimas y testigos, en su intervención en cualquier procedimiento relativo a delitos contra la salud, en su modalidad de narcomenudeo, que sean competencia del fuero común, en términos de la legislación correspondiente.
 
 ###### Artículo 11.
 
@@ -1195,9 +1203,9 @@ Incurrirá en falta grave el juzgador cuando a sabiendas de que existe un motivo
 
 Funciones del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-El Ministerio Público ejercerá la acción penal en la forma establecida por la ley y practicará u ordenará todos los actos de investigación necesarios para obtener las evidencias e indicios indispensables para el esclarecimiento de los hechos materia de la denuncia o querella.
+El Ministerio Público ejercerá la acción penal en la forma establecida por la ley, practicará u ordenará todos los actos de investigación necesarios para obtener las evidencias e indicios indispensables para el esclarecimiento de los hechos, materia de la denuncia o querella. Asimismo, conocerá de conductas típicas que se contemplen en las leyes especiales del ámbito federal, que por disposición de las mismas sean de su competencia, sin perjuicio de que de manera inmediata, se de el aviso que corresponda al agente del Ministerio Público del Fuero Federal, de los delitos que sean competencia de éste.
 
 Dirigirá la investigación, bajo control jurisdiccional en los actos que lo requieran. En el cumplimiento de sus funciones, el Ministerio Público vigilará que la policía cumpla con los requisitos de la legalidad de los actos de investigación que lleva a cabo.
 
@@ -1234,6 +1242,10 @@ El agente del Ministerio Público debe obrar durante todo el proceso con absolut
 En este sentido, su investigación debe ser objetiva y referirse tanto a los elementos de cargo como de descargo, procurando recoger con urgencia los elementos de convicción y actuando en todo momento conforme a un criterio objetivo, con el fin de determinar, incluso, el no ejercicio de la acción penal o el sobreseimiento. Igualmente, en la audiencia de debate de juicio oral puede concluir requiriendo la absolución o una condena más leve que aquélla que sugiere la acusación, cuando en esa audiencia surjan elementos que conduzcan a esa conclusión de conformidad con las leyes penales.
 
 En la etapa de investigación, el imputado o su defensor podrán requerir al Ministerio Público medidas para verificar la inexistencia de un hecho punible o la existencia de circunstancias que excluyan el delito o atenúen la punibilidad o su culpabilidad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+El Ministerio Público deberá practicar las diligencias en la etapa de investigación, que correspondan y remitir a la autoridad administrativa competente, cuando tenga conocimiento que un propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza, lo empleare para realizar conductas ilícitas relativas al narcomenudeo o que permitiera su realización por terceros, a fin de que proceda a su suspensión o clausura definitiva, dependiendo de la investigación realizada, y efectuar las diligencias que señalan las leyes.
 
 ###### Artículo 114.
 
@@ -2162,6 +2174,10 @@ XVIII. Corrupción de menores e incapaces previsto en los párrafos segundo y te
 XIX. Rebelión cuando se realice en las circunstancias previstas en el artículo 259, y
 
 XX. Terrorismo previsto en el artículo 263.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+C) Los que sean calificados como tales por leyes federales o leyes especiales.
 
 La tentativa punible de los ilícitos penales mencionados en este artículo, también se califica como grave.
 
@@ -5385,7 +5401,13 @@ PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente 
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
 
-P.O. 1 DE SEPTIEMBRE DE 2011.
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- La Procuraduría General de Justicia del Estado, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la especialización y funcionamiento de Agencias del Ministerio Público especializados en materia de narcomenudeo que sean competencia del fuero común acorde a lo establecido en el Capítulo VII de la Ley General de Salud, y de conformidad al presupuesto asignado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5394,11 +5416,3 @@ Publíquese en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación.
-
-###### ARTÍCULO TERCERO.
-
-La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, los Protocolos establecidos en el presente Decreto.
-
-###### ARTÍCULO CUARTO.
-
-La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, un acuerdo por el que se establezcan los lineamientos para la investigación con debida diligencia de los feminicidios.
