@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-58641"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-09"
-last_updated: "2008-01-09"
+last_updated: "2012-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 9 de enero de 2008.
 
@@ -106,6 +106,14 @@ El Gobernador del Estado, nombrará y removerá libremente a los servidores púb
 ###### Artículo 15.
 
 Las dependencias y entidades de la Administración Pública Estatal, deberán conducir sus actividades conforme a los objetivos, programas, proyectos y políticas que defina el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Además, deberán ejecutar acciones en materia de mejora regulatoria, esto es, tendientes a mejorar la calidad del marco regulatorio y los procesos administrativos que de éste se derivan, incluida la desregulación, la construcción o reconstrucción del propio marco regulatorio y el diseño de los procesos mediante los cuales se elaboran y aplican las regulaciones.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+Los Portales de Internet de las dependencias y entidades deberán crear un apartado de mejora regulatoria, en el cual se incorporará toda su información en la materia.
 
 ###### Artículo 16.
 
@@ -317,6 +325,30 @@ XXXI. Intervenir en los juicios y procedimientos que se ventilen ante cualquier 
 
 XXXII. Programar, promover, organizar y coordinar el desarrollo, modernización y simplificación administrativa integral en las dependencias y entidades de la Administración Pública Estatal, a fin de que los recursos humanos, materiales, financieros y los procedimientos técnicos, sean aprovechados y aplicados con criterios de honestidad, eficacia, eficiencia, imparcialidad, austeridad y racionalidad; para lo que podrá realizar o encomendar investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas necesarias al efecto;
 
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Bis. Realizar un proceso continuo de revisión de la regulación estatal, diagnosticar los efectos de su aplicación y elaborar propuestas al Titular del Ejecutivo Estatal de proyectos de disposiciones legislativas y administrativas, así como de mejora regulatoria en actividades o sectores específicos, en coordinación con la Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Ter. Coordinar el Registro Estatal de Trámites y Servicios y el Registro Único de Personas Acreditadas;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Quater. Asesorar y coordinar los trabajos en materia de mejora regulatoria de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Quinquies. Promover la implantación de la materia de mejora regulatoria como política pública, proveer la asesoría y celebrar los convenios necesarios para tal efecto con la Federación, los municipios y con los poderes Legislativo y Judicial, incluyendo la coordinación de acciones que integren a los sectores social y privado;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Sexies. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+XXXII Septies. Elaborar y publicar anualmente en el Periódico Oficial del Estado un informe sobre el estado que guarda la mejora regulatoria en la entidad;
+
 XXXIII. Conducir las relaciones laborales con los trabajadores al servicio de las dependencias y entidades de la Administración Pública Estatal y sus representaciones sindicales, así como elaborar y difundir los acuerdos e instructivos derivados de las condiciones generales de trabajo y vigilar su cumplimiento;
 
 XXXIV. Coordinar la formulación y actualización permanente del programa de calidad y mejora continua, a fin de que en las dependencias y entidades de la Administración Pública Estatal, los servidores públicos adquieran una nueva cultura de profesionalización, de trabajo eficiente y eficaz centrado en el servicio adecuado y oportuno al ciudadano;
@@ -433,7 +465,9 @@ VIII. Apoyar, fomentar y promover los programas de investigación y enseñanza t
 
 IX. Desarrollar y proponer esquemas de participación entre los sectores público, privado y social para concurrir de manera armónica en las propuestas de nuevos modelos de financiamiento para el desarrollo de proyectos productivos, y con ello se logre la generación de empleos;
 
-X. Coordinarse con las dependencias y entidades paraestatales correspondientes de los gobiernos federal, estatales y municipales para lograr una simplificación de trámites en apoyo a la actividad industrial, comercial, minera, artesanal y de servicios;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
+X. Integrar una unidad de mejora regulatoria y coordinarse con las dependencias y entidades paraestatales correspondientes de los gobiernos Federal, Estatal y municipales para lograr una simplificación de trámites en apoyo a la actividad económica de la entidad;
 
 XI. Participar en la planeación y programación de las obras e inversiones, tendientes a promover la racional explotación de los recursos minerales en el Estado;
 
@@ -1248,3 +1282,11 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN GODO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de enero del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
