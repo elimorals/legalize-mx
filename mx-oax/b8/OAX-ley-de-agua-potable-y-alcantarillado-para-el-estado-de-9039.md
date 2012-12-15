@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2005-03-22"
+last_updated: "2012-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -1605,9 +1605,11 @@ Los derechos de los trabajadores que por efecto de esta ley pasan a formar parte
 
 Los asuntos que con motivo de esta ley deben pasar al Instituto Estatal del Agua o a los organismos operadores, permanecerán en el último trámite que hubieran alcanzado para que las unidades administrativas que los tramiten se incorporen al nuevo organismo, a excepción de los trámites urgentes sujetos a plazos improrrogables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO QUINTO.
 
-Durante 1993 los organismos operadores seguirán cobrando las cuotas o tarifas autorizadas por sus órganos de gobierno o en su caso por el Congreso del Estado, con las normas que para su actualización autorice el mismo. Dichas cuotas o tarifas dejarán de cobrarse al momento que la junta de gobierno del organismo operador o del Instituto Estatal del Agua autoricen las cuotas en los términos de esta ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1386 POR EL QUE SE REFORMA LA LEY ESTATAL DE DERECHOS, PUBLICADO EN EL P.O.15 DE DICIEMBRE DE 2012)
 
 ###### ARTÍCULO SEXTO.
 
@@ -1684,3 +1686,11 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el P
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor a partir del día uno de enero del año 2013, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se deroga el Artículo quinto transitorio del decreto número 92 por el que se expidió la Ley de Agua Potable y Alcantarillado del Estado de Oaxaca publicado en el Periódico Oficial del Estado, en la sección número 7 del día 13 de febrero de 1993, y las demás disposiciones que señalen cuotas o tarifas en materia de agua potable y saneamiento.
+
+TERCERO: El Ejecutivo Estatal a través de la Dirección del Registro Público de la Propiedad y del Comercio deberá establecer un programa de capacitación y lineamientos para la aplicación de los conceptos y cuotas relacionadas con los servicios públicos que presta, a fin de definir criterios uniformes en todos y cada uno de los servidores públicos que laboran en dicha dependencia y con esto garantizar los principios de certeza jurídica a favor de los oaxaqueños.
