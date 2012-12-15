@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2011-04-06"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -1191,15 +1191,9 @@ VII. Terminado o ajustado el Proyecto, el Presidente Municipal lo remitirá a la
 
 VIII. Recabado el dictamen de congruencia o los comentarios y recomendaciones de la Secretaría, se procederá a revisar el Proyecto para considerar las opiniones recibidas si las hubiere, hecho lo cual se turnará al Presidente Municipal para los efectos internos de dictaminación correspondiente, mismo que será presentado en Sesión de Cabildo para su aprobación.
 
-(NOTA: EL 2 DE OCTUBRE DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 81/2007, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
-
-EL AYUNTAMIENTO EN SU CASO, PODRÁ AUTORIZAR LOS PLANES PARCIALES DE DESARROLLO URBANO Y DE URBANIZACIÓN, CUANDO EXISTAN CONTRADICCIONES CON LOS INSTRUMENTOS DE PLANEACIÓN DE NIVEL SUPERIOR PREVISTOS EN EL PRESENTE TÍTULO, CUANDO A JUICIO DE AQUEL SE JUSTIFIQUE QUE LAS CONDICIONES QUE DIERON ORIGEN A LA REALIZACIÓN DE TALES INSTRUMENTOS OBSERVAN UNA VARIACIÓN SUSTANCIAL, O CUANDO JUSTIFIQUEN LA REALIZACIÓN DE UNA OBRA, ACCIÓN O INVERSIÓN QUE PRESENTE MEJORES CONDICIONES A LAS ORIGINALMENTE DISPUESTAS.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 53.
 
@@ -3435,7 +3429,7 @@ El Secretario General de Gobierno
 
 Lic. Sigfrido De la Torre Miramontes
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE ABRIL DE 2001
 
