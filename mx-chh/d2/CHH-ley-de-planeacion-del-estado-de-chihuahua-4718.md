@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2003-04-19"
+last_updated: "2012-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PLANEACION DEL ESTADO DE CHIHUAHUA
 
-LEY DE PLANEACION DEL ESTADO DE CHIHUAHUA
+LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -153,19 +153,25 @@ B) A la Coordinación de Planeación y Evaluación le compete:
 
 5.- Coordinar las actividades, que en materia de investigación y asesoría para la planeación, realicen las dependencias y entidades de la Administración Pública Estatal.
 
-C) A la Dirección General de Fomento Económico le compete:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+C) A la Secretaría de Economía le compete:
 
 1.- Apoyar al Comité de Planeación para el Desarrollo del Estado de Chihuahua, en el establecimiento de los mecanismos de concertación con los sectores social y privado, para la instrumentación del Plan y sus Programas.
 
 2.- Participar en la definición de la política industrial, turística y comercial de la Entidad.
 
-D) A la Dirección General de Finanzas le compete:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+D) A la Secretaría de Hacienda le compete:
 
 1.- Participar en la definición de las políticas financiera y crediticia, que contendrá el Plan Estatal de Desarrollo en su Programa Operativo Anual.
 
 2.- Proyectar y calcular los ingresos del Gobierno del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público del Estado y los Municipios, para la ejecución del Plan Estatal y sus Programas.
 
-E) A la Coordinación de Fortalecimiento Municipal le compete:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+E) A la Dirección General de Desarrollo Municipal le compete:
 
 Coordinar la formulación de los planes municipales de desarrollo, con apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal Y Municipal integradas en los Comités Regionales, del Comité de Planeación para el Desarrollo del Estado de Chihuahua.
 
@@ -466,3 +472,7 @@ P.O. 19 DE ABRIL DE 2003.
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
