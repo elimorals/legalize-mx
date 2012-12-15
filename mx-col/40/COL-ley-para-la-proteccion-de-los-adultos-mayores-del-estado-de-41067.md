@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2012-09-01"
+last_updated: "2012-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -677,6 +677,10 @@ Será obligación de las dependencias y entidades de la administración pública
 
 El Gobierno del Estado por conducto de las dependencias correspondientes fomentará que la atención preferencial para las personas adultas mayores sea prestada también en las tiendas de autoservicio y otras empresas mercantiles.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a los adultos en plenitud un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial
+
 ## TÍTULO CUARTO. DE LA VALORACIÓN DE CAPACIDADES Y APTITUDES
 
 ### CAPÍTULO II. De la Integración a la Vida Productiva
@@ -854,3 +858,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES.
 P.O. 1 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las entidades públicas y privadas del Estado, deberán adecuar sus instalaciones e infraestructura dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, para garantizar el cumplimiento del mismo.
