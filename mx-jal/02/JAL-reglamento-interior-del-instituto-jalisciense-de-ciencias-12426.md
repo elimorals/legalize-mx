@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-ciencias-12426
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2011-05-17"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -586,3 +588,9 @@ P.O. 9 DE ABRIL DE 2009.
 P.O. 17 DE MAYO DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Jalisciense de Ciencias Forenses publicado en el Periódico Oficial "El Estado de Jalisco" el 13 de agosto de 1998, así como sus reformas; y se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
