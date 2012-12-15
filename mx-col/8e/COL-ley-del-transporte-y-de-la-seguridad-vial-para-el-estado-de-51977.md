@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2012-02-25"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -200,6 +200,12 @@ VII. Celebrar convenios con las autoridades federales y municipales, para mejora
 VIII. Otorgar permisos para el servicio de corralones, estacionamientos, encierros, pensiones y confinamientos y, por conducto de la Dirección General, regular su funcionamiento así como de los talleres mecánicos, electromecánicos, de laminado y pintura, lotes de compraventa y consignación de unidades vehiculares usados, auto baños; talleres carroceros y demás instalaciones inherentes al servicio vehicular;
 
 IX. Aprobar, fijar y modificar, previo el estudio técnico que lleve a cabo el Consejo o la Dirección General, las tarifas aplicables de cualquier modalidad del servicio de transporte público; así como, de todos aquellos permisos o servicios auxiliares del transporte, incluyendo los estacionamientos, encierros, corralones y confinamientos públicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Las tarifas de los permisos ó servicios auxiliares del transporte, incluyendo los estacionamientos, corralones y confinamientos públicos deberán publicarse para conocimiento de los usuarios en el Periódico Oficial “El Estado de Colima” y difundida en los medios de mayor circulación en el Estado, a más tardar el 15 de enero de cada año.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -1941,6 +1947,12 @@ Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o 
 
 Corresponde a la Secretaría por conducto de la Dirección General, llevar a cabo el registro de estacionamientos encierros, corralones y confinamientos públicos, y la emisión de los lineamientos y manuales técnicos para regular su operación, será de conformidad con lo establecido en este ordenamiento y el Reglamento de ésta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Los concesionarios de los servicios de estacionamientos, encierros, corralones y confinamientos públicos deberán colocar en el interior de sus instalaciones y a la vista de los usuarios las tarifas que les fueron autorizadas por la autoridad competente para la prestación de los servicios que proporcionan y proporcionar el recibo correspondiente.
+
 Aquellos estacionamientos que dan un servicio complementario o uso distinto al local o establecimiento mercantil, podrán operar como estacionamiento público o privado, siempre y cuando, satisfagan la demanda que se genera en los términos de la reglamentación respectiva.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
@@ -2462,3 +2474,7 @@ P.O. 25 DE FEBRERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Reglamento de Vialidad y Transporte del Estado de Colima, deberá ser adecuado al presente Decreto en un término de 90 días naturales a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor seis meses después a su publicación en el Periódico Oficial "El Estado de Colima".
