@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2011-12-24"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ESTATAL DE HACIENDA, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -91,7 +93,7 @@ DE LOS SUJETOS
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que enajenen vehículos automotores usados, por cualquier título, dentro del territorio del Estado de Oaxaca.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 DE LA BASE
 
@@ -311,11 +313,11 @@ La Federación; Ayuntamientos; Poderes Legislativo y Judicial; Órganos Autónom
 
 En el caso de las diversiones o espectáculos públicos organizados por las instituciones de beneficencia pública deberán dar aviso a la Secretaría de Finanzas con quince días antes de la realización del evento, acompañando dicho aviso con el instrumento jurídico que reconozca debidamente su situación jurídica.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 DISPOSICIONES GENERALES
 
@@ -381,7 +383,7 @@ b) El importado definitivamente al país que corresponda al año modelo posterio
 
 VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo. esta Ley.
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -611,7 +613,7 @@ Para los efectos de esta fracción, peso bruto vehicular es el peso del vehícul
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### SECCIÓN II. OTROS VEHÍCULOS
 
@@ -843,7 +845,7 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 DEL OBJETO DEL IMPUESTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
@@ -857,7 +859,7 @@ DE LOS SUJETOS
 
 Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas y morales que dentro del Estado de Oaxaca, reciban los servicios señalados en el artículo anterior.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA BASE
 
@@ -963,11 +965,11 @@ A los ingresos brutos que se determinen con base en los procedimientos anteriore
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2002)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VI. IMPUESTOS SOBRE NOMINAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LOS SUJETOS
 
@@ -987,7 +989,7 @@ Cuando una persona física o moral, en virtud de un contrato, cualquiera que sea
 
 La responsabilidad solidaria subsistirá hasta en tanto el intermediario laboral cumpla con todas las obligaciones a que se encuentra sujeto en éste capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DEL OBJETO
 
@@ -999,7 +1001,7 @@ ARTICULO 36 B.- Constituye el objeto de este impuesto, las erogaciones, en efect
 
 Asimismo se consideran erogaciones por remuneraciones al trabajo personal subordinado los que la Ley del Impuesto sobre la Renta asimila a salarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LAS EXCEPCIONES
 
@@ -1019,7 +1021,7 @@ V.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Tra
 
 VI.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1037,7 +1039,7 @@ XI.- Las prestaciones de previsión social tales como: subsidios por incapacidad
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base de este impuesto, deberán estar registrados en la contabilidad del sujeto obligado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA BASE
 
@@ -1045,7 +1047,7 @@ DE LA BASE
 
 ARTICULO 36 D.- Es base gravable de este impuesto, el monto total de las erogaciones realizadas conforme al artículo 36 B, sin deducción alguna aún cuando no excedan el salario mínimo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA TASA Y EPOCA DE PAGO
 
@@ -1069,7 +1071,7 @@ Las personas físicas o morales presentarán sus declaraciones o avisos de las a
 
 Los sujetos obligados que deban de presentar declaraciones periódicas de conformidad con este capítulo, las seguirán presentando aún cuando no haya pago a efectuar en tanto no presente los avisos que correspondan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LAS EXENCIONES
 
@@ -1111,7 +1113,7 @@ f) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
 g) Organismos que conforme a la Ley agrupen a las sociedades cooperativas ya sean de productores o de consumo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1121,7 +1123,7 @@ i) Asociaciones o sociedades civiles organizadas con fines científicos polític
 
 j) Asociaciones de padres de familia constituidas y registradas en los términos del Reglamento de Asociaciones de Padres de Familia de la Ley General de Educación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LAS OBLIGACIONES
 
@@ -1157,7 +1159,7 @@ b).- Contraten en territorio del Estado, servicios mediante los cuales se le pro
 
 La presentación de declaraciones informativas a que refiere este artículo, se harán conforme a las reglas de carácter general que emita la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO VII. IMPUESTO PARA EL DESARROLLO SOCIAL
 
@@ -1215,7 +1217,7 @@ ARTICULO 36 K.- Este impuesto se causará y pagará aplicando a la base la tasa 
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de crédito o establecimientos autorizados, cuando se realicen las erogaciones objeto de este impuesto, debiendo reflejarse el impuesto pagado en el recibo oficial correspondiente.
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VIII. IMPUESTO CEDULAR A LOS INGRESOS POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
@@ -1347,7 +1349,7 @@ IV Presentar las declaraciones bimestrales definitivas en este impuesto de confo
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la Institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO IX. DEL IMPUESTO SOBRE LAS DEMASIAS CADUCAS
 
@@ -1431,7 +1433,7 @@ Por los servicios que preste la Secretaría General de Gobierno, se pagarán los
 
 Los servicios que presta el Estado en materia de control vehicular, causarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 42.
 
@@ -1495,7 +1497,7 @@ No se aceptará inscripción alguna ni se expedirá certificado de constancias e
 
 Por la expedición de testimonios íntegros autorizados o copias también autorizadas de los actos, contratos o certificaciones existentes en los protocolos archivados, se pagarán los derechos que al efecto se establezcan en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1517,7 +1519,7 @@ Los servicios que se presten por el Instituto Catastral del Estado de Oaxaca y d
 
 Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VII. SERVICIOS EN MATERIA EDUCATIVA
 
@@ -1529,7 +1531,7 @@ ARTICULO 52 A.- Los servicios que presta el Estado en materia educativa, causar�
 
 ARTICULO 52 B.- Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, según corresponda al domicilio en que se realice el trámite respectivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VIII. SERVICIOS DE SEGURIDAD
 
@@ -1553,7 +1555,7 @@ ARTICULO 52 F.- La falta de pago oportuno, dará lugar a la actualización del c
 
 ARTICULO 52 G.- Por la autorización o revalidación que el Estado expida a los particulares para prestar servicios privados de seguridad en el territorio del Estado de Oaxaca, se pagarán los derechos que al efecto establezca la Ley de Ingresos del Estado de Oaxaca, para el ejercicio fiscal que corresponda.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 30 DE DICIEMBRE DE 2001)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 30 DE DICIEMBRE DE 2001)
 
 ### CAPITULO IX. DE LAS CERTIFICACIONES
 
@@ -1561,157 +1563,157 @@ ARTICULO 52 G.- Por la autorización o revalidación que el Estado expida a los 
 
 Las certificaciones que realice cualquier autoridad en ejercicio de sus facultades, causarán por foja, los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO X. POR SERVICIOS DE VIGILANCIA, CONTROL Y EVALUACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 A.- Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe de cada una de las estimaciones de trabajo, conforme a lo previsto en la Ley de Ingresos para el Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 B.- Los retenedores de los ingresos que por este derecho se recauden, deberán enterarlos en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca, dentro de los cinco días hábiles siguientes a aquél en que se retengan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 C.- La falta de pago oportuno, dará lugar a la actualización del crédito y causación de los accesorios en los términos que al efecto disponga el Código Fiscal para el Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE OBRAS PUBLICAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 D.- Por los servicios que presta la Secretaría de Obras Públicas, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 E.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE CONTRALORIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 F.- Por los servicios que .presta la Secretaría de Contraloría, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 G.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XIII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE ADMINISTRACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 H.- Por los servicios que presta la Secretaria de Administración, se pagaran los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 I.- Estos derechos, deberán ser pagados en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaria de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XIV. POR LOS SERVICIOS QUE PRESTA EL ESTADO EN MATERIA DE ACCESO A LA INFORMACION PUBLICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 J.- Por los servicios que presta el Estado en materia de Acceso a la Información Pública, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO. 53 K.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de. Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XV. POR LOS SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE PROTECCION CIVIL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 L.- Por los servicios que presta el Instituto Estatal de Protección Civil, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 M.- Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XVI. POR LOS SERVICIOS QUE PRESTAN INSTITUCIONES CULTURALES DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 N.- Por los servicios que prestan Instituciones culturales se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 Ñ.- Los derechos que correspondan deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XVII. POR LOS SERVICIOS QUE PRESTAN OTRAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE OAXACA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 O.- Por los servicios que presta el Estado a través de otras dependencias de la Administración Pública Centralizada y Entidades de la Administración Pública Paraestatal, se pagarán los derechos conforme a lo que establezca la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 53 P.- Los derechos que correspondan deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO XVIII
 
@@ -1725,7 +1727,7 @@ ARTICULO 53 Q.- Por los servicios que prestan los Talleres Gráficos de (sic) Go
 
 ARTICULO 53 R.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO XIX. POR LOS SERVICIOS QUE PRESTA LA CASA DE LA CULTURA OAXAQUEÑA
 
@@ -1737,7 +1739,7 @@ ARTICULO 53 S.- Por los servicios que presta la casa de la cultura oaxaqueña, s
 
 ARTICULO 53 T.- Los derechos que correspondan deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO XX. POR EL USO DE BIENES DE DOMINO PUBLICO
 
@@ -1755,11 +1757,11 @@ DISPOSICION GENERAL
 
 Tratándose de los derechos a que se refiere el Título Tercero de esta Ley, que se causen con fines de asistencia o interés social, el Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, tendrá la facultad de reducir y condonar los mismos. Para tal efecto los sujetos obligados deberán de solicitarlo previamente por escrito a la Secretaría de Finanzas.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO. POR OBRAS PUBLICAS
 
@@ -1789,7 +1791,7 @@ VI. Banquetas m2: 3.00
 
 VII. Guarniciones metro lineal: 3.50
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 56.
 
@@ -1837,7 +1839,7 @@ II. Aprovechamientos de capital; y,
 
 III. Aprovechamientos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEXTO BIS. DE LOS INGRESOS POR VENTAS DE BIENES Y SERVICIOS
 
@@ -1857,7 +1859,7 @@ II. Ingresos de operación de entidades paraestatales empresariales; e,
 
 III. Ingresos por ventas de bienes y servicios producidos en establecimientos del gobierno central.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES Y APORTACIONES
 
@@ -1869,7 +1871,7 @@ III. Ingresos por ventas de bienes y servicios producidos en establecimientos de
 
 Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; incluye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
@@ -1889,7 +1891,7 @@ Son los recursos destinados en forma directa o indirecta a los sectores público
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO NOVENO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
@@ -1951,7 +1953,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C.....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 2001.
 
@@ -1998,3 +2000,9 @@ P.O. 29 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2012, previa publicación en el Periódico Oficial del Estado.
+
+P.O. DE 15 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil trece, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Decreto Número 238, publicado en el Periódico Oficial del Estado el 30 de diciembre de 2000, por el que se promulgó la Ley de Hacienda del Estado de Oaxaca, así como los decretos, en los que se haya autorizado reformas, adiciones y derogaciones subsecuentes, y todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
