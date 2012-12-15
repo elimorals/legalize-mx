@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2011-04-07"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
+LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -87,7 +89,7 @@ IV.- Los Organismos Descentralizados Municipales; y
 
 V.- Los Fideicomisos Públicos, que formen parte de la administración pública paraestatal o paramunicipal, en los que el Fideicomitente sea alguno de los Entes Públicos del Estado señalados en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 4.
 
@@ -105,7 +107,7 @@ IV.- Todas las operaciones de endeudamiento que impliquen obligaciones a plazo, 
 
 Se exceptúa de lo establecido en este artículo, los contratos para prestación de servicios a largo plazo, previstos en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 5.
 
@@ -393,7 +395,7 @@ n).- Cualquier otro documento o información complementaria del financiamiento.
 
 Las operaciones de deuda pública autorizadas a que se refiere esta Ley, sólo se podrán modificar siempre y cuando, no excedan el monto aprobado por la Legislatura y se cumpla con los requisitos y formalidades del Registro Único de Obligaciones y Financiamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 21.
 
@@ -503,7 +505,7 @@ El procedimiento a que se refiere el párrafo anterior no será aplicable tratá
 
 En caso de incumplimiento, los acreedores de los entes a que se refiere el primer párrafo del Artículo anterior, podrán solicitar a la Secretaría de Finanzas, el pago de las obligaciones contratadas e incumplidas, siempre y cuando, estén inscritas en el Registro Único de Obligaciones y Financiamientos. Para tal efecto, los acreedores antes referidos, deberán justificar plenamente el incumplimiento de que se trate.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPÍTULO VII. DE LA EMISIÓN Y COLOCACIÓN DE VALORES Y DE LOS FIDEICOMISOS EMISORES DE VALORES Y DE CAPTACIÓN DE RECURSOS
 
@@ -649,7 +651,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C......
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE MARZO DE 2005.
 
@@ -676,3 +678,9 @@ P.O. 9 DE SEPTIEMBRE DE 2008.
 P.O. 7 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley de Deuda Estatal y Municipal, publicada mediante el Decreto No. 84 en el Periódico Oficial del Estado el 31 de agosto de 1996 y se derogan todas las disposiciones que se opongan al presente decreto.
