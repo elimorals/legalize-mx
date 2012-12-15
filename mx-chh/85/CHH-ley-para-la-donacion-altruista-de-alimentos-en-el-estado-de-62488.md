@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-donacion-altruista-de-alimentos-en-el-estado-de-624
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-30"
-last_updated: "2008-07-30"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS EN EL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR EL PRIMERO DE ENERO DE 2009.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de julio de 2008.
 
@@ -77,13 +75,17 @@ BANCOS: Los Bancos de Alimentos establecidos en el Estado.
 
 DIF: El Sistema Estatal para el Desarrollo Integral de la Familia.
 
-SECRETARIA: La Secretaría de Fomento Social.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+SECRETARÍA: La Secretaría de Salud.
 
 ###### ARTÍCULO 4.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, promoverá la asistencia alimentaria altruista y coordinará los esfuerzos públicos y privados. Los sistemas municipales para el Desarrollo Integral de la Familia, efectuarán lo conducente en su área de competencia.
 
-El Ejecutivo del Estado, a través de la Secretaría de Fomento Social, aplicará la normatividad necesaria para garantizar que las donaciones satisfagan las normas de calidad para consumo humano, aplicando en su caso sanciones correspondientes.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+El Ejecutivo del Estado, a través de la Secretaría de Salud, aplicará la normatividad necesaria para garantizar que las donaciones satisfagan las normas de calidad para consumo humano, aplicando en su caso sanciones correspondientes.
 
 ### CAPÍTULO II. DE LOS DONANTES, DONATARIOS Y SUJETOS DE DERECHO
 
@@ -109,9 +111,11 @@ La información que se contenga en el padrón de referencia, deberá integrarse 
 
 Toda persona tiene el derecho de solicitar al DIF correspondiente, ser incluida en el padrón para poder ser susceptible de apoyo, previo estudio socioeconómico que aquéllos realicen.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
-La Secretaría de Fomento Social, a través del Órgano de Regulación y Fomento Sanitario y de sus Jurisdicciones Sanitarias en el Estado, supervisará que la distribución cumpla la normatividad establecida para el manejo y calidad de los alimentos e implementará programas de capacitación y asesoría en la materia.
+La Secretaría de Salud, a través del Órgano de Regulación y Fomento Sanitario y de sus Jurisdicciones Sanitarias en el Estado, supervisará que la distribución cumpla la normatividad establecida para el manejo y calidad de los alimentos e implementará programas de capacitación y asesoría en la materia.
 
 ###### ARTÍCULO 11.
 
@@ -183,13 +187,17 @@ Igual sanción recibirán quienes habiéndosele solicitado alimentos en donació
 
 III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos para el consumo, ordene o participe en la donación a los bancos de alimentos o la distribución de los mismos, entre las personas o grupos en situación de vulnerabilidad económica.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-Para los efectos de esta Ley, las multas que se impongan en lo preceptuado por este capítulo, se considerarán créditos fiscales y les serán aplicables las reglas que establece el Código Fiscal del Estado y el procedimiento de ejecución se hará a través de la Secretaria de Finanzas y Administración.
+Para los efectos de esta Ley, las multas que se impongan en lo preceptuado por este capítulo, se considerarán créditos fiscales y les serán aplicables las reglas que establece el Código Fiscal del Estado y el procedimiento de ejecución se hará a través de la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-Son autoridades responsables de la aplicación de esta Ley, en los ámbitos de sus respectivas competencias, la Secretaría de Fomento Social, la Secretaría de Finanzas y Administración y los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia.
+Son autoridades responsables de la aplicación de esta Ley, en los ámbitos de sus respectivas competencias, la Secretaría de Salud, la Secretaría de Hacienda y los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia.
 
 ## TRANSITORIOS
 
@@ -206,3 +214,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de junio del año dos mil ocho.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno del Estado. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
