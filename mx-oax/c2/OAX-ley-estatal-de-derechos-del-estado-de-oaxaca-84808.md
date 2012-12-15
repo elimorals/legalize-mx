@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2011-12-24"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -39,9 +41,15 @@ LEY ESTATAL DE DERECHOS
 
 ## Título Primero. Disposiciones Generales
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-Los derechos que establece esta Ley, se pagarán por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Estado en sus funciones de derecho público; se considerarán derechos los servicios que presten los organismos descentralizados.
+Los derechos que establece esta Ley, se pagarán por el uso, goce o aprovechamiento de los bienes de dominio púbico (sic), así como por recibir servicios que prestan el Poder Legislativo, Poder Judicial, Órganos Autónomos, Dependencias y Entidades del Poder Ejecutivo en sus funciones de derecho público.
 
 Los derechos por la prestación de servicios que establece esta Ley deberán estar relacionados con el costo total del servicio, incluso el financiero.
 
@@ -51,11 +59,35 @@ Cuando de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado u otra
 
 La Secretaría de Finanzas elaborará y distribuirá el contenido de esta Ley en las recaudaciones, colecturías de rentas y oficinas autorizadas para el cobro de los derechos para su observancia; la modificación, alteración en las cuotas establecidas darán lugar al inicio de procedimientos de responsabilidad administrativa, civil o penal que le sea aplicable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría de Finanzas, sin menoscabo de la interpretación que realicen los órganos jurisdiccionales estatales o federales. El Código Fiscal para el Estado de Oaxaca y su Reglamento y las demás disposiciones aplicables serán supletorios de esta ley en lo conducente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+La prestación de servicios continuos así como el otorgamiento del uso, goce o aprovechamiento de bienes de dominio púbico (sic) del Estado, en todos los casos tendrán el carácter de administrativos y se perfeccionarán en instrumentos de la misma naturaleza.
+
 ###### Artículo 2.
 
 Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que determine la misma.
 
 La Federación, los Municipios, los Poderes, órganos autónomos, dependencias y organismos descentralizados o cualquier otra persona, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar derechos o estén exentos de ellas, deberán pagar los derechos que establece esta Ley con las excepciones que en la misma se señalan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Para efectos de esta Ley, se consideran personas morales, la Federación, el Estado, los Municipios, sociedades mercantiles, asociaciones civiles, asociaciones en participación y las unidades económicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Cuando en esta disposición se haga referencia a contribuyentes, se entenderá que éstos se refieren a personas físicas o morales según sea el caso.
 
 ###### Artículo 3.
 
@@ -75,13 +107,21 @@ En el supuesto de que el contribuyente no haga la presentación de los comproban
 
 Los beneficiarios de las transferencias provenientes de derechos que tengan destinos específicos a que se refiere esta Ley, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Secretaría de Finanzas dentro de los 15 días naturales siguientes al cierre del ejercicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 4.
 
-Cuando en esta Ley, se establezca que los derechos se pagarán por mensualidades o anualidades, se entenderá que dichos pagos son previos a la prestación del servicio correspondiente.
+Cuando en esta Ley, se establezca que los derechos se pagarán por mensualidades o anualidades, se estará a lo siguiente:
 
 Las mensualidades y anualidades a que se hace referencia en esta Ley, corresponden al pago de derechos por la prestación de servicios proporcionados durante mes de calendario o durante el año de calendario, respectivamente, excepto que se señale expresamente otro período.
 
-Tratándose de mensualidades, el contribuyente efectuará el entero del derecho, a más tardar el día 5 del mes en que se preste el servicio y deberá presentar el comprobante de pago a la dependencia correspondiente a más tardar el día 15 de ese mes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de mensualidades, el contribuyente efectuará el pago a más tardar el día 5 del mes siguiente al que se prestó el servicio y deberá presentar el comprobante de pago a la dependencia correspondiente a más tardar el día 8 de ese mes.
 
 Si el servicio, cuyas cuotas se paguen por mensualidades, se solicita después de los primeros 5 días del mes de que se trate, el entero del derecho deberá efectuarse dentro de los 5 días siguientes a aquél en que se empieza a prestar el servicio y el comprobante de pago se entregará a la dependencia correspondiente dentro de los 5 días siguientes a aquél en que se hizo el entero. Las subsecuentes mensualidades se pagarán conforme al párrafo anterior.
 
@@ -93,11 +133,45 @@ Cuando no se llenen los requisitos legales para la prestación de los servicios 
 
 Tratándose de los derechos que se causen por ejercicios, cuando el uso, goce o aprovechamiento de los bienes del dominio público del Estado sea por periodo menor, el pago del derecho se hará proporcionalmente al periodo al que se use o aproveche el bien.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Tratándose del uso, goce o aprovechamiento de bienes de dominio público del Estado, el contribuyente deberá efectuar el pago del 30 por ciento del monto a pagar, por concepto de anticipo para reservación del bien, mismo que no podrá exceder de seis meses anteriores al uso efectivo del mismo. Asimismo, podrá liquidar la totalidad del derecho siempre que el evento se efectúe en el mismo ejercicio fiscal. No procederá la devolución de derechos que por concepto de anticipo se efectúe por causas imputables al contribuyente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Cuando la prestación del uso, goce o aprovechamiento de bienes de dominio público del Estado, se reserve en el año anterior al que efectivamente se utilice, el monto pendiente de pago se calculará conforme a la cuota que se encuentre vigente en el ejercicio fiscal en que se lleve a cabo el evento o actividad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Para el caso de servicios públicos en los que se establezca fecha específica para que sean prestados, éstos deberán efectuarse durante el ejercicio fiscal en que se hubieren pagado. Cuando el contribuyente realice el pago de derechos en los cuales se establezca día, lugar o forma específica en la que se efectuará el servicio y por causas no imputables a la autoridad encargada-de su prestación ésta no pueda realizar el servicio, se considerará que éste se otorgó.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Cuando por causas no imputables a los contribuyentes, los servidores públicos en la prestación de un servicio público modifiquen o cancelen datos personales o relativos a bienes inmuebles, éstos de oficio deberán corregir los datos sin costo para el contribuyente afectado, dejando constancia justificada de lo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Las cuotas contenidas en el Artículo 99 de esta Ley se actualizarán a partir del primero de enero del año siguiente, conforme a la variación del promedio anual del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de noviembre del año anterior al ejercicio fiscal en qué deban actualizarse. Para ello, deberá dividirse el índice promedio de los doce meses más recientes entre el índice promedio de los doce meses anteriores, para aplicar su resultado como factor de ajuste.
+
 ###### Artículo 5.
 
 Para determinar las cuotas de los derechos establecidos en esta Ley se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades mayores de 51 y hasta 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
-Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más derechos, deberá considerar, en todo caso, la cuota sin ajuste que corresponda a cada derecho, y sólo a la suma de los mismos se aplicará el ajuste a que se refiere el párrafo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más derechos, deberá considerar; en todo caso, la cuota ajustada que corresponda a cada derecho.
 
 Para facilitar el cumplimiento de las obligaciones de los contribuyentes, los derechos establecidos en esta Ley que se paguen en oficinas autorizadas en el extranjero o por residentes en el extranjero, se efectuarán en moneda extranjera.
 
@@ -105,35 +179,61 @@ Para facilitar el cumplimiento de las obligaciones de los contribuyentes, los de
 
 Las dependencias y entidades de la Administración Pública Estatal deberán informar a la Secretaría de Finanzas a más tardar dentro de los treinta días naturales del mes de enero del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan enterado a la misma, durante el ejercicio fiscal inmediato anterior.
 
-Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, deberán presentar a la Secretaría de Finanzas, un informe dentro de los primeros quince días del mes de julio respecto de los ingresos que hayan percibido por derechos durante el primer semestre del ejercicio fiscal en curso, así como los que tengan programados percibir durante el segundo semestre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+El Poder Judicial, Órganos Autónomos, Dependencias y Entidades que presten servicios públicos u otorguen el uso, goce o aprovechamientos de bienes de dominio público del Estado, deberán remitir informe dentro de los primeros diez días naturales de concluido el trimestre a la Secretaría de Finanzas sobre la evolución de los ingresos, situación respecto de las metas de recaudación y una explicación detallada de la misma, así como las que tengan programados percibir durante el trimestre inmediato.
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, en reglas de carácter general determinará los montos y procedimientos para determinar el destino de los derechos contenidos en la presente Ley.
 
 ## Título Segundo. De los derechos por el uso, goce o aprovechamiento de bienes del Dominio Público
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1386, PUBLICADO EN EL P.O. 15 DE DICIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
 Para efectos de este título, se entenderá por:
 
-I. Actividades Académicas y Culturales: A las efectuadas por Instituciones Educativas Públicas o Privadas, y las realizadas por instituciones artísticas;
+I. Actividades Gubernamentales: A las generadas por autoridades municipales, estatales y federales, derivadas del ejercicio de sus funciones.
 
-II. Actividades Artísticas: Todo esparcimiento a cargo de personas dedicadas a la actuación, musicales y circenses o afines;
+Las actividades organizadas y presididas por instituciones privadas no podrán ser consideraras (sic) de naturaleza gubernamental por ninguna causa, así como aquellas por las cuales se obtengan ingresos por boletaje.
 
-III. Actividades Gubernamentales: A las reuniones organizadas y presididas por los servidores públicos de los Poderes, Órganos Autónomos o Ayuntamientos;
+II. Actividades Empresariales: A las realizadas con fines económicos.
 
-IV. Actividades Sociales: A la reunión de personas con el propósito de celebrar algún acontecimiento familiar, de agrupación o asociación;
+III. Actividades Privadas: A las que tienen como objeto celebrar acontecimientos civiles y protocolarios.
 
-V. Eventos Privados: A la celebración de programas de trabajo que se lleven a cabo sin inclusión de personas no autorizadas al mismo; y
+IV. Actividades Académicas y/o Culturales: A las que desarrollen e impulsen la investigación, capacitación, valores culturales, artísticos, antropológicos, históricos, turísticos y educativos y por los cuáles no se persigan fines económicos.
 
-VI. Reuniones Ejecutivas: A las celebradas por un grupo reducido de participantes no abiertas al público en general.
+Las actividades de este rubro que persigan fines económicos, serán tratadas como actividad empresarial.
 
-### Capítulo Primero. Bienes de Dominio Público en Custodia de la Secretaría de Cultura y Artes de Oaxaca
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Primero. Bienes de Dominio Público en Custodia de la Coordinación de Espacios Culturales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 8.
 
-Son sujetos de este derecho las personas físicas, morales públicas y privadas que soliciten el uso o goce de bienes inmuebles en custodia de la Secretaría de Cultura y Artes de Oaxaca.
+Son sujetos de este derecho las personas físicas, morales públicas y privadas que soliciten el uso, goce o aprovechamiento de bienes inmuebles en custodia de la Coordinación de Espacios Culturales.
+
+La prestación del uso, goce o aprovechamiento de bienes de dominio público del Estado de este capítulo, podrá realizarse a través de convenios de colaboración administrativa para la difusión de las tradiciones y cultura oaxaqueña e incentivar la promoción de nuevos talentos y de artistas independientes, en el que se determinará el costo de la prestación del inmueble, y para efectos de esta Ley se denominará como derechos de taquilla.
+
+Los ingresos obtenidos por el uso, goce o aprovechamiento de los bienes de dominio público del Estado, contenidos en este capítulo, se destinarán a los mismos mediante programas anuales de restauración, conservación, mantenimiento e investigación.
 
 #### Sección Primera. Del Museo de los Pintores Oaxaqueños
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 9.
 
@@ -145,65 +245,251 @@ mínimos
 
 I Patio Principal:
 
-a) Actividades Sociales, por 8 horas: 202.00
+a) Actividad Gubernamental:
 
-b) Actividades Académicas y Culturales,
+1 Por 9 horas: 90.00
 
-en horario de servicio
+2 Por 6 horas: 76.00
 
-del Museo, por 3 horas: 101.00
+3 Por 3 horas: 51.00
 
-II Segundo Patio:
+4 Por hora adicional: 20.30
 
-a) Actividades Sociales, por 8 horas: 202.00
+b) Actividad Empresarial y Privada:
 
-b) Actividades Académicas y Culturales,
+1 Por 9 horas: 178.00
 
-en horario de servicio
+2 Por 6 horas: 152.00
 
-del Museo, por 3 horas: 101.00
+3 Por 3 horas: 102.00
 
-III Por ambos patios, señalados en los incisos a) y b):
+4 Por hora adicional: 20.30
 
-a) Actividades Sociales, por 8 horas: 404.00
+c) Actividad Académica y/o Cultural:
 
-b) Actividades Académicas y Culturales,
+1 Por 9 horas: 72.00
 
-en horario de servicio
+2 Por 6 horas: 61.00
 
-del Museo, por 3 horas: 202.00
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.30
+
+II Segundo Patio
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 20.30
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.30
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 72.00
+
+2 Por 6 horas: 61.00
+
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.30
+
+III Ambos Patios
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 153.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.30
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 356.00
+
+2 Por 6 horas: 305.00
+
+3 Por 3 horas: 203.00
+
+4 Por hora adicional: 20.30
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 142.00
+
+2 Por 6 horas: 122.00
+
+3 Por 3 horas: 81.00
+
+4 Por hora adicional: 20.30
 
 IV Sala Principal:
 
-a) Reuniones Ejecutivas, en horario
+a) Actividad Gubernamental:
 
-de servicio del Museo,
+1 Por 9 horas: 90.00
 
-por 3 horas: 101.00
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 20.30
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.31
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 72.00
+
+2 Por 6 horas: 61.00
+
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.31
 
 V Sala Rodolfo Morales:
 
-a) Reuniones Ejecutivas, en horario de
+a) Actividad Gubernamental:
 
-servicio del Museo, por 3 horas: 61.00
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 20.30
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.30
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 72.00
+
+2 Por 6 horas: 61.00
+
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.30
 
 VI Sala Francisco Gutiérrez:
 
-a) Reuniones Ejecutivas, en horario de
+a) Actividad Gubernamental:
 
-servicio del Museo, por 4 horas: 40.00
+1 Por 9 horas: 90.00
 
-VII Museo Completo:
+2 Por 6 horas: 76.00
 
-a) Eventos Privados, por 8 horas, incluidas
+3 Por 3 horas: 51.00
 
-visitas guiadas a salas de exposiciones: 404.00
+4 Por hora adicional: 20.30
 
-Por hora adicional: 33.00
+b) Actividad Empresarial y Privada:
 
-VIII Actividades Gubernamentales 101.00
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.30
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 72.00
+
+2 Por 6 horas: 61.00
+
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.30
+
+VII Patio 1, 2 y Terraza:
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 267.00
+
+2 Por 6 horas: 229.00
+
+3 Por 3 horas: 152.00
+
+4 Por hora adicional: 60.93
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 533.00
+
+2 Por 6 horas: 457.00
+
+3 Por 3 horas: 305.00
+
+4 Por hora adicional: 60.93
+
+VIII Terraza:
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 20.31
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.31
+
+Pesos
+
+IX Establecimiento comercial por mes: $2,679.00
+
+X Visita guiada por persona: $20.00
 
 #### Sección Segunda. Del Museo Estatal de Arte Popular "Oaxaca"
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
@@ -213,41 +499,93 @@ Número de salarios
 
 mínimos
 
-I Patio Central:
+I Patio Central
 
-a) Actividades Sociales, por 8 horas: 101.00
+a) Actividad Gubernamental:
 
-b) Actividades Académicas y Culturales,
+1 Por 9 horas: 67.00
 
-en horario de servicio del Museo,
+2 Por 6 horas: 57.00
 
-por 3 horas: 51.00
+3 Por 3 horas: 39.00
 
-c) Actividades Gubernamentales, por 3 horas: 30.00
+4 Por hora adicional: 15.00
 
-II Terraza:
+b) Actividad Empresarial y Privada:
 
-a) Actividades Sociales, por 8 horas: 101.00
+1 Por 9 horas: 133.00
 
-b) Actividades Académicas y Culturales,
+2 Por 6 horas: 114.00
 
-en horario de servicio del Museo,
+3 Por 3 horas: 77.00
 
-por 3 horas: 51.00
+4 Por hora adicional: 15.00
 
-c) Actividades Gubernamentales, por 3 horas: 30.00
+c) Actividad Académica y/o Cultural:
 
-III Museo Completo:
+1 Por 9 horas: 54.00
 
-a) Eventos Privados, por 8 horas, incluidas visitas
+2 Por 6 horas: 46.00
 
-guiadas a salas de exposiciones: 505.00
+3 Por 3 horas: 31.00
 
-b) Actividades Gubernamentales, por 8 horas: 252.00
+4 Por hora adicional: 15.00
 
-Por hora adicional: 17.00
+II Terraza
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 67.00
+
+2 Por 6 horas: 57.00
+
+3 Por 3 horas: 39.00
+
+4 Por hora adicional: 15.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 133.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 15.00
+
+III Patio y Terraza
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 133.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 15.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 266.00
+
+2 Por 6 horas: 229.00
+
+3 Por 3 horas: 152.00
+
+4 Por hora adicional: 30.46
+
+Pesos
+
+IV Establecimiento comercial, por mes: $2,679.00
+
+V Visita guiada por persona $20.00
 
 #### Sección Tercera. Del Teatro Macedonio Alcalá
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
@@ -257,71 +595,191 @@ Número de salarios
 
 mínimos
 
-I Foro y Sala:
+I Foro
 
-a) Actividades Sociales, por 24 horas: 606.00
+a) Actividad Gubernamental:
 
-II Salón Ex Casino:
+1 Por 12 horas: 423.00
 
-a) Actividades Sociales por 8 horas: 242.00
+2 Por 8 horas: 339.00
 
-b) Actividades Académicas y Culturales,
+3 Por hora adicional: 51.00
 
-por 3 horas: 121.00
+b) Actividad Empresarial y Privada:
 
-III Salón Principal Herradura:
+1 Por 12 horas: 846.00
 
-a) Actividades Sociales, por 3 horas: 101.00
+2 Por 8 horas: 677.00
 
-IV Teatro Completo:
+3 Por hora adicional: 51.00
 
-a) Actividades de Eventos Privados,
+c) Actividad Académica y/o Cultural:
 
-por 8 horas: 909.00
+1 Por 12 horas: 339.00
 
-b) Actividades Gubernamentales,
+2 Por 8 horas: 271.00
 
-por 8 horas: 454.50
+3 Por hora adicional: 51.00
 
-Por hora adicional: 100.00
+II Salón Excasino
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 112.00
+
+2 Por 6 horas: 95.00
+
+3 Por 3 horas: 64.00
+
+4 Por hora adicional: 26.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 223.00
+
+2 Por 6 horas: 191.00
+
+3 Por 3 horas: 127.00
+
+4 Por hora adicional: 26.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 26.00
+
+III Salón Herradura
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 45.00
+
+2 Por 6 horas: 38.00
+
+3 Por 3 horas: 26.00
+
+4 Por hora adicional: 11.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 11.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 35.00
+
+2 Por 6 horas: 31.00
+
+3 Por 3 horas: 21.00
+
+4 Por hora adicional: 11.00
+
+IV Foro, Salón Herradura y Excasino
+
+a) Actividad Gubernamental:
+
+1 Por 24 horas: 863.00
+
+2 Por 12 horas: 647.00
+
+3 Por 6 horas: 432.00
+
+4 Por hora adicional: 86.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 24 horas: 1395.00
+
+2 Por 12 horas: 1295.00
+
+3 Por 6 horas: 864.00
+
+4 Por hora adicional: 86.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 24 horas: 691.00
+
+2 Por 12 horas: 518.00
+
+3 Por 6 horas: 346.00
+
+4 Por hora adicional: 86.00
+
+Pesos
+
+V Establecimiento comercial, por mes: $ 17,857.00
+
+VI Visita guiada por persona: $20.00
 
 #### Sección Cuarta. Del Teatro Juárez
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-Por el uso, goce o aprovechamiento del Teatro Juárez, se causarán
-
-derechos que se pagarán de conformidad con las siguientes cuotas:
+Por el uso, goce o aprovechamiento del Teatro Juárez, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
 Número de salarios
 
 mínimos
 
-I Foro y Sala:
+I Foro
 
-a) Actividades Artísticas, Culturales y Académicas
+a) Actividad Gubernamental:
 
-1 Por 3 horas: 162.00
+1 Por 12 horas: 169.00
 
-2 Por 12 horas: 200.00
+2 Por 8 horas: 148.00
 
-3 Por hora: 54.00
+3 Por 6 horas: 127.00
 
-b) Actividades Gubernamentales
+4 Por hora adicional: 26.00
 
-1 Por 3 horas: 121.00
+b) Actividad Empresarial y Privada:
 
-c) Espectáculos Comerciales
+1 Por 12 horas: 339.00
 
-1 Por 3 horas: 250.00
+2 Por 8 horas: 296.00
 
-2 Por 12 horas: 360.00
+3 Por 6 horas: 254.00
 
-d) Espectáculos que impulsen la cultura oaxaqueña
+4 Por hora adicional: 26.00
 
-1 Por 3 horas: 10.00
+c) Actividad Académica y/o Cultural:
+
+1 Por 12 horas: 94.00
+
+2 Por 8 horas: 76.00
+
+3 Por 6 horas: 51.00
+
+4 Por hora adicional: 26.00
+
+Pesos
+
+II Establecimiento comercial, por mes: $7,143.00
+
+III Visita guiada por persona: $20.00
 
 #### Sección Quinta. Del Teatro Álvaro Carrillo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 13.
 
@@ -331,19 +789,45 @@ Número de salarios
 
 mínimos
 
-I Foro y Sala:
+I Foro
 
-a) Actividades Artísticas, Culturales y
+a) Actividad Gubernamental:
 
-Académicas, por hora: 61.00
+1 Por 12 horas: 259.00
 
-b) Actividades Gubernamentales,
+2 Por 8 horas: 213.00
 
-por hora: 31.00
+3 Por 6 horas: 183.00
 
-c) Actividades Sociales, por hora: 66.00
+4 Por hora adicional: 37.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 12 horas: 518.00
+
+2 Por 8 horas: 427.00
+
+3 Por 6 horas: 366.00
+
+4 Por hora adicional: 37.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 12 horas: 207.00
+
+2 Por 8 horas: 171.00
+
+3 Por 6 horas: 146.00
+
+4 Por hora adicional: 37.00
+
+II Lobby, Mezzanine, Vestíbulo, por hora: 9.00
 
 #### Sección Sexta. Del Salón de Exposiciones "Monte Albán"
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 14.
 
@@ -353,21 +837,139 @@ Número de salarios
 
 mínimos
 
-I Salón Monte Albán por hora: 18.00
+I Salón de Exposiciones por hora:
 
-a) Actividades Gubernamentales por hora: 9.00
+a) Actividad Gubernamental: 9.00
 
-II Salón Dainzú por hora: 8.00
+b) Actividad Empresarial: 18.00
 
-a) Actividades Gubernamentales por hora: 4.00
+c) Actividad Privada: 17.00
+
+d) Actividad Académica y/o Cultural: 9.00
+
+II Salón Dainzú, por hora:
+
+a) Actividad Gubernamental: 4.00
+
+b) Actividad Empresarial: 9.00
+
+c) Actividad Privada: 8.00
+
+d) Actividad Académica y/o Cultural: 4.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Séptima. Del Museo de Arqueología Ervin Frissell
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Artículo 14 A. Las personas físicas que tengan acceso al Museo de Arqueología Ervin Frisell, causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+Mínimos
+
+Patio Central
+
+I
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 134.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 31.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 267.00
+
+2 Por 6 horas: 229.00
+
+3 Por 3 horas: 153.00
+
+4 Por hora adicional: 31.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 107.00
+
+2 Por 6 horas: 91.00
+
+3 Por 3 horas: 61.00
+
+4 Por hora adicional: 31.00
+
+II Jardín
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 89.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 20.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 178.00
+
+2 Por 6 horas: 152.00
+
+3 Por 3 horas: 102.00
+
+4 Por hora adicional: 20.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 72.00
+
+2 Por 6 horas: 61.00
+
+3 Por 3 horas: 41.00
+
+4 Por hora adicional: 20.00
+
+Pesos
+
+III Establecimiento comercial, por mes: $2,679.00
+
+IV Acceso al Museo, por persona: $20.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Octava. Del Museo de Arte Popular de San Bartolo Coyotepec
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Artículo 14 B. Las personas físicas que tengan acceso al Museo de Arte Popular de San Bartolo Coyotepec, causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Pesos
+
+I Museo
+
+a) Acceso al Museo, por persona: $20.00
 
 #### Sección Primera. Del Auditorio Guelaguetza
 
-#### Sección Segunda. Del Jardín Etnobotánico
+#### Sección Segunda. Planetario Nundehui
 
-#### Sección Tercera. Estadio de Futbol "Benito Juárez"
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### Sección Primera. Registro Civil
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo Segundo. Bienes de Dominio Público en Custodia de la Secretaría de Administración
 
@@ -375,9 +977,53 @@ a) Actividades Gubernamentales por hora: 4.00
 
 Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán derechos conforme a las siguientes cuotas:(sic)
 
-#### Sección Segunda. Registro Público de la Propiedad y del Comercio
+#### Sección Segunda Bis. Espacios en Instalaciones de Oficinas y Complejos Públicos
 
-#### Sección Tercera. Del Ejercicio Notarial
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Artículo 17 A. Las personas físicas o morales a las que se les otorgue el uso, goce o aprovechamiento de espacios en instalaciones de oficinas y complejos públicos, causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Pesos
+
+I Colocación de dispensadores de alimentos,
+
+por mes: $2,232.00
+
+II Colocación de dispensadores de bebidas
+
+calientes, por mes: $268.00
+
+III Colocación de dispensadores de bebidas
+
+frías, por mes: $3,571.00
+
+IV Colocación de cajeros de Instituciones
+
+de Crédito, por mes: $893.00
+
+VI (SIC) Establecimientos de locales de
+
+Instituciones de Crédito, por mes:
+
+Tipo A hasta 50 metros cuadrados $15,536.00
+
+Tipo B hasta 100 metros cuadrados: $31,071.00
+
+Tipo C hasta 273 metros cuadrados: $41,429.00
+
+VII Establecimientos de locales para
+
+venta de alimentos:
+
+Hasta 22 metros cuadrados: $13,393.00
+
+#### Sección Tercera. Estadio de Futbol "Benito Juárez"
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 16.
 
@@ -395,53 +1041,63 @@ II Actividades Gubernamentales
 
 por 24 horas: 1200.00
 
-III Equipo de Audio por hora: 25.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV Equipo de iluminación por hora: 25.00
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-Por hora adicional: 100.00
+III Equipo de Audio por 3 horas: 150.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Equipo de iluminación por 3 horas: 150.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+V Por hora adicional en cualquiera de las
+
+fracciones anteriores: 10.00
 
 Para el caso de que no sea utilizado el rider técnico del Auditorio, se cobrará el 25% sobre el costo del derecho a pagar por el uso del inmueble, por concepto de uso de energía eléctrica.
 
-#### Sección Cuarta. Publicaciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### Sección Quinta. Por los Servicios que se presten en materia de Transporte Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Primera. Registro Civil
+
+#### Sección Segunda. Registro Público de la Propiedad y del Comercio
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 17.
 
-Por el uso, goce o aprovechamiento del Jardín Etnobotánico de Oaxaca, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+Las personas físicas que tengan acceso al Planetario Nundehui causarán y pagarán derechos de conformidad con las siguientes cuotas:
 
-Número de salarios
+Pesos
 
-mínimos
+I Planetario
 
-I Plazuela por 7 horas: 2020.00
+a) Acceso al Planetario $20.00
 
-II Patio del Huaje por 7 horas: 1010.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III Cubo de la escalera por 3 horas: 30.00
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-IV "La Taquilla" por 3 horas: 30.00
-
-V Las Orquídeas por 3 horas: 24.00
-
-VI Actividades Gubernamentales,
-
-en Plazuela: 1010.00
-
-VII Actividades Gubernamentales,
-
-en Patio del Huaje: 550.00
-
-VIII Actividades Gubernamentales,
-
-tratándose de la fracciones III, IV y V: 15.00
-
-#### Sección Sexta. De los Servicios en Materia de Protección Civil
+#### Sección Tercera. Del Ejercicio Notarial
 
 ### Capítulo Tercero. Bienes de Dominio Público en Custodia de la Casa de la Cultura Oaxaqueña
 
-#### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Cuarta. Publicaciones
 
 ###### Artículo 18.
 
@@ -451,29 +1107,59 @@ Número de salarios
 
 mínimos
 
-I Estadio de Futbol "Benito Juárez",
+I Estadio de futbol “Benito Juárez”
 
-por hora: 50.00
+a) Actividades Artísticas, Culturales
 
-II Explanada del Estadio de Futbol
+y Académicas, por 8 horas: 1,400.00
 
-(Comprende Canchas de
+b) Actividades Gubernamentales, por 8 horas: 700.00
 
-Basquetbol), por hora: 30.00
+c) Actividades Deportivas, por 3 horas:
 
-III Estacionamiento del Estadio de
+1 Liga MX o su equivalente: 300.00
 
-Futbol, por hora: 11.00
+2 Primera División A: 200.00
 
-IV Teatro al aire libre del parque
+3 Segunda División: 150.00
 
-"Ciudad de las Canteras", por hora: 13.00
+4 Tercera División o Eventos Deportivos
 
-Tratándose de Actividades Gubernamentales, se causará el pago del 50% de la cuota establecida en la fracción de que se trate.
+de Promoción: 100.00
 
-Se cobrará el 25% sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
+d) Por hora adicional en cualquiera de los
 
-#### Sección Primera. De la Dirección General de Tránsito
+incisos anteriores: 100.00
+
+II Explanada y canchas de básquetbol
+
+a) Exposiciones Comerciales y Ferias,
+
+por 15 días: 1200.00
+
+b) Actividades Artísticas, Culturales y
+
+Verbenas populares, por 8 horas: 700.00
+
+c) Actividades Gubernamentales,
+
+por 8 horas: 350.00
+
+III Estacionamiento del Estadio
+
+Actividades Artísticas, Culturales y
+
+Deportivas, por 8 horas: 180.00
+
+IV Teatro al aire libre “Ciudad de
+
+las Canteras”, por 3 horas: 3.00
+
+Se cobrará adicionalmente el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
+
+#### Sección Quinta. Por los Servicios que se presten en materia de Transporte Público
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 19.
 
@@ -483,21 +1169,131 @@ Número de salarios
 
 mínimos
 
-I Foro Margarita Maza Parada, por 3 horas: 35.27
+I Foro Margarita Maza Parada
 
-II Pérgola Sor Juana Inés de la
+a) Por 3 horas: 37.00
 
-Cruz, por 3 horas: 17.64
+b) Por 1 hora: 16.00
 
-III Sala Arcelia Yañiz, por 3 horas: 26.46
+c) Equipo de sonido, por 1 hora: 14.00
 
-IV Sala Andrés Henestrosa,
+d) Equipo de iluminación, por 1 hora: 17.00
 
-por 3 horas: 26.46
+e) Mobiliario, por 1 hora: 10.00
 
-### Capítulo Primero. De la Prestación de Servicios Comunes de la Administración Pública Centralizada
+II Pérgola Sor Juana Inés de la Cruz
 
-### Capítulo Segundo. De la Secretaría General de Gobierno
+a) Por 3 Horas: 18.00
+
+b) Por 1 Hora: 8.00
+
+c) Equipo de sonido, por 1 hora: 14.00
+
+d) Equipo de iluminación, por 1 hora: 17.00
+
+e) Mobiliario, por 1 hora: 10.00
+
+III Sala Arcelia Yáñiz
+
+a) Por 3 horas: 26.50
+
+b) Por 1 Hora: 11.50
+
+c) Equipo de sonido, por 1 hora: 6.00
+
+d) Equipo de iluminación, por 1 hora: 7.00
+
+IV Sala Andrés Henestrosa
+
+a) Por 3 Horas: 26.50
+
+b) Por 1 Hora: 11.50
+
+c) Equipo de sonido, por 1 hora: 6.00
+
+d) Equipo de iluminación, por 1 hora: 7.00
+
+e) Mobiliario, por 1 hora: 10.00
+
+Para el caso de que no sea utilizado el equipo de sonido e iluminación se cobrará el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de uso de energía eléctrica.
+
+Tratándose de Actividades Gubernamentales, se causará el pago del 50 por ciento de la cuota establecida en la fracción e inciso de que se trate.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Cuarto. Del Jardín Etnobotánico
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Artículo 19 A. Por el uso, goce o aprovechamiento de las instalaciones del Jardín Etnobotánico, se causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Plazuela
+
+a) Por 7 horas: 2255.00
+
+b) Actividades Gubernamentales: 1130.00
+
+c) Por hora adicional: 562.00
+
+II Patio del Huaje
+
+a) Por 7 horas: 1130.00
+
+b) Actividades Gubernamentales: 566.00
+
+c) Por hora adicional: 281.00
+
+III Cubo de la Escalera
+
+a) Por 3 horas: 42.00
+
+b) Actividades Gubernamentales: 22.00
+
+IV La Taquilla
+
+a) Por 3 horas: 42.00
+
+b) Actividades Gubernamentales: 22.00
+
+V Las Orquídeas
+
+a) Por 3 horas: 33.00
+
+b) Actividades Gubernamentales: 20.00
+
+VI Imagen del Jardín con fines comerciales
+
+a) Sesión de Fotografía o Video: 200.00
+
+Pesos
+
+VII Visitas Guiadas
+
+a) Español
+
+1 Por hora: $50.00
+
+b) Inglés
+
+1 Por hora: $100.00
+
+Las sesiones de fotografía o video de carácter educativo y cultural no serán sujetos al pago de derechos.
+
+En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estudiantes con credencial de instituciones educativas nacionales y adultos mayores.
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
+
+### Capítulo Primero. De los Servicios a cargo de la Administración Pública
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
@@ -507,41 +1303,55 @@ Los servidores públicos a cargo de la administración de los bienes de dominio 
 
 ## Título Tercero. De los Derechos por la Prestación de Servicios
 
-### Capítulo Tercero. Por los servicios que presta la Secretaría de Seguridad Pública
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Segundo. De la Secretaría General de Gobierno
 
 ###### Artículo 21.
 
-Tratándose de los servicios que a continuación se enumeran que sean prestados por cualquiera de las Secretarías, Procuraduría General de Justicia del Estado, Órganos Desconcentrados y auxiliares, se pagarán derechos conforme a las cuotas que para cada caso a continuación se señalan:
+Los servicios que sean prestados por cualquiera de las Secretarías, Procuraduría General de Justicia del Estado, Órganos Desconcentrados y Auxiliares, y por Entidades Descentralizadas cuando dichos servicios no estén contemplados en el apartado de esta Ley que les corresponda, causarán y pagarán derechos por los conceptos y cuotas siguientes:
 
 Número de salarios
 
 mínimos
 
-I Expedición de copias certificadas de
+I Por búsqueda, cotejo y certificación de
 
-documentos, por cada hoja
+nombramientos de los trabajadores al
 
-tamaño carta u oficio: 0.28
+servicio del Estado de Oaxaca 1.50
 
-II Expedición de Constancias
+II Búsqueda y expedición de documentos
 
-de no Adeudo Financiero: 1.5
+que acrediten antigüedad laboral: 1.00
 
-III Expedición de Constancias de
+III Expedición de copias simples de
 
-no Adeudo Patrimonial: 1.5
+Documentos que integren los expedientes
 
-IV Reposición de constancias o
+personales de servidores públicos y
 
-duplicados de las misma: 0.14
+ex servidores públicos, hasta 20 hojas: 1.00
 
-V Compulsa de documentos, por hoja: 0.17
+Por hoja adicional se pagará $3.00
 
-No generarán el pago de derechos la expedición de documentos o copias certificadas que sean solicitados por las autoridades judiciales federales, locales y municipales competentes, siempre que esta solicitud no derive de la petición de un particular.
+IV Por la expedición de constancias de sueldo: 1.50
 
-Cuando por causas no imputables a los solicitantes de alguno de los servicios a que se refiere el presente artículo, fuere necesario reponer o modificar algún registro, documento o trámite, se pagarán derechos correspondientes a la reposición o modificación.
+V Por la expedición de copias certificadas
 
-Cuando se soliciten constancias u otros documentos a alguna de las dependencias a que se refiere este artículo con motivo de la relación laboral entre el solicitante y le (sic) dependencia, no se pagarán los derechos a que se refiere este artículo.
+de documentos, por cada hoja tamaño
+
+carta u oficio: 0.18
+
+VII (SIC) Compulsa de documentos, por hoja: 0.17
+
+VIII Reposición o modificación de constancias: 0.14
+
+No generará el pago de derechos la expedición de documentos o copias certificadas que sean solicitadas por las autoridades judiciales federales, locales y municipales, siempre que la solicitud no derive de la petición de un particular.
+
+Cuando por causas imputables a los solicitantes de los servicios a que se refiere este artículo, fuere necesario reponer o modificar algún registro, documento o trámite, se pagarán derechos correspondientes por reposición o modificación.
 
 ###### Artículo 22.
 
@@ -567,7 +1377,11 @@ VI Reproducción en Audio casete: 0.21
 
 Tratándose de otros medios de reproducción previstos en esta ley, se sujetará a la misma; en aquellos casos en que se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
 
-### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
+### Capítulo Tercero. Por los servicios que presta la Secretaría de Seguridad Pública
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 23.
 
@@ -585,7 +1399,7 @@ III Reposición de credencial: 1.43
 
 Los servicios solicitados con carácter de urgente causarán cuota doble.
 
-#### Sección Segunda. De la Policía Auxiliar Bancaria, Industrial y Comercial
+#### Sección Sexta. De los Servicios en Materia de Protección Civil
 
 ###### Artículo 24.
 
@@ -763,11 +1577,11 @@ La Dirección del Registro Civil trimestralmente deberá informar a la Secretar�
 
 Los servicios prestados a las personas físicas dentro del "Programa Identidad sin Fronteras" tendrán un incremento del 25% sobre la cuota del servicio que se proporcione.
 
-#### Sección Primera. Atención en Salud
+#### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
 
 ###### Artículo 25.
 
-Por los servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán por cada uno, los siguientes derechos:
+Los contribuyentes que soliciten los servicios contenidos en los siguientes conceptos, causarán y pagarán derechos:
 
 Número de salarios
 
@@ -775,15 +1589,17 @@ mínimos
 
 I Por la inscripción de documentos por los que:
 
-a) Se adquiera o transmita el dominio
+a) Se adquiera o transmita el dominio o la
 
-o la posesión de bienes inmuebles
+posesión de bienes inmuebles o derechos
 
-o derechos reales, incluyendo
+reales, incluyendo compraventas en las que
 
-compraventas en las que el vendedor
+el vendedor se reserve el dominio: 20.50
 
-se reserve el dominio: 20.50
+Tratándose de viviendas de interés social
+
+o valor equivalente causarán una cuota de: 12.00
 
 b) Se realicen donaciones en pago o
 
@@ -795,11 +1611,11 @@ puedan conservar la propiedad de los
 
 bienes dados en pago o adjudicados: 15.50
 
-c) Por cancelación de las inscripciones
+c) Cancelación de las inscripciones
 
-ordenadas por la autoridad competente o
+ordenadas por la autoridad competente
 
-por voluntad de las partes: 15.00
+o por voluntad de las partes: 8.50
 
 II Por la inscripción de:
 
@@ -815,13 +1631,15 @@ vitalicios: 8.50
 
 III Por inscripción de:
 
-a) Contratos y operaciones de crédito o mutuo con
+a) Contratos y operaciones de crédito o
 
-garantía hipotecaría o prendaría, así como los que se
+mutuo con garantía hipotecaría o prendaría,
 
-destinen al financiamiento de la producción agrícola,
+así como los que se destinen al financiamiento
 
-pagarán derechos, conforme a lo siguiente:
+de la producción agrícola, pagarán derechos,
+
+conforme a lo siguiente:
 
 1 Cuando el monto del crédito sea para la
 
@@ -835,63 +1653,73 @@ cuatro veces el valor de la vivienda de interés
 
 social: 20.50
 
-3 Cuando el valor del crédito sea mayor a
+3 Contratos de crédito con garantía hipotecaria;
 
-cuatro veces el valor de la vivienda de interés
-
-social, pagarán conforme a la siguiente: 25.00
+así como de habilitación o avío: 20.50
 
 IV Por la inscripción de los convenios que
 
 modifiquen los contratos u operaciones de
 
-crédito o mutuo señalados en la fracción III
+crédito o mutuo con garantía hipotecaria o
 
-de este artículo: 13.50
+prendaria, así como los que se destinen al
 
-V Por el refrendo o la cancelación de
+financiamiento de la producción agrícola: 13.50
 
-gravámenes derivados de los contratos u
+V Por el refrendo o la cancelación de gravámenes
 
-operaciones de crédito o mutuo o de los
+derivados de los contratos u operaciones de crédito
 
-convenios mencionados en las fracciones
+o mutuo o de los convenios que modifiquen los
 
-III y IV de este artículo: 9.50
+contratos u operaciones de crédito o mutuo con
 
-VI Por la inscripción de contratos de
+garantía hipotecaria o prendaria, así como los que
 
-fideicomiso sobre bienes inmuebles: 30.00
+se destinen al financiamiento de la producción
+
+agrícola: 9.50
+
+VI Por la inscripción de contratos de fideicomiso
+
+sobre bienes inmuebles: 30.00
 
 VII Por la inscripción de los convenios que
 
-modifiquen los contratos de fideicomiso
+modifiquen los contratos de fideicomiso sobre
 
-mencionados en la fracción VI de este artículo: 13.50
+bienes inmuebles: 13.50
 
 VIII Por la cancelación de las inscripciones
 
-derivadas de los contratos de fideicomiso o
+derivadas de los contratos de fideicomiso sobre
 
-convenios mencionados en las fracciones VI y
+bienes inmuebles o convenios que modifiquen
 
-VII de este artículo: 9.50
+los contratos de fideicomiso sobre bienes
 
-IX Por la inscripción preventiva en embargos
+inmuebles: 9.50
 
-sobre bienes inmuebles: 15.50
+IX Por la inscripción de gravámenes sobre bienes
 
-a) Por inscripción de embargo derivado de juicio
+inmuebles: 15.50
+
+X Por inscripción de embargo derivado de juicio
 
 de alimentos: 2.50
 
-X Por inscripción o cancelación de cédulas
+XI Por inscripción o cancelación de cédulas
 
-hipotecarias: 20.00
+hipotecarias: 20.50
 
-XI Por refrendo o cancelación de gravámenes
+XII Por refrendo o cancelación de cédulas 10.00
 
-a que se refiere a la fracción IX de este artículo: 10.00
+hipotecarias, cuando por resolución judicial o
+
+administrativa se adjudique un bien y reporte
+
+varios gravámenes:
 
 Cuando por resolución judicial o administrativa
 
@@ -901,35 +1729,39 @@ el pago de derechos por cancelación se hará por
 
 cada gravamen, salvo que los gravámenes se
 
-encuentren relacionados con el mismo negocio, en
+encuentren relacionados con el mismo negocio,
 
-este caso sólo se pagarán derechos por la
+en este caso sólo se pagaran derechos por la
 
-cancelación del primer gravamen y éste dejará sin
+cancelación del primer gravamen y éste dejará
 
-efecto la inscripción de los gravámenes subsecuentes.
+sin efecto la inscripción de los gravámenes
 
-XII Por la inscripción de documentos en que
+subsecuentes.
+
+XIII Por la inscripción de documentos en que
 
 consten fianzas, contrafianzas u obligaciones
 
-solidarías con el fiador: 21.50
+solidarias con el fiador: 21.50
 
-XIII Por la cancelación de inscripciones derivadas
+XIV Por la cancelación de inscripciones
 
-de los contratos, actos u obligaciones mencionados
+derivadas de los contratos, actos u
 
-en la fracción XII, de este artículo: 13.50
+obligaciones que consten fianzas,
 
-XIV Por la inscripción de cada acto
+contrafianzas u obligaciones solidarias
 
-correspondiente al cumplimiento de la
+con el deudor 13.50
 
-condición, cancelación de la reserva de
+XV Por la inscripción de cada acto correspondiente
 
-dominio o consolidación de la propiedad: 9.50
+al cumplimiento de la condición, cancelación de la
 
-XV Por la inscripción de escrituras:
+reserva de dominio o consolidación de la propiedad: 9.50
+
+XVI Por la inscripción de escrituras:
 
 a) Por las que se constituyan sociedades
 
@@ -941,21 +1773,19 @@ comprendidas en la Ley Federal para el Fomento
 
 de la Microindustria: 30.50
 
-b) Por las que se protocolicen actas de
+b) Por las que se protocolicen actas de asambleas
 
-asambleas o de sesiones de los órganos de
+o de sesiones de los órganos de administración
 
-administración de sociedades mercantiles,
+de sociedades mercantiles, con excepción de las
 
-con excepción de las sociedades cooperativas
+sociedades cooperativas y de las sociedades
 
-y de las sociedades mercantiles comprendidas
+mercantiles comprendidas en la Ley Federal
 
-en la Ley Federal para el Fomento de la
+para el Fomento de la Microindustria: 13.50
 
-Microindustria: 13.50
-
-XVI Por la inscripción de documentos:
+XVII Por la inscripción de documentos:
 
 a) Por los que se constituyan sociedades civiles: 12.50
 
@@ -963,75 +1793,89 @@ b) Por los que se protocolicen actas de asambleas
 
 o de sesiones de los órganos de administración
 
-de sociedades civiles: 6.50
+de sociedades civiles: 8.50
 
-XVII Por la inscripción de los documentos
+XVIII Por la inscripción de los documentos en que
 
-en que consten los actos que a continuación
+consten los actos que a continuación se señalan:
 
-se señalan:
+a) Otorgamiento de poderes o sustitución de los
 
-a) Por los poderes o sustitución de los mismos,
+mismos, otorgados por personas físicas, por cada
 
-otorgados por personas físicas: 8.50
+primer apoderado, tanto en sociedades civiles,
 
-b) Por poderes o sustitución de los mismos,
+asociaciones civiles y mercantiles: 8.50
 
-otorgados por personas morales: 13.50
+Por cada apoderado adicional: 3.00
 
-c) Por revocación o renuncia de poderes: 6.50
+b) Otorgamiento de poderes o sustitución de
 
-XVIII Por la inscripción de los documentos en que los actos
+los mismos, otorgados por personas morales,
 
-que a continuación se relacionan:
+por cada primer apoderado, tanto en sociedades
 
-a) Patrimonio familiar: 6.50
+civiles, asociaciones civiles y mercantiles: 8.50
 
-b) Por la cancelación del patrimonio familiar: 4.50
+Por cada apoderado adicional: 3.00
 
-c) Capitulaciones matrimoniales: 3.50
+c) Por revocación o renuncia de poderes por
 
-d) Documentos o resoluciones judiciales
+cada apoderado: 6.50
 
-relativas a las sucesiones, independientemente
+XIX Por la inscripción de los documentos en que
 
-de los derechos que se causen por el registro
+los actos (sic) que a continuación se relacionan:
 
-de la transmisión de los bienes hereditarios: 9.50
+a) Patrimonio familiar: 3.50
+
+b) Por la cancelación del patrimonio familiar: 2.50
+
+c) Por la inscripción o cancelación de las
+
+capitulaciones matrimoniales: 3.50
+
+d) Documentos o resoluciones judiciales relativas
+
+a las sucesiones, independientemente de los
+
+derechos que se causen por el registro de la
+
+transmisión de los bienes hereditarios: 9.50
 
 e) Inscripción del auto declaratorio de herederos: 10.50
 
 f) Inscripción de la radicación de sucesiones
 
-testamentarias o intestamentarías ante Notario
+testamentarias o intestamentarias ante Notario
 
-Público: 20.00
+Público: 20.50
 
-XIX Por la inscripción de los documentos
+XX Por la inscripción de los documentos en que
 
-en que consten los actos que a continuación
-
-se señalan: 8.00
+consten los actos que a continuación se señalan:
 
 a) Actos, contratos, convenios o resoluciones
 
-judiciales o administrativas por los que se
+judiciales o administrativas, por los que se
 
 constituya un fraccionamiento, se lotifique,
 
 relotifique, divida o subdivida un inmueble,
 
-por cada lote:
+por cada lote: 8.50
 
-b) Fusión, por cada lote: 10.00
+No causará cobro alguno su cancelación.
+
+b) Fusión, por cada lote adherido: 10.00
 
 c) Constitución del régimen de propiedad
 
 en condominio, por cada unidad privativa: 8.00
 
-XX Por la inscripción de documentos en que consten los
+XXI Por la inscripción de documentos en que
 
-actos que a continuación se relacionan:
+consten los actos que a continuación se relacionan:
 
 a) Fideicomisos que no incluyan inmuebles,
 
@@ -1045,43 +1889,19 @@ c) Corresponsalía mercantil, por su registro
 
 o cancelación: 5.00
 
-XXI Por la inscripción de quiebras, secuestros,
+XXII Por la inscripción de quiebras, secuestros,
 
 intervenciones o sentencias interlocutorias o
 
-definitivas: 14.50
+definitivas: 15.50
 
-XXII Por la inscripción de convenios de suplencia
+XXIII Por cada anotación marginal o su cancelación
 
-notarial: 20.00
+girada por autoridad competente, independiente de
 
-XXIII Por la anotación marginal del primer
+que se ordene en un mismo documento: 6.50
 
-aviso preventivo solicitado por Notario Público: 6.50
-
-XXIV Por la anotación marginal de cada segundo
-
-aviso preventivo subsecuente solicitado por Notario
-
-Público o autoridad competente en los registros
-
-inmobiliarios involucrados, independientemente
-
-de que se trate de una misma operación: 6.50
-
-XXV Por la cancelación de la inscripción de
-
-convenios de suplencia notarial: 20.00
-
-XXVI Por cada anotación marginal o su
-
-cancelación girada por autoridad competente,
-
-independiente de que se ordene en un mismo
-
-documento: 6.50
-
-XXVII Por inscripción de documentos que
+XXIV Por inscripción de documentos que
 
 modifiquen, aclaren o sean simples consecuencias
 
@@ -1091,175 +1911,213 @@ derechos de registro y que se otorguen por las
 
 mismas personas que celebraron dichos actos o
 
-contratos, sin aumentar o disminuir el valor,
+contratos, sin aumentar o disminuir el valor, precio
 
-precio o monto consignados en estos y sin
+o monto consignados en estos y sin transferir
 
-transferir derechos: 13.50
+derechos: 13.50
 
-XXVIII Por la Inscripción o refrendo de
+XXV Por la inscripción o refrendo de contratos de
 
-contratos de arrendamiento o de comodato: 15.00
+arrendamiento o de comodato: 15.00
 
 Si en un mismo documento se consignan diversos
 
 actos o contratos registrables, se cobrarán derechos
 
-por la inscripción de cada uno de ellos, con base
+por la inscripción de cada uno, con base en lo
 
-en lo establecido en las fracciones anteriores.
+establecido en las fracciones anteriores.
 
-XXIX Por inscripción de testamento: 6.50
+XXVI Por inscripción de testamento: 6.50
 
-XXX Por la inscripción de:
+XXVII Por la inscripción de:
 
 a) De documentos por los que se constituyan
 
-asociaciones civiles, sociedades cooperativas,
+asociaciones civiles, sociedad cooperativas, sociedades
 
-sociedades de solidaridad social, sociedades rurales,
+de solidaridad social, sociedades rurales, sociedades
 
-sociedades mercantiles comprendidas en la Ley
+mercantiles comprendidas en la Ley Federal para el
 
-Federal para el Fomento de la Microindustria u otro tipo
+Fomento de la Microindustria u otro tipo de personas
 
-de personas morales distintas de las señaladas en las
+morales distintas de las señaladas en las fracciones
 
-fracciones XIV y XV: 10.50
+XV y XVI: 20.50
 
-b) De las actas de asamblea o de sesiones de
+b) De las actas de asamblea o de sesiones de los
 
-los órganos de administración de las sociedades,
+órganos de administración de asociaciones civiles,
 
-asociaciones o personas morales señaladas en el
+sociedades cooperativas, sociedades de solidaridad
 
-inciso anterior: 6.50
+social, sociedades rurales, sociedades mercantiles
 
-XXXI Por inscripción de la Patente de Notario
+comprendidas en la Ley Federal para el Fomento de
 
-Público Titular, Adjunto, Sustituto y por
+la Microindustria: 8.50
 
-cambio de Adscripción: 8.50
-
-XXXII Por inscripción de actos de cesión onerosa
+XXVIII Por inscripción de actos de cesión onerosa
 
 de crédito y derechos litigiosos: 20.50
 
-XXXIII Por la cancelación de las inscripciones
+XXIX Por la cancelación de las inscripciones de
 
-derivadas de los actos mencionados de la
+actos de cesión onerosa de crédito y derechos
 
-fracción anterior: 10.50
+litigiosos: 10.50
 
-XXXIV Por el reconocimiento de adeudo de
+a) Por el reconocimiento de adeudo de créditos
 
-créditos previamente otorgados: 9.50
+previamente otorgados: 9.50
 
-XXXV Por división de hipotecas (aquellos casos
+b) Por división de hipotecas (aquellos casos en que
 
-en que un inmueble general es otorgado en
+un inmueble general es otorgado en garantía
 
-garantía hipotecaria; posteriormente se lotifica
+hipotecaria; posteriormente se lotifica o subdivide,
 
-o subdivide, y cada fracción de terreno se le
+y cada fracción de terreno se le asigna un valor
 
-asigna un valor para responder a la garantía
+para responder a la garantía hipotecaria total); 6.50
 
-hipotecaría total): 6.50
+XXX Por resolución testamentaria o intestamentaria,
 
-XXXVI Por la corrección o cancelación de
+con el objeto de realizar un posterior traslado de
 
-cada primer o segundo aviso preventivo: 6.50
+dominio: 6.50
 
-XXXVII Por la consolidación de dos o más
+Se pagará por cada registro que se consolide.
 
-registros inmobiliarios en un solo o con
+XXXI Por cancelaciones de contratos de
 
-motivo de tramitación de alguna sucesión,
+arrendamiento o de comodatos: 6.50
 
-sea testamentaría, con el objeto de realizar
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-un posterior traslado de dominio. Por cada
-
-registro que se consolide se pagará: 6.50
-
-XXXVIII Por cancelaciones de contratos
-
-de arrendamiento o de comodatos: 6.50
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 26.
 
-Los derechos por la expedición de documentos y la prestación de documentos y de los servicios que a continuación se mencionan, serán cubiertos conforme a lo siguiente:
+Las personas físicas o morales que soliciten los siguientes servicios causarán y pagarán derechos conforme a las siguientes cuotas:
 
 Número de salarios
 
-mínimos
+Mínimos
 
-I Certificado de libertad o existencias
+I Certificado de libertad o existencia de
 
-de gravámenes: 8.50
+gravámenes de 5 años anteriores a la
 
-II Por cada copia certificada de asientos
+fecha: 4.50
 
-o documentos existentes en el archivo de la
+Por cada 5 años se aumentará el costo en
 
-dependencia, hasta 20 hojas: 6.50
+lo equivalente a: 2.00
 
-Por hoja adicional se cobrará$ 5.00.
+II Por cada copia certificada de:
 
-III Por cada copia simple de asientos o
+a) Asientos o documentos existentes en el archivo
 
-documentos existentes en el archivo
+de la dependencia; hasta 20 hojas: 6.50
 
-de la dependencia, hasta 20 hojas: 2.50
+Por hoja adicional se cobrará $3.00.
 
-Por hoja adicional se cobrará$ 5.00.
+b) Transcripción literal de asientos o documentos
 
-IV Certificado o constancia de no
+existentes en el archivo de la dependencias (sic),
 
-propiedad registrada: 6.50
+hasta 20 hojas: 15.00
 
-V Certificado de no inscripción de un
+Por hoja adicional se cobrará $3.00.
 
-bien inmueble: 15.00
+III Certificado o constancia de no propiedad
 
-VI Informes o constancias solicitadas por
+Registrada de 5 años anteriores a la solicitud: 6.50
+
+Por cada 5 años se aumentará el costo en lo
+
+Equivalente a: 3.00
+
+IV Certificado de no inscripción de un bien
+
+inmueble de 5 años anteriores a la solicitud: 8.50
+
+Por cada 5 años se aumentará el costo en lo
+
+equivalente a: 3.00
+
+V Informes o constancias solicitadas por
 
 autoridades de la Federación, de las Entidades
 
-Federativas, municipios u organismos de ellos: 6.50
+Federativas, Municipios o sus organismos: 6.50
 
-VII Por cada informe respecto al registro o
+VI Por cada informe respecto al registro o
 
 depósito de testamentos que se rindan a
 
-solicitud de jueces o notarios: 7.50
+solicitud de Jueces o Notarios: 6.50
 
-VIII Constancias de no revocación de poderes: 6.50
+En caso de conocer por más de un nombre, por
 
-IX Constancias conteniendo datos registrables
+cada nombre como se le identifique al extinto,
+
+se cobrará: 2.00
+
+VII Constancias de no revocación de poderes: 6.50
+
+VIII Constancias conteniendo datos registrales
 
 de una propiedad inmobiliaria: 10.00
 
-X Historias traslativas de dominio: 16.00
+IX Historias traslativas de dominio: 16.00
 
-XI Por verificación de datos registrales
+X Por verificación de datos registrales en libros
 
-por libro o índice que se realice el usuario
+o índices que se realice por el usuario en oficina: 1.00
 
-en oficina: 3.00
+XI Por ratificación de firmas ante el Registrador: 10.00
 
-XII Por ratificación de firmas ante el
+XII Por búsqueda de bienes a nombre de personas: 6.50
 
-registrador: 10.00
+Las fundaciones de beneficencia, de promoción
 
-XIII Por búsqueda de bienes a nombre
+humana y desarrollo social privada no pagarán
 
-de personas: 6.50
+cuota alguna.
 
-Tratándose de pago de derechos por trámites ante el Registro Público de la Propiedad y de Comercio, relativos al traslado de dominio de bienes inmuebles, será obligación del interesado demostrar con el comprobante autorizado, que no tiene adeudos fiscales de impuestos inmobiliarios.
+XIII Por el examen de todo documento público o
 
-#### Sección Segunda. Vigilancia y Control Sanitario
+privado, cuando éste se rechazare por no ser
+
+inscribible: 8.50
+
+XIV Por custodia o resguardo de documentos
+
+que se presenten para trámite de registro pasados
+
+los treinta días hábiles, contados a partir de la
+
+notificación por estrados, el solicitante no las
+
+recoja o no continúe con su trámite por el motivo
+
+que fuere, pagará por cada mes que transcurra: 2.50
+
+La cantidad a pagar no deberá exceder de 20
+
+salarios mínimos.
+
+Los servicios enumerados en los artículos 25 y 26 solicitados con carácter de urgentes causarán cuota doble.
+
+#### Sección Primera. De la Dirección General de Tránsito
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
@@ -1355,29 +2213,53 @@ al servicio de las Notarías del Estado, pagarán los
 
 derechos conforme a las siguientes cuotas:
 
-a) Los que tengan 150 fojas: 22.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Los que tengan 100 fojas: 18.00
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+a) Los que tengan 150 fojas: 25.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+b) Los que tengan 100 fojas: 20.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XIII Registro de la patente o fíat de Notario
 
 Público de número, por haber aprobado
 
-sus exámenes: 1550.00
+sus exámenes: 1650.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XIV Por la solicitud que hagan los
 
-Notarios de constancias personales: 16.00
+Notarios de constancias personales: 18.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XV Por la autorización de libros para ser utilizados
 
 exclusivamente en actos del patrimonio inmobiliario
 
-federal: 22.00
+federal: 25.00
 
 Los libros de los Notarios deberán reunir los requisitos que establecen los artículos 41 al 45 de la Ley del Notariado para el Estado de Oaxaca.
 
-#### Sección Primera. Servicios Ecológicos
+#### Sección Segunda. De la Policía Auxiliar Bancaria, Industrial y Comercial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 28.
 
@@ -1387,11 +2269,23 @@ Número de salarios
 
 mínimos
 
-I Cuarta de Plana: 2.60
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II Media Plana: 5.20
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-III Plana Completa: 10.50
+I Cuarta de Plana: 5.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+II Media Plana: 8.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Plana Completa: 12.00
 
 Por otros servicios del Periódico Oficial del Estado, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -1425,123 +2319,55 @@ De 81 a 120 páginas: 3.00
 
 Más de 121 páginas: 4.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 IV Suscripción semestral ordinarios del 1 al
 
-26 o 27 al 52: 7.00
+26 o 27 al 52: 9.00
 
-V Suscripción anual ordinarios del 1 al 52: 13.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+V Suscripción anual ordinarios del 1 al 52: 17.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VI Ejemplar que contenga convocatorias. 0.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
-No se causará el pago de derechos de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Órganos Autónomos, cuando obedezcan a actos administrativos de carácter general e interés público, siempre que la publicación del acto en el Periódico Oficial del Estado, sea ordenada con fundamento en las disposiciones jurídicas que regulen la emisión del propio acto.
+No se causará el pago de derechos de publicaciones a qua se refiere el artículo anterior, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo; decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, así como los acuerdos del Pleno del Poder Judicial.
 
-Los Poderes Legislativo, Judicial, Órganos Autónomos, así como las dependencias y entidades de la Administración Pública Estatal y, en su caso, los gobiernos municipales, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos, estados financieros y cédulas de notificación, así como de los documentos cuya inserción ordenen en la sección de avisos del Periódico Oficial del Estado o de aquellos que no cumplan las características señaladas en el párrafo anterior.
+Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
 
-Con los recursos obtenidos por la prestación de los servicios antes mencionados, la Secretaria de Gobierno financiará un programa de modernización del Periódico Oficial del Estado; previo a su ejecución, deberá publicar el estudio correspondiente y las acciones a realizar.
+Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo del Poder Ejecutivo del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; de igual manera deberá entregarse dos ejemplares a la persona física o moral que ordene y pague derechos por publicación.
 
-#### Sección Segunda. Supervisión de Obra Pública
+Los ingresos recaudados por los servicios contenidos en esta sección se destinarán hasta por un 60 por ciento al programa de modernización tecnológica de los Talleres Gráficos del Estado. Para tal efecto deberá presentar informe dentro de los primeros diez días naturales de cada mes de los servicios prestados a fin de determinar los montos que serán asignados al programa de referencia.
+
+#### Sección Primera. Del Servicio Público
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-Las personas físicas y morales que obtengan concesiones y permisos de transporte público en sus diferentes modalidades, causarán y pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
+#### Sección Segunda. Del Control Vehicular
 
-mínimos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I Por la integración de expediente para
-
-solicitar una concesión: 6.00
-
-II Por la integración de expedientes administrativos
-
-de regularización de concesiones en cualquier
-
-modalidad y tipo de unidad, por cesión de derechos
-
-entre particulares, causa hereditaria e invalidez: 5.00
-
-III Por la expedición de copias simples de
-
-documentos que obren en archivo, excepto
-
-copia de concesiones, permisos o autorizaciones,
-
-hasta 20 hojas: 2.50
-
-IV Por hoja adicional: 0.05
-
-V Por la expedición de constancias de concesión
-
-y/o permiso provisional y/o definitivo: 3.50
-
-VI Por certificación de documentos, excepto de
-
-concesiones o permisos hasta 20 hojas: 6.50
-
-VII Por hoja adicional: 0.10
-
-VIII Por la reexpedición o reposición cuando
-
-proceda, de concesión o permiso, en cualquiera
-
-de sus modalidades y tipo de unidades: 1.00
-
-IX Por la expedición de títulos de concesión para
-
-el servicio de transporte público de vehículos
-
-cerrados de carga exprés; servicio mixto de carga
-
-y pasaje con capacidad hasta tres toneladas: 198.00
-
-X Por la expedición de títulos de concesión para
-
-el servicio de transporte público en las modalidades
-
-de carga tipo general bajo tonelaje y de materiales
-
-para la construcción a granel tipo volteo: 198.00
-
-XI Por la expedición de títulos de concesión para el
-
-servicio de transporte público, en la modalidad de
-
-pasaje, tipo urbano, suburbano y foráneo, de alquiler
-
-o taxi y exclusivo de turismo, con unidades tipo
-
-autobús, minibús, combi, vagoneta: 236.50
-
-XII Por la expedición de títulos de concesión para
-
-el servicio de transporte público en la modalidad
-
-de carga tipo general de alto tonelaje y especializada: 198.00
-
-XIII Por la expedición de títulos de concesión
-
-de cualquier modalidad y tipo de unidad, por cesión
-
-de derechos entre particulares, causa hereditaria
-
-e invalidez: 100.00
-
-XIV Por la expedición de permisos para vehículos
-
-en la modalidad de personal al campo y empresas,
-
-y de transporte especial, tipo ambulancias, carrozas,
-
-escolar, pipa y centros de aprendizaje de conducción
-
-vehicular: 23.00
-
-XV Por la expedición de permiso para vehículos en
-
-modalidad de transporte especial, tipo grúa: 100.00
-
-#### Sección Tercera. Por el Suministro de Agua Potable
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
@@ -1625,15 +2451,25 @@ del Programa Interno, de Seguridad y Emergencia
 
 Escolar, Específicos y Planes Hospitalarios: 10.00
 
-III Por la autorización de los programas internos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-de Protección Civil:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-a) Riesgo Bajo: 60.00
+III Por la autorización de los programas
 
-b) Riesgo Mediano: 120.00
+internos de Protección Civil: 120.00
 
-c) Riesgo Alto: 180.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+a) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+b) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+c) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
 IV Por la autorización de los Programas Internos de
 
@@ -1735,7 +2571,11 @@ f) Obras de ingeniería civil: 60.00
 
 g) Transporte especializado de explosivos: 60.00
 
-#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
+#### Sección Primera. Atención en Salud
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
@@ -1747,11 +2587,17 @@ mínimos
 
 I Expedición de títulos de propiedad: 17.67
 
-II Escrituración: 8.82
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III Reposición de certificados de posesión
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-inmobiliaria: 1.76
+II Expedición de certificados de posesión
+
+inmobiliaria: 2.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III (DEROGADA, P.O. 15 DE DICIEMBRE DE 2012)
 
 IV Reimpresión de certificados de posesión
 
@@ -1771,11 +2617,81 @@ X Copias certificadas de expedientes: 0.18
 
 XI Información en dispositivos magnéticos: 0.53
 
-### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
+### Capítulo Tercero Bis. Por los Servicios que presta la Secretaría de Vialidad y Transporte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-Por la expedición de certificados de no antecedentes penales, se causará y pagará derechos a una cuota de 1.43 salarios mínimos.
+Se causarán y pagarán derechos, por los conceptos y cuotas que se establecen a continuación:
+
+Número de salarios
+
+mínimos
+
+I Expedición de certificados de no
+
+antecedentes penales: 1.50
+
+II Por los servicios del Centro de Desarrollo
+
+Infantil:
+
+a) Inscripción: 4.00
+
+b) Mensual: 6.00
+
+III Impartición de cursos a elementos de la
+
+Policía Estatal, por cada uno:
+
+a) Inicial: 219.00
+
+b) Especializada: 57.00
+
+IV Impartición de cursos a elementos de la
+
+Policía Auxiliar, Bancaria e Industrial y
+
+Comercial y Municipal, por cada uno:
+
+a) Continua: 32.00
+
+V Impartición de cursos a custodios, por
+
+cada uno:
+
+a) Continúa: 32.00
+
+b) Especializada: 57.00
+
+VI Impartición de curso de formación
+
+especializada a instituciones públicas o
+
+privadas, por elemento: 57.00
+
+VII Por cada curso de capacitación y
+
+adiestramiento a elementos en la Academia
+
+de la Policía Preventiva, por cada uno:
+
+a) Básico: 65.00
+
+b) Actualización: 60.00
+
+b (sic) ) Especializada: 325.00
+
+Pesos
+
+VIII Por la aplicación de evaluaciones de
+
+control de confianza: $3,000.00
+
+Los ingresos recaudados en las fracciones II a la VIII hasta por un 60 por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro de Desarrollo Infantil y los costos inherentes a la impartición de los cursos.
 
 ###### Artículo 34.
 
@@ -1863,89 +2779,635 @@ Por la modificación de dicha opinión se pagará
 
 la misma cuota.
 
-IV Por cada curso de capacitación y adiestramiento que
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-reciba cada uno de sus elementos en la Academia de la
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-Policía Preventiva:
+IV Impartición de curso de formación
 
-a) Básico: 65.00
+básica para integrantes de seguridad privada: 65.00
 
-b) Actualización: 60.00
-
-c) Especialización: 325.00
-
-#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
+#### Sección Segunda. Vigilancia y Control Sanitario
 
 ###### Artículo 35.
 
-Los contribuyentes que soliciten la expedición de licencias de manejo en la modalidad de chofer causarán y pagarán derechos conforme a las siguientes cuotas:
+Por la expedición de constancias, se causarán y pagarán derechos, conforme a las siguientes cuotas:
 
-Vigencia Número de salarios
+Número de salarios
 
 mínimos
 
-5 años 12.35
+I Pericial para determinar las condiciones
 
-3 años 8.38
+de seguridad, en su caso de comodidad, de
 
-2 años 6.17
+los vehículos automotrices de servicio:
+
+a) De servicio público: 4.40
+
+b) De servicio privado: 3.30
+
+II Constancia de no infracción:
+
+a) De servicio público: 2.20
+
+b) De servicio privado: 1.10
+
+III Constancia de no adeudo:
+
+a) De servicio público: 3.53
+
+b) De servicio privado: 1.76
+
+IV Por toma de calcas, por unidad: 0.00
+
+El pago de los derechos contenidos en la fracción I, se efectuará dentro de los tres primeros meses de cada año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 36.
 
-Los contribuyentes que soliciten la expedición de licencia de manejo en la modalidad de automovilista causarán y pagarán derechos conforme a las siguientes cuotas:
+Las persona físicas, morales o unidades económicas, causarán y pagarán derechos, conforme a los conceptos y cuotas siguientes:
 
-Vigencia Número de salarios
+Número de salarios
 
 mínimos
 
-5 años 11.02
+I Pensión de automóviles, camiones,
 
-3 años 7.94
+camionetas de carga y de pasaje, tractores,
 
-2 años 5.29
+remolques, motocicletas, bicicletas, carros
 
-#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
+de mano y de tracción animal, por 24 horas: 0.44
+
+II Por autorización para prestar servicio de
+
+depósito, custodia y estacionamiento de
+
+vehículos: 82.5
+
+III Por renovación anual a que se refiere la
+
+fracción anterior. 40.7
+
+IV Por arrastre de automóvil o camioneta
+
+dentro de la ciudad de Oaxaca de Juárez: 5.69
+
+V Por arrastre de camión o autobús dentro
+
+de la ciudad de Oaxaca de Juárez: 7.33
+
+VI Por arrastre fuera del perímetro de la
+
+ciudad de Oaxaca de Juárez, por cada
+
+kilometro: 0.25
+
+#### Sección Primera. Servicios Ecológicos
 
 ###### Artículo 37.
 
-Los contribuyentes que soliciten la expedición de licencia de manejo en la modalidad de motociclista causarán y pagarán derechos conforme a las siguientes cuotas:
+Las personas físicas y morales causarán derechos cuando soliciten servicios de seguridad y vigilancia integral especializada, conforme a las siguientes cuotas:
 
-Vigencia Número de salarios
+Número de salarios
 
 mínimos
 
-5 años 7.94
+I Servicios de seguridad y vigilancia:
 
-3 años 5.73
+a) Sin arma, por elemento en un turno de
 
-2 años 4.41
+12 horas, por mes: 165.00
 
-### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
+b) Sin arma, por elemento en un turno
 
-#### Sección Primera. Del Control Vehicular
+(sic) 12 horas, por quince días: 83.00
+
+c) Con arma, por elemento en un turno de
+
+12 horas, por mes: 176.00
+
+d) Con arma, por elemento en un turno
+
+(sic) 12 horas, por quince días: 88.00
+
+e) De oficialidad con arma, por elemento en
+
+un turno de 12 horas, por mes: 193.00
+
+f) Escolta, por elemento en un turno de 12
+
+horas, por mes: 231.00
+
+g) Con vehículo de motor con dos elementos
+
+armados a bordo en un turno de 12 horas, por
+
+mes: 852.00
+
+h) Con cuatrimoto y dos elementos armados
+
+a bordo en un turno de 12 horas, por mes: 710.00
+
+i) Con motocicleta y dos elementos armados
+
+a bordo en un turno de 12 horas, por mes: 560.00
+
+II Servicios de vigilancia administrativa:
+
+a) Sin arma, por elemento en un turno de 12
+
+horas, por mes: 144.00
+
+b) Si (sic) arma, por elemento en un turno de
+
+12 horas, por quince días: 72.00
+
+III Servicios de seguridad y vigilancia de
+
+alto riesgo:
+
+a) Con arma y equipo, por elemento en un
+
+turno de 12 horas, por mes: 200.00
+
+IV Servicios de seguridad y vigilancia especiales:
+
+a) Por elemento sin arma, por 12 horas: 13.00
+
+b) Por elemento sin arma, por 6 horas: 6.50
+
+c) Por elemento con arma, por 12 horas: 17.00
+
+d) Por elemento con arma, por 6 horas: 8.00
+
+e) Por elemento de escolta con arma, por
+
+12 horas: 44.00
+
+f) Por elemento de escolta con arma, por
+
+6 horas: 22.00
+
+g) Con vehículo de motor dentro de la
+
+ciudad con dos elementos a bordo, por
+
+12 horas: 94.50
+
+h) Con vehículo de motor fuera de la
+
+ciudad pero dentro del territorio del
+
+Estado, con dos elementos a bordo y
+
+armados, por 12 horas: 180.00
+
+i) Con motocicleta y dos elementos a bordo,
+
+por 12 horas: 48.00
+
+j) Con motocicleta y dos elementos a bordo,
+
+por 6 horas: 24.00
+
+k) Monitoreo a través de circuito cerrado, por
+
+una cámara mensual: 25.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LA SECCIÓN QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
+
+#### Sección Segunda. Supervisión de Obra Pública
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 38.
 
-Los contribuyentes que soliciten la expedición de licencia de manejo de moto taxis causarán y pagarán derechos conforme a las siguientes cuotas:
+Las personas físicas y morales que obtengan concesiones y permisos de servicio público en sus diferentes modalidades, causarán y pagarán derechos conforme a las siguientes cuotas:
 
-Vigencia Número de salarios
+Número de salarios
 
 mínimos
 
-5 años 8.89
+I Por la integración de expediente para
 
-3 años 6.41
+solicitar una concesión: 6.00
 
-2 años 4.93
+II Por la integración de expedientes
 
-Por reposición de licencias por pérdida o extravío, se pagarán 3.53 Salarios Mínimos.
+administrativos de regularización
 
-#### Sección Segunda. De las Constancias
+de concesiones en cualquier modalidad
+
+y tipo de unidad, por cesión de derechos
+
+entre particulares, causa hereditaria e
+
+invalidez; 5.00
+
+III Por la expedición de copias simples
+
+de documentos que obren en archivo,
+
+excepto copia de concesiones, permisos
+
+o autorizaciones, hasta 20 hojas: 2.50
+
+IV Por hoja adicional: 0.05
+
+V Por la expedición de constancias de
+
+concesión y/o permiso provisional y/o
+
+definitivo: 3.50
+
+VI Por certificación de documentos, excepto
+
+de concesiones o permisos hasta 20 hojas: 6.50
+
+VII Por hoja adicional $3.00
+
+VIII Por la reexpedición o reposición
+
+cuando proceda, de concesión o permiso,
+
+en cualquiera de sus modalidades y tipo
+
+de unidades: 1.00
+
+IX Por la expedición de títulos de concesión
+
+para el servicio público de vehículos cerrados
+
+de carga exprés; servicio mixto de carga y
+
+pasaje con capacidad hasta tres toneladas: 198.00
+
+X Por la expedición de títulos de concesión
+
+para el servicio público en las modalidades
+
+de carga tipo general bajo tonelaje y de
+
+materiales para la construcción a granel tipo
+
+volteo: 198.00
+
+XI Por la expedición de títulos de concesión
+
+para el servicio público en la modalidad de
+
+pasaje, tipo urbano, suburbano y foráneo, de
+
+alquiler o taxi y exclusivo de turismo, con
+
+unidades tipo autobús, minibús, combi,
+
+vagoneta: 236.50
+
+XII Por la expedición de títulos de concesión
+
+para el servicio público en la modalidad de
+
+carga tipo general de alto tonelaje y
+
+especializada: 198.00
+
+XIII Por la expedición de títulos de concesión
+
+de cualquier modalidad y tipo de unidad, por
+
+cesión de derechos entre particulares, causa
+
+hereditaria e invalidez: 100.00
+
+XIV Por la expedición de permisos para
+
+vehículos en la modalidad de personal al
+
+campo y empresas, y de transporte especial,
+
+tipo ambulancias, carrozas, escolar, pipa y
+
+centros de aprendizaje de conducción
+
+vehicular: 23.00
+
+XV Por la expedición de permiso para
+
+vehículos en modalidad de transporte especial,
+
+tipo grúa: 100.00
+
+XVI Por la expedición de títulos de concesión
+
+para el servicio de transporte especial, tipo
+
+grúa: 173.00
+
+XVII Por la expedición de títulos de concesión
+
+para servicio público en la modalidad de
+
+carretilleros: 8.00
+
+XVIII Por la expedición de títulos de
+
+concesión para servicio público en la
+
+modalidad de moto taxis o moto carro: 18.30
+
+XIX Renovación de concesión en la modalidad
+
+de servicio mixto de carga y pasaje: 19.00
+
+XX Renovación de concesión en la modalidad
+
+de carga (bajo tonelaje y de materiales para
+
+la construcción en general tipo volteo): 19.00
+
+XXI Renovación de concesión en la modalidad
+
+de pasaje, tipo urbano, suburbano y foráneo
+
+(autobús), por unidad: 23.00
+
+XXII Renovación de concesión de servicio
+
+público de alquiler (taxi): 18.00
+
+XXIII Renovación de concesión del servicio
+
+público de alquiler turístico (con unidades
+
+tipo autobús, minibús), por unidad: 23.00
+
+XXIV Renovación de concesión para el
+
+servicio público de acarreo de agua para
+
+consumo humano (pipas): 19.00
+
+XXV Renovación de concesión para
+
+el servicio público de carga ligera con
+
+motocarro: 12.00
+
+XXVI Renovación de concesión para el
+
+servicio público de carretilla y tracción
+
+animal: 12.00
+
+XXVII Renovación de concesión para el
+
+servicio público de transporte especial,
+
+tipo grúa: 97.00
+
+XXVIII Renovación de concesión para el
+
+servicio público en la modalidad de
+
+carretilleros: 4.00
+
+XXIX Renovación de concesión para el
+
+servicio público en la modalidad de moto
+
+taxis o moto carro: 10.00
+
+XXX En el caso de personas morales que
+
+tengan una concesión e incremente unidades
+
+en cualquier modalidad se le cobrará por
+
+cada unidad:
+
+a) En la modalidad de autobús: 193.00
+
+b) En la modalidad de camiones de carga,
+
+volteo y camionetas del servicio público
+
+de alquiler por unidad: 162.00
+
+c) En la modalidad de automóviles de alquiler
+
+por unidad: 177.00
+
+XXXI Por trámite de cambio de vehículo: 0.60
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Tercera. Por el Suministro de Agua Potable
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
-Los contribuyentes que soliciten permisos de la Dirección General de Tránsito permisos causarán y pagarán derechos por los conceptos y cuotas siguientes:
+Los derechos por servicios de control vehicular se causarán y pagarán de acuerdo con los siguientes periodos:
+
+I. Dentro de los 15 días hábiles siguientes a la fecha de adquisición de vehículo nuevo;
+
+II. Los tres primeros meses del año, tratándose de uso, goce o aprovechamiento de placas, calcomanía y tarjeta de circulación en vehículos destinados al servicio privado;
+
+III. Los tres primeros meses del año, cuando el Estado realice canje total de placas, calcomanía y tarjeta de circulación, y
+
+IV. Dentro de los 15 días hábiles siguientes a la fecha de haberse efectuado la operación de compra venta del que deriva el trámite de baja.
+
+Para efectos de la presente sección, se entenderá por:
+
+I. Servicio privado: A los vehículos destinados al servicio particular de las personas, y
+
+II. Servicio público: A los vehículos destinados a operar mediante cobro de tarifas autorizadas en cualquiera de sus modalidades con sujeción a concesiones o permisos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 40.
+
+Causarán y pagarán derechos los propietarios y/o tenedores de vehículos que soliciten servicios de control vehicular por los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+I Expedición de placas, calcomanía y
+
+tarjeta de circulación, por alta o canje
+
+total para vehículos destinados al
+
+servicio privado: 11.00
+
+II Expedición de placas, calcomanía y
+
+tarjeta de circulación, por alta o canje
+
+total para motocicletas y otros vehículos
+
+similares con remolque y/o cabina
+
+destinados al servicio privado: 5.50
+
+III Expedición de placas, por alta o canje
+
+total para vehículos de demostración: 2.00
+
+IV Expedición de placas, calcomanía y
+
+tarjeta de circulación, por alta o canje
+
+total para vehículos destinados al servicio
+
+público: 17.00
+
+V Expedición de placas, calcomanía y
+
+tarjeta de circulación, por alta o canje
+
+total para motocicletas y otros vehículos
+
+similares con remolque y/o cabina
+
+destinados al servicio público: 8.75
+
+VI Por el trámite de baja de placas
+
+vehiculares en cualquiera de sus
+
+modalidades: 1.80
+
+VII Por reposición de tarjeta de circulación
+
+de vehículos en cualquiera de sus
+
+modalidades: 3.30
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 41.
+
+Los propietarios y/o tenedores de vehículos causarán y pagarán derechos por los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+I Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de vehículos destinados al servicio privado: 7.70
+
+II Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de motocicletas y otros vehículos similares
+
+con remolque y/o cabina destinados al
+
+servicio privado: 2.20
+
+III Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de vehículos destinados al servicio público: 11.00
+
+IV Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de motocicletas y otros vehículos similares
+
+con remolque y/o cabina destinados al
+
+servicio público: 3.80
+
+V Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de vehículos de demostración: 11.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 42.
+
+Las personas físicas que soliciten la expedición de licencias de manejo causarán y pagarán derechos conforme a lo siguiente:
+
+Número de salarios
+
+mínimos
+
+I Expedición de licencias en la modalidad
+
+de chofer, con vigencia de:
+
+a) 5 años 12.00
+
+b) 3 años 8.50
+
+c) 2 años 6.00
+
+II Expedición de licencias en la modalidad de automovilista, con vigencia de:
+
+a) 5 años 11.00
+
+b) 3 años 8.00
+
+c) 2 años 5.50
+
+III Expedición de licencias en la modalidad de motociclista, con vigencia de:
+
+a) 5 años 8.00
+
+b) 3 años 7.00
+
+c) 2 años 5.00
+
+IV Expedición de licencias en la modalidad de moto taxis, con vigencia de:
+
+a) 5 años 9.00
+
+b) 3 años 7.50
+
+c) 2 años 5.50
+
+V Reposición de licencias por pérdida
+
+o extravío en cualquiera de sus modalidades: 4.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 43.
+
+Las personas físicas que soliciten permisos o constancias causarán y pagarán derechos por los conceptos y cuotas siguientes:
 
 Número de salarios
 
@@ -1957,51 +3419,63 @@ manejo para chofer, hasta por 30 días: 4.40
 
 II Por expedición de permiso temporal de
 
-manejo para automovilista, hasta por 30 días: 2.20
+manejo para automovilista, hasta por 30
+
+días: 2.20
 
 III Por expedición de permiso temporal de
 
 manejo para motociclista, hasta por 30 días: 1.10
 
-IV Por expedición de permiso provisional para
+IV Por expedición de permiso provisional
 
-circular sin placas ni tarjeta de circulación,
+para circular sin placas ni tarjeta de
 
-máximo por 30 días; costo por día: 0.26
+circulación, máximo por 30 días; costo
 
-V Por expedición de permiso de manejo hasta
+por día: 0.26
 
-por 4 meses para que los mayores de 15 años y
+V Por expedición de permiso de manejo
 
-menores de 16 años puedan conducir automóviles
+hasta por 4 meses para que los mayores
 
-y motocicletas del servicio particular: 5.50
+de 15 años y menores de 16 años puedan
 
-VI Por expedición de permiso para circular sin
+conducir automóviles y motocicletas del
 
-placas de vehículos destinados al servicio público,
+servicio particular: 5.50
 
-máximo por 30 días; costo por día: 0.88
+VI Por expedición de permiso para circular
 
-VII Por expedición de permiso especial a
+sin placas de vehículos destinados al
 
-particulares que en forma eventual transporten
+transporte público, máximo por 30 días;
 
-productos de los señalados en los artículos 129
+costo por día: 0.88
 
-al 134 del Reglamento de la Ley de Tránsito
+VII Por expedición de permiso especial
 
-reformada del Estado de Oaxaca:
+a particulares que en forma eventual
 
-a) Hasta 1, 000 Kilogramos: 1.21
+transporten productos de los señalados
 
-b) De 1, 001 a 3, 000 Kilogramos: 2.47
+en los artículos 129 al 134 del Reglamento
 
-c) De 3, 001 Kilogramos en adelante: 4.95
+de la Ley de Tránsito reformada del Estado
 
-VIII Por la expedición de permiso temporal de
+de Oaxaca:
 
-sustitución de vehículos de servicio intensivo:
+a) Hasta 1,000 Kilogramos: 1.21
+
+b) De 1,001 a 3,000 Kilogramos: 2.47
+
+c) De 3,001 Kilogramos en adelante: 4.95
+
+VIII Por la expedición de permiso temporal
+
+de sustitución de vehículos de servicio de
+
+transporte público:
 
 a) Por 30 días: 4.40
 
@@ -2015,169 +3489,59 @@ circular sin placas o para manejar sin licencia,
 
 por día: 0.11
 
-X Por la expedición de permiso por aumento de
+X Por la expedición de permiso por
 
-unidad de camiones de carga, volteo y camionetas,
+aumento de unidad de camiones de
 
-por unidad: 26.40
+carga, volteo y camionetas, por unidad: 26.40
 
-XI Por la expedición de permiso de ruta o
+XI Por la expedición de permiso de ruta
 
-ampliación de la misma, se pagará la cuota
+o ampliación de la misma, se pagará la
 
-mínima de: 103.40
+cuota mínima de: 103.40
 
-XII Por la expedición de tarjetón de tarifas
+XII Por la expedición de tarjetón de
 
-oficiales para el cobro del servicio público de
+tarifas oficiales para el cobro del servicio
 
-pasajes: 2.20
+de transporte público de pasajes: 2.20
 
-###### Artículo 40.
+XIII Por la expedición de tarjetón para
 
-Por la emisión de constancias y otros servicios, se causarán y pagarán derechos, conforme a las siguientes cuotas:
+transporte de carga particular: 9.48
 
-Número de salarios
+XIV Por la expedición de constancias de
 
-mínimos
+antigüedad de chofer: 1.12
 
-I Pericial para determinar las condiciones de
+XV Por la autorización para el
 
-seguridad, en su caso de comodidad, de los
+establecimiento de sitios en la vía pública
 
-vehículos automotrices de servicio:
+o en predios particulares (base de ascenso y
 
-a) Intensivo: 4.40
+descenso de pasajeros o área de maniobras
 
-b) Particular: 3.30
+de carga y descarga de mercancías): 2.20
 
-II Constancia de no infracción:
+### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
 
-a) Intensivo: 2.20
-
-b) Particular: 1.10
-
-III Constancia de no Adeudo:
-
-a) Intensivo: 3.53
-
-b) Particular: 1.76
-
-IV Por toma de calcas, por unidad: 0.00
-
-###### Artículo 41.
-
-Por los servicios de pensión de vehículos en los encierros oficiales del Estado, por cada 24 horas se causarán y pagarán derechos de acuerdo con las siguientes cuotas:
-
-Número de salarios
-
-mínimos
-
-I Pensión de vehículos:
-
-a) Automóviles: 0.44
-
-b) Camiones, camionetas de carga y de pasaje,
-
-tractores y remolques: 0.44
-
-c) Motocicletas, bicicletas, carros de mano y de
-
-tracción animal: 0.44
-
-II Por autorización para prestar servicio de
-
-depósito, custodia y estacionamiento de vehículos: 82.5
-
-III Por renovación anual a que se refiere el
-
-inciso anterior: 40.7
-
-###### Artículo 42.
-
-Los contribuyentes que soliciten el servicio oficial de grúa, causarán y pagarán derechos conforme a las siguientes cuotas:
-
-Número de salarios
-
-mínimos
-
-I Por arrastre de automóvil o camioneta dentro
-
-de la ciudad: 5.69
-
-II Por arrastre de camión o autobús dentro de la
-
-ciudad: 7.33
-
-III Por arrastre fuera del perímetro de la ciudad,
-
-por cada kilómetro: 0.25
-
-###### Artículo 43.
-
-Las personas físicas y morales causarán derechos cuando soliciten servicios de seguridad y vigilancia integral especializada, conforme a las siguientes cuotas:
-
-Número de salarios
-
-mínimos
-
-I De seguridad y vigilancia sin arma, por
-
-elemento de 12 horas mensual: 165.17
-
-II De seguridad y vigilancia con arma, por
-
-elemento de 12 horas mensual: 175.56
-
-III De oficialidad con arma, por elemento de 12
-
-horas mensual: 192.89
-
-IV Otros Servicios:
-
-a) De escolta:
-
-1 Por elemento con arma por 12 horas mensual: 231.00
-
-b) Con vehículo de motor con dos elementos a
-
-bordo por 12 horas mensualmente: 852.00
-
-c) Especiales:
-
-1 Por elemento sin arma, por 12 horas: 13.00
-
-2 Por elemento con arma, por 12 horas: 16.55
-
-3 Por elemento de escolta con arma, por 12 horas: 44.00
-
-d) Con vehículo de motor dentro de la Ciudad
-
-con dos elementos a bordo:
-
-1 Por 12 horas: 94.50
-
-e) Con vehículo de motor fuera de la Ciudad pero
-
-dentro del territorio del Estado con dos elementos
-
-a bordo y armados
-
-1 Por 12 horas: 180.00
-
-f) Con vehículo de motor con dos elementos a
-
-bordo por hora: 17.69
-
-### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
-
-#### Sección Tercera. Servicios Catastrales
+#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
 
 ###### Artículo 44.
 
-Causarán y pagarán derechos las personas físicas que soliciten servicios en hospitales generales, básicos, centros de salud, unidades de especialidades conforme a las cuotas establecidas por el tabulador de servicios médico asistenciales autorizado por la Secretaría de Hacienda y Crédito Público en cada ejercicio fiscal.
+Causarán y pagarán derechos las personas físicas que soliciten servicios médico asistenciales en hospitales generales, básicos, centros de salud, unidades de especialidades del Estado, conforme al tabulador de servicios autorizado por la Secretaría de Finanzas en cada ejercicio fiscal.
 
-#### Sección Primera. De los Servicios del Archivo del Poder Ejecutivo
+Los montos recaudados por estos servicios se destinarán hasta un 80 por ciento a la adquisición de materiales e insumos médicos necesarios, 10 por ciento a la Beneficencia Pública del Estado, 5 por ciento a programas asistenciales y el 5 por ciento restante a la Beneficencia Pública Federal.
+
+La Beneficencia Pública del Estado deberá informar dentro de los primeros diez días de cada mes a la Secretaría de Finanzas sobre los montos recaudados y el desglose de lo erogado por cada uno de los hospitales generales, básicos, centros de salud y unidades de especialidades. Así como de los beneficiarios de los programas asistenciales a su cargo.
+
+Los ingresos que se obtengan por los servicios de atención en salud, deberán ser administrados mediante un Fideicomiso de Administración y Pago.
+
+Tratándose de personas físicas que no cuenten con seguro popular, los servicios deberán ser pagados atendiendo al estudio socioeconómico que se realice.
+
+#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
 
 ###### Artículo 45.
 
@@ -2295,7 +3659,7 @@ XX Sello de recetas controladas para prescripción
 
 de psicotrópicos (por c/100 recetas) 4.00
 
-### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
+### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
 
 ###### Artículo 46.
 
@@ -2345,7 +3709,7 @@ de personas físicas o morales en el Padrón de
 
 Contratistas de Obra Pública: 30.00
 
-#### Sección Primera. De las Constancias
+#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
 
 ###### Artículo 47.
 
@@ -2845,21 +4209,41 @@ IV Autorización de cambio de propietario de centro de
 
 verificación de vehículos: 550.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 54.
 
-Las personas físicas y morales causarán y pagarán derechos por la Verificación de Emisiones a la atmósfera, conforme a las siguientes cuotas:
+Los concesionarios del servicio de verificación de vehículos, causarán y pagarán derechos por los conceptos y cuotas siguientes:
 
 Número de salarios
 
 mínimos
 
-I Verificación y holograma para vehículos particulares: 5.70
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II Verificación y holograma para vehículos doble cero: 6.00
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-III Verificación y holograma para vehículos de
+I Verificación y holograma para
 
-uso intensivo: 7.70
+vehículos particulares: 9.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+II Verificación y holograma para
+
+vehículos doble cero: 10.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Verificación y holograma para
+
+vehículos de uso intensivo: 12.80
 
 IV Constancia de rechazo 1.70
 
@@ -2879,131 +4263,45 @@ II Planes de regularización de sitios o tiraderos a
 
 cielo abierto: 125.00
 
-#### Sección Segunda. Inspección y Vigilancia
+#### Sección Primera. Del Control Vehicular
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 56.
 
-Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe total de la contratación el uno punto cinco por ciento por los servicios de supervisión.
+Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe total de la contratación sin incluir el importe al Impuesto al Valor Agregado, el uno punto cinco por ciento por los servicios de supervisión.
 
-Las oficinas pagadoras de las dependencias y entidades, al hacer el pago del anticipo retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato a la cuenta bancaria que para tal efecto aperture la Secretaría de Finanzas dando aviso de la misma.
+Las oficinas pagadoras de las dependencias y entidades, al hacer el pago del anticipo retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato a la cuenta bancaria que para tal efecto apertura la Secretaría de Finanzas dando aviso de la misma.
 
-Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta por los montos que les correspondan a Caminos y Aeropistas de Oaxaca, Comisión Estatal del Agua; Comisión Estatal de la Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este artículo.
+Cuando se trate de contrataciones en las que no se haya pactado la entrega de anticipo, las oficinas pagadoras de las dependencias y entidades, al hacer el pago de la primera estimación retendrán el importe del derecho a que se refiere el presente artículo y procederán en los mismos términos descritos en el párrafo anterior.
 
-Procederá el monto de los derechos consignados en esta sección, siempre que se realice la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
+Tratándose de la contratación de obras por parte de los ayuntamientos donde una parte de la fuente de financiamiento provenga de la autorización realizada en el programa de inversión del estado, se estará a lo previsto en este artículo. Los derechos recaudados se destinarán para la supervisión de las obras autorizadas en el programa de referencia.
+
+Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta por los montos que les correspondan a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable; Caminos y Aeropistas de Oaxaca, Comisión Estatal del Agua; Comisión Estatal de la Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este artículo.
+
+Procederá la ministración de los montos recaudados en esta sección siempre que las dependencias y entidades presenten el informe de los derechos retenidos dentro de los primeros diez días naturales de cada mes para su conciliación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Segunda. De las Constancias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 57.
 
-Las personas físicas y morales causarán y pagarán derechos por los servicios de suministro de agua potable que presta la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, conforme a las siguientes cuotas bimestrales:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de
-
-salarios
-
-mínimos
-
-I Doméstico popular: De 0 a 20m3 0.70
-
-Por m3 excedente: 0.018
-
-II Doméstico popular
-
-(interés medio): De 0 a 20m3: 0.70
-
-Por m3 excedente. 0.02
-
-III Doméstico popular
-
-(unidad habitacional): De 0 a 20m3: 0.70
-
-Por m3 excedente: 0.044
-
-IV Doméstico residencial a: De 0 a 20m3: 2.01
-
-Por m3 excedente: 0.062
-
-V Doméstico residencial b: De 0 a 20m3: 1.05
-
-Por m3 excedente: 0.053
-
-VI Comercial a: De 0 a 20m3: 2.87
-
-Por m3 excedente: 0.088
-
-VII Comercial b: De 0 a 20m3: 1.47
-
-Por m3 excedente: 0.082
-
-VIII Público De 0 a 20m3: 4.53
-
-Por m3 excedente: 0.10
-
-IX Industrial De 0 a 20m3: 5.17
-
-Por m3 excedente: 0.12
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 58.
 
-Cuando en la toma de agua potable presente alguna anomalía que imposibilite determinar el consumo estará sujeto a las siguientes cuotas bimestrales:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
-
-mínimos
-
-I Tomas con anomalías:
-
-a) Doméstico popular: 1.11
-
-b) Domestico popular (interés medio): 1.11
-
-c) Doméstico popular (unidad habitacional): 1.50
-
-d) Doméstico residencial a: 4.28
-
-e) Doméstico residencial b: 2.43
-
-f) Comercial a: 7.3
-
-g) Comercial b: 4.5
-
-h) Público: 12.74
-
-i) Industrial: 22.31
-
-II Tomas con domicilio deshabitado:
-
-a) Doméstico popular: 0.70
-
-b) Doméstico residencial a: 2.01
-
-c) Doméstico residencial b: 1.05
-
-d) Comercial a: 2.87
-
-e) Comercial b: 1.47
-
-f) Público: 4.53
-
-g) Industrial: 5.17
-
-III Tomas sin servicio y/o suspensión temporal:
-
-a) Doméstico popular: 0.31
-
-b) Doméstico residencial a: 0.70
-
-c) Doméstico residencial b: 0.46
-
-d) Comercial a: 1.00
-
-e) Comercial b: 0.70
-
-f) Público: 1.47
-
-g) Industrial: 1.88
-
-Del monto de lo facturado en forma bimestral, se aplicará el cobro del 10% por el servicio de descarga sanitaria, exceptuando de este cobro a la clase doméstico popular, interés medio y unidad habitacional.
-
-### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
+### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
 
 ###### Artículo 59.
 
@@ -3011,21 +4309,35 @@ Las personas físicas y morales que adquieran boletos para el evento "Lunes del 
 
 Pesos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 I Preventa
 
-Sección A 700.00
+Sección A $850.00
 
-Sección B 500.00
+Sección B $600.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 II Venta
 
-Sección A 800.00
+Sección A $1,050.00
 
-Sección B 600.00
+Sección B $700.00
 
 La preventa abarcará del 1 al 30 de abril.
 
-### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
+### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Tercera. Servicios Catastrales
 
 ###### Artículo 60.
 
@@ -3061,6 +4373,56 @@ La tarifa aplicable por cada 30 minutos
 
 de clase, será de: 1.28
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+II Inscripción de nuevo ingreso: 1.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Reposición de credencial: 0.28
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Expedición de constancias: 0.88
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+V Reproducción en copia simple,
+
+por cada hoja: 0.01
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VI Reproducción en disco compacto: 0.31
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VII Reproducción en DVD: 0.49
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VIII Presentación de Grupos Representativos:
+
+a) Danza: 17.64
+
+b) Música: 14.11
+
+#### Sección Primera. De los Servicios del Archivo del Poder Ejecutivo
+
 ###### Artículo 61.
 
 Por los servicios que el Taller de Artes Plásticas, se causarán y pagarán los derechos de la siguiente forma:
@@ -3072,6 +4434,8 @@ mínimos
 I Pago de Inscripción de Cursos Permanentes: 15.40
 
 II Pago de Inscripción de Cursos Especiales: 10.59
+
+#### Sección Primera. De las Constancias
 
 ###### Artículo 62.
 
@@ -3085,137 +4449,149 @@ I Pago de Inscripción a curso propedéutico: 2.89
 
 II Pago de Inscripción a cursos semestrales: 11.55
 
-### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
+### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
+
+#### Sección Segunda. Inspección y Vigilancia
 
 ###### Artículo 63.
 
-Las personas físicas y las morales tenedoras o usuarias de vehículos causarán y pagarán los derechos por los conceptos y cuotas siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
-
-mínimos
-
-I Expedición de placas, calcomanía y
-
-tarjeta de circulación; por alta o canje
-
-de servicio particular y oficial:
-
-a) Automóviles: 11.00
-
-b) Camiones cualquier tonelaje,
-
-inclusive pick up: 13.75
-
-c) Tractores no agrícolas: 13.75
-
-d) Remolques y cajas: 11.00
-
-e) Omnibuses y autobuses: 16.50
-
-f) Motocicletas, motonetas y
-
-otros vehículos similares con
-
-remolque y/o cabina: 5.50
-
-g) Vehículos de demostración: 22.00
-
-II Expedición de placas, calcomanía y
-
-tarjeta de circulación; por alta o
-
-canje de servicio intensivo:
-
-a) Automóviles: 16.50
-
-b) Camiones cualquier tonelaje,
-
-inclusive pick up: 19.25
-
-c) Omnibuses y autobuses: 22.00
-
-d) Motocicletas, motonetas y
-
-otros vehículos similares con
-
-remolque y/o cabina: 8.25
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 64.
 
-Las personas físicas y las morales tenedoras o usuarias de los vehículos que se encuentren registrados en el padrón vehicular del Estado, causarán y pagarán los derechos por la baja de las placas vehiculares conforme a la siguiente cuota:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
-
-mínimos
-
-I Baja de placas para cualquier vehículo: 1.65
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 65.
 
-Las personas físicas y las morales tenedoras o usuarias de los vehículos que se encuentren registrados en el padrón vehicular del estado, causarán y pagarán los derechos por el uso o explotación de las placas vehiculares en el ejercicio fiscal en el que no se realice canje total de placas conforme a las siguientes cuotas:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
-
-mínimos
-
-I Vehículos de servicio particular y oficial:
-
-a) Motocicletas, motonetas y otros
-
-vehículos similares con
-
-remolque y/o cabina: 2.20
-
-b) Automóviles, omnibuses y camiones: 7.70
-
-c) Vehículos de demostración: 11.00
-
-II Vehículos de servicio intensivo:
-
-a) Motocicletas, motonetas y otros
-
-vehículos similares con
-
-remolque y/o cabina: 3.20
-
-b) Automóviles, omnibuses y camiones: 10.40
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 66.
 
-Las personas físicas y las morales tenedoras o usuarias de los vehículos que se encuentren registrados en el padrón vehicular del Estado, causarán y pagarán los derechos por la reposición de la tarjeta de circulación de conforme a las siguientes cuotas:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-Número de salarios
+### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
 
-mínimos
+#### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
 
-I Servicio particular y oficial: 3.30
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II Servicio intensivo: 4.30
-
-### Capítulo Segundo. Por los Servicios que presta la Universidad de Valles Centrales
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 67.
 
-Las personas físicas que soliciten la expedición de constancias, causarán y pagarán derechos conforme a las siguientes cuotas:
+Las personas físicas o morales que soliciten servicios a cargo de la Secretaría, causarán y pagarán derechos conforme lo siguiente:
 
 Número de salarios
 
 mínimos
 
-I Por la expedición de constancias
+I Por la expedición de constancias de no
 
-de no adeudo: 1.50
+adeudo fiscal: 1.50
 
-II Por la expedición de constancias
+II Por certificación de pago de contribuciones
 
-de no adeudo financiero: 1.50
+o, por declaración fiscal: 1.00
 
-III Por la expedición de constancias
+III Por búsqueda de documentos en los
 
-de no adeudo patrimonial: 1.50
+archivos de la Secretaría: 0.50
 
-IV Por la expedición de carta mecánica: 0.88
+IV Cancelación por recibo único de pago
+
+por causas imputables al contribuyente o
+
+usuario: 1.00
+
+No se causará el derecho cuando el motivo
+
+de la cancelación obedezca a cuestiones
+
+ajenas a la voluntad de quien efectúa el
+
+cobro del servicio.
+
+V Por la expedición de constancias de no
+
+adeudo patrimonial y financiero: 3.00
+
+VI Por la expedición de copias certificadas
+
+de documentos, por hoja tamaño carta u
+
+oficio: 0.18
+
+VII Por la expedición de copias simples de
+
+documentos, por hoja tamaño carta u oficio: 0.02
+
+VIII Expedición de permiso para la
+
+apertura, instalación y funcionamiento
+
+del establecimiento que tenga como
+
+actividad ofertar al público la celebración
+
+de contratos de mutuo con interés y
+
+garantía prendaria: 275.00
+
+IX Revalidación de permiso para la
+
+apertura, instalación y funcionamiento
+
+del establecimiento que tenga como
+
+actividad ofertar al público la celebración
+
+de contratos de mutuo con interés
+
+y garantía prendaria: 165.00
+
+X Por el estudio y análisis de la
+
+documentación presentada para
+
+solicitud del permiso para la apertura,
+
+instalación y funcionamiento del
+
+establecimiento que tenga como
+
+actividad ofertar al público la
+
+celebración de contratos de mutuo
+
+con interés y garantía prendaria: 15.00
+
+Pesos
+
+XI Por cada día de almacenaje de
+
+mercancías en depósito en recintos
+
+fiscales por metro cuadrado:
+
+a) Vehículos automotores: $10.00
+
+b) Bienes muebles distintos del inciso a): $5.00
+
+Los contenedores vacíos se considerarán mercancías.
+
+Para efectos de la fracción X, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que se ocupe.
+
+#### Sección Segunda. Por el suministro de agua potable
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 68.
 
@@ -3685,11 +5061,15 @@ catastral a los Ayuntamientos que lo
 
 soliciten, por cada registro: 0.16
 
-VIII Por la inscripción al padrón catastral
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-de bienes inmuebles provenientes del régimen
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-ejidal y comunal, solicitada por particulares: (sic)
+VIII Por la inscripción al padrón catastral de
+
+bienes inmuebles provenientes del régimen
+
+ejidal, comunal y propiedad privada: 0.00
 
 IX Por reapertura de cuenta catastral: 5.00
 
@@ -3752,6 +5132,12 @@ de un inmueble: 5.50
 XX Por búsqueda de datos por periodos de
 
 5 años o fracción: 2.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XXI Por la práctica de avalúo comercial: 30.00
 
 ###### Artículo 74.
 
@@ -3825,7 +5211,7 @@ I 0.01 300, 000.00 25.00
 
 II 300, 001.00 1, 000, 000.00 30.00
 
-### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
+### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
 
 ###### Artículo 78.
 
@@ -3835,11 +5221,19 @@ Número de salarios
 
 mínimos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 I Por el registro de personas físicas
 
 o morales en el Padrón de Proveedores
 
-de la Administración Pública Estatal: 80.00
+de la Administración Pública Estatal: 40.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 II Por la renovación de registro, por
 
@@ -3847,7 +5241,7 @@ ejercicio fiscal de personas físicas o
 
 morales en el Padrón de Proveedores
 
-de la Administración Pública Estatal: 60.00
+de la Administración Pública Estatal: 30.00
 
 III Por el pago de bases conforme a lo siguiente:
 
@@ -3857,23 +5251,39 @@ b) Licitación Pública Estatal: 25.50
 
 c) Licitación Pública Nacional: 30.50
 
-IV Por la expedición de permisos para el
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-establecimiento de locales construidos en
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-parques y unidades deportivas por mes: 29.00
+IV Por la expedición de permisos
 
-V Por la expedición de permisos para el
+para el establecimiento de locales
 
-establecimiento de puestos fijos o semifijos
+construidos en parques y unidades
 
-localizados en parques y unidades deportivas
+deportivas por mes: 20.00
 
-por mes: 18.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI Por la expedición de permisos para el
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-establecimiento de comercio informal por mes: 13.00
+V Por la expedición de permisos para
+
+el establecimiento de puestos fijos o
+
+semifijos localizados en parques y
+
+unidades deportivas por mes: 14.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VI Por la expedición de permisos para
+
+El establecimiento de comercio informal
+
+por mes: 2.00
 
 ###### Artículo 79.
 
@@ -3937,7 +5347,11 @@ XVI Reproducción de documento
 
 digitalizado por hoja: 0.28
 
-### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
+### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 80.
 
@@ -3973,7 +5387,7 @@ Los servidores públicos a cargo de la prestación de servicios deberán realiza
 
 ## Título Cuarto. Por los Servicios que se prestan en Materia Educativa
 
-### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
+### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
 
 ###### Artículo 83.
 
@@ -4053,11 +5467,15 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
 
 ###### Artículo 84.
 
-Los contribuyentes que reciban servicios en materia educativa a cargo de la Universidad de Valles Centrales, se causarán y pagarán los derechos de la siguiente forma:
+Los contribuyentes que reciban servicios en materia educativa a cargo de la Universidad Tecnológica de los Valles Centrales de Oaxaca, se causarán y pagarán los derechos de la siguiente forma:
 
 Número de salarios
 
@@ -4085,7 +5503,7 @@ IV Certificado parcial o total: 3.53
 
 V Ficha de exámen para selección: 6.18
 
-### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
+### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
 
 ###### Artículo 85.
 
@@ -4165,7 +5583,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
+### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
 
 ###### Artículo 86.
 
@@ -4207,6 +5625,18 @@ n) Trámites de legalización de certificado: 10.68
 
 ñ) Curso de verano: 7.83
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+o) Carta de pasante: 2.13
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+p) Trámites de legalización de título: 10.68
+
 II Enseñanza de idiomas:
 
 a) Repetición de módulo: 3.90
@@ -4222,6 +5652,12 @@ Certificado de Inglés Británico
 "FCE" o Certificado de Inglés
 
 Americano "TOEFL": 7.77
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+e) Curso de inglés: 21.24
 
 III Posgrado escolarizado:
 
@@ -4245,9 +5681,21 @@ i) Exámen de grado: 17.28
 
 j) Expedición de grado: 23.08
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+k) Trámites de certificados de grado: 10.68
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+l) Trámites de legalización de título: 10.68
+
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Noveno. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
+### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
 
 ###### Artículo 87.
 
@@ -4329,7 +5777,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
+### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
 
 ###### Artículo 88.
 
@@ -4411,7 +5859,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo Primero. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+### Capítulo Noveno. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
 
 ###### Artículo 89.
 
@@ -4493,7 +5941,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo Segundo. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
+### Capítulo Décimo. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
 
 ###### Artículo 90.
 
@@ -4573,11 +6021,41 @@ i) Exámen de grado: 17.28
 
 j) Expedición de grado: 23.08
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Posgrado virtual
+
+a) Curso propedéutico: 85.94
+
+b) Inscripción: 34.37
+
+c) Reinscripción: 25.78
+
+d) Colegiatura mensual: 34.37
+
+e) Reposición credencial: 1.21
+
+f) Constancia de estudios: 0.86
+
+g) Examen extraordinario: 5.8
+
+h) Examen especial: 9.44
+
+i) Certificado parcial o total: 7.83
+
+j) Examen de grado: 17.28
+
+k) Expedición de grado: 51.56
+
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo Tercero. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
+### Capítulo Décimo Primero. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
 
-### Capítulo Décimo Cuarto. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
+### Capítulo Décimo Segundo. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
+
+### Capítulo Décimo Tercero. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
 
 ###### Artículo 91.
 
@@ -4705,7 +6183,13 @@ Certificado de Inglés Británico
 
 Americano "TOEFL": 7.77
 
-A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II, incisos a), c), f), h), i), j); y, b), e), i), j), k) de la fracción III; b), e), i) j), k) de la fracción IV; y a), b), c), d), de la fracción V; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+A excepción de los incisos a), i) de la fracción I; inciso f) de la fracción II; inciso e) de la fracción III; inciso e) de la fracción IV; inciso a) de la fracción V; se aplicará porcentajes de becas determinadas por el H. Congreso Académico de la Universidad Tecnológica de la Mixteca que van desde el 25%, 50%, 75%, y 100% de descuento.
+
+### Capítulo Décimo Cuarto. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
 
 ###### Artículo 92.
 
@@ -4721,9 +6205,19 @@ a) Autorización para impartir estudios
 
 con validez oficial del nivel preescolar: 19.72
 
-b) Reconocimiento de estudios con
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-validez oficial del nivel preescolar: 16.50
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+b) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por
+
+cambio de domicilio, titular, plan y
+
+programas de estudios, actualización
+
+de los mismos o nombre de la institución: 16.50
 
 c) Certificación de estudios de
 
@@ -4745,15 +6239,33 @@ reconocimiento de validez oficial
 
 de nivel preescolar, por alumno: 0.11
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+g) Autorización del funcionamiento de
+
+escuelas particulares: 16.50
+
 II Educación Primaria:
 
 a) Autorización para impartir estudios
 
 con validez oficial del nivel primaria: 19.72
 
-b) Reconocimiento de estudios con
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-validez oficial del nivel primaria: 16.5
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+b) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por
+
+cambio de domicilio, titular, plan y
+
+programas de estudios, actualización de
+
+los mismos o nombre de la institución: 19.72
 
 c) Expedición de certificación
 
@@ -4781,15 +6293,33 @@ h) Consulta de archivos de
 
 educación primaria: 2.25
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+i) Autorización del funcionamiento de
+
+escuelas particulares: 15.40
+
 III Educación Secundaria:
 
 a) Autorización para impartir estudios
 
 con validez oficial del nivel secundaria: 19.72
 
-b) Reconocimiento de estudios
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-con validez oficial del nivel secundaria: 16.50
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+b) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por
+
+cambio de domicilio, titular, plan y
+
+programas de estudios, actualización
+
+de los mismos o nombre de la institución: 19.72
 
 c) Equivalencia de estudios: 0.62
 
@@ -4823,7 +6353,13 @@ i) Revalidación de estudios: 0.62
 
 j) Exámen extraordinario por materia: 0.33
 
-k) Exámen a título de suficiencia 0.38
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+k) Autorización del funcionamiento de
+
+escuelas particulares: 15.40
 
 l) Visitas de inspección y vigilancia
 
@@ -4839,11 +6375,21 @@ educación secundaria: 2.25
 
 IV Educación Media Superior:
 
-a) Autorización para impartir
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-estudios con validez oficial del
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-nivel medio superior: 19.72
+a) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por
+
+cambio de domicilio, titular, plan y
+
+programas de estudios, actualización
+
+de los mismos o nombre de la
+
+institución: 19.71
 
 b) Reconocimiento de estudios con
 
@@ -4924,6 +6470,14 @@ certificados de terminación de estudios
 de educación media superior: 2.57
 
 o) Exámen profesional: 1.65
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+p) Autorización del funcionamiento de
+
+escuelas particulares: 16.50
 
 V Educación Superior:
 
@@ -5177,6 +6731,50 @@ Validez Oficial de Estudios otorgado
 
 por el Gobierno del Estado de Oaxaca: 19.52
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+aa) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por
+
+cambio de domicilio, titular, plan y
+
+programas de estudios, actualización
+
+de los mismos o nombre de la institución: 19.72
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+bb) Autorización del funcionamiento
+
+de escuelas particulares: 16.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+cc) Expedición y autenticación de título
+
+profesional, diploma de especialidad o
+
+grado académico a egresados de instituciones
+
+liquidadas y/o clausuradas: 3.30
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+dd) Expedición y autenticación de certificado
+
+de terminación de estudios y certificación
+
+de estudios: 2.47
+
 VI Educación para Adultos:
 
 a) Centros de Enseñanza Ocupacional: 2.65
@@ -5204,6 +6802,30 @@ a instituciones con reconocimiento
 de validez oficial de capacitación para
 
 el trabajo por alumno: 0.48
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+e) Autorización del funcionamiento de
+
+escuelas particulares de formación para el
+
+trabajo, sea cual fuera la modalidad: 16.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+f) Actualización de los acuerdos de
+
+reconocimiento de validez oficial por cambio
+
+de domicilio, titular, plan y programas de
+
+estudios, actualización de los mismos
+
+o nombre de la institución: 19.72
 
 VIII Otros Trámites y Servicios:
 
@@ -5289,9 +6911,19 @@ VIII Duplicado de certificado total: 6.67
 
 IX Dictamen de revalidación: 7.46
 
-X Diario de aprendizaje: 0.63
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI Videos educativos: 0.36
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+X Videos educativos: 0.36
+
+Pesos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XI Diario de aprendizaje: $37.00
 
 ###### Artículo 94.
 
@@ -5503,7 +7135,11 @@ d) Asignatura o módulo a recursar: 3.40
 
 e) Expedición de credencial: 0.65
 
-f) Cuota por servicio de internet por semestre: 0.75
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+f) Cuota por servicio de internet por semestre: 0.00
 
 g) Reposición de constancia de servicio social: 0.82
 
@@ -5523,7 +7159,11 @@ b) Inscripción, 1er. bloque: 2.75
 
 c) Reinscripción, del 2° al 6° bloque: 3.96
 
-d) Guía de estudio, por asignatura: 0.38
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+d) Guía de estudio, por asignatura: 0.00
 
 e) Examen extraordinario: 1.37
 
@@ -5541,9 +7181,13 @@ k) Trámite de portabilidad de estudios
 
 de Educación Media Superior: 1.65
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 l) Cuota por servicio de internet
 
-por semestre: 0.75
+por semestre: 0.00
 
 m) Examen a título de suficiencia
 
@@ -5563,9 +7207,527 @@ De 8.6 a 9 50%
 
 De 9.1 a 10 100%
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 97.
 
-Los servidores públicos a cargo de la administración y prestación de servicios deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
+Los servidores públicos a cargo de la administración y prestación de servicios educativos deberán presentar dentro de los primeros diez días naturales de concluido el trimestre informe de los servicios prestados en el periodo a la Secretaría de Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+## Título Quinto. Por los servicios relacionados con el Agua, Alcantarillado y Drenaje
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 98.
+
+Las personas físicas o morales que soliciten la prestación de servicios a cargo de la Comisión Estatal del Agua, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+I Por el estudio de Calidad del Agua
+
+para Consumo Humano
+
+a) Análisis físico, químico y bacteriológico: 108.00
+
+II Por el estudio de calidad del agua residual
+
+a) Análisis físico, químico y bacteriológico: 135.00
+
+III Por equipo de bombeo (agua potable)
+
+a) Por la emisión de diagnóstico: 13.00
+
+b) Por Desmontaje e instalación de equipos
+
+de bombeo y control eléctricos con:
+
+1 Columnas de 0 a 2” de diámetro y de 0 a 30
+
+metros de longitud: 33.00
+
+2 Columnas de 2.5 a 4.0” de diámetro y de
+
+30 a 60 metros de longitud: 78.00
+
+3 Columnas de 6 a 8” de diámetro y de 0 a
+
+50 metros de longitud: 102.00
+
+4 Columnas mayores 6” y longitud mayor a
+
+50 metros: 161.00
+
+c) Por Desmontaje e instalación de equipos
+
+de cloración:
+
+1 Por medio hipoclorito de calcio para
+
+diferentes gastos: 31.00
+
+IV En Líneas de conducción y redes de
+
+distribución
+
+a) Desmontaje e instalación de múltiples
+
+de descarga:
+
+1 Con piezas especiales de
+
+1.5” a 3” diámetro: 59.00
+
+2 Con piezas especiales de
+
+4” a 6” diámetro: 103.00
+
+3 Con piezas especiales de
+
+8” a 12” diámetro: 132.00
+
+4 Con piezas especiales
+
+mayores a 14” diámetro: 177.00
+
+5 Instalación de tuberías de fogo de ½” a
+
+1.5” de diámetro: 18.00
+
+6 Instalación de tuberías de fogo de 2” a
+
+3” de diámetro: 18.00
+
+7 Instalación de tuberías de fogo de 4”: 26.00
+
+8 Instalación de tuberías de PVC hidráulico
+
+de 1.5” a 3” de diámetro incluye instalación
+
+de piezas especiales: 18.00
+
+9 Instalación de tuberías de PVC hidráulico
+
+de 4” a 6” de diámetro incluye instalación de
+
+piezas especiales: 26.00
+
+10 Instalación de piezas especiales de PVC
+
+hidráulico de 4” a 6” de diámetro: 18.00
+
+11 Instalación de piezas especiales de PVC
+
+hidráulico de 8” a 10” de diámetro 26.00
+
+12 Instalación de piezas especiales de
+
+PVC hidráulico mayores a 10” de diámetro: 26.00
+
+13 Instalación de tuberías de PEAD de
+
+1/2” a 1.5” de diámetro: 18.00
+
+14 Instalación de tuberías de PEAD de
+
+2” a 4” de diámetro: 18.00
+
+15 Instalación de tuberías de PEAD de
+
+6” a 10” de diámetro: 26.00
+
+16 Instalación de tuberías de PEAD
+
+mayores de 10” de diámetro: 26.00
+
+17 Instalación de piezas especiales de PEAD: 26.00
+
+V Alcantarillado sanitario
+
+a) Por la emisión de diagnóstico: 16.50
+
+b) Por limpieza y desazolve con equipo
+
+especializado hidroneumático en:
+
+1 Descargas domiciliarias: 30.00
+
+2 Tuberías de drenaje de 15 a 30 cm de
+
+diámetro 45.00
+
+3 Tuberías de drenaje de 45 a 60 cm de
+
+diámetro: 45.00
+
+4 Tuberías de 75 a 90 cm de diámetro: 45.00
+
+VI Saneamiento
+
+a) Por la emisión de diagnóstico: 44.00
+
+b) Por el desmonte e instalación de equipos
+
+de bombeo de aguas negras en:
+
+1 Columnas de 2” a 4” de diámetro y de 0 a
+
+10 metros de longitud: 33.00
+
+2 Columnas de 6” a 12” de diámetro y de
+
+0 a 10 metros de longitud: 66.00
+
+3 Piezas especiales de 1.5” a 3” de
+
+diámetro: 18.50
+
+4 Piezas especiales de 4” a 6” de diámetro: 66.00
+
+5 Piezas especiales mayores
+
+a 6” de diámetro: 66.00
+
+6 Difusores: 16.50
+
+7 Biodigestores, filtros anaerobios de flujo
+
+ascendente y cárcamos de bombeo de aguas
+
+negras: 66.00
+
+VII Por la realización de visita para asesoría
+
+técnica: 13.00
+
+VIII Por el aforo de pozo profundo: 423.00
+
+IX Por la limpieza de pozo profundo: 423.00
+
+X Por la video filmación de pozo profundo: 135.00
+
+XI Por la perforación de pozo: 7617.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 99.
+
+Las personas físicas, morales o unidades económicas causarán y pagarán derechos por los servicios de suministro de agua potable y saneamiento que presta la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, conforme a las siguientes cuotas bimestrales expresados en pesos mexicanos:
+
+I. Agua Potable
+
+a) Servicio medido.
+
+Los usuarios de agua potable con servicio medido pagarán el importe que corresponda de acuerdo al nivel de consumo bimestral conforme a la siguiente tabla:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+## Título Sexto. Por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 100.
+
+Las personas físicas, morales y unidades económicas causarán y pagarán derechos por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, conforme a los conceptos y cuotas siguientes:
+
+Número de Salarios
+
+Mínimos
+
+I Por la Evaluación de Competencia
+
+Laboral: 14.00
+
+II Por la Expedición de Certificados de:
+
+a) Nivel 1: 3.00
+
+b) Nivel 2: 5.00
+
+c) Nivel 3: 7.00
+
+d) Nivel 4: 11.00
+
+e) Nivel 5: 12.00
+
+III Por Reposición de Certificados: 7.00
+
+IV Por la Acreditación de Centros
+
+de Evaluación: 317.00
+
+V Por la Acreditación de Estándares de
+
+Competencia: 106.00
+
+VI Por la Renovación de Estándares de
+
+Competencia: 106.00
+
+VII Por la impartición de cursos en materia
+
+de competencia laboral: 14.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+## Título Séptimo. Por los servicios que presta el Sistema para el Desarrollo Integral de la Familia de Oaxaca
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 101.
+
+Las personas físicas que soliciten servicios funerarios a cargo del Velatorio Popular Manuel Fernández Fiallo, causarán y pagarán derechos por los conceptos y cuotas siguientes:
+
+Pesos
+
+I Recepción de cadáver en el Aeropuerto y
+
+traslado a la Ciudad de Oaxaca de Juárez: $350.00
+
+II Por el traslado de cadáver de la Ciudad de
+
+Oaxaca de Juárez a cualquier población del
+
+interior del Estado, por cada kilómetro de
+
+distancia: $10.50
+
+III Por el uso de la Capilla ardiente, por
+
+48 horas: $650.00
+
+IV Por uso de carroza para cortejo en la
+
+Ciudad de Oaxaca de Juárez y municipios
+
+conurbados, por día: $350.00
+
+V Por la adquisición de ataúdes de madera:
+
+a) Infantil de 0.60 metros: $300.00
+
+b) Infantil de 1.00 metros: $400.00
+
+c) Infantil de 1.20 metros: $500.00
+
+d) Infantil de 1.60 metros: $800.00
+
+f (sic)) Adulto modelo económico de
+
+1.90 metros: $1,000.00
+
+g) Adulto modelo Alaska de 1.90 metros: $1,500.00
+
+h) Adulto modelo Especial de
+
+1.90 metros: $2,000.00
+
+i) Adulto modelo de cruz de 1.90 metros: $2,200.00
+
+j) Adulto modelo Bóveda de 1.90 metros: $3,000.00
+
+k) Adulto modelo Pino Barnizado de 1.90
+
+metros: $6,500.00
+
+l) Adulto modelo Cedro Barnizado
+
+de 1.90 metros: $9,000.00
+
+VI Por renta del equipo de Velación
+
+a domicilio por:
+
+a) 48 horas: $350.00
+
+b) 9 días: $650.00
+
+VII Por embalsamiento de cadáver:
+
+a) Sencillo $400.00
+
+b) Con tesis $800.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 102.
+
+Las personas físicas que soliciten los servicios a cargo de los CADI, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
+
+Pesos
+
+I Servicio de medicina general:
+
+a) Consulta: $35.00
+
+b) Aplicación de Inyección, con jeringa
+
+y aguja proporcionado por el DIF: $10.00
+
+c) Aplicación de Inyección: $5.00
+
+d) Toma de presión arterial: $5.00
+
+e) Curaciones: $20.00
+
+f) Toma de muestras para Papanicolau: $20.00
+
+e (sic) ) Expedición de certificado médico: $30.00
+
+II Servicios Odontológicos
+
+a) Consulta: $35.00
+
+b) Amalgama Adulto, por pieza: $50.00
+
+c) Amalgama Infantil, por pieza: $50.00
+
+d) Profilaxis General: $70.00
+
+e) Profilaxis Media: $35.00
+
+f) Fluór: $50.00
+
+g) Extracción Adulto, por pieza dental: $50.00
+
+h) Extracción Infantil por pieza dental: $40.00
+
+i) Resina Adulto: $60.00
+
+j) Resina Infantil: $60.00
+
+k) Rayos X por pieza dental: $40.00
+
+l) Curación: $30.00
+
+III Servicio Psicológico
+
+a) Consulta $30.00
+
+IV Servicios del Centro de Atención de
+
+Desarrollo Integral
+
+a) Inscripción Maternal anual: $50.00
+
+b) Inscripción Preescolar anual: $50.00
+
+V Servicios Educativos
+
+a) Inscripción Maternal anual: $500.00
+
+b) Inscripción Maternal mensual: $50.00
+
+c) Inscripción Preescolar anual: $500.00
+
+d) Inscripción Preescolar mensual: $50.00
+
+VI Impartición de Cursos y Talleres
+
+a) Corte y Confección: $80.00
+
+b) Manualidades: $100.00
+
+c) Belleza: $100.00
+
+d) Guitarra: $120.00
+
+e) Tejido: $80.00
+
+f) Macramé: $80.00
+
+g) Terapia de Lenguaje: $60.00
+
+h) Apoyo a Tareas: $50.00
+
+i) Artes Marciales: $150.00
+
+j) Inglés: $100.00
+
+k) Baile de Salón: $100.00
+
+l) Cerámica: $100.00
+
+m) Aeróbicos: $100.00
+
+n) Pintura y Dibujo: $100.00
+
+o) Tahitiano: $150.00
+
+p) Yoga: $150.00
+
+q) Futbol Infantil: $70.00
+
+r) Cocina: $150.00
+
+s) Gelatina Artística: $100.00
+
+t) Actividades y conocimientos de
+
+preescolar: $130.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 103.
+
+Por los servicios a cargo de los CENDI, las personas físicas causarán y pagarán derechos anuales conforme a los conceptos y cuotas siguientes:
+
+Pesos
+
+I Maternal y/o preescolar por alumno,
+
+Nivel socioeconómico A: $500.00
+
+II Maternal y/o preescolar por alumno,
+
+Nivel socioeconómico B: $360.00
+
+III Maternal y/o preescolar por alumno,
+
+Nivel socioeconómico C: $180.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 104.
+
+Por los servicios de desayuno y comida preparada en las cocinas y/o comedores nutricionales comunitarios de lunes a viernes, se causarán derechos y se pagarán $10.00 por cada beneficiario.
+
+Las Autoridades Municipales interesadas en el Programa de Participación Comunitaria para el Desarrollo Humano con Asistencia Alimentaria deberán suscribir contratos administrativos con el Sistema DIF.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 105.
+
+Los ingresos que se recauden por los servicios que presta el DIF, serán destinados a los programas y actividades a cargo del Sistema DIF.
 
 T R A N S I T O R I O S:
 
@@ -5620,3 +7782,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 24 de Diciembre del 2011.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor a partir del día uno de enero del año 2013, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se deroga el Artículo quinto transitorio del decreto número 92 por el que se expidió la Ley de Agua Potable y Alcantarillado del Estado de Oaxaca publicado en el Periódico Oficial del Estado, en la sección número 7 del día 13 de febrero de 1993, y las demás disposiciones que señalen cuotas o tarifas en materia de agua potable y saneamiento.
+
+TERCERO: El Ejecutivo Estatal a través de la Dirección del Registro Público de la Propiedad y del Comercio deberá establecer un programa de capacitación y lineamientos para la aplicación de los conceptos y cuotas relacionadas con los servicios públicos que presta, a fin de definir criterios uniformes en todos y cada uno de los servidores públicos que laboran en dicha dependencia y con esto garantizar los principios de certeza jurídica a favor de los oaxaqueños.
