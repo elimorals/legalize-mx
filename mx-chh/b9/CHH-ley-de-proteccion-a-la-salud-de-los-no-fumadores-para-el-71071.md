@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2009-11-07"
+last_updated: "2012-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
+LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -79,7 +79,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Área Cerrada: Superficie comprendida dentro de un perímetro determinado que, por sus características, no permite la ventilación natural o artificial del aire, de modo que dé lugar a la inhalación involuntaria del humo generado por la combustión del tabaco. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas no se considerarán espacios para la circulación libre de aire natural.
 
-II. Autoridades: El Ejecutivo del Estado, la Secretaría de Fomento Social y los Ayuntamientos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+II. Autoridades: El Ejecutivo del Estado, la Secretaría de Salud y los Ayuntamientos.
 
 III. Conducta Reiterativa: Cuando el infractor cometa violaciones a las disposiciones de esta Ley, dos o más veces, dentro del período de un año, contando a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
@@ -113,7 +115,9 @@ XVII. Recipiente: Depósito destinado a recolectar las colillas y demás materia
 
 XVIII. Reglamentos: El que para efectos de esta Ley expidan las autoridades correspondientes, dentro de sus respectivas competencias.
 
-XIX. Secretaría: A la Secretaría de Fomento Social del Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XIX. Secretaría: A la Secretaría de Salud de Gobierno del Estado de Chihuahua.
 
 XX. Tabaco: La planta “Nicotina Tabacum” y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé.
 
@@ -153,9 +157,11 @@ IX. Sancionar a los particulares que, al momento de la visita, hayan sido encont
 
 X. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-Corresponde a la Secretaría de Fomento Social:
+Corresponde a la Secretaría de Salud:
 
 I. Coordinarse con la Secretaría de Salud del Gobierno Federal, para la implementación del Programa contra el Tabaquismo;
 
@@ -568,3 +574,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de junio del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
