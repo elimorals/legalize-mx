@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2012-05-12"
+last_updated: "2012-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -1249,15 +1249,15 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 12 DE MAYO DE 2012.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Tercero.- Las reformas del presente Decreto serán aplicables a la fiscalización de las Cuentas Públicas del ejercicio fiscal 2012.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+Artículo Tercero.- Las reformas del presente Decreto serán aplicables a la fiscalización de las Cuentas Públicas a partir del ejercicio fiscal 2012.
 
 Artículo Cuarto.- En un plazo que no exceda de noventa días, contados a partir de la publicación de este Decreto, se deberán expedir, o en su caso, actualizar conforme lo establecido en la presente reforma, el Reglamento Interior de la Auditoría Superior del Estado, los manuales de organización y procedimientos y las normas para el ejercicio, manejo y aplicación del presupuesto de la propia Auditoría, los cuales deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado.
 
