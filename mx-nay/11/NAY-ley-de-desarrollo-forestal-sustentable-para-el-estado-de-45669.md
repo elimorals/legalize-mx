@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-45669"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-16"
-last_updated: "2005-07-16"
+last_updated: "2012-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de julio de 2005.
 
@@ -107,7 +107,9 @@ VIII. Ley.- Ley de Desarrollo Forestal Sustentable del Estado de Nayarit.
 
 IX. Reglamento.- El reglamento de la presente Ley.
 
-X. SEDER.- La Secretaría de Desarrollo Rural del Gobierno del Estado de Nayarit.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2012)</small>
+
+X. SEMANAY.- La Secretaría del Medio Ambiente del Estado de Nayarit.
 
 XI. SEMARNAT.- La Secretaría del Medio Ambiente y Recursos Naturales.
 
@@ -239,9 +241,11 @@ XIX. La atención de los demás asuntos que en materia de desarrollo forestal su
 
 ### Capítulo III. De la Comisión Forestal de Nayarit
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 9º.
 
-La Comisión Forestal de Nayarit es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios. La coordinación sectorial de la Comisión corresponde a la Secretaría de Desarrollo Rural del Gobierno del Estado, de conformidad con las disposiciones jurídicas aplicables.
+La Comisión Forestal de Nayarit es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios. La coordinación sectorial de la Comisión corresponde a la Secretaría del Medio Ambiente del Gobierno del Estado, de conformidad con las disposiciones jurídicas aplicables.
 
 El objeto de la Comisión será desarrollar, favorecer e impulsar las actividades productivas, de protección, conservación y restauración en materia forestal, conforme a la presente Ley, así como participar en la formulación y aplicación de los planes, programas y políticas de Desarrollo Forestal Sustentable y sus instrumentos.
 
@@ -267,9 +271,11 @@ VI. Los recursos que se obtengan por la comercialización de sus obras literaria
 
 VII. Los demás bienes, derechos y aprovechamientos que fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-La Comisión tendrá como órgano de gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los Titulares de las Secretarías de Desarrollo Rural, quien fungirá como presidente, de Planeación, quien fungirá como Secretario Técnico, y de Obras Públicas, de Desarrollo Económico, de Finanzas y de Educación Pública, quienes fungirán como vocales.
+La Comisión tendrá como órgano de gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los Titulares de las Secretarías del Medio Ambiente, quien fungirá como presidente, de Planeación, Programación y Presupuesto quien fungirá como Secretario Técnico, y de Agricultura, Ganadería, Desarrollo Rural y Pesca, de Obras Públicas, de Desarrollo Económico, de Administración y Finanzas y de Educación, quienes fungirán como vocales.
 
 Los miembros de la Junta de Gobierno tendrán voz y voto en las sesiones de las mismas. Por cada integrante de este órgano colegiado se deberá nombrar un suplente con nivel jerárquico de Subsecretario o equivalente.
 
@@ -794,3 +800,9 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez", de este Honorable Congreso de
 Dip. Presidente, Obdulia Delgado Delgado.- Rúbrica.- Dip. Secretario, Yolanda del Real Ureña.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Nayarit, en Tepic su capital, a los catorce días del mes de julio del año dos mil cinco.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
