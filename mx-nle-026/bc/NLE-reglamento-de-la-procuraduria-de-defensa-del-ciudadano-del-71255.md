@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2012-02-29"
+last_updated: "2012-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE LA PROCURADURÍA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 13 DE DICIEMBRE DE 2012, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -838,3 +840,13 @@ Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas
 ###### ARTÍCULO TERCERO.
 
 Envíese a la C. Primer Regidor Ing. Carlos Rodríguez Padilla Encargado del Despacho de la Presidencia municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+P.O. 17 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente acuerdo de abrogación del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo León, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los expedientes, y asuntos pendientes en la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo León, se resolverán conforme a la normatividad vigente y aplicable al momento de iniciar su trámite.
+
+TERCERO.- En conjunto con el Reglamento abrogado, quedan sin efecto todas sus reformas, adiciones; así como las disposiciones jurídicas que se opongan a los términos de la presente abrogación.
+
+CUARTO.- Instrúyase por parte del Presidente Municipal al Secretario de (sic) Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
