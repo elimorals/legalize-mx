@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-65007"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-13"
-last_updated: "2011-12-22"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -779,13 +779,17 @@ La Secretaría de Planeación y Finanzas llevará registros de contribuyentes ba
 
 Salvo disposición en contrario, cuando las disposiciones fiscales señalen la obligación de presentar avisos ante las autoridades fiscales, la presentación deberá efectuarse dentro de los 10 días siguientes a aquél en que se actualice el supuesto jurídico o el hecho que lo motive.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 53-B.
 
-Cuando las solicitudes relacionadas con el cumplimiento de obligaciones fiscales formales, así como los avisos que en los términos de las disposiciones fiscales estén obligados a presentar los contribuyentes, se presenten con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas, los contribuyentes podrán rectificarlos presentando nuevamente el aviso respectivo dentro de los diez días hábiles siguientes a aquel.
+Cuando las solicitudes relacionadas con el cumplimiento de obligaciones fiscales formales, así como los avisos que en los términos de las disposiciones fiscales estén obligados a presentar los contribuyentes, se presenten con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas, los contribuyentes podrán rectificarlos presentando nuevamente el aviso respectivo dentro de los diez días hábiles siguientes a aquel en que se presentó.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La Secretaría de Planeación y Finanzas dará a conocer mediante publicación en el Periódico Oficial del Estado las formas aprobadas para tales efectos.
 
@@ -803,7 +807,11 @@ III. No procederá la devolución de cantidades pagadas indebidamente cuando el 
 
 Las autoridades fiscales devolverán las cantidades pagadas indebidamente y las que procedan conforme a las leyes fiscales, para lo cual será necesario:
 
-I. Que medie solicitud por escrito de parte interesada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+I. Que medie solicitud por escrito de parte interesada, a la que se acompañe original o copia certificada del recibo oficial en el cual conste el pago de la cantidad respecto de la cual se solicita la devolución.
 
 II. Que no haya créditos fiscales exigibles en cuyo caso cualquier excedente se aplicará al pago de los mismos.
 
@@ -1174,6 +1182,10 @@ Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos
 Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere el artículo 69, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones o aprovechamientos omitidos mediante resolución.
 
 Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 69, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere la fracción VI del citado artículo 69.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Artículo 71 bis. Cuando las autoridades fiscales en ejercicio de sus funciones, conozcan de hechos, actos u omisiones que pudieran estar vinculados con la comisión de alguno de los delitos en materia de operaciones con recursos de procedencia ilícita, previstos en el Código Penal para el Estado de Querétaro, deberán ejercer sus facultades de comprobación, en los términos de la normatividad aplicable y, en caso de descubrir elementos que permitan presumir su comisión, deberán proceder a la denuncia de los hechos que pudieran ser constitutivos de dichos ilícitos.
 
 ###### Artículo 72.
 
@@ -2125,11 +2137,19 @@ Las garantías subsistirán hasta que proceda su cancelación en los términos d
 
 Los gastos que se originen con motivo de la garantía serán por cuenta del interesado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 131.
 
-La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora correspondiente, para que la califique, acepte si procede y le dé el trámite correspondiente.
+La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad fiscal competente para cobrar coactivamente créditos fiscales, para que la califique, acepte si procede y le dé el trámite correspondiente.
 
-La autoridad recaudadora para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establece este Código, en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 129 de este ordenamiento; cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquel en que se notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+La autoridad fiscal para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establece este Código, en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubra los conceptos que señala el artículo 129 de este ordenamiento. Cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquel en que se notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía. El plazo previsto en el sexto párrafo del artículo 129 de este Código, quedará suspendido hasta en tanto se emita la resolución en la que se determine la procedencia de la garantía del interés fiscal.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2138,6 +2158,12 @@ Para garantizar el interés fiscal sobre un mismo crédito, podrán combinarse l
 La garantía constituida podrá garantizar uno o varios créditos fiscales, siempre que la misma comprenda los conceptos previstos en el artículo 129 de este Código.
 
 La garantía deberá ampliarse dentro del mes siguiente a aquel en que concluya el periodo a que se refiere el artículo 129 de este ordenamiento, por el importe de los recargos correspondientes a los doce meses siguientes. Lo dispuesto en este párrafo será aplicable a aquellos casos en que por cualquier circunstancia resulte insuficiente la garantía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+No obstante lo dispuesto en el segundo párrafo de este artículo, la autoridad fiscal podrá aceptar la garantía ofrecida por el contribuyente aún y cuando ésta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 129 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
 
 ###### Artículo 132.
 
@@ -2203,19 +2229,11 @@ IV. Deberá inscribirse en el registro público que corresponda el embargo admin
 
 V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos de la fracción II del artículo 153 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 132-C.
 
-La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad fiscal competente para cobrar coactivamente créditos fiscales, para que la califique, acepte, si procede y le dé el trámite correspondiente.
-
-Para calificar la garantía del interés fiscal, la autoridad fiscal deberá verificar que se cumplan los requisitos que establecen este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 129 de este Código.
-
-Cuando no se cumplan los requisitos a que se refiere este párrafo la autoridad requerirá al promovente a fin de que, en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido, en caso contrario no se aceptará la garantía. El plazo establecido en el artículo 129, sexto párrafo del Código se suspenderá hasta que se emita la resolución en la que se determine la procedencia o no de la garantía del interés fiscal.
-
-La autoridad fiscal podrá aceptar la garantía ofrecida por el contribuyente aun y cuando ésta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 129 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -3424,3 +3442,119 @@ En caso de que las personas a que se refieren los párrafos anteriores no acredi
 XIX. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
 
 El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que estará formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+LEY QUE REFORMA LOS ARTÍCULOS 53-B, PÁRRAFO PRIMERO; 55, FRACCIÓN I Y 131, PÁRRAFOS PRIMERO Y SEGUNDO; SE ADICIONA EL ARTÍCULO 131, SEXTO PÁRRAFO Y SE DEROGA EL ARTÍCULO 132-C, TODOS ELLOS DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero del 2013.
+
+Artículo Segundo. Se derogan en particular todas las disposiciones contenidas en las leyes, decretos o acuerdos de creación de los organismos descentralizados y empresas de participación estatal mayoritaria de que se trate, así como en sus reglamentos internos, que se opongan a lo previsto en el Artículo Tercero de la presente Ley.
+
+Artículo Tercero. El contenido de la reforma de la fracción VIII del artículo 54 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, que se realiza mediante la presente Ley, no será aplicable a los actos relativos a la aprobación y/o modificación de la estructura orgánica, salarial y ocupacional de las entidades paraestatales, así como de su plantilla de personal, que se hubieren realizado con anterioridad a su entrada en vigor.
+
+Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2013, serán las siguientes:
+
+I. Siempre que se trate de vivienda interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad.
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+III. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en que conste la operación mediante la que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+IV. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+V. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, exigibles al 31 de diciembre de 2012, siempre que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+No procederá la condonación a la que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si cumple con los requisitos señalados en los dos primeros párrafos de esta fracción.
+
+IX. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+X. El impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales que se cause con motivo de los pagos que por concepto del impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado de Querétaro, realicen los contribuyentes, se reducirá en un 100%.
+
+XI. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.40 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo.
+
+XII. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+REDUCCION SUPUESTO
+
+En los paquetes familiares (por lo
+
+menos tres personas en las diferentes
+
+30% disciplinas, previa entrega de una copia
+
+del acta de nacimiento de cada familiar).
+
+Para adultos mayores.
+
+XIII. Para los efectos del impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%, en los casos de aquellas personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2013.
+
+XIV. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso, además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ
+
+XV. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.40 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Dirección de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+XVI. Por la prestación de los servicios previstos en el artículo 135, fracción I, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.68 VSMGZ.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de dicha fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+LEY QUE ADICIONA EL ARTÍCULO 71-BIS DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
