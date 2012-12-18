@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-medicas-y-solicitudes-de-reembolso-del-824
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-16"
-last_updated: "2011-10-17"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82442&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-06-23"
 ---
 # REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de agosto de 2011.
 
@@ -201,6 +201,10 @@ Los titulares del derecho podrán promover la Queja Médica y/o la Solicitud de 
 
 La Queja Médica y/o la Solicitud de Reembolso deberán presentarse dentro del término de dos años calendario contados a partir de la Fecha de Hechos, ante la Unidad que corresponda al último domicilio que el Trabajador o Pensionado hubiera proporcionado al Instituto.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+Si la Queja Médica y la Solicitud de Reembolso derivan de los mismos hechos deberán presentarse ante la Unidad competente en el mismo escrito.
+
 En caso de que el promovente sea No Derechohabiente ésta se presentará ante la Unidad que corresponda a su último domicilio particular.
 
 La Queja Médica y/o la Solicitud de Reembolso se tendrán por no presentada cuando se promueva fuera del plazo antes señalado.
@@ -235,9 +239,11 @@ El Comité o la Comisión prevendrá una sola vez a los interesados en caso de n
 
 ### CAPITULO CUARTO. RESOLUCION DE LA QUEJA MEDICA Y DE LA SOLICITUD DE REEMBOLSO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 15.
 
-La Queja Médica y/o la Solicitud de Reembolso se resolverán dentro de los noventa y cinco días hábiles siguientes al de su recepción en la Unidad que corresponda.
+La Queja Médica y/o la Solicitud de Reembolso se resolverán dentro de los ciento veinte días hábiles siguientes al de su recepción en la Unidad que corresponda.
 
 El Comité o la Comisión, en el ámbito de su competencia, notificará al Promovente la resolución recaída a su Queja Médica y/o Solicitud de Reembolso, en un plazo no mayor de diez días hábiles a partir de la emisión de la misma.
 
@@ -277,9 +283,11 @@ La competencia del Comité y de la Comisión se determinará por materia, cuant�
 
 El Comité conocerá y resolverá las Quejas Médicas y/o Solicitudes de Reembolso que excedan de mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 22.
 
-La Comisión resolverá la Solicitud de Reembolso que no exceda de mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
+La Comisión conocerá y resolverá la Solicitud de Reembolso que no exceda de mil quinientas veces el salario mínimo general vigente en el Distrito Federal, salvo que conjuntamente el promovente presente una Queja Médica, en cuyo caso ambas serán resueltas por el Comité.
 
 ### CAPITULO SEXTO. OPINION TECNICA DEL COMITE
 
@@ -287,9 +295,11 @@ La Comisión resolverá la Solicitud de Reembolso que no exceda de mil quinienta
 
 El Comité emitirá la Opinión Técnica respectiva que le solicite la Secretaría General, para atender las Quejas Médicas presentadas por el Derechohabiente o No Derechohabiente ante la Comisión Nacional de Arbitraje Médico, la Comisión Nacional de los Derechos Humanos, la Secretaría de la Función Pública o el Organo Interno de Control en el Instituto.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 24.
 
-El Comité deberá emitir su Opinión Técnica dentro de un plazo máximo de cincuenta días hábiles siguientes a la recepción de la Queja Médica por parte del Instituto.
+El Comité deberá emitir su Opinión Técnica dentro de un plazo máximo de noventa días hábiles siguientes a la recepción de la Queja Médica por parte del Instituto.
 
 ###### ARTICULO 25.
 
@@ -349,7 +359,9 @@ El Comité se integrará de la siguiente forma:
 
 I. Presidente, el Secretario General o el servidor público que éste designe;
 
-II. Secretario Ejecutivo, el Director Médico;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+II. Secretario Ejecutivo, el Director Médico o el servidor público que éste designe, quien deberá tener el perfil profesional de médico especialista;
 
 III. Secretario Técnico, el Subdirector que designe el Secretario General;
 
@@ -357,7 +369,9 @@ III. Secretario Técnico, el Subdirector que designe el Secretario General;
 
 IV. Vocales Médicos, el representante de la Dirección de Delegaciones, el representante de la Dirección Médica, el Subdirector Médico del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana, dos representantes de la Federación de Sindicatos de los Trabajadores al Servicio del Estado y un representante del Sindicato Nacional de Trabajadores del Instituto;
 
-V. Asesor, el Subdirector que designe la Dirección Jurídica, e
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+V. Asesor, el servidor público que designe la Dirección Jurídica, quien deberá tener el perfil profesional de licenciado en derecho, y
 
 VI. Invitados, los médicos especialistas de instituciones públicas o privadas de salud, relacionados con la materia que se vaya a analizar.
 
@@ -369,15 +383,21 @@ En caso de empate, el Presidente tendrá voto de calidad.
 
 El Subcomité se integrará de la siguiente forma:
 
-I. Coordinador, el Subdirector de Area que designe el Director Médico, quien deberá tener el perfil profesional de médico;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
 
-II. Secretario Técnico, el Subdirector de Atención al Derechohabiente;
+I. Coordinador, el Subdirector de Area o el servidor público que designe el Director Médico, quien deberá tener el perfil profesional de médico;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+II. Secretario Técnico, el Subdirector de Atención al Derechohabiente o el servidor público que éste designe, quien deberá tener el perfil profesional de médico;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 III. Vocales Médicos, el representante de la Dirección de Delegaciones; el representante de la Dirección Médica, un Jefe de Servicios del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana, dos representantes de la Federación de Sindicatos de los Trabajadores al Servicio del Estado y un representante del Sindicato Nacional de Trabajadores del Instituto;
 
-IV. Asesor, el Jefe de Servicios que designe la Subdirección de lo Consultivo, e
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+IV. Asesor, el servidor público que designe la Dirección Jurídica, quien deberá tener el perfil profesional de licenciado en derecho, y
 
 V. Invitados, los médicos especialistas de instituciones públicas o privadas de salud, relacionados con la materia que se vaya a analizar.
 
@@ -407,19 +427,23 @@ Los integrantes de la Comisión contarán con voz y voto, con excepción del Sec
 
 En caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 34.
 
-Los integrantes titulares del Comité, del Subcomité y de la Comisión, con excepción del Presidente, podrán designar por escrito a un suplente, que deberá tener el nivel jerárquico inmediato inferior al del titular, quien sólo podrá suplirlo por causa justificada.
-
-En el caso de los Vocales Médicos deberán contar con el perfil profesional de médico.
+Los Vocales Médicos podrán designar a un único suplente, quien deberá tener el perfil profesional de médico.
 
 ###### ARTICULO 35.
 
 Los servidores públicos que desempeñen un cargo en el Comité, no podrán hacerlo en el Subcomité y viceversa.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 36.
 
-El Comité, el Subcomité y la Comisión sesionarán de manera ordinaria dos veces al mes y extraordinaria las que sean necesarias.
+El Comité y el Subcomité sesionarán de manera ordinaria dos veces al mes y de manera extraordinaria las que sean necesarias.
+
+La Comisión sesionará de manera ordinaria una vez al mes y de manera extraordinaria las que sean necesarias.
 
 Para que exista quórum legal tratándose del Comité y la Comisión, será necesaria la presencia y permanencia del Presidente y para el Subcomité la presencia y permanencia del Coordinador, así como de por lo menos el cincuenta por ciento más uno de los miembros con derecho a voto.
 
@@ -441,17 +465,29 @@ V. Asesorar a la Secretaría General sobre los procedimientos que se lleven ante
 
 VI. Requerir al Promovente o a la Unidad Médica involucrada la información y/o documentación relativa al caso que se analiza;
 
-VII. Recomendar a las Unidades Médicas las medidas preventivas y correctivas para abatir las causas que originan las Quejas Médicas y/o las Solicitudes de Reembolso;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+VII. Proponer a las Unidades Médicas las medidas preventivas y correctivas para abatir las causas que originan las Quejas Médicas y/o las Solicitudes de Reembolso, así como convocar a los titulares de las citadas Unidades para que informen ante el Comité sobre la atención a dichas propuestas y, en su caso, solicitar los reportes conducentes por escrito;
 
 VIII. Llevar a cabo visitas de trabajo a las Unidades Médicas identificadas como las principales generadoras de Quejas Médicas y/o Solicitudes de Reembolso;
 
-IX. Presentar un informe semestral al Director General del Instituto acerca de los resultados de su actuación;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+IX. Aprobar el informe semestral que se presenta al Director General del Instituto acerca de los resultados de su actuación;
 
 X. Evaluar y supervisar el trabajo del Subcomité y de la Comisión;
 
-XI. Requerir a la Comisión, de considerarlo necesario, el envío de la Solicitud de Reembolso para su atención, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
 
-XII. Las demás que le encomiende la Junta Directiva de conformidad con la normatividad aplicable.
+XI. Requerir a la Comisión, de considerarlo necesario, el envío de la Solicitud de Reembolso para su atención;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+XII. Supervisar el cumplimiento a los acuerdos y resoluciones emitidos por el Comité, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+XIII. Las demás que le encomiende la Junta Directiva de conformidad con la normativa aplicable.
 
 ###### ARTICULO 38.
 
@@ -507,11 +543,19 @@ IV. Coordinar el seguimiento de las acciones, medidas y recomendaciones emitidas
 
 V. Orientar las sesiones, acuerdos, medidas y resoluciones del Comité a los criterios de transparencia e imparcialidad que deban concurrir al resolver las Quejas Médicas y/o Solicitudes de Reembolso;
 
-VI. Supervisar la ejecución de los acuerdos, medidas y recomendaciones emitidas por el Comité y vigilar su seguimiento;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+VI. Coordinar la supervisión del cumplimiento a los acuerdos y resoluciones emitidos por el Comité.
 
 VII. Firmar las resoluciones que emanen del Comité, y
 
-VIII. Las demás que le encomiende el Comité de conformidad con la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+VIII. Presentar el informe semestral al Director General del Instituto acerca de los resultados de la actuación del Comité, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+IX. Las demás que le encomiende el Comité de conformidad con la normativa aplicable.
 
 2. DEL SECRETARIO EJECUTIVO
 
@@ -533,9 +577,17 @@ III. Proponer a los miembros del Comité el orden del día de las sesiones;
 
 IV. Levantar las actas de las sesiones;
 
-V. Comunicar a las áreas involucradas los acuerdos que emita el Comité, en un término de dos días hábiles posteriores a la sesión, para su atención y cumplimiento, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
 
-VI. Las demás que le encomiende el Comité de conformidad con la normatividad aplicable.
+V. Comunicar a las áreas involucradas los acuerdos que emita el Comité, en un término de dos días hábiles posteriores a la sesión, para su atención y cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+VI. Elaborar el informe semestral que se presenta al Director General del Instituto acerca de los resultados de la actuación del Comité, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2012)</small>
+
+VII. Las demás que le encomiende el Comité de conformidad con la normativa aplicable.
 
 4. DE LOS VOCALES MEDICOS
 
@@ -675,8 +727,14 @@ Atentamente
 
 México, D.F., a 23 de junio de 2011.- El Secretario de la Junta Directiva designado para esta sesión ordinaria, Antonio Guillermo Chávez Fares.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 17 DE OCTUBRE DE 2011.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Acuerdo, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las quejas médicas y las solicitudes de reembolso que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Acuerdo, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
