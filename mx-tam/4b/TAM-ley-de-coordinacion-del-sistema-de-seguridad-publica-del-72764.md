@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2012-04-19"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1189,6 +1189,18 @@ c) Jubilación o Retiro.
 
 Al concluir el servicio, el integrante deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Institución sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación, en los términos que establece la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+La indemnización a que se refiere el párrafo anterior consistirá en:
+
+I. Veinte días de salario por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado; y
+
+II. El importe de tres meses de salario base.
+
 ###### ARTICULO 66.
 
 Los integrantes de las instituciones policiales que hayan alcanzado la edad límite para la permanencia, prevista en las disposiciones que los rijan, podrán ser reubicados a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
@@ -1416,6 +1428,14 @@ b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 ###### ARTICULO 86.
 
 En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción fue injustificada, la Procuraduría sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con lo dispuesto en el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+La indemnización a que se refiere el párrafo anterior consistirá en:
+
+I. Veinte días de salario por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado; y
+
+II. El importe de tres meses de salario base.
 
 ### CAPITULO III. DE LA PROFESIONALIZACION
 
@@ -1916,5 +1936,37 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia que se haga de las (sic) Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
+
+###### ARTÍCULO TERCERO.
+
+La Subsecretaría de Ejecución de Sanciones y Reinserción Social realizará las acciones necesarias para el cumplimiento de sus atribuciones en términos de lo dispuesto en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Reglamento elaborado por el Ejecutivo Estatal sobre las Relaciones Laborales entre el Gobierno del Estado y sus Trabajadores de Seguridad Pública, aprobado mediante el Decreto No. 165, de la Quincuagésima Legislatura del H. Congreso del Estado y publicado en el Periódico Oficial del Estado No. 21, del 13 de marzo de 1982.
+
+###### ARTÍCULO QUINTO.
+
+El personal asignado a la Junta de Honor y Justicia, será asignado a la Secretaría General de Gobierno, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior; se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos ante la Junta de Honor y Justicia, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
