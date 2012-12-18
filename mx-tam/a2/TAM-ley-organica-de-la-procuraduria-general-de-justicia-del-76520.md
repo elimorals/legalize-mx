@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2012-08-30"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -2029,6 +2029,12 @@ VI. Si del informe o de los resultados de la audiencia no se desprenden elemento
 
 Contra la resolución que dicte la Coordinación de Asuntos Internos podrá presentarse el recurso de revisión por el servidor público afectado ante el Consejo.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 86 bis.- Si el Consejo confirma la resolución de la Coordinación de Asuntos Internos, y una vez que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación, en los términos que establece la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El monto de indemnización será conforme lo dispuesto en el artículo 86 de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
+
 ###### ARTICULO 87.
 
 Para todo lo no dispuesto en el presente capítulo o en el Reglamento, serán aplicables supletoriamente las disposiciones del Código de Procedimientos Penales y la Ley de Responsabilidades de los Servidores Públicos del Estado.
@@ -2500,3 +2506,35 @@ El personal de nivel jerárquico de Jefe de Departamento y superiores, será dad
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia que se haga de las Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
+
+###### ARTÍCULO TERCERO.
+
+La Subsecretaría de Ejecución de Sanciones y Reinserción Social realizará las acciones necesarias para el cumplimiento de sus atribuciones en términos de lo dispuesto en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Reglamento elaborado por el Ejecutivo Estatal sobre las Relaciones Laborales entre el Gobierno del Estado y sus Trabajadores de Seguridad Pública, aprobado mediante el Decreto No. 165, de la Quincuagésima Legislatura del H. Congreso del Estado y publicado en el Periódico Oficial del Estado No. 21, del 13 de marzo de 1982.
+
+###### ARTÍCULO QUINTO.
+
+El personal asignado a la Junta de Honor y Justicia, será asignado a la Secretaría General de Gobierno, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la Intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos ante la Junta de Honor y Justicia, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
