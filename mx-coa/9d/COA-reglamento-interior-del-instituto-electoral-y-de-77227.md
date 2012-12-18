@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-electoral-y-de-77227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-29"
-last_updated: "2010-10-29"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE COAHUILA
 
-REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE COAHUILA
+REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de octubre de 2010.
 
@@ -261,9 +261,15 @@ El calendario y programa operativo anual a que hace referencia el párrafo anter
 
 La Secretaría Ejecutiva es el órgano central ejecutivo de carácter unipersonal, encargado de conducir la administración y supervisar el desarrollo de las actividades de los órganos ejecutivos y técnicos del Instituto, de conformidad con las disposiciones aplicables. Su titular es el Secretario Ejecutivo.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 32.
 
 El Secretario Ejecutivo ejercerá las atribuciones que le señala el artículo 88 y demás correlativos del Código, y las que le encomienden el Consejo General, la Junta General Ejecutiva o las Comisiones.
+
+En caso de ausencia temporal del titular de la Secretaría Ejecutiva, sus atribuciones serán ejercidas por el titular de la Dirección Ejecutiva de Asuntos Jurídicos, y en caso de ausencia de este, por el titular de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
+
+La Secretaría Ejecutiva designará a la persona encargada de ejercer las atribuciones de los titulares de las Direcciones Ejecutivas y de cualquier cargo o puesto que dependa jerárquicamente de ella en caso de ausencia temporal.
 
 #### Sección Cuarta. Direcciones Ejecutivas
 
@@ -691,7 +697,7 @@ I. Organizar, registrar y remitir el patrimonio documental del Instituto.
 
 II. Establecer un sistema de control de los documentos con los que cuenta el Instituto.
 
-lll. Llevar el control de los oficios que se envían a otros organismos, instituciones y a particulares.
+III. Llevar el control de los oficios que se envían a otros organismos, instituciones y a particulares.
 
 IV. Supervisar el préstamo de documentos.
 
@@ -924,3 +930,9 @@ RUBRICA
 LIC. ROSA MIRELLA CASTILLO ARIAS
 
 SECRETARIA EJECUTIVA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+Único. La modificación del artículo 32 del presente Reglamento Interior entrará en vigor a partir de su aprobación por el Consejo General del Instituto.
