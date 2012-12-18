@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2012-10-19"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -479,7 +479,11 @@ I. Los eléctricos utilizados para el transporte público de personas;
 
 II. Los importados temporalmente, en los términos de la legislación aduanera;
 
-III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios; los vehículos propiedad de instituciones de beneficencia autorizadas por las leyes de la materia, que sean utilizados para el cumplimiento de sus fines, con excepción de aquellos cuyo valor total, en términos del artículo 22, fracción VIII de esta Ley, exceda de $400,000.00 pesos; así como los destinados a los cuerpos de bomberos y las ambulancias dependientes de las entidades y (sic) instituciones a las que hace referencia esta fracción;
 
 IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
 
@@ -1951,6 +1955,12 @@ VII. Exclusivamente para la inscripción los fideicomisos de garantía.
 
 Por derechos relativos a donaciones se cubrirá el 8 al millar sobre su importe.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Para el cálculo de los derechos a que se refiere este artículo, se considerará que el usufructo y la nuda propiedad, tienen cada uno de ellos, el 50% del valor del bien.
+
 ###### Artículo 70.
 
 Por inscripción de resoluciones judiciales relativas a informaciones ad perpetuam o prescripciones adquisitivas, se cobrará el 10 al millar sobre el valor del bien.
@@ -1971,13 +1981,15 @@ Por todos los actos, contratos o convenios semejantes a los enunciados en el art
 
 Se pagarán 40 VSMGZ por la inscripción de:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 I. Aumento de capital de sociedades mercantiles;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, lotificación o relotificación y acta de entrega-recepción;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, protocolización de licencia de ejecución de obras, lotificación, relotificación, protocolización de autorización para venta de lotes y acta de entrega-recepción, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1991,57 +2003,51 @@ III. Protocolización de deslinde catastral de predio con superficie mayor a 5,0
 
 Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o certificaciones y demás servicios que preste el Registro Público de la Propiedad y del Comercio en materia de crédito agrícola y ejidal, causarán y pagarán los derechos de conformidad con las leyes respectivas y en los casos no previstos se aplicarán las cuotas señaladas en este capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
 
 Por la expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+CONCEPTO VSMGZ
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+Expedición de certificados de gravamen y de libertad de
 
-Concepto VSMGZ
+gravamen por 20 años. 7
 
-Expedición de certificados de gravamen
+Expedición de certificados de gravamen y de libertad de
 
-y de libertad de gravamen, por 20 años 7
+gravamen de más de 20 años. 10
 
-Expedición de certificados de gravamen y
+Expedición de certificados de inscripción y de no inscripción. 7
 
-de libertad de gravamen, de más de 20 años 10
+Certificado de propiedad, de no propiedad y de única propiedad. 4
 
-Expedición de certificados de inscripción, de
+Certificado de historial registral de hasta 10 años. 12
 
-no inscripción 7
+Certificado de historial registral de más de 10 y hasta 20 años. 16
 
-Certificado de propiedad, de no propiedad
+Certificado de historial registral de más de 20 años. 20
 
-y de única propiedad 4
+Expedición de copias certificadas, por cada 5 hojas. 2
 
-Certificado de historial registral, hasta 10 años 12
+Trascripción de documento por cada 15 hojas o fracción
 
-Certificado de historial registral, de más de 10 y
+de tal número. 6
 
-hasta 20 años 16
+Búsqueda de antecedentes sin expedición de certificados por
 
-Certificado de historial registral, de más de
+inmueble, hasta por diez años.
 
-20 años 20
+Cuando la búsqueda exceda del plazo a que se refiere el párrafo
 
-Expedición de cada 5 hojas de copias certificadas 2
+anterior, se cobrará 1 VSMGZ, por cada periodo de diez años de
 
-Trascripción (sic) de documento por cada 15 hojas
+búsqueda adicional o fracción. 2
 
-o fracción de tal número 6
-
-Búsqueda de antecedentes sin expedición de
-
-certificados por inmuebles 3
-
-Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificado, copias certificadas o la realización de algún acto de inscripción.
+Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando, su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2056,6 +2062,12 @@ Las solicitudes emitidas por autoridades judiciales no causarán derechos, siemp
 ###### Artículo 77.
 
 Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad y del Comercio, entendiéndose por tal servicio, el que se presta a los usuarios mediante el acceso para consulta de una base de datos a través de un enlace de comunicaciones entre equipos de cómputo, se causarán 30 VSMGZ por un año de servicio, cuando dicha cuota se entere en su totalidad durante el primer mes del ejercicio de que se trate, en caso contrario se causarán y pagarán 3 VSMGZ por cada mes de servicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Los usuarios que utilicen el equipo de cómputo que ponga a disposición del público en general el Registro Público de la Propiedad y el Comercio, para consultar los antecedentes registrales que obran en dicho Registro, no estarán obligados al pago de los derechos a que se refiere este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2095,43 +2107,37 @@ Sujeto
 
 Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General Notarías.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 82.
 
-Por los servicios prestados por el Archivo General de Notarías, se causan derechos conforme a lo siguiente:
+Por los servicios prestados por el Archivo General de Notarías, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
 
-Concepto Número de hojas VSMGZ
+CONCEPTO NÚMERO DE HOJAS VSMGZ
 
-Expedición de testimonio De 3 a 5 hojas 8
+De 3 a 5 hojas. 8
 
-De 6 a 9 hojas 12
+Expedición de De 6 a 9 hojas. 12
 
-De 10 a 15 hojas 16
+testimonio. De 10 a 15 hojas. 16
 
-De 16 hojas en adelante 18
+De 16 hojas en adelante. 18
 
-Avisos e informes de testamento, búsqueda de
+Avisos e informes de testamento, búsqueda de documentos, copias certificadas, por cada diez hojas. 3
 
-documentos, copias certificadas, por cada diez hojas 3
+Certificación de escrituras y/o de constancias de apéndice. 3
 
-Certificación de escrituras 3
+Autorización de cada folio. 0.05
 
-Autorización de cada folio 0.05
+Revisión de exactitud de la razón de cierre de tomo, por cada ocasión y tomo. 3
 
-Revisión de exactitud de la razón de cierre de tomo,
+Inscripción en el libro de Registro de Notarías. 8
 
-por cada ocasión y tomo 3
+Expedición de copias simples, por cada diez hojas. 1
 
-Inscripción en el libro de Registro de Notarías 8
-
-Expedición de copias simples, por cada diez hojas 1
-
-Aviso de testamento sobre la vivienda de interés
-
-social o popular 0
+Aviso de testamento sobre la vivienda de interés social o popular. 0
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2151,37 +2157,157 @@ AUTORIDADES CATASTRALES
 
 Son objeto de los derechos contenidos en este capítulo, la prestación de servicios a contribuyentes que ofrecen las autoridades catastrales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 84.
 
-Por la expedición de copias fotostáticas de planos catastrales se causarán:
+Por los servicios relativos a la expedición de copias e impresiones de planos y croquis de ubicación, se causarán y pagarán derechos conforme a las siguientes cuotas:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 I. Copia simple de planos catastrales en tamaño, carta, oficio o doble carta, sin ampliación o reducción; 3 VSMGZ, por plano;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 II. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 4 VSMGZ por plano.
 
-III. Copia certificada de levantamiento topográfico o deslinde catastral en medidas de 40x60 cm., hasta un 1 metro cuadrado, sin ampliación o reducción; 5 VSMGZ, por plano;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+III. Copia certificada de levantamiento topográfico o deslinde catastral en tamaño carta, oficio o doble carta, sin ampliación o reducción, 5 VSMGZ, por plano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 IV. Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo: 6 VSMGZ por plano.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 V. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 6 VSMGZ por plano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 VI. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 7 VSMGZ por plano.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por plano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 VIII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 8 VSMGZ por plano.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 IX. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 8 VSMGZ por metro cuadrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 X. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 9 VSMGZ por metro cuadrado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 9 VSMGZ por metro cuadrado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 XII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 10 VSMGZ por metro cuadrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XIII. Copia de los planos municipales existentes, 7 VSMGZ, por metro cuadrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XIV. Copias simples de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, por metro cuadrado 5 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XV. Copias certificadas de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, 7 VSMGZ, por metro cuadrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XVI. Impresión de croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 3 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XVII. Impresión certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 5 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Copia del plano general del Estado, 10 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XIX. Impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 4 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XX. Copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 6 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXI. Copia simple de la carta catastral con división predial escala 1:1000, en papel albanene o bond (60x90), 10 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXII. Copia simple de la carta catastral con curvas de nivel escala 1:1000, en papel albanene o bond (60x90), 7 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Copia simple de la carta de sector catastral con división manzanera escala 1:5000, en papel albanene o bond (60x90), 7 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXIV. Copia simple de la carta de manzana catastral con división predial escala 1:500, en papel albanene o bond (60x90), 10 VSMGZ.
 
 ###### Artículo 85.
 
@@ -2341,15 +2467,19 @@ excedente.
 
 Si el solicitante requiere la realización de un deslinde catastral inmediatamente posterior a la ejecución del replanteo topográfico y siempre que el dictamen aporte los datos técnicos para realizarlo, el monto de los derechos por concepto de la ejecución del deslinde catastral se calculará al 50% de lo señalado en el artículo 85.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 88.
 
-Cuando el contribuyente solicite copia simple de planos catastrales en material especial o la reproducción de cartas catastrales o planos en medios magnéticos, se causarán y pagarán los siguientes derechos:
+Por la prestación de los siguientes servicios, se causarán y pagarán derechos, conforme a las siguientes cuotas:
+
+I. Por la reproducción de cartas catastrales o planos en medios magnéticos, se causarán y pagarán los siguientes derechos:
 
 (VÉASE ARCHIVO ANEXO)
+
+II. Por la expedición de archivo digital en formato de imagen digital estándar, 30 VSMGZ, por fotografía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2457,19 +2587,21 @@ I. Impresas en papel fotográfico, 15 VSMGZ por fotografía.
 
 II. Por ampliaciones impresas en papel fotográfico, 5 VSMGZ por cada 529 cm2 adicionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-III. Archivo digital en formato de Imagen Digital Estándar, 30 VSMGZ por fotografía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 91.
 
-Por la expedición de copias de planos municipales existentes se causarán 7 VSMGZ por metro cuadrado.
+Por la prestación del servicio de acceso remoto:
+
+I. A la consulta electrónica del Sistema de Gestión Catastral, 25 VSMGZ, al año, por cada usuario autorizado por la Dirección de Catastro, y
+
+II. A la consulta de cartografía digital, 25 VSMGZ, por año, por cada usuario autorizado por la Dirección de Catastro.
 
 ###### Artículo 92.
 
@@ -2507,17 +2639,27 @@ Más de 921 240 1.00
 
 Los avalúos que practique la Dirección de Catastro tendrán una vigencia de seis meses a partir de la fecha de su elaboración.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 93.
 
-Por proporcionar información de vértices geodésicos en coordenadas UTM se causarán y pagarán:
+Por los servicios relativos a la expedición de documentos en donde conste la información de vértices geodésicos en coordenadas UTM, se causarán y pagarán derechos, conforme a las siguientes cuotas:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 I.- Copia fotostática de información de vértice geodésico, 1 VSMGZ por vértice.
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 II.- Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 7 VSMGZ por vértice.
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 III.- Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, incluye monumentación, 40 VSMGZ por vértice.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 IV.- Observaciones de la Estación Fija de la Dirección de Catastro:
 
@@ -2555,61 +2697,61 @@ Modificación al régimen en condominio 21
 
 Expedición de listados de fraccionamientos o condominios. 3
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 95.
 
-Por los servicios a cargo de la Dirección de Catastro que a continuación se indican, se pagarán los siguientes derechos:
+Por los servicios a cargo de la Dirección de Catastro que a continuación se indican, se causarán y pagarán los siguientes derechos:
 
 I. Por la notificación de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de dicho documento se realice como parte de la tramitación de los avisos de traslado de dominio presentados por los fedatarios públicos, 3 VSMGZ.
 
-II. Por la expedición de la información catastral de un inmueble, para conocer la exactitud de la información relativa al mismo, excepto cuando se trate de su propietario, 3 VSMGZ.
+II. Por la expedición de informe de registro de inmueble en el Padrón Catastral, 6 VSMGZ.
 
-III. Por la expedición de constancias de información catastral, 3 VSMGZ.
+III. Por la expedición de constancias de información contenida en el Sistema de Gestión Catastral, 6 VSMGZ.
 
-IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, causarán y pagarán 5 VSMGZ, y por cada foja excedente, el 0.10 VSMGZ.
+IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 5 VSMGZ y por cada foja excedente, el 0.10 VSMGZ.
 
-V. Por la autorización de las formas para la elaboración de los avalúos fiscales que efectúan los Peritos Valuadores con registro ante la Dirección de Catastro, 0.10 VSMGZ por foja.
+V. Por la autorización de las formas para la elaboración de los avalúos fiscales que efectúan los peritos valuadores con registro ante la Dirección de Catastro, 0.10 VSMGZ, por foja.
 
-VI. Por la expedición de copias simples de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo: 5 VSMGZ por metro cuadrado.
+VI. Por la expedición del archivo digital del área de dibujo del plano de levantamiento topográfico o deslinde catastral en coordenadas terrestres o UTM, 10 VSMGZ.
 
-VII. Por la expedición de copias certificadas de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo, 7 VSMGZ por metro cuadrado.
+Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan.
 
-VIII. Por la expedición de impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 3 VSMGZ.
+VII. Por la certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, 10 VSMGZ.
 
-IX. Por la expedición de copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 5 VSMGZ.
-
-X. Por la expedición de archivo digital en formato dxf de plano de levantamiento topográfico o de deslinde catastral, incluye únicamente poligonal y vértices en coordenadas terrestres o UTM, 10 VSMGZ. Sólo se expedirán estos archivos a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan.
-
-XI. Por la expedición de copia impresa del plano general del Estado, 10 VSMGZ.
-
-XII. Por la certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, 10 VSMGZ.
-
-XIII. Por la inscripción en el Padrón de Topógrafos con especialidad en geodesia, a cargo de la Dirección de Catastro, 10 VSMGZ.
+VIII. Por la inscripción en el Padrón de Topógrafos con especialidad en geodesia, a cargo de la Dirección de Catastro, 10 VSMGZ.
 
 La constancia de registro que al efecto se emita, tendrá vigencia de un año a partir de su expedición.
 
-XIV. Por la renovación de datos en el padrón a que se refiere la fracción anterior, deberá pagarse 10 VSMGZ.
+IX. Por la renovación de datos en el Padrón de Topógrafos con especialidad en geodesia, 10 VSMGZ.
 
-XV. Por el acceso remoto a la consulta electrónica del Sistema de Gestión Catastral, por año, por usuario, 15 VSMGZ. Sólo se proporcionará dicho servicio a los usuarios especializados, autorizados por la Dirección de Catastro.
+X. Por el registro de fusión de hasta 2 predios, 5 VSMGZ y por cada predio adicional, 3 VSMGZ.
 
-XVI. Por el trámite consistente en la autorización de fusión de predios, 5 VSMGZ.
+XI. Por el alta de predios producto de subdivisión para una fracción y resto de predio, 5 VSMGZ y por cada fracción adicional, 3 VSMGZ.
 
-XVII. Por el trámite de alta de predios producto de subdivisión, 5 VSMGZ
+XII. Por la aplicación de deméritos a solicitud del interesado, 3 VSMGZ.
 
-XVIII. Por la aplicación de deméritos a solicitud del interesado, 3 VSMGZ.
+XIII. Por la inspección de inmueble, a solicitud del interesado, para conocer la exactitud de la información relativa al mismo, 4 VSMGZ.
 
-XIX. Por la realización de inspecciones de un inmueble, a solicitud del interesado, para conocer la exactitud de la información relativa al mismo, 4 VSMGZ.
+XIV. Por la cancelación de trámites a solicitud del interesado, por causas ajenas a la Dirección de Catastro, 3 VSMGZ.
 
-XX. Por la cancelación de trámites a solicitud del interesado, por causas ajenas a la Dirección de Catastro, 3 VSMGZ.
+XV. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 3 VSMGZ, y por cada foja excedente, 0.06 VSMGZ.
 
-XXI. Por la expedición de impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 4 VSMGZ.
+XVI. Por el marcaje de vértices de predios producto del procedimiento de deslinde catastral o levantamiento topográfico, cuando se cuenten con los elementos técnicos para su realización, de 1 a 5 vértices, 15 VSMGZ y por vértice adicional, 2 VSMGZ.
 
-XXII. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 3 VSMGZ, y por cada foja excedente, el 0.06 VSMGZ.
+La prestación de este servicio no incluye monumentación.
 
-XXIII. Por la expedición de copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 6 VSMGZ.
+XVII. Por la emisión de dictamen técnico, 7 VSMGZ.
+
+XVIII. Por la emisión de dictamen técnico, con inspección de campo, 10 VSMGZ.
+
+XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de topografía, 20 VSMGZ.
+
+XX. Por el empadronamiento de los avisos de traslado de dominio, 3 VSMGZ.
+
+XXI. Por la expedición del informe de valor referido de inmueble, a petición del interesado, 3 VSMGZ, por predio.
 
 ###### Artículo 96.
 
@@ -2881,35 +3023,55 @@ Por la emisión de certificación de acta de examen o título profesional, por d
 
 Por cualquier otra certificación o expedición de constancias distintas de las señaladas en el presente artículo. 2
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-Artículo 101 bis.- Por los servicios prestados por el Instituto del Deporte y Recreación del Estado de Querétaro se causarán y pagarán los siguientes derechos:
+Artículo 101 bis.- Por los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 I. Parque Querétaro 2000:
 
-a. Talleres
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TALLERES COSTO COSTO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-INSCRIPCIÓN MENSUALIDAD
+a. Talleres:
+
+COSTO COSTO
+
+TALLERES INSCRIPCIÓN MENSUALIDAD
 
 VSMGZ
 
-INICIACIÓN
+INICIACIÓN DEPORTIVA 0.8 0.8
 
-DEPORTIVA
+Y BASQUETBOL
 
-Y BÁSQUETBOL 0.8 0.8
+FÚTBOL, PRE KARATE 0.8 1.6
 
-FUTBOL,
+Y KARATE
 
-PRE KARATE
+JUDO 0.8 2.4
 
-Y KARATE 0.8 1.6
+GIMNASIO, TAE-BO, YOGA 0.8 1.6
 
-b. Natación y polo acuático:
+Y AEROBICS.
+
+BÉISBOL 0.8 0.9
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+b. Natación:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 TALLERES DIAS A LA COSTO COSTO
 
@@ -2925,35 +3087,53 @@ ALBERCA 02 2.4 4.8
 
 OLÍMPICA 03 2.4 6.4
 
-c. Talleres:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TALLERES COSTO COSTO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-INSCRIPCIÓN MENSUALIDAD
+c. Polo acuático y nado sincronizado:
+
+INSTALACIÓN DÍAS A LA INSCRIPCIÓN MENSUALIDAD
+
+SEMANA
 
 VSMGZ
 
-JUDO 0.8 2.4
+ALBERCA 3 3 8.12
 
-GIMNASIO
+OLÍMPICA
 
-DE PESAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TAE-BO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-AEROBICS
+d. Equipo de natación para usuarios en general:
 
-YOGA 0.8 1.6
+INSTALACIÓN DÍAS A LA COSTO COSTO
 
-BEIS BOL 0.8 0.8
+SEMANA INSCRIPCIÓN MENSUALIDAD
 
-d. Clase muestra a cualquiera de los talleres 0.65 VSMGZ.
+VSMGZ
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ALBERCA Lunes a
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+OLÍMPICA viernes
 
-e. Uso de instalaciones
+(Preequipo)
+
+3 8.12
+
+ALBERCA Lunes a
+
+OLÍMPICA sábado
+
+(Equipo)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+e. Uso de instalaciones:
 
 USO POR HORA
 
@@ -2963,91 +3143,61 @@ NATURAL ARTIFICIAL
 
 VSMGZ
 
-CONCHA
-
-ACUSTICA 1.6 3.2
+CONCHA ACÚSTICA 1.6 3.2
 
 USO POR EVENTO
 
-SOLO PISTA VISTA YCAMPO
+SÓLO PISTA Y
+
+PISTA CAMPO
 
 VSMGZ
 
-PISTA DE TARTAN 9.6 16
+PISTA DE TARTÁN 9.6 16
 
 USO POR EVENTO
-
-VSMGZ
 
 CON LUZ CON LUZ
 
 NATURAL ARTIFICIAL
 
-CANCHA DE FUTBOL
+VSMGZ
 
-RAPIDO 3.2 4.8
+CANCHA DE FÚTBOL
 
-CANCHA DE BÉISBOL 3.2 4.8
+RÁPIDO, CANCHA 3.2 4.8
+
+DE BÉISBOL
+
+Y SOFTBOL
+
+USO POR HORA
 
 VSMGZ
 
-CANCHA EMPASTADA 2.4
+CANCHA EMPASTADA 3
 
-USO POR HORA CON LUZ USO POR HORA CON NATURAL ALUMBRADO
+DE FÚTBOL SIETE
 
-Cancha
+CANCHA DE VOLEIBOL 0.8
 
-de tenis
+DE PLAYA
 
-Lunes a Sábado, domingo Cualquier día
+(VÉASE ARCHIVO ANEXO)
 
-Viernes y días festivos de la semana
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VSMGZ VSMGZ VSMGZ
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-0.8 1.6 2
+f. Costo por admisión general, $1.50.
 
-USO POR HORA LUZ NATURAL LUZ ARTIFICIAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CAMPO DE FUTBOL VSMGZ VSMGZ
-
-AMERICANO (USO POR
-
-HORA) 2.75 4.13
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 II. Auditorio General Arteaga:
 
-TALLERES COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-VSMGZ
-
-TAE KWON DO
-
-BOX LUCHA LIBRE
-
-FISICOCULTURISMO
-
-KARATE DO,
-
-AEROBICS, BÁSQUETBAL, 1.6 0.8
-
-PILATES 1.6 1.6
-
-VOLEIBOL 0.8 1.0
-
-TALLERES VSMGZ
-
-COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-GIMNASIA OLÍMPICA 1.6
-
-2 A 5 HORAS A LA SEMANA 1.6
-
-6 A 10 HORAS A LA SEMANA 1.6 2.4
+(VÉASE ARCHIVO ANEXO)
 
 CONCEPTO VSMGZ
 
@@ -3055,17 +3205,55 @@ USO DEL AUDITORIO CON FINES DE LUCRO 135.2
 
 USO DEL AUDITORIO SIN FINES DE LUCRO 67.2
 
-USO DEL FORO (POR EVENTO) 33.6
+USO DEL FORO, POR EVENTO 33.6
 
-USO DE SALA DE JUNTA (2 HORAS) 3.2
+USO DE SALA DE JUNTAS POR CADA 2 HORAS 3.2
 
-RENTA DE DUELA SIN ALUMBRADO 4.85
+RENTA DE DUELA CON LUZ NATURAL 4.85
 
-RENTA DE DUELA CON ALUMBRADO 6.45
+RENTA DE DUELA CON LUZ ARTIFICIAL 6.45
 
-VISITA A CLASE MUESTRA 0.65
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 III. Casa de la Juventud:
+
+a. Talleres:
+
+CONCEPTO COSTO COSTO
+
+INSCRIPCIÓN MENSUALIDAD
+
+VSMGZ
+
+AEROBICS,
+
+FISICOCULTURISMO,
+
+JAZZ, TAE KWON DO,
+
+GIMNASIA REDUCTIVA, 0.8 1.6
+
+CULTURA FÍSICA INFANTIL,
+
+FÚTBOL, ZUMBA, YOGA,
+
+PILATES Y BAILES LATINOS.
+
+NATACIÓN (3 DÍAS A LA SEMANA) 1.6 4.0
+
+b. Uso de instalaciones:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+IV. Unidad Deportiva Plutarco Elías Calles:
+
+a. Talleres:
 
 TALLERES COSTO COSTO
 
@@ -3073,117 +3261,65 @@ INSCRIPCIÓN MENSUALIDAD
 
 VSMGZ
 
-AEROBICS
+AEROBICS,
 
-FISICOCULTURISMO JAZZ
+TAE KWON DO,
 
-TAE KWON DO EAGLE
+DEPORTE INFANTIL,
 
-PARK TAE KWON DO
+GIMNASIO DE PESAS,
 
-ASOCIACIÓN MEXICANA
+FÚTBOL, VOLEIBOL, 0.8 1.6
 
-GIMNASIA REDUCTIVA
+BÁSQUETBOL,
 
-CULTURA FÍSICA INFANTIL
+TENIS DE MESA,
 
-FUT BOL VARONIL
+BÉISBOL, ATLETISMO
 
-FUTBOL FEMENIL, ZUMBA 0.8 1.6
+Y BOX.
 
-> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
+b. Uso de instalaciones:
 
-NATACIÓN
+INSTALACIÓN VSMGZ
 
-(3 DÍAS A LA SEMANA) 1.6 4.0
+CANCHA DE FÚTBOL EMPASTADO USO 3.2
 
-INSTALACIÓN CON LUZ CON LUZ
+CANCHA DE BÉISBOL POR 0.53
+
+AUDITORIO HORA 2.4
+
+CANCHA DE FÚTBOL RÁPIDO 2.4
+
+CON LUZ CON LUZ
 
 NATURAL ARTIFICIAL
 
 VSMGZ
 
-CAMPO DE FUTBOL
+CANCHA DE USO POR
 
-EMPASTADO
+FRONTÓN HORA 0.8 1.6
 
-(POR PARTIDO) 6.4 20
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-AUDITORIO
-
-( POR HORA ) 4.8 4.8
-
-INSTALACIÓN VSMGZ
-
-HOSPEDAJE VILLA JUVENIL
-
-POR NOCHE POR PERSONA SIN ALIMENTOS 0.8
-
-IV. Unidad Deportiva Plutarco Elías Calles:
-
-TALLERES COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-VSMGZ
-
-AEROBICS
-
-TAE KWON DO
-
-DEPORTE INFANTIL
-
-GIMNASIO 0.8 1.6
-
-ESCUELA FUTBOL
-
-(VESPERTINO) 0.8 1.6
-
-ESCUELA FUTBOL
-
-(MIXTO)
-
-VOLEIBOL BÁSQUETBOL
-
-TENIS DE MESA
-
-BEISBOL ATLETISMO 0.8 1.6
-
-INSTALACIÓN VSMGZ
-
-CAMPO EMPASTADO FUTBOL (2 HORAS) 6.4
-
-CAMPO BEISBOL ( 3 HORAS ) 1.6
-
-CANCHA FRONTON DE DÍA 0.8
-
-CANCHA FRONTON DE NOCHE 1.6
-
-AUDITORIO
-
-(EVENTO DEPORTIVO 1 HORA) 2.4
-
-CANCHA FUTBOL RAPIDO EMPASTADO 2.4
-
-Clase muestra a cualquiera de los talleres 0.65 vsmgz
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 V. Campamento San Joaquín:
 
-HOSPEDAJE (POR NOCHE) VSMGZ
+INSTALACIÓN O SERVICIO CARACTERÍSTICA VSMGZ
 
-ADULTOS Y NIÑOS POR PERSONA 0.8
+HOSPEDAJE POR NOCHE 0.95
 
-ALIMENTOS ( POR CADA ALIMENTO ) POR
-
-PERSONA
+ALIMENTOS POR CADA ALIMENTO
 
 USO DE REGADERAS POR PERSONA 0.8
 
-POR TALLERES ( POR SEMANA ) INCLUYE
+TALLERES POR SEMANA, INCLUYE
 
-MATERIAL POR PERSONA
+MATERIAL
 
-RENTA DEL AUDITORIO (POR HORA) 1.6
+RENTA DEL AUDITORIO POR HORA 2.31
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3203,7 +3339,7 @@ DE LUCRO 358 POR EVENTO
 
 USO DEL ESTADIO MUNICIPAL EVENTOS
 
-DEPORTIVOS NO PROFESIONALES 14 POR HORA
+DEPORTIVOS NO PROFESIONA 14 POR HORA
 
 USO DEL ESTADIO MUNICIPAL EVENTOS
 
@@ -3217,7 +3353,9 @@ LUZ ARTIFICIAL 33 POR HORA
 
 VII. Unidad Deportiva José María Truchuelo:
 
-CONCEPTO CON LUZ NATURAL CON LUZ ARTIFICIAL
+CONCEPTO CON LUZ CON LUZ
+
+NATURAL ARTIFICIAL
 
 VSMGZ
 
@@ -3227,13 +3365,47 @@ CANCHA DE FÚTBOL SIETE POR 4 6
 
 CANCHA DE SQUASH HORA 1 2
 
-CANCHA DE VOLEIBOL DE PLAYA 1.5 3
+CANCHA DE VOLEIBOL DE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+PLAYA 1.5 3
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Por reposición de credencial, en todas las unidades 0.8 VSMGZ.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VIII. Unidad Deportiva El Sol:
+
+INSTALACIÓN CON LUZ CON LUZ
+
+NATURAL ARTIFICIAL
+
+VSMGZ
+
+CANCHA DE FRONTÓN USO 1 2
+
+CANCHA DE FÚTBOL SIETE POR 4 6
+
+CANCHA DE SQUASH HORA 1 2
+
+CANCHA DE TENIS 1.6 2
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+IX. Parque Recreativo Alcanfores Norte y Sur, por uso de instalaciones para fiestas infantiles, por hora, 1.69 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+X. Clase muestra en los talleres en cualquier unidad deportiva, 0.65 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XI. Por reposición de credencial, en todas las unidades deportivas, 0.8 VSMGZ.
 
 ### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PRESTADOS POR LAS
 
@@ -3261,99 +3433,33 @@ I. Por la realización del estudio necesario para la expedición del dictamen de
 
 Cuando del estudio a que se refiere el párrafo anterior se desprenda que la expedición del dictamen de uso de suelo es procedente, el monto pagado en los términos de esta fracción podrá ser acreditado contra las cantidades que conforme a la fracción II de este artículo deban pagarse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-II. Por la expedición de dictamen de uso de suelo por superficies de hasta 100 m2, se pagará la cantidad que resulte de aplicar la tarifa y fórmula siguientes:
+II. Por la expedición de dictamen de uso de suelo hasta 100 m2, se pagará la cantidad que resulte de aplicar la tarifa prevista en la siguiente tabla.
 
-a. Tarifa:
+Por superficie excedente a 100 m2, excepto para el uso agropecuario, se pagará adicionalmente la cantidad que resulte de aplicar la siguiente fórmula:
 
-USO TIPO VSMGZ
+Cantidad a pagar por superficie excedente =
 
-a) Habitacional Popular y/o Institucional 6
+1 VSMGZ x (No. de m2 excedentes)
 
-Urbanización Progresiva 4
-
-Residencial 12
-
-Campestre 10
-
-b) Comercial y Todos los contenidos en los Planes de
-
-de Servicios Desarrollo Urbano 15
-
-c) Agropecuario Actividades productivas
-
-y de servicio a las mismas 10
-
-d) Industrial Agroindustrial 20
-
-Micro 10
-
-Pequeña o Ligera 15
-
-Mediana 20
-
-Grande o Pesada 25
-
-e) Actividades Todos los contenidos en los Planes de
-
-Extractivas Desarrollo Urbano 20
-
-f) Equipamientos Todos los contenidos en los Planes de
-
-Desarrollo Urbano 15
-
-b. Por superficie excedente a 100 m2, excepto para el uso agropecuario, adicionalmente a la tarifa que corresponde conforme al inciso anterior, se pagará la cantidad que resulte de aplicar la siguiente fórmula:
-
-Cantidad a pagar por superficie excedente = 1 VSMGZ x (No. de m2 excedentes)
+-----------------------------------------------
 
 Factor Único
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Considerando como factor único para el uso y tipo correspondiente los siguientes:
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-USO TIPO FACTOR ÚNICO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) Habitacional Popular y/o Institucional 150
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-Urbanización Progresiva 80
-
-Residencial 50
-
-Campestre 40
-
-b) Comercial y Todos los contenidos en los Planes de
-
-de Servicios Desarrollo Urbano 80
-
-c) Industrial Agroindustrial 100
-
-Micro 100
-
-Pequeña o Ligera 100
-
-Mediana 80
-
-Grande o Pesada 80
-
-d) Actividades Todos los contenidos en los Planes de
-
-Extractivas Desarrollo Urbano 40
-
-e) Equipamiento Todos los contenidos en los Planes de
-
-Desarrollo Urbano 80
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-IV. Por los metros cuadrados excedentes relativos al Uso Agropecuario, se pagará una cuota de 10 VSMGZ.
+IV. Para efectos del cobro de metros cuadrados excedentes a 100 m2 relativos al uso agropecuario, se pagará una cuota equivalente a 10 VSMGZ.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3367,15 +3473,7 @@ V. Por la modificación, corrección y/o ratificación de dictamen de uso de sue
 
 VI. En caso de que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, que haya cumplido previamente con los trámites requeridos por la Secretaría de Desarrollo Urbano y Obras Públicas y efectuado el pago correspondiente, únicamente cubrirá un pago por la emisión del dictamen de uso de suelo individual de 10 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-VII. Por la expedición de copias de dictámenes de uso de suelo o licencia de construcción se pagarán:
-
-a) Por cada copia simple, 2 VSMGZ.
-
-b) Por cada copia certificada, 5 VSMGZ.
+VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2005)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3411,583 +3509,151 @@ VIII. Por la emisión del informe de uso de suelo pagará una cuota del 6 VSMGZ.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 111.
 
-Por visto bueno a proyectos de fraccionamientos se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 18 24 30 36 42
-
-Institucional
-
-Urbano Urbanización 12 16 20 24 28
-
-Progresiva
-
-Habitacional Residencial 36 48 60 72 84
-
-Campestre Residencial 36 48 60 72 84
-
-Rústico 42 54 66 78 90
-
-Comerciales Todos sus tipos 66 72 78 84 90
-
-Servicios Administrati- Cementerios 18 24 30 36 42
-
-vos Otros no 66 72 78 84 125
-
-especificados
-
-Agroindustrial 60 66 72 78 84
-
-Micro 42 48 54 60 72
-
-Industrial Pequeña o Ligera 48 54 60 66 140
-
-Mediana 54 60 66 72 165
-
-Grande o Pesada 60 66 72 78 195
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 112.
 
-Por los dictámenes técnicos para la autorización de la licencia de ejecución de obras de urbanización de fraccionamientos, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 30 36 42 48 54
-
-Institucional
-
-Urbano Urbanización 20 24 28 32 36
-
-Progresiva
-
-Habitacional Residencial 54 66 78 90 102
-
-Campestre Residencial 54 66 78 90 102
-
-Rústico 66 78 90 102 114
-
-Comerciales Todos sus tipos 78 84 90 96 102
-
-Servicios Administrati- Cementerios 30 36 42 48 54
-
-vos Otros no 78 84 90 96 102
-
-especificados
-
-Agroindustrial 60 66 72 78 84
-
-Micro 54 60 66 72 78
-
-Industrial Pequeña o Ligera 60 66 72 78 84
-
-Mediana 66 72 78 84 90
-
-Grande o Pesada 72 78 84 90 96
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 113.
 
-Por dictamen técnico sobre avance de obras de urbanización para la autorización de venta provisional de lotes de fraccionamientos, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 24 30 36 42 48
-
-Institucional
-
-Urbano Urbanización 16 20 24 28 32
-
-Progresiva
-
-Habitacional Residencial 36 42 48 54 60
-
-Campestre Residencial 36 42 48 54 60
-
-Rústico 42 48 54 60 66
-
-Comerciales Todos sus tipos 72 78 84 90 96
-
-Servicios Administrati- Cementerios 24 30 36 42 48
-
-vos Otros no 72 78 84 90 96
-
-especificados
-
-Agroindustrial 60 66 72 78 84
-
-Micro 54 60 66 72 78
-
-Industrial Pequeña o Ligera 60 66 72 78 84
-
-Mediana 66 72 78 84 90
-
-Grande o Pesada 72 78 84 90 96
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 114.
 
-Por el dictamen técnico para la autorización de entrega y recepción de obras de urbanización de fraccionamientos por el H. Ayuntamiento, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 24 30 36 42 48
-
-Institucional
-
-Urbano Urbanización 16 20 24 28 32
-
-Progresiva
-
-Habitacional Residencial 36 42 48 54 60
-
-Campestre Residencial 36 42 48 54 60
-
-Rústico 42 48 54 60 66
-
-Comerciales Todos sus tipos 72 78 84 90 96
-
-Servicios Administrati- Cementerios 24 36 42 48 52
-
-vos Otros no 72 78 84 90 96
-
-especificados
-
-Agroindustrial 60 66 72 78 84
-
-Micro 54 60 66 72 78
-
-Industrial Pequeña o Ligera 60 66 72 78 84
-
-Mediana 66 72 78 84 90
-
-Grande o Pesada 72 78 84 90 96
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 115.
 
-Por el dictamen técnico para la autorización de la renovación de la licencia de ejecución de obras de urbanización del fraccionamiento, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 30 40 50 60 70
-
-Institucional
-
-Urbano Urbanización 20 30 40 50 60
-
-Progresiva
-
-Habitacional Residencial 60 80 100 120 140
-
-Campestre Residencial 60 80 100 120 140
-
-Rústico 70 90 110 130 150
-
-Comerciales Todos sus tipos 110 120 130 140 150
-
-Servicios Administrati- Cementerios 30 40 50 60 70
-
-vos Otros no 110 120 130 140 150
-
-especificados
-
-Agroindustrial 80 90 100 110 120
-
-Micro 70 80 90 100 110
-
-Industrial Pequeña o Ligera 80 90 110 110 120
-
-Mediana 90 100 110 120 130
-
-Grande o Pesada 100 110 120 130 140
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 116.
 
-Por la relotificación de fraccionamientos, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 24 30 36 42 48
-
-Institucional
-
-Urbano Urbanización 16 20 24 28 32
-
-Progresiva
-
-Habitacional Residencial 36 42 48 54 60
-
-Campestre Residencial 36 42 48 54 60
-
-Rústico 42 48 54 60 66
-
-Comerciales Todos sus tipos 48 54 60 66 72
-
-Servicios Administrati- Cementerios 24 30 36 42 48
-
-vos Otros no 48 54 60 66 72
-
-especificados
-
-Agroindustrial 48 54 60 72 78
-
-Micro 36 42 48 54 60
-
-Industrial Pequeña o Ligera 48 54 60 72 78
-
-Mediana 60 66 72 78 84
-
-Grande o Pesada 72 78 84 90 96
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 117.
 
-Por los ajustes de medidas de los fraccionamientos, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Superficie hectáreas/VSMGZ
-
-Uso/Tipo 0 a 2 a 5 a 10 a Más
-
-1.99 4.99 9.99 15 de 15
-
-Popular y/o 18 24 30 36 42
-
-Institucional
-
-Urbano Urbanización 12 16 20 24 28
-
-Progresiva
-
-Habitacional Residencial 24 30 36 42 48
-
-Campestre Residencial 30 36 42 48 54
-
-Rústico 36 42 48 54 60
-
-Comerciales Todos sus tipos 36 42 48 54 60
-
-Servicios Administrati- Cementerios 18 24 30 36 42
-
-vos Otros no 36 42 48 54 60
-
-especificados
-
-Agroindustrial 30 36 42 48 54
-
-Micro 24 30 36 42 48
-
-Industrial Pequeña o Ligera 30 36 42 48 54
-
-Mediana 36 42 48 54 60
-
-Grande o Pesada 42 48 54 60 66
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 118.
 
-Por otros conceptos relacionados con fraccionamientos, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-Concepto VSMGZ
-
-Por dictamen técnico para la autorización de publicidad de
-
-fraccionamientos 40
-
-Por dictamen técnico para la autorización de publicidad de fraccionamientos
-
-Extemporáneos 500
-
-Por el dictamen técnico para la cancelación de fraccionamientos 30
-
-Por el dictamen técnico para el cambio de nombre de fraccionamientos 25
-
-Por reposición de copias de planos de fraccionamientos 20
-
-Por dictamen técnico para la causahabiencia de fraccionamientos 20
-
-Por constancias de fraccionamientos emitidas por la Secretaría de Desarrollo Urbano y Obras Públicas 20
-
-Por copias certificadas de planos
-
-de fraccionamientos Por cada plano 15
-
-Por copias simple (sic) de planos
-
-de fraccionamientos Por cada plano 10
-
-Por copias certificadas de documentos Por la primera hoja 3
-
-Por cada hoja
-
-subsecuente. 1
-
-Por copias simples de documentos Por la primera hoja 1
-
-Por cada hoja
-
-subsecuente. 0.5
-
-Por los servicios de supervisión de fraccionamientos se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 119.
 
-Por los siguientes conceptos con relación a condominios, se pagará:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Concepto Número de Unidades Uso VSMGZ
-
-Visto bueno a proyecto De 2 a 10 unidades Habitacional 5
-
-Otros usos 25
-
-De 11 a 50 Unidades 40
-
-De 51 a 90 Unidades Todos los usos 50
-
-De 91 a 120 Unidades 75
-
-Emisión de la declaratoria De 2 a 10 Unidades Habitacional 10
-
-del régimen de propiedad Otros usos 50
-
-en condominio De 11 a 50 Unidades 80
-
-De 51 a 90 Unidades Todos los usos 100
-
-De 91 a 120 Unidades 150
-
-Emisión de dictamen De 2 a 10 Unidades Habitacional 10
-
-técnico aprobatorio de Otros usos 30
-
-la licencia de De 11 a 50 Unidades 40
-
-construcción para las De 51 a 90 Unidades Todos los usos 50
-
-obras de uso o De 91 a 120 Unidades 75
-
-propiedad común
-
-Autorización de De 2 a 10 unidades Habitacional 60
-
-publicidad de Otros usos 60
-
-condominios De 11 a 50 Unidades 60
-
-De 51 a 90 Unidades Todos los usos 60
-
-De 91 a 120 Unidades 60
-
-Modificación y/o De 2 a 10 unidades Habitacional 10
-
-ampliación de Otros usos 30
-
-condominio De 11 a 50 Unidades 50
-
-De 51 a 90 Unidades Todos los usos 75
-
-De 91 a 120 Unidades 100
-
-Corrección de De 2 a 10 unidades Habitacional 5
-
-medidas de Otros usos 20
-
-condominios De 11 a 50 Unidades 40
-
-De 51 a 90 Unidades Todos los usos 60
-
-De 91 a 120 Unidades 80
-
-Constancia de De 2 a 10 unidades Habitacional 5
-
-condominio Otros usos 20
-
-De 11 a 50 Unidades 20
-
-De 51 a 90 Unidades Todos los usos 20
-
-De 91 a 120 Unidades 20
-
-Cancelación de De 2 a 10 Unidades Habitacional 50
-
-declaratoria de Otros usos 50
-
-régimen de propiedad De 11 a 50 Unidades 50
-
-en condominio De 51 a 90 Unidades Todos los usos 50
-
-De 91 a 120 Unidades 50
-
-Copia simple de documentos de condominio 1
-
-Copia certificada de documentos de condominio 3
-
-Copia simple de plano de condominio 10
-
-Copia certificada de plano de condominio 15
-
-Por los servicios de supervisión de condominios se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de condominios que se pretendan construir en fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 120.
 
-Por la expedición de copias de documentos que contengan la información de instrumentos de planeación, se causará:
+Por la expedición de copias de documentos que contengan la información de instrumentos de planeación, se causarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+CONCEPTO MEDIO DE VSMGZ
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Concepto MEDIO DE REPRODUCCIÓN VSMGZ
+REPRODUCCIÓN
 
 Programa de Desarrollo Urbano 2
 
-Disco Compacto
+Electrónico
 
 Plano base del Estado y Municipios 1
 
 Copia fiel de plano individual 1
 
-0.5 por la primera hoja
+0.5 por la
+
+primera hoja
 
 Copia certificada de Programas Impresión en bond
 
-de Desarrollo Urbano .02 por las hojas
+de Desarrollo Urbano 0.02 por
 
-subsecuentes
+por cada hoja
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+subsecuente
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 121.
 
-Por otros servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas se pagarán los siguientes derechos.
+Por otros servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+CONCEPTO VSMGZ
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+Por la expedición de copias simples de oficio o documento distinto a los planos, constancias y expedientes a que se refiere este artículo. 2
 
-I. Por informes generales respecto de fraccionamientos y condominios emitidos por la Secretaría. 5 VSMGZ.
+Por la expedición de copias certificadas de oficio o documento distinto a los planos, constancias y expedientes a que se refiere este artículo. 3
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por la expedición de copia simple de plano de licencia de construcción, fusiones o subdivisiones. 3
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+Por la expedición de copia certificada de plano de licencia de construcción, fusiones o subdivisiones. 5
 
-II. Por copias de plano autorizado relativo a la licencia de construcción:
+Por la expedición de copia simple de plano relativo a desarrollos inmobiliarios. 10
 
-a) Simples, se pagarán 2 VSMGZ, por cada plano, y
+Por la expedición de copia certificada de plano relativo a desarrollos inmobiliarios. 15
 
-b) Certificadas, se pagarán 5 VSMGZ, por cada plano
+Por la expedición de constancia de licencia de construcción y/o dictamen de uso de suelo. 3
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por la expedición de constancia de desarrollos inmobiliarios. 20
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-III. Por constancia de trámite de licencia de construcción se pagará 3 VSMGZ.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-IV. Por la expedición de copias certificadas de otros documentos no contemplados en los artículos previstos en este Capítulo, se pagarán y causarán:
-
-a) Por la primera hoja, 0.5 VSMGZ.
-
-b) Por cada hoja subsecuente, 0.2 VSMGZ.
+Por la reproducción de expediente de desarrollos inmobiliarios en medios electrónicos. 60
 
 ### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR
 
 LAS AUTORIDADES DE LA SECRETARIA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 122.
 
-Por los servicios prestados por autoridades de la Secretaría de Gobierno, se pagarán los siguientes derechos:
+Por los servicios prestados por autoridades de la Secretaría de Gobierno, se causarán y pagarán los siguientes derechos:
 
-Concepto VSMGZ
+CONCEPTO VSMGZ
 
-Legalización de firmas de funcionarios 1.6
+Por la legalización de firmas de funcionarios. 1.6
 
-Expedición de la apostilla de
+Por la expedición de la apostilla de documentos. 4.25
 
-documentos 4.25
+Búsqueda y expedición Primera hoja 0.5
 
-Búsqueda y expedición de copias
+de copias certificadas
 
-certificadas de documentos.
+de documentos. Hoja adicional 0.2
 
-Primera hoja 0.5
+Aplicación de la
 
-Hoja adicional 0.2
+evaluación de control 78.05
+
+de confianza.
+
+La Federación, el Estado y sus municipios, así como sus entidades paraestatales, se considerarán sujetos obligados al pago de los derechos correspondientes a la aplicación de la evaluación de control de confianza previstos en el presente artículo, así como del impuesto al que se refiere el Capítulo Cuarto del Título Tercero de esta Ley.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -4005,129 +3671,295 @@ Otras publicaciones, por palabra 0.06
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 124.
 
-Por los servicios prestados por la Dirección Estatal del Registro Civil y que en su caso serán cobrados por los Municipios cuando estos organicen el registro civil, se pagarán los siguientes derechos:
+Por los servicios prestados por la Dirección Estatal del Registro Civil y que en su caso, serán cobrados por los municipios cuando éstos organicen el Registro Civil, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Concepto ZONA
+CONCEPTO ZONA
 
 A B
 
 Asentamiento de registro de nacimiento, nacimientos múltiples y reconocimientos de hijo:
 
-En Oficialía en día y horas hábiles 1 0.7
+En Oficialía en día y horas hábiles. 1 0.7
 
-En Oficialía en día u horas inhábiles 3 2.1
+En Oficialía en día u horas inhábiles. 3 2.1
 
-A domicilio en día y horas hábiles 6 4.2
+A domicilio en día y horas hábiles. 6 4.2
 
-A domicilio en día u horas inhábiles 8 7
+A domicilio en día u horas inhábiles. 8 7
 
-Asentamiento de registro de nacimiento de expósito o recién nacido muerto. 0 0
+Asentamiento de registro de nacimiento de expósito o recién nacido muerto:
 
-Mediante registro extemporáneo 3 2.1
+0 0
 
-Asentamiento de actas de adopción simple y plena 4 2.8
+Mediante registro extemporáneo. 3 2.1
+
+Asentamiento de actas de adopción simple y plena. 4 2.8
 
 Celebración y acta de matrimonio en Oficialía:
 
-En día y hora hábil matutino 7 4.9
+En día y hora hábil matutino. 7 4.9
 
-En día y hora hábil vespertino 9 6.3
+En día y hora hábil vespertino. 9 6.3
 
-En sábado o domingo 18 12.6
+En sábado o domingo. 18 12.6
 
 Celebración y acta de matrimonio a domicilio:
 
-En día y hora hábil matutino 25 17
+En día y hora hábil matutino. 25 17
 
-En día y hora hábil vespertino 30 21
+En día y hora hábil vespertino. 30 21
 
-En sábado o domingo 35 25
+En sábado o domingo. 35 25
 
-Celebración y acta de matrimonio colectivo en campaña, por cada pareja 1.8 1
+Celebración y acta de matrimonio colectivo en campaña, por cada pareja.
 
-Procedimiento y acta de Divorcio administrativo 65 50
+1.8 1
 
-Asentamiento de acta de Divorcio judicial 5 3.5
+Procedimiento y acta de divorcio administrativo. 65 50
+
+Asentamiento de acta de divorcio judicial. 5 3.5
 
 Asentamiento de actas de defunción:
 
-En día hábil 1 0. 7
+En día hábil. 1 0. 7
 
-En día inhábil 3 2.1
+En día inhábil. 3 2.1
 
-De recién nacido muerto 1 0. 7
+De recién nacido muerto. 1 0. 7
 
-Constancia de denuncia de nonato según artículo 325 del Código Civil del Estado de Querétaro 0.49 0.35
+Constancia de denuncia de nonato según artículo 325 del Código Civil del Estado de Querétaro. 0.49 0.35
 
-Inscripción de ejecutoria que declara: Incapacidad legal para administrar bienes, Ausencia, Presunción de muerte o Tutela de incapacitados. 5 3.5
+Inscripción de ejecutoria que declara: incapacidad legal para administrar bienes, ausencia, presunción de muerte o tutela de incapacitados.
 
-Rectificación de acta 1 0. 7
+5 3.5
 
-Constancia de inexistencia de acta 1 0. 7
+Rectificación de acta. 1 0.7
 
-Inscripción de actas levantadas en el extranjero 5 3
+Constancia de inexistencia de acta. 1 0.7
+
+Inscripción de actas levantadas en el extranjero. 5 3
 
 Copias certificadas de documentos expedidos por la Dirección Estatal del Registro Civil, por cada hoja. 1 0. 7
 
 De otro Estado convenido. La tarifa será independientemente de los cobros que haga la autoridad que la expide y del envío según convenio o disposición correspondiente. 2 2
 
-Uso del sistema informático para expedición de certificación automática, por documento 0.1 0.1
-
-Uso del sistema informático por autoridad distinta al Registro Civil, por documento 1 1
-
 Las zonas mencionadas corresponderán:
 
-Zona A: Comprende los municipios: El Marqués, Corregidora, Querétaro y San Juan del Río.
+Zona A: Comprende los municipios de El Marqués, Corregidora, Querétaro y San Juan del Río.
 
 Zona B: Comprende el resto de los municipios del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+El Registro Civil expedirá sin costo la certificación de actas de nacimiento, para personas con discapacidad, adultos mayores y niños y niñas institucionalizados. Asimismo, se expedirá sin costo alguno el asentamiento del registro de nacimiento a niños y niñas que residan en localidades consideradas con alta y muy alta marginación, de conformidad con los datos del Consejo Estatal de Población de Querétaro, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten, de acuerdo a los requisitos que establezca el Registro Civil.
 
-El Registro Civil expedirá sin costo alguno las actas de nacimiento y la certificación de las mismas, para personas con discapacidad, adultos mayores y niños institucionalizados, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+Artículo 124 bis.- Por los servicios prestados por la Dirección de Gobierno, se causarán y pagarán los siguientes derechos:
 
-Artículo 124 bis.- Por los servicios prestados por la Dirección de Gobierno, se pagarán los siguientes derechos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Concepto VSMGZ
-
-Por la revisión del formato para la solicitud de una concesión de transporte público en cualquiera de sus modalidades o por su regularización 1
-
-Por la realización del trámite de refrendo anual de una concesión de transporte público en cualquiera de sus modalidades. 60
-
-Por la realización del trámite del refrendo anual de manera extemporánea de una concesión de transporte público en cualquiera de sus modalidades. 88
-
-Por el otorgamiento y expedición del título de una concesión de transporte público en cualquiera de sus modalidades. 184
-
-Por el cambio de titular por defunción y expedición del nuevo título de una concesión de transporte público en cualquiera de sus modalidades, para el caso del fallecimiento del concesionario original. 90
-
-Por la consolidación de una concesión de transporte público en cualquiera de sus modalidades. 90
-
-Por la emisión de una constancia de concesionario de transporte público. 15
-
-Por la reposición de un título de concesión de transporte público en cualquiera de sus modalidades. 30
+CONCEPTO VSMGZ
 
 Por la realización del examen para ocupar una vacante de Notario. 184
 
 Por la expedición de constancia de ejercicio de la función notarial. 15
 
 Por la expedición de nombramiento de Notario. 90
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Artículo 124 ter.- Por los servicios prestados por la Dirección de Transporte se causarán y pagarán los siguientes derechos, de conformidad con las siguientes cuotas:
+
+I. Por los servicios prestados en materia de concesiones de transporte público:
+
+CONCEPTO VSMGZ
+
+Por el estudio y, en su caso, trámite de la solicitud de concesión de servicio público o especial de transporte en cualquiera de sus modalidades o por su regularización. 1
+
+Por el refrendo anual de una concesión de servicio público de transporte en la modalidad de servicio colectivo. 60
+
+Por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre; así como de servicio especial de transporte en cualquiera de sus modalidades. 40
+
+Por el refrendo anual de una concesión de servicio público auxiliar de depósito y guarda de vehículos. 100
+
+Por el refrendo anual extemporáneo de una concesión de servicio público de transporte en la modalidad de servicio colectivo. 88
+
+Por el refrendo anual extemporáneo de una concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre; así como de servicio especial de transporte en cualquiera de sus modalidades. 60
+
+Por el refrendo anual extemporáneo de una concesión de servicio público de depósito y guarda de vehículos. 120
+
+Por la expedición del título de concesión de servicio público de transporte en la modalidad de servicio colectivo. 184
+
+Por la expedición del título de concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre, depósito y guarda de vehículos; así como de servicio especial de transporte en cualquiera de sus modalidades. 120
+
+Por la expedición de un nuevo título de concesión de servicio público o especial de transporte en cualquiera de sus modalidades, con motivo del cambio de titular por la incapacidad física o mental, declaración de ausencia o fallecimiento del concesionario. 90
+
+Por la consolidación de una concesión de servicio público de transporte en cualquiera de sus modalidades, a solicitud de parte interesada. 90
+
+Por la reposición de un título de concesión de servicio público o especial de transporte en cualquiera de sus modalidades. 30
+
+II. Por la revisión física y mecánica de los vehículos destinados al servicio público o especial de transporte en cualquiera de sus modalidades, tanto para el refrendo anual de una concesión, como para el alta o baja de vehículos concesionados o con permiso:
+
+MODALIDAD ZONA
+
+1 2
+
+VSMGZ
+
+Colectivo 30 20
+
+Taxi, mixto, salvamento y 22 15
+
+arrastre, escolar, de personal,
+
+turístico, para personas con
+
+discapacidad y de carga.
+
+Para efectos de este artículo, la zona 1 comprende los municipios de Amealco de Bonfil, Corregidora, El Marqués, Huimilpan, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan; la zona 2 comprende los municipios de Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán.
+
+III. Por la revisión de las instalaciones para prestar el servicio de depósito y guarda de vehículos, 22 VSMGZ.
+
+IV. Por la tramitación y en su caso, expedición de autorización para instalar publicidad en vehículos de transporte público, con vigencia de hasta un año, por cada mes de la vigencia solicitada:
+
+TIPO DE PUBLICIDAD VSMGZ
+
+Lateral autobús. 5
+
+Posterior autobús. 5
+
+Integral autobús. 10
+
+Taxi. 5
+
+Lateral interiores. 5
+
+Posterior interiores autobús. 10
+
+Integral en interior autobús. 10
+
+Otros medios electrónicos para
+
+transmitir publicidad al usuario. 5
+
+V. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo, 50 VSMGZ.
+
+VI. Por la modificación de ruta de transporte público colectivo, 10 VSMGZ.
+
+VII. Por la tramitación y expedición de un permiso temporal de hasta por 6 meses, de un servicio de transporte público o especial de transporte en cualquiera de sus modalidades, cuando exista una necesidad de servicio inmediata o emergente, 30 VSMGZ. En caso de que la vigencia del citado permiso sea menor a 30 días, 5 VSMGZ.
+
+VIII. Por la expedición de la identificación de conductor de vehículo de servicio público o especial de transporte en cualquiera de sus modalidades, 1 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Artículo 124 quáter.- Por los servicios relativos en materia del Registro Público de Transporte, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
+
+CONCEPTO VSMGZ
+
+Por la inscripción del concesionario de servicio público o especial de transporte, en cualquiera de sus modalidades, así como por la modificación de sus datos en dicho registro. 1
+
+Inscripción de título de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Expedición de constancia de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
+
+Inscripción de resolución administrativa de otorgamiento de una ruta e itinerario de un servicio público colectivo de transporte. 5
+
+Inscripción de la transmisión de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de prórroga de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
+
+Inscripción de sentencia judicial o administrativa en las que se ordene la modificación, cancelación o rectificación de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de conductor de vehículo destinado al servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de alta o baja de vehículo amparado por una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de refrendo autorizado de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de la designación de beneficiarios por persona física titular de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
+
+Inscripción de la resolución administrativa que determine la reasignación y, en su caso, la consolidación de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+Artículo 124 quinquies.- Por los servicios que presta la Unidad Estatal de Protección Civil, se causarán y pagarán los derechos correspondientes, de acuerdo a las siguientes cuotas:
+
+I. Por las inspecciones que realice a efecto de emitir la opinión técnica respecto de los establecimientos en los que se pretenda almacenar, vender o consumir bebidas alcohólicas:
+
+a) Por la primera visita de inspección, 10 VSMGZ.
+
+b) Por la segunda visita de inspección, 20 VSMGZ.
+
+c) Por la tercera visita de inspección y por cada visita subsecuente, 40 VSMGZ.
+
+II. Por los cursos de capacitación en materia de protección civil para grupos de entre 10 y 50 personas, 5 VSMGZ, por participante;
+
+III. Por la expedición de registro como persona física o moral acreditada en protección civil y su renovación:
+
+a) Por la expedición de registro como capacitador, asesor, consultor o perito acreditado en protección civil, persona física:
+
+1. Por la expedición de registro como capacitador acreditado en protección civil, persona física, 32 VSMGZ.
+
+1.1 Por su renovación, 22 VSMGZ.
+
+2. Por la expedición de registro como asesor, consultor o perito acreditado en protección civil, persona física, 48 VSMGZ.
+
+2.1 Por su renovación, 32 VSMGZ.
+
+b) Por la expedición de registro como capacitador, asesor o consultor acreditado en protección civil, persona moral:
+
+1. Por la expedición de registro como capacitador en protección civil, persona moral, 55 VSMGZ.
+
+1.1 Por su renovación, 32 VSMGZ.
+
+2. Como asesor o consultor acreditado en protección civil, persona moral, 76 VSMGZ.
+
+2.1 Por su renovación, 55 VSMGZ.
+
+IV. Por la inspección para la realización de eventos socio-organizativos en el Estado de Querétaro:
+
+Aforo Zona en la que se realiza el evento
+
+A B C
+
+VSMGZ
+
+50-100 4 5 7
+
+personas
+
+101-250 5 6 8
+
+personas
+
+251-1000 6 7 9
+
+personas
+
+1000 7 8 10
+
+en adelante
+
+V. Por la emisión de análisis de riesgos basados en los fenómenos perturbadores, 5 VSMGZ.
+
+Para los efectos de este artículo, las zonas a que el mismo se refiere, comprenderán los municipios que a continuación se indican:
+
+Zona A: Querétaro, San Juan del Río, Corregidora, El Marqués, Pedro Escobedo y Huimilpan.
+
+Zona B: Cadereyta de Montes, Ezequiel Montes, Tequisquiapan, Amealco y Colón.
+
+Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín, Arroyo Seco y Tolimán.
 
 ### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR
 
@@ -4219,41 +4051,31 @@ Por el envío por mensajería con acuse de recibido de la Constancia de Registro
 
 Por la reposición física del dispositivo de almacenamiento que entregue la Secretaría de la Contraloría para la firma electrónica, se causará y pagará un derecho equivalente a 11.52 VSMGZ. Por la generación por segunda o ulterior ocasión del certificado para generación de firma electrónica se causará y para (sic) un derecho equivalente a 2.83 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 126-C.
 
-Por los servicios prestados por el Poder Ejecutivo, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de la Contraloría, en materia de expedición de copias de documentos que obren en los expedientes relativos a los procedimientos administrativos instaurados en contra de servidores públicos, se causarán y pagarán los siguientes derechos:
 
 CONCEPTO VSMGZ
 
-Búsqueda de información del archivo, por cada periodo a buscar 0.00
+Copia simple tamaño carta, por hoja. 0.025
 
-Extracción o desglose de la documentación solicitada para
+Copia simple tamaño oficio, por hoja. 0.034
 
-fotocopiado, por periodo 0.00
+Copia certificada tamaño carta, por hoja. 0.08
 
-Fotocopia simple tamaño carta o digitalización, por cada hoja 0.010
+Copia certificada tamaño oficio, por hoja. 0.11
 
-Fotocopia simple tamaño oficio o digitalización, por cada hoja 0.015
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de este artículo, se entiende por:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-A. Periodo a buscar: Cada mes calendario respecto del cual se solicite información.
+###### Artículo 126-D.
 
-B. Extracción o desglose de la documentación: Se refiere al descosido y cosido de los archivos para permitir la reproducción de los mismos.
-
-Se exceptúa del pago de los derechos por búsqueda de información del archivo, por cada período a buscar, así como por la extracción o desglose de la documentación solicitada para fotocopiado, por período, a que se refiere el presente artículo, tratándose de solicitudes de información formuladas en términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro.
-
-En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por cada foja certificada en tamaño carta a razón de 0.025 y en tamaño oficio por cada foja a razón de 0.030.
+Por la expedición de la constancia de no inhabilitación a favor de las personas que pretendan ingresar al servicio público, se causará y pagará un derecho equivalente a 1 VSMGZ.
 
 (REUBICADO, REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2004)
 
@@ -4369,11 +4191,11 @@ XVII. Por la capacitación que se imparta en materia de atención de emergencias
 
 XVIII. Por capacitación en el Curso Básico de Formación para Personal de Seguridad Privada, se causará y pagará por persona, un derecho equivalente a 200 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-El pago y sujeción al proceso de selección previsto en la fracción X de este artículo, será condición indispensable para tomar los cursos a que se refieren las fracciones VIII, IX y XII. En estos dos últimos supuestos, los cursos únicamente serán impartidos cuando se reúnan al menos 35 participantes por grupo para cada curso.
+El pago y sujeción al proceso de selección previsto en la fracción X de este artículo, será condición indispensable para tomar los cursos a que se refieren las fracciones VIII y IX.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4381,13 +4203,13 @@ El pago y sujeción al proceso de selección previsto en la fracción X de este 
 
 La capacitación contemplada en las fracciones XII, XVII y XVIII, será impartida únicamente cuando se reúnan al menos 15 participantes para la apertura de cada grupo; la contemplada en las fracciones XIII y XIV, será impartida únicamente cuando se reúnan al menos 30 participantes para la apertura de cada grupo; la contemplada en las fracciones XV y XVI, será impartida únicamente cuando se reúnan al menos 20 participantes para la apertura de cada grupo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 128.
 
-Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana:
+Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana se causarán y pagarán derechos conforme a las siguientes cuotas:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4422,6 +4244,22 @@ V. Por el trámite y, en su caso, expedición de la credencial de habilitación 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VI. Por la reposición de credencial de habilitación se causará y pagará un derecho equivalente a 1 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+VII. Por la capacitación impartida por personal adscrito a la Secretaría de Seguridad Ciudadana, se causarán y pagarán los siguientes derechos:
+
+a) Por instructor que imparta capacitación en curso básico de formación, 3.5 VSMGZ, por hora, por grupo de hasta 30 personas.
+
+b) Por instructor que imparta capacitación en materia de actualización, 3.5, VSMGZ por hora, por grupo de hasta 30 personas.
+
+c) Por instructor que imparta capacitación en materia de especialización básica, 4 VSMGZ, por hora, por grupo de hasta 30 personas.
+
+d) Por instructor que imparta capacitación en materia de especialización avanzada, 5.5 VSMGZ, por hora, por grupo de hasta 30 personas.
+
+e) Por instructor que participe como docente a nivel de Técnico Superior Universitario o Licenciatura, 5.5 VSMGZ, por hora, por grupo de hasta 30 personas.
 
 Los derechos anteriores se cubrirán dentro de los cinco días siguientes a la fecha de entrega de la orden de pago correspondiente.
 
@@ -4487,157 +4325,23 @@ IV. Por el trámite y, en su caso, expedición de tarjetón de identificación p
 
 No causará derechos la expedición de permiso de traslado de vehículos que no serán emplacados en el Estado, el cual tendrá una vigencia de hasta diez días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 130.
 
-Por el trámite y en su caso, expedición de autorización anual para el transporte de carga particular, mediante vehículos con capacidad superior a 18 toneladas, se causarán y pagarán 6 VSMGVZ.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 131.
 
-Por la revisión física y mecánica de los vehículos destinados al servicio público de transporte, se causarán y pagarán anualmente los siguientes derechos:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
-ZONA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Modalidad 1 2
+###### Artículo 132.
 
-VSMGZ
-
-Taxi 44 30
-
-Colectivo 44 30
-
-Servicios auxiliares de grúas 70 60
-
-Servicio Mixto No aplica 30
-
-Para los efectos de este artículo por servicio mixto, se entenderá aquel que ofrece una unidad en más de una modalidad de las previstas en la Ley de Transporte Público del Estado de Querétaro.
-
-Para los efectos de este artículo, la zona 1 comprende los municipios de Amealco de Bonfil, Corregidora, El Marqués, Huimilpan, Pedro Escobedo, Querétaro, San Juan de Río y Tequisquiapan; la zona 2 comprende los municipios de Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 132.
-
-Por el trámite y en su caso, expedición de autorizaciones diversas en materia de transporte público, se causarán y pagarán los siguientes derechos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-I. Por la autorización anual para el registro como proveedor de servicio especializado de transporte:
-
-MODALIDAD AUTORIZACIÓN ANUAL
-
-Sólo transporte escolar 45
-
-Sólo transporte de personal 80
-
-Sólo transporte turístico 45
-
-Solo carga ligera hasta 3 1/2 toneladas y
-
-todo aquel que preste este servicio público 10
-
-Materialista 20
-
-Pipa de agua 20
-
-Servicios auxiliares y de emergencia 45
-
-Servicio mixto 30
-
-Camiones Torton 20
-
-Auto-tanques 20
-
-Remolques 20
-
-Semiremolques 20
-
-Semiremolques especiales 20
-
-Cama baja 20
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-II. Por la tramitación y, en su caso, expedición de permiso especial de transporte público para la atención de eventos temporales, con vigencia máxima de 30 días naturales, se causarán y pagarán derechos por 5 VSGMZ;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-III. Por complemento al transporte público permisionado por las autoridades federales, se causarán y pagarán 60 VSMGZ, con vigencia anual;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-IV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-V. Por la tramitación y en su caso, expedición de autorización para instalar publicidad en vehículos de transporte público, con vigencia de hasta 2 años, se causarán y pagarán los siguientes derechos por cada mes de la vigencia solicitada:
-
-TIPO DE
-
-PUBLICIDAD VSMGZ
-
-Lateral autobús 5
-
-Posterior autobús 5
-
-Integral autobús 10
-
-Taxi 5
-
-Laterales interiores 5
-
-Posterior interiores autobús 5
-
-Integral en interior autobús 10
-
-Pantallas en interior autobús 10
-
-Otros medios electrónicos para
-
-transmitir publicidad al usuario 5
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-VII. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ por día de trabajo, sin que pueda exceder el cobro al importe que resulte de 50 VSMGZ.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-VIII. Por la expedición de autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-IX. Por permisos provisionales, cambio de titular o de modalidad para el servicio público de carga:
-
-Permiso nuevo por seis meses 30 VSMGZ
-
-Renovación semestral 15 VSMGZ
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO DÉCIMO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES FISCALES
 
@@ -4717,21 +4421,25 @@ Por refrendo anual se entenderá la revalidación de la permanencia en el padró
 
 Por los servicios de control vehicular se pagarán los siguientes derechos:
 
-I. Por el refrendo anual de los derechos por control vehicular:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+I. Por el servicio de refrendo:
 
 TRANSPORTE TIPO VSMGZ
 
-Privado Automóvil, Camión,
+Automóvil, camión, 4.5
 
-Autobús, Remolque 4
+autobús y remolque.
 
-Privado Motocicleta 2
+Privado Motocicleta. 2.5
 
-Privado Demostración 6
+Demostración. 6.5
 
-Público Automóvil, Camión
+Público. Automóvil, camión y 4.5
 
-y Autobús 4
+autobús.
 
 El refrendo comprenderá la expedición de calcomanía de revalidación y la tarjeta de circulación que corresponda.
 
@@ -4799,7 +4507,11 @@ Además de lo anterior, para el caso de vehículos usados, se deberá presentar 
 
 En el caso de unidades enajenadas a crédito, a falta de comprobante fiscal digital y/o factura, deberá presentarse carta factura mediante la cual se acredite la propiedad del mismo. La carta factura deberá tener una antigüedad menor a 15 días hábiles contados a partir de la fecha de su emisión.
 
-En caso de no contar con la factura de origen o copia para los vehículos 1995 y anteriores, la Dirección de Ingresos asignará el valor del vehículo, de acuerdo a los valores publicados en la Guía Autométrica que corresponda al año modelo del vehículo o, en su defecto se le asignará el valor de un vehículo con características similares, que se encuentre inscrito en el Padrón Vehicular Estatal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+En el supuesto de no contar con la factura de origen o copia de la misma, la Dirección de Ingresos asignará el valor del vehículo de acuerdo a los valores publicados en la Guía Autométrica que corresponda al año modelo del vehículo o, en su defecto, le asignará el valor de un vehículo con características similares, inscrito en el Padrón Vehicular Estatal.
 
 Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
 
@@ -4823,9 +4535,17 @@ IV. Presentar los comprobantes de pago del impuesto sobre tenencia o uso de veh�
 
 Dichos documentos estarán sujetos a validación con la autoridad emisora, previo a la inscripción en el Padrón Vehicular Estatal, o en su caso comprobar que se encuentra libre del pago del impuesto respectivo.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Entregar placas y tarjeta de circulación o, en su caso, presentar la baja correspondiente. Si dicha documentación no es presentada por extravío o destrucción de una o ambas placas y/o de la tarjeta de circulación, el contribuyente deberá presentar constancia de no infracción emitida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+V. Entregar las placas y tarjeta de circulación del vehículo o, en su caso, presentar la baja correspondiente.
+
+En los siguientes supuestos, deberá atenderse a lo siguiente:
+
+a) Extravío o destrucción de una o ambas placas y/o de la tarjeta de circulación, el solicitante deberá presentar constancia de no infracción emitida por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro.
+
+b) Robo de los elementos descritos en el inciso anterior, deberá exhibirse la constancia de la denuncia realizada ante la Agencia del Ministerio Público correspondiente.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -4859,11 +4579,13 @@ Artículo 136 bis.- Si el vehículo que se pretende registrar, cuenta con placas
 
 Para la obtención de placas metálicas de circulación con características especiales deberán cumplirse los requisitos y procedimientos que mediante acuerdo establezca la Secretaría de Planeación y Finanzas, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 138.
 
-Si el vehículo que se pretende registrar se encuentra en arrendamiento, el arrendatario deberá presentar, además de los requisitos contemplados en el artículo 136 de esta Ley, el contrato donde se especifique el nombre de los contratantes y el objeto del mismo.
+Si el vehículo que se pretende registrar en el Padrón Vehicular Estatal, se encuentra en arrendamiento, el arrendatario, además de cumplir con los requisitos contemplados en el artículo 136 de esta Ley, deberá exhibir en original y copia el contrato donde se especifique el nombre y domicilio de los contratantes y el objeto del mismo.
 
 ###### Artículo 139.
 
@@ -4898,6 +4620,14 @@ En caso de no presentar la baja mencionada en el párrafo anterior, el contribuy
 V. La Autoridad Fiscal podrá dar de baja del Padrón Vehicular un vehículo, cuando se acredite que el mismo fue registrado en otra entidad federativa, y se confirme dicho registro; y
 
 VI. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2007)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+VII. Tratándose de trámites de baja de vehículos destinados al servicio de transporte público en el Estado, derivados de la reasignación de concesiones, bastará con la solicitud por escrito por parte de la Secretaría de Gobierno.
+
+El trámite de baja señalado en el párrafo anterior, no causará los derechos señalados en la fracción IV, del artículo 135 de la presente Ley.
 
 Las bajas de vehículos señaladas en las fracciones III, IV y V, no causarán los derechos que establece la fracción VI del artículo 135 de la presente Ley.
 
@@ -5081,25 +4811,77 @@ VII. Por cada certificado de rechazo de verificación vehicular de que se dote a
 
 VIII. Por la expedición de la licencia ambiental, se pagará el equivalente a 27 VSMGZ para empresas pequeñas; 37 VSMGZ para empresas medianas y 47 VSMGZ para empresas grandes.
 
-IX. Por la autorización del informe preventivo de impacto ambiental, se pagará el equivalente a 64 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Por la autorización de la manifestación de impacto ambiental en modalidad particular se pagará el equivalente a 120 VSMGZ y en modalidad regional, se pagará el equivalente a 150 VSMGZ.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+IX. Por la autorización del informe preventivo de impacto ambiental, se pagará el equivalente a 120 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+X. Por la autorización de la manifestación de impacto ambiental en modalidad particular se pagará el equivalente a 150 VSMGZ y en modalidad regional, se pagará el equivalente a 300 VSMGZ.
 
 XI. Por la resolución de riesgo ambiental, se pagará el equivalente a 120 VSMGZ.
 
-XII. Por el registro de prestadores de servicios ambientales, se pagará el equivalente a 10 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XII. Por el registro de prestadores de servicios ambientales y el refrendo del mismo, se pagará el equivalente a 10 VSMGZ.
 
 XIII. Por el registro de prestadores de servicios ambientales, en su modalidad de perito responsable para bancos de material, se pagará el equivalente a 10 VSMGZ.
 
 XIV. Por el registro de planes de manejo de residuos sólidos no peligrosos y de manejo especial, se pagará el equivalente a 16 VSMGZ para empresas pequeñas; 26 VSMGZ para empresas medianas y 36 VSMGZ para empresas grandes.
 
-XV. Por la autorización de bancos de tiro para el depósito de residuos no peligrosos, se pagará el equivalente a 93 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XV. Por la autorización de bancos de tiro para el depósito de residuos no peligrosos, se pagará el equivalente a 30 VSMGZ.
 
 XVI. Por la autorización para restauración de bancos de material, se pagará el equivalente a 16 VSMGZ.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
 XVII. Por la autorización de combustión a cielo abierto, se pagará el equivalente a 16 VSMGZ.
 
-Para los efectos de esta fracción se entenderá por grande, mediana, pequeña y micro empresas, aquellas a que se refiere la estratificación establecida por la Secretaría de Economía de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Por la actualización de licencia ambiental, se pagará el equivalente a 14 VSMGZ para empresas pequeñas, 19 VSMGZ para empresas medianas y 24 VSMGZ para empresas grandes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XIX. Por la autorización de la licencia para la explotación de bancos de material, se pagará el equivalente a 64 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XX. Por la modificación de datos del registro de prestadores de servicios ambientales, se pagará el equivalente a 8 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXI. Por la actualización de planes de manejo de residuos sólidos no peligrosos y de manejo especial, se pagará el equivalente a 8 VSMGZ para empresas pequeñas, 13 VSMGZ para empresas medianas y 18 VSMGZ para empresas grandes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXII. Por la expedición de copias simples de expedientes a cargo de la Secretaría de Desarrollo Sustentable, se pagará el equivalente a 0.05 VSMGZ por foja y el equivalente a 0.10 VSMGZ por foja, para la expedición de copias certificadas.
+
+Para los efectos de este artículo, se atenderá a la estratificación de empresas establecida por las autoridades federales competentes que al efecto se publique en el Diario Oficial de la Federación.
+
+Los cuerpos voluntarios de bomberos, cuerpos de atención médica prehospitalaria y/o rescate, que acrediten estar legamente constituidos en el Estado, así como las autoridades federales, estatales y municipales, en materia de protección civil, estarán exentos del pago de los derechos a que se refiere la fracción XVII de este artículo, cuando realicen la combustión a cielo abierto con motivo de sus prácticas de entrenamiento y capacitación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5107,7 +4889,9 @@ Para los efectos de esta fracción se entenderá por grande, mediana, pequeña y
 
 Artículo 145 B.- Por los servicios prestados por la Secretaría de Turismo se causarán y pagarán los siguientes derechos:
 
-I. Por la renta de aparato de audioguía turística, 0.81 VSMGZ por día
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
 II. Por la prestación del servicio del circuito “Querétaro desde adentro”
 
@@ -5139,47 +4923,39 @@ a. General, 2.31 VSMGZ.
 
 b. Menores de 12 años y personas adultas mayores, 1.85 VSMGZ.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-V. Por la venta de carteles, 0.54 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Por la venta de juego de seis carteles, 2.77 VSMGZ.
+VII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+VIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2012)
 
-VII. Por la venta de tubo para cartel, una cuota de .31 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+###### Artículo 145-C.
 
-VIII. Por la venta de libro de Querétaro, 1 VSMGZ.
+Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, consistentes en la admisión a las instalaciones del Parque Recreativo Cimacuático, se causarán y pagarán los siguientes derechos:
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+I. Adultos, $20.00;
 
-Artículo 145 C.- Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, se causarán y pagarán los siguientes derechos:
+II. Niños y adultos mayores, $12.00, y
 
-I. Admisión a las instalaciones del Parque Recreativo Mundo Cimacuático:
+III. Grupos:
 
-a. Adultos, $20.00;
+a) Escuelas, $8.00 por persona.
 
-b. Niños, $12.00; y
-
-c. Grupos:
-
-1. Escuelas Públicas, $8.00 por persona;
-
-2. Escuelas Privadas, $12.00 por persona; y
-
-3. Sector Empresarial y de Servicios, $16.00 por persona.
+b) Sector empresarial y de servicios, $16.00 por persona.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -5187,13 +4963,37 @@ c. Grupos:
 
 Por la obtención de bases de licitación pública que emitan las autoridades administrativas, se causarán y pagarán 36 VSMGZ.
 
-### CAPÍTULO ÚNICO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO DÉCIMO SÉPTIMO. POR LOS SERVICIOS PRESTADOS POR EL PODER EJECUTIVO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 145-E.
+
+Por los servicios prestados por el Poder Ejecutivo del Estado de Querétaro, cuando su costo no se encuentre previsto por ésta Ley, se causarán y pagarán:
+
+CONCEPTO VSMGZ
+
+Copia simple tamaño carta o digitalización, por hoja. 0.010
+
+Copia simple tamaño oficio o digitalización, por hoja. 0.020
+
+Copia certificada tamaño carta, por hoja. 0.025
+
+Copia certificada tamaño oficio, por hoja. 0.035
+
+Tratándose de solicitudes formuladas en los términos de la Ley de Acceso a la Información Gubernamental del Estado de Querétaro, cuando las autoridades posean la información objeto de la petición en medio electrónico y el particular solicite que le sea entregada a través de dicho medio, únicamente se pagará el costo correspondiente al mismo.
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-### CAPÍTULO PRIMERO. DE LOS APROVECHAMIENTOS
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 146.
 
@@ -5257,7 +5057,7 @@ La explotación y aprovechamiento de bienes propiedad del Estado, realizados por
 
 ESPECIALES
 
-### CAPÍTULO SEGUNDO. DE LAS CONTRIBUCIONES ESPECIALES
+### CAPÍTULO PRIMERO. DE LOS APROVECHAMIENTOS
 
 ###### Artículo 148.
 
@@ -5281,7 +5081,7 @@ Son otros aprovechamientos aquellos no considerados específicamente en los art�
 
 Artículo 152 bis.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2007)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LAS CONTRIBUCIONES ESPECIALES
 
 ###### Artículo 153.
 
@@ -5336,6 +5136,8 @@ VI. Aportaciones extraordinarias de mejoras.
 ## TÍTULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 158.
 
@@ -6328,3 +6130,109 @@ P.O. 19 DE OCTUBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor el 1º de enero del 2013.
+
+Artículo Segundo. Se derogan en particular todas las disposiciones contenidas en las leyes, decretos o acuerdos de creación de los organismos descentralizados y empresas de participación estatal mayoritaria de que se trate, así como en sus reglamentos internos, que se opongan a lo previsto en el Artículo Tercero de la presente Ley.
+
+Artículo Tercero. El contenido de la reforma de la fracción VIII del artículo 54 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, que se realiza mediante la presente Ley, no será aplicable a los actos relativos a la aprobación y/o modificación de la estructura orgánica, salarial y ocupacional de las entidades paraestatales, así como de su plantilla de personal, que se hubieren realizado con anterioridad a su entrada en vigor.
+
+Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2013, serán las siguientes:
+
+I. Siempre que se trate de vivienda interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado (sic) Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad.
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+III. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en que conste la operación mediante la que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+IV. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+V. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, exigibles al 31 de diciembre de 2012, siempre que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+No procederá la condonación a la que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si cumple con los requisitos señalados en los dos primeros párrafos de esta fracción.
+
+IX. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+X. El impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales que se cause con motivo de los pagos que por concepto del impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado de Querétaro, realicen los contribuyentes, se reducirá en un 100%.
+
+XI. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.40 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo.
+
+XII. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+En los paquetes familiares (por lo
+
+menos tres personas en las diferentes
+
+30% disciplinas, previa entrega de una copia
+
+del acta de nacimiento de cada familiar).
+
+Para adultos mayores.
+
+XIII. Para los efectos del impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%, en los casos de aquellas personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2013.
+
+XIV. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso, además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XV. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.40 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Dirección de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+XVI. Por la prestación de los servicios previstos en el artículo 135, fracción I, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.68 VSMGZ.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de dicha fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía.
