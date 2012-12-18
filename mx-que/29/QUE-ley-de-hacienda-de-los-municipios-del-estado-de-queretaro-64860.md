@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2012-04-13"
+last_updated: "2012-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 13 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -161,9 +159,13 @@ c) El predio que se ubique fuera de un centro de población, pero se destine a f
 
 III. Predio rústico: el que se ubique fuera del límite de un centro de población, de conformidad a la normatividad aplicable en materia de desarrollo urbano y que no se encuentre en ninguno de los supuestos de la fracción anterior;
 
-IV. Predio urbano edificado: el que contenga construcciones permanentes o en proceso, siempre que dichas construcciones cuenten con la respectiva licencia actualizada para tales efectos o se encuentren debidamente registradas en catastro municipal; independientemente de su régimen de propiedad, uso, tipología o estado. Excepto que se trate de bardas perimetrales;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-V. Predio baldío: el predio urbano que carezca de construcciones o tenga únicamente bardas perimetrales;
+IV. Predio urbano edificado: el predio que contenga construcciones permanentes o en proceso, cuyo valor catastral de dichas construcciones represente por lo menos un diez por ciento del valor catastral del terreno. No se considerarán como construcción, para efectos de este artículo, las bardas perimetrales;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+V. Predio baldío: el predio urbano que carezca de construcciones o tenga únicamente bardas perimetrales, así como los predios que contengan construcciones cuyo valor catastral represente menos del diez por ciento del valor catastral del terreno, sin incluir bardas perimetrales;
 
 VI. Predio de fraccionamiento en proceso de ejecución: es el predio o fracción de él, constituido como fraccionamiento en los términos del Código Urbano del Estado de Querétaro, cuya autorización provisional de venta de lotes o la definitiva de fraccionamiento ha sido publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y que el propietario o copropietarios cuenten con el reconocimiento de causahabiencia. Esta clasificación se conserva hasta que se haga entrega de las obras de urbanización al Municipio correspondiente, en los términos del ordenamiento antes mencionado o se tenga más del sesenta por ciento de la superficie vendible enajenada; y
 
@@ -365,9 +367,9 @@ Los ayuntamientos mediante acuerdo determinarán el porcentaje de reducción apl
 
 Se exceptúan de lo dispuesto en el presente artículo, los predios de fraccionamientos en proceso de ejecución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+Sólo se podrá reducir el pago del impuesto, cuando se trate de predios urbanos edificados y predios baldíos cuando no excedan de 200 metros cuadrados de superficie y que el titular cuente con un sólo inmueble.
 
 ###### Artículo 41.
 
@@ -661,7 +663,9 @@ IV. En las adquisiciones de inmuebles fideicomitidos que hagan los fideicomisari
 
 V. En la transmisión del usufructo que se dé por causa de muerte;
 
-VI. En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges, ascendientes y descendientes en línea recta, sin limitación del grado y que dicho inmueble sea única propiedad del autor de la sucesión;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+VI. En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges o concubinos, ascendientes y descendientes en línea recta, sin limitación de grado y que dicho inmueble sea única propiedad del autor de la sucesión;
 
 VII. En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del artículo 62 de esta Ley;
 
@@ -2004,3 +2008,9 @@ Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jera
 Artículo Tercero. Las escrituras que se hubiesen presentado a las tesorerías y oficinas catastrales con anterioridad a la vigencia de esta Ley, se tramitarán en la forma y términos aplicables al momento de su presentación.
 
 Artículo Cuarto. Los trámites de actos traslativos de dominio ingresados a las Tesorerías Municipales antes del 03 de diciembre del 2008, y que a la fecha de la entrada en vigor de la presente Ley, se encuentren pendientes de empadronar, podrán ser liberados, siempre y cuando se tenga registro que de los mismos se haya efectuado el pago provisional del Impuesto Sobre Traslado de Dominio, y en su caso, cualquier otro impuesto derivado de la propiedad inmobiliaria, así como se hubiere registrado el cambio de propietario ante las oficinas catastrales correspondientes.
+
+P.O. 18 DE DICIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
