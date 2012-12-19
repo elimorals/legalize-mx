@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg553-2008-del-consejo-general-del-instituto-65429"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-20"
-last_updated: "2009-01-20"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-12-22"
 ---
 # ACUERDO CG553/2008 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA EL ACCESO, ENTREGA Y CORRECCION DE DATOS PERSONALES EN POSESION DEL REGISTRO FEDERAL DE ELECTORES
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA EL ACCESO, ENTREGA Y CORRECCION DE DATOS PERSONALES EN POSESION DEL REGISTRO FEDERAL DE ELECTORES
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA EL ACCESO, ENTREGA Y CORRECCIÓN DE DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, RECTIFICACIÓN, CANCELACIÓN, OPOSICIÓN Y VALIDACIÓN DE DATOS PERSONALES EN POSESIÓN DE LA DIRECCIÓN EJECUTIVA DEL REGISTRO FEDERAL DE ELECTORES, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 20 de enero de 2009.
 
@@ -270,3 +272,15 @@ d) La oficina del Registro Federal de Electores ante la que se haya presentado l
 ## Título VII. De los informes
 
 22. La Dirección Ejecutiva del Registro Federal de Electores enviará informes periódicos a la Unidad Técnica de Servicios de Información y Documentación, de las solicitudes de acceso y corrección de datos personales en posesión del Registro Federal de Electores que reciba y el trámite que haya dado a las mismas, sin que en ningún momento se entregue información confidencial de los ciudadanos, con oportunidad suficiente para que puedan ser incluidos en el informe trimestral a que se refiere el artículo 15 párrafo 1 del Reglamento del Instituto Federal Electoral en materia de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 19 DE DICIEMBRE DE 2012.
+
+DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO.
+
+Primero. Se abrogan los Lineamientos para el Acceso, Entrega y Corrección de datos personales en posesión del Registro Federal de Electores, aprobados por este Consejo General mediante acuerdo CG553/2008.
+
+Segundo. Se aprueban los Lineamientos para el Acceso, Rectificación, Cancelación, Oposición y Validación de Datos Personales en Posesión de la Dirección Ejecutiva del Registro Federal de Electores, los cuales forman parte integral del presente Acuerdo.
+
+Tercero. Se derogan todas las disposiciones que se opongan a los Lineamientos señalados en el Punto Segundo de este Acuerdo.
+
+Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
