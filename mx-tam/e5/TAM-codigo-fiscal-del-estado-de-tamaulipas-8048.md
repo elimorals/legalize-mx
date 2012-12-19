@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2011-12-20"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -43,7 +45,7 @@ CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
 ## TITULO I. Disposiciones Generales
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO I. GENERALIDADES
 
@@ -105,7 +107,7 @@ Cuando sean organismos descentralizados estatales quienes presten los servicios 
 
 Los recargos, las sanciones, los gastos de ejecución y de cobranza y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan en la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con la excepción de lo dispuesto en el Artículo 1o.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 4.
 
@@ -121,7 +123,7 @@ Son productos, las contraprestaciones por los servicios que preste el Estado en 
 
 Son participaciones los ingresos provenientes de contribuciones y aprovechamientos federales o municipales que tiene derecho a percibir el Estado por disposición constitucional, por virtud de su adhesión al sistema nacional de coordinación fiscal, por las leyes fiscales respectivas, o por los convenios respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 6.
 
@@ -145,11 +147,13 @@ Las disposiciones fiscales que establezcan cargas a los particulares y las que s
 
 Las otras disposiciones fiscales se interpretarán de acuerdo con los fines para los cuales fueron establecidas, pudiendo aplicarse cualquier método de interpretación jurídica. A falta de norma fiscal expresa, la aplicación podrá integrarse considerando disposiciones de derecho común, cuando ésta no sea contraria a la naturaleza del derecho fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 8.
 
-Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales, durante el lapso en que ocurren.
+Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes, durante el lapso en que ocurren.
 
 Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
@@ -183,17 +187,23 @@ Se considera domicilio fiscal:
 
 I.- Tratándose de personas físicas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a).- El local en que se encuentre el principal asiento de sus negocios, en el Estado;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+a).- Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios en el Estado.
 
-b).- Cuando sus actividades las realicen en la vía pública, la casa en que habiten en el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-c).- Cuando tengan bienes que den lugar al pago de contribuciones locales el lugar del Estado en que se encuentren los bienes, y
+b).- Cuando no realicen las actividades señaladas en el inciso anterior, el local que utilicen para el desempeño de sus actividades en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+c).- Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción; y
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -223,11 +233,13 @@ Las autoridades fiscales podrán practicar diligencias en el lugar que conforme 
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año de calendario, cuando las personas morales inicien sus operaciones con posterioridad al 1o. de enero en dicho año el ejercicio fiscal será irregular, debiendo iniciarse el día en que comiencen las actividades y terminarse el día 31 de diciembre del año de que se trate.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente, en su caso, en la fecha en que entre en liquidación o se fusione. En el primer caso se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones de la sociedad que desaparece.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio por todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones de la sociedad que desaparece.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
@@ -323,23 +335,27 @@ Cuando con motivo de la prestación de un servicio se proporcionen bienes o se o
 
 Cuando se perciba el ingreso en bienes o servicios, se considerará el valor de éstos en moneda nacional en la fecha de la percepción, según las cotizaciones o valores en el mercado, o en defecto de ambos, el de avalúo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 18-A.
 
 El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del Fisco Estatal, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor del mes anterior, al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del Fisco Estatal, no se actualizarán por fracciones de mes.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con los (sic) dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los índices mencionados son los que determine el Banco de México calculados en los términos del artículo 20 Bis del Código Fiscal de la Federación y se publican en el Diario Oficial de la Federación.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los índices mencionados son los que determine el Instituto Nacional de Estadística y Geografía, calculados en los términos del artículo 20 Bis del Código Fiscal de la Federación y se publican en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -349,7 +365,7 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal, así como los valores de bienes en operaciones de que se traten, será 1.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
@@ -379,7 +395,7 @@ Cuando los contribuyentes remitan un documento digital a las autoridades fiscale
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 19.
 
@@ -425,11 +441,13 @@ VI.- Indicar si los hechos o circunstancias sobre los que versa la promoción ha
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en artículo 19, penúltimo párrafo de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 20.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante, aceptante y testigos ante las autoridades fiscales o notario público.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante, aceptante y testigos ante las autoridades fiscales o notario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar todo tipo de instancias o promociones dentro del procedimiento administrativo que se relacione con estos propósitos.
 
@@ -459,11 +477,13 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso, no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediato inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediato superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 22.
 
-Cuando no se cubran las contribuciones o aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco estatal por falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones y de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables para cada uno de los meses o fracción de los mismos transcurridos desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando no se cubran las contribuciones o aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización de la contribución o aprovechamiento de que se trate.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
@@ -485,7 +505,7 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 
 En el caso de aprovechamientos, los recargos se calcularan de conformidad con lo dispuesto en el segundo párrafo de este artículo. No causarán recargos las multas no fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23.
 
@@ -493,11 +513,11 @@ Las autoridades fiscales están obligadas a devolver las cantidades pagadas inde
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente, lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Cuando se solicite la devolución de una contribución, ésta deberá efectuarse dentro del plazo de 40 días siguientes, contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera, debidamente integrado de conformidad con las disposiciones del Banco de México, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular.
+Cuando se solicite la devolución de una contribución, ésta deberá efectuarse dentro del plazo de 40 días siguientes, contado a partir de la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos. Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente que lo solicita, para lo cual deberá de presentar los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera, debidamente integrado de conformidad con las disposiciones del Banco de México, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobantes del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse el depósito. También se suspenderá el plazo mencionado cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser ésta inexistente o haberse cancelado o cuando el número de la cuenta proporcionado por el contribuyente sea erróneo, hasta en tanto el contribuyente proporcione un número de cuenta válido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -535,11 +555,11 @@ Cuando la autoridad requiera al contribuyente los datos, informes o documentos a
 
 Se entenderá que la devolución se ha efectuado a partir de la fecha en que se notifique al interesado la autorización de la devolución respectiva. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Si la devolución no se efectúa dentro del indicado plazo de 40 días, computados en los términos de los (sic) párrafo tercero del presente artículo, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos, en los términos del artículo 22 de este ordenamiento, calculados sobre el importe de las contribuciones actualizadas a devolver conforme a lo previsto por el artículo 18-A de este Código. Cuando el fisco estatal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
+Si la devolución no se efectúa dentro del indicado plazo de 40 días, computados en los términos del párrafo tercero del presente artículo, las autoridades fiscales pagarán intereses, que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos, en los términos del artículo 22 de este ordenamiento, calculados sobre el importe de las contribuciones actualizadas a devolver de acuerdo a lo previsto por el artículo 18-A de este Código. Cuando el fisco estatal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor o responsable solidario. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
@@ -555,7 +575,7 @@ La obligación de devolver prescribe en los mismos términos y condiciones que e
 
 Lo dispuesto en el quinto párrafo de este Artículo también será aplicable cuando las autoridades fiscales hayan efectuado compensación de oficio en los términos del Artículo 24 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 24.
 
@@ -595,7 +615,7 @@ I.- Los retenedores y las personas a quienes las leyes impongan la obligación d
 
 II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como aquellas que se causaron durante su gestión. No será aplicable lo dispuesto en esta fracción, cuando la sociedad en liquidación cumpla con las obligaciones de presentar los avisos y de proporcionar los informes a que se refiere este Código y su Reglamento.
 
@@ -605,11 +625,21 @@ La persona o personas, cualquiera que sea el nombre con que se les designe, que 
 
 a).- No solicite su inscripción o empadronamiento en los términos de las leyes fiscales y sus reglamentos.
 
-b).- Cambie su domicilio sin prestar el aviso correspondiente en los términos de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+b).- Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 c).- No lleve contabilidad, la oculte o la destruya.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+d).- Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del Reglamento de este Código.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
@@ -635,11 +665,13 @@ XI.- Los socios o accionistas, respecto de las contribuciones que se hubieran ca
 
 XII.- Las demás personas que señalen las leyes fiscales vigentes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La responsabilidad solidaria comprenderá la actualización de las contribuciones y sus accesorios.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28.
 
@@ -705,9 +737,11 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo; por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales, señalados en el párrafo precedente; por los equipos y sistemas electrónicos de registro fiscal y sus registros; por las máquinas registradoras de comprobación fiscal y sus registros; cuando se esté obligado a llevar dichas máquinas; así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En los casos en que las demás disposiciones fiscales hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo; los papeles de trabajo, registros, cuentas especiales, libros y registros sociales, señalados en el párrafo precedente; así como por los comprobantes fiscales o documentación comprobatoria de ingresos y deducciones y, en su caso, las máquinas registradoras de comprobación fiscal, los equipos o sistemas electrónicos de registro fiscal y sus registros; por las máquinas registradoras de comprobación fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos.
 
 ###### ARTICULO 30.
 
@@ -725,7 +759,7 @@ La documentación a que se refiere el párrafo anterior de este artículo y la c
 
 Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 32.
 
@@ -827,7 +861,7 @@ Lo señalado en el párrafo anterior, no constituirá instancia y las resolucion
 
 Cuando las autoridades fiscales modifiquen las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 39.
 
@@ -919,33 +953,41 @@ III.- Imponer la multa que corresponda en los términos de este Código y requer
 
 En caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría de Finanzas a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar la contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
+A fin de comprobar que los contribuyentes o responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, la Secretaría de Finanzas estará facultada para:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 I.- Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para el efecto las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para efectuar la rectificación del error u omisión de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-II.- Requerir a los contribuyentes, responsables solidarios o terceros con aquellos relacionados, para que proporcionen en las oficinas de las propias autoridades fiscales su contabilidad, para efectos de su revisión, así como los datos, documentos o informes que se les requieran;
+II.- Requerir a los contribuyentes, responsables solidarios o terceros con aquellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-III.- Practicar visitas domiciliarias a los contribuyentes, responsables solidarios o terceros relacionados con ellos, para que exhiban en su domicilio fiscal su contabilidad, para efectos de su revisión, así como los datos, documentos, informes, bienes o mercancías que se les requieran;
+III.- Practicar visitas a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones establecidas en las disposiciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, de conformidad con el procedimiento previsto en el artículo 50-A de este Código.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-V.- Practicar u ordenar se practique avalúo, verificación física de toda clase de bienes, incluso durante su transporte.
+IV.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del registro estatal de contribuyentes, de conformidad con el procedimiento previsto en el artículo 50-A de este Código;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+V.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones en materia aduanera derivadas de autorizaciones o concesiones o de cualquier padrón o registro establecido en las disposiciones relativas a dicha materia, verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales, verificar que la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, de conformidad con el procedimiento previsto en el artículo 50-A de este Código.
 
 VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
@@ -983,7 +1025,7 @@ En los casos de visita en el domicilio fiscal, las autoridades fiscales, los vis
 
 I.- La visita se realizará en el lugar o lugares señalados en la orden de visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 II.- Si al presentarse los visitadores al lugar en donde debe practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
 
@@ -1005,7 +1047,7 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 47.
 
@@ -1013,7 +1055,7 @@ Los visitados, sus representantes o la persona con quien se entienda la visita e
 
 Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores para que los auxilie en el desarrollo de la visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que previo cotejo con los originales, se certifiquen por los visitadores designados que intervengan en la diligencia:
 
@@ -1171,9 +1213,11 @@ IV.- Como consecuencia de la revisión de los informes, datos, documentos o cont
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsables solidario mediante oficio, la conclusión de la revisión efectuada con motivo del ejercicio de la facultad a que se refiere la fracción II del artículo 44 de este Código.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción. El contribuyente o responsable solidario contará con un plazo de quince días que se computará a partir del día siguiente al que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o cuando la revisión abarque además de uno o varios ejercicios revisados, fracciones de otro ejercicio, se ampliará el plazo por diez días más, siempre que el contribuyente presente aviso dentro del plazo inicial de quince días.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, que se computará a partir del día siguiente al que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o cuando la revisión abarque además de uno o varios ejercicios revisados, fracciones de otro ejercicio, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
@@ -1191,7 +1235,11 @@ VII.- Cuando el contribuyente o responsable solidario no corrija totalmente su s
 
 Para los efectos de lo dispuesto por la fracción IV del artículo 44 de este Código, las visitas domiciliarias para verificar la presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, se realizarán conforme a lo siguiente:
 
-I.- Se llevará a cabo en el dmicilio (sic) fiscal, establecimientos, puestos fijos y semifijos en la vía pública, o sucursales de los contribuyentes, con el objeto de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Se llevará a cabo en el domicilio fiscal, establecimientos, puestos fijos y semifijos en la vía pública, o sucursales de los contribuyentes, con el objeto de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes.
 
 II.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento, indistintamente y con dicha persona se entenderá la visita de inspección.
 
@@ -1203,9 +1251,19 @@ IV.- En toda visita domiciliaria para verificar la presentación de solicitudes 
 
 V.- Si al cierre del acta de la visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegue a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
 
-VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción, presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el Registro Estatal de Contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La resolución a que se refiere el párrafo anterior deberá emitirse en un plazo que no excederá de seis meses contados a partir del vencimiento del plazo señalado en el párrafo que antecede.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 51.
 
@@ -1247,7 +1305,7 @@ Siempre se podrán determinar las contribuciones omitidas correspondientes al mi
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 53.
 
@@ -1401,7 +1459,7 @@ II.- Señalen como lugar para la entrega o recibo de bienes o prestación de ser
 
 III.- Se refieren a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 63.
 
@@ -1559,7 +1617,7 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 74.
 
@@ -1675,7 +1733,7 @@ b).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebid
 
 Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético, en las declaraciones, se impondrá una multa que será del 20% al 25% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro de los 15 días siguientes a la fecha en que se notificó su determinación, la multa se reducirá a la mitad, sin que para ello se requiera una resolución administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 79.
 
@@ -1729,7 +1787,7 @@ b) De 5 a 15 días de salario mínimo en los demás documentos.
 
 IV.- De 50 a 150 días de salario mínimo para la establecida en la fracción V.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 81.
 
@@ -1767,7 +1825,7 @@ b).- Por presentar una declaración, solicitud, aviso, constancia y demás docum
 
 3.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 c).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1996)
 
@@ -1899,7 +1957,7 @@ La infracción en cualquier forma a las disposiciones fiscales, diversas a las p
 
 De los Delitos Fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 92.
 
@@ -2065,7 +2123,7 @@ II.- Oculte, altere o destruya total o parcialmente los sistemas y registros con
 
 Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituído, si el valor de lo dispuesto no excede de 300 días el salario mínimo, cuando excede esa cantidad, la sanción será de tres a nueve años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 107.
 
@@ -2073,7 +2131,7 @@ Se impondrá sanción de dos a seis años de prisión, al que dolosamente altere
 
 Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de pagos en las oficinas recaudadoras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 108.
 
@@ -2125,11 +2183,11 @@ Se impondrá la misma sanción prevista en el artículo anterior, a quien manufa
 
 ## TITULO V. De los Procedimientos Administrativos
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO I. Del Recurso Administrativo
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 #### Sección Primera. Del Recurso de Revocación
 
@@ -2139,7 +2197,7 @@ Se impondrá la misma sanción prevista en el artículo anterior, a quien manufa
 
 Contra los actos administrativos dictados en materia fiscal estatal se podrá interponer el Recurso de Revocación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 116.
 
@@ -2177,7 +2235,7 @@ VI.- Determinen el valor de los bienes embargados, a que se refiere el artículo
 
 La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal del Estado.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2269,7 +2327,7 @@ El interesado podrá optar por impugnar un acto a través del recurso de revocac
 
 El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 126.
 
@@ -2283,11 +2341,11 @@ Si las violaciones tuvieron lugar con posterioridad a la mencionada convocatoria
 
 El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 #### Sección Segunda. De la Impugnación de las Notificaciones
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 128.
 
@@ -2309,11 +2367,11 @@ IV.- Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recur
 
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 #### Sección Tercera. Del Trámite y Resolución del Recurso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 129.
 
@@ -2327,7 +2385,7 @@ Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
 Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 130.
 
@@ -2495,7 +2553,7 @@ Las garantías constituídas para asegurar el interés fiscal a que se refieren 
 
 Si la garantía consiste en depósito de dinero en la Secretaría o en Institución Nacional de Crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 142.
 
@@ -2525,61 +2583,67 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 Disposiciones Generales.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTICULO 143.
 
 Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de liquidaciones respectivas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997) (F. DE E., 18 DE FEBRERO DE 1998)
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando:
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
-
-II.- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
-
-III.- El contribuyente se niegue a proporcionar la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, a que está obligado.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
-
-IV.- El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo precautorio hasta por un monto equivalente al de la contribución o contribuciones determinadas, incluyendo sus accesorios. Si el pago se hiciera dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
-
-V.- Se realicen visitas a contribuyentes con locales, puestos fijos y semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el Registro Estatal de Contribuyentes; una vez comprobada la inscripción en el citado registro, se levantará el embargo trabado.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La autoridad requerirá al obligado, en el caso de la fracción IV de este artículo para que dentro del término de 3 días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
 
-El embargo precautorio quedará sin efectos si la autoridad no emite, dentro del plazo de 1 año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
-
-Si el particular garantiza el interés fiscal en los términos del artículo 139 de este código, se levantará el embargo.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 43, fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+Si el particular garantiza el interés fiscal en los términos del artículo 139 de este Código, se levantará el embargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 143-A.
+
+Las autoridades fiscales podrán decretar el aseguramiento de los bienes o la negociación del contribuyente cuando:
+
+I.- El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
+
+II.- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
+
+III.- El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que está obligado.
+
+El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 46-A y 48 de este Código, en el caso de las fracciones II, III y V, y de 18 meses en el de las fracciones I y IV, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+
+Los bienes o la negociación del contribuyente que sean asegurados conforme a lo dispuesto por este artículo podrán, desde el momento en que se notifique el aseguramiento y hasta que el mismo se levante, dejarse en posesión del contribuyente, siempre que para esos efectos se actúe como depositario de los mismos en los términos establecidos en el artículo 153 de este Código, con excepción de lo dispuesto en su segundo párrafo. En el caso de depósitos en entidades financieras o sociedades cooperativas de ahorro y préstamo u otros bienes, éstos también podrán dejarse en posesión del contribuyente, como parte de la negociación.
+
+El contribuyente que actúe como depositario designado en los términos del párrafo anterior, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
 
 ###### ARTICULO 144.
 
@@ -2597,7 +2661,7 @@ Los particulares podrán solicitar a la autoridad la declaratoria de prescripci�
 
 Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 142 de este Código, también se suspenderá el plazo de la prescripción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 144-A.
 
@@ -2659,7 +2723,7 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del registro público que corresponda, en todas ellas se inscribirá el embargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 147.
 
@@ -2667,9 +2731,13 @@ El ejecutor designado por el jefe de la oficina exactora se constituirá en el d
 
 Si la notificación del crédito fiscal adeudado o del requerimiento en su caso, se hizo por edictos, la diligencia se entenderá con alguna autoridad local o municipal distinta a la que notifica, de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 148.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme las disposiciones legales.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
 En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 159, 160 y 161 de este Código.
 
@@ -2683,11 +2751,19 @@ El depositario será designado por el ejecutor cuando no lo hubiere hecho el jef
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 150.
 
-La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
+La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I.- Dinero, metales preciosos y depósitos bancarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -2695,7 +2771,11 @@ II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créd
 
 III.- Bienes muebles no comprendidos en las fracciones anteriores.
 
-IV.- Bienes inmuebles.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IV.- Bienes inmuebles. En este caso, el deudor o la persona con quien se entienda la diligencia deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a una sociedad conyugal.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2715,6 +2795,50 @@ b).- Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
 
 c).- Bienes de fácil descomposición o deterioro o materias inflamables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realización o venta. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia, que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a una sociedad conyugal. Para estos efectos, el deudor o la persona con quien se entienda la diligencia, deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquél en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante, o bien su negativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 151
+
+BIS.- La inmovilización que proceda como consecuencia del embargo de depósitos o seguros a que se refiere el artículo 150, fracción I, del presente Código, así como la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales firmes, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones que se hayan realizado conforme a la ley de la materia, sólo se procederá hasta por el importe del crédito y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos. La autoridad fiscal que haya ordenado la inmovilización, girará oficio a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que esta última de inmediato la inmovilice y conserve los fondos depositados.
+
+Al recibir la notificación del oficio mencionado en el párrafo anterior por parte de la Secretaría de Finanzas, o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según corresponda, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá proceder a inmovilizar y conservar los fondos depositados, en cuyo caso la Secretaría de Finanzas notificará al contribuyente de dicha inmovilización por los medios conducentes.
+
+En caso de que en las cuentas de los depósitos o seguros a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá de inmediato a inmovilizar y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la Secretaría de Finanzas, dentro del plazo de dos días hábiles contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse al Fisco Estatal, una vez que el crédito fiscal relacionado quede firme y hasta por el importe necesario para cubrirlo.
+
+En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas embargadas, podrá ofrecer en sustitución del embargo de las cuentas, otra forma de garantía, de acuerdo con el artículo 139 de este Código. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida o el requerimiento de requisitos adicionales, dentro de un plazo máximo de diez días.
+
+La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de quince días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará el embargo de la cuenta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 151
+
+TER.- Una vez que el crédito fiscal quede firme, la autoridad fiscal procederá como sigue:
+
+I.- Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la Secretaría de Finanzas, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la Secretaría de Finanzas;
+
+II.- Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III del artículo 139 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, procediendo en los términos del párrafo anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo informe a la Secretaría de Finanzas haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder, en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente;
+
+III.- Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado, en alguna de las formas establecidas en las fracciones I y III del artículo 139 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía; y
+
+IV.- Si cuando el crédito fiscal quede firme, el interés fiscal no se encuentra garantizado la autoridad fiscal podrá proceder a la inmovilización de cuentas y la trasferencia de recursos en los términos de la fracción I de este artículo.
+
+En cualquiera de los casos indicados en este artículo, si al transferirse el importe al Fisco Estatal el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la Secretaría de Finanzas con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso en términos del artículo 23 de este Código. Si a juicio de la Secretaría de Finanzas las pruebas no son suficientes, se lo notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
+
 ###### ARTICULO 152.
 
 Quedan exceptuados de embargo:
@@ -2733,7 +2857,11 @@ VI.- El derecho de usufructo, pero no los frutos de éste.
 
 VII.- Los derechos de uso o de habitación.
 
-VIII.- El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VIII.- El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Instituto Registral y Catastral;
 
 IX.- Los sueldos y salarios.
 
@@ -2745,7 +2873,7 @@ XI.- Los Bienes Ejidales.
 
 XII.- Las armas, vehículos y caballos que los militares en servicio deban usar conforme a las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 153.
 
@@ -2753,7 +2881,7 @@ Si al designarse bienes para el embargo se opusiere un tercero fundándose en el
 
 Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales, o sujetos a cédula hipotecaria se practicará no obstante la diligencia. Dichos bienes se entregarán al depositario designado por la oficina ejecutora, o por el ejecutor y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -2769,7 +2897,11 @@ III. Para determinar la preferencia respecto de los créditos, en casos diversos
 
 Los créditos fiscales del Gobierno Estatal son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria y prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la Ley Federal del Trabajo.
 
-Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público que corresponda y, respecto de los adeudos por alimentos, que se haya presentado la demanda ante las autoridades competentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Instituto Registral y Catastral y, respecto de los adeudos por alimentos, que se haya presentado la demanda ante las autoridades competentes.
 
 La vigencia y exigibilidad del crédito fiscal cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo.
 
@@ -2779,21 +2911,25 @@ En ningún caso el fisco estatal entrará en los juicios universales. Cuando se 
 
 El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
-Si en el cumplimiento de lo dispuesto en el primer párrafo de este Artículo, se paga un crédito cuya cancelación deba anotarse en el registro público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que debe constar el finiquito.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Si en el cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Instituto Registral y Catastral, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que debe constar el finiquito.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, la autoridad ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del Registro Público que corresponda, para los efectos procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 155.
 
-El dinero, metales preciosos, alhajas, valores mobiliarios y demás bienes embargados, se entregarán por el depositario a la oficina ejecutora previo inventario, dentro de un plazo que no excederá de veinticuatro horas.
+El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas. Tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquél en que fue hecho el requerimiento para tal efecto.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
-
-Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal a recibirse en la caja de la oficina ejecutora.
+Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
 
 ###### ARTICULO 156.
 
@@ -2803,7 +2939,11 @@ Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el ac
 
 Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señaladas para la traba, o en las que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fueren necesarias, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriera los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la propia oficina.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriera los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la propia oficina, en los términos del Reglamento de este Código.
 
 Si no fuere factible romper o forzar las cerraduras de las cajas u otros objetos unidos a un inmueble o si fueren de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento mencionado en el párrafo anterior.
 
@@ -2817,15 +2957,21 @@ Cuando las autoridades fiscales embarguen negociaciones, el depositario designad
 
 En la intervención de negociaciones será aplicable, en lo conducente, las secciones de este Capítulo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 159.
 
-El interventor encargado de la caja después de separar las cantidades que corresponden por concepto de salario y demás créditos preferentes a que se refiere este Código, deberá retirar el 10% de los ingresos en dinero de la negociación intervenida y entregarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+El interventor con cargo a la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, así como los costos y gastos indispensables para la operación de la negociación, deberá retirar de la negociación intervenida el 10% de los ingresos percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco del Estado, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos o rembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables o, en su caso, procederá a solicitar ante la autoridad competente el inicio del concurso mercantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 160.
 
@@ -2841,15 +2987,31 @@ El interventor-administrador tendrá las siguientes obligaciones:
 
 I.- Rendir cuentas mensuales comprobadas a la oficina ejecutora.
 
-II.- Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la caja de la oficina ejecutora a medida que se efectúe la recaudación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El interventor - administrador no podrá enajenar los bienes del activo fijo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+II.- Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida, después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, y enterar su importe al fisco estatal en la medida que se efectúe la recaudación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+El interventor administrador no podrá enajenar los bienes del activo fijo; cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el artículo 166 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente Sección de este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el artículo 166 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este capítulo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 162.
 
-El nombramiento del interventor - administrador deberá anotarse en el registro público que corresponda al domicilio de la negociación intervenida.
+El nombramiento de interventor administrador deberá anotarse en la oficina del Instituto Registral y Catastral que corresponda al domicilio de la negociación intervenida.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2861,9 +3023,13 @@ Sin perjuicio de lo dispuesto por el artículo 160 de este Código, la Asamblea 
 
 En caso de que la negociación que se pretenda intervenir ya lo estuviera por mandato de otra autoridad, se nombrará no obstante el nuevo interventor, que también lo será para las otras intervenciones mientras subsista la efectuada por las autoridades fiscales. La designación o cambio de interventor se pondrá en conocimiento de las autoridades que ordenaron las anteriores o posteriores intervenciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 165.
 
-La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho al registro público que corresponda para que se cancele la inscripción respectiva.
+La intervención se levantará cuando el crédito fiscal se hubiera satisfecho, o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho a la oficina del Instituto Registral y Catastral que corresponda, para que se cancele la inscripción respectiva.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2891,7 +3057,7 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 169.
 
@@ -2909,17 +3075,25 @@ Cuando el embargado o terceros acreedores no interpongan el recurso dentro del p
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10 % al determinado conforme al primer párrafo de este artículo, la autoridad exactora designará dentro del término de seis días un perito tercero valuador que será cualquiera de los señalados en el reglamento de este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base para la enajenación de los bienes.
 
-Los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, veinte días si son inmuebles y treinta días cuando sean negociaciones. El avalúo que se fije será la base para la enajenación de los bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su aceptación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 170.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquella en que se haya determinado el precio que se sirva de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
+El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los treinta días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
 En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general de la zona económica que corresponda a la Capital del Estado, elevado al año, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, dos veces, con intervalo de siete días. La última publicación será cuando menos diez días antes del remate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 171.
 
@@ -2941,9 +3115,13 @@ En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente p
 
 Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
 
-La autoridad exactora pondrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La autoridad exactora podrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 175.
 
@@ -2958,6 +3136,12 @@ El escrito en que se haga la postura deberá tener:
 I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del registro federal de contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del registro federal de contribuyentes y el domicilio social.
 
 II.- La cantidad que se ofrezca y la forma de pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la Secretaría de Finanzas no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
 
 ###### ARTICULO 177.
 
@@ -2993,9 +3177,13 @@ Hecho el pago a que se refiere el párrafo anterior y designado en su caso el no
 
 El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 181.
 
-Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al registro público que corresponda, en un plazo que no excederá de quince días.
+Los bienes pasarán a ser propiedad del adquiriente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al Instituto Registral y Catastral que corresponda, en un plazo que no excederá de quince días.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -3003,9 +3191,25 @@ Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin
 
 Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un bien inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 182
+
+BIS.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abono a favor del fisco dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 191 de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 183.
 
-Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como todos aquellos que hubieren intervenido por parte del Fisco Estatal en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo.
+Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del Fisco Estatal en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
 
 ###### ARTICULO 184.
 
@@ -3019,7 +3223,7 @@ III.- En caso de posturas o pujas iguales.
 
 La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 185.
 
@@ -3139,7 +3343,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los seis días del mes de diciembre de mil novecientos noventa y uno.- El Gobernador Constitucional del Estado, ING. AMERICO VILLAREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 6 DE ENERO DE 1993
 
@@ -3228,3 +3432,19 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año 2013, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal, el 37 por ciento de los ingresos corresponderá a los Municipios.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
