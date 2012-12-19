@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2012-08-31"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -125,13 +125,15 @@ La fusión o disolución de las empresas de participación estatal mayoritaria s
 
 La dependencia coordinadora de sector, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 7.
 
-Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos o que en lo futuro se constituyan por el Gobierno del Estado, siendo éste fideicomitente único, a través de la Secretaría de Finanzas, Planeación y Administración para auxiliar al Gobernador en el ejercicio de las atribuciones del Ejecutivo a su cargo, siempre y cuando cuenten con una estructura orgánica análoga a la de otros organismos auxiliares y con Comité Técnico. Únicamente los fideicomisos que reúnan los requisitos anteriores serán considerados organismos auxiliares de la administración Pública del Estado y estarán sujetos a la normatividad administrativa correspondiente.
+Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos o que en lo futuro se constituyan por el Gobernador del Estado, siendo éste fideicomitente único, a través de la Secretaría de Finanzas, para auxiliar al Gobernador en el ejercicio de las atribuciones del Ejecutivo a su cargo, siempre y cuando cuente con una estructura orgánica análoga a la de otros organismos auxiliares y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo y estarán sujetos a la normatividad administrativa correspondiente.
 
-Los demás fideicomisos constituidos por el Estado, a través de sus dependencias o entidades, únicamente serán objeto de registro en la Secretaría de Finanzas, Planeación y Administración y sujetarán su operación, control y régimen financiero exclusivamente a las disposiciones que se estipulen en el decreto por el cual la Legislatura del Estado autorice su Constitución en los contratos aplicables.
+Los demás fideicomisos constituidos por el Ejecutivo del Estado en los que a través de sus dependencias o entidades sea parte, serán objeto de autorización y registro ante la Secretaría de Finanzas, y sujetarán su operación, control y régimen financiero a las disposiciones que se estipulen en el decreto por el cual fueron creados, en los contratos aplicables y a las disposiciones legales que al efecto emita la propia Secretaría de Finanzas.
 
 ###### Artículo 8.
 
@@ -179,11 +181,13 @@ Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Pode
 
 Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 14.
 
-La Secretaría de Finanzas, Planeación tendrá, respecto de los organismos auxiliares y fideicomisos las siguientes atribuciones:
+La Secretaría de Finanzas tendrá, respecto de los organismos auxiliares las siguientes atribuciones:
 
 I. Fijar los lineamientos y políticas, así como aprobar las condiciones generales de los financiamientos.
 
@@ -217,9 +221,11 @@ X. Vigilar que los acuerdos de coordinación que se realicen con dependencias fe
 
 XI. Establecer normas para el control de su gasto público y programas de inversión, así como vigilar su cumplimiento;
 
-> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, Planeación y Administración para efectos de consolidación de estados financieros y preparación de la cuenta pública;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XII. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, para efectos de consolidación de estados financieros y preparación de la cuenta pública;
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
@@ -233,55 +239,67 @@ XIV. Autorizar los catálogos de cuentas para el registro de sus operaciones;
 
 XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas en el marco de su competencia; y
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+XVI. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico-funcionales y vigilar su cumplimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XVII. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la ley de la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XIX. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XX. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 14-A.
 
-La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios las siguientes atribuciones:
+(DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
 
-I. Requerir al fiduciario del fideicomiso la información financiera de acuerdo a los lineamientos y formas de presentación que establezca la propia Secretaría de Finanzas para efectos de consolidación de estados financieros y su presentación conforme a las disposiciones legales aplicables; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Requerir la información estadística necesaria para sus funciones de planeación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
-La Secretaría de Finanzas, Planeación y Administración tendrá también respecto de los organismos auxiliares las siguientes atribuciones:
+La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+I. Requerir al fiduciario del fideicomiso la información financiera de acuerdo a los lineamientos y formas de presentación que establezca la propia Secretaría de Finanzas para efectos de consolidación de estados financieros y su presentación conforme a las disposiciones legales aplicables;
 
-I. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico - funcionales y vigilar su cumplimiento;
+II. Requerir la información estadística necesaria para sus funciones de planeación;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+III. Expedir políticas y lineamientos que permitan la revisión de sus sistemas, métodos y procedimientos de trabajo, incluyendo el cumplimiento de los objetivos para los cuales se hayan creado;
 
-II. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y, equipo en los términos de la ley de la materia;
+IV. Emitir los lineamientos bajo los cuales los fideicomisos podrán destinar recursos a inversión pública;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+V. Emitir los lineamientos mediante los cuales podrán invertirse los recursos líquidos en poder del fiduciario hasta en tanto son utilizados para la realización de sus fines; y
 
-III. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
+VI. Proponer al Titular del Ejecutivo Estatal la modificación o extinción de los mismos cuando así convenga al interés público.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
-
-IV. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos;
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
-
-V. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos; y
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
-
-VI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
-
-> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 15-A.
 
-La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios la atribución para expedir políticas y lineamientos que permitan la revisión de sus sistemas, métodos y procedimientos de trabajo, incluyendo el cumplimiento de los objetivos para los cuales se hayan creado.
+(DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -640,3 +658,25 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2013.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2010 a diciembre de 2011.
+
+CUARTO.- Para efecto de determinar el Impuesto sobre Tenencia o Uso de Vehículos correspondiente al ejercicio fiscal 2012, tratándose de la actualización prevista en el último párrafo del artículo 60 H, aplicable a aeronaves de más de diez años de antigüedad a dicho ejercicio, se deberá aplicar el procedimiento a que refiere el segundo párrafo del artículo 60 C.
+
+Aquellos contribuyentes que por la tenencia o uso de vehículos, les aplique lo previsto en el párrafo anterior, gozarán de un subsidio del 100% en la actualización, los recargos y multas que se hubieren causado, siempre y cuando realicen el pago de la contribución en los 3 primeros meses del ejercicio 2013.
+
+Los contribuyentes que hubieren pagado su tenencia conforme al procedimiento vigente en el ejercicio fiscal 2012, por una cantidad mayor al que le resulte de aplicar lo previsto en el primer párrafo de este artículo, podrán compensar la diferencia contra el Impuesto a su cargo por el ejercicio fiscal 2013 y siguientes, hasta agotarlo.
+
+QUINTO.- Se autoriza al Ejecutivo Estatal y a los ayuntamientos a suscribir convenios a efecto de que los ingresos de los municipios por concepto de participaciones mensuales sean una cantidad fija convenida tal que la suma de las asignaciones mensuales acordadas sean congruentes con las participaciones que les correspondan en términos del Capítulo Segundo del Título Séptimo del Código Financiero del Estado de México y Municipios, conforme a las reglas de carácter general que al efecto emita la Secretaría de Finanzas.
+
+SEXTO.- Las dependencias y entidades públicas del Gobierno del Estado dispondrán de un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente decreto, para remitir a la Secretaría de Finanzas la información y documentación con la que cuenten respecto de los fideicomisos que hayan constituido.
+
+SÉPTIMO.- Para efectos de la reforma al artículo 216-F del Código Financiero del Estado de México y Municipios, el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, realizará las gestiones necesarias a fin de finiquitar la cuenta del fideicomiso que se aperturó para la administración de los recursos a que hace referencia el citado artículo, así como la transferencia de los mismos a la cuenta que determine la Secretaría de Finanzas, en un plazo máximo de seis meses.
+
+OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del Estado de México, realicen una revisión minuciosa de los esquemas de cobro de los Derechos por Uso de Vías y Áreas Públicas, para el ejercicio de actividades comerciales o de servicios, así como del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos permitidos con cruce de apuestas y, en su caso, se hagan las propuestas conducentes, a fin de coadyuvar con los Municipios de la Entidad, en eficientar la recaudación de los ingresos propios.
