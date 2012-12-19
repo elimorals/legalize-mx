@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-precampanas-para-el-estado-de-zacatecas-73295"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2009-12-05"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre de 2009.
 
@@ -438,3 +440,11 @@ III. En lo referente a propaganda de precampañas, deberán observar en lo condu
 Primero.- Este Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se abroga el Reglamento de Precampañas, aprobado por el Consejo General en fecha cinco (5) de octubre del año dos mil seis (2006).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+Primero.- Este Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento de Precampañas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el dos de diciembre del dos mil nueve, mediante Acuerdo ACG-IEEZ-058/IV/2009.
