@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-construccion-del-municipio-de-cuernavaca-17724"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-03"
-last_updated: "2011-08-31"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de noviembre de 1999.
 
@@ -299,6 +299,8 @@ Cualquier obra que invada la vía pública sin el Permiso correspondiente deber�
 
 RESTRICCIONES A LAS CONSTRUCCIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
 DE LAS RAMPAS EN ACERAS. Los cortes en las aceras y en las guarniciones para la entrada de vehículos a los predios, requerirá de Licencia previa que otorgue la Secretaría y no deberá entorpecer ni hacer molesto el tránsito de los peatones, la Secretaría podrá prohibirlos y ordenar la especificación correspondiente al empleo de rampas móviles, éstas deberán reunir las siguientes condiciones:
@@ -309,7 +311,9 @@ II.- La vía pública (acera) siempre deberá respetarse con el Plano Original s
 
 III.- La Secretaría podrá requerir la demolición de rampas vehiculares que pongan en peligro el libre y seguro tránsito de personas sobre la vía pública (acera); y
 
-IV.- Las obras públicas o privadas, deberán contemplar en sus Proyectos Viales la construcción de rampas para discapacitados con un ancho mínimo de 1.00 metro y un desnivel máximo del 10%.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IV.- Las obras públicas o privadas, deberán contemplar en sus Proyectos Viales la construcción de rampas para personas con discapacidad y deberán sujetarse a lo que establece el artículo 102 del presente Reglamento.
 
 En todos los casos se deberá de respetar los 90º en relación con el Paramento Oficial.
 
@@ -789,19 +793,19 @@ DE LA NECESIDAD DE LICENCIA DE CONSTRUCCIÓN. Para ejecutar obras e instalacione
 
 Sin excepción, solo se concederán Licencias a los propietarios o poseedores de los inmuebles, cuando cumplan con cada uno de los requisitos señalados en las disposiciones relativas en este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 58.
 
-DE LOS REQUISITOS PARA LICENCIA DE CONSTRUCCIÓN. La solicitud de Licencia de Construcción, deberá ser suscrita por el propietario o poseedor, la que en su caso deberá contener la responsiva de un Director Responsable de Obra y en su caso por el corresponsable, será presentada por duplicado en las formas que expida la Secretaría y acompañada de la siguiente documentación:
+DE LOS REQUISITOS PARA LICENCIA DE CONSTRUCCIÓN. La solicitud de Licencia de Construcción, deberá ser suscrita por el propietario o poseedor, la que en su caso deberá contener la responsiva de un Director Responsable de Obra y en su caso por el Corresponsable, será presentada por duplicado en las formas que expida la Secretaría y acompañada de la siguiente documentación:
 
 I.- Cuando se trate de obra nueva:
 
 a).- Constancia de Alineamiento y Número Oficial actualizado;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-b).- Tres tantos del proyecto de la obra en planos a escala debidamente acotados y especificados, con información suficiente para que el proyecto sea plenamente entendible y en archivo electrónico, en los que se deberán incluir: croquis de localización del predio con distancias aproximadas a calles cercanas, indicando el norte, plantas arquitectónicas que contengan la instalación sanitaria con el detalle de la fosa séptica bioenzimática o sistema de tratamiento, especificando el doble ramal sanitario para la conducción de aguas negras y grises, así como los datos de la instalación hidráulica, corte sanitario, fachadas, localización de la construcción dentro del predio, cortes de rampas para vehículos, planta de conjunto, planos estructurales, firmados por el propietario y el director responsable o en su caso por el corresponsable; En caso de que la obra que comprenda la construcción de varios locales para fines comerciales dentro de un mismo proyecto y que tuvieran acceso y visión directa a la vía pública, se anexará el plano donde se señale el diseño, la forma y generalidades de los anuncios, en términos de lo dispuesto por el Reglamento de Anuncios del Municipio de Cuernavaca, Morelos, quedando éstos autorizados en términos de la licencia de construcción, sin requerir trámite para su colocación;
+b).- Tres tantos del proyecto de la obra en planos a escala debidamente acotados y especificados, con información suficiente para que el proyecto sea plenamente entendible y en archivo electrónico, en los que se deberán incluir: croquis de localización del predio con distancias aproximadas a calles cercanas, indicando el norte, plantas arquitectónicas que contengan la instalación sanitaria con el detalle de la fosa séptica bioenzimática o sistema de tratamiento, especificando el doble ramal sanitario para la conducción de aguas negras y grises, así como los datos de la instalación hidráulica, corte sanitario, fachadas, localización de la construcción dentro del predio, cortes de rampas para vehículos, planta de conjunto, planos estructurales, firmados por el propietario y el director responsable o en su caso por el corresponsable; El proyecto de la obra para la construcción de establecimientos abiertos al público deben prever rampas de libre acceso a personas con discapacidad.
 
 c).- Resumen del criterio y sistema adoptados para el Cálculo Estructural firmado por el Director Responsable de Obra y Corresponsables en su caso, incluyendo Proyecto de Protección a Colindancias y Estudio de Mecánica de Suelos cuando proceda, de acuerdo con lo establecido en este Reglamento y en las Normas Técnicas Complementarias.
 
@@ -2435,11 +2439,47 @@ i).- Las escaleras de caracol se permitirán solamente para comunicar locales de
 
 j).- Las escaleras compensadas deberán tener una huella mínima de 0.25 metros medida a 0.40 metros del barandal del lado interior y un ancho máximo de 1.50 metros. Estarán prohibidas en edificaciones de más de 4 niveles.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 102.
 
-RAMPAS. Las rampas peatonales que se proyecten en cualquier edificación deberán tener una pendiente máxima de 10% con pavimento antiderrapante, barandal en uno de sus lados por lo menos y con las anchuras mínimas que se establecen para las escaleras del Artículo anterior.
+DE LAS RAMPAS PARA PERSONAS CON DISCAPACIDAD-. Las rampas de acceso a personas con discapacidad que se proyecten en cualquier edificación deben sujetarse a los siguientes lineamientos:
 
-Deberán preverse rampas para discapacitados considerando el 10% de desnivel como máximo en las edificaciones de concurrencia pública.
+a. Al comenzar y finalizar una rampa debe existir un área de aproximación con una longitud mínima de 1,20 m por el ancho de la rampa.
+
+b. Al comenzar y finalizar cada tramo de rampa la superficie del piso debe tener elementos de aviso táctil de una longitud de 0,60 m por el ancho de la rampa.
+
+c. El ancho libre de una rampa debe ser de mínimo 0,90 m.
+
+d. La pendiente longitudinal máxima de las rampas es:
+
+Longitud Pendiente máxima
+
+6,00 m a 10.00 6%
+
+3,00 a6,00 (sic) m 8%
+
+0,01 a3,00 (sic) m 10%
+
+e. Los descansos se colocarán entre tramos de rampa.
+
+f. Cuando el descanso sea entre tramos de rampa con giro de 90º máximo, la longitud será mínimo de 1.20 m por el ancho de la rampa.
+
+g. Cuando en descansos existe la posibilidad de un giro mayor a 90º la longitud será mínimo de 1,20 m por 1,20 m de ancho.
+
+h. El piso tendrá una superficie uniforme, inamovible, con un acabado texturizado.
+
+i. No debe tener desniveles o bordes constructivos superiores a 0,01 m de altura.
+
+j. Se deben colocar pasamanos continuos a ambos lados de la rampa.
+
+k. La altura de colocación debe ser entre 0,80 m y 0,90 m medidos a partir del acabado de la rampa hasta el plano superior del pasamano.
+
+l. El pasamano debe tener una prolongación horizontal de longitud mínima de 0,30 m, a la altura de colocación de entre 0,80 m y 0,90 m del nivel del piso, antes de comenzar y después de finalizar la rampa.
+
+m. Al finalizar la prolongación horizontal el pasamano debe tener un remate: curvar el tubo hacia la pared o el piso.
+
+n. El pasamano debe ser continuo cuando el descanso entre dos tramos sea menor a 1,20 m de longitud.
 
 ###### Artículo 103.
 
@@ -4532,3 +4572,11 @@ PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en la Gaceta Municipal.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
+
+TERCERO.- Publíquese en la Gaceta Municipal.
