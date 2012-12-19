@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2012-07-04"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL DEL ESTADO
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -965,13 +967,21 @@ VII.- Contra las resoluciones administrativas del recurso de revisión previsto 
 
 La tramitación del juicio de nulidad se sujetará a las normas siguientes:
 
-I.- Se interpondrá ante el Tribunal Fiscal del Estado, por escrito en el que se expresarán: El nombre del recurrente, domicilio para ser notificado en el Estado, el acto impugnado, la expresión de los agravios que se estimen causados y el ofrecimiento de las pruebas que se pretenda rendir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Se interpondrá ante el Tribunal Fiscal del Estado, por escrito en el que se expresarán: nombre del recurrente, nombre de la autoridad demandada, domicilio para ser notificado en el Estado, el acto impugnado, la expresión de los agravios que se estimen causados y el ofrecimiento de las pruebas que se pretenda rendir;
 
 II.- Se interpondrá dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado. Si el recurrente tiene su domicilio en población distinta del lugar de residencia del Tribunal Fiscal del Estado, podrá enviar en su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo la del día en que se haga la entrega en la oficina de correos o a la autoridad que efectuó la notificación.
 
 III.- Recibida la instancia el Tribunal Fiscal del Estado, recabará de oficio constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación.
 
-En el auto que recaiga a la presentación del escrito inicial del recurso, el Tribunal Fiscal del Estado, señalará, fecha para la celebración de una audiencia de pruebas y alegatos, que deberá tener lugar antes de 30 días.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En el auto que recaiga a la presentación del escrito inicial del juicio, el Tribunal Fiscal del Estado señalará fecha para la celebración de una audiencia de pruebas y alegatos, que deberá tener lugar antes de 30 días.
 
 ###### ARTICULO 197o.
 
@@ -1037,7 +1047,17 @@ Las sentencias que dicte el Tribunal Fiscal establecerán jurisprudencia cuando 
 
 La resolución del Tribunal que modifique la jurisprudencia se publicará igualmente en el Periódico Oficial del Estado.
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 205.
+
+En los juicios que se tramiten ante el Tribunal Fiscal del Estado no habrá lugar a condenación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes. Si los que correspondan sufragar al particular, sea actor, demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Secretaría de Finanzas del Gobierno del Estado y ésta exigirá el rembolso mediante el procedimiento administrativo de ejecución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 205o.
 
@@ -1051,7 +1071,35 @@ En los juicios que se tramiten ante el Tribunal Fiscal del Estado, no habrá lug
 
 Toda promoción deberá contener la firma autógrafa por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el derecho común.
 
-Ante el Tribunal Fiscal no procederá la gestión de negocios. Quien promueva a nombre de otro deberá acreditar que la representación fue otorgada, a más tardar, en la fecha de presentación de la demanda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La gestión de negocios no procederá en el procedimiento contencioso administrativo. Quien promueva a nombre de otro deberá acreditar que la representación fue otorgada, a más tardar, en la fecha de presentación de la demanda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante y testigos ante notario público o ante el secretario general de acuerdos del Tribunal Fiscal del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La representación de los menores de edad será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces de la sucesión y del ausente, la representación se acreditará con la resolución judicial respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los particulares y sus representantes, podrán autorizar por escrito a un Licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cedula profesional o que la misma este registrada ante el Tribunal Fiscal del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La persona así autorizada podrá presentar promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
 
 ###### ARTICULO 207o.
 
@@ -1093,9 +1141,13 @@ La Tesorería Municipal estará representada por la persona que tenga facultades
 
 Podrá apersonarse en juicio como coadyuvante de la Tesorería General del Estado, quien tenga interés directo en la anulación, de la decisión administrativa favorable a un particular.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 211.
 
-En los juicios que se tramiten ante el Tribunal Fiscal, no se dará entrada a ningún incidente de previo y especial pronunciamiento, con excepción de los relativos a la acumulación de autos y a la nulidad de actuaciones.
+En los juicios que se tramiten ante el Tribunal Fiscal del Estado, no se dará entrada a ningún incidente de previo y especial pronunciamiento, con excepción de los de acumulación de autos, de nulidad de actuaciones y de falta de personalidad.
 
 Todas las cuestiones diversas que las partes susciten, se reservarán para la audiencia.
 
@@ -1131,31 +1183,41 @@ VII.- Estar en una situación que pueda afectar su imparcialidad en forma análo
 
 El Magistrado del Tribunal Fiscal del Estado tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 215.
 
-Manifestada por el Magistrado del Tribunal Fiscal del Estado la causa del impedimento, la resolución en que se declare impedido será irrevocable, y en su lugar conocerá del negocio el Primer Secretario del Tribunal en funciones de Magistrado, de conformidad con lo establecido por la Ley Orgánica del Tribunal Fiscal del Estado.
+Manifestada por el Magistrado del Tribunal Fiscal del Estado la causa del impedimento, la resolución en que se declare impedido será irrevocable, y en su lugar conocerá del negocio el Primer Secretario del Tribunal, en funciones de Magistrado.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 216.
 
-Las partes podrán recusar al Magistrado del Tribunal Fiscal del Estado, cuando esté en alguno de los casos señalados en el artículo 215 o cuando habiendo sido excitado para pronunciar sentencia no se formule ésta dentro del plazo de quince días contados a partir de la fecha en que se haya hecho la excitativa.
+Las partes podrán recusar al Magistrado del Tribunal Fiscal del Estado, cuando esté en alguno de los casos señalados en el artículo 213 de este Código; o cuando habiendo sido excitado para pronunciar sentencia, no se formule ésta dentro del plazo de quince días contados a partir de la fecha en que se haya hecho la excitativa.
 
 ###### ARTICULO 217.
 
 Puede interponerse la recusación por causa de impedimento, en cualquier estado del juicio hasta el momento de empezar la audiencia final.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Interpuesta la recusación, inmediatamente se suspenderá el procedimiento hasta que sea resuelta, para que se prosiga el negocio ante quien deba conocer de él, y el Magistrado del Tribunal Fiscal del Estado turnará el expediente al Primer Secretario del Tribunal, para que en funciones de Magistrado, en los términos de la Ley Orgánica del Tribunal Fiscal del Estado, conozca de la recusación. Para ese sólo efecto, este funcionario será irrecusable.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Interpuesta la recusación, inmediatamente se suspenderá el procedimiento hasta que sea resuelta, para que se prosiga el negocio ante quien deba conocerlo, y el Magistrado del Tribunal Fiscal del Estado turnará el expediente al Primer Secretario del Tribunal, para que en funciones de Magistrado conozca de la recusación. Para ese sólo efecto, este funcionario será irrecusable.
 
 El Primer Secretario del Tribunal, citará a una audiencia que se celebrará dentro de los tres días siguientes al en que recibiere los autos para conocer la recusación, en donde recibirá las pruebas que se ofrezcan y el informe que deba rendir el Magistrado recusado. La falta de dicho informe establece la presunción de ser cierta la causa de recusación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 218.
 
-Se (sic) se declara fundada la recusación, de inmediato seguirá conociendo el negocio el Primer Secretario del Tribunal en sustitución del recusado, de conformidad con lo establecido por la Ley Orgánica del Tribunal Fiscal del Estado.
+Si se declara fundada la recusación, de inmediato seguirá conociendo el negocio el Primer Secretario del Tribunal, en sustitución del recusado.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
 
@@ -1205,15 +1267,19 @@ IX.- En los demás casos en que la improcedencia resulte de alguna disposición 
 
 Procede el sobreseimiento del Juicio:
 
-I.- Cuando el demandante desista del juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Cuando el demandante desista del juicio o deje de actuar 180 días, caso en el que se le tendrá por desistido conforme a éste Código;
 
 II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-III.-En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o, si su muerte, deja sin materia el proceso; y
+III.- En el caso de que el demandante muera durante el juicio, si su pretensión es intrasmisible o, su muerte, deja sin materia el proceso; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1221,11 +1287,11 @@ III.-En el caso de que el demandante muera durante el juicio, si su pretensión 
 
 IV.- En los demás casos en que por disposición legal haya impedimento para emitir resoluciones en cuanto al fondo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-El sobreseimiento del juicio podrá ser total o parcial.
+El sobreseimiento del juicio podrá ser total o parcial, además se podrá decretar en cualquiera de los casos antes señalados, de oficio o a petición de parte.
 
 ### CAPITULO IV. DE LA DEMANDA
 
@@ -1239,7 +1305,11 @@ II.- Cuando se pida la nulidad de una resolución favorable a un particular, la 
 
 III.- Cuando la resolución administrativa dé nacimiento al cobro de una pensión, haber de retiro, jubilación, compensación o cualquier otra prestación civil por cantidad menor a la que se pretende, el plazo de la presentación de la demanda vencerá quince días después de la fecha en que se realice el primer cobro. Cuando la pensión esté formada por dos o más cuotas, el plazo para presentar la demanda correrá a partir de la fecha de la primera prescripción de la cuota cobrada en el último término. Si la resolución impugnada concedió la compensación y el interesado considera tener derecho a pensión, se estará a la regla general y será condición indispensable para tramitar la demanda que se otorgue fianza por una cantidad igual al importe de la compensación, si esta ya fue cobrada para garantizar la devolución de ésta en caso de que prospere la demanda.
 
-IV.- En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo debiendo presentarla dentro de los siguientes quince días a los noventa transcurridos desde que formuló su instancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IV.- En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo debiendo presentarla dentro de los siguientes quince días a los tres meses transcurridos desde que formuló su instancia; y
 
 V.- Cuando la Ley señale otro plazo.
 
@@ -1279,9 +1349,13 @@ El actor deberá acompañar con su instancia los documentos justificados de su p
 
 Igualmente deberá presentar el documento en que conste la resolución o acto impugnado, o señalar el archivo o el lugar en que se encuentren. Si se demanda la nulidad de una negativa ficta, deberá exhibirse copia de la instancia no resuelta por la autoridad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 227.
 
-Si la demanda fuere oscura, irregular o no llena los requisitos del artículo 225, el Magistrado deberá prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, dentro del término de cinco días. Si dentro de este término no se subsanan los defectos, la demanda será desechada.
+Si la demanda fuere oscura, irregular o no llena los requisitos del artículo 224, el Magistrado deberá prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, dentro del término de cinco días. Si dentro de este término no se subsanan los defectos, la demanda será desechada.
 
 ###### ARTICULO 228.
 
@@ -1291,7 +1365,11 @@ Se notificará a las autoridades demandadas la resolución por la que se desecha
 
 Al recibir las demandas, el Magistrado tendrá las siguientes facultades y obligaciones:
 
-I.- Dar entrada a las demandas, prevenir al actor que las aclare corrija o complete cuando proceda, o desecharlas si no se ajustan a la Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Dar entrada a las demandas, prevenir al actor que las aclare, corrija o complete cuando proceda, o desecharlas si no se ajustan al presente Código;
 
 II.- Admitir o desechar pruebas y dictar las providencias para su desahogo.
 
@@ -1321,7 +1399,11 @@ X.- Los demás que corresponden conforme a las disposiciones de este Código.
 
 En el mismo escrito de la contestación, del que se presentará una copia para cada una de las partes, el demandando ofrecerá las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicará los nombres y domicilios de los peritos y testigos y acompañará los interrogatorios correspondientes.
 
-Igualmente enviará los interrogatorios de repreguntas a que haya lugar y hará las designaciones que correspondan con relación a las pruebas ofrecidas por el actor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Igualmente, enviará los interrogatorios de preguntas a que haya lugar y hará las designaciones que correspondan con relación a las pruebas ofrecidas por el actor.
 
 ###### ARTICULO 231.
 
@@ -1347,6 +1429,12 @@ IV.- Los fundamentos de derecho que considere aplicables para apoyar la validez 
 
 V.- Las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicará los nombres y domicilio de los peritos o testigos y acompañará los interrogatorios para el desahogo de la primera.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VI.- El nombre y domicilio del tercero interesado, cuando lo haya.
+
 Se presentará copia, para cada una de las partes del escrito de la contestación y su omisión dará lugar a que el Magistrado requiera al demandado para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndolo de que tendrá por no contestado en caso de incumplimiento.
 
 ###### ARTICULO 234.
@@ -1367,11 +1455,31 @@ En la contestación de la demanda no podrán cambiarse los fundamentos de derech
 
 En caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 235
+
+Bis.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del juicio de nulidad, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en algunas de las formas señaladas por las disposiciones de este mismo.
+
+La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando la copia del escrito en el que se hubiere iniciado el juicio de que se trate.
+
+La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituida ésta, la oficina ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el juicio respectivo.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados ocurrirán ante el Tribunal Fiscal que conozca del juicio respectivo. El Tribunal Fiscal pedirá a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
+
 ### CAPITULO VI. DE LOS INCIDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 236.
 
-En los juicios que se tramiten ante el Tribunal Fiscal, sólo se admitirán como incidentes de previo y especial pronunciamiento los relativos a la acumulación de autos y la nulidad de actuaciones.
+En los juicios que se tramiten ante el Tribunal Fiscal del Estado, sólo se admitirán como incidentes de previo y especial pronunciamiento, los relativos a la acumulación de autos, la nulidad de actuaciones y la falta de personalidad.
 
 ###### ARTICULO 237.
 
@@ -1403,9 +1511,13 @@ La Tesorería General del Estado o la Tesorería Municipal podrán promover el m
 
 Las cuestiones incidentales se tramitarán por cuerda separada. El Tribunal, al correr el traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada citará a las partes a una audiencia en la que después de recibir sus pruebas, oírlas en alegatos, dictará la resolución interlocutoria que corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 243.
 
-Si la autoridad no comparece a la audiencia contestando el traslado o no se refiere a todos los hechos de la demanda, se presumirán ciertos salvo prueba en contrario los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de $10.00 a $1,000.00.
+Si la autoridad no comparece a la audiencia contestando el traslado o no se refiere a todos los hechos de la demanda, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de 1 a 17 salarios mínimos de la Comisión.
 
 ### CAPITULO VII. DE LAS PRUEBAS
 
@@ -1654,3 +1766,19 @@ P.O. 4 DE JULIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2012
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año 2013, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal, el 37 por ciento de los ingresos corresponderá a los Municipios.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
