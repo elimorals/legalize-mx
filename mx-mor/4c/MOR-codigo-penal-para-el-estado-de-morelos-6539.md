@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2012-12-14"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -677,9 +677,9 @@ Las sanciones para imputables e inimputables surtirán sus efectos desde el mome
 
 ###### ARTICULO 29.
 
-La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal.
+La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal. Su duración será de tres meses a ochenta años.
 
-Su duración será de tres meses a ochenta años. Sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión.
+Sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
 
@@ -869,7 +869,7 @@ Cuando se deba devolver un bien o entregar el producto de su venta, la autoridad
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 46 BIS.- Las disposiciones contenidas en este capítulo, solamente serán aplicables en el caso de que no contravengan disposiciones o leyes especiales en materia federal.
+ARTÍCULO 46 BIS.- Las disposiciones contenidas en este capítulo, solamente serán aplicables en el caso de que no contravengan disposiciones o leyes especiales en materia federal.
 
 ### CAPITULO XI. AMONESTACION
 
@@ -2753,7 +2753,7 @@ II. Sustituya a un menor por otro o lo oculte para ocasionarle perjuicio en sus 
 
 ### CAPITULO I. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTO FALSO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 207.
 
@@ -2871,7 +2871,7 @@ III. Hasta en una mitad cuando se hiciere uso de la violencia física o moral, o
 
 Si en la comisión de los delitos previstos en el Capítulo I del presente Título el sujeto se vale de la función pública, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro o se le suspenderá por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 2008)</small>
 
 ### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
@@ -2931,7 +2931,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ###### ARTICULO 214.
 
-Se impondrá de cuatro a ocho años y de doscientos a trescientos sesenta días multa, a quien para obtener un beneficio o causar daño:
+Se impondrá de cuatro a ocho años de prisión y de doscientos a trescientos sesenta días multa, a quien para obtener un beneficio o causar daño:
 
 I. Falsifique o altere un documento, o ponga en circulación un documento falso. Para este efecto, así como para el previsto en la fracción II, se tomarán en cuenta tanto la falsificación o alteración total o parcial del documento, como el empleo de una copia, transcripción o testimonio alterados del mismo;
 
@@ -4523,6 +4523,12 @@ P.O. 14 DE DICIEMBRE DE 2012.
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+SEGUNDA.-.Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERA.- La Procuraduría General de Justicia del Estado, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la especialización y funcionamiento de Agencias del Ministerio Público especializados en materia de narcomenudeo que sean competencia del fuero común acorde a lo establecido en el Capítulo VII de la Ley General de Salud, y de conformidad al presupuesto asignado.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+PRIMERA.- Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación.
