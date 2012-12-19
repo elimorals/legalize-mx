@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-educacion-33421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-07"
-last_updated: "2003-06-07"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 7 de junio de 2003.
 
@@ -415,7 +417,7 @@ III. Departamento de Diseño.
 
 Las Unidades Administrativas de la Secretaría estarán integradas por Subsecretarías, Coordinaciones Generales, Direcciones y Coordinaciones; mismas que tendrán un Titular quien para el cumplimiento de sus atribuciones se auxiliará de Jefes de Departamento y demás servidores públicos que se señalen en los Manuales de Organización respectivos, en las disposiciones jurídicas aplicables; así como también por las que las necesidades del servicio requieran y que figuren en el presupuesto autorizado; estos servidores públicos para todos los efectos legales a que haya lugar serán considerados de confianza.
 
-###### ARTICULO 15.
+###### ARTÍCULO 15.
 
 Las Unidades Administrativas integrantes de la Secretaría de Educación, ejercerán sus funciones y conducirán sus actividades conforme a las políticas y programas que establezca el Ejecutivo del Estado, por conducto del titular de la Secretaría.
 
@@ -1780,3 +1782,27 @@ SECRETARIO DE GOBIERNO
 DR. WALTER RAMÍREZ ZQUIERDO (SIC)
 
 SECRETARIO DE EDUCACIÓN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación, publicado en el Periódico Oficial del Estado número 6339 Suplemento "D" del 7 de junio de 2003; y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Las atribuciones y funciones correspondientes a Jefe de Sector, Supervisor, Director de Plantel, Docentes y personal de apoyo a la Educación, se normarán y regirán por lo establecido en los manuales de operación correspondientes a cada nivel educativo.
+
+###### ARTÍCULO CUARTO.
+
+Los actos emitidos con anterioridad al presente Reglamento, por las Autoridades, Funcionarios y Servidores Públicos en gestión dentro de las diversas Unidades Administrativas de la Secretaria, tendrán validez para todos los efectos legales sin generar efecto retroactivo alguno.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expiden los manuales respectivos, el Titular de la Secretaría queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del orden administrativo.
