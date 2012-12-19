@@ -4,7 +4,7 @@ identifier: "MOR-estatutos-del-partido-socialdemocrata-del-estado-de-morelos-831
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-09-28"
-last_updated: "2012-05-09"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # ESTATUTOS DEL PARTIDO SOCIALDEMOCRATA, DEL ESTADO DE MORELOS
 
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DE MORELOS, MODIFICAN DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DE LOS ESTATUTOS DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA MODIFICACIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012.</small>
+
 ESTATUTOS DEL PARTIDO SOCIAL DEMÓCRATA DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Estatutos publicados en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 28 de septiembre de 2011.
 
@@ -32,55 +34,73 @@ PARTIDO SOCIALDEMOCRATA
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-El Partido Socialdemócrata es una organización ciudadana, constituida y registrada como Partido Político Estatal, conforme a los principios y las disposiciones constitucionales y legales en la materia.
+El Partido Socialdemócrata de Morelos es una organización ciudadana, constituida y registrada como Partido Político Estatal, conforme a los principios y las disposiciones constitucionales y legales en la materia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 2.
 
 El Partido asume la identidad política e ideológica de la socialdemocracia.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 3.
 
-Su denominación es “Partido Socialdemócrata”. El lema es ¡Que nadie quede fuera!.
+Su denominación es "Partido Socialdemócrata de Morelos" El lema es ¡Por un Morelos Incluyente!
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 4.
 
-El logotipo está compuesto por un cuadro lineal color negro, puntas redondas. El isotipo son dos manos entrelazadas, que forman un corazón; De la primera sólo puede apreciarse el dedo pulgar y cierta parte de la palma, tiene un relleno color rojo (485). La segunda muestra los dedos de frente, está trazada en color rojo (485) con color blanco de fondo, tiene escrita en el interior con forma vertical ascendente la palabra MORELOS en color negro con tipografía Segoe Script. En la parte inferior centrado están las siglas PSD en color negro.
+El logotipo está compuesto por un cuadrado lineal color negro, puntas redondas. El isotipo son dos manos entrelazadas, que forman un corazón; de la primera sólo puede apreciarse el dedo pulgar y cierta parte de la palma, tiene un relleno color rojo (485) con un color blanco de fondo, tiene escrita en el interior con forma vertical ascendente la palabra MORELOS en color negro con tipografía Segoe Script. En la parte inferior centrado están las siglas PSD en color negro.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
 La acción del partido se inscribe en el marco de la democracia representativa y participativa, y por ello hace propios y promueve los valores de la pluralidad, la transparencia, el respeto a la legalidad democrática y la rendición de cuentas, como condiciones indispensables para dignificar la política y dotarla de sustento y compromisos éticos, a través de un ejercicio permanente de construcción de ciudadanía, diálogo y formación de acuerdos, en beneficio de la sociedad.
 
-El Partido Socialdemócrata reivindica el respeto a las libertades individuales y a la diversidad, como principios rectores de su organización y acción política.
+El Partido Socialdemócrata de Morelos reivindica el respeto a las libertades individuales y a la diversidad, como principios rectores de su organización y acción política.
 
 ###### Artículo 6.
 
 El Partido conducirá invariablemente sus actividades dentro del marco de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado Libre y Soberano de Morelos y de la ley; ajustará su actuación y la de sus integrantes a los principios, reglas y procedimientos propios de las instituciones democráticas. Asimismo, promoverá una relación activa y constructiva con el resto de las organizaciones políticas y sociales del estado, en términos de igualdad y respeto, fomentando una cultura política basada en la participación ciudadana, la pluralidad y el diálogo.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-El Partido Socialdemócrata fomentará y establecerá relaciones con organizaciones políticas y sociales afines de otros estados y naciones, con el fin de promover la cooperación y la solidaridad en el ámbito nacional e internacional; propiciar el debate ideológico y programático con base en el conocimiento e intercambio de experiencias; impulsar la formación y capacitación de sus integrantes; y fortalecer la socialdemocracia en Morelos, México y en el mundo, reconociendo la obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros.
+El Partido Socialdemócrata de Morelos fomentará y establecerá relaciones con organizaciones políticas y sociales afines de otros estados y naciones, con el fin de promover la cooperación y la solidaridad en el ámbito nacional e internacional; propiciar el debate ideológico y programático con base en el conocimiento e intercambio de experiencias; impulsar la formación y capacitación de sus integrantes; y fortalecer la socialdemocracia en Morelos, México y en el mundo, reconociendo la obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o Partidos Políticos extranjeros.
 
 En el ámbito internacional actuará, por ello, con plena independencia respecto a personas físicas o morales extranjeras, organismos o entidades internacionales y con pleno respeto al Estado laico; razón por la cual rechaza toda clase de apoyo económico, político o propagandístico proveniente de ministros de culto de cualquier religión o secta, así como de las asociaciones y organizaciones religiosas e iglesias.
 
 ### Capítulo II. Principios Democráticos de Observancia General
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
 La organización interna del Partido se basa en los principios democráticos de competencia, equidad y autonomía. Por lo tanto, las decisiones y los acuerdos de sus órganos de dirección se sujetan al principio democrático de mayoría, con el reconocimiento, el respeto y la garantía invariable de los derechos de las personas y las minorías para participar y expresar sus ideas y posiciones con entera libertad.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 9.
 
 En todos los procesos de integración de los órganos de dirección del Partido y de selección de candidaturas a cargos de elección popular, se garantizará una competencia equitativa, en los términos y bajo las modalidades establecidas en estos Estatutos y en los reglamentos, acuerdos y convocatorias correspondientes.
 
-En dichos procesos se procurará la paridad de género. En todo caso, deberá garantizarse en la integración de sus órganos y en la definición de sus candidaturas a cargos de elección popular para cada proceso electoral, que ningún género ocupe más de las dos terceras partes de los cargos o las candidaturas propietarias locales.
+En dichos procesos se procurará la paridad de género. En todo caso, deberá garantizarse en la integración de sus órganos y en la definición de sus candidaturas a cargos de elección popular para cada Proceso Electoral, que ningún género ocupe más de las dos terceras partes de los cargos o las candidaturas propietarias locales.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
-Las decisiones y acuerdos de los órganos de dirección del Partido, salvo acuerdo expreso en sentido distinto del propio órgano, se aprobarán mediante el ejercicio del voto secreto. Quienes tengan bajo su responsabilidad la conducción de las sesiones correspondientes de dichos órganos, deberán tomar las medidas necesarias para garantizar este derecho.
+Las decisiones y acuerdos de los órganos de dirección del Partido, salvo acuerdo expreso en sentido distinto del propio órgano, se aprobarán mediante el ejercicio del voto abierto. Quienes tengan bajo su responsabilidad la conducción de las sesiones correspondientes de dichos órganos, deberán tomar las medidas necesarias para garantizar este derecho.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
@@ -90,11 +110,15 @@ Quienes de una decisión o acuerdo aprobados por la mayoría, tendrán el derech
 
 Los acuerdos y normas que rigen la vida interna del Partido serán de observancia general y obligatoria para todas y cada una de las personas afiliadas y adherentes.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
 Quienes integran los órganos de dirección del Partido tienen el derecho de manifestar públicamente su posición en contra o en sentido distinto al de una decisión o un acuerdo aprobado por la mayoría, siempre y cuando dejen constancia escrita de sus opiniones y argumentos. Deberán también señalar quien o quienes disienten, puesto que no podrán expresarse a nombre del partido.
 
 Si no se trata de un disenso relativo al contenido o la orientación política de la decisión o el acuerdo, sino de un cuestionamiento sobre su validez jurídica, desde luego se mantienen a salvo los derechos y las vías para interponer el medio de impugnación interno o ante la autoridad electoral correspondiente que la persona inconforme estime pertinente.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 13.
 
@@ -102,13 +126,17 @@ Los derechos de las personas afiliadas y adherentes no podrán, en ningún caso,
 
 ### Capítulo III. Integración al Partido y Participación Ciudadana
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 14.
 
-El Partido Socialdemócrata reconoce dos formas válidas para la integración de ciudadanas y ciudadanos al Partido, con los derechos y las obligaciones que cada una de ellas implica, conforme a lo establecido en estos Estatutos:
+El Partido Socialdemócrata de Morelos reconoce dos formas válidas para la integración de ciudadanas y ciudadanos al Partido, con los derechos y las obligaciones que cada una de ellas implica, conforme a lo establecido en estos Estatutos:
 
 a) La afiliación; y
 
 b) La adhesión; (sic)
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
@@ -126,11 +154,15 @@ e) No haber incurrido en el supuesto del artículo 28 de estos Estatutos;
 
 f) Asistan a los cursos de inducción para la afiliación, en los cuales se expondrán los principios ideológicos y las reglas internas del Partido, en los plazos y lugares que para tal efecto establezcan las convocatorias para los procesos de afiliación en cada municipio, de tal manera que la decisión de cada aspirante sea una decisión libre e informada.
 
-Será responsabilidad de los órganos de dirección del Partido en sus respectivos ámbitos de competencia, garantizar la difusión del reglamento y las convocatorias para lo2s (sic) procesos de afiliación que deben desarrollarse durante el período específico que se determine en la propia convocatoria. Fuera de los períodos establecidos para tal efecto y sin el documento expedido por la Secretaría de Organización y Desarrollo Institucional competente, para acreditar la obtención de tal carácter, ninguna afiliación será válida.
+Será responsabilidad de los órganos de dirección del Partido en sus respectivos ámbitos de competencia, garantizar la difusión del reglamento y las convocatorias para los procesos de afiliación que deben desarrollarse durante el período específico que se determine en la propia convocatoria. Fuera de los períodos establecidos para tal efecto y sin el documento expedido por la Secretaría de Organización y Desarrollo Institucional competente, para acreditar la obtención de tal carácter, ninguna afiliación será válida.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 16.
 
-En el caso de solicitantes de afiliación que hayan ocupado un cargo directivo en otros partidos políticos o un cargo de elección popular postulados por otros partidos políticos en los últimos seis meses, será necesario obtener el dictamen favorable del Comité Ejecutivo Estatal, con el fin de garantizar la congruencia ideológica y el compromiso democrático de quienes desean afiliarse. En dicho dictamen deberán valorarse las actividades desarrolladas y la observancia de los Documentos Básicos del Partido por parte de las personas que se encuentren en este supuesto.
+En el caso de solicitantes de afiliación que hayan ocupado un cargo directivo en otros Partidos Políticos o un cargo de elección popular postulados por otros Partidos Políticos en los últimos seis meses, será necesario obtener el dictamen favorable del Comité Ejecutivo Estatal, con el fin de garantizar la congruencia ideológica y el compromiso democrático de quienes desean afiliarse. En dicho dictamen deberán valorarse las actividades desarrolladas y la observancia de los Documentos Básicos del Partido por parte de las personas que se encuentren en este supuesto.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 17.
 
@@ -140,9 +172,11 @@ En ningún caso la adhesión conduce a la afiliación por el mero transcurso del
 
 Sin el documento expedido por la Secretaría de Organización competente, para acreditar la obtención del carácter de adherentes, ninguna adhesión será válida.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 18.
 
-Son simpatizantes del Partido las mexicanas y mexicanos que, sin importar su edad, compartan los principios y las propuestas del Partido Socialdemócrata y manifiesten su voluntad de participar con ese carácter en las actividades partidarias.
+Son simpatizantes del Partido las mexicanas y mexicanos que, sin importar su edad, compartan los principios y las propuestas del Partido Socialdemócrata de Morelos y manifiesten su voluntad de participar con ese carácter en las actividades partidarias.
 
 Los simpatizantes del Partido que deseen registrarse para recibir la información y las convocatorias necesarias para su participación en las actividades partidarias en materia de educación cívica, formación política, debate, elaboración de propuestas programáticas, divulgación de las plataformas electorales y promoción del voto, únicamente deberán llenar el formato impreso o electrónico que se emita para ello.
 
@@ -150,17 +184,21 @@ Este registro no atribuye obligaciones y derechos como afiliado o adherente del 
 
 El Partido promoverá con especial énfasis la participación de sus simpatizantes jóvenes en los programas de educación cívica y formación política.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 19.
 
-Los órganos de dirección del Partido deberán garantizar en todo momento las condiciones necesarias para la debida atención y participación de las ciudadanas y los ciudadanos que les presenten o formulen cualquier iniciativa, causa o propuesta que sea consistente con los principios del Partido Socialdemócrata.
+Los órganos de dirección del Partido deberán garantizar en todo momento las condiciones necesarias para la debida atención y participación de las ciudadanas y los ciudadanos que les presenten o formulen cualquier iniciativa, causa o propuesta que sea consistente con los principios del Partido Socialdemócrata de Morelos.
 
 El objetivo es responder, en la vida cotidiana del Partido en todos sus ámbitos, a su origen y vocación ciudadanos, así como a su compromiso de servir como vehículo para llevar a los espacios de discusión y decisión públicas, las iniciativas, causas y propuestas de la sociedad.
 
 ### Capítulo IV. Derechos y Obligaciones de las Personas Afiliadas y Adherentes
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 20.
 
-Las personas afiliadas al Partido Socialdemócrata tendrán los siguientes derechos:
+Las personas afiliadas al Partido Socialdemócrata de Morelos tendrán los siguientes derechos:
 
 a) Participar, votar y ser votadas, en los procesos democráticos para la integración de los órganos de dirección del Partido, siempre y cuando cumplan los requisitos establecidos en las normas estatutarias y reglamentarias aplicables para tales efectos, incluyendo estar al corriente en el pago de cuotas;
 
@@ -174,7 +212,7 @@ e) Contar con el debido respeto y consideración a sus opiniones y a su vida pri
 
 f) Ejercer las libertades de reflexión, deliberación, elaboración intelectual o técnica, bajo el principio general de que cualquier opinión o posición se expresa a título personal, salvo que los asuntos de que se trate hayan sido declarados como posición del partido;
 
-g) Acceder a toda la información y documentación del Partido, conforme a las disposiciones y procedimientos establecidos en el Reglamento de Transparencia y Acceso a la Información del Partido Socialdemócrata;
+g) Acceder a toda la información y documentación del Partido, conforme a las disposiciones y procedimientos establecidos en el Reglamento de Transparencia y Acceso a la Información del Partido Socialdemócrata de Morelos;
 
 h) Conocer con oportunidad y precisión los planes de trabajo, el presupuesto aprobado y su ejercicio; los ordenamientos funcionales e instrumentos programáticos del Partido; y la distribución de responsabilidades para su ejercicio, de tal manera que cuente con todos los elementos necesarios para requerir rendición de cuentas a quienes tengan a su cargo responsabilidades de dirección, operación o administración;
 
@@ -192,17 +230,19 @@ n) Obtener la cédula o credencial única e intransferible que les permita acred
 
 o) Todos los demás derechos previstos en la legislación aplicable y en estos Estatutos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
 Las personas afiliadas tendrán las siguientes obligaciones:
 
-a) Cumplir con lo establecido en los Documentos Básicos, observar las decisiones y acuerdos aprobados por los órganos de dirección, y atender en forma oportuna y eficaz las comisiones, instrucciones o mandatos que les asigne su dirigencia inmediata;
+a) Cumplir con lo establecido en los Documentos Básicos, observar las decisiones y acuerdos, aprobados por los órganos de dirección, y atender en forma oportuna y eficaz las comisiones, instrucciones o mandatos que les asigne su dirigencia inmediata;
 
 b) Contribuir al sostenimiento de los gastos del Partido mediante el pago de las cuotas que establezca el reglamento correspondiente;
 
 c) Participar permanentemente en la realización de las actividades del Partido y cumplir con las tareas que le sean asignadas, en especial las orientadas a la educación cívica, la formación política y la promoción del voto;
 
-d) Participar en los programas y espacios de capacitación, debate, educación cívica y formación política para el desarrollo de las actividades encaminadas al cumplimiento de los objetivos del Partido;
+d) Participar en los· programas y espacios de capacitación, debate, educación cívica y formación política para el desarrollo de las actividades encaminadas al cumplimiento de los objetivos del Partido;
 
 e) Cuidar el patrimonio y los recursos del Partido que hayan sido puestos a su disposición para el desempeño de sus funciones y rendir informes por escrito sobre su aplicación, preservando en todo momento la honestidad y la transparencia como principios básicos para su ejercicio;
 
@@ -214,9 +254,11 @@ h) Promover y hacer valer en el desarrollo de todas sus actividades los principi
 
 i) Abstenerse de practicar cualquier forma de intermediación y manipulación clientelares en los procesos de afiliación, elección e integración de órganos y candidaturas del Partido;
 
-j) Apoyar al Partido durante los procesos electorales en las funciones de representación ante órganos y casillas electorales, previa acreditación.
+j) Apoyar al Partido durante los Procesos Electorales en las funciones de representación ante órganos y casillas electorales, previa acreditación.
 
-k) Todos (sic) las demás obligaciones previstas en la legislación aplicable, en estos Estatutos y sus reglamentos.
+k) Todos las demás obligaciones previstas en la legislación aplicable, en estos Estatutos y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
@@ -230,7 +272,7 @@ c) Ejercer las libertades de reflexión, deliberación, elaboración intelectual
 
 d) Participar en los programas y espacios de capacitación, debate, educación cívica y formación política para el desarrollo de las actividades encaminadas al cumplimiento de los objetivos del Partido;
 
-e) Acceder a toda la información y documentación del Partido, conforme a las disposiciones y procedimientos establecidos en los reglamentos y acuerdos correspondientes, en materia de transparencia y acceso a la información del Partido Socialdemócrata;
+e) Acceder a toda la información y documentación del Partido, conforme a las disposiciones y procedimientos establecidos en los reglamentos y acuerdos correspondientes, en materia de transparencia y acceso a la información del Partido Socialdemócrata de Morelos;
 
 f) Representar al Partido en aquellas tareas que le sean asignadas;
 
@@ -252,33 +294,39 @@ n) Obtener la cédula o credencial única e intransferible que les permita acred
 
 o) Todos los demás derechos previstos en la legislación aplicable y en estos Estatutos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
 Las personas adherentes al Partido tendrán las siguientes obligaciones:
 
 a) Cumplir con lo establecido en los Documentos Básicos y observar las decisiones y acuerdos de los órganos de dirección del Partido, en todo lo que les sea aplicable;
 
-b) Reconocer en todo momento el derecho al disenso y conducirse con respeto y 2solidaridad (sic) en sus relaciones con las personas afiliadas, adherentes y simpatizantes del Partido;
+b) Reconocer en todo momento el derecho al disenso y conducirse con respeto y solidaridad en sus relaciones con las personas afiliadas, adherentes y simpatizantes del Partido;
 
-c) Promover y hacer valer en el desarrollo de todas sus actividades los principios y los valores de la equidad, la laicidad, la diversidad, la (sic) respeto y legalidad, con especial énfasis en la equidad de género y la no discriminación;
+c) Promover y hacer valer en el desarrollo de todas sus actividades los principios y los valores de la equidad, la laicidad, la diversidad, la respeto y legalidad, con especial énfasis en la equidad de género y la no discriminación;
 
 d) Apoyar el desarrollo de las actividades partidarias en materia de educación cívica, formación política y promoción del voto, conforme a los lineamientos que, para tal efecto, emitan los órganos de dirección del Partido;
 
 e) Respaldar al Partido y a sus candidaturas en las tareas de promoción del voto;
 
-f) Apoyar al Partido durante los procesos electorales en las funciones de representación ante órganos y casillas electorales, previa acreditación.
+f) Apoyar al Partido durante los Procesos Electorales en las funciones de representación ante órganos y casillas electorales, previa acreditación.
 
 ### Capítulo V. Derechos y Obligaciones de Representantes Populares
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-Las personas que, habiendo sido postuladas por el Partido, ocupen un cargo de representación popular, tendrán los siguientes derechos:
+Las personas que, habiendo sido postuladas por el Partido, ocupen un cargo ejecutivo o legislativo, tendrán los siguientes derechos:
 
-a) En el caso de personas afiliadas, participar con voz y voto en las sesiones del Consejo Político del ámbito estatal o municipal en el cual fueron electos. Quien tenga a su cargo la coordinación del Grupo Parlamentario del Partido Socialdemócrata, además tendrán derecho de participar con voz y voto en el C2omité (sic) Ejecutivo Estatal;
+a) En el caso de personas afiliadas, participar con voz y voto en las sesiones del Consejo Político Estatal.
 
 b) Recibir asesoría especializada para el mejor desempeño de su función, así como la formación política necesaria;
 
-c) Acceder a toda la información del Partido, en los términos y conforme a los procedimientos que establezca el reglamento y los acuerdos correspondientes, en materia de transparencia y acceso a la información del Partido Socialdemócrata; (sic)
+c) Acceder a toda la información del Partido, en los términos y conforme a los procedimientos que establezca el reglamento y los acuerdos correspondientes, en materia de transparencia y acceso a la información del Partido Socialdemócrata de Morelos; (sic)
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 25.
 
@@ -286,9 +334,9 @@ Las personas que, habiendo sido postuladas por el Partido, ocupen un cargo de re
 
 a) Presentar al Comité Ejecutivo Estatal, para su conocimiento y discusión, el proyecto de agenda legislativa o el proyecto de programa de gobierno o políticas públicas que busque desarrollar, según se trate de cargos legislativos o ejecutivos, tanto Estatales o Municipales.
 
-b) Asumir la vocería del Partido en los ámbitos donde desempeñen el cargo de elección, siempre en congruencia con los Documentos Básicos. Tratándose de cargos legislativos, la vocería le corresponderá a quien tenga la responsabilidad de Coordinar el Grupo Parlamentario del Partido Socialdemócrata, no obstante, cualquier integrante podrá expresar su opinión sobre los temas de la agenda legislativa;
+b) Asumir la vocería del Partido en los ámbitos donde desempeñen el cargo de elección, siempre en congruencia con los Documentos Básicos. Tratándose de cargos legislativos, la vocería le corresponderá a quien tenga la responsabilidad de Coordinar el Grupo Parlamentario del Partido Socialdemócrata de Morelos, no obstante, cualquier integrante podrá expresar su opinión sobre los temas de la agenda legislativa;
 
-c) Sostener una comunicación permanente con quien presida el Comité Ejecutivo Estatal, a efecto de que exista la debida coordinación y este órgano de dirección pueda brindar el apoyo y la asesoría necesarios para el desempeño de sus funciones. Tratándose de cargos legislativos, esta responsabilidad recaerá en quien tenga a su cargo la Coordinación del Grupo Parlamentario del Partido Socialdemócrata;
+c) Sostener una comunicación permanente con quien presida el Comité Ejecutivo Estatal, a efecto de que exista la debida coordinación y este órgano de dirección pueda brindar el apoyo y la asesoría necesarios para el desempeño de sus funciones. Tratándose de cargos legislativos, esta responsabilidad recaerá en quien tenga a su cargo la Coordinación del Grupo Parlamentario del Partido Socialdemócrata de Morelos;
 
 d) Asistir a los cursos de formación y capacitación que brinde el Partido para el mejor cumplimiento de sus funciones, y atender todos los requerimientos de información sobre el desempeño de la misma que les formule el Comité Ejecutivo Estatal, según sea el caso;
 
@@ -302,23 +350,31 @@ h) Conducirse con respeto y solidaridad en sus relaciones con las personas afili
 
 i) Promover y hacer valer en el desarrollo de todas sus actividades los principios y los valores de la equidad, la laicidad, la diversidad, la tolerancia y la legalidad, con especial énfasis en la equidad de género y la no discriminación;
 
-j) Cumplir las obligaciones y observar las normas específicas aplicables a su cargo de representación popular, en particular las concernientes al Grupo Parlamentario del Partido Socialdemócrata.
+j) Cumplir las obligaciones y observar las normas específicas aplicables a su cargo de representación popular, en particular las concernientes al Grupo Parlamentario del Partido Socialdemócrata de Morelos.
 
 k) Las demás que se establezcan en estos Estatutos y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 26.
 
-En cualquier caso, las personas que ocupen un cargo legislativo habiendo sido postuladas por el Partido Socialdemócrata, deberán observar en su desempeño el principio de transparencia y, por tanto, deberán informar íntegra y periódicamente a los órganos de dirección sobre el ejercicio de los recursos humanos, financieros y materiales que le hayan sido asignados en razón de su cargo. Asimismo, deberán mantener congruencia en su actuación con los Documentos Básicos y, en su caso, con la plataforma que haya sido registrada para el proceso electoral en virtud del cual ocupa el cargo.
+En cualquier caso, las personas que ocupen un cargo legislativo habiendo sido postuladas por el Partido Socialdemócrata de Morelos, deberán observar en su desempeño el principio de transparencia y, por tanto, deberán informar íntegra y periódicamente a los órganos de dirección sobre el ejercicio de los recursos humanos, financieros y materiales que le hayan sido asignados en razón de su cargo. Asimismo, deberán mantener congruencia en su actuación con los Documentos Básicos y, en su caso, con la plataforma que haya sido registrada para el Proceso Electoral en virtud del cual ocupa el cargo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
-El abandono de las responsabilidades propias de un cargo de representación popular sin causa justificada o la salida del Grupo Parlamentario del Partido Socialdemócrata, son causas de suspensión de derechos partidarios, de inhabilitación para ser postulados a cargos de elección popular o expulsión del Partido. La Comisión Estatal Autónoma de Conciliación y Justicia Partidaria será el órgano encargado para conocer y resolver sobre estas causas, observando en todo momento el debido proceso legal y la garantía de audiencia.
+El abandono de las responsabilidades propias de un cargo de representación popular sin causa justificada o la salida del Grupo Parlamentario del Partido Socialdemócrata de Morelos, son causas de suspensión de derechos partidarios, de inhabilitación para ser postulados a cargos de elección popular o expulsión del Partido. La Comisión Estatal Autónoma de Conciliación y Justicia Partidaria será el órgano encargado para conocer y resolver sobre estas causas, observando en todo momento el debido proceso legal y la garantía de audiencia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 28.
 
-Las personas que, sin tener el carácter de afiliadas o adherentes, ocupen un cargo de representación en virtud de haber sido postuladas por el Partido Socialdemócrata e incurran en cualquiera de los supuestos señalados en el Artículo anterior, no podrán solicitar su adhesión o afiliación ni podrán volver a ser postuladas por el Partido para un cargo de elección.
+Las personas que, sin tener el carácter de afiliadas o adherentes, ocupen un cargo de representación en virtud de haber sido postuladas por el Partido Socialdemócrata de Morelos e incurran en cualquiera de los supuestos señalados en el Artículo anterior, no podrán solicitar su adhesión o afiliación ni podrán volver a ser postuladas por el Partido para un cargo de elección.
 
 ### Capítulo VI. Estructura Orgánica del Partido
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
@@ -327,6 +383,8 @@ La estructura orgánica del Partido está basada en los principios y métodos de
 De conformidad con las disposiciones y modalidades contenidas en los presentes Estatutos y en los reglamentos específicos, los órganos del Partido en sus distintos ámbitos, gozarán de autonomía política y funcional para adoptar las decisiones y formular los programas que correspondan a su competencia. Para garantizar la funcionalidad de los órganos, el Presidente de cada órgano gozara de voto de calidad.
 
 La distribución de atribuciones entre los órganos del Partido y su ejercicio, se regirán por el principio de subsidiariedad, de manera tal que se garantice su funcionalidad, en los términos que establezcan las disposiciones reglamentarias y los acuerdos correspondientes.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
@@ -338,6 +396,8 @@ b) Proceso de vinculación con la sociedad;
 
 c) Proceso de formación partidaria y consolidación institucional; (sic)
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 31.
 
 El Partido se integra por los órganos siguientes:
@@ -346,7 +406,7 @@ a) Comités de Acción Política;
 
 b) De Dirección;
 
-c) Consultivo; y
+e) Consultivo; y
 
 d) Comisiones Autónomas.
 
@@ -354,11 +414,13 @@ La fuente primaria de representación y legitimidad para la integración democr�
 
 El órgano de dirección ejecutivo tendrá a su cargo la expedición de los reglamentos, acuerdos y lineamientos de carácter normativo que deriven de estos Estatutos; la elaboración, aprobación y ejecución de las estrategias, las políticas, los procesos, los programas y, en general, todos los instrumentos presupuestales y financieros, así como las decisiones que se requieran para la conducción política y operativa del Partido.
 
-El órgano consultivo tendrá bajo su responsabilidad la planeación, organización y desarrollo de las actividades orientadas a proveer al Partido de los elementos sustantivos que contribuyan al análisis, el debate y la elaboración de propuestas, particularmente en materia legislativa y de políticas públicas. Este órgano procurará la concurrencia y participación de actores de la sociedad que, por sus conocimientos, experiencias y trayectoria, tengan la capacidad de hacer aportaciones valiosas para el cumplimiento de los fines y el desarrollo de las actividades del Partido Socialdemócrata. Los órganos consultivos deben constituir espacios de encuentro y debate entre integrantes del Partido y entre éste y la sociedad.
+El órgano consultivo tendrá bajo su responsabilidad la planeación, organización y desarrollo de las actividades orientadas a proveer al Partido de los elementos sustantivos que contribuyan al análisis, el debate y la elaboración de propuestas, particularmente en materia legislativa y de políticas públicas. Este órgano procurará la concurrencia y participación de actores de la sociedad que, por sus conocimientos, experiencias y trayectoria, tengan la capacidad de hacer aportaciones valiosas para el cumplimiento de los fines y el desarrollo de las actividades del Partido Socialdemócrata de Morelos. Los órganos consultivos deben constituir espacios de encuentro y debate entre integrantes del Partido y entre éste y la sociedad.
 
 Los órganos autónomos tienen a su cargo las funciones que, por su naturaleza, requieren plenas garantías de independencia para su desempeño, tales como las conciliatorias, de interpretación, jurisdiccionales internas y sancionatorias; las de vigilancia, fiscalización y rendición de cuentas sobre el patrimonio y los recursos del Partido; y las electorales, para la organización, desarrollo y calificación de los procesos democráticos de integración de los órganos de dirección política, en términos de las normas estatutarias y los reglamentos aplicables, observando los principios de objetividad, legalidad, certeza, profesionalismo, imparcialidad y transparencia.
 
 Para garantizar el adecuado ejercicio de sus atribuciones estatutarias, se dotará a las Comisiones de plena autonomía funcional y material, asignándoles los recursos necesarios para su operación en el Presupuesto Anual correspondiente, quedando sujetas a las obligaciones establecidas en los Reglamentos de Finanzas y de Vigilancia y Rendición de Cuentas.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
@@ -372,6 +434,8 @@ III. El Comité Ejecutivo Estatal; y
 
 IV. El Comité Ejecutivo Municipal.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
 Los órganos consultivos son
@@ -379,6 +443,8 @@ Los órganos consultivos son
 I. El Consejo Consultivo;
 
 II. Fundaciones o Institutos de Investigación; (sic)
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 34.
 
@@ -390,13 +456,15 @@ II. La Comisión Autónoma de Vigilancia y Rendición de Cuentas; y
 
 III. La Comisión Autónoma para la Elección de Órganos de Dirección.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 35.
 
 El Consejo Político Estatal tendrá autonomía de decisión para establecer estructuras del Partido en el ámbito de los Municipios. El ejercicio de esta atribución deberá realizarse en el marco de los Principios Democráticos de Observancia General y demás disposiciones aplicables, establecidos en estos Estatutos.
 
 Para tal efecto, el Consejo Político Estatal determinará si es política o jurídicamente necesario para el debido cumplimiento de los fines del Partido, contemplar la constitución de órganos en todos o en parte de los Municipios.
 
-En su caso, los órganos municipales observarán para su integración, estructura y constitución, las mismas normas que son aplicables para los órganos estatales considerando que la base de la representación emana de los Comités de Acción Política.
+En su caso, los órganos municipales observarán para su integración, estructura y constitución, las mismas normas que son aplicables para los órganos estatales, considerando que la base de la representación emana de los Comités de Acción Política.
 
 El Comité Ejecutivo Estatal garantizará la exacta observancia de lo que disponga el Consejo Político Estatal.
 
@@ -404,13 +472,17 @@ Todos los cargos de todos los órganos serán honorarios y el Partido no está o
 
 ### Capítulo VII. De los Comités de Acción Política
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
 Los comités de acción política constituyen los organismos básicos y permanentes de formación, debate, deliberación, movilización, difusión y propaganda de los principios, programas, políticas y campañas del Partido.
 
-Se integran por un mínimo de 10 ciudadanos afiliadas (sic) y se agrupan en torno a temas, causas específicas y/o con base en la división territorial del estado, o cualquier otro elemento de cohesión compatible con el ideario y propuestas programáticas del Partido, que se especificarán en el acto constitutivo del propio comité.
+Se integran por un mínimo de 10 ciudadanos afiliadas y se agrupan en torno a temas, causas específicas y/o con base en la división territorial del estado, o cualquier otro elemento de cohesión compatible con el ideario y propuestas programáticas del Partido, que se especificarán en el acto constitutivo del propio comité.
 
 Los adherentes y simpatizantes podrán participar en las actividades de los Comités de Acción Política, sin que ello implique que sean integrantes de los mismos. Las personas afiliadas podrán participar en varios Comités de Acción Política, pero sólo podrán estar registrados en uno para efectos de votación para la elección de representantes ante las asambleas estatales.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 37.
 
@@ -428,7 +500,11 @@ d) Presentar credencial para votar de sus integrantes o la credencial de afiliac
 
 e) Señalar la denominación que, en su caso, desee ostentar.
 
-La Secretaría de Organización verificará el cumplimiento de los requisitos anteriores y, cuando resulte procedente, extenderá la cédula de inscripción del comité, en un plazo no mayor a cinco días hábiles. En el reglamento correspondiente se establecerán las características básicas de los programas de trabajo de los comités y los mecanismos para su aprobación.
+La Secretaría de Organización verificará el cumplimiento de los requisitos anteriores y, cuando resulte procedente, extenderá la cédula de inscripción del comité, en un plazo no mayor a cinco días hábiles.
+
+En el reglamento correspondiente se establecerán las características básicas de los programas de trabajo de los comités y los mecanismos para su aprobación.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 38.
 
@@ -448,6 +524,8 @@ f) Las demás que establezcan estos estatutos y los reglamentos internos del Par
 
 Para poder ejercer el derecho estipulado en el inciso c), los Comités de Acción Política deberán demostrar trabajo durante tres meses continuos previos a la elección.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 39.
 
 Serán obligaciones de los Comités de Acción Política:
@@ -466,21 +544,25 @@ f) Las demás que establezcan estos estatutos y los reglamentos internos del Par
 
 ### Capítulo VIII. Asamblea Estatal
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 40.
 
 La Asamblea Estatal es el órgano superior de dirección del Partido en el Estado Libre y Soberano de Morelos, y se integrarán por los representantes que a continuación se indican:
 
 a) Los representantes de cada Comité de Acción Política;
 
-b) Hasta 30 personas afiliadas electas en Asambleas Distritales, cuyo número será determinado por el Comité Ejecutivo Estatal, con base en el porcentaje de la votación alcanzada por el Partido Socialdemócrata en el estado en la última elección de diputados, siempre que haya obtenido cuando menos el 2%.
-
-c) Los integrantes del Comité Ejecutivo Estatal podrán asistir a las sesiones de la Asamblea, únicamente con derecho de voz, salvo aquellos que estén en los supuestos anteriores.
+b) Los integrantes del Comité Ejecutivo Estatal podrán asistir a las sesiones de la Asamblea, únicamente con derecho de voz, salvo aquellos que estén en los supuestos anteriores.
 
 La Asamblea Estatal se reunirá por lo menos cada tres años, a convocatoria expresa del Consejo Político Estatal, que contendrá orden del día, fecha, lugar y hora de celebración, publicada al menos con un mes de anticipación en por lo menos un diario de circulación local, en estrados del Partido y en la página de Internet.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 41.
 
-Para que la Asamblea Estatal esté constituida deberán estar presentes al menos el 50 por ciento más uno de los representantes, mismos que deberán registrarse en primera convocatoria. En caso de que no se reúna la mayoría señalada, el quórum se formará con el 33% de los integrantes de la Asamblea cuyo registro se realizará en segunda convocatoria.
+Para que la Asamblea Estatal esté constituida deberán estar presentes al menos el 50 por ciento más uno de los representantes propietarios o sus suplentes, mismos que deberán registrarse en primera convocatoria. En caso de que no se reúna la mayoría señalada, el quórum se formará con el 33% de los integrantes de la Asamblea cuyo registro se realizará en segunda convocatoria.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 42.
 
@@ -500,11 +582,11 @@ f) Conocer y valorar los informes del Consejo Político Estatal, del Comité Eje
 
 g) Instruir al Consejo Político Estatal sobre las estrategias o políticas locales que requieran de su análisis, particularmente aquellas vinculadas con temas electorales, de alianzas y financieros.
 
-h) Las demás que le otorguen los presentes Estatutos y las que, en su caso, le establezca la ley electoral;
+h) Las demás que le otorguen los presentes Estatutos y las que, en su caso, le establezca la Ley electoral;
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+i) Designar y revocar a los integrantes de las Comisiones Estatales Autónomas de entre las propuestas presentadas por el Comité Ejecutivo Estatal.
 
-i) Designar y revocar a los integrantes de las Comisiones Estatales Autónomas de entre las propuestas presentadas por el Comité Ejecutivo Estatal
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 43.
 
@@ -516,9 +598,11 @@ b) El 50 por ciento más uno de quienes integran el Consejo Político Estatal; o
 
 c) El Comité Ejecutivo Estatal, cuando así lo acuerde en sesión de este órgano; o
 
-d) El 33% de las personas afiliadas al partido en el estado, registrados (sic) en el padrón que lleve la Secretaría de Organización.
+d) El 33% de las personas afiliadas al partido en el Estado, registrados en el padrón que lleve la Secretaría de Organización.
 
 El ejercicio de esta facultad deberá constar por escrito, donde se indiquen los asuntos a tratar, con los nombres y las firmas de quienes requieren la emisión de la convocatoria, que deberá publicarse cuando menos en un diario de circulación local, estrados del partido y página de internet, con una anticipación mínima de 8 días hábiles, previos de la fecha fijada para su celebración.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
@@ -529,6 +613,8 @@ a) Cuando hayan causado baja representantes propietarios, y se haya acreditado c
 b) Cuando la Comisión Autónoma de Conciliación y Justicia Partidaria haya suspendido en sus derechos partidarios a alguno o algunos de los representantes. En este supuesto podrá asistir el representante suplente.
 
 En el caso de los integrantes del Comité Ejecutivo Estatal, asistirán como representantes quienes ocupen al momento los diferentes cargos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 45.
 
@@ -546,19 +632,23 @@ e) La Asamblea Estatal se integrará con tantos representantes como resulten ele
 
 ### Capítulo IX. El Consejo Político Estatal
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 46.
 
-El Consejo Político Estatal será elegido para un período de seis años, en los términos y conforme al procedimiento previsto en el Artículo 42 inciso c), de estos Estatutos. Sus integrantes podrán ser reelectos en forma consecutiva por una sola vez.
+El Consejo Político Estatal será elegido para un período de seis años, en los términos y conforme al procedimiento previsto en el Artículo 42 inciso d), de estos Estatutos. Sus integrantes podrán ser reelectos en forma consecutiva por una sola vez.
 
-Estará integrado por un mínimo de diez personas, electas en la asamblea estatal, conforme a lo señalado en el artículo 42, c) de los presentes Estatutos.
+Estará integrado por un mínimo de diez personas, electas en la asamblea estatal, conforme a lo señalado en el artículo 42, d) de los presentes Estatutos.
 
 El Consejo será coordinado por una Presidencia y una Secretaría, que integrarán su Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
 El Consejo Político Estatal se reunirá de manera ordinaria anualmente, o en forma extraordinaria cuando sea convocado para el desahogo de asuntos que requieran pronta atención.
 
-En primera convocatoria su instalación será legal con la presencia de cuando menos el 50 por ciento más uno de sus integrantes; y en segunda convocatoria, con la presencia de cuando menos una tercera parte de sus integrantes.
+En primera convocatoria su instalación será legal con la presencia de cuando menos el 50 por ciento más uno de los integrantes propietarios; para la segunda convocatoria se procederá a habilitar a los suplentes, y será válida con la presencia de cuando menos una tercera parte de sus integrantes.
 
 La sesión ordinaria será convocada por la mesa directiva del propio Consejo, cuando menos con ocho días hábiles previos a su realización, y será publicada en los estrados del Comité Ejecutivo Estatal y los municipales, en la página de internet además de notificarse por correo electrónico a cada uno de los consejeros vigentes. La convocatoria contendrá orden del día, fecha, lugar y hora de celebración.
 
@@ -572,19 +662,23 @@ c) El Comité Ejecutivo Estatal, cuando así lo acuerde con el voto, al menos, d
 
 El ejercicio de esta facultad deberá constar en un escrito, donde se indiquen los asuntos que se necesitan tratar, con los nombres y las firmas de quienes requieren la emisión de la convocatoria, y será publicada en los estrados del Comité Ejecutivo Estatal y los municipales, en la página de internet además de notificarse por correo electrónico a cada uno de los consejeros vigentes, con una anticipación mínima de 48 horas, previas de la fecha fijada para su celebración.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 48.
 
 El Consejo Político Estatal se integrará por:
 
-a) Las consejeras y los consejeros políticos que resulten electos por la Asamblea Estatal, conforme a lo señalado en el artículo 42, c) de los presentes Estatutos;
+a) Las consejeras y los consejeros políticos que resulten electos por la Asamblea Estatal, conforme a lo señalado en el artículo 42, d) de los presentes Estatutos;
 
 b) El Comité Ejecutivo Estatal;
 
 c) Quienes ocupen cargos ejecutivos de elección popular de la entidad de que se trate;
 
-d) Las legisladoras y los legisladores en funciones que hayan sido postulados por el Partido Socialdemócrata;
+d) Las legisladoras y los legisladores en funciones que hayan sido postulados por el Partido Socialdemócrata de Morelos;
 
 e) Quienes tengan a su cargo la Presidencia de las Comisiones Autónomas, del Consejo Consultivo y de las fundaciones o institutos de investigación del Partido
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 49.
 
@@ -592,15 +686,13 @@ Son atribuciones del Consejo Político Estatal:
 
 a) Designar, por mayoría simple de sus integrantes presentes, a su Mesa Directiva, conformada por una Presidencia y una Secretaría;
 
-b) Aprobar la creación y los métodos de elección de Comités municipales, u otras formas de organización en el estado, de conformidad con lo señalado en el artículo 35 de los presentes estatutos;
+b) Aprobar la creación y los métodos de elección de Comités municipales, u otras formas de organización en el Estado, de conformidad con lo señalado en el artículo 35 de los presentes estatutos;
 
 c) Aprobar los reglamentos que garanticen la observancia de estos Estatutos, de los acuerdos y decisiones de la Asamblea Estatal, así como el debido funcionamiento de los órganos del Partido;
 
 d) Aprobar el Programa Anual de Trabajo del Comité Ejecutivo Estatal; el Presupuesto Anual, antes del inicio del ejercicio correspondiente, y establecer los mecanismos de evaluación de los recursos que garanticen la transparencia y la rendición de cuentas sobre el uso y destino de los mismos;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-e) Conocer y aprobar el Informe Anual de Actividades del Comité Ejecutivo Estatal, que deberá ser presentado por la Presidencia, así como el Informe Anual sobre el Ejercicio Presupuestario, que deberá ser presentado por la Secretaria General y la Coordinación de Administración y Finanzas del Partido;
+e) Conocer y aprobar el Informe Anual de Actividades del Comité Ejecutivo Estatal, que deberá ser presentado por la Presidencia, así como el Informe Anual sobre el Ejercicio Presupuestario, que deberá ser presentado por la Secretaria General y la Secretaria de Administración y Finanzas del Partido;
 
 f) Definir el método para la selección de las candidaturas a cargos de elección popular, que será elección abierta o interna, voto secreto y mayoría simple, y designar a las consejeras y los consejeros que deban hacerse cargo de su organización y desarrollo, a través de una Comisión Electoral, de conformidad a lo previsto en el reglamento correspondiente;
 
@@ -612,11 +704,7 @@ i) Aprobar los convenios de coalición, frentes o candidaturas comunes, a propue
 
 j) Convocar y organizar las Asambleas Estatales, ordinarias y extraordinarias;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 k) Elegir, entre sus integrantes, a la Presidencia y Secretaria General del Comité Ejecutivo Estatal, conforme al siguiente procedimiento:
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 i. La elección se realizará mediante votación secreta de fórmulas para la Presidencia y Secretaria General, por el principio de mayoría absoluta, con mecanismo de segunda vuelta, de conformidad con lo expuesto en las fracciones IV y V del presente inciso;
 
@@ -628,21 +716,15 @@ iv. Si una fórmula obtiene el 50 por ciento más uno de la votación, será dec
 
 v. Si ninguna de las fórmulas obtiene la mayoría absoluta de los votos, se procederá a una segunda ronda de votación, en la cual participarán únicamente las dos fórmulas que mayor votación hayan obtenido. Será declarada electa y recibirá la constancia correspondiente la que más votos obtenga en la segunda ronda;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 l) Aprobar los nombramientos de las y los integrantes del Comité Ejecutivo Estatal, de los cargos comprendidos entre los incisos c) al e) del artículo 51 de los presentes Estatutos, de entre las personas afiliadas al partido a propuesta de la Presidencia;
 
 m) Aprobar la creación de hasta tres carteras temáticas adicionales, a propuesta de la Presidencia del Comité Ejecutivo Estatal, siempre y cuando se garantice suficiencia presupuestaria;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 n) Nombrar, por mayoría simple a las y los titulares de las fundaciones o institutos de investigación; así como revocar su mandato en los términos previstos en el reglamento correspondiente
 
 o) Conocer, aprobar y evaluar el programa anual de trabajo del Consejo Consultivo Estatal;
 
 p) Conocer las sanciones que dictamine la Comisión Autónoma de Conciliación y Justicia, sobre los afiliados o los integrantes de cualquier órgano del partido;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 q) Designar a los cargos del Comité Ejecutivo Estatal de los incisos a) al e) del artículo 51 de los presentes Estatutos, en los casos de revocación de mandato, ausencia injustificada por más de tres meses, renuncia o muerte;
 
@@ -656,17 +738,21 @@ u) Las demás que le señalen estos Estatutos o la Asamblea Estatal.
 
 ### Capítulo X. El Comité Ejecutivo Estatal
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 50.
 
 El Comité Ejecutivo Estatal será elegido para un período de cuatro años, en los términos y conforme al procedimiento previsto en el artículo 52, inciso j), de estos Estatutos. Sus integrantes podrán ser reelectos en forma consecutiva por una sola vez.
 
-El Comité Ejecutivo Estatal funcionará de conformidad a su propio reglamento. El Comité Ejecutivo Estatal sesionará de manera ordinaria mensualmente y de manera extraordinaria para tratar asuntos urgentes o de carácter prioritario para el partido. Las convocatorias serán publicadas en la página de Internet y estrados del partido; las sesiones ordinarias serán convocadas con ocho días hábiles previos a su celebración y las extraordinarias con 48 horas, ambas contendrán orden del día, fecha, lugar y hora de celebración.
+El Comité Ejecutivo Estatal funcionará de conformidad a su propio reglamento.
+
+El Comité Ejecutivo Estatal sesionará de manera ordinaria mensualmente y de manera extraordinaria para tratar asuntos urgentes o de carácter prioritario para el partido. Las convocatorias serán publicadas en la página de Internet y estrados del partido; las sesiones ordinarias serán convocadas con ocho días hábiles previos a su celebración y las extraordinarias con 48 horas, ambas contendrán orden del día, fecha, lugar y hora de celebración.
 
 Las sesiones requerirán en primera convocatoria de un quórum del 50% más uno y segunda convocatoria del 33% de sus integrantes.
 
 A falta de convocatoria de la Presidencia, el 33% de los integrantes del Comité podrán convocar a sesión extraordinaria, de conformidad al reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 51.
 
@@ -676,21 +762,23 @@ a) Presidencia
 
 b) Secretaría General
 
-c) Secretaría de Vinculación Ciudadana y Democracia Participativa
+c) Secretaria de Vinculación Ciudadana y Movimientos Sociales
 
-d) Secretaría de Organización y Asuntos Políticos
+d) Secretaria de Organización y Fortalecimiento Institucional
 
-e) Secretaría Jurídica
+e) Secretaria de Vinculación Institucional y Gestión Municipal
 
-f) Coordinación de Administración y Finanzas
+f) Secretaria Jurídica
 
-g) Coordinación de Comunicación Social
+g) Secretaria de Administración y Finanzas
 
-h) Coordinación de Relaciones Institucionales
+h) Secretaria de Comunicación Social
 
 La Presidencia podrá proponer al Consejo Político Estatal la incorporación de hasta tres carteras temáticas adicionales a la estructura del Comité Ejecutivo Estatal.
 
-Quienes presidan el Consejo Consultivo y las fundaciones o institutos de investigación participarán en las sesiones del Comité Ejecutivo Estatal, con voz y voto.
+Quienes presidan el Consejo Consultivo y las fundaciones o institutos de investigación participarán en las sesiones del Comité Ejecutivo Estatal, con voz y voto. Así mismo, el Representante ante el Instituto Estatal Electoral formará parte del Comité Ejecutivo Estatal, y será designado por el Comité Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 52.
 
@@ -718,7 +806,7 @@ j) Emitir resoluciones y declaraciones que expresen la posición partidaria sobr
 
 k) El Comité Ejecutivo Estatal se apoyará en el Consejo Consultivo correspondiente para la elaboración de planteamientos o fijar la posición del Partido sobre temas específicos;
 
-l) Formular el proyecto de presupuesto de egresos y el programa anual de trabajo que será presentado al Consejo Político Estatal para su aprobación;
+1) Formular el proyecto de presupuesto de egresos y el programa anual de trabajo que será presentado al Consejo Político Estatal para su aprobación;
 
 m) Conducir las relaciones políticas con otros Partidos o agrupaciones políticas nacionales, estatales o del Distrito Federal, así como con organizaciones sociales;
 
@@ -730,11 +818,13 @@ p) Emitir el dictamen a que se refiere el artículo 16 de estos Estatutos;
 
 q) Las demás que señalen los presentes estatutos y aquellas que confiera el Consejo Político Estatal; (sic)
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 53.
 
 Son atribuciones y facultades de la Presidencia del Comité Ejecutivo Estatal:
 
-a) Ejercer la representación legal del Partido, en los términos de las disposiciones que regulan el mandato tanto en el Código Civil para el Estado de Morelos en materia común y para toda la República en materia Federal, en la Ley General de Títulos y Operaciones de Crédito y Ley Federal del Trabajo, ejercer todo acto de pleitos y cobranzas, administración y dominio, así como facultar a otras personas para que la ejerzan;
+a) Ejercer la representación legal del Partido, en los términos de las disposiciones que regulan el mandato tanto en el Código Civil para el Estado de Morelos en materia común y para toda la República en materia Federal, en la Ley General de Títulos y Operaciones de Crédito y Ley Federal del Trabajo, ejercer todo momento Poder General para Pleitos y Cobranzas, Actos de Administración y de Dominio; así como facultar a otras personas para que la ejerzan;
 
 b) Representar al Partido en todo acto que se realice a nombre de éste y en cualquier gestión que practique ante las autoridades correspondientes y facultar a otras personas para que la ejerzan;
 
@@ -756,83 +846,49 @@ j) Firmar los acuerdos del Comité Ejecutivo Estatal junto con el Secretario Gen
 
 k) Conocer los informes que rindan las Comisiones Autónomas de Conciliación y Justicia Partidaria y de Vigilancia y Rendición de Cuentas, al Consejo Político Estatal;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 l) Firmar con la Secretaria General los nombramientos de las Secretarias del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 m) Designar y remover a las personas de los cargos comprendidos entre los incisos f) al h) del artículo 51 de estos Estatutos, así como al titular del Consejo Consultivo.
 
 n) Designar a los representantes del partido ante los diferentes órganos electorales.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 o) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Estatal;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
 
 p) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 54.
-
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
-
-###### Artículo 55.
 
 Son atribuciones y facultades de la Secretaría de (sic) General:
 
 a) Dar seguimiento a los acuerdos del Comité Ejecutivo Estatal;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
-b) Elaborar, en coordinación con la Presidencia, el programa anual del Partido que ésta deberá someter a la consideración del Consejo Político Estatal, integrando para ello los programas específicos de las secretarías y demás instancias del Comité Ejecutivo Estatal;
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+b) Elaborar, en coordinación con la presidencia, el programa anual del Partido que ésta deberá someter a la consideración del Consejo Político Estatal, integrando para ello los programas específicos de las secretarías y demás instancias del Comité Ejecutivo Estatal;
 
 c) Coordinar el trabajo de las secretarías y demás instancias del Comité Ejecutivo Estatal, acordando lo conducente con sus titulares;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 d) Presentar los proyectos de presupuestos anuales de ingresos y egresos al Consejo Político Estatal;
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 e) Coordinar con los Comités Municipales la instrumentación de las políticas y estrategias aprobadas por el Consejo Político o el Comité Ejecutivo Estatal;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 f) Conocer y solicitar informes a los Comités Municipales, sobre asuntos graves o de trascendencia estatal o nacional;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
-g) Levantar el acta correspondiente de las sesiones que realice el Comité Ejecutivo Estatal e integrar y administrar los archivos correspondientes;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+g) Levantar al (sic) acta correspondiente de las sesiones que realice el Comité Ejecutivo Estatal e integrar y administrar los archivos correspondientes;
 
 h) Firmar los acuerdos del Comité Ejecutivo Estatal junto con el Presidente;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
-
 i) Firmar con la Presidencia los nombramientos de las secretarías del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
 
 j) Suplir las ausencias temporales de la Presidencia del Comité Ejecutivo Estatal;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+k) Las demás que establezcan los estatutos y aquellas otras que le difiera el Consejo Político Estatal o la Asamblea Estatal.
 
-k) Las demás que establezcan los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 56.
+###### Artículo 55.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
-###### Artículo 57.
-
-Son atribuciones y facultades de la Secretaría de Vinculación Ciudadana y Democracia Participativa:
+Son atribuciones y facultades de la Secretaria de Vinculación Ciudadana y Movimientos Sociales:
 
 a) Coordinar los proyectos y estrategias de vinculación con la sociedad y los movimientos sociales que deberá implementar el Partido a nivel estatal;
 
@@ -844,11 +900,11 @@ d) Presidir la Comisión de Vinculación Ciudadana;
 
 e) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 58.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 56.
 
-Son atribuciones y facultades de la Secretaría de Organización y Asuntos Políticos:
+Son atribuciones y facultades de la Organización y Fortalecimiento Institucional:
 
 a) Diseñar y proponer al Comité Ejecutivo Estatal, modelos de operación que permitan el mejor desarrollo de las actividades del partido;
 
@@ -860,27 +916,19 @@ d) Coadyuvar con la instancia responsable para la elaboración de diagnósticos 
 
 e) Presidir la Comisión de Organización;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 f) Integrar los expedientes de las candidaturas a puestos de elección popular;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
 
 g) Presidir la Comisión de Asuntos Políticos;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
-
-h) Proponer y diseñar al Comité Ejecutivo Estatal las estrategias de campañas electorales del partido, junto con la Coordinación de Comunicación Social;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+h) Proponer y diseñar al Comité Ejecutivo Estatal las estrategias de campañas electorales del partido, junto con la Secretaria de Comunicación Social;
 
 i) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 59.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 57.
 
-Son atribuciones y funciones de la Secretaría Jurídica
+Son atribuciones y funciones de la Secretaría Jurídica:
 
 a) Representar al Partido en todo tipo de juicios, controversias y diligencias, previa delegación de la Presidencia del Comité Ejecutivo Estatal;
 
@@ -894,29 +942,31 @@ e) Coordinar con los Comités Municipales y con las personas que tengan cargos d
 
 f) Presidir la Conferencia Legislativa y de Gobierno;
 
-g) Las demás que señalen los estatutos y los reglamentos correspondientes.
+g) Las demás que señalen los estatutos y los reglamentos correspondientes
 
-###### Artículo 60.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Son atribuciones y facultades de la Coordinación de Administración y Finanzas:
+###### Artículo 58.
+
+Son atribuciones y facultades de la Secretaría de Administración y Finanzas:
 
 a) Vigilar el adecuado ejercicio de los recursos humanos materiales y financieros del Partido;
 
-b) Sera el órgano señalado en el articulo 28 fracción IV del Código Electoral del Estado Libre y Soberano de Morelos.
+b) Será la encargada de nombrar al titular del órgano señalado en el artículo 28 fracción IV del Código Electoral del Estado Libre y Soberano de Morelos.
 
-c) Elaborar el informe anual de actividades, así como los estados financieros correspondientes;
+c) Coadyuvar en la elaboración del informe anual de actividades, así como los estados financieros correspondientes;
 
 d) Presidir la Comisión de Administración y Finanzas;
 
-e) Las demás que señalen los estatutos y los reglamentos correspondientes.
+e) Recibir por parte del Instituto Estatal Electoral el financiamiento público.
 
-### Capítulo XI. El Consejo Consultivo
+f) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 61.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 59.
 
-Son atribuciones y facultades de la Coordinación de Comunicación Social
+Son atribuciones y facultades de la Secretaria de Comunicación Social:
 
 a) Ejecutar las tareas cotidianas de comunicación del Partido;
 
@@ -930,11 +980,11 @@ e) Mantener un directorio actualizado de medios de comunicación social y sus re
 
 f) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 62.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 60.
 
-Son atribuciones y facultades de la Coordinación de Relaciones Institucionales
+Son atribuciones y facultades de la Secretaria de Vinculación Institucional y Gestión Municipal:
 
 a) Establecer vínculos de comunicación interna entre los diferentes órganos del partido;
 
@@ -946,35 +996,45 @@ d) Mantener un directorio actualizado de los diferentes órganos del partido, as
 
 e) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 63.
+### Capítulo XI. El Consejo Consultivo
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 61.
 
 El Consejo Consultivo es un órgano permanente, plural, autónomo, colegiado y abierto, integrado por personalidades de la sociedad civil y del Partido que con libertad de pensamiento, contribuye al resguardo y debido desempeño en el cumplimiento de los objetivos de justicia, libertad, sustentabilidad y respeto a la diversidad que orientan las acciones del Partido.
 
-### Capítulo XII. Fundaciones e Institutos de Investigación
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 64.
+###### Artículo 62.
 
 Se regirá por el reglamento que apruebe el Consejo Político Estatal, a propuesta del propio órgano.
 
-###### Artículo 65.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-El Consejo Consultivo tendrá una presidencia electa por el Consejo Político Estatal para un periodo de tres años y podrá ser reelegida por un periodo consecutivo. Contará con una secretaria técnica, que será aprobada por el Comité Ejecutivo Estatal, a propuesta de la presidencia del Consejo Consultivo.
+###### Artículo 63.
 
-###### Artículo 66.
+El Consejo Consultivo tendrá una presidencia electa por el Presidente del Comité Ejecutivo Estatal para un periodo de tres años y podrá ser reelegida por un periodo consecutivo. Contará con una secretaría técnica, que será aprobada por el Comité Ejecutivo Estatal, a propuesta de la presidencia del Consejo Consultivo.
+
+### Capítulo XII. Fundaciones e Institutos de Investigación
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 64.
 
 El Partido contará con fundaciones o institutos especializados para la investigación, análisis político, económico, social y cultural, difusión, capacitación electoral y formación política de las personas afiliadas, adherentes o simpatizantes al Partido, que fortalezcan el desarrollo integral de la ciudadanía y contribuyan a la elaboración de plataformas electorales y planes de gobierno.
 
-### Capítulo XIII
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-De las Comisiones del Comité Ejecutivo Estatal y la Conferencia Legislativa y de Gobierno.
-
-###### Artículo 67.
+###### Artículo 65.
 
 Se crearán por acuerdo del Consejo Político Estatal a propuesta del Comité Ejecutivo Estatal y contarán con la colaboración de otros órganos partidarios e integrantes de la sociedad civil.
 
 Se regirá por el reglamento que apruebe el Consejo Político Estatal, a propuesta del propio órgano.
 
-###### Artículo 68.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 66.
 
 Las fundaciones o institutos del Partido tendrán las atribuciones siguientes:
 
@@ -988,107 +1048,43 @@ d) Ejercer el presupuesto que determine el Partido en términos de la legislaci�
 
 e) Las demás que se establezcan en los presentes Estatutos y le confiera el Consejo Político Estatal.
 
-### Capítulo XIV. Asamblea Municipal
+### Capítulo XIII
 
-###### Artículo 69.
+De las Comisiones del Comité Ejecutivo Estatal y la Conferencia Legislativa y de Gobierno.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 67.
 
 Las Comisiones del Comité Ejecutivo Estatal establecidas en los artículos 56, 57, 58 y 60 serán órganos permanentes. Estarán integradas por los miembros del Comité Ejecutivo Estatal, y tendrán el objetivo de aprobar y presentar los proyectos para su aprobación por parte del Comité Ejecutivo Estatal.
 
 La integración de las Comisiones se definirá conforme al Reglamento respectivo.
 
-###### Artículo 70.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 68.
 
 La Conferencia Legislativa y de Gobierno es un instrumento de vinculación, coordinación y toma de decisiones entre los titulares de los órganos ejecutivos de elección popular que hayan sido postulados por el Partido, a nivel estatal y municipal, y el Comité Ejecutivo del Partido, tendrá carácter permanente y se regirá por las disposiciones contenidas en estos Estatutos y los reglamentos correspondientes.
 
-###### Artículo 71.
+### Capítulo XV (SIC). El Comité Ejecutivo Municipal
 
-Las Asambleas Municipales son los órganos superiores de dirección del Partido en los 33 municipios, y se integrarán por los representantes que a continuación se indican:
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-a) Los representantes de cada Comité de Acción Política;
+###### Artículo 69.
 
-b) Los integrantes del Comité Ejecutivo Municipal podrán asistir a las sesiones de le (sic) Asamblea, únicamente con derecho de voz.
-
-Las asambleas municipales se reunirán por lo menos cada dos años, a convocatoria expresa del Consejo Político Estatal o del Comité Ejecutivo Estatal o Municipal, que contendrá orden del día, fecha, lugar y hora de celebración, publicada al menos con un mes de anticipación en los estrados de las sedes estatal y municipal del Partido y en la página de Internet.
-
-###### Artículo 72.
-
-La Asamblea Municipal, para su validez, se integrará con el número mínimo de representantes que a continuación se define:
-
-a) En los municipios que tengan entre 3 y 5 regidores, 10 representantes;
-
-b) En los municipios que tengan entre 7 y 9 regidores, 15 representantes;
-
-c) En los municipios que tengan entre 11 y 13 regidores, 25 representantes;
-
-d) En los municipios que tengan más de 13 regidores, 35 representantes;
-
-Para que la Asamblea Municipal esté constituida deberán estar presentes al menos el 50 por ciento más uno de los representantes, mismos que deberán registrarse en primera convocatoria. En caso de que no se reúna la mayoría señalada, el quórum se formará con el 33% de los integrantes de la Asamblea cuyo registro se realizará en segunda convocatoria.
-
-En caso de que no se integre el número mínimo de representantes señalados en este artículo, los asistentes únicamente podrán elegir representantes a los Representantes para la Asamblea Estatal señalados en el articulo 40 inciso b) siempre y cuando estuviera dentro del orden del día. En este supuesto (sic) Comité Ejecutivo Estatal designará una Coordinación Municipal Provisional, cuya principal tarea será integrar el mínimo requerido de Comités de Acción Política, a fin de que se publique una nueva convocatoria para realizar una Asamblea Municipal, de conformidad a lo señalado en el artículo 110, inciso j) de los presentes Estatutos.
-
-###### Artículo 73.
-
-Atribuciones de la Asamblea Municipal:
-
-a) Designar, por mayoría simple de sus integrantes presentes, a su Mesa Directiva, que se conformará por una Presidencia y una Secretaría. Este procedimiento inicial será conducido por algún integrante del Comité Ejecutivo Estatal;
-
-b) Designar, por mayoría simple de sus integrantes, a quienes deban cumplir las funciones de escrutinio durante la sesión, a propuesta de la Mesa Directiva de la Asamblea Municipal, la cual determinará el número de escrutadoras o escrutadores a elegir;
-
-c) Elegir a las y los integrantes del Comité Ejecutivo Municipal, conforme al procedimiento que determine la asamblea, de entre planillas, listas abiertas o convenciones.
-
-d) Revocar, con causa justificada, el nombramiento de los cargos que, sin haber cumplido aún el período de su mandato, hayan sido designados por la propia Asamblea cuando exista incumplimiento de las responsabilidades encomendadas en virtud de su cargo, faltas injustificadas, o actuaciones en contra de los lineamientos emitidos por la Asamblea; para lo cual se requerirá el voto calificado de las dos terceras partes de sus integrantes presentes, así como una solicitud previa, la cual deberá ser respaldada, al menos, por el 33% de sus integrantes. Para tal efecto, en la misma fecha de publicación de la convocatoria a sesión extraordinaria, los convocantes notificarán a la mesa directiva para que emplace al presunto infractor, haciendo de su conocimiento las imputaciones que se le atribuyen, acompañando las pruebas de cargo, con la finalidad de que en la sesión correspondiente manifieste lo que a su derecho convenga, ofrezca pruebas y formule alegatos, con pleno respeto a la garantía de audiencia y el debido proceso legal, procediéndose a la deliberación y emisión de la resolución, de conformidad con el reglamento respectivo;
-
-e) Conocer y valorar los informes del Comité Ejecutivo Municipal
-
-g) (sic) Las demás que le otorguen los presentes Estatutos;
-
-###### Artículo 74.
-
-La Asamblea Municipal podrá ser convocada para sesionar de manera extraordinaria para desahogar asuntos urgentes que resulten prioritarios para el adecuado desarrollo de las actividades del Partido. Para estos efectos, la Asamblea podrá ser convocada por:
-
-a) El 33 por ciento más uno de los representantes a la Asamblea Municipal; o
-
-b) El Comité Ejecutivo Estatal, cuando así lo acuerde en sesión de este órgano; o
-
-c) El Comité Ejecutivo Municipal, cuando así lo acuerde en sesión de este órgano; o
-
-d) El 33% de las personas afiliadas al partido en el estado, registrados (sic) en el padrón que lleve la Secretaría de Organización.
-
-El ejercicio de esta facultad deberá constar por escrito, donde se indiquen los asuntos a tratar, con los nombres y las firmas de quienes requieren la emisión de la convocatoria, que deberá publicarse en los estrados del partido a nivel estatal y municipal y en la página de internet, con una anticipación mínima de 8 días hábiles, previos de la fecha fijada para su celebración.
-
-###### Artículo 75.
-
-Los representantes a la Asamblea Municipal Extraordinaria podrán ser las mismas personas que hayan integrado la Asamblea Municipal Ordinaria anterior, salvo en los siguientes supuestos:
-
-a) Cuando hayan causado baja representantes propietarios, y se haya acreditado como titular la o el representante suplente, en los términos previstos por estos Estatutos y demás disposiciones aplicables;
-
-b) Cuando la Comisión Autónoma de Conciliación y Justicia Partidaria haya suspendido en sus derechos partidarios a alguno o algunos de los representantes. En este supuesto podrá asistir el representante suplente.
-
-En el caso de los integrantes del Comité Ejecutivo Municipal, asistirán como representantes quienes ocupen al momento los diferentes cargos.
-
-###### Artículo 76.
-
-La elección de representantes electos por los Comités de Acción Política para la integración de la Asamblea Municipal será el mismo que para la Asamblea Estatal
-
-### Capítulo XV. El Comité Ejecutivo Municipal
-
-###### Artículo 77.
-
-El Comité Ejecutivo Municipal será elegido para un período de tres años. Sus integrantes podrán ser reelectos en forma consecutiva por una sola vez.
+El Comité Ejecutivo Municipal será electo para un período de tres años por el Consejo Político Estatal. Sus integrantes podrán ser reelectos en forma consecutiva por una sola vez.
 
 El Comité Ejecutivo Municipal funcionará de conformidad al reglamento del Comité Ejecutivo Estatal.
 
-El Comité Ejecutivo Municipal sesionará de manera ordinaria mensualmente y de manera extraordinaria para tratar asuntos urgentes o de carácter prioritario para el partido. Las convocatorias serán publicadas en la página de Internet y estrados del partido; las sesiones ordinarias serán convocadas con ocho días hábiles previos a su celebración y las extraordinarias con 48 horas, ambas contendrán orden del día, fecha, lugar y hora de celebración.
+El Comité Ejecutivo Municipal sesionará de manera ordinaria mensualmente y de manera extraordinaria para tratar asuntos urgentes o de·carácter prioritario para el partido. Las convocatorias serán publicadas en la página de Internet y estrados del partido; las sesiones ordinarias serán convocadas con ocho días hábiles previos a su celebración y las extraordinarias con 48 horas, ambas contendrán orden del día, fecha, lugar y hora de celebración.
 
 Las sesiones requerirán en primera convocatoria de un quórum del 50% más uno y segunda convocatoria del 33% de sus integrantes.
 
 A falta de convocatoria de la Presidencia, el 33% de los integrantes del Comité podrán convocar a sesión extraordinaria, de conformidad al reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo XVI. De los Órganos Autónomos
-
-###### Artículo 78.
+###### Artículo 70.
 
 El Comité Ejecutivo Municipal se integra por:
 
@@ -1096,17 +1092,15 @@ a) Presidencia
 
 b) Secretario General
 
-c) Secretaría de Organización y Asuntos Políticos
+c) Secretaría de Organización y Fortalecimiento Institucional
 
 d) Secretaría de Participación Ciudadana
 
-e) Coordinación de Finanzas
+e) Secretaría de Finanzas
 
-### Capítulo XVII. La Comisión Autónoma de Conciliación y Justicia Partidaria
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 79.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+###### Artículo 71.
 
 Son atribuciones del Comité Ejecutivo Municipal:
 
@@ -1120,63 +1114,39 @@ d) Proponer al Comité Ejecutivo Estatal las candidaturas externas a cargos loca
 
 e) Proponer al Comité Ejecutivo Estatal los convenios de frentes o candidaturas comunes;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 f) Proponer al Consejo Político Estatal modificaciones a su estructura;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 g) Emitir resoluciones y declaraciones que expresen la posición partidaria sobre temas coyunturales municipales, respecto de los cuales el Consejo Político Estatal o el Comité ejecutivo Estatal no haya dictado posición expresa;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 h) Las demás que señalen los presentes estatutos y aquellas que confiera el Consejo Político Estatal; (sic)
 
-### Capítulo XVIII. La Comisión Autónoma de Vigilancia y Rendición de Cuentas
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 80.
+###### Artículo 72.
 
 Son atribuciones y facultades de la Presidencia del Comité Ejecutivo Municipal:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 a) Representar al Partido en su respectivo ámbito territorial, en todo acto que se realice a nombre de éste y en cualquier gestión que practique ante las autoridades correspondientes y facultar a otras personas para que la ejerzan;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 b) Convocar y presidir las sesiones del Comité Ejecutivo Municipal y ejecutar sus acuerdos;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 c) Presentar el programa anual del Partido ante el Consejo Político Estatal y el Comité Ejecutivo Estatal;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 d) Dirigir, en su respectivo ámbito territorial, la ejecución del programa anual aprobado por el Consejo Político Estatal y supervisar su debido desarrollo;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 e) Conducir las relaciones del Partido con otras instituciones y organizaciones municipales.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 f) Rendir un informe semestral de actividades al Consejo Político Estatal que contenga un capítulo relativo al origen y aplicación de los recursos del Partido;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 g) Delegar las atribuciones y facultades que estime conveniente a otros integrantes del Comité Ejecutivo Municipal;
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 h) Firmar los acuerdos del Comité Ejecutivo Municipal junto con el Secretario General;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
 i) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal, el Comité Ejecutivo Estatal o la Asamblea Municipal.
 
-###### Artículo 81.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+###### Artículo 73.
 
 Son atribuciones y facultades de la Secretaría General:
 
@@ -1192,15 +1162,9 @@ e) Firmar los acuerdos del Comité Ejecutivo Municipal junto con el Presidente;
 
 f) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal, el Comité Ejecutivo Estatal o la Asamblea Municipal.
 
-###### Artículo 82.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
-
-### Capítulo XIX. La Comisión Autónoma para la Elección de Órganos de Dirección
-
-###### Artículo 83.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 74.
 
 Son atribuciones y facultades de la Secretaría de Participación Ciudadana:
 
@@ -1212,15 +1176,15 @@ c) Promover la formulación y desarrollo de políticas y estrategias para erradi
 
 d) Mantener actualizadas y en funcionamiento las redes ciudadanas del partido en el municipio;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+e) Proponer y diseñar al Comité Ejecutivo Municipal las estrategias de campañas electorales del partido;
 
-e) Proponer y diseñar al Comité Ejecutivo Municipal las estrategias de campañas electorales del partido; (sic)
+f) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 84.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 75.
 
-Son atribuciones y facultades de la Secretaría de Organización y Asuntos Políticos:
+Son atribuciones y facultades de la Secretaría de Organización y Fortalecimiento Institucional:
 
 a) Diseñar y proponer al Comité Ejecutivo Municipal, modelos de operación que permitan el mejor desarrollo de las actividades del partido;
 
@@ -1230,37 +1194,31 @@ c) Coordinar el sistema de evaluación y seguimiento del partido;
 
 d) Coadyuvar con la instancia responsable para la elaboración de diagnósticos y propuestas relativas a la formación y capacitación política de los integrantes del partido;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
-
 e) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Municipal;
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
 
 f) Integrar los expedientes de las candidaturas a puestos de elección popular;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
-
 g) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
-###### Artículo 85.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+###### Artículo 76.
 
-Son atribuciones y facultades de la Coordinación de Finanzas:
+Son atribuciones y facultades de la Secretaria de Finanzas:
 
-a) Vigilar el adecuado ejercicio de los recursos humanos materiales y financieros del Partido;
+a) Vigilar el adecuado ejercicio de los recursos humanos materiales y financieros del partido;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+b) Coadyuvar con la coordinación de Administración y Finanzas del Comité Ejecutivo Estatal en la elaboración de los informes financieros de los precandidatos y candidatos de su ámbito territorial;
 
-b) Coadyuvar con la Coordinación de Administración y Finanzas del Comité Ejecutivo Estatal en la elaboración de los informes financieros de los precandidatos y candidatos de su ámbito territorial;
+c) Las demás que señale los estatutos y los reglamentos correspondientes.
 
-f) (sic) Las demás que señalen los estatutos y los reglamentos correspondientes.
+### Capítulo XVI. De los Órganos Autónomos
 
-### Capítulo XX. Del procedimiento de defensa y la aplicación de sanciones
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 86.
+###### Artículo 77.
 
-Las Comisiones Autónomas a que se refiere el artículo 34 de los presentes Estatutos, estarán integradas por personas que deberán reunir los requisitos siguientes:
+Las Comisiones Autónomas a que se refiere el artículo 34 de los presentes Estatutos, estarán integradas por personas que deberán reunir los· requisitos siguientes:
 
 a) Ser afiliado al partido;
 
@@ -1278,7 +1236,11 @@ g) No haber sido candidato, dirigente o representante de otro partido político,
 
 Las Comisiones Autónomas funcionarán con base en los Reglamentos que apruebe el Consejo Político Estatal.
 
-###### Artículo 87.
+### Capítulo XVII. La Comisión Autónoma de Conciliación y Justicia Partidaria
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 78.
 
 Son atribuciones de la Comisión Autónoma de Conciliación y Justicia Partidaria:
 
@@ -1304,7 +1266,11 @@ j) Suspender provisional y precautoriamente los derechos de los afiliados confor
 
 k) Las demás que establezcan los presentes Estatutos y su Reglamento.
 
-###### Artículo 88.
+### Capítulo XVIII. La Comisión Autónoma de Vigilancia y Rendición de Cuentas
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 79.
 
 Son atribuciones de la Comisión Autónoma de Vigilancia y Rendición de Cuentas:
 
@@ -1322,11 +1288,17 @@ f) Elaborar un informe anual de actividades;
 
 g) Las demás que le otorguen los presentes estatutos y su reglamento.
 
-###### Artículo 89.
+### Capítulo XIX. La Comisión Autónoma para la Elección de Órganos de Dirección
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 80.
 
 Tiene como atribución principal el organizar, realizar, supervisar, certificar y validar los procesos de elección de representantes a las asambleas estatales y municipales.
 
-###### Artículo 90.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 81.
 
 La Comisión Autónoma para la Elección de Órganos de Dirección tendrá las atribuciones siguientes:
 
@@ -1354,21 +1326,27 @@ k) Resolver el recurso de revisión que interpongan en contra de sus resolucione
 
 l) Las demás análogas a las anteriores o le confiera el presente estatuto y su reglamento.
 
-### Capítulo XXI. Sobre las candidaturas
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 91.
+###### Artículo 82.
 
 La Comisión cumplirá las funciones previstas en los presentes estatutos durante los periodos establecidos para la elección de representantes a las Asambleas.
 
-###### Artículo 92.
+### Capítulo XX. Del procedimiento de defensa y la aplicación de sanciones
 
-Las personas afiliadas y adherentes al Partido tendrán los más amplios derechos y garantías. Podrán interponer quejas y denuncias ante la Comisión Autónoma de Conciliación y Justicia Partidaria, por presuntos actos u omisiones en que incurran los órganos, personas afiliadas y adherentes al Partido, en contravención a lo establecido en los Documentos Básicos, reglamentos y demás disposiciones aplicables, de conformidad a lo establecido en el reglamento de esta Comisión Autónoma que será aprobado por el Consejo Político Estatal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 83.
+
+Las personas afiliadas y adherentes al Partido tendrán los más amplios derechos y garantías. Podrán interponer quejas y denuncias ante la Comisión Autónoma de Conciliación y Justicia Partidaria, por presuntos actos u omisiones en que incurran los órganos, personas afiliadas y adherentes al Partido, en contravención a lo establecido en los Documentos Básicos, reglamentos y demás disposiciones aplicables, de conformidad a lo establecido en el Reglamento de esta Comisión Autónoma que será aprobado por el Consejo Político Estatal.
 
 El procedimiento se iniciará de oficio o mediante la presentación escrita de la queja o denuncia correspondiente, que deberá acompañarse de las pruebas respectivas. En todos los casos, durante el procedimiento, el presunto infractor gozará de las más amplias garantías de defensa; podrá manifestar lo que a su interés convenga, ofrecer y desahogar pruebas y formular alegatos, en los términos previstos en el citado Reglamento. Las resoluciones que emita la Comisión deberán estar debidamente fundadas y motivadas.
 
-En los casos graves o urgentes, que pongan en riesgo la existencia, el registro, el patrimonio, la operación del partido, se causen daños graves o de difícil reparación a la organización partidista, o que atenten contra la integridad de las personas afiliadas y adherentes en forma incidental, la Comisión Autónoma de Conciliación y Justicia Partidaria podrá acordar la suspensión temporal de derechos del presunto infractor, en tanto se resuelve el procedimiento iniciado en su contra, si ha (sic) juicio del órgano competente así conviene para la iniciación del caso. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al presunto infractor. El procedimiento para determinar la suspensión temporal a que se refiere este párrafo, se desahogará de conformidad con lo previsto en el reglamento de la Comisión. Las resoluciones de fondo se emitirán en un plazo no mayor a 60 días hábiles, contados a partir de iniciado el procedimiento.
+En los casos graves o urgentes, que pongan en riesgo la existencia, el registro, el patrimonio, la operación del partido, se causen daños graves o de difícil reparación a la organización partidista, o que atenten contra la integridad de las personas afiliadas y adherentes en forma incidental, la Comisión Autónoma de Conciliación y Justicia Partidaria podrá acordar la suspensión temporal de derechos del presunto infractor, en tanto se resuelve el procedimiento iniciado en su contra, si ha (sic) juicio del órgano competente así conviene para la iniciación del caso. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al presunto infractor. El procedimiento para determinar la suspensión temporal a que se refiere este párrafo, se desahogará de conformidad con lo previsto en el Reglamento de la Comisión. Las resoluciones de fondo se emitirán en un plazo no mayor a 60 días hábiles, contados a partir de iniciado el procedimiento.
 
-###### Artículo 93.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 84.
 
 Son motivo de sanción las conductas siguientes:
 
@@ -1394,9 +1372,9 @@ j) Presentación de quejas a sabiendas de que los hechos son falsos, actuando co
 
 k) Las demás análogas a las anteriores o que produzcan efectos similares.
 
-### Capítulo XXII. Transparencia y Rendición de Cuentas
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 94.
+###### Artículo 85.
 
 A la persona afiliada o adherente al Partido que incurra en alguna de las causales previstas en el inciso anterior, según la gravedad de la falta, los efectos que produce, los medios de ejecución, la reincidencia y otras circunstancias similares, se le aplicará cualquiera de las sanciones siguientes:
 
@@ -1420,13 +1398,17 @@ Las resoluciones de la Comisión Autónoma de Conciliación y Justicia Partidari
 
 El afectado podrá interponer contra las resoluciones definitivas de la Comisión, juicio para la protección de los derechos político-electorales del ciudadano, en los términos previstos por el Código Electoral para el Estado Libre y Soberano de Morelos y la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
 
-###### Artículo 95.
+### Capítulo XXI. Sobre las candidaturas
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 86.
 
 Para ser postulada candidata o candidato del Partido deberán reunirse los siguientes requisitos:
 
 a) Ser ciudadana o ciudadano en pleno goce de sus derechos políticos;
 
-b) Apegarse a los requisitos fijados por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado Libre y soberano de Morelos, el Código Electoral para el Estado Libre y Soberano de Morelos y demás ordenamientos electorales;
+b) Apegarse a los requisitos fijados por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado Libre y Soberano de Morelos, el Código Electoral para el Estado Libre y Soberano de Morelos y demás ordenamientos electorales;
 
 c) Ser afiliado del partido;
 
@@ -1438,91 +1420,53 @@ f) Estar al corriente con el pago de sus cuotas;
 
 g) Cumplir con las demás obligaciones señaladas en los presentes estatutos y sus reglamentos; (sic)
 
-###### Artículo 96.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Las candidaturas externas, no podrán exceder el 10 por ciento de las listas plurinominales y de mayoría, debiendo asumir el compromiso por escrito de respetar los Documentos Básicos, así como su permanencia en la candidatura durante el proceso electoral.
+###### Artículo 87.
 
-###### Artículo 97.
+Las candidaturas externas, no podrán exceder el 10 por ciento de las listas plurinominales y de mayoría, debiendo asumir el compromiso por escrito de respetar los Documentos Básicos, así como su permanencia en la candidatura durante el Proceso Electoral.
 
-El Partido podrá impulsar alianzas para constituir coaliciones, frentes, y candidaturas comunes con otros partidos políticos y así mismo podrá establecer otras formas o acuerdos de participación. El órgano facultado para la aprobación de los convenios respectivos o acuerdos, lo será el Consejo Político Estatal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo XXIII. Defensoría de oficio de los derechos de los afiliados
+###### Artículo 88.
 
-###### Artículo 103.
+El Partido podrá impulsar alianzas para constituir coaliciones, frentes, y candidaturas comunes con otros Partidos Políticos y así mismo podrá establecer otras formas o acuerdos de participación. El órgano facultado para la aprobación de los convenios respectivos o acuerdos, lo será el Consejo Político Estatal.
 
-La defensoría de oficio de los derechos de los militantes, será una oficina encargada de asesorar y defender a los afiliados del partido que así lo soliciten, y que no cuenten con un asesor legal o conocimientos en la materia como para llevar su causa.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 104.
-
-La oficina de la defensoría de oficio de los derechos de los militantes, estará a cargo de la Coordinación Jurídica del partido.
-
-###### Artículo 105.
-
-Sus atribuciones serán las siguientes:
-
-I. Brindar asesoría a personas afiliadas y adherentes del partido que se encuentren sujetos a un procedimiento interno por parte del órgano encargado de la justicia partidista;
-
-II. Brindar asesoría a personas afiliadas y adherentes del partido que deseen presentar una queja en contra de otros integrantes, por presuntas irregularidades cometidas o violaciones estatutarias, sin que ello implique la formulación del escrito demandante;
-
-III. Llevar a cabo la defensa legal personas afiliadas y adherentes ante el órgano encargado de la justicia partidista, cuando no cuenten con asesor legal que los asista;
-
-IV. Ofrecer y rendir toda clase de pruebas, comparecer en las audiencias en que sean citados personas afiliadas y adherentes del partido por orden del órgano de justicia partidista, y promover recursos y juicios ante los Tribunales electorales en beneficio de sus defendidos.
-
-La oficina de la defensoría de oficio de los derechos de personas afiliadas y adherentes, sólo podrá brindar sus servicios en los asuntos en que se encuentren sujetos procedimientos emprendidos en su contra, por parte del órgano de justicia partidista.
-
-###### Artículo 106.
-
-Serán obligaciones de la oficina de la defensoría de oficio de los militantes las siguientes:
-
-I. Actuar con independencia, certeza, legalidad y profesionalismo en la asistencia que brinde a los afiliados del partido;
-
-II. Rendir un informe trimestral al Comité Ejecutivo Estatal del partido, acerca del número de asuntos que defiende y asesora, así como sus resultados;
-
-III. Las demás que se desprendan de los presentes Estatutos.
-
-###### Artículo 98.
+###### Artículo 89.
 
 De conformidad con la convocatoria publicada para la presentación de precandidaturas a los cargos de representación popular, el Consejo Político Estatal, designará, de entre sus integrantes una Comisión Electoral responsable del proceso que se desarrollara de conformidad con las normas aplicables.
 
 El Consejo Político Estatal podrá designar comisiones electorales para supervisar los procesos municipales de elección interna de candidaturas a cargos de elección popular.
 
-### Capítulo XXIV. Incompatibilidad
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 107.
-
-No podrán ejercerse en forma simultánea dos o más cargos directivos en los órganos estatales.
-
-Así mismo, los integrantes de los Comités Ejecutivos Municipales no podrán formar parte del Consejo Político Estatal.
-
-A nivel estatal es incompatible el ejercicio simultáneo de cargos de dirección partidista y de elección popular.
-
-### Capítulo XXV. Disolución o pérdida de registro
-
-###### Artículo 108.
-
-Si el partido llega a perder su registro como tal, se ajustara a los lineamientos que el Instituto Estatal Electoral haya expedido en materia de disolución y liquidación de los Partidos Políticos, por lo que de forma inmediata se procederá a transparentar, mediante los informes contables correspondientes, el origen, disposición y destino de sus bienes adquiridos.
-
-###### Artículo 109.
-
-El órgano encargado de realizar lo anterior será una Comisión Liquidadora integrada por la Presidencia, la Vicepresidencia, la Secretaria General, la Coordinación de Administración y Finanzas, las Comisiones Autónomas de Conciliación y Justicia Partidaria y de Vigilancia y Rendición de Cuentas, la cual una vez que se tenga la notificación formal de pérdida de registro por parte del IEE, establecerá el procedimiento de liquidación de los bienes muebles o inmuebles que hay (sic) adquirido el propio partido político duran (sic) el tiempo que tuvo vida y/o personalidad jurídica, así mismo procederá a ordenar se realicen los inventarios necesarios, así como las auditorias respectivas a las finanzas del partido a nivel estatal, para así cumplir cabalmente con la autoridad electoral en lo que se refiere a la entrega de cuentas en la utilización de los recursos públicos recibidos.
-
-###### Artículo 99.
+###### Articulo 90.
 
 Los órganos y los afiliados del Partido, tienen la facultad de proponer la postulación de candidatos a cargos de representación popular, de acuerdo a la convocatoria que emita el Consejo Político Estatal.
 
-###### Artículo 100.
+### Capítulo XXII. Transparencia y Rendición de Cuentas
 
-La transparencia y la rendición de cuentas son principios fundamentales con los que conduce sus actividades el Partido Socialdemócrata; por lo tanto, toda la información del Partido, será pública; las y los ciudadanos, así como las y los afiliados y adherentes tendrán acceso a la misma en términos del reglamento aplicable, siempre y cuando no esté clasificada como reservada o confidencial.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 101.
+###### Artículo 91.
 
-El Partido Socialdemócrata garantizará el derecho fundamental a la información pública de todo ciudadano o militante y adherente del partido, para conocer sus datos y documentos.
+La transparencia y la rendición de cuentas son principios fundamentales con los que conduce sus actividades el Partido Socialdemócrata de Morelos; por lo tanto, toda la información del Partido, será pública; las y los ciudadanos, así como las y los afiliados y adherentes tendrán acceso a la misma en términos del reglamento aplicable, siempre y cuando no esté clasificada como reservada o confidencial.
 
-###### Artículo 102.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 92.
+
+El Partido Socialdemócrata de Morelos garantizará el derecho fundamental a la información pública de todo ciudadano o militante y adherente del partido, para conocer sus datos y documentos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 93.
 
 Se buscará promover la transparencia y la rendición de cuentas en el Estado de Morelos, así como fomentar la participación ciudadana en el ejercicio del derecho al acceso a la información.
 
-Por lo tanto el Partido Socialdemócrata, seguirá al menos las siguientes directrices sobre información:
+Por lo tanto el Partido Socialdemócrata de Morelos, seguirá al menos las siguientes directrices sobre información:
 
 I. Toda la información que el Partido presente al IEE sobre sus finanzas y actividades, estará disponible en su página de Internet;
 
@@ -1546,7 +1490,75 @@ X. Se hará público, los gastos en materia de comunicación social;
 
 XI. Se harán públicas, las actas de las sesiones que lleven a cabo el Comité Ejecutivo Estatal y los Municipales, en su caso;
 
-XII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística responda a las preguntas hechas con más frecuencia por el público.
+XII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística·responda a las preguntas hechas con más frecuencia por el público.
+
+### Capítulo XXIII. Defensoría de oficio de los derechos de los afiliados
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 94.
+
+La defensoría de oficio de los derechos de los militantes, será una oficina encargada de asesorar y defender a los afiliados del partido que así lo soliciten, y que no cuenten con un asesor legal o conocimientos en la materia como para llevar su causa.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 95.
+
+La oficina de la defensoría de oficio de los derechos de los militantes, estará a cargo de la Secretaria Jurídica del partido.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 96.
+
+Sus atribuciones serán las siguientes:
+
+I. Brindar asesoría a personas afiliadas y adherentes del partido que se encuentren sujetos a un procedimiento interno por parte del órgano encargado de la justicia partidista;
+
+II. Brindar asesoría a personas afiliadas y adherentes del partido que deseen presentar una queja en contra de otros integrantes, por presuntas irregularidades cometidas o violaciones estatutarias, sin que ello implique la formulación del escrito demandante;
+
+III. Llevar a cabo la defensa legal personas (sic) afiliadas y adherentes ante el órgano encargado de la justicia partidista, cuando no cuenten con asesor legal que los asista;
+
+IV. Ofrecer y rendir toda clase de pruebas, comparecer en las audiencias en que sean citados personas afiliadas y adherentes del partido por orden del órgano de justicia partidista, y promover recursos y juicios ante los Tribunales electorales en beneficio de sus defendidos.
+
+La oficina de la defensoría de oficio de los derechos de personas afiliadas y adherentes, sólo podrá brindar sus servicios en los asuntos en que se encuentren sujetos procedimientos emprendidos en su contra, por parte del órgano de justicia partidista.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 97.
+
+Serán obligaciones de la oficina de la defensoría de oficio de los militantes las siguientes:
+
+I. Actuar con independencia, certeza, legalidad y profesionalismo en la asistencia que brinde a los afiliados del partido;
+
+II. Rendir un informe trimestral al Comité Ejecutivo Estatal del partido, acerca del número de asuntos que defiende y asesora, así como sus resultados;
+
+III. Las demás que se desprendan de los presentes Estatutos.
+
+### Capítulo XXIV. Incompatibilidad
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 98.
+
+No podrán ejercerse en forma simultánea dos o más cargos directivos en el mismo órgano estatal.
+
+Así mismo, los integrantes de los Comités Ejecutivos Municipales no podrán formar parte del Consejo Político Estatal.
+
+A nivel estatal es incompatible el ejercicio simultáneo de cargos de dirección partidista y de elección popular, salvo los de carácter legislativo.
+
+### Capítulo XXV. Disolución o pérdida de registro
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 99.
+
+Si el partido llega a perder su registro como tal, se ajustará a los lineamientos que el Instituto Estatal Electoral haya expedido en materia de disolución y liquidación de los Partidos Políticos, por lo que de forma inmediata se procederá a transparentar, mediante los informes contables correspondientes, el origen, disposición y destino de sus bienes adquiridos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 100.
+
+El órgano encargado de realizar lo anterior será una Comisión Liquidadora integrada por la Presidencia, la Secretaria General, la Secretaria de Administración y Finanzas, las Comisiones Autónomas de Conciliación y Justicia Partidaria y de Vigilancia y Rendición de Cuentas, la cual una vez que se tenga la notificación formal de pérdida de registro por parte del IEE, establecerá el procedimiento de liquidación de los bienes muebles o inmuebles que hay adquirido (sic) el propio partido político duran (sic) el tiempo que tuvo vida y/o personalidad jurídica, así mismo procederá a ordenar se realicen los inventarios necesarios, así como las auditorias respectivas a las finanzas del partido a nivel estatal, para así cumplir cabalmente con la autoridad electoral en lo que se refiere a la entrega de cuentas en la utilización de los recursos públicos recibidos.
 
 ## Transitorios
 
@@ -1575,3 +1587,15 @@ P.O. 9 DE MAYO DE 2012.
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁ APLICABLE EL ARTÍCULO SEGUNDO DEL ACUERDO QUE A CONTINUACIÓN SE CITA:
 
 .; las modificaciones entrarán en vigor una vez que el presente acuerdo sea publicado en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos, de acuerdo a lo dispuesto en el considerando segundo del presente acuerdo.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Los presentes Estatutos entrarán en vigor una vez aprobados por la Asamblea Estatal, y serán enviados al Consejo General del Instituto Estatal Electoral, para que este a su vez, declare su procedencia constitucional y legal.
+
+SEGUNDO.- El Comité Ejecutivo Estatal y los órganos del Partido que cuenten con facultades reglamentarias, presentarán para su aprobación por el Consejo Político Estatal, en un plazo que no exceda de 60 días, sus respectivos Reglamentos, en caso de no hacerlo, se faculta al Comité Ejecutivo Estatal para presentarlos y aprobarlos.
+
+TERCERO.- Se ordena al Comité Ejecutivo Estatal que estos Estatutos se publiquen en los estrados de la sede Estatal, de los diferentes municipios y en la página de Internet del partido.
+
+CUARTO.- Todos los órganos del Partido Socialdemócrata de Morelos iniciaran sus funciones con la vigencia y facultades establecidas en los presentes Estatutos. En tanto el Consejo Político Estatal no designe a los Comités Ejecutivos Municipales, el Comité Ejecutivo Estatal podrá acordar el nombramiento de Coordinaciones Municipales Provisionales, mismas que duraran como máximo 18 meses.
+
+QUINTO.- Se faculta al Comité Ejecutivo Estatal, para que apruebe los ajustes y enmiendas correspondientes que observe, en su caso, el Instituto Estatal Electoral a los presentes Estatutos.
