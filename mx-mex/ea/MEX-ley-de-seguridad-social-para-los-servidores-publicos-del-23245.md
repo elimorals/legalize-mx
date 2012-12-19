@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2009-04-02"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -457,35 +457,47 @@ La base de cálculo para determinar las cuotas y aportaciones no podrá ser, en 
 
 Las cuotas obligatorias que deberán cubrir los servidores públicos al Instituto, serán las siguientes:
 
-I. El 3.5% del sueldo sujeto a cotización, para cubrir las prestaciones de servicios de salud;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-II. El 5.5% del sueldo sujeto a cotización, para cubrir el financiamiento de pensiones, de la siguiente manera:
+I. El 4.625% del sueldo sujeto a cotización, para cubrir las prestaciones de servicios de salud;
 
-a. 4.1% para el fondo del sistema solidario de reparto.
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-b. 1.4% para el sistema de capitalización individual.
+II. El 7.50% del sueldo sujeto a cotización, para cubrir el financiamiento de pensiones, de la siguiente manera:
+
+a. 6.10% para el fondo del sistema solidario de reparto.
+
+b. 1.40% para el sistema de capitalización individual.
 
 III. Las que determine anualmente el Consejo Directivo para otras prestaciones, señaladas en el Título IV.
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 33.
 
-La cuota obligatoria que deberán enterar los pensionados y pensionistas al Instituto, será del 4.5% del monto de la pensión que disfruten y se destinará a cubrir las prestaciones de servicios de salud.
+La cuota obligatoria que deberán enterar los pensionados y pensionistas al Instituto, será del 6.0% del monto de la pensión que disfruten y se destinará a cubrir las prestaciones de servicios de salud.
 
 ###### ARTICULO 34.
 
 Las aportaciones que deberán cubrir obligatoriamente las Instituciones públicas serán las siguientes:
 
-I. El 4.5% del sueldo sujeto a cotización, para cubrir las prestaciones de servicios de salud;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-II. El 7.5% del sueldo sujeto a cotización, para cubrir el financiamiento de pensiones, de la siguiente manera:
+I. El 10% del sueldo sujeto a cotización, para cubrir las prestaciones de servicios de salud;
 
-a. 5.65% para el fondo del sistema solidario de reparto.
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+II. El 9.27% del sueldo sujeto a cotización, para cubrir el financiamiento de pensiones, de la siguiente manera:
+
+a. 7.42% para el fondo del sistema solidario de reparto.
 
 b. 1.85% para el sistema de capitalización individual.
 
 III. Las que determine anualmente el Consejo Directivo para otras prestaciones, señaladas en el Título IV;
 
-IV. El 1% del sueldo sujeto a cotización, para financiar los gastos generales de administración.
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+IV. El 0.875% para gastos de administración;
 
 V. Las que se generen a cargo de las Instituciones públicas por concepto de riesgos de trabajo.
 
@@ -877,9 +889,9 @@ Cuando exista la presunción de una desproporción en las percepciones computabl
 
 Las pensiones que otorga esta ley, se basan en un régimen mixto, siendo una parte de beneficios definidos denominado sistema solidario de reparto y otra de contribuciones definidas denominado sistema de capitalización individual.
 
-> <small>(F. DE E., P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-El monto total para el financiamiento de pensiones de cada servidor público, es equivalente al 13% de su sueldo sujeto a cotización, del cual 9.75% se aplicará al fondo del sistema solidario de reparto y el 3.25% al sistema de capitalización individual.
+El monto total para el financiamiento de pensiones de cada servidor público, es equivalente al 16.77% de su sueldo sujeto a cotización, del cual el 13.52% se aplicará al fondo del sistema solidario de reparto y el 3.25% al sistema de capitalización individual.
 
 #### SECCION TERCERA. DEL SISTEMA SOLIDARIO DE REPARTO
 
@@ -901,11 +913,25 @@ La pensión del sistema solidario de reparto, no podrá ser superior al monto eq
 
 #### SECCION CUARTA. DE LA PENSION POR JUBILACION
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 88.
 
-La pensión por jubilación se otorgará a los servidores públicos que al retirarse de su empleo acrediten un mínimo de 35 años de servicio y 57 de edad. Para los servidores públicos que al momento de solicitar una pensión no tengan la edad requerida, se les computará cada año de servicio excedente por uno de edad, hasta que ambos conceptos sumen 92.
+La pensión por jubilación se otorgará a los servidores públicos que al retirarse de su empleo acrediten un mínimo de 35 años de servicio y 62 años de edad.
 
-Este precepto será aplicable para los servidores públicos que ingresen a partir del 1° de julio del 2002, respetándose sin excepción los derechos de los servidores públicos en activo.
+La edad para tener derecho a la pensión por jubilación, se incrementará gradualmente conforme a la tabla siguiente:
+
+AÑO EDAD
+
+2013 58 años
+
+2014 59 años
+
+2015 60 años
+
+2016 61 años
+
+2017 62 años
 
 ###### ARTICULO 89.
 
@@ -917,11 +943,11 @@ El servidor público que a partir de la vigencia de esta ley cumpla con los requ
 
 #### SECCION QUINTA. DE LA PENSION DE RETIRO POR EDAD Y TIEMPO DE SERVICIOS
 
-> <small>(F. DE E., P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 91.
 
-La pensión de retiro por edad y tiempo de servicios se concederá a los servidores públicos que habiendo cumplido 60 años de edad, acrediten ante el Instituto haber laborado cuando menos 17 años, y haber cubierto las cuotas correspondientes a este período.
+La pensión de retiro por edad y tiempo de servicios se concederá a los servidores públicos que habiendo cumplido 62 años de edad, acrediten ante el Instituto haber laborado cuando menos 17 años, y haber cubierto las cuotas correspondientes a este período.
 
 ###### ARTICULO 92.
 
@@ -967,9 +993,11 @@ El monto de la pensión a que se refiere el artículo anterior, se determinará 
 
 El pago de esta pensión procederá a partir del día siguiente a aquel en que el servidor público cause baja en el servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 93.
 
-El servidor público que se separe del servicio antes de cumplir 60 años de edad y haya cubierto cuotas al Instituto por un mínimo de 17 años, podrá reservarse el derecho a que se le otorgue la pensión de retiro por edad y tiempo de servicios que le corresponda al cumplir los 60 años de edad.
+El servidor público que se separe del servicio antes de cumplir 62 años de edad y haya cubierto cuotas al Instituto por un mínimo de 17 años, podrá reservarse el derecho a que se le otorgue la pensión de retiro por edad y tiempo de servicios que le corresponda al cumplir los 62 años de edad.
 
 Si el servidor público falleciera antes de cumplir la edad requerida para hacer efectivo este derecho, la pensión se otorgará a sus familiares y dependientes económicos en los términos previstos en el artículo 103 de esta ley.
 
@@ -1061,9 +1089,11 @@ En el caso de que el interesado no aceptara que la incapacidad que originó su i
 
 #### SECCION SEPTIMA. DE LA PENSION POR RETIRO EN EDAD AVANZADA
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 100.
 
-La pensión por retiro en edad avanzada se otorgará al servidor público que se separe del servicio por cualquier causa, habiendo cumplido 65 años de edad y cotizado por un mínimo de 15 años al Instituto.
+La pensión por retiro en edad avanzada se otorgará al servidor público que se separe del servicio por cualquier causa, habiendo cumplido 67 años de edad y cotizado por un mínimo de 15 años al Instituto.
 
 ###### ARTICULO 101.
 
@@ -1622,3 +1652,13 @@ TERCERO.- Los servidores públicos que dejen de prestar sus servicios por haber 
 CUARTO.- Los requisitos de edad y tiempo de cotización para obtener una pensión por jubilación, edad y tiempo de servicios, edad avanzada, muerte e inhabilitación, serán aquellos que marcaba la normatividad vigente al momento de su último ingreso al servicio público, teniendo la opción de acogerse a los nuevos requisitos, a excepción del incremento en la tasa de reemplazo como estímulo por permanencia. En todos los casos el monto diario de pensión se determinará conforme a lo establecido en los artículos 68, 86 y 87 de la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
 
 QUINTO.- El Ejecutivo del Estado realizará las adecuaciones al reglamento interior del instituto en un plazo no mayor de treinta días a partir de la entrada en vigor del presente decreto.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los requisitos de edad y tiempo de cotización para obtener alguna de las pensiones a que se refiere esta ley, serán aquellos que correspondan al último ingreso al servicio público a excepción del incremento en la tasa de reemplazo como estímulo por permanencia. Para el cálculo del monto diario y tasas de reemplazo invariablemente se realizará conforme a las disposiciones de esta Ley.
+
+CUARTO.- El Órgano Superior de Fiscalización dará seguimiento permanente a la aplicación de los recursos del Instituto de Seguridad Social del Estado de México y Municipios.
