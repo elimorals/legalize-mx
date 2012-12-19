@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2012-08-10"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -613,9 +613,11 @@ Al frente de dicha dependencia y del Ministerio Público estará el Procurador G
 
 El Procurador General de justicia ejercerá sus atribuciones con base en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley Orgánica de la Administración Pública del Estado de México, en la presente ley y en otros ordenamientos jurídicos. Sus procedimientos serán eficaces y expeditos, procurando la simplificación y rapidez en sus actuaciones.
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-DENOMINACIÓN: La denominación de Procuraduría General de Justicia del Estado identifica tanto a la propia institución del Ministerio Público como a la forma de organización administrativa que asume, por lo que podrán utilizarse indistintamente para designar a una y otra. Lo anterior, sin perjuicio de las funciones de consejería jurídica, representación y demás atribuciones que, sin ser propias del Ministerio Público, se encuentren conferidas a la Procuraduría General de Justicia del Estado de México o al Procurador.
+DENOMINACIÓN: La denominación de Procuraduría General de Justicia del Estado identifica tanto a la propia institución del Ministerio Público como a la forma de organización administrativa que asume, por lo que podrán utilizarse indistintamente para designar a una y otra. Lo anterior, sin perjuicio de las funciones de atribuciones que, sin ser propias del Ministerio Público, se encuentren conferidas a la Procuraduría General de Justicia del Estado de México o al Procurador.
 
 ###### ARTÍCULO 31.
 
@@ -623,7 +625,7 @@ TITULARIDAD. El Procurador General de Justicia del Estado será:
 
 I. El jefe del Ministerio Público;
 
-II. El consejero jurídico del Gobierno del Estado; y
+II. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 III. El titular y representante de la Procuraduría General de Justicia del Estado.
 
@@ -767,23 +769,7 @@ XXIII. Intervenir en los convenios de coordinación operativa y de cooperación 
 
 XXIV. Las demás que le encomienden éste y los demás ordenamientos jurídicos o el Gobernador.
 
-B. Como consejero jurídico del Gobierno del Estado:
-
-I. Proponer proyectos de iniciativas de ordenamientos jurídicos o de reforma o adiciones, relativos a la procuración y administración de justicia;
-
-II. Dar su opinión sobre la constitucionalidad de los proyectos de ley o de reforma a ordenamientos jurídicos vigentes, que le envíe el Gobernador para su estudio;
-
-III. Hacer del conocimiento del Ejecutivo las leyes, decretos y reglamentos que sean contrarios a la Constitución General y del Estado, a fin de que se promueva su reforma o derogación;
-
-IV. Comunicar al Ejecutivo del Estado los defectos que encontrare en los ordenamientos legales de la Entidad, proponiendo, en su caso, las enmiendas necesarias;
-
-V. Proponer al Gobernador, en el ámbito de su competencia, acciones y mecanismos de coordinación que coadyuven a la integración y consolidación del sistema de justicia del Estado;
-
-VI. Prestar el asesoramiento técnico-jurídico, que por acuerdo del Gobernador se requiera, en asuntos tratados en reuniones de titulares de las dependencias de la Administración Pública;
-
-VII. Dar su opinión en otros asuntos, cuando se le solicite u ordene; y
-
-VIII. Las demás que le confieran éste y otros ordenamientos o el Gobernador.
+B. (DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
 
 C. Son atribuciones del Procurador:
 
@@ -1160,3 +1146,17 @@ G.G. 10 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo deberá expedir el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO.- Las atribuciones y facultades que se otorgan a la Consejería Jurídica del Ejecutivo Estatal en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídico administrativos necesarios para su funcionamiento, serán ejercidas por conducto de la estructura orgánica de la Subsecretaría de Asuntos Jurídicos.
+
+QUINTO.- Los recursos humanos, materiales y financieros de la Subsecretaría de Asuntos Jurídicos, serán transferidos a partir de la entrada en vigor del presente Decreto a la Consejería Jurídica del Ejecutivo Estatal.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
