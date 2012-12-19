@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2012-10-24"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 19 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -473,13 +473,11 @@ El Estado y los Municipios se integrarán al Sistema Nacional, mediante instanci
 
 ### CAPÍTULO IV. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
 
 ###### Artículo 22.
 
-ElSecretariadoEjecutivo (sic) es el órgano desconcentrado de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Morelos, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión presupuestal, y se integrará por las unidades administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento y buen desempeño de sus funciones, de conformidad con el presupuesto autorizado.
+El Secretariado Ejecutivo es el órgano desconcentrado de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Morelos, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión presupuestal, y se integrará por las unidades administrativas y operativas, el personaltécnico (sic), administrativo, de asesoría y apoyo que se requiera para el cumplimiento de su pluralidad funcional y dada su naturaleza, de conformidadconel (sic) presupuesto autorizado.
 
 Dependerá directamente del titular del Ejecutivo del Estado. Su organización y procedimientos específicos se establecerán en el reglamento interno que para tal efecto se expida, el cual invariablemente deberá considerar como parte de su estructura orgánica a la unidad académica encargada de capacitar, evaluar y certificar a las instituciones y auxiliares de la seguridad pública.
 
@@ -795,8 +793,6 @@ IV. Acordar formas de colaboración entre comunidad y policía.
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 42.
 
 Son Autoridades en materia de Seguridad Pública:
@@ -807,9 +803,9 @@ a) El Gobernador;
 
 b) El Secretario de Gobierno;
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+(REFORMADO, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
 
-c) El Secretario de Seguridad Pública, en su calidad de Secretario Ejecutivo del Sistema;
+c) El Secretario de Seguridad Pública, con ese carácter y en su calidad de titular del Secretariado Ejecutivo del Sistema;
 
 d) El Procurador General de Justicia;
 
