@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2011-12-20"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -433,13 +435,31 @@ Los sujetos de este impuesto están obligados a:
 
 I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Finanzas del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
 
-II. Presentar declaraciones en las oficinas autorizadas utilizando las formas aprobadas para el efecto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+II. Presentar declaraciones mensuales, en los lugares, medios y formatos electrónicos señalados para tal efecto;
 
 III. Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije;
 
-IV. Recibir las visitas de inspección y proporcionar a los auditores fiscales comisionados para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Llevar libros o registros y expedir la documentación comprobatoria tanto de sus ingresos como del pago del impuesto.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IV. Recibir las visitas de inspección y proporcionar a los auditores fiscales comisionados para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+V. Llevar libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VI. Presentar declaración anual informativa a más tardar en el mes de abril del siguiente año, en las formas aprobadas que dé a conocer la autoridad.
 
 ###### Artículo 33.
 
@@ -483,7 +503,11 @@ II.- El domicilio convencional o fiscal del tenedor o usuario del vehículo se l
 
 Para efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-Los contribuyentes pagarán el impuesto por año de calendario ante las oficinas autorizadas durante los cuatro primeros meses, salvo en los casos de vehículos nuevos o importados, supuestos en los que el impuesto deberá calcularse y enterarse previamente al momento en el cual se solicite el registro del vehículo en el padrón vehicular o realice cualquier trámite tendiente a obtener la autorización o permiso de cualquier índole para circulación en traslado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los contribuyentes pagarán el impuesto por año de calendario ante las oficinas autorizadas durante los seis primeros meses, salvo en los casos de vehículos nuevos o importados, supuestos en los que el impuesto deberá calcularse y enterarse previamente al momento en el cual se solicite el registro del vehículo en el padrón vehicular o realice cualquier trámite tendiente a obtener la autorización o permiso de cualquier índole para circulación en traslado.
 
 El impuesto se pagará en las oficinas o instituciones autorizadas por la Secretaría de Finanzas del Estado.
 
@@ -1019,9 +1043,23 @@ XIII.- Pagos de servicio de transporte;
 
 XIV.- Pagos de primas de seguros para gastos médicos o de vida;
 
-XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto Sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último; o
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI.- Cualquier otra erogación realizada por concepto de trabajo personal subordinado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XVI.- El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado; o
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XVII.- Cualquier otra erogación realizada por concepto de trabajo personal subordinado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1033,7 +1071,17 @@ Son sujetos de este impuesto las personas físicas o morales que realicen los pa
 
 La Federación, el Estado, los Municipios, los organismos autónomos y las entidades paraestatales federales, estatales o municipales están obligados al pago de este impuesto.
 
-Son responsables solidarios del pago de este impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros o intermediarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Son responsables solidarios del pago de este impuesto quienes contraten, subcontraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros o intermediarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Se entiende por subcontratación, el trabajo por medio del cual un contratista o subcontratista ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados, la cual fija las tareas a realizar y supervisa el desarrollo de los servicios o la ejecución de las obras contratadas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1051,15 +1099,27 @@ Para este efecto, la Secretaría de Finanzas del Estado presumirá como base del
 
 a) El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores;
 
-b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y
+b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y (sic)
 
-c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción, aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+d) El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 49.
 
-Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se refiere el artículo 47 de la presente ley.
+Los sujetos de este impuesto deberán calcularlo, aplicando a la base obtenida a que se refiere el artículo 47 de la presente ley, la tasa del 2 por ciento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1067,27 +1127,43 @@ Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se re
 
 Para los efectos de este Capítulo, el impuesto se causará cuando se realice cualquiera de los supuestos siguientes:
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 I.- Se pague total o parcialmente el monto de las erogaciones por concepto de remuneraciones al trabajo personal subordinado a que se refiere el artículo 47 de esta ley;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 II.- Se expida el comprobante que ampare la prestación del servicio; o
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 III.- Se otorgue la relación de trabajo o cualquier acto que dé origen a la prestación de un trabajo personal subordinado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 50.
 
-Este impuesto se causará en el momento que se realicen las erogaciones que constituyen su objeto y su pago deberá realizarse en los lugares, medios y formas autorizados por la Secretaría de Finanzas del Estado, mediante declaración mensual, a más tardar el día 15 del mes siguiente al que corresponda el impuesto declarado.
+Los sujetos directos obligados y los retenedores de éste impuesto deberán realizar el entero del mismo en los lugares, medios y formas autorizados por la Secretaría de Finanzas del Gobierno del Estado, mediante declaración mensual, a más tardar el día 15 del mes siguiente al que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 La obligación de presentar la declaración mensual subsistirá aun cuando no hubiese cantidad a cubrir.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 El contribuyente que tenga diversas sucursales en el territorio del Estado, deberá realizar un solo pago concentrado por todas sus oficinas en una declaración, previo aviso a la autoridad fiscal, debiendo anexar a cada pago concentrado una relación de todas las sucursales con que cuente, indicando para cada una su domicilio, número de empleados e importe de salarios pagados en el período de la declaración y el monto del impuesto correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 En caso de que se modifique el número de sucursales, se deberá presentar una nueva solicitud de autorización para pagos concentrados.
 
@@ -1097,23 +1173,23 @@ Son obligaciones de los sujetos de este impuesto:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-I.- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas o medios aprobados; las personas físicas o morales estarán obligadas a exhibir originales y a entregar una copia de sus documentos de Identidad: acta de nacimiento, clave única de registro de población y credencial para votar con fotografía vigente en el caso de personas físicas; acta constitutiva en el caso de personas morales y, en el caso de los extranjeros, permiso de trabajo en el país; y comprobante de domicilio para los tres supuestos, así como documentos que demuestren la representación legal recibida, en su caso.
+I.- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas o medios aprobados; las personas físicas o morales estarán obligadas a exhibir originales y entregar una copia de sus documentos de identidad: acta de nacimiento, clave única de registro de población y credencial para votar con fotografía o licencia de conducir expedida por esta Entidad vigentes, en el caso de personas físicas; acta constitutiva, así como el documento que acredite la representación legal, en el caso de personas morales y, en el caso de los extranjeros, original del documento migratorio vigente con la debida autorización del Instituto Nacional de Migración; y comprobante de domicilio para los tres supuestos.
 
 La Secretaría de Finanzas del Estado de oficio podrá inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
 
 II.- Presentar ante las mismas autoridades los avisos de cambios de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado;
 
-III.- Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto; y
+III.- Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto; y (sic)
 
 IV.- Cuando los sujetos operen con varios establecimientos deberán acumular la información de todos ellos en la declaración que corresponda su domicilio fiscal en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados;
+V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo II, Sección III, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1129,21 +1205,29 @@ VII.- Registrar su calidad de contribuyentes, para efectos de pago y control, se
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-VIII.- Retener y enterar este impuesto las personas físicas o morales que contraten la prestación de servicios de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta Entidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado; y
+VIII.- Retener y enterar este impuesto, las personas físicas o morales que contraten o subcontraten la prestación de servicios, de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad en las formas aprobadas que dé a conocer la autoridad;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-X.- Presentar declaración anual informativa durante el mes de abril del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto.
+IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+X.- Presentar declaración anual informativa a más tardar en el mes de abril del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XI.- Las personas físicas y morales que lleven a cabo la retención de este impuesto deberán expedir la constancia correspondiente por cada una de las operaciones que realice, en las formas aprobadas que dé a conocer la autoridad.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 52.
 
@@ -1151,33 +1235,63 @@ Están exentos del pago de este impuesto:
 
 I. Las erogaciones que se cubran por concepto de:
 
-a) Participación de los trabajadores en las utilidades de las empresas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+a) La participación de los trabajadores en las utilidades de las empresas, que reciban de sus patrones durante un año de calendario, hasta el equivalente del salario mínimo general del área geográfica de la Capital del Estado, elevado a 15 días, por cada uno de los trabajadores que recibieron su pago;
 
 b) Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de acuerdo con las leyes o contratos respectivos;
 
 c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-d) Indemnizaciones por rescisión o terminación, que tengan su origen en la prestación de servicios personales subordinados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-e) Pagos por primas de antigüedad;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+d) Primas de antigüedad, retiro e indemnizaciones, por la terminación de una relación laboral, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica de la capital del Estado por cada año de servicio. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de éste Capítulo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2012)
 
 f) Pagos por gastos funerarios;
 
-g) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+g) Los viáticos efectivamente erogados en servicio y por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
 
 h) Las aportaciones de seguridad social;
 
-i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y de la empresa, y las cantidades otorgadas por el patrón para fines sociales y sindicales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-k) Las despensas en especie. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga.
+i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y del patrón, y las cantidades otorgadas por el patrón para fines sociales y sindicales; siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta;
+
+j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga: y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del contribuyente y manifestarse en la declaración anual del ejercicio que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+l) Los pagos de primas por seguros de vida de Técnicos o Dirigentes, a que se refiere el segundo párrafo de la fracción XIII del Artículo 31 de la Ley del Impuesto sobre la Renta.
+
+Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del contribuyente y manifestarse en la declaración anual informativa del ejercicio que corresponda.
 
 II. Las erogaciones que efectúen:
 
@@ -1247,15 +1361,39 @@ El cobro de los derechos establecidos en el presente Título III dará lugar, en
 
 Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, se causarán conforme a la siguiente tarifa:
 
-I. Búsqueda de expedientes y documentos, tres días de salario mínimo certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratándose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I. Búsqueda de expedientes y documentos, tres días de salario mínimo; certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo;
 
 II. Legalización o ratificación de firmas, por cada firma, tres días de salario mínimo;
 
 III. Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones, 3 días de salario mínimo;
 
-IV. Apostillamiento de documentos, cinco días de salario mínimo; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres días de salario mínimo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IV. Apostillamiento de documentos, cinco días de salario mínimo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres días de salario mínimo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VI. Impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal electrónica, 60 centavos por hoja; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, 1 día de salario mínimo, por cada disco que expida.
 
 ###### Artículo 60.
 
@@ -1287,9 +1425,9 @@ IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalizaci
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 62.
 
@@ -1297,11 +1435,11 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I. INSCRIPCIONES.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias relativas al nacimiento y demás hecho y actos previstos en este numeral. La inscripción de hechos relativos al nacimiento se hará sin pago alguno de derechos;
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos previstos en este numeral, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, para personas de cero a quince años, se hará sin pago alguno de derechos;
 
 2. Inscripción de actas de matrimonio, diez días de salario mínimo;
 
@@ -1425,7 +1563,7 @@ e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo not
 
 XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
@@ -1493,7 +1631,7 @@ VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaci
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-VIl. Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio los organismos encargados de regularización de la tenencia de la tierra, federales, estatales o municipales, realicen o efectúen para regularizar la tenencia de la tierra a sus ocupantes, mediante su enajenación; y
+VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio los organismos encargados de regularización de la tenencia de la tierra, federales, estatales o municipales, realicen o efectúen para regularizar la tenencia de la tierra a sus ocupantes, mediante su enajenación; y
 
 VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
 
@@ -1763,7 +1901,7 @@ Con base en las tarifas previstas en este precepto, el Ejecutivo del Estado, por
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-I.- Servicios de control vehicular, que se prestan:
+I. Servicios de control vehicular, que se prestan:
 
 a).- Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho días de salario mínimo; y
 
@@ -1775,7 +1913,7 @@ Las personas físicas o morales que adquieran vehículos de motor o remolques, n
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-II.- La asignación del número de control vehicular y de la documentación correspondiente a vehículos del servicio público de transporte:
+II. La asignación del número de control vehicular y de la documentación correspondiente a vehículos del servicio público de transporte:
 
 1.- De pasajeros:
 
@@ -1809,19 +1947,23 @@ d).- Mensajería y valores, cien días de salario mínimo; y
 
 e).- Reparto de productos o servicios, treinta y seis días de salario mínimo.
 
-Los derechos comprendidos en esta fracción y la anterior, deberán pagarse dentro de los cuatro primeros meses del año, de conformidad con las disposiciones de las autoridades correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los derechos comprendidos en esta fracción y la anterior, deberán pagarse dentro de los seis primeros meses del año, de conformidad con las disposiciones de las autoridades correspondientes;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-III.- El cambio de características y de modalidad de los vehículos que prestan el servicio público de transporte, causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
+III. El cambio de características y de modalidad de los vehículos que prestan el servicio público de transporte, causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
 
 IV. Por la expedición de placas de demostración, cincuenta días de salario mínimo. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
 
 VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público del transporte, así como para la prórroga de su vigencia, cien días de salario mínimo, por cada unidad;
 
@@ -1839,7 +1981,7 @@ XI. Por la expedición de licencia de chofer para conducir vehículos en los que
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XII.- Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, cuatro días de salarlo mínimo;
+XII. Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, cuatro días de salarlo mínimo;
 
 XIII. Por la autorización de modificaciones de recorrido y de nuevas rutas del servicio público de transporte de pasajeros, doscientos cincuenta días de salario mínimo;
 
@@ -1855,39 +1997,45 @@ XV. Por reposición de la tarjeta de circulación y por el trámite de la solici
 
 XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis días de salario mínimo;
 
-XVII. Por la expedición de licencia para conducir vehículos, de motociclista, automovilista o chofer, ocho días de salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XVII. Por la expedición de licencia de conducir para chofer, automovilista o motociclista, ocho días de salario mínimo; dicha licencia tendrá una vigencia de dos años, contados a partir de la fecha de su expedición;
 
 XVIII. Envío de documentación oficial a domicilio ubicado en el Estado, un día y medio de salario mínimo;
 
-XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y
+XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y (sic)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XX.- Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres días de salario mínimo; y
+XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres días de salario mínimo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XXI.- Por la expedición de la cédula de emisión de gases contaminantes, cuatro días de salario mínimo.
+XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro días de salario mínimo.
 
 ###### Artículo 74.
 
 Se exime del pago de los derechos previstos por el artículo anterior, en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. De un 50 por ciento, a los comprendidos en las fracciones I, inciso a) y V; en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de "discapacitado", y que de acuerdo con la normatividad vigente, sus propietarios tengan derecho a ello, se eximirá el 100 por ciento; en el caso de que la persona propietaria del vehículo no sea la persona discapacitada, pero que acredite la utilización del mismo para el transporte y ejecución de las actividades cotidianas que debe realizar una persona con capacidades diferentes, se le otorgarán las placas con identificación de "discapacitado", y en cuyo caso no se aplicará la exención del pago de derechos por servicios para el control vehicular, siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I. De un 50 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de “discapacitado”, lo cual solo se podrá autorizar a personas físicas con discapacidad motriz permanente, en una sola ocasión por año y que de acuerdo con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, se eximirá el 100 por ciento; en el caso de que la persona propietaria del vehículo no sea la persona discapacitada, pero que acredite la utilización del mismo para el transporte y ejecución de las actividades cotidianas que debe realizar una persona con capacidades diferentes, se le otorgarán las placas con identificación de “discapacitado”, pero no se aplicará la exención del pago de derechos por servicios para el control vehicular, siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior; y
 
 II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado.
 
 ### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
 
@@ -1905,7 +2053,7 @@ Mediana 51-250 31-100 51-100
 
 I. Por los servicios de registro de descarga de aguas residuales, conforme a la siguiente tarifa:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1919,7 +2067,7 @@ e) Mediana empresa, ciento cincuenta y cinco días de salario mínimo; y
 
 d) Gran empresa, ciento noventa y ocho días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1955,7 +2103,7 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 4. Por el otorgamiento de la autorización de manejo y para la operación de sitios de disposición final de residuos de manejo especial, doscientos un días de salario mínimo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1963,7 +2111,7 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 6. Evaluación del estudio de riesgo, setenta y cinco días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2017,25 +2165,25 @@ IX. Por la autorización para la recolección y transporte de residuos de manejo
 
 X. Por la inscripción en el Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL,VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 1. Microempresa, once días de salario mínimo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2043,25 +2191,25 @@ X. Por la inscripción en el Registro Estatal Ambiental, se pagarán las siguien
 
 XI. Por el cambio de Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 1. Microempresa, once días de salario mínimo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2085,7 +2233,7 @@ En el caso de la evaluación de Cédulas de Operación Anual de las que no se ha
 
 XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de contaminantes atmosféricos generados por fuentes móviles, así como por cada unidad móvil, mil días de salario mínimo, según se trate. Dicho cobro se realizará anualmente durante la vigencia de la licencia, autorización o concesión otorgada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2107,13 +2255,13 @@ XIII. Por los servicios de verificación vehicular de medición de los niveles d
 
 5. Por la expedición del holograma correspondiente, hasta tres días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un quince por ciento de un día de salario mínimo por metro cúbico proyectado a utilizarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2143,7 +2291,7 @@ XVIII. Por la recepción, evaluación y resolución de la autorización para un 
 
 XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de un día de salario mínimo por unidad de motor y capacidad de carga que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 ###### Articulo 76.
 
@@ -2599,7 +2747,11 @@ Por cualquier otro servicio que se ajuste a la definición de derechos prevista 
 
 ###### Artículo 99.
 
-Se pagarán los derechos por las cuotas de inscripción y reinscripción que se generen en las instituciones de educación media superior y superior del Estado, conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
+Se pagarán los Derechos por los servicios que prestan los organismos públicos descentralizados del Estado conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 Los ingresos recaudados por las dependencias de la administración estatal en términos de los diversos conceptos que establecen las leyes fiscales, deberán ser depositados para su registro en la Secretaría de Finanzas; a su vez, los ingresos propios que recauden las dependencias de la administración estatal se informarán y depositarán en la Secretaría de Finanzas. En ambos casos, los ingresos deberán reflejarse, cualquiera que sea su naturaleza, en la cuenta de la hacienda pública estatal.
 
@@ -2759,11 +2911,11 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO No. LX-645, POR EL QUE SE DEROGA EL ARTICULO 90 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-645, POR EL QUE SE DEROGA EL ARTÍCULO 90 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -2771,7 +2923,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO No. LX-649, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 62, 75 Y 76 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-649, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 62, 75 Y 76 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -2850,3 +3002,13 @@ Estos serán distribuidos en proporción a la recaudación que se obtenga de dic
 ###### ARTÍCULO QUINTO.
 
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento del mismo y se resolverán conforme a dichos preceptos hasta su culminación.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+En tratándose de la expedición de la licencia para conducir a que se refieren las fracciones XI y XVII del artículo 73 de la Ley de Hacienda para el Estado de Tamaulipas, se entenderá que su vigencia concluye hasta el día y mes correspondiente a la fecha de nacimiento del titular de la misma, posterior al vencimiento a que hace referencia el propio artículo 73.
