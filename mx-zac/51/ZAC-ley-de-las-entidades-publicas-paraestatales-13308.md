@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-las-entidades-publicas-paraestatales-13308"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-07"
-last_updated: "1999-06-19"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE LAS ENTIDADES PUBLICAS PARAESTATALES
 
-LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES
+LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 7 de enero de 1989.
 
@@ -203,9 +203,11 @@ II. Haber desempeñado cargos a nivel de decisión, cuyo ejercicio requiera cono
 
 III. No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II, III, IV, y V del artículo 17 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 20.
 
-Los Directores Generales de los Organismos Descentralizados, en lo tocante a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
+Los Directores Generales de los Organismos Descentralizados en lo tocante a su representación legal, sin perjuicio de las facultades que les otorguen en otras leyes, ordenamientos y estatutos, y de lo dispuesto por el artículo 21 Bis de este ordenamiento, estarán facultados para:
 
 I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
@@ -228,6 +230,22 @@ Los Directores Generales ejercerán las facultades a que se refieren las fraccio
 ###### ARTICULO 21.
 
 Para acreditar la personalidad y facultades según el caso, de los miembros del órgano de gobierno, el secretario y prosecretario de éste, del director general y de los apoderados generales de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 21 BIS.- Se crea el Comité Estatal de Licitaciones y Contratos de la Administración Pública Descentralizada, cuyo objeto será realizar licitaciones públicas, organizar y ejecutar los programas de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles de los organismos públicos descentralizados, en los términos de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Obra pública y Servicios Relacionados con las Mismas, ambas vigentes en el Estado de Zacatecas.
+
+El Comité estará integrado por los titulares de las Secretarías de Finanzas, de Planeación y Desarrollo Regional, la Oficialía Mayor y la Contraloría Interna, quienes podrán designar a un suplente que los represente.
+
+Para la ejecución de los acuerdos, actos y procedimientos del Comité contará con un Secretario Técnico, el cual será electo por la mayoría de sus integrantes.
+
+El Órgano de Gobierno de cada Organismo Público Descentralizado y el Comité referido en el presente artículo, deberán coordinarse en materia de adquisiciones y obra pública. Dichos Órganos de Gobierno podrán designar un servidor público que los representará, sólo con derecho a voz, en lo que a su derecho convenga, en los procedimientos de licitación y en las demás actividades desarrolladas por el Comité Estatal de Licitaciones y Contratos de la Administración Pública Descentralizada.
+
+Los lineamientos, organización y atribuciones del Comité, se establecerán en el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 21 TER.- Para efectos de dar cumplimiento a lo señalado en el artículo anterior, se deberán observar las especificaciones contenidas en el Manual de Normas y Políticas del Ejercicio del Gasto para los Organismos Públicos Descentralizados, que para cada ejercicio fiscal se emita.
 
 SECCION B
 
@@ -447,9 +465,11 @@ El órgano de gobierno para el logro de los objetivos y metas de sus programas, 
 
 El órgano de gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y salvo aquellas facultades a que se contrae el artículo siguiente, podrá delegar discrecionalmente sus facultades en el director general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 56.
 
-Los Organos de Gobierno de las entidades paraestatales, tendrán las siguientes funciones indelegables:
+Los Órganos de Gobierno de las entidades paraestatales, tendrán las siguientes funciones indelegables:
 
 I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
@@ -463,7 +483,9 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere n
 
 VI. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
 
-VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos, y prestación de servicios relacionados con bienes inmuebles. El director general de la entidad y en su caso, los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VII. Aprobar, en coordinación con el Comité Estatal de Licitaciones y Contratos de la Administración Pública Descentralizada y de acuerdo con las leyes aplicables, así como el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos, y prestación de servicios relacionados con bienes inmuebles.
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma. Aprobar asimismo y, en su caso, el estatuto orgánico tratándose de organismos descentralizados;
 
@@ -632,3 +654,13 @@ P.O. 19 DE JUNIO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 SEGUNDO.- Las entidades paraestatales creadas con anterioridad a la vigencia del presente Decreto, conservarán la estructura que adquirieron con base en la Ley o Decreto que les dio origen.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El Titular del Ejecutivo del Estado deberá emitir dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Reglamento Interior del Comité Estatal de Licitaciones y Contratos de la Administración Pública Descentralizada.
+
+TERCERO.- Dentro del término de treinta días siguientes a la entrada en vigor del presente Decreto, la Comisión Intersecretarial de Gasto Financiamiento, deberá emitir Manual de Normas y Políticas del Ejercicio del Gasto para los Organismos Públicos Descentralizados.
+
+CUARTO.- A partir de la entrada en vigor de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, aprobada por esta Sexagésima Legislatura del Estado, en fecha 31 de mayo del 2012, el Comité Estatal de Licitaciones y Contratos de la Administración Pública Descentralizada, se integrará por los titulares de las Secretarías, de Finanzas, de Administración, de Infraestructura y de la Función Pública, mismos que podrán designar a un suplente que los represente.
