@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2011-12-20"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -73,15 +75,35 @@ b) Congreso: El Congreso del Estado de Tamaulipas;
 
 c) Ley: La Ley de Coordinación Fiscal del Estado;
 
-d) Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal de carácter Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+d).- Ley de Coordinación Fiscal Federal: La Ley de Coordinación Fiscal de carácter federal;
 
 e) Participaciones: Las asignaciones que corresponden a los municipios derivadas de los ingresos federales, de conformidad con la Ley de Coordinación Fiscal;
 
 f) Periódico Oficial: El Periódico Oficial del Estado de Tamaulipas;
 
-g) Secretaria de Finanzas: La Secretaria de Finanzas del Gobierno del Estado de Tamaulipas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+g).- Secretaría de Finanzas: La Secretaría de Finanzas del Gobierno del Estado de Tamaulipas;
 
 h) Sistema de Coordinación Fiscal: El Sistema de Coordinación Fiscal del Estado de Tamaulipas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+i).- Fortamun: Fondo para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+j).- Fismun: Fondo a la Infraestructura Social Municipal.
 
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS EN MATERIA DE INGRESOS FEDERALES
 
@@ -89,17 +111,33 @@ h) Sistema de Coordinación Fiscal: El Sistema de Coordinación Fiscal del Estad
 
 Además de las participaciones federales establecidas en la presente ley, los municipios recibirán directamente de la Federación las establecidas en el artículo 2-A, fracciones I y II de la Ley de Coordinación Fiscal de la Federación, en los términos establecidos en dicho ordenamiento.
 
-De las participaciones federales que correspondan al Estado, la Secretaría de Finanzas determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la ley de Coordinación Fiscal establezca, en las proporciones que se señalan en el artículo 4 de la presente ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+De las participaciones federales que correspondan al Estado, la Secretaría de Finanzas determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la Ley de Coordinación Fiscal Federal establezca, en las proporciones que se señalan en el artículo 4 de la presente ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
 
 ###### ARTICULO 4.
 
 A los municipios les corresponde y percibirán ingresos por concepto de las participaciones federales que reciba el Estado, dentro del ejercicio de que se trate, en la proporción que para cada Fondo se establece a continuación:
 
-I. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo General de Participaciones, de acuerdo a la ley de Coordinación Fiscal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la Ley de Coordinación Fiscal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-III. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones por el Impuesto Especial sobre Producción y Servicios, de acuerdo a la Ley de Coordinación Fiscal;
+I.- El 20 por ciento como mínimo, de las cantidades que el Estado reciba por concepto de participaciones del Fondo General de Participaciones, de acuerdo a la Ley de Coordinación Fiscal Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+II.- El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la Ley de Coordinación Fiscal Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+III.- El 20 por ciento como mínimo, de las cantidades que el Estado reciba por concepto de participaciones por el Impuesto Especial sobre Producción y Servicios, de acuerdo a la Ley de Coordinación Fiscal Federal;
 
 IV. El 20 por ciento como mínimo, de los recursos provenientes del Fondo de Fiscalización;
 
@@ -107,13 +145,29 @@ V. El 20 por ciento como mínimo, derivado de los recursos que reciba la entidad
 
 VI. El 20 por ciento como mínimo, de los 9/11 que el Estado perciba por concepto de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en su territorio;
 
-VII. El 20 por ciento como mínimo de las cantidades que el Estado recaude por concepto de participaciones del Impuesto Sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. El 20 por ciento como mínimo de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto de acuerdo a la ley de Coordinación Fiscal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-IX. El 50 por ciento de los ingresos que correspondan al Estado por servicios de prevención y control de la contaminación del medio ambiente, previstos en la Ley de Hacienda del Estado, en los términos de los convenios que suscriban los Municipios con el Estado;
+VII.- El 20 por ciento como mínimo, de las cantidades que el Estado recaude por concepto de participaciones del Impuesto sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal Federal;
 
-X. Con el porcentaje del importe de las multas administrativas federales no fiscales impuestas por autoridades federales a infractores domiciliados dentro de la circunscripción territorial de cada municipio, de conformidad con los términos de los convenios que suscriban los Municipios con el Estado, de acuerdo a lo establecido en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos que el Estado tiene suscrito con la Federación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+VIII.- El 20 por ciento como mínimo, de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011, cuando la Federación participe al Estado con el 100 por ciento de este impuesto de acuerdo a la Ley de Coordinación Fiscal Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+IX.- El 50 por ciento de los ingresos que correspondan al Estado por Derechos por Servicios de Prevención y Control de la Contaminación del Medio Ambiente, previstos en la Ley de Hacienda del Estado, en los términos de los convenios que suscriban los Municipios con el Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+X.- Con el porcentaje del importe de las multas administrativas federales no fiscales impuestas por autoridades federales a infractores domiciliados dentro de la circunscripción territorial de cada Municipio, de conformidad con los términos de los convenios que suscriban los Municipios con el Estado, de acuerdo a lo establecido en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos que el Estado tiene suscrito con la Federación;
 
 XI. El 80 por ciento de los ingresos que obtengan los municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítimo terrestre, así como el 100 por ciento de los gastos de ejecución y de las multas impuestas por los Ayuntamientos, en los términos del Código Fiscal de la Federación, relacionadas con esta materia, en los términos de los convenios que suscriban los municipios con el Estado, de acuerdo a lo dispuesto en el Convenio de Colaboración Administrativa en Materia Fiscal y sus anexos que el Estado tiene suscrito con la Federación;
 
@@ -121,19 +175,31 @@ XII. El porcentaje de los ingresos que perciba el Estado por concepto de incenti
 
 XIII. Las demás que les correspondan conforme a la legislación federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 5.
 
-El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial, el calendario de entrega y los montos estimados de las participaciones federales a que se refiere el artículo 4 de la presente ley, en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos.
+El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial el calendario de entrega y los montos estimados de las participaciones federales a que se refiere el artículo 4 de la presente ley, en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 6.
 
-El Congreso del Estado, de conformidad con las disposiciones de esta ley establecerá los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponden a los Municipios.
+El Congreso del Estado, de conformidad con las disposiciones de esta ley, establecerá los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponden a los Municipios.
 
 ###### ARTICULO 7.
 
 Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, III y VII del artículo 4 de esta ley, integrarán el Fondo Estatal de Participaciones a Municipios.
 
-Los factores que deberán aplicarse para la distribución de los montos a cada municipio de las participaciones federales, se determinarán de acuerdo a lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los factores que deberán aplicarse para la distribución de los montos a cada Municipio de las participaciones federales, se determinarán de acuerdo a lo siguiente:
 
 I.- El 14 por ciento del mismo por partes iguales a cada uno de los 43 Municipios.
 
@@ -163,33 +229,59 @@ Donde:
 
 CE = Coeficiente de participación del Municipio "i" en el año para el que se efectúa el cálculo.
 
-Ati =Monto de la recaudación del impuesto sobre tenencia o uso de automóviles obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este impuesto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TAt =Suma de la recaudación que por el impuesto sobre tenencia o uso de automóviles haya obtenido el Estado en todos los Municipios.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Para los efectos de la fórmula anterior se entiende por recaudación del impuesto sobre tenencia o uso de automóviles el monto efectivamente cobrado durante el ejercicio de que se trate, sin incluir accesorios.
+Ati = Monto de la recaudación del Impuesto Sobre Tenencia o Uso de Automóviles obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Impuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+TAt = Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Automóviles, haya obtenido el Estado en todos los Municipios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Para los efectos de la fórmula anterior se entiende por recaudación del Impuesto sobre Tenencia o Uso de Automóviles el monto efectivamente cobrado durante el ejercicio de que se trate, sin incluir accesorios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 8.
 
-Será la Auditoría Superior del Congreso la que proporcione a la Secretaría de Finanzas, la información de la recaudación del Impuesto Predial de los municipios, y de los Derechos de Agua que obtengan los organismos operadores, a más tardar el último día del mes de febrero del año siguiente al que se informa.
+Será la Auditoría Superior del Congreso del Estado la que proporcione a la Secretaría de Finanzas, la información de la recaudación del Impuesto Predial de los municipios, y de los Derechos de Agua que obtengan los organismos operadores, a más tardar el último día del mes de febrero del año siguiente al que se informa.
 
 ###### ARTICULO 9.
 
 Adicionalmente, los municipios percibirán recursos de los fondos señalados en las fracciones IV, V y VI del artículo 4 de esta ley, debiendo asignarse según se trate, de la siguiente manera:
 
-I. El Fondo de Fiscalización se distribuirá trimestralmente tomando como base el crecimiento porcentual de cada uno de los Municipios, del Impuesto Predial y de los Derechos de Agua comparando los dos ejercicios fiscales anteriores al actual, se determinará la sumatoria de los porcentajes, se dividirá el porcentaje de cada municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I. El Fondo de Fiscalización se distribuirá trimestralmente tomando como base el crecimiento porcentual de cada uno de los Municipios, del Impuesto Predial y de los Derechos de Agua comparando los dos ejercicios fiscales anteriores al actual, se determinará la sumatoria de los porcentajes, se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo.
 
 II. El Fondo de Extracción de Hidrocarburos se distribuirá en un 60 por ciento a partes iguales entre los municipios productores o extractores de petróleo o gas en el Estado y en el 40 por ciento restante entre los demás municipios en partes iguales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios. Al respecto, mediante la comparación de los dos ejercicios fiscales anteriores al presente, se determinará la sumatoria de los porcentajes, y se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este fondo. Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de dicho Fondo, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución del propio Fondo. Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por Municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios. Al respecto, mediante la comparación de los dos ejercicios fiscales anteriores al presente, se determinará la sumatoria de los porcentajes, y se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo. Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de dicho Fondo, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución del propio Fondo. Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
 
 La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia de Participaciones de Ingresos Federales del Sistema Nacional de Coordinación Fiscal, mismo que la validará durante el mes de junio de cada año. Dicha información sustentará la distribución de los Fondos antes señalados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Las participaciones que corresponden a los Municipios derivadas del Impuesto sobre Tenencia o Uso de Vehículos, se distribuirán en proporción a la recaudación que se obtenga de dicho impuesto conforme al domicilio declarado por el contribuyente al efectuar su pago.
+Las participaciones que corresponden a los Municipios derivadas del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011, se distribuirán en proporción a la recaudación que se obtenga de dicho impuesto conforme al domicilio declarado por el contribuyente al efectuar su pago.
 
 ###### ARTICULO 11.
 
@@ -205,9 +297,13 @@ Las participaciones que correspondan a los Municipios respecto a los derechos de
 
 Durante los primeros cinco meses de cada ejercicio, las participaciones a que se refiere este capítulo, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se determinan los correspondientes al ejercicio de que se trate.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 14.
 
-Las participaciones federales a los municipios serán cubiertas en efectivo, sin restricción alguna y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal. Serán calculadas para cada ejercicio fiscal y se entregarán por conducto de la Secretaría de Finanzas, dentro de los cinco días siguientes a aquel en que el Estado las reciba efectivamente.
+Las participaciones federales a los municipios serán cubiertas en efectivo, sin restricción alguna y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal Federal. Serán calculadas para cada ejercicio fiscal y se entregarán por conducto de la Secretaría de Finanzas, dentro de los cinco días siguientes a aquél en que el Estado las reciba efectivamente.
 
 La Secretaría de Finanzas entregará a los municipios las constancias de recepción de las participaciones federales, en los cinco días posteriores a haberlas obtenido.
 
@@ -215,9 +311,11 @@ El retraso en la entrega ocasionará el pago de intereses a la tasa de recargos 
 
 En congruencia con lo señalado por el artículo 9° de la Ley de Coordinación Fiscal, las participaciones federales que correspondan a los municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los municipios con la autorización del Congreso e inscritas ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No estarán sujetos a lo dispuesto en el párrafo anterior, los anticipos que los municipios reciban a cuenta de las participaciones que les correspondan en términos de esta ley, así como las compensaciones que se requieran efectuar a los municipios como consecuencia de ajustes o descuentos que realice la Secretaría de Hacienda y Crédito Público al Estado en las participaciones de los ingresos federales que integran el Fondo Estatal de Participaciones a Municipios, determinados de conformidad con los previsto en la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+No estarán sujetos a lo dispuesto en el párrafo anterior, los anticipos que los municipios reciban a cuenta de las participaciones que les correspondan en términos de esta Ley, así como las compensaciones que se requieran efectuar a los municipios como consecuencia de ajustes o descuentos que realice la Secretaría de Hacienda y Crédito Público al Estado en las participaciones de los ingresos federales que integran el Fondo Estatal de Participaciones a Municipios, determinados de conformidad con lo previsto en la Ley de Coordinación Fiscal Federal.
 
 El Estado y los municipios están facultados para efectuar los pagos de las obligaciones garantizadas con la afectación de participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal del Estado de Tamaulipas.
 
@@ -225,9 +323,13 @@ El Estado y los municipios están facultados para efectuar los pagos de las obli
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y el Congreso del Estado, por conducto de la Auditoría Superior, pondrán a disposición de los municipios que lo soliciten, la información necesaria que les permita comprobar la correcta determinación de los factores de participación, así como la aplicación exacta de los mismos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 16.
 
-El Gobierno del Estado podrá otorgar apoyos especiales o extraordinarios a los municipios cuando lo estime necesario, al margen del Sistema de Coordinación Fiscal, siempre y cuando ello esté debidamente motivado y justificado, lo que no se considerará como participaciones. En ningún caso, los recursos adicionales otorgados a un municipio, disminuirán las participaciones que le correspondan de acuerdo a lo señalado en esta Ley.
+El Gobierno del Estado podrá otorgar apoyos especiales o extraordinarios a los municipios cuando lo estime necesario, al margen del Sistema de Coordinación Fiscal, siempre y cuando ello esté debidamente motivado y justificado, lo que no se considerará como participaciones. En ningún caso los recursos adicionales otorgados a un Municipio, disminuirán las participaciones que le correspondan de acuerdo a lo señalado en esta ley.
 
 Estos apoyos también podrán otorgarse entre municipios, con la aprobación por mayoría calificada de los Cabildos correspondientes.
 
@@ -245,21 +347,37 @@ II. El fondo de Aportaciones para el Fortalecimiento de los Municipios y de las 
 
 Los montos de recursos que integrarán los Fondos de Aportaciones señalados en el presente capítulo, serán los que se determinen en el Presupuesto de Egresos de la Federación en cada ejercicio fiscal.
 
-Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el párrafo anterior, se calcularán con base en la aplicación del factor que determine la Secretaría de Finanzas, aplicando el procedimiento establecido en la Ley de Coordinación Fiscal, debiendo publicar dicha información en el Periódico Oficial a más tardar el 31 de enero del ejercicio fiscal correspondiente, así como el calendario de entero, fórmula y metodología, justificando cada elemento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los montos que correspondan a cada Municipio de los Fondos de Aportaciones a que se refiere el párrafo anterior, se calcularán con base en la aplicación del factor que determine la Secretaría de Finanzas, aplicando el procedimiento establecido en la Ley de Coordinación Fiscal Federal, debiendo publicar dicha información en el Periódico Oficial del Estado a más tardar el 31 de enero del ejercicio fiscal correspondiente, así como el calendario de entero, fórmula y metodología, justificando cada elemento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 19.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal se enterará a los municipios mensualmente durante los primeros 10 meses del año por partes iguales, por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para la Infraestructura Social Municipal se enterará a los municipios mensualmente durante los primeros 10 meses del año por partes iguales, por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal Federal.
 
-Los recursos de este Fondo se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema, como lo señala la Ley de Coordinación Fiscal.
+Los recursos de este Fondo se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema, como lo señala la Ley de Coordinación Fiscal Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 20.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte, del Gobierno del Estado calculará y determinará la masa carencial municipal para la distribución de los recursos que corresponden a cada municipio de la entidad y enviará dicha información a la Secretaría de Finanzas a más tardar el último día del mes de enero del año correspondiente.
+La Secretaría de Desarrollo Social del Gobierno del Estado calculará y determinará la masa carencial municipal para la distribución de los recursos que corresponden a cada Municipio de la Entidad, y enviará dicha información a la Secretaría de Finanzas a más tardar el último día del mes de enero del año correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 21.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal Federal.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
 
@@ -269,29 +387,35 @@ Los recursos provenientes de este Fondo que tengan como destino la satisfacción
 
 Los recursos correspondientes a este Fondo se distribuirán en proporción directa al número de habitantes con que cuente cada uno de los municipios, según la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 23.
 
-Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse, al pago de derechos y aprovechamientos por concepto de agua, conforme a la Ley de Coordinación Fiscal.
+Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse al pago de derechos y aprovechamientos por concepto de agua, conforme a la Ley de Coordinación Fiscal Federal.
 
-Respecto de las aportaciones que reciban con cargo a este Fondo, los municipios tendrán las mismas obligaciones a que se refiere la Ley de Coordinación Fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Respecto de las aportaciones que reciban con cargo a este Fondo, los municipios tendrán las mismas obligaciones a que se refiere la Ley de Coordinación Fiscal Federal.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
 
 Los Presidentes Municipales garantizarán que los recursos provenientes de este Fondo y que tengan como destino la satisfacción de los requerimientos del área de seguridad pública, sean utilizados exclusiva y responsablemente en dicho rubro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 24.
 
-Las aportaciones con cargo a los Fondos señalados en este capítulo, no serán embargables, ni se destinarán a fines distintos de los expresados en la Ley de Coordinación Fiscal, pero se podrán otorgar en fuente de garantía de pago, o ambas; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal.
+Las aportaciones con cargo a los Fondos señalados en este capítulo no serán embargables, ni se destinarán a fines distintos de los expresados en la Ley de Coordinación Fiscal Federal, pero se podrán otorgar como fuente o garantía de pago, o ambas; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal Federal.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
+Las aportaciones a que se refiere este artículo serán cubiertas en efectivo y no podrán estar sujetas a retención, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal Federal.
 
-Las aportaciones a que se refiere este artículo serán cubiertas en efectivo y no podrán estar sujetas a retención, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal.
-
-Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes, por tanto, deberán registrarlos como ingresos propios, destinados específicamente a los fines establecidos en la Ley de Coordinación Fiscal.
+Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes; por tanto, deberán registrarlos como ingresos propios destinados específicamente a los fines establecidos en la Ley de Coordinación Fiscal Federal.
 
 ###### ARTICULO 25.
 
@@ -313,17 +437,29 @@ En los convenios a que se refiere el párrafo anterior se especificarán las fun
 
 El Estado podrá efectuar compensaciones sobre incentivos a los municipios, como consecuencia de ajustes o descuentos originados por el incumplimiento de metas pactadas en convenios de colaboración administrativa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 29.
 
-Los convenios de colaboración administrativa celebrados entre el Estado y los municipios y por éstos entre sí, serán publicados en el Periódico Oficial del Estado y surtirán sus efectos a partir de la fecha que en los mismos se establezca.
+Los convenios de colaboración administrativa celebrados entre el Estado y los municipios y por éstos entre sí, serán publicados en el Periódico Oficial del Estado y surtirán sus efectos a partir de la fecha que en los mismos se establezcan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 30.
 
-El Estado o el municipio de que se trate, podrá dar por terminado total o parcialmente el o los convenios a que se refiere este Capítulo, debiendo notificar a la otra parte con una anticipación de por lo menos 30 días naturales, salvo disposición en contrario contenida en el propio convenio. Su terminación será publicada en el Periódico Oficial del Estado y surtirá sus efectos de acuerdo a lo dispuesto en el artículo anterior.
+El Estado o el Municipio de que se trate, podrá dar por terminado total o parcialmente el o los convenios a que se refiere este Capítulo, debiendo notificar a la otra parte con una anticipación de por lo menos 30 días naturales, salvo disposición en contrario contenida en el propio convenio. Su terminación será publicada en el Periódico Oficial del Estado y surtirá sus efectos de acuerdo a lo dispuesto en el artículo anterior.
 
 ###### ARTICULO 31.
 
 El Ejecutivo del Estado conservará la facultad de establecer los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos a las que deberán sujetarse los municipios que celebren convenio con el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 32.
 
@@ -333,7 +469,11 @@ Cuando las autoridades fiscales municipales actúen con base en los convenios re
 
 Los municipios estarán obligados a presentar cuenta comprobada mensual a la Secretaría de Finanzas por todos los ingresos federales coordinados de los cuales existan convenios, durante los 5 días siguientes al mes posterior del que se informa.
 
-Los municipios estarán igualmente obligados a informar a la Secretaría de Finanzas de manera trimestral mediante el Formato Básico del Portal de Aplicación de la Secretaria de Hacienda (PASH) el uso y destino de los recursos que le transfiere la Federación a través del Estado o directamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los municipios estarán igualmente obligados a informar a la Secretaría de Finanzas, de manera trimestral, mediante el Formato Básico del Portal de Aplicación de la Secretaría de Hacienda (PASH), el uso y destino de los recursos que le transfiere la Federación a través del Estado o directamente.
 
 ### CAPITULO QUINTO. DE LA VIGILANCIA DEL SISTEMA DE COORDINACION FISCAL
 
@@ -341,37 +481,63 @@ Los municipios estarán igualmente obligados a informar a la Secretaría de Fina
 
 El Congreso del Estado vigilará el estricto cumplimiento de las disposiciones contenidas en esta Ley.
 
-Cuando el Estado o algún municipio contravenga lo establecido por esta Ley o en la de Coordinación Fiscal, la parte afectada lo manifestará por escrito a la autoridad infractora y presentará, además, inconformidad ante el Congreso del Estado a efecto de que determine sobre las medidas correctivas a que haya lugar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Cuando el Estado o algún Municipio contravenga lo establecido por esta Ley o en la de Coordinación Fiscal Federal, la parte afectada lo manifestará por escrito a la autoridad infractora y presentará, además, inconformidad ante el Congreso del Estado a efecto de que determine sobre las medidas correctivas a que haya lugar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 35.
 
-Cuando un municipio no cumpla con lo señalado en algún Convenio de Colaboración Administrativa suscrito con el Gobierno del Estado, será prevenido por la Secretaría de Finanzas para que en un plazo que no exceda de diez días naturales, adopte las medidas necesarias para corregir las violaciones en que hubiere incurrido; de no hacerlo, se dará por terminado el convenio de que se trata. El Ejecutivo del Estado hará la declaratoria correspondiente y ordenará su publicación en el Periódico Oficial del Estado.
+Cuando un Municipio no cumpla con lo señalado en algún Convenio de Colaboración Administrativa suscrito con el Gobierno del Estado, será prevenido por la Secretaría de Finanzas para que en un plazo que no exceda de diez días naturales, adopte las medidas necesarias para corregir las violaciones en que hubiere incurrido; de no hacerlo, se dará por terminado el Convenio de que se trata. El Ejecutivo del Estado hará la declaratoria correspondiente y ordenará su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 36.
 
-En caso de que el incumplimiento sea por parte del Gobierno del Estado o entre los municipios, el municipio afectado podrá presentar su inconformidad al Congreso, quien deberá emitir resolución a los 30 días naturales siguientes de recibida.
+En caso de que el incumplimiento sea por parte del Gobierno del Estado o entre los municipios, el Municipio afectado podrá presentar su inconformidad al Congreso, el cual deberá emitir resolución dentro de los 30 días naturales siguientes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO SEXTO. DE LAS GARANTIAS O FUENTE DE PAGO
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 37.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Las aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley que correspondan a los Municipios, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de las obligaciones que contraigan con la Federación, el Estado, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización del Congreso del Estado y se inscriban a petición de los Municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en el registro único de obligaciones y empréstitos a que se refiere el tercer párrafo del artículo 9 de la Ley de Coordinación Fiscal del Congreso General.
+###### ARTÍCULO 37.
 
-Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior, únicamente podrán destinarse a los fines establecidos en el artículo 19 de esta ley y a lo señalado en la Ley de Coordinación Fiscal del Congreso General.
+Las aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley que correspondan a los Municipios, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de las obligaciones que contraigan con la Federación, el Estado, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización del Congreso del Estado y se inscriban a petición de los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, en el Registro Único de Obligaciones y Empréstitos a que se refiere el tercer párrafo del artículo 9 de la Ley de Coordinación Fiscal Federal, así como en el Registro Estatal de Deuda Pública conforme lo establecido en el artículo 18 de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-Los Municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan por concepto del Fondo de Aportaciones para la Infraestructura Social Municipal, para servir dichas obligaciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior, únicamente podrán destinarse a los fines establecidos en el artículo 19 de esta ley y a lo señalado en la Ley de Coordinación Fiscal Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan por concepto del Fondo de Aportaciones para la Infraestructura Social Municipal, para cubrir dichas obligaciones.
 
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
 
-Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con la garantía del Gobierno del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley, para responder a sus compromisos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Las obligaciones de los municipios a que se refiere el segundo párrafo de este artículo, se inscribirán en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con la garantía del Gobierno del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley, para responder a sus compromisos, así como en el Registro Estatal de Deuda Pública establecido en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
 Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA COMISIÓN DE FUNCIONARIOS DE LA HACIENDA PÚBLICA DE TAMAULIPAS
 
@@ -399,7 +565,11 @@ VI.- Establecer entendimientos y acuerdos que permitan soluciones para superar d
 
 Para el cumplimiento de sus objetivos la Comisión, tendrá las siguientes atribuciones:
 
-l.- Vigilar el cálculo y la adecuada distribución de las participaciones que corresponden a los municipios, con la finalidad de dar transparencia y certeza a los procedimientos establecidos en la presente ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+I.- Vigilar el cálculo y la adecuada distribución de las participaciones que corresponden a los municipios, con la finalidad de dar transparencia y certeza a los procedimientos establecidos en la presente ley;
 
 II.- Promover la actividad recaudatoria de los municipios; mediante la coordinación interinstitucional de los órdenes de gobierno;
 
@@ -417,7 +587,11 @@ VIII.- Mejorar aspectos de contabilidad gubernamental y la gestión del ejercici
 
 IX.- Impulsar la mejora en prácticas administrativas para simplificar los trámites y servicios que prestan las ventanillas de las tesorerías municipales;
 
-X.- Difundir las leyes fiscales entre los contribuyentes, para su oportuno cumplimiento y reducir los índices de elusión y evasión fiscales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+X.- Difundir las leyes fiscales entre los contribuyentes, para su oportuno cumplimiento y reducir los índices de elusión y evasión fiscal;
 
 XI.- Promover el intercambio entre los órdenes de gobierno, de información y bases de datos para la actualización de padrones y registros, entre otros;
 
@@ -479,11 +653,13 @@ Al término de la sesión, el Secretario Técnico levantará el Acta correspondi
 
 La Comisión podrá contar con grupos de trabajo permanentes; así como integrar temporalmente grupos auxiliares de trabajo para la investigación de casos concretos, para lo cual podrá invitar a diversas organizaciones, dependencias o instituciones a realizar dichos trabajos.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 43.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-El financiamiento, integración, operación y funcionamiento de la Comisión, así como de los Grupos de Trabajo que la integren, se establecerán en el Reglamento de la Comisión.
+###### ARTICULO 43.
+
+El financiamiento, integración, operación y funcionamiento de la Comisión, así como de los grupos de trabajo que la integren, se establecerán en el Reglamento de la Comisión.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -598,3 +774,19 @@ Estos serán distribuidos en proporción a la recaudación que se obtenga de dic
 ###### ARTÍCULO QUINTO.
 
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento del mismo y se resolverán conforme a dichos preceptos hasta su culminación.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año 2013, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal, el 37 por ciento de los ingresos corresponderá a los Municipios.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
