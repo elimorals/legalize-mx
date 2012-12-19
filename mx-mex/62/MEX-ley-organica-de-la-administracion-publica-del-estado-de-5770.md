@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2012-10-15"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -91,6 +91,10 @@ El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios 
 
 Para ser titular de las dependencias del Ejecutivo a que se refiere esta ley, Procurador General de Justicia o Subsecretario, se requiere cumplir con los requisitos que establece la Constitución Política del Estado.
 
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+Para ser Consejero Jurídico, además de los requisitos señalados deberá poseer título profesional de la Licenciatura en Derecho, 10 años de ejercicio profesional y no haber sido condenado por sentencia ejecutoria por delitos intencionales que ameriten pena privativa de la libertad y ser de honradez y probidad notorias.
+
 ###### Artículo 11.
 
 Los titulares de las dependencias a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia y aquéllos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
@@ -119,21 +123,21 @@ De igual forma, deberán implementar un programa permanente, coordinado y contin
 
 Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
 
-> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
-Al frente de la SECRETARIA GENERAL DE GOBIERNO y de cada Secretaría, habrá un titular a quien se denomina SECRETARIO GENERAL y Secretario respectivamente quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los Reglamentos y otras disposiciones legales. Tendrán las atribuciones que se señalen en esos ordenamientos y las que les asigne el Gobernador y el titular del que dependan, las que en ningún caso podrán ser aquellas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
+Al frente de la Secretaría General de Gobierno, de cada Secretaría y de la Consejería Jurídica, habrá un Titular a quien se denomina Secretario General, Secretario y Consejero Jurídico, respectivamente, quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que señalen en esos ordenamientos y las que les asigne el Gobernador y el Titular del que dependan, las que en ningún caso podrán ser aquéllas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
 
 ###### Artículo 16.
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
-> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 17.
 
-Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del SECRETARIO GENERAL DE GOBIERNO. Estarán facultados para celebrar contratos sobre materia de su competencia y suscribir convenios por acuerdo del Ejecutivo.
+Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del Consejero Jurídico.
 
 ###### Artículo 18.
 
@@ -215,11 +219,21 @@ XVI. Secretaría de Transporte;
 
 XVII. Secretaría del Medio Ambiente;
 
-El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, G.G. 18 DE OCTUBRE DE 2011)</small>
+XVIII. Consejería Jurídica del Ejecutivo Estatal.
 
-Las Secretarías a las que se refieren las fracciones II a XVII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+El Consejero Jurídico del Ejecutivo Estatal, será designado por el Gobernador y deberá cumplir con los requisitos que esta ley exige.
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+Las Secretarías y la Consejería Jurídica a las que se refieren las fracciones II a la XVIII de este artículo tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
@@ -245,7 +259,7 @@ II. Conducir por delegación del Ejecutivo los asuntos de orden político intern
 
 III. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Ejecutivo del Estado.
 
-IV. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado.
+IV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 V. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia.
 
@@ -255,13 +269,13 @@ VI. Otorgar a los Tribunales, a las autoridades judiciales y en general, a las d
 
 VI Bis. Apoyar a las demás dependencias del Ejecutivo en el cumplimiento de sus atribuciones.
 
-VII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios, a quienes esté encomendada la fe pública.
+VII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 VII Bis. Planear y ejecutar las políticas Estatales en materia de población.
 
-VIII. Vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y sus Municipios.
+VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 IX. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren.
 
@@ -269,15 +283,15 @@ IX. Intervenir y ejercer las atribuciones que en materia electoral le señalen l
 
 X. Intervenir, en el ámbito de su competencia, en auxilio o coordinación con las autoridades federales, en los términos de las leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas; loterías, rifas y juegos prohibidos; migración y atención de catástrofes públicas.
 
-XI. Proporcionar Asesoría Jurídica a las dependencias del Ejecutivo del Estado, así como a los Ayuntamientos que los soliciten.
+XI. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-XII. Revisar los proyectos de Ley, Reglamentos y cualquier otro ordenamiento jurídico que deban presentarse al Ejecutivo del Estado.
+XII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 XIII. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo.
 
-XIV. Tramitar los recursos administrativos que competa resolver al Gobernador del Estado.
+XIV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado.
+XV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
 
@@ -299,33 +313,21 @@ XX. Tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos
 
 XXI. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+XXIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-XXII. Organizar y controlar al Instituto de la Defensoría Pública y a la Defensoría Especializada para Víctimas y Ofendidos del Delito;
+XXIV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Ejecutivo y ordenar periódicamente visitas de inspección a las notarías del Estado.
+XXV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+XXVI. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-XXIV. Llevar el Libro de Registro de Notarios;
-
-XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
-
-> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil.
-
-> <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-XXVII. Coordinar y vigilar los servicios del Registro Público de la Propiedad y del Comercio conforme a la legislación aplicable.
+XXVII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 XXVIII. Organizar los actos cívicos del Gobierno del Estado.
 
-> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-XXIX. Administrar y publicar el periódico oficial "Gaceta del Gobierno"; y
+XXIX. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -657,7 +659,11 @@ LI. Emitir normas, políticas y procedimientos para el establecimiento y la oper
 
 LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
-LIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+LIII. Autorizar la constitución de fideicomisos y verificar el debido cumplimiento de sus fines en aquellos en los que las Dependencias y Entidades Públicas del Gobierno del Estado de México sean parte, así como registrar, supervisar y evaluar su funcionamiento en cualquier tiempo;
 
 > <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -1505,9 +1511,85 @@ XXIII. Brindar asesoría y apoyo técnico a los órganos de control interno del 
 
 XXIV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 38 Ter.
+
+La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, de la defensoría pública así como de la especializada para víctimas y ofendidos del delito, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno”, las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidad de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
+
+A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
+
+I. Representar al Gobernador en los juicios en que él sea parte, pudiendo delegar ésta, en terceros o subalternos;
+
+II. Proporcionar y coordinar la asesoría en materia jurídica y consultiva a las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, con apego a las leyes, reglamentos y demás disposiciones aplicables;
+
+III. Revisar o elaborar los proyectos de iniciativas de ley o decreto que presente el Gobernador a la Legislatura del Estado;
+
+IV. Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demás instrumentos jurídicos que se sometan a consideración y en su caso autorización del Gobernador;
+
+V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección;
+
+VI. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado de México;
+
+VII. Asesorar jurídicamente al Gobernador en los asuntos que le encomiende;
+
+VIII. Elaborar el proyecto de agenda legislativa del Gobernador, atendiendo las propuestas dé las dependencias y organismos, y someterla a la consideración del mismo;
+
+IX. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado;
+
+X. Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen la gestión de la Administración Pública del Estado;
+
+XI. Asesorar jurídicamente y orientar, cuando así lo requieran, a las dependencias y organismos auxiliares de la Administración Pública del Estado, así como a las autoridades municipales;
+
+XII. Someter a la consideración del Gobernador el otorgamiento de nombramientos de notario;
+
+XIII. Establecer los lineamientos y criterios técnico-jurídicos para la aplicación y supervisión del cumplimiento de las disposiciones jurídicas en materia notarial, así como recibir, tramitar, substanciar, resolver quejas, implementar e imponer sanciones en contra de los notarios;
+
+XIV. Llevar el Libro de Registro de Notarios;
+
+XV. Coadyuvar en la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal y con los gobiernos estatales;
+
+XVI. Coordinar y participar, junto con las dependencias y organismos auxiliares de carácter estatal y municipal, en la actualización y simplificación del marco jurídico del Estado de México;
+
+XVII. Intervenir en los juicios de amparo, cuando el Gobernador tenga el carácter de autoridad responsable, exista solicitud de la autoridad responsable o medie instrucción del Gobernador, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto así lo amerite;
+
+XVIII. Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos;
+
+XIX. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
+
+XX. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la Legislación relativa;
+
+XXI. Representar a la Administración Pública del Gobierno del Estado de México en los juicios en que ésta sea parte;
+
+XXII. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Gobernador, en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+
+XXIII. Coordinar y vigilar la Función Registral del Estado de México conforme a la legislación aplicable;
+
+XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
+
+XXV. Organizar y controlar a la defensoría pública; así como a la defensoría especializada para víctimas y ofendidos del delito;
+
+XXVI. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
+
+XXVII. Impulsar una política de promoción, defensa y respeto de los derechos humanos en el ámbito de la administración pública estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales;
+
+XXVIII. Coordinar las acciones de gobierno para la atención de los asuntos agrarios, atender y ejecutar los programas y acciones que instruya el Gobernador, en materia agraria así como informarle oportunamente sobre la situación agraria del Estado;
+
+XXIX. Coordinar las acciones relativas a la demarcación y conservación de Límites;
+
+XXX. Administrar y publicar el periódico oficial "Gaceta del Gobierno";
+
+XXXI. Coordinar y asesorar las áreas jurídicas de las diversas dependencias de la Administración Pública Estatal;
+
+XXXII. Definir las directrices y dictar los lineamientos que en materia jurídica deberán seguir las dependencias de la Administración Pública Estatal; y
+
+XXXIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Gobernador.
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 39.
 
-La Procuraduría General de Justicia es el órgano encargado del Ministerio Público y de prestar consejo jurídico al Gobierno del Estado.
+La Procuraduría General de Justicia es el órgano encargado del Ministerio Público.
 
 ###### Artículo 40.
 
@@ -1515,7 +1597,7 @@ A la Procuraduría General de Justicia, además de las facultades y obligaciones
 
 I. Vigilar el respeto de las leyes por parte de todas las autoridades del Estado.
 
-II. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección.
+II. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 III. Dirigir y coordinar las actividades de la Policía Judicial del Estado.
 
@@ -1583,7 +1665,17 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 El Gobernador, a través de sus dependencias y entidades podrá constituir fideicomisos.
 
-Asimismo el Gobernador, a través de la Secretaría de Finanzas, Planeación y Administración podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características serán considerados organismos auxiliares del Poder Ejecutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+Asimismo el Gobernador, a través de la Secretaría de Finanzas, podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+Los demás fideicomisos que se constituyan por el Gobierno del Estado de México, a través de sus Dependencias o Entidades Públicas, deberán ser autorizados, registrados, supervisados y evaluados por la Secretaría de Finanzas, en los términos y condiciones que al efecto establezcan las disposiciones legales aplicables y demás ordenamientos legales.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -2190,6 +2282,46 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+DECRETO No. 33, POR EL QUE SE REFORMAN LOS ARTÍCULOS 24 EN SU FRACCIÓN LIII Y 49 EN SU SEGUNDO PÁRRAFO; ASÍ COMO SE ADICIONA AL ARTICULO 49 CON UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2013.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2010 a diciembre de 2011.
+
+CUARTO.- Para efecto de determinar el Impuesto sobre Tenencia o Uso de Vehículos correspondiente al ejercicio fiscal 2012, tratándose de la actualización prevista en el último párrafo del artículo 60 H, aplicable a aeronaves de más de diez años de antigüedad a dicho ejercicio, se deberá aplicar el procedimiento a que refiere el segundo párrafo del artículo 60 C.
+
+Aquellos contribuyentes que por la tenencia o uso de vehículos, les aplique lo previsto en el párrafo anterior, gozarán de un subsidio del 100% en la actualización, los recargos y multas que se hubieren causado, siempre y cuando realicen el pago de la contribución en los 3 primeros meses del ejercicio 2013.
+
+Los contribuyentes que hubieren pagado su tenencia conforme al procedimiento vigente en el ejercicio fiscal 2012, por una cantidad mayor al que le resulte de aplicar lo previsto en el primer párrafo de este artículo, podrán compensar la diferencia contra el Impuesto a su cargo por el ejercicio fiscal 2013 y siguientes, hasta agotarlo.
+
+QUINTO.- Se autoriza al Ejecutivo Estatal y a los ayuntamientos a suscribir convenios a efecto de que los ingresos de los municipios por concepto de participaciones mensuales sean una cantidad fija convenida tal que la suma de las asignaciones mensuales acordadas sean congruentes con las participaciones que les correspondan en términos del Capítulo Segundo del Título Séptimo del Código Financiero del Estado de México y Municipios, conforme a las reglas de carácter general que al efecto emita la Secretaría de Finanzas.
+
+SEXTO.- Las dependencias y entidades públicas del Gobierno del Estado dispondrán de un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente decreto, para remitir a la Secretaría de Finanzas la información y documentación con la que cuenten respecto de los fideicomisos que hayan constituido.
+
+SÉPTIMO.- Para efectos de la reforma al artículo 216-F del Código Financiero del Estado de México y Municipios, el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, realizará las gestiones necesarias a fin de finiquitar la cuenta del fideicomiso que se aperturó para la administración de los recursos a que hace referencia el citado artículo, así como la transferencia de los mismos a la cuenta que determine la Secretaría de Finanzas, en un plazo máximo de seis meses.
+
+OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del Estado de México, realicen una revisión minuciosa de los esquemas de cobro de los Derechos por Uso de Vías y Áreas Públicas, para el ejercicio de actividades comerciales o de servicios, así como del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos permitidos con cruce de apuestas y, en su caso, se hagan las propuestas conducentes, a fin de coadyuvar con los Municipios de la Entidad, en eficientar la recaudación de los ingresos propios.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+DECRETO No. 37, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15; 17; SEGUNDO Y TERCER PÁRRAFO DEL ARTICULO 19; EL ARTICULO 39; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 10; LA FRACCIÓN XVIII Y UN TERCER PÁRRAFO AL ARTICULO 19, RECORRIÉNDOSE EL SUBSECUENTE Y UN ARTICULO 38 TER; Y SE DEROGAN LAS FRACCIONES IV, VII, VIII, XI, XII, XIV, XV, XXII, XXIII, XXIV, XXV, XXVI, XXVII Y XXIX DEL ARTICULO 21 Y LA FRACCIÓN II DEL ARTICULO 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo deberá expedir el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO.- Las atribuciones y facultades que se otorgan a la Consejería Jurídica del Ejecutivo Estatal en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídico administrativos necesarios para su funcionamiento, serán ejercidas por conducto de la estructura orgánica de la Subsecretaría de Asuntos Jurídicos.
+
+QUINTO.- Los recursos humanos, materiales y financieros de la Subsecretaría de Asuntos Jurídicos, serán transferidos a partir de la entrada en vigor del presente Decreto a la Consejería Jurídica del Ejecutivo Estatal.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
