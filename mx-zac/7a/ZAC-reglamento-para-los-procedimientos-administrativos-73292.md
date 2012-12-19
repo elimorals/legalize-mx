@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-los-procedimientos-administrativos-73292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2009-12-05"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES
 
-REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES
+REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre de 2009.
 
@@ -1410,3 +1412,17 @@ Artículo Primero
 Artículo Segundo
 
 Artículo Tercero
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+Primero. Se abroga el Reglamento para los Procedimientos Administrativos Sancionadores del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el dos de diciembre de dos mil nueve.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. Se derogan todas aquellas disposiciones reglamentarias y demás normatividad que se oponga al presente Reglamento.
+
+Cuarto. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado y en la página www.ieez.org.
+
+Quinto. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
