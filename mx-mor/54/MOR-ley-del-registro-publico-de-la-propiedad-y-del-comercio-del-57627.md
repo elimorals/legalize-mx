@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-registro-publico-de-la-propiedad-y-del-comercio-del-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-28"
-last_updated: "2012-10-24"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MOR"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LA DISPOSICIÓN SÉPTIMA TRANSITORIA DEL PRESENTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2012, EN TODOS LOS ORDENAMIENTOS LEGALES Y ADMINISTRATIVOS EN DONDE SE HAGA REFERENCIA AL INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO, SE ENTENDERÁ AL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 28 de noviembre de 2007.
 
@@ -273,8 +273,6 @@ VI. No tener parentesco con cualquiera de los miembros de la Junta de Gobierno, 
 
 VII. No haber sido sentenciado por delitos patrimoniales o inhabilitado para ejercer el comercio o desempeñar empleos, cargos o comisiones públicas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 14.
 
 ATRIBUCIONES Y OBLIGACIONES DEL DIRECTOR GENERAL. El Director General tendrá las siguientes facultades y obligaciones:
@@ -321,29 +319,33 @@ XIX. Ejecutar los acuerdos de la Junta de Gobierno, dictar las medidas necesaria
 
 XX. Presentar a la Junta de Gobierno el proyecto de presupuesto de egresos y en su caso el de ingresos, con la oportunidad que señale la Dependencia Coordinadora;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(ADICIONADA, P.O. 26 DE JUNIO DE 2009) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
-
-XXI. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades;
+XXI.- Organizar y coordinar el Archivo General de Notarías del Estado, en los términos que establece la Ley del Notariado del Estado de Morelos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+(REFORMADA, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
 
-XXII. Otorgar apoyo a las instituciones federales, estatales y municipales encargadas de ejecutar acciones de regularización de la tenencia de la tierra, determinación de reservas territoriales, definición de límites intermunicipales y estatales, servicios de levantamientos topográficos, expedición de certificados, sellado y registro de escrituras en el padrón catastral, así como acciones y mecanismos para el mejor desempeño de las actividades registrales en materia de propiedad social y privada;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012)</small>
-
-XXIII. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatales; y
+XXII. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
 
-XXXIV. (SIC) Las demás que establece el artículo 15 de la Ley de Catastro Municipal para el Estado de Morelos y otras disposiciones legales vigentes.
+XXIII. Otorgar apoyo a las instituciones federales, estatales y municipales encargadas de ejecutar acciones de regularización de la tenencia de la tierra, determinación de reservas territoriales, definición de límites intermunicipales y estatales, servicios de levantamientos topográficos, expedición de certificados, sellado y registro de escrituras en el padrón catastral, así como acciones y mecanismos para el mejor desempeño de las actividades registrales en materia de propiedad social y privada;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADA, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
+
+XXIV. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN SEGUNDA TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
+
+XXV. Las demás que establece el artículo 15 de la Ley de Catastro Municipal para el Estado de Morelos y otras disposiciones legales vigentes.
 
 El Director General podrá delegar en servidores públicos subalternos, por escrito, las atribuciones referidas en las fracciones IV, V y VI del presente artículo.
 
