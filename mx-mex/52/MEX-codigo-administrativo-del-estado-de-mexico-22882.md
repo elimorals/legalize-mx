@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-10-26"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5625,7 +5625,7 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5633,9 +5633,7 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 La demolición parcial o total que ordene la autoridad competente será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
@@ -5643,7 +5641,7 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5747,13 +5745,11 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ## TITULO PRIMERO. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5777,7 +5773,7 @@ VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin 
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5807,165 +5803,323 @@ V. Apertura, prolongación o ampliación de vías públicas.
 
 La reglamentación de este Libro regulará la integración, organización y funcionamiento del registro.
 
-# LIBRO SEXTO. De la protección civil
+# LIBRO SEXTO. De la Protección Civil
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+## TITULO SEGUNDO. De los Sistemas de Protección Civil
 
-## TITULO SEGUNDO. De los sistemas de protección civil
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-1.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+1.- Este Libro tiene por objeto regular las acciones de protección civil en el Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-###### Artículo 6.
-
-2.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-3.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+2.- Las disposiciones de este Libro tienen como finalidad la prevención, auxilio y recuperación de la población en caso de riesgo o desastre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
-
-### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-4.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para efectos de este Libro se entenderá por:
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+I. Continuidad de operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar incorporada a un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
+II. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de identificación de los riesgos y/o su proceso de formación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+
+IV. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
+V. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el Gobierno Federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
+
+VI. Instrumentos de administración y transferencia de riesgos: Son aquellos programas o mecanismos financieros tales como esquemas de aseguramiento, que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+
+VII. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+
+VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y fortaleciendo las medidas de reducción de riesgos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+4.- Son autoridades en materia de protección civil, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los Ayuntamientos con las atribuciones que les otorga este Libro.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+## TITULO TERCERO. Del Fondo de Protección Civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO QUINTO. De los grupos voluntarios
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-5.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO SEXTO. De las unidades internas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-6.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+6.- El sistema estatal de protección civil, se integra por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. El Gobernador del Estado;
+
+II. El Consejo Estatal de Protección Civil;
+
+III. El Secretario de Seguridad Ciudadana;
+
+IV. Los Presidentes Municipales;
+
+V. El Director General de Protección Civil del Estado de México;
+
+VI. Los Sistemas y Consejos Municipales de Protección Civil;
+
+VII. La representación de los sectores social y privados, de las instituciones educativas, grupos voluntarios y expertos en diferentes áreas relacionadas con la protección civil.
+
+El Ejecutivo del Estado y los presidentes municipales, tendrán la responsabilidad de la integración y funcionamiento de los sistemas de protección civil.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-7.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+7.- La Coordinación Ejecutiva del Sistema Estatal de Protección Civil estará a cargo de la Secretaría de Seguridad Ciudadana, en coordinación con la Secretaría General de Gobierno, la cual tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Vincular el Sistema Estatal de Protección Civil con el Sistema Nacional de Protección Civil;
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+II. Proponer políticas y estrategias para el desarrollo de programas en la materia;
+
+III. Establecer las instancias, mecanismos, instrumentos, procedimientos y acciones de carácter técnico, operativo, de servicios y logística para reducir riesgos sobre los agentes afectables; en los que sean contemplados los dispositivos de alerta sísmica y la utilización de tecnologías de la información;
+
+IV. Establecer la metodología para la elaboración de programas internos y específicos de protección civil, grupos voluntarios y grupos de ayuda mutua;
+
+V. Solicitar al Gobernador del Estado la expedición de las declaratorias de emergencia;
+
+VI. Promover la creación de fondos para las acciones de protección civil, así como asumir su administración;
+
+VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en los casos de emergencia o desastre cuando la capacidad operativa y financiera del Estado sea superada;
+
+VIII. Aplicar los recursos estatales y federales a las acciones de prevención, de auxilio y de recuperación;
+
+IX. Informar al Sistema Nacional de Protección Civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
+
+X. Apoyar la creación, desarrollo y consolidación de los Consejos Municipales de Protección Civil, grupos voluntarios y grupos de ayuda mutua, así como el fomento de acciones que mejoren y dignifiquen la actuación de los cuerpos de bomberos en la entidad, incluyendo la creación y/o el otorgamiento de reconocimientos en dinero o en especie; así mismo establecer el premio estatal de Protección Civil a quien por medios propios deba recibirlo;
+
+XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
+
+XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
+
+XIII. Ejecutar las acciones de protección civil en coordinación con los municipios, grupos voluntarios y unidades internas;
+
+XIV. Coordinar las acciones con las dependencias del Estado y de los municipios, para atender las emergencias y contingencias provocadas por fenómenos perturbadores de origen natural y apoyar el restablecimiento de servicios públicos, mediante el fondo estatal de atención a los desastres y siniestros ambientales;
+
+XV. Establecer una estrategia integral de transferencia de riesgos, mediante el aseguramiento de la infraestructura pública;
+
+XVI. Investigar, estudiar y evaluar riesgos y daños provenientes de elementos, agentes naturales o humanos generadores de riesgo o desastres;
+
+XVII. Promover, desarrollar, vigilar y evaluar los programas de capacitación que permitan la acreditación de conocimientos y profesionalización del personal responsable y servidores públicos, que desarrollan funciones en la materia;
+
+XVIII. Asesorar y apoyar a las dependencias, organismos auxiliares y fideicomisos públicos estatales, a los municipios y a las instituciones, personas, grupos y asociaciones de carácter civil y privado en materia de protección civil;
+
+XIX. Establecer, operar y/o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con otras autoridades en el que se consideren los efectos del cambio climático;
+
+XX. Desarrollar, actualizar y difundir el Atlas de Riesgos del Estado de México;
+
+XXI. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil;
+
+Las normas técnicas se deberán expedir de conformidad con las disposiciones aplicables de las leyes federales, estatales y municipales correspondientes, así como con los convenios internacionales;
+
+Su actualización deberá ser cada cinco años.
+
+Su aplicación y vigilancia, corresponderá a las autoridades estatales y municipales, de acuerdo a su competencia;
+
+XXII. Recibir, evaluar y aprobar los programas de las unidades internas de protección civil;
+
+XXIII. El Sistema Estatal promoverá la cultura de la autoprotección, que convoque y sume el interés de la población en general, así como su participación individual y colectiva, que permita crear comunidades resilientes; impulsar la cultura de la autoprotección, para lo cual las dependencias del sector público, con la participación del sector social, privado y académico, promoverán:
+
+a) El desarrollo y ejecución de acciones en el ámbito Estatal y Municipal, que permita se brinden los conocimientos básicos de la cultura de la autoprotección.
+
+b) La ejecución de simulacros en lugares de concentración masiva de personas.
+
+c) La formulación y promoción de campañas masivas de difusión, que contengan temas en materia de Protección Civil.
+
+d) Actividades de concertación con los diversos medios de difusión masiva, para la realización de campañas de divulgación sobre temas de protección civil y cultura de la autoprotección.
+
+e) La integración de acervos de información técnica y científica sobre fenómenos perturbadores, que afecten o puedan afectar a la población, con base en la Gestión Integral de Riesgos, que permita a su vez la instrumentación de acciones a seguir durante, la inminente presencia de un agente perturbador producido por la actividad humana o por la naturaleza.
+
+f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
+
+XXIV. Suscribir convenios de coordinación para implementar políticas, lineamientos y acciones entre la federación, las entidades federativas, los municipios, el Gobierno del Distrito Federal y sus Delegaciones, en uso de las atribuciones conferidas en la fracción I de éste mismo artículo;
+
+XXV. Las demás que le confieren este Libro y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-8.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+8.- Corresponde al Estado y a los municipios, promover la incorporación de la Gestión Integral de Riesgos en el desarrollo local y regional, estableciendo estrategias y políticas basadas en el análisis de los riesgos, con el fin de evitarlos a futuro y promover acciones para reducir los existentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-9.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+9.- El Consejo Estatal de Protección Civil es un órgano de consulta y de coordinación del Gobierno del Estado para convocar, concertar, inducir e integrar las actividades de los participantes e interesados en la materia, a fin de garantizar el cumplimiento del objeto del Sistema Estatal de Protección Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-10.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+10.- El Consejo Estatal de Protección Civil tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, en el que deberán de considerar las líneas generales que establezca el Programa Nacional de la materia, y coadyuvar en su aplicación, para mejorar la cultura de la prevención en la materia y su amplia difusión en la entidad;
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+II. Fomentar la participación de los sectores de la sociedad en la formulación y ejecución de los programas de protección civil;
+
+III. Establecer la política pública de protección civil, que permita convocar, coordinar y armonizar la participación de las dependencias de la administración pública del Estado, los municipios y los sectores social y privado, con pleno respeto a la libertad municipal, en la definición y ejecución de las acciones en la materia;
+
+IV. Promover el estudio, investigación y capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo normas y procedimientos que permitan su solución;
+
+V. Promover la generación, desarrollo y consolidación de la cultura de protección civil;
+
+VI. Coordinar campañas permanentes en materia de protección civil;
+
+VII. Promover ante las autoridades educativas la adopción de programas en materia de protección civil en las instituciones de educación en todos sus niveles y grados;
+
+VIII. Constituirse en sesión permanente en los casos de riesgo o desastre para formular opiniones y recomendaciones sobre las acciones que deban tomarse;
+
+IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen a los programas y acciones de protección civil;
+
+X. Convocar, coordinar y convenir con los Ayuntamientos del Estado y la Secretaría del Medio Ambiente la integración de un Programa para atender las emergencias y contingencias provocadas por desastres y fenómenos perturbadores de origen natural, cuyo objetivo principal es la protección de la vida y la salud de la población afectada, apoyando el restablecimiento de los servicios públicos;
+
+XI. Las demás que se prevean en la reglamentación de este Libro.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-11.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+11.- El Consejo Estatal de Protección Civil se integra por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. El Gobernador del Estado quien lo presidirá y será suplido en su ausencia, por el servidor público que él designe;
+
+II. El Secretario de seguridad ciudadana, quien fungirá como secretario ejecutivo;
+
+III. El Director General de Protección Civil del Estado, quien fungirá como Secretario Técnico;
+
+IV. Investigadores, expertos técnico y científicos de diversas áreas de protección civil que invite o designe el Presidente del consejo estatal.
+
+El cargo de miembro del Consejo Estatal de Protección Civil será honorífico.
+
+El consejo contará con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en los términos de su reglamento interno.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-12.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+12.- Los municipios establecerán sistemas de protección civil, que se integran por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. El Presidente Municipal;
+
+II. El Consejo Municipal de Protección Civil;
+
+III. Las unidades internas;
+
+IV. Los grupos voluntarios.
+
+Los sistemas municipales deberán vincularse y coordinarse con el sistema estatal de protección civil.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-13.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+13.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-14.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+14.- Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos sistemas y consejos municipales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto regional, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-15.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+15.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría de Seguridad Ciudadana, expedido por la Dirección General de Protección Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los grupos voluntarios estarán integrados por personas físicas o morales con conocimiento y experiencia en materia de protección civil, que cuenten con recursos y equipo para prestar sus servicios a la población de manera altruista y comprometida.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-16.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+16.- Son derechos y obligaciones de los grupos voluntarios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Portar en un lugar visible de sus vehículos y vestimenta el distintivo oficial que acredite su registro;
+
+II. Vincular sus programas de capacitación y adiestramiento con los programas estatales de la materia;
+
+III. Contar con un directorio actualizado de sus miembros;
+
+IV. Refrendar anualmente su registro y el de sus miembros;
+
+V. Coordinarse bajo el mando de las autoridades de protección civil en los casos de riesgo o desastre;
+
+VI. Abstenerse de solicitar o recibir contraprestación alguna de las personas a quienes presten ayuda;
+
+VII. Utilizar para el servicio que presten, los bienes y equipo previamente registrados ante la Secretaría de Seguridad Ciudadana;
+
+VIII. Comunicar a las autoridades de protección civil la presencia de una situación de riesgo o desastre;
+
+IX. Participar en las acciones de protección civil para las que estén aptos;
+
+X. Coadyuvar en la difusión de programas de protección civil;
+
+XI. Promover y difundir la cultura de protección civil en el Estado.
+
+También podrán registrarse de manera individual, como Brigadistas Voluntarios, las personas que cuenten con conocimientos y experiencia en la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-17.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+17.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las Unidades Internas de Protección Civil, son la primera instancia de actuación, ante el inminente impacto de un agente perturbador, responsable de informar a la autoridad especializada en materia de protección civil.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -5973,23 +6127,23 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 ###### Artículo 6.
 
-18.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+18.- Las Unidades Internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El desarrollo del programa de protección civil de las unidades hospitalarias, dentro del territorio del Estado, deberá considerar los lineamientos establecidos en el Programa Hospital Seguro.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
-
-###### Artículo 6.
-
-19.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-20.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
+19.- Las personas de los sectores social y privado podrán establecer grupos de ayuda mutua o comités vecinales que realizarán las acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+20.- El Fondo para la Atención de Desastres y Siniestros Ambientales o Antropogénicos, es un instrumento, que establece los mecanismos para apoyar a los habitantes del Estado, cuando los daños ocasionados por los fenómenos perturbadores superen la capacidad financiera y operativa de respuesta del Estado, de las dependencias y entidades de la Administración Pública Estatal, así como para el financiamiento de acciones preventivas y de equipamiento, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -5997,25 +6151,31 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 ###### Artículo 6.
 
-21.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
+21.- Es objeto del Fondo, la ejecución de acciones, la autorización y aplicación de recursos para mitigar las consecuencias producidas por la ocurrencia de una emergencia o desastre, provocados por un fenómeno perturbador, tanto a través de acciones preventivas como de auxilio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Sus recursos podrán ser utilizados para la adquisición de instrumentos, que permitan la transferencia de riesgos y aseguramiento de la infraestructura pública, con las instituciones que ofrezcan las mejores condiciones.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
-
-###### Artículo 6.
-
-22.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-23.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+22.- Los recursos de dicho Fondo, se ejercerán en primera instancia de manera eficaz, para la adquisición de equipo especializado y realización de acciones de prevención de desastres, así como su atención, el cual será administrado mediante dos partidas, una destinada a acciones preventivas y otra más que permita la atención de emergencias, en términos de las Reglas de Operación que serán publicadas en el Periódico Oficial "Gaceta del Gobierno", estando su administración bajo la responsabilidad del Secretario de Seguridad Ciudadana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La información del fondo será pública de oficio, en los términos de la ley de Trasparencia y Acceso a la Información Pública del Estado de México.
+
+El Secretario de Seguridad Ciudadana rendirá informe sobre el monto, uso y destino del Fondo, a petición de la Legislatura del Estado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+23.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, deberán practicarse simulacros de protección civil, por lo menos dos veces al año, en coordinación con las autoridades competentes.
+
+Asimismo, se colocarán, en lugares visibles, material e instructivos adecuados para casos de emergencia, en los que se establezcan las reglas que deberán observarse antes, durante y después del desastre, así como las zonas de seguridad y salidas de emergencia.
+
+Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO PRIMERO. Clasificación
 
@@ -6023,115 +6183,165 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 ###### Artículo 6.
 
-24.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+24.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos del reglamento del Libro Quinto de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
 
-###### Artículo 6.
-
-25.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-26.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+25.- Requieren autorización de la Secretaría de Seguridad Ciudadana las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Dirección General de Protección Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La reglamentación de este Libro establecerá las actividades que requieren autorización.
 
-###### Artículo 6.
-
-27.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-28.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+26.- Deberán inscribirse en el Registro Estatal de Protección Civil:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Los programas de protección civil;
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+II. Los grupos voluntarios y de ayuda mutua;
+
+III. Los análisis de vulnerabilidad y riesgo;
+
+IV. Las personas que se dediquen a prestar servicios de consultoría o capacitación en materia de protección civil.
+
+El Registro Estatal de Protección Civil, es obligatorio e integrará de manera sistematizada la información en la materia, de las personas físicas y jurídicas colectivas, referidas en el párrafo anterior.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-29.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+27.- El Gobernador del Estado expedirá en forma apremiante una declaratoria de emergencia ante la ocurrencia de un desastre que ponga en riesgo la vida humana, y solicitará al gobierno federal la expedición de una declaratoria de desastre, cuando uno o varios fenómenos perturbadores hayan causado daños severos a la población y la capacidad de respuesta del Estado se vea superada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+28.- Las declaratorias de emergencia y de desastre deberán identificar el riesgo o desastre y la zona afectada, así como prever, según corresponda, las acciones de prevención, auxilio y recuperación.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+29.- Las declaratorias previstas en este Título deberán ser publicadas en la Gaceta del Gobierno, sin perjuicio de que se difundan a través de los medios de comunicación masiva. Las declaratorias podrán publicarse en el Periódico Oficial "Gaceta del Gobierno" con posterioridad a las acciones de protección civil.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO CUARTO. De los simulacros y señalizaciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 6.
+
+30.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, organizará y desarrollará el Sistema Estatal de Información de Protección Civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
+
+Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, los informes a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-30.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+31.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
-
-###### Artículo 6.
-
-31.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-32.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+32.- Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de bajo, mediano o alto riesgo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-33.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+33.- En case de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario de Seguridad Ciudadana, informará de manera inmediata al Titular del Ejecutivo del Estado, las medidas de seguridad que fueron aplicadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-34.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+34.- Son medidas de seguridad:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. La evacuación;
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+II. La suspensión de actividades;
+
+III. La clausura temporal, parcial o total;
+
+IV. La desocupación de predios, casas, edificios o establecimientos;
+
+V. El aseguramiento y destrucción de objetos, productos o sustancias;
+
+VI. El aislamiento de áreas afectadas.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-35.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+35.- Cuando se aplique alguna o algunas de las medidas de seguridad, se indicará su temporalidad y, en su caso, las acciones que se deben llevar a cabo para ordenar el retiro de las mismas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-36.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+36.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil y los municipios, en su caso, con:
+
+I. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Clausura temporal o definitiva, parcial o total;
+
+IV. Revocación de los registros a que se refiere este Libro;
+
+V. Demolición de una obra o instalación.
+
+Se podrá imponer una o más sanciones de las previstas en este artículo por una misma infracción, atendiendo a la gravedad de la misma.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 6.
+
+37.- Serán sancionadas con multa las infracciones siguientes:
+
+I. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+
+a) No cuente con registro de la Secretaría de Seguridad Ciudadana, estando obligado a obtenerlo;
+
+b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
+
+II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+
+a) No cuente con dictamen de viabilidad;
+
+b) Haya iniciado operaciones sin la autorización correspondiente;
+
+c) No permita el acceso al personal designado para realizar verificaciones en inmuebles, instalaciones y equipos
+
+III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 278, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE LIBRO.</small>
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
+## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO OCTAVO. De la vigilancia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -10003,9 +10213,11 @@ El reglamento de este Libro establecerá los criterios para la evaluación de la
 
 37.- En los casos en que las propuestas económicas estén por arriba del precio de mercado, la convocante lo hará de conocimiento de los participantes a fin de que reduzcan los precios de sus propuestas, hasta que se presente alguna propuesta que esté dentro de mercado, en caso contrario se procederá a declarar desierta la licitación.
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado, sea la más baja, debiendo dar preferencia, en igualdad de condiciones, a las presentadas por micro, pequeñas y medianas empresas. Si fuera el caso de que éstas hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de adquisiciones, represente mayores ventajas para el convocante en cuanto a precio, fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración objetiva.
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado sea la más baja, debiendo dar preferencia en igualdad de condiciones frente a empresas grandes, a las presentadas por micro, pequeñas y medianas empresas o agrupaciones de éstas conforme a lo dispuesto al respecto por la Ley de Fomento Económico para el Estado de México. Si fuera el caso de que éstas hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de adquisiciones, represente mayores ventajas para el convocante en cuanto a precio, fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración objetiva.
 
 Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
 
@@ -16116,3 +16328,41 @@ G.G. 26 DE OCTUBRE DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+DECRETO No. 33, POR EL QUE SE REFORMA EL ARTÍCULO 13.37 EN SU SEGUNDO PÁRRAFO DEL LIBRO DÉCIMO TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2013.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2010 a diciembre de 2011.
+
+CUARTO.- Para efecto de determinar el Impuesto sobre Tenencia o Uso de Vehículos correspondiente al ejercicio fiscal 2012, tratándose de la actualización prevista en el último párrafo del artículo 60 H, aplicable a aeronaves de más de diez años de antigüedad a dicho ejercicio, se deberá aplicar el procedimiento a que refiere el segundo párrafo del artículo 60 C.
+
+Aquellos contribuyentes que por la tenencia o uso de vehículos, les aplique lo previsto en el párrafo anterior, gozarán de un subsidio del 100% en la actualización, los recargos y multas que se hubieren causado, siempre y cuando realicen el pago de la contribución en los 3 primeros meses del ejercicio 2013.
+
+Los contribuyentes que hubieren pagado su tenencia conforme al procedimiento vigente en el ejercicio fiscal 2012, por una cantidad mayor al que le resulte de aplicar lo previsto en el primer párrafo de este artículo, podrán compensar la diferencia contra el Impuesto a su cargo por el ejercicio fiscal 2013 y siguientes, hasta agotarlo.
+
+QUINTO.- Se autoriza al Ejecutivo Estatal y a los ayuntamientos a suscribir convenios a efecto de que los ingresos de los municipios por concepto de participaciones mensuales sean una cantidad fija convenida tal que la suma de las asignaciones mensuales acordadas sean congruentes con las participaciones que les correspondan en términos del Capítulo Segundo del Título Séptimo del Código Financiero del Estado de México y Municipios, conforme a las reglas de carácter general que al efecto emita la Secretaría de Finanzas.
+
+SEXTO.- Las dependencias y entidades públicas del Gobierno del Estado dispondrán de un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente decreto, para remitir a la Secretaría de Finanzas la información y documentación con la que cuenten respecto de los fideicomisos que hayan constituido.
+
+SÉPTIMO.- Para efectos de la reforma al artículo 216-F del Código Financiero del Estado de México y Municipios, el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, realizará las gestiones necesarias a fin de finiquitar la cuenta del fideicomiso que se aperturó para la administración de los recursos a que hace referencia el citado artículo, así como la transferencia de los mismos a la cuenta que determine la Secretaría de Finanzas, en un plazo máximo de seis meses.
+
+OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del Estado de México, realicen una revisión minuciosa de los esquemas de cobro de los Derechos por Uso de Vías y Áreas Públicas, para el ejercicio de actividades comerciales o de servicios, así como del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos permitidos con cruce de apuestas y, en su caso, se hagan las propuestas conducentes, a fin de coadyuvar con los Municipios de la Entidad, en eficientar la recaudación de los ingresos propios.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+DECRETO No. 40, POR EL QUE SE EXPIDE EL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Decreto Número 524 de la H. "LVII" Legislatura del Estado de México, por el que se expide la Ley de Protección Civil del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 31 de agosto de 2012.
+
+CUARTO.- Para el ejercicio fiscal 2013, el presupuesto de egresos del Estado de México, incluirá una partida especial para el Fondo para la atención de desastres y siniestros ambientales o antropogénicos acorde a la suficiencia presupuestal del Estado.
+
+QUINTO.- El Ejecutivo Estatal deberá expedir el reglamento respectivo a este título, dentro de los noventa días siguientes a la entrada en vigor de este decreto.
