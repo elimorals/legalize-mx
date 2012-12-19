@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2012-01-11"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -531,9 +531,13 @@ Cuando se difiera una sesión ordinaria, el Secretario del Ayuntamiento lo comun
 
 Para el caso de que se difiera una sesión extraordinaria, la convocatoria para su celebración se hará en cualquier tiempo, como lo establece el artículo 42 del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-Corresponde al Secretario del Ayuntamiento, integrar los expedientes relativos a las sesiones de Cabildo y a sus acuerdos y resoluciones. Teniendo la obligación de estar presente en las sesiones de Cabildo, sólo con voz informativa y levantar las actas correspondientes, autorizándolas con su firma, así como recabar las firmas de los integrantes del Cabildo presentes en la sesión y expedir copias certificadas en términos del artículo 33 y 78 fracciones IV, V y XIII de la Ley Orgánica Municipal, así como las que le sean solicitadas tanto por los munícipes, servidores públicos o ciudadanos, en caso de ausencia el Síndico
+Corresponde al Secretario del Ayuntamiento, integrar los expedientes relativos a las sesiones de Cabildo y a sus acuerdos y resoluciones. Teniendo la obligación de estar presente en las sesiones de Cabildo, sólo con voz informativa y levantar las actas correspondientes, autorizándolas con su firma, así como recabar las firmas de los integrantes del Cabildo presentes en la sesión y expedir copias certificadas en términos del artículo 33 y 78, fracciones IV, V y XIII de la Ley Orgánica Municipal, así como las que le sean solicitadas tanto por los munícipes, servidores públicos o ciudadanos, en caso de ausencia el Síndico.
+
+En el contenido de las actas que para tal efecto levante el Secretario del Ayuntamiento, se deben de detallar todos y cada uno de los sucesos ocurridos en el desarrollo de las sesiones, así mismo debe de puntualizar el resultado de las votaciones en lo particular, es decir, asentando el nombre del integrante del Ayuntamiento y el sentido de su voto.
 
 ###### Artículo 57.
 
@@ -796,6 +800,10 @@ II.- Síndico, y
 III.- Regidores.
 
 Cuando se presente al Cabildo un proyecto, éste deberá de ser turnado a la Comisión respectiva para su dictamen, pudiéndose enviar a distintas comisiones por la materia del asunto, en este caso, se procederá a dictaminar en Comisiones unidas y la convocatoria y elaboración del dictamen respectivo, correrá a cargo de la Comisión que por la materia y denominación primeramente sea mencionada en el turno correspondiente. Lo anterior salvo que a solicitud del Presidente Municipal y atendiendo a su naturaleza, importancia o necesidad, se justifique ser considerado de urgente y obvia resolución, en este sentido se procederá a su discusión y en su caso aprobación el día de su presentación.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+La Comisión encargada tendrá treinta días hábiles a partir de la sesión de Cabildo en la que el asunto se le asignó para analizarlo y deberá presentar su dictamen para discusión y votación en la sesión de Cabildo posterior al cumplimiento del plazo. En caso de que el asunto lo amerite, previo conocimiento de los integrantes del Ayuntamiento, podrá prorrogarse por única ocasión hasta por treinta días hábiles más.
 
 ###### Artículo 100.
 
@@ -1082,6 +1090,28 @@ XXIII.- Habilitar en días y horas hábiles o inhábiles mediante orden escrita,
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 XXIV.- Las demás que le señalen otras disposiciones legales, el Presidente Municipal y el Cabildo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 125 Bis.
+
+Las dependencias y/o entidades que realicen cualquier tipo de obra pública, en el lugar donde se ejecute la misma, deben poner a la vista los siguientes datos:
+
+I.- Nombre de la Dependencia o Entidad que lo realiza;
+
+II.- Nombre de la empresa que ejecuta la obra;
+
+III.- Monto total de la inversión;
+
+IV.- Objeto y número de beneficiados;
+
+V.- Plazo de cumplimiento;
+
+VI.- Procedimiento de Adjudicación que se utilizó;
+
+VII.- Número telefónico y correo electrónico para aclaraciones, y,
+
+VIII.- La leyenda: “Esta obra es de carácter público, ajena a cualquier partido político. Queda prohibido su uso para fines partidistas, electorales o de promoción personal”.
 
 ###### Artículo 126.
 
@@ -1595,67 +1625,73 @@ III.- Proponer y coordinar el cumplimiento y aplicación de las disposiciones le
 
 IV.- Otorgar licencias de uso del suelo, licencias de construcción, autorización para la fusión de predio o subdivisión, fraccionamientos y régimen de condominios, dictámenes técnicos de colocación de anuncios o imagen urbana, autorización por uso de vía pública, por invasión de construcción aérea terrestre o subterránea, así como las demás licencias, dictámenes o autorizaciones que la normatividad señale que son de su competencia; previa solicitud en la que se anexen los documentos requeridos por la Secretaría y la normatividad de la materia, así como el pago de los derechos correspondientes a la Tesorería Municipal;
 
-V.- Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que le sean señalados por delegación o le correspondan emitir de conformidad con las normas aplicables;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-VI.- Someter anualmente a la aprobación del Ayuntamiento, el Programa de Obras Públicas de la Administración Pública Municipal;
+V.- Vigilar y Supervisar que las obras públicas y/o las obras para establecimientos abiertos al público que se realicen en el Municipio cuenten con rampas que permitan el libre acceso a personas con discapacidad;
 
-VII.- Proponer al Ayuntamiento la formación y manejo de reservas territoriales en los términos de la normatividad aplicable;
+VI.- Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que le sean señalados por delegación o le correspondan emitir de conformidad con las normas aplicables;
 
-VIII.- Autorizar los Manuales de Organización y Procedimientos, así como el Programa Operativo Anual y el informe de labores de la Dependencia a su cargo;
+VII.- Someter anualmente a la aprobación del Ayuntamiento, el Programa de Obras Públicas de la Administración Pública Municipal;
 
-IX.- Ejercer, previo acuerdo del Ayuntamiento o del Presidente Municipal, las atribuciones y funciones que en las materias de su competencia se establezcan en los convenios celebrados entre el Ayuntamiento, el Gobierno del Estado y el Gobierno Federal;
+VIII.- Proponer al Ayuntamiento la formación y manejo de reservas territoriales en los términos de la normatividad aplicable;
 
-X.- Ejecutar todos y cada uno de los programas federalizados que para tal efecto se llevan a cabo dentro del Municipio de Cuernavaca, en coordinación con la Federación, el Estado y los Municipio (sic), así como con las instituciones del sector público y privado;
+IX.- Autorizar los Manuales de Organización y Procedimientos, así como el Programa Operativo Anual y el informe de labores de la Dependencia a su cargo;
 
-XI.- Llevar a cabo las acciones que se establezcan para el mejoramiento armónico, visual, de nomenclatura y numeración dentro del territorio del Municipio de Cuernavaca;
+X.- Ejercer, previo acuerdo del Ayuntamiento o del Presidente Municipal, las atribuciones y funciones que en las materias de su competencia se establezcan en los convenios celebrados entre el Ayuntamiento, el Gobierno del Estado y el Gobierno Federal;
 
-XII.- Desempeñar las comisiones y funciones especiales que le confiera el Ayuntamiento o el Presidente Municipal;
+XI.- Ejecutar todos y cada uno de los programas federalizados que para tal efecto se llevan a cabo dentro del Municipio de Cuernavaca, en coordinación con la Federación, el Estado y los Municipio (sic), así como con las instituciones del sector público y privado;
 
-XIII.- Someter al acuerdo del Presidente Municipal los asuntos administrativos encomendados a la dependencia a su cargo;
+XII.- Llevar a cabo las acciones que se establezcan para el mejoramiento armónico, visual, de nomenclatura y numeración dentro del territorio del Municipio de Cuernavaca;
 
-XIV.- Proponer al Presidente Municipal, los proyectos de reglamentos, acuerdos, circulares y demás disposiciones jurídicas y administrativas sobre los asuntos de su competencia;
+XIII.- Desempeñar las comisiones y funciones especiales que le confiera el Ayuntamiento o el Presidente Municipal;
 
-XV.- Acordar los nombramientos de los titulares de las unidades administrativas y demás servidores públicos de la dependencia;
+XIV.- Someter al acuerdo del Presidente Municipal los asuntos administrativos encomendados a la dependencia a su cargo;
 
-XVI.- Informar de sus funciones al regidor del ramo mensualmente;
+XV.- Proponer al Presidente Municipal, los proyectos de reglamentos, acuerdos, circulares y demás disposiciones jurídicas y administrativas sobre los asuntos de su competencia;
 
-XVII.- La formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
+XVI.- Acordar los nombramientos de los titulares de las unidades administrativas y demás servidores públicos de la dependencia;
 
-XVIII.- La aplicación de los instrumentos de política ambiental previstos en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y en el presente Reglamento;
+XVII.- Informar de sus funciones al regidor del ramo mensualmente;
 
-XIX.- El aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al medio ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Gobierno Estatal;
+XVIII.- La formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
 
-XX.- Vigilar, supervisar, evaluar y controlar la prestación del servicio de limpia mediante un Sistema Integral de Aseo Municipal, de acuerdo a las normas oficiales mexicanas y demás disposiciones jurídicas aplicables, actividad que prestará por sí o por la entidad a la que se concesione;
+XIX.- La aplicación de los instrumentos de política ambiental previstos en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y en el presente Reglamento;
 
-XXI.- Promover la conservación del estrato arbóreo del Municipio y sancionar a los infractores de las normas correspondientes;
+XX.- El aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al medio ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Gobierno Estatal;
 
-XXII.- Verificar y controlar la proliferación de fauna doméstica, propiciando su esterilización y salud a fin de evitar zoonosis que pongan en peligro la salud pública, de conformidad con las normas oficiales mexicanas, la legislación en materia de salud y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXIII.- Establecer los lineamientos técnicos ambientales para el saneamiento de las barrancas, además de la realización de la limpieza cotidiana planificada de las mismas;
+XXI.- Vigilar, supervisar, evaluar y controlar la prestación del servicio de limpia mediante un Sistema Integral de Aseo Municipal, de acuerdo a las normas oficiales mexicanas y demás disposiciones jurídicas aplicables, actividad que prestará por sí o por la entidad a la que se concesiones (sic);
 
-XXIV.- Realizar actividades de educación ambiental formal y no formal en todos los sectores de la población municipal, incluyendo la realización de talleres, pláticas, exposiciones, conferencias y foros, en las actividades celebradas en el Municipio;
+XXII.- Promover la conservación del estrato arbóreo del Municipio y sancionar a los infractores de las normas correspondientes;
 
-XXV.- Colaborar con las Organizaciones de la Sociedad Civil y grupos ambientalistas de la demarcación;
+XXIII.- Verificar y controlar la proliferación de fauna doméstica, propiciando su esterilización y salud a fin de evitar zoonosis que pongan en peligro la salud pública, de conformidad con las normas oficiales mexicanas, la legislación en materia de salud y demás disposiciones jurídicas aplicables;
 
-XXVI.- Diseñar campañas publicitarias tendientes a conformar una adecuada conciencia ambiental en la población y propiciar su participación activa en los proyectos del Municipio;
+XXIV.- Establecer los lineamientos técnicos ambientales para el saneamiento de las barrancas, además de la realización de la limpieza cotidiana planificada de las mismas;
 
-XXVII.- Llevar a cabo acciones de orientación, inspección, verificación y en su caso, aplicación de medidas de seguridad y sanciones, en el ámbito de su competencia;
+XXV.- Realizar actividades de educación ambiental formal y no formal en todos los sectores de la población municipal, incluyendo la realización de talleres, pláticas, exposiciones, conferencias y foros, en las actividades celebradas en el Municipio;
 
-XXVIII.- Desarrollar los estudios pertinentes a fin de obtener el ordenamiento ecológico del Municipio, promoverlo a través de los medios conducentes para su aprobación y vigilar su implementación y cumplimiento;
+XXVI.- Colaborar con las Organizaciones de la Sociedad Civil y grupos ambientalistas de la demarcación;
 
-XXIX.- Promover y ejecutar las medidas, programas y acciones necesarias a efecto de propagar, conservar y mantener en buen estado las áreas verdes públicas del Municipio;
+XXVII.- Diseñar campañas publicitarias tendientes a conformar una adecuada conciencia ambiental en la población y propiciar su participación activa en los proyectos del Municipio;
 
-XXX.- Ejecutar las acciones que competen a panteones y velatorios municipales;
+XXVIII.- Llevar a cabo acciones de orientación, inspección, verificación y en su caso, aplicación de medidas de seguridad y sanciones, en el ámbito de su competencia;
 
-XXXI.- Realizar el barrido manual y mecánico y el almacenamiento temporal de residuos, de conformidad con las disposiciones jurídicas aplicables;
+XXIX.- Desarrollar los estudios pertinentes a fin de obtener el ordenamiento ecológico del Municipio, promoverlo a través de los medios conducentes para su aprobación y vigilar su implementación y cumplimiento;
 
-XXXII.- Otorgar una imagen digna y segura del Municipio, a través del mantenimiento preventivo y correctivo del servicio de alumbrado público y de la infraestructura pública municipal, así como operar acciones que preserven o corrijan la imagen urbana alterada por dibujos u otras expresiones gráficas; sin perjuicio de las facultades atribuidas a otras dependencias o entidades;
+XXX.- Promover y ejecutar las medidas, programas y acciones necesarias a efecto de propagar, conservar y mantener en buen estado las áreas verdes públicas del Municipio;
 
-XXXIII.- Coordinar, supervisar, calificar e imponer las sanciones por las infracciones que se cometan a los ordenamientos cuya aplicación sean de su competencia;
+XXXI.- Ejecutar las acciones que competen a panteones y velatorios municipales;
 
-XXXIV.- Coordinar, supervisar y evaluar el cumplimiento del control sanitario del Rastro Municipal, así como regular el otorgamiento de los servicios prestados, funcionamiento, mantenimiento y seguridad del mismo, así como del acopio animal; y
+XXXII.- Realizar el barrido manual y mecánico y el almacenamiento temporal de residuos, de conformidad con las disposiciones jurídicas aplicables;
 
-XXXV.- Las demás que expresamente le señalen el Ayuntamiento y otras disposiciones legales y reglamentarias vigentes.
+XXXIII.- Otorgar una imagen digna y segura del Municipio, a través del mantenimiento preventivo y correctivo del servicio de alumbrado público y de la infraestructura pública municipal, así como operar acciones que preserven o corrijan la imagen urbana alterada por dibujos u otras expresiones gráficas; sin perjuicio de las facultades atribuidas a otras dependencias o entidades;
+
+XXXIV.- Coordinar, supervisar, calificar e imponer las sanciones por las infracciones que se cometan a los ordenamientos cuya aplicación sean de su competencia;
+
+XXXV.- Coordinar, supervisar y evaluar el cumplimiento del control sanitario del Rastro Municipal, así como regular el otorgamiento de los servicios prestados, funcionamiento, mantenimiento y seguridad del mismo, así como del acopio animal; y
+
+XXXVI.- Las demás que expresamente le señalen el Ayuntamiento y otras disposiciones legales y reglamentarias vigentes.
 
 ###### Artículo 144.
 
@@ -2226,3 +2262,31 @@ P.O. 11 DE ENERO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca. Dado en el Salón de Cabildo "Benito Juárez García", en la Ciudad de Cuernavaca, a los cuatro días del mes de noviembre del año dos mil once.
+
+P.O. 19 DE DICIEMBRE DE 2012
+
+ACUERDO No. AC/SO/10-IX-12/388, POR EL QUE SE ADICIONA EL ARTÍCULO 125 BIS DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+ACUERDO No. AC/SO/10-X-12/399, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 56 Y UN TERCER PÁRRAFO AL ARTÍCULO 99 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
+
+TERCERO.- Publíquese en la Gaceta Municipal.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+ACUERDO No. AC/SO/10-X-12/400, POR EL QUE SE ADICIONA LA FRACCIÓN V, RECORRIÉNDOSE ESTA DE MANERA PROGRESIVA DEL ARTÍCULO 143 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
+
+TERCERO.- Publíquese en la Gaceta Municipal.
