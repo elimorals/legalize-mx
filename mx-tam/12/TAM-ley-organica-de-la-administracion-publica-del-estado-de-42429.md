@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2012-08-30"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -367,9 +369,9 @@ VIII. Llevar la contabilidad del Gobierno del Estado, formular los estados finan
 
 IX. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-X. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
+X.- Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
 XI. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
 
@@ -403,9 +405,25 @@ XXIII. Evaluar y dar seguimiento a las principales variables económicas, de car
 
 XXIV. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
 
-XXV. Suscribir los convenios materia de su competencia, que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXV.- Suscribir los convenios materia de su competencia que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXVI.- Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXVII.- Resolver las solicitudes de condonación y cancelación de créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXVIII.- Notificar todo tipo de actos administrativos; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXIX.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección III. De la Secretaría de Administración
 
@@ -1682,3 +1700,19 @@ Los asuntos que con motivo del presente Decreto pasen del conocimiento de una de
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente (sic) Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año 2013, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal, el 37 por ciento de los ingresos corresponderá a los Municipios.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
