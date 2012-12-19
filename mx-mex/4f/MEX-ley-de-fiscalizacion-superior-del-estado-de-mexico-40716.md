@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2012-10-11"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -905,9 +905,15 @@ Las resoluciones que se dicten en materia del recurso de revisión no admitirán
 
 En caso de responsabilidad penal el procedimiento se iniciará por denuncia de:
 
-a) La Junta de Coordinación Política, a solicitud del Auditor Superior, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México;
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+a) El Auditor Superior, por acuerdo de la Junta de Coordinación Política, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México.
 
 b) El Auditor Superior contra los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+El Auditor Superior estará obligado a guardar el sigilo de las investigaciones, debiendo informar a la Junta de Coordinación Política del Estado que guarden las denuncias.
 
 ###### Artículo 74.
 
@@ -975,7 +981,7 @@ C. CONSTANTINO ACOSTA DAVILA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 22 DE DICIEMBRE DE 2004.
 
@@ -1096,3 +1102,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
