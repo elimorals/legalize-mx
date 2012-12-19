@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2012-03-26"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:19 DE DICIEMBRE DE 2012.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -505,11 +505,15 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso del Estado tendrá por cada año de ejercicio constitucional, dos períodos ordinarios de sesiones. El primero iniciará el primero de octubre y concluirá el treinta y uno de enero del siguiente año; y el segundo se abrirá el primero de abril y concluirá el treinta y uno de julio inmediato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. El presupuesto de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial; así como los organismos autónomos que esta Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal y paraestatal. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+En el primer período ordinario de sesiones, el Congreso se ocupará de analizar, discutir y, en su caso, modificar y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. En el supuesto de que la Ley de Ingresos y Presupuesto de Egresos del Estado sea prorrogada, el monto de las partidas del presupuesto de egresos correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada se ajustará, de manera automática y proporcional, en función de las obligaciones contraídas. El presupuesto de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial; así como los organismos autónomos que esta Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal y paraestatal. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Al aprobar el Congreso la Ley de Ingresos y Presupuesto de Egresos del Estado, deberá verificar que se incluyan en la iniciativa de presupuesto de egresos la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada, celebrados con autorización del Congreso del Estado, durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita considerarlas, se tendrán por incluidas y autorizadas las partidas correspondientes que hubieren sido aprobadas con relación a los mismos en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas. Si en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada aprobados por el Congreso y en la nueva ley no se consideran, se tendrán por incluidas y autorizadas las partidas que fueren necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -673,7 +677,17 @@ XIX Bis. Nombrar a propuesta del Órgano de Gobierno, a los servidores públicos
 
 XX. Conocer de las imputaciones formuladas mediante juicio político en contra de los servidores públicos señalados en el Título VI de esta Constitución, actuando como Organo de acusación si resultare procedente presentar ésta; y emitir declaratoria de si ha lugar o no a proceder penalmente en contra de los servidores públicos a que se refiere el citado Título, tratándose de delitos, erigiéndose al efecto en jurado de acusación.
 
-XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI. Expedir anualmente la Ley de Ingresos y Presupuesto de Egresos del Estado, previo examen, discusión y, en su caso, modificación de la iniciativa enviada por el Ejecutivo Estatal. Asimismo, se podrá autorizar en dicha Ley las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley respectiva; así como las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada que se celebren con la previa autorización del Congreso; las erogaciones correspondientes deberán incluirse en las subsecuentes Leyes de Ingresos y Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI Bis. En materia de contratos de colaboración público privada:
+
+a) Establecer, mediante la expedición de una ley, las bases conforme a las cuales el Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal; asi como los Municipios, los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, podrán celebrar contratos de colaboración público privada; y,
+
+b) Autorizar al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal; conforme a las bases que se establezcan en la ley y en los casos que impliquen obligaciones que constituyan deuda pública, mediante el voto de la mayoría de sus miembros, la celebración de contratos de colaboración público privada, la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
 
@@ -1072,6 +1086,22 @@ XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las b
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
 
 XXI. Previa autorización del Congreso del Estado, celebrar empréstitos, otorgar garantías o avales, y formalizar las demás modalidades y actos jurídicos que correspondan conforme a lo previsto en el artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en avalista de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI Bis. Previa autorización del Congreso del Estado, celebrar contratos de colaboración público privada;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI Bis A. Previa autorización del Congreso del Estado, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI Bis B. Incluir anualmente, dentro de la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, derivadas de empréstitos y de contratos de colaboración público privada;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXI Bis C. Informar anualmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública. Incluyendo, asimismo, información detallada sobre los contratos de colaboración público privada en vigor, sobre el otorgamiento de garantías y avales y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso;
 
 > <small>(REFORMADA P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
@@ -1837,9 +1867,21 @@ No podrán establecerse exenciones o subsidios respecto a los ingresos señalado
 
 El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, y deberán incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 145 de la presente Constitución y 127 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, una vez aprobadas las contribuciones para cubrirlos, y deberán incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 145 de la presente Constitución y 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Los Ayuntamientos deberán informar anualmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública municipal, al rendir la cuenta pública. Incluyendo, información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+En todo caso, al aprobar los Ayuntamientos los Presupuestos de Egresos de los Municipios, deberán incluir y autorizar, las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los Municipios, derivadas de empréstitos y de contratos de colaboración público privada que en términos de la legislación aplicable constituyan deuda pública, celebrados con autorización del Congreso del Estado, durante la vigencia de los mismos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Cuando existiendo deuda pública a su cargo, por cualquier circunstancia, no se apruebe el Presupuesto de Egresos de los Municipios, se tendrán por prorrogados los presupuestos respectivos vigentes al finalizar el año anterior, hasta en tanto se aprueben los nuevos y entren en vigor.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1903,13 +1945,25 @@ VII. Vigilar las escuelas oficiales y particulares de su jurisdicción, coadyuva
 
 VIII. Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-IX. Ejercer en forma directa, o por quien los ayuntamientos autoricen conforme a la ley, los recursos que integran la hacienda municipal; y
+IX. Ejercer en forma directa, o por quien los ayuntamientos autoricen conforme a la ley, los recursos que integran la hacienda municipal;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-X. Las demás que les señalen las leyes.
+X. Autorizar en el Presupuesto de Egresos las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en las leyes y las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XI. Previa autorización del Congreso del Estado, celebrar empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que, en términos de lo dispuesto por el artículo 84 de esta Constitución, establezca el Congreso del Estado en la ley respectiva;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XII. Previa autorización del Congreso del Estado, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos; contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, o de cualesquier otros actos jurídicos relacionados con los mismos; y,
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XIII. Las demás que les señalen las leyes.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2321,7 +2375,9 @@ La Ley regulará lo concerniente a la materia.
 
 Los recursos económicos del Gobierno del Estado, de los Municipios y de los organismos e instituciones a que se refiere el Artículo 130 se administrarán y ejercerán con eficiencia, eficacia y honradez, aplicándolos precisamente a satisfacer los fines a que estén destinados.
 
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones Públicas mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza, incluidos los derivados de contratos de colaboración público privada, y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
@@ -3350,6 +3406,12 @@ Para efecto de posibilitar la nueva fecha de instalación del Congreso del Estad
 También por única ocasión, durante el primer año de ejercicio constitucional de la LXI Legislatura, el primer período ordinario de sesiones iniciará el primero de diciembre de 2013 y terminará el treinta y uno de enero de 2014; y el segundo período ordinario empezará el primero de abril y concluirá el treinta y uno de julio de 2014.
 
 El primer período ordinario de sesiones del segundo año de ejercicio iniciará el primero de octubre de 2014 y a partir de esa fecha se ajustarán los períodos de sesiones al nuevo texto del artículo 36 de la Constitución Política del Estado, reformado con este decreto.
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá expedir la Ley reglamentaria correspondiente.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
