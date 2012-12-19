@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2011-09-30"
+last_updated: "2012-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -509,9 +509,13 @@ XI. Los demás que se deriven de este código.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 43.
 
-Los partidos políticos tendrán a su cargo los siguientes deberes:
+Los Partidos Políticos tendrán a su cargo los siguientes deberes:
 
 I. Mantener el mínimo de afiliados requerido en los municipios para su constitución y registro;
 
@@ -531,31 +535,37 @@ VIII. Comunicar al Consejo Estatal Electoral la propuesta de modificación a sus
 
 IX. Presentar los informes anuales sobre el origen y aplicación de los recursos públicos, así como los informes sobre los ingresos y gastos de las precampañas y campañas electorales, de acuerdo al reglamento y los lineamientos establecidos;
 
-X. Destinar los bienes muebles e inmuebles que tengan o adquieran en propiedad, o de los que tengan o adquieran la posesión por cualquier título, al cumplimiento exclusivo, inmediato y directo de sus fines, debiendo presentar en su informe anual el inventario de éstos que contenga los resguardos y ubicación de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Permitir la práctica de auditorías y verificaciones en sus instalaciones cuando así lo ordene la autoridad electoral en materia de financiamiento, así como entregar la documentación que la propia comisión le solicite respecto a sus ingresos y egresos. Es procedente la práctica de una auditoría, cuando un partido político omita presentar los estados financieros previo requerimiento de la comisión de fiscalización y el costo de la misma será con cargo al financiamiento del partido infractor;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XII. Llevar su contabilidad en lo conducente conforme al reglamento que deberá proporcionar anualmente el órgano técnico de fiscalización del Instituto;
+X. Destinar el 2% del financiamiento público ordinario, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, igualdad sustantiva, acciones afirmativas, adelanto de las mujeres, empoderamiento de las mujeres y perspectiva de género.
 
-XIII. Conservar toda la documentación comprobatoria que respalde los asientos contables por un período de 5 años contados a partir de la aprobación y publicación del dictamen;
+XI. Destinar los bienes muebles e inmuebles que tengan o adquieran en propiedad, o de los que tengan o adquieran la posesión por cualquier título, al cumplimiento exclusivo, inmediato y directo de sus fines, debiendo presentar en su informe anual el inventario de éstos que contenga los resguardos y ubicación de los mismos;
 
-XIV. Omitir la presentación de informes, será causa suficiente para que se suspenda el financiamiento público al partido político infractor hasta en tanto este último presente su informe;
+XII. Permitir la práctica de auditorías y verificaciones en sus instalaciones cuando así lo ordene la autoridad electoral en materia de financiamiento, así como entregar la documentación que la propia comisión le solicite respecto a sus ingresos y egresos. Es procedente la práctica de una auditoría, cuando un partido político omita presentar los estados financieros previo requerimiento de la comisión de fiscalización y el costo de la misma será con cargo al financiamiento del partido infractor;
 
-XV. Presentar el informe general, el dictamen y en su caso la resolución o resoluciones de un medio de impugnación, las cuales tendrán el carácter de documentos públicos;
+XIII. Llevar su contabilidad en lo conducente conforme al reglamento que deberá proporcionar anualmente el órgano técnico de fiscalización del Instituto;
 
-XVI. Abstenerse de incitar o recurrir a la violencia a sus militantes o simpatizantes y a cualquier acto que tenga por objeto perturbar el goce de las garantías individuales o impedir el funcionamiento regular de los órganos electorales o de gobierno;
+XIV. Conservar toda la documentación comprobatoria que respalde los asientos contables por un período de 5 años contados a partir de la aprobación y publicación del dictamen;
 
-XVII. Abstenerse de cualquier expresión que implique calumnia, injuria, difamación o que denigre a los ciudadanos, a las instituciones públicas o a otras organizaciones políticas o candidatos;
+XV. Omitir la presentación de informes, será causa suficiente para que se suspenda el financiamiento público al partido político infractor hasta en tanto este último presente su informe;
 
-XVIII. Cumplirán de forma especial lo dispuesto en la fracción anterior durante las campañas electorales y en la propaganda política que se utilice durante las mismas;
+XVI. Presentar el informe general, el dictamen y en su caso la resolución o resoluciones de un medio de impugnación, las cuales tendrán el carácter de documentos públicos;
 
-XIX. Reembolsar a la secretaría encargada del despacho de la hacienda pública del gobierno del Estado, el monto del financiamiento público cuyo uso o destino no haya sido comprobado de conformidad a las resoluciones que emitan las autoridades electorales. En caso de que no se haga voluntariamente en un término de 60 días el reembolso, el Consejo Estatal Electoral lo descontará de las prerrogativas del partido político;
+XVII. Abstenerse de incitar o recurrir a la violencia a sus militantes o simpatizantes y a cualquier acto que tenga por objeto perturbar el goce de las garantías individuales o impedir el funcionamiento regular de los órganos electorales o de gobierno;
 
-XX. Promover la formación política de sus militantes y la edición de publicaciones de divulgación y formación ideológica;
+XVIII. Abstenerse de cualquier expresión que implique calumnia, injuria, difamación o que denigre a los ciudadanos, a las instituciones públicas o a otras organizaciones políticas o candidatos;
 
-XXI. Cumplir con las obligaciones que en materia de información pública establece la ley de la materia; y
+XIX. Cumplirán de forma especial lo dispuesto en la fracción anterior durante las campañas electorales y en la propaganda política que se utilice durante las mismas;
 
-XXII. Las demás que establezca este código.
+XX. Reembolsar a la secretaría encargada del despacho de la hacienda pública del gobierno del Estado, el monto del financiamiento público cuyo uso o destino no haya sido comprobado de conformidad a las resoluciones que emitan las autoridades electorales. En caso de que no se haga voluntariamente en un término de 60 días el reembolso, el Consejo Estatal Electoral lo descontará de las prerrogativas del partido político;
+
+XXI. Promover la formación política de sus militantes y la edición de publicaciones de divulgación y formación ideológica;
+
+XXII. Cumplir con las obligaciones que en materia de información pública establece la ley de la materia; y
+
+XXIII. Las demás que establezca este código.
 
 ###### ARTÍCULO 44.
 
@@ -857,7 +867,7 @@ Los informes que presenten los partidos políticos; así como las auditorías y 
 
 ### CAPÍTULO III. DE LA PROPAGANDA ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 69.
 
@@ -865,7 +875,7 @@ Los partidos políticos durante sus precampañas y campañas político-electoral
 
 I. Se sujetarán a los términos y procedimientos que dicten los organismos electorales, en todo lo relativo a la fijación de su propaganda en los lugares de uso común o de acceso público;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
 
 II. No podrán pintar fijar o colgar propaganda en:
 
@@ -1161,11 +1171,17 @@ El Consejero Presidente y los cuatro Consejeros Electorales serán electos suces
 
 I. Cada grupo parlamentario representado en el Congreso propondrá una lista de cinco ciudadanos para elegir de entre ellos sucesivamente al Consejero Presidente, a los Consejeros Electorales y a cuatro Consejeros Suplentes, identificando al primero en su propuesta, privilegiando la equidad de género.
 
-II. Las propuestas serán analizadas y dictaminadas a través del órgano político del Congreso. La propuesta de dictamen deberá contener los nombres para ocupar los cargos de: Consejero Presidente, Consejeros Electorales, así como a los cuatro Consejeros Suplentes en orden de prelación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. El dictamen respectivo será sometido a la discusión y aprobación del Congreso del Estado o en su caso, de la Diputación Permanente, quien emitirá el decreto respectivo; y
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-IV. El Congreso del Estado o la Diputación permanente designará al Consejero Presidente y a los Consejeros Electorales a más tardar 5 días previos a la instalación del consejo.
+II. Para tal efecto, en la designación tanto de los Consejeros Electorales propietarios como de los Consejeros Electorales Suplementes, se formularán cuatro propuestas propietarias de género distinto de manera alternada, de igual manera se aplicará para la designación de los consejeros suplentes.
+
+III. Las propuestas serán analizadas y dictaminadas a través del órgano político del Congreso. La propuesta de dictamen deberá contener los nombres para ocupar los cargos de: Consejero Presidente, Consejeros Electorales, así como a los cuatro Consejeros Suplentes en orden de prelación.
+
+IV. El dictamen respectivo será sometido a la discusión y aprobación del Congreso del Estado o en su caso, de la Diputación Permanente, quien emitirá el decreto respectivo; y
+
+V. El Congreso del Estado o la Diputación permanente designará al Consejero Presidente y a los Consejeros Electorales a más tardar 5 días previos a la instalación del consejo.
 
 ###### ARTÍCULO 97.
 
@@ -1641,7 +1657,7 @@ XXXVI. Informar a los distintos órganos y direcciones del instituto sobre los a
 
 XXXVII. Las demás que señale este código, le asigne el consejero presidente o el Consejo Estatal Electoral.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES EJECUTIVAS
 
@@ -2647,9 +2663,13 @@ El registro de candidatos a diputados de mayoría relativa será por fórmulas i
 
 Quedan exceptuadas de esta disposición las candidaturas de mayoría relativa que sean resultado de un proceso de elección democrático, conforme a los estatutos de cada partido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 210.
 
-Las candidaturas para miembros de ayuntamientos, se registrarán ante el Consejo Municipal Electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y una lista de Regidores, propietarios y suplentes en número igual al previsto para ese Municipio en la ley correspondiente, que se elegirán por el principio de representación proporcional. Atendiendo al principio de equidad, cada planilla que presenten los partidos políticos, podrá ser integrada hasta por el cincuenta por ciento de candidatos de un mismo género.
+Las candidaturas para miembros de ayuntamientos, se registrarán ante el Consejo Municipal Electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y una lista de Regidores, propietarios y suplentes en número igual al previsto para ese Municipio en la ley correspondiente, que se elegirán por el principio de representación proporcional. Atendiendo al principio de equidad, cada planilla que presenten los partidos políticos, se integrará con propuestas propietarias de género distinto de manera alternada, de igual manera se aplicará para la designación de los suplentes.
 
 ###### ARTÍCULO 211.
 
@@ -2887,7 +2907,7 @@ La difusión se hará a través de la publicación en el Periódico Oficial del 
 
 El Consejero Presidente del Consejo Estatal Electoral dentro de los 10 días siguientes a la fecha de difusión, atenderá las objeciones y presentará al pleno del Consejo, quién decidirá las cambios cuando los lugares señalados o los ciudadanos designados no reúnan los requisitos exigidos por este código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 241.
 
@@ -3353,7 +3373,7 @@ Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto e
 
 Para el ejercicio del voto los ciudadanos que residan en el extranjero además de los que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y soberano de Morelos y lo que establezca el convenio que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2009)</small>
 
 ## TÍTULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN, DE LOS RESULTADOS ELECTORALES, DEL RECUENTO Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
 
@@ -3381,7 +3401,7 @@ IV.- El Consejero Presidente correspondiente, previa autorización de los Consej
 
 V.- El Consejero Presidente, bajo su responsabilidad, y para efectos de la salvaguarda de los paquetes electorales, dispondrá que sean selladas las puertas o el acceso al lugar en que fueren depositados, en presencia de los representantes de los partidos políticos que deseen asistir a este acto y que quisieren firmar los sellos correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO II. DE LOS CÓMPUTOS Y RECUENTOS PARCIALES Y TOTALES
 
@@ -4491,7 +4511,7 @@ SÉPTIMO.- El presente código entrara en vigor a partir de su publicación en e
 
 A continuación se incluye el listado integral de la ubicación de las secciones electorales que comprenden el Estado de Morelos para el proceso electoral del año 2009.
 
-> <small>N. DE E. EN RELACION CON EL LISTADO INTEGRAL, VEASE P.O. DE 2 DE OCTUBRE DE 2008, PAGINAS 67 A LA 84.</small>
+> <small>N. DE E. EN RELACIÓN CON EL LISTADO INTEGRAL, VÉASE P.O. DE 2 DE OCTUBRE DE 2008, PÁGINAS 67 A LA 84.</small>
 
 Recinto Legislativo a los treinta días del mes de septiembre de dos mil ocho.
 
@@ -4537,7 +4557,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE MAYO DE 2009.
 
@@ -4592,3 +4612,9 @@ TERCERO.- En relación a las direcciones de área que pasan a ser Direcciones Ej
 CUARTO.- Para la aplicación de los artículos contenidos en la presente reforma en cuanto al personal del Instituto Estatal Electoral, se deberá garantizar en su caso, los alcances legales correspondientes.
 
 QUINTO.- Remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado "Tierra y Libertad".
+
+P.O. 19 DE DICIEMBRE DE 2012.
+
+Artículo Primero. Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+Artículo Segundo. El presente decreto iniciará su vigencia a partir del día primero de enero de 2013.
