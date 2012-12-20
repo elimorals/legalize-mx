@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2012-07-31"
+last_updated: "2012-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -619,6 +619,10 @@ XXIV.- DE TRANSPARENCIA.
 
 XXV.- DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD.
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+XXVI.- DE SEGUIMIENTO A LOS ACUERDOS ECONÓMICOS.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 55.
@@ -949,7 +953,7 @@ e).- Lo relativo a la normatividad y demás aspectos relacionados con la protecc
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
-f).- En general, toda legislación relacionada con la Seguridad Pública.
+f).- En general, toda la legislación relacionada con la Seguridad Pública.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1114,6 +1118,16 @@ e) Organizar foros de consulta, a efecto de recibir y realizar propuestas que ti
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 f) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+XXVI.- DE LA COMISIÓN DE SEGUIMIENTO A LOS ACUERDOS ECONÓMICOS:
+
+a).- Llevar el listado actualizado de los Acuerdos económicos aprobados por el Pleno del Congreso, en los que se solicite la intervención de las autoridades federales, estatales o municipales, relacionadas con algún asunto de su competencia.
+
+b).- Por conducto de la Presidencia, solicitar a las autoridades competentes la respuesta a la solicitud de intervención, siempre y cuando transcurran los 15 días naturales contados a partir de la fecha en que tengan conocimiento oficialmente del citado exhorto.
+
+c).- Informar mensualmente al Pleno del H. Congreso de la situación en que se encuentra la solicitud de los Acuerdos Económicos, turnada a la autoridad competente, para que a su vez, se trasmita dicha información en tiempo y forma, a los promoventes.
 
 ###### ARTICULO 56.
 
@@ -2914,3 +2928,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 B.O. 31 DE JULIO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente decreto se integrará e instalará la Comisión Permanente de Seguimiento a los Acuerdos Económicos.
