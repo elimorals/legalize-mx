@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2012-06-20"
+last_updated: "2012-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2469,7 +2469,7 @@ III.- Intervengan dos o más personas, cualquiera que sea su coparticipación;
 
 IV.- El responsable allane el domicilio de la víctima o la sorprenda en despoblado;
 
-V.- El delito fuese cometido por la persona que tiene al ofendido bajo su custodia, guarda, educación o adoctrinamiento religioso; y
+V.- El delito fuese cometido por la persona que tiene al ofendido bajo su custodia, guarda, educación o adoctrinamiento religioso; y (sic)
 
 VI.- Se haya cometido por un servidor público, en ejercicio de sus funciones, aprovechando los medios o circunstancias que éstas le proporcionan.
 
@@ -2477,9 +2477,11 @@ VI.- Se haya cometido por un servidor público, en ejercicio de sus funciones, a
 
 En el supuesto señalado en la fracción anterior, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por cinco años.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
-VII. Si el delito fuere cometido en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+VII.- Si el delito fuere cometido en el interior de las instituciones públicas o privadas de educación inicial, especial, básica, media superior, superior, o en sus inmediaciones o en cualquier centro de enseñanza extraescolar e instituciones afines por personal docente, administrativo, directivo y operativo contra los educandos.
+
+En este supuesto además de la pena privativa de libertad, en su caso, se impondrán destitución, e inhabilitación definitiva para desempeñar otro empleo, cargo o comisión en instituciones educativas públicas del Estado; y
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -3132,3 +3134,7 @@ B.O. 20 DE JUNIO DE 2012.
 ###### ARTÍCULO PRIMERO
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
