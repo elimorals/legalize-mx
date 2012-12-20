@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2004-08-10"
+last_updated: "2012-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -57,9 +57,15 @@ IV.- Las bases para promover y garantizar la participación democrática de los 
 
 V.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de los planes y programas.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 2o.
 
-La Planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno Estatal sobre el desarrollo integral del Estado, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Baja California Sur.
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del gobierno estatal sobre el desarrollo integral del Estado, de acuerdo a los principios, fines y objetivos Políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Baja California Sur. Para ello, estará basada en los siguientes principios:
+
+I.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de calidad de vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población, y
+
+II.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos·y beneficios del desarrollo;
 
 ###### ARTICULO 3o.
 
@@ -93,11 +99,17 @@ El Gobernador del Estado, al enviar al Congreso las Iniciativas de Ley de Ingres
 
 Los Titulares de las Dependencias de la Administración Pública Estatal, deberán dar cuenta al Congreso cuando este se los solicite, del estado que guardan sus respectivos ramos, informando del avance y grado de cumplimiento de los objetivos y prioridades fijados en la Planeación Estatal que, por razón de su competencia le corresponda y de los resultados de las acciones previstas, en su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
-Los Servidores Públicos a que alude el primer párrafo de este Artículo y los Directores y Administradores de las Entidades Paraestatales que sean citados por el Congreso para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el Proyecto de Ley o negocio de que se trate y los objetivos de la Planeación Estatal, relativos a la Dependencia o Entidades a su cargo.
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+Informaran también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres.
+
+Los Servidores Públicos a que alude el primer párrafo de este artículo y los directores y Administradores de las Entidades Paraestatales que sean citados por el congreso para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalaran las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la Planeación Estatal, relativos a la Dependencia o entidades a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 9o.
 
-Las Dependencias de la Administración Pública centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la Planeación Estatal de Desarrollo.
+Las dependencias de la Administración Pública centralizada deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la Planeación Estatal de Desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, integral y sustentable.
 
 Lo dispuesto en el párrafo anterior será aplicable a las Administraciones Municipales y a las Entidades de la Administración Pública Paraestatal.
 
@@ -147,11 +159,19 @@ VI.- Verificar, periódicamente, la relación que guardan los programas y presup
 
 A la Secretaría de Finanzas le corresponden:
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo y en los planes operativos anuales, respecto de la definición de las políticas financieras y fiscal.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+I.- Participar en la elaboración del Plan Estatal de Desarrollo y en los planes operativos anuales, respecto de la definición de las políticas financieras y fiscales, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Estatal, los planteamientos que se formulen por los grupos sociales, así como la perspectiva de género.
 
 II.- Proyectar y calcular los ingresos del Estado, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del plan y los programas.
 
-III.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos del plan y de los programas.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+III.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos del plan y de los programas, y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+IV.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en mujeres y hombres.
 
 ###### ARTICULO 15.
 
@@ -461,8 +481,12 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO BENJAMIN MANRIQUEZ GULUARTE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE AGOSTO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
