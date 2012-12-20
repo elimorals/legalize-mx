@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2012-07-23"
+last_updated: "2012-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 20 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2012 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -1634,3 +1636,11 @@ Concluidos los procedimientos de cumplimiento de las resoluciones de los recurso
 D.O. 23 DE JULIO DE 2012.
 
 ÚNICO. Las presentes reformas entraran el (sic) vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día primero de enero de dos mil trece.
+
+Artículo Segundo.- A partir de la entrada en vigor del presente Reglamento, queda abrogado el diverso publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día veinticuatro de octubre de dos mil ocho, así como sus subsecuentes reformas.
+
+Artículo Tercero.- Quedan sin efectos todas las disposiciones legales emitidas por el Instituto, que se contrapongan a las establecidas en el presente Reglamento.
