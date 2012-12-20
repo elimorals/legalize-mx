@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2012-11-10"
+last_updated: "2012-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -119,9 +119,9 @@ Toda medida o disposición protectoras de las familias y la niñez se consideran
 
 12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
-13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria conforman la educación básica obligatoria. Además, toda la educación que impartan el Estado y Municipios será gratuita.
+13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita.
 
 14.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
 
@@ -141,7 +141,11 @@ Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que 
 
 La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 
-19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística y científica de la comunidad y en los beneficios que de ello resulten.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estímulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 
 > <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -173,17 +177,21 @@ II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan
 
 III.- Inscribir en el Registro Civil, los actos constitutivos o modificativos del estado civil;
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
+IV.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior y reciban la instrucción militar, en los términos que establezca la ley.
+
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1985)</small>
 
-IV.- Tener un modo honesto de vivir;
+V.- Tener un modo honesto de vivir;
 
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1985)</small>
 
-V.- Dar auxilio a las autoridades en los casos de urgencia, y
+VI.- Dar auxilio a las autoridades en los casos de urgencia, y
 
-> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1985)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
-VI.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado, sujetarse a los fallos y sentencias de los Tribunales sin poder invocar o intentar otros recursos, que los que se conceden a todos los mexicanos.
+VII.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes; obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales; sin poder invocar o intentar otros recursos que los que se conceden a todos los mexicanos.
 
 ### CAPITULO II. DE LOS SUDCALIFORNIANOS
 
@@ -785,9 +793,9 @@ XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes prop
 
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 
-(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
-XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con el procedimiento establecido para ello en la ley respectiva.
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Consejeros del Instituto de Transparencia y Acceso a la Información Pública, de conformidad con los procedimiento (sic) establecidos para ello en las leyes respectivas.
 
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
 
@@ -2848,3 +2856,27 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Bolet�
 B.O. 10 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+DECRETO No. 2023, POR EL QUE SE REFORMA LA FRACCIÓN XLVIII DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+DECRETO No. 2031, POR EL QUE SE REFORMA EL ARTÍCULO 19 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+DECRETO No. 2032, POR EL QUE SE REFORMA EL ARTÍCULO 13 Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 22, RECORRIÉNDOSE EN SU ORDEN LAS ACTUALES FRACCIONES IV A LA VI, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2013-2014 y hasta lograr la cobertura total en sus diversas modalidades en el país a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado Libre y soberano de Baja California Sur.
+
+TERCERO.- Para dar cumplimiento al principio de obligatoriedad, en el Presupuesto de Egresos del Estado, con las aportaciones federales respectivas, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+CUARTO.- Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá adecuar la ley estatal de educación y demás disposiciones legales aplicables en la materia.
