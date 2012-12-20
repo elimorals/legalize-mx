@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-estado-de-tamaulipas-para-el-ejercicio-9096
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-19"
-last_updated: "2012-12-19"
+last_updated: "2012-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "TAM"
 ---
 # LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2012. EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2013
 
 TEXTO ORIGINAL.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de diciembre de 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE DICIEMBRE DE 2012.</small>
 
 EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
@@ -42,8 +42,6 @@ D E C R E T O No. LXI-587
 MEDIANTE EL CUAL SE EXPIDE LA LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DE 2013.
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DE 2013.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2012. EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -169,15 +167,17 @@ Para la Infraestructura Social Municipal 599,517
 
 Para la Infraestructura Social Estatal 82,683
 
-Fondo de Aportaciones para el 1,577,400
+> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2012)</small>
 
-Fortalecimiento de los Municipios
+Fondo de Aportaciones Múltiples para 170,596
 
-Fondo de Aportaciones Múltiples para la Asistencia Social
+la Asistencia Social
+
+> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2012)</small>
 
 Fondo de Aportaciones para la
 
-Educación Tecnológica y de Adultos: 170,596
+Educación Tecnológica y de Adultos:
 
 Para la Educación Tecnológica (CONALEP) 131,112
 
