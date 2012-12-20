@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2012-07-31"
+last_updated: "2012-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -849,9 +849,13 @@ Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes
 
 Si las partes o sus mandatarios no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 122, la notificación se dará por hecha y surtirá sus efectos a las doce horas del último día a que se refiere el artículo citado, a condición de que se haya hecho en el Boletín Judicial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 125.
 
-Se fijará en lugar visible de las oficinas del tribunal o juzgados, una lista de los negocios que se hayan acordado cada día, y se remitirá otra lista expresando solamente los nombres y apellidos de los interesados, para que al día siguiente sea publicada en el Boletín Judicial, diario que sólo contendrá dichas listas de acuerdos y avisos judiciales y que se publicará antes de las nueve de la mañana.
+Se fijará en lugar visible de las oficinas del Tribunal o Juzgados, una lista de los negocios que se hayan acordado cada día, y se remitirá otra lista expresando el número de expediente, nombre de las partes, tipo de juicio de que se trate, para que al día siguiente sea publicado en el Boletín Judicial, diario que sólo contendrá dichas listas de acuerdos y avisos judiciales, la cual se publicará antes de las nueve de la mañana. Dichas listas y avisos judiciales también deberán ser publicadas en la página oficial del internet del Poder Judicial del Estado, la que únicamente tendrá efectos informativos y no surtirá efectos de notificación.
 
 Sólo por errores u omisiones substanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por Boletín Judicial. Además, se fijará diariamente en los estrados de la sala del tribunal y juzgados un ejemplar del Boletín Judicial, coleccionándose dicho diario para resolver cualquier cuestión que se suscite sobre la falta de alguna publicación. En el archivo judicial se formarán dos colecciones, una de las cuales estará siempre a disposición del público.
 
@@ -6304,5 +6308,11 @@ B.O. 6 DE JULIO DE 2011.
 B.O. 31 DE JULIO DE 2012.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los noventa días naturales siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, a efectos de dar oportunidad al Poder Judicial del Estado de Baja California Sur, la aplicación de las medidas que estime necesarias dentro del ámbito de su competencia para dar cumplimiento al presente decreto.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
