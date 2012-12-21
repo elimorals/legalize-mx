@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2012-07-18"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -208,6 +208,12 @@ XIII. Procuraduría General de Justicia
 XIV. Coordinación General de Comunicación Social.
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Las atribuciones otorgadas al Gobernador, Secretarios de Despacho y demás Funcionarios y Servidores Públicos subalternos, serán ejercidas en todo el Estado, salvo disposición expresa en contrario.
 
 ###### Artículo 10.
 
@@ -597,7 +603,11 @@ XVI. Presentar denuncias y formular querellas, ratificar las mismas, recibir el 
 
 XVII. Intervenir en los juicios de carácter fiscal que se ventilen ante los tribunales competentes, cuando tenga interés la Hacienda Pública del Estado;
 
-XVIII. Ejercitar las acciones y oponer las excepciones que procedan, para la defensa administrativa y judicial de los derechos de la Hacienda del Estado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública del Estado de Veracruz de Ignacio de la Llave, así como representar a dicho Estado en los procesos jurisdiccionales en los que éste tome parte como entidad federativa coordinada en ingresos federales, incluso en el recurso de revisión administrativa;
 
 XIX. Llevar el control de la deuda pública del Estado y efectuar los pagos correspondientes;
 
@@ -2496,3 +2506,11 @@ Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscri
 Quinto. Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de este decreto, se substanciarán con arreglo a la ley por la dependencia en que se iniciaron hasta su total conclusión.
 
 Sexto. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia catastral, se entenderán referidos a la Secretaría de Gobierno, como cabeza de sector. La adecuación correspondiente se deberá realizar con la brevedad posible.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 808 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS FINANCIEROS, DE PROCEDIMIENTOS ADMINISTRATIVOS, PENAL ASÍ COMO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
