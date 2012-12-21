@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-coordinacion-general-de-62282"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-11"
-last_updated: "2008-07-11"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE PROGRAMACION Y GESTION DE LA INVERSION PUBLICA
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE PROGRAMACION Y GESTION DE LA INVERSION PUBLICA
+REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE PROGRAMACIÓN Y GESTIÓN DE LA INVERSIÓN PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO GUBERNATIVO NÚMERO 16 POR EL QUE SE EXTINGUE LA COORDINACIÓN GENERAL DE PROGRAMACIÓN Y GESTIÓN DE LA INVERSIÓN PÚBLICA COMO ÓRGANO PÚBLICO DESCONCENTRADO DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE FECHA 21 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de julio de 2008.
 
@@ -660,3 +662,33 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abstención de la COPI de generar nuevos actos
+
+Artículo Segundo. La Coordinación General de Programación y Gestión de la Inversión Pública, se abstendrá de suscribir y ejecutar cualquier acto jurídico, asimismo no podrá asumir compromisos adicionales más allá de los necesarios para la continuación de los que desempeña o la fecha.
+
+Transferencia de asuntos
+
+Artículo Tercero. La Coordinación General de Programación y Gestión de la Inversión Pública, elaborará una relación detallada de los asuntos, juicios y procedimientos pendientes que tenga a su cargo, para su transferencia a la Secretaría de Finanzas, Inversión y Administración, en materia de inversión y proyectos, y programación del gasto de inversión, y al Instituto de Planeación del Estado de Guanajuato, en materia de planeación.
+
+Atribución de la SFIA
+
+Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración, en el ámbito de su competencia instrumentará las acciones necesarias para dar cumplimiento al presente Decreto Gubernativo.
+
+Sustitución en las relaciones laborales
+
+Artículo Quinto. El personal que sea readscrito a la Secretaría de Finanzas, Inversión y Administración, para atender las atribuciones en materia de inversión y proyectos, y programación del gasto de inversión, y al Instituto de Planeación del Estado de Guanajuato, paro atender las atribuciones en materia de planeación, conservará las prestaciones laborales y sociales conforme o la normativa aplicable.
+
+Procedimiento de liquidación
+
+Artículo Sexto. El recurso financiero que se utilice para la liquidación del personal de la Coordinación General de Programación y Gestión de la Inversión Pública que no se encuentre en la hipótesis del artículo anterior, se erogará del presupuesto con que cuente la misma.
+
+Si existiere alguna inconformidad en cuanto a la liquidación del personal, ésta será atendida por la Secretaría de Finanzas, Inversión y Administración.
