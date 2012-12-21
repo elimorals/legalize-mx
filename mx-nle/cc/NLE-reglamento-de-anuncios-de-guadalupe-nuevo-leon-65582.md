@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-de-guadalupe-nuevo-leon-65582"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2009-03-25"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ANUNCIOS DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MARZO DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2008.
 
@@ -55,7 +53,9 @@ En cumplimiento de las normas de equidad y género, toda disposición señalada 
 
 Para los efectos de este Reglamento se entenderá por:
 
-ALINEAMIENTO: Traza sobre el terreno que limita el predio respectivo con la Vía Pública en uso o con la futura; determinada en los planos y proyectos legalmente aprobados por El Centro de Desarrollo Urbano y Ecología.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ALINEAMIENTO: Traza sobre el terreno que limita el predio respectivo con la Vía Pública en uso o con la futura; determinada en los planos y proyectos legalmente aprobados por la Dirección General de Desarrollo Urbano y Ecología.
 
 ANUNCIO: Todo medio de comunicación que indique, señale, exprese, muestre o difunda al público, cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios o con el ejercicio lícito de actividades profesionales, políticas, cívicas, culturales, industriales, mercantiles, técnicas, de espectáculos o de diversiones.
 
@@ -99,11 +99,15 @@ DERECHO DE VÍA: Área de terreno prevista para calles, avenidas, carreteras y s
 
 DIRECTOR RESPONSABLE DE OBRA: Profesionista perito en cálculo y construcción.
 
-LICENCIA: La autorización expedida por El Centro de Desarrollo Urbano y Ecología, para la fijación, instalación o colocación de anuncios permanentes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+LICENCIA: La autorización expedida por la Dirección General de Desarrollo Urbano y Ecología, para la fijación, instalación o colocación de anuncios permanentes.
 
 MARQUESINA: Cobertizo o techumbre construidos sobre la pared exterior de una edificación, en la que se pretende instalar un anuncio.
 
-PERMISOS: La autorización expedida por El Centro de Desarrollo Urbano y Ecología, para la fijación, la instalación colocación de anuncios eventuales o temporales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+PERMISOS: La autorización expedida por la Dirección General de Desarrollo Urbano y Ecología, para la fijación, la instalación colocación de anuncios eventuales o temporales.
 
 REFRENDOS: Trámite realizado anualmente ante la Tesorería Municipal para mantener la vigencia de la licencia, previo pago de derechos.
 
@@ -191,13 +195,17 @@ El Presidente Municipal estará facultado para autorizar la colocación de anunc
 
 ## TITULO II. DE LAS AUTORIDADES COMPETENTES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-La aplicación y vigilancia; así como el trámite y resolución de los asuntos relativos a este Reglamento, corresponden al C. Presidente Municipal por conducto del Centro de Desarrollo Urbano y Ecología, de la Tesorería Municipal y de los C. Inspectores adscritos a este Centro.
+La aplicación y vigilancia; así como el trámite y resolución de los asuntos relativos a este Reglamento, corresponden al C. Presidente Municipal por conducto de la Dirección General de Desarrollo Urbano y Ecología, de la Tesorería Municipal y de los C. Inspectores adscritos a la Dirección General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-Son facultades del Centro de Desarrollo Urbano y Ecología en materia de anuncios, las siguientes:
+Son facultades de la Dirección General de Desarrollo Urbano y Ecología en materia de anuncios, las siguientes:
 
 I.- Determinar las normas técnicas y demás especificaciones referentes a los diversos tipos de anuncios.
 
@@ -221,15 +229,21 @@ IX.- Llevar un control y registro de las Licencias y Permisos otorgados.
 
 Son facultades de la Tesorería Municipal en materia de anuncios las siguientes:
 
-I.- Recibir el pago de las licencias o permisos; así como de los derechos que le compete aplicar al Centro de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Recibir el pago de las licencias o permisos; así como de los derechos que le compete aplicar a la Dirección General de Desarrollo Urbano y Ecología.
 
 II.- Calificar las multas o sanciones a aplicar de acuerdo a este Reglamento.
 
-III.- El cobro de los impuestos o derechos que correspondan por concepto de Licencias y/o permisos de acuerdo a la Ley de Hacienda para los Municipios del Estado de Nuevo León en vigor, así como el cobro de las sanciones pecuniarias que dictamine el Centro de Desarrollo Urbano y Ecología. Para recuperar el gasto generado por el retiro de un anuncio hecho por el Centro de Desarrollo Urbano y Ecología, en rebeldía del anunciante que incumplió orden o acuerdo previsto en los Artículos 63, 64 y 65 de este ordenamiento se substanciará el procedimiento económico coactivo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III.- El cobro de los impuestos o derechos que correspondan por concepto de Licencias y/o permisos de acuerdo a la Ley de Hacienda para los Municipios del Estado de Nuevo León en vigor, así como el cobro de las sanciones pecuniarias que dictamine la Dirección General de Desarrollo Urbano y Ecología. Para recuperar el gasto generado por el retiro de un anuncio hecho por la Dirección General de Desarrollo Urbano y Ecología, en rebeldía del anunciante que incumplió orden o acuerdo previsto en los Artículos 63, 64 y 65 de este ordenamiento se substanciará el procedimiento económico coactivo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-Durante los operativos de limpieza ó áreas municipales que supongan retiro de anuncios, el Centro de Desarrollo Urbano y Ecología, deberá coordinarse con la Secretaría de Servicios Públicos con objeto de efectuar acciones conjuntas
+Durante los operativos de limpieza ó áreas municipales que supongan retiro de anuncios, la Dirección General de Desarrollo Urbano y Ecología, deberá coordinarse con la Secretaría de Servicios Públicos con objeto de efectuar acciones conjuntas
 
 ## TITULO III. DE LA CLASIFICACIÓN DE ANUNCIOS, REQUISITOS Y OBLIGACIONES
 
@@ -267,13 +281,19 @@ Los anuncios a que se refiere este artículo, deberán de atender lo dispuesto e
 
 Son requisitos de los anuncios tipo "A", los siguientes:
 
-I.- Contar con una constancia del Centro de Desarrollo Urbano y Ecología para la distribución de la propaganda o publicidad a base de volantes o folletos, en la vía pública. Queda prohibido pegar en cualquier tipo de superficie exterior en la vía pública este tipo de publicidad.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-II.- Los anuncios realizados con magna voces o aparatos de sonido fijos, solo se permitirán en el interior de los establecimientos a los cuales tenga libre acceso el público y que no sobrepasen los 68-sesenta y ocho decibeles. Cuando se trate de magna voces o aparatos de sonido móviles, sólo tendrán carácter temporal y se sujetarán a un permiso especial otorgado por el Centro de Desarrollo Urbano y Ecología.
+I.- Contar con una constancia de la Dirección General de Desarrollo Urbano y Ecología para la distribución de la propaganda o publicidad a base de volantes o folletos, en la vía pública. Queda prohibido pegar en cualquier tipo de superficie exterior en la vía pública este tipo de publicidad.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+II.- Los anuncios realizados con magna voces o aparatos de sonido fijos, solo se permitirán en el interior de los establecimientos a los cuales tenga libre acceso el público y que no sobrepasen los 68-sesenta y ocho decibeles. Cuando se trate de magna voces o aparatos de sonido móviles, sólo tendrán carácter temporal y se sujetarán a un permiso especial otorgado por la Dirección General de Desarrollo Urbano y Ecología.
 
 III.- Los anuncios proyectados por medio de aparatos cinematográficos, electrónicos o similares, en muros o pantallas; no deberán ocasionar aglomeraciones en la Vía Pública que obstruya el tránsito peatonal o vehicular.
 
-IV.- Los anuncios de tipo temporal en los que se maneje publicidad para espectáculos y eventos de difusión masiva requieren de un permiso ordinario para su publicidad expedido por el Centro de Desarrollo Urbano y Ecología los cuales deberán de ser retirados por el que recibió la autorización, al término del permiso. En el caso de pendones, no sobrepasarán de una sección máxima de 0.60mts x 0.90mts no excediendo de cinco anuncios por cada 100.00mts lineales, y deberán de estar sujetos a base de cinchos, nunca a base de clavos o tornillería.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV.- Los anuncios de tipo temporal en los que se maneje publicidad para espectáculos y eventos de difusión masiva requieren de un permiso ordinario para su publicidad expedido por la Dirección General de Desarrollo Urbano y Ecología los cuales deberán de ser retirados por el que recibió la autorización, al término del permiso. En el caso de pendones, no sobrepasarán de una sección máxima de 0.60mts x 0.90mts no excediendo de cinco anuncios por cada 100.00mts lineales, y deberán de estar sujetos a base de cinchos, nunca a base de clavos o tornillería.
 
 ### CAPITULO II. DE LOS ANUNCIOS TIPO "B"
 
@@ -301,7 +321,9 @@ I.- Las dimensiones, dibujos y colocación; deberán guardar un equilibrio y arm
 
 II.- Los rótulos o anuncios en marquesinas, deberán ser colocados en el borde exterior o en el espesor de la losa de la misma, así como en el muro del establecimiento, debiendo tener como mínimo una altura de 2.50 metros (Dos metros cincuenta centímetros) del nivel de la banqueta o la parte inferior del anuncio y 30- treinta centímetros antes del cordón de la banqueta.
 
-III.- Los anuncios relativos a las actividades Turísticas, Culturales, Deportivas, Eventos Especiales o de interés general; se permitirán, por excepción, en la Vía Pública siempre que se coloquen en tableros, bastidores o carteleras de fácil manejo y por tiempo, previa aprobación del Centro de desarrollo Urbano y Ecología; estableciéndose en la misma su localización y sus dimensiones.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III.- Los anuncios relativos a las actividades Turísticas, Culturales, Deportivas, Eventos Especiales o de interés general; se permitirán, por excepción, en la Vía Pública siempre que se coloquen en tableros, bastidores o carteleras de fácil manejo y por tiempo, previa aprobación de la Dirección General de desarrollo Urbano y Ecología estableciéndose en la misma su localización y sus dimensiones.
 
 IV.- El área que ocupen los anuncios pintados en la parte exterior de una edificación, deberán de contar con un permiso temporal y no deberá de exceder el porcentaje de ocupación de la superficie total de la fachada, tal y como se indica a continuación:
 
@@ -371,7 +393,9 @@ II.- Una vez instalado el anuncio objeto de la licencia o permiso, deberá dar a
 
 III.- Todo anuncio deberá contener en un lugar visible desde la Vía Pública, el número de licencia otorgado para facilitar su identificación.
 
-IV.- Deberán inscribir en el Padrón Municipal todos los anuncios que posean y de nueva autorización, para llevar a cabo su control en el Centro de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV.- Deberán inscribir en el Padrón Municipal todos los anuncios que posean y de nueva autorización, para llevar a cabo su control en la Dirección General de Desarrollo Urbano y Ecología.
 
 V.- Dar aviso y modificar la licencia o permiso cuando se cambie la redacción del anuncio.
 
@@ -399,7 +423,9 @@ II.- Las condiciones obligatorias para la empresa, de brindar el mantenimiento a
 
 III.- La duración o el término en el que podrá permanecer el anuncio publicitario, mismo que permitirá a la empresa recuperar la inversión realizada, así como obtener una ganancia justa y razonable, previo análisis financiero específico que realice la Tesorería Municipal;
 
-IV.- Los puntos o lugares específicos en donde se instalará el referido mobiliario, tomándose en consideración el dictamen que para tal efecto emita la Secretaria de Obras Públicas y Vialidad y el Consejo Estatal del Transporte;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV.- Los puntos o lugares específicos en donde se instalará el referido mobiliario, tomándose en consideración el dictamen que para tal efecto emita la Secretaría de Desarrollo Urbano y Obras Públicas y el Consejo Estatal de Transporte y Vialidad;
 
 V.- Las garantías para el cumplimiento de las obligaciones establecidas;
 
@@ -447,9 +473,11 @@ IV.- Los auto soportados o de soporte estructural, colocados sobre el suelo de p
 
 ## TITULO V. DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-Para colocar, instalar o situar un anuncio; deberá contarse con una licencia o permiso otorgada por el Centro De Desarrollo Urbano y Ecología.
+Para colocar, instalar o situar un anuncio; deberá contarse con una licencia o permiso otorgada por la Dirección General de Desarrollo Urbano y Ecología.
 
 ###### ARTÍCULO 29.
 
@@ -477,9 +505,11 @@ Los anuncios del tipo "C" como los "UNIPOLARES", "ELECTRÓNICOS"; deberán sacar
 
 Terminado el plazo de la licencia, y no haber refrendado, dentro del termino correspondiente, el propietario o solicitante de la licencia, deberá retirar el anuncio dentro de los 5-(cinco) días hábiles siguientes, en caso de no hacerlo se hará acreedor a una sanción y la Autoridad Municipal ordenará su retiro a costa y riesgo del propietario, reservándose el Municipio el otorgamiento de una nueva Licencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
-Para el trámite de anuncios, se deberá presentar solicitud por escrito ante la Coordinación de Anuncios y Nomenclaturas, la cual requerirá de lo siguiente:
+Para el trámite de anuncios, se deberá presentar solicitud por escrito ante la Dirección General de Desarrollo Urbano y Ecología, la cual requerirá de lo siguiente:
 
 a) Copia de escritura de la propiedad y pago de impuesto predial al corriente, o en su caso contrato de arrendamiento.
 
@@ -561,9 +591,11 @@ Para el caso que se determine la nulidad o la revocación de la licencia y/o per
 
 ## TITULO VII. DE LA INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 43.
 
-El Centro de Desarrollo Urbano y Ecología por medio de la Coordinación de Inspección y Vigilancia podrán llevar a cabo visitas de inspección para comprobar el cumplimiento de este reglamento; para que en su caso, determine las sanciones que le correspondan y a su vez la turne a la Tesorería Municipal para la calificación y aplicación correspondiente.
+La Dirección General de Desarrollo Urbano y Ecología por medio de sus Inspectores podrán llevar a cabo visitas de inspección para comprobar el cumplimiento de este reglamento; para que en su caso, determine las sanciones que le correspondan y a su vez la turne a la Tesorería Municipal para la calificación y aplicación correspondiente.
 
 ###### ARTÍCULO 44.
 
@@ -657,7 +689,9 @@ III.- El retiro del anuncio;
 
 IV.- El aseguramiento y secuestro de objetos materiales.
 
-Las medidas de seguridad serán ordenadas por el Centro de Desarrollo Urbano y Ecología en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan, por las infracciones cometidas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Las medidas de seguridad serán ordenadas por la Dirección General de Desarrollo Urbano y Ecología en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan, por las infracciones cometidas.
 
 Dichas medidas tendrán la duración estrictamente necesarias para la corrección de las irregularidades respectivas y deberán ser comunicadas por escrito al propietario del anuncio, para su inmediata ejecución.
 
@@ -685,7 +719,9 @@ VIII.- En los edificios considerados como Patrimonio Municipal; por su antigüed
 
 IX.- En los demás prohibidos por otras disposiciones legales y por este Reglamento.
 
-X.- Queda totalmente prohibido podar, cortar, derribar, maltratar o en cualquier forma, lesionar árboles para mejorar la visualización, así como para reparar un anuncio, salvo autoridad expresa otorgada por la Dirección de Ecología.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+X.- Queda totalmente prohibido podar, cortar, derribar, maltratar o en cualquier forma, lesionar árboles para mejorar la visualización, así como para reparar un anuncio, salvo autoridad expresa otorgada por el área de Ecología Municipal.
 
 ## TITULO IX. DE LAS INFRACCIONES
 
@@ -836,3 +872,11 @@ PRESIDENTA MUNICIPAL.
 LIC. ALFONSO RODRÍGUEZ OCHOA.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas al Reglamento de Anuncios de Guadalupe, Nuevo león entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Gírese el presente al Presidente Municipal para que instruya al Secretario del Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
