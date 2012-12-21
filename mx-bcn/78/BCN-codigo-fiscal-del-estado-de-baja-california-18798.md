@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2010-07-09"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
+CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -1247,15 +1247,15 @@ Las Autoridades Fiscales podrán habilitar mediante Acuerdo escrito, horas o dí
 
 Los términos se computarán a partir del día hábil siguiente a aquél en que surta efectos la notificación, o a aquél en que se realicen los hechos o las circunstancias que las Disposiciones Legales o las resoluciones administrativas prevengan.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 75.
 
-En los plazos fijados en días, no se computarán los sábados, los domingos ni el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de Mayo, 5 de Mayo, 1o. de Septiembre, 16 de Septiembre, 1o. de Octubre, 12 de Octubre, 20 de Noviembre, 1o. de Diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de Diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 16 de septiembre; el 12 de octubre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1° diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
 En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción, se computarán los días inhábiles.
 
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil.
 
@@ -2730,3 +2730,7 @@ PRIMERO.- La anterior reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La habilitación a terceros a que hace referencia la presente reforma, podrá autorizarse para efecto de que todas las diligencias de notificación respecto de un área determinada de las autoridades fiscales, se realicen por conducto de éstos.
 
 TERCERO.- Cuando en las disposiciones fiscales estatales se haga referencia a los notificadores o ejecutores, se considerarán incluidos para efectos de las facultades que se indiquen, a los terceros habilitados.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado." (sic)
