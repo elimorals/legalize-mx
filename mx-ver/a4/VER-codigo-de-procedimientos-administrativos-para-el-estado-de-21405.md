@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2011-02-02"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -187,7 +187,11 @@ I. Hacer constar en los citatorios por los que se ordene la comparecencia de los
 
 II. Requerir informes, documentos y otros datos durante la realización de verificaciones y visitas domiciliarias, en los casos previstos por este Código o en las normas;
 
-III. Guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los particulares o por terceros con ellos relacionados. Dicha reserva no será aplicable en los casos en que deban ser suministrados a los servidores públicos encargados de la administración o defensa de los intereses públicos, ni cuando sean solicitados por autoridades competentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III. Guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los particulares o por terceros con ellos relacionados. Dicha reserva no será aplicable en los casos en que deban ser suministrados a los servidores públicos encargados de la administración o defensa de los intereses públicos previa solicitud. Tampoco cuando sean solicitados por autoridades competentes, ni cuando se proporcione información relativa a los adeudos fiscales de los contribuyentes, por las autoridades a las sociedades de información crediticia de conformidad a la normatividad aplicable;
 
 IV. Hacer del conocimiento de los particulares, cuando así lo soliciten, el estado de la tramitación de los expedientes en los que acrediten la condición de interesados;
 
@@ -374,6 +378,18 @@ Cuando se destruyan o extravíen los expedientes o alguna de sus piezas, las aut
 No procederá la gestión de negocios ante las autoridades o el Tribunal. Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación del escrito inicial, de la demanda o de la contestación, en su caso.
 
 La representación de los interesados se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas ante notario o ante los secretarios del Tribunal, sin perjuicio de lo que disponga la legislación de profesiones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La representación de las autoridades corresponderá a las áreas administrativas encargadas de su defensa jurídica, según lo disponga el Ejecutivo Estatal en su Reglamento y en su caso, conforme lo disponga su decreto de creación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
 
 ###### Artículo 28.
 
@@ -1349,6 +1365,18 @@ VI. Allegarse las pruebas necesarias para formular la denuncia, querella o decla
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 164 Bis.
+
+Las autoridades fiscales podrán:
+
+I. Asegurar la contabilidad, cuando el contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación, o una vez iniciadas dichas facultades, el contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales a que está obligado; o
+
+II. Inmovilizar cuentas bancarias cuando las autoridades fiscales no puedan ejercitar sus facultades de comprobación por haber desaparecido o por ignorarse el domicilio del contribuyente. En el caso de la fracción I, además del aseguramiento de la contabilidad, podrá también, si lo considera necesario, inmovilizar cuentas del contribuyente en términos de la presente fracción.
+
 #### SECCIÓN PRIMERA. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### Artículo 165.
@@ -1791,33 +1819,33 @@ El notificador ejecutar designado por la oficina en que sea radicado el crédito
 
 Si el requerimiento de pago se hizo por edicto, la diligencia de embargo se entenderá con una autoridad administrativa estatal o municipal de la circunscripción donde estén ubicados los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 198.
 
-El deudor o, en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en esta intervengan dos testigos y a designar los bienes que deban embargarse, siempre que se sujete al orden siguiente:
+La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I. Los bienes muebles, inmuebles o la negociación, en los casos que estos se hayan ofrecido como garantía del interés fiscal;
+I. Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
 
-II. Los bienes inmuebles, cuando se trate de contribuciones a la propiedad inmobiliaria; y
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
 
-III. En los demás casos:
+III. Bienes muebles no comprendidos en las fracciones anteriores.
 
-a) Dinero y metales preciosos;
+IV. Bienes inmuebles. En este caso, el deudor o la persona con quien se entienda la diligencia deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
 
-b) Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados o municipios o de personas físicas o morales de carácter privado de reconocida solvencia;
+V. Negociaciones comerciales, industriales o agropecuarias.
 
-c) Alhajas y objetos de arte;
+La persona con quien se entienda la diligencia de embargo podrá designar dos testigos y, si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
-d) Frutos o rentas de toda especie;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-e) Bienes muebles no comprendidos en los incisos anteriores;
-
-f) Bienes inmuebles; y
-
-g) Negociaciones comerciales, industriales o agropecuarias.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 199.
 
-El notificador ejecutor podrá señalar bienes sin sujetarse al orden establecido en la fracción III del artículo anterior:
+El notificador ejecutor podrá señalar bienes sin sujetarse al orden establecido en el artículo anterior:
 
 I. Sí el deudor no señala bienes o los señalados por éste no son suficientes a criterio del notificador ejecutor o si no ha seguido el orden al hacer el señalamiento; o
 
@@ -1826,6 +1854,28 @@ II. Si el deudor, teniendo otros bienes susceptibles de embargo, señalare:
 a) Bienes ubicados fuera de la circunscripción de la oficina ejecutara; o
 
 b) Bienes que ya reportaren cualquier gravamen real.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realización o venta. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquel en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 199 Bis.
+
+La inmovilización que proceda como consecuencia del embargo de depósitos o seguros a que se refiere el 198 fracción I del presente Código, así como la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales firmes, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones que se hayan realizado conforme a la Ley de la materia, sólo se procederá hasta por el importe del crédito y sus accesorios, siempre y cuando éste se encuentre firme y sea exigible al momento del embargo de los depósitos bancarios y el mismo no se encuentre garantizado en alguna de las formas previstas en el artículo 51 del Código número 18 Financiero para el Estado de Veracruz de Ignacio de la Llave. La autoridad fiscal que haya ordenado la inmovilización, girará oficio solicitando a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que esta última de inmediato la inmovilice y conserve los fondos depositados.
+
+Al recibir la notificación del oficio de solicitud mencionado en el párrafo anterior por parte de la autoridad fiscal o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según corresponda, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate estará en posibilidades de proceder a inmovilizar y conservar los fondos depositados, en cuyo caso, la autoridad fiscal notificará al contribuyente de dicha inmovilización por los medios conducentes.
+
+En caso de que en las cuentas de los depósitos o seguros a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para cubrir el crédito fiscal, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, efectuará, a solicitud de la autoridad fiscal, una búsqueda en su base de datos, a fin de determinar si el contribuyente tiene otras cuentas con recursos suficientes para ello. De ser el caso, la entidad o sociedad podrá, atendiendo la solicitud de la autoridad fiscal, de inmediato inmovilizar y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente tendrá que notificarlo a la autoridad fiscal que lo hubiese solicitado, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior, al contribuyente deudor; procediendo a solicitar a la entidad financiera o sociedad cooperativa, la transferencia de los recursos hasta por el monto del crédito fiscal. La entidad financiera o la sociedad cooperativa de ahorro y préstamo informarán a la autoridad fiscal, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la Tesorería de la Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo informará a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente, en tanto no se efectúe la transferencia de depósitos a la cuenta de la Tesorería de la Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave.
+
+Si al transferirse el importe al Fisco Estatal el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante el superior jerárquico de la autoridad fiscal ejecutora, con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso en términos del artículo 45 fracción II y 46 del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor de veinte días. Si a juicio de la autoridad fiscal, las pruebas no son suficientes, se lo notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
 
 ###### Artículo 200.
 
@@ -3660,3 +3710,9 @@ G.O. 2 DE FEBRERO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
