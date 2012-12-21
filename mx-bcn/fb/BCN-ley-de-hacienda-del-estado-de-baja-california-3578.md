@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2012-10-05"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -2439,9 +2439,13 @@ B.- PLACAS O CALCAMONIAS (sic), para un solo vehículo de su propiedad.
 
 C.- OTROS SERVICIOS.
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-V.- DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
+V.- DERECHOS POR SERVICIOS DE LA DIRECCIÓN DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
+
+a) Tratándose de personas pensionadas, jubiladas o mayores de sesenta años afiliadas al Instituto Nacional para Adultos Mayores, debiéndose acreditar con credencial vigente, se eximirá el 87.5% del pago de derechos que se generen por el servicio de depósito o retiro del testamento ológrafo que preste la Dirección del Registro Público de la Propiedad y del Comercio del Estado.
+
+b) Se eximirá del Impuesto Adicional para la Educación Media y Superior en los mismos términos y porcentajes que se establecen en el inciso a), correspondientes al servicio de depósito o retiro de testamento ológrafo.
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -3132,3 +3136,7 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 P.O. 5 DE OCTUBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado".
