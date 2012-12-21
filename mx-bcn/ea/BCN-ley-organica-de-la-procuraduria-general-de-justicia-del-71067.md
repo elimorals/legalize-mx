@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2012-11-30"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -417,7 +417,9 @@ Para ingresar y permanecer como agente del Ministerio Público se estará a lo s
 
 I.- El ingreso se hará por convocatoria pública bajo los requisitos que se señalan a continuación:
 
-a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+a) Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles;
 
 b) Tener por lo menos veinticinco años de edad al momento de su nombramiento;
 
@@ -776,3 +778,7 @@ TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesar
 P.O. 30 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
