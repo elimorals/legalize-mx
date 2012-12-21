@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2012-07-18"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -125,6 +125,14 @@ Los Poderes Legislativo y Judicial y los Organismos Autónomos, sin menoscabo de
 
 Para los efectos de los libros Cuarto y Quinto de este Código, los plazos fijados en días, meses o años se computarán como días naturales, salvo disposición en contrario y con excepción de lo dispuesto en el Libro Segundo, relativo a las disposiciones de carácter tributario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 9 Bis.
+
+Para la celebración de contratos con proveedores registrados en el padrón de proveedores, éstos deberán presentar constancia de cumplimiento de obligaciones fiscales por contribuciones estatales y opinión de cumplimiento de obligaciones fiscales, la primera expedida por la Dirección General de Recaudación de la Secretaría de Finanzas y Planeación, y la segunda emitida por el Servicio de Administración Tributaria respecto de impuestos federales; las que deberán tener como máximo 30 días de haber sido expedidas, sin los cuales no será posible la celebración del contrato.
+
 # LIBRO SEGUNDO. DE LAS DISPOSICIONES DE CARÁCTER TRIBUTARIO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
@@ -222,6 +230,18 @@ Las autoridades fiscales a que se refiere este precepto ejercerán sus facultade
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
 Los titulares de los órganos desconcentrados y demás servidores públicos que, por disposición de la ley o de los reglamentos aplicables, tengan el carácter de autoridades fiscales, ejercerán sus facultades dentro del ámbito de competencia territorial que les corresponda, conforme lo dispongan los ordenamientos respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 20 Bis.
+
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva y confidencialidad en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva y confidencialidad no comprenderá los casos que señalen las disposiciones legales correspondientes.
+
+No obstante lo anterior, la información relativa a los adeudos fiscales de los contribuyentes que queden firmes, podrá darse a conocer por las autoridades fiscales a las sociedades de información crediticia que operen, de conformidad con la Ley para Regular las Sociedades de Información Crediticia y demás disposiciones aplicables, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
+
+Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
 
 ###### Artículo 21.
 
@@ -559,15 +579,63 @@ Para que se haga la devolución de cantidades pagadas indebidamente o se efectú
 
 I. Que se dicte acuerdo de la Secretaría o que exista resolución firme de autoridad competente que así lo ordene;
 
-II. Que el derecho para reclamar la devolución no se haya extinguido; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores exista partida que reporte la erogación en el presupuesto respectivo y saldo disponible. Si no existiere dicha partida o fuere insuficiente, el Ejecutivo del Estado promoverá que se autorice el gasto en el presupuesto.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+II. Que el derecho para reclamar la devolución no se haya extinguido;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores exista partida que reporte la erogación en el presupuesto respectivo y saldo disponible. Si no existiere dicha partida o fuere insuficiente, el Ejecutivo del Estado promoverá que se autorice el gasto en el presupuesto; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV. Que el contribuyente no tenga ningún adeudo determinado por la autoridad competente en el uso de sus facultades de comprobación, respecto de sus contribuciones, supuesto en el cual se podrán compensar las referidas contribuciones.
 
 La devolución podrá hacerse a petición del interesado.
 
-Cuando se solicite la devolución, ésta se efectuará dentro de un plazo de cuarenta y cinco días siguientes contados a partir de la fecha en que se solicite por el interesado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Cuando se solicite la devolución, ésta se efectuará dentro de un plazo de cuarenta y cinco días siguientes contados a partir de la fecha en que surta efectos la resolución que declare procedente su devolución.
 
 Si dentro de dicho plazo no se efectúa la devolución, el Fisco del Estado pagará intereses a la tasa de recargos por mora que fije el Congreso en el presupuesto anual, para créditos fiscales por falta de pago puntual por cada mes o fracción de mes que se retarde el pago, computados desde que se constituya en mora hasta la fecha en que se devuelva la cantidad respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Cuando en una solicitud de devolución existan errores en los datos contenidos en la misma, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, datos, informes o documentos adicionales que consideren necesarios y que estén relacionados con la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere el párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados el periodo transcurrido entre la fecha en que se hubiere notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computarán en la determinación de los plazos del artículo 58 del presente Código.
 
 ###### Artículo 47.
 
@@ -724,6 +792,34 @@ Las autoridades fiscales sólo están obligadas a contestar en los términos del
 Las instancias o peticiones que se formulen a las autoridades fiscales se resolverán en el término que la ley fija o, a falta de término establecido, en cuarenta y cinco días.
 
 En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, y dará lugar a la interposición de los recursos legales a que haya lugar cuando no se dé respuesta en el término que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital. Además de la firma autógrafa o huella digital las promociones deberán:
+
+I. Señalar la autoridad a la que se dirige y el propósito de la promoción;
+
+II. Precisar el nombre o, en su caso, denominación o razón social del interesado, Registro Federal de Contribuyentes y domicilio fiscal;
+
+III. En su caso, señalar el nombre del representante legal, su Registro Federal de Contribuyentes, su domicilio fiscal, así como exhibir el original de los documentos que acrediten su personalidad;
+
+IV. Señalar el domicilio para oír y recibir notificaciones, así como la designación de las personas autorizadas para tales efectos;
+
+V. La dirección de correo electrónico para recibir notificaciones;
+
+VI. Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados;
+
+VII. Describir las actividades a las que se dedica el interesado;
+
+VIII. Realizar una descripción de los hechos y razonamientos en los que sustente su solicitud, así como el monto de la operación u operaciones objeto de la promoción;
+
+IX. Anexar la documentación comprobatoria respecto de los hechos y razonamientos asentados, así como los de su legal estancia en el país cuando aplique;
+
+X. Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medio de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución; y
+
+XI. Indicar si el contribuyente se encuentra sujeto a las facultades de comprobación por parte de las autoridades fiscales estatales o federales, señalando los periodos y las contribuciones objeto de la revisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
@@ -1210,6 +1306,38 @@ III. Reciba dádivas, exija gratificaciones, extorsione a los contribuyentes y o
 IV. Imprima formas de control fiscal, ordene la emisión de sellos o grabados, sin la debida autorización; o bien posea, circule, utilice, venda o comercie con ellos.
 
 V. Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 97 Bis.
+
+Cometen el delito de peculado fiscal, las autoridades fiscales señaladas en el artículo 20 de este Código o los funcionarios o empleados que laboren en las Oficinas de Hacienda del Estado, que se apoderen o permitieren que un tercero lo hiciere, de recursos públicos que tengan a su cargo por razón de sus funciones, sin importar el origen de éstos, siempre y cuando devengan de las atribuciones inherentes a su cargo público o comisión, excepto cuando el apoderamiento sea realizado por el servidor público y en ejercicio de alguna atribución establecida en las leyes que rigen sus funciones; en este caso, se impondrá una pena de 8 a 16 años de prisión.
+
+Serán sancionados en los términos del presente artículo, el tercero, ya sea o no servidor público, que a sabiendas de la comisión del delito de peculado fiscal se apodere del producto materia del mismo, o bien los particulares que sin el consentimiento de alguna autoridad fiscal, ejerzan de hecho, atribuciones propias de las autoridades establecidas en el artículo 20 del presente Código o de los funcionarios o empleados de las Oficinas de Hacienda del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 97 Ter.
+
+Comete el delito de abuso de autoridad en materia fiscal, el servidor público de la Hacienda Pública Estatal que por sí o por interpósita persona, utilice formatos oficiales o cualquier tipo de documentación que se halle bajo su custodia o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión, para ordenar, ejecutar, cancelar o reproducir un acto de manera ilícita o iniciar un procedimiento en beneficio propio o ajeno, o en perjuicio de los contribuyentes o de la Hacienda Pública.
+
+Al infractor se le impondrán de 6 a 12 años de prisión, multa de 30 a 300 veces el salario mínimo diario vigente en el lugar y momento de comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 97 Quáter.
+
+Comete el delito de desvío de recursos en materia fiscal, aquel servidor público que a sabiendas del fin al cual están dirigidos, aplique el pago enterado por concepto de contribuciones, sus accesorios o multas no fiscales, así como cualquier otro ingreso de los señalados en el artículo 11 del presente Código, a un fin distinto al cual están dirigidos o destinados, para obtener un beneficio propio o de tercero.
+
+En este caso, la pena que se impondrá será de 5 a 12 años de prisión, debiéndose tomar en cuenta la cuantía de los recursos producto del desvío para cuantificar la pena.
+
+En el caso de que el delito lo cometa cualquier persona que realice las funciones de cajero o jefe de una Oficina de Hacienda, se tomará como agravante y se le impondrá como pena de 10 a 12 años de prisión.
 
 # LIBRO TERCERO. DE LOS INGRESOS ESTATALES
 
@@ -2395,9 +2523,11 @@ Los derechos por la prestación de servicios públicos en el Estado, se causará
 
 Las cuotas señaladas en este Título para certificados o copias certificadas se entienden referidas a documentos que se expiden en hojas de papel que no excedan de 35 centímetros de largo por 24 centímetros de ancho y no deben contener más de 80 renglones, por ambos lados; los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones, causarán doble cuota.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda o cobraduría debidamente establecidas, o bien en los lugares o instituciones bancarias previamente autorizadas por la Secretaría, de la jurisdicción donde se preste el servicio, con quienes se hayan celebrado convenios.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda o cobraduría debidamente establecidas, en la Oficina Virtual de Hacienda o bien en los lugares o instituciones bancarias previamente autorizadas por la Secretaría, de la jurisdicción donde se preste el servicio, con quienes se hayan celebrado convenios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -6594,3 +6724,9 @@ Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscri
 Quinto. Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de este decreto, se substanciarán con arreglo a la ley por la dependencia en que se iniciaron hasta su total conclusión.
 
 Sexto. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia catastral, se entenderán referidos a la Secretaría de Gobierno, como cabeza de sector. La adecuación correspondiente se deberá realizar con la brevedad posible.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
