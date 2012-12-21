@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2012-11-22"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3045,6 +3045,12 @@ El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la As
 
 Se impondrán de cuatro a quince años de prisión y multa hasta de seiscientos días de salario al servidor público que, en provecho propio o ajeno, utilice o disponga de dinero, valores o cualquier otro bien que hubiere recibido en administración, depósito o por otra causa en razón de su cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+En lo relativo al delito de peculado fiscal, éste se encuentra tipificado en la ley especial, por lo que cuando se trate de este delito se deberá atender a lo establecido en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
 ###### Artículo 324.
 
 Se equipara al peculado y se impondrán de dos a ocho años de prisión y multa hasta de trescientos días de salario a:
@@ -3860,3 +3866,9 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 G.O. 22 DE NOVIEMBRE DE 2012.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
