@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2011-07-15"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -97,9 +97,13 @@ VII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, in
 
 VIII.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-VIII Bis.- Centro de verificación: Establecimiento autorizado por la Secretaría de Desarrollo Social y Medio ambiente que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar una prueba de verificación estática.
+VIII Bis.- Calidad del aire: Las condiciones atmosféricas adecuadas para el desarrollo pleno de los seres vivos.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VIII Ter.- Centro de Verificación: Establecimiento autorizado por la Secretaría de Medio Ambiente, que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar una prueba de verificación estática.
 
 IX.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y con base en el ordenamiento ecológico del territorio, con el fin de asegurar a las generaciones presentes y venideras, un ambiente propicio para su desarrollo y la de los recursos naturales que les permitan satisfacer sus necesidades.
 
@@ -139,6 +143,10 @@ XXVI.- Flora silvestre: Las especies vegetales así como los hongos, que subsist
 
 XXVII.- Formación Ambiental: Es aquella que propicia la incorporación de la dimensión ambiental en todas las áreas del conocimiento y la acción humana, con el propósito de contribuir a la construcción de relaciones de interdependencia positivas entre la sociedad y la naturaleza.
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XXVII Bis.- Fuentes fijas: Los establecimientos industriales, mercantiles y de servicio, así como los espectáculos públicos que emiten contaminante al ambiente, ubicados o realizados en el Estado.
+
 XXVIII.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
 XXIX.- Ley General: La Ley General del equilibrio Ecológico y la Protección al Ambiente.
@@ -156,6 +164,10 @@ XXXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo obje
 XXXV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
 XXXVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XXXVI Bis.- Procuraduría: La Procuraduría Estatal de Protección al Medio Ambiente.
 
 XXXVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
@@ -177,17 +189,25 @@ XLV.- Residuos sólidos de origen municipal: los residuos no peligrosos que se g
 
 XLVI.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
-> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XLVII.- Secretaría: Secretaría de Desarrollo Social y Medio Ambiente.
+XLVII. Secretaría: La Secretaría de Medio Ambiente.
 
 XLVIII.- Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XLVIII Bis.- Sistema de Monitoreo: Conjunto de acciones de medición, diagnóstico y evaluación, periódica o permanente de la calidad del aire.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XLVIII Ter.- Sistemas de Verificación: Conjunto de acciones de control de las emisiones generadas por fuentes móviles y fijas de competencia estatal;
+
 XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XLIX Bis.- Verificentro: Establecimiento autorizado por la Secretaría de Desarrollo Social y Medio Ambiente que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar tanto una prueba de verificación estática como dinámica.
+XLIX Bis.- Verificentro: Establecimiento autorizado por la Secretaría, que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar las pruebas de verificación estáticas y dinámicas.
 
 L.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -202,6 +222,10 @@ I.- El Ejecutivo Estatal a través de:
 A. El C. Gobernador del Estado
 
 B. La Secretaría
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+C. La Procuraduría.
 
 II.- Las autoridades municipales del Estado
 
@@ -219,69 +243,95 @@ III.- Los que se deriven de los reglamentos municipales y demás disposiciones r
 
 Las atribuciones en materia de conservación, preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercidas de manera concurrente por el Estado y los Municipios; quienes en todo caso respetarán lo dispuesto en la Ley General y ordenamientos que de ella se deriven y aplicarán las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-Corresponde al Ejecutivo Estatal:
+Es facultad del Ejecutivo Estatal ejercer, a través de la Secretaría y la Procuraduría, las atribuciones que se establecen en el presente artículo, salvo aquellas que le correspondan de manera exclusiva por disposición de esta Ley y demás ordenamientos aplicables:
 
-I.- Formular, conducir y evaluar la política ambiental estatal;
+A. Por conducto de la Secretaría:
 
-II.- Aplicar los instrumentos de política ambiental previstos en esta Ley y las demás disposiciones aplicables,
+I. Formular, conducir y evaluar la política ambiental estatal;
 
-III.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación,
+II. Aplicar los instrumentos de política ambiental previstos en esta Ley y las demás disposiciones aplicables;
 
-IV.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, de jurisdicción estatal;
+III. Dictar y aplicar las políticas estatales en materia de calidad del aire y las de monitoreo de las emisiones generadas por fuentes fijas y móviles;
 
-V.- Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de contaminación atmosférica. En el caso de las fuentes móviles limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría; en el reglamento que al efecto expida, así como en las Normas Oficiales Mexicanas;
+IV. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente Ley y en el artículo 149 de la Ley General;
 
-VI.- Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente Ley y el Artículo 149 de la Ley General;
+V. Emitir los criterios y normas técnicas ambientales en materia de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
 
-VII.- Emitir los criterios y Normas Técnicas Ambientales en materia de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
+VI. Establecer, regular y administrar las áreas naturales protegidas previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo convenio podrá otorgarse la administración al municipio que corresponda;
 
-VIII.- Establecer, regular, administrar y vigilar las áreas naturales protegidas previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo Convenio se podrá otorgar la administración al municipio que corresponda.
+VII. Prevenir la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas y fuentes móviles de competencia estatal;
 
-IX.- Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas y fuentes móviles de competencia estatal;
+VIII. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas;
 
-X.- Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tengan asignadas;
+IX. Formular, expedir, evaluar y ejecutar los programas de ordenamiento ecológico del territorio a que se refiere el artículo 16 de esta Ley, con la participación de los municipios respectivos y la sociedad civil;
 
-XI.- Formular, expedir, evaluar y ejecutar los programas de ordenamiento ecológico del territorio a que se refiere el Artículo 16 de esta Ley, con la participación de los municipios respectivos y la sociedad civil;
+X. Regular el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
 
-XII.- Regular y controlar el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que solo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+XI. Atender los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios, cuando los gobiernos municipales no cuenten con recursos técnicos o financieros para tales o cuando éstos no convengan al respecto, y a solicitud expresa de los Municipios interesados;
 
-XIII.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios; cuando los gobiernos municipales no cuenten con recursos técnicos o financieros para tales o cuando estos no convengan al respecto, y a solicitud expresa de los Municipios interesados.
+XII. Conducir la política estatal de información y difusión en materia ambiental, de conformidad con lo dispuesto en el titulo quinto de esta Ley;
 
-XIV.- Participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+XIII. Evaluar el impacto ambiental de las obras o actividades y, en su caso, de los estudios de riesgo correspondientes, que no se encuentren expresamente reservadas a la Federación y, en su caso, la expedición de las autorizaciones correspondientes, de conformidad con lo dispuesto por el artículo 38 de la presente Ley;
 
-XV.- Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones IV, VII, IX y X de este Artículo;
+XlV. Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la Federación, de conformidad con lo dispuesto en el artículo 11 de la Ley General;
 
-XVI.- Conducir la política estatal de información y difusión en materia ambiental de conformidad con lo dispuesto en el titulo quinto de esta Ley;
+XV. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
 
-XVII.- Promover la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en el titulo quinto de esta Ley;
+XVI. Emitir recomendaciones en materia ambiental a las autoridades competentes;
 
-XVIII.- Evaluar el impacto ambiental de las obras o actividades y en su caso de los estudios de riesgo correspondientes, que no se encuentren expresamente reservadas a la federación y, en su caso, la expedición de las autorizaciones correspondientes, de conformidad con lo dispuesto por el Artículo 38 de la presente Ley;
+XVII. Atender, en coordinación con la Federación, los asuntos que afecten el equilibrio ecológico del Estado con otra entidad federativa;
 
-XIX.- Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la federación, de conformidad con lo dispuesto en el Artículo 11 de la Ley General;
+XVIII. Promover el uso de transporte alternativo, así como espacios para su circulación;
 
-XX.- Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
+XIX. Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de calidad del aire en fuentes móviles, centros de verificación, verificentros o servicios similares, así como a unidades móviles equipadas con sistemas para realizar mediciones a vehículos. En el caso de las fuentes móviles limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Reglamento que al efecto se expida, así como en las Normas Oficiales Mexicanas;
 
-XXI.- Emitir recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
+XX. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación;
 
-XXII.- Atender en coordinación con la federación los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
+XXI. Resolver los recursos de revisión en el ámbito de su competencia, de acuerdo con lo establecido por la presente Ley; y
 
-XXIII.- Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
+XXII. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
 
-XXIV.- Auspiciar la formación y capacitación de cuadros técnicos;
+B. Por conducto de la Procuraduría:
 
-XXV.- Formular denuncia o querella ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal;
+I. Controlar, vigilar e inspeccionar el cumplimiento de la legislación, reglamentos y normatividad en materia ambiental;
 
-XXVI.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia;
+II. Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de calidad del aire en fuentes fijas o servicios similares, así como unidades móviles equipadas con sistemas para realizar mediciones a dichas fuentes. En este caso, limitar o prohibir el funcionamiento y operación de empresas cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Reglamento que al efecto se expida, así como en las Normas Oficiales Mexicanas;
 
-XXVII.- Promover el uso de transporte alternativo, así como espacios para su circulación;
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, y de las normas estatales en materia ambiental;
 
-XXVIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+IV. Otorgar, derivado de los procedimientos de control, reconocimientos a los particulares y entidades públicas que cumplan con las leyes, reglamentos, normas y programas ambientales relativos a la operación y control de fuentes fijas, así como promover y supervisar el otorgamiento y aplicación de los seguros en materia ambiental;
 
-XXIX.- Resolver los Recursos de revisión de acuerdo con lo establecido por la presente Ley.
+V. Formular denuncia o querella ante la autoridad competente de los actos u omisiones que pudieran constituir delitos, conforme a lo previsto en la legislación penal aplicable;
 
-Las atribuciones que se otorgan al Ejecutivo del Estado serán ejercidas por la Secretaría, salvo aquellas que por disposición de esta ley y otros ordenamientos, corresponden al Gobernador del Estado.
+VI. Aplicar las sanciones administrativas por violaciones a la presente Ley y sus reglamentos, en los asuntos de su competencia;
+
+VII. Resolver los recursos de revisión en el ámbito de su competencia, de acuerdo con lo establecido por la presente Ley;
+
+VIII. Dictar y aplicar las medidas, en el ámbito de su competencia, en los casos de emergencias ecológicas, precontingencias y contingencias ambientales; y
+
+IX. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
+
+C. La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias, conjunta o separadamente, ejercerán las atribuciones siguientes:
+
+I. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación;
+
+II. Participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+III. Promover la participación de la sociedad en materia ambiental, y en especial en materia de acciones colectivas, de conformidad con lo dispuesto en el Titulo Quinto de esta Ley;
+
+IV. Concertar con los sectores social y privado la realización de acciones en materia ambiental, conforme a esta Ley;
+
+V. Auspiciar la formación y capacitación de cuadros técnicos;
+
+VI. Promover el principio de no regresión en materia de legislación ambiental;
+
+VII. Promover la gestión integrada de zonas costeras; y
+
+VIII. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 7.
 
@@ -339,9 +389,11 @@ XXV.- Resolver los recursos de revisión de acuerdo con lo establecido por esta 
 
 ### CAPÍTULO III. DE LA COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo Estatal podrá celebrar acuerdos o convenios de coordinación con la Federación con el objeto asumir las siguientes funciones:
+El Ejecutivo Estatal, a través de la Secretaría o de la Procuraduría, en el marco de sus respectivas atribuciones, podrá celebrar acuerdos o convenios de coordinación con la Federación, con el objeto de asumir las siguientes funciones:
 
 I.- El manejo y vigilancia de las áreas naturales protegidas de competencia Federal;
 
@@ -405,7 +457,9 @@ II.- Los ecosistemas y sus elementos deben ser aprovechados sustentablemente, de
 
 III.- Las autoridades del Estado, los Municipios, los particulares y demás actores de la sociedad, deben asumir la responsabilidad de la preservación, conservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-IV. Quien realice obras o actividades que afecten o puedan afectar al ambiente está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja al ambiente y aproveche de manera sustentable los recursos naturales.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV. Quien realice obras o actividades que afecten o puedan afectar el ambiente está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales;
 
 V.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de vida de las futuras generaciones.
 
@@ -468,6 +522,10 @@ VI.- Las relaciones ancestrales, éticas y culturales de las comunidades con su 
 VII.- Las prácticas sustentables y no sustentables, de aprovechamiento de los recursos naturales y sus repercusiones en los ecosistemas.
 
 VIII.- El carácter especial o prioritario de una región.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IX.- La evaluación ambiental estratégica.
 
 ###### Artículo 16.
 
@@ -609,7 +667,9 @@ VII.- Para la elaboración de los programas de ordenamiento ecológico, se deber
 
 La formulación y adecuaciones de los programas de ordenamiento ecológico estatal y regionales, estarán a cargo de la Secretaría.
 
-La elaboración y adecuaciones de los programas de ordenamiento ecológicos locales, estarán a cargo de las direcciones o departamentos municipales de ecología correspondientes o en su defecto donde no existieren, por las dependencias de obras públicas. La autoridad estatal otorgará asesoría y apoyo a los municipios para este fin.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La elaboración y adecuación de los programas de ordenamiento ecológicos municipales estarán a cargo de las direcciones o departamentos municipales de ecología correspondientes o, en su defecto, donde no existieren, por las dependencias de obras públicas. En su elaboración se tomará siempre en cuenta la opinión del Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable y la Evaluación Ambiental Estratégica que al efecto realice la Secretaría.
 
 El ordenamiento ecológico local se formulará en congruencia con el ordenamiento ecológico que establezca la Federación y particularizará en aquellos aspectos que contribuyen a establecer y preservar el equilibrio ecológico en el territorio de la Entidad.
 
@@ -655,7 +715,9 @@ Se consideran instrumentos económicos los mecanismos normativos y administrativ
 
 Se consideran instrumentos económicos de carácter fiscal los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 
-Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como el financiamiento de programas, proyectos o estudios de investigación científica y tecnológica destinados para la preservación del equilibrio ecológico y la protección al ambiente.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios, investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y protección al ambiente.
 
 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya conservación, preservación y protección se considere relevante desde el punto de vista ambiental.
 
@@ -691,15 +753,19 @@ II.- La política ambiental de planeación de asentamientos humanos deberá busc
 
 III.- En el proceso de creación, modificación y mejoramiento del ambiente construido por el hombre, es indispensable fortalecer las previsiones de carácter ecológico y ambiental, para proteger y mejorar la calidad de vida.
 
-IV: En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
+IV.- En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
 
-V. Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
+V.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
 
-VI. Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos
+VI.- Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos
 
-VII. Las autoridades estatales y de los Municipios, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
+VII.- Las autoridades estatales y de los Municipios, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
 
-VIII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
+VIII.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IX.- Las autoridades estatales y municipales, en la esfera de su competencia, deberán evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
 ###### Artículo 36.
 
@@ -757,11 +823,11 @@ VII.- El uso de materiales y tecnologías de construcción apropiados al medio a
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece y da seguimiento a las condiciones a que se sujetará la realización de obras y actividades públicas y privadas que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y conservar, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, en los casos que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece y la Procuraduría controla las condiciones a que se sujetará la realización de obras y actividades públicas y privadas, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y conservar, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, en los casos que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades requerirán previamente la autorización en materia de impacto ambiental de la Secretaría y se someterán al control de la Procuraduría:
 
 I.- Obra Pública Estatal
 
@@ -895,13 +961,21 @@ II. Negar la autorización.
 
 III. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente.
 
-IV.- Solicitar mayor información o adicional al interesado, sobre el proyecto de referencia, de acuerdo con lo establecido en el Reglamento que al efecto se expida.
+IV. Solicitar mayor información o adicional al interesado, sobre el proyecto de referencia, de acuerdo con lo establecido en el Reglamento que al efecto se expida.
 
-V.- La Secretaría podrá revocar una autorización si se comprueba que existe incumplimiento de lo asentado en el estudio de impacto ambiental o de las condicionantes asentadas en la resolución o impactos ambientales no considerados y originados por el desarrollo de la actividad.
+V. La Secretaría podrá revocar una autorización si se comprueba que existe incumplimiento de lo asentado en el estudio de impacto ambiental o de las condicionantes asentadas en la resolución o impactos ambientales no considerados y originados por el desarrollo de la actividad.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La Procuraduría, previo procedimiento respectivo, podrá sancionar en los términos del artículo 212 de esta Ley, si comprueba que existe incumplimiento de lo asentado en el estudio de impacto ambiental o de las condicionantes asentadas en la resolución o impactos ambientales no considerados y originados por el desarrollo de la actividad.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 46.
 
-La Secretaría vigilará en coordinación con el ayuntamiento durante la realización y operación de las obras o actividades autorizadas, el cumplimiento de las medidas de mitigación o condicionantes, en los términos de la resolución correspondiente, a los requerimientos que deban observarse. Además podrá exigir el otorgamiento de fianza que garantice el cumplimiento de las condiciones establecidas en la autorización en aquellos casos expresamente señalados en el reglamento que al efecto se expida.
+La Procuraduría, en coordinación con el Ayuntamiento y durante la realización y operación de las obras o actividades autorizadas, vigilará el cumplimiento de las medidas de mitigación o de las condicionantes, en los términos de la resolución correspondiente.
+
+La Secretaría podrá exigir el otorgamiento de fianza que garantice el cumplimiento de las condiciones establecidas en la autorización en aquellos casos expresamente señalados en el Reglamento que al efecto se expida.
 
 > <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -939,7 +1013,9 @@ Para el otorgamiento de autorizaciones para usos del suelo y de licencias de con
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigentes en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-La Secretaría y los municipios, en el ámbito de su competencia, inducirán o concertarán:
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La Secretaría, los municipios y la Procuraduría, en el ámbito de su competencia, inducirán o concertarán:
 
 I.- El desarrollo de procesos productivos adecuados y compatibles con la preservación del ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
@@ -953,7 +1029,9 @@ IV.- Las demás acciones que induzcan a las empresas a alcanzar los objetivos de
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operaciones e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
 
-La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales, y podrá supervisar su ejecución. Para tal efecto:
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La Secretaría y la Procuraduría desarrollarán programas dirigidos a fomentar la realización de auditorías ambientales, y podrán supervisar su ejecución. Para tal efecto:
 
 I.- Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales;
 
@@ -967,9 +1045,11 @@ V.- Promoverá la creación de centros regionales de apoyo a la mediana y peque�
 
 VI.- Eximirá, en su caso, a los productores y empresas de la obligación de verificación obligatoria a que se refiere la presente Ley.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 55.
 
-La Secretaría garantizará el derecho a la información de los interesados, poniendo a su disposición los programas preventivos y correctivos derivados de las auditorías ambientales practicadas, en términos de lo dispuesto por la presente Ley. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
+La Secretaría y la Procuraduría garantizarán el derecho a la información de los interesados, poniendo a su disposición los programas preventivos y correctivos derivados de las auditorías ambientales practicadas, en términos de lo dispuesto por el artículo anterior. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
 #### SECCIÓN SÉPTIMA. CRITERIOS Y NORMAS TÉCNICAS AMBIENTALES
 
@@ -1301,7 +1381,9 @@ El solicitante deberá demostrar ante la autoridad competente, su capacidad téc
 
 La Secretaría y la Secretaría de Desarrollo Agropecuario y Pesquero, prestarán la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior.
 
-La Secretaría de, tomando como base los estudios técnicos o socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración o explotación o aprovechamiento de recursos ocasione o pueda causar deterioro en el equilibrio ecológico, hará lo propio cuando sea ella quien lo haya otorgado.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+La Secretaría y la Procuraduría, tomando como base los estudios técnicos y socioeconómicos realizados, podrán solicitar a la autoridad competente la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración o explotación o aprovechamiento de recursos ocasione o pueda causar deterioro en el equilibrio ecológico; hará lo propio cuando sea ella quien lo haya otorgado.
 
 ###### Artículo 88.
 
@@ -1545,9 +1627,11 @@ En las licencias o permisos que se expidan para la utilización del suelo, se ap
 
 ### CAPÍTULO I. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 121.
 
-La Secretaría promoverá la participación efectiva de la sociedad en los programas y medidas destinadas a la prevención y control de la contaminación atmosférica, y garantizará así mismo el derecho a la información ambiental en materia de emisiones contaminantes de fuentes fijas y móviles, niveles y resultados de monitoreos de la calidad del aire.
+La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias, promoverán la participación efectiva de la sociedad en los programas y medidas destinadas a la prevención y control de la contaminación atmosférica; y garantizarán, asimismo, el derecho a la información ambiental en materia de emisiones contaminantes de fuentes fijas y móviles, niveles y resultados de monitoreos de la calidad del aire.
 
 ###### Artículo 122.
 
@@ -1567,35 +1651,55 @@ II.- La emisión de contaminantes a la atmósfera, sean de fuentes naturales o a
 
 La Secretaría establecerá y aplicará las medidas de prevención y control de la contaminación atmosférica originada por humos, polvos, vapores, gases y olores que puedan causar alteraciones significativas al ambiente o daños en la salud en los términos señalados por las normas técnicas ambientales o criterios ecológicos aplicables, en términos de su reglamento y observando los principios de política ambiental del artículo 12 de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Por su parte, la Procuraduría hará lo propio respecto a las medidas de control y vigilancia.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 125.
 
-En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas y móviles, la Secretaría, en el ámbito de su competencia:
+En materia de prevención de la contaminación atmosférica producida por fuentes fijas y móviles, la Secretaría ejercerá las atribuciones siguientes:
 
-I.- Establecerá medidas preventivas y correctivas para reducir las emisiones contaminantes de la atmósfera;
+I. Establecer medidas preventivas para reducir las emisiones contaminantes de la atmósfera;
 
-II.- Aplicará los criterios generales para la protección de la atmósfera en las declaratorias de usos, destinos, reservas y provisiones del suelo, definiendo las zonas en que sea permitida la instalación de industrias.
+II. Aplicar los criterios generales para la protección de la atmósfera en las declaratorias de usos, destinos, reservas y provisiones del suelo, definiendo las zonas en que sea permitida la instalación de industrias;
 
-III.- En caso de considerarlo necesario, requerirá la instalación de equipos o sistemas de control de emisiones contaminantes;
+III. Requerir la instalación de equipos o sistemas de control de emisiones contaminantes, en caso de considerarlo necesario;
 
-IV.- Vigilará el cumplimiento de los criterios ecológicos en los planes de desarrollo urbano estatal y municipales, para el mejoramiento de la calidad del aire.
+IV. Promover la inserción de criterios ecológicos en los planes de desarrollo urbano estatal y municipales, para el mejoramiento de la calidad del aire;
 
-V.- Integrará y mantendrá actualizado el inventario estatal de fuentes fijas de contaminación de la atmósfera.
+V. Integrar y mantener actualizado el inventario estatal de fuentes fijas de contaminación de la atmósfera;
 
-VI.- Establecerá y operará el programa estatal de verificación de emisiones de fuentes móviles en circulación que sean de jurisdicción local.
+VI. Establecer y operar sistemas de monitoreo de la calidad del aire, con el fin de integrar los reportes locales de los Sistemas Estatal y Nacional de Información Ambiental;
 
-VII.- Establecerá y operará sistemas de monitoreo de la calidad del aire con el fin de integrar los reportes locales de los Sistemas Estatal y Nacional de Información Ambiental.
+VII. Establecer y operar el Programa Estatal de Verificación de Emisiones de Fuentes Móviles en Circulación que sean de jurisdicción local;
 
-VIII. Tomará las medidas preventivas necesarias para evitar contingencias ambientales por la contaminación atmosférica.
+VIII. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la contaminación atmosférica;
 
-IX.- Elaborará los informes sobre el Estado del ambiente en la entidad o municipios correspondientes.
+IX. Elaborar los informes sobre el estado del ambiente en la entidad o municipios correspondientes;
 
-X.- Impondrá sanciones y medidas por infracciones a las leyes de la materia, y los reglamentos correspondientes.
+X. Formular y aplicar programas de gestión de calidad del aire, con base en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales para establecer la calidad ambiental en el territorio estatal;
 
-XI.- Formulará y aplicará programas de gestión de calidad del aire, con base en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales para establecer la calidad ambiental en el territorio estatal.
+XI. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera; y
 
-XII.- Promoverá ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera, y
+XII. Las demás que les confieran las disposiciones legales y reglamentarias aplicables.
 
-XIII.- Ejercerá las demás facultades que les confieren las disposiciones legales reglamentarias aplicables.
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 125 Bis.
+
+En materia de control de la contaminación atmosférica producida por fuentes fijas, la Procuraduría tendrá las facultades siguientes:
+
+I. Establecer medidas correctivas para reducir las emisiones contaminantes de la atmósfera;
+
+II. Establecer y operar el Programa Estatal de Verificación de Emisiones de Fuentes Fijas que sean de jurisdicción local, así como determinar las tarifas por los servicios de verificación de dichas fuentes;
+
+III. Imponer sanciones y medidas por infracciones a las leyes de la materia y los reglamentos correspondientes;
+
+IV. Vigilar el cumplimiento de las normas y programas en materia de calidad del aire de las fuentes fijas; y
+
+V. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 126.
 
@@ -1641,7 +1745,9 @@ Las personas físicas o morales que operen sistemas de producción industrial, c
 
 I.- Instalar equipos o sistemas de control de emisiones para cumplir con los niveles permisibles de contaminantes;
 
-II.- Sujetarse a la verificación periódica de la Secretaría o realizar su autorregulación y auditoría ambiental en forma voluntaria conforme lo establecido en la Ley y en el Reglamento respectivo;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+II. Sujetarse a la verificación periódica de la Procuraduría o realizar su autorregulación y auditoría ambiental en forma voluntaria, conforme lo establecido en la Ley y en el Reglamento respectivo;
 
 III.- Informar a la Secretaría los resultados de la medición mediante el registro de los mismos y serán publicados en la Gaceta Ecológica.
 
@@ -1813,11 +1919,27 @@ IX.- Formularán y aplicarán, con base en las Normas Oficiales Mexicanas y esta
 
 X.- Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 145 Bis.
+
+La Procuraduría y las autoridades municipales correspondientes en materia de contaminación atmosférica, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
+
+I. Llevar a cabo las acciones de control de la contaminación del aire en bienes y zonas de su jurisdicción, respecto de las fuentes fijas y móviles que les correspondan;
+
+II. Requerir a los responsables de la operación de fuentes fijas de su competencia, el cumplimiento de la normatividad aplicable en materia de contaminación atmosférica, de conformidad con lo establecido por las disposiciones jurídicas que resulten aplicables y en las Normas Oficiales Mexicanas y en criterios ecológicos y normas técnicas ambientales;
+
+III. Imponer las sanciones y medidas correctivas de su competencia por infracciones a esta Ley, sus reglamentos y los bandos municipales respectivos; y
+
+IV. Las demás que les confieran las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 146.
 
-En el ámbito de competencia de la Secretaría, tanto para las fuentes fijas o móviles de contaminación atmosférica, será obligatoria la verificación, de acuerdo con los criterios que así se establezcan en el reglamento correspondiente, determinando el número de verificaciones anuales dependiendo el grado de riesgo de las actividades industriales o de servicios de que se trate, las cuales nunca podrán ser inferiores de una al año.
+En el ámbito de competencia de la Secretaría y de la Procuraduría, tanto para las fuentes fijas o móviles de contaminación atmosférica, será obligatoria la verificación, de acuerdo con los criterios que así se establezcan en los programas, normas, reglamentos y disposiciones administrativas correspondientes, determinando el número de verificaciones anuales dependiendo el grado de riesgo de las actividades industriales o de servicios de que se trate, las cuales nunca podrán ser inferiores de una al año.
 
-Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
+Asimismo, la Procuraduría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -2203,7 +2325,7 @@ B) La evaluación y otorgamiento de autorizaciones de sitios de disposición fin
 
 C) La evaluación y autorización de proyectos ejecutivos y manifiesto de impacto ambiental de rellenos sanitarios de residuos sólidos no peligrosos, o de cualquier otro método de ingeniería que permita una mejor eliminación, disposición o conversión, siempre y cuando se encuentre dentro del ámbito estatal.
 
-D) La vigilancia y supervisión de las instalaciones y operación de sitios de disposición final de residuos sólidos no peligrosos u otros métodos de tratamiento.
+D) (DEROGADO, G.O. 21 DE DICIEMBRE DE 2012)
 
 E) La evaluación y otorgamiento de autorizaciones para la instalación y operación de centros de acopio de residuos sólidos no peligrosos para su clasificación, reuso, tratamiento y reciclaje en coordinación las autoridades del municipio.
 
@@ -2224,6 +2346,10 @@ C) La administración y operación de las instalaciones y confinamientos de dich
 D) En la promoción de la racionalización de la generación de residuos adoptarán las medidas conducentes para incorporar técnicas y procedimientos para su reuso y reciclaje.
 
 E) Las demás atribuciones que se deriven de las disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III.- La Procuraduría, en la inspección y vigilancia de las disposiciones enunciadas en el presente artículo, así como en la aplicación de las sanciones correspondientes.
 
 ###### Artículo 176.
 
@@ -2307,11 +2433,15 @@ IV.- Participar en la elaboración de los programas en los que se consideren acc
 
 El Gobierno del Estado promoverá la participación y corresponsabilidad de la sociedad en los procesos de formulación y aplicación de la política ambiental y sus instrumentos, en acciones de información y vigilancia, y en general, en las acciones ecológicas que emprenda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 183.
 
-Para los efectos del Artículo anterior, la Secretaría:
+Para los efectos del artículo anterior, la Secretaría y la Procuraduría, en el ámbito de sus respectivas atribuciones, conjunta o separadamente:
 
-I.- Convocará a representantes de las organizaciones obreras, empresariales, pesqueras, campesinos y productores agropecuarios, de las comunidades, de instituciones educativas, académicas y de investigación, pueblos indígenas, de instituciones privadas no lucrativas, discapacitados, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Convocarán a representantes de las organizaciones obreras, empresariales, pesqueras, de campesinos y productores agropecuarios, de las comunidades, de instituciones educativas, académicas y de investigación, de pueblos indígenas, de instituciones privadas no lucrativas, de discapacitados, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas.
 
 II.- Celebrará convenios de concertación con:
 
@@ -2327,15 +2457,21 @@ E) Las organizaciones civiles e instituciones privadas no lucrativas, para empre
 
 F) Los representantes sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-III.- Promoverá la celebración de convenios con los diversos medios de comunicación masiva, para la difusión, información y promoción de acciones ecológicas, para estos efectos se buscará la participación de artistas, intelectuales, científicos y en general de personalidades cuyos conocimientos y ejemplo contribuyan a formar y orientar a la opinión pública.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-IV.- Promoverá el establecimiento de reconocimiento a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente.
+III.- Promoverán la celebración de convenios con los diversos medios de comunicación masiva, para la difusión, información y promoción de acciones ambientales; para estos efectos se buscará la participación de artistas, intelectuales, científicos y en general de personalidades cuyos conocimientos y ejemplo contribuyan a formar y orientar a la opinión pública.
 
-V.- Impulsará el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales y el correcto manejo de desechos. Para ello, podrá en forma coordinada con los municipios, celebrar convenios, de concertación con comunidades urbanas, rurales e indígenas, así como con diversas organizaciones sociales.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
+IV.- Propondrán a los Consejos Municipales de Medio Ambiente y Desarrollo Sustentable mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
 
-VI.- Propondrá a los Consejos Municipales de Medio Ambiente y Desarrollo Sustentable mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+V.- Impulsarán el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales y el correcto manejo de desechos. Para ello, podrán, en forma coordinada con los municipios, celebrar convenios de concertación con comunidades urbanas, rurales e indígenas, así como con diversas organizaciones sociales.
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VI.- Propondrán a las Comisiones Municipales de Ecología mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
 
 ### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
@@ -2461,11 +2597,15 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ### CAPÍTULO II. INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 194.
 
 Para asuntos de jurisdicción estatal y municipal regulados por esta Ley, disposiciones que de ella emanen y los convenios de coordinación en la aplicación de las disposiciones referentes a los actos de inspección y vigilancia, determinación de infracciones, sus sanciones y procedimientos administrativos y sus recursos, son competentes:
 
-I.- En el ámbito estatal, la Secretaria.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- En el ámbito estatal, la Secretaría y la Procuraduría, de conformidad con sus respectivas competencias; y
 
 II.- En el ámbito municipal, el Presidente Municipal.
 
@@ -2479,13 +2619,15 @@ Cualquier autoridad de las enumeradas en el artículo 194 de esta ley, que tenga
 
 ### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
 
-###### Articulo 197.
+###### Artículo 197.
 
-La Secretaría o la autoridad municipal correspondiente, realizará los actos de inspección y vigilancia en cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como las que del mismo se deriven.
+La Procuraduría o la autoridad municipal correspondiente realizarán los actos de inspección y vigilancia en cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como las que del mismo se deriven.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 198.
 
-Las autoridades competentes contarán con personal debidamente autorizado para hacer visitas de inspección, sin perjuicio de lo establecido en el artículo anterior; quienes al realizarlas, deberán estar provistos del documento oficial que los acredite, así como de la orden escrita debidamente fundada y motivada, en la que se precisará:
+Las autoridades competentes a que se refiere este capítulo contarán con personal debidamente autorizado para hacer visitas de inspección, sin perjuicio de lo establecido en el artículo anterior; quienes al realizarlas deberán estar provistos del documento oficial que los acredite, así como de la orden escrita debidamente fundada y motivada, en la que se precisará:
 
 I.- El lugar o zona que habrá de inspeccionarse.
 
@@ -2659,11 +2801,15 @@ Cuando proceda como sanción el decomiso o clausura temporal o definitiva, total
 
 En los casos en que se imponga como sanción la clausura temporal, la autoridad que la aplique deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 219.
 
-La Secretaría podrá promover ante las autoridades federales, estatales o municipales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos, de transporte o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad.
+La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias y de manera conjunta o separada, podrán promover ante las autoridades federales, estatales o municipales competentes, con base en los estudios que hagan para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos, de transporte o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
 ### CAPÍTULO V. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 220.
 
@@ -2671,7 +2817,9 @@ Los actos o resoluciones definitivas dictadas con motivo de la aplicación de es
 
 El recurso se interpondrá ante la misma autoridad que emitió el acto o resolución definitiva recurrida, quien en un plazo de cinco días hábiles acordará sobre su admisión, y en su caso, sobre el otorgamiento o denegación de la suspensión del acto recurrido, y fijará fecha para desahogar las pruebas dentro de un plazo no mayor a treinta días.
 
-El recurso será resuelto por el titular de la Secretaría o en su caso por el Presidente Municipal que corresponda.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+El recurso será resuelto por el titular de la dependencia que haya emitido la resolución impugnada o, en su caso, por el Presidente Municipal que corresponda.
 
 ###### Artículo 221.
 
@@ -2739,9 +2887,9 @@ La resolución del recurso se fundamentará en Derecho y examinará todos y cada
 
 ###### Artículo 227.
 
-Toda persona física o moral, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría o ante los ayuntamientos, en el ámbito de sus respectivas competencias, las conductas o hechos u omisiones que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente, que hayan contravenido las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Todas las personas físicas y morales, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría, la Procuraduría o ante los ayuntamientos, las conductas o hechos u omisiones que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente, que hayan contravenido las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-Las autoridades estatales y municipales, se remitirán las denuncias que reciban y no sean de su competencia. Las denuncias de carácter federal deberán remitirse a la Delegación en el Estado de la Procuraduría Federal de Protección al Ambiente.
+Las autoridades estatales y municipales remitirán las denuncias que reciban y no sean de su competencia. Las denuncias de carácter federal deberán remitirse a la delegación de la dependencia federal competente.
 
 ###### Artículo 228.
 
@@ -2783,13 +2931,17 @@ Cuando una denuncia popular no implique violaciones a la normatividad ambiental,
 
 En caso de que no se compruebe que los actos, hechos u omisiones denunciadas producen o pueden producir daños al ambiente o a los recursos naturales o contravengan las disposiciones de la presente Ley, la autoridad lo hará del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 230.
 
-Si en la localidad no existiere representante de la Secretaría, la denuncia podrá presentarse ante la autoridad municipal que corresponda, debiéndose remitir con la mayor brevedad para su atención y tramite a la autoridad competente.
+Si en la localidad no existiere representante de la Secretaría o de la Procuraduría, la denuncia podrá presentarse ante la autoridad municipal que corresponda, debiéndose remitir con la mayor brevedad para su atención y trámite a la autoridad competente.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 231.
 
-La Secretaría en el ámbito de sus atribuciones, estará facultada para iniciar las acciones que procedan ante las autoridades judiciales competentes, cuando conozcan de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal que corresponda.
+La Secretaría, la Procuraduría y los Ayuntamientos estarán facultados en el ámbito de sus atribuciones para iniciar las acciones que procedan ante las autoridades competentes, cuando conozcan de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal que corresponda.
 
 ###### Artículo 232.
 
@@ -2799,11 +2951,13 @@ Sin perjuicio de las sanciones penales o administrativas que procedan, toda pers
 
 Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, el o los interesados, podrán solicitar a la Secretaría, la formulación de un dictamen técnico el cual tendrá valor de prueba plena en caso de ser presentado en juicio.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 234.
 
-En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos ambientales conforme a lo previsto en el Código Penal de Veracruz y la demás legislación aplicable, formulará ante el Ministerio Público la querella o denuncia correspondiente.
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría, la Procuraduría o los ayuntamientos tengan conocimiento de actos u omisiones que pudieran constituir delitos ambientales conforme a lo previsto en el Código Penal para el Estado y la demás legislación aplicable, formularán ante el Ministerio Público la querella o denuncia correspondiente.
 
-La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o parciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+La Procuraduría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
 
 ## TRANSITORIOS
 
@@ -2872,3 +3026,9 @@ G.O. 15 DE JULIO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable deberán quedar instalados dentro de un término de 90 días a partir de la entrada en vigor del presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
