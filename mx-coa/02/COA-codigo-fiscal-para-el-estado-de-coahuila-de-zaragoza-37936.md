@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2012-05-08"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -471,6 +471,12 @@ Son responsables solidarios con los contribuyentes:
 
 I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I-A. Los funcionarios públicos que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto las contribuciones respectivas, o no den cumplimiento a las disposiciones correspondientes que regulan el pago del gravamen.
+
 II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
 
 III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
@@ -517,6 +523,24 @@ III. Suspensión o baja de obligaciones fiscales.
 
 IV. Liquidación, fusión o escisión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Cuando un mismo contribuyente tenga diversos giros, sucursales o locales, deberá registrar cada uno por separado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Las autoridades fiscales competentes expedirán, dentro de los 45 días siguientes a la fecha de presentación de la solicitud de registro, la constancia de registro. Los contribuyentes deberán colocarlas en lugar visible en sus establecimientos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Mientras las constancias de registro no sean canceladas por autoridad competente, tendrán duración y vigencia indefinida y no requerirán ser renovadas. Cuando se cancele la constancia de registro, el interesado deberá entregarla en la oficina de la autoridad fiscal competente en razón de su domicilio.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
@@ -544,6 +568,28 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Nóminas, impuesto por Servicios de Hospedaje e Impuesto Sobre Rifas, Sorteos y Juegos con Apuestas, tendrán la obligación de proporcionar dentro de los 10 días siguientes a la fecha en que haya presentado en citado dictamen, copia impresa y en dispositivo magnético de dicho dictamen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 29-A.
+
+Los sujetos obligados al pago del (sic) impuestos estatales, están obligados a llevar contabilidad en los términos y con las formalidades establecidas en este Código y deberá considerar como parte de su contabilidad los registros contables que estén obligados a llevar para efectos de otras contribuciones federales o municipales; así como las declaraciones de impuestos e informativas y copias de los documentos que se desprendan de estos registros contables a fin de estar en posibilidad de comprobar el cumplimiento de sus obligaciones en materia de contribuciones estatales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 29-B.
+
+Las autoridades fiscales del Estado, cuando se encuentren en el ejercicio de sus facultades de comprobación previstas en este Código, respecto de contribuciones estatales, están facultadas para exigir a los contribuyentes la exhibición de la contabilidad, registros contables y documentos, incluidos los registros que el contribuyente esté obligado a llevar para otras contribuciones federales, estatales o municipales, así como la información necesaria para demostrar el cumplimiento de sus obligaciones tributarias, de conformidad con la legislación aplicable.
 
 ###### ARTICULO 30.
 
@@ -600,6 +646,32 @@ Las declaraciones que presenten los contribuyentes serán definitivas y se podr�
 Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales autorizadas por las autoridades fiscales, debiéndose pagar las multas que establece el citado artículo 75.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 32-A.
+
+La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia del Estado, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con particulares que se encuentren en alguno de los siguientes supuestos:
+
+I. Tengan a su cargo créditos fiscales firmes.
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+III. No se encuentren inscritos en el registro estatal de contribuyentes.
+
+IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, esta no haya sido presentada.
+
+Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones exclusivamente informativas.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que las dependencias antes citadas, retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos establecidos en este artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+La Secretaría de Finanzas a través de la Administración Fiscal General deberá abstenerse de aplicar los subsidios o estímulos fiscales a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan la obligación de inscribirse en el Registro Estatal de Contribuyentes.
 
 ## TITULO III. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -1217,7 +1289,11 @@ I. Para la señalada en la fracción I:
 
 a) Del 10% al 20% de las contribuciones omitidas, tratándose de declaraciones, por cada una de las obligaciones no declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa a que se refiere este inciso.
 
-b) De 1 a 5 días de salario mínimo vigente en el Estado, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+b) De 5 a 20 días de salario mínimo vigente en el Estado, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
 c) Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos a) y b):
 
@@ -2332,3 +2408,13 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2013.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
