@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-y-sus-71125"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-01"
-last_updated: "2009-12-01"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 1 de diciembre de 2009.
 
@@ -59,7 +59,9 @@ VI.- Entidades Paramunicipales: Las constituidas en los municipios de conformida
 
 VII.- Programa Financiero: Documento que contiene la información necesaria y suficiente para sustentar la solicitud de autorización para la contratación de Deuda Pública;
 
-VIII.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras de infraestructura y a la adquisición o manufactura de bienes muebles e inmuebles, siempre que en forma directa o indirecta generen ingresos públicos y/o ahorros en el gasto corriente y/o produzcan elevar el nivel de vida de la ciudadanía; asimismo, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente que de no ser atendidas oportunamente generarían mayores contingencias;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras de infraestructura y a la adquisición o manufactura de bienes muebles e inmuebles, siempre que en forma directa o indirecta generen Ingresos públicos y/o ahorros en el gasto corriente y/o produzcan elevar el nivel de vida de la ciudadanía; asimismo, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente que de no ser atendidas oportunamente generarían mayores contingencias; y aquellas destinadas al saneamiento financiero a través del cual se reduzca el saldo de los adeudos que se tengan con instituciones públicas o financieras, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas de los sujetos de esta Ley.
 
 IX.- Refinanciamiento de Deuda Pública: Los actos que impliquen la contratación de nuevos créditos para mejorar las condiciones del crédito, como pueden ser la tasa de interés, plazo, amortización, garantías y otras condiciones originalmente pactadas de uno o varios financiamientos, sustituyendo las obligaciones del financiamiento original por uno o varios financiamientos con el mismo o con diferente acreedor. El refinanciamiento no deberá incrementar la Deuda Pública base del mismo;
 
@@ -133,9 +135,13 @@ No se considerarán Deuda Pública las operaciones de financiamiento temporal si
 
 I.- Las obligaciones contraídas a corto plazo siempre que se cumplan los siguientes requisitos:
 
-a) Las realizadas para atender necesidades temporales de efectivo siempre que los contratos respectivos no excedan de un plazo de 12 meses y que su fecha de vencimiento y pago sea a más tardar 3 meses antes del término de la gestión del Ejecutivo del Estado o del Ayuntamiento de que se trate, incluyendo las operaciones realizadas por sus respectivas Entidades Paraestatales y Paramunicipales;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-b) El importe del crédito que se contrate sumado al saldo de otros empréstitos que se hayan celebrado conforme al presente artículo, no exceda al 5 % del Presupuesto de Egresos autorizado al inicio del ejercicio en que se realice la operación; y,
+a) Las realizadas para atender necesidades temporales de efectivo siempre que los contratos respectivos no excedan de un plazo de 12 meses;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+b) El importe del crédito que se contrate sumado al saldo de otros empréstitos que se hayan celebrado conforme al presente artículo, no exceda al 10 % del Presupuesto de Egresos autorizado al inicio del ejercicio en que se realice la operación; y,
 
 c) Se mantenga el equilibrio financiero de acuerdo a la capacidad de pago, considerando para ello el importe que deben pagar por operaciones de financiamiento que constituyan Deuda Pública en los ejercicios respectivos.
 
@@ -516,3 +522,9 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
