@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2012-06-06"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -2366,3 +2366,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 > <small>(F. DE E., P.O. 6 DE JUNIO DE 2012)</small>
 
 Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis 2 al 323 Bis 7 del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor a los 120 días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Titular del Poder Ejecutivo deberá expedir el Reglamento de la presente Ley dentro de los siguientes 120 días naturales contados a partir del día siguiente de la publicación de la presente Ley.
+
+Tercero.- Una vez iniciada la vigencia de la presente Ley, se abroga la "Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León" publicada en el Periódico Oficial del Estado el día 30 de julio de 2004, con sus reformas y adiciones.
+
+Cuarto.- Mientras existan asuntos que deban tramitarse bajo las reglas del Código de Procedimientos Penales, publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas, la Procuraduría podrá contar con Secretarios, Delegados y Escribientes, con las facultades y atribuciones previstas en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 30 de julio de 2004 y sus reformas.
+
+Quinto.- Quedan vigentes todas las Leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
+
+Sexto.- Para el cumplimiento de esta Ley, el Ejecutivo a través de la Secretaría de Finanzas y Tesorería General del Estado, podrá reorganizar la estructura de la dependencia, así como crear, fusionar, escindir o disolver las unidades administrativas, oficinas o departamentos necesarios, estando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
