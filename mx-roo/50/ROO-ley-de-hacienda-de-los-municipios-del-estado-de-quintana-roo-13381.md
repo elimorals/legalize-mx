@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2012-11-30"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2012, SE DEROGAN TODAS AQUELLAS DISPOSICIONES QUE CONTRAVENGAN LO DISPUESTO EN DICHA LEY, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO Y TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE TULUM DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -645,7 +645,7 @@ El incumplimiento de las disposiciones establecidas con relación al Impuesto so
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011, Y P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011, Y P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE ADQUISICION DE INMUEBLES, OBJETO, SUJETO, BASE Y TASA DEL IMPUESTO
 
@@ -653,53 +653,53 @@ El incumplimiento de las disposiciones establecidas con relación al Impuesto so
 
 ###### ARTÍCULO 29.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 29 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+ARTÍCULO 29 BIS.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 30.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 31.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 31
 
-BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+BIS.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 32.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 33.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 34.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 34
 
-BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+BIS.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EL USO O TENENCIA DE VEHÍCULOS QUE NO CONSUMAN GASOLINA NI OTRO DERIVADO DEL PETRÓLEO
 
@@ -765,7 +765,7 @@ II.- Las personas físicas o morales que obtengan ingresos por enajenación de b
 
 III.- Las personas físicas o morales que reciban, registren, crucen o capten apuestas permitidas de conformidad con la Ley Federal de Juegos y Sorteos, no obstante que el organizador del evento se encuentre fuera del territorio del Municipio y que el evento de cuyo resultado dependa la obtención de premios, se celebre también fuera del territorio Municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -3313,7 +3313,7 @@ Los pagos se enterarán en forma anual durante los dos primeros meses del año o
 
 ### CAPITULO XXII. USO DE LA VÍA PUBLICA O DE OTROS BIENES DE USO COMÚN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 141] Y REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 141] Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 125.
 
@@ -3321,7 +3321,7 @@ Por el uso de la vía pública para el ejercicio de una actividad lucrativa de c
 
 TARIFA
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ZONA “A” ZONA “B” ZONA”C”
 
@@ -3423,11 +3423,11 @@ c).- Por tres horas 0.90 S.M.G. en todas las zonas.
 
 d).- Por más de tres horas 1.20 S.M.G. en todas las zonas.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XXII], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XXII], P.O. 15 DE DICIEMBRE DE 1998)
 
 ### CAPITULO XXIII. OTROS NO ESPECIFICADOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 126.
 
@@ -3441,7 +3441,7 @@ c).- Los peritos valuadores.
 
 d).- Los promotores de tiempo compartido.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 126], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 127.
 
@@ -3455,19 +3455,19 @@ c).- Para los peritos valuadores de 10.0 S.M.G. a 50.0 S.M.G. por año.
 
 d).- Para los promotores de tiempos compartidos de 10.0 S.M.G. a 50.0 S.M.G. por año.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 127], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 128.
 
 Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ordenamiento legal correspondiente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 129.
 
 Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el H. Ayuntamiento considere.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO XXIV. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
 
@@ -3479,7 +3479,7 @@ BIS.- Por la verificación, control y fiscalización que las leyes en la materia
 
 Las Tesorerías Municipales al hacer el pago de las estimaciones de obra que le corresponda, detendrán el derecho a que se refiere el párrafo anterior y registrara el 50 por ciento de todo lo recaudado por este concepto a favor de la partida presupuestal de la respectiva Contraloría Municipal para su aplicación a gastos inherentes a sus operaciones de verificación y control de la Obra Pública Municipal. El otro 50 por ciento de todo lo recaudado por este concepto será transferido por las Tesorerías Municipales al Órgano Superior de Fiscalización del Estado, el cual lo integrará al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO XXV. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
@@ -3507,31 +3507,31 @@ Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cob
 
 ### CAPITULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 130.
 
 La venta de bienes muebles e inmuebles pertenecientes a los Municipios solo podrá llevarse a cabo en subasta pública al mejor postor.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 130], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 131.
 
 Sólo podrán explotarse los bienes muebles e inmuebles de los municipios por concesión o contrato legalmente otorgado y el producto se fijará y cobrará de conformidad con el contrato o la concesión respectiva.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 131], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 132.
 
 Con los mismos requisitos señalados en el Artículo 129 se podrá dar en pago de crédito u obligaciones a cargo de los municipios respectivos, los bienes pertenecientes a la Hacienda Municipal, previo cumplimiento de los requisitos señalados por la Legislatura local.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 132], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 133.
 
 En todos los casos en que se autorice la enajenación de bienes de los municipios y se estipule entre las condiciones conforme a las cuales deba llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 133], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 134.
 
@@ -3539,13 +3539,13 @@ Los bienes de uso común o destinados al servicio de los municipios no podrán s
 
 ### CAPITULO II. BIENES MOSTRENCOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 134], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 135.
 
 Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios cuyo dueño se ignore.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 135], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 135], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 136.
 
@@ -3553,25 +3553,25 @@ El producto líquido de los bienes mostrencos que sean rematados o vendidos conf
 
 ### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 136], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 137.
 
 Por la venta de papel para copia de actas de Registro Civil se cobrará por hoja 1.0 S.M.G.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 137], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 138.
 
 El papel para copias de actas de Registro Civil será impreso por el Ayuntamiento en la cantidad necesaria para cada año fiscal y los concentrarán en la Tesorería Municipal, la que pondrá en cada una de las hojas un resello especial, diferente para cada año, que será dado a conocer a los encargados de las oficinas del Registro Civil.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 138], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 139.
 
 Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se utilice, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal, por hojas utilizables.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 139], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 139], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 140.
 
@@ -3581,13 +3581,13 @@ La Tesorería Municipal, al hacer la remisión, dará cuenta del movimiento habi
 
 El Ayuntamiento señalará las formalidades que deben observarse para la destrucción.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 140], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 141.
 
 Los oficiales del Registro Civil extenderán las certificaciones exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas las hojas sin los requisitos indicados en el Artículo 137, las recogerán y harán la consignación ante el Ministerio Público.
 
-(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 15 DE DICIEMBRE DE 1998)
 
 ### CAPITULO IV. MERCADOS
 
@@ -4619,7 +4619,7 @@ TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 200
 
 CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Othón P. Blanco se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo cuarto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
 
-QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Isla Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el articulo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Isla Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -4675,7 +4675,7 @@ No Habitacional 2.8
 
 Rústico 2.9
 
-SÉPTlMO.- En caso de que al 31 de diciembre del año 2007, no se hubieren aprobado las Tablas de cálculo anual para la determinación del impuesto predial en los Municipios de Solidaridad, Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez, para el ejercicio fiscal 2008, en tanto se aprueban éstas y entran en vigor, continuarán aplicándose las Tablas de cálculo anual correspondientes al propio ejercicio fiscal 2007.
+SÉPTIMO.- En caso de que al 31 de diciembre del año 2007, no se hubieren aprobado las Tablas de cálculo anual para la determinación del impuesto predial en los Municipios de Solidaridad, Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez, para el ejercicio fiscal 2008, en tanto se aprueban éstas y entran en vigor, continuarán aplicándose las Tablas de cálculo anual correspondientes al propio ejercicio fiscal 2007.
 
 OCTAVO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
@@ -4829,7 +4829,7 @@ TERCERO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 200
 
 CUARTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Isla Mujeres, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Quinto Transitorio del Decreto Número 102, expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 16 de diciembre del año 2003.
 
-QUINTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Solidaridad, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Segundo Transitorio del Decreto Número 25, expedido por la Xl Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 13 de diciembre del año 2005.
+QUINTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Solidaridad, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Segundo Transitorio del Decreto Número 25, expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 13 de diciembre del año 2005.
 
 SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Benito Juárez, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Sexto Transitorio del Decreto Número 133, expedido por la Xl Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 20 de diciembre del año 2006.
 
@@ -5286,3 +5286,13 @@ Para los efectos de coordinación con las entidades, se considerarán derechos, 
 También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 QUINTO.- Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en el presente decreto.
+
+TERCERO.- Los derechos a que se refiere el artículo 113 de la Ley de Hacienda del Municipio de Benito Juárez, del Estado de Quintana Roo, entrarán en vigor a partir del día 1 de enero de 2013, para lo cual el Tesorero Municipal deberá efectuar la publicación del acuerdo precisado en el penúltimo párrafo de dicho artículo, a más tardar, el 31 de enero de ese año; en tanto, continuarán vigentes en el Municipio de Benito Juárez, las disposiciones contenidas en los artículos 116, 117, 118 y 119 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+
+CUARTO.- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Benito Juárez, con la salvedad realizada en el artículo Tercero Transitorio de este Decreto.
