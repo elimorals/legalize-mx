@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-secretariado-ejecutivo-del-sistema-8238
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-29"
-last_updated: "2011-07-29"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL DECRETO GUBERNATIVO NÚMERO 15 QUE MODIFICA LA NATURALEZA JURÍDICA Y REESTRUCTURA LA ORGANIZACIÓN INTERNA DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de julio de 2011.
 
@@ -1324,3 +1326,49 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el 1 de enero del 2013, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de instrumentos normativos
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 142, mediante el cual se constituye el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, como un organismo descentralizado, publicado en el Periódico Oficial del Gobierno del Estado, número 109, Segunda Parte, el 9 de julio de 2010.
+
+Se abroga el Decreto Gubernativo número 175, mediante el cual se expide el Reglamento Interior del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, publicado en el Periódico Oficial del Gobierno del Estado, número 120, Primera Parte, el 29 de julio de 2011.
+
+Distribución y transferencia de recursos
+
+Artículo Tercero. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública en coordinación con las dependencias correspondientes, realizará las acciones necesarias para la distribución y transferencia de los asuntos, recursos materiales, financieros y humanos a las instancias respectivas.
+
+De igual forma, procederán a realizar los trámites conducentes para llevar a cabo la adecuación ante otras instancias sobre el cambio de la naturaleza jurídica del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+Plazo para Reglamento Interior
+
+Artículo Cuarto. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública deberá proponer al Secretario de Gobierno el proyecto de Reglamento Interior del SESESP, en un plazo no mayor a 30 días naturales, contado a partir del inicio de vigencia del presente Decreto Gubernativo
+
+Subrogación de derechos y obligaciones
+
+Artículo Quinto. Una vez que se haya cumplido lo establecido en el artículo tercero transitorio de este Decreto, la Secretaría de Seguridad Pública sustituirá al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública en el ejercicio de todos los derechos así como en el cumplimiento de todas las obligaciones y compromisos adquiridos en las materias de prevención del delito, participación ciudadana y de información en seguridad pública, hasta su cabal cumplimiento.
+
+Cumplimiento de otras obligaciones
+
+Artículo Sexto. Las demás obligaciones y compromisos adquiridos por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública como organismo descentralizado y que aún estén pendientes por solventarse, serán absorbidos por el órgano desconcentrado que se crea, en congruencia con el artículo quinto transitorio del Decreto Legislativo 275, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Seguridad Pública del Estado de Guanajuato, y demás disposiciones aplicables.
+
+Sustitución en las relaciones laborales
+
+Artículo Séptimo. El personal que sea readscrito al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, como órgano desconcentrado, conservará las prestaciones laborales y sociales conforme a la normativa aplicable.
+
+Procedimiento de liquidación
+
+Artículo Octavo. El recurso financiero que se utilice para la liquidación del personal del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública que no se encuentre en la hipótesis del artículo anterior, se erogará del presupuesto con que cuente el mismo.
+
+Si existiere alguna inconformidad en cuanto a la liquidación del personal, ésta será atendida por la Secretaría de Finanzas, Inversión y Administración.
+
+Ultractividad
+
+Artículo Noveno. Hasta en tanto se emita el nuevo Reglamento Interior, el ejercicio de las atribuciones señaladas en este Decreto se realizarán por conducto del titular del SESESP o de las unidades administrativas previstas en el Reglamento Interior que se abroga en el artículo segundo transitorio.
