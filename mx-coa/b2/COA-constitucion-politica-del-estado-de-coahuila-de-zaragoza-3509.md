@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2012-10-19"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -624,19 +624,25 @@ Para que los diputados se consideren legalmente electos, al declararse válidas 
 
 El Congreso del Estado expedirá la Ley que regulará su estructura y funcionamiento internos. La Ley determinará las formas y procedimientos para la agrupación de los Diputados.
 
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia. Los Diputados tendrán la facultad exclusiva de aprobar, reformar y adicionar este ordenamiento.
 
 ### CAPITULO II.
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de enero y terminará a más tardar el 30 de abril. El segundo iniciará el 1º de septiembre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el primer día hábil de marzo y terminará a más tardar el 30 de junio. El segundo iniciará el primer día hábil de septiembre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
 
-Al renovarse el Congreso del Estado, los diputados electos concurrirán a la sede oficial del Poder Legislativo, el día primero de enero del año inmediato posterior al de la elección, a efecto de proceder a la instalación de la Legislatura correspondiente, así como para que, dentro de los primeros quince días del período ordinario que se inicia en esa fecha y conforme a lo establecido en la Ley Orgánica del propio Congreso del Estado, realicen los demás trabajos relacionados con la organización y funcionamiento de la nueva legislatura.
+El Congreso también podrá celebrar períodos extraordinarios de sesiones, conforme a lo establecido en los Artículos 47, 48 y demás aplicables de esta Constitución y a lo dispuesto en la Ley Orgánica del propio Congreso del Estado. En los períodos extraordinarios se celebrarán las sesiones que sean necesarias para la atención de los asuntos que deban desahogarse durante los mismos.
+
+Al renovarse el Congreso del Estado, los diputados electos concurrirán a la sede oficial del Poder Legislativo, el día primero de enero del año inmediato posterior al de la elección, para proceder a la instalación de la Legislatura correspondiente.
+
+Para este efecto, se celebrará un período de instalación que tendrá una duración de hasta quince días y en el cual se atenderán los asuntos y trabajos relacionados con la organización y funcionamiento de la nueva Legislatura, que señale la Ley Orgánica del Congreso del Estado del Estado (sic).
 
 ###### Artículo 47.
 
@@ -1038,9 +1044,9 @@ Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podr
 
 Así mismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Hacienda y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local a más tardar el 30 de noviembre del año en que éstas debieron presentarse. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
+b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local en el plazo establecido en la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere este inciso; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
@@ -1146,11 +1152,13 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 70.
 
-Cuando el Congreso no esté en período de sesiones, estará en funciones una Diputación Permanente que se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos secretarios y siete vocales, además de once suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones, en la forma que determina la Ley.
+Cuando el Congreso no esté en período ordinario de sesiones, estará en funciones una Diputación Permanente integrada por once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos Secretarios y siete Vocales, que serán electos el día de la clausura del período de instalación y de los períodos ordinarios de sesiones, en la forma que determine la Ley. Por cada uno de los diputados electos como propietarios se designará respectivamente un suplente.
+
+La Diputación Permanente tendrá dos períodos de funciones al año. El primero se desarrollará durante los meses de enero y febrero y el segundo en los meses de julio y agosto de cada año; y concluirán al iniciarse los períodos ordinarios de sesiones según corresponda.
 
 ###### Artículo 71.
 
@@ -4465,3 +4473,17 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+DECRETO NÚMERO 161 POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN XXXIV DEL ARTÍCULO 67, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+DECRETO NÚMERO 162 POR EL QUE SE REFORMAN LOS ARTÍCULOS 45, 46 Y 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La distribución que se establece en este decreto, sobre los tiempos en que habrán de desarrollarse los períodos ordinarios de sesiones del Congreso del Estado y los períodos de funcionamiento de la Diputación Permanente, surtirá efectos a partir del Segundo Año del Ejercicio Constitucional de la LIX Legislatura, que se inicia el 1 de enero de 2013.
