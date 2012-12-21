@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-del-estado-de-guanajuato-70464"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2012-09-11"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2009.
 
@@ -199,7 +199,11 @@ IV. La Policía Ministerial Especializada en materia de Adolescentes;
 
 V. Los cuerpos estatales de Seguridad Penitenciaria y de Seguridad para Adolescentes; y
 
-VI. El personal operativo de la Dirección General de Tránsito y Transporte del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VI. El personal operativo de la Dirección General de Tránsito.
 
 #### Sección Tercera. Atribuciones de las Autoridades en Materia de Seguridad Pública
 
@@ -1509,7 +1513,11 @@ Comisión del Servicio Profesional de Carrera Policial
 
 La Comisión del Servicio Profesional de Carrera Policial de la Secretaría, es el organismo colegiado que tiene por objeto administrar, diseñar y ejecutar los lineamientos que definan los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, así como dictaminar sobre la baja del servicio de los integrantes de las Instituciones Policiales adscritos a la Secretaría. Además, será la instancia encargada, en el ámbito de su competencia, de procurar que se cumplan los fines de la carrera policial.
 
-El Servicio Profesional de Carrera Policial del personal operativo de la Dirección General de Tránsito y Transporte del Estado, se sujetará a lo previsto en las disposiciones jurídicas que le son aplicables y, en lo conducente, a lo que señala esta ley. Las reglas y procedimientos en esta materia serán aplicados, operados y supervisados por la propia Dirección.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+El Servicio Profesional de Carrera Policial del personal operativo de la Dirección General de Tránsito, se sujetará a lo previsto en las disposiciones jurídicas que le son aplicables y, en lo conducente, a lo que señala esta ley. Las reglas y procedimientos en esta materia serán aplicados, operados y supervisados por la propia Dirección.
 
 Reglamentos en materia de Servicio Profesional de Carrera Policial
 
@@ -1535,11 +1543,17 @@ V. El Director General de Reintegración Social para Adolescentes;
 
 VI. El Director General de las Fuerzas de Seguridad Pública del Estado;
 
-VII. El Director de Personal de la Secretaría de Seguridad Pública, quien fungirá como secretario técnico;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Un representante de la unidad correspondiente de la institución policial; y
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-IX. El Secretario Técnico del Consejo de Honor y Justicia.
+VII. El Director General de Tránsito;
+
+VIII. El Director de Personal de la Secretaría de Seguridad Pública, quien fungirá como secretario técnico;
+
+IX. Un representante de la unidad correspondiente de la institución policial; y
+
+X. El Secretario Técnico del Consejo de Honor y Justicia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2252,3 +2266,21 @@ Dicho dictamen deberá señalar el personal como los recursos materiales y finan
 Artículo Sexto. Las obligaciones y compromisos adquiridos por el Secretariado Ejecutivo para la realización de las funciones de prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, seguirán vigentes y corresponderá a la Secretaría continuar su cumplimiento.
 
 Del personal y de los recursos materiales y financieros que actualmente integran el patrimonio del Secretariado Ejecutivo utilizados para la realización de las acciones relativas a la prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, serán destinados los indispensables a la Secretaría para cumplir con sus nuevas atribuciones en esas materias y los compromisos referidos en el párrafo anterior.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia el 1 de enero de 2013.
+
+Aplicación de los Reglamentos de Tránsito y Transporte
+
+Artículo Segundo. En tanto se realizan las adecuaciones a los reglamentos derivados de la Ley de Tránsito y Transporte del Estado de Guanajuato, se continuarán aplicando los vigentes, en aquello que no contravenga el presente Decreto.
+
+Continuidad de los convenios
+
+Artículo Tercero. Los convenios y acuerdos de colaboración administrativa relativos a tránsito y trasporte, así como de vigilancia de caminos y vías de jurisdicción estatal, continuarán vigentes y corresponderá su aplicación a las direcciones generales de Transporte, de la Secretaría de Gobierno, y de Tránsito, de la Secretaría de Seguridad Pública, respectivamente.
+
+Registro Estatal de Antecedentes de Tránsito
+
+Artículo Cuarto. Las secretarías de Gobierno, y de Seguridad Pública, deberán convenir los términos para que tanto el personal de la Dirección General de Transporte, y la Dirección General de Tránsito, integren y mantengan actualizado el Registro Estatal de Antecedentes de Tránsito.
