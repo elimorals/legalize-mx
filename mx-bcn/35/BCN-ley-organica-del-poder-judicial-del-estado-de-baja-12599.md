@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2012-11-30"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -321,9 +321,9 @@ Para ser designado Magistrado del Poder Judicial, se requiere cumplir con los re
 
 Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, o Secretario Auxiliar del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles.
 
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -351,7 +351,9 @@ VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 Para ser Actuario del Tribunal Superior de Justicia se requiere:
 
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Ser ciudadano Mexicano, en pleno ejercicio de sus derechos políticos y civiles.
 
 II.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
 
@@ -781,7 +783,9 @@ Para ser Juez, se requiere cumplir con los requisitos que señala la Constituci�
 
 Para ser Secretario de Acuerdos de Juzgado se requiere:
 
-I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II.- Tener título de abogado o Licenciado en Derecho y cédula profesional;
 
@@ -797,7 +801,9 @@ V.- Gozar de buena reputación y no haber sido condenado por un delito intencion
 
 Para ser Actuario de Juzgado, se requiere:
 
-I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos.
 
 II.- Tener título de abogado o Licenciado en Derecho y cédula profesional.
 
@@ -2519,9 +2525,15 @@ DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 340 PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2012, SE DEROGÓ ESTE ARTÍCULO; SIN EMBARGO, EN EL DECRETO No. 359, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE REFORMA LA FRACCIÓN I. POR LO ANTERIOR SE TRANSCRIBE COMO APARECE EN EL PERIÓDICO OFICIAL.</small>
+
 ###### ARTICULO 215.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
+…
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II a la V.- … (sic)
 
 ###### ARTICULO 216.
 
@@ -2547,7 +2559,9 @@ La lista a que se refiere el artículo anterior, será resultado de una selecci�
 
 Para ser Síndico se requiere:
 
-I.- Ser mexicano por nacimiento en pleno uso y goce de todos sus derechos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Ser mexicano en pleno uso y goce de todos sus derechos.
 
 II.- Tener título de licenciado en derecho debidamente registrado.
 
@@ -3079,7 +3093,7 @@ XIX.- Impartir y participar en los programas y cursos de capacitación Judicial 
 
 XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
 
@@ -3525,7 +3539,7 @@ El Tribunal deberá conservar en su archivo jurisdiccional, los expedientes de l
 
 Concluido el plazo a que se refiere el artículo anterior, el Tribunal remitirá los expedientes al Archivo Judicial del Poder Judicial, y conservará copias de los que requiera, utilizando para ello cualquier método de digitalización, reproducción y reducción.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 289.
 
@@ -3535,7 +3549,7 @@ El carácter de obligatoriedad se perderá cuando se pronuncie una sentencia en 
 
 En el supuesto del párrafo primero de este artículo, los criterios obligatorios que se adopten requerirán de la declaratoria respectiva, y se ordenará por parte del Tribunal, su publicación en el Periódico Oficial del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 290.
 
@@ -3908,3 +3922,7 @@ SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las p
 P.O. 30 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
