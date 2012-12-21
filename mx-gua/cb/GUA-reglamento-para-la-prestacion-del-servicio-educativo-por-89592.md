@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE DICIEMBRE DE 2012.</small>
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -181,13 +181,13 @@ V. Abstenerse de ofrecer al personal de la Secretaría, por sí o interpósita p
 
 ### Capítulo Único. Requisitos para obtener la Autorización o el Reconocimiento de Validez Oficial de Estudios
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Solicitud
 
 ###### Artículo 14.
 
-Los interesados en obtener autorización o reconocimiento de validez oficial de estudios deberán formular su solicitud en los formatos que establezca la DGPSEI, proporcionando la información requerida para cada tipo, nivel, plan y programa o modalidad de estudios.
+Los interesados en obtener autorización o reconocimiento de validez oficial de estudios deberán formular su solicitud en los formatos que establezca la DGPSEI, proporcionando la información requerida para cada tipo, nivel, plan y programa y modalidad de estudios.
 
 Los interesados que pretendan obtener una autorización o reconocimiento de validez oficial de estudios, deberán presentar una solicitud por cada plan y programa de estudios.
 
@@ -1105,8 +1105,6 @@ Cuando se declare por parte de la DGPSEI la clausura, el particular no podrá ha
 
 ### Capítulo II. Revocación de la Autorización o Retiro del Reconocimiento de Validez Oficial de Estudios
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Revocación o retiro a petición de parte
 
 ###### Artículo 83.
@@ -1121,7 +1119,9 @@ II. No tener matrícula inscrita; y
 
 III. Haber cumplido con las determinaciones que para tal efecto emita la DGPSEI.
 
-Transcurrido el plazo señalado en el párrafo segundo de este artículo, sin que el particular solicite la re apertura ola reactivación del servicio educativo, la DGPSEI requerirá al particular, a efecto de que manifieste lo que a su derecho convenga; apercibiéndolo que en caso de no hacerlo el titular de la Secretaría procederá a decretar la revocación de la autorización o el retiro del reconocimiento de validez oficial de estudios con efectos permanentes.
+> <small>(F. DE E., P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Transcurrido el plazo señalado en el párrafo segundo de este artículo, sin que el particular solicite la reapertura o la reactivación del servicio educativo, la DGPSEI requerirá al particular, a efecto de que manifieste lo que a su derecho convenga; apercibiéndolo que en caso de no hacerlo el titular de la Secretaría procederá a decretar la revocación de la autorización o el retiro del reconocimiento de validez oficial de estudios con efectos permanentes.
 
 Cuando se declare la revocación de la autorización o el retiro de reconocimiento de validez oficial de estudios, temporal o permanente según sea el caso, el particular no podrá hacer uso de papelería oficial, sellos, formatos y demás documentación oficial que hagan mención al número de Acuerdo Secretarial o clave de centro de trabajo.
 
@@ -1140,8 +1140,6 @@ Actividades posteriores a la revocación o al retiro
 ###### Artículo 85.
 
 Cuando se determine por la Secretaría la revocación de la autorización o el retiro del reconocimiento de validez oficial de estudios con efectos permanentes, quien haya sido el titular de cualquiera de estos, deberá presentar ante la DGPSEI dentro del término de treinta y cinco días hábiles siguientes a la notificación de la resolución, toda la documentación e información que le sea requerida para tal efecto.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 T R A N S I T O R I O S
 
@@ -1169,9 +1167,11 @@ Expedición y actualización normativa
 
 Artículo Sexto. La Secretaría deberá expedir las disposiciones normativas correspondientes en un plazo de ciento ochenta días posteriores a la entrada en vigencia del Reglamento.
 
+> <small>(F. DE E., P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 Simplificación administrativa
 
-Artículo Séptimo. Las instituciones educativas que deseen obtener los beneficios derivados de las acciones de simplificación que establezca la Secretaría, deberán cumplir con los requisitos previstos en la Ley, el Reglamento y demás disposiciones normativas, así como en los programas que al efecto se den a conocer la Secretaría.
+Artículo Séptimo. Las instituciones educativas que deseen obtener los beneficios derivados de las acciones de simplificación que establezca la Secretaria, deberán cumplir con los requisitos previstos en la Ley, el Reglamento y demás disposiciones normativas, así como en los programas que al efecto se den a conocer por la Secretaria.
 
 Dado en la residencia del Poder Ejecutivo del Estado de Guanajuato, a los 20 días del mes de agosto de 2012.
 
