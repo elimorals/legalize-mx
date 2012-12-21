@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -481,7 +481,9 @@ V. Cuando los sujetos realicen eventos en varios establecimientos acumularán la
 
 V (sic). Las demás que señale este ordenamiento.
 
-### CAPÍTULO I. DE LOS DERECHOS DE COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
+### CAPÍTULO VI. IMPUESTO ADICIONAL PARA EL FOMENTO TURÍSTICO, DESARROLLO INTEGRAL DE LA FAMILIA DESARROLLO SOCIAL Y PROMOCIÓN DE LA CULTURA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 41.
 
@@ -541,11 +543,33 @@ d) Permisos y documentos que se les soliciten en relación con el pago de este i
 
 Asimismo tendrán la facultad y obligación de retener y enterar el impuesto respectivo en la Tesorería Municipal al día siguiente de la terminación del contrato respectivo o en su caso, en forma mensual.
 
-### CAPÍTULO II. SERVICIO DE TRANSITO DERECHOS POR CONTROL VEHICULAR
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO I. DE LOS DERECHOS DE COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
+
+###### Artículo 46
+
+BIS.- Son sujetos de este impuesto, los contribuyentes de impuestos y derechos municipales.
+
+Este impuesto se causará a razón del 10% sobre el monto de los impuestos y derechos a cargo del contribuyente.
+
+Por los derechos que presta el Registro Civil, únicamente se cobrará el 5% de este impuesto.
+
+No son sujetos del pago de este impuesto, los contribuyentes de los siguientes gravámenes:
+
+El impuesto Predial y sus Rezagos por los predios urbanos que sean de la propiedad del contribuyente y estén destinados, total y exclusivamente, para el uso habitacional del mismo sujeto pasivo de dicho impuesto. Ninguna persona podrá gozar de este beneficio para más de un inmueble de su propiedad o posesión.
+
+El Derecho de Alumbrado Público.
+
+El Impuesto a Músicos y Cancioneros Profesionales.
+
+El pago de este impuesto se hará en el momento en que se realicen los pagos de impuestos y derechos.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO III. DEL REGISTRO CIVIL
+### CAPÍTULO II. SERVICIO DE TRANSITO DERECHOS POR CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
@@ -647,13 +671,13 @@ Los derechos de cooperación serán causados al terminarse las obras en cada tra
 
 Están exentos del pago de derechos de cooperación, el Municipio, el Estado y la Federación, por sus bienes de dominio público. Salvo que tales bienes sean utilizados por Entidades Paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-### CAPÍTULO IV. SERVICIOS EN MATERIA DE DESARROLLO URBANO
+### CAPÍTULO III. DEL REGISTRO CIVIL
 
 ###### Artículo 54.
 
-Todos los servicios que proporcione la Dirección de Transito Municipal, en el ámbito de competencia del Municipio, causarán los derechos con arreglo a lo siguiente:
+Todos los servicios que proporcione la Dirección de Transito Municipal, así como la Dirección General de Transporte y Vialidad en el ámbito de sus respectivas atribuciones, causarán los derechos con arreglo a lo siguiente:
 
-I. Vehículos que se matriculen y registren en las Oficinas del Estado.
+I. Vehículos que se matriculen y registren en las Oficinas del Estado:
 
 a) Automóviles y camiones 2.0 S.M.G.
 
@@ -667,9 +691,9 @@ e) Carros de mano 0.5 S.M.G.
 
 f) Remolque hasta de 10 toneladas 1.0 S.M.G.
 
-Mas de 10 y hasta 15 toneladas 1.0 S.M.G.
+Más de 10 y hasta 15 toneladas 1.0 S.M.G.
 
-Más de 15 y hasta 20 Toneladas 1 .5 S.M.G.
+Más de 15 y hasta 20 Toneladas 1.5 S.M.G.
 
 Más de 20 toneladas 2.5 S.M.G.
 
@@ -687,25 +711,31 @@ i) Lanchas para servicio Público:
 
 II. Derechos de control vehicular:
 
-a) Para automóviles y camionetas particulares, hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 S.M.G., cualquiera que sea el mayor;
+a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 S.M.G., cualquiera que sea el mayor;
 
-b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.0 S.M.G., cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto. Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7.0 S.M.G., cualquiera que sea el mayor;
+b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.0 S.M.G., cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7.0 S.M.G., cualquiera que sea el mayor;
 
 c) Para automóviles y camionetas en servicio público:
 
-1. Taxis: un 1% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 S.M.G., cualquiera que sea el mayor;
+1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 S.M.G., cualquiera que sea el mayor;
 
 2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 17 S.M.G., cualquiera que sea mayor.
 
 d) Para camiones de servicio público local:
 
-1. Hasta de ocho toneladas, un 6% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 8.0 S.M.G., cualquiera que sea el mayor:
+1. Hasta de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 8.0 S.M.G., cualquiera que sea el mayor;
 
 2. Más de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 11.5 S.M.G., cualquiera que sea el mayor.
 
-e) Para autobuses de servicio local 11.0 S.M.G.
+e) Por la autorización de modificación del parque 11 S.M.G.
 
-f) Para autobuses particulares, un 5º% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.3 S.M.G., cualquiera que sea mayor
+vehicular para la prestación del servicio público de
+
+transporte urbano y suburbano de pasajeros en ruta
+
+establecida, por unidad.
+
+f) Para autobuses particulares, un 50% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 5.3 S.M.G., cualquiera que sea mayor
 
 g) Para remolques 3.0 S.M.G.
 
@@ -733,7 +763,7 @@ l) Para carros de mano 1.0 S.M.G.
 
 m) Para demostración,
 
-servicios provisionales para
+permisos provisionales para
 
 circulación de vehículos 3.0 S.M.G.
 
@@ -747,69 +777,61 @@ o) Por refrendo de calcomanía identificadora de placas un 10% del Impuesto Sobr
 
 p) Por placas de demostración 6.3 S.M.G.
 
-Tratándose de derecho vehicular del inciso a) a la n) deberán pagar en un plazo de 30 días, en el caso del inciso o), el plazo del pago será los primeros tres meses de cada año
+Tratándose de derecho vehicular del inciso a) a la n) deberán pagar en un plazo de 30 días, en el caso del inciso o), el plazo del pago será los primeros tres meses de cada año.
 
-III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
+III. Por la expedición o renovación de licencias para conducir vehículos de motor causarán los derechos por cada año de vigencia de la misma, conforme a la siguiente tarifa:
 
-a) un año:
+a) Licencia de servicio público estatal 4.5 S.M.G.
 
-1.- Licencia de servicio público estatal 4.60 veces el S.M.G.
+b) Licencia de chofer 5.6 S.M.G.
 
-2.- Licencia de chofer 5.75 veces el S.M.G.
+c) Licencia de automovilista 5. S.M.G.
 
-3.- Licencia de automovilista 5.18 veces el S.M.G.
+d) Licencia de motociclista 2.3 S.M.G.
 
-4.- Licencia de motociclista 2.30 veces el S.M.G.
+IV. Por la expedición del permiso provisional para conducir vehículos de motor, los derechos de (sic) causarán por cada mes de vigencia del mismo, conforme a la siguiente tarifa:
 
-b) dos años:
+a) Menor de edad 1.1 S.M.G.
 
-1. Licencia de servicio público estatal 5.60 veces el S.M.G.
+b) Extranjero 1.2 S.M.G.
 
-2. Licencia de chofer 6.75 veces el S.M.G.
+V. Por reexpedición de la licencia de conducir en caso de extravío o destrucción causará derechos por 6 S.M.G. En todo caso, la licencia deberá ser reexpedida en los mismos términos que el documento extraviado o destruido.
 
-3. Licencia de automovilista 6.18 veces el S.M.G.
+VI. Por la expedición de constancias de licencias
 
-4.- Licencia de motociclista 2.95 veces el S.M.G.
+para conducir 6 S.M.G.
 
-c) tres años:
+VII. Por la expedición y reposición de la licencia para 9 S.M.G
 
-1.- Licencia de servicio público estatal 6.90 veces el S.M.G.
+conducir vehículos de motor mediante los
 
-2.- Licencia de chofer 8.62 veces el S.M.G.
+cuales se preste el servicio público de transporte
 
-3.- Licencia de automovilista 7.77 veces el S.M.G.
+de pasajeros mediante el régimen de concesión en
 
-4.- Licencia de motociclista 3.45 veces el S.M.G.
+su modalidad de servicio público de automóviles de
 
-d) cuatro años:
+alquiler tipo servicio ruletero.
 
-1.- Licencia de servicio público estatal 9.20 veces el S.M.G.
+VIII. Por la expedición y reposición de la licencia para 11 S.M.G.
 
-2.- Licencia de chofer 11.49 veces el S.M.G.
+conducir vehículos de motor mediante los cuales se
 
-3.- Licencia de automovilista 10.36 veces el S.M.G.
+preste el servicio público de transporte de pasajeros
 
-4.- Licencia de motociclista 4.6 veces el S.M.G.
+en autobuses en ruta establecida en el Municipio de
 
-e) cinco años:
+Benito Juárez, Quintana Roo, mediante el régimen de
 
-1.- Licencia de servicio público estatal 11.50 veces el S.M.G.
+concesión.
 
-2.- Licencia de chofer 14.36 veces el S.M.G.
+IX. Por el examen optometrista de agudeza visual para conducir un vehículo de motor, se causará el derecho equivalente a 1.2 S.M.G.
 
-3.- Licencia de automovilista 12.95 veces el S.M.G.
+X. Por el examen de grupo sanguíneo y la expedición del comprobante correspondiente, se causará el derecho equivalente a 1.2 S.M.G.
 
-4.- Licencia de motociclista 5.75 veces el S.M.G.
+XI. Por el arrastre de grúa, derivado de hechos de tránsito 8.3 S.M.G.
 
-Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
-
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento de la tarifa a que se refiere esta fracción.
-
-IV. Por arrastre de grúa en hechos de tránsito 8.3 S.M.G.
-
-V. Por día de estancia de vehículos en el corralón 0.4 S.M.G.
-
-VI. Por aplicación del examen médico y de competencia para conducir vehículos de motor 2.5 S.M.G.
+XII. Por cada día de estancia de vehículos en el corralón 0.4 S.M.G.
 
 REGISTRO DE VEHÍCULOS
 
@@ -833,11 +855,15 @@ Cuando por cualquier circunstancia un vehículo se retire de la circulación en 
 
 Por las placas que correspondan a dos ejercicios fiscales, se cubrirán dos anualidades en el momento de su entrega.
 
-INSPECCIÓN DE FRENOS, DIRECCIÓN Y SISTEMA DE LUCES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+INSPECCIÓN Y/O REVISTA VEHICULAR
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 58.
 
-Los vehículos de transporte público concesionado que circulen en el Municipio, deberán sujetarse a inspección semestral, según el caso, de frenos, dirección y sistema de luces, previo pago de los derechos que fija el artículo 54 fracciones I y II.
+Los vehículos de transporte público concesionado que circulen en el Municipio, deberán sujetarse a la inspección y/o revista vehicular al solicitar su registro ante la Dirección General de Transporte y Vialidad, así como al causar baja de dicho parque vehicular previo pago de los derechos a que se refiere el artículo 54, fracción II, inciso e) de esta Ley.
 
 ###### Artículo 59.
 
@@ -855,7 +881,7 @@ EXCEPCIONES
 
 Quedan exceptuados del pago de los derechos a que se refiere este capítulo, los vehículos propiedad de los Gobiernos Federal, del Estado de Quintana Roo, y del Municipio.
 
-### CAPÍTULO V. DE LAS CERTIFICACIONES
+### CAPÍTULO IV. SERVICIOS EN MATERIA DE DESARROLLO URBANO
 
 ###### Artículo 62.
 
@@ -913,25 +939,37 @@ de la República 8.5 S.M.G.
 
 f) Rectificación de actas de matrimonio 1.0 S.M.G.
 
-g) Matrimonio entre extranjeros en
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-la oficina del Registro Civil 20.0 S.M.G.
+g) Matrimonio entre extranjeros en la oficina del Registro 55.0 S.M.G.
 
-h) Matrimonios entre extranjeros
+Civil
 
-fuera de la oficina del Registro Civil 50.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-i) Matrimonio entre extranjeros y
+h) Matrimonios entre extranjeros fuera de la oficina del 70.0 S.M.G.
 
-mexicanos en las oficinas del
+Registro Civil
 
-Registro Civil 20.0 S.M.G.
+> <small>(REFORMADO [REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-j) Matrimonio entre extranjeros y
+i) Matrimonio entre extranjeros y mexicanos en las oficinas 20.0 S.M.G.
 
-mexicanos fuera de las oficinas del
+del Registro Civil
 
-Registro Civil 22.00 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+j) Matrimonio entre extranjeros y mexicanos fuera de las 65.0 SMG.
+
+oficinas del Registro Civil
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+k) Por la expedición de copias certificadas de actos del 2.5 S.M.G.
+
+estado civil de las personas a través de medios remotos o
+
+terminales electrónicas
 
 III. Divorcios
 
@@ -1031,7 +1069,7 @@ Los actos de registro civil se efectuarán previo pago de los derechos a que se 
 
 Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos; serán responsables solidarios de su pago.
 
-### CAPÍTULO VI. PANTEONES
+### CAPÍTULO V. DE LAS CERTIFICACIONES
 
 ###### Artículo 67.
 
@@ -1137,7 +1175,7 @@ a) Por la fusión de 2 lotes 4.60 S.M.G.
 
 b) Por cada lote que exceda de 24.03 S.M.G.
 
-### CAPÍTULO VII. ALINEAMIENTOS DE PREDIOS, CONSTANCIAS DEL USO DEL SUELO, NUMERO OFICIAL, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
+### CAPÍTULO VI. PANTEONES
 
 ###### Artículo 73.
 
@@ -1163,6 +1201,18 @@ IV. Por expedición de certificados
 
 expedidos por la Tesorería Municipal: 1.0 S.M.G.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+V. Por expedición de certificados y constancias por 2.0 S.M.G.
+
+parte de la Secretaría General del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VI. Por la expedición de constancias sobre embargos 5.0 S.M.G.
+
+administrativos expedidas por la Tesorería Municipal.
+
 ###### Artículo 75.
 
 No causarán los derechos a que se refiere el artículo anterior la expedición de certificaciones y de copias certificadas:
@@ -1173,9 +1223,11 @@ II. Las relativas al ramo penal;
 
 III. las que acrediten la clausura de algún establecimiento o cualquiera causa de exención de impuestos o de derechos Federales, Estatales o Municipales; y
 
-IV. Las de supervivencia de pensionistas de la Federación y los Estados y las que acuerde el Ayuntamiento o en su caso el Presidente Municipal conforme a sus facultades.
+IV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
+### CAPÍTULO VII. ALINEAMIENTOS DE PREDIOS, CONSTANCIAS DEL USO DEL SUELO, NUMERO OFICIAL, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 76.
 
@@ -1267,13 +1319,15 @@ Las personas que poseen fosas a perpetuidad en los panteones municipales, podrá
 
 El Municipio concederá las licencias para las exhumaciones y traslado de cadáveres o restos, una vez satisfechos los requisitos de salubridad y el pago de los derechos correspondientes.
 
-### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
+### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
 ###### Artículo 82.
 
-Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios antes de que se ejecuten las obras de construcción, ampliación y reconstrucción para los que se requiera licencia.
+Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios, antes de que se ejecuten obras de construcción, ampliación, reconstrucción o demolición, para los cuales se requiera la correspondiente licencia.
 
-Los derechos respectivos e cubrirán previamente de acuerdo con las cuotas que fijan la siguiente tarifa:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Los derechos respectivos se cubrirán previamente a la prestación del servicio, conforme a las siguientes tarifas:
 
 I. Alineación de predios:
 
@@ -1349,15 +1403,9 @@ a) Por la subdivisión de predios:
 
 por lote excedente 5.40 S.M.G.
 
-3. Cuando los bienes inmuebles sean
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-destinados para la vivienda de interés
-
-social y popular causará el 50% de los
-
-derechos a que se refieren los incisos
-
-a) y b) de esta fracción 8.10 S.M.G.
+3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso.
 
 b) Por croquis de localización 8.10 S.M.G.
 
@@ -1369,21 +1417,35 @@ d) Por certificados de valor catastral
 
 y vigencia (Cédulas catastrales) 4.10 S.M.G.
 
-e) Por certificación de linderos de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-predios urbanos, los derechos estarán
+e) Certificación de medidas y colindancias:
 
-en función de las características
+1) De 1 a 300 metros cuadrados 14.58 S.M.G.
 
-topográficas y de vegetación del bien
+2) De 301 a 600 metros cuadrados 21.87 S.M.G.
 
-raíz, la cuota será fijada por la
+3) De 601 a 1000 metros cuadrados 29.16 S.M.G.
 
-Dirección de Catastro Municipal
+4) De 1001 a 2000 metros cuadrados 36.45 S.M.G.
 
-f) Por expedición de constancias de no
+5) De 2001 a 5000 metros cuadrados 43.74 S.M.G.
 
-propiedad 3.24 S.M.G.
+6) De 5001 a 10000 metros cuadrados 58.32 S.M.G.
+
+7) De 10001 metros cuadrados a 2 hectáreas 72.90 S.M.G.
+
+8) De 2.01 hectáreas a 4 hectáreas 145.89 S.M.G.
+
+9) Más de 4 hectáreas o 4000 metros cuadrados, 0.17 S.M.G.
+
+según el perímetro, por metro lineal
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+f) Constancias de propiedad o constancias 3.24 S.M.G
+
+de no propiedad.
 
 g) La expedición de documentos extraviados 2.92 S.M.G.
 
@@ -1427,11 +1489,51 @@ los bienes inmuebles destinados para la
 
 vivienda de interés social y popular
 
-k) Verificación de medidas y colindancias de predios rústicos y suburbanos conforme a las condiciones, distancia y tiempo que dure el trabajo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+k) Por verificación de medidas y colindancias cuando 4.10 S.M.G.
+
+se trate de predios sujetos o derivados de
+
+programas de la Comisión para la Regularización de
+
+la Tenencia de la Tierra o cuando previamente exista
+
+una certificación de medidas y colindancias
+
+realizada por la Dirección de Catastro Municipal.
 
 l) Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por la Dirección de Catastro Municipal, atendiendo al valor comercial que representa la prestación del servido.
 
 m) Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etcétera, los interesados deberán cubrirlos sin que excederán del costo comercial de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+n) Por alta de predio en el padrón catastral, cambio de 4.10 5.M.G
+
+propietario, cambio de condición, corrección de datos
+
+en cédula catastral, constancia de nomenclatura,
+
+constancia de desglose de áreas, constancia de
+
+construcción, certificación de cédula catastral o
+
+información catastral por escrito
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+o) Por la búsqueda y expedición de copias simples 1 S.M.G.
+
+de cédulas catastrales o de cualquier otro documento
+
+catastral, por cada hoja
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+p) Por autorización para escrituración de lote
+
+(carta de liberación de lote) 6.75 S.M.G.
 
 ###### Artículo 83.
 
@@ -1447,7 +1549,7 @@ II. Concluidos los tres meses de este último refrendo, no podrá concederse otr
 
 III. la expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 S.M.G.
 
-### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
+### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
 
 ###### Artículo 85.
 
@@ -1773,7 +1875,7 @@ Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hub
 
 Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del Código Fiscal Municipal.
 
-### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
+### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
 
 ###### Artículo 90.
 
@@ -1801,7 +1903,7 @@ excepto cerveza de: 1.2 a 24 S.M.G.
 
 El derecho por horas extraordinarias a que se refiere el artículo anterior, será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
 
-### CAPÍTULO XII. DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
+### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
 
 ###### Artículo 92.
 
@@ -1839,7 +1941,7 @@ III. Ganado lanar o cabrío hasta 0.2 S.M.G.
 
 IV. Aves hasta 0.03 S.M.G.
 
-### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
+### CAPÍTULO XII. DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
 
 ###### Artículo 94.
 
@@ -1863,7 +1965,7 @@ En tanto se adquieren los vehículos para atender las necesidades de la distribu
 
 Por la concesión del derecho de traslado o acarreo, el concesionario cubrirá anualmente por este concepto el importe que se le fije, de acuerdo al convenio celebrado.
 
-### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
 
 ###### Artículo 95.
 
@@ -1891,7 +1993,9 @@ III. Ganado lanar o cabrío 0.2 S.M.G.
 
 IV. Aves 0.3 S.M.G.
 
-### CAPÍTULO XV. ANUNCIOS
+### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 98.
 
@@ -1903,11 +2007,11 @@ El derecho que se pagará por el Registro de Fierros, será de: 3.0 S.M.G.
 
 Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagara 1.5 S.M.G.
 
-### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
+### CAPÍTULO XV. ANUNCIOS
 
 ###### Artículo 100.
 
-La expedición de certificados de vecindad, de residencia y de morada conyugal, causarán derechos conforme a la siguiente:
+La expedición de constancias de vecindad, de residencia y de morada conyugal, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1917,7 +2021,7 @@ II. De residencia 2.0 S.M.G.
 
 III. De morada conyugal 2,0 S.M.G.
 
-### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
+### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
 
 ###### Artículo 101.
 
@@ -2015,7 +2119,7 @@ II. Las que realicen las entidades gubernamentales en sus funciones de derecho p
 
 III. Los manifiestos públicos o sindicales, los anuncios de venta o de alquiler de inmuebles, las solicitudes relativas a trabajos, o avisos en las puertas de los templos de culto.
 
-### CAPÍTULO XVIII. SERVICIO Y MANTENIMIENTO DE ALUMBRADO PÚBLICO
+### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
 
 ###### Artículo 106.
 
@@ -2037,11 +2141,9 @@ b) Autobuses suburbanos por
 
 unidad de 1.0 S.M.G. a 36.0 S.M.G.
 
-II. Por sustitución de la concesión
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-de permiso de ruta por cambio de
-
-vehículos de 1.0 S.M.G. a 19.0 S.M.G.
+II. Por el registro de cambio de vehículo en la concesión, para la prestación del servidor público de transporte urbano y suburbano de pasajeros en ruta establecida, por cada unidad 12 S.M.G.
 
 III. Permiso temporal a vehículos no
 
@@ -2063,7 +2165,7 @@ Este derecho debe ser cubierto a la Tesorería Municipal contra el otorgamiento 
 
 Las concesiones de permisos de ruta, deberán ser supervisadas por las autoridades municipales y los propietarios, poseedores o chóferes de los vehículos a quienes se otorgó el permiso, deberán mostrarlo a las autoridades competentes cuando éstas lo requieran.
 
-### CAPÍTULO XIX
+### CAPÍTULO XVIII. SERVICIO Y MANTENIMIENTO DE ALUMBRADO PÚBLICO
 
 ###### Artículo 110.
 
@@ -2081,7 +2183,7 @@ Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de 
 
 El pago de las obligaciones establecidas, deberán de ser realizadas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación, mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo, o en su caso, las aprobadas por la autoridad fiscal municipal.
 
-### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
+### CAPÍTULO XIX
 
 ###### Artículo 113.
 
@@ -2115,7 +2217,9 @@ Se faculta al Ayuntamiento a acordar con la Comisión Federal de Electricidad la
 
 Están exentos del pago de este derecho los bienes inmuebles de dominio público de la Federación, del Estado y del Municipio; siempre que dichos inmuebles sean utilizados para sus fines públicos.
 
-### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
+### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 115.
 
@@ -2129,49 +2233,57 @@ Es objeto de este derecho el servido especial prestado por convenio o contrato q
 
 Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servido policiaco.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 118.
 
-Este derecho se causará y pagará en la Tesorería Municipal, a más tardar el día hábil siguiente a la firma del convenio, de acuerdo a la siguiente:
+Este derecho se causará mensualmente, y será enterado en la Tesorería Municipal, a más tardar el día hábil siguiente a la firma del convenio respectivo, conforme a las siguientes tarifas:
 
-TARIFA
+l. Por la prestación del Servicio de Seguridad, de un elemento de policía por 8 horas diarias de labores 185 S.M.G.
 
-I. Por el servicio de 24 horas de labores por 24 horas de descanso de un policía raso, mensualmente pagarán 200 S.M.G.
+II. Por la prestación del Servicio de Seguridad de un elemento de policía por 12 horas diarias de labores 277 S.M.G.
 
-II. Por el servicio de 24 horas de labores por 24 horas de descanso que preste un policía segundo, mensualmente pagarán 250 S.M.G.
+III. Por la prestación del Servicio de Seguridad de un elemento de policía por 24 horas diarias de labores 554 S.M.G.
 
 ###### Artículo 119.
 
 Las personas físicas o morales que requieran del servido especial, lo solicitarán por escrito ante las Oficinas de la Tesorería Municipal indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
+### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
 
 ###### Artículo 120.
 
-El Municipio percibirá los derechos por la prestación de los siguientes servidos:
+El Municipio percibirá los derechos por la prestación de los siguientes servicios:
 
-I. De recolección de basura o residuos sólidos;
+l. De recolección, transporte, tratamiento y destino de basura o residuos sólidos;
 
-II. De transporte de basura o residuos sólidos;
+Están obligados a realizar el pago del presente derecho, las personas físicas o morales que reciben los beneficios en los locales en los que realicen actividades comerciales, industriales o de servicios.
 
-III. De tratamiento y destino o disposición final de residuos sólidos;
+La tarifa que deberán pagar por este servicio los sujetos obligados, es de $1.50 (un peso 50/100 m.n.) por kilogramo de residuos sólidos generados.
 
-IV. Por el servicio de mantenimiento de jardinería.
+El organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún", junto con la Tesorería Municipal, implementarán a través de Reglas de Carácter General, el sistema para que el contribuyente autodetermine la cantidad de residuos sólidos que genera mensualmente.
 
-Los Municipios podrán delegar estas facultades en los concesionarios de estos servidos, en todos los rubros citados o por algunos de estos que consideren necesario.
+Los derechos establecidos en la fracción I de este artículo, deberán ser cubiertos ante la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes.
 
-Están obligados a realizar el pago del presente derecho, las personas físicas o morales que reciben los beneficios de recolección, transporte, tratamiento y destino final de residuos sólidos, en sus locales comerciales, industriales o de servicios o en sus predios de uso habitacional.
+Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en los meses de enero y febrero de cada ejercicio fiscal, se le concederá al contribuyente un descuento del 10% del total del Importe de la contribución que declare a su cargo.
 
-Son sujetos por deuda ajena y responsabilidad solidaria del pago de derechos a que se refiere este capítulo, las personas físicas o morales que sean propietarias o arrendadoras de los locales comerciales o de uso habitacional que reciban este servicio.
+II. Por la presentación de desechos sólidos directamente en el relleno sanitario para su tratamiento y disposición final.
 
-El Ayuntamiento podrá concertar con las organizaciones, empresarios y ciudadanos causahabientes las condiciones de pago de estos derechos, fijándoles las condiciones de pago en atención a su capacidad económica.
+Están obligados a realizar el pago de este derecho, las personas físicas o morales que presenten residuos sólidos directamente en las instalaciones del relleno sanitario, para su tratamiento y disposición final. La tarifa que deberán pagar por este servicio los sujetos obligados, es de $1.00 (un peso 00/100 M.N.) por kilogramo de residuos sólidos presentado.
 
-El Ayuntamiento, propondrá a la Legislatura del Estado, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación de los servicios a que se refiere este artículo.
+Para determinar el monto deberán pesarse los residuos sólidos presentados, en la báscula instalada en el relleno sanitario para tal efecto, y que será operada por el organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”. Los derechos establecidos en la fracción II de este artículo, deberán ser cubiertos en las instalaciones del relleno sanitario que se encuentre en operación.
 
-Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes.
+III. De registro de planes de manejo de residuos sólidos urbanos.
 
-Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en la Tesorería Municipal correspondiente dentro del mes de enero, y febrero de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
+Están obligados a pagar este derecho de forma anual, todos los establecimientos comerciales y de servicios que generen residuos sólidos urbanos, y que estén obligados a presentar Plan de Manejo de Residuos Sólidos Urbanos de conformidad con el artículo 37 segundo párrafo de la Ley para la Prevención y la Gestión Ambiental de los Residuos del Estado de Quintana Roo.
 
-### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
+Los derechos que deberán pagar por este servicio los sujetos obligados serán los equivalentes a 20 días de S.M.G.
+
+Los derechos a que se refiere este artículo, serán entregados íntegramente y conforme se recauden mensualmente por la Tesorería Municipal, al organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”.
+
+El ayuntamiento, propondrá a la Legislatura del Estado, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación del servicio establecido en este numeral.
+
+### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
 
 ###### Artículo 121.
 
@@ -2193,7 +2305,7 @@ II. Para los establecimientos descritos en la fracción II del artículo anterio
 
 Los pagas se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
-### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PUBLICA
+### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
 
 ###### Artículo 124.
 
@@ -2201,9 +2313,11 @@ Para el uso de la vía pública para el ejercicio de una actividad lucrativa de 
 
 TARIFA
 
-I. Puestos ubicados en la vía pública,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-mensual 3 a 13 S.M.G.
+l. Puestos ubicados en la vía 3 a 15.5 S.M.G.
+
+pública, mensual
 
 II. Andamios, maquinaria y materiales
 
@@ -2567,7 +2681,7 @@ Los trailers que tengan más de una caja, se les cobrará el 50% de la tarifa an
 
 Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrá solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
 
-### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PUBLICA
 
 ###### Artículo 125.
 
@@ -2615,7 +2729,7 @@ Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ord
 
 Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el Ayuntamiento considere.
 
-### CAPÍTULO XXVI. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
 
 ###### Artículo 129.
 
@@ -2623,7 +2737,9 @@ Por la verificación, control y fiscalización que las leyes en la materia encom
 
 La Tesorería Municipal al hacer el pago de las estimaciones de obra que le corresponda, retendrá el derecho a que se refiere el párrafo anterior y registrara el 50 por ciento de todo lo recaudado por este concepto a favor de la partida presupuestal de la respectiva Contraloría Municipal para su aplicación a gastos inherentes a sus operaciones de verificación y control de la Obra Pública Municipal. El restante 50 por ciento de todo lo recaudado por este concepto será transferido por la Tesorería Municipal al Órgano Superior de Fiscalización del Estado, el cual lo integrara al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
+### CAPÍTULO XXVI. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 130.
 
@@ -2633,13 +2749,197 @@ TARIFA
 
 I.- Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 S.M.G. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-II.- Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir el equivalente a 2.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-III.- Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 S.M.G. por metro cuadrado, del total de la superficie respecto de la cual, solícita dicho permiso.
+II.- Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir previamente, el equivalente a 2.5 S.M.G. Quedarán exceptuados de dicho pago, los particulares y Dependencias de los gobiernos federal, local o municipal, únicamente cuando se trate de árboles en vía pública que, por su crecimiento, causen alguna afectación. Las Dependencias antes citadas, así como cualquier institución pública estará exenta del (sic) esta contribución, cuando el o los árboles al interior de un predio del cual acrediten la propiedad o posesión, causen afectación por su crecimiento.
 
-IV.-Por la expedición del permiso de Operación, el solicitante deberá cubrir el equivalente a 15 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-V.- Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 10 S.M.G.
+III.- Por el estudio y expedición del dictamen de afectación de bien inmueble por árboles en predios particulares vecinos, se deberá cubrir previamente el equivalente a 1.5 SMG.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV.- Por la expedición del permiso de operación, el solicitante deberá cubrir los salarios mínimos vigentes, de acuerdo al siguiente tabulador:
+
+1. Agencias y concesionarias de venta de 85 S.M.G.
+
+automóviles, camiones y maquinaria pesada
+
+2. Agencias funerarias, crematorios e incineradores 42 S.M.G.
+
+3. Bodegas 136 S.M.G.
+
+4. Cabarets, cantinas, salones de baile y 60 S.M.G.
+
+establecimientos similares
+
+5. Carnicerías, pollos asados y rostizados, carpinterías 74 S.M.G.
+
+6. Calderas y cámaras de basura, Compra-venta de 74 S.M.G.
+
+refacciones y partes usadas automotriz (deshuesadero),
+
+centro de verificación de emisiones
+
+7. Congeladoras y empacadoras 46 S.M.G.
+
+8. Consultorios, clínicas médicas, laboratorios de 13 a 74 S.M.G.
+
+análisis clínicos y veterinarias
+
+9. Centro llantero 87 S.M.G.
+
+10. Centro educativo 31 S.M.G.
+
+11. Circos 35 S.M.G.
+
+12. Criadero 20 S.M.G.
+
+13. Cines, discotecas centros nocturnos de diversión 210 S.M.G.
+
+y apuestas y similares
+
+14. Distribuidora de lácteos, carnes de res y aves, 27 S.M.G.
+
+carnes frías y similares, así como distribución de
+
+gases industriales y medicinales, extintores
+
+15. Encierro de autobuses y vehículos 51 S.M.G.
+
+16. Estaciones de servicio de gasolina, gas L.P. y 250 S.M.G.
+
+autoconsumo
+
+17. Establecimientos recreativos y de servicios 200 S.M.G.
+
+turísticos, áreas de servicios en centros turísticos
+
+18. Fábricas de bloques, mosaicos, vigas, postes, cal 90 S.M.G.
+
+y similares
+
+19. Fábricas de hielo 20 S.M.G.
+
+20. Ferreterías 11 S.M.G.
+
+21. Fruterías y verdulerías 17 S.M.G.
+
+22. Fumigadoras 20 S.M.G.
+
+23. Granjas porcícolas y avícolas 40 S.M.G.
+
+24. Hospitales 250 S.M.G.
+
+25. Hoteles
+
+a) De primera (4 o 5 estrellas y Gran 400 S.M.G.
+
+Turismo)
+
+b) De segunda (2 o 3 estrellas) 150 S.M.G.
+
+c) De tercera, hostales, casas de huéspedes 50 S.M.G.
+
+y moteles
+
+26. Imprentas 18 S.M.G
+
+27. Lavaderos de autos y camiones 15 S.M.G.
+
+28. Loncherías, taquería y fondas 8 S.M.G.
+
+29. Lavanderías y tintorerías 15 S.M.G.
+
+30. Madererías 20 S.M.G.
+
+31. Panaderías, tortillerías y molinos 9 S.M.G.
+
+32. Plantas purificadoras de agua 30 S.M.G.
+
+33. Plantas embotelladoras de bebidas purificadas y 250 S.M.G.
+
+refrescos
+
+34. Plantas concreteras, de asfalto y procesadoras de 250 S.M.G.
+
+material pétreo
+
+35. Paleterías 8 S.M.G.
+
+36. Pescaderías 11 S.M.G.
+
+37. Procesadoras de alimentos, producción y 19 S.M.G.
+
+transformación de productos
+
+38. Pinturas y sus derivados 18 S.M.G.
+
+39. Recicladoras de metales, plásticos y cartón 15 S.M.G.
+
+40. Restaurantes y cocktelerías 24 S.M.G.
+
+41. Restaurantes bar 50 S.M.G.
+
+42. Recolectores de grasa y/o aceite vegetal o 33 S.M.G.
+
+animal, de residuos sólidos de trampas de grasa,
+
+de residuos peligrosos
+
+43. Renta de baños portátiles 177 S.M.G.
+
+44. Salones de espectáculos, de eventos, jardines 35 S.M.G.
+
+de fiestas
+
+45. Supermercados, centros comerciales y similares 260 S.M.G.
+
+46. Tiendas de mascotas, minisúper 15 S.M.G.
+
+47. Talleres 25 S.M.G.
+
+48. Taller de herrería y soldadura 28 S.M.G.
+
+49. Taller de refrigeración y aire acondicionado 28 S.M.G.
+
+50. Talleres electromecánicos 25 S.M.G.
+
+51. Talleres de hojalatería y pintura 28 S.M.G.
+
+52. Talleres mecánicos, cambio de aceite automotriz 28 S. M.G.
+
+53. Venta de materiales para la construcción 20 S.M.G.
+
+54. Venta de productos de limpieza y químicos 20 S.M.G.
+
+55. Vulcanizadoras 11 S.M.G.
+
+56. Viveros 9 S.M.G.
+
+57. Sonido fijo, por día 8 S.M.G.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+V. Por los servicios prestados en el Parque Urbano Kabah, el solicitante deberá cubrir los salarlos mínimos vigentes de acuerdo al siguiente tabulador:
+
+1. Proyección de películas y videos ambientales 0.5 S.M.G. por proyección
+
+2. Renta de palapa o instalaciones para eventos 0.5 S.M.G.
+
+de educación ambiental por persona asistente al evento
+
+3. Recorridos guiados por el parque, con plática 4.0 S.M.G.
+
+sobre la flora y la fauna (incluye taller de
+
+reciclado o papiroflexia). Costo por actividad
+
+en grupo de 40 personas
+
+4. Venta de plantas de ornato producidas
+
+mediante acodos o estacas 1.0 S.M.G.
 
 ###### Artículo 131.
 
@@ -2671,11 +2971,11 @@ Los derechos previstos en el presente artículo deberán ser pagados previamente
 
 Los mismos derechos se causarán, por la expedición de la constancia de actualización de datos de los particulares registrados, cuando los datos del registro se modifiquen.
 
-### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
 
 ###### Artículo 132.
 
-Causará derechos los servicios prestados por la autoridad municipal de Protección Civil, que se pagarán con las siguientes:
+Causarán derechos los servicios prestados por la autoridad municipal de Protección Civil, conforme a la siguiente:
 
 TARIFAS
 
@@ -2683,31 +2983,437 @@ I. Por el servicio de asesoría
 
 técnica 2.0 S.M.G.
 
-II. Por el servicio de
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-registro 4.0 S.M.G.
+II. Por registros efectuados ante la autoridad 4 S.M.G
 
-III. Por la certificación 5.0 S.M.G.
+municipal de Protección Civil.
 
-IV. Por la autorización de
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-giros cuya actividad sea
+III. Certificación como prestador de servidos 45 S.M.G.
 
-considerada de riesgo de conformidad
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-a lo dispuesto por el artículo 86,
+IV. Permisos
 
-fracción VI de esta Ley 10.0 S.M.G.
+a) Para la venta de artesanía pirotécnica no 8 S.M.G
 
-V. Por revalidación anual
+explosiva en temporada, debajo de 10kgs
 
-de registro 10.0 S.M.G.
+b) Para anuncios publicitaros (sic), torres, y
 
-VI. Otros servicios no precisados
+antenas de comunicación
 
-en este artículo 7.0 S.M.G.
+1. Anuncios panorámicos de 10 m2 a nivel 30 S.M.G.
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+de piso y anuncios panorámicos de menos
+
+de 10 m2 a una altura menor de 6 metros.
+
+2. Anuncios panorámicos de 10 m2 en 50 S.M.G
+
+azotea y anuncios panorámicos de menos
+
+de 10m2 a una altura mayor de 6 metros.
+
+3. Anuncio panorámico de tipo unipolar de 100 S.M.G.
+
+más de 10 m2 en áreas no urbanas, torres
+
+o antenas de comunicación de cualquier
+
+tipo arriba de 10 metros desde el nivel
+
+de piso o azotea
+
+4. Torres y antenas de comunicación de 150 S.M.G.
+
+cualquier tipo arriba de 10 metros desde
+
+nivel de piso o azotea
+
+5. Anuncios panorámicos de tipo unipolar 200 S.M.G.
+
+en áreas urbanas
+
+c) Para evento masivo:
+
+1. Por millar de asistencia 90 S.M.G.
+
+2. Por instalación de equipos y estructuras
+
+especiales 200 S.M.G.
+
+d) Para el almacenamiento provisional de
+
+pirotecnia artesanal, en temporada 50 S.M .G.
+
+e) Para locales que almacenen y/o distribuyan gas 30 S.M.G.
+
+LP en recipientes portátiles (tanques de máximo
+
+10 kilogramos)
+
+f) Para la instalación de circos, exposiciones y
+
+juegos
+
+1. Por circos y exposiciones 100 S.M.G.
+
+2. Por cada juego mecánico (menos de 20 1 S.M.G.
+
+juegos mecánicos
+
+3. Por cada juego mecánico (más de 21 3 S.M.G.
+
+juegos mecánicos)
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+V. Dictámenes aprobatorios:
+
+a) Para marinas
+
+1. Para instalaciones con afluencia menor 15 S.M.G.
+
+a 49 personas
+
+2. Para afluencia de 50 a 100 personas 30 S.M.G.
+
+3. Para instalaciones con afluencia 50 S.M.G.
+
+masiva, de 101 a 500 personas
+
+4. Para instalaciones con afluencia masiva 200 S.M.G.
+
+de 501 a 999 personas
+
+5. Para instalaciones con afluencia masiva 425 S.M.G.
+
+de mas de 1000 personas
+
+b) Para escuelas, guarderías y centros educativos
+
+1. Para instalaciones con afluencia menor 15 S.M.G.
+
+a 49 personas
+
+2. Para afluencia de 50 a 100 personas 30 S.M.G.
+
+3. Para instalaciones con afluencia 50 S.M.G.
+
+masiva, de 101 a 500 personas
+
+4. Para instalaciones con afluencia masiva 200 S.M.G.
+
+de 501 a 999 personas.
+
+5. Para instalaciones con afluencia masiva 425 S.M.G.
+
+de más de 1000 personas
+
+6. Por instalaciones comerciales de gas LP 50 S.M.G.
+
+estacionario (en su caso) de 100 a 4000 litros
+
+c) Para hoteles
+
+1. Para instalaciones con afluencia menor
+
+a 49 personas 15 S.M.G. j
+
+2. Para afluencia de 50 a 100 personas 30 S.M.G.
+
+3. Para instalaciones con afluencia 50 S.M.G.
+
+masiva, de 101 a 500 personas
+
+4. Para instalaciones con afluencia masiva 200 S.M.G.
+
+de 501 a 999 personas
+
+5. Para instalaciones con afluencia masiva 425 S.M.G.
+
+de más de 1000 personas
+
+6. Por instalaciones industriales que 100 S.M.G.
+
+almacenen y/o distribuyen gas LP y/o
+
+combustibles en recipientes fijos de
+
+hasta 5000 litros
+
+7. Por instalaciones industriales que 250 S.M.G.
+
+almacenen y/o distribuyen gas LP y/o
+
+combustibles en recipientes fijos de
+
+hasta 10,000 litros
+
+8. Por instalaciones industriales que 500 S.M.G.
+
+almacenen y/o distribuyen gas LP y/o
+
+combustibles en recipientes fijos de
+
+más de 10,000 litros
+
+d) Para gaseras
+
+l. Para instalaciones con afluencia menor 15 S.M.G.
+
+a 49 personas
+
+2. Para afluencia de 50 a 100 personas 30 S.M.G.
+
+3. Para instalaciones con afluencia 50 S.M.G.
+
+masiva, de 101 a 500 personas
+
+4. Para instalaciones con afluencia masiva 200 S.M.G.
+
+de 501 a 999 personas
+
+5. Para instalaciones con afluencia masiva 425 S.M.G.
+
+de más de 1000 personas
+
+6. Por vehículos que transportan gas LP 30 S.M.G.
+
+en recipientes portátiles
+
+7. Por vehículos que transportan gas LP 50 S.M.G.
+
+en recipientes fijos
+
+8. Por instalaciones industriales que 100 S.M.G.
+
+almacenan y/o distribuyen gas LP y/o
+
+combustibles con recipiente fijo hasta
+
+por 5000 litros
+
+9. Por instalaciones industriales que 250 S.M.G.
+
+almacenan y/o distribuyen gas LP y/o
+
+combustibles con recipiente fijo hasta
+
+por 10,000 litros
+
+10. Por instalaciones industriales que 500 S.M.G.
+
+almacenan y/o distribuyen gas LP y/o
+
+combustibles con recipiente fijo de más
+
+de 10.000 litros
+
+e) Para gasolineras 400 S.M.G.
+
+f) Para locales comerciales y renovaciones de bajo riesgo
+
+1. Para locales con afluencia menor a 49 10 S.M.G.
+
+personas, menores a 60 m2
+
+establecidos en plazas comerciales,
+
+supermercados, zona hotelera o giros
+
+de carga y descarga aérea, camiones
+
+foráneos de carga, casas de cambio,
+
+casas de empeño, cajeros automáticos
+
+2. Para locales con afluencia menor a 49 15 S.M.G.
+
+personas, de 61 a 150 m2, establecidos
+
+en plazas comerciales, supermercados,
+
+zona hotelera o giros de carga y
+
+descarga aérea, camiones foráneos de
+
+carga, casas de cambio, casas de
+
+empeño, cajeros automáticos
+
+3. Para locales con afluencia menor a 49 3 S.M.G.
+
+personas menores a 60 m2, establecidos
+
+en el resto del municipio, para todos los
+
+giros restantes
+
+4. Para locales con afluencia menor a 49 5 S.M.G.
+
+personas, de 61 a 150 m2, establecidos
+
+en el resto del municipio, para todos los
+
+giros restantes
+
+Para locales comerciales y renovaciones de mediano y alto riesgo
+
+1. Para instalaciones con afluencia menor 15 S.M.G.
+
+a 49 personas
+
+2. Para instalaciones con afluencia de 50 30 S.M.G.
+
+a 100 personas
+
+3. Para Instalaciones con afluencia masiva 50 S.M.G.
+
+de 101 a 500 personas
+
+4. Para Instalaciones con afluencia masiva 200 S.M.G.
+
+de 501 a 999 personas
+
+5. Para Instalaciones con afluencia masiva 425 S.M.G.
+
+de más de 1000 personas
+
+6. Por operaciones de alto riesgo 200 S.M.G.
+
+7. Por locales con productos químicos de 100 S.M.G.
+
+autoconsumo hasta por 5000 litros
+
+8. Por locales con productos químicos de 250 S.M.G.
+
+autoconsumo hasta por 10,000 litros
+
+9. Por locales con productos químicos de 500 S.M.G.
+
+autoconsumo más de 10,000 litros
+
+10. Locales que utilizan, almacenan y/o 60 S.M.G.
+
+distribuyen productos químicos al
+
+menudeo
+
+11. Locales que utilizan, almacenan y/o 350 S.M.G.
+
+distribuyen productos químicos al
+
+mayoreo
+
+h) Para transporte de combustible 50 S.M.G.
+
+i) Para la quema de pirotecnia debajo de 10 20 S.M.G.
+
+kilogramos
+
+j) Para planta de distribución 750 S.M.G
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VI. Firmas de conformidad
+
+a) De seguridad para quema de pirotecnia,
+
+conforme al peso que se establece a
+
+continuación
+
+1. Arriba de 10 kgs y hasta 20 kgs 50 S.M.G.
+
+2. Más de 20 kgs y hasta 30 kgs 100 S.M.G.
+
+3. Más de 30 kgs y hasta 50 kgs 150 S.M.G.
+
+4. Más de 50 kgs y hasta 100 kgs 200 S.M.G.
+
+b) Para uso de explosivos, conforme al peso que se
+
+establece a continuación
+
+1. De 1 a 1000 kilogramos 10 a 50 S.M.G.
+
+2. 1001 a 9999 kilogramos 80 S.M.G.
+
+3. 10,000 a 49.000 100 S.M.G.
+
+4. Más de 49.000 y hasta 99.000 150 S.M.G.
+
+kilogramos
+
+5. Más de 99,000 y hasta 300,000 200 S.M.G.
+
+kilogramos
+
+6. Por cada kilo excedente arriba de 0.065 S.M.G. por
+
+300,000 kilogramos kilo excedente
+
+c) En planos, para autorización de proyectos de 30 S.M.G.
+
+gasolineras, tiendas de autoservicio,
+
+discotecas, centros comerciales, supermercados
+
+d) Visto bueno de gas en cilindros para puestos
+
+ambulantes y semifijos:
+
+1. Cilindro de 10 kilogramos 5 S.M.G.
+
+2. Cilindro de 20 kilogramos 8 S.M.G.
+
+3. Cilindro de 30 kilogramos 10 S.M.G.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VII. Por la revisión y hasta la autorización mediante 8 S.M.G
+
+resolución, de programas internos de protección
+
+civil para establecimientos con afluencia masiva
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VIII. Prórroga para el cumplimiento de observaciones 1 S.M.G.
+
+derivadas de una Inspección de protección civil
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IX. Evaluación del programa de seguridad acuática 8 S.M.G
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+X. No causarán derechos los siguientes trámites
+
+y/o servicios
+
+a) Autorización de auto-refugio
+
+b) Simulacros
+
+c) Evaluación de guardavidas
+
+d) Capacitación en materia de protección civil
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XI. Otros servicios no definidos en las anteriores 7 S.M.G.
+
+fracciones
+
+### CAPITULO XXVIII. DE LOS SERVICIOS EN MATERIA DE SALUBRIDAD
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 133.
 
@@ -2729,17 +3435,55 @@ IV.- Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
 
 Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-### CAPÍTULO III. MERCADOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO XXIX. DE LOS SERVICIOS DEL REGISTRO ÚNICO DE PERSONAS ACREDITADAS
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 133
+
+BIS.- Por los servicios que presta el Centro de Atención Canina, se pagarán los derechos por cada animal, conforme a la siguiente:
+
+TARIFA
+
+l.- Por el servicio de esterilización de perros o gatos:
+
+a) Por macho 5.25 S.M.G.
+
+b) Por hembra 6 S.M.G.
+
+II.- Por observación antirrábica 0.9 S.M.G.
+
+III.- Por desparasitación 1.2 S.M.G.
+
+IV.- Por aplicación de vacuna antirrábica 1.2 S.M.G.
+
+V.- Por baño garrapaticida 0.9 S.M.G.
+
+VI.- Por adopción 5 S.M.G.
+
+VII.- Por destino final 2.5 S.M.G.
+
+VIII.- Por cremación:
+
+a) Cremación Individual 14 S.M.G.
+
+b) Cremación común $15.00 por kilogramo de peso del animal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+
+###### Artículo 133
+
+TER.- Por el servicio de Inscripción en el Registro Único de Personas Acreditadas, se realizará por única ocasión el pago de la tarifa de 4 S.M.G.
+
+### CAPÍTULO II. BIENES MOSTRENCOS
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
-
-Artículo. 145.- El Ayuntamiento podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servido de limpia y transporte.
+### CAPÍTULO III. MERCADOS
 
 ###### Artículo 134.
 
@@ -2763,7 +3507,7 @@ En todos los casos en Que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 139.
 
@@ -2773,7 +3517,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 141.
 
@@ -2893,7 +3637,9 @@ vía pública, pagaran diario 0.1 a 3.0 S.M.G.
 
 g) Otros no especificados, diario 0.8 a 5.0 S.M.G.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+
+Artículo. 145.- El Ayuntamiento podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servido de limpia y transporte.
 
 ###### Artículo 142.
 
@@ -2903,11 +3649,13 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 144.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
+
+### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO
 
@@ -2917,11 +3665,15 @@ Los productos no especificados en este capítulo, así como el costo administrat
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 147.
 
 Son aprovechamientos los ingresos que correspondan a las funciones de derecho público del Municipio, derivados de rezagos, multas, recargos, gastos de ejecución, indemnizaciones, y otros que éstos perciban, y cuya naturaleza no sea clasificable como impuesto, derecho, producto, participaciones o aportaciones federales, ingresos extraordinarios.
 
 ## TÍTULO SEXTO. PARTICIPACIONES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 148.
 
@@ -2971,9 +3723,13 @@ PRIMERO.- La presente ley, entrará en vigor el día de su publicación en el Pe
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en la presente ley.
 
-TERCERO.- Los derechos a que se refiere el artículo 113 de la Ley de Hacienda del Municipio de Benito Juárez, del Estado de Quintana Roo, entrarán en vigor a partir del día 1 de enero de 2013, para lo cual el Tesorero Municipal deberá efectuar la publicación del acuerdo precisados (sic) en el penúltimo párrafo de dicho artículo, a más tardar, el tercer día hábil del año 2013; en tanto, continuarán vigentes en el Municipio de Benito Juárez durante el ejercido fiscal 2012, las disposiciones contenidas en los artículos 116, 117, 118 y 119 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-CUARTO.- Se deroga en la Ley de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Benito Juárez, con la salvedad realizada en el artículo Tercero Transitorio de este Decreto.
+TERCERO.- Los derechos a que se refiere el artículo 113 de la Ley de Hacienda del Municipio de Benito Juárez, del Estado de Quintana Roo, entrarán en vigor a partir del día 1 de enero de 2013, para lo cual el Tesorero Municipal deberá efectuar la publicación del acuerdo precisado en el penúltimo párrafo de dicho artículo, a más tardar, el 31 de enero de ese año; en tanto, continuarán vigentes en el Municipio de Benito Juárez, las disposiciones contenidas en los artículos 116, 117, 118 y 119 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+CUARTO.- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Benito Juárez, con la salvedad realizada en el artículo Tercero Transitorio de este Decreto.
 
 QUINTO.- En tanto el Estado y el Municipio permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
 
@@ -3038,3 +3794,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C. JOSÉ MAURICIO GONGORA ESCALANTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en el presente decreto.
