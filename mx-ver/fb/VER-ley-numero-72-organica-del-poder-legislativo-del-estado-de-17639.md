@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2011-11-18"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 72 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -31,7 +31,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 La Honorable Quincuagésima Octava Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I de la Constitución Política local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo expide la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY NÚMERO 72
 
@@ -195,7 +195,7 @@ Los Diputados que se presenten o sean llamados al ejercicio del cargo, con poste
 
 ### CAPÍTULO III. DEL ESTATUTO DE LOS DIPUTADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 17.
 
@@ -499,7 +499,7 @@ La Mesa Directiva se reunirá por lo menos una vez a la semana y tomará sus dec
 
 #### SECCION TERCERA. DE SU PRESIDENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 24.
 
@@ -581,13 +581,13 @@ VII. Las demás que expresamente señalen la Constitución del Estado, esta ley,
 
 ### CAPÍTULO III. DE LOS GRUPOS LEGISLATIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2008)</small>
 
 ###### Artículo 27.
 
 El grupo legislativo es la asociación de diputados que se constituye para funcionar durante una Legislatura, con el propósito de garantizar la libre expresión de las corrientes políticas representadas en el Congreso; así como participar en la toma de decisiones, coadyuvar en los trabajos legislativos y contribuir a la disciplina interna del Congreso, en los términos que señala esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2008)</small>
 
 El grupo legislativo se integrará con al menos tres diputados y sólo podrá haber uno por cada partido político que cuente con representación en el Congreso. Se constituirá en la primera sesión ordinaria de la Legislatura, si sus integrantes proceden de un mismo partido político; de provenir de partidos diversos o ser independientes, cuando sus integrantes así lo decidan, pero en este último caso no podrá existir más de un grupo. Al efecto, cada grupo legislativo entregará a la Secretaría General la documentación siguiente:
 
@@ -617,7 +617,7 @@ A los Diputados que no formen, no se inscriban o dejen de pertenecer a un Grupo 
 
 #### SECCIÓN PRIMERA. DE SU NATURALEZA E INTEGRACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 31.
 
@@ -667,7 +667,7 @@ V. Asignar, en los términos de esta ley, los recursos humanos, materiales y fin
 
 VI. Las demás que señalen esta ley y demás normatividad interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 34.
 
@@ -797,9 +797,17 @@ XXVII. Trabajo y Previsión Social;
 
 XXVIII. Transporte, Tránsito y Vialidad;
 
-XXIX. Turismo; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XXX. Vigilancia.
+XXIX. Turismo;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XXX. Vigilancia; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Desarrollo Metropolitano
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -813,7 +821,7 @@ En los supuestos previstos en los párrafos anteriores, los servidores públicos
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 41.
 
@@ -919,7 +927,7 @@ VI. A los organismos autónomos de Estado, en lo relativo a la materia de su com
 
 VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 49.
 
@@ -1001,7 +1009,7 @@ V. No haber sido, durante el año anterior al día de la designación, miembro d
 
 VI. No haber sido condenado por delito intencional que haya ameritado pena privativa de libertad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 57.
 
@@ -1161,7 +1169,7 @@ QUINTO. Para los efectos de lo dispuesto por el artículo 14 de esta ley, relati
 
 Dada en el Salón de Sesiones de la H. LVIII Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintisiete días del mes de septiembre del año dos mil. Diputado presidente, Óscar Moncayo Quiroz.- Rúbrica. Diputado secretario, Edmundo Cristóbal Cruz.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 2 DE FEBRERO DE 2001.
 
@@ -1358,3 +1366,9 @@ G.O. 18 DE NOVIEMBRE DE 2011.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
