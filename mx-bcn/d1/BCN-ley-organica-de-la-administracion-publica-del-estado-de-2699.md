@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2012-11-23"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -147,7 +147,9 @@ Las Dependencias de la Administración Pública Centralizada tiene (sic) la obli
 
 Para ser Titular de cualquier Dependencia del Poder Ejecutivo, con excepción del Secretario General de Gobierno y del Procurador General de Justicia cuyos requisitos consigna expresamente la Constitución del Estado, se requiere:
 
-I.- Ser mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+I.- Ser ciudadano mexicano;
 
 II.- Ser mayor de veinticinco años;
 
@@ -577,7 +579,7 @@ III.- Vigilar el cumplimiento de las normas de control y fiscalización, así co
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-IV.- Establecer las bases generales para la evaluación y realización de auditorias en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
+IV.- Establecer las bases generales para la evaluación y realización de auditorías en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
 
 V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
@@ -969,7 +971,7 @@ XV.- Impulsar la permanente actualización de las Disposiciones Legales en mater
 
 XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XIV
 
@@ -1047,7 +1049,7 @@ VI.- Permitir que las inscripciones sean examinadas dentro de las horas de labor
 
 VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XVII
 
@@ -1621,7 +1623,7 @@ LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1988.
 
@@ -1851,7 +1853,7 @@ CUARTO.- El titular del Poder Ejecutivo, por conducto de las dependencias compet
 
 P.O. 14 DE FEBRERO DE 2003.
 
-DECRETO NUMERO 147.
+DECRETO NÚMERO 147.
 
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -1867,7 +1869,7 @@ SEXTO.- El titular del Poder Ejecutivo dentro de los noventa días siguientes a 
 
 P.O. 14 DE FEBRERO DE 2003.
 
-DECRETO NUMERO 148.
+DECRETO NÚMERO 148.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
 
@@ -2054,3 +2056,7 @@ P.O. 5 DE OCTUBRE DE 2012.
 P.O. 23 DE NOVIEMBRE DE 2012.
 
 ÚNICO: Las presentes Reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
