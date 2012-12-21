@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2011-11-30"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -145,7 +145,9 @@ CUS =Área total de construcción en metros cuadrados
 
 20. Relotificación: Acto mediante el cual dos o más lotes contiguos de un fraccionamiento o área urbana o urbanizada, que estén dentro de una misma manzana o perímetro delimitado por vías públicas, calles o caminos y que son propiedad de una misma persona, se modifican en sus dimensiones sin requerir apertura de vía pública o privada.
 
-21. Centro: Se entenderá como el Centro de Desarrollo Urbano y Ecología del Municipio de Guadalupe, Nuevo León.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+21. Dirección: Se entenderá como la Dirección General de Desarrollo Urbano y Ecología adscrita a la Secretaria de Desarrollo Urbano y Obras Públicas del Municipio de Guadalupe.
 
 22. Subdivisión: La división o partición de un predio del área urbana o urbanizada de los centros de población y que no requiere del trazo de una o más vías públicas o privadas.
 
@@ -165,7 +167,9 @@ a) Al R. Ayuntamiento
 
 b) Al C. Presidente (a) Municipal
 
-c) Al C. Director General del Centro de Desarrollo Urbano
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+c) Al C. Director General de Desarrollo Urbano y Ecología
 
 d) Al C. Secretario de Finanzas y Tesorería
 
@@ -173,13 +177,17 @@ d) Al C. Secretario de Finanzas y Tesorería
 
 Corresponden al R. Ayuntamiento, y al C. Presidente(a) Municipal de Guadalupe Nuevo León. Las atribuciones que le confieren la Legislación en materia de Desarrollo Urbano vigente del Estado de Nuevo León, La Ley General del Equilibrio Ecológico y Protección al Ambiente, las Normas Oficiales Mexicanas, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, la Ley del Régimen de Propiedad en Condominio; las cuales podrán ser ejercidas por los órganos de la administración pública Municipal.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 9.
 
-EL C. Director General del Centro de Desarrollo Urbano y Ecología podrá ejercer las atribuciones que designen el Presidente(a) Municipal y el Cabildo para cumplir con este reglamento.
+EL C. Director General de Desarrollo Urbano y Ecología podrá ejercer las atribuciones que designen el Presidente(a) Municipal y el Cabildo para cumplir con este reglamento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
 
-El C. Director General del Centro de Desarrollo Urbano y Ecología podrá delegar, en forma escrita, cualquiera de sus atribuciones al personal que considere necesario para los efectos de mayor eficiencia de los procedimientos administrativos.
+El C. Director General de Desarrollo Urbano y Ecología podrá delegar, en forma escrita, cualquiera de sus atribuciones al personal que considere necesario para los efectos de mayor eficiencia de los procedimientos administrativos.
 
 ### CAPITULO SEGUNDO. Del Consejo Consultivo del Centro de Desarrollo Urbano
 
@@ -231,7 +239,9 @@ El Consejo Consultivo tendrá las siguientes funciones:
 
 2. Participar en la planeación del desarrollo urbano y el ordenamiento territorial, siendo uno de los instrumentos mediante el cual el público en general colabore en el desarrollo urbano Municipal,
 
-3. Conocer de aquellos asuntos en los que el Centro de Desarrollo Urbano y Ecología estime necesario recabar su opinión,
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+3. Conocer de aquellos asuntos en los que la Dirección General de Desarrollo Urbano y Ecología estime necesario recabar su opinión.
 
 4. Incrementar el número de miembros del consejo,
 
@@ -393,9 +403,11 @@ Los Usos se definen:
 
 5. Uso o Destino Complementario: Son aquellos que se localizan en un mismo predio con varias funciones particulares necesarias para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 29.
 
-Si existiera, en la Matriz de Compatibilidad, algún uso o destino de suelo como permitido que le sea imposible cumplir con la normatividad señalada, se pondrá a consideración del Centro de Desarrollo Urbano y Ecología del Municipio a través una solicitud acompañada de documentos y fundamentos de juicio que justifiquen la petición. El Centro revisará el caso y de considerarse pertinente modificará la resolución dictada o la normatividad aplicada. Deberá seguirse este procedimiento para recusar cualquier inconformidad con los acuerdos emitidos por el Centro de Desarrollo Urbano y Ecología.
+Si existiera, en la Matriz de Compatibilidad, algún uso o destino de suelo como permitido que le sea imposible cumplir con la normatividad señalada, se pondrá a consideración de la Dirección General de Desarrollo Urbano y Ecología del Municipio a través de una solicitud acompañada de documentos y fundamentos de juicio que justifiquen la petición. La Dirección revisará el caso y de considerarse pertinente modificará la resolución dictada o la normatividad aplicada. Deberá seguirse este procedimiento para recusar cualquier Inconformidad con los acuerdos emitidos por la Dirección General de Desarrollo Urbano y Ecología.
 
 ### CAPITULO TERCERO. De la Zonificación
 
@@ -505,9 +517,11 @@ La estrategia de densificación de zonas habitacionales deberá cumplir con las 
 
 En las áreas del Monumento Natural Cerro de La Silla y la mancha urbana actual de la colonia Contry La Silla, desde Las Águilas Residencial 1º y 2º sector, incluso hasta el sector La Escondida, se respetará una densidad de 2 viviendas por hectárea.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 40.
 
-Para llevar a cabo las actividades complementarias a la vivienda el particular deberá presentar ante el Centro de Desarrollo Urbano y Ecología Municipal un aviso; además de que la actividad deberá ser ejecutada solamente por los miembros de la familia, (sic)
+Para llevar a cabo las actividades complementarias a la vivienda el particular deberá presentar ante la Dirección General de Desarrollo Urbano y Ecología Municipal un aviso; además de que la actividad deberá ser ejecutada solamente por los miembros de la familia, (sic)
 
 ###### ARTICULO 41.
 
@@ -567,7 +581,9 @@ a) Zona Industrial: El uso predominante es el industrial sin causar molestias, d
 
 Para los corredores industriales se considera parte de los mismos sólo los primeros 100 metros de fondo.
 
-De igual manera, en los corredores industriales donde se desee incorporar lotes colindantes al mismo convirtiéndose por el crecimiento de la ciudad en zonas industriales, será necesaria la autorización expedida por el Centro de Desarrollo Urbano y Ecología Municipal.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+De igual manera, en los corredores industriales donde se desee incorporar lotes colindantes al mismo convirtiéndose por el crecimiento de la ciudad en zonas industriales, será necesaria la autorización expedida por la Dirección General de Desarrollo Urbano y Ecología Municipal.
 
 ###### ARTÍCULO 52.
 
@@ -613,7 +629,9 @@ Se considerarán como corredor urbano CUB, CUR, CUM y CUI sólo aquellos lotes q
 
 Para todos los corredores urbanos que deseen incorporar mayor superficie de 50 mts lineales será necesaria la autorización expedida por el Republicano Ayuntamiento.
 
-Los lotes que estén pegados a los corredores urbanos y se deseen incorporarse al mismo convirtiéndose por el crecimiento de la ciudad en zonas según corresponda, será necesaria la autorización expedida por el Centro de Desarrollo Urbano y Ecología.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Los lotes que estén pegados a los corredores urbanos y se deseen incorporarse (sic) al mismo convirtiéndose por el crecimiento de la ciudad en zonas según corresponda, será necesaria la autorización expedida por la Dirección General de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 57.
 
@@ -621,9 +639,11 @@ Corredores incorporados al Sistema Integrado de Transporte Masivo del Área Metr
 
 Corredor Urbano Bulevar Aeropuerto se divide en dos corredores previstos en los planes vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 58.
 
-Cuando por el crecimiento de la ciudad se genere un nuevo corredor, o cuando un corredor cambie de categoría, será necesario un estudio de el Centro de Desarrollo Urbano y Ecología, así como su aprobación por Cabildo para su integración en el plano de zonificación del Plan.
+Cuando por el crecimiento de la ciudad se genere un nuevo corredor, o cuando un corredor cambie de categoría, será necesario un estudio de la Dirección General de Desarrollo Urbano y Ecología, así como su aprobación por Cabildo para su integración en el plano de zonificación del Plan.
 
 ###### ARTICULO 59.
 
@@ -787,13 +807,17 @@ Se deberá respetar la normatividad de los estacionamientos establecida en el Re
 
 ### CAPITULO UNICO. De los Derechos de Vías
 
-###### ARTÍCULO 63.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-El Centro, no está obligado a expedir constancia de alineamiento y uso del suelo, número oficial, licencia de construcción, orden o autorización para la instalación de servicios públicos respecto de predios con frentes a vías públicas de hecho, o de aquellas que se presuman como tales, si no se ajustan a la planificación oficial.
+###### ARTICULO 63.
+
+La Dirección no está obligada a expedir constancia de alineamiento y uso del suelo, número oficial, licencia de construcción, orden o autorización para la instalación de servicios públicos respecto de predios con frentes a vías públicas de hecho, o de aquellas que se presuman como tales, si no se ajustan a la planificación oficial.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 64.
 
-A fin de garantizar la continuidad vial en calles y avenidas debe verificarse que en los permisos otorgados se respeten las secciones viales que se indican en el Plano de Estructura Vial Metropolitana aprobado y la Legislación vigente en esta materia, de acuerdo a los planos de diseño vial de avenidas y cruces elaborados por el Centro de Desarrollo Urbano y Ecología.
+A fin de garantizar la continuidad vial en calles y avenidas debe verificarse que en los permisos otorgados se respeten las secciones viales que se indican en el Plano de Estructura Vial Metropolitana aprobado y la Legislación vigente en esta materia, de acuerdo a los planos de diseño vial de avenidas y cruces elaborados por la Dirección General de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 65.
 
@@ -945,7 +969,9 @@ Los propietarios o poseedores a título de dueño están obligados a realizar la
 
 Todos los ciudadanos tienen derecho a denunciar a las autoridades Municipales los edificios que presenten falta de seguridad, que amenacen o aquellos que pudieran ocasionar algún daño como consecuencia de mal estado de sus elementos.
 
-Si existiera peligro de daño por mal estado de las construcciones e instalaciones públicas o privadas; el Ayuntamiento puede dictar que se lleven a cabo las medidas de seguridad establecidas por la Dirección de Protección Civil Municipal.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Si existiera peligro de daño por mal estado de las construcciones e instalaciones públicas o privadas; el Ayuntamiento puede dictar que se lleven a cabo las medidas de seguridad establecidas por Protección Civil Municipal.
 
 Si el propietario no ejecuta dicha orden en el plazo que se le señale, el R. Ayuntamiento procederá a la ejecución subsidiaria, por cuenta y riesgo de este.
 
@@ -1027,23 +1053,31 @@ El solicitante de la terminación de obra o municipalización del fraccionamient
 
 En obras de urbanización, se permitirá hacer las modificaciones que estén autorizadas por las dependencias encargadas de la prestación del servicio público que corresponda según la obra; solo se permitirán modificaciones si con las mismas no se afecta la seguridad, estabilidad, destino, uso, servicio, higiene y funcionalidad de las referidas obras y técnicamente estén justificadas.
 
-En las obras de urbanización se deberá dejar resuelta la demanda pluvial o realizar las aportaciones necesarias para tal fin, determinadas por el Centro de Desarrollo Urbano y Ecología del Municipio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+En las obras de urbanización se deberá dejar resuelta la demanda pluvial o realizar las aportaciones necesarias para tal fin, determinadas por la Dirección General de Desarrollo Urbano y Ecología del Municipio.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
 
 Las obras de urbanización deberán ejecutarse conforme al Proyecto Ejecutivo y calendario de obra que se acuerda con la autoridad municipal y no podrá excederse de dos años a partir de la fecha de autorización, pudiendo solicitar una prórroga de hasta 2 años para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 105.
 
-Para la realización de obras de terracerías para caminos, calles, servidumbres de paso, áreas de circulación vehicular o vialidades, se deberá obtener autorización del Centro, para lo cual el interesado deberá presentar los documentos solicitados y el pago de derechos correspondientes.
+Para la realización de obras de terracerías para caminos, calles, servidumbres de paso, áreas de circulación vehicular o vialidades, se deberá obtener autorización de la Dirección, para lo cual el interesado deberá presentar los documentos solicitados y el pago de derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 106.
 
-El interesado deberá presentar solicitud de autorización de obra al Centro, firmada, señalando domicilio para oír y recibir notificaciones, indicando el volumen promedio de movimiento de tierra y el lugar donde se depositará la misma en forma temporal o definitiva, señalando un Director Responsable de Obra, con su respectivo domicilio y cédula profesional. Indicando también la maquinaria a utilizar, las medidas de precaución que van a tomarse para evitar deslaves, deslizamientos y arrastre de tierra, así como la forma en que se restaurarían las capas de suelo y sus coberturas vegetales y las obras mediante las cuales se dará estabilidad de los taludes, según sea el caso.
+El interesado deberá presentar solicitud de autorización de obra a la Dirección, firmada, señalando domicilio para oír y recibir notificaciones, indicando el volumen promedio de movimiento de tierra y el lugar donde se depositará la misma en forma temporal o definitiva, señalando un Director Responsable de Obra, con su respectivo domicilio y cédula profesional. Indicando también la maquinaria a utilizar, las medidas de precaución que van a tomarse para evitar deslaves, deslizamientos y arrastre de tierra, así como la forma en que se restaurarían las capas de suelo y sus coberturas vegetales y las obras mediante las cuales se dará estabilidad de los taludes, según sea el caso.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 107.
 
-El responsable de realizar las banquetas, deberá presentar aviso por escrito a el Centro para que ésta conozca de las obras, señalando domicilio para oír y recibir notificaciones, indicando el frente del predio en el cual se pretende construir la banqueta, la ubicación de dicho predio, y presentando los documentos justificativos de su propiedad o posesión, así mismo manifestará el ancho actual de la banqueta, la cantidad de cajetes que pueden dejarse a lo largo de la misma, la ubicación de la infraestructura subterránea y el responsable de las obras quien también firmará la solicitud, en caso de que el solicitante se haga responsable de las obras así deberá manifestarlo en su solicitud. Recibido el aviso, el Centro a través de su personal realizará una inspección al lugar a fin de constatar que se respete el ancho de la calle y la banqueta correspondiente, así como verificar la cantidad de cajetes que pueden dejarse en la banqueta y la distancia de éstos a los servicios de infraestructura. El Centro en un término de 5-cinco días hábiles contados a partir del ingreso del aviso, indicará el ancho oficial de la banqueta, la cantidad de cajetes para árboles que deberá dejarse, así como las especies a plantar, la forma de plantación y la calidad de los materiales que deban emplearse.
+El responsable de realizar las banquetas, deberá presentar aviso por escrito a la Dirección para que ésta conozca de las obras, señalando domicilio para oír y recibir notificaciones, indicando el frente del predio en el cual se pretende construir la banqueta, la ubicación de dicho predio, y presentando los documentos justificativos de su propiedad o posesión, así mismo manifestará el ancho actual de la banqueta, la cantidad de cajetes que pueden dejarse a lo largo de la misma, la ubicación de la infraestructura subterránea y el responsable de las obras quien también firmará la solicitud, en caso de que el solicitante se haga responsable de las obras así deberá manifestarlo en su solicitud. Recibido el aviso, la Dirección a través de su personal realizará una inspección al lugar a fin de constatar que se respete el ancho de la calle y la banqueta correspondiente, así como verificar la cantidad de cajetes que pueden dejarse en la banqueta y la distancia de éstos a los servicios de infraestructura. La Dirección en un término de 5-cinco días hábiles contados a partir del ingreso del aviso, indicará el ancho oficial de la banqueta, la cantidad de cajetes para árboles que deberá dejarse, así como las especies a plantar, la forma de plantación y la calidad de los materiales que deban emplearse.
 
 ### CAPITULO SEPTIMO. Instalaciones Subterráneas y Aéreas en la Vía Pública
 
@@ -1065,7 +1099,9 @@ Los postes se colocarán dentro de la acera, a una distancia mínima de cuarenta
 
 En las vías públicas en que no existan aceras o banquetas, los interesados solicitarán a la autoridad el trazo de la guarnición.
 
-Para el tendido de líneas se necesitara la autorización y permiso del Centro de desarrollo Urbano y Ecología que fijara los lineamientos necesarios en cada caso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Para el tendido de líneas se necesitará la autorización y permiso de la Dirección General de Desarrollo Urbano y Ecología del Municipio que fijará los lineamientos necesarios en cada caso.
 
 ###### ARTICULO 110.
 
@@ -1190,3 +1226,9 @@ P.O. 30 DE NOVIEMBRE DE 2011.
 PRIMERO.- Las presentes reformas por adición de los párrafos primero y segundo al artículo 27 del REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se derogan así mismo todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas al REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
