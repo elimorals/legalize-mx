@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2010-12-24"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -151,7 +151,7 @@ V.- Señalar la autoridad a la que se dirige y el propósito de la promoción.
 
 Cuando no se cumplan los requisitos a que se refiere este Artículo las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10.
 
@@ -1545,7 +1545,7 @@ El impuesto Predial, se determinará y liquidará de acuerdo con las tasas que e
 
 Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos para los Municipios, se obtiene una cantidad inferior a la cuota mínima anual que establece dicha Ley, el impuesto a pagar será la cuota mencionada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1993)</small>
 
 Asimismo, tributarán bajo la cuota mínima los bienes inmuebles que se encuentren en los siguientes supuestos:
 
@@ -1609,7 +1609,7 @@ Dichas manifestaciones deberán presentarse en las formas oficiales establecidas
 
 Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de esta disposición, motivará que además de la aplicación de las sanciones que autoriza esta Ley, se haga el cobro del importe del Impuesto correspondiente a cinco años fiscales anteriores a la fecha en que fuere descubierta la infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 168.
 
@@ -1671,7 +1671,7 @@ Los resultados del avalúo y la determinación del Impuesto deberán notificarse
 
 La valuación se hará separadamente para el terreno y para las construcciones y se formulará en las formas oficiales expedidas para tales efectos, aplicando los valores unitarios del suelo y construcciones que establece anualmente la Ley de Ingresos para los Municipios del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 177.
 
@@ -1717,7 +1717,7 @@ a).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al
 
 b).- Cuando el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 180.
 
@@ -1943,7 +1943,7 @@ Los patrocinadores, explotadores de diversiones y espectáculos públicos están
 
 ### CAPITULO SEPTIMO. DEL IMPUESTO SOBRE RIFAS, SORTEOS, LOTERIAS Y CONCURSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 214.
 
@@ -1973,13 +1973,13 @@ Las personas físicas o morales que celebren la rifa, lotería o concurso, queda
 
 Los contribuyentes a que se refiere el artículo anterior están obligados a otorgar en favor de la Tesorería Municipal, antes de efectuar la lotería, rifa, sorteo o concurso, garantía especial para asegurar el premio y el pago del impuesto.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VIII (SIC). DEL FONDO PARA SEGURIDAD PUBLICA
 
 ARTICULO 219 BIS.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO IX (SIC)
 
@@ -2029,7 +2029,7 @@ La dependencia, funcionario o empleado que preste el servicio por el cual se pag
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que en tal caso procedan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO SEGUNDO. POR EXPEDICION DE LICENCIAS O PERMISOS PARA EL ESTABLECIMIENTO DE ANUNCIOS
 
@@ -2075,7 +2075,47 @@ ARTICULO 228 F.- Las licencias o permisos para el establecimiento de anuncios qu
 
 ARTICULO 228 G.- La (sic) autoridades municipales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; Así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.
 
-### CAPITULO UNICO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO TERCERO. POR SERVICIO DE ALUMBRADO PUBLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 228 H.- El objeto de este derecho será el servicio de alumbrado público que se preste en las calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 228 i.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados ante la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre en cada recibo que expida la Comisión Federal de Electricidad.
+
+Las facilidades administrativas de cobro deberán preverse en las leyes de ingresos municipales.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en este artículo, mediante el recibo que para tal efecto expida la Tesorería Municipal.
+
+Se entiende como «costo anual global actualizado erogado» la suma que resulte del total de las erogaciones por gasto directamente involucrado con la prestación de este servicio, traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para el ejercicio fiscal en que se cobrará el derecho, dividiendo el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, del mes de noviembre del año inmediato anterior entre el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, correspondiente al mes noviembre del año anterior al año considerado como inmediato anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 228 J.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros diez días siguientes al mes en que se cause el pago, cuando se haga en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 228 K.- Para efectos del cobro de este derecho los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar conjuntamente con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 228 L.- Son sujetos de este derecho los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
 
 ## TITULO SEXTO. DE LAS OBLIGACIONES ESPECIALES
 
@@ -2211,33 +2251,29 @@ Las obras públicas pueden ser realizadas a iniciativa de los Ayuntamientos, o d
 
 Aprobada la realización de la obra de que se trate, se remitirá al Congreso del Estado copia de la documentación señalada en el Artículo 241 de esta Ley, para los efectos que señala el Artículo 2 Fracción II de la Ley Orgánica de la Contaduría Mayor de Hacienda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 #### SECCION SEGUNDA. POR SERVICIO PUBLICO DE ALUMBRADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 245.
 
-El objeto de esta contribución, será el servicio de alumbrado público que se preste en las calles, plazas, jardines y otros lugares de uso común, y su recaudación se destinará al pago del mismo, y en su caso, al mejoramiento de este servicio en colaboración con los contribuyentes beneficiados.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 246.
 
-El pago de esta contribución se hará con base en las tarifas generales números 1, 2, 3, O-M, H-M, H-S y H-T aprobadas y publicadas en los términos de la Ley Federal de Servicio Público de Energía Eléctrica y se liquidará en relación con las mismas, conforme a las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, P. O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 247.
 
-El Gobierno del Estado se responsabilizará del pago por la prestación del servicio público de alumbrado de los Municipios, de conformidad con los convenios que celebre con la Comisión Federal de Electricidad, para el cobro de esta contribución.
-
-En caso de que la recaudación mensual resultare insuficiente para cubrir el costo del consumo se aplicarán las siguientes reglas:
-
-I.- La diferencia se cargará proporcionalmente a cada Municipio en relación a su factor de participaciones;
-
-II.- En los Municipios en que la recaudación obtenida sea mayor del monto del consumo de energía por alumbrado público, se le reintegrará el 30% de la cantidad excedente;
-
-III.- El 70% restante de la cantidad excedente a que se refiere la fracción anterior, se aplicará a la diferencia que exista entre la recaudación total de esta contribución y el monto del consumo de energía para alumbrado público; y
-
-IV.- Si aún existe diferencia, ésta se aplicará en los términos de la fracción I a los Municipios que no estén en el supuesto de la fracción II de este artículo.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
 ## TITULO SEPTIMO. DE LOS PRODUCTOS
 
@@ -2357,6 +2393,8 @@ Los recargos y gastos de ejecución se causarán conforme a las tasas establecid
 
 ## TITULO NOVENO. DE LAS PARTICIPACIONES
 
+### CAPITULO UNICO
+
 ###### ARTICULO 262.
 
 Los Municipios del Estado recibirán las cantidades que les correspondan de las participaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal del Estado.
@@ -2403,7 +2441,7 @@ EL SECRETARIO DE ADMINISTRACION FINANCIERA
 
 C.P. Y M.A. MARCO ANTONIO VERGARA LARIOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 1990.
 
@@ -2467,7 +2505,7 @@ Las asociaciones religiosas constituidas en los términos de la Ley de Asociacio
 
 P.O. 26 DE DICIEMBRE DE 1995.
 
-DECRETO NUMERO 157, QUE ADICIONA EL ARTICULO 162 Y REFORMA EL 164 DE LA LEY.
+DECRETO NÚMERO 157, QUE ADICIONA EL ARTÍCULO 162 Y REFORMA EL 164 DE LA LEY.
 
 ###### ARTICULO UNICO.
 
@@ -2475,7 +2513,7 @@ El presente decreto entrará en vigor el primero de enero de 1996 mil noveciento
 
 P.O. 26 DE DICIEMBRE DE 1995.
 
-DECRETO NUMERO 162, QUE REFORMA EL ARTICULO 255 DE LA LEY.
+DECRETO NÚMERO 162, QUE REFORMA EL ARTÍCULO 255 DE LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -2524,3 +2562,9 @@ Artículo Único.- El presente decreto entrará en vigor el día 1º primero de 
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de abril de dos mil trece, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Poder Ejecutivo del Estado establecerá conjuntamente con los municipios de la Entidad, convenios con la Comisión Federal de Electricidad para el cobro del servicio de alumbrado público, que garantice la equidad y trato igual a los mismos, así como para establecer un programa de reducción de costos por la prestación del servicio.
