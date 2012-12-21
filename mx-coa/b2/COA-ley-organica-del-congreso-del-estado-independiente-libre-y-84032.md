@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2012-11-20"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -43,7 +43,9 @@ LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUIL
 
 La presente ley tiene por objeto regular la estructura y funcionamiento internos del Congreso del Estado. Su organización se sujetará a lo establecido en la Constitución Política del Estado, lo previsto en esta ley, así como en las demás disposiciones aplicables.
 
-Su aprobación, reformas y adiciones no necesitarán ser promulgados para tener vigencia ni podrán ser vetadas por el Ejecutivo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Esta Ley no podrá ser vetada ni necesitará de promulgación por el Ejecutivo Estatal para tener vigencia. Los Diputados tendrán la facultad exclusiva de aprobar, reformar y adicionar este ordenamiento.
 
 ###### ARTÍCULO 2.
 
@@ -57,11 +59,15 @@ El ejercicio de las funciones de los diputados en la asamblea durante el periodo
 
 Las acciones individuales de los diputados no constituyen un acto del Poder Legislativo y solo tendrán su representación cuando así lo exprese esta ley o por comisión otorgada por el Pleno y en sus recesos por la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero se iniciará el 1 de enero y terminará a más tardar el 30 de abril. El segundo iniciará el 1 de septiembre y terminará a más tardar el 31 de diciembre. Estos períodos son improrrogables. Al inicio de cada Legislatura, para su instalación, se estará a lo dispuesto por esta Ley.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el primer día hábil de marzo y terminará a más tardar el 30 de junio. El segundo iniciará el primer día hábil de septiembre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
 
-El Congreso podrá ser convocado a períodos extraordinarios de sesiones, conforme a lo que establece la Constitución Política del Estado.
+En lo relativo al inicio del ejercicio constitucional y a la instalación de cada Legislatura, se estará a lo dispuesto en la Constitución Política del Estado y en esta Ley.
+
+El Congreso también podrá celebrar períodos extraordinarios de sesiones, conforme a lo establecido en los Artículos 47, 48 y demás aplicables de la Constitución Política del Estado y a lo dispuesto en esta Ley. En los períodos extraordinarios se celebrarán las sesiones que sean necesarias para la atención de los asuntos que deban desahogarse durante los mismos.
 
 ###### ARTÍCULO 5.
 
@@ -97,6 +103,14 @@ VI. Elección de las comisiones permanentes y Comités; y
 
 VII. Designación del Oficial Mayor y del Tesorero del Congreso.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VIII. Elección de la Diputación Permanente del primer período de funciones de este órgano legislativo, correspondiente al Primer Año del Ejercicio Constitucional de la Legislatura, autorizándola para que, además de lo señalado en la Constitución Política del Estado, conozca y, en su caso, resuelva, sobre los asuntos pendientes y aquellos que se presenten durante su funcionamiento, con excepción de los relativos a iniciativas para la expedición o reforma de leyes y de aquellos en los que expresa y rigurosamente la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, dispongan la intervención del Pleno del Congreso.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IX. Clausura del Período de Instalación.
+
 ###### ARTÍCULO 9.
 
 Los diputados electos de cada uno de los partidos políticos que estarán representados en el Congreso, designarán a uno de ellos para que participe en los trabajos previos relacionados con la instalación de la Legislatura de la que formarán parte.
@@ -117,9 +131,11 @@ Los representantes a que se refiere el artículo anterior, notificarán a los di
 
 El primero de enero del año inmediato posterior al de la elección, los diputados electos concurrirán al Congreso del Estado a las doce horas, para proceder a la instalación de la nueva legislatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 12.
 
-Para los efectos del artículo anterior, en la fecha en que deban concurrir al Congreso, los diputados electos celebrarán una reunión preparatoria, para elegir la mesa directiva que estará en funciones al inicio de su primer período ordinario de sesiones. Los trabajos de esta reunión preparatoria serán dirigidos por quien designen los diputados del partido que haya obtenido mayor número de diputaciones, y para su desarrollo el diputado designado para dirigir dicha reunión, solicitará libremente a otro diputado que lo asista en funciones de secretario.
+Para los efectos del artículo anterior, en la fecha en que deban concurrir al Congreso, los diputados electos celebrarán una reunión preparatoria, para elegir la mesa directiva que estará en funciones durante el período de instalación. Los trabajos de esta reunión preparatoria serán dirigidos por quien designen los diputados del partido que haya obtenido mayor número de diputaciones, y para su desarrollo el diputado designado para dirigir dicha reunión, solicitará libremente a otro diputado que lo asista en funciones de secretario.
 
 En caso de que dos o más partidos políticos tengan igual número mayor de diputados, el que haya obtenido más diputaciones de mayoría relativa, designará al diputado que deberá dirigir la reunión preparatoria.
 
@@ -129,37 +145,53 @@ Para la elección de la referida mesa directiva, se observará el siguiente proc
 
 I. A las doce horas del día señalado en el artículo anterior, los diputados electos que estén presentes, se reunirán en el Salón de Sesiones para iniciar los trabajos de la reunión preparatoria, bajo la dirección de los diputados designados para este efecto en los términos del presente artículo.
 
-II. El diputado en funciones de secretario, pasará lista de asistencia de los diputados de la nueva legislatura, conforme al registro de las copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección de diputados remitidas por el Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, para confirmar la existencia del quórum que prescribe la Constitución Política Local; en caso contrario, se procederá en los términos de la misma.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-III. El diputado encargado de dirigir la reunión, solicitará que se formulen propuestas para elegir de entre los diputados electos asistentes, mediante votación secreta, ya sea por medio de cédulas o mediante el sistema electrónico, y por mayoría de votos, una mesa directiva integrada con un Presidente, dos Vicepresidentes y cuatro Secretarios, que estará en funciones durante el primer mes del período ordinario de sesiones en el que inicie su ejercicio la Legislatura entrante.
+II. El diputado en funciones de secretario, pasará lista de asistencia de los diputados de la nueva legislatura, conforme al registro de las copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección de diputados remitidas por el Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, para confirmar la existencia del quórum que prescribe el Artículo 51 de la Constitución Política Local; en caso contrario, se procederá en los términos de esta misma disposición constitucional.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III. El diputado encargado de dirigir la reunión, solicitará que se formulen propuestas para elegir de entre los diputados electos asistentes, mediante votación secreta, ya sea por medio de cédulas o mediante el sistema electrónico, y por mayoría de votos, una mesa directiva integrada con un Presidente, dos Vicepresidentes y cuatro Secretarios, que estará en funciones durante el período de instalación de la Legislatura.
 
 IV. El diputado en funciones de secretario dará a conocer el resultado de la votación.
 
-V. El diputado encargado de dirigir la reunión, hará la declaratoria de la integración de la mesa directiva y solicitará a los electos que ocupen los lugares asignados a los miembros de la misma, para proceder inmediatamente después a la apertura del periodo ordinario de sesiones que debe iniciarse el mismo día, con lo cual se concluirán los trabajos de la reunión preparatoria.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+V. El diputado encargado de dirigir la reunión, hará la declaratoria de la integración de la mesa directiva y solicitará a los electos que ocupen los lugares asignados a los miembros de la misma, para proceder inmediatamente después a la apertura del periodo de instalación que debe iniciarse el mismo día, con lo cual se concluirán los trabajos de la reunión preparatoria.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 13.
 
-Posteriormente, reiterando la solicitud de que los diputados y el público asistente se mantengan de pie, el diputado Presidente rendirá su protesta de ley en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes emanadas o que emanen de ambas, así como desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado: y si no lo hiciere así, que el Estado me lo demande".
+Al ocupar su lugar la Mesa Directiva, el Presidente pedirá a las Diputadas y los Diputados, así como al público asistente, que se pongan de pie para hacer la declaratoria de apertura del período de instalación de la legislatura.
 
-A continuación, el Presidente tomará igual protesta a los demás diputados electos, y si la contestación fuera afirmativa, replicará las palabras siguientes: "Si no lo hiciereis así, el Estado os lo demande".
+Posteriormente, reiterando la solicitud de que los diputados y el público asistente se mantengan de pie, el diputado Presidente rendirá su protesta de ley en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes emanadas o que emanen de ambas, así como desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si no lo hiciere así, que el Estado me lo demande".
 
-Acto seguido, el Presidente de la mesa directiva dirá en voz alta: "Se declara legalmente constituido el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza e instalada la (No.) Legislatura".
+A continuación, el Presidente tomará igual protesta a los demás diputados electos, y si la contestación fuera afirmativa, replicará las palabras siguientes: "Si no lo hicieren así, que el Estado se los demande".
 
-En caso de que hubieran faltado a la sesión alguno o algunos de los diputados electos, conforme a lo dispuesto en la Constitución Política del Estado, la Presidencia de la mesa directiva mandará citarlos para el efecto de tomarles la protesta de ley.
+Acto seguido, el Presidente de la Mesa Directiva expresará lo siguiente: "Se declara legalmente constituido el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza e instalada la (número ordinal) Legislatura".
+
+En caso de que hubieran faltado a la sesión inicial del período de instalación, alguno o algunos de los diputados electos, conforme a lo dispuesto en el Artículo 51 la (sic) Constitución Política del Estado, la Presidencia de la Mesa Directiva mandará citarlos para el efecto de tomarles la protesta de ley.
 
 Desahogados los puntos anteriores, se levantará la sesión y se convocará para la siguiente sesión.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-Constituido legalmente el Congreso, la nueva legislatura emitirá un decreto que dé cuenta de su instalación y lo hará saber, por oficio, a los demás Poderes del Estado, a los Poderes de la Federación y a los de las Entidades Federativas.
+Constituido legalmente el Congreso, la nueva legislatura emitirá un decreto que dé cuenta de su instalación y lo comunicará mediante oficio a los demás Poderes del Estado, a los Poderes de la Federación y a los de las Entidades Federativas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-La presidencia de la mesa directiva determinará las fechas en que sesionará la nueva legislatura, para atender los demás asuntos que deberán desahogarse dentro de los primeros quince días del período ordinario de sesiones en el que inicie sus funciones, considerando, en caso de ser necesario, lo establecido en la Constitución Local.
+La presidencia de la mesa directiva determinará las fechas en que sesionará la nueva legislatura, para atender los demás asuntos que deberán desahogarse dentro del período de instalación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
-Además de los asuntos a que se refiere el artículo 8 de este ordenamiento, el Pleno podrá acordar la atención de otros, cuando se considere necesaria su resolución dentro de los días establecidos para el desahogo de los señalados en la disposición inicialmente citada en este artículo.
+Además de los asuntos a que se refiere el artículo 8 de este ordenamiento, el Pleno podrá acordar la atención de otros, cuando se considere necesaria su resolución dentro del período de instalación.
 
 ## TÍTULO SEGUNDO. DE SUS INTEGRANTES
 
@@ -273,11 +305,13 @@ Los diputados que no se inscriban o dejen de pertenecer a un grupo parlamentario
 
 Lo anterior también se observará cuando un partido político esté representado por un solo diputado en el Congreso, sin embargo, se le reconocerá su afiliación y su representación partidista.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 29.
 
-Los diputados electos que pretendan constituir grupos parlamentarios, deberán entregar a la Oficialía Mayor del Congreso, la documentación requerida en esta ley, a más tardar el día en que se celebre la primera sesión del período ordinario en que debe instalarse la legislatura.
+Los diputados electos que pretendan constituir grupos parlamentarios, deberán entregar a la Oficialía Mayor del Congreso, la documentación requerida en esta ley, a más tardar el día en que se celebre la primera sesión del período de instalación de la legislatura correspondiente.
 
-Esta documentación se entregará a la presidencia de la Mesa Directiva para su examen e inclusión en la declaratoria de constitución de los grupos parlamentarios, lo que se hará en la sesión que determine la Presidencia. Una vez que se formalice la constitución de los grupos parlamentarios, ejercerán las atribuciones y obligaciones previstas por esta ley y gozarán de las prerrogativas correspondientes.
+Esta documentación se entregará a la Presidencia de la Mesa Directiva del Período de Instalación, para su examen e inclusión en la declaratoria de constitución de los grupos parlamentarios, lo que se hará en la sesión que determine la propia Presidencia. Una vez que se formalice la constitución de los grupos parlamentarios, ejercerán las atribuciones y obligaciones previstas por esta ley y gozarán de las prerrogativas correspondientes.
 
 ###### ARTÍCULO 30.
 
@@ -469,15 +503,19 @@ El Pleno del Congreso contará con una Mesa Directiva que será la responsable d
 
 La Mesa Directiva se integrará por un Presidente, dos Vicepresidentes y cuatro Secretarios, los que serán electos mediante votación secreta, ya sea por medio de cédulas o mediante el sistema electrónico, y por más de la mitad de votos de los diputados presentes garantizando la representación de la diversidad política del Congreso.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-Al inicio del segundo periodo ordinario de sesiones, se llevara a cabo una reunión preparatoria que será dirigida por el presidente, vicepresidente y los dos secretarios de la Diputación Permanente, en la que se elegirá la Mesa Directiva. En el caso del primer periodo de sesiones, la reunión preparatoria será dirigida por la última Mesa Directiva del anterior periodo ordinario de sesiones.
+Al inicio de cada período ordinario de sesiones, se llevará a cabo una reunión preparatoria para elegir a la Mesa Directiva del mismo, la cual será dirigida por el presidente, vicepresidente y los dos secretarios de la Diputación Permanente.
 
 ###### ARTÍCULO 49.
 
 El presidente y los vicepresidentes de la Mesa Directiva del Congreso durarán en sus cargos un mes, e iniciarán el desempeño de sus funciones en la sesión siguiente a aquella en la que hubieren sido electos, con excepción de los que se elijan al inicio de cada periodo ordinario, los que entrarán de inmediato en funciones. Ninguno de ellos podrá ser reelecto en el mismo periodo ordinario de sesiones con igual cargo.
 
-Los Secretarios ejercerán su función sin que puedan ser electos Presidente o Vicepresidente, durante el tiempo de su ejercicio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Los Secretarios ejercerán su función en todo el período de sesiones para el que sean electos, sin que puedan desempeñar el cargo de Presidente o Vicepresidente, durante el tiempo de su ejercicio.
 
 ###### ARTÍCULO 50.
 
@@ -1343,6 +1381,10 @@ V. Las demás que se acuerden por el Pleno, la Diputación Permanente, o la Junt
 
 La Diputación Permanente es el órgano del Congreso del Estado, que funcionará cuando el Pleno no esté en período de sesiones.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Tendrá dos períodos de funciones al año. El primero comprenderá los meses de enero y febrero y el segundo los meses de julio y agosto de cada año.
+
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 114.
@@ -1389,7 +1431,9 @@ IX. Resolver los asuntos para que fuere autorizada por el Pleno del Congreso, se
 
 X. El Presidente de la Diputación Permanente, en términos generales y en lo aplicable, tendrá las mismas facultades que tiene el Presidente de la Mesa Directiva del Pleno del Congreso.
 
-XI. Las demás que señale la Constitución Local, esta Ley y otros ordenamientos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+X (SIC). Las demás que señalen la Constitución Política del Estado, esta Ley y otros ordenamientos.
 
 ###### ARTÍCULO 116.
 
@@ -1409,11 +1453,17 @@ En los casos de invasión y perturbación de la paz pública, la Diputación Per
 
 En todo lo demás que no esté previsto en los artículos de este Título, la Diputación Permanente se sujetará a lo que dispone esta Ley respecto al funcionamiento del Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Asimismo, el Presidente de la Diputación Permanente, en términos generales y en lo aplicable, tendrá las mismas facultades que tiene el Presidente de la Mesa Directiva del Pleno del Congreso.
+
 ### CAPÍTULO II. DE LA INSTALACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 120.
 
-La Diputación Permanente se instalará el mismo día que concluya el primer período ordinario de sesiones. Hecha la declaración respectiva, se comunicará oficialmente por escrito a los Poderes Ejecutivo y Judicial del Estado.
+La Diputación Permanente se instalará el mismo día en que concluyan los períodos ordinarios de sesiones y, en su caso, el período de instalación de la Legislatura. Hecha la declaración respectiva, se comunicará oficialmente por escrito a los Poderes Ejecutivo y Judicial del Estado.
 
 Su primera sesión se celebrará cuando lo señale su Presidente según lo dispuesto por esta ley, salvo que se presente un asunto urgente que haga necesario que sesione antes de la fecha señalada. En estos casos, el Presidente convocará inmediatamente a quienes la integren, a efecto de sesionar aún cuando sea un día inhábil.
 
@@ -1423,7 +1473,9 @@ Las sesiones de la Diputación Permanente tendrán lugar cuatro veces por mes. S
 
 Las sesiones de la Diputación Permanente tendrán la misma duración que las sesiones del Pleno del Congreso y estas también podrán ser prorrogadas, a propuesta de su Presidente, que sea aprobada por los integrantes de este órgano.
 
-Cuando la Presidencia de la Diputación Permanente lo considere necesario, podrán celebrarse más de cuatro sesiones, en cuyo caso se informará lo correspondiente desde la sesión anterior o en comunicación por escrito que se haga oportunamente el mismo día de la sesión, cuando exista una causa de fuerza mayor que lo justifique plenamente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Cuando se considere necesario que la Diputación Permanente sesione más de cuatro veces al mes o en día distinto a las fechas programadas, el Presidente de este órgano legislativo informará lo correspondiente desde la sesión anterior o mediante comunicación por escrito que se haga oportunamente o el mismo día de la sesión, cuando exista una causa de fuerza mayor que lo justifique plenamente.
 
 ###### ARTÍCULO 122.
 
@@ -1759,9 +1811,11 @@ Los votos particulares de los miembros de las comisiones que disientan de la opi
 
 Todo proyecto de ley o decreto y los demás asuntos que fueren desechados, no podrá volverse a presentar en el mismo periodo de sesiones.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 157.
 
-En caso de urgencia notoria u obvia resolución, así como cuando se considere procedente, por mayoría de votos de los diputados presentes, se podrán dispensar los trámites a que se refiere el artículo 160; pero, en ningún caso, se podrá reducir a menos de tres días el plazo concedido al Ejecutivo para presentar sus observaciones. También, se podrá dispensar el trámite de la segunda lectura de las iniciativas de diputados, con excepción de las relativas a reformas constitucionales.
+En caso de urgencia notoria u obvia resolución, así como cuando se considere procedente, por mayoría de votos de los diputados presentes, se podrán dispensar los trámites a que se refiere el artículo 154. También, se podrá dispensar el trámite de la segunda lectura de las iniciativas de diputados, con excepción de las relativas a reformas constitucionales.
 
 ###### ARTÍCULO 158.
 
@@ -2740,3 +2794,11 @@ SEGUNDO.- Para el efecto de lo que se establece en el segundo párrafo del Artí
 TERCERO.- Al entrar en vigor las presentes reformas, se dispondrá lo conducente para que la Comisión de Gobernación, Puntos Constitucionales y Justicia de la Quincuagésima Novena Legislatura, se integre con 9 Diputados y cuente con dos Secretarios, observándose para este efecto lo dispuesto en este decreto.
 
 CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La distribución que se establece en este decreto, sobre los tiempos en que habrán de desarrollarse los períodos ordinarios de sesiones del Congreso del Estado y los períodos de funcionamiento de la Diputación Permanente, surtirá efectos a partir del Segundo Año del Ejercicio Constitucional de la LIX Legislatura, que se inicia el 1 de enero de 2013.
+
+TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
