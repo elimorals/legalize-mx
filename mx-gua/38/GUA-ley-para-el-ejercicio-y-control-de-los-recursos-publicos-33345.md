@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2010-06-11"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -87,7 +87,7 @@ X.- Presupuestación: Proceso de consolidación de las acciones encaminadas a cu
 
 XI.- Gasto Público: Conjunto de erogaciones que realizan los sujetos de la Ley en sus respectivos niveles, en el ejercicio de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÉSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -235,11 +235,11 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos, formula
 
 Para el caso de los Municipios, las Dependencias y Entidades enviarán sus anteproyectos de presupuesto a la Tesorería a más tardar el seis de septiembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
-Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción Xlll de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción XIII de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
 
 I. Contar con un mecanismo de planeación, en el cual:
 
@@ -299,13 +299,13 @@ IV.- La indicación de las plazas presupuestadas que incluye y la remuneración 
 
 V.- Los viáticos u otras percepciones de naturaleza análoga que serán ejercidas por la Unidad Responsable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
 Artículo 28 bis.- En los presupuestos de egresos para el ejercicio fiscal correspondiente se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 76 de esta ley.
 
-En la Ley del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública estatal en términos del artículo 63, fracción Xlll de la Constitución Política para el Estado hasta por el monto que proponga el titular del Poder Ejecutivo del Estado, tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores. En dicho apartado podrán incluirse los proyectos de prestación de servicios aprobados por el Congreso del Estado, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en la Ley de Presupuesto General de Egresos del Estado.
+En la Ley del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública estatal en términos del artículo 63, fracción XIII de la Constitución Política para el Estado hasta por el monto que proponga el titular del Poder Ejecutivo del Estado, tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores. En dicho apartado podrán incluirse los proyectos de prestación de servicios aprobados por el Congreso del Estado, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en la Ley de Presupuesto General de Egresos del Estado.
 
 En los presupuestos de egresos municipales para el ejercicio fiscal correspondiente se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública con participación de recursos federales o estatales, en términos del artículo 117, fracción VII de la Constitución Política para el Estado hasta por el monto que autoricen los ayuntamientos. En dicho apartado deberán incluirse los proyectos de prestación de servicios, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones, deberán incluirse en dichos presupuestos.
 
@@ -511,9 +511,11 @@ El Ejecutivo del Estado, por conducto de las Dependencias y Entidades, deberá o
 
 El Ayuntamiento por conducto de sus Dependencias y Entidades, deberá observar que los convenios que celebre con la Federación y el Estado, se realicen de conformidad con las prioridades y estrategias previstas en los planes y programas municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 62.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría podrá autorizar a las Dependencias y Entidades a realizar traspasos entre sí, que en conjunto no rebasen un monto equivalente al 7.5% de los presupuestos anuales de quien los otorga y de quien los recibe, respectivamente. Cuando sea necesario realizar traspasos por montos superiores, se requerirá autorización del Congreso del Estado.
+El Titular del Poder Ejecutivo, por conducto de la Secretaría podrá autorizar a las Dependencias y Entidades a realizar traspasos entre sí, que en conjunto no rebasen un monto equivalente al 6.5% de los presupuestos anuales de quien los otorga y de quien los recibe, respectivamente. Cuando sea necesario realizar traspasos por montos superiores, se requerirá autorización del Congreso del Estado.
 
 En el caso del presupuesto municipal, el presidente municipal podrá realizar los traspasos a que se refiere el párrafo anterior, sólo por causa grave, dando cuenta de inmediato al Ayuntamiento.
 
@@ -613,7 +615,7 @@ Una vez concluida la vigencia del presupuesto de egresos, procederá hacer pagos
 
 En casos excepcionales y debidamente justificados, sólo por acuerdo expreso del Titular del Poder Ejecutivo del Estado o del Ayuntamiento, la Secretaría o la Tesorería respectivamente, podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -727,7 +729,7 @@ Las conversiones de plazas, renivelaciones de puestos y creación de categorías
 
 Las economías que se presenten en los presupuestos de egresos por concepto de servicios personales, deberán aplicarse de conformidad con los criterios establecidos en el segundo párrafo del artículo 59.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 92.
 
@@ -873,7 +875,7 @@ Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Públic
 
 Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LÉ DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -885,7 +887,7 @@ EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE DICIEMBRE DE 2005.
 
@@ -912,3 +914,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 El titular del Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo que no excederá de 180 días contados a partir de la entrada en vigor de este Decreto para adecuar su normatividad al contenido del mismo.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
