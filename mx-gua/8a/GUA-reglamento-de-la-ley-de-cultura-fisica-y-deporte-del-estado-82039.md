@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-cultura-fisica-y-deporte-del-estado-820
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-01"
-last_updated: "2011-07-01"
+last_updated: "2012-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 1 de julio de 2011.
 
@@ -772,3 +774,11 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El Presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga el Decreto Gubernativo Número 170, publicado en el Periódico Oficial del Gobierno del Estado número 104, Segunda Parte, del primero de julio de dos mil once, mediante el cual se expidió el Reglamento de la Ley de Cultura Física y Deporte del Estado de Guanajuato.
