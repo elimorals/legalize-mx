@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-10-11"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3999,13 +3999,17 @@ II.- Cuando el valor de lo robado exceda de treinta pero no de cien veces el sal
 
 III.- Cuando el valor de lo robado excediere de cien días de salario, pero no de trescientos, se impondrán de dos a cuatro años de prisión y multa de cincuenta a doscientos días de salario;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-IV.- Cuando el valor de lo robado sobrepasare trescientos días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientos días de salario; y
+IV.- Cuando el valor de lo robado sobrepasare trescientos días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientos días de salario;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes como remolques o semirremolques, se impondrá de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo.
+V.- Cuando el objeto del robo sea la sustracción, apoderamiento, comercialización, detentación o posesión de cualquier objeto, componente o material utilizado en la prestación de algún servicio público, tal como el alumbrado, energía eléctrica, agua potable, drenaje sanitario, drenaje pluvial, telecomunicaciones, señalización vial, urbana o servicio de limpia, incluyendo cualquier alcantarilla o tapa de registro de alguno de los servicios referidos o cualquier clase de mobiliario urbano; se impondrá de cuatro a ocho años de prisión y multa de quinientos a dos mil días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+VI.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes como remolques o semirremolques, se impondrá de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
@@ -5622,5 +5626,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE OCTUBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
