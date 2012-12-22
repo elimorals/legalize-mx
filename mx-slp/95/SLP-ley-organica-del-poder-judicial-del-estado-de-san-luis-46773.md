@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2012-07-31"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -437,7 +437,7 @@ Por lo que toca a los casos de excusas y recusaciones, se estará al procedimien
 
 La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de las ternas propuestas que presentará el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes de la integración del Tribunal Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 37.
 
@@ -565,7 +565,7 @@ XIII. Las demás que señalen las disposiciones aplicables, y las que le encomie
 
 ### CAPITULO VI. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 49.
 
@@ -637,7 +637,7 @@ IX. Las demás que les encomienden las leyes.
 
 Los jueces del Ramo Civil conocerán, tramitarán y resolverán todos los negocios del orden civil, con exclusión de aquellos cuyo conocimiento corresponda específicamente a los jueces de lo familiar y, en su caso, a los jueces menores, así como de aquellos en que la ley expresamente los faculte.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
 
@@ -665,9 +665,9 @@ VIII. En general de todas las cuestiones familiares que reclamen la intervenció
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic)que en el momento de la comisión de la conducta atribuida hayan sido menores.
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ARTICULO 53 TER. Los jueces de ejecución especializados en justicia para menores, tendrán las atribuciones siguientes:
 
@@ -881,7 +881,7 @@ Para ser Secretario de Acuerdos se requiere ser ciudadano mexicano, licenciado e
 
 Tratándose de secretarios de acuerdos de juzgado menor, se deberán satisfacer los mismos requisitos a los que alude el párrafo anterior, excepto la experiencia profesional, que deberá ser de un año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 73.
 
@@ -1085,7 +1085,7 @@ El Consejo de la Judicatura estará presidido por el Presidente del Supremo Trib
 
 ### CAPITULO II. De las Sesiones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 90.
 
@@ -1107,7 +1107,7 @@ El consejero que disintiere de la mayoría podrá formular voto particular, el c
 
 El Pleno del Consejo de la Judicatura calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será sustituido por el Magistrado del Supremo Tribunal de Justicia, en los términos del artículo 89 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 93.
 
@@ -1313,7 +1313,7 @@ La Contraloría del Poder Judicial dependiente del Consejo de la Judicatura, a t
 
 La Contraloría se integrará con un Contralor y el personal necesario para el cumplimiento de sus funciones, designado por el Consejo de la Judicatura, a propuesta de su Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 109.
 
@@ -1451,7 +1451,7 @@ El Instituto contará con el área de investigación, la cual tendrá como funci
 
 ### CAPITULO V. De la Oficialía de Partes Común
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 125.
 
@@ -1599,7 +1599,7 @@ El personal de la Gaceta Judicial será designado por el Consejo de la Judicatur
 
 El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado, se hará mediante el sistema de carrera judicial, la cual se regirá por los principios de excelencia, profesionalismo, probidad, objetividad, imparcialidad, independencia y antigüedad, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 148.
 
@@ -1947,9 +1947,11 @@ Las sanciones administrativas se impondrán tomando en cuenta lo que al efecto p
 
 La aplicación de las sanciones a que se refiere el artículo 181 de esta Ley, corresponde al Consejo de la Judicatura. Tratándose de las que correspondan a los magistrados resolverá el Pleno del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 184.
 
-El procedimiento administrativo se iniciará mediante queja de los órganos auxiliares o de los particulares que tengan interés jurídico, la que se formulará por escrito o de manera verbal, pero en éste último caso se levantará acta circunstanciada de la misma. También podrá iniciarse de oficio por el superior jerárquico del presunto infractor, o por cualquiera de los consejeros cuando la gravedad de la irregularidad observada así lo amerite y, en tal caso, corresponderá al Pleno del Consejo de la Judicatura imponer al responsable la sanción respectiva.
+El procedimiento administrativo se iniciará mediante queja de los órganos auxiliares o de los particulares que tengan interés jurídico, la que se formulará por escrito o de manera verbal, pero en éste último caso se levantará acta circunstanciada de la misma. También podrá iniciarse de oficio por el superior jerárquico del presunto infractor, o por cualquiera de los consejeros cuando la gravedad de la irregularidad observada así lo amerite y, en tal caso, corresponderá al Pleno del Consejo de la Judicatura imponer al responsable la sanción respectiva. Asimismo, iniciará el procedimiento disciplinario correspondiente derivado de las resoluciones emitidas por los organismos constitucionalmente autónomos. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
 ###### ARTICULO 185.
 
@@ -2117,7 +2119,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -2200,6 +2202,12 @@ SEGUNDO. Se concede un plazo de sesenta días naturales para que el Consejo Esta
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
