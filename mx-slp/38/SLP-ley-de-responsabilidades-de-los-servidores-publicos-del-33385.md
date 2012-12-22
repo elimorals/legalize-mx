@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2011-12-27"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE DICIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 794 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -547,9 +545,15 @@ XXX. Las demás que les impongan otras disposiciones legales y reglamentarias.
 
 En las dependencias y entidades de la administración pública estatal y municipal, se establecerán unidades específicas a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+De igual forma se iniciará el procedimiento disciplinario correspondiente derivado de las resoluciones emitidas por los organismos constitucionalmente autónomos. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 58.
 
-Los órganos de control, en el ámbito de sus respectivas competencias y de manera coordinada, establecerán las normas y procedimientos para que las quejas y denuncias de la población sean atendidas y resueltas con efectividad.
+Los órganos de control, en el ámbito de sus respectivas competencias, y de manera coordinada, establecerán las normas y procedimientos para que las quejas y denuncias de la población, así como las resoluciones que emitan los organismos constitucionalmente autónomos, sean atendidas y resueltas con efectividad.
 
 ### CAPITULO III. De las Autoridades Competentes para Aplicar las Sanciones Disciplinarias
 
@@ -1096,3 +1100,9 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
