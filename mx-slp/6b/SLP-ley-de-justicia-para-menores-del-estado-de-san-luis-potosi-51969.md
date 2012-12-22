@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2011-11-10"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -1199,69 +1199,139 @@ Los espacios destinados al cumplimiento de esta medida deben estar totalmente se
 
 La medida de internamiento definitivo es la más severa prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los menores sólo mediante orden escrita de autoridad judicial competente. Esta medida sólo se puede imponer a quienes tengan, o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años de edad; y hayan cometido alguna de las siguientes conductas tipificadas como delitos en el Código Penal del Estado:
 
-I. Homicidio por culpa, a que se refiere el artículo 64;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-II. Homicidio simple intencional, previsto en los artículos 107 y 107 Bis;
+I. Homicidio por culpa previsto en el artículo 64;
 
-III. Feminicidio, previsto en el artículo 114 Bis;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-IV. Homicidio calificado, previsto en el artículo 123;
+II. Homicidio simple intencional, al que se refiere el artículo 107;
 
-V. Parricidio, previsto en el artículo 127;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-VI. Aborto, previsto en el artículo 128;
+III. Feminicidio que prevé el artículo 114 Bis;
 
-VII. Ataque peligroso, previsto en el artículo 131;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-VIII. Privación ilegal de la libertad, previsto en el artículo 134;
+IV. Homicidio calificado, a que se refiere el artículo 123;
 
-IX. Secuestro, secuestro exprés, secuestro simulado, previsto en los artículos 135, 135 Bis y 135 Ter;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-X. Robo de infante e incapaces, previsto en el artículo 137;
+V. Parricidio, previsto por el artículo 127;
 
-XI. Tráfico de menores, previsto en el artículo 140;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XII. Asalto, previsto en los artículos 144 y 145;
+VI. Aborto, a que se refiere el artículo 128;
 
-XIII. Exposición al peligro, a que se refiere el artículo 147 Bis;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XIV. Abuso sexual calificado, previsto en el artículo 148;
+VII. Ataque peligroso, que prevé el artículo 131;
 
-XV. Violación, prevista en el artículo 150;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XVI. Violación equiparada, prevista en los artículos 152 y 153;
+VIII. Privación ilegal de la libertad, a que se refiere el artículo 134;
 
-XVII. Corrupción de menores, previsto en el artículo 180;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XVIII. Robo equiparado, que señala el artículo 195 Bis;
+IX. Secuestro, previsto por los artículos, 135, 135 Bis, 135 Ter y 136;
 
-XIX. Robo calificado, a que se refiere en el artículo 200, con las salvedades previstas en el artículo 407 del Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XX. Extorsión, a que se refiere el artículo 212;
+X. Desaparición forzada de personas, previsto en el párrafo tercero del artículo 136 Quinque;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XV (SIC). Abigeato, previsto en los artículos 216 a 221 del Código Penal;
+XI. Robo de Infante, previsto por el artículo 137;
 
-XXII. Motín, previsto en el artículo 249;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+XII. Tráfico de menores, a que se refiere el artículo 140;
 
-XVI (SIC). Asociación delictuosa, previsto en los artículos 265 y 266 del Código Penal;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+XIII. Asalto, previsto por los artículos 144 y 145;
 
-XVII (SIC). Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303 del Código Penal, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+XIV. Exposición al peligro, que señala el artículo 147 Bis;
 
-XVIII (SIC). Narcomenudeo, previsto en los artículos 325 y 326 del Código Penal.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Las demás conductas tipificadas como delitos graves por la legislación penal del Estado.
+XV. Uso ilícito de equipos de radiocomunicación, previsto en el artículo 147 Ter;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XVI. Abuso sexual calificado, a que se refiere el artículo 148;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XVII. Violación, a que se refiere los artículos, 150, 152, 153 y 154;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previstas en los artículos, 179 Bis, 180 y 180 Bis;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XIX. Pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, a que se refieren los artículos, 182 y 182 Bis;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XX. Turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previsto en el artículo 183;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXI. Lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, a que se refieren los artículos 184 y 184 Bis;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXII. Trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previsto en los artículos, 187 y 188;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Lenocinio y trata de personas, previstos en los artículos, 188 Bis, 188 Ter y 188 Quáter;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXIV. Robo equiparado, a que se refiere el artículo 195 Bis;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXV. Robo calificado, que señala el artículo 200, excepto en los casos de las fracciones, II (cuando se cometa en casa habitación y el valor de lo robado exceda de cien veces el salario mínimo vigente) y XII;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXVI. Extorsión, previsto en los artículos, 212, y 212 Bis en el párrafo segundo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Abigeato, a que se refieren los artículos, 216, 219 y 221;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXVIII. Motín, previsto en los artículos, 249 y 250;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXIX. Asociación delictuosa, previsto en los artículos, 265 y 266;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXX. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Narcomenudeo, previsto en los artículos, 325 y 326, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XXXII. Las demás conductas tipificadas como delitos graves por la legislación penal del Estado.
 
 El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de dieciocho años.
 
-La medida de internamiento definitivo deberá cumplirse en el Centro de Internamiento, o en el Anexo del Centro de Reinserción según corresponda.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+La medida de internamiento definitivo deberá cumplirse en el Centro de Internamiento o en el Anexo del Centro de Reinserción, según corresponda. Los mayores de dieciocho años deberán cumplir la medida de internamiento en lugar separado de los menores.
 
 En caso de que el menor durante el cumplimiento de la medida que le haya sido impuesta o hasta dos años posteriores a la conclusión del mismo, cometiere una nueva conducta tipificada como delito en las leyes, no será sujeto de los beneficios, adecuaciones, o cumplimientos anticipados que eventualmente pudieran actualizarse.
 
@@ -1764,3 +1834,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
