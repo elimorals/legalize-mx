@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -229,8 +229,6 @@ CEDULAR A LOS INGRESOS POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INM
 
 Es objeto de este impuesto el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado de Oaxaca.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 23.
 
 Son sujetos de este impuesto las persona físicas que perciban ingresos por otorgar a título oneroso el uso o goce temporal de bienes inmuebles ubicados en el territorio del Estado de Oaxaca, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
@@ -245,7 +243,9 @@ Para los efectos de este capítulo se consideran ingresos gravables por este imp
 
 Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
 
-Cuando los ingresos gravados por este impuesto, deriven devienes (sic) en copropiedad, cada uno de los copropietarios deberán cumplir con todas las obligaciones en materia de este impuesto, debiendo cubrirlo en la parte que le corresponda atendiendo a la participación en la propiedad sobre la cosa común, que conste en el documento constitutivo de la copropiedad.
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad, cada uno de los copropietarios deberán cumplir con todas las obligaciones en materia de este impuesto, debiendo cubrirlo en la parte que le corresponda atendiendo a la participación en la propiedad sobre la cosa común, que conste en el documento constitutivo de la copropiedad.
 
 Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
 
@@ -297,21 +297,21 @@ La institución fiduciaria efectuará pagos bimestrales definitivos y enterará 
 
 Cuando se extinga el contrato de fideicomiso irrevocable aludido en este artículo, la institución fiduciaria deberá dar aviso a la Secretaría de tal situación a efecto de que la misma verifique el cumplimiento de las obligaciones fiscales previstas en este capítulo por cada uno de los fideicomisarios.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
 Este impuesto se calculará aplicando a la base la tasa del 5 por ciento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 27.
+###### ARTÍCULO 27.
 
 El pago de este impuesto se efectuará mediante declaración bimestral definitiva dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 28.
+###### ARTÍCULO 28.
 
 Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en esta Ley, las siguientes obligaciones:
 
@@ -347,8 +347,6 @@ El pago de este impuesto se efectuará mediante declaración bimestral definitiv
 
 ### CAPÍTULO QUINTO. SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 34.
 
 Para los efectos de este Capítulo se considera como:
@@ -369,7 +367,9 @@ b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros;
 
 c) Automóviles con motor diesel;
 
-d) Camiones con motor de gasolina, gasodiesel (sic);
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+d) Camiones con motor de gasolina, gas o diesel;
 
 e) Tractores no agrícolas tipo quinta rueda;
 
@@ -397,7 +397,9 @@ XII. Vehículos: A los autos, camionetas, minibuses, microbuses, camiones, autob
 
 XIII. Vehículo nuevo:
 
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuido por comerciantes en el ramo de vehículos, y
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, y
 
 b) El importado definitivamente al país que corresponda al año modelo en que se efectúa la importación o a un año posterior y que dicha información corresponda al número de identificación vehicular;
 
@@ -767,7 +769,7 @@ Clasificación Número de Salarios Mínimos
 
 Camionetas tipo pick up,
 
-ómnibus, minibús, microbús,
+ómnibus, autobus, minibús, microbús,
 
 camiones y tractores no
 
@@ -921,15 +923,15 @@ Los sujetos obligados de este impuesto, deberán pagarlo en el momento de liquid
 
 Los prestadores de los servicios a que hace referencia el artículo 52 de esta Ley, deberán retener dicho impuesto al momento de hacer efectivo los importes señalados en el artículo 54 del mismo ordenamiento y enterarlo a la Secretaría con base en lo dispuesto por el artículo 57 de la presente Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 57.
 
 Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje, quienes tendrán las siguientes obligaciones:
 
 I. Enterar una cantidad equivalente a la que debieron retener en los términos de este capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado, y
 
-II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada enlosprimeros17díasdelosmesesdemarzo (sic), mayo, julio, septiembre, noviembre, y enero del año siguiente.
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
 
@@ -1129,7 +1131,7 @@ Los productos por conceptos diversos de los señalados, en el artículo que ante
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 73.
 
@@ -1161,7 +1163,7 @@ III. Los provenientes por ventas de bienes y servicios producidos en establecimi
 
 ###### ARTÍCULO 75.
 
-Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; inclúyelos (sic) recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
+Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; inclúye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
 
 ## TÍTULO OCTAVO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
