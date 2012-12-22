@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2010-12-25"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -143,7 +145,7 @@ Son sujetos de este impuesto las personas físicas o morales obligadas a efectua
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.25 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 12.
 
@@ -159,7 +161,7 @@ El impuesto sobre nóminas se liquidará aplicando la tasa del dos por ciento a 
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 14.
 
@@ -173,7 +175,7 @@ La obligación de presentar declaración subsistirá, aún cuando no se hayan ef
 
 #### SECCION SEXTA. DE LAS EXENCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -215,7 +217,7 @@ c). Los partidos políticos.
 
 #### SECCION SEPTIMA. DE LA ESTIMACION DE EROGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 16.
 
@@ -225,7 +227,7 @@ I.- Cuando no presenten sus declaraciones o no lleven los libros o registros con
 
 II.- Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION OCTAVA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES DE ESTE IMPUESTO
 
@@ -381,7 +383,7 @@ Este Impuesto se causará y pagará conforme a las cuotas y tasas que señale la
 
 #### SECCION CUARTA. DEL PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 30.
 
@@ -413,13 +415,13 @@ II.- A manifestar por escrito a la misma Secretaría, la baja de la explotación
 
 Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el artículo anterior la de garantizar a satisfacción de la Secretaría de Hacienda el pago del impuesto a que se refiere este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VII (SIC)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -431,7 +433,7 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -463,7 +465,7 @@ Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del 
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -485,13 +487,13 @@ Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba 
 
 La Federación, el Estado, los Municipios, así como sus organismos y entidades, deberán pagar el Impuesto sobre Tenencia o Uso de Vehículos, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o municipales o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -503,7 +505,7 @@ El presente impuesto se causará por la tenencia o uso de automóviles, autobuse
 
 #### SECCION CUARTA. DEL PAGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -2009,9 +2011,9 @@ El Secretario General de Gobierno,
 
 Lic. Javier Germán Rodríguez Jiménez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 25 DE DICIEMBRE DE 1991
+P.O. 25 DE DICIEMBRE DE 1991.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir del día 1º. de enero de mil novecientos noventa y dos previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -2116,3 +2118,9 @@ El presente decreto entrará en vigor a partir del 1° de Enero del año dos mil
 P.O. 25 DE DICIEMBRE DE 2010.
 
 Artículo Único.- El contenido del presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción lo (sic) previsto en el artículo 15 que entrará en vigor el día 1° de Enero del año dos mil once.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda publicada por Decreto 7367, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contravengan lo dispuesto por la presente Ley
