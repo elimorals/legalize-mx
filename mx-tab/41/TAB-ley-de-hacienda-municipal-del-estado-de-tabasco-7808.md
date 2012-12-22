@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2008-12-13"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -413,91 +413,93 @@ La aplicación de sanciones en materia fiscal municipal será competencia de la 
 
 ### CAPITULO VI. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 49.
 
-Contra las resoluciones dictadas en materia fiscal municipal, procederán los recursos administrativos que establece esta Ley.
+Contra los actos administrativos y las resoluciones dictadas en materia fiscal municipal procederá el recurso de revocación.
 
-Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas. Dicha nulidad será declarada, aún de oficio, por la autoridad superior a la que hubiere dictado la resolución.
+El recurso de revocación será optativo para el particular intentarlo o promover juicio ante el Tribunal de lo Contencioso Administrativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 50.
 
-La tramitación de los recursos administrativos establecidos en esta Ley, se sujetarán a las normas siguientes:
+La tramitación del recurso de revocación establecido en esta Ley, se sujetará a lo siguiente:
 
-I.- Se interpondrán por escrito en el que se precisarán los agravios que cause la resolución o acto impugnado y en el que se haga ofrecimiento de pruebas. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas sólo se admitirán en el recursos (sic) las que hubiere allegado en tal oportunidad;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-II.- El escrito será presentado dentro de los diez días hábiles siguientes a la fecha en que surta efecto la notificación del acto que se impugna ante la autoridad que dictó o realizó dicho acto; si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término; por correo certificado con acuse de recibo o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo; la del día en que se haga la entrega en la oficina del correo o a la autoridad que efectuó la notificación;
+I. Se interpondrá por escrito en el que señalará la resolución o acto que se impugna; los agravios que cause la resolución o acto impugnado; los hechos controvertidos de que se trate; y, las pruebas que se correlacionen con los hechos controvertidos de que se trate. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas sólo se admitirán en el recurso las que hubiere allegado en tal oportunidad;
 
-III.- La autoridad encargada de resolver el recurso proveerá desde luego el desahogo de las pruebas ofrecidas al efecto, señalará un término de quince días hábiles dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; asímismo, deberán presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas o porque su desahogo depende de terceros, la autoridad considera insuficiente el plazo de quince días, podrán ampliarlo hasta por tres meses más;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-IV.- Para la resolución de los recursos, las autoridades fiscales podrán pedir que se rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en la formulación de la resolución o acto reclamado;
+II. El escrito será presentado ante la Dirección de Finanzas competente, en razón de la circunscripción territorial donde se llevó a cabo el acto de molestia o la determinación de la resolución definitiva, o ante la que emitió o ejecutó el acto impugnado, dentro de los diez días hábiles siguientes a la fecha en que surta efecto la notificación del acto que se impugna; si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo o bien presentarlo ante la autoridad que le haya notificado la resolución. En el primero de los casos referidos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se haga la entrega en la oficina del correo;
 
-V.- Rendidas las pruebas y recibidos en sus casos los informes se dictarán (sic) resolución dentro de un plazo que no excederá de treinta días, excepto en los recursos de revisión y queja; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-VI.- Estas defensas no podrán ser ejercidas en contra de resoluciones o actos que sean consecuencia de recursos establecidos en otras Leyes Fiscales.
+III. La Dirección de Finanzas, proveerá desde luego el desahogo de las pruebas ofrecidas; para tal efecto, señalará un término de quince días hábiles dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; asimismo, deberán presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas o porque su desahogo depende de terceros, la autoridad considera insuficiente el plazo de quince días, podrá ampliarse el término hasta por quince días hábiles más;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+IV. Para la resolución del recurso, la autoridad fiscal o el recurrente podrán pedir que se rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en la formulación de la resolución o acto reclamado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+V. Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de treinta días hábiles.
+
+VI. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-En materia fiscal municipal procederán los siguientes recursos administrativos:
+Al escrito, por medio del cual se interponga el recurso de revocación, aunado a los requisitos y formalidades previstas en las fracciones I y II del artículo anterior, el recurrente deberá adjuntar:
 
-I.- La revocación;
+I. Testimonio público o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante la autoridad fiscal o fedatario público; que acredite su personalidad cuando actúe a nombre de otro o de una persona jurídica colectiva; asimismo deberá acompañar copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
-II.- La oposición al procedimiento ejecutivo;
+II. Documento en que conste el acto impugnado, salvo que el promovente declare bajo protesta de decir verdad que no recibió constancia o que la notificación se haya efectuado por correo certificado con acuse de recibo. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación del Periódico Oficial del Estado.
 
-III.- La oposición de tercero;
-
-IV.- La reclamación de preferencia;
-
-V.- La nulidad de notificación;
-
-VI.- Revisión;
-
-VII.- Queja; y
-
-VIII.- Cuando se haya iniciado juicio ante la autoridad superior, será imprecedente (sic) la solicitud sobre nulidad de notificaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 52.
 
-La revocación sólo procederá contra resoluciones administrativas en las que se determinen créditos fiscales.
+El recurso de revocación procederá contra:
 
-La resolución que se dicte en el recurso de revocación será impugnable ante el Superior Jerárquico.
+I.- Las resoluciones definitivas dictadas por las autoridades fiscales municipales que:
+
+a. Determinen contribuciones, accesorios o aprovechamientos.
+
+b. Nieguen la devolución de cantidades que procedan conforme a la Ley.
+
+c. Se deriven de una consulta a la autoridad fiscal o de una solicitud de condonación en términos del Código Adjetivo Municipal o, en suplencia, del Código Fiscal del Estado de Tabasco.
+
+II.- Los actos de autoridades fiscales municipales que:
+
+a. Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos o gastos de ejecución.
+
+b. Se dicten en el procedimiento administrativo de ejecución, siempre que este no se ajuste a Ley.
+
+c. Afecten el interés jurídico de terceros, siempre que estos afirmen ser propietario de los bienes o negociaciones, o titular de los derechos embargados, y el recurso o medio de impugnación lo haga valer antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco municipal. El tercero que sostenga tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales municipales, lo deberá hacer valer en cualquier tiempo y hasta antes de que se haya aplicado el producto del remate.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 53.
 
-La oposición al procedimiento ejecutivo será hecha valer ante la oficina ejecutora por quienes hayan sido afectados por él y afirmen:
+En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades fiscales municipales mediante absolución de posiciones.
 
-I.- Que el Crédito que se les exige se ha extinguido por cualquiera de los medios que para el efecto establece el Código Fiscal del Estado;
-
-II.- Que el monto del crédito es inferior al exigido; y
-
-III.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este último caso, la oposición no podrá hacerse valer sino en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-En la oposición a que se refiere este artículo no podrá discutirse la validez de la resolución en que se haya determinado el Crédito Fiscal.
-
-La oposición al procedimiento ejecutivo será resuelta en todos los casos por el Director de Finanzas o Tesorero Municipal.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 54.
 
-La oposición de tercero podrá hacerse valer ante la Oficina Ejecutora por quien no siendo la persona contra la que se despachó ejecución, afirme ser propietario de los bienes o titular de los derechos embargados.
-
-La declaración del ejecutado, no será admisible como prueba de derecho del opositor.
-
-La oposición podrá hacerse valer en cualquier tiempo, antes de que se apruebe el remate.
+La Dirección de Finanzas deberá dictar resolución y notificarla en un término que no excederá de sesenta días hábiles contados a partir de la fecha de interposición del recurso.
 
 ###### Artículo 55.
 
-La reclamación de preferencia será hecha valer por quienes sostengan tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales municipales.
-
-La declaración del ejecutado no será admisible como prueba de derecho del reclamante.
-
-La reclamación podrá hacerse valer en cualquier tiempo antes de que se haya aplicado el producto del remate.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 56.
 
-La nulidad de notificaciones procederá respecto de las que se hicieren en contravención a las disposiciones legales.
-
-La declaratoria de nulidad de notificaciones, traerá como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución de fondo.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ### CAPITULO VII. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA EXTINCION DE LOS CREDITOS FISCALES
 
@@ -517,69 +519,61 @@ Los particulares podrán solicitar que se declare que ha prescrito algún crédi
 
 Si la autoridad determina el crédito o realiza el cobro, solo podrán ejercitarse los recursos establecidos por esta Ley.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ### CAPITULO VIII. DE LOS RECURSOS DE REVISION Y QUEJA
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 60.
 
-Contra las resoluciones dictadas en materia fiscal municipal y después de haber agotado los otros recursos administrativos establecidos, en esta Ley o, cuando no proceda alguno de ellos, sólo podrán interponerse los recursos de revisión y queja.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 61.
 
-Los recursos se interpondrán ante el Director de Finanzas o Tesorero Municipal y ante el C. Presidente o Concejo Municipal, según se trate de impugnar actos y resoluciones dictadas por las dependencias que integran la Dirección de Finanzas o Tesorería Municipal o bien por el Director de Finanzas o Tesorero Municipal.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 62.
 
-Los recursos se interpondrán por escrito en el que se deberá expresar nombre y domicilio del recurrente, resolución o acto que se impugne, funcionario responsable, precepto legal que se estime infringido y motivo de la infracción, precisando los agravios que le cause la resolución o acto impugnado; fecha, firma o huella digital del recurrente, en cuyo caso firmará otra persona a su ruego, asentando constancia de ello. A dicho escrito deberá acompañarse la prueba documental conducente.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 63.
 
-Los recursos deberán hacerse valer dentro del término de quince días a la fecha en que se produzca o se tenga conocimiento de la violación que se impugne.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 64.
 
-El Director de Finanzas o Tesorero Municipal o el Presidente o Concejo Municipal, podrán ordenar la suspensión del acto o resolución reclamados, siempre que esté garantizado el interés fiscal, en alguna de las formas siguientes:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
-I.- Depósito de dinero en la Institución de Crédito que legalmente corresponda;
-
-II.- Prenda o hipoteca;
-
-III.- Fianza otorgada por compañía autorizada, la que no gozará de los beneficios de orden y exclusión;
-
-IV.- Embargo en la Vía Administrativa; y
-
-V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 #### SECCION SEGUNDA. DEL RECURSO DE REVISION
 
 ###### Artículo 65.
 
-Contra los actos y resoluciones de los titulares de las diversas dependencias de la Dirección de Finanzas o Tesorería Municipal exceptuando los casos que tengan tramitación especial en las Leyes o Reglamentos Fiscales, que impongan obligación no legal o que nieguen derechos reconocidos por la Legislación Fiscal a los reclamantes, procede el recurso de revisión ante el Director de Finanzas o Tesorero Municipal.
-
-Los titulares de las dependencias anotaran en el expediente respectivo, la fecha en que se haya efectuado la notificación para comprobar que el recurso fue interpuesto dentro del término que señala el Artículo 50, Fracción II de esta Ley.
-
-Si el interesado interpone el recuso por conducto de los titulares de las dependencias, éstos admitirán y enviarán el expediente a la Dirección de Finanzas o Tesorería Municipal, siempre que el escrito en que se haga valer, se haya presentado dentro del término legal.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 66.
 
-El Director de Finanzas o Tesorero Municipal deberá dictar resolución en relación con los recursos interpuestos, dentro de los quince días siguientes al de la fecha en que le hayan sido presentados o turnados.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 #### SECCION TERCERA. DEL RECURSO DE QUEJA
 
 ###### Artículo 67.
 
-Contra los actos y resoluciones del Director de Finanzas o Tesorero Municipal, procede el recurso de queja ante el Presidente o Concejo Municipal y tiene por objeto revisar aquéllos para los efectos de su confirmación, modificación o revocación en su caso.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 68.
 
-El Director de Finanzas o Tesorero Municipal, deberá turnar el expediente respectivo al Presidente o Concejo Municipal con el escrito en que se interponga el recurso de queja dentro de los tres días siguientes a la fecha en que lo haya recibido.
-
-La Dirección de Finanzas o Tesorería Municipal, deberá anotar en el expediente respectivo la fecha en que se haya efectuado la notificación de la resolución o realizado el acto, para comprobar que el recurso fue interpuesto dentro del término que señala el Artículo 50, Fracción II de esta Ley.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ###### Artículo 69.
 
-El Presidente o Concejo Municipal deberá dictar resolución en relación con los recursos interpuestos, dentro de los quince días siguientes al de la fecha en que le hayan sido turnados.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 ## TITULO II. DE LOS INGRESOS DE LOS MUNICIPIOS
 
@@ -647,13 +641,15 @@ Son participaciones las cantidades que correspondan al Municipio con arreglo a l
 
 Son aportaciones federales que corresponden a los Municipios, los recursos, distintos de las participaciones, que la Federación transfiere a las haciendas públicas municipales en los términos de legislación aplicable, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 78.
 
-Para efectos de esta Ley se considera:
+Para los efectos de esta Ley se considera:
 
-I.- Vivienda de interés social: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el Estado; y
+I. Vivienda de interés social: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
 
-II.- Vivienda popular: aquélla cuyo valor, al término de su edificación, no exceda del monto que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado.
+II. Vivienda popular: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
 
 ###### Artículo 79.
 
@@ -1195,7 +1191,7 @@ Por la revalidación de licencia, permiso y alineamientos, se pagarán en cada c
 
 ###### Artículo 129.
 
-Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por la Dirección de Obras Públicas Municipal, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Desarrollo Social y Protección Ambiental, causarán los siguientes derechos:
+Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por la Dirección de Obras Públicas Municipal, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Desarrollo Social y Protección Ambiental, causarán los derechos siguientes:
 
 I.- Fraccionamientos:
 
@@ -1209,7 +1205,19 @@ IV.- Relotificaciones, por metro cuadrado del área vendible: 0.05 d.s.m.g.v.
 
 V.- Divisiones, por metro cuadrado del área vendible: 0.08 d.s.m.g.v.
 
-VI.- Subdivisiones, por metro cuadrado del área vendible: 0.05 d.s.m.g.v.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VI.- Subdivisiones, por metro cuadrado del área enajenable
+
+Predio urbano 0.05 dsmgv
+
+Predio rústico 0.01 dsmgv
+
+Los predios que se encuentren clasificados en el catastro como predios rústicos, no causarán el pago del derecho a que se refiere esta fracción, cuando acrediten que el fin de la subdivisión es resultado de una herencia o donación o sean tierras destinadas a la producción agrícola o ganadera.
+
+La acreditación a que se refiere el párrafo anterior se realizará a través del instrumento público correspondiente y excepcionalmente por medio de un escrito, en el que bajo protesta de decir verdad, se declare que el fin de la subdivisión es cualquiera de los señalados en el párrafo anterior. La autoridad hacendaria municipal podrá corroborar en cualquier momento dicha circunstancia y procederá al cobro si el destino del predio no es el señalado.
+
+En el caso de los predios urbanos, cuando la subdivisión sea con la finalidad de desarrollar vivienda de interés social o vivienda popular se pagará 0.03 dsmv por metro cuadrado enajenable.
 
 ### CAPITULO IV. DE LA PROPIEDAD MUNICIPAL
 
@@ -1247,15 +1255,35 @@ II.- En las calles sin pavimento o asfalto, por metro lineal: 2 d.s.m.g.v.
 
 Cuando los interesados deseen hacer los trabajos de entronque por su cuenta, están obligados a recabar el permiso que otorgue la Dirección de Obras Públicas del Municipio que corresponda, quedando obligados a reparar por su cuenta, los desperfectos que sufran las banquetas y el pavimento o asfalto de las calles, previa supervisión. Se pagará por este Derecho de entronque 2 v.s.m.g.v.
 
-2.- Por conexiones a las redes de servicios públicos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-I.- Por llave o inserción a la red de agua potable 4 d.s.m.g.v.
+2.- Por lo que respecta a los derechos de interconexión a la red de agua potable y alcantarillado, se pagará lo siguiente:
 
-II.- Por cada reinstalación de servicios: 3 d.s.m.g.v.
+a) Por cada vivienda de interés social: Agua Potable 15 d.s.m.g.v
 
-III.- Todo entronque pagará por metro lineal de rotura 2 d.s.m.g.v.
+Alcantarillado 10 d.s.m.g.v.
 
-La falta de permiso para realizar trabajos de entronque se sancionará con multa hasta de 5 días de salario mínimo general vigente en el Estado, independientemente del cobro de los derechos correspondientes.
+b) Por cada vivienda popular: Agua Potable 25 d.s.m.g.v.
+
+Alcantarillado 15 d.s.m.g.v.
+
+c) Por cada vivienda residencial: Agua Potable 45 d.s.m.g.v
+
+Alcantarillado 21 d.s.m.g.v
+
+d) Por reconexión a la red de agua 8 d.s.m.g.v
+
+potable (en caso de suspensión)
+
+e) Por gastos de supervisión 5% del costo total de la inversión para la
+
+normativa para las obras que deban infraestructura hidráulica y sanitaria.
+
+desarrollar:
+
+Para efectos de los incisos a, b y d del presente apartado y en el supuesto de fraccionamientos y/o condominios, el pago de los derechos se llevará a cabo en parcialidades de conformidad con el siguiente procedimiento: una vez determinado el monto total a pagar del Fraccionamiento o Condominio de conformidad con los incisos referidos, se dividirá entre el número de inmuebles que integren el mismo, el pago de dichas contribuciones deberá efectuarse por unidad, con anterioridad a la solicitud de la cédula catastral necesaria para su enajenación a terceros.
+
+Los derechos contemplados en este apartado sólo se pagarán hasta en tanto el Congreso del Estado no haya aprobado las tarifas y derechos propuestas por el respectivo organismo operador prestador del servicio de agua potable y alcantarillado, en los términos que establece la legislación en la materia.
 
 3.- Por el uso del suelo, número oficial (incluyendo la placa), alineamientos y rectificaciones.
 
@@ -1703,7 +1731,7 @@ Quedan sin efecto todas las disposiciones legales que se opongan a este Decreto.
 
 P.O. 27 DE SEPTIEMBRE DE 2000.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 359 POR EL QUE “SE REFORMA EL ARTÍCULO 115 PRIMER PÁRRAFO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 359 POR EL QUE "SE REFORMA EL ARTÍCULO 115 PRIMER PÁRRAFO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
@@ -1714,3 +1742,9 @@ P.O. 13 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+SEGUNDO. Los recursos administrativos presentados con anterioridad a la entrada en vigor del presente Decreto, serán substanciados y concluidos a elección de quien lo haya presentado conforme a las disposiciones nuevas o a las disposiciones vigentes en la Ley de Hacienda Municipal del Estado de Tabasco con anterioridad a la vigencia del presente Decreto.
