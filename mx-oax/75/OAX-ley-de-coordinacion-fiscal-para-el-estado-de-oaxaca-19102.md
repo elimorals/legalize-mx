@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2011-12-17"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -65,7 +65,7 @@ IV. Participaciones: Las participaciones Federales que el Estado y los Municipio
 
 V. Aportaciones: Los Fondos de Aportaciones Federales transferidos por la Federación por conducto del Estado a favor de los Municipios de conformidad con el Capítulo V de la Ley de Coordinación.
 
-> <small>N. DE E. ENRELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -82,6 +82,12 @@ Los Municipios del Estado podrán celebrar los referidos Convenios de Coordinaci
 I. Tratándose de dos o más Municipios del Estado, previo acuerdo entre sus Ayuntamientos; y,
 
 II. Tratándose de dos o más Municipios de otros Estados, en este caso, deberán de contar con la aprobación de la Legislatura del Estado correspondiente y publicarse dicha autorización en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 4A.- Los Municipios del Estado deberán informar dentro de los primeros diez días de cada mes, sobre los ingresos recaudados incluso las contribuciones pagadas en especie o en servicios, a la Secretaría y Auditoria Superior del Estado a fin de cumplir con la cuenta comprobada que mensualmente se remite a la Secretaría de Hacienda y Crédito Público.
+
+Asimismo, las autoridades municipales estarán obligadas a mantener bajo resguardo y custodia la documentación justificatoria y comprobatoria de los ingresos recaudados, hasta en tanto no se extingan las facultades de fiscalización correspondientes.
 
 ### CAPITULO SEGUNDO. DE LOS INGRESOS FEDERALES A LOS MUNICIPIOS
 
@@ -127,7 +133,7 @@ Los Municipios, además de las Participaciones establecidas en la presente Ley r
 
 El Fondo Municipal de Participaciones se constituirá con las cantidades resultantes de las fracciones I, III, IV, V, VI y VII del artículo 5 de esta Ley y se distribuirá a los Municipios conforme a la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El número de habitantes de cada Municipio se tomará de la última información que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
@@ -141,7 +147,7 @@ La fórmula anterior no será aplicable en el evento de que en el año de cálcu
 
 El Fondo de Fomento Municipal se constituirá con las cantidades resultantes de la fracción II del artículo 5 de esta Ley y se distribuirá a los Municipios mediante la siguiente fórmula:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo de Fomento Municipal sea inferior al observado en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2007 de cada municipio.
 
@@ -153,13 +159,13 @@ I. 70% en proporción directa al número de habitantes de cada Municipio con rel
 
 II. 30% se distribuirá entre los Municipios mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Los índices de marginación de cada Municipio se tomarán de la última información que hubiere dado a conocer el Consejo Nacional de Población; a dichos índices se sumará una constante equivalente al valor absoluto más uno del índice de marginación que sea menor para evitar que aparezcan Municipios con índice de marginación negativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -169,13 +175,13 @@ I. 70% en proporción directa al número de habitantes de cada Municipio con rel
 
 II. 30% se distribuirá entre los Municipios mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La información sobre ingresos propios recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos de acuerdo con las cifras de la cuenta pública enterada por cada municipio a la Legislatura del Estado, correspondiente al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las participaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -191,25 +197,25 @@ I. En forma mensual dentro de los cinco días siguientes a la fecha en que se re
 
 Con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REFORMADA, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
 
 II. En concepto de anticipos a cuenta de participaciones los días 15 y último de cada mes en partes iguales, cuando el Municipio autorice a la Secretaría, mediante petición expresa a través de acta de cabildo aprobada por mayoría de sus integrantes formulada exclusivamente para estos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 El monto quincenal que se liquidará a cada municipio en concepto de anticipo a cuenta de Participaciones se calculará tomando como base el 90% de los Montos estimados en el Decreto y se distribuirá de acuerdo con los factores de distribución señalados en el propio Decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -219,9 +225,9 @@ La participación que corresponde a los Municipios, resultantes del fondo establ
 
 El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-Recepcionado los montos por los Municipios, estos deberán registrarlos como ingresos propios y emitir el recibo oficial correspondiente en un plazo máximo de diez días contados a partir de su recepción.
+Recepcionados los montos por los Municipios, estos deberán registrarlos como ingresos propios y remitir el recibo oficial correspondiente en un plazo máximo de diez días contados a partir de su recepción a la Secretaría.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -231,7 +237,7 @@ Para efectos de recepción de los ingresos regulados en la presente Ley, los Mun
 
 Las Participaciones que reciban los Municipios, con base en la presente Ley, deberán ser incluidas en sus leyes de ingresos de cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -239,7 +245,7 @@ Las Participaciones que reciban los Municipios, con base en la presente Ley, deb
 
 La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos de participaciones vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación como en la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -247,7 +253,7 @@ La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos 
 
 Las bases, factores de distribución, montos estimados y plazos de las participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Estado, el que se publicará en el Periódico Oficial del Gobierno del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -255,7 +261,7 @@ Tratándose de los montos de las participaciones a que se refiere este artículo
 
 El Estado, a través de la Secretaría independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los Municipios por escrito, el monto anual estimado de sus Participaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
 
@@ -465,6 +471,108 @@ Cuando las autoridades fiscales municipales actúen con base en los convenios re
 
 El Estado por conducto de la Secretaría, constituirá con el 20% de las cantidades que perciba en el ejercicio que se trate por concepto del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere el TÍTULO SEGUNDO.- DE LOS IMPUESTOS.- CAPÍTULO IV, APARTADO B.- VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR de la Ley de Hacienda del Estado de Oaxaca, un Fondo que se participará a los municipios de la entidad, con base en el incremento de sus ingresos propios por encima de la inflación y de las disposiciones que al efecto establezca la Secretaría.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO QUINTO. DEL SISTEMA ESTATAL DE COORDINACIÓN FISCAL
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 29.
+
+Se establece el Sistema Estatal de Coordinación Fiscal con sus Municipios que tendrá por objeto:
+
+I. Coordinar el Sistema Fiscal del Estado y sus Municipios;
+
+II. Fijar las reglas de colaboración administrativa entre ambos niveles de gobierno;
+
+III. Constituir los organismos en materia de coordinación fiscal y definir su organización, funcionamiento y facultades, y
+
+IV. Establecer las bases de coordinación entre el Estado y los Municipios para la revisión y elaboración de propuestas en torno a la coordinación fiscal con la Federación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 30.
+
+El Ejecutivo del Estado y los Municipios participarán en el desarrollo del Sistema Estatal de Coordinación Fiscal a través del Consejo de Coordinación Hacendaria, el que será competente para:
+
+I. Establecer la forma de comunicación e intercambio de experiencias e información entre las haciendas públicas de los tres ámbitos de gobierno;
+
+II. Establecer los procesos para lograr el perfeccionamiento del Sistema a fin de que se mantenga acorde a los cambios sociales, económicos y políticos que experimente el Estado;
+
+III. Analizar la legislación fiscal estatal y municipal, y en su caso proponer las reformas, adiciones y derogaciones que sean necesarias a las mismas;
+
+IV. Opinar sobre la organización de las haciendas públicas municipales, a fin de que contribuya a elevar la recaudación;
+
+V. Proponer programas de capacitación, formación, desarrollo de personal y de intercambio tecnológico;
+
+VI. Establecer los procesos para la implantación del sistema de evaluación del desempeño institucional, e
+
+VII. Impulsar la transparencia y rendición de cuentas en el manejo de los recursos públicos que conforman la hacienda pública municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 31.
+
+El Consejo de Coordinación Hacendaria, será un órgano técnico formado por:
+
+I. Un Presidente, quien será el Titular de la Secretaría de Finanzas;
+
+II. Un Secretario, quien será el Subsecretario de Ingresos y Fiscalización;
+
+III. Vocales quienes serán:
+
+a) Las autoridades hacendarias municipales;
+
+b) El Presidente diputado de la Comisión Permanente de Hacienda;
+
+c) El El Presidente diputado de la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, y
+
+d) El titular de la Auditoría Superior del Estado.
+
+Los cargos del Consejo de Coordinación Hacendaria son honoríficos.
+
+Las autoridades municipales se elegirán mediante sorteo previo, eligiéndose el 5% de los municipios que correspondan a cada una de las regiones.
+
+Para este fin, se determinan regiones hacendarias: Cañada, Costa, Istmo, Mixteca, Papaloapan, Valles Centrales, Sierra Norte y Sierra Sur, de conformidad con el Plan Estatal de Desarrollo.
+
+El sorteo se llevará a cabo a más tardar el último día del mes de enero de cada ejercicio fiscal con la presencia de los diputados presidentes de las comisiones permanentes del H. Congreso del Estado, mencionados antes y el titular de la Auditoría Superior del Estado, resultado que deberá publicarse en el Periódico Oficial del Estado conjuntamente con la convocatoria para llevar a cabo la instalación del Consejo de Coordinación Hacendaria.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 32.
+
+Los integrantes del Consejo de Coordinación Hacendaria podrán nombrar un suplente, los suplentes de los Presidentes Municipales serán sus respectivos Tesoreros.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 33.
+
+El Consejo de Coordinación Hacendaria sesionará de manera ordinaria, en el mes de febrero y octubre de cada año, a convocatoria del Presidente o cuando el 30% de sus integrantes lo soliciten.
+
+Corresponde al Secretario integrar la agenda de los asuntos a tratar.
+
+El Consejo de Coordinación Hacendaria podrá sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, con el Presidente, el Secretario y los vocales presentes.
+
+Los integrantes del Consejo de Coordinación Hacendaria tendrán voz y voto, excepto el Secretario y los representantes de las Comisiones Permanentes de Hacienda y de Vigilancia de la Auditoría Superior del Estado, del Poder Legislativo quienes sólo tendrán voz.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 34.
+
+Las decisiones del Consejo de Coordinación Hacendaria, se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+
+Los acuerdos que se determinen en las sesiones del Consejo de Coordinación Hacendaria se harán constar en acta, misma que firmará el Presidente y el Secretario y de la cual se proporcionará copia a los representantes de las regiones presentes y a los vocales que lo soliciten.
+
+Los acuerdos que tome el Consejo de Coordinación Hacendaria, serán vinculatorios, y se darán en estricto respeto a la soberanía estatal y a la autonomía municipal, dándose a conocer a todos y cada uno de los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 35.
+
+Para la atención y resolución de problemas específicos el Consejo de Coordinación Hacendaria, podrá formar comisiones regionales o especializadas, las cuales estarán integradas por el Secretario, quien las presidirá, y los tesoreros de los Municipios involucrados.
+
+En estas comisiones se podrá invitar a participar a instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia hacendaria.
+
 TRANSITORIO (sic):
 
 PRIMERO.- La presente Ley entrará en vigor a partir del día 1º de enero del año 2001, previa publicación en el Periódico Oficial del Gobierno del Estado.
@@ -531,7 +639,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 2001.
 
@@ -582,3 +690,7 @@ P.O. 29 DE DICIEMBRE DE 2010.
 P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
