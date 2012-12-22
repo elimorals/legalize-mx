@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-44728"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-20"
-last_updated: "2010-01-06"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
-LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2010.
+LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 20 de abril de 2005.
 
@@ -2546,3 +2548,17 @@ SEGUNDO.- Se derogan todas las disposiciones legales de igual rango o naturaleza
 TERCERO.- La Secretaria de Recursos Naturales y Protección Ambiental deberá formular los programas necesarios para hacer cumplir el presente Decreto en un plazo de seis meses a partir de su entrada en vigor.
 
 CUARTO.- Los sujetos obligados en el artículo 140 bis y 140 ter deberán proceder al reemplazo de las bolsas de polietileno que utilicen o expendan en un plazo no mayor a dieciocho meses posterior a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 257 POR EL QUE “SE EXPIDE LA LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. La presente Ley entrará en vigor a partir de los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Protección Ambiental del Estado de Tabasco, publicada en el Suplemento "B" al Periódico Oficial del Estado número 6534, de fecha 20 de abril de 2005, y se derogan todas las disposiciones que contravengan las disposiciones de la presente Ley.
+
+TERCERO. Los reglamentos que se deriven de esta Ley, deberán ser expedidos dentro de los 365 días naturales siguientes a la entrada en vigor de este ordenamiento.
+
+CUARTO. En tanto se expidan las disposiciones reglamentarias y administrativas que deriven de la presente Ley, seguirán en vigor aquellas que no la contravengan.
+
+QUINTO. Todos los procedimiento (sic) y recursos administrativos relacionado (sic) con las materia (sic) de esta Ley, iniciados con anterioridad a la entrada en vigor de esta, se terminaran y resolverán conforme a las disposiciones vigentes en el momento en que se iniciaron.
