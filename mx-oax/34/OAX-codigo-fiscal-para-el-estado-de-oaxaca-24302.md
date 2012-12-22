@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2011-12-17"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -65,7 +67,7 @@ Las personas que de conformidad con los ordenamientos fiscales no estén obligad
 
 Los ingresos a que se refiere el artículo que antecede se definen de la siguiente manera:
 
-I. Impuestos: Son las contribuciones establecidas en ley que deban pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho previsto por la misma y que sean distintas de las contribuciones de mejoras y derechos;
+I. Impuestos: Son las contribuciones establecidas en Ley que deban pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho previsto por la misma y que sean distintas de las contribuciones de mejoras y derechos;
 
 II. Contribuciones de mejoras: Son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas;
 
@@ -3521,7 +3523,7 @@ LIC. HECTOR ANUARD MAFUD MAFUD.
 
 AL C.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2002.
 
@@ -3574,3 +3576,21 @@ P.O. 29 DE DICIEMBRE DE 2010.
 P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO: El presente decreto entrará en vigor a partir del día 1 de enero del año 2012 previa publicación en el Periódico Oficial del Estado.
+
+P.O. DE 22 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil trece, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: A partir de la entrada en vigor del presente Código se abroga el Decreto No. 9, publicado el 30 de diciembre de dos mil uno en el Periódico Oficial del Estado, por el que se expidió el Código Fiscal para el Estado de Oaxaca; así como los decretos en los que se hayan aprobado reformas, adiciones y derogaciones subsecuentes.
+
+TERCERO: Se faculta a la Secretaria de Finanzas, para que las devoluciones contenidas en el artículo 66 del presente Código se efectúen en un plazo de tres meses durante el ejercicio fiscal 2013.
+
+CUARTO: Todos los procedimientos administrativos y recursos que a la fecha de entrada en vigor del presente código se encuentren en trámite, se concluirán conforme a las disposiciones del Código Fiscal para el Estado de Oaxaca que se abroga.
+
+QUINTO: Las infracciones y delitos cometidos durante la vigencia del Código que se abroga, se sancionarán en los términos establecidos por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+SEXTO: En tanto se expida el Reglamento del Código Fiscal para el Estado de Oaxaca, se continuará aplicando las reglas de carácter general vigentes en lo que no se opongan al presente Código.
+
+SÉPTIMO: Las disposiciones contenidas en el Título Tercero, Del Uso de Medios Electrónicos en Materia Fiscal del Libro Primero de este Código, así como, cualquier disposición que aluda al uso de los Medios Electrónicos, entrarán en vigor a partir del 1 de enero de 2014.
+
+OCTAVO: El Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias, para la elaboración de un estudio de impacto presupuestario que permita crear una institución que tenga a su cargo la defensa del contribuyente.
