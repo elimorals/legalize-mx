@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-91015"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -40,8 +40,6 @@ LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2013
 
 ## TÍTULO PRIMERO. DE LOS INGRESOS Y EL ENDEUDAMIENTO PÚBLICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 1.
 
@@ -113,7 +111,9 @@ Secretaría de Administración 817,979
 
 Casa de la Cultura Oaxaqueña 21,800
 
-Jardín Etnobotánica (sic) 1,567,005
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+Jardín Etnobotánico 1,567,005
 
 DERECHOS POR LA PRESTACIÓN DE
 
@@ -551,15 +551,15 @@ Para tal efecto la Secretaría de Finanzas deberá identificar cada uno de los i
 
 Se faculta al titular de la Secretaría de Finanzas delegar la suscripción de trámites e instrumentos jurídicos con instituciones de crédito, previo acuerdo y publicidad en el Periódico Oficial del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 5.
 
 Las dependencias y entidades de la Administración Pública, que otorguen el uso, goce o aprovechamiento de bienes de dominio público o presten servicios públicos, por los que recepcionen ingresos previstos en esta Ley y demás ordenamientos legales vigentes; u obtengan recursos por la suscripción de convenios, acuerdos, donativos, subsidios, reintegros y cualquier otro bien financiero o material que reciban por cualquier otro título no considerado en los anteriores, estarán obligadas a:
 
 I. Informar a quienes deban efectuar pago, transferencias o ministración por cualquiera de los conceptos previstos en el Artículo 1, que éste deberá realizarse ante la Secretaría de Finanzas.
 
-II. Concentrar los ingresos decepcionados (sic) a la Secretaría de Finanzas, el día hábil siguiente al de su entrega y deberán reflejarse, cualquiera que sea su naturaleza, tanto en los registros de la propia Secretaría de Finanzas como en los informes a que alude la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y Ley de Fiscalización Superior del Estado de Oaxaca.
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. Concentrar los ingresos recepcionados a la Secretaría de Finanzas, el día hábil siguiente al de su entrega y deberán reflejarse, cualquiera que sea su naturaleza, tanto en los registros de la propia Secretaría de Finanzas como en los informes a que alude la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y Ley de Fiscalización Superior del Estado de Oaxaca.
 
 El incumplimiento en la concentración oportuna a que se refiere la fracción II de este artículo por parte de las dependencias y entidades de la Administración Pública, generará, sin exceder sus presupuestos autorizados, la obligación de pagar cargas financieras por concepto de indemnización a la hacienda pública del estado.
 
