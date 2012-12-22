@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2012-06-14"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -79,19 +79,43 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran veh�
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-Código de Ética. Las autoridades garantes emitirán, respectivamente, un Código de Ética con reglas claras para que en la actuación de sus servidores públicos impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando una plena vocación de servicio público en beneficio de la población.
+###### ARTICULO 6°.
 
-El Código de Ética a que se refiere el párrafo anterior deberá hacerse del conocimiento de los servidores públicos correspondientes.
+La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura, el factor de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
 
-###### Artículo 7.
+Años de antigüedad Factor
 
-Acciones para garantizar el objeto de esta ley. Para asegurar el cabal cumplimiento del objeto de esta ley será responsabilidad de las autoridades garantes implementar acciones preventivas y de capacitación, así como medidas de modernización administrativa y mejora regulatoria, que permitan mejorar la eficiencia y calidad del servicio público de manera constante y progresiva.
+1 0.850
 
-Además, los órganos de control realizarán acciones permanentes de control, vigilancia e inspección a efecto de verificar que se cumpla con las disposiciones legales y administrativas aplicables al servicio público de que se trate, poniendo especial atención en materia de fiscalización, sistema de registro y contabilidad; contratación y pago de personal; contratación de servicios, obra pública, adquisiciones y arrendamientos; conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos. En caso de detectar irregularidades, aplicarán las sanciones correspondientes, previa sustanciación del procedimiento de responsabilidad.
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+En ningún caso el impuesto será menor a once días de salario mínimo general de la zona.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 7°.
+
+La tasa del impuesto es el dos por ciento sobre la base indicada en el artículo anterior.
 
 ###### ARTICULO 6º.
 
@@ -317,51 +341,97 @@ En ningún caso se entenderán exentos del pago del impuesto, los ingresos o pre
 
 ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
 
-### CAPITULO IV. IMPUESTOS SOBRE NOMINAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 20.
 
-Son objeto de este impuesto las erogaciones pagadas dentro del territorio del Estado, en dinero o en especie, por concepto de remuneración al trabajo personal subordinado, considerándose como tales, los siguientes:
+Son objeto de este impuesto:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos, tengan su domicilio fuera de la Entidad, y
 
-I. Salarios y, en general, toda remuneración derivada de una relación laboral;
+II. Las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, por los servicios prestados dentro del territorio del Estado, aún cuando los prestadores del servicio o los beneficiarios del mismo, o ambos, tenga su domicilio fuera de la Entidad.
 
-II. Honorarios y todo tipo de pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones; y
+Entiéndase por efectivo todo pago que sea realizado en efectivo, cheque, transferencia o cualquier otro medio de pago.
 
-III. Honorarios a personas que presten servicios profesionales en forma preponderante al contribuyente, en términos de lo dispuesto por la Ley del Impuesto Sobre la Renta.
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, bonos, bonificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que los anteriores, con independencia de la denominación que reciba. Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 27 de esta Ley.
+
+En el caso de la fracción I de este artículo, las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+
+En el caso de la fracción II de este artículo, las personas morales que contraten la prestación de servicios, con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. De igual manera, se deberá proporcionar constancia de retención por parte de la persona que realice la contratación.
+
+Para efectos del presente artículo se entenderá por personas morales, a todas aquéllas que tengan reconocido este carácter por la ley, en términos del artículo 20 del Código Civil para el Estado de San Luis Potosí, incluyendo en forma enunciativa y no limitativa, a las entidades de la administración pública municipal, estatal y federal. Asimismo, se entenderá como personas morales obligadas en términos de este precepto, a las asociaciones en participación y todas aquellas personas que con el carácter de fiduciarios contraten cualesquiera servicios personales, con cargo a un patrimonio fideicomitido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 21.
 
-Son sujetos de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado, realizan las erogaciones a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 22.
 
-Es base del impuesto el monto total de las remuneraciones a que se refiere el artículo 20. No incluirán dentro de la base aquellos conceptos que la Ley del Seguro Social excluye expresamente de la integración del salario base de cotización de las aportaciones de seguridad social.
+La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal, en términos del artículo 20 de esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 23.
 
-El impuesto se causará y pagará a razón del dos porciento sobre la base señalada en el artículo anterior.
+Este impuesto se causará, liquidará y pagará aplicando la tasa del dos por ciento sobre la base que señala el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 24.
 
-El impuesto se causará en el momento en que se realicen las erogaciones objeto del impuesto y se pagará en forma mensual mediante declaración que deberá presentarse a más tardar el día quince del mes siguiente al de las erogaciones, ante la oficina recaudadora o establecimiento autorizado de la jurisdicción a que pertenezca el domicilio del contribuyente, en los formatos que para esos efectos expida la Secretaría de Finanzas.
+El impuesto se causará en el momento en que se efectúen las erogaciones por el trabajo personal.
 
-La obligación de presentar esta declaración subsistirá aún cuando no exista impuesto a cargo.
+Los contribuyentes pagarán mediante declaración mensual, a través del formato que para esos efectos expida la Secretaría de Finanzas, a más tardar el día quince del mes siguiente al de la causación del impuesto, ante las oficinas recaudadoras o establecimientos autorizados de la jurisdicción a que pertenezcan el domicilio del contribuyente, o en las instituciones bancarias autorizadas para ello.
+
+El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
+
+La obligación de presentar la declaración mensual subsistirá aún cuando no hubiese cantidad a cubrir.
+
+Cuando con posterioridad a la presentación de la declaración mensual de pago, el contribuyente compruebe que cubrió en exceso el monto de este impuesto, podrá optar por:
+
+I. Solicitar la devolución de la cantidad pagada indebidamente, o
+
+II. Compensar las cantidades que tenga a su favor contra el importe que deba enterar en el mes siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 25.
 
-Son obligaciones de los contribuyentes de este impuesto:
+Los sujetos de este impuesto están obligados a:
 
-I. Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro de los 15 días hábiles siguientes a la fecha de inicio de sus operaciones mediante los formatos que para el efecto expida la Secretaría de Finanzas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a su registro inicial;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+I. Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto expida la Secretaría de Finanzas; las personas morales y las personas físicas, acreditarán esta condición ante la autoridad fiscal estatal, mediante exhibición de la solicitud de inscripción en el registro federal de contribuyentes presentada ante la Secretaría de Hacienda y Crédito Público. En el entendido que las personas morales presentarán además, su acta constitutiva protocolizada ante fedatario, debidamente inscrita en el Registro Público de la Propiedad con los registros que marca la ley. Los fedatarios públicos comunicarán a la autoridad fiscal estatal la constitución de dichas personas morales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. Presentar aviso ante las mismas autoridades, dentro de los quince días hábiles siguientes de ocurrido uno o varios de los eventos como: cambio de nombre, denominación o razón social; cambio de domicilio; sustitución patronal; suspensión, reanudación o terminación de actividades; aumento, disminución de obligaciones; suspensión, reanudación de operaciones; apertura, cierre de sucursal; escisión, fusión, liquidación de sociedades; clausura definitiva; cancelación de registro federal de contribuyentes; corregir, aclarar o modificar cualquier información presentada a la autoridad;
 
 III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y en los lugares señalados al efecto;
 
@@ -369,45 +439,93 @@ IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que consig
 
 V. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, el contribuyente deberá señalarlos todos en el aviso de inscripción, indicando el que deberá considerarse como domicilio para efectos fiscales; y
 
-VI. Las personas físicas o morales que tengan establecimientos en el Estado y en otras Entidades, pagarán el Impuesto sobre las erogaciones al personal que presta sus servicios en los establecimientos ubicados en el Estado, independientemente del lugar en que se encuentre su domicilio fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VI. En el caso de que los contribuyentes de este impuesto gocen de incentivo y/o beneficio fiscal, deberán cumplir con todas las obligaciones que se le imponen para gozar de ese beneficio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 26.
 
-Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
+Las autoridades fiscales podrán determinar y liquidar, incluso presuntivamente, la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación, en términos del Código Fiscal del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 27.
 
-Están exentas del pago de este impuesto:
+Se exceptúan del pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal:
 
-I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
+I. Las erogaciones que se efectúen por concepto de:
+
+a) Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, ayuda o vales para despensa y vales de restaurantes, alimentación, pagos de membresías o mantenimiento de clubes sociales o deportivos, pago de colegiaturas y becas para trabajadores o para sus hijos, seguro de vida, seguro de gastos médicos mayores, gastos y honorarios médicos y arrendamiento financiero de vehículos para los trabajadores.
+
+b) Indemnizaciones por la rescisión o terminación de la relación laboral.
+
+c) Indemnizaciones por riesgos de trabajo y enfermedades profesionales que se concedan de acuerdo a las leyes o contratos respectivos.
+
+d) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía en edad avanzada y muerte.
+
+e) Viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad, requiere la Ley del Impuesto sobre la Renta.
+
+f) Participaciones de los trabajadores en las utilidades de las empresas.
+
+g) Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), al Instituto de Pensiones del Estado (IPE), y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón.
+
+h) Gastos funerarios.
+
+i) El ahorro cuando se integra por una cantidad semanaria, quincenal o mensual igual del trabajador y del patrón; si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, integrará salario.
+
+j) Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+Para que los conceptos mencionados se exenten deberán estar debidamente registrados en la contabilidad del patrón;
 
 II. Las erogaciones que efectúen:
 
-a) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+a) Las instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan como actividades las que a continuación se señalan:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+1. Atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
 
-b) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia, así como las sociedades o asociaciones civiles organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta, que tengan como beneficiarios a personas, sectores y regiones de escasos recursos que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo, problemas con discapacidad;
+2. Atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y discapacitados de escasos recursos.
 
-c) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+3. La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente a menores, ancianos o discapacitados.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+4. La reinserción social de personas que han llevado a cabo conductas ilícitas.
 
-d) Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones, asociaciones y agrupaciones de profesionistas;
+5. La rehabilitación de fármaco-dependientes de escasos recursos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+b) Ejidos y comunidades.
 
-e) Las instituciones de educación con reconocimiento oficial que la impartan de manera gratuita;
+c) Uniones de ejidos y de comunidades.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+d) La empresa social constituida por avecindados, ejidatarios o hijos de éstos, así como las sociedades de solidaridad social y las empresas integradoras de éstas que se constituyan en los términos de la ley de la materia.
 
-f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del Impuesto Sobre la Renta.
+e) Asociaciones rurales de interés colectivo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+f) Unidad agrícola industrial de la mujer campesina.
+
+g) Colonias agrícolas y ganaderas, y
+
+III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente por el cual se deba pagar y, en su caso, retener el Impuesto al Valor Agregado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Para el fomento de la inversión productiva y la generación de empleos, las empresas de nueva creación por el primer año de funcionamiento, recibirán un estímulo fiscal hasta del cien porciento del Impuesto sobre Nóminas. No se consideran de nueva creación las que deriven de escisión o fusión de sociedades, o aquéllas cuyos trabajadores provengan de sustitución patronal de otras empresas relacionadas por pertenencia accionaria.
+Para el fomento de la inversión productiva y la generación de empleos, las empresas de nueva creación que se establezcan en la Entidad podrán ser sujetas de incentivos y/o beneficios fiscales por el equivalente hasta del cien por ciento del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por un periodo de tiempo máximo de hasta tres años de efectiva actividad. No se consideran de nueva creación las que deriven de escisión o fusión de sociedades, o aquéllas cuyos trabajadores provengan de sustitución patronal de otras empresas relacionadas por pertenencia accionaria. Igualmente, aquellas empresas establecidas en la Entidad que amplíen sus instalaciones y actividades a partir de la vigencia de la presente disposición, podrán ser sujetas de incentivos y/o beneficios fiscales antes mencionados, en el entendido de que dicho beneficio únicamente será aplicable a los empleos que se generen con motivo de dicha ampliación. Los incentivos y/o beneficios fiscales corresponderán a aquellas empresas que así lo soliciten y que la autoridad competente resuelva de procedente, e iniciarán a partir del día siguiente de la notificación de la resolución de procedencia. La fecha de vigencia de dicho incentivo y/o beneficio fiscal por ningún motivo podrá ser mayor a cinco años, contados a partir del día siguiente de la notificación aludida.
+
+El presente incentivo y/o beneficio fiscal se otorgará directamente por el titular del Poder Ejecutivo y/o del titular de la Secretaría de Finanzas, en el entendido de que ésta última tendrá en todo momento la facultad de verificar la información y/o documentación que le suministren las empresas, y llevar a cabo visitas de inspección a aquellas empresas que se vean beneficiadas conforme a lo aquí establecido.
+
+El titular del Poder Ejecutivo y/o el titular de la Secretaría de Finanzas del Estado, en los términos de las disposiciones aplicables, podrán otorgar incentivos y/o beneficios fiscales adicionales a los señalados en el presente precepto, a aquellas empresas que realicen inversiones para la creación masiva de empleos, implementen tecnología de punta, y que su proyecto de inversión represente un detonador para la actividad económica en el Estado.
+
+El otorgamiento del incentivo y/o beneficio fiscal de que se trate, se acreditará a través de un Certificado de Promoción que expedirá el titular del Poder Ejecutivo, y/o el titular de la Secretaría de Finanzas del Estado, conforme a lo aquí establecido, en el cual se especificarán las bases y reglas administrativa del incentivo y/o beneficio fiscal de que gozará el beneficiario.
 
 Este beneficio no libera a los contribuyentes de cumplir con las obligaciones fiscales previstas en el artículo 25 de esta Ley.
 
@@ -475,9 +593,13 @@ Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el 
 
 Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 32.
 
-El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del 2%.
+El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del tres por ciento.
 
 ###### ARTICULO 33.
 
@@ -987,11 +1109,17 @@ El que determine anualmente la Secretaría de Finanzas del Estado, como resultad
 
 Con relación al ejercicio del notariado, se causarán los siguientes derechos establecidos en salarios mínimos:
 
-I. Por el examen para la práctica del notariado, 230.41;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-II. Por cada fiat que expida el Ejecutivo para el ejercicio del notariado, 230.41;
+I. Por el pago de examen teórico y práctico para la función notarial, 300;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. Por cada FIAT que expida el Ejecutivo para el ejercicio del notariado, 300;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1001,13 +1129,23 @@ a) Por la razón de apertura, 13.74.
 
 b) Por la razón de cierre y su autorización, 11.98.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente;
 
-V. Por el registro de convenios entre notarios, corredores públicos o entre ambos, se pagarán 15.59.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+V. Por registro de convenios entre notarios, corredores públicos, o entre ambos, se pagarán 15.59, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VI. Por registro de nuevo sello notarial, 8.5.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1021,27 +1159,51 @@ I. Por las que realice el Ejecutivo del Estado, en materia educativa, 0.5;
 
 II. Por los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, cuando no se señale fecha o lugar de nacimiento, por cada año o fracción que ampare la búsqueda, se cobrarán 0.5;
 
-III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones y reconocimientos, se pagarán 2;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones, matrimonios, defunciones, reconocimientos y enmiendas administrativas se cobrarán 2.0;
 
 IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en salarios mínimos, como sigue:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil y 0.5 si la expide el Archivo Histórico del Estado;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
+a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil, 0.5 si la expide el Archivo Histórico del Estado; 0.82 si se expide por los sistemas automatizados de la Dependencia. Si se entregan a domicilio en la zona urbana de la Capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 2.0.
 
-c) Si se entregan a domicilio en la zona urbana de la capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 0.75;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Por el envío de copias certificadas fuera del Estado, tramitadas por las diferentes Direcciones del Registro Civil, o sus equivalentes, de las entidades federativas, en términos del Acuerdo de Colaboración para la solicitud, trámite y obtención de copias certificadas de actas del Registro Civil, celebrado entre el Gobierno de las Entidades Federativas de la República Mexicana, entre sí, y la Secretaría de Gobernación, se cobrará 1.55; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-e) Por expedición de copias certificadas de libros siniestrados, tomados del Apéndice de reposición, se cobrará 2.21;
+b) Por el envío de copias certificadas fuera del Estado, tramitadas por las diferentes direcciones del Registro Civil, o sus equivalentes de las entidades federativas, en términos del Acuerdo de Colaboración para la solicitud, trámite y obtención de copias certificadas de actas del Registro Civil, celebrado entre el Gobierno de las entidades federativas de la República Mexicana, entre sí, y la Secretaría de Gobernación, se cobrará 3.0.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+c) Por expedición de copias certificadas de libros siniestrados, tomados del Apéndice de reposición, se cobrará 4.0.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+d) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 V. Por la certificación de sello, firma y contenido de copias expedidas por las diferentes Oficialías del Registro Civil del Estado se pagarán 2;
 
-VI. Por enmienda administrativa en actas del Registro Civil se pagarán 4;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Por aclaración o corrección de enmiendas en las actas del Registro Civil se pagarán 2;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VI. Por resolución de enmienda administrativa en actas del Registro Civil se pagarán 4.0; por las tramitadas por la Dirección vía correo certificado se pagarán 8.0;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
 
 VIII. Por anotación marginal de enmienda administrativa en actas del Registro Civil se pagarán 0.78;
 
@@ -1231,9 +1393,17 @@ a) El ratificado ante la Secretaría General de Gobierno, 2.6;
 
 b) Ológrafo o Público cerrado, 2.6;
 
-c) Por las anotaciones en el Indice de Testamentos con los avisos de los notarios, comunicando las memorias testamentarias, 2.6; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Por la expedición de certificados de existencia o no de testamentos, 1.3.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+c) Por las anotaciones en el índice de testamentos con los avisos de los notarios, comunicando las memorias testamentarias, 3.2.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+d) Por la expedición de certificados de existencia o no de testamentos, 1.9.
 
 II. Por expedición de certificados de gravamen o de libertad de éste, por cada predio y por gravamen 2.39. Cuando se trate de vivienda popular o de interés social se cobrará el 50% de lo estipulado en esta fracción;
 
@@ -1329,73 +1499,59 @@ Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis 
 
 Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en salarios mínimos:
 
-I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TIPO SERVICIO SERVICIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-PUBLICO PARTICULAR
+I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo, y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+TIPO Servicio Servicio
 
-a) Automóviles, camiones y ómnibus 14.19 11.34
+Público Particular
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+a) Automóviles, 15.19 12.34
 
-b) Remolques 7.28 7.28
+camiones y ómnibus
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+b) Remolques 8.28 8.28
 
-c) Motocicletas y motonetas hasta de
+c) Motocicletas y motonetas 4.41 4.41
 
-350 c.c. de cilindro 3.41 3.41
+hasta de 350 c.c. de cilindro
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+d) Motocicletas y motonetas 5.65 5.65
 
-d) Motocicletas y motonetas de más de
-
-350 c.c. de cilindro 4.65 4.65
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+de más de 350 c.c. de cilindro
 
 e) Bicicletas de motor 0.00 0.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+f) Placas de demostración 18.05 18.05
 
-f) Placas de demostración (sin calcomanía)
-
-cuota anual 17.05 17.05
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+(sin calcomanía) cuota anual
 
 g) Placas para discapacitados 0.00 0.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-h) Placas para autos antiguos No aplica 22.68
+h) Placas para autos antiguos No aplica 21.68
 
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
-II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-TIPO SERVICIO SERVICIO
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-PUBLICO PARTICULAR
+II. Expedición de permiso para circular sin placa, o sin tarjeta de circulación, por día:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+TIPO Servicio Servicio
 
-a) Automóviles, camiones y ómnibus 0.19 0.14
+Público Particular
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+a) Automóviles, camiones y ómnibus 0.68 0.50
 
-b) Remolque 0.14 0 14
+b) Remolques 0.50 0.50
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+c) Motocicletas y motonetas 0.35 0.35
 
-c) Motocicletas y motonetas 0.099 0.099
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-d) Bicicletas de motor 0.044 0.044
+d) Bicicletas de motor 0.16 0.15
 
 III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
 
@@ -1471,6 +1627,20 @@ c) Motocicletas y motonetas 1.39 1.39
 
 d) Bicicletas de motor 0.19 0.19
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.0 salarios minimos, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
+
+La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VIII. Reposición de holograma para identificar facturas electrónicas a vehiculos nuevos, la que deberá efectuarse dentro de los cinco días posteriores a la fecha del acta o documento donde conste su extravío o destrucción, se cobrará 3.0 salarios mínimos.
+
 ###### ARTICULO 65.
 
 De conformidad con los convenios celebrados con la Federación, en materia de coordinación fiscal, se establece para los propietarios de vehículos automotores domiciliados en el Estado, la obligación de inscribir sus unidades en el Registro Estatal Vehicular, para lo cual presentarán en la Oficina Recaudadora de su elección, dentro de los plazos y mediante las formas que establezca la Secretaría de Finanzas, las solicitudes de registro vehicular y los correspondientes avisos posteriores, por modificación, baja o por cualquier otra razón que reforme el registro original.
@@ -1531,9 +1701,13 @@ III. Por la expedición de permisos para manejar, con vigencia de seis meses, a 
 
 IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos salarios mínimos, por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 67.
 
-El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
+El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse y pagarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
@@ -1627,75 +1801,111 @@ TIPO PERMISO REFRENDO
 
 INICIAL ANUAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) Destilerías 712.44 71.24
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+a) Destilerías 1,068.66 71.24
 
-b) Almacenes 712.44 71.24
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-c) Bares . 712.44 71.24
+b) Almacenes 1,068.66 142.49
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Cabarets, discotecas y ladies bar 731.50 143.00
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+c) Bares 1,068.66 142.49
 
-e) Licorerías y vinaterías 712. 44 71.24
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-f) Mini súper 484.00 55.00
+d) Cabarets, discotecas y 1,097.25 286.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+ladies bar
 
-g) Abarrotes, tiendas, misceláneas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-y tendajones 356.40 36.30
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+e) Licorerías y vinaterías 1,068.66 142.49
 
-h) Supermercados 550.00 66.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-i) Restaurante bar 712.44 71.24
+f) Mini súper 726.00 96.80
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-j) Hoteles y moteles 712.44 71.24
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+g) Abarrotes, tiendas, 534.60 71.28
 
-k) Centros o clubes sociales, deportivos o
+misceláneas y tendajones
 
-recreativos que dentro de sus instalaciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-cuenten con áreas destinadas para estas
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-clasificaciones 356.40 36.30
+h) Supermercados 825.00 110.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I) Otros (salones de fiesta, cetros (sic)
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-sociales o de convenciones que se
+i) Restaurante bar 1,068.66 142.49
 
-renten para eventos; plazas de toros,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-lienzos charros, carriles para
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-carrera de caballos, palenques, ferias
+j) Hoteles y moteles 1,068.66 142.49
 
-municipales, estatales, regionales
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-y nacionales). 220.00 44.00
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-m) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+k) Centros o clubes sociales 534.60 71.28
+
+deportivos o recreativos que
+
+dentro de sus instalaciones
+
+cuenten con áreas destinadas
+
+para estas clasificaciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+l) Salones de fiesta, 330.00 100.00
+
+centros sociales, o
+
+de convenciones que se
+
+renten para eventos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+m) Plazas de toros, 440.00 176.00
+
+lienzos charros, carriles
+
+para carreras de caballos,
+
+palenques, ferias municipales,
+
+estatales, regionales y
+
+nacionales
 
 n) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
@@ -1728,6 +1938,12 @@ Se entenderá que cuando un negocio cuente con permiso del Estado para expender 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 El Estado podrá convenir con los municipios, en los términos del artículo 14 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los ayuntamientos los que otorguen este permiso o refrendo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+Los establecimientos que venden bebidas alcohólicas deberán realizar el pago del refrendo anual en el primer mes del año, con independencia de la resolución de la Secretaría de Gobernación. El pago del refrendo no exime del cumplimiento de las obligaciones contenidas en otros ordenamientos, ni de la aplicación de sanciones que contemplen otras disposiciones legales.
 
 ###### ARTICULO 68.
 
@@ -1871,349 +2087,35 @@ En el caso de análisis físico-químico de los productos citados en el párrafo
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuota estatal que forman parte de los bienes del dominio público del Estado, cubrirán los derechos establecidos en el presente artículo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
+ARTICULO 93 TER. Las personas que hagan uso del estacionamiento en los que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo, por vehículo:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+ESTACIONAMIENTO FUNDADORES EJE VIAL MADERO
 
-a) Caseta "Calderón":
+Hora o fracción $ 15.00 $ 12.00 $ 12.00
 
-Tramo San Luis Potosí - Villa de Arriaga
+Exclusivo mensual $1,500.00 $700.00 $700.00
 
-Clase Tipo de Vehículo Cuota por
+24 horas
 
-aplicar $
+Pensión nocturna -- $ 30.00 $ 30.00
 
-A Auto, pick up, moto 84.00
+diaria
 
-B2 Autobús de pasajeros. 2 ejes 150.00
-
-B3 Autobús de pasajeros. 3 ejes 150.00
-
-B4 Autobús de pasajeros. 4 ejes 150.00
-
-C2 Camión de carga. 2 ejes 150.00
-
-C3 Camión de carga. 3 ejes 150.00
-
-C4 Camión de carga. 4 ejes 150.00
-
-C5 Camión de carga. 5 ejes 162.00
-
-C6 Camión de carga. 6 ejes 162.00
-
-C7 Camión de carga. 7 ejes 162.00
-
-C8 Camión de carga. 8 ejes 162.00
-
-C9 Camión de carga. 9 ejes 162.00
-
-Eje excedente 42.00
-
-Tramo San Luis Potosí - Villa de Reyes
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 28.00
-
-B2 Autobús de pasajeros. 2 ejes 58.00
-
-B3 Autobús de pasajeros. 3 ejes 58.00
-
-B4 Autobús de pasajeros. 4 ejes 58.00
-
-C2 Camión de carga. 2 ejes 58.00
-
-C3 Camión de carga. 3 ejes 58.00
-
-C4 Camión de carga. 4 ejes 58.00
-
-C5 Camión de carga. 5 ejes 63.00
-
-C6 Camión de carga. 6 ejes 63.00
-
-C7 Camión de carga. 7 ejes 63.00
-
-C8 Camión de carga. 8 ejes 63.00
-
-C9 Camión de carga. 9 ejes 63.00
-
-Eje excedente 42.00
-
-Tramo San Luis Potosí - Bledos
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 49.00
-
-B2 Autobús de pasajeros. 2 ejes 89.00
-
-B3 Autobús de pasajeros. 3 ejes 89.00
-
-B4 Autobús de pasajeros. 4 ejes 89.00
-
-C2 Camión de carga. 2 ejes 89.00
-
-C3 Camión de carga. 3 ejes 89.00
-
-C4 Camión de carga. 4 ejes 75.00
-
-C5 Camión de carga. 5 ejes 95.00
-
-C6 Camión de carga. 6 ejes 95.00
-
-C7 Camión de carga. 7 ejes 95.00
-
-C8 Camión de carga. 8 ejes 95.00
-
-Camión de carga. 9 ejes 95.00
-
-Eje excedente 42.00
-
-Tramo Villa de Reyes - Villa de Arriaga
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 50.00
-
-B2 Autobús de pasajeros. 2 ejes 92.00
-
-B3 Autobús de pasajeros. 3 ejes 92.00
-
-B4 Autobús de pasajeros. 4 ejes 92.00
-
-C2 Camión de carga. 2 ejes 92.00
-
-C3 Camión de carga. 3 ejes 92.00
-
-C4 Camión de carga. 4 ejes 92.00
-
-C5 Camión de carga. 5 ejes 99.00
-
-C6 Camión de carga. 6 ejes 99.00
-
-C7 Camión de carga. 7 ejes 99.00
-
-C8 Camión de carga. 8 ejes 99.00
-
-C9 Camión de carga. 9 ejes 99.00
-
-Eje excedente 42.00
-
-Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 16.00
-
-B2 Autobús de pasajeros. 2 ejes 25.00
-
-B3 Autobús de pasajeros. 3 ejes 30.00
-
-B4 Autobús de pasajeros. 4 ejes 30.00
-
-C2 Camión de carga. 2 ejes 30.00
-
-C3 Camión de carga. 3 ejes 30.00
-
-C4 Camión de carga. 4 ejes 30.00
-
-C5 Camión de carga. 5 ejes 30.00
-
-C6 Camión de carga. 6 ejes 30.00
-
-C7 Camión de carga. 7 ejes 30.00
-
-C8 Camión de carga. 8 ejes 30.00
-
-C9 Camión de carga. 9 ejes 30.00
-
-Eje excedente 42.00
-
-II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
-a) Caseta "Cerritos":
-
-Tramo San Luis Potosí - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 85.00
-
-B2 Autobús de pasajeros. 2 ejes 147.00
-
-B3 Autobús de pasajeros. 3 ejes 190.00
-
-B4 Autobús de pasajeros. 4 ejes 190.00
-
-C2 Camión de carga. 2 ejes 147.00
-
-C3 Camión de carga. 3 ejes 190.00
-
-C4 Camión de carga. 4 ejes 190.00
-
-C5 Camión de carga. 5 ejes 190.00
-
-C6 Camión de carga. 6 ejes 190.00
-
-C7 Camión de carga. 7 ejes 336.00
-
-C8 Camión de carga. 8 ejes 336.00
-
-C9 Camión de carga. 9 ejes 336.00
-
-Eje excedente 31.00
-
-Tramo San Luis Potosí - Cerritos
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 28.00
-
-B2 Autobús de pasajeros. 2 ejes 47.00
-
-B3 Autobús de pasajeros. 3 ejes 61.00
-
-B4 Autobús de pasajeros. 4 ejes 61.00
-
-C2 Camión de carga. 2 ejes 47.00
-
-C3 Camión de carga. 3 ejes 61.00
-
-C4 Camión de carga. 4 ejes 61.00
-
-C5 Camión de carga. 5 ejes 61.00
-
-C6 Camión de carga. 6 ejes 61.00
-
-C7 Camión de carga. 7 ejes 107.00
-
-C8 Camión de carga. 8 ejes 107.00
-
-C9 Camión de carga. 9 ejes 107.00
-
-Eje excedente 31.00
-
-Tramo Cerritos - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 57.00
-
-B2 Autobús de pasajeros. 2 ejes 100.00
-
-B3 Autobús de pasajeros. 3 ejes 129.00
-
-B4 Autobús de pasajeros. 4 ejes 129.00
-
-C2 Camión de carga. 2 ejes 100.00
-
-C3 Camión de carga. 3 ejes 129.00
-
-C4 Camión de carga. 4 ejes 129.00
-
-C5 Camión de carga. 5 ejes 129.00
-
-C6 Camión de carga. 6 ejes 129.00
-
-C7 Camión de carga. 7 ejes 229.00
-
-C8 Camión de carga. 8 ejes 229.00
-
-C9 Camión de carga. 9 ejes 229.00
-
-Eje excedente 31.00
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
-b) Caseta auxiliar "Villa Juárez":
-
-Tramo Cerritos - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 42.00
-
-B2 Autobús de pasajeros. 2 ejes 73.00
-
-B3 Autobús de pasajeros. 3 ejes 95.00
-
-B4 Autobús de pasajeros. 4 ejes 95.00
-
-C2 Camión de carga. 2 ejes 73.00
-
-C3 Camión de carga. 3 ejes 95.00
-
-C4 Camión de carga. 4 ejes 95.00
-
-C5 Camión de carga. 5 ejes 95.00
-
-C6 Camión de carga. 6 ejes 95.00
-
-C7 Camión de carga. 7 ejes 168.00
-
-C8 Camión de carga. 8 ejes 168.00
-
-C9 Camión de carga. 9 ejes 168.00
-
-Eje excedente 31.00
-
-Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
-
-Los derechos anteriores se cubrirán al cruzar las casetas establecidas y las que en un futuro se puedan constituir en razón de los flujos vehiculares y por el establecimiento y cruce de nuevos tramos carreteros y no estarán sujetos a lo dispuesto por el artículo 93 de la Ley de Hacienda para el Estado de San Luis Potosí.
-
-Los comprobantes de pago que se expidan en dichas casetas serán idóneos para acreditar el pago de los derechos.
-
-La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 93 TER. Las personas que hagan uso del estacionamiento que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo:
-
-ESTACIONA- FUNDA- EJE VIAL MADERO ALAMEDA
-
-MIENTO DORES
-
-Hora o fracción 10.00 8.00 8.00 10.00
-
-Exclusivo mensual 1,200.00 600.00 600.00 250.00
-
-24 Horas
-
-Pensión nocturna
-
-diaria 30.00 30.00 30.00
-
-Pensión nocturna 300.00 300.00 300.00 150.00
+Pensión nocturna $ 350.00 $350.00 $350.00
 
 mensual
 
-Pensión vespertina 200.00 200.00 200.00
+Pensión vespertina -- $250.00 $250.00
 
-A partir de la segunda hora el cobro es de $5.00.
+Exclusivo mensual -- $300.00 --
 
-Exclusivo mensual 24 horas los niveles 7 y 8 la tarifa es de $250.00.
+24 horas Niveles 7 y 8
+
+Por lo que respecta al estacionamiento Plan de San Luis, la tarifa aplicable será de $ 5.00 (CINCO PESOS 00/100 M.N.) durante todo el tiempo en que el vehículo permanezca en el estacionamiento en un horario de 8:00 a 15:00 horas. El exclusivo será de $ 250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N) mensual.
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
@@ -2319,9 +2221,27 @@ III. Certificaciones de copias fotostáticas de documentos que obren en los arch
 
 IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.01, por foja.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 93.
 
-Todos los derechos previstos en esta Ley se incrementarán en un 10% adicional, cuyo importe se destinará íntegramente al apoyo de instituciones de asistencia social a la población. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará trimestralmente al Congreso del Estado sobre las sumas recaudadas y su aplicación, independientemente de que lo haga en las cuentas públicas correspondientes.
+Todos los derechos previstos en esta Ley se incrementarán en un quince por ciento adicional, cuyo importe se destinará preferentemente a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias o grupos en situación vulnerable, sin fines lucrativos, en el entendido de que por lo que respecta a las instituciones privadas además deberán cumplir con los requisitos establecidos por la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la Administración Pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 93-A.
+
+Por los servicios prestados por las dependencias y entidades públicas, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un dos por ciento por concepto de derechos a los contratistas o proveedores con quien se celebren contratos de obra pública, o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas.
+
+El pago del importe correspondiente se hará en el momento del pago de la factura por la dependencia u organismo.
+
+Son sujetos de este derecho los contratistas o proveedores que realizan la obra pública.
+
+Es obligación de todas las dependencias que conforman la Administración Pública del Estado, ingresar todas las cantidades que se cobren por este concepto a la Secretaría de Finanzas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -2619,17 +2539,39 @@ Las formas valoradas y los planos se venderán conforme a la siguiente tarifa ex
 
 FORMA O PLANO VALOR
 
-I. Juego de formas para alta y baja de vehículos motorizados. 0.50
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Juego de formas de solicitud de Registro Estatal Vehicular. 0.50
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-III. Juego de formas de solicitud de inspección en el Padrón Mercantil, Industrial y de Servicios. 0.50
+I. Juego de formas para alta y baja de vehículos motorizados. 1.00
 
-IV. Juego de formas de solicitud de licencia para manejo de vehículos motorizados. 0.50
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-V. Juego de formas de preliquidaciones de control vehicular, 0.65;
+II. Juego de formas de solicitud de Registro Estatal Vehicular. 1.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. Juego de formas de solicitud de inspección en el Padrón 1.00
+
+Mercantil, Industrial y de Servicios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+IV. Juego de formas de solicitud de licencia para manejo de 1.00
+
+vehículos motorizados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+V. Juego de formas de preliquidaciones de control vehicular. 1.00
 
 (sic). (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
@@ -2714,6 +2656,30 @@ b) En formato digital.
 2) Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas fotográficas, en coordenadas universal ransversal (sic) mercator). 67.30
 
 c) Por copia en papel bond (manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas, en coordenadas universal, transversal de mercator. 6.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 121 BIS. Por los servicios que preste la Dirección General de Protección Civil, se cobrará en salarios mínimos:
+
+I. Curso de capacitación nivel básico, por persona, 5.0;
+
+II. Curso de capacitación nivel uno, por persona, 8.0;
+
+III. Curso de capacitación nivel dos, por persona, 12.0;
+
+IV. Curso de capacitación nivel especializado, por persona, 18.0;
+
+V. Por prestación de servicio de hospedaje para capacitadores, 3.5;
+
+VI. Por inscripción al Programa Interno de Protección Civil, 15.0;
+
+VII. Por la expedición del visto bueno de las medidas de seguridad en eventos públicos masivos en inmuebles propiedad de (sic) Gobierno del Estado, 15.0;
+
+VIII. Por ocupación de aula para capacitación hasta de 30 personas con sillas y mesas de trabajo, proyector, pantalla y pizarrón interactivo 25.5, por día, y
+
+IX. Por ocupación de auditorio para capacitación con capacidad para 150 personas con sillas, mesas de trabajo, pantalla y proyector 50.5, por día.
 
 ## TITULO SEXTO. APROVECHAMIENTOS
 
@@ -2878,3 +2844,11 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2013, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de sesenta días para llevar a cabo las modificaciones correspondientes, a las disposiciones reglamentarias aplicables.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
