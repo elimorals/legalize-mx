@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2012-10-18"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -495,9 +495,11 @@ III. Cuando la o el ascendiente, en forma expresa o tácita, haya consentido sob
 
 Si no se ejercita la acción dentro de los sesenta días siguientes a la fecha de la celebración del matrimonio, o de la fecha en la cual el interesado tuvo conocimiento de la nulidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 74.
 
-La acción para demandar la nulidad relativa del matrimonio corresponde a cualquier de las o los cónyuges, o a los que ejercen la patria potestad o la tutela sobre las o los cónyuges menores de edad, o incapaces que no hayan dado causa a esa nulidad, y no es transmisible por herencia, ni de cualquier otra manera. No obstante, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+La acción para demandar la nulidad relativa del matrimonio corresponde a la o el cónyuge, o a los que ejercen la patria potestad o la tutela sobre la o el cónyuge menor de edad, o incapaces que no hayan dado causa a esa nulidad, y no es transmisible por herencia, ni de cualquier otra manera. No obstante, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
 ###### ARTICULO 75.
 
@@ -507,9 +509,11 @@ Ejecutoriada la sentencia que declare la nulidad del matrimonio, el Juzgado envi
 
 El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles a favor de los cónyuges mientras dure; y en todo tiempo, a favor de las hijas o hijos nacidos antes de la celebración del matrimonio y reconocidos al momento de que se celebró, de las hijas o hijos nacidos durante el y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 77.
 
-Si ha habido buena fe de parte de uno solo de las o los cónyuges, el matrimonio produce efectos legales únicamente respecto de él y de las hijas o hijos legitimados al celebrarse el matrimonio, de las hijas o los hijos nacidos durante el y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+Si ha habido buena fe de parte de la o el cónyuge, el matrimonio produce efectos legales únicamente respecto de él o ella, y de las hijas o hijos legitimados al celebrarse el matrimonio, de las hijas o los hijos nacidos durante el y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
 Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de las hijas o hijos.
 
@@ -535,17 +539,21 @@ II. Las hechas al inocente por la o el cónyuge que obró de mala fe quedarán s
 
 III. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán a favor de sus hijas o hijos. Si no los tienen, los donantes no podrán hacer reclamación alguna con motivo de su liberalidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 82.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones a que se refiere el Capítulo I de este Título.
+Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones a que se refiere el artículo 1474 del Código Civil del Estado.
 
 ###### ARTICULO 83.
 
 En los casos de nulidad del matrimonio, la sociedad conyugal se considerará subsistente hasta que se pronuncie sentencia que cause ejecutoria, si los dos cónyuges procedieron con buena fe.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 84.
 
-Cuando uno solo de las o los cónyuges actuó de buena fe, la sociedad conyugal subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario, se considerará nula desde su principio.
+Cuando la o el cónyuge actuó de buena fe, la sociedad conyugal subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario, se considerará nula desde su principio.
 
 ###### ARTÍCULO 85.
 
@@ -569,7 +577,9 @@ I. Tener alguno de los cónyuges relaciones sexuales con persona distinta a su c
 
 II. El hecho de que la mujer dé a luz durante el matrimonio a una hija o a un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarada procedente la acción de impugnación de la paternidad;
 
-III. El o los actos ejecutados por alguno de las o los cónyuges que pueda corromper a las hijas o hijos, ya sean éstos de ambos o de uno solo de ellos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. El o los actos ejecutados por la o el cónyuge que pueda corromper a las hijas o hijos, ya sean éstos de ambos o de uno solo de ellos;
 
 IV. Padecer alguna enfermedad crónica incurable que sea además infecto contagiosa;
 
@@ -577,23 +587,37 @@ V. Padecer enajenación mental incurable, previa declaración del estado de inte
 
 VI. La separación del domicilio conyugal por más de tres meses, sin causa justificada;
 
-VII. La separación del domicilio conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-VIII. Cuando no vivan juntos las o los cónyuges por más de dos años, independientemente del motivo que tengan para ello, la cual podrá ser invocada por cualquiera de ellos;
+VII. La separación del domicilio conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que la o el cónyuge que se separó entable la demanda de divorcio;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+VIII. Cuando no vivan juntos la y el cónyuge por más de dos años, independientemente del motivo que tengan para ello, la cual podrá ser invocada por cualquiera de ellos;
 
 IX. Las amenazas o las injurias graves de un cónyuge al otro;
 
-X. La negativa injustificada de los cónyuges a cumplir las obligaciones de darse alimentos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+X. La negativa injustificada de la o el cónyuge a cumplir con el cuidado, dirección y trabajos en el hogar;
 
 XI. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenacen causar la ruina de la familia, o constituyan un continuo motivo de desavenencia conyugal;
 
 XII. La negativa injustificada de las o los cónyuges a cumplir con el cuidado, dirección y trabajos en el hogar;
 
-XIII. La o las conductas de violencia familiar cometidas por uno de las o los cónyuges contra el otro, o hacia las hijas o hijos de ambos o de alguno de ellos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XIV. El incumplimiento injustificado de las determinaciones de las autoridades judiciales, tendientes a corregir los actos de violencia familiar hacia la o el otro cónyuge o las hijas o hijos, por la o el cónyuge obligado a ello;
+XIII. La o las conductas de violencia familiar cometidas por la o el cónyuge contra el otro, o hacia las hijas o hijos de ambos o de alguno de ellos;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XIV. El incumplimiento injustificado de las determinaciones de las autoridades judiciales, tendientes a corregir los actos de violencia familiar hacia la o el cónyuge, o las hijas o hijos, por la o el cónyuge obligado a ello;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 XV. El uso de métodos de fecundación artificial o asistida sin el consentimiento de la o el cónyuge, y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 XVI. El uso de métodos de esterilización permanente sin el consentimiento de la o el cónyuge.
 
@@ -605,7 +629,9 @@ Para el caso que, además de que ese cónyuge administre esos bienes, se ocupe d
 
 El cónyuge que principalmente se ocupe del cuidado del hogar conservará el cien por ciento de los derechos de los bienes de su exclusiva propiedad, y que se destinen a satisfacer las necesidades del matrimonio o familia.
 
-Las disposiciones contenidas en este artículo son aplicables en lo conducente, a las o los concubinos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+Las disposiciones contenidas en este artículo son aplicables en lo conducente, a la concubina o el concubinario.
 
 ###### ARTICULO 89.
 
@@ -645,9 +671,11 @@ La o el cónyuge demandado tendrá derecho a los alimentos en el caso de la caus
 
 El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijas o hijos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 95.
 
-Ejecutoriado el divorcio se procederá desde luego a la división de los bienes comunes, y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre las o los cónyuges o con relación a las hijas o hijos, de acuerdo con lo dispuesto y en los términos del artículo 31 de este Código, subsistiendo esta obligación para éstos últimos hasta que lleguen a la mayoría de edad.
+Ejecutoriado el divorcio se procederá desde luego a la división de los bienes comunes, y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre la y el cónyuge, o con relación a las hijas o hijos, de acuerdo con lo dispuesto y en los términos del artículo 31 de este Código, subsistiendo esta obligación para éstos últimos hasta que lleguen a la mayoría de edad.
 
 ###### ARTICULO 96.
 
@@ -657,13 +685,17 @@ La o el cónyuge que haya dado causa al divorcio, no podrá contraer matrimonio 
 
 Ejecutoriada una sentencia de divorcio, la autoridad judicial de Primera Instancia remitirá copia de ella a la o el Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 98.
 
-La reconciliación de las o los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación a la autoridad judicial, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+Si aún no hubiere sentencia ejecutoria, la reconciliación de la y el cónyuge pone término al juicio de divorcio en cualquier estado en que se encuentre. En este caso los interesados deberán denunciar su reconciliación a la autoridad judicial, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 99.
 
-La muerte de uno de las o los cónyuges pone fin al juicio de divorcio, y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
+La muerte de la o el cónyuge pone fin al juicio de divorcio, y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
 
 ###### ARTICULO 100.
 
@@ -677,7 +709,9 @@ I. Designación de la persona a quien sean confiadas las hijas o hijos del matri
 
 II. El modo de proveer a las necesidades de las hijas o hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III. La casa que servirá de habitación a cada uno de las o los cónyuges durante el procedimiento, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. La casa que servirá de habitación a la y el cónyuge durante el procedimiento, y
 
 IV. Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para tal efecto, se presentará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
@@ -685,13 +719,17 @@ IV. Si hubiere sociedad conyugal, la manera de administrar los bienes de esta so
 
 El divorcio por mutuo consentimiento sólo puede pedirse pasado un año de celebración del matrimonio, y en la forma que establece el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 103.
 
-Las o los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+La o el cónyuge que hayan solicitado el divorcio por mutuo consentimiento, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 104.
 
-Las o los cónyuges aunque vivan separados se tendrán por unidos para todos los efectos legales del matrimonio.
+La y el cónyuge aunque vivan separados se les tendrá por unidos para todos los efectos legales del matrimonio.
 
 ## TITULO CUARTO. DEL CONCUBINATO Y SU DISOLUCION
 
@@ -713,13 +751,11 @@ II. Durante dos años si la unión se produjo por medio de rito indígena o reli
 
 III. Desde el nacimiento de la primer hija o hijo, si esto ocurre antes de los plazos anteriores.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 107.
 
-Se presumen hijas o hijos de las o los concubinos:
-
-I. Los nacidos después de iniciada la unión concubinaria, y
-
-II. Los nacidos dentro de los trescientos días posteriores de terminado el concubinato.
+Se presumen hijas o hijos de las o los concubinos, los que nazcan dentro de los plazos a que se refiere el artículo 169 de este Código.
 
 ###### ARTICULO 108.
 
@@ -737,9 +773,11 @@ No estará obligado a contribuir económicamente la concubina o el concubinario 
 
 Si el concubinato se prolonga hasta la muerte de uno de sus miembros, la concubina o el concubinario que le sobrevive, tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 111.
 
-Las funciones paterno-filiales son iguales en el concubinato y en el matrimonio; las y los concubinos arreglarán de común acuerdo todo lo relativo a la educación y atención de las hijas o hijos.
+Las funciones paterno-filiales son iguales en el concubinato y en el matrimonio; la concubina y el concubinario arreglarán de común acuerdo todo lo relativo a la educación y atención de las hijas o hijos.
 
 ###### ARTICULO 112.
 
@@ -749,11 +787,15 @@ I. Por acuerdo mutuo entre las partes;
 
 II. Por abandono del domicilio común por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de tres meses sin ánimo de reconciliación. Durante este plazo el concubinato sigue produciendo sus efectos, y
 
-III. Por muerte de alguno de las o los concubinos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. Por muerte de la concubina o el concubinario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 113.
 
-La disolución del concubinato faculta a las o los concubinos a reclamarse mutuamente alimentos.
+La disolución del concubinato faculta a la concubina y al concubinario a reclamarse mutuamente alimentos.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -791,9 +833,11 @@ V. La maquinaria e instrumentos necesarios para el cultivo de la finca.
 
 Los miembros de la familia tienen derecho al usufructo de los bienes que constituyen el patrimonio familiar, conservando la propiedad quienes lo constituyen.
 
-###### ARTÍCULO 117.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-El derecho de habitar el domicilio familiar y de usufructuar los productos y beneficios que integran el patrimonio familiar, corresponde a quien lo constituye, a las y los cónyuges, a las y los concubinos y a las hijas o los hijos. Tal derecho es intransmisible; sin embargo, previo acuerdo y declaratoria judicial, la familia puede por necesidad o conveniencia, arrendarlos.
+###### ARTICULO 117.
+
+El derecho de habitar el domicilio familiar y de usufructuar los productos y beneficios que integran el patrimonio familiar, corresponde a quien lo constituye, a los cónyuges, a los concubinos, y a las hijas o los hijos. Tal derecho es intransmisible; sin embargo, previo acuerdo y declaratoria judicial, la familia puede por necesidad o conveniencia, arrendarlos.
 
 Si al ocurrir lo anterior no hubiere mediado declaración judicial, el contrato o convenio pactado será nulo. Respecto a las hijas o hijos menores o personas incapaces, la responsabilidad de la determinación que se tome recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente.
 
@@ -817,9 +861,11 @@ El valor máximo permitido, respecto de los bienes que conformen el patrimonio f
 
 El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda; por lo que tal incremento o excedente tampoco será embargable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 122.
 
-Para constituir el patrimonio familiar, la o el cónyuge o la o el hijo que quieran hacerlo, deberán satisfacer los siguientes requisitos:
+Para constituir el patrimonio familiar, la o el cónyuge; la concubina o el concubinario; o la hija o el hijo que quieran hacerlo, deberán satisfacer los siguientes requisitos:
 
 I. Se tramitará ante la autoridad judicial competente del lugar en que se encuentre ubicada la casa habitación, o los demás bienes destinados a la constitución del patrimonio familiar en la vía de jurisdicción voluntaria;
 
@@ -843,9 +889,11 @@ Aprobadas las diligencias de jurisdicción voluntaria para la constitución del 
 
 Cuando el valor de los bienes afectos al patrimonio familiar sea inferior al máximo fijado, podrá ampliarse hasta llegar al máximo previsto; lo cual se sujetará al mismo procedimiento que para la constitución del patrimonio familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 125.
 
-Cuando haya peligro de que una de las o los cónyuges, o de las hijas o hijos, obligados a dar alimentos, pueda perder sus bienes por mala administración o porque los esté dilapidando, la o el otro cónyuge podrá exigir judicialmente que se constituya el patrimonio familiar hasta por el importe máximo establecido en el artículo 121 de este Código.
+Cuando haya peligro de que la o el cónyuge, o de que las hijas o hijos, obligados a dar alimentos, pueda perder sus bienes por mala administración o porque los esté dilapidando, la o el otro cónyuge podrá exigir judicialmente que se constituya el patrimonio familiar hasta por el importe máximo establecido en el artículo 121 de este Código.
 
 Asimismo, tienen derecho a exigir judicialmente la constitución del patrimonio familiar, en los términos señalados, los padres, la o el cónyuge afectado o las hijas o hijos. Si son incapaces, intervendrán sus tutores o el Ministerio Público. En ambos casos, los trámites para constituir el patrimonio de la familia se ajustarán en lo conducente a lo preceptuado en las fracciones II y VII del artículo 122 de este Código.
 
@@ -931,21 +979,29 @@ Los alimentos constituyen una prioridad de naturaleza urgente e inaplazable, que
 
 La obligación de dar alimentos es reciproca. La o el que los da tiene a su vez el derecho de pedirlos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 143.
 
-Las y los cónyuges o las y los concubinos tendrán siempre el derecho preferente sobre los productos de los bienes, salarios y honorarios del las y los otros cónyuges, o las y los concubinos para pagar sus alimentos, y las y los de sus hijas o hijos.
+La y el cónyuge; o la concubina y el concubinario, tendrán siempre el derecho preferente sobre los productos de los bienes, salarios y honorarios de la o el cónyuge, o la concubina o el concubinario, para pagar sus alimentos, y las hijas o hijos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 144.
 
-Las y los cónyuges y las o los concubinos deben darse alimentos. La ley determinará cuando quede subsistente esta obligación en los casos de divorcio o disolución de concubinato.
+Los cónyuges, los concubinos, deben darse alimentos. La ley determinará cuando quede subsistente esta obligación en los casos de divorcio, o disolución de concubinato.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 145.
 
-Las madres y los padres están obligados a dar alimentos a sus hijas o hijos. A falta o por imposibilidad de los padres, la obligación recae en los ascendientes más próximos en grado, por ambas líneas.
+La madre y el padre están obligados a dar alimentos a sus hijas o hijos. A falta o por imposibilidad de éstos, la obligación recae en los ascendientes más próximos en grado, por ambas líneas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 146.
 
-Las hijas o hijos están obligados a dar alimentos a sus madres o padres. A falta o por imposibilidad de las hijas o hijos, lo están los descendientes más próximos en grado.
+Las hijas e hijos están obligados a dar alimentos a sus padres. A falta o por imposibilidad de las hijas o hijos, lo están los descendientes más próximos en grado.
 
 ###### ARTICULO 147.
 
@@ -953,9 +1009,11 @@ A falta o por imposibilidad de las o los ascendientes o descendientes, la obliga
 
 Faltando los parientes a que se refiere el párrafo anterior, tienen obligación de ministrar alimentos, los parientes colaterales dentro del cuarto grado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 148.
 
-Las madres, los padres, las hermanas, los hermanos, parientes colaterales y tutores tienen obligación de dar alimentos a las y los menores, mientras éstos llegan a la edad de dieciocho años. En el caso de que la o el acreedor alimentario se encuentre estudiando, la edad máxima será hasta los veinticinco años. También deben alimentar a sus parientes incapaces dentro del grado mencionado.
+La madre, el padre, las hermanas, los hermanos, parientes colaterales y tutores, tienen obligación de dar alimentos a las y los menores, mientras éstos llegan a la edad de dieciocho años. En el caso de que la o el acreedor alimentario se encuentre estudiando, la edad máxima será hasta los veinticinco años. También deben alimentar a sus parientes incapaces dentro del grado mencionado.
 
 ###### ARTICULO 149.
 
@@ -1027,9 +1085,11 @@ El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de la 
 
 La persona que ejerza la tutoría de forma interina, dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por ella o el dará la garantía legal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 162.
 
-En los casos en que las o los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes de la hija o hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
+En los casos en que quienes ejerzan la patria potestad gocen de la mitad del usufructo de los bienes de la hija o hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
 ###### ARTICULO 163.
 
@@ -1075,13 +1135,15 @@ Es obligación de las o los patrones, gerentes generales y representantes legale
 
 La filiación es un derecho irrenunciable que tiene toda persona desde que nace o es adoptado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 169.
 
-Se presumen hijas o hijos de las o los cónyuges, o las o los concubinos:
+Se presumen hijas o hijos de los cónyuges, o de los concubinos:
 
-I. Las o los nacidos después de ciento ochenta días contados desde la celebración del matrimonio o iniciado el concubinato, y
+I. Quienes hayan nacido después de ciento ochenta días contados desde la celebración del matrimonio o iniciado el concubinato, y
 
-II. Las o los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio o concubinato, ya provenga ésta de nulidad, divorcio, separación o muerte del padre o madre. Este término se cantará en los casos de divorcio o nulidad desde que quedaron separados de hecho los cónyuges por orden judicial. El mismo término se aplicará para las hijas o hijos nacidos en concubinato.
+II. La hija o el hijo nacido dentro de los trescientos días siguientes a la disolución del matrimonio o concubinato, ya provenga ésta de nulidad, divorcio, separación o muerte del padre o madre. Este término se contará en los casos de divorcio o nulidad desde que quedaron separados de hecho los cónyuges por orden judicial. El mismo término se aplicará para las hijas o hijos nacidos en concubinato.
 
 ###### ARTICULO 170.
 
@@ -1275,9 +1337,11 @@ IV. Por testamento, en todas sus formas, y
 
 V. Por confesión judicial directa y expresa.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 206.
 
-Para el caso de hijas o hijos no reconocidos por la madre, el padre, o por ambos, será el Estado quien otorgue, por medio del Sistema de Desarrollo Integral de la Familia, los mismos derechos de las hijas o hijos de matrimonio reconocido, consistente en darles un nombre y dos apellidos, alimentos, atención médica y la educación básica obligatoria.
+Para el caso de hijas o hijos no reconocidos por la madre, el padre, o por ambos, será el Estado quien otorgue, por medio del Sistema para el Desarrollo Integral de la Familia, los mismos derechos de la hija o el hijo de matrimonio reconocido, consistente en darles un nombre y dos apellidos, alimentos, atención médica y la educación básica obligatoria.
 
 ###### ARTICULO 207.
 
@@ -1299,13 +1363,17 @@ III. A recibir la porción hereditaria, y
 
 IV. En general, los derechos inherente a una hija o hijo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 210.
 
-La filiación de las hijas o hijos nacidos fuera de matrimonio, con relación a la madre, resulta del solo hecho del nacimiento; respecto del padre se establece por el reconocimiento voluntario, o por una resolución judicial que declare la paternidad.
+La filiación de la hija o hijo nacidos fuera de matrimonio, con relación a la madre, resulta del solo hecho del nacimiento; respecto del padre se establece por el reconocimiento voluntario, o por una resolución judicial que declare la paternidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 211.
 
-Pueden reconocer a sus hijas o hijos, los que tengan la edad exigida para contraer matrimonio.
+Pueden reconocer a su hija o hijo, los que tengan la edad exigida para contraer matrimonio.
 
 ###### ARTICULO 212.
 
@@ -1483,6 +1551,8 @@ La reproducción humana asistida llevada a cabo en la madre con autorización de
 
 ### Capítulo VII. De la Adopción Internacional
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 247.
 
 La adopción es el acto jurídico destinado a crear entre quien adopte y la o el adoptado, los derechos y obligaciones resultantes de la patria potestad y la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
@@ -1491,9 +1561,11 @@ La adopción es el acto jurídico destinado a crear entre quien adopte y la o el
 
 La adopción es irrevocable y confiere al adoptado una filiación sustituyente a la de su origen, extinguiéndose el parentesco con sus integrantes y demás efectos jurídicos, excepto los impedimentos matrimoniales, y adquiere los mismos derechos y obligaciones del parentesco consanguíneo en la familia de quien adopta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 249.
 
-La adopción procede respecto de las y los menores de edad, de las y los menores de edad abandonados, de las y los menores de edad que sean entregados a una institución pública o privada, de las y los expósitos, de las y los menores huérfanos de padre y madre que carezcan de ascendiente alguno y que teniéndolos se hubiere decretado la pérdida de la patria potestad; y de las personas mayores de edad con discapacidad.
+La adopción procede respecto de, la y el menor de edad; la y el menor de edad abandonado; la y el menor de edad que sea entregado a una institución pública o privada, de la y el expósito; de la y el menor huérfano de padre y madre que carezca de ascendiente alguno y que teniéndolos se hubiere decretado la pérdida de la patria potestad; y de las personas mayores de edad con discapacidad.
 
 Son requisitos para la persona que adopte son (sic) los siguientes:
 
@@ -1589,9 +1661,9 @@ Ejecutoriada que sea la sentencia que decrete la adopción, quedarán extinguido
 
 ###### ARTICULO 263.
 
-Se considera adopción internacional, cuando las o los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a una o un menor mexicano domiciliado en territorio del Estado, a través de una institución reconocida y validada en su país de origen, vinculada a la protección de los menores.
+Se considera adopción internacional, cuando la o el adoptante sean extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a una o un menor mexicano domiciliado en territorio del Estado, a través de una institución reconocida y validada en su país de origen, vinculada a la protección de los menores.
 
-Las y los extranjeros que pretendan adoptar deberán ser personas de distinto sexo, unidas en legitimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de La Haya, y los que fije el organismo rector de la asistencia social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+La extranjera o el extranjero que pretendan adoptar deberán ser personas de distinto sexo, unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de La Haya, y los que fije el organismo rector de la asistencia social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
 
 ###### ARTICULO 264.
 
@@ -1635,9 +1707,11 @@ Quienes estén sujetos a la patria potestad tendrán derecho a vivir con el asce
 
 Cuando por cualquier circunstancia la madre o el padre deje de ejercer la patria potestad, corresponderá su ejercicio al otro, así como la custodia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 271.
 
-Cuando el padre y la madre no puedan ejercer la patria potestad, los abuelos ejercerán la patria potestad sobre las o los menores, en el orden que determine la autoridad judicial, considerando las circunstancias del caso para salvaguardar el interés superior de las o los menores.
+Cuando el padre y la madre no puedan ejercer la patria potestad, los abuelos ejercerán la patria potestad sobre la o el menor, en el orden que determine la autoridad judicial, considerando las circunstancias del caso para salvaguardar el interés superior de la o el menor.
 
 ###### ARTICULO 272.
 
@@ -1669,15 +1743,19 @@ Cuando los progenitores de la hija o hijo nacido fuera del matrimonio se separen
 
 Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para las o los menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 277.
 
-Si se trata de hijas o hijos adoptivos, se aplicarán las siguientes disposiciones:
+Si se trata de hija o hijo adoptivos, se aplicarán las siguientes disposiciones:
 
 I. Cuando la adopción se hizo por un matrimonio, ambos cónyuges ejercerán la patria potestad;
 
 II. Si la adopción fue decretada a favor de una sola persona, a ésta corresponde ejercer la patria potestad, y
 
-III. A falta de madre o padre adoptivos, la patria potestad se ejercerá por sus ascendientes, en los términos señalados en este Código, para las hijas o hijos consanguíneos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. A falta de madre o padre adoptivos, la patria potestad se ejercerá por sus ascendientes, en los términos señalados en este Código, para la hija o hijo consanguíneos.
 
 ###### ARTICULO 278.
 
@@ -1695,17 +1773,21 @@ Quien ejerce la patria potestad es legítimo representante de quien esté bajo l
 
 Cuando la patria potestad se ejerce a la vez por la madre y por el padre, o por la abuela y el abuelo, quien administre los bienes será nombrado por mutuo acuerdo, pero la o el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 281.
 
-Las personas que ejerzan la patria potestad representarán a las o los menores en juicio; pero si se nombra representante a una de ellas, ésta no podrá celebrar ningún convenio o comprometer algunos bienes o derechos del menor, sin el consentimiento expreso de la otra persona que junto con ella ejerza la patria potestad y, cuando la ley lo requiera expresamente, necesita la autorización judicial.
+Las personas que ejerzan la patria potestad representarán a la o el menor en juicio; pero si se nombra representante a una de ellas, ésta no podrá celebrar ningún convenio o comprometer algunos bienes o derechos del menor, sin el consentimiento expreso de la otra persona que junto con ella ejerza la patria potestad y, cuando la ley lo requiera expresamente, necesita la autorización judicial.
 
 ###### ARTICULO 282.
 
 Las y los administradores de los bienes de la o el menor, responden de los daños y perjuicios causados a los mismos por negligencia o descuido; en caso de que la autoridad judicial de Primera Instancia lo considere necesario, caucionará su manejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 283.
 
-El usufructo de los bienes de la o el menor concedido a las personas que ejercen la patria potestad, se aplicará al pago de alimentos para las hijas o hijos. Los ascendientes que gocen de este derecho, están sujetos a las obligaciones impuestas a los usufructuarios, con la excepción de la obligación de dar fianza para caucionar el manejo de los bienes, salvo en los casos siguientes:
+Hasta el cincuenta por ciento del usufructo de los bienes de la o el menor se concederá a quienes ejercen la patria potestad, el resto se aplicará al pago de alimentos de la o el menor. Los ascendientes que gocen de este derecho, están sujetos a las obligaciones impuestas a los usufructuarios, con la excepción de la obligación de dar fianza para caucionar el manejo de los bienes, salvo en los casos siguientes:
 
 I. Cuando las o los que ejerzan la patria potestad, han sido declarados en quiebra o estén concursados;
 
@@ -1827,11 +1909,17 @@ II. El padre y la madre convendrán quién de ellos se hará cargo de la adminis
 
 III. Si la madre y el padre no llegan a ningún acuerdo:
 
-a) La autoridad judicial decidirá quien debe hacerse cargo de la custodia de las hijas e hijos menores de doce años para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de las y los menores. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirle las pruebas que ofrezcan y oír a las o los menores, si es posible, de acuerdo con su edad, y si es necesario a las abuelas, abuelos, tías, tíos, hermanas, hermanos mayores o demás parientes interesados, así como a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y al Ministerio Público.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-b) En ningún caso se concederá la custodia de la o el menor, al ascendiente que se pruebe que ha tenido un comportamiento que afectó o afecta emocionalmente al menor.
+a) La autoridad judicial decidirá quién debe hacerse cargo de la custodia de las hijas e hijos menores de doce años; para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de las y los menores. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirle las pruebas que ofrezcan y oír a la o el menor, si es posible de acuerdo con su edad, y si es necesario a las abuelas, abuelos, tías, tíos, hermanas, hermanos mayores o demás parientes interesados, así como, a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y al Ministerio Público.
 
-e) Las niñas o niños mayores de doce años podrán manifestar cuál de ambos progenitores desean se haga cargo de ellos; la autoridad judicial será quien decidirá quién deba hacerse cargo de ellas o ellos, atendido al interés superior de las y los menores.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+b) En ningún caso se concederá la custodia de la o el menor, al ascendiente que se pruebe que ha tenido un comportamiento que afectó o afecta emocionalmente a la o el menor.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+c) Las niñas o niños mayores de doce años podrán manifestar cuál de ambos progenitores desean se haga cargo de ellos; la autoridad judicial será quien decidirá quién deba hacerse cargo de ellas o ellos, atendido al interés superior de la o el menor.
 
 ## TITULO DECIMO. DE LA TUTELA
 
@@ -1863,7 +1951,9 @@ Tienen incapacidad natural y legal:
 
 I. La o el menor de edad, y
 
-II. Las o los mayores de edad en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. La o el mayor de edad en los siguientes casos:
 
 a) Con algún tipo de discapacidad mental.
 
@@ -1905,15 +1995,19 @@ Los cargos de tutora o tutor y de persona curadora de un incapaz no pueden ser d
 
 Cuando fallezca una persona que ejerza la tutela sobre una persona incapaz a quien deba nombrársele tutora, su ejecutor testamentario y, en caso de intestado, las o los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Ministerio Público, en un término de ocho días, a fin de que se provea la tutela, bajo la pena que de no hacerlo se imponga una multa equivalente a treinta días de salario mínimo.
 
-Las o los oficiales del Registro Civil y demás autoridades del Estado, tienen obligación de dar aviso a la autoridad judicial de Primera Instancia, de los casos en que sea necesario nombrar tutora o tutor, y ésta dictará las medidas necesarias para que se cuide provisionalmente de la persona incapaz y de sus bienes, hasta que se le nombre tutora o tutor.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+La o el Oficial del Registro Civil y demás autoridades del Estado, tienen obligación de dar aviso a la autoridad judicial de Primera Instancia, de los casos en que sea necesario nombrar tutora o tutor, y ésta dictará las medidas necesarias para que se cuide provisionalmente de la persona incapaz y de sus bienes, hasta que se le nombre tutora o tutor.
 
 ###### ARTICULO 311.
 
 Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles para el Estado de San Luis Potosí, la incapacidad de la persona que va a quedar sujeta a ella.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 312.
 
-Las personas que ejerzan la tutela o curatela no podrán ser removidas de su cargo, sin que previamente hayan sido oídas y vencidas en juicio.
+La persona que ejerza la tutela o curatela no podrá ser removida de su cargo, sin que previamente hayan sido oída y vencida en juicio.
 
 ###### ARTICULO 313.
 
@@ -1930,6 +2024,8 @@ Las y los extraños que desempeñen la tutela, tienen derecho de que se les rele
 La autoridad judicial que no cumpla las prescripciones de la tutela, será sancionada de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ### Capítulo III. De la Tutela Autoasignada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 316.
 
@@ -2141,9 +2237,11 @@ Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las
 
 La persona que ejerza la tutela será removida de su encargo en caso de maltrato, negligencia en los cuidados debidos, o mala administración de los bienes de la persona incapaz, a petición de la persona curadora, o de los parientes de la persona incapaz.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 362.
 
-La persona tutora tiene derecho a una retribución sobre los bienes de la persona incapaz, que será fijada por el ascendiente o extraño que conforme a derecho lo nombre en su testamento; y para las o los tutores legítimos o dativos, la fijará la autoridad judicial.
+Quien ejerza la tutela tiene derecho a una retribución sobre los bienes de la persona incapaz, que será fijada por el ascendiente o extraño que conforme a derecho lo nombre en su testamento; y para la o el tutor legítimo o dativo, la fijará la autoridad judicial.
 
 ###### ARTICULO 363.
 
@@ -2153,9 +2251,11 @@ En ningún caso bajará la retribución del cinco, ni excederá del diez por cie
 
 Si los bienes de la persona incapaz tuvieren un aumento en sus productos, debido exclusivamente a la buena administración o diligencia de la persona tutora, tendrá derecho de que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por la autoridad judicial, con audiencia de la persona curadora.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 365.
 
-Para que pueda hacerse en la retribución de las o los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que, por lo menos en dos años consecutivos, haya obtenido la persona tutora la aprobación absoluta de su cuenta.
+Para que pueda hacerse en la retribución de quien ejerza la tutela, el aumento extraordinario que permite el artículo anterior, será requisito indispensable que, por lo menos en dos años consecutivos haya obtenido la persona tutora la aprobación absoluta de su cuenta.
 
 ###### ARTICULO 366.
 
@@ -2165,9 +2265,11 @@ La persona tutora no tendrá derecho a remuneración alguna y restituirá la que
 
 ###### ARTICULO 367.
 
-Toda persona mayor de edad capaz, puede designar a la o el tutor o tutores que deberán encargarse de su persona y, en su caso, de su patrimonio; asimismo, puede designar a la persona curadora en previsión de encontrarse en los supuestos del artículo 302, fracciones I, II, III y IV de este Código.
+Toda persona mayor de edad capaz, puede designar a la o el tutor que deberá encargarse de su persona y, en su caso, de su patrimonio; asimismo, puede designar a la persona curadora en previsión de encontrarse en los supuestos del artículo 302, fracciones I, II, III y IV de este Código.
 
-La designación de las personas que ejerzan la tutela o la curatela debe hacerse ante Notario Público e inscribirse en escritura pública, y deberá contener expresamente todas las reglas a las que se sujetará la tutela y curatela. Esta designación es revocable en cualquier momento, mediante las mismas formalidades.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+La designación de la persona que ejerza la tutela o la curatela debe hacerse ante Notario Público e inscribirse en escritura pública, y deberá contener expresamente todas las reglas a las que se sujetará la tutela y curatela. Esta designación es revocable en cualquier momento, mediante las mismas formalidades.
 
 La persona designada no está obligada á aceptar el cargo, aunque no tenga excusa para ello; pero si lo acepta deberá permanecer en él un año cuando menos, pasado el cual, podrá solicitar a la autoridad judicial que se le releve del mismo.
 
@@ -2205,6 +2307,8 @@ La persona autora de un testamento que deje bienes, ya sea por legado o por here
 
 ### Capítulo VI. De la Tutela Legítima de la Persona Mayor de Edad Incapaz
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 375.
 
 La tutela legítima tiene lugar en los siguientes casos:
@@ -2235,15 +2339,19 @@ La falta temporal de persona que ejerza la tutela legítima se suplirá en los t
 
 ###### ARTICULO 379.
 
-Las y los cónyuges serán tutores legítimos entre sí, cuando alguno de ellas o ellos haya perdido su capacidad legal.
+La o el cónyuge serán tutores legítimos entre sí, cuando alguno de ellas o ellos haya perdido su capacidad legal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 380.
 
-Las hijas y los hijos mayores de edad son tutores de su madre y padre, cuando alguno o ambos hayan sufrido algún tipo de discapacidad mental.
+La hija o el hijo mayor de edad son tutores de su madre y padre, cuando alguno o ambos hayan sufrido algún tipo de discapacidad mental.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 381.
 
-La autoridad judicial designará de entre las hijas o hijos, a quien ejercerá la tutela sobre la madre o el padre, escogiendo al que parezca más apta o apto.
+La autoridad judicial designará de entre la hija o hijo, a quien ejercerá la tutela sobre la madre o el padre, escogiendo al que parezca más apta o apto.
 
 ###### ARTICULO 382.
 
@@ -2337,13 +2445,21 @@ XIV. Las o los demás a quienes les prohíba la ley.
 
 Serán separadas y separados de la tutela:
 
-I. Las o los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-II. Las o los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, o de la administración de los bienes del incapacitado;
+I. La o el que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
 
-III. Las o los tutores que no rindan sus cuentas dentro del término fijado por el artículo 419 de este Código;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-IV. Las o los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
+II. La o el que se conduzca mal en el desempeño de la tutela, ya sea respecto de la persona, o de la administración de los bienes del incapacitado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. La o el tutor que no rindan sus cuentas dentro del término fijado por el artículo 419 de este Código;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+IV. La o el comprendido en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 
 V. La o el tutor que se encuentre en el caso previsto en el artículo 24 de este Código, y
 
@@ -2429,17 +2545,25 @@ La persona tutora antes de que se le discierna el cargo prestará caución para 
 
 Están exceptuadas de la obligación de dar garantía las siguientes personas:
 
-I. Las que ejerzan la tutela testamentaria, cuando expresamente las haya relevado de esta obligación el testador;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-II. La persona que ejerza la tutela y que no administre bienes;
+I. La que ejerza la tutela testamentaria, cuando expresamente las haya relevado de esta obligación el testador;
 
-III. El padre, la madre y ascendientes en los casos en que, conforme a la ley, son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 407 de este Código, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. La que ejerza la tutela y que no administre bienes;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+III. El padre, la madre, o ascendientes en los casos en que, conforme a la ley, son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 407 de este Código, y
 
 IV. Las instituciones de asistencia social, pública o privada, que acojan a una persona en estado de expósito.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 406.
 
-Las personas comprendidas en la fracción I del artículo anterior, sólo estarán obligadas a dar garantía cuando con posterioridad a su nombramiento, haya sobrevenido causa ignorada por el testador que, a criterio de la autoridad judicial y, previa audiencia de la persona curadora, haga necesaria aquélla.
+La persona señalada en la fracción I del artículo anterior, sólo estará obligada a dar garantía cuando con posterioridad a su nombramiento, haya sobrevenido causa ignorada por el testador que, a criterio de la autoridad judicial y, previa audiencia de la persona curadora, haga necesaria aquélla.
 
 ###### ARTICULO 407.
 
@@ -3218,3 +3342,9 @@ P.O. 18 DE OCTUBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
