@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-finanzas-del-54817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-06"
-last_updated: "2010-09-21"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN LE PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. 22 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 6 de marzo de 2007.
 
@@ -1912,3 +1914,11 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE SEPTIEMBRE DE 2010.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Finanzas del Estado de Jalisco expedido mediante Acuerdo publicado en el Periódico Oficial "El Estado de Jalisco", de fecha 6 de marzo de 2007, así como sus reformas.
+
+TERCERO. Las constancias de identificación expedidas al personal de la Dirección General de Ingresos de la Secretaría que esté obligado a identificarse, con anterioridad a la entrada en vigor del presente Reglamento Interior, continuarán vigentes hasta por el periodo que fueron expedidas, sin que rebasen el 31 de diciembre de 2012.
