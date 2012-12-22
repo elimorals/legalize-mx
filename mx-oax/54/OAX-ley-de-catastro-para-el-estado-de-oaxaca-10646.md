@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2011-12-17"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -167,9 +167,11 @@ No se eximen de la obligación anterior, a los propietarios o poseedores de pred
 
 Para los mismos fines los gobiernos federal, estatal y municipal a través de sus dependencias, entidades, organismos, instituciones, programas, convenios y cualquier otro que tenga funciones relacionadas con la propiedad inmobiliaria o tenencia de la tierra incluida su regularización, deben manifestar los bienes inmuebles, áreas, zonas, vías o cualquier otro concepto que se encuentre vinculado con la propiedad inmobiliaria.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 7.
 
-Todos los bienes inmuebles ubicados en el territorio del Estado, sin excepción, deberán estar inscritos en el padrón catastral a cargo del Instituto Catastral del Estado de Oaxaca.
+Todos los bienes inmuebles ubicados en el territorio del Estado, sin excepción, deberán estar inscritos en el sistema de información territorial a cargo del Instituto Catastral del Estado de Oaxaca.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -353,9 +355,9 @@ XIV. Asesorar a los ayuntamientos y a las autoridades fiscales del Estado cuando
 
 XV. Coordinar la ejecución y dar seguimiento a los convenios de coordinación y colaboración celebrados con los ayuntamientos en materia catastral; así como los de intercambio de información y asistencia técnica celebrados con dependencias y organismos de carácter federal, estatal y municipal, para la utilización de productos cartográficos en formato digital y para la integración del banco de datos de información territorial.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-XVI. Auxiliar a las dependencias y organismos de la Administración Pública del Estado, cuyas funciones en materia de obras públicas, planeación y, en general, otras vinculadas al desarrollo urbano y rural, requieran información contenida en la Ley de Catastro, conforme a lo dispuesto en el Reglamento de la presente Ley.
+XVI. Auxiliar a las dependencias y organismos de la Administración Pública del Estado, cuyas funciones en materia de obras públicas, planeación y, en general, otras vinculadas al desarrollo urbano y rural, requieran información generada y disponible en el Instituto Catastral del Estado de Oaxaca, previa celebración de convenio.
 
 XVII. Integrar los registros catastrales previstos en la presente Ley y su Reglamento.
 
@@ -449,11 +451,13 @@ XXXVII. Realizar los estudios técnicos para la identificación y georreferencia
 
 XXXVIII. Verificar los avalúos realizados por los Peritos Valuadores, a fin de corroborar que los mismos se hayan realizado en apego a lo dispuesto en la presente Ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+XXXIX. Expedir cédula de datos catastrales;
 
-XXXIX. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+XL. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN DEL INSTITUTO
 
@@ -577,13 +581,15 @@ XII. Certificación de los avalúos.
 
 XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+XIV. Deslinde Catastral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 23 Bis 1.
 
-El cobro de los Derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 Bis de esta ley, se determinarán con base en las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por el Congreso del Estado.
+El cobro de los derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 BIS de esta Ley, se determinaran con base en la Ley Estatal de Derechos.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1071,15 +1077,13 @@ Los servicios relacionados con productos cartográficos se prestarán a cualquie
 
 La inscripción de un inmueble en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo en favor de la persona a cuyo nombre aparezca inscrito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 60.
 
-Los Notarios Públicos, fedatarios y los organismos federales, estatales o municipales encargados de la regularización de la tenencia de la tierra, antes de proceder a la autorización de la escritura o título de propiedad, deberán contar con el certificado de avalúo y de datos catastrales.
+Los Notarios Públicos, fedatarios y los organismos federales, estatales o municipales encargados de la regularización de la tenencia de la tierra, antes de proceder a la autorización de la escritura o título de propiedad, deberán contar con avalúo catastral y cédula catastral.
 
-Las autoridades registrales no harán inscripción alguna de contratos, títulos o resoluciones judiciales que tengan por objeto transmitir o modificar el dominio de un bien inmueble así como aquellos que constituyan la propiedad o generen derechos de propiedad, mientras no se les exhiba el certificado de avalúo y de datos catastrales correspondientes.
+Las autoridades registrales no harán inscripción alguna de contratos, títulos o resoluciones judiciales que tengan por objeto transmitir o modificar el dominio de un bien inmueble así como aquellos que constituyan la propiedad o generen derechos de propiedad, mientras no se les exhiba avalúo catastral y cédula catastral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -1143,19 +1147,7 @@ Los solicitantes deberán presentar ante el Instituto Catastral del Estado de Oa
 
 Al momento de presentar la solicitud de inscripción al curso, los aspirantes deberán cubrir los derechos que por este concepto establezca la Ley Estatal de Derechos para el ejercicio fiscal que corresponda. En ningún caso procederá la devolución de este pago.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Una vez aprobada la evaluación y antes del otorgamiento de la constancia de perito valuador, deberá otorgar fianza a favor de la Secretaría de Finanzas, por el importe de un mil días de salario mínimo general vigente en el Estado de Oaxaca, para garantizar lo siguiente:
-
-I. Pago de la reparación del daño en caso de que por sentencia ejecutoriada sea condenado por delito intencional, cometido en ejercicio de sus funciones como Perito Valuador;
-
-II. Pago por la responsabilidad civil a favor del afectado; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-III. Pago por responsabilidad solidaria a favor de la hacienda estatal, cuando por la práctica de avalúos catastrales se determinen bases menores de las reales y por consecuencia se dejen de cubrir los derechos correspondientes en cada ejercicio fiscal, independientemente de las sanciones administrativas que se determinen.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1203,9 +1195,11 @@ I. Presentar la solicitud que para el caso publique el Instituto Catastral del E
 
 II. Comprobante de pago por concepto de renovación;
 
-III. Actualización de la fianza;
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
 
-IV. Acreditar un mínimo de cuarenta horas de capacitación sobre valuación catastral, impartida por institución reconocida por la Secretaría de Educación o la Secretaría del Trabajo y Previsión Social, durante el año inmediato anterior; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+IV. Acreditar un mínimo de cuarenta horas de capacitación sobre valuación catastral, impartida por el Instituto Catastral del Estado de Oaxaca o institución reconocida por la Secretaría de Educación Pública o la Secretaría del Trabajo y Previsión Social, durante el año inmediato anterior, y
 
 V. No encontrarse en los supuestos previstos en los artículos 64 N y Ñ de esta Ley.
 
@@ -1273,7 +1267,9 @@ ARTÍCULO 64 K.- Los Peritos Valuadores que incumplan con las obligaciones estab
 
 I. Amonestación por escrito;
 
-II. Multa por el equivalente de 80 a 120 veces el salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
+II. Multa por el equivalente de 500 a 1000 veces el salario mínimo;
 
 III. Suspensión temporal del registro de uno a seis meses; y
 
@@ -1285,25 +1281,55 @@ IV. Cancelación definitiva del registro de Perito Valuador.
 
 ARTÍCULO 64 L.- Procede la amonestación por escrito, cuando se presente un avalúo con errores de datos que no trasciendan al resultado del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de 500 a 1000 veces el salario mínimo, cuando los Peritos Valuadores incurran en lo siguiente:
 
-ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca procederá a imponer multa equivalente de 80 a 120 veces el salario mínimo, cuando los Peritos Valuadores incurran en lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 I. Presentar el avalúo con datos no reales, que afecten esencialmente el mismo;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 II. Omitir la información relativa a la construcción existente en el predio objeto del avalúo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 III. Presentar el avalúo con elementos constructivos que no correspondan a la tipología de construcción del inmueble;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 IV. Presentar avalúo con un uso de suelo distinto al que está destinado el inmueble;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 V. No presentar la documentación que le requiera el Instituto Catastral del Estado de Oaxaca para proceder a la certificación de los avalúos;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 VI. Negarse a llevar a cabo la verificación física conjuntamente con personal autorizado por el Instituto Catastral del Estado de Oaxaca, para la identificación del inmueble objeto del avalúo;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 VII. No desempeñar personalmente sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Lo anterior sin perjuicio de las demás sanciones a que se refiere el artículo 64 K de esta Ley.
 
@@ -1701,7 +1727,7 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 
 Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECTIVO. NO REELECCIÓN.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 13 de diciembre de 1996. EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Héctor Anuar Mafud Mafud. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1999.
 
@@ -1764,3 +1790,7 @@ SEGUNDO.- Lo dispuesto en el artículo 50 B, entrará en vigor a partir del día
 P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del año 2012, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
