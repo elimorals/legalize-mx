@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-90617
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-12"
-last_updated: "2012-12-12"
+last_updated: "2012-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 12 de diciembre de 2012.
 
@@ -551,8 +551,6 @@ El GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rú
 
 TARIFA PARA EL COBRO DE DERECHOS PARA EL EJERCICIO FISCAL 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA TARIFA, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Expresada con base en lo señalado en cada uno de los rubros que integran la presente Tarifa y expedida con fundamento en los Artículos 64 fracción VI de la Constitución Política del Estado de Chihuahua, en relación con los artículos 12, 27, 30 y 31 segundo párrafo, 308 y 308-A, todos del Código Fiscal del Estado y demás leyes fiscales en vigor, para el cobro de los derechos que debe percibir la Hacienda Pública Estatal por los servicios públicos que prestan las Dependencias del Gobierno del Estado a los usuarios de los mismos.
 
 Las cifras señaladas en la presente Tarifa se expresan en pesos.
@@ -939,29 +937,33 @@ inscripción de sujeción a régimen de condominio, o bien la que tenga un
 
 tiempo de construcción de 1 a 2 años.
 
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 15 Por todas las inscripciones, ratificaciones y notas marginales
 
-que se generen en virtud de las adquisiciones de lotes destinados
+que se generen en virtud de las adquisiciones de lotes destinados para casa
 
-para casa habitación o viviendas, construcción, ampliación y remodelación
+habitación o viviendas, construcción, ampliación y remodelación de
 
-de vivienda con crédito o sin él y pagos a pasivos, a través de programas
+vivienda con crédito o sin él y pagos a pasivos, a través de programas
 
 promovidos, financiados o cofinanciados por INFONAVIT, FONHAPO,
 
-CORETT, SECRETARIA DE DESARROLLO URBANO Y ECOLOGÍA
+CORETT, SECRETARIA DE DESARRO (SIC) URBANO Y ECOLOGÍA
 
-DEL GOBIERNO DEL ESTADO, AUTORIDADES MUNICIPALES,
+DE (SIC) GOBIERNO DEL ESTADO, AUTORIDADES MUNICIPALES,
 
 FOVISSSTE, IMSS, COMISIÓN ESTATAL DE VIVIENDA,
 
-SECRETARIA DE LA REFORMA AGRARIA, BANJERCITO e
+SECRETARÍA DE LA REFORMA AGRARIA, BANJERCITO e
 
 INSTITUTO DE SEGURIDAD DE LAS FUERZAS ARMADAS, se
 
 causará el equivalente a 235 (doscientos treinta y cinco) días de salario
 
-mínimo general vigente de la zona geográfica de que se trate
+mínimo general vigente de la zona geográfica de que se trate, mismas
+
+a las que se podrá aplicar un subsidio de un 95%.
 
 En este rubro no quedan comprendidos aquellos actos que requieran
 
