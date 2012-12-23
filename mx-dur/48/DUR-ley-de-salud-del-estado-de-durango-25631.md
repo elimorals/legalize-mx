@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2012-12-06"
+last_updated: "2012-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE SALUD DEL ESTADO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 310, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2012, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2013.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -237,17 +237,19 @@ LVI. Gasolinera: Al establecimiento dedicado al expendio de gasolina, aceites y 
 
 LVII. Certificado: La constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación e información de determinados hechos;
 
-LVIII. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y (sic)
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+LVIII. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio;
 
 LIX. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
+LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango; y
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-LXI.- Bebidas energizantes: Bebidas no alcohólicas que son elaboradas por la disolución en agua para consumo humano, con una adición de cafeína de 15 mg y hasta 33 mg de cafeína por 100 ml de producto, taurina o glucoronolactona y/o cualquier otra sustancia que produzca efectos estimulantes similares.
+LXI. Liposucción o Lipoaspiración o lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva.
 
 ###### ARTÍCULO 4.
 
@@ -699,7 +701,7 @@ XVI. Las que otras disposiciones aplicables le confieran.
 
 Los ingresos que obtenga el Organismo por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los Acuerdos de Coordinación celebrados con la Secretaría de Salud del Gobierno Federal y lo que determine la legislación fiscal aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 34.
 
@@ -1533,7 +1535,7 @@ V. Formularan y desarrollarán programas de información y prevención de la vio
 
 VI. Establecerán campañas de capacitación y sensibilización dirigidas a servidores públicos que atienden a los sujetos pasivos y activos de la violencia intrafamiliar, con la finalidad de que la detecten y atiendan adecuadamente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO V. EJERCICIO PARA LA SALUD
 
@@ -1585,11 +1587,11 @@ La Secretaría y el Organismo, en coordinación con las dependencias del sector 
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-IX. Llevar a cabo campañas de información acerca de los riesgos del consumo de bebidas energizantes solas o mezcladas con bebidas alcohólicas;
+IX.- Llevar a cabo campañas de información acerca de los riesgos del consumo de bebidas energizantes solas o mezcladas con bebidas alcohólicas;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
-X. Promover con las autoridades correspondientes la prohibición de venta de bebidas energizantes a menores de edad.
+X.- Promover con las autoridades correspondientes la prohibición de venta de bebidas energizantes a menores de edad.
 
 ### CAPÍTULO VI. SALUD OCUPACIONAL
 
@@ -1953,7 +1955,7 @@ ARTÍCULO 173 BIS 15.- Sólo en caso de que la pérdida de la vida del donante e
 
 ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
@@ -2101,13 +2103,13 @@ Corresponderá a la Secretaría y al Organismo, la verificación de la actividad
 
 El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
 
-> <small>(REFORMADA SE DENOMINACION, P.O. 27 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
 
 DISPOSICIONES COMUNES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO II (SIC). CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
 
@@ -2199,15 +2201,31 @@ ARTÍCULO 173 BIS 5.- Para el control sanitario de los productos y de la disposi
 
 ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectué sin estar autorizada por esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO III. DE LA LIPOSUCCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 177 BIS.- Los tratamientos quirúrgicos considerados como liposucción, Iipoaspiración o lipoescultura, realizados a base de maniobras terapéuticas del campo invasivo quirúrgico enmarcados en la cirugía plástica, estética y reconstructiva, de conformidad con lo que establece el artículo 272 bis de La Ley General de Salud, solamente los podrán practicar aquellos profesionistas de la medicina que cuenten con la respectiva cédula profesional y la documentación que acredite la especialización en cirugía plástica, estética y reconstructiva, expedida por instituciones académicas que formen parte del sistema educativo nacional. Las liposucciones, en todos los casos requerirán de la valoración preparatoria de los pacientes.
+
+El colegio de profesionistas correspondiente, ejercerá las atribuciones que le confiere el capítulo VI, de la Ley para el Ejercicio de las Profesiones en el Estado de Durango, y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 177 TER.- Las operaciones quirúrgicas de cirugía plástica, realizadas para cambiar o corregir el contorno o forma, de diferentes zonas o regiones de la cara y del cuerpo, deberán efectuarse en establecimientos o unidades médicas que ejerzan con la autorización y bajo la vigilancia de las autoridades sanitarias competentes, en los términos de lo establecido por la Ley General de Salud y ésta Ley.
+
+En caso de no cumplir con lo establecido en el párrafo anterior se podrá aplicar lo establecido en el artículo 289, fracción II de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 177 QUÁTER.- La COPRISED, tendrá facultades para vigilar el cumplimiento de lo establecido en el presente capítulo y, en su caso, impondrá las sanciones que procedan. La COPRISED podrá apoyarse en el respectivo Colegio de Cirujanos Plásticos de Durango, A.C., para la obtención de la información relativa a la acreditación especializada de los profesionistas que realicen liposucciones.
+
+Para la imposición de sanciones actuará como disposición Supletoria lo previsto en el capítulo XII del Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
 
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-### CAPÍTULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2227,15 +2245,17 @@ El control sanitario de la disposición de sangre humana, se llevará a cabo de 
 
 La disposición de sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de Bancos de Sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones legales aplicables. La sangre se considerará como tejido.
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 178.
 
@@ -2261,7 +2281,9 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONTROL SANITARIO DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 180.
 
@@ -2275,9 +2297,7 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO VI. RASTROS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 182.
 
@@ -2293,7 +2313,7 @@ Las actividades, construcciones, establecimientos, productos y servicios a que s
 
 La Secretaría y el Organismo, por conducto de la COPRISED, sin perjuicio de la vigilancia que ejerzan los Municipios, conservan la prerrogativa de realizar verificaciones sanitarias a los establecimientos a que se refiere este Título para comprobar que se ha dado cumplimiento a las disposiciones, normas, requisitos o criterios sanitarios establecidos, así como la de aplicar las medidas de seguridad y sanciones que correspondan en caso de incumplimiento, en los términos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 185.
 
@@ -2323,7 +2343,9 @@ El Ejecutivo Estatal publicará en el Periódico Oficial del Estado, las normas 
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente al de su publicación.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 188.
 
@@ -2333,7 +2355,7 @@ Los vendedores, locatarios y las personas cuya actividad esté vinculada con los
 
 Los establecimientos semifijos y móviles destinados a la venta de alimentos para consumo inmediato, deberán cumplir con las disposiciones generales aplicables y las que se establezcan en el reglamento respectivo.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 190.
 
@@ -2367,7 +2389,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro sanitario
 
 Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que hubiesen estado destinados a basureros o cementerios, los interesados deberán comunicar estas circunstancias a la autoridad sanitaria, a fin de que ésta dicte las medidas que juzgue pertinentes con el objeto de evitar riesgos a la salud pública.
 
-### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 197.
 
@@ -2393,7 +2415,7 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y l
 
 La Secretaría y el Organismo determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, sólo podrán efectuarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por la autoridad judicial, previo cumplimiento de los requisitos sanitarios establecidos.
 
-### CAPÍTULO X. PROSTITUCIÓN
+### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 202.
 
@@ -2421,7 +2443,7 @@ Las autoridades municipales correspondientes, fijarán lugares especiales para d
 
 Los Municipios deberán establecer depósitos de basura en los parques, jardines, paseos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos.
 
-### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO X. PROSTITUCIÓN
 
 ###### ARTÍCULO 205.
 
@@ -2441,7 +2463,7 @@ En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED 
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
-### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 208.
 
@@ -2475,7 +2497,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 No se podrán verter desechos o líquidos que conduzcan los caños, en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso y consumo humano. En todo caso, deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 215.
 
@@ -2485,9 +2507,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de aviso de funcionamiento.
 
-### CAPÍTULO I. AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
 ###### ARTÍCULO 217.
 
@@ -2499,7 +2519,9 @@ Cuando se trate de enfermedades de emergencia, graves o cuando así lo requiera 
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como llevar a cabo la notificación a que se refiere el artículo 144 de esta Ley.
 
-### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 219.
 
@@ -2521,15 +2543,13 @@ No podrán ejercer la prostitución los menores de edad y las personas que padez
 
 El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales, dirigidos a quienes se dediquen a la prostitución, privilegiando los cursos para la capacitación y el trabajo; debiendo procurar en lo posible la creación de bolsas de trabajo para su incorporación al sector productivo.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 225.
 
@@ -2563,7 +2583,7 @@ Las autoridades sanitarias, en coordinación con los Ayuntamientos, mantendrán 
 
 Además de los establecimientos a que se refiere el artículo 225 de esta Ley, los Ayuntamientos deberán instalar una perrera para la guarda temporal de estos animales.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2573,7 +2593,7 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIÓN Y CERTIFICADOS
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2627,7 +2647,9 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legislación fiscal aplicable y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 240.
 
@@ -2659,7 +2681,7 @@ X. En los demás casos en que, conforme con esta Ley y demás disposiciones apli
 
 Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la COPRISED dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 242.
 
@@ -2693,7 +2715,7 @@ La COPRISED emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO IV. DELITOS
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 248.
 
@@ -2723,9 +2745,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO IV. DELITOS
 
 ###### ARTÍCULO 252.
 
@@ -2763,7 +2783,7 @@ Los verificadores en el ejercicio de sus funciones, tendrán libre acceso a los 
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, deberán permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 259.
 
@@ -2829,7 +2849,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD, SANCIONES Y DELITOS
 
-### CAPÍTULO VI. PRESCRIPCIÓN
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 264.
 
@@ -2893,7 +2915,7 @@ III. Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 Las autoridades sanitarias competentes podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 271.
 
@@ -2913,7 +2935,7 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 274.
 
@@ -2927,7 +2949,7 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición sanitaria ya que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 275.
 
@@ -2938,6 +2960,8 @@ En este caso, los responsables de la publicidad procederán a suspender el mensa
 ###### ARTÍCULO 276.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+### CAPÍTULO VI. PRESCRIPCIÓN
 
 ###### ARTÍCULO 277.
 
@@ -2993,9 +3017,11 @@ Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario m�
 
 Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en los artículos 88, 113, 258 y 272 de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 286.
 
-Se sancionará con multa equivalente de diez mil hasta quince mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en el artículo 132 de esta Ley.
+Se sancionará con multa equivalente de diez mil hasta quince mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en el artículo 132 y 177 bis de esta Ley.
 
 ###### ARTÍCULO 287.
 
@@ -3311,7 +3337,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE JUNIO DE 2008.
 
@@ -3386,3 +3412,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+P.O. 23 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
