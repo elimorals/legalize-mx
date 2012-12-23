@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-09-03"
+last_updated: "2012-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -445,7 +445,7 @@ Podrán establecerse salas unitarias con carácter de auxiliares y competencia d
 
 Las sesiones de las salas serán privadas y las audiencias serán públicas, excepto cuando sus integrantes determinen que deban ser privadas porque estimen que así lo exige el caso o lo prevenga la ley. Las sesiones tendrán verificativo por lo menos un día hábil de cada semana en el día y hora que sus integrantes determinen mediante acuerdos especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 18.
 
@@ -1551,9 +1551,9 @@ Para el mejor funcionamiento de la Dirección de Archivo, se implantarán sistem
 
 La extracción de expedientes, documentos o registros del archivo judicial, sólo podrá realizarse mediante orden escrita de la autoridad que lo haya remitido o del titular de la Dirección de Transparencia y Acceso a la Información Pública y de Comunicación Social del Poder Judicial del Estado, o de otra competente, en cuyo caso, se insertará en el oficio relativo la determinación que motiva el pedimento.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-El Director del Archivo del Poder Judicial del Estado, expedirá las cartas de existencia o no de antecedentes penales que sean solicitadas, mediante el pago respectivo. En el caso de la solicitud del documento que acredite la no existencia de los antecedentes penales por haber prescrito, previo al trámite relativo a que se refiere el artículo 130 bis del Código Penal para el Estado Libre y Soberano de Durango, donde el Juez de Ejecución le haya notificado al Director del Archivo del Poder Judicial del Estado que se obtuvo una resolución favorable para cancelar los antecedentes, se expedirá sin hacer ninguna aclaración al respecto.
+El Director del Archivo del Poder Judicial del Estado o quien designe el Consejo de la Judicatura, expedirá las cartas de existencia o no de antecedentes penales que sean solicitadas, mediante el pago respectivo. En el caso de la solicitud del documento que acredite la no existencia de los antecedentes penales por haber prescrito, previo al trámite relativo a que se refiere el artículo 130 bis del Código Penal para el Estado Libre y Soberano de Durango, donde el Juez de Ejecución le haya notificado al Director del Archivo del Poder Judicial del Estado que se obtuvo una resolución favorable para cancelar los antecedentes, se expedirá sin hacer ninguna aclaración al respecto.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
@@ -2865,7 +2865,7 @@ Los servidores públicos y empleados del Tribunal Electoral del Poder Judicial d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LO ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LO ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -2893,7 +2893,7 @@ Por lo que respecta a los requisitos para la designación del personal, nombrami
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LA COMISIÓN DE ADMINISTRACIÓN
 
@@ -2913,7 +2913,7 @@ Las sesiones serán ordinarias o extraordinarias. Las ordinarias se verificarán
 
 El Secretario General de Acuerdos del Tribunal para Menores Infractores del Poder Judicial del Estado, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto, y será el ejecutor de los acuerdos y resoluciones que se emitan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 252.
 
@@ -3442,3 +3442,13 @@ P.O. 3 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de la declaratoria de reforma al artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango, que realice el H. Congreso del Estado.
 
 SEGUNDO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
