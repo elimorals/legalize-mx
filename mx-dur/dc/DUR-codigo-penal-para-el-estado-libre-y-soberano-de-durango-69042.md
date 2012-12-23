@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2012-10-21"
+last_updated: "2012-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2541,7 +2541,9 @@ III. Al que en términos de las fracciones anteriores, distraiga sin derecho el 
 
 Se impondrán de seis a doce años de prisión y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario, a los autores intelectuales, a quienes dirijan la invasión y a quienes instiguen a la ocupación de la cosa, cuando el despojo se realice por dos o más personas. Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a éstos, imputados de los delitos cometidos.
 
-### CAPÍTULO I. DELITOS CONTRA LA SEGURIDAD PÚBLICA
+### CAPÍTULO I
+
+DELITOS CONTRA LA SEGURIDAD PÚBLICA Y EL USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA Y DEL SISTEMA PENITENCIARIO
 
 ### CAPÍTULO II. ASOCIACIÓN DELICTUOSA Y DELINCUENCIA ORGANIZADA
 
@@ -2599,6 +2601,8 @@ SUBTÍTULO PRIMERO
 
 DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
 ### CAPÍTULO VI. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
 
 ###### Artículo 228.
@@ -2628,6 +2632,14 @@ X. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociac
 XI. Proporcione servicios distintos a los señalados en las fracciones anteriores a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa.
 
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+Artículo 228 bis. Al que con objeto de planear o ejecutar un delito, u obstruir la función de seguridad pública, realice actos tendientes a obtener o trasmitir mediante cualquier medio, información sobre las actividades propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas y medidas de seguridad, de cualquier ámbito, o sobre cualquier servidor público, funcionario o trabajador, se le impondrá de cuatro a veinte años de prisión y multa de hasta quinientos días de salario.
+
+Además de lo anterior, cuando el sujeto activo sea miembro, funcionario, trabajador o servidor público, de cualquiera de las instituciones de seguridad pública del Municipio o del Estado, de procuración de justicia y de ejecución de las penas estatal, o haya pertenecido a cualquiera de éstas, o sea agente o trabajador de seguridad privada que realice actividades de custodia o vigilancia hacia servidores públicos, se le impondrá de cinco a quince años de prisión y multa de hasta ochocientos días de salario.
+
+Además de la pena y sanción que corresponda por la realización de la conducta descrita en los dos párrafos anteriores, el servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
 
 ### CAPÍTULO VII. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
@@ -3111,6 +3123,8 @@ Al que promueva, publicite, facilite o gestione, por cualquier medio, viajes al 
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 284.
 
 Se sancionará de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, al que:
@@ -3247,7 +3261,7 @@ Las mismas penas se impondrán a aquellas personas que obligadas a informar acer
 
 ###### Artículo 300.
 
-A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario y perderá el derecho de pensión alimenticia y en su caso, prohibición de acudir o residir en lugar determinado. Asimismo se le sujetará a tratamiento psicológico especializado, independientemente de las penas que correspondan por cualquier otro delito.
+A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
@@ -3256,6 +3270,10 @@ Si la víctima de violencia familiar fuera una mujer en estado de gravidez, se a
 ###### Artículo 301.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+
+En los casos que exista desistimiento por parte de la víctima, podrá prevalecer la obligación de sujetar al agresor a tratamientos especializados psicológico, psiquiátrico o reeducativo que podrá llevarse a cabo en los centros de atención públicos especializados en la Entidad.
 
 ### CAPÍTULO V. CONSPIRACIÓN
 
@@ -4652,3 +4670,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
