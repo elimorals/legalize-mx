@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-tribunal-de-lo-contencioso-administrativo-49646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-13"
-last_updated: "2006-03-13"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SALA ADMINISTRATIVA Y ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 24 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de marzo de 2006.
 
@@ -192,3 +194,17 @@ CONSEJERO.
 LA SECRETARIA DEL CONSEJO DE LA JUDICATURA ESTATAL,
 
 C. P. Angélica de Santos Velasco.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+El presente reglamento interior fue aprobado por unanimidad de votos de los Magistrados integrantes de la Sala Administrativa y Electoral en la Segunda Sesión Privada celebrada el catorce de diciembre de dos mil doce.
