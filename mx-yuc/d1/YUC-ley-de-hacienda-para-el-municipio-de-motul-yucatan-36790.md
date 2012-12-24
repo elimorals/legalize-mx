@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2011-12-28"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -617,9 +617,13 @@ Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier
 
 DESTINO FACTOR
 
-HABITACIONAL 0.50 % mensual sobre el monto de la contraprestación.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
-OTROS 0.70 % mensual sobre el monto de la contraprestación.
+Habitacional: 3% mensual sobre el monto de la contra prestación.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Otros: 5% mensual sobre el monto de la contra prestación.
 
 El factor del valor catastral del inmueble en términos de lo dispuesto en el artículo 50 de este ordenamiento legal.
 
@@ -879,11 +883,11 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 69.
 
-La tasa del impuesto sobre diversiones y espectáculos públicos, será de 3% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
+La tasa del impuesto sobre diversiones y espectáculos públicos, será de 5% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
 
 Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero, en espectáculos de circo la tasa será del 4%, aplicada a la totalidad del ingreso percibido.
 
@@ -1013,7 +1017,9 @@ Para los efectos de este capítulo, las construcciones se clasificarán en dos t
 
 Construcción Tipo A:
 
-Es aquella construcción estructurada, cubierta con concreto armado o cualquier otro elemento especial, con excepción de las señaladas como tipo B.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Es aquella construcción estructurada, cubierta de concreto armado, estructura metálica o cualquier otro elemento especial con excepción de las señaladas como tipo B
 
 Construcción tipo B:
 
@@ -1037,7 +1043,109 @@ DE LA TARIFA
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-(VER TABLA ANEXA)
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+LICENCIA DE CONSTANCIA CONSTANCIA
+
+CONSTRUCCIÓN: DE TERMINACIÓN DE UNIÓN Y
+
+DE OBRA: DIVISIÓN DE
+
+INMUEBLES
+
+SE PAGARÁ:
+
+Tipo A Clase 1 Tipo A Clase 1 Tipo A Clase 1
+
+$ 9.00 por metro $ 1.00 por metro $ 9.00 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo A Clase 2 Tipo A Clase 2 Tipo A Clase 2
+
+$ 6.00 por metro $ 1.20 por metro $ 18.00 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo A Clase 3 Tipo A Clase 3 Tipo A Clase 3
+
+$ 6.50 por metro $ 1.30 por metro $ 27.00 por
+
+Cuadrado cuadrado metro cuadrado
+
+Tipo A Clase 4 Tipo A Clase 4 Tipo A Clase 4
+
+$ 7.00 por metro $ 1.45 por metro $ 36.00 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo B Clase 1 Tipo B Clase 1 Tipo B Clase 1
+
+$ 2.00 por metro $ 0.50 por metro $ 4.50 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo B Clase 2 Tipo B Clase 2 Tipo B Clase 2
+
+$ 2.50 por metro $ 0.60 por metro $ 9.00 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo B Clase 3 Tipo B Clase 3 Tipo B Clase 3
+
+$ 3.00 por metro $ 0.70 por metro $ 13.50 por
+
+cuadrado cuadrado metro cuadrado
+
+Tipo B Clase 4 Tipo B Clase 4 Tipo B Clase 4
+
+$ 3.50 por metro $ 0.75 por metro $ 18.00 por
+
+cuadrado cuadrado metro cuadrado
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+I.- Licencia para realizar demolición $ 3.00 por metro cuadrado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II.- Constancia de régimen de Condominio $40.00 por predio, departamento o local.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III.- Constancia de alineamiento $ 4.00 por metro lineal de frente o frentes del predio que den a la vía pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+IV.- Constancia para Obras de Urbanización $0.75 por metro cuadrado de vía pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+V.- Sellado de planos $ 45.00 por el servicio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+VI.-Revisión de planos para trámites de uso del suelo $ 40.00 (fijo)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+VII.- Certificado de Seguridad para el uso de Explosivos $ 45.00 por el servicio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Para efectuar excavaciones o para la construcción de pozos o albercas $15.00 por metro cúbico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+IX.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones $ 40.00 por metro lineal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+X.- Licencia para construir bardas o colocar pisos $ 3.00 por metro cuadrado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XI.- Permiso por construcción de fraccionamientos $ 25.00 por metro cuadrado.
 
 DE LAS EXENCIONES
 
@@ -1205,13 +1313,17 @@ DE LA TASA Y DEL PAGO
 
 Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa tasada en salarios mínimos:
 
-I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán 5 salarios mínimos vigente mensual por locales cerrados;
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
-II.- Por cuota fija para comerciantes ambulantes, se pagarán desde 0.44 salario mínimo por día;
+I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán mensualmente 5 veces el salario mínimo vigente en el Estado por locales cerrados;
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán 3.67 salarios mínimos diários vigentes en el Estado.
+II.- Por cuota fija para comerciantes ambulantes, se pagará la cuota diaria desde 0.44 veces el salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán mensualmente 3.67 veces el salario mínimo vigente en el Estado.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -2144,3 +2256,13 @@ TRANSITORIO DEL DECRETO:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE DICIEMBRE DE 2012.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+TRANSITORIO DEL DECRETO
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrarán en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
