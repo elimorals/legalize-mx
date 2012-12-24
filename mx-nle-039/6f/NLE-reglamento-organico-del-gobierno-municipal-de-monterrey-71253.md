@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2012-01-11"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -763,39 +763,25 @@ Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo U
 
 ### CAPÍTULO VII. SECRETARÍA DE OBRAS PÚBLICAS
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 16.
 
-La Secretaría de Obras Públicas es la dependencia encargada de la proyección y construcción de obras públicas municipales, y le corresponde el despacho de los siguientes asuntos:
+Secretaría de Obras Públicas es la dependencia encargada de la planeación, proyección, construcción, conservación y modificación de obras públicas municipales y le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+A) Atender las necesidades de infraestructura de la ciudadanía para posteriormente ser incluida previo estudio de factibilidad en los programas de obras públicas;
 
-I. Planeación y Promoción de Obras:
+B) Proponer las políticas y programas relativos a la construcción de obras públicas, elaborando los proyectos y presupuestos respectivos.
 
-A) Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas;
+C) Expedir las bases y especificaciones a que deben ajustarse los concursos para la adjudicación y contratación de las obras públicas y vigilar el cumplimiento de las mismas en apego a la normatividad vigente.
 
-B) Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras públicas;
+D) Dirigir, coordinar y controlar la construcción de las obras públicas hasta su conclusión y entrega final a las Dependencias encargadas de su posterior operación y mantenimiento.
 
-C) Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarlos con las dependencias que correspondan.
+E) Atender las observaciones derivadas de las auditorias de los diversos órganos fiscalizadores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+Los demás que en la materia de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-II. Contratación:
-
-A) Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras públicas y vigilar el cumplimiento de los mismos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
-
-III. Construcción:
-
-A) Construir y dar mantenimiento a los edificios, inmuebles y monumentos municipales.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
-
-Los demás que en las materias de su competencia le atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las Direcciones de: Proyectos y Promoción, Construcciones, de Promoción de Obras y Gestión Social, de Planeación y Control Físico, así como de las Coordinaciones y Jefaturas de Departamento necesarias para el correcto desempeño de las atribuciones de la Secretaría.
+Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las siguientes Direcciones: Dirección de Promoción y Gestión Social, Dirección de Planeación y Contratación, Dirección de Proyectos y Dirección de Construcción y Control de Obra,· así como de las Coordinaciones y Jefaturas de Departamentos necesarias para el correcto desempeño de las atribuciones de la Secretaría.
 
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
 
@@ -805,7 +791,9 @@ La Secretaría de Desarrollo Humano y Social es la unidad administrativa respons
 
 I.- En materia de Desarrollo Humano y Social:
 
-A) Establecer, coordinar, ejecutar y evaluar las políticas de desarrollo social y de combate a la pobreza y a la marginación;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+A) Establecer, coordinar, ejecutar y evaluar las políticas de desarrollo social y de combate a la pobreza, a la marginación y discriminación;
 
 B) Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General de Desarrollo Social;
 
@@ -831,9 +819,21 @@ L) Integrar el Padrón Municipal de Beneficiarios de los Programas Sociales, el 
 
 M) Auxiliar a las Dependencias del Gobierno Municipal en la elaboración de programas y acciones que contribuyan al desarrollo social y humano de la población;
 
-N) Recopilar datos y elaborar informes acerca del nivel de Desarrollo Social y Humano de la Comunidad, que sirvan de referencia para la elaboración de la política de Desarrollo Social del municipio; así como también integrar registros de voluntarios o promotores de programas sociales; y
+N) Recopilar datos y elaborar informes acerca del nivel de Desarrollo Social y Humano de la Comunidad, que sirvan de referencia para la elaboración de la política de Desarrollo Social del municipio; así como también integrar registros de voluntarios o promotores de programas sociales; y (sic)
 
 O) Organizar, convocar y constituir entre los habitantes, los Comités de Acción Comunitaria en las colonias, barrios o comunidades del territorio municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+P) Promover políticas y programas enfocados a la promoción de los derechos humanos;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Q) Promover políticas sociales incluyentes en la sociedad regiomontana; y
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+R) Canalizar y dar seguimiento a las peticiones que se realicen a las diversas unidades administrativas responsables de su ejecución, llevando un registro.
 
 II.- En materia de Educación:
 
@@ -957,9 +957,13 @@ C) Elaborar y actualizar en coordinación con la Contraloría Municipal, los pro
 
 D) Tramitar, controlar y ejercer con estricto apego a los programas autorizados, el presupuesto anual asignado a la dependencia, satisfaciendo las necesidades y requerimientos de la misma;
 
-E) Llevar el control y dar el mantenimiento necesario a los bienes muebles e inmuebles de la Secretaría; y
+E) Llevar el control y dar el mantenimiento necesario a los bienes muebles e inmuebles de la Secretaría; y (sic)
 
 F) Establecer coordinación y relación con las unidades administrativas de la Secretaría, así como con otras dependencias municipales afines, para la realización de los trámites administrativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+G) Canalizar y dar seguimiento a las peticiones que se realicen a las diversas unidades administrativas responsables de su ejecución, llevando un registro, que permita el control de la información.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
 
@@ -991,9 +995,11 @@ Las atribuciones y facultades que otros ordenamientos jurídicos le otorguen al 
 
 Serán principios rectores en la elaboración de planes y programas de trabajo, la libertad, justicia, igualdad, equidad, democracia, solidaridad, subsidiaridad, bien común, respeto, honestidad y transparencia.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Para el despacho y cumplimiento de los asuntos de su competencia, el Secretario de Desarrollo Humano y Social, se auxiliara con las Direcciones de: Acción Comunitaria, Administración, Atención Ciudadana, Cultura y Expresión Artística, Cultura Física y Deporte, Desarrollo Social, Educación, Parques Públicos, Recreación y Eventos, Salud Pública, así como de las Coordinaciones y Jefaturas de Departamento necesarias para el correcto funcionamiento de la Secretaría.
+Para el despacho y cumplimiento de los asuntos de su competencia, el Secretario de Desarrollo Humano y Social, se auxiliara con las Direcciones de: Acción Comunitaria, Administración, Cultura y Expresión Artística, Cultura Física y Deporte, Desarrollo Social, Educación, Parques Públicos, Recreación y Eventos, Salud Pública, así como de las Coordinaciones y Jefaturas de Departamento necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO IX. SECRETARÍA DE ADMINISTRACIÓN
 
@@ -1147,6 +1153,10 @@ B) Dirigir, coordinar y controlar la ejecución de los programas relativos a la 
 
 C) Elaborar los proyectos y presupuestos de los servicios públicos, debiendo coordinarlos con las dependencias que correspondan.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+D) Dar mantenimiento a los edificios, inmuebles y monumentos municipales.
+
 VI.- De Contratación:
 
 A) Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de servicios públicos y vigilar el cumplimiento de los mismos.
@@ -1165,9 +1175,9 @@ D) Otorgar visto bueno para la liberación de vehículos que causen daños en el
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará con las Direcciones de: Modernización y Proyectos, Administrativa, De Imagen y Mantenimiento Urbano, Técnica, Operativa Zona Norte, Operativa Zona Sur, Operativa Zona Poniente y Operativa Zona Centro, así como de las demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará con las Direcciones de: Modernización y Proyectos, Administrativa, De Imagen y Mantenimiento Urbano, Técnica, Operativa Zona Norte, Operativa Zona Sur, Operativa Zona Sur Huajuco, Operativa Zona Poniente y Operativa Zona Centro, así como de las demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XI. SECRETARÍA DE VIALIDAD Y TRÁNSITO
 
@@ -1201,9 +1211,9 @@ E) Fomentar en la población el respeto al peatón y a las normas de tránsito;
 
 F) Promover la acción de la comunidad encaminada a denunciar las conductas irregulares que llegare a presentar el personal de la Secretaría.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-G) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+G) Llevar a cabo la mediación y solución de los conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa, sea de carácter vial entre las partes y no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
 
 III.- De Modernización:
 
@@ -1215,21 +1225,25 @@ B) Llevar y mantener actualizado el padrón de las licencias de manejo que sean 
 
 IV. De Orden Legal
 
-A) Auxiliar al Ministerio Público en la investigación y persecución de los delitos inherentes o relacionados con el tránsito de vehículos y la aprehensión de los infractores;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-B) Imponer sanciones a las personas que infrinjan los reglamentos de tránsito;
+A) Auxiliar al Ministerio Público en la investigación y persecución de los delitos inherentes o relacionados con el tránsito de vehículos y la detención de los infractores;
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-C) Auxiliar a solicitud de las autoridades federales, estatales y de otros municipios, en localización y persecución de los delincuentes.
+B) Imponer sanciones a las personas que infrinjan el Reglamento de Vialidad y Tránsito;
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Los demás que en las materias de su competencia le atribuyan al Municipio las Leyes y Reglamentos vigentes o le asigne el Presidente Municipal.
+C) Auxiliar con información, a solicitud de las autoridades federales, estatales y de otros municipios, en localización y persecución de los delincuentes.
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Tránsito y Vialidad, de Accidentes, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Operativa, de Accidentes, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA
 
@@ -1309,55 +1323,103 @@ C) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre 
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de la Contraloría se auxiliará con las Direcciones de: Auditoría, Normatividad, así como de las Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+Para el despacho de los asuntos de su competencia, el Secretario de la Contraloría se auxiliará con las Direcciones de: Auditoría, Normatividad y Transparencia, así como de las Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XIII. SECRETARÍA DE DESARROLLO ECONÓMICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-La Secretaría de Desarrollo Económico de Monterrey es la dependencia encargada de establecer e instrumentar las políticas, estrategias, acciones y programas tendientes a lograr el desarrollo económico del Municipio, correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Económico del Municipio de Monterrey, es la dependencia encargada de establecer e instrumentar las políticas, estrategias, acciones y programas tendientes a lograr el desarrollo económico del Municipio, correspondiéndole el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-I. De orden General, Productividad, Fomento Económico y de Relaciones Interinstitucionales:
+I. En materia de Orden General:
 
 A) Crear, mantener y fomentar acciones y programas que promuevan el desarrollo económico del Municipio;
 
-B) Formular, dirigir, coordinar y controlar las acciones y programas tendientes a fomentar e impulsar las actividades industriales, comerciales, turísticas, y en general todo tipo de actividad económica que genere la creación de empleos y mejore la economía de la ciudadanía;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+B) Formular, dirigir, coordinar y controlar las acciones y programas tendientes a fomentar e impulsar las actividades industriales, comerciales, turísticas y en general de todo tipo de actividad económica que genere la creación de nuevas fuentes de inversión y empleos que mejore la economía de la ciudadanía;
 
-C) Proponer al Ayuntamiento la celebración de convenios con los organismos del sector privado, gubernamental y particulares a fin de coordinar esfuerzos tendientes a incrementar la actividad económica del Municipio;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-D) Promover, propiciar y asegurar la coordinación de acciones y relaciones nacionales e internacionales para establecer nexos de cooperación que redunden en beneficios para la comunidad;
+C) Promover ante el Ayuntamiento la celebración de acuerdos, la formalización de convenios de coordinación o colaboración, con las diferentes instancias y órdenes de gobierno, para el Desarrollo Económico del Municipio;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+D) Promover diferentes tipos de acuerdos y convenios, con distintas instancias del sector social, público y privado para trabajar conjuntamente en el fomento de las acciones y programas que generen un nuevo Desarrollo Económico para la ciudadanía del Municipio de Monterrey;
 
 E) Trabajar coordinadamente con cámaras, organismos intermedios, dependencias gubernamentales, instituciones educativas y la sociedad en realizar conjuntamente acciones orientadas al desarrollo económico de la comunidad.
 
-II.- De Promoción y Participación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-A) Asesorar y capacitar al sector social y privado en temas relacionados con el desarrollo y para el crecimiento de las actividades económicas o en la ejecución de proyectos para mejorar la economía familiar;
+II. En materia de Promoción y Participación:
 
-B) Implementar y promover acciones en coordinación con organismos interesados en el desarrollo de las actividades industriales, comerciales, artesanales, de turismo y servicios, así como realizar, publicaciones, ferias, exposiciones y foros promociónales para estos fines;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+A) Promover la participación ciudadana mediante la creación de un Consejo Consultivo Ciudadano de Desarrollo Económico de Monterrey, el cual se regulara como lo determina el Reglamento de Participación Ciudadana del Municipio de Monterrey, Nuevo León;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+B) Fortalecer e incentivar la competitividad empresarial y turística, generando acciones y programas orientados al crecimiento y desarrollo económico del Municipio de Monterrey;
 
 C) Consolidar y gestionar todo tipo de apoyos para el desarrollo de las micros, pequeñas y medianas empresas y fomentar la organización de la producción, la comercialización artesanal y las industrias familiares.
 
-III.- De Apoyo a la Vivienda y al Empleo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-A) Implementar y coordinar acciones de vinculación orientadas a apoyar al sector empresarial para cubrir sus vacantes de empleo.
+III. En materia de Empleo y Desarrollo Empresarial
 
-IV.- De Fomento al Turismo para el Crecimiento Económico:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-A) Formular e impulsar acciones y programas orientados al desarrollo del turismo en el Municipio que repercutan en el crecimiento de la industria del sector servicios y de la generación de empleos.
+A) Promover, implementar y coordinar la creación de empleos para la comunidad regiomontana y el acceso a éstos, a través de acciones, programas, gestiones y capacitaciones empresariales orientadas en apoyo a la ciudadanía para cubrir la demanda laboral dentro del Municipio de Monterrey;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
+B) Fomentar y organizar las Ferias y brigadas de Empleo en los diferentes sectores o zonas geográficas del Municipio de Monterrey de acuerdo a la demanda laboral de los habitantes del Municipio;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico de Monterrey se auxiliará con las Direcciones de: Empleo y Desarrollo Empresarial, de Vivienda y Patrimonio, de Relaciones Interinstitucionales y de Turismo, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el desarrollo de la Secretaría.
+C) Promover los servicios de la Incubadora de Empresas de Monterrey (INEM); fomentando el crecimiento de las micro, pequeñas y medianas empresas dentro del Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+IV. En materia de Fomento a la Inversión
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+A) Fomentar y coordinar acciones de vinculación con las diferentes instancias del sector social, público y privado, con la finalidad de incentivar a las diferentes fuentes de inversión económica a nivel empresarial en el Municipio de Monterrey;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+B) Gestionar todo tipo de apoyos e incentivos económicos a nivel Municipal, Estatal y Federal para el desarrollo de las Micro, Pequeñas y Medianas Empresas; así como también de los negocios familiares, con la finalidad de fomentar la organización de la producción y la comercialización de sus productos;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+C) Atención directa a las fuentes de inversión actuales y futuras para la facilidad en la gestión de los trámites y servicios que requieran con las diferentes dependencias municipales y estatales, en el fomento para el establecimiento de las distintas fuentes de desarrollo económico;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+D) Fomentar, planear, organizar y ejecutar diferentes misiones comerciales, dentro y fuera del Municipio de Monterrey; para beneficio de las empresas exportadoras y negocios productivos dentro del Municipio; así como también de las empresas importadoras nacionales y extranjeras que busquen establecerse en el Municipio.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+V. De Fomento al Turismo para el Crecimiento Económico
+
+A) Impulsar el desarrollo competitivo de los productos turísticos; mediante políticas públicas que permitan un mayor crecimiento empresarial de los prestadores de los servicios turísticos;
+
+B) Promover y fomentar la difusión del turismo; mediante acciones y programas conjuntamente con los diferentes sectores turísticos, cadenas hoteleras y demás organizaciones para la atracción de nuevos turistas y paseantes, mediante la organización de distintas actividades culturales que puedan brindarse dentro del Municipio de Monterrey; las cuales repercutan en el crecimiento del desarrollo económico.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Y los demás; que en las materias de su competencia, le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico de Monterrey, se auxiliará con las Direcciones de: Empleo y Desarrollo Empresarial, de Fomento a la Inversión, de Relaciones Institucionales y de Turismo; y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el desarrollo de la Secretaría.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -1465,7 +1527,9 @@ B) Presentar al Presidente Municipal las propuestas para nombramientos o remocio
 
 C) Representar o designar a quien representará al Presidente Municipal en los eventos que se le encomiende y en la atención a los ciudadanos;
 
-D) Establecer y mantener relaciones con las Dependencias Oficiales e Instituciones y Organizaciones privadas;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+D. Establecer y mantener relaciones públicas con las dependencia Oficiales e instituciones y Organizaciones Privadas;
 
 E) Determinar y coordinar las medidas de seguridad personal para el Presidente Municipal;
 
@@ -1475,13 +1539,29 @@ G) Atender e informar a la Contraloría Municipal sobre las quejas presentadas e
 
 H) Brindar atención ciudadana a través de audiencias, recepción de solicitudes, denuncias y quejas encausándolas al área correspondiente, dando seguimiento a las mismas y llevando los registros que sean necesarios para su adecuado control;
 
-I) Organizar la presentación pública del informe anual que rinde el R. Ayuntamiento por medio del Presidente Municipal;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+I. Organizar la presentación pública del informe anual que rinde el Ayuntamiento por medio del Presidente Municipal;
 
 J) Servir de enlace entre el Presidente Municipal y las Dependencias Oficiales, Instituciones Privadas y ciudadanos en particular;
 
 K) Diseñar y dar seguimiento a las políticas públicas, planes y programas requeridos para el desempeño de las funciones del Presidente Municipal.
 
-II.- De Comunicación Social:
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+L. Programar y coordinar la agenda de las citas, reuniones de trabajo, eventos cívicos y especiales a los que asista el Presidente Municipal de la ciudad.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+M. Atender, canalizar y dar seguimiento a la correspondencia física o electrónica que recibe el Presidente Municipal de la ciudad.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+N. Brindar el servicio de logística para la organización de los eventos oficiales del Presidente Municipal o sus representantes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II.- En materia de Comunicación Social:
 
 A) Ser el enlace entre el Gobierno Municipal y los medios de comunicación, así como elaborar comunicados de prensa de las actividades más relevantes del Gobierno Municipal para difundirlos entre los mismos;
 
@@ -1497,15 +1577,27 @@ F) Brindar el servicio de logística para la organización de los eventos oficia
 
 G) Coordinar y revisar los planes y programas ejecutados por las Dependencias del Municipio;
 
-H) Diseñar la imagen institucional del Gobierno Municipal con logotipo, eslogan, tipografía y políticas de aplicación;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-I) Brindar cobertura de fotografía, video y audio a las actividades, programas y obras que lleve a cabo el Gobierno Municipal en coordinación con las distintas Dependencias.
+H. Mantener actualizada la información disponible en la página oficial de internet del Municipio.
 
-III.- De Planeación:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+I. Diseñar la imagen institucional del Gobierno Municipal con logotipo, eslogan, tipografía y políticas de aplicación;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+J. Brindar cobertura de fotografía, video y audio a las actividades, programas y obras que lleve a cabo el Gobierno Municipal en coordinación con las distintas Dependencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III.- En materia de Planeación:
 
 A) Diseñar las políticas públicas enfocadas a atender las necesidades de la ciudadanía, mediante asesoría y coordinación con las diversas dependencias del Gobierno Municipal;
 
-B) Realizar diversos estudios de mercado para analizar el impacto de la eficacia y eficiencia del Gobierno Municipal en la ciudadanía, y plantear acciones de mejora;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+B. Realizar diversos análisis y estudios de mercado para evaluar la eficacia y eficiencia del Gobierno Municipal y plantear acciones de mejora;
 
 C) Gestionar proyectos municipales para la obtención fondos (sic) federales;
 
@@ -1513,11 +1605,41 @@ D) Integrar a organismos con diversas especialidades para mejorar la eficiencia 
 
 E) Asesorar a las diversas dependencias municipales para la adecuada implementación de las políticas públicas tendientes a satisfacer las necesidades ciudadanas.
 
-IV.- De Orden Legal:
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+F. Implementar la política pública en mejora regulatoria en el Municipio de Monterrey;
 
-A) Prestar asesoría jurídica al Presidente Municipal en el conocimiento, revisión y opinión respecto de todas las consultas, contratos, convenios, reglamentos, acuerdos, resoluciones, nombramientos, informes y en general cualquier documento u acto de autoridad con efectos jurídicos, en que intervenga; y en coordinación con la Dirección Jurídica de la Secretaría del Ayuntamiento, sólo cuando éste así lo encomiende;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+G. Coordinar y revisar los planes y programas ejecutados por las Dependencias del Municipio;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+H. Promover y ejecutar la elaboración, actualización, control y evaluación del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+IV. En materia de Atención a la Ciudadanía:
+
+A. Planear acciones que permitan dar orientación de los servicios públicos que se prestan a la ciudadanía; así mismo, ser receptor oportuno de las solicitudes de servicios a través de los diferentes canales de comunicación creados para establecer un contacto personal, proporcionando el seguimiento adecuado;
+
+B. Canalizar y dar seguimiento a las peticiones que se realicen a las diversas unidades administrativas responsables de su ejecución, llevando un registro, que permita el control de la información y supervisando que las Dependencias de la Administración Pública Municipal realicen y brinden la respuesta que corresponda.
+
+C. Sistematizar los procesos de atención para que sean eficaces y aseguren la calidad en el trato hacia los ciudadanos;
+
+D. Instalar áreas de atención que proporcionen información y orientación a la ciudadanía sobre el trámite de servicios, quejas y demás asuntos relacionados con las dependencias del Gobierno Municipal;
+
+E. Organizar y coordinar programas de gobierno que fomenten la participación de la comunidad mediante audiencias públicas como un medio de comunicación entre los ciudadanos y el Presidente Municipal y sus funcionarios con objeto de atender las solicitudes de servicios públicos municipales; y
+
+F. Diseñar y coordinar los mecanismos necesarios para promover la difusión a la ciudadanía de las actividades relacionadas con los servicios y funciones del Gobierno Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+V. En materia de Orden Legal:
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+A. Prestar asesoría jurídica al Presidente Municipal en el conocimiento, revisión y opinión respecto de todas las consultas, contratos, convenios, reglamentos, acuerdos, resoluciones, nombramientos, informes y en general cualquier documento u acto de autoridad con efectos jurídicos, en que intervenga; y en coordinación con la Dirección Jurídica de la Secretaría del Ayuntamiento, sólo cuando éste así lo encomiende;
 
 B) Emitir opinión legal al Presidente Municipal en todos aquellos asuntos que por su relevancia y en forma específica así lo determine.
 
@@ -1525,11 +1647,13 @@ B) Emitir opinión legal al Presidente Municipal en todos aquellos asuntos que p
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Planeación y Comunicación se auxiliará con las Direcciones de: Comunicación Social, de Relaciones Públicas, de Planeación y demás Asesores, Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+Para el despacho de los asuntos de su competencia, el Secretario de Planeación y Comunicación se auxiliará con las Direcciones de: Comunicación Social, de Relaciones Públicas, de Planeación, de Atención Ciudadana y demás Asesores, Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XVI. DIRECCIÓN GENERAL DEL DESARROLLO INTEGRAL DE LA FAMILIA
+
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS POR MODIFICACIÓN APROBADAS POR EL AYUNTAMIENTO DE MONTERREY, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL ESTE ARTÍCULO.</small>
 
 ###### ARTÍCULO 28.
 
@@ -1541,13 +1665,19 @@ II.- Realizar estudios e investigaciones sobre los problemas de la familia con e
 
 III.- Proporcionar a la comunidad en general servicios de asistencia social y de estancias infantiles a través de las Unidades con que cuente la Dirección General del Desarrollo Integral de la Familia;
 
-IV.- Realizar acciones de apoyo formativo, tanto preventivo como informativo, para la integración social, de superación personal y de capacitación para el trabajo, en beneficio de las personas sujetos de la asistencia social, que tiendan a mejorar la calidad de vida de los mismos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-V.- Colaborar con las demás Autoridades Municipales a dar atención y apoyo a las víctimas de desastres;
+IV. Realizar acciones de apoyo formativo, tanto preventivo como informativo, para la integración social, superación personal y de capacitación en beneficio de la población vulnerable, que tiendan a mejorar la calidad de vida de los mismos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+V. Colaborar con las demás autoridades municipales a dar atención y apoyo a las víctimas de desastre; así como la habilitación de albergues temporales en caso de ser necesario;
 
 VI.- Realizar programas preventivos, educativos y formativos para combatir la desintegración familiar, el pandillerismo, la drogadicción, el alcoholismo y demás conductas antisociales o que dañen la salud de la persona;
 
-VII.- Establecer programas de apoyo físico, jurídico y psicológico a las víctimas de abuso sexual, violencia familiar o maltrato;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+VII. Establecer programas de apoyo físico, jurídico y psicológico a las víctimas de abuso sexual, violencia familiar o maltrato; incluyendo en su caso a los sujetos generadores de la violencia familiar;
 
 VIII.- Coadyuvar con los habitantes de escasos recursos con la prestación de servicios funerarios a través de las áreas con que cuente la Dirección General del Desarrollo Integral de la Familia;
 
@@ -1555,31 +1685,45 @@ IX.- Coordinarse con las diversas instancias asistenciales del Gobierno del Esta
 
 X.- Coordinarse con las diversas instancias de Gobierno Municipal, Estatal y Federal, así como con Organismos no Gubernamentales para hacer llegar los beneficios de los diversos programas implementados por la Dirección General del Desarrollo Integral de la Familia;
 
-XI.- Brindar asesoría jurídica gratuita a la ciudadanía en general con la finalidad de que la familia tenga un entorno de tranquilidad legal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XII.- Dar seguimiento a los programas incluidos en el Programa Nacional para la Incorporación y Desarrollo de las Personas con Capacidades Diferenciadas, así como los propios del Municipio;
+XI. Dar seguimiento a los programas incluidos en el programa nacional para la incorporación y desarrollo de las personas con discapacidad, así como los propios del Municipio.
 
-XIII.- Promover y desarrollar programas que involucren a diversos organismos, asociaciones civiles y sociedad en general cuyo objetivo sea brindar más beneficios a las personas más vulnerables;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XIV.- Impulsar el sano crecimiento físico, mental y social de la niñez, mediante programas que tiendan a elevar sus condiciones de salud y nutrición;
+XII. Promover y desarrollar programas que involucren a diversos organismos, asociaciones civiles y sociedad en general cuyo objetivo sea brindar más beneficios a las personas más vulnerables;
 
-XV.- Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XVI.- Prestar servicios de orientación jurídica, psicológica y social a menores, ancianos, mujeres, minusválidos y en general a las personas de escasos recursos;
+XIII. Impulsar el sano crecimiento físico, mental y social de la niñez, mediante programas que tiendan a elevar sus condiciones de salud y nutrición;
 
-XVII.- Operar establecimientos que presten servicios de asistencia social en beneficio de menores en estado de abandono, ancianos desamparados, minusválidos sin recursos y en general a personas con cualquier tipo de incapacidad;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XVIII.- Realizar acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
+XIV. Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
 
-XIX.- Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas de la Dirección General;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XX.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia familiar;
+XV. Prestar servicios de orientación jurídica, psicológica y social a menores, ancianos, mujeres, minusválidos y en general a las personas de escasos recursos;
 
-XXI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2012)</small>
+XVI. Operar establecimientos que presten servicios de asistencia social en beneficio de menores en estado de abandono, ancianos desamparados, minusválidos sin recursos y en general a personas con cualquier tipo de incapacidad;
 
-XXII.- Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XVII. Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas de la Dirección General;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia familiar.
+
+XIX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
+
+XX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
+
+XXI.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
+
+XXII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
@@ -1710,6 +1854,16 @@ P.O. 11 DE ENERO DE 2012.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes reformas por modificación, adición y derogación del Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por adición y modificación al Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
 ###### ARTÍCULO SEGUNDO.
 
