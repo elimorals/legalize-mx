@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA 1° DE ENERO DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -99,7 +101,7 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### Capítulo III. De los Recursos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 9.
 
@@ -111,7 +113,7 @@ En este caso, los recursos que se promueven se tramitarán y resolverán en la f
 
 ### Capítulo IV. De las Garantías
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
@@ -231,7 +233,7 @@ INGRESOS EXTRAORDINARIOS
 
 ###### Artículo 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de los dispuesto en la Ley de Gobierno de los Municipios de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
 
 ### Capítulo VII. De los Créditos Fiscales
 
@@ -627,7 +629,7 @@ Cuando en un mismo inmueble se realicen simultáneamente actividades propias del
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencias. En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios de Yucatán.
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios de Yucatán.
 
 Solo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -763,7 +765,7 @@ II.- En la adquisición que realicen los Estados Extranjeros, en los casos que e
 
 III.- Cuando se adquiera la propiedad de Inmuebles, con motivo de la constitución de la sociedad conyugal.
 
-IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no exceda n de las porciones que a cada uno de los copropietarios corresponda. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
+IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que a cada uno de los copropietarios corresponda. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
@@ -1253,11 +1255,17 @@ TARIFA
 
 La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 87 de esta ley, serán los siguientes:
 
-I.- Por apertura $ 2,500.00
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
-II.- Por revalidación $ 700.00
+I.- Por apertura $ 10,000.00
 
-III.- Por permisos eventuales $ 500.00
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II.- Por revalidación $ 2,000.00
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III.- Por permisos eventuales $ 1,200.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1301,9 +1309,11 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 96.
 
-La tarifa se causara mensualmente a razón de $ 5.00 por predio en el caso del inciso I y de $ 200 en el caso del inciso II.
+La tarifa se causará mensualmente a razón de $ 10.00 por predio en el caso del inciso I y de $ 200.00 en el caso del inciso II.
 
 PAGO
 
@@ -1333,9 +1343,11 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $ 7.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $ 10.00 de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1373,11 +1385,17 @@ TARIFA
 
 Los derechos por este servicio se pagarán conforme a las siguientes tarifas:
 
-I.- Locatarios que venden frutas y verduras $ 20.00 mensual.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
 
-II.- Locatarios que venden carnes $ 50.00 mensual.
+I.- Locatarios que venden frutas y verduras $ 40.00 mensual.
 
-III.- Locatarios de loncherías y venta de comida $ 50.00 mensual.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II.- Locatarios que venden carnes $ 80.00 mensual.
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III.- Locatarios de loncherías y venta de comida $ 80.00 mensual.
 
 PAGO
 
@@ -1417,7 +1435,9 @@ Estos derechos se causarán de acuerdo a las cuotas siguientes:
 
 I.- Por Inhumaciones y exhumaciones $ 400.00
 
-II.- Por usar una bóveda por un periodo de dos años.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II.- Por usar una bóveda por un periodo de tres años.
 
 a) Por metro cuadrado $ 200.00
 
@@ -1591,7 +1611,7 @@ OBJETO
 
 ###### Artículo 123-B.
 
-Es objeto de este derecho, los gastos que se generen por los servicios que presta la Unidad Municipal de Acceso a la Información Pública del Ayuntamiento de Sacalum, Yucatán.
+Es objeto de este derecho, los gastos que se generan por los servicios que presta la Unidad Municipal de Acceso a la Información Pública del Ayuntamiento de Sacalum, Yucatán.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -1773,7 +1793,7 @@ TASA
 
 ###### Artículo 132.
 
-La tasa será el porcentaje que se convenga entre los beneficiados y la autoridad teniendo en cuenta las circunstancias económicas de los beneficiados, procurando que la aportación económica no sea ruinosa o desproporciona da, y se aplicará al precio unitario por metro cuadrado de la superficie concesionada.
+La tasa será el porcentaje que se convenga entre los beneficiados y la autoridad teniendo en cuenta las circunstancias económicas de los beneficiados, procurando que la aportación económica no sea ruinosa o desproporcionada, y se aplicará al precio unitario por metro cuadrado de la superficie concesionada.
 
 DE LA CAUSACIÓN
 
@@ -1813,7 +1833,7 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 137.
 
@@ -1821,7 +1841,7 @@ Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Muni
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-A que el arrendamiento de bienes se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmará el Presidente Municipal y del Síndico, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
+A que el arrendamiento de bienes se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y del Síndico, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
@@ -2025,7 +2045,7 @@ Q. I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estadio de Yucatán.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 28 DE DICIEMBRE DE 2006.
 
@@ -2038,3 +2058,13 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE DICIEMBRE DE 2012.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+T R A N S I T O R I O:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
