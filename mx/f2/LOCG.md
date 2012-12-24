@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2012-10-17"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1346,25 +1346,29 @@ XI. Educación, Cultura, Ciencia y Tecnología;
 
 XII. Energía;
 
-XIII. Equidad y Género;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2012)</small>
 
-XIV. Estudios Legislativos;
+XIII. Estudios Legislativos;
 
-XV. Federalismo y Desarrollo Municipal;
+XIV. Federalismo y Desarrollo Municipal;
 
-XVI. Gobernación;
+XV. Gobernación;
 
-XVII. Hacienda y Crédito Público;
+XVI. Hacienda y Crédito Público;
 
-XVIII. Jurisdiccional;
+XVII. Jurisdiccional;
 
-XIX. Justicia;
+XVIII. Justicia;
 
-XX. Marina;
+XIX. Marina;
 
-XXI. Medalla Belisario Domínguez;
+XX. Medalla Belisario Domínguez;
 
-XXII. Medio Ambiente, Recursos Naturales y Pesca;
+XXI. Medio Ambiente, Recursos Naturales y Pesca;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2012)</small>
+
+XXII. Para la Igualdad de Género
 
 XXIII. Puntos Constitucionales;
 
@@ -2181,3 +2185,7 @@ Tercero.- Por única ocasión, las Comisiones Ordinarias, deberán quedar consti
 D.O.F. 17 DE OCTUBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
