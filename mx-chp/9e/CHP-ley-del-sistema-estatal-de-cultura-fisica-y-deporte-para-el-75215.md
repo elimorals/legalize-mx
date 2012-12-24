@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-para-el-752
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2010-04-17"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE CHIAPAS
 
-LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE CHIAPAS
+LEY DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -85,7 +85,9 @@ Las autoridades en materia deportiva para el Estado son:
 
 I. El Consejo del Sistema Estatal del Deporte.
 
-II. El Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II. La Secretaría de la Juventud, Recreación y Deporte.
 
 ###### Artículo 7.
 
@@ -99,7 +101,9 @@ I. Ser órgano rector de la política pública estatal deportiva.
 
 II. Fungir como órgano normativo y de planeación en materia deportiva.
 
-III. Aprobar los nombramientos de servidores públicos de primer nivel del Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III. Aprobar los nombramientos de servidores públicos de primer nivel de la Secretaría de la Juventud, Recreación y Deporte.
 
 IV. Aprobar el Plan Estatal de Desarrollo del Deporte, con objetivos a tres, cinco y diez años.
 
@@ -117,7 +121,9 @@ X. Aprobar, en el marco del Sistema Estatal del Deporte, las actividades corresp
 
 XI. Establecer los mecanismos de coordinación en materia deportiva, con el Gobierno Federal y con otras Entidades Federativas.
 
-XII. Conocer y aprobar los informes cuatrimestrales que presente el Director General del Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XII. Conocer y aprobar los informes cuatrimestrales que presente el titular de la Secretaría de la Juventud, Recreación y Deporte.
 
 XIII. Promover y propiciar la participación deportiva popular, estudiantil, federada y de alto rendimiento, mediante la conjunción de esfuerzos entre los sectores social y privado.
 
@@ -143,25 +149,27 @@ XXIII. Coordinar las acciones de todos los programas de deporte que a nivel esta
 
 XXIV. Las demás que le otorguen esta ley, su reglamento, y demás normas aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 9.
 
 El Consejo del Sistema Estatal del Deporte se integrará de la siguiente manera:
 
-I. Un Presidente, que será el Titular de la Secretaría de Educación.
+I. Un Presidente, que será el Titular de la Secretaría de la Juventud, Recreación y Deporte.
 
-II. Un Secretario Ejecutivo, que será el Titular del Instituto del Deporte.
+II. Un Secretario Ejecutivo, que será el servidor público que designe el titular de la Secretaría de la Juventud, Recreación y Deporte.
 
 III. Consejeros Vocales, que serán:
 
-a. El Titular de la Dirección de Educación Básica de la Secretaría de Educación.
+a. Un representante de la Dirección de Educación Básica de la Secretaría de Educación.
 
-b. Un representante de la Secretaría de Desarrollo Social.
+b. Un representante de la Secretaría de Desarrollo y Participación Social.
 
 c. Un representante de la Secretaría de Hacienda.
 
 d. Un representante de la Secretaría de Salud.
 
-e. Un representante del Sistema para el Desarrollo Integral de la Familia.
+e. Un representante del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 f. Un representante de las Asociaciones Deportivas Estatales.
 
@@ -189,79 +197,19 @@ El Presidente del Consejo del Sistema Estatal del Deporte, durará en su cargo s
 
 ###### Artículo 12.
 
-El Instituto del Deporte es el órgano desconcentrado jerárquicamente subordinado a la Secretaría de Educación, con autonomía técnica y administrativa.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2012)
 
 ###### Artículo 13.
 
-El Instituto del Deporte es el órgano operativo del deporte estatal, en coordinación con la Dirección de Educación Básica y tendrá las siguientes atribuciones:
-
-I. Proponer y formular al Consejo del Sistema Estatal del Deporte, las políticas que orienten el fomento y desarrollo del deporte estatal.
-
-II. Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas de la materia y establecer los procedimientos para esos fines.
-
-III. Promover una mayor conjunción de esfuerzos entre los sectores social y privado.
-
-IV. Formular el Programa Estatal del Deporte y llevar a cabo las acciones que se deriven del mismo.
-
-V. Determinar los requerimientos del deporte estatal, así como planear y programar los medios para satisfacerlos, de acuerdo con la dinámica social.
-
-VI. Determinar los espacios que deban destinarse a las áreas deportivas públicas, así como supervisar y apoyar su mejoramiento con la colaboración de los Comités Municipales del Deporte; esos espacios deberán estar adaptados para su uso por personas con discapacidad, poblaciones especiales, y en general de todas las edades.
-
-VII. Formular programas tendentes a apoyar, promover y fomentar el deporte realizado por personas con discapacidad.
-
-VIII. Establecer acciones necesarias para la coordinación con las instituciones de educación superior, en lo relativo a los programas de investigación en ciencias y técnicas aplicadas al deporte, particularmente en medicina deportiva.
-
-IX. Establecer los mecanismos de coordinación necesarios para alcanzar los objetivos del Sistema Estatal del Deporte.
-
-X. Promover la instalación de los Comités Municipales del Deporte.
-
-XI. Fomentar la participación activa en el Sistema Estatal del Deporte de los estudiantes del Sistema Educativo Estatal, en todos sus niveles, con carácter curricular y obligatorio.
-
-XII. Establecer los procedimientos que se requieren para la mejor coordinación en materia deportiva, celebrar convenios para la inversión en infraestructura deportiva y equipamiento, con el Ejecutivo Federal, con otros Estados, con los Ayuntamientos, así como con los sectores social y privado.
-
-XIII. Elaborar y actualizar anualmente el registro estatal del deporte y el de las instalaciones deportivas.
-
-XIV. Fungir como órgano asesor en materia deportiva.
-
-XV. Ser órgano operativo y rector de la ejecución de la política deportiva estatal.
-
-XVI. Otorgar apoyos económicos con recursos del gobierno estatal, a deportistas destacados, para que asistan a las competencias nacionales o internacionales, de acuerdo a las reglas que para tal efecto se expidan.
-
-XVII. Auspiciar la creación de bibliotecas, hemerotecas y museos deportivos.
-
-XVIII. Definir, en coordinación con la Dirección de Educación Básica, la comisión oficial de los entrenadores de equipos representativos regionales y estatales.
-
-XIX. Las demás que le confiera la ley, reglamentos y acuerdos en la materia.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2012)
 
 ###### Artículo 14.
 
-El Director General del Instituto del Deporte será designado por el Titular del Poder Ejecutivo del Estado, y deberá cubrir los mismos requisitos señalados para ser Presidente del Consejo del Sistema Estatal del Deporte.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2012)
 
 ###### Artículo 15.
 
-El Director General del Instituto del Deporte tendrá las siguientes atribuciones:
-
-I. Presentar, a consideración del Consejo del Sistema Estatal del Deporte, el Programa Operativo Estatal para el desarrollo del deporte.
-
-II. Ejecutar los programas de trabajo.
-
-III. Administrar los recursos humanos, materiales y financieros del Instituto.
-
-IV. Integrar el presupuesto anual de ingresos y egresos del Instituto, y presentarlo a consideración del Consejo del Sistema Estatal del Deporte, para su validación.
-
-V. Cumplir los programas y ejercer el presupuesto aprobado.
-
-VI. Promover y suscribir la celebración de convenios para el cumplimiento de los objetivos del Instituto.
-
-VII. Someter, a la consideración del Consejo del Sistema Estatal del Deporte, el Reglamento Interior y los Manuales de Organización y Procedimientos del Instituto, para su validación.
-
-VIII. Elaborar, por acuerdo del Presidente, las convocatorias a sesiones ordinarias y extraordinarias del Consejo del Sistema Estatal del deporte.
-
-IX. Informar al Consejo del Sistema Estatal del Deporte sobre las actividades que haya realizado y del estado financiero que guarda el Instituto.
-
-X. Difundir en el Estado, las normas y reglamentos de competición que expidan los organismos deportivos internacionales a través de la Comisión Nacional del Deporte.
-
-XI. Las demás que el asigne el reglamento interior del Instituto.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2012)
 
 ###### Artículo 16.
 
@@ -269,7 +217,7 @@ El Titular del Ejecutivo Estatal, en materia de la presente Ley, tendrá las atr
 
 I. Nombrar al Presidente del Consejo del Sistema Estatal del Deporte.
 
-II. Nombrar al Director del Instituto del Deporte.
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
 
 III. Participar en la definición de la política deportiva estatal.
 
@@ -313,21 +261,27 @@ Los Comités Municipales del Deporte serán constituidos por acuerdo del cabildo
 
 Los Comités Municipales del Deporte administrarán las cuotas de recuperación por inscripción de los equipos u organismos deportivos que participen en campeonatos o torneos, para cubrir los gastos de los mismos; en caso de existir algún remanente, se destinará para el mantenimiento de las instalaciones deportivas.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-Los Comités Municipales del Deporte expedirán su estatuto interno con sujeción a lo establecido en esta Ley y su reglamento, previa autorización del Instituto del Deporte.
+Los Comités Municipales del Deporte expedirán su estatuto interno con sujeción a lo establecido en esta Ley y su reglamento, previa autorización de la Secretaría de la Juventud, Recreación y Deporte.
 
 Asimismo, deberán rendir al Presidente Municipal un informe bimestral económico y de actividades realizadas, dentro de los cinco primeros días del bimestre siguiente.
 
-Además, los Comités Municipales presentarán un informe general de sus actividades al Instituto del Deporte.
+Además, los Comités Municipales presentarán un informe general de sus actividades a la Secretaría de la Juventud, Recreación y Deporte.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
-La incorporación de las entidades municipales al Sistema Estatal del Deporte, se realizará por medio del Instituto del Deporte, dentro del Programa de Comités Municipales del Deporte, celebrando los convenios de coordinación respectivos.
+La incorporación de las entidades municipales al Sistema Estatal del Deporte, se realizará por medio de la Secretaría de la Juventud, Recreación y Deporte, dentro del Programa de Comités Municipales del Deporte, celebrando los convenios de coordinación respectivos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 23.
 
-Cada Comité Municipal del Deporte deberá solicitar su incorporación al Instituto del Deporte y al Sistema Estatal del Deporte, con solicitud por escrito anexando el acta de cabildo respectiva.
+Cada Comité Municipal del Deporte deberá solicitar su incorporación a la Secretaría de la Juventud, Recreación y Deporte y al Sistema Estatal del Deporte, con solicitud por escrito anexando el acta de cabildo respectiva.
 
 ###### Artículo 24.
 
@@ -443,15 +397,19 @@ II. Reconocer en sus estatutos y reglamentos el arbitraje del órgano correspond
 
 Los organismos y personas físicas o morales dedicados al deporte profesional no podrán afiliar a su estructura a un deportista aficionado, sin su solicitud, ni sin la autorización de la asociación y federación deportiva correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-La afiliación de un deportista aficionado a una organización profesional implicará una retribución convencional al deportista y al Instituto del Deporte.
+La afiliación de un deportista aficionado a una organización profesional implicará una retribución convencional al deportista y a la Secretaría de la Juventud, Recreación y Deporte.
 
 ### Capítulo VI. De los Fomentos y Estímulos al Deporte
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-El Ejecutivo del Estado propondrá, en su presupuesto anual del año fiscal que corresponda, al Congreso del Estado, la partida para el cumplimiento del Programa Estatal del Deporte. Los recursos serán ejercidos por medio del Instituto del Deporte.
+El Ejecutivo del Estado propondrá, en su presupuesto anual del año fiscal que corresponda, al Congreso del Estado, la partida para el cumplimiento del Programa Estatal del Deporte. Los recursos serán ejercidos por medio de la Secretaría de la Juventud, Recreación y Deporte.
 
 ###### Artículo 39.
 
@@ -485,7 +443,9 @@ XIII. Los deportistas de la tercera edad y las personas con discapacidad y demá
 
 XIV. Los demás que les otorguen esta ley u otros ordenamientos legales.
 
-A fin de concretar lo anterior, el Gobierno del Estado a través del Instituto del Deporte celebrará convenios con las instituciones de educación básica, media superior y superior, tanto públicas como privadas, con la finalidad de otorgar becas a los talentos deportivos y atletas de alto rendimiento y conocer las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus necesidades.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+A fin de concretar lo anterior, el Gobierno del Estado a través de la Secretaría de la Juventud, Recreación y Deporte celebrará convenios con las instituciones de educación básica, media superior y superior, tanto públicas como privadas, con la finalidad de otorgar becas a los talentos deportivos y atletas de alto rendimiento y conocer las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus necesidades.
 
 ###### Artículo 40.
 
@@ -531,9 +491,11 @@ IV. Asistencia deportiva y médica.
 
 V. Gestoría en asuntos deportivos previstos en esta ley o en su reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 45.
 
-Los apoyos se otorgarán de acuerdo con las bases que establezca el Consejo del Sistema Estatal del Deporte, por conducto del Instituto del Deporte, de acuerdo con los procedimientos que señale el reglamento respectivo.
+Los apoyos se otorgarán de acuerdo con las bases que establezca el Consejo del Sistema Estatal del Deporte, por conducto de la Secretaría de la Juventud, Recreación y Deporte, de acuerdo con los procedimientos que señale el reglamento respectivo.
 
 ###### Artículo 46.
 
@@ -549,9 +511,11 @@ Los planes de capacitación deberán incluir programas que fomenten la enseñanz
 
 ### Capítulo VII. Del Programa Operativo Estatal del Deporte
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 48.
 
-El Programa Operativo Estatal del Deporte será formulado por el Instituto del Deporte y aprobado por el Consejo del Sistema Estatal del Deporte, tomando en cuenta las disposiciones correspondientes de la legislación federal. Tendrá carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
+El Programa Operativo Estatal del Deporte será formulado por la Secretaría de la Juventud, Recreación y Deporte y aprobado por el Consejo del Sistema Estatal del Deporte, tomando en cuenta las disposiciones correspondientes de la legislación federal. Tendrá carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
 
 ###### Artículo 49.
 
@@ -601,7 +565,9 @@ Los deportistas relacionados de cualquier forma con el deporte, de manera libre 
 
 Se reconoce la iniciativa popular a los deportistas en materia de reglamentos en las diversas ramas y especialidades del deporte, para promover su participación mediante propuestas por escrito en la elaboración, reformas, adiciones, derogación y abrogación de disposiciones normativas sobre el particular.
 
-El ejercicio de esta iniciativa popular se sustentará en la convocatoria que al efecto expida el Consejo del Sistema Estatal del Deporte, por conducto del Instituto del Deporte de acuerdo con el reglamento de esta ley.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+El ejercicio de esta iniciativa popular se sustentará en la convocatoria que al efecto expida el Consejo del Sistema Estatal del Deporte, por conducto de la Secretaría de la Juventud, Recreación y Deporte de acuerdo con el reglamento de esta ley.
 
 ### Capítulo VIII. Del Registro Estatal del Deporte
 
@@ -639,19 +605,25 @@ Tendrán acceso a las instalaciones deportivas todos los deportistas que la requ
 
 En la construcción de instalaciones deportivas, deberán tomarse en cuenta las especificaciones técnicas y arquitectónicas que sean necesarias para el deporte infantil y demás poblaciones especiales. Asimismo, en la rehabilitación de los espacios deberán realizarse las modificaciones necesarias de acceso y servicios para el deporte adaptado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 58.
 
-La autoridad estatal o municipal, conforme a su competencia, podrá clausurar cualquier instalación deportiva que no cumpla con las condiciones de seguridad a sus usuarios, previo dictamen de la autoridad de protección civil y con opinión del Instituto del Deporte. En todo caso, la autoridad que dicte la clausura, deberá tomar las medidas conducentes a su rehabilitación o reposición para el mismo fin deportivo, procurando que el cambio sea por un bien igual o de mayor calidad.
+La autoridad estatal o municipal, conforme a su competencia, podrá clausurar cualquier instalación deportiva que no cumpla con las condiciones de seguridad a sus usuarios, previo dictamen de la autoridad de protección civil y con opinión de la Secretaría de la Juventud, Recreación y Deporte. En todo caso, la autoridad que dicte la clausura, deberá tomar las medidas conducentes a su rehabilitación o reposición para el mismo fin deportivo, procurando que el cambio sea por un bien igual o de mayor calidad.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 59.
 
-Las instalaciones deportivas pertenecientes al Gobierno del Estado estarán bajo la administración del Instituto del Deporte, que garantizará su utilización y mantenimiento. Los recursos que de ellas se obtengan serán administrados por el mismo Instituto.
+Las instalaciones deportivas pertenecientes al Gobierno del Estado estarán bajo la administración de la Secretaría de la Juventud, Recreación y Deporte, que garantizará su utilización y mantenimiento. Los recursos que de ellas se obtengan serán administrados por la misma Dependencia.
 
 ###### Artículo 60.
 
 El Ejecutivo del Estado proyectará por lo menos la construcción de cuatro centros de alto rendimiento. Uno en la zona norte, otro en la sur, un tercero en el municipio de Tapachula de Córdova y Ordóñez y otro en el municipio de San Cristóbal de las Casas. Para su operación, contarán con personal altamente calificado en entrenamiento, e instalaciones deportivas aptas para todos los deportes de competencia oficial, que convocan los organismos deportivos nacionales.
 
-Los Centros de Alto Rendimiento serán administrados por el Instituto del Deporte, y para su utilización se coordinará con la Dirección de Educación Básica y las autoridades municipales del lugar donde se construyan, conforme al reglamento correspondiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+Los Centros de Alto Rendimiento serán administrados por la Secretaría de la Juventud, Recreación y Deporte, y para su utilización se coordinará con la Dirección de Educación Básica y las autoridades municipales del lugar donde se construyan, conforme al reglamento correspondiente.
 
 ### Capítulo X. Contra el uso de sustancias prohibidas
 
@@ -659,17 +631,23 @@ Los Centros de Alto Rendimiento serán administrados por el Instituto del Deport
 
 Se entiende por doping el uso de sustancias, grupos farmacológicos o métodos prohibidos en el ámbito deportivo y por antidoping las acciones tendentes a evitar y detectar su consumo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 62.
 
-El Sistema Estatal del Deporte, a través del Instituto del Deporte y del Comité Estatal Contra el Uso de Sustancias Prohibidas, normará los criterios de evaluación para evitar el doping en el deporte estatal.
+El Sistema Estatal del Deporte, a través de la Secretaría de la Juventud, Recreación y Deporte y del Comité Estatal Contra el Uso de Sustancias Prohibidas, normará los criterios de evaluación para evitar el doping en el deporte estatal.
 
 ###### Artículo 63.
 
 El Comité Estatal Contra el Uso de Sustancias Prohibidas estará integrado por:
 
-I. Un presidente, que será el Director General del Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-II. Un vicepresidente, que será el Director de Educación Básica de la Secretaría de Educación.
+I. Un presidente, que será el titular de la Secretaría de la Juventud, Recreación y Deporte.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+II. Un vicepresidente, que será el servidor público que designe el titular de la Secretaría de la Juventud, Recreación y Deporte.
 
 III. Un secretario, que será el Director del Centro Estatal de Medicina Deportiva, y fungirá como coordinador de los delegados.
 
@@ -705,9 +683,13 @@ I. Los directivos, jueces, árbitros y organizadores de las competencias deporti
 
 II. Las autoridades deportivas municipales, en el ámbito de su competencia.
 
-III. El Director General del Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-IV. El Director General de Educación Física del Estado.
+III. El titular de la Secretaría de la Juventud, Recreación y Deporte.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+IV. El servidor público que designe el titular de la Secretaría de la Juventud, Recreación y Deporte.
 
 V. Las federaciones deportivas nacionales, en el deporte que les corresponda.
 
@@ -759,7 +741,9 @@ I. Amonestación o extrañamiento por escrito.
 
 II. Suspensión del evento al deportista, al equipo, organismo deportivo, entrenador o a la institución que representan, según la gravedad de la falta.
 
-III. Suspensión hasta por dos años de los eventos convocados por el Instituto del Deporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III. Suspensión hasta por dos años de los eventos convocados por la Secretaría de la Juventud, Recreación y Deporte.
 
 ###### Artículo 70.
 
@@ -769,9 +753,11 @@ Contra las resoluciones de las autoridades y organismos deportivos que impongan 
 
 Las resoluciones que impongan sanciones, agotada la reconsideración, podrán impugnarse con el recurso de inconformidad que se tramitará ante la Comisión Resolutiva de Inconformidades.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 72.
 
-El Consejo del Sistema Estatal del Deporte del Estado, a través de su presidente y el Director General del Instituto del Deporte, expedirán el Reglamento de las Sanciones y Recursos establecidos en esta ley.
+El Consejo del Sistema Estatal del Deporte del Estado, a través de su presidente, expedirá el Reglamento de las Sanciones y Recursos establecidos en esta ley.
 
 ### Capítulo XII. De la Comisión Resolutiva de Inconformidades
 
@@ -785,9 +771,13 @@ La Comisión Resolutiva de Inconformidades se constituirá por cinco integrantes
 
 I. El Presidente del Consejo del Sistema Estatal del Deporte del Estado, quien lo presidirá.
 
-II. El titular del Instituto del Deporte, quien fungirá como Secretario.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-III. El Titular de la Dirección Básica del Estado.
+II. El servidor público que designe el titular de la Secretaría de la Juventud, Recreación y Deporte, quien fungirá como Secretario.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+III. Un representante de la Dirección Básica del Estado.
 
 IV. Un representante del Comité Municipal del Deporte correspondiente, quien fungirá como vocal.
 
@@ -822,3 +812,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de abril del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
