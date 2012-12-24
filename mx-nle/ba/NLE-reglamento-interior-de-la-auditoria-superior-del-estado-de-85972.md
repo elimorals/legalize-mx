@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2012-07-18"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -1287,9 +1285,11 @@ Durante las ausencias temporales del Auditor General, el despacho y resolución 
 
 En caso de ausencia absoluta o renuncia del Auditor General y, en tanto sea designado un nuevo titular conforme a las disposiciones y al procedimiento señalado en la Ley, se observará lo dispuesto en el párrafo anterior.
 
-Las ausencias temporales, absoluta o por renuncia de los Auditores Especiales y Titulares de Unidad, serán suplidas por el servidor público del grado jerárquico inmediato inferior designado por el Auditor General, hasta en tanto no se realice en su caso, el nombramiento correspondiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-Las ausencias temporales, absoluta o por renuncia de los Directores, serán suplidas por el subdirector o servidor público que corresponda a su adscripción, que al efecto designe el superior jerárquico respectivo, hasta en tanto no se realice en su caso, el nombramiento correspondiente.
+Las ausencias temporales, absoluta o por renuncia de los Auditores Especiales, Titulares de Unidad o Directores, serán suplidas por el servidor público que designe el Auditor General, hasta en tanto no se realice en su caso, el nombramiento definitivo correspondiente.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ## TÍTULO V. DE LA CONTRATACIÓN DE DESPACHOS CERTIFICADOS
 
@@ -1328,3 +1328,9 @@ Dado en la sede oficial de la Auditoría Superior del Estado, en la ciudad de Mo
 EL C. AUDITOR GENERAL DEL ESTADO DE NUEVO LEÓN
 
 C.P. SERGIO MARENCO SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
