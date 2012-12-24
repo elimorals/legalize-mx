@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-90592
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-17"
-last_updated: "2012-12-17"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-12-14"
 ---
 # LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de diciembre 2012.
 
@@ -42,8 +42,6 @@ SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2013.
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2013.
 
 ### Capítulo I. De los Ingresos y el Endeudamiento Público
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 1o.
 
@@ -519,7 +517,13 @@ Durante el ejercicio fiscal de 2013 no serán aplicables los límites para la ac
 
 Los recursos acumulados del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos hasta el 31 de diciembre de 2012, se destinarán al Fondo de Estabilización de los Ingresos Petroleros. Durante el ejercicio fiscal 2013, no será aplicable lo dispuesto en el artículo 19, fracción IV, inciso b) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y los recursos que deban destinarse a los fines previstos por dicho precepto, se integrarán al fondo señalado en el inciso c) de la fracción IV del referido artículo.
 
-Con el objeto de que el Gobierno Federal continúe con la labor reconocida en el artículo segundo transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley que crea el Fideicomiso que administrará el fondo para el fortalecimiento de sociedades y cooperativas de ahorro y préstamo y de apoyo a sus ahorradores", publicado en el Diario Oficial de la Federación el 28 de enero de 2004, se continuará con la instrumentación, fortalecimiento y supervisión de las acciones o esquemas que correspondan para coadyuvar o intervenir en el resarcimiento de los ahorradores afectados y en relación con la transmisión, administración o enajenación, de los bienes y derechos del citado fideicomiso, las operaciones respectivas, en numerario o en especie, se registrarán en cuentas de orden, para no afectar el patrimonio o activos de los entes públicos federales que lleven a cabo esas operaciones.
+> <small>(F. DE E., D.O.F. 24 DE DICIEMBRE DE 2012)</small>
+
+Con el objeto de que el Gobierno Federal continúe con la labor reconocida en el artículo segundo transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley que crea el Fideicomiso que administrará el fondo para el fortalecimiento de sociedades y cooperativas de ahorro y préstamo y de apoyo a sus ahorradores", publicado en el Diario Oficial de la Federación el 28 de enero de 2004, y a fin de atender la problemática social de los ahorradores afectados por la operación irregular de las cajas populares de ahorro y préstamo a que se refiere dicho transitorio, la Secretaría de Hacienda y Crédito Público, por conducto del área responsable de la banca y ahorro, continuará con la instrumentación, fortalecimiento y supervisión de las acciones o esquemas que correspondan para coadyuvar o intervenir en el resarcimiento de los ahorradores afectados.
+
+> <small>(F. DE E., D.O.F. 24 DE DICIEMBRE DE 2012)</small>
+
+En caso de que con base en las acciones o esquemas que se instrumenten conforme al párrafo que antecede sea necesaria la transmisión, administración o enajenación, por parte del Ejecutivo Federal, de los bienes y derechos del fideicomiso referido en el primer párrafo del artículo segundo transitorio del Decreto indicado en el párrafo anterior, las operaciones respectivas, en numerario o en especie, se registrarán en cuentas de orden, con la finalidad de no afectar el patrimonio o activos de los entes públicos federales que lleven a cabo esas operaciones.
 
 El producto de la enajenación de los derechos y bienes decomisados o abandonados relacionados con los procesos judiciales y administrativos a que se refiere el artículo segundo transitorio del Decreto indicado en el párrafo precedente, se destinará en primer término, para cubrir los gastos de administración que eroguen los entes públicos federales que lleven a cabo las operaciones referidas en el párrafo anterior y, posteriormente, se destinarán para restituir al Gobierno Federal los recursos públicos aportados para el resarcimiento de los ahorradores afectados a que se refiere dicho precepto.
 
