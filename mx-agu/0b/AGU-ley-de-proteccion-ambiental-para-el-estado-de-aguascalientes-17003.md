@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2011-07-04"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
+LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -493,11 +493,17 @@ XXVI. Atender los demás asuntos relativos a la conservación, preservación y p
 
 XXVII. Establecer los criterios y lineamientos para la regulación de los residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría; y
+XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría;
 
-XXIX. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XXX. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -3520,6 +3526,12 @@ P.O. 4 DE JULIO DE 2011
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO 2°.
 
