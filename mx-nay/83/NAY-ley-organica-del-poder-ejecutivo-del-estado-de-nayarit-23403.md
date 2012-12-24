@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2012-05-25"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -285,7 +285,9 @@ V. Secretaría de Educación
 
 VI. Secretaría de la Contraloría General;
 
-VII. Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+VII. Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 VIII. Secretaría de Desarrollo Económico;
 
@@ -325,9 +327,7 @@ XV. Secretaría de Seguridad Pública;
 
 XVI. Secretaría de Desarrollo Social; y
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
-
-XVII. Secretaría de Cultura.
+XVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
 
 ### CAPITULO II
 
@@ -383,7 +383,9 @@ XXI. Administrar el Periódico Oficial, Órgano del Gobierno del Estado, así co
 
 XXII. Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, de los presidentes, regidores y secretarios municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública, así como de los funcionarios de la Universidad Autónoma de Nayarit y el de las demás autoridades educativas;
 
-XXIII. Organizar, dirigir, supervisar y vigilar el ejercicio de las funciones del Registro Civil, del Registro Público de la Propiedad y de Comercio;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Organizar, dirigir, supervisar y vigilar el ejercicio de las funciones del Registro Civil;
 
 XXIV. Organizar, controlar el funcionamiento, proveer solicitudes y toda clase de procedimientos en materia de notarías y ordenar su inspección periódica;
 
@@ -547,7 +549,9 @@ XXIX.- Efectuar los pagos de acuerdo a los programas y presupuestos aprobados, c
 
 XXX.- Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Gobernador del Estado, un informe pormenorizado del ejercicio fiscal anterior;
 
-XXXI.- Dirigir, normar y supervisar las actividades de las oficinas recaudadoras en el estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Dirigir, organizar, normar y supervisar las actividades de las oficinas recaudadoras en el estado y el ejercicio de las funciones del Registro Público de la Propiedad y de Comercio;
 
 XXXII.- Normar y vigilar que los empleados que manejan recursos financieros del estado, otorguen fianza suficiente para garantizar su manejo;
 
@@ -1009,9 +1013,11 @@ XXXVII. Vigilar el cumplimiento de las normas internas de la Secretaría, fincan
 
 XXXVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-A la Secretaría de Desarrollo Rural le corresponden las siguientes atribuciones:
+A la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca le corresponden las siguientes atribuciones:
 
 I. Proponer al Gobernador del Estado la política de desarrollo rural y planear, fomentar y promover el desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial del estado, con la participación de los sectores social y privado, conforme a las leyes y convenios de la materia; así como intervenir en la atención y solución de los problemas agrarios en el estado;
 
@@ -1533,51 +1539,9 @@ XIV. Asegurar la adecuada distribución, comercialización y abastecimiento de l
 
 XV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 41 Quater.
 
-A la Secretaría de Cultura corresponde las siguientes atribuciones:
-
-I. Apoyar la formación y el desarrollo cultural de los habitantes sin distinción alguna;
-
-II. Fomentar, propiciar y apoyar la creación artística en todos sus géneros;
-
-III. Promover y difundir entre la población la cultura local, nacional e internacional en sus expresiones artísticas y culturales;
-
-IV. Conservar, administrar y acrecentar los bienes históricos, arqueológicos y artísticos ubicados en el Estado, a excepción de los que sean competencia de la federación, en los términos de las leyes relativas;
-
-V. Formular y coordinar la ejecución de programas de formación cultural no formal;
-
-VI. Estimular la educación artística a través de los talleres de iniciación, escritura, lectura, artes plásticas, música, artes escénicas, cine, audio, video y multimedia para niños, jóvenes y adultos;
-
-VII. Organizar cursos, concursos, festivales y otras formas de participación para enriquecer la vida cultural;
-
-VIII. Impulsar la participación de los habitantes del estado en la elaboración, promoción y divulgación de los proyectos culturales a cargo de la Administración Pública;
-
-IX. Operar un sistema de información y comunicación a fin de promover de manera oportuna al público en general la oferta y demanda culturales en el estado;
-
-X. Apoyar a la creación, la difusión editorial y el hábito de la lectura entre los habitantes del estado;
-
-XI. Establecer las políticas y lineamientos para la creación uso y aprovechamiento de los centros y espacios culturales;
-
-XII. Procurar los instrumentos jurídicos necesarios que permitan desarrollar la cooperación cultural con todo tipo de organismos o instituciones tanto públicas como privadas, nacionales o extranjeras;
-
-XIII. Impulsar la actividad cultural que se desarrolla en las localidades, pueblos, barrios y colonias de todo el Estado;
-
-XIV. Procurar equidad en la oferta de servicios y bienes culturales;
-
-XV. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores culturales;
-
-XVI. Desarrollar la formación y capacitación de investigadores y promotores culturales;
-
-XVII. Apoyar, preservar y difundir el arte, las artesanías, las expresiones de cultura popular, las festividades y tradiciones de las comunidades del estado;
-
-XVIII. Concertar y desarrollar de manera conjunta con otras instituciones y dependencias del sector público, programas cívicos y protocolarios que permitan fortalecer los valores nacionales y las conductas patrióticas y cívicas;
-
-XIX. Administrar y programar las actividades de los espacios culturales, museos, agrupaciones artísticas, las escuelas de música y danza y de las demás que le sean asignadas, y
-
-XX. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2012)
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
@@ -2018,3 +1982,11 @@ P.O. 25 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Honorable Congreso del Estado deberá realizar las adecuaciones legales conducentes en un plazo que no excederá de los 120 días posteriores a la entrada en vigor del presente decreto.
+
+Artículo Tercero.- El titular del Poder Ejecutivo del Estado, deberá expedir el acuerdo administrativo que crea el Organismo Público Descentralizado encargado de dirigir los programas y políticas públicas en materia de Cultura, dentro del término de 30 días posteriores a la entrada en vigor del presente decreto.
