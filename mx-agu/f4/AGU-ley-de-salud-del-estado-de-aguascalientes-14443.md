@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2012-03-12"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1379,7 +1379,53 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTICULO 104 A- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
+
+Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTÍCULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTÍCULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTÍCULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTÍCULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
+
+I. Un Comité Hospitalario de Bioética, para:
+
+a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
+
+b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
+
+c. Promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia en salud; y
+
+d. Promover la educación bioética permanente de sus miembros y del personal a su cargo.
+
+II. Un Comité de Ética en Investigación, en los casos de instituciones prestadoras de servicios de salud que lleven a cabo actividades de investigación en seres vivos, para:
+
+a. Evaluar y dictaminar los protocolos de investigación en seres vivos, formulando las recomendaciones de carácter ético que correspondan; y
+
+b. Elaborar lineamientos y guías institucionales para la investigación en salud y sus repercusiones en el medio ambiente, debiendo dar seguimiento a sus recomendaciones.
+
+III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+ARTÍCULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
+
+Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
 
 ###### ARTICULO 88.
 
@@ -1405,7 +1451,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
 
 ###### ARTICULO 93.
 
@@ -1447,9 +1493,11 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
+## TÍTULO SÉPTIMO BIS. LOS PRINCIPIOS BIOÉTICOS EN LAATENCIÓN, INVESTIGACIÓN y DOCENCIA DE LA SALUD
 
-### CAPITULO II. Educación para la Salud
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 98.
 
@@ -1469,9 +1517,11 @@ VI.- A la producción nacional de insumos para la salud.
 
 VII.- Al conocimiento y optimización de los procesos educativos en el área de la salud.
 
-###### ARTICULO 99.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
 
-El Organismo apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
+###### Artículo 99.
+
+La Secretaría apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
 
 ###### ARTICULO 100.
 
@@ -1491,13 +1541,25 @@ VI.- El profesional responsable suspenderá la investigación en cualquier momen
 
 VII.- Las demás que establezca esta Ley y la correspondiente reglamentación.
 
-###### ARTICULO 101.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
 
-El Organismo tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
+###### Artículo 101.
 
-###### ARTICULO 102.
+La Secretaría tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
 
-El Organismo vigilará que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos y la de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+###### Artículo 102.
+
+La Secretaría vigilará que se establezcan en las instituciones prestadoras de servicios de salud de acuerdo a su grado de complejidad y nivel de resolución:
+
+I. Un Comité Hospitalario de Bioética;
+
+II. Un Comité de Ética en la Investigación; o
+
+III. Un Comité de Bioseguridad.
+
+La Secretaría emitirá los reglamentos y disposiciones necesarias sobre las áreas, especificaciones o modalidades en materia de investigación y bioseguridad.
 
 ###### ARTICULO 103.
 
@@ -1507,6 +1569,12 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBREDE 2012)</small>
+
+## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
+
+### CAPITULO II. Educación para la Salud
+
 ## TITULO NOVENO. PROMOCION DE LA SALUD
 
 ### CAPITULO III. Nutrición
@@ -1514,10 +1582,6 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
-
-## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
-
-### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 105.
 
@@ -1535,11 +1599,9 @@ III.- Recursos materiales, humanos y financieros disponibles para la protección
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
-## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
+## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
-
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 107.
 
@@ -1559,9 +1621,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO V. Salud Ocupacional
 
 ###### ARTICULO 109.
 
@@ -1579,7 +1639,9 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 111.
 
@@ -1595,7 +1657,7 @@ Se deberá dar prioridad a la elaboración de programas nutricionales destinados
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 113.
 
@@ -1641,7 +1703,7 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 118.
 
@@ -1653,19 +1715,21 @@ El Organismo tendrá a su cargo el control sanitario de los establecimientos en 
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
 
+### CAPITULO IV. Accidentes
+
+## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
-
-### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 120.
 
 Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 121.
 
@@ -1781,9 +1845,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 135.
 
@@ -1807,7 +1869,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 138.
 
@@ -1833,19 +1897,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
-
-ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud.
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
-
-ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal para la prevención, tratamiento y control de las adicciones, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
-
-Las campañas de información y sensibilización que se difundan en el Estado deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos así como psicológicos del consumo de estupefacientes y psicotrópicos.
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 139 Bis.
 
@@ -1985,9 +2039,19 @@ ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendid
 
 En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal para la prevención, tratamiento y control de las adicciones, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+Las campañas de información y sensibilización que se difundan en el Estado deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos así como psicológicos del consumo de estupefacientes y psicotrópicos.
 
 ###### ARTICULO 140.
 
@@ -2067,7 +2131,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 153.
 
@@ -2105,9 +2169,9 @@ El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asist
 
 El Organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
-## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
+## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 158.
 
@@ -2131,7 +2195,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 160.
 
@@ -2157,15 +2221,13 @@ IV. El tratamiento del tabaquismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
+### CAPITULO IV. Servicios Funerarios
+
 ### CAPITULO V. Limpieza Pública
 
+## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
+
 ### CAPITULO VI. Agua Potable y Alcantarillado
-
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
-
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 162.
 
@@ -2217,7 +2279,9 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 169.
 
@@ -2235,7 +2299,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 172.
 
@@ -2271,7 +2335,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 180.
 
@@ -2295,7 +2359,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 184.
 
@@ -2333,7 +2397,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
 
 ###### ARTICULO 189.
 
@@ -2379,7 +2443,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 199.
 
@@ -2405,9 +2469,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
-
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 205.
 
@@ -2427,7 +2489,9 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+
+ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 209.
 
@@ -2437,7 +2501,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 211.
 
@@ -2447,7 +2511,7 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 213.
 
@@ -2457,9 +2521,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO I. Autorizaciones
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 215.
 
@@ -2475,7 +2537,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2487,21 +2549,21 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 220.
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 222.
 
@@ -2535,17 +2597,19 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 226.
 
 Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
 
+### CAPITULO II. Sanciones Administrativas
+
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+
 ### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
-
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
-
-### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 227.
 
@@ -2593,7 +2657,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 236.
 
@@ -2655,6 +2719,8 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
+### CAPITULO V. Prescripción
+
 ###### ARTICULO 244.
 
 Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
@@ -2704,6 +2770,8 @@ V.- El Organismo podrá reconocer centros de investigación y organizaciones est
 Los certificados a que se refiere este Título se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las Normas Oficiales Mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
 ###### ARTICULO 251.
 
@@ -3362,6 +3430,20 @@ P.O. 12 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, dentro de 180 días contados a partir de la publicación del presente Decreto creará el órgano desconcentrado previsto en la presente reforma, denominado Comisión Estatal de Bioética.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo una vez emitido el Decreto de creación y el reglamento correspondiente de la Comisión Estatal de Bioética, expedirá las normas correspondientes para la constitución de los distintos comités.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL NOVENO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL DECIMOCTAVO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES Y RESIDENCIA. AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA. ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL DECIMOCTAVO CIRCUITO EN CUERNAVACA, MORELOS".]
 
