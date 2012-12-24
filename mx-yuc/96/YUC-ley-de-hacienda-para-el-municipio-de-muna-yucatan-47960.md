@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2011-12-28"
+last_updated: "2012-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -1411,7 +1411,13 @@ XXV.- Tienda de ropa y almacenes 500.00 200.00
 
 XXVI.- Florerías y funerarias 200.00 100.00
 
-XXVII.- Bancos 1,500.00 500.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XXVII.- Bancos, negocios que se dediquen
+
+a cuestiones prendarias y financieras 1,500.00 1,000.00
 
 XXVIII.- Puestos de venta de revistas, periódicos 200.00 100.00
 
@@ -1439,7 +1445,11 @@ XXXVIII.- Expendios de alimentos balanceados 200.00 100.00
 
 XXXIX.- Gaseras 650.00 100.00
 
-XL.- Gasolineras 1,700.00 800.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+
+XL.- Gasolineras 5,000.00 2,500.00
 
 XLI.- Mudanzas 200.00 100.00
 
@@ -2487,7 +2497,9 @@ D.O. 28 DE DICIEMBRE DE 2011.
 
 Esta (sic) decreto entrará en vigor el día primero de enero del año dos mil doce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-TRANSITORIO DEL DECRETO:
+D.O. 24 DE DICIEMBRE DE 2012
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO ÚNICO.
 
