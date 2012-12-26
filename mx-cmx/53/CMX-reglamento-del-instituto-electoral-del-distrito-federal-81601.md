@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-81601"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2011-07-20"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81601&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2011-05-25"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
+REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 20 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 8 de junio de 2011.
 
@@ -148,6 +146,14 @@ A2 IC- INFORME DE CAMPAÑA
 
 A3 ICSIC- INFORME CONSOLIDADO DE SELECCIÓN INTERNA DE CANDIDATOS
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A3-A- DETALLE DE INGRESOS DE LOS PRECANDIDATOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A3-B- DETALLE DE EGRESOS DE LOS PRECANDIDATOS
+
 A4 IT- INFORME TRIMESTRAL
 
 A5 IA1- DETALLE DE APORTACIONES DE MILITANTES Y ORGANIZACIONES ADHERENTES
@@ -186,11 +192,17 @@ A21 RAES- RECIBO DE APORTACIONES EN ESPECIE DE SIMPATIZANTES
 
 A22 RRPAP- RECIBO DE RECONOCIMIENTOS POR PARTICIPACIÓN EN ACTIVIDADES POLÍTICAS
 
-A23 PGCCL- PRORRATEO GASTOS GENÉRICOS CAMPAÑAS LOCALES
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-A24 PGCLF- PRORRATEO GASTOS QUE BENEFICIAN CAMPAÑAS LOCALES Y FEDERALES
+A23 PGGPCL- PRORRATEO DE GASTOS GENÉRICOS PRECAMPAÑAS Y CAMPAÑAS LOCALES
 
-A25 RPM-I RELACIÓN DE PROPAGANDA EN MEDIOS IMPRESOS
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A24 PGPCLF- PRORRATEO DE GASTOS QUE BENEFICIAN PRECAMPAÑAS, CAMPAÑAS LOCALES Y FEDERALES
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A25 RPMI RELACIÓN DE PROPAGANDA EN MEDIOS IMPRESOS
 
 A26 RAEVP- RELACIÓN DE ANUNCIOS ESPECTACULARES EN VÍA PÚBLICA
 
@@ -198,11 +210,11 @@ A27 RPC- RELACIÓN DE PROPAGANDA EN SALAS DE CINE
 
 A28 RPI- RELACIÓN DE PROPAGANDA EN INTERNET O SIMILARES
 
-A29 DI- DETALLE DE INGRESOS DE PRECAMPAÑA
+A29 DI- DETALLE DE INGRESOS DE PRECAMPAÑA.
 
-A30 RG1- RELACIÓN DE GASTOS DE PROPAGANDA REALIZADOS EN LA PRECAMPAÑA
+A30 RG1- RELACIÓN DE GASTOS DE PROPAGANDA REALIZADOS EN LA PRECAMPAÑA.
 
-A31 RG2- RELACIÓN DE GASTOS DE OPERACIÓN REALIZADOS EN LA PRECAMPAÑA
+A31 RG2- RELACIÓN DE GASTOS DE OPERACIÓN REALIZADOS EN LA PRECAMPAÑA.
 
 A32 RG3- RELACIÓN DE GASTOS DE PROPAGANDA EN MEDIOS IMPRESOS REALIZADOS EN LA PRECAMPAÑA.
 
@@ -210,17 +222,51 @@ A33 RG4- RELACIÓN DE OTROS GASTOS REALIZADOS EN LA PRECAMPAÑA.
 
 A34 RG5- RELACIÓN DE GASTOS EN INTERNET Y SIMILARES REALIZADOS EN LA PRECAMPAÑA.
 
-A35 LIFAV- LEVANTAMIENTO INVENTARIO FÍSICO DE ACTIVO FIJO ACTUALIZADO Y VALUADO
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A35 LIFAV- LEVANTAMIENTO DEL INVENTARIO FÍSICO DE ACTIVO FIJO ACTUALIZADO Y VALUADO
 
 A36 CATÁLOGO DE CUENTAS
 
-A37 CATÁLOGO COMPLEMENTARIO DE DISTRITOS ELECTORALES
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A37 CATÁLOGO DE DISTRITOS ELECTORALES Y DELEGACIONALES
 
 A38 GUÍA CONTABILIZADORA
 
 A39 DD- DETALLE DE DOCUMENTACIÓN
 
-A40 NORMAS DE INFORMACIÓN FINANCIERA
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A40 NORMAS DE INFORMACIÓN FINANCIERA Y NORMAS DE AUDITORÍA, PARA ATESTIGUAR, REVISIÓN Y OTROS SERVICIOS RELACIONADOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A41 NEA NOTA DE ENTRADA DE ALMACÉN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A42 NSA NOTA DE SALIDA DE ALMACÉN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A43 REL-RRPAP RELACIÓN DE LAS PERSONAS QUE RECIBIERON RECONOCIMIENTOS POR SU PARTICIPACIÓN EN ACTIVIDADES POLÍTICAS, ASÍ COMO EL MONTO TOTAL QUE RECIBIÓ CADA UNA DE ELLAS DURANTE EL PERIODO CORRESPONDIENTE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A44 RNEA RELACIÓN DE NOTAS DE ENTRADA DE ALMACÉN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A45 RNSA- RELACIÓN DE NOTAS DE SALIDA DE ALMACÉN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A46 PALFJ- PROGRAMA ANUAL DE ACTIVIDADES ENCAMINADAS A LA GENERACIÓN Y FORTALECIMIENTO DE LIDERAZGOS FEMENINOS Y JUVENILES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A47 ITLFJ- INFORME TRIMESTRAL DE GASTOS DE LAS ACTIVIDADES ENCAMINADAS A LA GENERACIÓN Y FORTALECIMIENTO DE LIDERAZGOS FEMENINOS Y JUVENILES
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS
 
@@ -231,6 +277,10 @@ REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACIÓN D
 ###### Artículo 1.
 
 El presente Reglamento es de orden público y observancia general en todo el Distrito Federal y tiene por objeto regular los procedimientos de fiscalización respecto del origen, destino y monto de los recursos que reciben por cualquier modalidad de financiamiento los partidos políticos en el Distrito Federal, el registro de sus ingresos y egresos, la documentación comprobatoria sobre el manejo de los mismos, los informes que deben presentar ante el Instituto Electoral del Distrito Federal, así como las reglas para su revisión y dictamen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 2.
 
@@ -244,7 +294,7 @@ II. Código: Código de Instituciones y Procedimientos Electorales del Distrito 
 
 III. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
 
-IV. Ley Procesal: Ley Procesal Electoral del Distrito Federal, y
+IV. Ley Procesal: Ley Procesal Electoral del Distrito Federal; y
 
 V. Reglamento: El presente ordenamiento.
 
@@ -256,7 +306,7 @@ II. Consejo General: Consejo General del Instituto Electoral;
 
 III. Instituto Electoral: Instituto Electoral del Distrito Federal;
 
-IV. Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Electoral, y
+IV. Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Electoral; y
 
 V. Unidad de Fiscalización: Unidad Técnica Especializada de Fiscalización.
 
@@ -268,177 +318,197 @@ II. A2-IC: Informe de Campaña;
 
 III. A3-ICSIC: Informe Consolidado de Selección Interna de Candidatos;
 
-IV. A4-IT: Informe Trimestral;
+IV. A3-A: Detalle de Ingresos de los Precandidatos;
 
-V. A5-IA1: Detalle de Aportaciones de Militantes y Organizaciones Adherentes;
+V. A3-B: Detalle de Egresos de los Precandidatos;
 
-VI. A6-IA2: Detalle de Aportaciones de Simpatizantes;
+VI. A4-IT: Informe Trimestral;
 
-VII. A7-IA3: Detalle de Ingresos por Autofinanciamiento;
+VII. A5-IA1: Detalle de Aportaciones de Militantes y Organizaciones Adherentes;
 
-VIII. A8-IA4: Detalle de Ingresos por Rendimientos Financieros, Fondos y Fideicomisos;
+VIII. A6-IA2: Detalle de Aportaciones de Simpatizantes;
 
-IX. A9-IA5: Detalle de Transferencias;
+IX. A7-IA3: Detalle de Ingresos por Autofinanciamiento;
 
-X. A10-CF-RADM: Control de Folios de Recibos de Aportaciones en Dinero de Militantes;
+X. A8-IA4: Detalle de Ingresos por Rendimientos Financieros, Fondos y Fideicomisos;
 
-XI. A11-CF-RAEM: Control de Folios de Recibos de Aportaciones en Especie de Militantes;
+XI. A9-IA5: Detalle de Transferencias;
 
-XII. A12-CF-RADS: Control de Folios de Recibos de Aportaciones en Dinero de Simpatizantes;
+XII. A10-CF-RADM: Control de Folios de Recibos de Aportaciones en Dinero de Militantes;
 
-XIII. A13-CF-RAES: Control de Folios de Recibos de Aportaciones en Especie de Simpatizantes;
+XIII. A11-CF-RAEM: Control de Folios de Recibos de Aportaciones en Especie de Militantes;
 
-XIV. A14-CEA: Control de Eventos de Autofinanciamiento;
+XIV. A12-CF-RADS: Control de Folios de Recibos de Aportaciones en Dinero de Simpatizantes;
 
-XV. A15-CF-RADSVT-01-800: Control de Folios de Recibos de Aportaciones en Dinero de Simpatizantes Vía Telefónica 01-800;
+XV. A13-CF-RAES: Control de Folios de Recibos de Aportaciones en Especie de Simpatizantes;
 
-XVI. A16-CI-TEL-01-900: Control de Ingresos de Llamadas Telefónicas 01-900;
+XVI. A14-CEA: Control de Eventos de Autofinanciamiento;
 
-XVII. A17-CF-RRPAP: Control de Folios de los Recibos de Reconocimientos por Participación en Actividades Políticas;
+XVII. A15-CF-RADSVT-01-800: Control de Folios de Recibos de Aportaciones en Dinero de Simpatizantes Vía Telefónica 01-800;
 
-XVIII. A18-RADM: Recibo de Aportación en Dinero de Militantes;
+XVIII. A16-CI-TEL-01-900: Control de Ingresos de Llamadas Telefónicas 01-900;
 
-XIX. A19-RAEM: Recibo de Aportación en Especie de Militantes;
+XIX. A17-CF-RRPAP: Control de Folios de los Recibos de Reconocimientos por Participación en Actividades Políticas;
 
-XX. A20-RADS: Recibo de Aportación en Dinero de Simpatizantes;
+XX. A18-RADM: Recibo de Aportación en Dinero de Militantes;
 
-XXI. A21-RAES: Recibo de Aportación en Especie de Simpatizantes;
+XXI. A19-RAEM: Recibo de Aportación en Especie de Militantes;
 
-XXII. A22-RRPAP: Recibo de Reconocimientos por Participación en Actividades Políticas;
+XXII. A20-RADS: Recibo de Aportación en Dinero de Simpatizantes;
 
-XXIII. A23-PGCCL: Prorrateo de Gastos Genéricos Campañas Locales;
+XXIII. A21-RAES: Recibo de Aportación en Especie de Simpatizantes;
 
-XXIV. A24-PGCLF: Prorrateo de Gastos que Benefician Campañas Locales y Federales;
+XXIV. A22-RRPAP: Recibo de Reconocimientos por Participación en Actividades Políticas;
 
-XXV. A25-RPMI: Relación de Propaganda en Medios Impresos;
+XXV. A23-PGGPCL: Prorrateo de Gastos Genéricos Precampañas y Campañas Locales;
 
-XXVI. A26-RAEVP: Relación de Anuncios Espectaculares en Vía Pública;
+XXVI. A24-PGCLF: Prorrateo de Gastos que Benefician Precampañas, Campañas Locales y Federales;
 
-XXVII. A27-RPC: Relación de Propaganda en Salas de Cine;
+XXVII. A25-RPMI: Relación de Propaganda en Medios Impresos;
 
-XXVIII. A28-RPI: Relación de Propaganda en Internet y Similares;
+XXVIII. A26-RAEVP: Relación de Anuncios Espectaculares en Vía Pública;
 
-XXIX. A29-DI: Detalle de Ingresos de la Precampaña;
+XXIX. A27-RPC: Relación de Propaganda en Salas de Cine;
 
-XXX. A30-RG1: Relación de Gastos de Propaganda realizados en la Precampaña;
+XXX. A28-RPI: Relación de Propaganda en Internet y Similares;
 
-XXXI. A31-RG2: Relación de Gastos de Operación realizados en la Precampaña;
+XXXI. A29-DI: Detalle de Ingresos de la Precampaña;
 
-XXXII. A32-RG3: Relación de Gastos de Propaganda en Medios Impresos realizados en la Precampaña;
+XXXII. A30-RG1: Relación de Gastos de Propaganda realizados en la Precampaña;
 
-XXXIII. A33-RG4: Relación de Otros Gastos realizados en la Precampaña;
+XXXIII. A31-RG2: Relación de Gastos de Operación realizados en la Precampaña;
 
-XXXIV. A34-RG5: Relación de Gastos en Internet o Similares realizados en la Precampaña;
+XXXIV. A32-RG3: Relación de Gastos de Propaganda en Medios Impresos realizados en la Precampaña;
 
-XXXV. A35-LIFAV: Levantamiento del Inventario Físico Actualizado de Activo Fijo y Valuado;
+XXXV. A33-RG4: Relación de Otros Gastos realizados en la Precampaña;
 
-XXXVI. A36: Catálogo de Cuentas;
+XXXVI. A34-RG5: Relación de Gastos en Internet o Similares realizados en la Precampaña;
 
-XXXVII. A37: Catálogo de Distritos Electorales;
+XXXVII. A35-LIFAV: Levantamiento del Inventario Físico Actualizado de Activo Fijo y Valuado;
 
-XXXVIII. A38: Guía Contabilizadora;
+XXXVIII. A36: Catálogo de Cuentas;
 
-XXXIX. A39-DD: Detalle de Documentación;
+XXXIX. A37: Catálogo de Distritos Electorales y Delegaciones;
 
-XL. A40: Normas de Información Financiera;
+XL. A38: Guía Contabilizadora;
 
-XLI. Actividades Específicas: Son las relativas a educación, formación de liderazgos femeninos y juveniles, capacitación, investigación socioeconómica, política y parlamentaria, así como a las tareas editoriales que desarrollan los partidos políticos;
+XLI. A39: Acuse de Recibo de las Constancias;
 
-XLII. Actividades Ordinarias Permanentes: Son aquellas funciones de naturaleza no electiva, que de manera cotidiana realizan los partidos políticos para el cumplimiento de sus fines, durante un ejercicio fiscal;
+XLII. A40: Normas de Información Financiera y Normas de Auditoría, para Atestiguar, Revisión y otros Servicios Relacionados;
 
-XLIII. Actos de Precampaña: Todos aquellos que tienen por objeto, promover, publicitar o apoyar la aspiración de una persona para ser postulado candidato a un cargo de elección popular;
+XLIII. A41-NEA: Nota de Entrada de Almacén;
 
-XLIV. Campaña Electoral: Conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones, candidatos, simpatizantes y militantes, para la obtención del voto dentro del periodo establecido para tal efecto;
+XLIV. A42-NSA: Nota de Salida de Almacén;
 
-XLV. Candidato: Es la persona propuesta por un partido político para competir por un cargo de elección popular y registrada ante la autoridad electoral;
+XLV. A43 REL-RRPAP: Relación de las personas que recibieron reconocimientos por su participación en actividades políticas, así como el monto total que recibió cada una de ellas durante el periodo correspondiente;
 
-XLVI. CBAL: Cuenta Bancaria para Campaña de Diputados a la Asamblea Legislativa del Distrito Federal;
+XLVI. A44-RNEA: Relación de Notas de Entrada de Almacén;
 
-XLVII. CBCDD: Cuenta Bancaria del Comité Directivo Delegacional;
+XLVII. A45-RNSA: Relación de Notas de Salida de Almacén;
 
-XLVIII. CBD: Cuenta Bancaria para Campaña de Jefe Delegacional;
+XLVIII. A46 PALFJ- Programa Anual de actividades encaminadas a la generación y fortalecimiento de liderazgos femeninos y juveniles;
 
-XLIX. CBJG: Cuenta Bancaria para Campaña de Jefe de Gobierno del Distrito Federal;
+XLIX. A47 ITLFJ- Informe Trimestral de gastos de las actividades encaminadas a la generación y fortalecimiento de liderazgos femeninos y juveniles;
 
-L. CBODCAO: Cuenta Bancaria del Órgano Directivo Central para Actividades Ordinarias;
+L. Actividades Específicas: Son las relativas a educación, formación de liderazgos femeninos y juveniles, capacitación, investigación socioeconómica, política y parlamentaria, así como a las tareas editoriales que desarrollan los partidos políticos;
 
-LI. CBODCAE: Cuenta Bancaria del Órgano Directivo Central para Actividades Específicas;
+LI. Actividades Ordinarias Permanentes: Son aquellas funciones de naturaleza no electiva, que de manera cotidiana realizan los partidos políticos para el cumplimiento de sus fines, durante un ejercicio fiscal;
 
-LII. CBODCC: Cuenta Bancaria del Órgano Directivo Central para Campaña;
+LII. Actos de Precampaña: Todos aquellos que tienen por objeto, promover, publicitar o apoyar la aspiración de una persona para ser postulado candidato a un cargo de elección popular;
 
-LIII. CBODCPC: Cuenta Bancaria del Órgano Directivo Central para Precampaña;
+LIII. Campaña Electoral: Conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones, candidatos, simpatizantes y militantes, para la obtención del voto dentro del periodo establecido para tal efecto;
 
-LIV. CBODNO: Cuenta Bancaria del Órgano Directivo Nacional Ordinaria;
+LIV. Candidato: Es la persona propuesta por un partido político para competir por un cargo de elección popular y registrada ante la autoridad electoral;
 
-LV. CBONNC: Cuenta Bancaria del Órgano Directivo Nacional Campaña;
+LV. CBAL: Cuenta Bancaria para Campaña de Diputados a la Asamblea Legislativa del Distrito Federal;
 
-LVI. CBPCAL: Cuenta Bancaria para Precampaña de Diputados a la Asamblea Legislativa del Distrito Federal;
+LVI. CBCDD: Cuenta Bancaria del Comité Directivo Delegacional;
 
-LVII. CBPCD: Cuenta Bancaria para Precampaña de Jefe Delegacional;
+LVII. CBD: Cuenta Bancaria para Campaña de Jefe Delegacional;
 
-LVIII. CBPCJG: Cuenta Bancaria para Precampaña de Jefe de Gobierno del Distrito Federal;
+LVIII. CBJG: Cuenta Bancaria para Campaña de Jefe de Gobierno del Distrito Federal;
 
-LIX. Coalición: Alianza temporal entre dos o más partidos políticos, cuyo objetivo es postular candidatos a puestos de elección popular con el emblema o emblemas y color o colores, con los que participan, actuando como si fuera un solo partido ante el Instituto Electoral del Distrito Federal y el Tribunal Electoral del Distrito Federal;
+LIX. CBODCAO: Cuenta Bancaria del Órgano Directivo Central para Actividades Ordinarias;
 
-LX. Dinero: Papel de curso legal o efectivo que es propiedad de la entidad y que estará disponible de inmediato para su operación, tales son las monedas, divisas extranjeras, metales preciosos amonedados, billetes (efectivo) y depósitos bancarios en sus cuentas de cheques, transferencias electrónicas, giros bancarios, cheques, remesas en tránsito (papel de curso legal) que circula en las transacciones;
+LX. CBODCAE: Cuenta Bancaria del Órgano Directivo Central para Actividades Específicas;
 
-LXI. Financiamiento para la Formación de Liderazgos Femeninos y Juveniles: Obligación a cargo de los partidos políticos que tiene por objeto la generación y fortalecimiento de liderazgos femeninos, así como juveniles;
+LXI. CBODCC: Cuenta Bancaria del Órgano Directivo Central para Campaña;
 
-LXII. Financiamiento Privado: Aportaciones en dinero o en especie que reciben los partidos políticos para el desarrollo de sus actividades ordinarias de campaña y específicas que no provienen del erario;
+LXII. CBODCPC: Cuenta Bancaria del Órgano Directivo Central para Precampaña;
 
-LXIII. Financiamiento Público: Recurso en dinero o en especie ministrado por las autoridades electorales a los partidos políticos para el desarrollo de sus actividades ordinarias, de campaña y específicas, respectivamente;
+LXIII. CBODNO: Cuenta Bancaria del Órgano Directivo Nacional Ordinaria;
 
-LXIV. Financiamiento Público Federal: Son los recursos ministrados por el Instituto Federal Electoral a los partidos políticos con registro ante dicho órgano;
+LXIV. CBODNC: Cuenta Bancaria del Órgano Directivo Nacional para Campaña;
 
-LXV. Financiamiento Público Local: Son los recursos ministrados por el Instituto Electoral del Distrito Federal a los partidos políticos con registro ante dicho órgano;
+LXV. CBODNPC: Cuenta Bancaria del Órgano Directivo Nacional Precampaña;
 
-LXVI. Gastos de Campaña: Son los recursos utilizados en una campaña electoral;
+LXVI. CBPCAL: Cuenta Bancaria para Precampaña de Diputados a la Asamblea Legislativa del Distrito Federal;
 
-LXVII. Gastos de Producción de los Mensajes para Radio y Televisión: Comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo;
+LXVII. CBPCD: Cuenta Bancaria para Precampaña de Jefe Delegacional;
 
-LXVIII. Gastos de Propaganda en Diarios, Revistas y otros Medios Impresos: Comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tanto los realizados para su actividad ordinaria como los tendentes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada;
+LXVIII. CBPCJG: Cuenta Bancaria para Precampaña de Jefe de Gobierno del Distrito Federal;
 
-LXIX. Gastos de Propaganda: Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
+LXIX. Coalición: Alianza temporal entre dos o más partidos políticos, cuyo objetivo es postular candidatos a puestos de elección popular con el emblema o emblemas y color o colores, con los que participan, actuando como si fuera un solo partido ante el Instituto Electoral del Distrito Federal y el Tribunal Electoral del Distrito Federal;
 
-LXX. Gastos Menores: Son aquellos gastos que no rebasan la cantidad equivalente a cinco días de salario mínimo general diario vigente para el Distrito Federal;
+LXX. Dinero: Papel de curso legal o efectivo que es propiedad de la entidad y que estará disponible de inmediato para su operación, tales son las monedas, divisas extranjeras, metales preciosos amonedados, billetes (efectivo) y depósitos bancarios en sus cuentas de cheques, transferencias electrónicas, giros bancarios, cheques, remesas en tránsito (papel de curso legal) que circula en las transacciones;
 
-LXXI. Gastos Operativos de la Campaña: Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
+LXXI. Financiamiento para la Formación de Liderazgos Femeninos y Juveniles: Obligación a cargo de los partidos políticos de destinar recursos del financiamiento público para actividades ordinarias, para la generación y fortalecimiento de liderazgos femeninos, así como juveniles;
 
-LXXII. Guía Técnica de Fiscalización: Documento en el que se establecen los procedimientos e instrucciones para la revisión de las operaciones realizadas por las asociaciones políticas;
+LXXII. Financiamiento Privado: Aportaciones en dinero o en especie que reciben los partidos políticos para el desarrollo de sus actividades ordinarias, de campaña, de precampaña y específicas que no provienen del erario;
 
-LXXIII. Militante: Ciudadano mexicano que formalmente pertenece a un partido político y participa en las actividades propias del mismo, tanto en su organización como en su funcionamiento, y que estatutariamente cuenta con derechos;
+LXXIII. Financiamiento Público: Recurso en dinero o en especie ministrado por las autoridades electorales a los partidos políticos para el desarrollo de sus actividades ordinarias, de campaña y específicas, respectivamente;
 
-LXXIV. ODN: Órgano Directivo Nacional;
+LXXIV. Financiamiento Público Federal: Son los recursos ministrados por el Instituto Federal Electoral a los partidos políticos con registro ante dicho órgano;
 
-LXXV. Órgano Directivo: Órgano Directivo Central de un Partido Político en el Distrito Federal;
+LXXV. Financiamiento Público Local: Son los recursos ministrados por el Instituto Electoral del Distrito Federal a los partidos políticos con registro ante dicho órgano;
 
-LXXVI. Organizaciones Adherentes: Asociaciones de ciudadanos legalmente constituidas y registradas como tales ante algún partido político;
+LXXVI. Gastos de Campaña: Son los recursos utilizados en una campaña electoral;
 
-LXXVII. Partido Político: Entidad de interés público, con personalidad jurídica y patrimonio propios; que gozará de los derechos y de las prerrogativas que para cada caso se establecen en la Constitución Política, el Estatuto de Gobierno y el Código;
+LXXVII. Gastos de Producción de los Mensajes para Radio y Televisión: Comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo;
 
-LXXVIII. Procesos de Selección Interna de Candidatos a Cargos de Elección Popular: Son el conjunto de actividades realizadas por los partidos políticos para seleccionar a las personas que postularán como candidatos a puestos de elección popular de conformidad con el Código y su normativa interna;
+LXXVIII. Gastos de Propaganda en Diarios, Revistas y otros Medios Impresos: Comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tanto los realizados para su actividad ordinaria, así como los tendentes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada;
 
-LXXIX. Precampaña: Actividades de carácter propagandístico que formar (sic) parte de los procesos de selección interna de candidatos, y que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan a los candidatos a cargos de elección popular en determinada circunscripción;
+LXXIX. Gastos de Propaganda: Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
 
-LXXX. Precandidato: Ciudadano que aspira a ser postulado por un partido político como candidato a un cargo de elección popular; y participa en un proceso de selección de candidatos dentro del partido;
+LXXX. Gastos Menores: Son aquellos gastos que no rebasan la cantidad equivalente a cinco días de salario mínimo general diario vigente para el Distrito Federal;
 
-LXXXI. Prerrogativa de Tiempos en Radio y Televisión: Son los privilegios que goza cada partido político con derecho a éstos, consistentes en periodos de tiempo en medios de comunicación masiva utilizados para difundir los principios ideológicos, programas de acción, actividades permanentes, plataformas electorales y candidaturas a puestos de elección popular en los plazos y términos establecidos por la autoridad electoral federal;
+LXXXI. Gastos Operativos de la Campaña: Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
 
-LXXXII. Propaganda de Precampaña: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones en general que producen, fijan y difunden durante el periodo de precampaña los precandidatos con el propósito de dar a conocer sus propuestas, y obtener la candidatura a un cargo de elección popular;
+LXXXII. Guía Técnica de Fiscalización: Documento en el que se establecen los procedimientos e instrucciones para la revisión de las operaciones realizadas por las asociaciones políticas;
 
-LXXXIII. Propaganda: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, encuestas, sondeos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden los candidatos y sus simpatizantes, con el propósito de presentar ante la ciudadanía y la militancia del partido político o coalición, sus propuestas y/o plataforma electoral;
+LXXXIII. Militante: Ciudadano mexicano que formalmente pertenece a un partido político y participa en las actividades propias del mismo, tanto en su organización como en su funcionamiento, y que estatutariamente cuenta con derechos;
 
-LXXXIV. Prorrateo: Repartición de un gasto, obligación o carga entre varios candidatos o precandidatos proporcional a lo que debe corresponder a cada uno, de conformidad con los criterios establecidos por el partido político o coalición de que se trate;
+LXXXIV. ODN: Órgano Directivo Nacional;
 
-LXXXV. Responsable: Responsable de la Administración de los Recursos Financieros del partido político o coalición, y de la presentación de los informes anual, de campaña y consolidado de selección interna de candidatos;
+LXXXV. ÓDC: Órgano Directivo Central de un Partido Político en el Distrito Federal;
 
-LXXXVI. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes Judicial Federal y Judicial del Distrito Federal, Congreso de la Unión o Asamblea Legislativa del Distrito Federal, en la Administración Pública Federal centralizada, o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, organismos a los que la Constitución y las Constituciones locales y el Estatuto de Gobierno otorguen autonomía y aquellas personas que manejen o apliquen recursos económicos federales;
+LXXXVI. Organizaciones Adherentes: Asociaciones de ciudadanos legalmente constituidas y registradas como tales ante algún partido político;
 
-LXXXVII. Simpatizante: Persona que se adhiere espontáneamente a un partido político, por afinidad con las ideas que éste postula, aunque sin llegar a vincularse a él por el acto formal de la afiliación;
+LXXXVII. Partido Político: Entidad de interés público, con personalidad jurídica y patrimonio propios; que gozará de los derechos y de las prerrogativas que para cada caso se establecen en la Constitución Política, el Estatuto de Gobierno y el Código;
 
-LXXXVIII. Sorteo: Eventos relacionado con rifas y juegos en general, que previa autorización legal celebren los partidos políticos con el objeto de allegarse de recursos económicos para el cumplimiento de sus fines, y
+LXXXVIII. Procesos de Selección Interna de Candidatos a Cargos de Elección Popular: Son el conjunto de actividades realizadas por los partidos políticos para seleccionar a las personas que postularán como candidatos a puestos de elección popular de conformidad con el Código y su normativa interna;
 
-LXXXIX. Transferencias: Traslado de recursos del financiamiento público federal, que realiza el Órgano Directivo Nacional de un partido político o sus órganos locales o distritales en el Distrito Federal, ya sea en dinero o en especie, condicionada a la consecución de determinados objetivos a que se encuentran sujetos, sin recibir por ello contraprestación directa alguna.
+LXXXIX. Precampaña: actividades de carácter propagandístico que forman parte de los procesos de selección interna de candidatos, y que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan a los candidatos a cargos de elección popular en determinada circunscripción.
+
+XC. Precandidato: Ciudadano que aspira a ser postulado por un partido político como candidato a un cargo de elección popular; y participa en un proceso de selección de candidatos dentro del partido;
+
+XCI. Prerrogativa de Tiempos en Radio y Televisión: Son los privilegios que goza cada partido político con derecho a éstos, consistentes en periodos de tiempo en medios de comunicación masiva utilizados para difundir los principios ideológicos, programas de acción, actividades permanentes, plataformas electorales y candidaturas a puestos de elección popular en los plazos y términos establecidos por la autoridad electoral federal;
+
+XCII. Propaganda de Precampaña: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones en general que producen, fijan y difunden durante el periodo de precampaña los precandidatos con el propósito de dar a conocer sus propuestas, y obtener la candidatura a un cargo de elección popular;
+
+XCIII. Propaganda: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, encuestas, sondeos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden los candidatos y sus simpatizantes, con el propósito de presentar ante la ciudadanía y la militancia del partido político o coalición, sus propuestas y/o plataforma electoral;
+
+XCIV. Prorrateo: Repartición de un gasto, obligación o carga entre varios candidatos o precandidatos proporcional a lo que debe corresponder a cada uno, de conformidad con los criterios establecidos por el partido político o coalición de que se trate;
+
+XCV. Responsable: Responsable de la Administración de los Recursos Financieros del partido político o coalición, y de la presentación de los informes anual, de campaña y consolidado de selección interna de candidatos;
+
+XCVI. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes Judicial Federal y Judicial del Distrito Federal, Congreso de la Unión o Asamblea Legislativa del Distrito Federal, en la Administración Pública Federal centralizada, o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, organismos a los que la Constitución y las Constituciones locales y el Estatuto de Gobierno otorguen autonomía y aquellas personas que manejen o apliquen recursos económicos federales;
+
+XCVII. Simpatizante: Persona que se adhiere espontáneamente a un partido político, por afinidad con las ideas que éste postula, aunque sin llegar a vincularse a él por el acto formal de la afiliación;
+
+XCVIII. Sorteo: Eventos relacionados con rifas y juegos en general, que previa autorización legal celebren los partidos políticos con el objeto de allegarse de recursos económicos para el cumplimiento de sus fines, y
+
+XCIX. Transferencias: Traslado de recursos del financiamiento público federal, que realiza el Órgano Directivo Nacional de un partido político o sus órganos locales o distritales en el Distrito Federal, ya sea en dinero o en especie, condicionada a la consecución de determinados objetivos a que se encuentran sujetos, sin recibir por ello contraprestación directa alguna.
 
 ###### Artículo 3.
 
@@ -540,7 +610,11 @@ Queda prohibido a los partidos políticos o coaliciones obtener financiamiento, 
 
 El financiamiento público o privado en dinero que reciba el partido político o coalición, así como los ingresos por concepto de costos de envío, de reproducción, de búsqueda y de emisión, derivados de las solicitudes de información pública, deberán depositarse, dentro de los tres días hábiles siguientes a su recepción, en cuentas bancarias de cheques a nombre del partido político, que serán manejadas mancomunadamente por el Responsable y las personas que el partido político o coalición designe para tal propósito.
 
-Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta respectivos. Las conciliaciones bancarias, el registro de firmas autorizadas para suscribir en las mismas, así como los estados de cuenta, deberán remitirse como anexos de los Informes, Anuales, Consolidados de precandidatos ganadores o perdedores y Campaña, según sea el caso, o bien, cuando la Unidad de Fiscalización lo solicite o lo establezca el presente Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta respectivos y deberán estar a disposición de la Unidad Técnica Especializada de Fiscalización cuando los requiera.
 
 El partido político o coalición deberá presentar anexo a las pólizas de ingresos correspondientes los documentos que respalden los movimientos bancarios que se deriven de sus estados de cuenta. En cualquier caso, las fichas de depósito con sello del banco en original o las copias de los comprobantes impresos de las transferencias electrónicas con el número de autorización o referencia emitido por el banco y las demás que establezca el presente Reglamento.
 
@@ -550,7 +624,11 @@ Las ministraciones del financiamiento público local para actividades ordinarias
 
 El financiamiento en dinero público o privado que reciban los candidatos a cualquier cargo de elección popular durante los procesos correspondientes o con anterioridad a éstos, así como las cuotas voluntarias y personales que aporten exclusivamente para su campaña, deberán ser depositados, según sea el caso, en las cuentas de cheques a que se refiere el artículo 65 del presente Reglamento y deberán ser manejadas mancomunadamente por las personas que designe el partido político o coalición, en la que se incluirá la del Responsable.
 
-El financiamiento en dinero que reciban los precandidatos a cualquier cargo de elección popular durante los procesos correspondientes o con anterioridad a éstos, así como las cuotas voluntarias y personales que aporten exclusivamente para el proceso de selección interna de candidatos, podrán ser depositados en cuentas de cheques individuales por precandidato o en cuentas concentradoras para pago de gastos por tipo de candidatura, es decir una para precandidatos a Jefe de Gobierno, una para precandidatos a Jefes Delegacionales y otra para precandidatos a Diputados a la Asamblea Legislativa, las cuales deberán ser manejadas mancomunadamente por las personas que designe el partido político o coalición y en la que se incluirá la del Responsable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+El financiamiento en dinero que reciban los precandidatos a cualquier cargo de elección popular durante los procesos correspondientes o con anterioridad a éstos, así como las cuotas voluntarias y personales que aporten exclusivamente para el proceso de selección interna de candidatos, deberán ser depositados en cuentas de cheques individuales por precandidato o en cuentas concentradoras para pago de gastos por tipo candidatura, es decir, una para precandidatos a Jefe de Gobierno, una para precandidatos a Jefes Delegacionales y otra para precandidatos a Diputados a la Asamblea Legislativa, las cuales deberán ser manejadas mancomunadamente por las personas que designe el partido político o coalición y en la que se incluirá la del Responsable.
 
 ###### Artículo 14.
 
@@ -586,15 +664,23 @@ Cada serie de recibos se imprimirá por triplicado, original y dos copias, con f
 
 Los recibos se expedirán en forma consecutiva, sin dejar intermedios como pendientes de utilizar, en el caso de que existan se deberán cancelar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Articulo 20.
 
-De los recibos que se impriman y expida el Órgano Directivo, el responsable llevará un control de folios que deberá contener los siguientes datos: el número total de recibos impresos, los recibos expedidos con el importe total, recibos cancelados y los recibos pendientes de utilizar, así como el último folio del recibo utilizado en el ejercicio anterior, requisitando en su totalidad los formatos A10-CF-RADM y A11-CF-RAEM para aportaciones en dinero y A12-CF-RADS y A13-CF-RAES para aportaciones en especie, mismos que serán remitidos a la Unidad de Fiscalización conjuntamente con los Informes Anuales, Consolidado de precandidatos ganadores o perdedores y Campaña, según sea el caso.
+De los recibos que se impriman y expida el Órgano Directivo, el responsable llevará un control de folios que deberá contener los siguientes datos: el número total de recibos impresos, los recibos expedidos con el importe total, recibos cancelados y los recibos pendientes de utilizar, así como el último folio del recibo utilizado en el ejercicio anterior, requisitando en su totalidad los formatos A10-CF-RADM y A11-CF-RAEM para aportaciones de militantes y A12-CF-RADS y A13-CF-RAES para aportaciones de simpatizantes.
 
 Además, integrará un registro individual y centralizado del financiamiento privado en dinero proveniente de militantes y simpatizantes. Este registro permitirá conocer el monto acumulado de las aportaciones por persona y se remitirá a la Unidad de Fiscalización, conjuntamente con el Informe Anual.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-El original de los recibos A18-RADM, A19-RAEM, A20-RADS y A21-RAES deberá entregarse a la persona u organización que aporte la cuota. Una copia será remitida al responsable del partido político o coalición para el expediente del consecutivo y otra copia permanecerá anexa a la póliza del registro contable correspondiente, junto con la copia por ambos lados de la credencial para votar del aportante y en el caso de las aportaciones señaladas en el artículo 23 del presente Reglamento una copia del contrato.
+El original de los recibos A18-RADM, A19-RAEM, A20-RADS y A21-RAES deberá entregarse a la persona u organización que aportó la cuota. Una copia será remitida al responsable del partido político o coalición para el expediente del consecutivo y otra copia permanecerá anexa a la póliza del registro contable correspondiente, junto con la copia por ambos lados de la identificación oficial (credencial para votar, cartilla del servicio militar, pasaporte ó cédula profesional) del aportante y en el caso de las aportaciones señaladas en el artículo 23 del presente Reglamento una copia del contrato.
 
 Los recibos deben ser requisitados con la totalidad de la información y las firmas requeridas en el mismo, de manera que los datos resulten legibles en las copias.
 
@@ -602,11 +688,19 @@ Los recibos deben ser requisitados con la totalidad de la información y las fir
 
 En el caso del financiamiento privado en especie, proveniente de militantes y simpatizantes, deberá expresarse en el cuerpo del recibo la descripción relativa al bien aportado, incluyendo el valor de mercado y el criterio de valuación que se haya utilizado, en términos de los artículos 24, 25 y 26 del presente Reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
 El financiamiento privado en especie que reciba el partido político o coalición, sus precandidatos y candidatos que rebase la cantidad de 200 veces el salario mínimo general diario vigente en el Distrito Federal, deberá formalizarse mediante contrato escrito.
 
-No se considerarán como aportaciones en especie los servicios personales no especializados otorgados gratuitamente a los partidos políticos, coaliciones, precandidatos o candidatos. Se considera servicio especializado aquel que ejecute el aportante de manera ordinaria en su ámbito laboral o aquel otro que implique conocimientos técnicos o profesionales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Se considerarán como aportaciones en especie los servicios personales especializados otorgados gratuitamente a los partidos políticos, coaliciones, precandidatos o candidatos. Se considera servicio especializado aquel que ejecute el aportante de manera ordinaria en su ámbito laboral o aquel otro que implique conocimientos técnicos o profesionales.
 
 Las aportaciones realizadas por una sola persona que en el transcurso de un mes rebasen dicho tope, deberán formalizarse mediante contratos escritos a partir de que lo supere.
 
@@ -652,7 +746,11 @@ Los partidos políticos o coaliciones deberán informar por escrito a la Unidad 
 
 El financiamiento privado de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie realizados a los Partidos Políticos o Coaliciones en forma libre y voluntaria.
 
-El financiamiento privado en dinero aportado al Partido Político o Coalición que rebase la cantidad equivalente a 200 veces el salario mínimo general diario vigente para el Distrito Federal, deberá realizarse con cheque nominativo, o bien, a través de transferencia electrónica interbancaria en la que se utilice la clave bancaria estandarizada CLABE, cuyos comprobantes impresos emitidos por cada institución bancaria incluirán la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta, la cual deberá ser alguna de las cuentas bancarias del órgano directivo central referidas en este Reglamento, y en el rubro denominado “leyenda”, “motivo de pago”, “referencia” u otro similar, se deberá hacer referencia al tipo de aportante (militante o simpatizante).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+El financiamiento privado en dinero aportado al Partido Político o Coalición que rebase la cantidad equivalente a 200 veces el salario mínimo general diario vigente para el Distrito Federal, deberá realizarse con cheque nominativo de la cuenta personal del aportante, o bien, a través de transferencia electrónica interbancaria en el que se utilice la clave bancaria estandarizada CLABE, cuyos comprobantes impresos emitidos por cada institución bancaria incluirán la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino, la cual deberá ser alguna de las cuentas bancarias del órgano directivo central referidas en este Reglamento, y en el rubro denominado “leyenda”, “motivo de pago”, “referencia” u otra similar, se deberá hacer referencia al tipo de aportante (militante o simpatizante).
 
 La copia del cheque nominativo o el comprobante impreso de la transferencia electrónica debe anexarse al recibo y a la póliza contable, correspondiente.
 
@@ -682,9 +780,11 @@ I. Aperturar una cuenta bancaria a su nombre exclusivamente para este tipo de ap
 
 II. Con la finalidad de verificar el origen y monto de las aportaciones realizadas, los contratos que para este fin suscriba el partido político o coalición con la empresa encargada de procesar las llamadas (Call Center), deberán incluir una cláusula en la que se obligue a esta última a proporcionar toda la información que al respecto le solicite la Unidad de Fiscalización;
 
-III. Dichos contratos contendrán, por lo menos, los costos, condiciones, características del servicio, temporalidad, derechos, obligaciones, penalizaciones e impuestos; así como establecer la emisión de recibos personalizados y foliados; dentro de los quince días hábiles previos a la entrada en vigencia de los contratos respectivos, deberán ser remitidos a la Unidad de Fiscalización.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-Dentro de los quince días hábiles previos al inicio de su vigencia de los contratos referidos, estos serán ser (sic) remitidos a la Unidad de Fiscalización; con la finalidad de que cuente con este plazo para revisar los términos y condiciones de cada uno de los contratos respectivos y remita al partido político o coalición las observaciones que estime pertinentes;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+III. Dichos contratos contendrán, por lo menos, los costos, condiciones, características del servicio, temporalidad, derechos, obligaciones, penalizaciones e impuestos; así como establecer la emisión de recibos personalizados y foliados; dentro de los quince días hábiles previos a la entrada en vigencia de los contratos respectivos, deberán ser remitidos a la Unidad de Fiscalización; con la finalidad de que cuente con este plazo para revisar los términos y condiciones de cada uno de los contratos y remita al partido político o coalición las observaciones que estime pertinentes;
 
 IV. La totalidad del financiamiento en dinero recibido por el partido político o coalición bajo este mecanismo de recaudación, deberá estar respaldado mediante recibos que estarán registrados contablemente y autorizados por el Responsable del partido político o coalición;
 
@@ -804,27 +904,47 @@ Los ingresos que reciba el partido político o coalición por rendimientos finan
 
 ### CAPÍTULO II. DE LAS TRANSFERENCIAS DE RECURSOS Y BIENES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 44.
 
-El financiamiento en dinero que sea transferido por el ODN al Órgano Directivo, será depositado en cuentas bancarias y manejadas mancomunadamente por el Responsable del partido político o coalición y por quien éste determine. Dichas cuentas se identificarán contablemente como CBODN ó CBODNC, según sea el caso.
+El financiamiento en dinero que sea transferido por el ODN al Órgano Directivo Central, será depositado en cuentas bancarias y manejadas mancomunadamente por el Responsable del partido político o coalición y por quien éste determine. Dichas cuentas se identificarán contablemente como CBODN ó CBODNPC y CBODNC, según sea el caso.
 
-El partido político registrará y diferenciará en la contabilidad del Órgano Directivo el origen y el destino de todos los recursos depositados en dichas cuentas; asimismo, acreditará su origen con la documentación original que expida el propio partido político y mediante copia fotostática de la documentación comprobatoria del destino de dichos recursos, así como de los elementos de convicción que permitan acreditar fehacientemente que se recibió la prestación pactada, es decir el bien o servicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+El partido político o coalición registrará y diferenciará en la contabilidad del Órgano Directivo Central el origen y el destino de todos los recursos depositados en dichas cuentas; asimismo, acreditará su origen con la documentación original que expida el propio partido político o coalición y mediante copia fotostática de la documentación comprobatoria del destino de dichos recursos, así como de los elementos de convicción que permitan acreditar fehacientemente que se recibió la prestación pactada, es decir el bien o servicio.
 
 El partido político deberá informar a la Unidad de Fiscalización de todas y cada una de las transferencias que le hayan sido realizadas por el Órgano Directivo Nacional, así como presentar toda la documentación que le sea requerida por la misma, para corroborar su origen.
 
-Las partidas de financiamiento público federal podrán ser utilizadas para sufragar los gastos generados para el sostenimiento de las actividades ordinarias permanentes que realice el partido político, así como para las campañas electorales siempre y cuando dichas asignaciones no rebasen el tope de gastos que en términos del Código determine el Consejo General; y su origen, monto y destino se reporte tanto a la autoridad local como a la federal, en los informes respectivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Las partidas del financiamiento público federal podrán ser utilizadas para sufragar los gastos generados para el sostenimiento de actividades ordinarias permanentes que realice el partido político, así como para gastos de precampaña y de las campañas electorales siempre y cuando dichas asignaciones no rebasen el tope de gastos que en términos del Código determine el Consejo General; y su origen, monto y destino se reporte tanto a la autoridad local como a la federal, en los informes respectivos.
 
 ###### Artículo 45.
 
 Salvo el partido político que obtenga mayor financiamiento público en términos del Código, los demás partidos políticos podrán realizar transferencias de sus otras fuentes de financiamiento para los gastos de campaña, respetando los topes de gastos, especificando los montos de cada una de las transferencias y observando el principio de supremacía del financiamiento público sobre el privado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 46.
 
-El financiamiento en dinero que sea transferido por el Órgano Directivo al ODN deberá figurar en los registros contables en la cuenta que para el efecto se establece en el catálogo de cuentas y guía contabilizadora anexos al presente Reglamento. El Responsable del partido político o coalición recabará la documentación comprobatoria original de los gastos efectuados con dichos recursos, la cual estará a disposición de la Unidad de Fiscalización cuando ésta lo solicite. Estos recursos deberán transferirse de las cuentas bancarias que se identifican contablemente como CBODCAO.
+El financiamiento en dinero que sea transferido por el Órgano Directivo Central al ODN deberá figurar en los registros contables en la cuenta que para el efecto se establece en el catálogo de cuentas y guía contabilizadora anexos al presente Reglamento. El Responsable del partido político o coalición recabará la documentación comprobatoria original de los gastos efectuados con dichos recursos, la cual estará a disposición de la Unidad de Fiscalización cuando ésta lo solicite. Estos recursos deberán transferirse de las cuentas bancarias que se identifican contablemente como CBODCAO.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 47.
 
-Todo el financiamiento en dinero que sea transferido por el Órgano Directivo a sus Comités Delegacionales u órganos equivalentes, será depositado, a más tardar dentro de los tres días hábiles siguientes en cuentas bancarias que se identificarán contablemente como CBCDD, las cuales serán manejadas mancomunadamente por las personas que designe el partido político de conformidad con su normativa estatutaria. Asimismo, aportará, cuando así lo requiera la Unidad de Fiscalización, la documentación original de los gastos que se efectúen con el financiamiento transferido y los elementos de convicción que permitan acreditar fehacientemente que se recibió la prestación pactada, es decir el bien o servicio.
+Todo el financiamiento en dinero que sea transferido por el Órgano Directivo Central a sus Comités Delegacionales u órganos equivalentes, será depositado, a más tardar dentro de los tres días hábiles siguientes en cuentas bancarias que se identificarán contablemente como CBCDD, las cuales serán manejadas mancomunadamente por las personas que designe el partido político de conformidad con su normativa estatutaria. Asimismo, aportará, cuando así lo requiera la Unidad de Fiscalización, la documentación original de los gastos que se efectúen con el financiamiento transferido y los elementos de convicción que permitan acreditar fehacientemente que se recibió la prestación pactada, es decir el bien o servicio.
 
 ###### Artículo 48.
 
@@ -838,9 +958,13 @@ Todos los egresos efectuados con el financiamiento público transferido por el �
 
 Todos los pagos efectuados por el Órgano Directivo Nacional, para cubrir obligaciones del Órgano Directivo Central, se reportarán como transferencias; asimismo, deberán registrarse en la contabilidad del partido político y respaldarse con copia fotostática de la documentación comprobatoria y los elementos de convicción que permitan acreditar fehacientemente que se recibió el bien o servicio pactado; en caso de pago de impuestos retenidos, además, se anexará la integración correspondiente del pago.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-Todo el financiamiento en dinero que sea transferido por el Órgano Directivo Central y de los Comités Delegacionales u órganos equivalentes de cada partido político para las precampañas o campañas electorales, deberá depositarse en las cuentas identificadas contablemente como CBPCJG, CBPCAL, CBPCD, CBJG, CBD, o CBAL, según sea el caso. Dichos recursos deberán provenir de las cuentas CBODCAO, CBODCC y CBCDD.
+Todo el financiamiento en dinero que sea transferido por el Órgano Directivo Central y de los Comités Delegacionales u órganos equivalentes de cada partido político para las precampañas o campañas electorales, deberá depositarse en las cuentas identificadas contablemente como CBPCJG, CBPCAL, CBPCD, CBJG, CBD, o CBAL, según sea el caso. Dichos recursos deberán provenir de las cuentas CBODCAO, CBODCPC, CBODCC y CBCDD.
 
 Estas transferencias estarán registradas como tales en la contabilidad del partido político o coalición y conservarse las pólizas de los cheques, junto con los recibos internos que expedida (sic) el Órgano Directivo Central, el Comité Delegacional u órgano equivalente.
 
@@ -850,23 +974,35 @@ Cuando un partido político forme parte de una coalición registrará contableme
 
 El financiamiento que provenga de transferencias efectuadas por las organizaciones adherentes del partido político se registrará y comprobará de conformidad con lo establecido en los Capítulos Primero y Tercero del Título Tercero del presente Reglamento, salvo si se trata de la devolución de recursos transferidos previamente por el partido político a la organización, en cuyo caso las transferencias estarán registradas como tales en su contabilidad y deberán conservarse las pólizas de los cheques junto con los recibos internos que hubiere expedido el Órgano Directivo Central.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 53.
 
-Si en alguna de la cuentas CBODCAO, CBODCC, CBJG, CBD, CBAL, CBCDD, ingresara financiamiento proveniente de cuentas bancarias distintas a las mencionadas, el partido político que los reciba será responsable de acreditar que todos los recursos que hubieren ingresado a la cuenta bancaria de la que proviene la transferencia se apeguen a lo establecido en el Código. Para tal efecto, el partido político remitirá a la Unidad de Fiscalización, si ésta lo solicita, los estados bancarios de la cuenta de origen, hasta por un año previo a la fecha de realización de la transferencia, así como la documentación comprobatoria del origen de los recursos depositados en dicha cuenta en el mismo periodo.
+Si en alguna de las cuentas CBODCAO, CBODCPC, CBODCC, CBJG, CBD, CBAL y CBCDD, ingresara financiamiento proveniente de cuentas bancarias distintas a las mencionadas, el partido político que los reciba será responsable de acreditar que todos los recursos que hubieren ingresado a la cuenta bancaria de la que proviene la transferencia se apeguen a lo establecido en el Código. Para tal efecto, el partido político remitirá a la Unidad de Fiscalización, si ésta lo solicita, los estados bancarios de la cuenta de origen, hasta por un año previo a la fecha de realización de la transferencia, así como la documentación comprobatoria del origen de los recursos depositados en dicha cuenta en el mismo periodo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 54.
 
-Las transferencias realizadas por el Órgano Directivo Nacional para apoyo de campañas locales, estarán registradas como tales en la contabilidad. El partido político o coalición conservará las pólizas de los cheques, los cheques o comprobante impreso de la transferencia electrónica junto con los recibos internos que hubiere expedido el Órgano Directivo Central. Los egresos que se realicen con los recursos transferidos, estarán respaldados de conformidad con lo dispuesto en el Capítulo Tercero del Título Tercero del presente Reglamento y registrados en la contabilidad del partido político o coalición.
+Las transferencias realizadas por el Órgano Directivo Nacional para apoyo de precampañas y campañas locales, estarán registradas como tales en la contabilidad. El partido político o coalición conservará las pólizas de los cheques, los cheques o comprobante impreso de la transferencia electrónica junto con los recibos internos que hubiere expedido el Órgano Directivo Central. Los egresos que se realicen con los recursos transferidos, estarán respaldados de conformidad con lo dispuesto en el Capítulo Tercero del Título Tercero del presente Reglamento.
 
-La Unidad de Fiscalización tendrá el acceso a la información de las cuentas bancarias utilizadas para sufragar los gastos en campañas electorales y a la documentación comprobatoria y los elementos de convicción que permitan acreditar fehacientemente que se recibió el bien o servicio pactado, sin menoscabo de reportar dichas erogaciones en los informes de campaña correspondientes.
+La Unidad de Fiscalización tendrá el acceso a la información de las cuentas bancarias utilizadas para sufragar los gastos en precampañas y campañas electorales y a la documentación comprobatoria y a los elementos de convicción que permitan acreditar fehacientemente que se recibió el bien o servicio pactado, sin menoscabo de reportar dichas erogaciones en los informes correspondientes.
 
 ###### Artículo 55.
 
 La Unidad de Fiscalización podrá solicitar en cualquier momento al partido político información sobre el monto y destino de las transferencias efectuadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-Dentro de los treinta días naturales posteriores al día siguiente en que concluyan los procesos de selección interna de candidatos o las campañas electorales, los remanentes que se encuentren depositados en las cuentas bancarias destinadas a estas erogaciones, serán reintegrados a alguna cuenta CBODCAO y se procederá a la cancelación de dichas cuentas bancarias.
+Dentro de los treinta días naturales posteriores al día siguiente en que concluyan los procesos de selección interna de candidatos o las campañas electorales, los remanentes que se encuentren en las cuentas bancarias destinadas a estas erogaciones, serán reintegrados a alguna cuenta CBODCAO y se procederá a la cancelación de dichas cuentas bancarias.
 
 Para el caso de las coaliciones los remanentes a que se refiere el presente artículo, serán depositados en la o las cuentas de CBODCAO del o los partidos políticos coaligados, según lo acuerden los mismos; el partido político que reciba estos remanentes los registrará contablemente afectando la Subcuenta de “Transferencias a la coalición” de la cuenta de “Gastos de Campaña” aperturada para el registro de los recursos transferidos a la coalición.
 
@@ -1020,7 +1156,11 @@ No se computarán como gastos de precampaña, los realizados por el partido pol�
 
 El partido político o coalición deberá presentar a la Unidad de Fiscalización en forma impresa y en medio magnético, anexo a sus informes: Anual, Consolidado de precandidatos triunfadores o perdedores y de Campaña, la relación de los proveedores y prestadores de servicios con los cuales realizaron operaciones que superen la cantidad de 400 veces el salario mínimo general diario vigente en el Distrito Federal, según corresponda.
 
-La relación de los proveedores y prestadores de servicios deberá contener los datos relativos a: nombre fiscal y comercial de cada proveedor asentado en las facturas que expida; Registro Federal de Contribuyentes; domicilio fiscal; numero fecha e importe de la factura expedida por las operaciones realizadas; concepto de los bienes o servicios, así como número y fecha de los cheques de pago. Adicionalmente, para las operaciones realizadas en los procesos de precampaña o campaña, se deberá de especificar a que precandidatura o candidaturas beneficiaron.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+La relación de los proveedores y prestadores de servicios deberá contener los datos relativos a: nombre fiscal y comercial de cada proveedor asentado en las facturas que expida; Registro Federal de Contribuyentes; domicilio fiscal; numero fecha e importe de la factura expedida por las operaciones realizadas; concepto de los bienes o servicios, así como número y fecha de los cheques o transferencia del pago e institución bancaria. Adicionalmente, para las operaciones realizadas en los procesos de precampaña o campaña, se deberá de especificar a que precandidatura o candidaturas beneficiaron.
 
 Además, en caso de las operaciones que superen la cantidad de 2000 veces el salario mínimo general diario vigente en el Distrito Federal, el partido político o coalición deberá conformar y conservar un expediente de cada uno de los proveedores y prestadores de servicios; dicho expediente contendrá copia de: Acta constitutiva y de la última modificación notarial de la sociedad, así como de los apoderados legales sólo en caso de personas morales; comprobante de domicilio fiscal; Alta ante la Secretaria de Hacienda y Crédito Público, así como Cédula de Identificación Fiscal y Curriculum Vitae, expedientes que deberán ser presentados a la Unidad de Fiscalización cuando le sean requeridos.
 
@@ -1030,17 +1170,43 @@ Las erogaciones que se efectúen con cargo a las cuentas “Materiales y Suminis
 
 Los gastos con cargo a la cuenta “Servicios de Información Pública”, deberán ser contabilizados en subcuentas por el tipo de gasto. Los comprobantes deberán estar requisitados con el nombre, cargo, firma de quien recibió el bien o servicio y de quien lo autorizó, así como la fecha de recepción y el número de solicitud de información pública con la que se vincula el gasto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 80.
 
-Para efectos de la propaganda electoral, la propaganda utilitaria, las tareas editoriales se utilizará la cuenta “Gastos por Amortizar” como cuenta de almacén, abriendo las subcuentas que se requieran, tanto en esta cuenta, como en las correspondientes a las cuentas de los rubros de gastos. Los bienes adquiridos deberán inventariarse, y su control se llevará mediante notas de entradas y salidas de almacén debidamente foliadas y autorizadas, señalando su origen y destino, así como nombre y firma de quien entrega y recibe y la fecha de recepción. Se deberá llevar un control adecuado a través de kardex de almacén y practicar al cierre del ejercicio un inventario físico valuado, el cual estará a disposición de la Unidad de Fiscalización cuando ésta lo solicite.
+Para efectos de la propaganda electoral, la propaganda utilitaria y las tareas editoriales se utilizará la “Cuenta de Almacén”, abriendo las subcuentas que se requieran, tanto en esta cuenta, como en las correspondientes a las cuentas de los rubros de gastos. Los bienes adquiridos deberán inventariarse, y su control se llevará mediante notas de entradas y salidas de almacén debidamente foliadas y autorizadas conforme a los formatos A 41 NEA y A 42 NSA, señalando su origen y destino, así como nombre y firma de quien entrega y recibe y la fecha de recepción. Se llevará un control adecuado a través de kardex de almacén y practicar al cierre del ejercicio un inventario físico valuado, el cual estará a disposición de la Unidad de Fiscalización cuando ésta lo solicite.
 
-> <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-Se entenderá como destino la distribución final que el partido político o coalición realice de dichos bienes, es decir cuando salen definitivamente de cualquier instancia del partido o coalición.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-> <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
+Las notas de entrada y salida de almacén deberán ser elaboradas en el momento de la entrada o salida de los productos.
 
-En el caso de los gastos en propaganda utilitaria, el partido político deberá informar por escrito, cuando menos con tres días de anticipación, el lugar y la hora en que se llevará a cabo la recepción de estos productos, así como el nombre de la persona con quien se atenderá la diligencia, para que esta Unidad de Fiscalización comisione personal de la misma, a efecto de presentar dichos eventos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Las notas de entrada y salida de almacén se imprimarán (sic) por duplicado en original y copia, con folio consecutivo único. Una copia permanecerá anexa a la póliza del registro contable correspondiente y la original para el expediente del consecutivo el cual estará a disposición de la autoridad electoral cuando ésta los solicite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Adicionalmente, se elaborará una relación conforme a los formatos A44 RNEA y A45 RNSA las cuales serán proporcionadas a la UTEF junto con el Informe respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Se entenderá como destino la distribución final que el partido político o coalición realice de dichos bienes, es decir cuando salen definitivamente de cualquier instancia del partido político o coalición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+En el caso de los gastos en propaganda utilitaria, el partido político deberá informar por escrito, cuando menos con tres días de anticipación, el lugar y la hora en que se llevará a cabo la recepción de estos productos, así como el nombre de la persona con quien se atenderá la diligencia, para que esta Unidad de Fiscalización comisione personal de la misma, a efecto de presenciar selectivamente dichos eventos.
 
 > <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
 
@@ -1070,7 +1236,11 @@ Los reconocimientos en dinero que otorguen el partido político o coalición a s
 
 En el supuesto de que la persona que recibe el reconocimiento fuera menor de edad, se deberá consignar algún otro dato que permita identificar plenamente a quien se le otorga el correspondiente reconocimiento, como puede ser la Clave Única del Registro de Población (CURP), el número de pasaporte vigente, los datos de la credencial vigente con fotografía expedida por alguna institución educativa oficial o el número de credencial con fotografía o identificación de alguna institución pública de seguridad social.
 
-La carencia de alguno de los requisitos arriba señalados que obstaculice el procedimiento de verificación, será considerada como gasto no comprobado, independientemente de que, en su caso, se acumule para los topes de gastos de campaña.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+La carencia de alguno de los requisitos arriba señalados que obstaculice el procedimiento de verificación, el importe del recibo será considerado como gasto no comprobado, independientemente de que, en su caso, se acumule para los topes de gastos de campaña o precampaña, según corresponda.
 
 ###### Artículo 84.
 
@@ -1094,7 +1264,11 @@ IV. En el caso de los reconocimientos por su participación en campañas y en pr
 
 V. Lo establecido en este Reglamento no releva a los partidos políticos o coaliciones y a las personas que reciban pagos por parte de éstos, del cumplimiento de las obligaciones que les imponen las leyes fiscales, laborales o cualquier otra que resulte aplicable, y
 
-VI. Con los Informes Consolidados de los precandidatos triunfadores o perdedores, los de Campaña o, y en su caso Anuales, el partido político o coalición deberán presentar los controles de folios y relaciones de las personas que recibieron reconocimientos por su participación en actividades políticas, así como el monto total que percibió cada una de ellas durante el periodo correspondiente. Los nombres de los beneficiarios deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre (s), incluyendo un desglose de cada reconocimiento recibido por cada una de ellas, y deberá de remitirse en medios magnéticos a la Unidad de Fiscalización.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VI. Con los Informes Consolidados de los precandidatos triunfadores o perdedores, los de Campaña o, y en su caso Anuales, el partido político o coalición deberá presentar los controles de folios y relaciones de las personas que recibieron reconocimientos por su participación en actividades políticas conforme al formato A 43 REL RRPAP, así como el monto total que percibió cada una de ellas durante el periodo correspondiente. Los nombres de los beneficiarios deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre (s), incluyendo un desglose de cada reconocimiento recibido por cada una de ellas, y deberá remitirse en medios magnéticos a la Unidad de Fiscalización.
 
 ###### Artículo 86.
 
@@ -1192,13 +1366,25 @@ c) Gastos por distribución de la actividad editorial específica, y
 
 d) Gastos de diseño para la publicación en internet.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 88.
 
-En el caso de los gastos en educación y capacitación, formación de liderazgos femeniles y juveniles y las tareas editoriales, el partido político deberá informar por escrito a la Unidad de Fiscalización, cuando menos con tres días de anticipación, de la realización de cursos, eventos o recepción de tiraje, según sea el caso, para que ésta comisione personal de la misma a efecto de presenciar dichos eventos. En dicho escrito se precisará el lugar y la hora en que se llevará a cabo, así como el nombre de la persona con quien se atenderá dicha diligencia.
+En el caso de los gastos en educación y capacitación, formación de liderazgos femeninos y juveniles y las tareas editoriales, el partido político deberá informar por escrito a la Unidad de Fiscalización, cuando menos con tres días de anticipación, de la realización de cursos, eventos o recepción de publicaciones, según sea el caso, para que ésta comisione personal de la misma a efecto de presenciar dichos eventos. En el escrito se precisará el lugar y la hora en que se llevará a cabo, así como el nombre de la persona con quien se atenderá dicha diligencia.
 
-De lo anterior, el personal que asista a verificar la recepción del tiraje o presenciar los cursos de capacitación, levantará un acta circunstanciada en original y copia, la cual deberá estar firmada tanto por el personal designado por la Unidad de Fiscalización, así como por la persona que nombre el partido político, la original quedará en poder de la Unidad y la copia será entregada al partido político.
+De lo anterior, el personal que asista a verificar la recepción de las publicaciones o presenciar los cursos de capacitación, levantará un acta circunstanciada en dos originales, la cual deberá estar firmada tanto por el personal designado por la Unidad de Fiscalización, así como por la persona que nombre el partido político, una quedará en poder de la Unidad y la otra será entregada al partido político.
 
-El partido político deberá anexar el acta referida en el párrafo anterior, a la documentación comprobatoria del gasto, la cual deberá reunir invariablemente los requisitos establecidos en los artículos 58 y 59 del presente Reglamento.
+En dicho acto el partido político deberá presentar copia simple de la documentación siguiente: copia de la factura o nota de remisión, así como de la nota de entrada al almacén y, en su caso, del contrato; además en el caso de las tareas editoriales dos ejemplares de las publicaciones verificadas y por lo que hace a los cursos el material didáctico y listas de asistencia.
+
+El Partido Político elaborará y registrará una sola póliza contable por cada evento verificado.
+
+En caso de ser cancelado el evento o la recepción de tiraje, se notificará con 24 hrs de anticipación al titular de la Unidad de Fiscalización mediante oficio, en el cual señalará la fecha y hora reprogramada, en caso de que el personal comisionado asista y no se lleve a cabo dicho evento, el Instituto Político será susceptible de ser sancionado, salvo en los casos de fuerza mayor o por causas no imputables al partido político.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 89.
 
@@ -1206,9 +1392,43 @@ El partido político deberá destinar en el transcurso de cada año, al menos el
 
 Dentro de los diez días posteriores a que el Consejo General apruebe el financiamiento público para actividades ordinarias permanentes, la Unidad de Fiscalización informará a los partidos políticos el monto mínimo de los recursos que deben destinar para tales actividades.
 
-Se considerarán como actividades encaminadas a la generación y fortalecimiento de liderazgos femeniles y juveniles, aquellas que lleve a cabo el partido político en el transcurso del año, similares a las señaladas en la fracción II del artículo 86 del presente Reglamento, las cuales se registrarán contablemente en las cuentas específicas señaladas en el catálogo de cuentas.
+I. Se considerarán como actividades encaminadas a la generación y fortalecimiento de liderazgos femeninos y juveniles, aquellas que lleve a cabo el partido político en el transcurso del año, similares a las señaladas en la fracción II del artículo 86 del presente Reglamento, las cuales se registrarán contablemente en las cuentas específicas señaladas en el catálogo de cuentas.
 
-Durante el mes de enero de cada año, los partidos políticos remitirán a la Unidad de Fiscalización copia autorizada del programa anual de actividades encaminadas a la formación de liderazgos femeniles y juveniles.
+No se considerarán dentro de este rubro los gastos relacionados con la operación, servicios personales y generales de las secretarías de la Mujer o de los Jóvenes u órganos equivalentes, cuando no se relacionen directa y exclusivamente con las actividades de capacitación, promoción y desarrollo de liderazgos femeninos y juveniles.
+
+II. Durante el mes de enero de cada año, los partidos políticos remitirán a la Unidad de Fiscalización copia autorizada del programa anual de actividades encaminadas a la formación de liderazgos femeninos y juveniles, de acuerdo al formato A46-PALFJ; cualquier cambio al mismo, deberá ser informado a la Unidad de Fiscalización dentro de los 10 días siguientes a la aprobación de su modificación. Dicha modificación deberá venir firmada por el encargado del Órgano de Administración y Finanzas u Órgano equivalente, así como por el titular del área responsable de su ejecución.
+
+III. Dentro de los quince días hábiles posteriores a la conclusión de cada trimestre, los partidos políticos deberán rendir a la Unidad de Fiscalización un informe de las actividades llevadas a cabo durante el mismo, de acuerdo a los formatos A47-ITLFJ.
+
+Anexo a dichos informes trimestrales, los partidos políticos deberán presentar la documentación siguiente:
+
+a) Se presentarán dos relaciones de las actividades realizadas en el trimestre que se informa, una por liderazgos femeninos y otra por juveniles, dichas relaciones deberán contener el número consecutivo que le corresponda, denominación de la actividad y el costo total;
+
+b) Balanza de comprobación y registros auxiliares acumulados al trimestre que se reporte;
+
+c) Tantos formatos A47-ITLFJ como sean necesarios, los cuales deberán estar acompañados de la documentación que se detalla en los incisos siguientes;
+
+d) Pólizas de diario, ingresos y egresos de las operaciones vinculadas a las operaciones relacionadas con las actividades que se reportan en el informe trimestral;
+
+e) Documentación comprobatoria original de los gastos realizados en estas actividades, la cual deberá cumplir con los requisitos establecidos en el presente Reglamento; y
+
+f) Testigos originales de las actividades reportadas y, en su caso, las actas circunstanciadas levantadas por el personal de la Unidad de Fiscalización que acudió a verificarlas:
+
+IV. Los informes a que se refiere la fracción anterior, serán revisados por la Unidad de Fiscalización conforme al procedimiento siguiente:
+
+a) La Unidad de Fiscalización contará con quince días hábiles para revisar los informes trimestrales;
+
+b) Si durante el proceso de revisión se advierte la existencia de errores u omisiones, la Unidad de Fiscalización lo hará del conocimiento del partido político dentro de los cinco días siguientes a la conclusión de la revisión, otorgándole un plazo de diez días hábiles para que presente las aclaraciones o rectificaciones que considere pertinentes;
+
+c) La Unidad de Fiscalización informará a los partidos políticos si las aclaraciones o rectificaciones presentadas, en su caso, subsanan o no los errores u omisiones notificados, otorgándole un plazo improrrogable de cinco días hábiles para que los subsanen; en dicha notificación se les hará del conocimiento las consideraciones técnicas, de hecho y de derecho por las que se determinó no solventados los errores u omisiones; y
+
+d) Los errores u omisiones no subsanados serán notificados como irregularidades subsistentes en la sesión de confronta del informe anual del ejercicio de que se trate.
+
+V. Una vez concluido el plazo al que se refiere el inciso c) de la fracción anterior, la Unidad de Fiscalización informará, dentro de los quince días hábiles siguientes, a la Comisión de Fiscalización el importe al que ascendieron los gastos que cada uno de los partidos políticos realizaron en el Distrito Federal en el trimestre inmediato anterior, y que fueron debidamente comprobados para la realización de las actividades encaminadas a la generación y fortalecimiento de liderazgos femeninos y juveniles.
+
+VI. A más tardar en el mes de marzo, la Unidad de Fiscalización informará a la Comisión de Fiscalización el importe al que ascendieron los gastos totales que cada uno de los partidos políticos realizaron en el Distrito Federal en el año inmediato anterior, y que fueron debidamente comprobados para la realización de las actividades encaminadas a la generación y fortalecimiento de liderazgos femeninos y juveniles, así como las irregularidades subsistentes y las consideraciones técnicas, de hecho y de derecho por las que la Unidad de Fiscalización determinó no solventados los errores u omisiones.
+
+VII. Una vez concluido el plazo al que se refiere la fracción anterior, la Unidad de Fiscalización integrará un expediente anual por cada partido político, debidamente foliado y con una relación precisa de los documentos que lo conforman y, en su caso, muestras de los productos obtenidos.
 
 ###### Artículo 90.
 
@@ -1280,19 +1500,25 @@ La Unidad de Fiscalización podrá solicitar en cualquier tiempo a los partidos 
 
 ### CAPÍTULO ÚNICO. DE LA PRESENTACIÓN DE LOS INFORMES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 98.
 
-El partido político o coalición deberán entregar a la Unidad de Fiscalización, los informes Anuales, de Campaña y Consolidado de precandidatos triunfadores y perdedores, sobre el origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+Los partidos políticos o coaliciones deberán entregar a la Unidad de Fiscalización, los informes Anuales, de Campaña y Consolidado de precandidatos triunfadores y perdedores, sobre el origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
 
 Los informes referidos en el artículo que antecede, así como sus anexos serán presentados en los formatos establecidos en el presente Reglamento, como sigue:
 
-I. Informes Anuales: A1-IA, A5-IA1, A6-IA2, A7- IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12- CF-RADS, A13-CF-RAES, A14-CEA, A15-CF-RADSVT-01-800, A16-CI-TEL-01-900Ay 17-CF-RRPAP, así como la documentación establecida en los artículos 78 y 100 del presente Reglamento;
+I. Informes Anuales: A1-IA, A5-IA1, A6-IA2, A7-IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12-CFRADS, A13-CF-RAES, A14-CEA, A15-CF-RADSVT-01-800, A16-CI-TEL-01-900, A17-CF-RRPAP, A35-LIFAV, A43-REL-RRPAP, A44-RNEA y A45 RNSA así como la documentación establecida en los artículos 78 y 100 del presente Reglamento;
 
-II. Informes de Campaña: A2-IC, A5-IA1, A6-IA2, A7- IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12-CF-RADS, A13-CF-RAES, A14-CEA, A17-CF-RRPAP, A23-PGCCL, A24-PGCLF, A25-RPMI, A26- RAEVP, A27-RC y A28-RI, así como la documentación establecida en los artículos 78 y 117 del presente Reglamento, y
+II. Informes de Campaña: A2-IC, A5-IA1, A6-IA2, A7- IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12-CF-RADS, A13-CF-RAES, A14-CEA, A15-CF-RADSVT-01-800, A16-CI-TEL-01-900, A17-CF-RRPAP, A23-PGGPCL, A24-PGPCLF, A25-RPMI, A26-RAEVP, A27-RC, A28-RPI, A-35-LIFAV, A35-LIFAV, A43-REL-, A44-RNEA y A45 RNSA, así como la documentación establecida en los artículos 78 y 117 del presente Reglamento, y
 
-III. Informe Consolidado de precandidatos triunfadores o perdedores: A3-ICSIC, A5-IA1, A6-IA2, A7- IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12-CF-RADS, A13-CF-RAES, A14-CEA, A17-CF-RRPAP, A23- PGCCL, A24-PGCLF, A29-DI, A30-RG1, A31-RG2, A32-RG3, A33-RG4 y A34-RG5, así como la documentación requerida en los artículos 78, 126 y 127 del presente Reglamento.
+III. Informe Consolidado de precandidatos triunfadores o perdedores: A3-ICSIC, A3-A, A3-B, A5-IA1, A6-IA2, A7- IA3, A8-IA4, A9-IA5; A10-CF-RADM, A11-CF-RAEM, A12-CF-RADS, A13-CF-RAES, A14-CEA, A17-CF-RRPAP, A23-PGGPCL, A24-PGPCLF, A29-DI, A30-RG1, A31-RG2, A32-RG3, A33-RG4, A34-RG5, A-35-LIFAV, A43-REL-RRPAP, A44-RNEA y A45 RNSA así como la documentación requerida en los artículos 78, 126 y 127 del presente Reglamento.
 
-Los informes de ingresos y egresos señalados, deberán estar suscritos por el Responsable del partido político o coalición que esté debidamente acreditado ante el Instituto.
+IV. Informes Trimestrales: A4-IT.- en el ejercicio en el que se lleve a cabo la jornada electoral del proceso electoral respectivo así como la documentación establecida en el artículo 105 del presente Reglamento.
+
+Los informes de ingresos y egresos; así como los anexos señalados, deberán estar suscritos por el Responsable del partido político o coalición que esté debidamente acreditado ante el Instituto.
 
 ###### Artículo 99.
 
@@ -1308,13 +1534,21 @@ Conjuntamente con la presentación del Informe Anual, se deberá remitir a la Un
 
 I. Los estados de cuenta bancarios mensuales de todas las cuentas manejadas por el partido político, correspondientes al año que se informa, con sus respectivas conciliaciones;
 
-II. Las balanzas de comprobación mensuales, la balanza de comprobación anual y los estados financieros básicos: estado consolidado de situación patrimonial en el que se manifiesten los activos, pasivos y patrimonio (balance general) y estado de resultados (estado de pérdidas y ganancias); así como, un informe detallado de los bienes inmuebles propiedad del partido político;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+II. Las balanzas de comprobación mensuales, la balanza de comprobación anual y los estados financieros básicos; estado consolidado de situación patrimonial en el que se manifiesten los activos, pasivos y patrimonio (balance general) y estado de resultados (estado de pérdidas y ganancias); así como, un informe detallado de los bienes muebles e inmuebles propiedad del partido político.
 
 III. Los controles de folios de los recibos de aportaciones en dinero y en especie tanto de militantes como de simpatizantes en dinero y en especie, los registros individuales y centralizados de aportaciones, así como en medio magnético;
 
 IV. Los controles de folios de los recibos de reconocimiento por participación en actividades políticas y su medio magnético;
 
-V. El inventario físico actualizado y valuado a que se refieren los artículos 138 y 162 del presente Reglamento; en hoja de cálculo, de forma impresa y en medio magnético;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+V. El inventario físico actualizado y valuado a que se refiere el artículo 162 del presente Reglamento; en hoja de cálculo, de forma impresa y en medio magnético.
 
 VI. Estados de cuenta de los fideicomisos que hayan operado;
 
@@ -1342,9 +1576,27 @@ XVII. La integración detallada del pasivo;
 
 XVIII. Relación en la que se integre detalladamente cada uno de los movimientos que conforman los saldos de las cuentas por pagar con antigüedad mayor a un año;
 
-XIX. Relación detallada donde se integre cada uno de los movimientos que conforman los saldos de las cuentas por cobrar con antigüedad mayor a un año, y
+XIX. Relación detallada donde se integre cada uno de los movimientos que conforman los saldos de las cuentas por cobrar con antigüedad mayor a un año, y (sic)
 
 XX. Informe de los anuncios espectaculares colocados durante el periodo objeto del informe que aún no hayan sido pagados por el partido político, en los cuales deberá señalarse el número de póliza de diario con la que se abonó el pasivo correspondiente con cargo a gastos ordinarios, así como la orden de servicio expedida por el proveedor o alguna otra documentación que ampare dichos pasivos, en la cual deberá de especificarse el importe del servicio prestado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XXI. Relación de las personas que recibieron reconocimientos por su participación en actividades políticas, así como el monto total que recibió cada una de ellas durante el periodo correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XXII. Relación de notas de entrada de almacén.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Relación de notas de salida de almacén.
 
 ###### Artículo 101.
 
@@ -1364,7 +1616,11 @@ Lo anterior, independientemente del Informe Consolidado de precandidatos triunfa
 
 En el ejercicio en el que se realice la jornada electoral del proceso electoral respectivo, deberán presentar a la Unidad de Fiscalización informes trimestrales a más tardar dentro de los treinta días siguientes a la conclusión del trimestre que corresponda, de acuerdo al formato A4-IT. En ellos serán reportados los ingresos y gastos ordinarios que el partido político haya obtenido y realizado durante el periodo que corresponda.
 
-Todos los ingresos y los gastos que se reporten en dichos informes deberán estar debidamente registrados en la contabilidad del partido político. En los informes trimestrales se deberá reportar como saldo inicial, el saldo final de todas las cuentas contables de caja, bancos y, en su caso, inversiones en valores correspondientes al trimestre inmediato anterior. Los informes deberán presentarse en medios impresos y magnéticos, en los formatos incluidos en el presente Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Todos los ingresos y los gastos que se reporten en dichos informes deberán estar debidamente registrados en la contabilidad del partido político. En los informes trimestrales se deberá reportar como saldo inicial, el saldo final de todas las cuentas contables de caja, bancos y, en su caso, inversiones en valores correspondientes al trimestre inmediato anterior. Los informes deberán presentarse en medio impreso y magnético, en los formatos incluidos en el presente Reglamento.
 
 ###### Artículo 105.
 
@@ -1458,9 +1714,17 @@ No se incluirán en los informes de campaña los gastos que realicen el partido 
 
 Como propaganda genérica, se entenderá aquella publicidad en diarios, revistas y otros medios impresos, anuncios espectaculares, propaganda utilitaria, propaganda en salas de cine y en páginas de internet, en la que el partido político o coalición promueva o invite a votar por el conjunto de candidatos a cargos de elección popular que los representan, sin que se especifique el candidato o el tipo de campaña que promocionan y sin distinguir si se trata de candidatos a Presidente, Jefe de Gobierno, Diputados y Senadores Federales, Diputados locales o jefes delegacionales, en procesos electorales concurrentes.
 
-En la propaganda en la que no se logre identificar algún candidato en especial, pero se promocione alguna política pública que haya producido o vaya a producir efectos benéficos para la ciudadanía o se promocione alguna postura del partido político o coalición con respecto a un tema de interés del Distrito Federal, se deberá clasificar como "propaganda genérica" y será prorrateada conforme al criterio de los artículos 60 o 61 del presente Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-En los casos en los que se publique o difunda la imagen de los líderes del partido, su emblema, la mención de slogans o lemas con los que se identifique al partido político, coalición y/o a sus candidatos, se deberá clasificar como "propaganda genérica" y será reportada conforme al criterio del artículo 60 o 61 del presente Reglamento, según sea el caso.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+En la propaganda en la que no se logre identificar algún candidato en especial, pero se promocione alguna política pública que haya producido o vaya a producir efectos benéficos para la ciudadanía o se promocione alguna postura del partido político o coalición con respecto a un tema de interés del Distrito Federal, se deberá clasificar como "propaganda genérica" y será prorrateada conforme al criterio de los artículos 69 o 70 del presente Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+En los casos en los que se publique o difunda la imagen de los líderes del partido, su emblema, la mención de slogans o lemas con los que se identifique al partido político, coalición y/o a sus candidatos, se deberá clasificar como "propaganda genérica" y será reportada conforme al criterio de los artículos 69 o 70 del presente Reglamento, según sea el caso.
 
 ###### Artículo 113.
 
@@ -1468,23 +1732,31 @@ El Responsable del partido político o coalición notificará a los candidatos p
 
 Asimismo, deben instruir a sus candidatos a cargos de elección popular que participen en procesos electorales en el Distrito Federal para que sus recursos en dinero los manejen a través de las cuentas bancarias a que se refiere el presente Reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 114.
 
-En los Informes de Campaña deberá incluirse el porcentaje de gastos genéricos y/o erogaciones que beneficien a dos o más candidaturas, de acuerdo con los criterios de prorrateo utilizados de conformidad con el presente Reglamento.
-
-Junto con los Informes de Campaña, el partido político o coalición deberán presentar tantos anexos A23-PGCCL o A24- PGCLF como sea necesario, que muestren de manera detallada todos los gastos genéricos y/o erogaciones que hayan efectuado y prorrateado, donde se especificarán el porcentaje y los montos asignados a cada una de las campañas en las que hayan sido distribuidos los gastos correspondientes.
+Junto con los Informes de Campaña, el partido político o coalición deberán presentar tantos anexos A23-PGGPCL o A24- PGPCLF como sea necesario, que muestren de manera detallada todos los gastos genéricos y/o erogaciones que hayan efectuado y prorrateado, donde se especificarán el porcentaje y los montos asignados a cada una de las campañas en las que hayan sido distribuidos los gastos correspondientes.
 
 Los montos asentados en dichos anexos deberán hacer referencia al nombre del partido político o coalición, nombre del proveedor, número e importe de la factura, número de la cuenta bancaria de la cual se expidió el cheque, el número del mismo, número de póliza contable y la fecha correspondiente; cabe mencionar que en el A24-PGCLF se deberá de indicar adicionalmente los importes asignados a campañas locales y federales, así como especificar si se trata de gastos realizados por el Órgano Directivo Nacional.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 115.
 
-Si durante el proceso de fiscalización se determinaran diferencias de cálculo en la distribución de los gastos, la Unidad de Fiscalización, lo hará del conocimiento por escrito al partido político o coalición para que en un plazo de diez días hábiles contados a partir del día siguiente de la notificación realice las correcciones y presente tanto las pólizas de los ajustes contables correspondientes, así como los A23-PGCCL o A24-PGCLF y los informes modificados.
+Si durante el proceso de fiscalización se determinaran diferencias de cálculo en la distribución de los gastos, la Unidad de Fiscalización, lo hará del conocimiento por escrito al partido político o coalición para que en un plazo de diez días hábiles contados a partir del día siguiente de la notificación realice las correcciones y presente tanto las pólizas de los ajustes contables correspondientes, así como los A23-PGGPCL o A24-PGPCLF y los informes modificados.
 
-En caso de que el partido político o coalición no presente la documentación a que se hace referencia en el párrafo anterior, la Unidad de Fiscalización efectuará los cálculos y ajustes correspondientes, de acuerdo con los criterios de prorrateo aplicados por el partido político o coalición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 116.
 
-Si durante el proceso de fiscalización se determinara que el partido político o coalición no realizó el prorrateo de algún gasto, debiéndolo hacer en términos de lo dispuesto en los artículos 69 y 70 del presente Reglamento, la Unidad de Fiscalización, lo hará del conocimiento por escrito al partido político o coalición, para que en un plazo de diez días hábiles contados a partir del día siguiente de la notificación presente: las pólizas contables de los ajustes correspondientes, el criterio de prorrateo que siguió y los informes modificados.
+Si durante el proceso de fiscalización se determinara que el partido político o coalición no realizó el prorrateo de algún gasto, debiéndolo hacer en términos de lo dispuesto en los artículos 69, 70 y 71 del presente Reglamento, la Unidad de Fiscalización, lo hará del conocimiento por escrito del partido político o coalición, para que en un plazo de diez días hábiles contados a partir del día siguiente de la notificación presente: las pólizas contables de los ajustes correspondientes, el criterio de prorrateo que siguió y los informes modificados.
 
 Cuando el partido político o coalición no presente la documentación a que se hace referencia en el párrafo anterior, la Unidad de Fiscalización realizará los cálculos y ajustes correspondientes como sigue:
 
@@ -1524,99 +1796,37 @@ XIII. El detalle de aportaciones de Militantes y Organizaciones Adherentes en di
 
 XIV. El detalle de aportaciones de Simpatizantes en dinero y en especie;
 
-XV. La integración detallada del pasivo, y
+XV. La integración detallada del pasivo, y (sic)
 
-XVI. Un informe de la propaganda consistente en diarios, revistas y otros medios impresos, gastos de producción de mensajes para radio y televisión, anuncios espectaculares y propaganda en salas de cine y en páginas de internet, que haya sido publicada, colocada o exhibida durante el periodo de campaña y que aún no haya sido pagada por el partido político o coalición al momento de la presentación de sus informes, especificando el número de póliza de diario con la que se abonó el pasivo correspondiente con cargo a gastos de campaña, así como la orden de servicio expedida por el proveedor o alguna otra documentación que ampare dichos pasivos, en la cual deberá especificarse el importe del servicio prestado. Dichos informes se elaborarán con base en los formatos A25-RPMI, A26-RAEVP, A27-RC y A28-RI, los cuales deberán contener los siguientes datos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-1) En el caso de las inserciones en diarios, revistas y otros medios impresos:
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-a) La especificación de las fechas de cada inserción;
+XVI. El control de eventos de autofinanciamiento.
 
-b) El nombre de la publicación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-c) El número de póliza de diario con la que se creó el pasivo correspondiente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-d) El tamaño de cada inserción;
+XVII. Relación de las personas que recibieron reconocimientos por su participación en actividades políticas, así como el monto total que recibió cada una de ellas durante el periodo correspondiente.
 
-e) El valor unitario de cada inserción, así como el Impuesto al Valor Agregado de cada uno de ellos, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-f) Candidato o candidatos y campaña o campañas beneficiadas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-2) En el caso de los anuncios espectaculares colocados en la vía pública:
+XVIII. Relación de notas de entrada de almacén.
 
-a) La empresa con la que se contrató la producción, diseño y manufactura, así como la renta del espacio y colocación de cada anuncio espectacular;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-b) Las fechas en las que permanecieron los anuncios espectaculares en la vía pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-c) La ubicación de cada anuncio espectacular;
+XIX. Relación de notas de salida de almacén.
 
-d) El número de póliza de diario con la que se creó el pasivo correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-e) Las dimensiones de cada anuncio espectacular;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE DICIEMBRE DE 2012)</small>
 
-f) El valor unitario de cada anuncio espectacular, así como el Impuesto al Valor Agregado de cada uno de ellos, y
-
-g) candidato o candidatos y campaña o campañas beneficiadas.
-
-3) En el caso de la propaganda impresa exhibida en el Sistema de Transporte Colectivo METRO de la Ciudad de México:
-
-a) La empresa con la que se contrató la producción, diseño e impresión, así como el arrendamiento del espacio publicitario de cada anuncio;
-
-b) Fechas en las que permanecieron los anuncios en el Sistema de Transporte Colectivo de la Ciudad de México (METRO);
-
-c) La ubicación de cada anuncio en los vagones, estaciones, pasillos, y corredores de trasbordo;
-
-d) El número de póliza de diario con la que se creó el pasivo;
-
-e) Las dimensiones de cada anuncio;
-
-f) El valor unitario de cada anuncio, así como el Impuesto al Valor Agregado, y
-
-g) El candidato o candidatos y campaña o campañas beneficiadas.
-
-4) En el caso de la propaganda exhibida en transporte público y anuncios luminosos en la vía pública, parabuses, microbuses, camiones, etc:
-
-a) La empresa con la que se contrató la producción, diseño e impresión, así como el arrendamiento del espacio publicitario de cada anuncio;
-
-b) Las fechas en las que permanecieron los anuncios en el transporte público y anuncios luminosos;
-
-c) El número de placas y la renta del transporte público, así como la ubicación de los anuncios luminosos;
-
-d) El número de póliza de diario con la que se creó el pasivo;
-
-e) Las dimensiones de cada anuncio;
-
-f) El valor unitario de cada anuncio, así como el impuesto al Valor Agregado, y
-
-g) El candidato o candidatos y campaña o campañas beneficiadas.
-
-5) En el caso de la propaganda exhibida en salas de cine:
-
-a) La empresa con la que se contrató la exhibición;
-
-b) Las fechas en las que se exhibió la propaganda;
-
-c) La ubicación de las salas de cine en las que se exhibió la propaganda;
-
-d) El número de póliza de diario con la que se creó el pasivo correspondiente;
-
-e) El valor unitario de cada tipo de propaganda exhibida, así como el Impuesto al Valor Agregado de cada uno de ellos, y
-
-f) El candidato o candidatos y campaña o campañas beneficiadas.
-
-6) En el caso de la propaganda contratada en páginas de Internet:
-
-a) La empresa con la que se contrató la colocación;
-
-b) Las fechas en las que se colocó la propaganda;
-
-c) Las direcciones electrónicas en las que se colocó la propaganda;
-
-d) El número de póliza de diario con la que se creó el pasivo correspondiente;
-
-e) El valor unitario de cada tipo de propaganda colocada, así como el Impuesto al Valor Agregado de cada uno de ellos, y
-
-f) El candidato o candidatos y campaña o campañas beneficiadas.
+XX. Un informe de la propaganda consistente en diarios, revistas y otros medios impresos, gastos de producción de mensajes para radio y televisión, anuncios espectaculares y propaganda en salas de cine y en páginas de internet, que haya sido publicada, colocada o exhibida durante el periodo de campaña y que aún no haya sido pagada por el partido político o coalición al momento de la presentación de sus informes, especificando el número y fecha de la póliza de diario con la que se abonó el pasivo correspondiente con cargo a gastos de campaña, así como la orden de servicio expedida por el proveedor o alguna otra documentación que ampare dichos pasivos, en la cual deberá especificarse el importe del servicio prestado. Dichos informes se elaborarán con base en los formatos A25-RPMI, A26-RAEVP, A27-RC y A28-RPI, los cuales deberán contener los siguientes datos: (sic)
 
 ###### Artículo 118.
 
@@ -1640,21 +1850,31 @@ II. Junto con el informe anual que corresponda, se deberá presentar el informe 
 
 Toda la propaganda difundida por los precandidatos, para buscar la candidatura del Partido Político a un cargo de elección popular, deberá contener de manera legible y notoria la leyenda “Proceso de Selección Interna de Candidatos del Partido Político de que se trate”, así como ostentarse como “Precandidato”.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 122.
 
-Si durante los periodos de precampaña, dos o más precandidatos realizan actos de propaganda de manera conjunta, éstos serán distribuidos o prorrateados de acuerdo con los criterios de prorrateo establecidos en los artículos 69 y 70 del presente Reglamento, según sea el caso.
+Si durante los periodos de precampaña, dos o más precandidatos realizan actos de propaganda de manera conjunta, éstos serán distribuidos o prorrateados de acuerdo con los criterios de prorrateo establecidos en los artículos 69, 70 y 71 del presente Reglamento, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 123.
 
-Los egresos reportados en el Informe Consolidado de Selección Interna de Candidatos, serán los efectuados durante el periodo de precampaña de cada partido político, correspondientes a actividades propagandísticas y publicitarias.
+Los egresos reportados en el Informe Consolidado de Selección Interna de Candidatos, serán los efectuados durante los periodos de precampaña de cada partido político, correspondientes a actividades propagandísticas y publicitarias.
 
 Se considerarán gastos de precampaña todos aquellos que tienen por objeto promover, publicitar o apoyar la aspiración de una persona para ser postulada como candidato a un cargo de elección popular en el Distrito Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 124.
 
-Durante los procesos de selección interna el partido político y los precandidatos no podrán contratar por sí mismos o por interpósita persona, publicidad en los medios de comunicación, entre otros: televisión, radio, prensa, teléfono e Internet, de conformidad con los artículos 223 fracción VI párrafo segundo y 231 fracción VII del Código.
-
-En caso de acreditarse dicho supuesto, los Partidos Políticos y precandidatos serán sancionados conforme los artículos 379 fracción I inciso d) y 380 fracción I del Código, respectivamente.
+Durante los procesos de selección interna los partidos políticos y los precandidatos podrán contratar publicidad en prensa, teléfono e internet.
 
 ###### Artículo 125.
 
@@ -1668,6 +1888,10 @@ Cuando los precandidatos o candidatos sean omisos en entregar la información qu
 
 En este supuesto, el Instituto requerirá directamente al precandidato la información o documento solicitado en un plazo de tres días para la primera ocasión, si no se atiende este primer requerimiento se le solicitará nuevamente la información o documento solicitado en un plazo de 24 horas. La omisión o la presentación de documentos o facturas que no sean verificables, en aquellos casos en que trascienda a la imposición de sanciones, ameritará la imposición de una sanción pecuniaria directa al candidato o precandidato. En caso de no cubrirse el monto de la sanción, el Instituto promoverá juicio por desobediencia a mandato legítimo emitido por autoridad competente y solicitará el apoyo de la Tesorería del Distrito Federal para la aplicación de la sanción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 126.
 
 Conjuntamente con el Informe Consolidado de precandidatos triunfadores o perdedores se deberá presentar a la Unidad de Fiscalización la documentación que se detalla:
@@ -1680,31 +1904,43 @@ III. Los controles de folios de los recibos de aportaciones de militantes y simp
 
 IV. El control de folios de los recibos de reconocimientos por actividades políticas, los registros individuales y centralizados, así como la versión en medio magnético;
 
-V. El inventario físico valuado de los bienes adquiridos en las precampañas;
+V. El control de eventos de autofinanciamiento:
 
-VI. La copia del registro de firmas autorizadas para el manejo de cada una de las cuentas bancarias de cheques, inversiones y fideicomisos de los funcionarios facultados para ello;
+VI. El inventario físico valuado de los bienes adquiridos en las precampañas;
 
-VII. El inventario físico de la cuenta de gastos por amortizar;
+VII. La copia del registro de firmas autorizadas para el manejo de cada una de las cuentas bancarias de cheques, inversiones y fideicomisos de los funcionarios facultados para ello;
 
-VIII. El detalle de ingresos por autofinanciamiento;
+VIII. El inventario físico de la cuenta de gastos por amortizar;
 
-IX. El detalle de ingresos por rendimientos financieros, fondos y fideicomisos;
+IX. Detalle de Ingresos de los Precandidatos;
 
-X. El detalle de transferencias internas y copia de la documentación comprobatoria;
+X. Detalle de Egresos de los Precandidatos;
 
-XI. El detalle de aportaciones de Militantes y Organizaciones Adherentes en dinero y en especie;
+XI. El detalle de ingresos por autofinanciamiento;
 
-XII. El detalle de aportaciones de Simpatizantes en dinero y en especie;
+XII. El detalle de ingresos por rendimientos financieros, fondos y fideicomisos;
 
-XIII. La integración detallada del pasivo;
+XIII. El detalle de transferencias internas y copia de la documentación comprobatoria;
 
-XIV. El formato de detalle de ingresos A29-DI debidamente requisitado;
+XIV. El detalle de aportaciones de Militantes y Organizaciones Adherentes en dinero y en especie;
 
-XV. Tantos anexos A23-PGCCL o A24-PGCLF como sea necesario, que muestren de manera detallada todos los gastos que hayan efectuado y prorrateado, donde se especificarán el porcentaje y los montos asignados a cada una de las precampañas en las que hayan sido distribuidos los gastos correspondientes;
+XV. El detalle de aportaciones de Simpatizantes en dinero y en especie;
 
-XVI. Los formatos de reporte de gastos A30-RG1, A31-RG2, A32- RG3, A33-RG4 y A34-RG5, y
+XVI. La integración detallada del pasivo;
 
-XVII. La demás documentación requerida, debidamente requisitada.
+XVII. El formato de detalle de ingresos A29-DI debidamente requisitado;
+
+XVIII. Tantos anexos A23-PGGPCL o A24-PGPCLF como sea necesario, que muestren de manera detallada todos los gastos que hayan efectuado y prorrateado, donde se especificarán el porcentaje y los montos asignados a cada una de las precampañas en las que hayan sido distribuidos los gastos correspondientes;
+
+XIX. Los formatos de reporte de gastos A30-RG1, A31-RG2, A32- RG3, A33-RG4 y A34-RG5;
+
+XX. Relación de las personas que recibieron reconocimientos por su participación en actividades políticas, así como el monto total que recibió cada una de ellas durante el periodo correspondiente;
+
+XXI. Relación de notas de entrada de almacén;
+
+XXII. Relación de notas de salida de almacén; y
+
+XXIII. La demás documentación requerida, debidamente requisitada.
 
 ###### Artículo 127.
 
@@ -1786,9 +2022,11 @@ VII. Los papeles de trabajo y demás información generada con motivo de los pro
 
 La Unidad de Fiscalización tendrá en todo momento la facultad de solicitar al Responsable del partido político o coalición la documentación necesaria para comprobar la veracidad de lo reportado en los informes. El partido político o coalición tendrán la obligación de permitir a la Unidad de Fiscalización el acceso a todos los documentos originales que respalden sus ingresos y egresos, así como a su contabilidad, incluidos sus estados financieros.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 136.
 
-La Unidad de Fiscalización podrá determinar la verificación selectiva de la documentación comprobatoria de los ingresos y egresos del partido político o coalición, a partir de criterios emanados de las Normas y Procedimientos de Auditoría, así como en las Normas de Información Financiera emitidas por el Instituto Mexicano de Contadores Públicos y el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, respectivamente.
+(DEROGADO, G.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Artículo 137.
 
@@ -1808,7 +2046,11 @@ III. En el día y la hora señalada en la fracción I, se iniciará un recorrido
 
 IV. Durante el recorrido el personal de la Unidad de Fiscalización podrá seleccionar bienes que se encuentren en las instalaciones del partido político para identificarlos en el inventario físico valuado proporcionado por el Instituto Político;
 
-V. Al término, de dicho recorrido y, en el supuesto, de que hubieran bienes que no se localizaran físicamente en las instalaciones del partido político o bienes que no se identificaron en el formato A35-LIFAV, se levantará un acta en el que se hará constar estas inconsistencias, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+V. Al término del recorrido se levantará un acta en el que se hará constar su realización y, en el supuesto caso que existieran inconsistencias, tales como bienes que no se localizaran físicamente en las instalaciones del partido político o bienes que no se identificaron en el formato A35-LIFAV, se harán constar en la misma; y
 
 VI. Una vez hecho lo anterior, la Unidad de Fiscalización notificará al partido político las inconsistencias detectadas en el oficio de errores u omisiones.
 
@@ -1816,9 +2058,13 @@ VI. Una vez hecho lo anterior, la Unidad de Fiscalización notificará al partid
 
 La Unidad de Fiscalización informará a cada partido político o coalición, los nombres del personal técnico que se encargará de la verificación documental y contable correspondiente, y señalará el día en que éstos acudirán a las oficinas, o bien para que se realice la entrega de la documentación respectiva en las oficinas de la Unidad de Fiscalización. El personal comisionado deberá identificarse plenamente ante los representantes de los partidos políticos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 140.
 
-El partido político podrá elegir entre invitar a sus oficinas al personal designado para la revisión, o bien enviar la documentación que se les solicite a las oficinas de la Unidad de Fiscalización, con excepción de la documentación señalada en los artículos 86, 87, 92, 108, 117 y 118 del presente Reglamento, así como los anexos necesarios de los informes.
+El Partido Político podrá elegir entre invitar a sus oficinas al personal designado para la revisión, o bien enviar la documentación que se les solicite a las oficinas de la Unidad de Fiscalización, con excepción de la documentación señalada en los artículos 86, 87, 117 y 118 del presente Reglamento, así como los anexos necesarios de los informes.
 
 El partido político o coalición informará por escrito su decisión a la Unidad de Fiscalización, a más tardar en la fecha de la presentación de sus informes.
 
@@ -1878,9 +2124,17 @@ Toda la documentación original propiedad del partido político o coalición, le
 
 El procedimiento para la revisión del Informe Consolidado de Precandidatos ganadores que presente el partido político, se sujetará a las siguientes reglas:
 
-I. Dentro de los cinco días naturales posteriores a la conclusión de las precampañas, el partido político deberá presentar a la Unidad de Fiscalización el Informe Consolidado de precandidatos ganadores, subdividido por candidaturas, el cual deberá considerar la información relativa al origen, destino y monto de los recursos utilizados; así como los informes de gastos de sus precandidatos, para lo cual utilizarán el formato A3-ICSIC;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Junto con el informe deberá presentarse la documentación e información a que hacen referencia los artículos 117 y 118 del presente Reglamento;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+I. Dentro de los cinco días naturales posteriores a la conclusión de las precampañas, el partido político deberá presentar a la Unidad de Fiscalización el Informe Consolidado de precandidatos ganadores, subdividido por candidaturas, el cual deberá considerar la información relativa al origen, destino y monto de los recursos utilizados; así como los informes de gastos de sus precandidatos, para lo cual utilizarán los formatos A3-ICSIC, A3-A y A3-B;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+II. Junto con el informe deberá presentarse la documentación e información a que hacen referencia los artículos 126 y 127 del presente Reglamento;
 
 III. Una vez recibidos los informes y la documentación, la Unidad de Fiscalización contará hasta con diez días naturales para su revisión;
 
@@ -1912,7 +2166,11 @@ V. El señalamiento de las aclaraciones o rectificaciones que presentó el parti
 
 VI. La acreditación de las irregularidades de forma fundada y motivada basada en los elementos de hecho, derecho y técnicas que la Unidad de Fiscalización haya considerado para la emisión de sus conclusiones;
 
-VII. Para el caso en que se detecten irregularidades formales en las que no se involucren recursos o cuya naturaleza no límite el conocimiento del origen, destino, monto, empleo y aplicación de los recursos o la fiscalización, se conminará al partido político por una sola ocasión para que corrija dichas circunstancias, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VII. Para el caso en que se detecten errores u omisiones formales en los que no se involucren recursos o cuya naturaleza no limite el conocimiento del origen, destino, monto, empleo y aplicación de los recursos o la fiscalización, la Unidad de Fiscalización podrá conminar por única vez al partido político para que corrija dichas circunstancias, y
 
 VIII. Un apartado de conclusiones para las irregularidades detectadas en actividades específicas, así como lo relativo al uso de los recursos correspondientes a la generación y fortalecimiento de liderazgos femeninos y juveniles.
 
@@ -1964,9 +2222,13 @@ El partido político o coalición utilizará los formatos A36, A37 y A38 relativ
 
 En la medida de sus necesidades y requerimientos, cada partido político o coalición podrá abrir cuentas adicionales al catálogo para llevar un mejor control contable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 158.
 
-La Unidad de Fiscalización podrá determinar la verificación selectiva de la documentación comprobatoria de los ingresos y egresos del partido político o coalición a partir de criterios emanados de las Normas y Procedimientos de Auditoría, así como en las Normas de Información Financiera emitidos por el Instituto Mexicano de Contadores Públicos y el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, las cuales se detallan en el anexo A-40 del presente Reglamento.
+La Unidad de Fiscalización podrá determinar la verificación selectiva de la documentación comprobatoria de los ingresos y egresos del partido político o coalición a partir de criterios emanados de las Normas de auditoría, para atestiguar, revisión y otros servicios relacionados, Guías de Auditoría, así como en las Normas de Información Financiera emitidos por el Instituto Mexicano de Contadores Públicos y el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, las cuales se detallan en el anexo A-40 del presente Reglamento.
 
 ###### Artículo 159.
 
@@ -2048,17 +2310,25 @@ El partido político que, una vez iniciado el ejercicio, obtenga su registro com
 
 El primer Informe Anual que presente un partido político que haya obtenido su registro en el año inmediato anterior, incluirá todos los ingresos y egresos a partir del día siguiente a aquel en el que obtuvo su registro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 172.
 
-Ningún partido político, coalición, persona física o moral podrá contratar o ceder tiempos en radio y televisión o cualquier otro medio de comunicación, ni difundir mensajes a favor o en contra de algún partido político, coalición, precandidato o candidato.
+Ningún partido político, coalición, persona física o moral podrá contratar o ceder tiempos o publicidad en radio y televisión, para difundir mensajes a favor o en contra de algún partido político, coalición, precandidato o candidato.
 
-Asimismo, durante los periodos en que se desarrolle la selección interna de candidatos locales, ningún partido político o precandidato podrá contratar tiempos en radio, televisión o cualquier otro medio de comunicación que tengan por objeto difundir mensajes a favor o en contra de algún partido político o precandidato. De igual manera, ninguna persona física o moral, podrá contratar o ceder publicidad en televisión, radio, prensa, teléfono e internet para la selección interna de candidatos.
+Por su parte, ningún partido político o coalición por sí mismo o por interpósita persona podrá difundir por cualquier medio de comunicación publicidad en contra de algún partido político, coalición, precandidato o candidato.
 
 Si en el ejercicio de sus facultades, la Unidad de Fiscalización determina que algún partido político, coalición, precandidato o simpatizante de los mismos violó alguna de estas prohibiciones, lo notificará por escrito al Secretario Ejecutivo dentro de los tres días siguientes a que tenga conocimiento, para los efectos legales conducentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 173.
 
-Queda prohibido, en todo momento, que el partido político, coalición, precandidatos o candidatos reciban financiamiento público en especie, consistente en espacios en radio y televisión.
+Queda prohibido, en todo momento, que el partido político, coalición, precandidatos o candidatos reciban financiamiento privado en especie, consistente en espacios en radio y televisión.
 
 En caso de acreditarse dicho supuesto, los Partidos Políticos y candidatos o precandidatos serán sancionados conforme los artículos 379 fracción I inciso d) y 380 fracción I del Código respectivamente.
 
@@ -2082,4 +2352,24 @@ CUARTO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 QUINTO. Remítase para su publicación dentro del plazo de siete días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
-> <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 8 DE JUNIO DE 2011, PAGINAS DE LA 81 A LA 175.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA G.O. DE 8 DE JUNIO DE 2011, PÁGINAS DE LA 81 A LA 175.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LOS ANEXOS EN LA G.O. DE 26 DE DICIEMBRE DE 2012, PÁGINAS DE LA 105 A LA 195.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE DICIEMBRE DE 2012.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+PRIMERO. Se aprueban las Reformas del Reglamento de Fiscalización del Instituto Electoral del Distrito Federal de los Recursos de los Partidos Políticos del Distrito Federal, anexas al presente Acuerdo.
+
+SEGUNDO. Este Acuerdo y la normativa interna que por él se aprueba, entrarán en vigor a partir del primero de enero de dos mil trece.
+
+TERCERO. A partir de la entrada en vigor del presente Acuerdo, se considera derogada toda normativa que contravenga lo dispuesto en las Reformas que se aprueban.
+
+CUARTO. Se instruye al Secretario Ejecutivo de este Instituto Electoral para que dentro de los diez días hábiles siguientes a su aprobación, notifique por oficio el presente Acuerdo y su reglamento a los representantes de los partidos políticos y de las fracciones parlamentarias integrantes del Consejo General, así como por estrados de las oficinas centrales y las cuarenta direcciones distritales de este Instituto Electoral.
+
+QUINTO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales de este Instituto Electoral, para que dentro de los tres días hábiles siguientes a la entrada en vigor de este Acuerdo, realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx
+
+SEXTO. Remítanse a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de la publicación del presente Acuerdo, las Reformas al Reglamento de Fiscalización de los Recursos de los Partidos Político (sic).
