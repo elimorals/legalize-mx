@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-48198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATÁN, PUBLICADA EN EL D.O. 26 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el 3 de enero de 2006.
 
@@ -2395,8 +2397,18 @@ D.O. 27 DE DICIEMBRE DE 2008.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-###### ARTICULO UNICO.
+D.O. 26 DE DICIEMBRE DE 2012.
 
-Este Decreto entrará en vigor, a los 3 días de su publicación en el Periódico Oficial del Estado.
+Artículo Primero.- Esta Ley entrará en vigor el día 1 de enero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-P.O. 17 DE ABRIL DE 1967.
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Acanceh, Yucatán, publicada en el Diario Oficial del Gobierno del Estado el día 3 de Enero de 2006, en el Decreto 645.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables, las reglas que fije el Código Fiscal de la Federación y su reglamento.
+
+TRANSITORIO DEL DECRETO
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto y las leyes contenidas en él, entrarán en vigor el día 1 de enero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
