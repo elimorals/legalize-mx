@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2012-07-19"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -86,6 +86,12 @@ El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en l
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Los comprobantes que se expidan por concepto de pago de derechos, tendrán vigencia hasta el 31 de diciembre del mismo año fiscal de su expedición. Concluida la vigencia únicamente podrá exigirse la contraprestación siempre y cuando se pague la diferencia que pudiera tener el costo presente de la misma, esta actualización no podrá extenderse por más de 5 años, plazo en el cual de manera definitiva quedarán sin efecto el o los pagos, sin derecho a devolución como tampoco a la contraprestación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 3 BIS.- Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos constituidos para contratar financiamientos conforme a la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+
+Para efectos de lo anterior, la Secretaría de Finanzas deberá transferir los ingresos que se recauden de la contribución correspondiente a las cuentas del fideicomiso que para tal efecto se establezca. Asimismo, la Secretaría de Finanzas deberá instruir a las instituciones de crédito y centros comerciales, a través de los cuales se recaude la contribución correspondiente, la transferencia directa de los ingresos derivados de dicha contribución a las cuentas de los fideicomisos antes señalados mediante la celebración de mandatos, convenios o actos jurídicos análogos que tengan tal finalidad.
 
 ###### ARTÍCULO 4.
 
@@ -2430,3 +2436,19 @@ P.O. 19 DE JULIO DE 2012.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días, siguientes a la entrada en vigor de este decreto.
