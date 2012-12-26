@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2010-12-22"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -1181,7 +1181,9 @@ III. Que al Ejecutivo Estatal corresponda la facultad de nombrar la mayoría de 
 
 Los fideicomisos públicos son aquellos que el Estado constituye, con el propósito de auxiliar a las dependencias de la administración pública centralizada en sus atribuciones y con el objeto de impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a los organismos descentralizados. En la constitución de estos fideicomisos, la representación del Estado como fideicomitente estará a cargo del titular de la Secretaría de Finanzas. El Comité Técnico de cada uno de estos fideicomisos será presidido por el titular de la dependencia que el Ejecutivo determine.
 
-Los fideicomisos de fuente de pago alterna, constituidos pera garantizar obligaciones de pago que deriven de contratos para la realización de proyectos de inversión en infraestructura estatal, conforme a lo dispuesto en las leyes de la materia, no serán considerados fideicomisos públicos, ni entidades paraestatales; por lo que su organización, funcionamiento, régimen de inversión y control no estarán sujetos a la normatividad estatal ni a lo dispuesto por esta Ley, rigiéndose en consecuencia por lo previsto en las reglas establecidas en los propios fideicomisos de fuente de pago alterna, de conformidad con la aprobación otorgada por el Congreso del Estado para su constitución y en las disposiciones mercantiles, financieros y demás aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Sólo los fideicomisos a que se refiere el párrafo anterior serán considerados entidades paraestatales. Los fideicomisos que se celebren con fines distintos a los antes señalados, no serán considerados como entidades paraestatales y estarán sujetos a las reglas y supervisión que les sean aplicables conforme a la legislación correspondiente.
 
 ###### Artículo 52.
 
@@ -1229,10 +1231,26 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los doce días del mes de septiembre del año dos mil nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO M. MEDINA FARFAN.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
 Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
