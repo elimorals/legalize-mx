@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-autorizacion-de-licencias-de-14445"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-21"
-last_updated: "1998-10-21"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA LA AUTORIZACION DE LICENCIAS DE FUNCIONAMIENTO RELATIVAS A LA VENTA DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-REGLAMENTO PARA LA AUTORIZACION DE LICENCIAS DE FUNCIONAMIENTO RELATIVAS A LA VENTA DE BEBIDAS ALCOHOLICAS
+REGLAMENTO PARA LA AUTORIZACION DE LICENCIAS DE FUNCIONAMIENTO RELATIVAS A LA VENTA DE BEBIDAS ALCOHOLICAS DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 21 de octubre de 1998.
 
@@ -94,6 +94,10 @@ IV.- Modificaciones;
 a).- Cambio de domicilio;
 
 b).- Cambio de razón social o denominación;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+c) Cambio de Titular;
 
 V.- Cambio o ampliación de giro; y
 
@@ -186,6 +190,26 @@ VII.- Dictamen de uso de suelo, en su caso;
 VIII.- Oficio de ocupación; y
 
 IX.- Cambio de domicilio de Hacienda.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 14 BIS.- La solicitud para el cambio de titular deberá contar con los siguientes requisitos:
+
+I.- Licencia de Funcionamiento
+
+II.- Identificación Oficial del cedente y cesionario, en caso de ser Persona Moral copia del Acta Constitutiva, con copia del poder legal.
+
+III.- En los casos de ausencia del cedente, copia del poder notarial específico para efectuar dicho trámite.
+
+IV.- Copia de acta de nacimiento y acta de defunción (en el caso de que se pase de padres a hijos.)
+
+V.- Cesión de Derechos (suscrita ante la Dirección de Licencias de Funcionamiento).
+
+VI.- Formato de Modificación al Padrón,
+
+VII.- Baja y Alta de Hacienda respectivamente.
+
+VIII.- Dos fotos del interior y Exterior del negocio.
 
 ###### Artículo 15.
 
@@ -396,3 +420,11 @@ C. ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 SECRETARIO DEL HONORABLE AYUNTAMIENTO.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
