@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2010-06-30"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
+LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -119,15 +119,23 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 A los municipios de la entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-I.- Del Fondo General de Participaciones, el 25% del total;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+I.- Del Fondo General de Participaciones, el 20% del total;
 
 II.- Del Fondo de Fomento Municipal, el 100%;
 
-III.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 25% del total;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-IV.- Del impuesto especial sobre producción y servicios, el 25% del total;
+III.- De la recuperación del Impuesto sobre Tenencia o Uso de Vehículos, el 20% del total;
 
-V.- Del Impuesto Sobre Automóviles Nuevos, el 25% del total;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+IV.- Del impuesto especial sobre producción y servicios, el 20% del total;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+V.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
 
 VI.- De la reserva de contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. La cantidad a distribuir se hará de la siguiente forma:
 
@@ -135,7 +143,9 @@ Se iniciará con el municipio que tenga el coeficiente de participación efectiv
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior, será el que resulte de dividir del total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
 
-VII.- De los ingresos extraordinarios que le participe la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 25% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
 
 ###### Artículo 7.
 
@@ -167,15 +177,15 @@ d) El factor obtenido se multiplica en cada municipio por el monto a distribuir 
 
 El Gobierno del Estado, por conducto de la Secretaría de Despacho encargada de la Hacienda Pública, entregará a los municipios las participaciones, de los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6º de la Ley de Coordinación Fiscal de la Federación. De las liquidaciones que haga la Secretaría de Despacho encargada de la Hacienda Pública a los Municipios les entregará constancia pormenorizando cada uno de los conceptos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 9.
 
 Las participaciones que corresponden a los municipios del Estado son inembargables y no estarán sujetas a retención, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9° de la Ley de Coordinación Fiscal de la Federación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -203,7 +213,7 @@ Los recursos que por concepto de aportaciones federales reciban el Estado y los 
 
 Los recursos de los fondos de aportaciones federales que correspondan al Gobierno del Estado podrán ser ejercidos por los Ayuntamientos siempre y cuando existan convenios específicos para tal efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -215,7 +225,25 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 15 bis.- Se instituye el Fondo Morelense para la Seguridad Pública Municipal, que se determinará aplicando, sólo para efectos de referencia, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
+
+I.- Del Fondo General de Participaciones, el 5% del total;
+
+II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 5% del total;
+
+III.- Del impuesto especial sobre producción y servicios, el 5% del total;
+
+IV.- Del Impuesto Sobre Automóviles Nuevos, el 5% del total, y
+
+V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 5% del total.
+
+Este fondo lo administrará el Ejecutivo Estatal a través de la Secretaría de Seguridad Pública y lo asignará en los municipios en la misma proporción de conformidad con los factores que se obtengan de aplicar la fórmula estipulada en el Artículo 7 de la presente Ley. Los recursos de este Fondo podrán ser aplicados en proyectos conjuntos mediante esquemas de colaboración o a la par con la Federación, organismos internacionales u otras entidades que realicen proyectos en materia de seguridad en el Estado de Morelos.
+
+Los municipios del Estado de Morelos podrán presentar proyectos de inversión en materia de seguridad, atendiendo las necesidades y prioridades municipales, a fin de ser financiados por este Fondo. Asimismo, este fondo podrá financiar proyectos intermunicipales, respetando de manera agregada los valores señalados en el párrafo anterior, con el propósito de orientar las políticas en materia de seguridad del ámbito regional.
+
+El monto total de los recursos de este Fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente Artículo, se invertirán hasta en un cinco por ciento para el pago de nóminas, gasto corriente o de operación; el resto se aplicará en infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
 
 ###### Artículo 15.
 
@@ -245,7 +273,7 @@ La distribución por municipios se incluirá en el Presupuesto de Egresos del Go
 
 La Secretaría de Despacho encargada de la hacienda pública, del Poder Ejecutivo y los Ayuntamientos elaborarán conjuntamente el Programa Financiero Anual en aquellos casos en que el Gobierno del Estado asuma obligaciones contingentes u otorgue garantías al municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -405,7 +433,7 @@ L. C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 2 DE MARZO DE 2005.
 
@@ -452,3 +480,21 @@ Primero.- Aprobado que sea el presente, remítase al Ejecutivo para su publicaci
 Segundo.- Los recursos provenientes del Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios, de los ejercicios fiscales anteriores, así como aquéllos que se encuentren en trámite a la entrada en vigor de este Decreto, se podrán substanciar conforme a las disposiciones anteriores.
 
 Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto iniciará su vigencia el día primero de enero del año dos mil trece.
+
+SEGUNDO.- Cuando las condiciones socioeconómicas lo justifiquen, la Comisión Estatal del Agua, a petición de los núcleos sociales relacionados con el tema del agua, saneamiento e infraestructura hidráulica, analizará conjuntamente con la Secretaria de Hacienda, la aplicación de subsidios fiscales en el pago de los derechos por los servicios que presta dicha Comisión.
+
+TERCERO.- En materia de servicios de desarrollo sustentable, los convenios suscritos se sujetarán a las condiciones establecidas en los mismos.
+
+CUARTO.- La Comisión Estatal del Agua, deberá publicar en un plazo de sesenta días hábiles la integración y requisitos del registro de obra hidráulica.
+
+QUINTO.- Se faculta al Titular del Ejecutivo Estatal, a través de la Secretaría de Hacienda, para aplicar durante el ejercicio 2013 un programa de regularización de adeudos fiscales por concepto de contribuciones locales, que incluya condonaciones en los accesorios y de acuerdo a las Reglas de Operación que al efecto expida la propia Secretaría, en un plazo no mayor de sesenta días.
+
+SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales procedentes.
+
+SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
+
+OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
