@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-restaurantes-para-el-municipio-de-cuernavaca-6700
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-18"
-last_updated: "1992-11-18"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE RESTAURANTES PARA EL MUNICIPIO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de noviembre de 1992
 
@@ -199,11 +199,11 @@ IV.- La autorización de funcionamiento de 24 horas, en un establecimiento merca
 
 ### CAPITULO II. DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
-Es atribución del Ayuntamiento a través de su Dirección de Licencias expedir licencias instransferibles, que no contravengan lo preceptuado en este reglamento.
-
-Por lo tanto, requerirán de licencia de funcionamiento expedida por el Ayuntamiento los establecimientos que realicen la actividad señalada en el presente ordenamiento.
+Es atribución del ayuntamiento a través de su Dirección de Licencias de Funcionamiento expedir licencias que no contravengan lo preceptuado en este Reglamento.
 
 ###### Artículo 9.
 
@@ -311,9 +311,11 @@ Las licencias que se hayan otorgado conforme al reglamento, dejarán de surtir e
 
 Obtenida la licencia o permiso, quedan obligados a cumplir con las condiciones de este reglamento y demás obligaciones que se especifiquen en el permiso concedido. La infracción a este mandato se sancionará en los términos previstos en el capítulo correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-La licencia será intransferible y deberá revalidarse anualmente y para ese efecto los interesados, deberán presentar su solicitud, en el mes de enero acompañada de la licencia original, otorgándole un plazo no mayor de 365 días naturales.
+La licencia deberá revalidarse anualmente y para ese efecto los interesados, deberán presentar su solicitud en el mes de enero, acompañada de la licencia original, otorgándole un plazo no mayor de 90 días naturales.
 
 ###### Artículo 18.
 
@@ -323,9 +325,11 @@ Durante el trámite de la revalidación deberá quedar copia de la licencia en e
 
 Una vez recibida la solicitud a que se refiere el Artículo anterior, en un plazo no mayor de 10 días hábiles se autorizará la revalidación solicitada, siempre y cuando subsistan las condiciones originales.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 20.
 
-Los titulares de las licencias están obligados a dar el aviso de baja o cancelación y cambio de domicilio o cambio de razón social, o denominación según sea el caso, ante la Tesorería que actuará a través de la Dirección de Licencias.
+Los titulares de las licencias están obligados a dar el aviso de baja o cancelación y cambio de domicilio o cambio de razón social, o denominación, o cambio de titular según sea el caso ante la Tesorería que actuara a través de la Dirección de Licencias.
 
 ###### Artículo 21.
 
@@ -590,3 +594,11 @@ C. LIC. SERGIO PARRA GONZALEZ
 Secretario General
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
