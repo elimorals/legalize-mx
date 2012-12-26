@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2012-12-07"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "ROO"
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 160 PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2012.</small>
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -361,7 +363,7 @@ II.- Los tutores o custodios, por los delitos de los incapacitados que estén ba
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquéllos;
+III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquellos;
 
 IV.- Las personas físicas, las jurídicas colectivas o que se ostenten como tales, por los delitos que cometa cualquier persona vinculada con aquellos por una relación laboral, con motivo y en el desempeño de sus servicios;
 
@@ -1716,8 +1718,6 @@ BIS.- Si se comete el delito de abigeato sobre un ganado que por sus particulari
 TER.- Se sancionará con prisión de hasta una mitad más de la pena que corresponda, al servidor público que incurra en alguna de las conductas señaladas en el presente Capítulo, así como con la destitución e inhabilitación del cargo que ostente al momento de cometer el ilícito.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
-
-ARTICULO 149{QUATER.- A quien incurra en forma reincidente en las conductas tipificadas como delito en el presente Capítulo, la pena que le corresponda, se aumentará hasta en una mitad más.
 
 ###### ARTICULO 149
 
