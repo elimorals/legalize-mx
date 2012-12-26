@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2012-12-19"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. 26 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -439,9 +441,11 @@ V.- Las que se celebren para la conmemoración de aniversarios históricos o cí
 
 VI.- Las demás que determine el Cabildo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 44.
 
-Las sesiones de Cabildo se celebrarán a convocatoria del Presidente Municipal, previa citación formulada por la Secretaría del Ayuntamiento, con por lo menos veinticuatro horas de anticipación, anexando la información de los asuntos a tratar.
+Las sesiones de Cabildo se celebrarán a convocatoria del Presidente Municipal o en su caso por las dos terceras partes de los integrantes del Cabildo, previa citación formulada por la Secretaria del Ayuntamiento, con cuarenta y ocho horas de anticipación anexando la información de los asuntos a tratar, excepto aquellos que por causa justificada no sea posible integrar a la convocatoria.
 
 ###### Artículo 45.
 
@@ -2290,3 +2294,35 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
 
 TERCERO.- Publíquese en la Gaceta Municipal.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Publíquese en la Gaceta Municipal de Cuernavaca.
+
+TERCERO.- Se instruye a la Secretaría del Ayuntamiento a realizar los trámites y acciones conducentes para dar cumplimiento a lo dispuesto en el presente acuerdo, debiéndose remitir al Congreso del Estado de Morelos.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abrogan el Reglamento de Gobierno y Administración del Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y Libertad" número 4778, de fecha 10 de febrero de 2010 y los reglamentos u ordenamientos de carácter municipal que se opongan al presente ordenamiento.
+
+TERCERO.- En tanto se expiden los Reglamentos y Manuales de Organización que regulen la organización de las Dependencias de la administración que se citan en el presente Reglamento, el Presidente Municipal, o el Cabildo en su caso, quedan facultados para resolver las cuestiones que surjan con motivo de su aplicación.
+
+CUARTO.- los asuntos que se encuentren en trámite conforme a la competencia que les otorga el Reglamento de Gobierno y Administración del Ayuntamiento de Cuernavaca que se abroga, en las diversas Dependencias que dicho Reglamento previene, serán asumidas por las Dependencias reguladas por este ordenamiento, conforme a las atribuciones que el mismo les confiere; la Contraloría Municipal y la Secretaría de Asuntos Jurídicos participarán en este proceso, en los términos que determina este Reglamento y acuerde el Presidente Municipal.
+
+QUINTO.- Para todos los efectos legales correspondientes, las atribuciones que otros ordenamientos municipales le otorguen a la Consejería Jurídica, Secretaría de Protección y Auxilio Ciudadano; Oficialía Mayor y Secretaría de Turismo y Fomento Económico, se entenderán conferidas a la Secretaría de Asuntos Jurídicos, Secretaría de Seguridad Ciudadana, Secretaría de Administración y Secretaría de Desarrollo Económico, respectivamente.
+
+SEXTO.- Los trámites relacionados con licencias de construcción, de uso de suelo, de afectación arbórea, fraccionamientos, lotificación, subdivisión de inmuebles u otros análogos, cuyo conocimiento sea de la actual Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipales y Medio Ambiente del Ayuntamiento, serán asumidos por la Secretaría de Desarrollo Sustentable, conforme a las atribuciones que le confiere el presente Reglamento, una vez que éste entre en vigor.
+
+SÉPTIMO.- Para los efectos de la entrega recepción de la actual Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipales y Medio Ambiente del Ayuntamiento, ésta será recibida mediante acta circunstanciada por la Contraloría Municipal, en los términos de la Ley aplicable, quién deberá hacer la distribución de recursos materiales y humanos así como de los archivos correspondientes entre las Secretarías de Infraestructura, Obras y Servicios Públicos y de Desarrollo Sustentable, conforme a las atribuciones que este Reglamento confiere a cada una de estas Dependencias, inmediatamente a la fecha en que el Cabildo nombre a los respectivos titulares, procurando evitar la parálisis de la función administrativa y la atención al público.
+
+OCTAVO.- Se faculta a la Tesorería Municipal a efectuar las transferencias de recursos que sean necesarias para ajustar el presupuesto aprobado por el Cabildo para el Ejercicio Fiscal 2013 a la estructura orgánica prevista en este Reglamento.
+
+NOVENO.- En un plazo de quince días contados a partir de la fecha de entrada en vigor del presente Reglamento, las unidades administrativas deberán presentar al Presidente Municipal sus proyectos de Reglamentos Internos, Manuales de Procedimientos y de Organización, acordes a la normatividad contenida en este ordenamiento.
+
+DÉCIMO.- En el mismo plazo a que se refiere el artículo anterior, las Unidades Administrativas presentaran sus propuestas de modificación a los respectivos Programas Operativos Anuales, ajustándolos a las atribuciones y competencias que determina el presente Reglamento.
+
+DÉCIMO PRIMERO.- Publíquese en la Gaceta Municipal y désele la difusión correspondiente.
