@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2012-07-19"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -142,6 +142,14 @@ f) Se embarguen precautoriamente los bienes, el establecimiento o la negociació
 g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales, y
 
 X. Las demás que le otorguen otras leyes o disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Los ingresos derivados de las contribuciones previstas en la presente ley previa autorización del Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos que contraten financiamientos conforme a la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Para efectos de lo anterior, las Tesorerías Municipales de cada Ayuntamiento deberán transferir los ingresos que se recauden de la contribución correspondiente a las cuentas del fideicomiso que para tal efecto se establezcan. Asimismo, en aquellos casos en que las contribuciones se recauden a través de instituciones de crédito o comercios, las Tesorerías Municipales de cada Ayuntamiento deberán instruir a las instituciones de crédito y comercios, a través de los cuales se recaude la contribución correspondiente, la transferencia directa de los ingresos derivados de dicha contribución a las cuentas de los fideicomisos antes señalados mediante la celebración de mandatos o convenios.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2541,21 +2549,21 @@ II. Cooperación para Obras Públicas.
 
 ## TITULO OCTAVO. DE LAS PARTICIPACIONES
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 149.
 
-Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Campeche, de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, la Ley de Coordinación Hacendaria, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos, los cuales ingresarán íntegramente a la Tesorería Municipal.
+Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Campeche, de acuerdo a lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos; los cuales ingresarán íntegramente a la Tesorería Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO NOVENO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 150.
 
-Los Fondos de Aportaciones Federales, se percibirán en los plazos, por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, la Ley de Coordinación Hacendaria y la Ley de Presupuesto de Egresos del Estado de Campeche, los cuales ingresarán íntegramente a la Hacienda Municipal y serán destinados y ejercidos de conformidad con lo establecido en la Ley de Coordinación Fiscal.
+Los Fondos de Aportaciones Federales, se percibirán en los plazos y por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, la Ley de Coordinación Hacendaria y la Ley de Presupuesto de Egresos del Estado de Campeche, los cuales ingresarán íntegramente a la Hacienda Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios. Estos recursos serán destinados y ejercidos de conformidad con lo establecido en la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2728,3 +2736,19 @@ P.O. 19 DE JULIO DE 2012.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
