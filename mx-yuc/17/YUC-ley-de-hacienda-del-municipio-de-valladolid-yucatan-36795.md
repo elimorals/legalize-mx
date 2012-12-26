@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-36795"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2009-12-17"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATÁN, PUBLICADA EN EL D.O. DE 26 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -2021,8 +2023,22 @@ D.O. 27 DE DICIEMBRE DE 2008.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-P.O. 17 DE DCIEMBRE DE 2009.
+D.O. 17 DE DCIEMBRE DE 2009.
 
 ###### ARTÍCULO UNICO.
 
 Este Decreto entrará en vigor el primero de Enero del año 2010, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- Esta Ley entrará en vigor el día 1 de enero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Valladolid, Yucatán, publicada en el Diario Oficial del Gobierno del Estado el día 31 de diciembre de 2003, en el Decreto 379.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+TRANSITORIO DEL DECRETO
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto y las leyes contenidas en él, entrarán en vigor el día 1 de enero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
