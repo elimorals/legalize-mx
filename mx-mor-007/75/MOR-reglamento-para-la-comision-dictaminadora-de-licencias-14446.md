@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-comision-dictaminadora-de-licencias-14446"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-21"
-last_updated: "1998-10-21"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA LA COMISION DICTAMINADORA DE LICENCIAS RELATIVAS A LA VENTA Y/O CONSUMO DE BEBIDAS ALCOHOLICAS, DEL MUNICIPIO DE CUERNAVACA
 
-REGLAMENTO PARA LA COMISION DICTAMINADORA DE LICENCIAS RELATIVAS A LA VENTA Y/O CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE CUERNAVACA, MORELOS
+REGLAMENTO PARA LA COMISIÓN DICTAMINADORA DE LICENCIAS RELATIVAS A LA VENTA Y/O CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 21 de octubre de 1998.
 
@@ -117,7 +117,9 @@ b).- Aperturas;
 
 c).- Ampliación de horario (horas extras);
 
-d).- Modificaciones (cambio de domicilio y/o razón social); y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+d).- Modificaciones (cambio de domicilio y/o razón social y/o cambio de titular); y
 
 e).- Cambio o ampliación de giro de negocios en funcionamiento de Establecimientos con Venta y/o Consumo de Bebidas Alcohólicas.
 
@@ -268,3 +270,11 @@ C. ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 SECRETARIO H. AYUNTAMIENTO.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
