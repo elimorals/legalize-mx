@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-y-sus-municipios-51
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2010-12-23"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 19 de septiembre de 2006.
 
@@ -439,7 +441,7 @@ En cumplimiento de la dispuesto por los Artículos 48,49 y 71 fracción XVIII de
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a las Once días del mes de Septiembre del año Dos mil seis. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SUBSECRETARIO "A" DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO POR AUSENCIA DEL TITULAR, LIC. RICARDO MEDINA FARFAN.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE OCTUBRE DE 2010.
 
@@ -452,3 +454,19 @@ P.O. 23 DE DICIEMBRE DE 2010.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57,58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días, siguientes a la entrada en vigor de este decreto.
