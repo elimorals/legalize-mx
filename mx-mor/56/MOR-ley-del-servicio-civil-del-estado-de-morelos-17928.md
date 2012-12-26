@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2008-09-24"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MOR"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 
-JORGE ARTURO GARCÍA RUBÍ GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
+JORGE ARTURO GARCÍA RUBÍ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
@@ -79,7 +81,7 @@ Con este ánimo, en el Estado de Morelos, perseguimos con la presente tres objet
 
 Cabe señalar que en esta Ley se recogieron las propuestas resultantes de la consulta a las organizaciones de trabajadores al servicio del Estado, así como a empleados públicos y profesionales en la materia.
 
-Por lo anterior, presentamos ante Ustedes la Ley del Servicio Civil compuesta en la siguiente forma:
+Por lo anterior, presentamos ante Ustedes la Ley de Servicio Civil compuesta en la siguiente forma:
 
 ELEMENTOS DE LA REFORMA
 
@@ -145,11 +147,27 @@ i). El personal adscrito presupuestalmente a las Secretarías Particulares o Ayu
 
 j). Los Secretarios Particulares de Secretario o equivalente, Subsecretario, Coordinador General y Director General de las dependencias del Gobierno o Municipios o sus equivalentes en sus entidades públicas;
 
-###### ARTICULO 5.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-Se consideran trabajadores de base todas las categorías que con esa clasificación consigne el catálogo de empleos.
+###### Artículo 5.
 
-###### ARTICULO 6.
+Se consideran trabajadores de base aquellos que no sean eventuales y los que no se incluyan las funciones dentro del artículo 4 y en la siguiente clasificación de trabajadores de confianza:
+
+I.- En el Poder Ejecutivo Estatal: Los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Consejero Jurídico; los Subsecretarios; los Coordinadores Generales; el Procurador Fiscal; los Directores Generales; los Asesores y Secretarios Particulares; los Directores de Área; los Subdirectores; los Jefes de Departamento; los que integran las plantillas de las unidades administrativas bajo la adscripción directa del titular del Poder Ejecutivo, para tareas de asesoría, apoyo técnico y de coordinación.
+
+II.- En el Poder Legislativo: Secretario de Administración y Finanzas; Secretario de Servicios Legislativos y Parlamentarios; el Auditor Superior de Fiscalización; Directores Generales; Directores; Directores de Área; Subdirectores; Coordinadores y Secretarios Técnicos; Asesores; Investigadores y Jefes de Departamento.
+
+(NOTA: EL 20 DE ENERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III.- En el Poder Judicial: LOS JUECES DE PRIMERA INSTANCIA Y MENORES; el Oficial Mayor y el Secretario General de Acuerdos de cada uno de los Tribunales que integran el Poder Judicial del Estado de Morelos; los Secretarios de Acuerdos; los Secretarios de Estudio y Cuenta; los Actuarios y Notificadores de los Juzgados de Primera Instancia y Menores; los Administradores de Oficina; el Magistrado Visitador General; los Jueces Auxiliares del Magistrado Visitador General; el Secretario General de Acuerdos del Consejo de la Judicatura Estatal, Secretarios Particulares, Asesores; Coordinadores y el Director General de Administración.
+
+(NOTA: EL 20 DE ENERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+IV.- En los Municipios: El Secretario del Ayuntamiento; Secretarios, Subsecretarios; el Oficial Mayor o su equivalente; el Tesorero Municipal; el Contralor; los Oficiales del Registro Civil; Cajeros; Recaudadores e Inspectores; Asesores; Coordinadores; el Consejero; Director o Asesor Jurídico; Jefes; Subjefes; Directores y Subdirectores de Dependencias o Departamentos; Secretario Particular y ayudantes directos del Presidente Municipal; LOS JUECES DE PAZ; los Secretarios de Acuerdos de los Juzgados de Paz y los Actuarios de los Juzgados de Paz.
+
+Y todos los demás servidores públicos con niveles presupuestales o equivalentes a los mencionados en las fracciones anteriores.
+
+###### Artículo 6.
 
 Los trabajadores eventuales son aquellos que prestan sus servicios en favor del Gobierno del Estado o algún Municipio en forma temporal, ya sea cubriendo algún interinato o por alguno de los supuestos que señala la presente Ley, sin que el tiempo de duración de la relación laboral exceda de seis meses.
 
@@ -159,11 +177,13 @@ Los trabajadores no incluidos en la enumeración anterior serán de base y en co
 
 Ningún trabajador podrá adquirir el carácter de empleado de base sino hasta que transcurran seis meses de la fecha de su ingreso, con nombramiento definitivo a una plaza que no sea de confianza o de su reingreso en las mismas condiciones anteriores y la solicitud de basificación deberá realizarse por el sindicato que corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
-Esta Ley regirá las relaciones laborales entre los Poderes del Estado o los Municipios con sus trabajadores de base. Los empleados de confianza y los eventuales sólo tendrán los derechos que les sean aplicables de acuerdo con esta Ley y la costumbre.
+Esta Ley regirá las relaciones laborales entre los poderes del Estado y los Municipios con sus trabajadores.
 
-Los beneficios de la seguridad social son aplicables a todos los trabajadores mencionados en el Artículo 2 de este ordenamiento.
+Los trabajadores de confianza, sólo disfrutarán de las medidas de protección al salario y gozarán de los beneficios de seguridad social, por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejarán de surtir sus efectos los nombramientos que se les hayan otorgado, de conformidad con lo dispuesto por los artículos 123 apartado B fracción XIV de la Constitución Política de los Estados Unidos Mexicanos y 40 fracción XX inciso M) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### Artículo 9.
 
@@ -263,9 +283,11 @@ IV.- Por fallo del Tribunal Estatal de Conciliación y Arbitraje competente.
 
 Queda estrictamente prohibido el traslado de trabajadores para prestar sus servicios en dependencia distinta a la de su adscripción, ya sea en calidad de comisionados o de índole similar, para dependencias de un mismo Poder, Ayuntamiento, Entidad Paraestatal o Paramunicipal o entre éstas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-En ningún caso el cambio de titulares en el Gobierno del Estado o en los Municipios podrá afectar los derechos de los trabajadores.
+En ningún caso el cambio de titulares en el Gobierno del Estado o en los Municipios podrá afectar los derechos de los trabajadores, con excepción de los trabajadores catalogados como de confianza por el artículo 4 de esta Ley.
 
 ### CAPÍTULO II. DE LA SUSPENSIÓN DE LOS EFECTOS
 
@@ -297,9 +319,11 @@ Los trabajadores que tengan a su cuidado manejo de fondos, podrán ser suspendid
 
 NOMBRAMIENTO
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
-Ningún trabajador amparado por la presente Ley, podrá ser cesado sino por causa justificada.
+Ningún trabajador de base amparado por la presente Ley, podrá ser cesado sino por causa justificada.
 
 ###### Artículo 24.
 
@@ -465,9 +489,11 @@ Los trabajadores al servicio del Gobierno del Estado o de los Municipios, tendr�
 
 ### CAPÍTULO I. DE LOS DERECHOS DE LOS TRABAJADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 43.
 
-Los trabajadores del Gobierno del Estado y de los Municipios tendrán derecho a:
+Los trabajadores de base del Gobierno del Estado y de los Municipios tendrán derecho a:
 
 I.- Percibir el salario asignado en el presupuesto anual de egresos para el cargo que desempeñan;
 
@@ -504,6 +530,10 @@ XVI.- La percepción hasta por el importe de doce meses de salario mínimo gener
 XVII.- Los útiles, instrumentos y materiales necesarios para la realización del trabajo; y
 
 XVIII.- Las demás que les confieran otras Leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Los trabajadores de confianza tendrán derecho a las prerrogativas contenidas en este precepto, con excepción de los derechos contenidos en las fracciones II y III, respectivamente.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
@@ -575,7 +605,9 @@ XII.- Preferir en igualdad de condiciones a los trabajadores sindicalizados, res
 
 XIII.- Aceptar los laudos que dicte la autoridad competente. En los casos de supresión de plazas o reestructuración de la dependencia, los trabajadores afectados tendrán derecho a que se les otorgue una indemnización por el importe de 90 días de salario, siempre y cuando no se utilicen sus servicios en la nueva estructura.
 
-XIV.- De acuerdo con la partida que en el presupuesto de egresos se haya fijado para tal efecto, cubrir la indemnización por separación injustificada, cuando los trabajadores hayan optado por ella y pagar, en una sola exhibición, los salarios caídos que nunca podrán ser superiores a seis meses, prima vacacional, aguinaldos y demás prestaciones que establezca el laudo definitivo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XIV.- De acuerdo con la partida que en el presupuesto de egresos se haya fijado para tal efecto, cubrir la indemnización por separación injustificada, cuando los trabajadores de base hayan optado por ella y pagar en una sola exhibición, los salarios caídos que nunca podrán ser superiores a seis meses, prima vacacional, aguinaldos y demás prestaciones que establezca el laudo definitivo.
 
 XV.- Cubrir las aportaciones que fijen las Leyes correspondientes, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
@@ -611,7 +643,7 @@ e).- Por razones de carácter personal del trabajador;
 
 XVII.- Cubrir oportunamente el salario devengado, así como las primas, aguinaldo y otras prestaciones que de manera ordinaria o extraordinaria se devenguen por los trabajadores; y
 
-XVIII Permitir al trabajador la asistencia a asambleas y actos sindicales a solicitud del sindicato, dejándose las guardias necesarias y de tal manera que no se alteren con frecuencia las labores que tenga asignadas.
+XVIII.- Permitir al trabajador la asistencia a asambleas y actos sindicales a solicitud del sindicato, dejándose las guardias necesarias y de tal manera que no se alteren con frecuencia las labores que tenga asignadas.
 
 ###### Artículo 46.
 
@@ -653,9 +685,13 @@ Cuando se trate de cubrir interinatos de menos de seis meses, no se correrá el 
 
 Al ser ascendido un trabajador de base a un puesto de confianza quedarán en suspenso sus relaciones con el sindicato a que pertenezca y los derechos y prerrogativas que le concede esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 52.
 
-Cuando el Tribunal Estatal de Conciliación y Arbitraje califique como injusta la causa del cese, el trabajador será reinstalado inmediatamente en su puesto, pagándosele los salarios caídos que no excederán del importe de seis meses.
+Cuando el Tribunal Estatal de Conciliación y Arbitraje califique como injusta la causa del cese, el trabajador de base será reinstalado inmediatamente en su puesto, pagándosele los salarios caídos que no excederán del importe de seis meses.
+
+Los Poderes del Estado y sus Municipios no estarán obligados a reinstalar a los trabajadores de confianza pero si cubrirles las demás prestaciones a que tengan derecho.
 
 ###### Artículo 53.
 
@@ -665,7 +701,7 @@ Cuando desaparezca una dependencia por supresión de partida o por reorganizaci�
 
 ### CAPÍTULO ÚNICO. DE LAS PRESTACIONES SOCIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 54.
 
@@ -681,7 +717,7 @@ IV.- Despensa familiar mensual, cuyo monto nunca será menor a siete salarios m�
 
 V.- Seguro de vida, cuyo monto no será menor de cien meses de salario mínimo general vigente en el Estado por muerte natural, y doscientos meses de salario mínimo general vigente en el Estado por muerte accidental;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
 
 VI.- Los beneficios derivados por riesgos y enfermedades de trabajo y por enfermedades no laborales, maternidad y paternidad.
 
@@ -747,7 +783,7 @@ II. Hoja de servicios expedida por el servidor público competente del Gobierno 
 
 III. Carta de certificación del salario expedida por la dependencia o entidad pública a la que se encuentre adscrito el trabajador; y
 
-IV. Dictamen de la Institución de Seguridad Social correspondiente, en el cual se decrete la invalidez definitiva.
+IV.- Dictamen de la Institución de Seguridad Social correspondiente, en el cual se decrete la invalidez definitiva.
 
 B).- Tratándose de pensión por viudez, orfandad o ascendencia, además de los previstos en el apartado que antecede, se deberán exhibir los siguientes documentos:
 
@@ -769,7 +805,7 @@ EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE
 
 La pensión por jubilación se otorgará a los trabajadores que hayan prestado sus servicios en cualquiera de los tres Poderes del Estado y/o de los Municipios, de conformidad con las siguientes disposiciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2005)</small>
 
 I.- La pensión por jubilación solicitada por los trabajadores, se determinará de acuerdo con los porcentajes de la tabla siguiente:
 
@@ -821,7 +857,7 @@ Para los efectos de disfrutar ésta prestación, la antigüedad puede ser interr
 
 Para recibir ésta pensión no se requiere edad determinada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2005)</small>
 
 II.- Las trabajadoras tendrán derecho a su jubilación de conformidad con el siguiente orden:
 
@@ -873,7 +909,7 @@ Para efecto de disfrutar esta prestación, la antigüedad se entiende como el ti
 
 Para recibir esta prestación no se requiere edad determinada.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE JUNIO DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE JUNIO DE 2008)</small>
 
 (ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -897,7 +933,7 @@ e).- Por catorce años de servicio 70%
 
 f).- Por quince años de servicio 75%
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 18 DE JUNIO DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE JUNIO DE 2008)</small>
 
 (REFORMADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -1465,11 +1501,11 @@ VÍCTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE ENERO DE 2002.
 
-DECRETO No. 354, QUE REFORMA LOS ARTICULOS 58 Y 65.
+DECRETO NÚMERO 354, QUE REFORMA LOS ARTÍCULOS 58 Y 65.
 
 > <small>(F. DE E., P.O. 11 DE ENERO DE 2002)</small>
 
@@ -1481,7 +1517,7 @@ SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos 
 
 P.O. 11 DE ENERO DE 2002.
 
-DECRETO No. 355, QUE REFORMA EL ARTICULO 60.
+DECRETO NÚMERO 355, QUE REFORMA EL ARTÍCULO 60.
 
 > <small>(F. DE E., P.O. 11 DE ENERO DE 2002)</small>
 
@@ -1516,3 +1552,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Artículo Primero.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico "Tierra y Libertad", órgano de difusión del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de rango jerárquico normativo igual o inferior que se opongan al presente Decreto.
