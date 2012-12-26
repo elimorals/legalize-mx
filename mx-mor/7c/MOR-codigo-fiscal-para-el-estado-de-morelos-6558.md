@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-6558"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-12-27"
-last_updated: "2008-07-16"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE MORELOS
 
-CODIGO FISCAL PARA EL ESTADO DE MORELOS
+CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 1995.
 
@@ -387,17 +387,29 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 31.
 
-Cuando no se cubran las contribuciones en la fecha y dentro del plazo fijado en las disposiciones fiscales, deberán pagarse recargos por concepto de indemnización al fisco por la falta de pago oportuno.
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho período que corresponda. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
 
-Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las contribuciones la tasa que fije anualmente la Ley de Ingresos del Estado para cada uno de los meses transcurridos entre el término señalado para el cumplimiento de la obligación y la fecha en que se realice el pago.
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-Los recargos se causarán por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos no excederán del 200% del importe del crédito fiscal.
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente. La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Hacienda a exigir del librador el pago del importe del mismo, los recargos y una indemnización que será el 20% del valor del cheque, sin perjuicio de que se tenga por no cumplida la obligación y se cobren los créditos, recargos y sanciones que sean procedentes. Esta indemnización y los demás créditos se harán efectivos mediante el procedimiento administrativo de ejecución.
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales y del ejercicio, no será deducible ni acreditable.
 
-En caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal, así como a los valores de bienes u operaciones de que se traten, será 1.
+
+Cuando no se cubran las contribuciones en la fecha y dentro del plazo fijado en las disposiciones fiscales, además de actualizar su monto desde el mes que debió hacerse el pago y hasta que el mismo ese (sic) efectúe, deberán pagarse recargos por concepto de indemnización al fisco por la falta de pago oportuno
+
+Los recargos se calcularán sobre el total del crédito fiscal y se causarán hasta por cinco años y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el noveno párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las contribuciones las tasas que fije anualmente la Ley de Ingresos del Estado para el caso de saldos insolutos por cada uno de los meses transcurridos entre el término señalado para el cumplimiento de la obligación y la fecha en que se realice el pago o cuando se trate de prórroga para la realización del pago o en el caso de pagos en parcialidades.
+
+Los recursos se causarán por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago.
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente. La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Hacienda del Poder Ejecutivo del Estado de Morelos a exigir del librador el pago del importe del mismo, los recargos y una indemnización que será el 20% del valor del cheque, sin perjuicio de que se tenga por no cumplida la obligación y se cobren los créditos, recargos y sanciones que sean procedentes. Esta indemnización y los demás créditos se harán efectivos mediante el procedimiento administrativo de ejecución.
+
+En caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el séptimo párrafo de este artículo.
 
 ###### ARTICULO 32.
 
@@ -485,11 +497,15 @@ III.- Conceder subsidios o estímulos fiscales y cancelarlos cuando previa audie
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 39.
 
-La Secretaría de Hacienda a través de la Subsecretaría de Ingresos, podrá condonar total o parcialmente las multas y los recargos por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción; pudiendo celebrar los convenios de regularización fiscal respectivos.
+La Secretaría de Hacienda del Poder Ejecutivo del Estado de Morelos a través de la Subsecretaría de Ingresos, podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción; pudiendo celebrar los convenios de regularización fiscal respectivos.
 
-La solicitud de condonación de multas y recargos en su caso, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se solicita y se garantiza el interés fiscal.
 
@@ -2326,3 +2342,21 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto iniciará su vigencia el día primero de enero del año dos mil trece.
+
+SEGUNDO.- Cuando las condiciones socioeconómicas lo justifiquen, la Comisión Estatal del Agua, a petición de los núcleos sociales relacionados con el tema del agua, saneamiento e infraestructura hidráulica, analizará conjuntamente con la Secretaría de Hacienda, la aplicación de subsidios fiscales en el pago de los derechos por los servicios que presta dicha Comisión.
+
+TERCERO.- En materia de servicios de desarrollo sustentable, los convenios suscritos se sujetarán a las condiciones establecidas en los mismos.
+
+CUARTO.- La Comisión Estatal del Agua, deberá publicar en un plazo de sesenta días hábiles la integración y requisitos del registro de obra hidráulica.
+
+QUINTO.- Se faculta al Titular del Ejecutivo Estatal, a través de la Secretaría de Hacienda, para aplicar durante el ejercicio 2013 un programa de regularización de adeudos fiscales por concepto de contribuciones locales, que incluya condonaciones en los accesorios y de acuerdo a las Reglas de Operación que al efecto expida la propia Secretaría, en un plazo no mayor de sesenta días.
+
+SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales procedentes.
+
+SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
+
+OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
