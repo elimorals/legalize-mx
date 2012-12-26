@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-vivienda-del-estado-de-morelos-6645"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-14"
-last_updated: "2010-06-09"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO TERCERO DEL DECRETO NÚMERO DOSCIENTOS DIECISÉIS POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, PARA EL EJERCICIO FISCAL DEL 1° DE ENERO AL 31 DE DICIEMBRE DEL AÑO DOS MIL TRECE PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2012, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de septiembre de 1988.
 
@@ -520,3 +522,9 @@ SEGUNDO. El Director General del Instituto de Vivienda del Estado de Morelos, co
 TERCERO. La junta de gobierno del Instituto de Vivienda del Estado de Morelos, contará con un plazo de treinta días hábiles siguientes a esta publicación para aprobar las modificaciones necesarias al Reglamento Interior, y una vez publicadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, y su respectiva publicación en el Periódico Oficial "Tierra y Libertad", de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO DOSCIENTOS DIECISÉIS.- POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, PARA EL EJERCICIO FISCAL DEL 1° DE ENERO AL 31 DE DICIEMBRE DEL AÑO DOS MIL TRECE”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad" e iniciará su aplicación a partir del 1° de enero del año 2013.
