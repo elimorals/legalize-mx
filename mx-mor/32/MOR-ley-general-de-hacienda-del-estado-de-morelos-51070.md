@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2012-06-13"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 1776 PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -323,6 +321,8 @@ Son responsables solidarios en el pago de este impuesto los que organicen, manej
 
 BASE Y TASA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 32.
 
 Es base del impuesto:
@@ -331,91 +331,73 @@ I. De espectáculos y variedades: Tasa
 
 a) Festivales taurinos:
 
-1. Corridas de toros, sobre el ingreso 12%
+1. Corridas de toros, sobre el ingreso percibido
 
-percibido por el 12% boletaje vendido y
+por el boletaje vendido y el equivalente a los pases
 
-el equivalente a los pases o cortesías;
+o cortesías; 6%
 
-2. Novilladas y charreadas, sobre el 12%
+2. Novilladas y charreadas, sobre el ingreso
 
-ingreso percibido por el boletaje
+percibido por el boletaje vendido y el equivalente
 
-vendido y el equivalente a los pases
+a los pases o cortesías; 6%
 
-o cortesías;
+b) Ferias y palenques, por el boletaje vendido y el
 
-b) Ferias y palenques, por el boletaje 12%
+equivalente a los pases o cortesías; 6%
 
-vendido y el equivalente a los
+c) Lucha libre y box, sobre el ingreso percibido por
 
-pases o cortesías;
+el boletaje vendido, y el equivalente a los pases o
 
-c) Lucha libre y box, sobre el ingreso 12%
+cortesías. 6%
 
-percibido por el boletaje vendido,
+d) Eventos Deportivos: Fútbol, béisbol y otros
 
-y el equivalente a los pases o cortesías
+espectáculos similares, sobre el ingreso percibido
 
-d) Eventos Deportivos: Fútbol, béisbol 12%
+por el boletaje vendido y el equivalente a los pases
 
-y otros espectáculos similares, sobre
-
-el ingreso percibido por el boletaje
-
-vendido y el equivalente a los pases
-
-o cortesías;
+o cortesías; 6%
 
 e) Bailes:
 
-1. Sobre los ingresos por el boletaje 12%
+1. Sobre los ingresos por el boletaje vendido y el
 
-vendido y el 12% equivalente a los
+equivalente a los pases o cortesías; sin que el monto
 
-pases o cortesías; sin que el monto
+del impuesto sea inferior a diez días de salario
 
-del impuesto sea inferior a diez días
+mínimo general vigente en el Estado, cuando se
 
-de salario mínimo general vigente en
+celebren en lugares públicos o privados si se cobra
 
-el Estado, cuando se celebren en
+por la entrada en cualquier forma de venta (boletos
 
-lugares públicos o privados si se cobra
+o de invitaciones, cuotas, donativos, cooperación,
 
-por la entrada en cualquier forma de
+guardarropa, reservaciones de mesa, por pieza de
 
-venta (boletos o de invitaciones, cuotas,
+baile, por rifas, venta de objetos); 6%
 
-donativos, cooperación, guardarropa,
+2. Sobre el total de los gastos, pero sin que el monto
 
-reservaciones de mesa, por pieza de
+del impuesto sea inferior a siete días de salario
 
-baile, por rifas, venta de objetos);
+mínimo general vigente en el Estado, cuando se
 
-2. Sobre el total de los gastos, pero sin que 12%
+celebren en lugares públicos o privados si no se
 
-el monto del 12% impuesto sea inferior a
+cobra por la entrada y los gastos se eroguen por
 
-siete días de salario mínimo general vigente
+los organizadores o por los asistentes; 6%
 
-en el Estado, cuando se celebren en lugares
+II. Otros espectáculos y variedades no especificados,
 
-públicos o privados si no se cobra por la
+sobre el ingreso percibido por el boletaje vendido y el
 
-entrada y los gastos se eroguen por los
-
-organizadores o por los asistentes;
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
-
-II. Otros espectáculos y variedades no 8%
-
-especificados, sobre el ingreso percibido
-
-por el boletaje vendido y el equivalente a
-
-los pases o cortesías.
+equivalente a los pases o cortesías. 4%
 
 PAGO
 
@@ -579,33 +561,29 @@ Son responsables solidarios en el pago de estos impuestos los que organicen, man
 
 BASE Y TASA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 53.
 
 Es base del impuesto:
 
-I.- Lotería, juegos permitidos en apuestas y la obtención de premios en apuestas permitidas:
+Lotería, juegos permitidos en apuestas y la obtención de premios en apuestas permitidas:
 
-a) Sorteos o rifas: 6%
+a) Sorteos o rifas: 4%
 
 Sobre el ingreso percibido por boletaje vendido;
 
-b) Otros juegos no especificados, 6%
+b) Otros juegos no especificados, sobre el ingreso
 
-sobre el ingreso percibido por
+percibido por el boletaje vendido; 4%
 
-el boletaje vendido;
+c) Por la obtención de premios en sorteos, loterías
 
-c) Por la obtención de premios en 6%
+o rifa, sobre el ingreso percibido en premios; y 0%
 
-sorteos, loterías o rifa, sobre el
+d) Por la obtención de premios en apuestas
 
-ingreso percibido en premios; y
-
-d) Por la obtención de premios en 12%
-
-apuestas permitidas, sobre el monto
-
-del premio obtenido.
+permitidas, sobre el monto del premio obtenido. 4%
 
 El Estado percibirá el monto que le corresponde de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta.
 
@@ -803,11 +781,9 @@ DISPOSICIONES GENERALES
 
 8.- La realización de pagos por concepto del Impuesto Sobre Nóminas, no causará el Impuesto Adicional, a que se refiere esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO POR ARTÍCULO VIGÉSIMO PRIMERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
-
-Artículo 58 BIS-9.- Del total de los recursos que genere el Impuesto sobre Nóminas, se destinará un sesenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo.
+Artículo 58 BIS-9. Del total de los recursos que genere el Impuesto sobre Nóminas, se destinará un cincuenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de los Ayuntamientos Municipales, Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, organismos descentralizados estatales y municipales, fideicomisos públicos estatales y municipales; que no se integrará al referido Fondo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1069,9 +1045,9 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO SEXTO. SERVICIOS DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
+### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 76.
 
@@ -1181,7 +1157,13 @@ XXVIII. Por concepto de verificación en campo de un inmueble: cinco días de sa
 
 XXIX. Por la inscripción de concesiones para la prestación de servicio público 30 días de salario mínimo general en el Estado.
 
-Un porcentaje del total de los ingresos percibidos en el presente artículo serán destinados a los programas de equipamiento e infraestructura del Registro Público, mismo que será modificado de acuerdo con las necesidades del área y se determinará en la correspondiente Ley de Ingresos del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Un porcentaje del total de los ingresos percibidos en el presente artículo serán destinados a los programas de equipamiento e infraestructura del Instituto de Servicios Registrales y Catastrales del Estado de Morelos, mismo que será modificado de acuerdo con las necesidades del área y se determinará en el correspondiente Presupuesto de Egresos del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Los fedatarios públicos que conforme a las disposiciones fiscales, retengan los derechos a que se refiere el presente artículo, deberán enterarlos ante la oficina recaudadora de la Secretaría de Hacienda, en un plazo que no excederá de 15 días hábiles, contados a partir del día siguiente al en que se hubiera realizado la retención. En caso de que los derechos a que se refiere este artículo causen el Impuesto Adicional, éste deberá enterarse en el mismo plazo. El incumplimiento en el entero de las cantidades retenidas, dentro del plazo señalado, originará la causación de los recargos moratorios en el porcentaje que se estable en la Ley de Ingresos del Gobierno del Estado para el ejercicio que corresponda.” (sic)
 
 ###### Artículo 78.
 
@@ -1297,7 +1279,79 @@ IV. En los casos no previstos expresamente, los derechos por servicios que se pr
 
 V. Están exentos del pago de los derechos que establece este Capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
-### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
+### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 93 BIS. El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
+
+EN MATERIA DE AGUA Y SANEAMIENTO Tarifa en SMGV
+
+a) Maniobra de extracción de equipo de bombeo de
+
+pozo profundo con grúa a distancia de 50 Km. De
+
+Cuernavaca; 32
+
+b) Maniobra de instalación de equipo de bombeo
+
+de pozo profundo con grúa a distancia de 50 Km. de
+
+Cuernavaca;
+
+c) Traslado de maquinaria pesada (grúa) en KM
+
+subsecuente; 0.3
+
+d) Colocación o desinstalación de dosificador
+
+de cloro; 5.0
+
+e) Aforo con equipo digital; 15
+
+f) Detección de fuga de agua con equipo digital en
+
+líneas o redes, y 17
+
+g) Revisión electromecánica de sistemas
+
+de agua. 7.5
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 93 BIS-1. Por el estudio, trámite y expedición del dictamen de factibilidad de obra hidráulica, incluyendo su inscripción en el Registro de Obras Hidráulicas a cargo de la Comisión Estatal del Agua, se pagará el derecho conforme a las siguientes cuotas:
+
+a) Por cada dictamen de factibilidad de obra hidráulica, deberá pagar a la Comisión Estatal de Agua, por concepto de derechos el 2% del monto total presentado para la obtención del respectivo dictamen.
+
+b) Por cada dictamen de factibilidad de estudio o proyecto de obra hidráulica, incluyendo su registro, deberán pagar por concepto de derechos el 2% del monto total estimado o contratado para la realización del estudio o proyecto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 93 BIS-2. Por la elaboración total o parcial de estudios de pre inversión, proyectos ejecutivos y/o técnicos en materia de agua, se pagará el derecho, conforme a las siguientes cuotas:
+
+a) Por la elaboración total del proyecto ejecutivo de 25,000 a 50,000 SMGV.
+
+b) Por la elaboración total del estudio de pre inversión de 8,500 a 25,000 SMGV.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 93 BIS-3. Por la elaboración de estudios básicos, relacionados con topografía, geología hidrología hidráulica y/o ingeniería de 1,500 a 50,000 SMGV.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 93 BIS-4. Las aguas residuales provenientes de plantas de tratamiento podrán ser aprovechadas y reutilizadas para actividades donde el público usuario este expuesto directamente o en contacto físico y actividades donde el público en general este expuesto indirectamente o en contacto físico incidental y de acceso restringido.
+
+La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
+
+a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 4.5 SMGV.
+
+b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 3.5 SMGV.
+
+c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
+
+d) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1.5 SMGV.
+
+e) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1 SMGV.
 
 ###### Artículo 82.
 
@@ -1377,7 +1431,7 @@ derechos establecidos en el Capítulo
 
 Décimo Séptimo del presente Título:
 
-### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
 ###### Artículo 83.
 
@@ -1485,9 +1539,9 @@ Séptimo del presente Título.
 
 XIV. (DEROGADA, P.O. 16 DE JUNIO DE 2010)
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
+### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
 ###### Artículo 84.
 
@@ -1506,6 +1560,12 @@ b) Automovilista $ 90.00
 c) Motociclista $ 70.00
 
 d) Turista $150.00
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+e) Operador del servicio de transporte
+
+público $150
 
 1.2. Con vigencia de tres años:
 
@@ -1531,7 +1591,7 @@ a) Automovilista $180.00
 
 b) Motociclista $150.00
 
-1.5. Seguro de vida: tarifa de acuerdo con lo que se convenga con la compañía aseguradora:
+1.5. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 1.6. Reposición:
 
@@ -1841,7 +1901,7 @@ Los demás derechos regulados en este Capítulo, se pagarán en el momento en qu
 
 ###### Artículo 84 Bis
 
-1.- Las personas físicas o morales, propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos, y las solicitantes de los servicios a que se refiere este capítulo tienen las siguientes obligaciones:
+1. Las personas físicas o morales, propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos, y las solicitantes de los servicios a que se refiere este capítulo tienen las siguientes obligaciones:
 
 I.- Solicitar la inscripción del vehículo automotor de que se trate en el padrón estatal vehicular, dentro de los treinta días naturales siguientes de su adquisición; en el caso de vehículos recuperados o rehabilitados que se hayan acreditado como robados o siniestrados, los propietarios o poseedores contarán con un plazo de treinta días naturales posteriores a la fecha de recuperación o rehabilitación para solicitar la inscripción al padrón estatal vehicular, previo pago de los derechos por servicios de control vehicular que corresponda.
 
@@ -1853,6 +1913,18 @@ IV.- Son responsables solidarios en los trámites de baja del padrón estatal ve
 
 V.- Las personas físicas o morales que adquieran vehículos nuevos o usados y que no cuenten con placas metálicas de circulación expedidas por el Gobierno del Estado de Morelos, deberán solicitar la inscripción al padrón vehicular estatal y realizar el pago de los derechos por servicios de control vehicular correspondientes, dentro de los treinta días naturales siguientes a la fecha de su adquisición
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VI.- Acreditar la inscripción de la unidad vehicular de que se trate, en los términos de la Ley de Registro Público Vehicular, mediante la exhibición de la constancia de inscripción correspondiente, previo a la solicitud de alta, expedición de placas metálicas de circulación, calcomanías, autorizaciones, permisos, cambio de propietario, tarjeta de circulación, pago de contribuciones, gravámenes, permisos y autorizaciones de carga, expedición de concesiones del servicio público de pasajeros y de carga y sus refrendos. En caso de no comprobarse dicha inscripción, la autoridad competente no dará trámite a ninguna solicitud de las mencionadas en esta fracción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VII.- Son responsable solidarios, los servidores públicos que sin cerciorarse de la inscripción en el Registro Público Vehicular, tramiten algunas de las solicitudes mencionadas en la fracción anterior.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
@@ -1861,327 +1933,263 @@ V.- Las personas físicas o morales que adquieran vehículos nuevos o usados y q
 
 2.- La falta de presentación de los avisos a que se refiere este Capítulo dará lugar a la imposición de sanciones en términos de lo dispuesto en el artículo 183 del Código Fiscal para el Estado de Morelos.
 
-### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-RELATIVOS A INMUEBLES
+Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos contenidos en la fracción II del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la Secretaría de Hacienda.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
 
 ###### Artículo 85.
 
-El pago de derechos por la prestación de servicios que proporcione la Comisión Estatal del Agua y Medio Ambiente, se causarán en la siguiente forma:
+El pago de derechos por la prestación de servicios en materia de desarrollo sustentable, se causarán y pagarán en la siguiente forma:
 
-EN MATERIA DE VERIFICACIÓN Tarifas en pesos o días de
+I. EN MATERIA DE VERIFICACIÓN Tarifas en días de
 
-VEHICULAR: salario mínimo vigente en el
+VEHICULAR: salario mínimo general
 
-Estado, según corresponda
+vigente en el Estado.
 
-a) Por otorgamiento de autorización para establecer, 650 SMGV
+a) Por otorgamiento de autorización para establecer,
 
 equipar y operar un centro de verificación Vehicular
 
 en el Estado de Morelos, por cada equipo analizador
 
-de gases, con vigencia de cinco años;
+de gases, con vigencia de cinco años; 650 SMGV
 
-b) Por otorgamiento de revalidación de la autorización 40 SMGV
+b) Por otorgamiento de revalidación de la autorización
 
 anual para operar un Centro de Verificación Vehicular
 
 en el Estado de Morelos, por cada equipo analizador
 
-de gases;
+de gases; 40 SMGV
 
-c) Por la renovación de la autorización para establecer, 100 SMGV
+c) Por la renovación de la autorización para establecer,
 
-equipar y operar un Centro de Verificación Vehicular
+equipar y operar un Centro de Verificación Vehicular en
 
-en el Estado de Morelos, por cada equipo analizador
+el Estado de Morelos, por cada equipo analizador de
 
-de gases, con vigencia de cinco años;
+gases, con vigencia de cinco años; 100 SMGV
 
-d) Por la alta o baja del registro de un técnico 5 SMGV
+d) Por la alta o baja del registro de un técnico verificador
 
-verificador de Centro de Verificación Vehicular;
+de Centro de Verificación Vehicular; 5 SMGV
 
-e) Por el costo de la Verificación Vehicular Uno; $120.00
+e) Por el costo de la Verificación Vehicular Uno; $ 120.00
 
 f) Por el costo de la Verificación Vehicular Cero; 5 SMGV
 
-g) Por el costo de la Verificación Vehicular Doble 10 SMGV
+g) Por el costo de la Verificación Vehicular Doble
 
-Cero;
+Cero; 10 SMGV
 
-II (SIC). EN MATERIA DE IMPACTO AMBIENTAL:
+II. EN MATERIA DE IMPACTO AMBIENTAL:
 
-a) Por evaluación y autorización de informe 100 SMGV
+a) Por evaluación y autorización de informe
 
-preventivo;
+preventivo; 100 SMGV
 
-b) Por evaluación y autorización de manifestación de
+b) Por evaluación y autorización de manifestación
 
-impacto ambiental de obras o actividades en las
+de impacto ambiental de obras o actividades en las
 
-siguientes modalidades:
+siguientes modalidades: 150 SMGV
 
-1. General; 150 SMGV
+1. General;
 
 2. Intermedia, y 250 SMGV
 
-3. Específica, y 350 SMGV
+3. Específica. 350 SMGV
 
-c) Por la expedición de dictamen para no 2 SMGV
+c) Por la expedición de dictamen para no sujetarse
 
-sujetarse al procedimiento de evaluación
+al procedimiento de evaluación del impacto
 
-del impacto Ambiental;
+Ambiental; 2 SMGV
 
-III. EN MATERIA DE SANEAMIENTO DE
+III. EN MATERIA DE DIFUSIÓN Y CULTURA AMBIENTAL:
 
-CUENCAS:
+a) Por la venta de material didáctico (ejemplar) y
 
-a) Por la venta de composta (por metro cúbico), con 2 SMGV
+videos (pieza), y 1 SMGV
 
-excepción de la que realicen particulares sin fines
+b) Por la recepción de pilas para su disposición final
 
-comerciales; y
+por kilo; EXENTO
 
-b) Por la recepción de lodos, residuos provenientes 1 SMGV
+IV. EN MATERIA DEL PARQUE ECOLÓGICO CHAPULTEPEC Y CENTRO ESTATAL DE CAMBIO CLIMÁTICO Y EDUCACIÓN AMBIENTAL LOCALIZADO EN EL PARQUE SAN MIGUEL ACAPANTZINGO
 
-de fosas sépticas y sanitarios portátiles (por metro
+1.- ADMISIÓN GENERAL AL PARQUE ECOLÓGICO CHAPULTEPEC:
 
-cúbico);
+a) Niños menores a 1.50 metros de estatura; $10.00
 
-IV. EN MATERIA DE DIFUSIÓN Y CULTURA
+b) Niños mayores a 1.50 metros de estatura; $10.00
 
-AMBIENTAL:
+c) Adultos; $10.00
 
-a) Por la venta de material didáctico (ejemplar) y 1 SMGV
+d) Adultos Mayores y Discapacitados; EXENTO
 
-videos (pieza), y
+e) Estudiantes, y $10.00
 
-b) Por la recepción de pilas para su disposición final EXENTO
+f) Maestros. $10.00
 
-por kilo;
+2.- ATRACCIONES CONCESIONADAS DEL PARQUE ECOLÓGICO CHAPULTEPEC:
 
-V. EN MATERIA DEL PARQUE ECOLÓGICO
+a) Herpetario; $10.00
 
-CHAPULTEPEC Y CENTRO ESTATAL DE CAMBIO
+b) Guacamayas; $10.00
 
-CLIMÁTICO Y EDUCACIÓN AMBIENTAL LOCALIZADO
+c) Granjita Paraíso , y $10.00
 
-EN EL PARQUE SAN MIGUEL ACAPANTZINGO:
+d) Eco lanchas. $10.00
 
-1.- ADMISIÓN GENERAL AL PARQUE ECOLÓGICO
-
-CHAPULTEPEC:
-
-a) Niños menores a 1.50 metros de estatura $10.00
-
-b) Niños mayores a 1.50 metros de estatura $10.00
-
-c) Adultos $10.00
-
-d) Adultos Mayores y Discapacitados EXENTO
-
-e) Estudiantes $10.00
-
-f) Maestros $10.00
-
-2.- ATRACCIONES CONCESIONADAS DEL PARQUE
-
-ECOLÓGICO CHAPULTEPEC:
-
-a) Herpetario $10.00
-
-b) Guacamayas $10.00
-
-c) Granjita Paraíso $10.00
-
-d) Eco lanchas $10.00
-
-3.- ATRACCIONES PROPIAS DEL PARQUE
-
-ECOLÓGICO CHAPULTEPEC:
+3.- ATRACCIONES PROPIAS DEL PARQUE ECOLÓGICO CHAPULTEPEC:
 
 a) Tren $10.00
 
-b) Cabaña $10.00
+b) Cabaña; $10.00
 
-c) Planet rio (sic) $10.00
+c) Planetario; $10.00
 
-d) Casa del terror $15.00
+d) Casa del terror, y $15.00
 
-e) Eurobongie $30.00
+e) Eurobongie. $30.00
 
-4.- PAQUETES DEL PARQUE ECOLÓGICO
+4.- PAQUETES DEL PARQUE ECOLÓGICO CHAPULTEPEC:
 
-CHAPULTEPEC:
+a) Paquete 1 preprimaria y kínder admisión general y
 
-a) Paquete 1 preprimaria y kínder admisión general $30.00
+3 atracciones; $30.00
 
-y 3 atracciones
+b) Paquete 2 primaria admisión general y
 
-b) Paquete 2 primaria admisión general y 3 atracciones $37.00
+3 atracciones; $37.00
 
-c) Paquete 3 primaria completo admisión general $50.00
+c) Paquete 3 primaria completo admisión general y
 
-y 4 atracciones
+4 atracciones; $50.00
 
-d) Paquete 4 secundaria y preparatoria admisión $45.00
+d) Paquete 4 secundaria y preparatoria admisión
 
-general y 5 atracciones
+general y 5 atracciones; $45.00
 
-e) Paquete 5 secundaria y preparatoria completo $58.00
+e) Paquete 5 secundaria y preparatoria completo
 
-admisión general y 5 atracciones, incluye casa del
+admisión general y 5 atracciones, incluye casa
 
-terror
+del terror, y $58.00
 
-f) Paquete cumpleaños 20 admisiones generales, $2,700.00
+f) Paquete cumpleaños 20 admisiones generales,
 
-2 atracciones, 1 comida
+2 atracciones, 1 comida. $2,700.00
 
-5.- OTROS SERVICIOS DEL PARQUE ECOLÓGICO
+5.- OTROS SERVICIOS DEL PARQUE ECOLÓGICO CHAPULTEPEC:
 
-CHAPULTEPEC:
+Acceso a trotapista de 6:00 a 9:00 horas
 
-Acceso a trotapista de 6:00 a 9:00 horas (corredores) $2.00
+(corredores); $2.00
 
-Acceso a trotapista de 6:00 a 9:00 horas paquete $50.00
+Acceso a trotapista de 6:00 a 9:00 horas paquete
 
-30 días (corredores)
+30 días (corredores); $50.00
 
-Venta de alimento para animales $2.00
+Venta de alimento para animales; $2.00
 
-Renta de local comercial 20 metros cuadrados $1,500.00
+Renta de local comercial 20 metros cuadrados
 
-(mensual)
+(mensual); $1,500.00
 
-Renta de local comercial 40 metros cuadrados $3,000.00
+Renta de local comercial 40 metros cuadrados
 
-(mensual)
+(mensual); $3,000.00
 
-Renta de puesto semifijo (por día) $200.00
+Renta de puesto semifijo (por día); $200.00
 
-Ambulantes (por día) $50.00
+Acceso para vendedores ambulantes (por día), y $50.00
 
-Exposiciones semifijas (por día) $150.00
+Exposiciones semifijas (por día). $150.00
 
-6.- ADMISIÓN GENERAL AL CENTRO ESTATAL DE
+6.- ADMISIÓN GENERAL AL CENTRO ESTATAL DE CAMBIO CLIMÁTICO Y EDUCACIÓN AMBIENTAL LOCALIZADO EN EL PARQUE SAN MIGUEL ACAPANTZINGO:
 
-CAMBIO CLIMÁTICO Y EDUCACIÓN AMBIENTAL
+a) Niños menores a 1.50 metros de estatura; $10.00
 
-LOCALIZADO EN EL PARQUE SAN MIGUEL
+b) Niños mayores a 1.50 metros de estatura; $10.00
 
-ACAPANTZINGO:
+c) Adultos; $10.00
 
-a) Niños menores a 1.50 metros de estatura $10.00
+d) Adultos Mayores y Discapacitados; EXENTO
 
-b) Niños mayores a 1.50 metros de estatura $10.00
+e) Estudiantes, y $10.00
 
-c) Adultos $10.00
+f) Maestros. $10.00
 
-d) Adultos Mayores y Discapacitados EXENTO
+V. EN MATERIA DE GESTIÓN INTEGRAL DE RESIDUOS:
 
-e) Estudiantes $10.00
+a) Autorización de transporte desde o hacia la
 
-Maestros $10.00
+entidad de residuos sólidos urbanos y de manejo
 
-VIII (SIC). EN MATERIA DE PLANEACIÓN Y
+especial; 8.1 SMGV
 
-PROTECCIÓN AMBIENTAL:
+b) Autorización de transporte de residuos de manejo
 
-a) Autorización de transporte desde o hacia la entidad 8.1 SMGV
+especial; 8.1 SMGV
 
-de residuos sólidos urbanos y de manejo especial;
+c) Autorización de transferencia de residuos sólidos
 
-> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
+urbanos y de manejo especial; 11.3 SMGV
 
-b) Autorización de transporte de residuos de manejo 8.1 SMGV
-
-especial;
-
-> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
-
-c) Autorización de transferencia de residuos sólidos 11.3 SMGV
-
-urbanos y de manejo especial;
-
-d) Autorización de almacenamiento temporal y centros 11.3 SMGV
+d) Autorización de almacenamiento temporal y centros
 
 de acopio de residuos sólidos urbanos y de manejo
 
-especial;
+especial; 11.3 SMGV
 
-e) Autorización de instalación de un Centro de 11.3 SMGV
+e) Autorización de instalación de un Centro de
 
-Composteo;
+Composteo; 11.3 SMGV
 
-f) Autorización de procesamiento de lodos activados 15.4 SMGV
+f) Autorización de procesamiento de lodos activados
 
 que no sean considerados como peligrosos,
 
 provenientes de plantas de tratamiento de aguas
 
-residuales;
+residuales; 15.4 SMGV
 
-g) Autorización de tratamientos térmicos, químicos, 15.4 SMGV
+g) Autorización de tratamientos térmicos, químicos,
 
-físicos o biológicos;
+físicos o biológicos; 15.4 SMGV
 
 h) Autorización de disposición final; 15.4 SMGV
 
-i) Autorización de remediación de suelos y sitios 15.4 SMGV
+i) Autorización de remediación de suelos y sitios
 
-contaminados por residuos, y
+contaminados por residuos, y 15.4 SMGV
 
-> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
+j) Registro de plan de manejo de residuos de
 
-j) Registro de plan de manejo de residuos de manejo 13.1 SMGV
+manejo especial; 13.1 SMGV
 
-especial;
+VI. EN MATERIA DE PROTECCIÓN AL AMBIENTE
 
-12 (SIC) EN MATERIA DE AGUA Y SANEAMIENTO:
+a) Planta forestal $10.00
 
-a) Maniobra de extracción de equipo de bombeo, 32 SMGV
+b) Planta frutal $10.00
 
-pozo profundo con grúa a una distancia de 50 KM.
-
-de Cuernavaca;
-
-b) Maniobra de instalación de equipo de bombeo 32 SMGV
-
-de pozo profundo, con grúa a una distancia de
-
-50 KM. de Cuernavaca;
-
-c) Traslado de maquinaria pesada (grúa) en Km. 0.3 SMGV
-
-subsecuentes;
-
-d) Colocación o desinstalación de dosificador de 5.0 SMGV
-
-cloro;
-
-e) Aforo con equipo digital en líneas o redes de 15 SMGV
-
-agua;
-
-f) Detección de fuga de agua con equipo digital en 17 SMGV
-
-líneas o redes, y
-
-g) Revisión electromecánica de sistemas de agua. 7.5 SMGV
-
-No causarán el Impuesto Adicional, los derechos por los servicios a que se refieren los incisos e), f) y g), de la fracción I, los incisos a) y b) de la fracción III, incisos a) y b) de la fracción IV y todos los incisos de la fracción V.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+No causarán el Impuesto adicional los derechos por los servicios a que se refieren los incisos e), f) y g), de la fracción I, los incisos a) de la fracción III y todos los incisos de la fracción IV.
 
 ###### Artículo 86.
 
-Los montos del cobro por los conceptos de derechos contemplados en las fracciones VI a XXVII del artículo anterior, serán aprobados anualmente por el Congreso a propuesta de la Junta del Gobierno del Organismo y los costos de los derechos se incluirán en la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+
+RELATIVOS A INMUEBLES
 
 ###### Artículo 87.
 
@@ -2191,13 +2199,17 @@ Los derechos por la prestación de servicios de Verificación Vehicular obligato
 
 Son sujetos de los derechos establecidos en este Capítulo, las personas jurídico-individuales o físicas y jurídico-colectivas o morales tanto propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 89.
 
-Todos los vehículos automotores en circulación registrados en el Estado de Morelos, deben ser sometidos a verificación en los periodos que establezca el Programa de Verificación Obligatoria de Emisiones Contaminantes, ante los Centros de Verificación Vehicular autorizados por el Gobierno del Estado de Morelos a través del Organismo Público Descentralizado denominado, Comisión Estatal de Agua y Medio Ambiente, como lo establece la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
+Todos los vehículos automotores en circulación registrados en el Estado de Morelos, deben ser sometidos a verificación en los periodos que establezca el Programa de Verificación Obligatoria de Emisiones Contaminantes, ante los Centros de Verificación Vehicular autorizados por el Poder Ejecutivo del Estado de Morelos a través de la Secretaría de Desarrollo Sustentable, como lo establece la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 90.
 
-Los Derechos por concepto de verificación vehicular los administrará el Organismo Público Descentralizado denominado, Comisión Estatal de Agua y Medio Ambiente.
+Los derechos por concepto de verificación vehicular los ejercerá la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2211,13 +2223,17 @@ Los vehículos que no hayan sido verificados en los plazos y condiciones estipul
 
 El importe de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, deberá ser liquidado directamente, en los términos que establezca para el caso el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 93.
 
-Los ingresos que perciba el Estado por los servicios de verificación vehicular, se recaudarán por el Organismo Público Descentralizado denominado, Comisión Estatal de Agua y Medio Ambiente y registrarán contablemente como propios e invariablemente sólo podrán ser destinados a los Programas de mejoramiento del medio ambiente que tenga autorizados dicho organismo, estos recursos por ningún motivo podrán aplicarse al gasto operativo.
+Los ingresos que perciba el Estado por los servicios de verificación vehicular, se recaudarán a través de la Secretaría de Hacienda del Poder Ejecutivo del Estado de Morelos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
-
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS QUE PRESTA EL ORGANISMO DESCENTRALIZADO DENOMINADO OPERADOR DE CARRETERAS DE CUOTA
 
 ###### Artículo 94.
 
@@ -2297,7 +2313,9 @@ VI. Por la prestación del Servicio de Escolta, por cada elemento:
 
 3. Tarifa mensual $22,500.00
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE LA CONTRALORÍA
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 95.
 
@@ -2349,13 +2367,11 @@ IX. Otros servicios: $2,000.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
+### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
-
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 97.
 
@@ -2573,9 +2589,13 @@ Credenciales para el $50.00
 
 personal administrativo
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 100.
 
@@ -2647,9 +2667,7 @@ X. Otros servicios: 0.5 días de salario.
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO TERCERO
-
-UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
+### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
 
 ###### Artículo 103.
 
@@ -2675,7 +2693,9 @@ d) De 31 días de salario en adelante 2.50
 
 II. Los actos, contratos y convenios no incluidos en la fracción anterior: 1.50
 
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+### CAPÍTULO TERCERO
+
+UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
 
 ###### Artículo 104.
 
@@ -2787,7 +2807,7 @@ Los derechos por servicios no especificados en esta Ley serán determinados por 
 
 Están exentos del pago de estos derechos las dependencias del Gobierno del Estado, siempre y cuando la solicitud de su servicio sea mediante oficio, en el cual motive la razón de su petición.
 
-### CAPÍTULO QUINTO. ALMACENAJE
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
 
 ###### Artículo 106.
 
@@ -2949,15 +2969,21 @@ Después de 100,000 M2 se aplicarán cuatro días de salario más, por cada 10,0
 
 VIII. Por asesoría técnica en regularización para fines catastrales, respecto del dictamen de procedencia: 10 días de salario mínimo general vigente en el Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO QUINTO. ALMACENAJE
+
 ###### Artículo 107.
 
-El Organismo Público Estatal Descentralizado denominado “OPERADOR DE CARRETERAS DE CUOTA”, cobrará los derechos por concepto de cuotas de peaje en carreteras de cuota del Estado de Morelos, mediante las tarifas que para tal efecto apruebe su Junta de Gobierno anualmente, mismas que serán incluidas en la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
+Por los servicios de carreteras de cuota del Estado de Morelos se cobrarán las cuotas de peaje mediante las tarifas que se establezcan en los Convenios que al efecto celebre y apruebe la Secretaría de Hacienda del Estado, previa autorización del Congreso Local.
 
 Los ingresos recaudados por los derechos a que se refiere el párrafo anterior serán destinados para el cumplimiento del objeto del mismo Organismo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 108.
 
-Por el servicio de vigilancia, inspección y control que las Leyes de la materia encomiendan a la Secretaría de la Contraloría del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe total del contrato adjudicado.
+Por el servicio de vigilancia, inspección y control con respecto a los contratos de obra pública y de prestación de servicios que celebre el Gobierno del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
 
@@ -3277,7 +3303,9 @@ VIII. Indemnizaciones;
 
 IX. Administración de contribuciones federales y municipales;
 
-X. (DEROGADA, P.O. 16 DE MAYO DE 2012)
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+X. Venta de bases para licitaciones públicas.
 
 XI. Aprovechamiento por concepto de viáticos; y
 
@@ -3494,3 +3522,21 @@ P.O. 16 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones legales análogas o similares previstas en las Leyes de Ingresos de los Municipios del Estado de Morelos vigentes y demás disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto iniciará su vigencia el día primero de enero del año dos mil trece.
+
+SEGUNDO.- Cuando las condiciones socioeconómicas lo justifiquen, la Comisión Estatal del Agua, a petición de los núcleos sociales relacionados con el tema del agua, saneamiento e infraestructura hidráulica, analizará conjuntamente con la Secretaría de Hacienda, la aplicación de subsidios fiscales en el pago de los derechos por los servicios que presta dicha Comisión.
+
+TERCERO.- En materia de servicios de desarrollo sustentable, los convenios suscritos se sujetarán a las condiciones establecidas en los mismos.
+
+CUARTO.- La Comisión Estatal del Agua, deberá publicar en un plazo de sesenta días hábiles la integración y requisitos del registro de obra hidráulica.
+
+QUINTO.- Se faculta al Titular del Ejecutivo Estatal, a través de la Secretaría de Hacienda, para aplicar durante el ejercicio 2013 un programa de regularización de adeudos fiscales por concepto de contribuciones locales, que incluya condonaciones en los accesorios y de acuerdo a las Reglas de Operación que al efecto expida la propia Secretaría, en un plazo no mayor de sesenta días.
+
+SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales procedentes.
+
+SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
+
+OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
