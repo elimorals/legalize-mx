@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-coordinacion-hacendaria-del-estado-de-campeche-13671"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2008-07-01"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE CAMPECHE
 
-LEY DE COORDINACION HACENDARIA DEL ESTADO DE CAMPECHE
+LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el martes 31 de diciembre de 1996.
 
@@ -55,9 +55,11 @@ Esta ley propiciará una mayor participación de los Municipios en la administra
 
 Los Convenios de Coordinación y de Colaboración Administrativa que se celebren entre el Estado y los Municipios o éstos entre sí, contendrán las disposiciones específicas y generales de acuerdo con las bases y contenidos mínimos que establecen esta ley y demás leyes aplicables; dichos convenios deberán someterse a la aprobación de la Legislatura del Estado y publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 4º.
 
-Esta ley, será aplicable en tanto no contravenga las obligaciones hacendarias del Estado con la Federación derivadas de la legislación federal vigente en materia hacendaria y de los Convenios de Coordinación, de Colaboración Administrativa y otros que éstos celebren; así como lo establecido por la Ley Orgánica de los Municipios del Estado, la Ley de Control Presupuestal y Gasto Público del Estado, y la Ley de Deuda Pública del Estado.
+Esta ley, será aplicable en tanto no contravenga las obligaciones hacendarias del Estado con la Federación derivadas de la legislación federal vigente en materia hacendaria y de los Convenios de Coordinación, de Colaboración Administrativa y otros que éstos celebren; así como lo establecido por la Ley Orgánica de los Municipios del Estado, la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche, y la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ## TITULO SEGUNDO. DEL SISTEMA ESTATAL DE COORDINACION HACENDARIA Y DE LOS ORGANOS DE LA COORDINACION HACENDARIA
 
@@ -89,15 +91,23 @@ I. El Gobernador del Estado de Campeche;
 
 II. Los Presidentes de los Ayuntamientos de cada uno de los Municipios del Estado;
 
-III. El Secretario de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+III. El Secretario de Finanzas del Gobierno del Estado;
 
 IV. Los Tesoreros de cada uno de los Ayuntamientos de los Municipios;
 
-V. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-VI. El Subsecretario de Administración de la Secretaría de Finanzas y Administración; y
+V. El Subsecretario de Ingresos de la Secretaría de Finanzas;
 
-VII. El Tesorero de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VI. El Secretario de Administración e Innovación Gubernamental; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+VII. El Subsecretario de Egresos de la Secretaría de Finanzas.
 
 ###### Art. 8º.
 
@@ -143,15 +153,23 @@ XIII. Las demás que sean necesarias para una mejor coordinación hacendaria en 
 
 La Comisión Permanente de Funcionarios Hacendarios del Estado de Campeche, estará integrada por:
 
-I. El Secretario de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+I. El Secretario de Finanzas del Gobierno del Estado;
 
 II. Los Tesoreros de los Ayuntamientos de cada uno de los Municipios del Estado;
 
-III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-IV. El Subsecretario de Administración de la Secretaría de Finanzas y Administración, y
+III. El Subsecretario de Ingresos de la Secretaría de Finanzas;
 
-V. El Tesorero de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+IV. El Secretario de Administración e Innovación Gubernamental, y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+V. El Subsecretario de Egresos de la Secretaría de Finanzas.
 
 ###### Art. 12.
 
@@ -181,15 +199,21 @@ VII. Aprobar la integración de grupos y comisiones de trabajo en cada una de la
 
 VIII. Vigilar, a través de las Comisiones Auxiliares respectivas, que los Convenios de Coordinación y de Colaboración Administrativa que celebren el Estado y los Municipios se sujeten a las disposiciones que esta ley y otras que sean aplicables determinen, y que en su aplicación se cumpla cabalmente con su contenido;
 
-IX. Fijar las reglas y normas de la integración y control del Registro Estatal del Patrimonio del Estado y de los Municipios, así como el Registro de Obligaciones y Empréstitos del Estado y Municipios;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-X. Vigilar el buen funcionamiento del Registro Estatal del Patrimonio del Estado y de los Municipios así como del Registro de Obligaciones y Empréstitos del Estado y Municipios;
+IX. Fijar las reglas y normas de la integración y control del Registro Estatal del Patrimonio del Estado y de los Municipios;
 
-XI. Vigilar que el Estado y los Municipios sólo contraten empréstitos, conforme a lo que establezcan la legislación aplicable y sus respectivos presupuestos de egresos autorizados;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-XII. Fijar las reglas para que el Estado y los Ayuntamientos elaboren sus Programas de Financiamiento Anual;
+X. Vigilar el buen funcionamiento del Registro Estatal del Patrimonio del Estado y de los Municipios;
 
-XIII. Opinar sobre la pertinencia de que el Estado y los Municipios afecten sus participaciones federales, para garantizar el cumplimiento de las obligaciones que adquieran, y recomendar se gestione la correspondiente autorización de la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XI. Dar seguimiento a las políticas públicas en materia de endeudamiento público y en su caso formular propuestas a someter a consideración del Ejecutivo del Estado.
+
+XII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2012)
+
+XIII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2012)
 
 XIV. Solicitar a las Comisiones Auxiliares un informe trimestral de sus actividades y funciones;
 
@@ -209,7 +233,7 @@ II. Gasto Público Local;
 
 III. Patrimonio Estatal y Municipal; y
 
-IV. Deuda Pública Local.
+IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 16.
 
@@ -221,7 +245,9 @@ Los Representantes de las Comisiones Auxiliares serán nombrados por la Comisió
 
 La Comisión de Ingresos, estará integrada por:
 
-I. El Secretario de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+I. El Secretario de Finanzas del Gobierno del Estado;
 
 II. El Subsecretario de Ingresos de la misma dependencia, y
 
@@ -253,9 +279,13 @@ IX. Realizar todas aquéllas funciones que la Comisión Permanente de Funcionari
 
 La Comisión de Gasto Público Local, estará integrada por:
 
-I. El Secretario de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-II. El Tesorero de la misma dependencia; y
+I. El Secretario de Finanzas del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+II. El Subsecretario de Egresos; y
 
 III. Cuatro Tesoreros de los Ayuntamientos, nombrados por la Reunión Estatal de Funcionarios Hacendarios del Estado de Campeche.
 
@@ -283,9 +313,13 @@ VIII. Las demás que le encomienden la Comisión Permanente de Funcionarios Hace
 
 La Comisión del Patrimonio Estatal y Municipal, estará integrada por:
 
-I. El Secretario de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-II. El Subsecretario de Administración de la misma dependencia; y
+I. El Secretario de Administración e Innovación Gubernamental del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+II. El Subsecretario de Administración de la Secretaría de Administración e Innovación Gubernamental; y
 
 III. Cuatro Tesoreros de los Ayuntamientos, nombrados por la Reunión Estatal de Funcionarios Hacendarios del Estado de Campeche.
 
@@ -309,39 +343,11 @@ VII. Realizar todas aquéllas funciones que la Comisión Permanente de Funcionar
 
 ###### Art. 23.
 
-La Comisión de Deuda Pública Local, estará integrada por:
-
-I. El Secretario de Finanzas y Administración del Gobierno del Estado;
-
-II. El Tesorero de la misma dependencia; y
-
-III. Cuatro Tesoreros de los Ayuntamientos, nombrados por la Reunión Estatal de Funcionarios Hacendarios del Estado de Campeche.
-
-Esta Comisión actuará en forma coordinada con el Comité Técnico de Financiamiento previsto en el artículo 24 de la Ley de Deuda Pública del Estado.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 24.
 
-La Comisión de Deuda Pública Local, tendrá las siguientes atribuciones:
-
-I. Proponer a la Comisión Permanente de Funcionarios Hacendarios del Estado de Campeche, las reglas para que el Estado y los Municipios elaboren sus Programas de Financiamiento;
-
-II. Proponer alternativas y efectuar el apoyo técnico para la reestructuración de empréstitos del Estado y de los Municipios y de sus respectivas entidades;
-
-III. Coadyuvar con la Comisión Permanente de Funcionarios Hacendarios del Estado de Campeche para vigilar que las dependencias y entidades del Estado y de los Municipios sólo contraten empréstitos, de conformidad con lo que establece la legislación aplicable y sus respectivos presupuestos de egresos autorizados;
-
-IV. Realizar el análisis de las condiciones del mercado financiero nacional con el objeto de aprovechar las mejores alternativas para el financiamiento estatal y municipal;
-
-V. Evaluar los Programas de Financiamiento Anual del Estado y Municipios dentro de sus presupuestos de egresos;
-
-VI. Vigilar que los Convenios de Coordinación y de Colaboración Administrativa que celebren el Estado y los Municipios, en materia de deuda, se sujeten a las normas establecidas en ésta y otras leyes que sean aplicables, y que se cumpla con los compromisos que en esos convenios se establezcan, informando a la Comisión Permanente de Funcionarios Hacendarios, para los efectos a que haya lugar;
-
-VII. Proponer a la Comisión Permanente de Funcionarios Hacendarios del Estado, la emisión de criterios normativos, con base en el análisis y estudio de la legislación relacionada con la deuda pública, que faciliten la mejor aplicación de las leyes locales y de los mismos Convenios de Coordinación y de Colaboración;
-
-VIII. Proporcionar un informe trimestral a la Comisión Permanente de Funcionarios Hacendarios del Estado de Campeche, de las actividades realizadas;
-
-IX. Conocer de las inconformidades que en materia de deuda pública se interpongan, de acuerdo con lo que establece esta ley; y
-
-X. Realizar todas aquéllas funciones que la Comisión Permanente de Funcionarios Hacendarios del Estado de Campeche le encomiende o que se establezcan en los Convenios de Coordinación y de Colaboración Administrativa.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 De la Comisión de Capacitación y Asesoría Hacendaria del Estado de Campeche
 
@@ -507,7 +513,9 @@ Los recursos federales para la inversión pública cuya aplicación en el territ
 
 El Ejecutivo Estatal celebrará convenios con el Ejecutivo Federal para la descentralización de funciones y recursos que favorezcan el desarrollo estatal. El Gobierno del Estado asumirá dichas funciones mediante la suscripción de convenios de coordinación.
 
-En los convenios de coordinación se establecerán las atribuciones, recursos, tareas y responsabilidades que se transfieren. Dichos convenios serán firmados por el Gobernador del Estado, por el titular de la dependencia estatal a quien corresponda el despacho de los asuntos que son materia de la descentralización y por el titular de la Secretaría de Finanzas y Administración.
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+En los convenios de coordinación se establecerán las atribuciones, recursos, tareas y responsabilidades que se transfieran. Dichos convenios serán firmados por el Gobernador del Estado, por el titular de la dependencia estatal a quien corresponda el despacho de los asuntos que son materia de la descentralización y por el titular de la Secretaría de Finanzas.
 
 ###### Art. 53.
 
@@ -557,43 +565,11 @@ En la celebración de los Convenios de Coordinación a que se refiere este artí
 
 ###### Art. 60.
 
-En materia de deuda pública, el Estado y los Municipios podrán coordinarse para llevar a cabo las funciones de financiamiento, en cuyo caso realizarán en forma conjunta las siguientes actividades:
-
-I. Elaborar el Programa de Financiamiento anual para el Estado y los Municipios, con base en el cual se manejarán la deuda pública estatal y la municipal, teniendo en cuenta las disposiciones de la Ley de Deuda Pública del Estado de Campeche;
-
-II. Revisar y aprobar la evaluación socioeconómica de los proyectos de inversión sujetos al Programa de Financiamiento para el Estado y los Municipios, procurando que dichos proyectos se apeguen a los objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo, así como a los Programas Sectoriales derivados de los mismos;
-
-III. Presentar a la Legislatura del Estado, para su aprobación, los Programas de Financiamiento Estatal y Municipales, en donde se incluyan los montos de endeudamiento necesarios para cubrir los requerimientos del ejercicio fiscal correspondiente, así como los elementos de juicio que lo justifiquen y la mención expresa a las partidas de los respectivos presupuestos de egresos, destinadas a la realización de pagos de capital e intereses;
-
-IV. Establecer los mecanismos que faciliten el otorgamiento de garantías para la contratación de créditos, en los términos previstos por el artículo 9º de la Ley de Coordinación Fiscal Federal;
-
-V. Celebrar los convenios que regulen la operación del mecanismo establecido para el pago de las obligaciones contraídas, cuando las garantías consistan en la afectación de participaciones;
-
-VI. Sentar las bases para garantizar que los financiamientos autorizados a las entidades públicas, estén acordes con su capacidad de pago;
-
-VII. Llevar a cabo labores de registro y control de todas las operaciones de deuda pública, para lo cual fijarán las bases de operación del registro de las deudas estatal y municipales, con el objeto de facilitar el control de las operaciones derivadas del crédito público;
-
-VIII. Identificar y examinar las garantías que las entidades propongan para soportar las operaciones de crédito. Tratándose de garantías basadas en las participaciones federales, el Estado no podrá comprometer las participaciones que correspondan a un Municipio para garantizar obligaciones del propio Estado o de otro u otros Municipios;
-
-IX. Establecer los esquemas de garantía para el pago de obligaciones contraídas por las entidades públicas, incluyendo fideicomisos, que sean acordes con la Ley de Coordinación Fiscal Federal en los cuales las participaciones federales que se afecten conservarán su naturaleza jurídica, siempre y cuando representen una alternativa que consolide la seguridad jurídica y financiera, así como el equilibrio económico;
-
-X. Emitir lineamientos para concertar la forma de presentación de la información económica y financiera del Estado y los Municipios, así como sus respectivas entidades, con el objeto de realizar y presentar análisis financieros y económicos los cuales servirán para determinar la capacidad crediticia de las entidades públicas;
-
-XI. Fortalecer los mecanismos de acceso al crédito público, el cual estará sustentado en la capacidad política, económica, jurídica y moral del Estado o de los Municipios para obtener dinero o bienes en préstamo, basados en la confianza de que gozan por sus respectivos patrimonios y recursos de que puedan disponer;
-
-XII. Realizar análisis financieros que conlleven a facilitar la determinación de su capacidad crediticia y financiera, presentándolos como soporte de sus respectivas propuestas para hacer uso del crédito público, así como de las condiciones del mercado financiero nacional con el objeto de aprovechar las mejores alternativas para el financiamiento estatal, municipal y de sus respectivas entidades;
-
-XIII. Investigar nuevas fuentes crediticias, las cuales proporcionen menores costos del financiamiento y mejores condiciones de pago;
-
-XIV. Intercambiar información para determinar las mejores fuentes de financiamiento local, así como sobre el costo y condiciones del crédito público; y
-
-XV. Realizar reestructuraciones de la deuda estatal y municipal, cuando resulte necesario. Si sólo se trata de reestructuración de la deuda municipal, el Estado asesorará y apoyará a los Municipios para llevarla a cabo.
-
-En caso de que no se realizara la coordinación entre el Estado y los Municipios, ambos deberán, en forma individual y en lo procedente, aplicar las disposiciones contenidas en este artículo.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 61.
 
-El Estado y los Municipios, previa autorización de la Legislatura del Estado, podrán afectar en garantía de pago de las obligaciones contraídas, ya sea directamente o como avalistas, deudores solidarios, subsidiarios o sustitutos, las participaciones que en ingresos federales les correspondan, en los términos dispuestos por la Ley de Coordinación Fiscal Federal.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 62.
 
@@ -601,9 +577,11 @@ El Estado y los Municipios, previa autorización de la Legislatura del Estado, p
 
 ###### Art. 63.
 
-Los Gobiernos Estatal y Municipales deberán programar un superávit primario en sus finanzas públicas, que consistirá en el excedente entre los ingresos totales y la suma de las erogaciones, excluyendo el servicio de la deuda, para dar suficiencia a sus obligaciones de deuda pública, en su respectivo presupuesto anual de egresos.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-## TITULO CUARTO. DEL SISTEMA DE PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+## TITULO CUARTO. DEL SISTEMA DE PARTICIPACIONES Y APORTACIONES
 
 ### Capítulo Unico
 
@@ -669,9 +647,11 @@ Las participaciones que correspondan a los Municipios son inembargables, no pued
 
 La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tenga con la Federación y el Estado, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas, o cuando las leyes así lo autoricen.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 69.
 
-La Secretaría de Finanzas y Administración calculará y entregará a los Ayuntamientos, con periodicidad mensual, las participaciones federales que correspondan a los Municipios. Dichas participaciones se entregarán en un plazo no mayor a los cinco días posteriores de que éstas fueren recibidas por el Estado.
+La Secretaría de Finanzas calculará y entregará a los Ayuntamientos, con periodicidad mensual, las participaciones federales que correspondan a los Municipios. Dichas participaciones se entregarán en un plazo no mayor a los cinco días posteriores de que éstas fueren recibidas por el Estado.
 
 ###### Art. 70.
 
@@ -681,21 +661,33 @@ Los ajustes a las participaciones, derivados del Sistema Nacional de Coordinaci�
 
 Para los efectos de esta ley, se utilizarán los datos más recientes de población de los Municipios del Estado de Campeche que haya publicado el Instituto Nacional de Estadística, Geografía e Informática.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 72.
 
-Durante la primera quincena de cada mes, los Ayuntamientos deberán proporcionar, a la Secretaría de Finanzas y Administración, copia del informe mensual de la recaudación captada en sus Municipios en el mes inmediato anterior enviado a la Legislatura del Estado. En el caso de que el Ayuntamiento no le remita la indicada copia del informe, la Secretaría de Finanzas y Administración podrá estimar la recaudación y proceder a calcular y liquidar participaciones municipales con base en esa estimación, hasta en tanto no reciba dicha copia.
+Durante la primera quincena de cada mes, los Ayuntamientos deberán proporcionar, a la Secretaría de Finanzas, copia del informe mensual de la recaudación captada en sus Municipios en el mes inmediato anterior enviado a la Legislatura del Estado. En el caso de que el Ayuntamiento no le remita la indicada copia del Informe, la Secretaría de Finanzas podrá estimar la recaudación y proceder a calcular y liquidar participaciones municipales con base en esa estimación, hasta en tanto no reciba dicha copia.
 
 ###### Art. 73.
 
 Los Ayuntamientos publicarán semestralmente, en el Periódico Oficial del Estado, los montos de participaciones pagados a cada una de las Juntas y Comisarías Municipales.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+###### Art. 73 Bis.
+
+El Estado deberá entregar a los Municipios las aportaciones federales que les correspondan en los términos previstos en la Ley de Coordinación Fiscal.
+
+Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal, el Estado, a través de la Secretaría de Finanzas, podrá instrumentar mecanismos de captación, distribución o ambos de los recursos derivados de la coordinación fiscal, incluyendo las participaciones o aportaciones federales que correspondan a los Municipios, a través de cuentas, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la ley o a los convenios aplicables, sin perjuicio de cumplir con las afectaciones que, como fuente de pago o garantía hubieren celebrado los Municipios a favor de sus acreedores.
+
 ## TITULO QUINTO. DE LA COLABORACION ADMINISTRATIVA
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 74.
 
-El Estado y los Municipios, o éstos entre sí, podrán celebrar Convenios de Colaboración Administrativa en materia hacendaria; dichos convenios serán suscritos por el Ejecutivo del Estado y la Secretaría de Finanzas y Administración así como por los Presidentes, Secretarios y Tesoreros Municipales.
+El Estado y los Municipios, o éstos entre sí, podrán celebrar Convenios de Colaboración Administrativa en materia hacendaria; dichos convenios serán suscritos por el Ejecutivo del Estado y la Secretaría de Finanzas así como por los Presidentes, Secretarios y Tesoreros Municipales.
 
 ###### Art. 75.
 
@@ -779,9 +771,11 @@ Los Municipios podrán celebrar Convenios de Colaboración Administrativa, en ma
 
 También podrán, el Estado y los Municipios celebrar Convenios de Colaboración Administrativa para que el Estado pueda asesorar a los Municipios en la conservación y recuperación del patrimonio municipal, así como en la intervención en juicios administrativos, cuando afecte al patrimonio municipal, aun cuando no exista coordinación sobre el mismo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 ###### Art. 84.
 
-En materia de control patrimonial se establecerá un registro de bienes muebles e inmuebles que se denominará "Registro Estatal del Patrimonio del Estado y de los Municipios", el cual estará a cargo de la Secretaría de Finanzas y Administración. Dicho registro será supervisado por la Comisión del Patrimonio Estatal y Municipal. En materia de inmuebles, el mencionado Registro mantendrá comunicación constante con el Registro Público de la Propiedad del Estado.
+En materia de control patrimonial se establecerá un registro de bienes muebles e inmuebles que se denominará "Registro Estatal del Patrimonio del Estado y de los Municipios", el cual estará a cargo de la Secretaría de Administración e Innovación Gubernamental. Dicho registro será supervisado por la Comisión del Patrimonio Estatal y Municipal. En materia de inmuebles, el mencionado Registro mantendrá comunicación constante con el Registro Público de la Propiedad del Estado.
 
 ###### Art. 85.
 
@@ -825,27 +819,11 @@ VI. Elaborar un informe anual de la situación patrimonial local, para rendirlo 
 
 ###### Art. 88.
 
-La Comisión Permanente de Funcionarios Hacendarios, a través de la Comisión de Deuda Pública Local, deberá llevar el "Registro de Obligaciones y Empréstitos del Estado y Municipios", cuya finalidad será:
-
-I. Inscribir todas las operaciones de deuda pública a que se refieren la Ley de Deuda Pública del Estado y esta ley, estableciendo para ello un orden cronológico, así como las clasificaciones de registro que faciliten la consulta, análisis e información de las mismas;
-
-II. Registrar la afectación de las participaciones que les correspondan al Estado y a los Municipios, cuando se otorguen esas como garantía de pago de las obligaciones de deuda pública, previa autorización del Congreso del Estado;
-
-III. Proporcionar la información que el Congreso del Estado requiera, de acuerdo a la Ley de Deuda Pública Estatal y de esta ley, en relación con las operaciones de deuda pública, así como la que le soliciten el Ejecutivo del Estado o los Ayuntamientos, respecto de los empréstitos en que se hubiesen constituido como garantes el Estado o los Municipios;
-
-IV. Mantener permanentemente actualizado el monto de la deuda pública estatal y de la municipal, dando de baja las operaciones de deuda que se finiquiten satisfactoriamente, conforme a los términos establecidos en su contratación y recabando para ello la documentación comprobatoria correspondiente.
-
-La Comisión de Deuda Pública Local informará a la Comisión Permanente de Funcionarios Hacendarios, en forma trimestral, sobre las actividades registrales realizadas en dicho período.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 89.
 
-Las inscripciones en el Registro se efectuarán si se cumplen los siguientes requisitos:
-
-I. Que se trate de obligaciones pagaderas dentro del territorio nacional y en moneda de circulación legal en el país, contraídas con entidades y personas de nacionalidad mexicana, para inversiones públicas productivas y obligaciones contingentes;
-
-II. Que cuando las obligaciones se hagan constar en títulos de crédito, se indique en el texto de los mismos que sólo podrán ser negociables dentro del territorio nacional con entidades o personas de nacionalidad mexicana; y
-
-III. En el caso de operaciones de crédito garantizadas con participaciones en ingresos federales, que dichas participaciones, ya sea del Estado o del Municipio solicitante, sean suficientes para garantizar el pago total de las obligaciones contraídas dentro del plazo concertado.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ## TITULO SEXTO. DEL EQUILIBRIO FINANCIERO
 
@@ -857,15 +835,15 @@ El Estado apoyará, en la medida de sus posibilidades, a los Municipios en caso 
 
 ###### Art. 91.
 
-Las entidades públicas a las que se refiere el artículo 2º de la Ley de Deuda Pública del Estado, podrán celebrar convenios para otorgarse transferencias o financiamientos entre sí.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 92.
 
-En el caso de financiamientos, se llevarán a cabo siempre y cuando se restituya su importe y el respectivo costo financiero.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ###### Art. 93.
 
-Tratándose de Ayuntamientos y de sus organismos descentralizados, el plazo para que se reintegren los financiamientos a que se refiere este capítulo, no podrá exceder del período constitucional de esos.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ## TITULO SEPTIMO. DEL SISTEMA DE INFORMACION
 
@@ -881,19 +859,7 @@ La información relacionada con el ingreso, el gasto y el patrimonio se proporci
 
 ###### Art. 96.
 
-Con base en la presentación y el contenido de la información acordada, el Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado al rendir la cuenta pública, de la situación que guarde la deuda pública del Estado y la de los Municipios, por lo que dicho informe deberá contener:
-
-I. El origen y condiciones de las operaciones de la deuda, tales como:
-
-a) Los montos de financiamiento contratados;
-
-b) Los organismos que la contrataron; y
-
-c) Los plazos, las tasas de interés, los períodos de gracia y las garantías pactados;
-
-II. Los servicios, bienes u obras públicas productivas a que se destinó el financiamiento; y
-
-III. El saldo de la deuda, que comprenderá la forma y plazos del servicio de la deuda.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ## TITULO OCTAVO. DE LAS INCONFORMIDADES
 
@@ -996,3 +962,19 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
 
 Tercero.- Se faculta al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, a realizar los ajustes que correspondan a los enteros que deban corresponder a los municipios en cumplimiento de lo establecido en el artículo Octavo Transitorio que se adiciona en este decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
