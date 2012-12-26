@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2009-09-07"
+last_updated: "2012-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA Y TRANSITO METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -754,3 +754,13 @@ CUARTO.- Una vez suscrito el instrumento jurídico y/o administrativo, según co
 QUINTO.- Las Dependencias que modifican su estructura, deberán realizar y presentan las modificaciones a sus Manuales de Organización y Procedimientos a la Secretaría de Administración y Sistemas en un término que no exceda los treinta días naturales siguientes a la publicación del presente Acuerdo; así mismo, y en el mismo plazo y en coordinación con la Tesorería Municipal, deberán hacer los ajustes correspondientes al Presupuesto de Egresos y a los Programas Operativos Anuales.
 
 SEXTO.- Lo no previsto en el presente Acuerdo, será resuelto por el Cabildo.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+REGLAMENTO INTERIOR DE LA SECRETARIA DE PROTECCIÓN Y AUXILIO CIUDADANO DE CUERNAVACA,MORELOS
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública y Tránsito Metropolitana, publicado en el Periódico Oficial "Tierra y Libertad, número 4550, el día veintidós de junio del dos mil siete.
