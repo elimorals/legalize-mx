@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2011-12-26"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -86,6 +86,10 @@ III. Conceder subsidios o estímulos fiscales.
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
 La Secretaría de Finanzas y Administración podrá dictar disposiciones de carácter general, con objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos y de hacer más efectivos y prácticos los sistemas de control fiscal, sin contravenir las normas establecidas en las leyes fiscales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+El Ejecutivo del Estado no deberá conceder los subsidios y estímulos fiscales a que se refiere la fracción III anterior cuando éstos afecten negativamente la recaudación de ingresos que hayan sido previamente afectados a medios de pago de obligaciones contraídas por el Estado o por fideicomisos constituidos por el Estado para contratar financiamiento conforme a las disposiciones legales aplicables.
 
 ###### Artículo 4.
 
@@ -2920,3 +2924,19 @@ P.O. 26 DE DICIEMBRE DE 2011.
 Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios de fecha 8 de septiembre de 2006, publicada en el Periódico Oficial del Estado, el día 19 de septiembre de 2006, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Tercero.- Se abroga la Ley de Control Presupuestal y Gasto Público del Estado de Campeche, publicada en el Periódico Oficial del Estado el 13 de marzo de 1992, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente decreto.
+
+Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda Pública del Estado de Campeche y sus Municipios aprobada mediante este decreto, deberán inscribir todos sus empréstitos, créditos o financiamientos vigentes, así como los demás actos registrables conforme a la nueva Ley de Deuda Pública del Estado de Campeche y sus Municipios, en el Registro Único de Obligaciones y Financiamientos, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor de este decreto.
+
+Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
+
+Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
