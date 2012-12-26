@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2012-12-14"
+last_updated: "2012-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -433,25 +433,43 @@ En caso de declararse procedente la excusa, se llamará de inmediato al suplente
 
 Los miembros de los Ayuntamientos sólo podrán excusarse de asumir el cargo o solicitar licencias temporales, determinadas y definitivas por causas graves y justificadas que serán resueltas y calificadas por el Cabildo.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-Dos días antes del día uno de enero, los miembros del Ayuntamiento electo que deban tomar posesión del cargo, serán convocados a sesión pública y solemne de Cabildo del Ayuntamiento saliente, con el fin de rendir protesta Constitucional correspondiente.
+Hasta dos días antes del día uno de enero, el Ayuntamiento Electo celebrará sesión pública y solemne de Cabildo, con el fin de rendir la protesta constitucional correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 Verificada la asistencia de los miembros del Ayuntamiento electo, el Presidente Municipal en funciones concederá el uso de la palabra al Presidente Municipal Electo, quien rendirá la protesta de Ley en los términos siguientes:
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
 “Protesto guardar y hacer guardar la Constitución Política de los Estado Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden.”
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 Concluida su protesta, el Presidente Municipal Electo tomará la protesta a los demás miembros del Ayuntamiento Electo, empleando la siguiente fórmula: “Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido”.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
 El Síndico y los Regidores de pie y levantando la mano contestarán: “Si, protesto”. Acto continuo, el Presidente Municipal dirá: “Si no lo hiciereis así, que la Nación, el Estado y este Municipio os lo demanden.”
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
 Rendida la protesta, el Presidente Municipal hará uso de la palabra con el propósito de dar a conocer las líneas de trabajo que pretenda desarrollar el Ayuntamiento en el período de su gestión. A continuación hará uso de la palabra un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento con el propósito de fijar su posición en un tiempo no mayor de diez minutos.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+
 Los miembros del Ayuntamiento que no asistan a esta sesión, deberán rendir la protesta Constitucional correspondiente, previamente a la asunción de su cargo, en la primera sesión de Cabildo a la que sean convocados, aplicándose en lo conducente lo dispuesto por el artículo 22 de la Ley.
 
-A esta sesión podrán asistir, como testigos del acto, los representantes de los Poderes Públicos Estatales, quienes tendrán, en su caso, la intervención que el Cabildo en funciones determine.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+A esta sesión podrán asistir, como testigos del acto, los miembros del Ayuntamiento saliente y los representantes de los Poderes Públicos Estatales, quienes tendrán, en su caso, la intervención que el Cabildo electo determine.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Los Ayuntamientos electos iniciarán el ejercicio de sus funciones el día 1° de enero del año siguiente a la elección, con independencia del acto protocolario de toma de protesta establecido en el primer párrafo del presente artículo.
 
 ###### Artículo 22.
 
@@ -497,9 +515,9 @@ Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que in
 
 I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la Instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
-II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
 El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
@@ -539,23 +557,11 @@ q) Protección del Patrimonio Cultural;
 
 r) Relaciones Públicas y Comunicación Social;
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+s) Asuntos Migratorios;
 
-s) De Asuntos Migratorios;
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-t) Equidad de Género;
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+t) Igualdad y Equidad de Género;
 
 u) Asuntos de la Juventud;
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
-
-v) Igualdad de Género.
-
-En la asignación de Comisiones se deberá respetar el principio de equidad.
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
 
@@ -2333,7 +2339,7 @@ El título de concesión deberá contener:
 
 I. Nombre y domicilio del concesionario;
 
-II. Servicio público concesionado;
+II. Servicio público concesionario;
 
 III. Centro de población o región donde se prestará el servicio público municipal concesionado;
 
@@ -2749,9 +2755,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
 ###### Artículo 191.
 
@@ -3012,6 +3018,12 @@ El decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Remítase al Poder Ejecutivo para los efectos conducentes.
+
+SEGUNDO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 ###### ARTÍCULO CUARTO.
 
