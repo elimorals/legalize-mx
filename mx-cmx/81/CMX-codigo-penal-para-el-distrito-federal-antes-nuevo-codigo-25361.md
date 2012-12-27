@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-08-03"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3644,6 +3644,8 @@ III. Sin autorización del paciente o de la persona que ante la imposibilidad o 
 
 ### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 327.
 
 Se impondrán de tres meses a dos años de prisión, de veinticinco a cien días multa y suspensión de tres meses a dos años para ejercer la profesión, a los directores, encargados, administradores o empleados de cualquier lugar donde se preste atención médica, que:
@@ -4244,7 +4246,9 @@ No se impondrá la pena por el delito de rebelión a los que depongan las armas 
 
 ###### ARTÍCULO 362.
 
-Se le impondrán de cinco a treinta años de prisión y suspensión de derechos políticos hasta por diez años, al que mediante la utilización de sustancias tóxicas, por incendio, inundación o violencia extrema, realice actos en contra de las personas, las cosas o servicios públicos, que perturben la paz pública o menoscaben la autoridad del Gobierno del Distrito Federal, o presionen a la autoridad para que tome una determinación.
+Se les impondrán de dos a siete años de prisión y suspensión de derechos políticos hasta por diez años, a los que mediante la utilización de sustancias tóxicas, por incendio, por inundación o violencia, realicen actos en contra de las personas, de los bienes públicos o privados o servicios públicos que perturben la paz pública.
+
+La reincidencia se estará a lo que establezca éste Código.
 
 ###### ARTÍCULO 363.
 
@@ -4783,3 +4787,11 @@ G.O. 3 DE AGOSTO DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO. El presente Decreto entrará en vigor y surtirá efectos el mismo día de su publicación.
