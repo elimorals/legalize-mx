@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2012-12-26"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -185,9 +185,11 @@ Se considera que la enajenación se efectúa en el Estado de Campeche, entre otr
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-Para los efectos de este Código, se considera previsión social, las erogaciones efectuadas por los patrones a favor de sus trabajadores que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como otorgar beneficios a favor de dichos trabajadores, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia.
+Para los efectos de este Código y demás leyes fiscales del Estado, se considera previsión social las erogaciones efectuadas por los patrones a favor de sus trabajadores que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como otorgar beneficios a favor de dichos trabajadores, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia.
 
 ###### Artículo 12.
 
@@ -393,7 +395,9 @@ Cuando los retenedores deban hacer un pago en bienes, solamente harán la entreg
 
 Tratándose de los créditos fiscales determinados por las autoridades en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los cuarenta y cinco días hábiles siguientes a aquél en que surta efectos su notificación, o garantizarse cuando se interponga algún medio de impugnación o se solicite plazo para el pago en parcialidades.
 
-El pago de créditos fiscales se acreditará mediante el recibo oficial, comprobante o la documentación que establezcan las disposiciones respectivas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+Los ingresos que perciba o recaude el Estado de Campeche, se acreditarán mediante el recibo oficial, comprobante fiscal impreso por medios propios o a través de terceros, comprobante fiscal digital o cualquier otra documentación que impresa o digital expida la Secretaría de Finanzas de la Administración Pública del Estado o las entidades de la Administración Pública Paraestatal, según el caso, y conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 29.
 
@@ -439,9 +443,11 @@ Para determinar las contribuciones se considerarán, inclusive las fracciones de
 
 Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Finanzas y Administración podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 31.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe: además, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión. Para tal efecto, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5, y cuando la milésima sea menor a 5, se mantendrá la tasa a la centésima que haya resultado.
 
 Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 74 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -853,9 +859,15 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales incluyendo las federales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
-En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, por las máquinas registradoras de comprobación fiscal y sus registros, cuando se esté obligado a llevar dichas máquinas de acuerdo con la legislación fiscal federal, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales, tanto federales como estatales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los estados de cuenta bancarios, papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, por las máquinas registradoras de comprobación fiscal y sus registros, cuando se esté obligado a llevar dichas máquinas de acuerdo con la legislación fiscal federal, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales, tanto federales como estatales.
 
 Los contribuyentes de contribuciones locales, podrán microfilmar o gravar en discos ópticos o en cualquier otro medio, su contabilidad cuando se sujeten a la legislación federal establecida al efecto, misma que tendrá el valor probatorio de sus originales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+Cuando en la contabilidad se plasmen datos en idioma distinto al español o los valores se consignen en moneda extranjera, las autoridades fiscales podrán solicitar su traducción y que se proporcione el tipo de cambio utilizado, según sea el caso.
 
 ###### Artículo 49.
 
@@ -877,13 +889,17 @@ Si se controvierten sólo determinados conceptos de la resolución administrativ
 
 Si en la declaración complementaria se determina que el pago fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 31 de este Código, a partir de la fecha en que debió hacerse el pago.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 50.
 
-Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, dichos comprobantes deberán reunir los requisitos que para tal efecto señale al Código Fiscal de la Federación y en el caso de los contribuyentes del impuesto sobre hospedaje, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
+Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por los actos o actividades que realicen, o por los ingresos que se perciban, los contribuyentes deberán emitirlos de conformidad con el Código Fiscal de la Federación, cumpliendo con los requisitos que en el referido Código se señalan. En el caso de los contribuyentes del impuesto sobre hospedaje, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-Las personas obligadas por la ley a llevar contabilidad y que en las transacciones de adquisiciones de bienes, del uso o goce temporal de bienes, o de la prestación de servicios que realizan, efectúan su pago mediante cheque nominativo para abono en cuenta del beneficiario, mediante traspasos de cuenta en instituciones de crédito o casas de bolsa, tarjeta de crédito, débito o monedero electrónico, podrá utilizar como medio de comprobación para los fines de las leyes fiscales del Estado, el original del estado de cuenta de quien realice el pago citado, siempre que se cumpla con lo dispuesto en el artículo 29-C del Código Fiscal de la Federación.
+Los contribuyentes podrán utilizar como medio de comprobación para los fines de las leyes fiscales del Estado, lo dispuesto en el artículo 29-B del Código Fiscal de la Federación.
 
 ###### Artículo 52.
 
@@ -921,9 +937,11 @@ Cuando el contribuyente, en los términos del párrafo anterior, no corrija tota
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalan las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 57 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 57.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Administración y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código Fiscal, en el de la Federación, en las leyes fiscales estatales o federales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
 
 Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
 
@@ -1009,9 +1027,11 @@ c) Cuando señalen el nombre o domicilio de un tercero real o ficticio, si se co
 
 d) Cuando se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-IV. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son conceptos por los que debieron pagarse contribuciones estatales.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación; y
+IV. Que los depósitos y erogaciones o pagos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son conceptos por los que debieron pagarse contribuciones estatales.
+
+Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos y erogaciones o pagos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación; y
 
 V. Que corresponden a actos o actividades gravables de la empresa los depósitos hechos en cuenta personal de cheques de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad.
 
@@ -1038,6 +1058,32 @@ a) Si con base en la contabilidad y documentación del contribuyente o informaci
 b) Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, se tomarán como base el ingreso, egreso, actos o actividades vinculadas con contribuciones estatales que se observen durante siete días consecutivos y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión.
 
 Al valor de los ingresos, egresos, actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores se les aplicará la cuota o tarifa que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+Artículo 63 bis.- Las autoridades fiscales podrán determinar presuntivamente el impuesto sobre nóminas de las personas obligadas a pagarlo en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, o no lleven los libros o registros a que legalmente estén obligados;
+
+II.- Cuando, por los informes que se obtengan, se ponga de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante;
+
+III.- Se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus erogaciones que sirven de base para el cálculo del impuesto sobre nóminas.
+
+Para practicar la determinación presuntiva a que se refiere este artículo, se tendrá en cuenta lo siguiente:
+
+a) Las erogaciones realizadas, declaradas en los últimos doce meses;
+
+b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta o sobre Productos del Trabajo, que correspondan a los últimos doce meses;
+
+c) La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales federales;
+
+d) Los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal;
+
+e) Las actividades realizadas por el contribuyente y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal;
+
+f) Las cantidades que resulten de aplicar la tasa del impuesto sobre nóminas sobre el salario de cotización de cada uno de los trabajadores manifestado por el patrón al Instituto Mexicano del Seguro Social; y
+
+g) En el caso de que el patrón no haya efectuado el pago de cotizaciones por sus trabajadores al Instituto Mexicano del Seguro Social, se considerará que el impuesto sobre nóminas omitido asciende al importe que resulte de aplicar la tasa del impuesto sobre nóminas sobre una cantidad equivalente a cinco salarios mínimos de la zona económica del domicilio fiscal del patrón elevado al período que se revisa, por cada trabajador a su servicio.
 
 ###### Artículo 64.
 
@@ -1791,9 +1837,13 @@ No se otorgará garantía respecto de gastos de ejecución, salvo que el interé
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 110 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-Tratándose de fianza a favor de la Secretaría de Finanzas y Administración, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se harán efectivas de conformidad con lo establecido por la Ley Federal de Instituciones de Fianzas.
+Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme, se ordenará su aplicación por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de fianza a favor de la Secretaría de Finanzas de la Administración Pública Estatal, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se harán efectivas de conformidad con lo establecido en la Ley Federal de Instituciones de Fianzas.
 
 ###### Artículo 114.
 
@@ -2940,3 +2990,9 @@ Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda 
 Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
 
 Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrará en vigor el día primero de enero del año dos mil trece, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
