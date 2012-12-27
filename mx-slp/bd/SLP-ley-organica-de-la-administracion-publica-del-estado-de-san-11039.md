@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2012-07-12"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -631,7 +631,9 @@ VI. Vigilar la prestación del servicio público de transporte en todas sus moda
 
 VII. Recibir, tramitar y someter a la consideración del titular del Ejecutivo, las solicitudes para el otorgamiento de permisos y concesiones para la explotación de servicios de transporte público en el Estado;
 
-VIII. Autorizar, previo acuerdo del Ejecutivo, y escuchando la opinión del Consejo Estatal de Transporte, las tarifas, rutas, horarios y terminales, así como todo lo relativo a la operación del servicio público de transporte y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+VIII. Autorizar, previo acuerdo del Ejecutivo, y escuchando la opinión del Consejo Estatal de Transporte, rutas, horarios y terminales, así como todo lo relativo a la operación del servicio público de transporte y vigilar su cumplimiento;
 
 IX. Llevar el registro de los vehículos dedicados al transporte público en todo el Estado;
 
@@ -1676,3 +1678,11 @@ P.O. 12 DE JULIO DE 2012.
 PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
