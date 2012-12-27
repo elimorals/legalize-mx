@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2012-08-25"
+last_updated: "2012-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -229,9 +229,17 @@ XV. Evaluar y dar seguimiento en forma periódica al Plan Estatal de Desarrollo,
 
 XVI. Citar a través del titular del Poder Ejecutivo, a cualquier funcionario de la administración pública estatal, para que comparezca cuando se discuta una ley o se estudie un asunto que se relacione con su función, así como para que informe sobre algún asunto de su competencia;
 
-XVII. Aprobar, en su caso, los convenios que celebre el Ejecutivo en relación con los límites territoriales del Estado, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-XVIII. Las demás que establezcan las leyes.
+XVII. Aprobar de conformidad con la ley de la materia y previa opinión que le remita el Consejo Estatal de Transporte, los ajustes a las tarifas y en su caso las nuevas tarifas del transporte público;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Aprobar, en su caso, los convenios que celebre el Ejecutivo en relación con los límites territoriales del Estado, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+XIX. Las demás que establezcan las leyes.
 
 ### Capítulo III. De las Atribuciones en Relación con el Poder Judicial
 
@@ -1119,11 +1127,17 @@ II. Los relativos a autorizaciones que solicite el Ejecutivo del Estado, cuya ma
 
 III. Requerir, a la autoridad competente, la información que considere necesaria relativa a los acuerdos, decisiones, y acciones de las dependencias y/o entidades de la administración pública del Estado, que tengan injerencia directa o indirecta con los temas relacionados con proyectos de infraestructura en, caminos rurales, municipales y estatales, así como los concesionados por el Estado de San Luis Potosí;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-IV. La realización, en coordinación con las autoridades en la materia, de foros, consultas o mesas de trabajo con los grupos interesados y con la población en general, para la actualización de la legislación en materia de transporte en el Estado, y
+IV. La realización, en coordinación con las autoridades en la materia; de foros, consultas o mesas de trabajo con los grupos interesados y con la población en general, para la actualización de la legislación en materia de transporte en el Estado;
 
-V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+V. Elaborar los dictámenes que determinen las tarifas de Transporte Público, en base a la opinión remitida por el Consejo Estatal de Transporte Público y someterlos al Pleno del Congreso del Estado para su aprobación, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 103.
 
@@ -2040,3 +2054,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. El Reglamento del Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, deberá expedirse en un término de ciento ochenta días hábiles, contados a partir de la constitución del nuevo Comité en la LX Legislatura.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
