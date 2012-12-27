@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2012-06-14"
+last_updated: "2012-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -679,6 +679,36 @@ El juez podrá, en cualquier momento, verificar que las intervenciones sean real
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
 En caso de no ejercicio de la acción penal y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, el juez que autorizó la intervención, ordenará que se pongan a su disposición las cintas resultado de las intervenciones, los originales y sus copias y ordenará su destrucción en presencia del titular del Ministerio Público de la entidad federativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+
+###### ARTICULO 50
+
+QUATER.- A los jueces de Distrito Especializados para Adolescentes corresponde:
+
+I. Conocer de las causas instauradas en contra de las personas a quienes se impute la realización de una conducta tipificada como delito, cuando tengan entre doce años cumplidos y menos de dieciocho años de edad;
+
+II. Promover los procedimientos alternativos al juzgamiento, a fin de cumplir con los principios de mínima intervención y subsidiariedad;
+
+III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley Federal de Justicia para Adolescentes;
+
+IV. Resolver sobre las medidas a imponer, atendiendo los principios de culpabilidad por el acto, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes o adultos jóvenes;
+
+V. Asegurarse de que el adolescente o adulto joven que se encuentra a su disposición, no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen a su situación;
+
+VI. Resolver sobre las cuestiones o incidentes que se susciten durante la ejecución de las medidas impuestas a adolescentes y adultos jóvenes en los términos que dispone la ley de la materia;
+
+VII. Resolver los recursos que se presenten durante el procedimiento de la ejecución de la medida, en contra de las determinaciones de la Unidad Especializada;
+
+VIII. Atender las solicitudes que realicen personalmente adolescentes y adultos jóvenes o sus representantes legales, y resolver a la brevedad lo que corresponda;
+
+IX. Resolver conforme a las disposiciones legales sobre la adecuación de la medida si se considera que ésta ya produjo sus efectos, es innecesaria o afecta el desarrollo, la dignidad o la integración familiar y social de quienes estén sujetos a ella;
+
+X. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva de los adolescentes o adultos jóvenes; y
+
+XI. Las demás que determine la ley.
 
 ###### ARTICULO 51.
 
@@ -3457,3 +3487,23 @@ D.O.F. 12 DE DICIEMBRE DE 2011.
 D.O.F. 14 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
+
+QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
