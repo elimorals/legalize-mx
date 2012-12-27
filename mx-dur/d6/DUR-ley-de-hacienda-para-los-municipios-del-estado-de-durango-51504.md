@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2011-12-22"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -1497,7 +1497,7 @@ Artículo Primero.- La presente Ley entrará en vigor el 1 de enero de 2007, pos
 
 La elaboración de iniciativas de leyes de ingresos que presenten los ayuntamientos para el ejercicio fiscal de 2007, estarán de conformidad a lo dispuesto en la presente Ley.
 
-> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO Y DÉCIMO TERCERO DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO, Y DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE LERDO, DURANGO, RESPECTIVAMENTE CON EFECTOS EXCLUSIVOS A DICHOS MUNICIPIOS, P.O. 22 DE DICIEMBRE DE 2011)</small>
+(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO Y DÉCIMO TERCERO DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO, Y DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE LERDO, DURANGO, RESPECTIVAMENTE CON EFECTOS EXCLUSIVOS A DICHOS MUNICIPIOS, P.O. 22 DE DICIEMBRE DE 2011) (REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2012)
 
 Artículo Segundo.- Se abroga la Ley de Hacienda de los Municipios para el Estado de Durango expedida mediante decreto No. 128, y publicada en el Periódico Oficial 19 bis, de fecha 6 de marzo de 1988, así como sus subsecuentes reformas; exceptuando lo contenido en el capítulo XVIII del Título III denominado por Servicio Público de Iluminación.
 
@@ -1588,3 +1588,61 @@ SÉPTIMO.- En los términos que establece el Código Fiscal Municipal, el Presid
 ###### ARTÍCULO DÉCIMO TECERO.
 
 Se deroga, con efectos exclusivos al Municipio de Lerdo, Dgo., el Artículo Segundo Transitorio del Decreto No. 237, de fecha 06 de junio de 2006, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 6, de fecha 20 de julio de 2006.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Esta Ley entrará en vigor el día (01) uno de enero de 2013 y su vigencia durará hasta el 31 de diciembre del mismo año; misma que será publicada en el Periódico Oficial del Gobierno del Estado de Durango; de no aprobarse la del Ejercicio Fiscal 2013, se prorrogará la Ley autorizada para el Ejercicio 2012.
+
+SEGUNDO.- La presente Ley de Ingresos se aplicará en todo lo que no contravenga a la Ley del Impuesto al Valor Agregado y a los Convenios de Coordinación Fiscal que celebre la Federación con el Estado de Durango y que hayan sido aprobados por la Legislatura Local.
+
+TERCERO.- Por encontrarse vigente el Decreto No. 142, de fecha 18 de Diciembre de 1979, continúa suspendido el cobro en forma parcial de los siguientes Impuestos Municipales:
+
+2.- Sobre Actividades Comerciales y Oficios Ambulantes.
+
+3.- Sobre Anuncios.
+
+5.- Sobre Ejercicios de Actividades Mercantiles, Industriales, Agrícolas y Ganaderas.
+
+En caso de ser derogado, abrogado o reformado el decreto referido en el primer párrafo de este artículo, el cobro de los impuestos se efectuará en los términos que establezca el ordenamiento que contenga dicha reforma.
+
+CUARTO.- En tanto siga vigente la Declaratoria de Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Durango y por encontrarse en vigor los Decretos Números 73, publicado en el Periódico Oficial del Estado Número 9 de fecha 31 de enero de 1982; 77, publicado en el Periódico Oficial del Estado Número 1 Bis., de fecha 3 de enero de 1993 y 285, publicado en el Periódico Oficial del Estado Número 51 de fecha 23 del diciembre de 1993, continúa suspendido el cobro de los siguientes Derechos Municipales:
+
+3.- Por Servicio de Alienación de Predios y Fijación de Números Oficiales.
+
+11.- Por Registro de Fierros de Herrar y Expedición de Tarjetas de Identificación.
+
+12.- Sobre Certificaciones, Registros, Actas y Legalizaciones.
+
+13.- Sobre Empadronamiento.
+
+14.- Por Expedición de Licencias y Refrendos; con excepción de las relativas al Expendio de Bebidas Alcohólicas y Anuncios.
+
+15.- Por Apertura de Negocios en Horas Extraordinarias.
+
+16.- Por Inspección y Vigilancia para la Seguridad Pública.
+
+17.- Por Revisión, Inspección y Servicios.
+
+En caso de ser derogados, abrogados o reformados los decretos referidos en el primer párrafo de este artículo, el cobro de los citados derechos se efectuará en los términos que establezcan el o los ordenamientos que contengan dicha reforma.
+
+QUINTO.- La recaudación y administración de los ingresos establecidos en esta Ley, que se hubiera encomendado a las autoridades fiscales y estatales por virtud de convenios celebrados con base en el inciso a), párrafo segundo del artículo 111 de la Constitución Política Local, se seguirá realizando en los términos convenidos, en tanto subsistan los referidos convenios.
+
+SEXTO.- Una vez que se publiquen en el Periódico Oficial del Gobierno Constitucional del Estado de Durango los recursos financieros que la Secretaría de Hacienda y Crédito Público ha considerado para los Municipios del Estado de Durango en el ejercicio fiscal del año 2013, por concepto de Participaciones Federales y del Fondo de Aportaciones Federales para el Fortalecimiento Municipal, las cantidades relativas deberán formar parte del presente Decreto; para ello, el R. Ayuntamiento deberá realizar las sustituciones numéricas y las adecuaciones presupuestales correspondientes tanto en esta Ley como en su Presupuesto de Egresos; de la misma manera, realizará las adecuaciones numéricas relativas al endeudamiento neto adicional directo o autorizaciones adicionales para el ejercicio anticipado de recursos provenientes del FAIS, conforme se reciban en el presente año fiscal.
+
+SÉPTIMO.- En los términos que establece el Código Fiscal Municipal, el Presidente y el Tesorero Municipal, ejercerán las facultades y competencias en materia de subsidios y consideraciones en materia tributaria.
+
+OCTAVO.- Toda vez que es competencia exclusiva del Gobierno del Estado, por conducto de la Secretaría de Finanzas y de Administración o por las Recaudaciones de Rentas en los Municipios, el otorgamiento de los permisos para circular sin placas y/o sin tarjeta de circulación y para la expedición de licencias de manejo, entre otros conceptos a que alude la Ley de Tránsito para los Municipios del Estado de Durango en vigor, el cobro de los Derechos correspondientes a estos conceptos por parte del Municipio, se efectuará conforme a las disposiciones del Convenio entre el Ejecutivo del Estado y el Ayuntamiento.
+
+NOVENO.- Respecto a los ingresos por concepto de Aprovechamientos, el cobro de las multas municipales se efectuará de conformidad con las tasas, cuotas o tarifas establecidas en esta Ley, de acuerdo a las disposiciones establecidas en el Bando de Policía y Gobierno y Reglamentos correspondientes.
+
+DÉCIMO.- Durante el ejercicio fiscal del año 2013, la autoridad municipal podrá establecer políticas y mecanismos flexibles respecto de cualquiera de los cobros a que se refiere esta Ley y demás disposiciones aplicables, preferentemente en apoyo de las actividades que con inversiones productivas propicien la generación de empleos permanentes o al sostenimiento de la planta productiva. Asimismo, reconozcan las condiciones económicas de los contribuyentes que así lo ameriten.
+
+En materia de descuentos que se autoricen por las autoridades municipales competentes, deberá estarse a lo dispuesto por el Código Fiscal Municipal vigente; en materia de descuentos de accesorios legales a las contribuciones, serán autorizados hasta un 80% del monto adeudado por dicho concepto. En materia de descuentos a jubilados, pensionados, de la tercera edad y discapacitados que legalmente se acrediten, se estará a lo dispuesto por el Código Fiscal Municipal vigente.
+
+DÉCIMO PRIMERO.- El R. Ayuntamiento de Lerdo, Dgo., a más tardar el 28 de febrero de 2013, deberá entregar a la Entidad de Auditoría Superior del Estado, el Padrón de las Licencias para la Venta de Bebidas con Contenido Alcohólico, así como ante la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, el Tabulador de Sueldos y Salarios en los términos de Ley, haciéndolo del conocimiento de la Entidad de Auditoría Superior del Estado.
+
+DÉCIMO SEGUNDO.- El Municipio de Lerdo, Dgo., deberá, en los términos que establece la Ley General de Contabilidad Gubernamental, dar cumplimiento a las obligaciones que en materia de armonización contable establece dicho ordenamiento legal.
+
+DÉCIMO TERCERO.- Se deroga, con efectos exclusivos al Municipio de Lerdo, Dgo., el Artículo Segundo Transitorio del Decreto No. 237, de fecha 06 de junio de 2006, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 6, de fecha 20 de julio de 2006.
+
+DÉCIMO CUARTO.- Se derogan todas disposiciones legales que se opongan a la presente.
