@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2012-06-14"
+last_updated: "2012-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -174,6 +174,42 @@ j) Ejercer las acciones que las disposiciones normativas en materia de extinció
 k) Promover la reserva de identidad y otros datos personales de la víctima u ofendido, cuando sean menores de edad; se trate de delitos de violación, secuestro o delincuencia organizada, y en los demás casos que se considere necesario para su protección, y
 
 l) Informar a la víctima o al ofendido menor de edad, que no está obligado a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos, las declaraciones respectivas se efectuarán conforme lo establezcan las disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+
+D) En materia de Justicia Federal para Adolescentes:
+
+I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos atribuidas a adolescentes, el análisis, el diagnóstico del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+
+II. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes o adultos jóvenes sujetos a la Ley Federal de Justicia para Adolescentes, así como de las víctimas u ofendidos de los hechos probablemente realizados por los adolescentes o adultos jóvenes;
+
+III. Informar de inmediato al adolescente, a sus familiares y a su defensor su situación jurídica, así como los derechos que les asisten;
+
+IV. Realizar lo conducente para que sea asignado al adolescente un defensor público federal para adolescentes desde el momento en el que sea puesto a su disposición;
+
+V. Resolver dentro de los plazos y términos previstos en la Ley Federal de Justicia para Adolescentes, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+VI. Formular la remisión y poner inmediatamente a los adolescentes a disposición del Juez de Distrito Especializado para Adolescentes, en los casos en que resulte procedente;
+
+VII. Procurar, en los casos de querella necesaria, la conciliación entre el adolescente o adulto joven y la víctima u ofendido;
+
+VIII. Garantizar que durante la fase de detención, no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
+
+IX. Dirigir personalmente las investigaciones que sean conducentes para formular el escrito de atribución de hechos;
+
+X. Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
+
+XI. Formular el escrito de atribución de hechos;
+
+XII. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos;
+
+XIII. Asesorar a la víctima o al ofendido durante la fase de investigación y juicio;
+
+XIV. Solicitar la reparación del daño a la víctima u ofendido cuando proceda, y realizar todas las acciones tendientes a obtenerla; y
+
+XV. Las demás que determine la ley.
 
 II. Vigilar la observancia de la constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las atribuciones que legalmente correspondan a otras autoridades jurisdiccionales o administrativas. En ejercicio de esta atribución el Ministerio Público de la Federación deberá:
 
@@ -1370,3 +1406,23 @@ D.O.F. 14 DE JUNIO DE 2012.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+D.O.F. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
+
+QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
