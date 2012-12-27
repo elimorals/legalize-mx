@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-12-06"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -141,11 +141,11 @@ El Programa Sectorial de Transporte Público a que se refiere el artículo anter
 
 Los ayuntamientos, conforme a las disposiciones de esta Ley, participarán en la elaboración y aplicación del programa a que alude el artículo anterior, en lo que afecte al ámbito territorial del municipio correspondiente, presentándole sus proyectos al titular del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
 
-El titular del Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, atendiendo al interés público y tomando en cuenta la opinión del Consejo Estatal de Transporte, los consejos municipales o, en su caso, de los ayuntamientos, establecerá conforme a esta ley y su Reglamento, los siguientes elementos del sistema de transporte público: itinerarios, tarifas, horarios, frecuencias, sitios, terminales, bahías, centros de transferencia, lanzaderas, tipos de vehículos, desplazamientos, enlaces, enrolamientos, fusiones y escisiones, o cualquier otra especificación del servicio, así como la normatividad de los servicios auxiliares y la accesibilidad para las personas con discapacidad.
+El titular del Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, atendiendo al interés público y tomando en cuenta la opinión del Consejo Estatal de Transporte, los consejos municipales o, en su caso, de los ayuntamientos, establecerá conforme a esta Ley y su Reglamento, los siguientes elementos del sistema de transporte público: itinerarios, horarios, frecuencias, sitios, terminales, bahías, centros de transferencia, lanzaderas, tipos de vehículos, desplazamientos, enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio, así como la normatividad de los servicios auxiliares.
 
 ###### ARTICULO 11.
 
@@ -285,9 +285,17 @@ III. El Secretario de Comunicaciones y Transportes;
 
 IV. El Director General de Comunicaciones y Transportes;
 
-V. El Director General de Transporte Colectivo Metropolitano, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-VI. Los ayuntamientos.
+V. El Director General de Transporte Colectivo Metropolitano;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+VI. Los ayuntamientos, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+VII. El Congreso del Estado.
 
 ### Capítulo II. De las Atribuciones de las Autoridades
 
@@ -325,7 +333,9 @@ I. Aplicar la política general dictada por el Ejecutivo y los programas en mate
 
 II. Desahogar el procedimiento para otorgar, revocar, modificar, suspender, o declarar la nulidad de concesiones y permisos para la prestación del servicio de transporte público en cualquiera de sus modalidades, y emitir opinión al titular del Ejecutivo Estado para autorizar las cesiones de las mismas, en los casos previstos por esta Ley, así como para que se anulen, revoquen o suspendan;
 
-III. Autorizar y revisar, por sí o a través de la Dirección General de Comunicaciones y Transportes, o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las tarifas, rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+III. Autorizar y revisar, por sí o a través de la Dirección General de Comunicaciones y Transportes, o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal.
 
 Previo a las autorizaciones a que se refiere el párrafo precedente, se tomará en cuenta para la determinación de los conceptos antes señalados, la propuesta de los ayuntamientos involucrados;
 
@@ -1049,7 +1059,9 @@ III. En relación a los esquemas tarifarios, los concesionarios y operadores se 
 
 a) Utilizar los esquemas, aditamentos y equipamiento auxiliar que, previa opinión del Consejo Estatal de Transporte, determine el titular del Ejecutivo.
 
-b) Aplicar en estricto apego las tarifas que el titular del Ejecutivo autorice en el marco de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+b) Aplicar en estricto apego las tarifas que el Congreso del Estado autorice en el marco de esta Ley.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2012)</small>
 
@@ -1331,11 +1343,11 @@ Las tarifas y su aplicación responderán siempre a un criterio técnico uniform
 
 En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 92.
 
-La determinación de las tarifas será el resultado del estudio que al efecto lleven a cabo el Consejo Estatal de Transporte Público, o los respectivos consejos municipales de transporte público, por si mismos, o en coordinación con la propia Secretaría la propuesta de las nuevas tarifas, se turnará al Ejecutivo del Estado para su autorización y publicación en el Periódico Oficial del Estado.
+La determinación de las tarifas será el resultado del estudio que al efecto lleven a cabo el Consejo Estatal de Transporte Público, o los respectivos consejos municipales de transporte público, por sí mismos, o en coordinación con la propia Secretaría; la propuesta de las nuevas tarifas o de sus ajustes, se turnará al Congreso de (sic) Estado para su autorización, hecho lo anterior se remitirá al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
 
 Los prestadores del servicio deberán exhibir permanentemente la tarifa aprobada y publicada en el Periódico Oficial del Estado, en lugares visibles de sus vehículos, en las terminales y demás infraestructura con acceso a los usuarios.
 
@@ -1381,23 +1393,27 @@ El referente para determinar el monto de la rentabilidad será la tasa promedio 
 
 El número de pasajeros será determinado en función de la información comprobable que deberán proporcionar los concesionarios.
 
-El Ejecutivo del Estado tendrá en todo tiempo la facultad de verificar la objetividad de la información proporcionada.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+El Congreso del Estado tendrá en todo tiempo la facultad de verificar la objetividad de la información proporcionada.
 
 ###### ARTICULO 94.
 
 Para el caso de ajuste a tarifas previamente autorizadas, éste se efectuará en función del incremento que registren los siguientes indicadores económicos: salario mínimo vigente en la Entidad; el Índice Nacional de Precios al Consumidor; el Índice Nacional de Precios al Productor; y el precio del combustible, el ajuste quedará definido por el promedio aritmético de la variación de los indicadores del periodo de que se trate; aplicándose el segundo sábado del segundo mes de cada año.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
-La condición constituida conforme al párrafo anterior, prevalecerá hasta en tanto los concesionarios soliciten a la Secretaría, a través del Consejo que corresponda, el ajuste de la tarifa de acuerdo a la formula a la que hace referencia el artículo 93 de esta Ley, o bien el Ejecutivo así lo considere en función del costo total.
+La condición constituida conforme al párrafo anterior prevalecerá hasta en tanto los concesionarios soliciten a la Secretaría, a través del consejo que corresponda, el ajuste de la tarifa, de acuerdo a la fórmula a la que hace referencia el artículo 93 de esta Ley, o bien el Congreso del Estado así lo considere en función del costo total.
 
 ###### ARTICULO 95.
 
 La Secretaría establecerá los sistemas para el cobro de tarifas del servicio público y los sistemas de prepago, incorporando en lo posible los avances tecnológicos existentes. En la aplicación de tarifas, los sistemas de prepago son obligatorios para los concesionarios del servicio urbano colectivo de primera y segunda clase e interurbano. Respecto a los servicios de automóvil de alquiler en sitio y ruleteo, es obligatoria la utilización del taxímetro o cualquier otro dispositivo que establezca la propia Secretaría, así como la expedición de recibos de pago, cuando el usuario lo solicite.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 96.
 
-Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés social y la conveniencia de optimizar o acreditar el servicio de transporte público, la Secretaría podrá autorizar el establecimiento de tarifas especiales, que se aplicarán de manera general e impersonal a sectores específicos de la población, en beneficio de los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
+Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés social y la conveniencia de optimizar o acreditar el servicio de transporte público, el Congreso del Estado podrá autorizar el establecimiento de tarifas especiales, que se aplicarán de manera general e impersonal a sectores específicos de la población, en beneficio de los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
 
 ###### ARTICULO 97.
 
@@ -1551,6 +1567,8 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados, previo 
 
 ### Capítulo I. De la Integración del Consejo Estatal de Transporte Público
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 112.
 
 Corresponde a la Secretaría, a través de la Dirección General, o de la Dirección General del Transporte Colectivo Metropolitano, controlar, regular y vigilar la prestación del servicio público de transporte en cualquiera de sus modalidades, así como realizar periódicamente la inspección de los sistemas de transporte a que se refiere esta Ley.
@@ -1583,7 +1601,7 @@ La Secretaría publicitará ampliamente el número telefónico en el que puedan 
 
 ###### ARTICULO 118.
 
-El Consejo Estatal de Transporte Público es un órgano auxiliar del titular del Ejecutivo, y tendrá a su cargo el estudio y discusión de los problemas de transporte público de la Entidad, y recomendar las acciones conducentes para su mejoramiento.
+El Consejo Estatal de Transporte Público es un órgano auxiliar del titular del Ejecutivo y del Congreso del Estado, y tendrá a su cargo el estudio y discusión de los problemas de transporte público de la Entidad, y recomendar las acciones conducentes para su mejoramiento.
 
 ###### ARTICULO 119.
 
@@ -1611,6 +1629,8 @@ b) Instituciones de educación superior y de las asociaciones de estudiantes de 
 
 c) Asociaciones de profesionistas y ciudadanos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 120.
 
 El Consejo será presidido por el Secretario de Comunicaciones y Transportes; en el mismo fungirá como secretario, el Director General de Comunicaciones y Transportes, o el de Transporte Colectivo Metropolitano, según la materia del asunto o asuntos a tratar en la sesión del Consejo.
@@ -1635,7 +1655,9 @@ VI. Opinar sobre la elaboración del Programa Estatal de Transporte;
 
 VII. Gestionar ante los tres órdenes de gobierno, los programas y acciones que tengan como fin la creación, ampliación o modificación de las vías de comunicación, para impulsar la seguridad y eficiencia de este servicio;
 
-VIII. Conocer las opiniones y recomendaciones de los consejos municipales de transporte, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+VIII. Conocer las opiniones y recomendaciones de los consejos municipales de transporte, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo y del Congreso del Estado, y
 
 IX. Vigilar la aplicación de los métodos de control y evaluación del servicio.
 
@@ -2042,3 +2064,11 @@ P.O. 6 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
