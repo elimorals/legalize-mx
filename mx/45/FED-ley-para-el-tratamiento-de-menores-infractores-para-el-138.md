@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-tratamiento-de-menores-infractores-para-el-138"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-24"
-last_updated: "2003-06-25"
+last_updated: "2012-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1991-12-19"
 ---
 # LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE JUSTICIA PARA ADOLESCENTES, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, EN SU APLICACIÓN DE ÁMBITO FEDERAL, A LOS DOS AÑOS SIGUIENTES AL DÍA DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 24 de diciembre de 1991.
 
@@ -59,7 +61,7 @@ Los menores indígenas tienen en todo tiempo el derecho a ser asistidos por int�
 
 ### CAPITULO I. INTEGRACION, ORGANIZACION Y ATRIBUCIONES DEL CONSEJO DE MENORES
 
-> <small>N. DE E. EN RELACION CON EL PRESENTE ARTICULO, VEASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, EN CORRELACION CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO, VÉASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, EN CORRELACIÓN CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
 
 ###### ARTICULO 4o.
 
@@ -335,7 +337,7 @@ IX.- Conciliar a las partes sobre el pago de la reparación del daño; y
 
 X.- Las demás que determinen esta Ley, los reglamentos, la Sala Superior y el Presidente del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 21.
 
@@ -513,7 +515,7 @@ IV.- En los casos en que los menores tengan la calidad de indígenas, los mismos
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON EL PRESENTE ARTICULO, VEASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, EN CORRELACION CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO, VÉASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, EN CORRELACIÓN CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
 
 ###### ARTICULO 33.
 
@@ -1281,7 +1283,7 @@ México, D.F., a 17 de diciembre de 1991.- Sen. Artemio Iglesias Miramontes, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y uno..- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -1332,3 +1334,23 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 D.O.F. 25 DE JUNIO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
+
+QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
