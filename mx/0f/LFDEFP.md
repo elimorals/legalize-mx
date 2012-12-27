@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "1998-05-28"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFDEFP"
 ---
 # LEY FEDERAL DE DEFENSORIA PUBLICA
 
-LEY FEDERAL DE DEFENSORIA PUBLICA
+LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -66,7 +66,11 @@ Para la prestación de los servicios de defensoría pública, se crea el Institu
 
 Los servicios de defensoría pública se prestarán a través de:
 
-I. Defensores públicos, en los asuntos del orden penal federal, desde la averiguación previa hasta la ejecución de las penas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+
+I. Defensores públicos, en los asuntos del orden penal federal y de la Justicia Federal para Adolescentes, desde la averiguación previa o investigación hasta la ejecución de las penas o medidas, y
 
 II. Asesores jurídicos, en asuntos de orden no penal, salvo los expresamente otorgados por la Ley a otras instituciones.
 
@@ -124,9 +128,13 @@ El Director General, los defensores públicos, asesores jurídicos y el personal
 
 ### CAPÍTULO II. De los Defensores Públicos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-Los defensores públicos serán asignados inmediatamente por el Instituto Federal de Defensoría Pública, sin más requisitos que la solicitud formulada por el indiciado en la averiguación previa, el inculpado en el proceso penal, el sentenciado y el Agente del Ministerio Público o el órgano jurisdiccional, según sea el caso.
+Los defensores públicos y los defensores públicos para adolescentes serán asignados inmediatamente por el Instituto Federal de Defensoría Pública, sin más requisitos que la solicitud formulada por el adolescente o adulto joven al que se le esté aplicando la Ley Federal de Justicia para Adolescentes, por el indiciado en la averiguación previa, el inculpado en el proceso penal, el sentenciado y el Agente del Ministerio Público o el Agente del Ministerio Público Federal para Adolescentes, o el órgano jurisdiccional, según sea el caso.
 
 ###### Artículo 11.
 
@@ -171,6 +179,30 @@ VIII. Practicar las visitas que sean necesarias a los centros de reclusión con 
 IX. Vigilar el adecuado cumplimiento de las sentencias, procurando para sus representados los beneficios que, en su caso, establezcan las disposiciones legales aplicables, y
 
 X. Las demás promociones que sean necesarias para una adecuada defensa conforme a Derecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 12 Bis.
+
+A los defensores públicos para adolescentes, además de las atribuciones que procedan señaladas en los artículos anteriores, las siguientes:
+
+I. Ejercer la defensa legal de los adolescentes o adultos jóvenes a quienes se atribuya la realización de una conducta tipificada como delito, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público de la Federación para Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Federal de Justicia para Adolescentes;
+
+II. Asistir al adolescente o adulto joven sujeto a la aplicación de la Ley Federal de Justicia para Adolescentes, especialmente en aquellos momentos en los que por decisión de la autoridad se modifique su situación jurídica o se pongan en riesgo sus derechos o garantías;
+
+III. Mantener una comunicación constante con el adolescente o adulto joven, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles de la investigación, el proceso o la medida;
+
+IV. Pugnar para que en todo momento se respeten los derechos y garantías de los adolescentes o adultos jóvenes a quienes defiende, y hacer del conocimiento inmediato de las autoridades correspondientes cuando no se respeten tales derechos y garantías, o exista inminencia de que así suceda;
+
+V. Informar de inmediato al adolescente o adulto joven sujeto a la aplicación de la Ley Federal de Justicia para Adolescentes, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
+
+VI. Promover soluciones alternativas al proceso;
+
+VII. Solicitar al Ministerio Público de la Federación para Adolescentes el no ejercicio de la remisión ante el Juez de Distrito Especializado para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello, y
+
+VIII. Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente o adulto joven, incluyendo ofrecimiento y desahogo de pruebas, realización de careos, formulación de alegatos, agravios, conclusiones, interposición de recursos, incidentes y demás actos conducentes.
 
 ###### Artículo 13.
 
@@ -457,3 +489,25 @@ SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Francisco Antonio Ordaz Hernández, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
+
+QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
