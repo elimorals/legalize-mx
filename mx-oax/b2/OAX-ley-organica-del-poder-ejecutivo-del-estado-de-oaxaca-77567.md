@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2012-03-10"
+last_updated: "2012-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1043,7 +1043,9 @@ XVIII. Integrar el Programa Operativo Anual de la Administración Pública Estat
 
 XIX. Conducir los proyectos dirigidos a los sectores social y privado en la formulación y ejecución de los planes y programas del Gobierno del Estado;
 
-XX. Realizar los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública que le requiera el Gobernador del Estado, así como, evaluar, validar, programar y autorizar la inversión pública estatal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+XX. Ampliar y mantener actualizado el Registro Estatal de Contribuyentes;
 
 XXI. Ejercer las atribuciones derivadas de los convenios, que en materia fiscal celebre el gobierno del Estado con la federación o con los ayuntamientos;
 
@@ -1057,7 +1059,9 @@ XXV. Coordinar financieramente las operaciones de las Entidades de la Administra
 
 XXVI. Formar parte del Órgano de Gobierno de las Entidades;
 
-XXVII. Practicar auditorías a los contribuyentes de la Hacienda Pública Estatal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Ordenar y practicar la comprobación del cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal a través de requerimientos, visitas domiciliarias, inspección, dictámenes, intervención y revisiones en las oficinas de la autoridad.
 
 XXVIII. Dirigir los servicios de inspección y vigilancia fiscal en el Estado;
 
@@ -1103,7 +1107,13 @@ XLVIII. Emitir dictamen de disponibilidad presupuestal en los casos en que se pr
 
 XLIX. Integrar el programa anual de inversión pública del Estado; y
 
-L. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+L. Emitir reglas de carácter general que faciliten el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
+LI. las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1914,3 +1924,7 @@ DECIMO PRIMERO. El Poder Ejecutivo realizará las reformas a la normatividad apl
 DÉCIMO SEGUNDO. Para dar cumplimiento a la modernización administrativa en materia registral, el Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias para que la Dirección del Registro Público de la Propiedad y del Comercio y el Instituto Catastral del Estado de Oaxaca, se fusionen en el Instituto Registral y Catastral de Oaxaca, como Órgano Descentralizado de la Administración Pública Estatal.
 
 DÉCIMO TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
