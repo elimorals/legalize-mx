@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-90551"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-11-30"
-last_updated: "2012-11-30"
+last_updated: "2012-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Séptima del Periódico Oficial del Estado de Michoacán, el viernes 30 de noviembre de 2012.
 
@@ -4657,13 +4657,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Los trámites y procedimientos que a la entrada en vigor del presente Decreto, esté desarrollando o substanciando la Comisión de Administración, Prerrogativas y Fiscalización del Instituto Electoral de Michoacán, continuarán substanciándose hasta la conclusión de los mismos con la normatividad que estaba vigente al momento de su inicio.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
 ...
 
 ###### ARTÍCULO TERCERO.
 
-Para el caso del nombramiento de los titulares de la Unidad de Fiscalización y la Contraloría, ambos del Instituto Electoral de Michoacán, el Consejo General deberá nombrarlos dentro de los noventa días contados a partir del 01 de enero del año 2013.
+Una vez instalado el Consejo General del Instituto Electoral de Michoacán, integrado por el Consejero Presidente y los Consejeros Electorales nombrados en atención a lo instruido por el artículo Tercero Transitorio del Decreto Legislativo número 301 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de fecha 05 de diciembre de 2011 que reforma diversos artículos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, contará con noventa días para nombrar a los titulares de la Unidad de Fiscalización y la Contraloría, del Instituto Electoral de Michoacán.
 
 ###### ARTÍCULO CUARTO.
 
@@ -4678,3 +4680,9 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de octubre del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2012.
+
+PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
