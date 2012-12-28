@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-12-10"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE DICIEMBRE DE 2012.</small>
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -1165,15 +1165,13 @@ La muerte del delincuente extingue la sanción penal, así como las sanciones qu
 
 ### CAPITULO II. PERDON DEL OFENDIDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 28 DE DICIEMBRE DE 2012)
 
 ###### ARTICULO 104.
 
-El perdón del ofendido o de su representante legal otorgado ante el Juez, Magistrado, Notario Público o la conciliación, extingue la acción penal cuando concurran los requisitos siguientes:
+el perdón del ofendido de (sic) su representante legal otorgado ante el Juez, Magistrado, Notario Público o la conciliación, extingue la acción penal cuando concurran los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
@@ -1191,9 +1189,9 @@ III. Que el perdón se otorgue por el ofendido siendo mayor de edad, o por la pe
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 28 DE DICIEMBRE DE 2012)
 
-IV. Que la conciliación se obtenga en cualquiera de los periodos que comprende el procedimiento penal.
+IV. Que la conciliación se obtenga en cualquiera de los periodos que comprende el procedimiento penal, y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3183,7 +3181,7 @@ La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
 
 ###### ARTICULO 325.
 
-Se entiende que el homicidio y las lesiones son calificados:
+Se entiende que el homicidio y las lesiones son calificadas:
 
 I.- Caundo (sic) se cometan con premeditación, alevosía, ventaja o traición.
 
