@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-11-23"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -171,11 +171,13 @@ El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplic
 
 La Educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial en cualquiera de sus tipos, niveles y modalidades, deberá sujetarse a los principios establecidos por el artículo 3ro. de la Constitución Política de los Estados Unidos Mexicanos y tendrá los siguientes fines:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos y físicos, para que ejerza plena y responsablemente sus capacidades humanas.
+I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos, físicos y artísticos, para que ejerza plena y responsablemente sus capacidades humanas.
 
-II.- Favorecer la adquisición tanto de conocimientos científicos y culturales como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Favorecer la adquisición tanto de conocimientos científicos, culturales y artísticos, así como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del País.
 
@@ -191,9 +193,13 @@ VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igual
 
 VII.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, procurando la vinculación con el sector productivo.
 
-VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IX.- Aplicar la educación física y la práctica del deporte.
+VIII.- Impulsar y aplicar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IX.- Aplicar la educación física y la práctica del deporte sin distinción alguna de condición social o discriminatoria por motivos de discapacidad.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -309,9 +315,9 @@ XXI.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura
 
 XXII.- Proponer en los contenidos regionales a los que se refiere la fracción III de este artículo la incorporación de asignaturas relativas a la protección al medio ambiente y a la protección civil.
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-XXIII.- El aborar (sic) un Programa Estatal de Becas en el Sistema Educativo Estatal que contemple apoyos o estímulos en forma económica, en especie o en exención, para estudiantes de excelencia académica, de escasos recursos, y estudiantes destacados en la cultura y el deporte; mecanismos de coordinación con la federación, municipios e instituciones públicas y privadas, así como expedir el reglamento de becas respectivo.
+XXIII.- Elaborar un programa estatal de becas en el sistema educativo estatal que contemple apoyos y estímulos en forma económica, en especie o en exención, para estudiantes de excelencia académica, de escasos recursos, con alguna discapacidad y estudiantes destacados en la cultura y el deporte; mecanismos de coordinación con la federación, municipios e instituciones públicas y privadas, así como expedir el reglamento de becas respectivo.
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -445,7 +451,9 @@ El Sistema Educativo Estatal comprende los tipos y niveles, inicial, básico, me
 
 I.- La educación inicial comprende la modalidad escolarizada que se imparta en los centros de desarrollo infantil y la modalidad no escolarizada que se imparte en comunidades rurales y urbano marginadas.
 
-II.- El tipo básico comprende la educación preescolar, la primaria y la secundaria, incluyendo la educación física, indígena y la educación especial.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- El tipo básico comprende la educación preescolar, la primaria y la secundaria, incluyendo la educación física, artística, indígena y la educación especial.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
@@ -505,13 +513,17 @@ La educación secundaria se enfocará además al dominio del idioma inglés
 
 Las escuelas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuesta por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 28.
 
-La educación física como materia permanente y obligatoria al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación inicial y básica.
+La educación física y artística como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán en los niveles de educación inicial y básica, sin distinción alguna por motivos de discapacidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 29.
 
-Las autoridades educativas a través de la Dirección y Departamento Estatales de Educación Física serán las responsables de la aplicación de los programas y guías metodológicas oficiales de Educación Física, en los diferentes niveles educativos.
+Las autoridades educativas a través de la Dirección y Departamentos Estatales de Educación Física y Artística, serán las responsables de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
 
 ###### ARTICULO 30.
 
@@ -538,6 +550,46 @@ VIII.- Promover la práctica de estilos de vida saludables en los educandos, con
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 Para ser docente de Educación Física, se requiere haber obtenido el título de Maestro Normalista de Educación Física, de Licenciado en Educación Física, de Licenciado en Actividad Física y Deporte; o profesión afín que cuente con reconocimiento oficial.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 30 BIS.- La educación artística que impartan el Estado y los Municipios tendrá, además de los propósitos establecidos, los siguientes propósitos generales de la Educación Artística:
+
+En nivel preescolar:
+
+I.- Se orientará a potenciar en los niños la sensibilidad, la iniciativa, la curiosidad, la espontaneidad, la imaginación, el gusto estético y la creatividad, para que expresen sus sentimientos mediante el arte y la experimentación de sensaciones de logro;
+
+II.- Tenderá a que los alumnos progresen en sus habilidades motoras y las fortalezcan al utilizar materiales, herramientas y recursos diversos, desarrollando las habilidades perceptivas como resultado de lo que observan, escuchan, palpan, bailan y expresan a partir del arte;
+
+III.- Los alumnos deben reconocer que otros, tienen diferentes puntos de vista y formas de expresarse, aprendiendo a valorar la diversidad.
+
+En los niveles de primaria, y secundaria:
+
+La asignatura en los dos niveles educativos citados se debe organizar en distintas manifestaciones artísticas por lo cual se deberá:
+
+I.- Favorecer el desarrollo de la competencia Artística y Cultural abriendo espacios específicos para las actividades de expresión y apreciación artística, tomando en cuenta las características de niñas y niños, quienes necesitan de momentos para jugar, cantar, escuchar música de distintos géneros, imaginar escenarios y bailar.
+
+II.- El enriquecimiento de su lenguaje y desarrollo de la memoria, que permitan mejorar la atención, la escucha, la corporeidad favoreciendo mayores oportunidades de interacción con los demás.
+
+III.- Se buscará que los alumnos amplíen sus conocimientos en una disciplina artística y la practiquen habitualmente mediante la apropiación de técnicas y procesos que les permitan expresarse artísticamente.
+
+IV.- Facilitar la interacción con distintos códigos, que les permita reconocer la diversidad de relaciones entre los elementos estéticos y simbólicos, pudiendo interpretar los significados de esos elementos para otorgarles un sentido social, que les permita disfrutar la experiencia de formar parte del quehacer artístico.
+
+V.- Desarrollo de la competencia artística y cultural a partir de la apropiación de lenguajes, procesos y recursos de las artes, con base en el trabajo pedagógico diseñado para potenciar sus capacidades, atender sus intereses y satisfacer sus necesidades socioculturales.
+
+VI.- Que se adquieran por los alumnos los conocimientos y las habilidades propios de los lenguajes artísticos: artes visuales, expresión corporal y danza, música y teatro, que permitan desarrollar su pensamiento artístico, paralelamente a sus actitudes y valores, mediante experiencias estéticas que favorezcan su creatividad.
+
+VII.- Instruya y oriente como valorar la importancia de la diversidad y la riqueza del patrimonio artístico y cultural, por medio del descubrimiento y la experimentación de los diferentes aspectos del arte, al vivenciar actividades cognitivas, afectivas y estéticas.
+
+VIII.- Aprecien las cualidades estéticas de diversas manifestaciones y representaciones del cuerpo humano por medio de lenguajes artísticos para comprender su significado cultural y valorar su importancia dentro de las artes.
+
+IX.- Exploren la dimensión estética de las imágenes, las cualidades del sonido y el uso de cuerpo y voz, estructura dramática y creación teatral, para enriquecer las concepciones personales y sociales que se tienen del arte.
+
+X.- Conozcan los procesos de creación artística de diseñadores, artesanos y en general de los miembros creativos de la comunidad; y
+
+XI.- Distingan diferentes profesiones e instituciones que se desarrollan en diferentes entornos culturales relacionadas con la creación, investigación, conservación y difusión de las artes.
+
+Para ser docente de Educación Artística, se requiere haber obtenido el título de Maestro Normalista de Educación Artística, de Licenciado en Educación Artística, de Licenciado en Actividad Artística; o profesión afín que cuente con reconocimiento oficial.
 
 ###### ARTICULO 31.
 
@@ -581,11 +633,11 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 34.
 
-La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con inclusión y equidad social.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -594,6 +646,10 @@ La educación especial tendrá como objetivo proporcionar la integración de ni�
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 Esta educación incluye capacitación a los padres y madres así como también a maestros y personal de educación básica regular que integren alumnas y alumnos con necesidades especiales de educación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Con el objeto de detectar, estimular y proporcionar educación oportuna y de calidad a los alumnos con capacidades sobresalientes, la Secretaría de Educación y Bienestar Social, atenderá y dará cumplimiento a los lineamientos y criterios establecidos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -687,9 +743,9 @@ VII.- Pugnará para que se comprendan e interpreten los principios de nuestras r
 
 VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y (sic)
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe, y
+IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de las diferentes discapacidades y de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe, y
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -1007,7 +1063,9 @@ X.- Opinarán en asuntos pedagógicos y en temas que permitan la salvaguarda del
 
 XI.- Contribuirán a reducir las condiciones sociales adversas que influyan en la educación;
 
-XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y en general, las que tiendan apoyar (sic) las necesidades especiales de los educandos, y
 
 XIII.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
 
@@ -1560,3 +1618,11 @@ P.O. 23 DE NOVIEMBRE DE 2012.
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Congreso del Estado realizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo a las presentes Reformas de Ley.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
+
+SEGUNDO: Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO: Con relación a las reformas a los artículos 14, fracciones I, II y VIII, 22 fracción II, 28, 29, y adición del artículo 30 bis, todos de la Ley de Educación para el Estado de Baja California, el Sistema Educativo Estatal, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto o en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes de la educación artística al área que corresponda.
