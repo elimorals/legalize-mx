@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2011-12-30"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -139,13 +139,15 @@ Las normas de derecho tributario que establezcan cargas a los particulares y las
 
 Son productos los ingresos que percibe el Estado, provenientes de actividades que no correspondan al desarrollo de sus funciones propias de derecho público, o por la explotación de sus bienes patrimoniales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 9o.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos del Estado no clasificables como impuestos, derechos, productos o participaciones.
+Son aprovechamientos los recargos, las multas y los demás ingresos del Estado no clasificables como contribuciones, productos o participaciones.
 
 Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el sexto párrafo del artículo 35 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -253,9 +255,9 @@ Sólo podrá afectarse un ingreso estatal a un fin especial, que a su vez consti
 
 Las leyes y demás disposiciones de carácter general que se refieran a la Hacienda Pública del Estado y que no prevengan expresamente otra cosa, obligan y surten efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; o el de la fecha que señalen las mismas leyes, reglamentos y demás disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 14.
 
@@ -325,7 +327,7 @@ b).- Bienes inmuebles por el 75% del valor de avalúo catastral;
 
 En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado y contener los datos relacionados con el crédito fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -375,23 +377,23 @@ La autoridad fiscal para aceptar la garantía, deberá verificar que se cumplan 
 
 La Secretaría de Finanzas y Administración vigilará y aceptará las garantías en su caso, previa calificación correspondiente, cuidando periódicamente su eficacia y en caso contrario, tomará las medidas necesarias para asegurar el interés del fisco.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -433,7 +435,7 @@ III.- Si ante ambos acreedores se han constituido garantías reales, la preferen
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -455,9 +457,9 @@ Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácte
 
 ### CAPITULO I. DE LOS SUJETOS Y DEL DOMICILIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 27.
 
@@ -477,7 +479,7 @@ Toda estipulación privada relativa al pago de un crédito fiscal que se oponga 
 
 Serán considerados como deudores con responsabilidad directa y por adeudo propio, los herederos respecto de los créditos fiscales a cargo del autor de la sucesión. La responsabilidad fiscal se dividirá entre ellos, en proporción a sus porciones hereditarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 30.
 
@@ -535,7 +537,7 @@ En el pago de derechos, el Estado, cuando su actividad corresponda a sus funcion
 
 II.- Las instituciones de asistencia sin fines de lucro, de conformidad a las limitaciones que señala la Ley de Instituciones Privadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -565,21 +567,21 @@ b).- Si existen varios establecimientos, en donde se encuentre la administració
 
 c).- A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 d).- (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 e).- (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 Cuando se realicen actividades en el mismo domicilio a través de sus representantes, se considerará como domicilio fiscal el de dicho representante, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -603,9 +605,9 @@ Se entiende como transferencia electrónica de fondos el pago de las contribucio
 
 Así mismo las contribuciones y sus accesorios fiscales se podrán pagar mediante giro telegráfico o postal, en los casos previstos en el artículo 52 de éste Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 34.
 
@@ -677,11 +679,11 @@ La determinación de los créditos fiscales y de las bases para su liquidación,
 
 Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior, los contribuyentes al efectuar su pago, el monto se ajustará para que las que contengan cantidad que incluya de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría de Finanzas y Administración, sus dependencias directas y órganos fiscales, tendrán las funciones en relación con las diversas materias tributarias, que determinen la Ley Orgánica de la Administración Pública del Estado, el Reglamento Interior de la Secretaría de Finanzas y Administración, el presente Código, la Ley de Ingresos, la Ley de Hacienda del Estado, la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Decreto del Presupuesto de Egresos, así como el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás disposiciones de orden fiscal.
+La Secretaría de Finanzas y Administración, sus dependencias directas y órganos fiscales, tendrán las funciones en relación con las diversas materias tributarias, que determinen la Ley Orgánica de la Administración Pública del Estado, el Reglamento Interior de la Secretaría de Finanzas y Administración, el presente Código, la Ley de Ingresos, la Ley de Hacienda del Estado, la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Decreto del Presupuesto de Egresos, la Ley del Sistema de Coordinación Hacendaria del Estado de Guerrero, así como el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás disposiciones de orden fiscal.
 
 ###### ARTICULO 42.
 
@@ -773,11 +775,11 @@ I.- Cuando el pago de lo indebido, total o parcialmente se hubiere efectuado en 
 
 II.- Tratándose de créditos fiscales cuyo importe hubiere sido efectivamente retenido a los sujetos pasivos; el derecho a la devolución sólo corresponderá a éstos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -797,13 +799,13 @@ III.- Que la acción para reclamar la devolución no se haya extinguido;
 
 IV.- Que se dicte acuerdo escrito de la Secretaría de Finanzas y Administración o exista sentencia ejecutoriada de la autoridad correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 V.- Que acompañe a la solicitud de devolución o a la promoción judicial en la que solicite el reembolso de la cantidad erogada, el recibo original con el cual acredite el pago de la cantidad de la cual solicita reintegro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -811,7 +813,7 @@ Las autoridades fiscales podrán ejercer facultades de comprobación para verifi
 
 Contra la negativa de autoridad competente, para la devolución a que este artículo se refiere, el contribuyente podrá optar por interponer el recurso de revocación que establece este Código o interponer juicio de nulidad, ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 57.
 
@@ -821,7 +823,7 @@ La excepción a que se refiere el párrafo anterior, sólo podrá hacerse valer 
 
 La prescripción podrá ser invocada por vía de acción por el deudor fiscal ante la Secretaría de Finanzas y Administración, a efecto de que ésta resuelva sobre su procedencia. En todos los casos la prescripción es personal para los efectos del crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 58.
 
@@ -857,7 +859,7 @@ La acción del fisco estatal para exigir el pago de los recargos, los gastos de 
 
 El derecho de los particulares para solicitar la devolución de las cantidades pagadas indebidamente al fisco del Estado, prescriben en los mismos términos y condiciones del crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 62.
 
@@ -891,11 +893,11 @@ I.- Cuando se trate de cualquier clase de obligaciones a cargo y a favor del Est
 
 II.- Cuando se trate de cualquier clase de crédito o deudas a cargo del Estado, Federación de otras entidades federativas a favor del Estado; y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-III.- Cuando se trate de obligaciones fiscales a cargo del contribuyente por adeudo propio o retención a terceros, estos podrán optar por compensar las cantidades que tengan a su favor, siempre y cuando ambas deriven del mismo impuesto y no tengan destino especifico.
+III.- Cuando se trate de obligaciones fiscales a cargo de contribuyentes por adeudo propio o retención a terceros, éstos podrán optar por compensar las cantidades que tengan a su favor, siempre y cuando ambas deriven del mismo impuesto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1029,7 +1031,7 @@ III.- Promoverán el espíritu de servicio y la superación técnica y profesion
 
 IV.- La oficina recaudadora expedirá a las personas físicas o morales que paguen contribuciones estatales, el recibo oficial o la forma prellenada en los que conste la impresión original de la máquina electrónica y cuando se carece de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión del equipo electrónico, el sello y la firma del cajero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1043,7 +1045,7 @@ Los interesados directamente en situaciones reales y concretas que planteen cons
 
 Las autoridades se abstendrán de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 81.
 
@@ -1061,7 +1063,7 @@ II.- Enterar el pago de sus contribuciones dentro de los plazos y fechas que est
 
 III.- Los establecimientos, sucursales, bodegas, oficinas administrativas o agencias de la matriz que deban empadronarse por separado de acuerdo con lo señalado por la fracción I de este artículo, tendrán la obligación de pago cuando se establezcan en otra localidad; en caso de que en una misma ciudad los contribuyentes tengan dos o más establecimientos, el pago de sus impuestos podrá efectuarlo en una sola declaración ante la administración o agencia fiscal estatal en donde se encuentre inscrita la matriz o la sucursal que ellos designen, debiendo enumerar en los renglones marcados en el formato de declaración múltiple de pago, el número y domicilio en donde se encuentren ubicadas las sucursales por las que se efectúe el pago; de la misma forma deberán proceder aquellos contribuyentes que lleven a cabo obras de construcción en diversos domicilios de una misma localidad o que por su actividad, presten servicios de personal calificado y profesional;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 IV.- Las personas físicas y morales que efectúen actos ocasionales y accidentales, conforme a los requisitos que establezcan las leyes respectivas, están obligados a pagar el impuesto que resulte, a más tardar al día siguiente en que se haya efectuado la actividad gravada, pudiéndose acreditar en su caso el importe que les haya sido retenido por la persona moral referido a los actos ocasionales y accidentales.
 
@@ -1227,23 +1229,29 @@ Cuando se ignore el nombre, razón social o denominación del contribuyente, se�
 
 b).- El nombre de las personas que practicarán la diligencia, las cuales podrán ser sustituidas o aumentadas, por la autoridad que expidió la orden comunicándose por escrito al visitado el nombre de los visitadores sustitutos y aumentados en su caso;
 
-c).- Los gravámenes de cuya verificación se trata y en su caso, los ejercicios a los que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales durante cierto tiempo o concretarse únicamente a determinados aspectos;
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En este caso, la autoridad responsable, deberá levantar un acta circunstanciada del aumento de personal o sustitución del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+c).- Los gravámenes de cuya verificación se trate y los ejercicios a los que debe limitarse la visita.
 
 II.- Si al presentarse los visitadores al lugar donde deba practicarse la diligencia no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen en hora determinada del día hábil siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, debiendo los visitadores identificarse plenamente con la persona con quien se entienda la diligencia, asentando tal situación en el acta que al efecto se levante;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 III.- De toda visita en el domicilio fiscal se levantara acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. los (sic) hechos u omisiones consignados por los visitadores en las actas, hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 IV.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregaran al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. en (sic) los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción II, de este numeral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1251,7 +1259,7 @@ V.- El visitado será requerido para que proponga dos testigos y en su ausencia 
 
 Los testigos señalados por el contribuyente, podrán ser sustituidos en los casos en que se ausenten del lugar donde se esté practicando la diligencia o manifiesten su voluntad de dejar de ser testigos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1259,7 +1267,7 @@ VI.- Los libros, los registros y documentos serán examinados en el domicilio, e
 
 La Secretaría de Finanzas y Administración tomará las medidas necesarias para el cumplimiento de este precepto;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 VII.- Cuando los visitadores detecten alguna de las siguientes irregularidades, podrán obtener copias de los libros, registros y documentos del visitado:
 
@@ -1277,7 +1285,7 @@ e).- Cuando los documentos no estén registrados en los libros, registros o sist
 
 En caso de que los visitadores obtengan copias certificadas de la contabilidad por encontrarse el visitado en cualquier de los supuestos previstos en esta fracción, deberán levantar acta parcial debidamente circunstanciada con los hechos u omisiones que se hubieren conocido por los visitadores. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1285,7 +1293,7 @@ VIII.- Cuando en el desarrollo de una visita domiciliaria, las autoridades fisca
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia, o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que estos se encuentran en poder de una autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 IX.- La Secretaría de Finanzas y Administración deberá concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos, que se efectúen en las propias oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de la fecha en que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
@@ -1293,13 +1301,13 @@ Cuando las autoridades no levanten el acta final de visita o no notifiquen el of
 
 X.- Los visitadores harán constar en acta los hechos, condiciones y circunstancias observadas. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado no producirán efecto de resolución fiscal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones siempre y cuando se trate de hechos diferentes. Se entenderá que se trata de hechos diferentes conforme a lo previsto por el Código Fiscal de la Federación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1395,7 +1403,7 @@ II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante
 
 III.- Cuando el contribuyente desocupe su domicilio fiscal para efectos Estatales sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1407,15 +1415,19 @@ Si durante el plazo para concluir la visita domiciliaria o la revisión de la co
 
 En los casos en que al practicarse una auditoría, inspección o revisión, los propietarios o encargados presentes se nieguen a permitir el inicio de ella o durante el desarrollo de la misma nieguen a los visitadores el acceso a los locales o dependencias o bien se nieguen a exhibir la documentación contenida en archiveros, escritorios y demás mobiliarios de oficina. El personal que practique la diligencia sellará los locales, oficinas o muebles cuya inspección no se le permita, los sellos se levantarán inmediatamente que proporcionen los medios para la práctica de la visita, auditoría, inspección o revisión de que se trate.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Se levantará acta indicando el número de sellos y su localización ya sea en muebles, cuartos, oficinas y en qué lugar de la empresa se encuentran.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ARTICULO 91 BIS.- Las personas físicas con actividades empresariales y las personas morales que se encuentren en alguno de los supuestos previstos en este artículo, están obligadas a dictaminar sus obligaciones fiscales estatales, en los términos del artículo 92 de éste Código y de las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración, por contador público autorizado.
 
 I.- Las que en el ejercicio anterior hayan obtenido ingresos acumulables superiores a $25´000,000.00 para efecto del impuesto sobre la renta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 II.- O que por lo menos cien de sus trabajadores en promedio mensual les hayan prestado servicio en el ejercicio inmediato anterior.
 
@@ -1439,9 +1451,9 @@ b) Cuando una misma persona física o moral ejerza control efectivo de ellas, au
 
 3.- Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IV.- El registro para formular dictámenes del cumplimiento de obligaciones fiscales, lo pueden obtener las personas que se encuentren registradas ante la Administración General de Auditoría Fiscal Federal y que sean miembros de un Colegio de Contadores Públicos. Para tal efecto, deberán presentar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, solicitud de registro en el formato oficial autorizado por la Secretaría de Finanzas y Administración, acompañando original y copia de su constancia de registro ante la Administración General de Auditoría Fiscal Federal del Servicio de Administración Tributaria, así como la constancia emitida por un Colegio de Contadores Públicos que acredite su calidad de miembro activo, expedida a más tardar en la fecha de presentación de la solicitud, original y copia de una identificación oficial.
+IV.- El registro para formular dictámenes del cumplimiento de obligaciones fiscales, lo pueden obtener las personas que se encuentren registradas ante el Servicio de Administración Tributaria y que sean miembros de un Colegio de Contadores Públicos. Para tal efecto, deberán presentar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, solicitud de registro en el formato oficial autorizado por la Secretaría de Finanzas y Administración, acompañando original y copia de su constancia de registro ante la Administración General de la Auditoría Fiscal Federal del Servicio de Administración Tributaria, así como la constancia emitida por un Colegio de Contadores Públicos que acredite su calidad de miembro activo, expedida a más tardar en la fecha de presentación de la solicitud, original y copia de una identificación oficial.
 
 Por lo que respecta a la recepción de avisos, documentos e informes relacionados con el dictamen estatal, los contribuyentes cuya circunscripción territorial corresponda a los municipios de Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alcozauca de Guerrero, Alpoyeca, Apaxtla, Arcelia, Atenango del Río, Atlamajalcingo del Monte, Atlixtac, Buenavista de Cuéllar, Chilapa de Álvarez, Chilpancingo de los Bravo, Cochoapa el Grande, Cocula, Copala, Copalillo, Copanatoyac, Coyuca de Catalán, Cualác, Cuetzala del Progreso, Cutzamala de Pinzón, Eduardo Neri, General Canuto A. Neri, General Heliodoro Castillo, Huamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, José Joaquín de Herrera, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, Quechultenango, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tixtla de Guerrero, Tla coapa, Tlalchapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Tlapehuala, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas, Zirándaro, y Zitlala, realizaran sus tramites correspondientes en la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle de Zaragoza esquina 16 de septiembre, Edificio Juan Álvarez 1er. Piso colonia centro C.P. 39000, Chilpancingo, Guerrero.
 
@@ -1681,7 +1693,7 @@ En caso de existir declaraciones complementarias, tal circunstancia deberá hace
 
 XXVIII.- Para el dictamen del cumplimiento de las obligaciones fiscales en materia del impuesto por la prestación de servicios de hospedaje, el Contador Público deberá requisitar debidamente los anexos de acuerdo a las reglas de carácter general que al efecto expida la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 92.
 
@@ -2091,7 +2103,13 @@ d).- Por la incorrecta aplicación de los valores unitarios de suelo y construcc
 
 e).- Previa evaluación de resolución de la autoridad judicial.
 
-II.- Suspensión de seis a doce meses en caso de reincidir en alguna de las situaciones señaladas en la fracción anterior; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Suspensión de seis a doce meses por alguna de las situaciones siguientes:
+
+a).- Omisión total o parcial del pago de los derechos por certificación de avalúos fiscales; y
+
+b).- Reincidir en algunas de las situaciones señaladas en la fracción anterior.
 
 III.- Cancelación del registro por:
 
@@ -2303,7 +2321,7 @@ Las notificaciones se harán en el último domicilio que la persona a quien se d
 
 La diligencia de notificación se entenderá con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si el domicilio se encuentra cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de la policía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2313,7 +2331,7 @@ Las notificaciones practicadas en los términos de los párrafos anteriores se t
 
 b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2321,13 +2339,13 @@ c).- Por estrados, cuando la persona a quien deba notificarse desaparezca despu�
 
 d).- En los demás casos por medio de oficios o telegramas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 e).- Por instructivo cuando la persona a quien haya de notificarse no atendiere el citatorio, y la persona que se encuentre en el domicilio en que se realice la diligencia se niegue a recibirla, la notificación se realizará fijando el documento en la puerta del domicilio, asentando las circunstancias que dieron origen a la notificación por instructivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2375,7 +2393,7 @@ IV.- Las que se hagan por edicto desde el día siguiente hábil al de la última
 
 V.- Desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir efectos, de acuerdo con las fracciones anteriores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2395,7 +2413,7 @@ La existencia del personal de guardia no habilitará los días en que se suspend
 
 Los términos a que este artículo se refiere, principiarán a correr al día hábil siguiente a la fecha en que surta efectos la notificación o que se realicen los hechos o las circunstancias que las disposiciones legales o las resoluciones administrativas prevengan.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 141.
 
@@ -2411,7 +2429,7 @@ Queda prohibido por habilitación que produzca o pueda producir el efecto de que
 
 #### SECCION PRIMERA. DEL REQUERIMIENTO DE PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 143.
 
@@ -2419,7 +2437,7 @@ No satisfecho o garantizado un crédito a favor del erario del Estado dentro del
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución, para cobrar créditos derivados por concepto de productos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2493,9 +2511,9 @@ III.- En los demás casos que prevengan las leyes. En los casos de las fraccione
 
 Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 38 Fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que conforme a su naturaleza le sean aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 151.
 
@@ -2571,7 +2589,7 @@ Los fondos únicamente podrán transferirse al Fisco Estatal una vez que el cré
 
 Si al estarse practicando la diligencia de embargo, el deudor hiciere el pago del adeudo y sus accesorios, el ejecutor suspenderá dicha diligencia y expedirá recibo de entero por el importe del pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2685,13 +2703,13 @@ I.- Garantizar su manejo a satisfacción de la oficina ejecutora;
 
 II.- Manifestar a la oficina ejecutora su domicilio y casa habitación, así como los cambios de habitación o domicilio;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 III.- Remitir a la oficina ejecutora, el inventario de los bienes o negociaciones objeto del embargo, con excepción de los valores, determinados en el momento del embargo, incluso los de arrendamiento, si se hicieron constar en la diligencia o en caso contrario, luego que sean recabados.
 
 En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina ejecutora de los cambios de localización que se efectuaren;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE AL PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2707,7 +2725,7 @@ VIII.- El depositario interventor que tuviere conocimiento de irregularidades en
 
 Cuando las medidas a que se refiere esta fracción no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE AL PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2725,7 +2743,7 @@ El interventor administrador no quedará supeditado en su actuación al consejo 
 
 Tratándose de negociaciones que no constituyan una sociedad el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2763,13 +2781,13 @@ Salvo los casos en que este Código autoriza, toda enajenación se hará en suba
 
 La Secretaría de Finanzas y Administración con objeto de un mayor rendimiento, podrá designar otro lugar para la enajenación y ordenar que los bienes embargados se vendan en lote, fracciones o piezas sueltas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 173.
 
 La base para el remate de los bienes embargados será la que resulte de la valuación hecha por perito valuador con cédula profesional en la especialidad de que se trate, cuyas designaciones se hará (sic) conforme a las siguientes reglas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2779,7 +2797,7 @@ II.- El deudor deberá ponerse de acuerdo con la oficina ejecutora sobre el nomb
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la oficina ejecutora, ésta nombrará perito valuador tercero, quien deberá contar con cédula profesional en la especialidad de que se trate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2933,13 +2951,13 @@ IV.- Hasta por el monto del adeudo, si éste no excede de la cantidad en que deb
 
 La adjudicación regulada en este artículo, sólo será válida si lo aprueba la oficina ejecutora.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 192.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -3037,7 +3055,7 @@ Si el recurrente tiene su domicilio en población distinta del lugar en que resi
 
 Contra los actos administrativos dictados en materia fiscal estatal, se podrán interponer el Recurso Administrativo de Revocación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 204.
 
@@ -3075,7 +3093,7 @@ VII.- La autoridad encargada de resolver el recurso, acordará lo que proceda so
 
 VIII.- Una vez admitido el recurso la autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición de recursos. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 205.
 
@@ -3091,7 +3109,7 @@ IV.- Dejar sin efecto el acto impugnado;
 
 V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -3109,7 +3127,7 @@ IV. Cuando hayan cesado los efectos de acto o resolución recurrida.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 207.
 
@@ -3241,7 +3259,7 @@ C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE DICIEMBRE DE 2004.
 
@@ -3314,3 +3332,9 @@ P.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil doce.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Notifíquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
