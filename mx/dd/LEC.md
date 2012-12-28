@@ -4,7 +4,7 @@ identifier: "LEC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2012-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LEC"
 ---
 # LEY DE ENERGIA PARA EL CAMPO
 
-LEY DE ENERGIA PARA EL CAMPO
+LEY DE ENERGÍA PARA EL CAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario oficial, el lunes 30 de diciembre de 2002.
 
@@ -116,6 +116,10 @@ Las cuotas energéticas serán establecidas por la Secretaría de Agricultura, G
 
 El Reglamento de la presente Ley, deberá establecer los mecanismos de supervisión y verificación de la cuota energética en cuanto su aplicación y asignación.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2012)</small>
+
+La asignación de la cuota energética será pública, para lo cual al inicio de cada ciclo productivo se publicará en Internet el listado de los beneficiarios de la misma, así como el de las solicitudes desechadas y estará a disposición de los usuarios en las delegaciones y subdelegaciones de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
 ### CAPÍTULO TERCERO. DE LOS REQUISITOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
 ###### Artículo 10.
@@ -157,3 +161,9 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente ordenamie
 México, D.F., a 12 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE DICIEMBRE DE 2012.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
