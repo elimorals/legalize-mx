@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2012-06-14"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -2130,7 +2130,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publ
 
 SEGUNDO.- El Ejecutivo Federal contará con el plazo de un año a partir de la entrada en vigor de este Decreto para crear e instalar el Centro Nacional de Certificación y Acreditación, el cual deberá acreditar a los centros de evaluación y control de confianza de las Instituciones de Seguridad Pública y sus respectivos procesos de evaluación en un plazo no mayor de dos años a partir de la entrada en operación del citado Centro Nacional.
 
-TERCERO.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de este Decreto, las Instituciones de Seguridad Pública, por conducto de los centros de evaluación y control de confianza, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Nacional.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2012)</small>
+
+TERCERO.- Los integrantes de las Instituciones de Seguridad Pública, en un plazo de diez meses, contado a partir de la entrada en vigor del presente Decreto, deberán obtener la certificación por parte de los centros de evaluación y control de confianza, de lo contrario serán separados del Servicio. Para los efectos de lo señalado en el artículo Cuarto Transitorio del Decreto por el que se expide la Ley General del Sistema Nacional de Seguridad Pública, publicado en el Diario Oficial de la Federación el día 02 de enero de 2009, la separación del servicio se actualizará una vez que haya vencido el plazo a que se refiere el presente artículo. El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública deberá presentarse ante el Senado de la República para rendir un informe del avance del Programa a los seis meses de la entrada en vigor del presente Decreto.
 
 CUARTO.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2201,3 +2203,7 @@ Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en 
 D.O.F. 14 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
