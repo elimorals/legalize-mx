@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2011-07-05"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -63,13 +63,15 @@ El juicio penal será acusatorio y oral, en él se observarán especialmente los
 
 Los derechos fundamentales de las personas serán observados en todas las etapas del proceso, desde la primera diligencia o gestión, sea de investigación, de carácter cautelar o de otra especie, que se realice por o ante un Tribunal con competencia penal, el Ministerio Público o la Policía, en la que se atribuya a una persona responsabilidad en un hecho punible.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 4.
 
-Justicia restaurativa.
+Justicia alternativa y justicia restaurativa
 
-Como alternativa al proceso, el Ministerio Público y el Poder Judicial del Estado y la defensa, en sus respectivos ámbitos y en los términos de este Código, promoverán la justicia restaurativa, entendiendo por ésta todo mecanismo en el que la víctima u ofendido y el imputado participan conjuntamente de forma activa en la resolución de cuestiones derivadas del delito en busca de un resultado restaurativo.
+Como alternativa al proceso, el Ministerio Público y el Poder Judicial del Estado y la defensa, en sus respectivos ámbitos y en los términos de este Código, promoverán la justicia alternativa, entendiendo por esta como todo mecanismo en el que la víctima u ofendido y el imputado participan conjuntamente de forma activa en la resolución del conflicto legal.
 
-Se entiende por resultado restaurativo, el acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y a lograr la reintegración de la víctima y de quien cometió el delito a la sociedad en busca de la reparación, la restitución y el servicio a la comunidad.
+Asimismo, se promoverá la justicia restaurativa, entendiendo por ésta a los mecanismos que procuren un resultado restaurativo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y a lograr la reintegración de la víctima y de quien cometió el delito a la sociedad en busca de la reparación, la restitución y el servicio a la comunidad.
 
 ###### Artículo 5.
 
@@ -621,6 +623,10 @@ Cuando en el curso de una investigación, un Agente del Ministerio Público deba
 
 Serán aplicables, en lo que corresponda, las disposiciones de este Capítulo.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En caso que se desconozca el nombre o domicilio de la persona a notificar, la policía hará una búsqueda para localizarla. Si ésta no tuviere éxito, se le notificará por tabla de avisos.
+
 ### Capítulo V. Plazos
 
 ###### Artículo 64.
@@ -851,6 +857,10 @@ IV. Injurias; y
 
 V. Golpes y violencias físicas simples.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+También podrá ser ejercida la acción penal privada en otros delitos, cuando se haya decretado criterio de oportunidad en los términos del Artículo 94 fracción I de este Código.
+
 ###### Artículo 89.
 
 Acción Penal Pública a instancia de parte.
@@ -907,13 +917,17 @@ IV. Por el cumplimiento de los acuerdos reparatorios;
 
 V. El cumplimiento de las condiciones impuestas al imputado al obtener la suspensión del proceso a prueba, dentro del plazo que fue señalado al conceder el mismo, sin que ésta sea revocada o se encuentre pendiente una solicitud de revocación del Ministerio Público u ofendido;
 
-VI. Por el desistimiento de la acusación privada o de la instancia privada en delitos de acción pública a instancia de parte;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VI. Por el desistimiento de la acusación privada;
 
 VII. Por la prescripción;
 
-VIII. Por el perdón en los delitos de querella;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IX. Por la conciliación;
+VIII. Por el perdón en los términos del Código Penal para el Estado de Nuevo León;
+
+IX. (DEROGADA. P.O. 28 DE DICIEMBRE DE 2012)
 
 X. Por vencimiento del plazo máximo de duración de la investigación sin que se haya formulado la acusación u otro requerimiento conclusivo, en los casos y las formas previstos en este Código;
 
@@ -931,7 +945,11 @@ El Agente del Ministerio Público ejercerá la Acción Penal en todos los casos 
 
 No obstante, el Ministerio Público podrá prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o a varios hechos o a alguna de las personas que participaron en su realización, cuando:
 
-I. En los casos en que proceda el perdón del ofendido y éste se niegue sin causa justificada a participar en un método alterno a la solución de conflictos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabilidad del imputado, salvo que afecte gravemente un interés público, o lo haya cometido un servidor público en el ejercicio de su cargo o con motivo de él. Tampoco podrá aplicarse este criterio de oportunidad en los casos de delitos sexuales, de violencia familiar, ni cuando se trate de personas que se puedan encontrar en especial vulnerabilidad.
+
+En los casos de esta fracción, el Ministerio Público estará obligado a ofrecer el mecanismo de justicia alternativa, antes de ejercer el criterio de oportunidad;
 
 II. Cuando se trate de delitos calificados como graves, en este Código o que afecten a un número significativo de personas, que sean de investigación compleja y el imputado colabore eficazmente con la misma, brindando información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado, u otros conexos, o proporcione información útil para probar la participación de otros imputados, y siempre que en todos los casos su participación sea menos grave que la de estos últimos o los hechos delictivos por el cometido resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
@@ -1297,13 +1315,17 @@ Estos exámenes se practicarán con pleno respeto de los derechos fundamentales 
 
 XVIII. Solicitar a la autoridad jurisdiccional las medidas cautelares de embargo que resulten indispensables y las órdenes de cateo que procedan, así como en aquellos casos en que la diligencia requerida sólo pueda lograrse mediante orden judicial;
 
-XIX. Suspender el trámite de la investigación hasta que se concluya la mediación o se logre la conciliación, salvo que se requiera realizar diligencias de carácter urgente o inaplazable, o solicite la reanudación cualquiera de las partes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Proponer al Juez de Control, la suspensión de la investigación a prueba, en los casos en que proceda de acuerdo con las normas que regulan la figura legal respectiva. No se suspenderá la investigación, si el imputado solicita su seguimiento;
+XIX. Suspender el trámite de la investigación cuando las partes acuerden someterse a un proceso de mediación o conciliación, salvo que se requiera realizar diligencias de carácter urgente o inaplazable. Cualquiera de las partes podrá solicitar la reanudación por el incumplimiento al acuerdo reparatorio;
 
 XX. Levantar actas circunstanciadas de la sustracción o pérdida de documentos o identificaciones u objetos sin señalarse o encontrarse identificados como probable responsable de delito a persona alguna, ya que son conductas o hechos que por su propia naturaleza y por carecer de elementos constitutivos no pueden ser estimados como delictuosos.
 
 En aquellos delitos no graves en los cuales se requiera cumplir con algún requisito de procedibilidad que corresponda subsanarlo a la víctima u ofendido, el Ministerio Público levantará la denuncia en un acta circunstanciada y orientará y asesorará al denunciante a fin de poder cumplimentar a la brevedad dichos requisitos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+También se registrarán como actas circunstanciadas las noticias criminales distintas a la denuncia o querella sobre delitos no graves y de las que se desconozca la identidad de la víctima u ofendido.
 
 Dichas actas se registrarán en un libro denominado de Actas Circunstanciadas y cuando aparezcan los datos que permitan el esclarecimiento de los hechos o la individualización de los responsables, el Ministerio Público procederá a anotar esa circunstancia en el libro e iniciará la investigación correspondiente;
 
@@ -1317,7 +1339,9 @@ XXII. Acordar el archivo definitivo cuando se determine el sobreseimiento de la 
 
 XXIII. Certificar documentos; estas constancias no podrán ser presentadas como pruebas en la audiencia de juicio, salvo que las partes acuerden su incorporación a la misma;
 
-XXIV. Acordar el archivo provisional de la investigación, cuando no existan o no se encuentren datos que permitan continuar la investigación;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XXIV. Acordar el archivo temporal de la investigación, cuando no existan o no se encuentren datos que permitan continuar la investigación;
 
 XXV. Dictar reserva de la continuación de la investigación en los delitos de querella necesaria, cuando no haya dado inicio el control judicial, en los casos que se advierta que la personalidad o la legitimación del querellante se encuentra subjúdice. Una vez resuelta la controversia en definitiva por la autoridad competente, el Ministerio Público resolverá lo que en derecho corresponda;
 
@@ -1327,15 +1351,23 @@ XXVII. Solicitar el desahogo de la prueba anticipada en los casos previstos en e
 
 XXVIII. Solicitar a la autoridad judicial las medidas cautelares anticipadas, medidas cautelares o providencias precautorias que estime necesarias, así como su revocación o modificación;
 
-XXIX. Solicitar, aceptar u oponerse a la celebración del juicio abreviado; y
+XXIX. (DEROGADA. P.O. 28 DE DICIEMBRE DE 2012)
 
-XXX. Ejercer criterios de oportunidad atendiendo a las reglas previstas en este Código.
+> <small>(REFORMADA. P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XXX. Ejercer criterios de oportunidad atendiendo a las reglas previstas en este Código; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Proponer al Juez de Control, la suspensión del proceso a prueba, en los casos en que proceda de acuerdo con las normas que regulan la figura legal respectiva. No se suspenderá el proceso, si el imputado solicita su seguimiento.
 
 B. En la audiencia intermedia:
 
 I. Ejercer criterios de oportunidad atendiendo a las reglas previstas en este Código;
 
-II. Promover la celebración de acuerdos de justicia restaurativa o medios alternos a la solución de conflictos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II. Promover los modos alternativos de terminación del proceso;
 
 III. Solicitar la suspensión del procedimiento a prueba, así como la modificación y revocación, cuando proceda conforme a las reglas de este Código;
 
@@ -1685,9 +1717,25 @@ La internación para estos fines no podrá prolongarse por más de diez días y 
 
 La persona como objeto de prueba.
 
-En caso de ser necesario para la investigación, efectuar en la persona del imputado, de la víctima u otras personas, exámenes corporales, pruebas de carácter biológico, extracciones de sangre u otros análogos, por existir indicios de la conexión entre un individuo y la existencia de un hecho que tenga características de delito; el Ministerio Público le solicitará que preste su consentimiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-De negarse el consentimiento, el Agente del Ministerio Público solicitará la correspondiente autorización al Juez, quien, con audiencia del renuente, podrá autorizar su práctica, siempre que no exista afectación para la salud o dignidad de éste, sea realizada por personal capacitado, sin utilizar técnicas humillantes o degradantes y dicha prueba no pueda obtenerse por otros medios.
+Si fuere necesario para la investigación, podrán efectuarse en la persona del imputado, la víctima del hecho punible u otras personas, con su consentimiento, exámenes corporales, pruebas de carácter biológico, extracciones de sangre u otros similares.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Si es preciso, el exámen deberá practicarse con el auxilio de peritos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+De negarse el consentimiento, el Agente del Ministerio Público solicitará la correspondiente autorización al Juez, quien, con audiencia del renuente o su defensor, resolverá lo que proceda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Cuando exista peligro de desvanecimiento del medio de la prueba, la solicitud se hará por cualquier medio y el Juez deberá autorizar inmediatamente la práctica de la diligencia, siempre que se cumpla con las condiciones señaladas en este Artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En todos los casos se observara que los exámenes a que se refiere este Artículo no menoscaben la salud y la dignidad de las personas.
 
 ###### Artículo 146.
 
@@ -1713,9 +1761,13 @@ Si el imputado se presenta después de la declaratoria de sustracción a la acci
 
 Oportunidades y autoridad competente.
 
-El imputado tendrá derecho a no declarar o a declarar cuantas veces lo solicite, hasta antes de declararse visto el asunto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-La declaración del imputado sólo tendrá validez si es prestada ante un Juez o Tribunal, de manera libre, informada y voluntariamente y se encuentre asistido por su defensor.
+El imputado tendrá derecho a no declarar o a declarar cuantas veces lo solicite, en el momento procesal oportuno.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+La declaración del imputado sólo tendrá validez si es prestada ante un Juez o Tribunal, de manera libre, informada y voluntariamente y se encuentre asistido por su defensor. La confesión rendida sin la asistencia de defensor carecerá de todo valor probatorio.
 
 ###### Artículo 149.
 
@@ -1805,7 +1857,9 @@ No podrán ser defensores:
 
 I. Los testigos del hecho;
 
-II. Los computados;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II. Los co-imputados;
 
 III. Quienes hayan patrocinado o patrocinen intereses opuestos a los del imputado, relacionados con los mismos hechos aun cuando los mismos se hubieran ventilado ante Autoridades distintas;
 
@@ -1963,21 +2017,25 @@ Presentación espontánea.
 
 El imputado contra quien se emita la orden de aprehensión podrá acudir ante el Juez o Tribunal que corresponda para que se le formule la imputación. El Juez deberá ordenar su inmediata detención fijando audiencia dentro de las próximas doce horas y le reciba su declaración.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 174.
 
-Supuestos de flagrancia Cualquiera podrá detener a una persona:
+Detención del imputado.
 
-I. Al momento de estar cometiendo el delito;
+Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
 
-II. Cuando es perseguido material e inmediatamente después de haber cometido el delito; lo anterior, siempre y cuando no haya transcurrido un plazo de sesenta horas, desde la comisión de los hechos delictuosos;
+I. La persona es detenida en el momento de estarlo cometiendo; o
 
-III. Inmediatamente después de haber cometido el delito en virtud de los siguientes supuestos:
+II. Inmediatamente después de cometerlo es detenido en virtud de que:
 
-a) Haya sido sorprendido en el momento de su comisión;
+a) Es sorprendido cometiendo el delito y es perseguido material e ininterrumpidamente;
 
-b) Haya sido señalado por alguna persona que presenció el hecho delictivo; o
+b) Es señalado por la víctima o un testigo presencial; o
 
-c) Se encuentre en su rango de disposición objetos materiales del delito u otros indicios o huellas del mismo, que hagan presumir que lo cometió o participó en el mismo.
+c) Se le encuentren objetos o aparezcan indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
+
+El Juez de Control considerará con razonabilidad las circunstancias de cada caso para determinar la legalidad de la detención en flagrancia.
 
 ###### Artículo 175.
 
@@ -2461,17 +2519,25 @@ En lo no previsto a ese respecto por el presente capítulo, el Juez o Tribunal s
 
 ## TÍTULO OCTAVO. MODOS ALTERNATIVOS DE TERMINACIÓN DEL PROCESO
 
-### Capítulo I. Justicia Restaurativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo I. Justicia Alternativa
 
 ###### Artículo 223.
 
 Reglas Generales.
 
-Los procesos de justicia restaurativa se regirán por los principios generales establecidos en el presente código y en particular por las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-I. Consentimiento libre y voluntario de la víctima y el imputado o condenado de someter el conflicto a un proceso restaurativo;
+Los mecanismos de justicia alternativa se regirán por las siguientes reglas:
 
-II. Tanto la víctima como el imputado o condenado podrán retirar este consentimiento en cualquier momento de la actuación siempre que no haya concluido de acuerdo con la naturaleza de la especie de justicia restaurativa de que se trate;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+I. Consentimiento libre y voluntario de la víctima y el imputado de someter el conflicto a un mecanismo alternativo;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II. Tanto la víctima como el imputado podrán retirar este consentimiento en cualquier momento de la actuación siempre que no haya concluido de acuerdo con la naturaleza de la especie de justicia alternativa de que se trate;
 
 III. Los acuerdos que se alcancen deberán contener obligaciones razonables y proporcionales al daño ocasionado con el delito;
 
@@ -2483,25 +2549,39 @@ VI. Los facilitadores deben desempeñar sus funciones de manera imparcial y vela
 
 VII. La víctima y el imputado o condenado tendrán derecho a consultar a un abogado; y
 
-VIII. No se obligará a declarar a las personas que hayan participado en un proceso de justicia restaurativa, en relación con la información obtenida o sobre la cual tuvieron conocimiento durante el desarrollo de dichos métodos alternos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VIII. No se obligará a declarar a las personas que hayan participado en un mecanismo de justicia alternativa, en relación con la información obtenida o sobre la cual tuvieron conocimiento durante el desarrollo de dichos métodos alternos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 224.
 
-Condiciones para la remisión a los programas de justicia restaurativa.
+Condiciones para la remisión a los programas de justicia alternativa.
 
-Las partes, de manera voluntaria, pueden solicitar la remisión del asunto a un programa de justicia restaurativa de conformidad con lo establecido en este Código.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-El Ministerio Público o Juez, para remitir un caso a los programas de justicia restaurativa, deberá:
+Las partes, de manera voluntaria, pueden solicitar la remisión del asunto a un mecanismo de justicia alternativa de conformidad con lo establecido en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Ministerio Público o Juez, para remitir un caso a los mecanismos de justicia alternativa, deberá:
 
 I. Informar plenamente a las partes de sus derechos, de la naturaleza del proceso y de las posibles consecuencias de su decisión; y
 
-II. Cerciorarse que no se haya coaccionado a la víctima ni al infractor para que participen en procesos restaurativos o acepten resultados restaurativos, ni se les haya inducido a hacerlo por medios desleales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II. Cerciorarse que no se haya coaccionado a la víctima ni al infractor para que participen en mecanismos alternativos o acepten resultados alternativos, ni se les haya inducido a hacerlo por medios desleales.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 225.
 
-Formas de justicia alternativa.
+Justicia alternativa.
 
-Son formas de justicia alternativa las que disponga la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
+La Procuraduría General de Justicia y el Poder Judicial del Estado, dentro del ámbito de sus respectivas competencias, a través de sus órganos competentes, promoverán y aplicarán los mecanismos de justicia alternativa de mediación, conciliación y procesos restaurativos, los cuales permitirán a la víctima u ofendido y al imputado, participar en forma activa y conjuntamente para resolver sus controversias a través de los acuerdos reparatorios.
+
+La aplicación de estos mecanismos tendrá por objeto atender, en su caso, las necesidades y responsabilidades individuales y colectivas de las partes y lograr la integración de la víctima u ofendido y del imputado en la comunidad, aplicándose de manera supletoria las disposiciones de la Ley de la materia en métodos alternos.
 
 ### Capítulo II. Acuerdos reparatorios
 
@@ -2515,45 +2595,101 @@ Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el i
 
 Procedencia.
 
-Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional; así como en aquellos cuya pena máxima de prisión no exceda de seis años.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Procederán los acuerdos reparatorios:
+
+I. En los delitos culposos;
+
+II. Aquellos en los que proceda el perdón de la víctima u ofendido;
+
+III. Los de contenido patrimonial que se hayan cometido sin violencia sobre las personas;
+
+IV. En los que admitan presumiblemente la sustitución de sanciones o condena condicional; y
+
+V. Así como en aquellos cuya pena máxima de prisión no exceda de ocho años.
 
 Se exceptúan de esta disposición los delitos de carácter sexual; los cometidos en perjuicio de menores de edad; los de violencia familiar; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción; y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
 
-Tampoco procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza o si existe un interés público prevaleciente en la continuación de la persecución penal. Se entenderá especialmente que concurre este interés si el imputado ha incurrido reiteradamente en hechos como los que se investigan en el caso particular.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Para los efectos que se señalan en el párrafo anterior, será deber del Ministerio Público, llevar un registro de las personas respecto de quienes hayan celebrado acuerdos reparatorios como forma de extinción del proceso; este registro se conservará por los medios que garanticen su fácil acceso por parte del Ministerio Público, quien será el único que pueda tener acceso al mismo. La autenticidad de los datos del registro será responsabilidad de la persona que tenga a su cargo la conservación del mismo según los términos del Reglamento de su funcionamiento que expida el Procurador General de Justicia del Estado.
+Tampoco procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a delitos dolosos dentro de un plazo máximo de dos años o si existe un interés público prevaleciente en la continuación de la persecución penal. Se entenderá especialmente que concurre este interés si el imputado ha incurrido reiteradamente en hechos como los que se investigan en el caso particular.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Para los efectos que se señalan en el párrafo anterior, será deber del Poder Judicial o del Ministerio Público en su caso, llevar un registro de las personas respecto de quienes hayan celebrado acuerdos reparatorios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Si el delito afecta intereses difusos o colectivos, en el mecanismo de justicia alternativa respectivo, el Ministerio Público asumirá la representación de los citados intereses, cuando no se haya apersonado como víctima u ofendido alguno de los sujetos autorizados en este Código.
 
 ###### Artículo 228.
 
 Oportunidad.
 
-Los acuerdos reparatorios podrán celebrarse hasta antes de decretarse el auto de apertura de juicio oral. El Juez o Tribunal, a petición de las partes, podrá suspender el proceso hasta por treinta días para que éstos puedan llevar a cabo las acciones que permitan llegar a la celebración del acuerdo reparatorio. Este plazo sólo podrá ser ampliado el tiempo que estime necesario, cuando las partes acudan al Centro Estatal de Métodos Alternos del Poder Judicial o, cualquier institución autorizada por dicho Centro, siempre y cuando existan informes que indiquen que la ampliación del plazo resulta necesaria para lograr la celebración del acuerdo reparatorio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Cualquiera de las partes, con excepción del Ministerio Público, podrá solicitar la revocación de la suspensión sin necesidad de justificar causa para ello. El Ministerio Público sólo podrá hacer esa solicitud cuando justifique que se han descubierto datos de prueba que indiquen que se está en presencia de causas de excepción a que se refiere el artículo 227 de este Código.
+Los acuerdos reparatorios podrán celebrarse hasta antes de decretarse el auto de apertura de juicio oral. El Juez de Control, a petición de las partes, podrá suspender el proceso hasta por treinta días para que éstos puedan llevar a cabo las acciones que permitan llegar a la celebración del acuerdo reparatorio. Este plazo sólo podrá ser ampliado el tiempo que estime necesario, siempre y cuando existan informes que indiquen que la ampliación del plazo resulta necesaria para lograr la celebración del acuerdo reparatorio.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En caso de que alguna de las partes decidiera interrumpir los procedimientos de mediación, conciliación o proceso restaurativo, o existiera alguna causa que los interrumpiera, cualquiera de las partes podrá solicitar la continuación del proceso penal, sin perjuicio de que el especialista a que se refiere la Ley informe al Juez para que este tome las medidas pertinentes.
 
 ###### Artículo 229.
 
 Trámite.
 
-Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, invitará a los interesados a que lleguen a acuerdos reparatorios en los casos en que proceda, y les explicará los efectos y los mecanismos que prevé la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
+Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, invitará a los interesados a que lleguen a acuerdos reparatorios en los casos en que proceda, y les explicará los efectos y los mecanismos que prevé la Ley de la materia en métodos alternos.
 
-Los conciliadores y mediadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes, y se regirán por la Ley que hace referencia el párrafo primero de este Artículo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal y durante este proceso el Ministerio Público podrá suspender la investigación, salvo para realizar diligencias urgentes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Los facilitadores, conciliadores y mediadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes, y se regirán por la Ley que hace referencia el párrafo primero de este Artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En aquellos casos en que no se ha formulado la imputación a que se refiere el Artículo 297 de este Código, la aprobación de los acuerdos reparatorios estará a cargo del Ministerio Público. Las partes tendrán derecho a acudir ante el Juez de Control dentro de los 15 días siguientes de que se hayan aprobado los acuerdos reparatorios, cuando considere que en la tramitación del mecanismo alternativo no se observaron las reglas previstas en el Artículo 223. El Juez podrá modificar o declarar no celebrado el acuerdo reparatorio alcanzado en los casos en que estime fundada la solicitud de la parte respectiva.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de aquellos asuntos en que se ha formulado la imputación, el Juez de Control deberá aprobar los acuerdos reparatorios que se hayan celebrado por la víctima u ofendido y el imputado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez de Control o el Ministerio Público no aprobarán los acuerdos reparatorios cuando:
+
+I. No sea procedente conforme a este Código;
+
+II. Tengan motivos fundados para estimar que alguno de los intervinientes no está en condiciones de igualdad para mediar o conciliar o ha actuado bajo coacción o amenaza; o
+
+III. Las obligaciones de alguna de las partes resulte notoriamente desproporcionadas.
 
 ###### Artículo 230.
 
 Efectos.
 
-El Juez o Tribunal homologará los acuerdos, los cuales se registrarán. No aprobará los mismos cuando no sea procedente conforme a este Código o las obligaciones de alguna de las partes resulten notoriamente desproporcionadas o tenga motivos fundados para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Si al momento que se solicite la autorización del acuerdo reparatorio al Juez o Tribunal de Control, aún no se ha formulado la imputación, se estará a los hechos que el Ministerio Público exponga al inicio de la audiencia respectiva.
+El Juez de Control o el Ministerio Público en su caso, registrarán los acuerdos de un modo fidedigno.
 
-El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal y de la pretensión punitiva.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-El cumplimiento de lo acordado impedirá el ejercicio de la acción penal o, en su caso, extinguirá la ya iniciada.
+El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite de la investigación o del proceso y la prescripción de la acción penal y de la pretensión punitiva.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de seis meses contado a partir del día siguiente de la aprobación del acuerdo, la investigación o el proceso continuará como si no se hubiera arribado a acuerdo alguno.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El cumplimiento de lo acordado extinguirá la acción penal.
 
 ### Capítulo III. Suspensión del proceso a prueba
 
@@ -2657,13 +2793,23 @@ La vigilancia del cumplimiento de las medidas y obligaciones decretadas por el J
 
 Causas de revocación de la suspensión.
 
-El incumplimiento de las obligaciones contraídas por el imputado al obtener la suspensión del proceso a prueba, sólo serán motivo de revocación de la misma, cuando a juicio del Juez o Tribunal, escuchando a las partes y la opinión de los especialistas encargados del tratamiento y de la autoridad encargada de la vigilancia; considere que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El incumplimiento de las obligaciones contraídas por el imputado al obtener la suspensión del proceso a prueba, sólo serán motivo de revocación de la misma, a juicio del Juez o Tribunal, escuchando a las partes y la opinión de los especialistas encargados del tratamiento y de la autoridad encargada de la vigilancia, cuando:
 
 I. El imputado se ha apartado considerablemente y en forma injustificada de las condiciones que le fueron impuestas al obtener la suspensión del proceso a prueba;
 
-II. Que no ha cumplido con el plan de reparación; o
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-III. Cuando posteriormente sea condenado en forma ejecutoriada por la comisión de un delito doloso o culposo, cuando el proceso suspendido condicionalmente se refiera a delito de esta naturaleza.
+II. No se haya cumplido con el plan de reparación, vencidos los plazos para ello;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+III. El imputado sea condenado en forma ejecutoriada por la comisión de un delito doloso o culposo, siempre que el proceso suspendido condicionalmente se refiera a un delito de la misma naturaleza; o
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IV. En el curso de la suspensión del proceso a prueba se presente alguno de los riesgos previstos en la fracción V del Artículo 231 de este Código.
 
 ###### Artículo 239.
 
@@ -2723,7 +2869,9 @@ Finalidad.
 
 La etapa de investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella y determinar si hay fundamento para abrir un juicio penal contra una o varias personas, mediante la obtención de la información y la recolección de los elementos que permitan fundar, en su caso, la acusación y garantizar el derecho a la defensa del imputado.
 
-Estará a cargo del Ministerio Público, quien actuará con el auxilio de la policía y de los servicios periciales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Estará a cargo del Ministerio Público, quien actuará con el apoyo de sus auxiliares, de la policía y de los servicios periciales.
 
 En todas las investigaciones la policía actuará bajo la conducción y mando del Ministerio Público, salvo en los casos de delitos de acción privada, que lo hará con orden expresa de los jueces y tribunales.
 
@@ -2741,7 +2889,9 @@ Tratándose de delitos perseguibles por querella, no podrá procederse sin que, 
 
 Dirección de la investigación.
 
-Los agentes del Ministerio Público dirigirán la investigación y podrán realizar por sí mismos o encomendar a la Policía todas las diligencias de investigación que consideren conducentes al esclarecimiento de los hechos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Los agentes del Ministerio Público dirigirán la investigación y podrán realizar por sí mismos o encomendar a sus auxiliares o la Policía todas las diligencias de investigación que consideren conducentes al esclarecimiento de los hechos.
 
 A partir de que tenga conocimiento de la existencia de un hecho que revista caracteres de delito, el Ministerio Público deberá ordenar o proceder de inmediato a la práctica de todas aquellas diligencias pertinentes y útiles al esclarecimiento y averiguación del hecho, de las circunstancias relevantes para la aplicación de la Ley Penal, de los autores y partícipes, así como de las circunstancias que sirvan para verificar la responsabilidad de éstos. Así mismo, deberá impedir que el hecho denunciado produzca consecuencias ulteriores.
 
@@ -2763,7 +2913,9 @@ IV. Controlar el cumplimiento de los principios y derechos fundamentales que le 
 
 Valor de las actuaciones.
 
-Las diligencias realizadas durante la investigación carecen de valor probatorio para el dictado de la sentencia, salvo aquellas realizadas de conformidad con las reglas previstas en este Código para el caso de anticipación de la prueba.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Las actuaciones practicadas durante la investigación carecen de valor probatorio para el dictado de la sentencia, salvo aquellas realizadas de conformidad con las reglas previstas en este Código para el caso de anticipación de la prueba, o bien, aquellas que este Código autoriza a incorporar por lectura o reproducción durante la audiencia de debate de juicio oral.
 
 Sin embargo, podrán ser invocadas como elementos de prueba para motivar cualquier resolución previa a la sentencia o para motivar ésta en caso de procedimiento abreviado.
 
@@ -2777,17 +2929,21 @@ La víctima u ofendido podrá solicitar al Ministerio Público la reapertura de 
 
 No obstante lo anterior, en cualquier tiempo y siempre que no haya prescrito la acción penal, oficiosamente el Ministerio Público podrá ordenar la reapertura de la investigación, si aparecen nuevos elementos de convicción que así lo justifiquen.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 250.
 
-Facultad para abstenerse de investigar.
+Facultad de no investigar.
 
-En tanto no se haya formulado la imputación en contra de alguna persona, el Ministerio Público podrá abstenerse de toda investigación, cuando sea evidente que los hechos relatados en la denuncia o querella no constituyen delito, o cuando los antecedentes y datos suministrados permitan establecer de forma indubitable que se encuentra extinguida la acción penal o la pretensión punitiva del Estado.
+En tanto no se haya formulado la imputación en contra de alguna persona, el Ministerio Público acordará el no inicio de una investigación, cuando sea evidente que los hechos relatados en la denuncia o querella no constituyen delito, o cuando los antecedentes y datos suministrados permitan establecer de forma indubitable que se encuentra extinguida la acción penal o la pretensión punitiva del Estado.
 
 ###### Artículo 251.
 
 No ejercicio de la acción penal.
 
-Cuando antes de formulada la imputación, el Ministerio Público cuente con los antecedentes suficientes que le permitan concluir, que en el caso concreto se actualiza alguno de los supuestos previstos en el artículo 311 de este Código, decretará, mediante resolución fundada y motivada el no ejercicio de la Acción Penal.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Cuando antes de formulada la imputación, el Ministerio Público cuente con los antecedentes suficientes que le permitan concluir, que en el caso concreto se actualiza alguno de los supuestos previstos en el Artículo 311 de este Código, decretará, con autorización del Procurador o del servidor público a quien delegue esta facultad y mediante resolución fundada y motivada, el no ejercicio de la Acción Penal.
 
 ###### Artículo 252.
 
@@ -3223,7 +3379,9 @@ Registro de actuaciones policiales.
 
 En los casos de actuaciones practicadas por la policía, ésta levantará un registro en el que consignará los elementos que conduzcan al esclarecimiento de los hechos y cualquier otra circunstancia que pueda resultar de utilidad para la investigación en los términos previstos por este Código. Se dejará constancia de las instrucciones recibidas del Ministerio Público ya sea por escrito o por medios electrónicos debidamente acreditados
 
-Estos registros no podrán reemplazar a las declaraciones de los agentes de policía en el debate de juicio oral.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Estos registros no podrán reemplazar a las declaraciones que rindan los agentes de policía en el debate de juicio oral.
 
 ### Capítulo VII. Formulación de la imputación
 
@@ -3320,6 +3478,14 @@ En caso de que el imputado manifieste su deseo de que se resuelva sobre su vincu
 Si el imputado manifestó su deseo de que se resuelva sobre su vinculación a proceso dentro del plazo de setenta y dos horas o solicita la ampliación de dicho plazo, el Juez deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro de dicho plazo o su prórroga. En este caso, el Ministerio Público puede solicitar que se apliquen medidas cautelares al imputado antes de que se cierre la audiencia en la que se formuló la imputación.
 
 La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o que el imputado compareció a la audiencia de formulación de la imputación. Si el imputado requiere del auxilio judicial para citar testigos o peritos a la audiencia de vinculación a proceso, deberá ofrecer dichos medios de prueba y solicitar el auxilio al menos con cuarenta y ocho horas de anticipación a la hora y fecha señaladas para la celebración de la audiencia. En caso contrario, deberá presentar sus medios de prueba a la audiencia de vinculación a proceso. Las pruebas ofrecidas o presentadas por el defensor únicamente serán admisibles cuando sea diversas a la que consten en la carpeta de investigación o busquen contradecir alguno de los antecedentes que obran en dicha carpeta.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 305 Bis.
+
+Audiencia especial sobre vinculación al proceso por incompetencia del Juez.
+
+Cuando por cualquier motivo un Juez decline la competencia y remita los autos al Juez de Control en los términos de este Código, recibido el expediente, éste citará a las partes a audiencia especial en donde se debatirá la competencia y en caso de que se acepte, se procederá conforme a las reglas de este Código.
 
 ###### Artículo 306.
 
@@ -3957,7 +4123,9 @@ Si el testigo es militar, la citación se hará por conducto del superior jerár
 
 Forma de la declaración.
 
-El Juez previa identificación del testigo o perito, le tomará la protesta de ley de decir verdad haciéndole saber de las sanciones en que incurre quien declara falsamente ante la autoridad judicial, y se le preguntará su nombre, apellido, edad, lugar de origen, nacionalidad, domicilio, estado civil, profesión u ocupación, si se halla ligado con el imputado por vínculos de parentesco.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez previa identificación del testigo o perito, le tomará la protesta de Ley de decir verdad y se le preguntará su nombre, apellido, edad, lugar de origen, nacionalidad, domicilio, estado civil, profesión u ocupación, si se halla ligado con el imputado por vínculos de parentesco.
 
 A los menores de doce años se les exhortará para que se conduzcan con verdad.
 
@@ -3993,7 +4161,9 @@ Las personas que no puedan concurrir al Tribunal por estar físicamente impedida
 
 Protección a los testigos.
 
-El Juez o el Ministerio Público podrán disponer medidas especiales destinadas a proteger la seguridad e integridad del testigo, por el tiempo que consideren necesario para ello podrán reservar el nombre, datos personales y apariencia física del testigo. Así mismo, para garantizar los derechos de audiencia las autoridades podrán utilizar sistemas de videoconferencia o de comunicación a distancia para que el testigo declare, distorsionando su voz e imagen, y los datos que permitan identificar al testigo quedaran bajo la responsabilidad de la autoridad.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Desde el inicio de la investigación, el Juez o el Ministerio Público podrán disponer medidas especiales destinadas a proteger la seguridad e integridad del testigo, por el tiempo que consideren necesario para ello podrán reservar el nombre, datos personales y apariencia física del testigo. Así mismo, para garantizar los derechos de audiencia las autoridades podrán utilizar sistemas de videoconferencia o de comunicación a distancia para que el testigo declare, distorsionando su voz e imagen, y los datos que permitan identificar al testigo quedaran bajo la responsabilidad de la autoridad.
 
 Si la autoridad lo estima procedente pondrá autorizar al testigo a presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible.
 
@@ -4006,6 +4176,14 @@ Aun cuando no se reserven los datos de la identidad del testigo, por seguridad u
 Prueba pericial.
 
 Siempre que para el examen de personas, hechos, objetos o circunstancias relevantes, se requieran conocimientos especiales, se procederá con intervención de peritos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Los gastos que originen los servicios periciales ofrecidos por las partes, correrán a cargo de éstas. Si la defensa y el inculpado o la víctima u ofendido no puedan cubrirlos, el Juez podrá ordenar que se practiquen dictámenes periciales de forma gratuita por personas que presten sus servicios en dependencias del Gobierno del Estado, en Universidades públicas o en su caso que pertenezcan a Asociaciones de Profesionistas reconocidas en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Cuando los peritos o personal especializado que gocen sueldo del erario emitan un dictamen, sobre puntos decretados por el Juez, a petición de la Defensa o de la víctima u ofendido, no podrán cobrar honorarios.
 
 ###### Artículo 369.
 
@@ -4085,7 +4263,17 @@ Si durante el desarrollo de la audiencia de juicio oral, alguna de las partes pr
 
 Defensa y declaración del imputado.
 
-Si el imputado lo solicita podrá prestar declaración en el momento en que se esté llevando a cabo el desahogo de la prueba ofrecida por la defensa. En tal caso, el Juez o Tribunal le permitirá que lo haga libremente o a preguntas de su defensor. Luego, podrá ser interrogado por el Ministerio Público y el acusador coadyuvante, sin perjuicio de respetarle su derecho a guardar silencio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Si el imputado lo solicita, podrá prestar declaración en el momento en que se esté llevando a cabo el desahogo de la prueba ofrecida por la defensa.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En tal caso, el Juez o Tribunal se cerciorará que el imputado comprende su derecho a guardar silencio y renuncia voluntariamente a ese derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Hecho lo anterior, el Juez le permitirá que manifieste libremente lo que creyere conveniente respecto de la o de las acusaciones formuladas. Luego podrá ser interrogado directamente en el siguiente orden, por el Ministerio Público, por el acusador coadyuvante en su caso y finalmente por el defensor.
 
 El imputado podrá comunicarse libremente con su Defensor durante el juicio siempre que no perturbe el orden de la audiencia, pero no podrá hacerlo mientras preste declaración.
 
@@ -4114,6 +4302,20 @@ Antes de declarar, los peritos, los testigos y las víctimas no podrán comunica
 Las normas previstas en este artículo, salvo la dispuesta en el párrafo que antecede, se aplicarán en el caso del interrogatorio y contra interrogatorio del imputado.
 
 A solicitud de alguna de las partes, el Juez o Tribunal podrá autorizar un nuevo interrogatorio de los testigos o peritos que ya hayan declarado en la audiencia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 381 Bis.
+
+Introducción de registros en la audiencia de debate de juicio oral.
+
+Podrán introducirse al juicio oral, mediante lectura o reproducción, los registros en que constaren anteriores declaraciones o informes de testigos, peritos o imputados, cuando:
+
+I. Existan testimonios que se hayan recibido conforme a las reglas de la prueba anticipada, sin perjuicio de que las partes exijan la comparecencia personal del testigo, experto o coimputado, cuando sea posible;
+
+II. El testigo o coimputado haya fallecido, perdido la razón o la capacidad para declarar en juicio y, por esa razón, no hubiese sido posible solicitar su desahogo anticipado; o
+
+III. Se trate de registros o dictámenes que todas las partes acuerden incorporar al juicio, con aprobación del Tribunal.
 
 ###### Artículo 382.
 
@@ -4309,25 +4511,25 @@ III. El procedimiento por delitos de acción privada.
 
 Procedencia.
 
-El procedimiento abreviado se tramitará únicamente a solicitud del Ministerio Público, en los casos en que el imputado reconozca su participación en el delito que le atribuyera aquél en su escrito de acusación, y consienta la aplicación de este procedimiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-La existencia de imputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante. La incomparecencia injustificada de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
+El procedimiento abreviado se tramitará únicamente a solicitud del Ministerio Público, en los casos en que el imputado reconozca ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito que le atribuye, existan medios de convicción suficientes para corroborar la imputación, y consienta la aplicación de este procedimiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Podrá escucharse a la víctima u ofendido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante.
 
 El Ministerio Público solicitará el procedimiento abreviado, según los criterios generales que para tal efecto haya dictado el Procurador General de Justicia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 405.
 
-Oportunidad.
+Oportunidad para solicitar el procedimiento abreviado.
 
-El Ministerio Público podrá presentar la acusación y solicitar la apertura del procedimiento abreviado en la misma audiencia en la que se determine la vinculación del imputado a proceso. En caso de que el Juez de Garantía rechace la apertura del procedimiento abreviado, el Ministerio Público podrá retirar su acusación y solicitar al Juez que fije un plazo para el cierre de la investigación.
+Desde que se haya dictado la vinculación a proceso y hasta antes del cierre de la audiencia intermedia, el Ministerio Público podrá señalar que ha llegado a un acuerdo con el imputado y su defensa para someterse a un procedimiento abreviado, solicitando la tramitación del mismo.
 
-El Ministerio Público manifestará su intención de que se aplique el procedimiento abreviado al formular su acusación por escrito, o verbalmente, en la misma audiencia intermedia. En este último caso, el Ministerio Público podrá modificar su acusación, así como la pena requerida.
-
-Cuando en la acusación se solicite la aplicación del procedimiento abreviado, no será necesario que en la misma se ofrezcan los medios de prueba a que se refieren las fracciones VII, VIII y IX del Artículo 317 de este Código.
-
-En caso de que la acusación se presente por escrito y el procedimiento abreviado sea rechazado, se le concederá al Ministerio Público un plazo de cinco días para que presente su acusación cumpliendo con los requisitos previstos en el Artículo 317 de este Código, pudiendo modificar la pena solicitada en la acusación donde solicitó la aplicación del procedimiento abreviado.
-
-En el procedimiento abreviado el Ministerio Público podrá solicitar la imposición de una pena inferior a la prevista en el tipo penal aplicable al caso. La pena que se podrá solicitar será de dos terceras partes del mínimo a las dos terceras partes del máximo.
+En el procedimiento abreviado el Ministerio Público podrá solicitar la imposición de una pena inferior a la prevista en el tipo penal aplicable al caso. La pena que se podrá solicitar será de un tercio del mínimo a las dos terceras partes del máximo. El Ministerio Público podrá también solicitar otras sanciones a que se refiere el Código Penal.
 
 ###### Artículo 406.
 
@@ -4335,31 +4537,61 @@ Verificación del Juez.
 
 Antes de resolver sobre la solicitud del Ministerio Público, el Juez verificará que el imputado:
 
-I. Ha prestado su conformidad al procedimiento abreviado en forma libre, voluntaria e informada y con la asistencia de su defensor;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-II. Conociere su derecho a exigir un juicio oral, y que renunciare voluntariamente a ese derecho, aceptare los antecedentes de la investigación, y ser juzgado conforme a los mismos;
+I. Manifiesta voluntariamente y con asistencia de su defensor, someterse al procedimiento abreviado;
 
-III. Entendiere los términos del acuerdo y las consecuencias que éste pudiera implicarle; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IV. Reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación y responsabilidad en el delito y existen medios de convicción suficientes para corroborar la acusación.
+II. Conoce su derecho a exigir un juicio oral, y renuncia voluntariamente a ese derecho;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+III. Entiende las consecuencias que el reconocimiento de participación en el delito pudiera implicarle;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IV. Acepta los medios de convicción contenidos en los antecedentes de la investigación y ser juzgado conforme a los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+V. Reconoce su participación y responsabilidad en el delito; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VI. Aprueba, junto con su defensor, los términos del acuerdo y las consecuencias que éste pudiere implicarle.
 
 ###### Artículo 407.
 
 Resolución sobre la solicitud de procedimiento abreviado.
 
-El Juez aceptará la solicitud de procedimiento abreviado del Ministerio Público cuando considere actualizados los requisitos correspondientes, en caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio, se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, sean eliminados del registro.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez, en la misma audiencia admitirá la solicitud de procedimiento abreviado del Ministerio Público cuando considere actualizados los requisitos del Artículo 406 de este Código, en caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio, se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, sean eliminados del registro, y se seguirá el procedimiento ordinario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez verificará que se cumpla con lo establecido en el Artículo 406 de este Código y resolverá la petición en la misma audiencia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 408.
 
-Trámite en el procedimiento abreviado.
+Resolución del procedimiento abreviado.
 
-Acordado el procedimiento abreviado, el Juez otorgará la palabra a las partes para que realicen las manifestaciones que consideren convenientes. En todo caso, la exposición final corresponderá siempre al imputado y a su defensor.
+Admitida la solicitud del procedimiento abreviado, el Juez corroborará que se cumpla con lo dispuesto por el primer párrafo del Artículo 404, otorgará la palabra para que se realicen las manifestaciones que consideren convenientes y emitirá su fallo sobre condena o absolución. Citará a lectura pública de la sentencia, dentro de un plazo de cuarenta y ocho horas.
 
 ###### Artículo 409.
 
 Sentencia en el procedimiento abreviado.
 
-Concluidas las exposiciones de las partes, el Juez emitirá su fallo sobre condena o absolución en la misma audiencia, y deberá dar lectura pública a la sentencia, dentro de un plazo de cuarenta y ocho horas. En caso de ser condenatoria, no podrá imponer una pena superior a la solicitada por el Ministerio Público.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En caso de que el Juez condene al imputado aplicará la pena o sanción solicitada por el Ministerio Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El imputado que sea condenado por sentencia dictada en el procedimiento abreviado, no tendrá derecho a gozar del perdón judicial, conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional o libertad preparatoria.
 
 En ningún caso el procedimiento abreviado obstara a la concesión de alguna de las medidas alternativas consideradas en la Ley, cuando correspondiere.
 
@@ -5121,15 +5353,21 @@ Artículos 161 Bis 2, 166 primer y último párrafo y fracciones I y II, 170, 17
 
 A partir del 1º de enero de 2013 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-Artículo 195, 206, 206 Bis, 207, 211 en relación con el artículo 212 fracción II, 215 con relación al artículo 216 fracción III, 217 en relación al artículo 218 fracción III, 219 Bis, 222 Bis, 224 Bis, 225 Bis, 244, 287 Bis, 287 Bis 2, 302, 303, 304, 306 Bis 2, 306 Bis 3, 364 en relación al 367 fracciones I y II, 373, 409, 411, 413 Bis, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Artículo 195, 206, 206 Bis, 207, 211 en relación con el Artículo 212 fracción II, 215 con relación al Artículo 216 fracción III, 217 en relación al Artículo 218 fracción III, 219 Bis, 222 Bis, 224 Bis, 225 Bis, 244, 287 Bis, 287 Bis 2, 302, 303, 304, 306 Bis 2, 306 Bis 3, Robo simple previsto en el Artículo 364 en relación al 367 fracciones I y II; 373, 409, 411, 413 Bis, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426. A partir del 1° de marzo de 2013 se adicionarán para su procesamiento los delitos tipificados en los Artículos 201 Bis, 201 Bis 2, 255 fracciones I y II, 260 Bis, 271 Bis, 271 Bis 2, 328, 329, 330, 392, así como los delitos cometidos por culpa.
 
 A partir del 1º de enero de 2014 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-Artículos 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 201 Bis, 201 Bis 2, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, 308 en relación al 302, 308 en relación al 313, 308 en relación al 320, 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 331 Bis.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Artículo 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, Homicidio simple previsto en el Artículo 308 en relación al 312, Homicidio en riña previsto por el Artículo 308 en relación al 313, Homicidio en estado de emoción violenta previsto por el Artículo 308 en relación al 320; 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 331 Bis.
 
 A partir del 1º de enero de 2015 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-Artículos 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267, 268, 271,624 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396, 397,401, 406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Artículo 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267, 268, 271, 364 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396, 397, 401, 406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
 
 A partir de 1º de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León y a otros delitos especiales previstos en los ordenamientos legales.
 
@@ -5176,3 +5414,9 @@ ADRIAN EMILIO DE LA GARZA SANTOS
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 JAIME CASTAÑEDA BRAVO
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
