@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-del-deporte-y-la-cultura-fisica-12148
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-08"
-last_updated: "2003-06-06"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA -ANTES LEY QUE CREA EL INSTITUTO DE LA JUVENTUD Y DEL DEPORTE DE BAJA CALIFORNIA-
 
-LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
+LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 8 de agosto de 1997.
 
@@ -37,7 +37,7 @@ LA H. XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORN
 
 UNICO.- Se ratifica el dictamen número 62 de la Comisión de Legislación y Puntos Constitucionales, aprobado por la XV Legislatura Constitucional en fecha 10 de abril de 1997, que contiene el proyecto de decreto de la Ley que crea el Instituto de la Juventud y del Deporte de Baja California, y se modifica el contenido de los artículos 2° en su párrafo segundo y 3° fracción XVII, de acuerdo a las observaciones que el Ejecutivo del Estado en su oportunidad señaló; en virtud de lo anterior, queda en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ENERO DE 2002)</small>
 
 LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
@@ -49,7 +49,7 @@ LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
 Se crea el Instituto del Deporte y la Cultura Física de Baja California, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Mexicali.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Artículo 2°.
 
@@ -59,7 +59,7 @@ Para la eficiente atención de sus asuntos, el Instituto contará con las delega
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL INSTITUTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Artículo 3°.
 
@@ -73,7 +73,9 @@ III. Determinar lineamientos en materia de eventos deportivos; normar y coordina
 
 IV. Establecer mecanismos para la adecuada coordinación de acciones con las dependencias y entidades de la administración pública e instituciones de educación superior, en lo relativo a los programas de investigación en ciencias y técnicas del deporte;
 
-V. Promover la concertación de acciones con instituciones de carácter público, social y privado, que lleven a cabo actividades en materia deportiva, fomentando siempre la participación juvenil en el desarrollo social del Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+V.- Promover las acciones necesarias para la detección de talentos deportivos en las instituciones educativas de nivel básico, así como la concertación de acciones con instituciones de carácter público, social y privado, que lleven a cabo actividades en materia deportiva, fomentando siempre la participación juvenil en el desarrollo social del Estado;
 
 VI. Proponer mecanismos de coordinación ante autoridades federales y gobiernos estatales, para concertar convenios que tiendan al desarrollo deportivo de la población de Baja California;
 
@@ -219,7 +221,7 @@ X. Las demás que determine la Junta Directiva y las disposiciones legales y apl
 
 ### CAPITULO CUARTO. PATRIMONIO DEL INSTITUTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Artículo 13.
 
@@ -279,7 +281,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE ENERO DE 2002.
 
@@ -292,3 +294,7 @@ P.O. 6 DE JUNIO DE 2003.
 ###### ARTICULO UNICO
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
