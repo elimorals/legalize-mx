@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-especial-de-justicia-para-adolescentes-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-10"
-last_updated: "2010-06-09"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL SISTEMA ESPECIAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NUEVO LEON
 
-LEY DEL SISTEMA ESPECIAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+LEY DEL SISTEMA ESPECIAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 10 de septiembre de 2006.
 
@@ -95,7 +97,9 @@ La interpretación y aplicación de las disposiciones contenidas en esta Ley deb
 
 Normas supletorias
 
-En lo no previsto por esta Ley se aplicarán la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León, el Código Penal para el Estado de Nuevo León y el Código de Procedimientos Penales del Estado de Nuevo León, en todo cuanto no se opongan a esta Ley y a las normas mencionadas en el artículo anterior.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En lo no previsto por esta Ley se aplicarán la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León, el Código Penal para el Estado de Nuevo León y el Código Procesal Penal para el Estado de Nuevo León, en todo cuanto no se opongan a esta Ley y a las normas mencionadas en el Artículo anterior.
 
 ### CAPÍTULO II. Principios, derechos y garantías
 
@@ -375,7 +379,9 @@ La acción penal para perseguir la responsabilidad de los adolescentes a quienes
 
 Plazos especiales de prescripción de la acción penal
 
-La acción penal prescribirá transcurrido un término igual al promedio entre el mínimo y el máximo de duración de la pena señalada en el Código Penal para el Estado de Nuevo León, correspondiente al delito que se impute al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de ocho años.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+La acción penal prescribirá transcurrido un término igual al promedio entre el mínimo y el máximo de duración de la pena señalada en el Código Penal para el Estado de Nuevo León, correspondiente al delito que se impute al adolescente. El término de la prescripción no podrá exceder el plazo máximo de diez años, salvo que se trate de los delitos de secuestro, homicidio doloso y violación agravada, en cuyo caso el plazo será de quince años
 
 ###### Artículo 36.
 
@@ -555,7 +561,7 @@ Si la solicitud del adolescente no se admitiera o el proceso se reanudara con po
 
 Condiciones por cumplir durante el período de suspensión del proceso a prueba
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 El Juez fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, salvo lo previsto en el Artículo 53, y determinará una o varias de las condiciones que deberá cumplir el adolescente, entre ellas las siguientes:
 
@@ -671,7 +677,7 @@ Los plazos establecidos en esta Ley comenzarán a correr al día siguiente de su
 
 En todos los plazos relativos a la privación de la libertad del adolescente deberán contar también los días inhábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
@@ -953,7 +959,7 @@ III.- El señalamiento del lugar o la forma para recibir notificaciones; y
 
 IV.- La promesa formal del adolescente de presentarse a las citaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 88.
 
@@ -987,7 +993,9 @@ Valor de las diligencias de investigación
 
 Durante la fase de investigación el Ministerio Público deberá practicar las diligencias necesarias para el eficaz esclarecimiento del hecho. Cuando lo considere oportuno formulará la acción penal si correspondiere.
 
-Los elementos de convicción recogidos durante la investigación del Ministerio Público carecerán de valor probatorio para fundamentar la sentencia, salvo que sean oportunamente incorporados a la audiencia de juicio de conformidad con esta Ley. Estos elementos podrán ser utilizados por el Ministerio Público para sustentar la vinculación a proceso y la necesidad de aplicar alguna medida cautelar al adolescente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Los elementos de convicción recogidos durante la investigación del Ministerio Público carecerán de valor probatorio para fundamentar la sentencia, salvo aquellas realizadas de conformidad con las reglas previstas en el Código Procesal Penal para la prueba anticipada, o bien, aquellas en las que se autoriza su incorporación por lectura o reproducción durante la audiencia del debate de juicio oral.
 
 ###### Artículo 92.
 
@@ -999,39 +1007,25 @@ I.- Orden de comparecencia por medio de la fuerza pública, cuando el adolescent
 
 II.- Orden de aprehensión cuando concurran los requisitos que exige el artículo 16 Constitucional y exista una presunción razonable, por apreciación de las circunstancias del caso particular, de que el adolescente podría no someterse al proceso u obstaculizaría el esclarecimiento del hecho o se estime que el adolescente pudiera cometer un delito doloso contra la propia víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el proceso, o contra algún tercero.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 93.
 
-Flagrancia
+Detención del imputado
 
-Se podrá detener al adolescente sin orden judicial en caso de flagrancia. Se entenderá que hay delito flagrante cuando:
+Se podrá detener a un adolescente sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+l. El adolescente es detenido en el momento de estarlo cometiendo; o
 
-I.- La persona sea sorprendida en el momento de estarlo cometiendo; o
+II. Inmediatamente después de cometerlo es detenido en virtud de que:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+a) Es sorprendido cometiendo el delito y es perseguido material e ininterrumpidamente;
 
-II.- Inmediatamente después de cometerlo, sea perseguido materialmente; o
+b) Es señalado por la víctima o un testigo presencial: o
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+c) Se le encuentren objetos o aparezcan indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
 
-III.- Inmediatamente después de cometerlo, alguien lo señale como responsable, o se le encuentre en su poder el objeto del delito o el instrumento con que se hubiera cometido o existan huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-Lo anterior siempre y cuando no haya transcurrido un plazo de sesenta horas, desde la comisión de los hechos delictuosos.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-Cuando se detenga a un adolescente por un hecho que pudiera constituir un delito que requiera querella de parte ofendida, se informará inmediatamente a quien pueda presentarla, y si éste no lo hace en ese momento el adolescente será puesto en libertad de inmediato.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-La detención se notificará inmediatamente a sus padres, tutores o representantes, y cuando no sea posible, se les notificará en el plazo más breve posible.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-Tratándose de conducta tipificada como delito grave, el Juez de Garantías una vez que conozca la imputación resolverá sin demora y sin necesidad de audiencia lo relativo a la orden de aprehensión.
+El Juez de Control considerará con razonabilidad las circunstancias de cada caso para determinar la legalidad de la detención en flagrancia.
 
 ###### Artículo 94.
 
@@ -1227,7 +1221,7 @@ Cuando los asistentes a las audiencias contravengan lo dispuesto en el párrafo 
 
 Continuidad y suspensión del juicio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 El juicio será continuo y se desarrollará en forma ininterrumpida durante todas las audiencias consecutivas que fueren necesarias hasta su conclusión. Se podrá suspender por única vez y por un plazo máximo de quince días seguidos, cuando:
 
@@ -1275,17 +1269,25 @@ Quienes no puedan hablar o no lo puedan hacer en español, formularán sus pregu
 
 Forma de los interrogatorios
 
-Durante la audiencia de juicio los peritos y los testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura o reproducción de los registros en que consten anteriores declaraciones o de otros documentos que las contuvieren, salvo cuando sea necesario auxiliar su memoria o demostrar o superar contradicciones entre ellas y las prestadas en la audiencia, y sólo a fin de solicitar las aclaraciones pertinentes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Durante la audiencia de juicio los peritos y los testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura o reproducción de los registros en que consten anteriores declaraciones o de otros documentos que las contuvieren, salvo cuando sea necesario auxiliar su memoria o demostrar o superar contradicciones entre ellas y las prestadas en la audiencia, y sólo a fin de solicitar las aclaraciones pertinentes, así como por cualquier otra causa prevista en la Ley.
 
 Los peritos, testigos e intérpretes citados responderán directamente a las preguntas que les formulen las partes.
 
 Antes de declarar, los testigos, peritos o intérpretes no podrán comunicarse entre sí ni con otras personas, ni ver, oír o ser informados de aquello que ocurra en la audiencia; permanecerán en una sala distinta, advertidos por el Juez acerca de la disposición anterior, y serán llamados en el orden establecido.
 
-El Juez después de tomarle protesta de conducirse con verdad al declarante, si éste es mayor de dieciocho años, y de advertirle sobre las consecuencias de quienes declaran falsamente, concederá la palabra a la parte que lo propuso para que proceda a interrogarlo y, con posterioridad, a las demás partes que deseen hacerlo. Por último, podrá interrogar el Juez, con el único fin de precisar puntos que no le hayan quedado claros.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez después de tomarle protesta de conducirse con verdad al declarante, si éste es mayor de doce años, concederá la palabra a la parte que lo propuso para que proceda a interrogarlo y, con posterioridad, a las demás partes que deseen hacerlo. Por último, podrá interrogar el Juez, con el único fin de precisar puntos que no le hayan quedado claros.
 
 Las partes pueden interrogar libremente, pero no podrán formular preguntas capciosas, impertinentes o que involucren más de un hecho. El Juez no admitirá preguntas sugestivas formuladas por la parte que ofreció al declarante, salvo en el caso de testigo hostil.
 
 Las partes podrán objetar la formulación de preguntas capciosas, impertinentes, que contengan más de un hecho o las sugestivas. La omisión se entenderá como renuncia al derecho de objetar.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Juez o el Ministerio Público podrán disponer medidas especiales destinadas a proteger la seguridad e integridad del testigo de conformidad con el Código Procesal Penal para el Estado de Nuevo León.
 
 ###### Artículo 112.
 
@@ -1301,11 +1303,15 @@ Prueba material
 
 Las cosas y otros elementos de convicción serán exhibidos en la audiencia. Todos los elementos de convicción podrán ser presentados a los peritos, testigos o intérpretes, o al adolescente, cuando corresponda, durante sus declaraciones, quienes podrán ser invitados a reconocerlos o a declarar sobre ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 114.
 
-Incorporación por lectura
+Introducción de registros en la audiencia de debate de juicio oral.
 
-Con excepción de los supuestos en los que esta Ley autoriza a incorporar una prueba por lectura, no se podrán incorporar o invocar como medios de prueba ni dar lectura durante la audiencia, a los registros y demás documentos que den cuenta de diligencias o actuaciones realizadas por la policía o por el Ministerio Público.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Con excepción de los supuestos previstos en el Código Procesal Penal para el Estado de Nuevo León, en los que se autoriza a incorporar una prueba por lectura, no se podrán incorporar o invocar como medios de prueba ni dar lectura durante la audiencia, a los registros y demás documentos que den cuenta de diligencias o actuaciones realizadas por la policía o por el Ministerio Público.
 
 Nunca se podrán incorporar como medio de prueba o dar lectura a actas o documentos que den cuenta de actuaciones o diligencias declaradas nulas o en cuya obtención se hayan vulnerado garantías fundamentales.
 
@@ -1599,13 +1605,21 @@ Su duración no podrá ser inferior a dos meses ni superior a seis meses.
 
 Privación de la libertad en un centro especializado
 
-La privación de libertad en centro especializado para adolescentes podrá ser aplicada únicamente en los casos de delitos graves señalados por el artículo 16 Bis del Código Penal para el Estado de Nuevo León:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+La privación de la libertad en centro de internamiento especializado solo se podrá aplicar en los casos de delitos graves señalados por la legislación penal. Salvo lo dispuesto en el penúltimo párrafo de este Artículo la privación de la libertad se aplicara:
 
 I.- Cuando se trate de los sujetos comprendidos en la fracción II del artículo 3 de esta Ley, la medida sancionadora de internamiento no podrá exceder de seis años en caso de que fueran encontrados responsables;
 
 II.- Cuando se trate de los sujetos comprendidos en la fracción III del artículo 3 de esta Ley, la medida sancionadora de internamiento no podrá exceder de ocho años en caso de que fueran encontrados responsables.
 
-Al ejecutar una medida de privación de libertad en centro especializado se deberá computar el período de detención provisional al que hubiere sido sometido el adolescente.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En los casos de homicidio doloso, secuestro y violación, la privación de la libertad podrá alcanzar hasta los ocho años cuando se trate de los adolescentes comprendidos en la fracción I de este Artículo, y de diez años cuando se trate de los adolescentes comprendidos en la fracción II.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Al ejecutar una medida de privación de libertad en centro especializado, se deberá computar el período de detención provisional al que hubiere sido sometido el adolescente.
 
 ###### Artículo 139.
 
@@ -2245,7 +2259,9 @@ El recurso de apelación especial que se interponga contra la sentencia dictada 
 
 Queja
 
-El recurso de queja procede contra las conductas omisas de los jueces que no radiquen una investigación o no resuelvan respecto al libramiento o negativa de la orden de aprehensión o de comparecencia, en los términos a que alude el Artículo 92 de esta ley y 409 del Código de Procedimientos Penales del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El recurso de queja procede contra las conductas omisas de los jueces que no radiquen una investigación o no resuelvan respecto al libramiento o negativa de la orden de aprehensión o de comparecencia, a que alude el Artículo 92 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -2319,6 +2335,32 @@ Para el trámite de la revisión regirán las reglas establecidas para el de ape
 
 El Tribunal competente para resolver, podrá disponer todas las indagaciones y diligencias preparatorias que considere útiles y delegar su ejecución en alguno de sus miembros. También podrá producir prueba de oficio en la audiencia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+## TÍTULO VII. PROCEDIMIENTOS ESPECIALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 202.
+
+Procedimientos especiales.
+
+Serán aplicables los procedimientos especiales previstos en el Código Procesal Penal para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 203.
+
+Tipos de procedimientos especiales.
+
+Cuando del procedimiento abreviado se desprenda la responsabilidad del adolescente en el caso de que el Ministerio Público solicite la medida sancionadora privativa de libertad en centro especializado, esta será hasta por tres cuartas partes del máximo de la prevista en el Artículo 138 de esta Ley.
+
+En los casos en los que la medida sancionadora no sea privativa de libertad en centro especializado, el Ministerio Público podrá solicitar medidas más benévolas.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto, entrarán en vigor el día 12 de septiembre del 2006.
@@ -2371,7 +2413,7 @@ EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE JULIO DE 2007.
 
@@ -2392,3 +2434,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 9 DE JUNIO DE 2010
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
