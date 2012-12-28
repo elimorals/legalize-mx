@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2012-12-13"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJARÁ DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, QUEDANDO ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1513,11 +1513,13 @@ En las oficinas del Ministerio Público, se llevarán los registros necesarios p
 
 Cuando se reciban armas u otros objetos que se relacionen con el delito, se hará la descripción de ellos en las actas, expresándose las marcas, matrículas, calidades, materias y demás circunstancias características que faciliten su identificación; si se recibiera dinero o alhajas, se contará el primero, expresándose la clase de moneda y su número, y se especificarán debidamente las segundas, entregándose el recibo correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 146.
 
-A toda persona que deba examinarse como testigo o como perito, se le recibirá la protesta de producirse con verdad, bajo la siguiente formula: "¿Protesta usted, bajo palabra de honor y en nombre de la Ley, declarar con verdad en las diligencias en que va a intervenir?". Al contestar en sentido afirmativo, se le hará saber que la ley sanciona al falso testimonio y se le apercibirá de las sanciones previstas en el artículo 250 del Código Penal vigente en el Estado, observándose lo dispuesto en el artículo 276 de este Código.
+A toda persona que deba examinarse como testigo o como perito, se le recibirá la protesta de conducirse con verdad, bajo la siguiente formula: "¿Protesta decir la verdad?". Al contestar en sentido afirmativo, se observará lo dispuesto en el Artículo 276 de este Código.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 En la averiguación previa el Ministerio Público prevendrá a los testigos y peritos para que se presenten ante el Juez cuantas veces fueren requeridos; así como, comuniquen los cambios de domicilio que tuvieren, lo que se hará constar en diligencia formal.
 
@@ -5876,3 +5878,9 @@ Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 28
 P.O. 13 DE DICIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
