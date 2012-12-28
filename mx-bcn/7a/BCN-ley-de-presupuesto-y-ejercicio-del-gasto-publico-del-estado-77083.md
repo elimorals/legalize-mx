@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2012-09-14"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -101,15 +101,27 @@ XV. Órganos Autónomos: los organismos públicos autónomos creados con ese car
 
 XVI. Órganos de Control: la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales, las Contralorías Internas o Unidades Administrativas equivalentes de los sujetos de esta Ley;
 
-XVII. Poder Ejecutivo: la Administración Pública Centralizada y las Entidades Paraestatales, en su conjunto;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-XVIII. Titular: Quienes tienen la máxima representación legal de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, de las Entidades de la Administración Pública Paraestatal y Paramunicipal y de los Órganos Autónomos; en su caso, los Secretarios o Directores de Dependencias; y
+XVII. Perspectiva de Equidad de Género: Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres;
 
-XIX. Unidad Administrativa: Cada una de las áreas operativas que conforman la estructura orgánica de los sujetos de esta Ley a la que se le confieren atribuciones y responsabilidades específicas en sus respectivos ámbitos de competencia, de conformidad con las Leyes y Reglamentos aplicables.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Poder Ejecutivo: La Administración Pública Centralizada y las Entidades Paraestatales, en su conjunto;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XIX. Titular: Quienes tienen la máxima representación legal de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, de las Entidades de la Administración Pública Paraestatal y Paramunicipal y de los Órganos Autónomos; en su caso, los Secretarios o Directores de Dependencias; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XX. Unidad Administrativa: Cada una de las áreas operativas que conforman la estructura orgánica de los sujetos de esta Ley a la que se le confieren atribuciones y responsabilidades específicas en sus respectivos ámbitos de competencia, de conformidad con las Leyes y Reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 4.
 
-Con el propósito de optimizar los recursos presupuestales que les sean asignados, los sujetos de esta Ley deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con apego a los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+Con el propósito de optimizar los recursos presupuestales que les sean asignados, los sujetos de esta Ley deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con apego a los principios de eficiencia, eficacia, economía, perspectiva de equidad de género, transparencia y honradez para satisfacer los objetivos a los que están destinados.
 
 ###### ARTÍCULO 5.
 
@@ -125,11 +137,11 @@ Finanzas, y los Presidentes Municipales, a través de las Tesorerías Municipale
 
 Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, realizarán lo previsto en el párrafo anterior a través de sus respectivas Unidades Administrativas equivalentes.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 7.
 
-Las Dependencias del Ejecutivo del Estado y de los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector, conforme al acuerdo respectivo que dicten el Ejecutivo del Estado y los Ayuntamientos, con base en las políticas y programas sectoriales, institucionales y especiales derivados de los Planes Estatal y Municipales de Desarrollo, respectivamente.
-
-La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, verificarán que los proyectos de presupuestos de las Entidades sean presentados en los términos de esta Ley y que hayan sido aprobados por sus respectivos Órganos de Gobierno y por las Dependencias Coordinadoras de Sector a la que, en su caso, correspondan.
+Las Dependencias del Ejecutivo del Estado y de los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector, conforme a la perspectiva de equidad de género y al acuerdo respectivo que dicten el Ejecutivo del Estado y los Ayuntamientos, con base en las políticas y programas sectoriales, institucionales y especiales derivados de los Planes Estatal y Municipales de Desarrollo, respectivamente.
 
 ###### ARTÍCULO 8.
 
@@ -305,6 +317,10 @@ Asimismo, el presupuesto de egresos deberá formularse basado en resultados de a
 
 Las asignaciones presupuestales procurarán atender los resultados de la evaluación del desempeño de los sujetos de la presente Ley que realicen las instancias técnicas competentes, considerando los avances logrados en los programas, objetivos y metas.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Los tres poderes, los municipios del Estado y los órganos autónomos llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, con perspectiva de equidad de género, entendiéndose por esto, el enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre hombres y mujeres.
+
 ###### ARTÍCULO 24.
 
 Los presupuestos se elaborarán por ramo, capítulo, concepto y partida de acuerdo a la calendarización que al efecto se establezca; dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
@@ -312,6 +328,30 @@ Los presupuestos se elaborarán por ramo, capítulo, concepto y partida de acuer
 ###### ARTÍCULO 25.
 
 Para la integración de los Presupuestos de Egresos, los sujetos de la presente Ley deberán establecer catálogos que permitan ordenar de forma sistemática y homogénea todos los conceptos de gastos de acuerdo a la naturaleza de los mismos. Para tales efectos, se aplicará en lo conducente el Clasificador por Objeto del Gasto emitido por el CONAC, el cual podrán desagregar de acuerdo a sus necesidades a partir de la estructura básica del clasificador, así mismo, aplicarán la información complementaria que al efecto emita el Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 25 BIS.- El Estado, los municipios del Estado y los órganos autónomos impulsarán la igualdad sustantiva entre mujeres y hombres a través de la incorporación de la perspectiva de género, en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto a través de las unidades ejecutoras del gasto.
+
+Los titulares de las dependencias y entidades, u órganos serán responsables de que se ejecuten con eficiencia, eficacia, efectividad y perspectiva de género, las acciones previstas en sus respectivos programas y presupuestos.
+
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, así como a generar un impacto diferenciado de género.
+
+El órgano de control del estado y los municipios, así como el de los órganos autónomos, verificarán periódicamente los resultados de la ejecución de los programas y presupuestos, en materia de equidad de género.
+
+Para tal efecto, las unidades responsables del gasto deberán considerar lo siguiente:
+
+I.- Incorporar en sus programas la perspectiva de género y reflejarla en la matriz de indicadores para resultados;
+
+II.- Identificar y registrar la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad en los indicadores y en los padrones de beneficiarias y beneficiarios que corresponda;
+
+III.- Fomentar la perspectiva de género en el diseño y la ejecución de programas en los que, aun cuando no estén dirigidos a mitigar o solventar las desigualdades de género, se pueda identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
+
+IV.- En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género;
+
+V.- Aplicar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Planeación y Finanzas y el Instituto de la Mujer del Estado de Baja California; e
+
+VI.- Incluir en sus programas y campañas de comunicación social, contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto de la Mujer del Estado coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
 ###### ARTÍCULO 26.
 
@@ -369,25 +409,53 @@ II. Descripción clara de los programas que integren el proyecto de Presupuesto 
 
 III. Los indicadores de gestión necesarios para la evaluación de los resultados en la ejecución de cada programa, establecidos en los términos del Sistema de Evaluación del Desempeño previsto en la presente Ley;
 
-IV. Comparativo de las metas de los programas del Presupuesto de Egresos Autorizado del ejercicio en curso, con el cierre proyectado del mismo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-V. Comparativo de las metas de los programas del ejercicio al que corresponda el proyecto de Presupuesto de Egresos con el cierre proyectado del ejercicio en curso;
+IV. Los indicadores que reflejan en los programas la incorporación de la perspectiva de género;
 
-VI. El presupuesto de egresos del ejercicio en curso devengado al momento de la presentación del proyecto de presupuesto de egresos del ejercicio siguiente, y el pronóstico de presupuesto de egresos devengado al cierre del ejercicio en curso;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-VII. Comparativo del presupuesto de egresos modificado y el pronóstico del presupuesto de egresos devengado al cierre del ejercicio en curso, con el proyecto de Presupuesto de Egresos del ejercicio posterior, por ramo, capítulo, concepto y partida, con la correspondiente justificación de las variaciones que se presentan;
+V. El Registro de la población objetivo, desagregada por sexo y grupo de edad;
 
-VIII. En su caso, situación de la deuda pública al término del último ejercicio fiscal y estimación de las que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente, así como las cantidades y partidas que se programen para el cumplimiento de las obligaciones financieras o crediticias relativas a la deuda pública de conformidad con la Ley de la materia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IX. La estructura organizacional y funciones vigentes así como, en su caso, las modificaciones propuestas;
+VI. Comparativo de las metas de los programas del Presupuesto de Egresos Autorizado del ejercicio en curso, con el cierre proyectado del mismo;
 
-X. Comparativo de plazas autorizadas del ejercicio en curso con las correspondientes al Proyecto de Presupuesto de Egresos que se presenta;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-XI. Programa Anual de Obra Pública, en los términos de la Ley de la materia;
+VII. Comparativo de las metas de los programas del ejercicio al que corresponda el proyecto de Presupuesto de Egresos con el cierre proyectado del ejercicio en curso;
 
-XII. En su caso, el estado que guardan los contratos de erogaciones plurianuales autorizados en ejercicios anteriores que afectan el Presupuesto de Egresos para el que se solicita autorización; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-XIII. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+VIII. El presupuesto de egresos del ejercicio en curso devengado al momento de la presentación del proyecto de presupuesto de egresos del ejercicio siguiente, y el pronóstico de presupuesto de egresos devengado al cierre del ejercicio en curso;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IX. Comparativo del presupuesto de egresos modificado y el pronóstico del presupuesto de egresos devengado al cierre del ejercicio en curso, con el proyecto de Presupuesto de Egresos del ejercicio posterior, por ramo, capítulo, concepto y partida, con la correspondiente justificación de las variaciones que se presentan;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+X. En su caso, situación de la deuda pública al término del último ejercicio fiscal y estimación de las que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente, así como las cantidades y partidas que se programen para el cumplimiento de las obligaciones financieras o crediticias relativas a la deuda pública de conformidad con la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XI. La estructura organizacional y funciones vigentes así como, en su caso, las modificaciones propuestas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XII. Comparativo de plazas autorizadas del ejercicio en curso con las correspondientes al Proyecto de Presupuesto de Egresos que se presenta;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XIII. Programa Anual de Obra Pública, en los términos de la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIV. En su caso, el estado que guardan los contratos de erogaciones plurianuales autorizados en ejercicios anteriores que afectan el Presupuesto de Egresos para el que se solicita autorización; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XV. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
 
 La información a que se refiere este Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común.
 
@@ -483,11 +551,13 @@ Del Control Presupuestal de los Egresos.
 
 Los sujetos de esta Ley deberán llevar el control presupuestal de los egresos considerando el presupuesto aprobado, el presupuesto modificado, el presupuesto comprometido, el presupuesto devengado, el presupuesto ejercido y el presupuesto pagado, dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-La Secretaría de Planeación y finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar, y obtener de las Dependencias y Entidades la información programática y presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos.
+La Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar, y obtener de las Dependencias y Entidades la información programática y presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos, así como la información relativa a la aplicación sustantiva de la perspectiva de equidad de género en los programas y presupuestos.
 
-En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos estará a cargo de las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
+En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos estará en los mismos términos, a cargo de las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
 ###### ARTÍCULO 49.
 
@@ -589,9 +659,11 @@ Los sujetos de la presente Ley, en todos los casos de solicitud de autorización
 
 Del Ejercicio del Gasto Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 56.
 
-El ejercicio del gasto público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado.
+El ejercicio del gasto público comprende el manejo y aplicación de los recursos con perspectiva de equidad de género, así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado.
 
 Para tales efectos, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes de las Entidades, Poderes Legislativo y Judicial, así como de los Órganos Autónomos, llevarán el control presupuestal establecido en el Capítulo Tercero del presente Título.
 
@@ -605,9 +677,11 @@ Los Poderes Legislativo y Judicial, así como los Órganos Autónomos atenderán
 
 Los sujetos de la presente Ley sólo podrán ejercer el Presupuesto de Egresos que les haya sido aprobado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 59.
 
-Toda erogación a cargo de los Presupuestos de Egresos de los sujetos de la presente Ley deberá ser indispensable, normal y propia de quien los realiza, de aplicación estricta al ramo, capítulo, concepto y partida al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales y las reglas generales que emitan la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en el ámbito de sus respectivas competencias, las cuales se harán del conocimiento del Congreso del Estado para los efectos de la revisión de la Cuenta Pública.
+Toda erogación a cargo de los Presupuestos de Egresos de los sujetos de la presente Ley deberá ser indispensable, con enfoque de género, normal y propia de quien los realiza, de aplicación estricta al ramo, capítulo, concepto y partida al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales y las reglas generales que emitan la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en el ámbito de sus respectivas competencias, las cuales se harán del conocimiento del Congreso del Estado para los efectos de la revisión de la Cuenta Pública.
 
 Una erogación se entenderá justificada cuando se destine a lograr los programas autorizados y existan las disposiciones y documentos legales que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
 
@@ -747,9 +821,11 @@ DE LOS SISTEMAS DE EVALUACIÓN.
 
 Del Sistema de Evaluación del Desempeño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 74.
 
-El Sistema de Evaluación del Desempeño es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño, de los programas mediante la verificación del grado de cumplimiento de políticas públicas, programas, objetivos y metas, con base en indicadores de gestión que permitan conocer su impacto económico, social e institucional.
+El Sistema de Evaluación del Desempeño es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño, de los programas mediante la verificación del grado de cumplimiento de políticas públicas, programas, objetivos y metas, con base en indicadores de gestión y de género que permitan conocer su impacto económico, social e institucional, así como la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad.
 
 La Secretaría de Planeación y Finanzas en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, deberán establecer, en sus respectivos ámbitos de competencia, el Sistema de Evaluación del Desempeño a que se refiere el párrafo anterior.
 
@@ -759,7 +835,9 @@ Para tales efectos, se sujetarán a las disposiciones generales previstas en el 
 
 Los indicadores de gestión deberán ser incorporados a la estructura programática que sirve de base para la formulación de los programas en los que se sustentan los Presupuestos de Egresos de los sujetos de la presente Ley.
 
-Para tales efectos, se entenderá como indicador de gestión el parámetro de medición del desempeño representado por unidades, índices, cocientes o fórmulas que permiten establecer lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, eficacia, calidad, equidad o impacto económico, social o institucional y serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Para tales efectos, se entenderá como indicador de gestión el parámetro de medición del desempeño representado por unidades, índices, cocientes o fórmulas que permiten establecer lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, eficacia, calidad, equidad de género o impacto económico, social o institucional y serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
 
 ###### ARTÍCULO 76.
 
@@ -781,7 +859,9 @@ V. Impacto institucional: que mide el grado de transformación relativa lograda 
 
 VI. Calidad: que valora los atributos, propiedades o características que deben tener los bienes y servicios públicos generados en la atención de la población objetivo, vinculándose con la satisfacción del usuario o beneficiario; y,
 
-VII. Equidad: que mide los elementos relativos al acceso, valoración, participación e impacto distributivo entre los grupos sociales o entre los géneros por la provisión de un bien o servicio.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VII. Equidad de género: que identifica de forma diferenciada los beneficios específicos para mujeres y hombres y que mide los elementos relativos al acceso, valoración, participación e impacto distributivo entre los grupos sociales o entre los géneros por la provisión de un bien o servicio.
 
 ###### ARTÍCULO 78.
 
@@ -799,9 +879,11 @@ De la Evaluación del Gasto Público.
 
 La Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo, Judicial, así como en los Órganos Autónomos, proporcionarán a la Dirección de Control y Evaluación Gubernamental, a las Sindicaturas Municipales y a las Unidades de Control de los Poderes Legislativo, Judicial, así como de los Órganos Autónomos, en sus respectivos ámbitos de competencia y con la periodicidad que se les solicite, la información contable, financiera y de otra índole necesaria para la evaluación de la programación y presupuestación del gasto público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 81.
 
-Sin perjuicio de lo señalado en el Artículo 74 de la presente Ley, la Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales podrán realizar en cualquier momento la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas.
+Sin perjuicio de lo señalado en el Artículo 74 de la presente Ley, la Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales podrán realizar en cualquier momento la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas, así como el de la perspectiva de equidad de género.
 
 En los Poderes Legislativo y Judicial y en los Órganos Autónomos, el cumplimiento de lo dispuesto por este Artículo recaerá en las Unidades Administrativas equivalentes a las mencionadas en el mismo.
 
@@ -887,9 +969,11 @@ La obligación prevista en el presente Artículo será atendida por los Poderes 
 
 En los casos en que las Dependencias, Entidades, Poderes Legislativo y Judicial, así como los Órganos Autónomos no proporcionen la información a que se refiere el Artículo anterior, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en sus ámbitos de competencia, podrán solicitar la intervención de sus respectivos Órganos de Control en los términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 87.
 
-La Secretaría de Planeación y Finanzas y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos, respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico y financiero, con base a indicadores de gestión, de los programas autorizados en los Presupuestos de Egresos de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, respectivamente.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos, respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico y financiero, con base a indicadores de gestión, e indicadores para resultados con perspectiva de equidad de género, de los programas autorizados en los Presupuestos de Egresos de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, respectivamente.
 
 Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, el cumplimiento de lo dispuesto por este Artículo corresponderá a las Unidades Administrativas equivalentes a las mencionadas en el mismo, debiendo proporcionar la información referida a sus respectivos Titulares.
 
@@ -904,6 +988,10 @@ Tendrán la misma obligación los Órganos de Control de los Poderes Legislativo
 ###### ARTÍCULO 89.
 
 Los Órganos de Control de los sujetos de esta Ley, en sus respectivos ámbitos de competencia, deberán vigilar y verificar el correcto ejercicio del gasto público, a través de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que, en la materia, correspondan al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+En los mismos términos, los órganos de control de los sujetos de esta ley, verificarán que el ejercicio del gasto público se haya ejercido con perspectiva de equidad de género.
 
 ###### ARTÍCULO 90.
 
@@ -1072,3 +1160,9 @@ P.O. 1 DE JUNIO DE 2012.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de un plazo que no excederá de 160 días naturales, contados a partir de la entrada en vigor de las presentes reformas, los Poderes Ejecutivo, Legislativo y Judicial del Estado, y los organismos autónomos, en los términos de las presentes reformas, deberán planear, diseñar, ejecutar y evaluar sus correspondientes presupuestos, con perspectiva de equidad de género.
