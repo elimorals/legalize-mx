@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2012-06-27"
+last_updated: "2012-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -2315,11 +2315,11 @@ La confesión judicial sólo produce efecto en lo que perjudica al que la hace, 
 
 No se procederá a citar a alguno para que absuelva posiciones, sino después de haber sido presentado el pliego que las contenga. Si éste se presentare cerrado deberá guardarse así en el secreto del Tribunal asentándose la razón respectiva en la misma cubierta que firmarán el juez y el secretario.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 272.
 
-Si el citado comparece, el juez, en presencia de aquél abrirá el pliego, se impondrá de las posiciones y antes de proceder al interrogatorio, calificará las preguntas conforme a los artículos 267 y 268. Acto seguido y estando de pie el absolvente, el juez, o en su caso, el secretario, deberá tomarle la protesta de conducirse con verdad, dándole lectura íntegra de las disposiciones del Código Penal, que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolo de las penas que se imponen a quienes declaran con falsedad. Igualmente le hará saber que en caso de conducirse con falsedad, procederá de oficio a dar vista al Ministerio Público para efectos de que inicie la averiguación respectiva. Todo lo anterior deberá quedar asentado en el acta correspondiente.
+Si el citado comparece, el Juez, en presencia de aquél abrirá el pliego, se impondrá de las posiciones y antes de proceder al interrogatorio, calificará las preguntas conforme a los Artículos 267 y 268. Acto seguido y estando de pie el absolvente, el Juez, o en su caso, el secretario, deberá tomarle la protesta de conducirse con verdad. Igualmente le hará saber que en caso de conducirse con falsedad, procederá de oficio a dar vista al Ministerio Público para efectos de que inicie la averiguación respectiva. Todo lo anterior deberá quedar asentado en el acta correspondiente.
 
 ###### Artículo 273.
 
@@ -9670,3 +9670,9 @@ P.O. 27 DE JUNIO DE 2012.
 Primero.- El presente Decreto entrará en vigor a los 30 días después de su publicación en el Periódico Oficial del Estado de Nuevo León,
 
 Segundo.- Dentro del término señalado en el Artículo anterior la Secretaría de Salud, deberá de establecer los requisitos a cumplir por las Instituciones para la realización de las pruebas de ADN.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
