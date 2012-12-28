@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2008-06-25"
+last_updated: "2012-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -57,9 +57,17 @@ IV.- Las bases para fijar las etapas de la planeación estatal del desarrollo, l
 
 V.- Las bases para la coordinación y colaboración intergubernamental, bajo los principios de subsidiariedad y descentralización, que permita la congruencia programática y presupuestal entre las administraciones públicas Federal, Estatal y Municipal;
 
-VI.- Las bases para la evaluación técnica y ciudadana del desempeño de las instituciones de planeación y del cumplimiento de los objetivos y metas establecidos por los Planes y Programas Estatales y Municipales, la cual será continua, sistemática, transparente y de interés público; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-VII.- Las responsabilidades de los servidores públicos relativas al cumplimiento de los principios de la planeación, de sus planes y programas, así como de las metas y acciones que establezcan.
+VI.- Las bases para la evaluación técnica y ciudadana del desempeño de las instituciones de planeación y del cumplimiento de los objetivos y metas establecidos por los planes y programas estatales y municipales, la cual será continua, sistemática, transparente y de interés público;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VII.- Las bases para la incorporación de la perspectiva de equidad de género en los planes y programas a que se refiere la presente ley, para promover y garantizar la igualdad entre mujeres y hombres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Las responsabilidades de los servidores públicos relativas al cumplimiento de los principios de la planeación, de sus planes y programas, así como de las metas y acciones que establezcan.
 
 ###### ARTÍCULO 3.
 
@@ -75,13 +83,25 @@ IV. INEPLAN.- El Instituto Estatal de Planeación;
 
 V. SEDOC.- Sistema Estatal de Información, Documentación, Estadística, y Cartografía de Baja California;
 
-VI. EVALUACIÓN.- Proceso que tiene como finalidad determinar el grado de eficacia y eficiencia, con que han sido empleados los recursos destinados a alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-VII. PROCESO DE PLANEACIÓN PARA EL DESARROLLO.- Fases en la que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación;
+VI. EVALUACIÓN.- Proceso que tiene como finalidad determinar el grado de eficacia, eficiencia y perspectiva de equidad de género, con que han sido empleados los recursos destinados a alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
 
-VIII. PROGRAMA.- Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-IX. PLANES.- Plan Estratégico del Estado, Plan Estatal de Desarrollo, Planes Sectoriales, Planes Estratégicos Municipales y Planes Municipales de Desarrollo.
+VII. PERSPECTIVA DE EQUIDAD DE GÉNERO.- Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VIII. PROCESO DE PLANEACIÓN PARA EL DESARROLLO.- Fases en la que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IX. PROGRAMA.- Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+X. PLANES.- Plan estratégico del estado, plan estatal de desarrollo, planes sectoriales, planes estratégicos municipales y planes municipales de desarrollo.
 
 ###### ARTÍCULO 4.
 
@@ -99,7 +119,9 @@ V.- El de inherencia, para salvaguardar en todo tiempo los principios y valores 
 
 VI.- De previsión, para fundamentar toda planeación en la investigación y estudios con horizonte de mediano y largo plazos, asegurando la sustentabilidad del desarrollo, y
 
-VII.- El de bienestar social, para garantizar la atención de las necesidades básicas de la población, mejorar la calidad de la vida, la igualdad de los derechos y lograr una sociedad con mayor igualdad y equidad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VII.- El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres; la equidad de género, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
 
 ###### ARTÍCULO 5.
 
@@ -149,9 +171,11 @@ El Gobernador del Estado, al enviar al Congreso del Estado las iniciativas de Le
 
 La programación y presupuestación del gasto público estatal se basarán en los objetivos y en las líneas de acción del Plan Estatal de Desarrollo, así como a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-Las dependencias y entidades de la administración pública Estatal y Municipal, deberán planear y conducir sus actividades con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo y las que les fijen el Gobernador y los Presidentes Municipales respectivamente.
+Las dependencias y entidades de la administración pública estatal y municipal, deberán planear y conducir sus actividades con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo y las que fijen el gobernador y los presidentes municipales respectivamente, observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género desde su planeación.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL DESARROLLO
 
@@ -209,7 +233,9 @@ II.- Propiciar la participación del Ejecutivo Federal, los Ayuntamientos, los g
 
 III.- Conducir y alentar los procesos y procedimientos de participación y consulta popular en el Sistema Estatal de Planeación para el Desarrollo del Estado;
 
-IV.- Establecer y proveer criterios para la formulación, instrumentación, ejecución, control y evaluación del Plan Estratégico del Estado, Plan Estatal de Desarrollo, Planes Sectoriales y programas, en congruencia con el Plan Nacional de Desarrollo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IV.- Establecer y proveer criterios para la formulación, instrumentación, ejecución, control y evaluación del plan estratégico del estado, plan estatal de desarrollo, planes sectoriales y programas, en congruencia con el plan nacional de desarrollo, identificando y registrando la población objetivo y la atendida por dichos planes y programas, desagregada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda;
 
 V.- Enviar el proyecto del Plan Estratégico del Estado y del Plan Estatal de Desarrollo al Poder Legislativo para su examen y opinión;
 
@@ -223,7 +249,9 @@ Corresponde a la Secretaría las siguientes atribuciones:
 
 I.- Proporcionar los lineamientos a las dependencias y entidades de la administración pública Estatal, para que elaboren su programación del gasto público, cumpliendo con los objetivos, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo, mismo que constituye el marco referencial para la instrumentación del Programa Operativo Anual; y se entreguen ante esa Secretaría para que se integre al Presupuesto de Egresos de la administración pública Estatal;
 
-II.- Coordinar las actividades de planeación operativa que requieran la elaboración de programas, así como de programación del gasto público de las dependencias y entidades de la administración pública estatal, vigilando que los programas y sus respectivos presupuestos mantengan congruencia con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Coordinar las actividades de planeación operativa que requieran la elaboración de programas, así como programación del gasto público de las dependencias y entidades de la administración pública estatal, vigilando que los programas y sus respectivos presupuestos mantengan congruencia con el plan estatal de desarrollo y cuenten con enfoque de género;
 
 III.- Evaluar periódicamente la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública Estatal, así como los resultados de su ejecución, con los objetivos del Plan Estatal;
 
@@ -251,7 +279,9 @@ IV.- Coordinar las actividades tendientes a cumplir con los programas anuales re
 
 V.- Asegurar la visión sectorial en las actividades de programación que correspondan a las entidades de la administración estatal, agrupadas en su sector;
 
-VI.- Elaborar los presupuestos para la ejecución de los programas operativos anuales correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VI.- Elaborar los presupuestos para la ejecución de los programas operativos anuales correspondientes, con perspectiva de equidad de género.
 
 VII.- Considerar el ámbito territorial de las acciones previstas en los programas a su cargo, procurando su congruencia con los objetivos y prioridades de los planes estratégicos y Municipales de desarrollo, así como de los programas de los Gobiernos Municipales, y
 
@@ -263,7 +293,9 @@ Corresponde a las Entidades de la Administración Pública Estatal en materia de
 
 I.- Participar en la elaboración de los programas sectoriales, especiales y regionales, presentando las propuestas que procedan en relación a su objeto de creación, funciones y objetivos particulares;
 
-II.- Elaborar su programa institucional y los presupuestos correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Elaborar su programa institucional y los presupuestos correspondientes, con perspectiva de equidad de género.
 
 III.- Vigilar que sus programas institucionales mantengan congruencia con el programa sectorial respectivo;
 
@@ -285,7 +317,9 @@ IV.- Elaborar y actualizar cada diez años el Plan Estratégico del Estado, comp
 
 V.- Elaborar el Plan Estatal de Desarrollo, compatibilizando y actualizando al mismo los planes Municipales, las propuestas de las dependencias y entidades de la Administración Pública Estatal, así como los planteamientos y propuestas de los grupos sociales interesados que serán sistematizadas por el COPLADE de manera oportuna;
 
-VI.- Elaborar estudios y diagnósticos territoriales, sociales, urbanos, rurales, económicos, de infraestructura pública, ambientales, cartográficos, del patrimonio histórico y cultural, así como los demás que sean necesarios para el proceso de planeación y que apoyen el diseño de las políticas y programas correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VI.- Elaborar estudios y diagnósticos territoriales, sociales, urbanos, rurales, económicos, de infraestructura pública, ambientales, cartográficos, del patrimonio histórico y cultural, de perspectiva de equidad de género, así como los demás que sean necesarios para el proceso de planeación y que apoyen el diseño de las políticas y programas correspondientes.
 
 VII.- Diseñar la planeación y ordenamiento territorial de Baja California, incluyendo áreas urbanas, rurales, costas y reservas ecológicas, elaborando los planes sectoriales correspondientes, así como aquellos otros solicitados por el Gobernador del Estado. La aprobación de los planes anteriores corresponde al titular del Ejecutivo, previo dictamen del Consejo Directivo del lNEPLAN;
 
@@ -309,7 +343,9 @@ III.- Operar los mecanismos de concertación, participación, coordinación e in
 
 IV.- Promover la participación de los habitantes y de los grupos y organizaciones sociales y privados a través de la incorporación de sus aspiraciones y demandas para en su caso incorporarlas a la estrategia del desarrollo;
 
-V.- Coordinarse con los titulares de las representaciones Federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la Entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación de desarrollo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+V.- Coordinarse con los titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, perspectiva de equidad de género y beneficio social en el marco de la planeación del desarrollo;
 
 VI.- Fomentar la suscripción de convenios de coordinación entre los gobiernos Federal, Estatal y Municipales, así como la de convenios de participación con los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
 
@@ -325,7 +361,9 @@ Corresponde al Poder Legislativo en materia de planeación las siguientes atribu
 
 I.- Intervenir en las materias que le competen en la elaboración del Plan Estratégico Estatal del Estado y el Plan Estatal de Desarrollo;
 
-II.- Elaborar su presupuesto por programa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Elaborar su presupuesto por programa y con perspectiva de equidad de género;
 
 III.- Auxiliar en la esfera de su competencia al resto de las autoridades y órganos responsables de la planeación, y
 
@@ -337,7 +375,9 @@ Corresponde al Poder Judicial en materia de planeación las siguientes atribucio
 
 I.- Intervenir respecto de las materias que le competen en la elaboración del Plan Estratégico del Estado y el Plan Estatal de Desarrollo;
 
-II.- Elaborar su presupuesto por programa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Elaborar su presupuesto por programa y con perspectiva de equidad de género;
 
 III.- Mantener la congruencia de sus programas con el Plan Estatal, así como los programas Federales y Estatales;
 
@@ -361,7 +401,9 @@ IV.- Proponer al Gobierno Estatal y al Federal, programas de inversión, gasto y
 
 V.- Ratificar el programa de inversión en obras y servicios públicos municipales;
 
-VI.- Verificar que la programación del gasto público municipal se sujete a la técnica del presupuesto por programa, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+VI.- Verificar que la programación del gasto público municipal se sujete a la técnica del presupuesto por programa y con perspectiva de equidad de género; y
 
 VII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
@@ -377,7 +419,9 @@ III.- Instruir que los programas y actividades de las dependencias y entidades M
 
 IV.- Proponer a los Gobiernos Federal y Estatal que concierten programas de inversión para el desarrollo municipal dentro del marco del Convenio de Desarrollo Social;
 
-V.- Vigilar que las dependencias Municipales elaboren sus presupuestos de acuerdo a los programas emanados del Plan Municipal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+V.- Vigilar que las dependencias municipales elaboren sus presupuestos de acuerdo a los programas emanados del plan municipal y que hayan incorporado la perspectiva de equidad de género y que la reflejen en sus indicadores desagregada por sexo.
 
 VI.- Coordinar las actividades de la administración pública Municipal con las actividades de las administraciones públicas Federal y Estatal en programas de desarrollo;
 
@@ -391,7 +435,9 @@ Corresponde a las Dependencias de la Administración Pública Municipal en mater
 
 I.- Intervenir en el ámbito de su competencia en la elaboración del Plan Estratégico Municipal y el Plan Municipal de Desarrollo;
 
-II.- Elaborar sus programas y presupuesto anual basado en la técnica del presupuesto por programa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+II.- Elaborar sus programas y presupuesto anual basado en la técnica del presupuesto por programa y con perspectiva de equidad de género;
 
 III.- Mantener la congruencia de sus programas con el Plan Estatal y el plan Municipal, así como con los programas Federales y Estatales cuyo ámbito sea el del Municipio;
 
@@ -407,7 +453,9 @@ I.- Participar en la elaboración de los programas municipales presentando las p
 
 II.- Elaborar su Programa Operativo Institucional;
 
-III.- Proponer al Ayuntamiento los presupuestos anuales para la ejecución de sus programas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+III.- Proponer al ayuntamiento los presupuestos anuales para la ejecución de sus programas, incorporando en los mismos la perspectiva de equidad de género;
 
 IV.- Evaluar periódicamente la relación que guarden sus actividades y los resultados de su ejecución con los objetivos y prioridades del Plan Municipal, informando al organismo municipal de planeación para contribuir a la actualización de los documentos de planeación; y
 
@@ -417,7 +465,9 @@ V.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobr
 
 Corresponde a los Organismos Municipales en materia de planeación, las siguientes atribuciones:
 
-I.- Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población municipal, considerando la diversidad regional, cultural, económica, social, ambiental e institucional para lo cual instrumentará los foros, consultas y eventos necesarios. La información resultante será comunicada oportunamente a las entidades de la Administración Municipal correspondiente a través de la Presidencia Municipal, con el propósito de su integración en los programas e iniciativas pertinentes. Se enviará además copia al SEDOC para su integración en la base de datos Estatal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+I.- Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población municipal, considerando la diversidad regional, cultural, económica, de género, social, ambiental e institucional, para lo cual instrumentará los foros, consultas y eventos necesarios. La información resultante será comunicada oportunamente a las entidades de la administración municipal correspondiente a través de la presidencia municipal, con el propósito de su integración en los programas, iniciativas y propuestas pertinentes. Se enviará además, copia al SEDOC para su integración en la base de datos estatal.
 
 II.- Elaborar el Plan Estratégico Municipal y el Plan Municipal de Desarrollo, asegurando la congruencia conceptual y técnica entre ambos planes y sus horizontes temporales, con el predominio del primero; además, guardarán congruencia y coordinación con la respectiva planeación Estatal y Federal. También elaborará los planes y programas Municipales Sectoriales o de carácter territorial que orienten las políticas y acciones de la Administración Municipal y sus dependencias;
 
@@ -441,7 +491,9 @@ IX.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sob
 
 En el ámbito del Sistema Estatal de Planeación del Desarrollo, se da la participación y consulta de los diversos grupos sociales, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación y evaluación de los planes y los programas a que se refiere esta Ley.
 
-Sólo los consejos ciudadanos de carácter consultivo existentes y los que sean creados en la Entidad, así como los consejos formalizados o que sean creados en los Municipios y las organizaciones representativas de obreros, campesinos, grupos populares, instituciones académicas, profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los organismos Municipales que realicen tal función.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Sólo los consejos ciudadanos de carácter consultivo existentes y los que sean creados en la entidad, así como los consejos formalizados o que sean creados en los municipios y las organizaciones representativas de obreros, campesinos, mujeres, grupos populares, instituciones académicas, profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos comités de planeación para el desarrollo del estado y de los organismos municipales que realicen tal función.
 
 Todos los particulares podrán participar con sus opiniones y propuestas en los distintos ámbitos de la planeación, ya sea Estatal, Regional o Municipal, a través de las Mesas de Trabajo y foros de consulta que sean convocados para tal efecto.
 
@@ -481,7 +533,9 @@ III.- Despertar, en cada miembro y entre los grupos que lo integran, el interés
 
 IV.- Constituir una organización comunitaria que infunda la unidad, la solidaridad, la subsidiaridad, la corresponsabilidad y la democracia entre sus miembros y su entorno, y
 
-V.- Formar un verdadero instrumento de vinculación y concertación entre la sociedad y los gobiernos Estatal y Municipales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+V.- Formar un verdadero instrumento de vinculación y concertación entre la sociedad y los gobiernos estatal y municipales, promoviendo que lleven a cabo el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los planes y programas, en el ámbito de su competencia, con perspectiva de equidad de género.
 
 ###### ARTÍCULO 32.
 
@@ -528,6 +582,10 @@ d) El Programa Operativo Anual: Es el que convierte los lineamientos de la Plane
 En el programa Operativo Anual, se identifican con mayor precisión los problemas a resolver y la situación a mejorar al interior de cada dependencia, debiendo realizarlos tanto el Ejecutivo del Estado y los gobiernos Municipales.
 
 La instrumentación del Programa Operativo Anual se hará a través de las vertientes de: obligación, coordinación, concertación e inducción, que son formas de trabajo que optimizarán los recursos públicos y maximizarán los resultados del programa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, así como a generar un impacto diferenciado de género.
 
 El objeto de los Programas Operativos Anuales es contar con un Presupuesto de Egresos, en el cual la programación del gasto público se sujete a las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado; y,
 
@@ -649,13 +707,17 @@ La Secretaría y los Ayuntamientos, en el ámbito de su competencia, establecer�
 
 Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del SEDOC, aplicados al proceso de planeación democrática para el desarrollo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 49.
 
-En cumplimiento de los objetivos y líneas de acción establecidos en los planes, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, y enviarán a la Secretaría cuando ésta así lo solicite, los informes del avance programático-presupuestal para su revisión, seguimiento y evaluación, y en el caso de los Municipios, a quien los Ayuntamientos designen.
+En cumplimiento de los objetivos y líneas de acción establecidos en los planes, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia, eficacia y con perspectiva de equidad de género y enviarán a la Secretaría, cuando esta así lo solicite, los informes del avance programático presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
-Las dependencias, entidades públicas, organismos, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas y, en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia, línea de acción, actividad o proyecto a los que se refiere el artículo 35 de esta Ley, dictamen que habrán de hacer del conocimiento inmediato de la Secretaría o del Ayuntamiento en el ámbito de su competencia, para que a su vez, se reformule el contenido de los planes o programas.
+Las dependencias, entidades públicas, organismos, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como que se haya incorporado la perspectiva de equidad de género, y en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia, línea de acción, actividad o proyecto a los que se refiere el artículo 35 de esta ley, dictamen que habrán de hacer de conocimiento inmediato a la Secretaría o al ayuntamiento, en el ámbito de su competencia, para que a su vez, se reformule el contenido de los planes o programas.
 
 ### CAPÍTULO SÉPTIMO. DE LA VERTIENTE DE OBLIGACIÓN
 
@@ -681,9 +743,11 @@ VI.- Los programas administrativos internos de las dependencias y entidades, cuy
 
 VII.- Las demás Leyes y reglamentos administrativos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 53.
 
-Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan Estratégico del Estado, el Plan Estatal de Desarrollo y/o planes sectoriales, y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Deberán contener, asimismo, estimaciones de recursos, indicadores de gestión o impacto y determinaciones sobre instrumentos y responsables de su ejecución.
+Los programas sectoriales se sujetarán a las previsiones contenidas en el plan estratégico del estado, el plan estatal de desarrollo, los planes sectoriales, y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Deberán contener, asimismo, estimaciones de recursos, indicadores de gestión y de perspectiva de género o impacto y determinaciones sobre instrumentos y responsables de su ejecución.
 
 ###### ARTÍCULO 54.
 
@@ -928,3 +992,9 @@ SECRETARIO DE PLANEACION Y FINANZAS.
 MANUEL FRANCISCO AGUILAR BOJORQUEZ.
 
 PARA SU CONOCIMIENTO EN TERMINOS DEL ARTÍCULO 9, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
