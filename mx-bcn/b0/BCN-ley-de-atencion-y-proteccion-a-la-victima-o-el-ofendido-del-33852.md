@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2010-09-10"
+last_updated: "2012-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE ATENCION Y PROTECCION A LA VICTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE ATENCION Y PROTECCION A LA VICTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -35,7 +35,7 @@ LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ES
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -43,7 +43,7 @@ LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ES
 
 Las disposiciones de esta Ley son de orden público y tienen por objeto establecer los derechos, así como las medidas de atención y protección a la víctima o el ofendido por algún delito, conforme a lo establecido por el artículo 20 apartado C de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 2.
 
@@ -68,6 +68,12 @@ VI.- Dirección.- A la Dirección de Atención a Víctimas del Delito de la Proc
 VII.- Código Penal.- El Código Penal para el Estado de Baja California;
 
 VIII.- Código de Procedimientos Penales.- El Código de Procedimientos Penales para el Estado de Baja California.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+IX.- Fondo.- Al Patrimonio destinado para el pago de la reparación del Daño y Auxilio a la Víctima de Delito.
 
 ###### ARTÍCULO 3.
 
@@ -115,7 +121,7 @@ La víctima o el ofendido sin perjuicio de lo dispuesto por otros ordenamientos 
 
 I.- Ser informado directa, oportuna y adecuadamente de los derechos que en su favor establece la presente Ley y demás ordenamientos aplicables en la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -133,13 +139,13 @@ VII.- A que la autoridad investigadora o jurisdiccional dicte las providencias l
 
 VIII.- Coadyuvar con el Ministerio Público en el proceso penal en los términos previstos por el Código de Procedimientos Penales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 IX.- Ser informado por la autoridad investigadora, de las actuaciones y del estado que guarde la averiguación previa, investigación o el proceso penal correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -149,7 +155,7 @@ XI.- Cuando no hable el idioma castellano o se trate de analfabeta, mudo, sordo 
 
 XII.- Solicitar justificadamente a la Dirección el reemplazo del asesor jurídico asignado; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -221,7 +227,7 @@ El sistema para el Desarrollo Integral de la Familia sin perjuicio de las facult
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE BENEFICIOS A LA VÍCTIMA O EL OFENDIDO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO, DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -242,6 +248,60 @@ Las autoridades encargadas de prestar los servicios de atención y protección d
 ###### ARTÍCULO 21.
 
 En el caso de que los hechos denunciados o investigados no constituyan un tipo penal, la Dirección informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por la vía civil y la posibilidad de ser asistidos por un Defensor de Oficio, dejando constancia de tal informe en el expediente respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 21 BIS.- Mediante el fideicomiso denominado Fondo General de Reparaciones a las Víctimas u Ofendidos, la Procuraduría otorgará apoyos a aquellas víctimas u ofendidos que se encuentren en una situación de emergencia o de necesidad manifiesta, como consecuencia de un delito o de una conducta tipificada como delito atribuible a un adolescente.
+
+La Dirección de Atención a Víctimas del Delito de la Procuraduría General de Justicia del Estado, realizará acciones que tengan por objeto incentivar la participación de la sociedad para la obtención de recursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 21 TER.- El Patrimonio del Fondo General de reparaciones a las Víctimas u Ofendidos se integrará por:
+
+I.- Los montos que se obtengan por concepto de reparación del daño, cuando se trate de hechos punibles que afecten intereses colectivos o difusos o que afecten el patrimonio del Estado;
+
+II.- Las partidas presupuestales que le asigne el Gobierno del Estado;
+
+III.- Las aportaciones que a manera de donaciones, en especie o en dinero, hagan las instituciones públicas o entes privados, y/o;
+
+IV.- Aquellas aportaciones que incrementen el patrimonio del fondo, que puedan acreditar su legítima procedencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 21 QUARTER (SIC).- Para el otorgamiento de los apoyos se observará lo siguiente:
+
+I.- La disponibilidad presupuestal del Fondo General de Reparaciones a las Víctimas u Ofendidos;
+
+II.- Que la víctima o el ofendido sean de escasos recursos económicos, pero en caso de que se detecte que existe falsedad en la información verbal o documental proporcionada por el solicitante, la Dirección de Atención a Víctimas del Delito, dispondrá la suspensión de cualquier apoyo y beneficio que se haya otorgado, sin perjuicio de las responsabilidades en que este hubiera incurrido en términos de lo dispuesto por el Código Penal. Además deberá restituir de inmediato las cantidades obtenidas y el monto de los servicios recibidos indebidamente, para lo anterior, no se requerirá que medie resolución judicial.
+
+III.- Que como consecuencia de los hechos materia de la denuncia o querella y elementos que en su caso obren dentro de está, se pueda considerar razonablemente que la víctima o el ofendido se encuentran en una situación de emergencia de necesidad manifiesta, no pueda ser prestado o proporcionado por las instituciones públicas del Estado;
+
+IV.- Los apoyos se otorgarán mediante pago a proveedores o a través de cualquier otra forma que garantice su correcta aplicación, y;
+
+V.- Las demás condiciones que resulten necesarias a fin de garantizar la transparente, adecuada y oportuna administración y otorgamiento de los apoyos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 21 QUINQUIES.- No se otorgarán apoyos a la víctima u ofendido cuando:
+
+I.- Sean beneficiarios en instituciones públicas diversas a las del Estado, y en virtud de esa calidad o de cualquier otro derecho, dichas instituciones deban prestarles el servicio o proporcionar el bien que se requiera para afrontar la situación de emergencia o la necesidad manifiesta;
+
+II.- Sean beneficiarios de algún ente privado, y en virtud de ello, dicho ente deba prestarles el servicio o proporcionar el bien que se requiera para afrontar la situación de emergencia o la necesidad manifiesta;
+
+III.- Sean beneficiarios de algún seguro que deba cubrir el servicio o proporcionar el bien que se requiera para afrontar la situación de emergencia o la necesidad manifiesta;
+
+IV.- Proporcionen datos falsos para obtener el apoyo; y
+
+V.- En los demás que al efecto se establezcan.
 
 ### CAPÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -299,7 +359,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE NOVIEMBRE DE 2005.
 
@@ -318,3 +378,11 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 I.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
 
 II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a las cero horas del día primero de Enero del dos mil trece.
+
+SEGUNDO.- En un término no mayor al de tres meses contados a partir de la entrada en vigor de las presentes reformas, la Procuraduría General de Justicia del Estado, constituirá el fideicomiso Fondo General de Reparaciones a las Víctimas u Ofendidos, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California y demás disposiciones aplicables.
+
+TERCERO.- El Ejecutivo deberá asignar en el presupuesto la partida correspondiente para la integración del fondo en estudio.
