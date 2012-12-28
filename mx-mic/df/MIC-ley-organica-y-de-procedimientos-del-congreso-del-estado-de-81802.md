@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2012-12-14"
+last_updated: "2012-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -60,6 +60,12 @@ El Congreso del Estado de Michoacán de Ocampo, está integrado por diputados el
 El Congreso funcionará por Legislaturas a la cual se le denomina agregando previamente el número nominal que le corresponda, cuyo periodo constitucional es de tres años, y éstas se dividen por Años Legislativos.
 
 El Año Legislativo inicia el quince de septiembre y concluye el catorce de septiembre del año siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+El Pleno del Congreso dentro del año legislativo sesionará en dos periodos ordinarios de sesiones conforme a la presente Ley. El resto del año las comisiones y los demás órganos del Congreso, trabajarán regularmente.
 
 #### SECCIÓN I. DE LAS COMISIONES
 
@@ -2437,13 +2443,19 @@ II. El resumen que contenga las motivaciones y los objetivos que se pretenden al
 
 ### CAPÍTULO SEGUNDO. DEL CALENDARIO DE LAS SESIONES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 214.
 
-El Congreso sesionará en Pleno obligatoriamente dos veces al mes y siempre que sea necesario durante el año legislativo o cuando la Mesa Directiva en acuerdo con la Junta de Coordinación Política lo determine, debiendo convocar al menos con dos días de anticipación.
+El Congreso sesionará en Pleno durante el año legislativo que comprende dos periodos ordinarios de sesiones, el primero del 15 de septiembre al 31 de diciembre; el segundo del 1 de febrero al 15 de julio, durante los cuales sesionará en Pleno al menos dos veces al mes o cuando la Mesa Directiva en acuerdo con la Junta de Coordinación Política lo determine, debiendo convocar al menos con dos días de anticipación.
 
-Durante los meses de enero a marzo de cada año de forma improrrogable, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, municipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en la Ley y demás disposiciones emanadas de la primera.
+El Congreso se reunirá en sesiones extraordinarias cuando fuere convocado por el Presidente, sólo para tratar los asuntos señalados en la convocatoria.
 
-Durante el período comprendido entre el 20 septiembre y el 15 de diciembre de cada año, el Congreso debe examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
+En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
+
+También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía, de acuerdo, con los términos y plazos dispuestos en la Constitución, en la Ley y demás disposiciones emanadas de la primera.
 
 ###### ARTÍCULO 215.
 
@@ -3364,3 +3376,13 @@ DECRETO No. 26, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 105 DE LA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, en los términos del Artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Por única ocasión, lo que corresponde a los años legislativos Segundo y Tercero de la Septuagésima Segunda Legislatura, el Pleno sesionará en dos periodos, comprendidos el primero, del 1 de febrero al 15 de julio, el segundo, del 15 de septiembre al 31 de diciembre.
+
+TERCERO. Para el cuarto año legislativo de la Septuagésima Segunda Legislatura, que comprende del 15 de enero al 14 de septiembre de 2015, el Pleno sólo tendrá un periodo ordinario de sesiones, que comprenderá del 1 de febrero al 15 de julio.
+
+CUARTO. Remítase el presente Decreto al Gobernador del Estado, para su publicación, en el Periódico del Gobierno Constitucional del Estado de Michoacán de Ocampo.
