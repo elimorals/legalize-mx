@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2011-12-22"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 473, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 22 DE DICIEMBRE DE 2011, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 20, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 29 DE DICIEMBRE DE 2012, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -373,7 +373,7 @@ También se entiende por honorarios asimilables a salarios, las remuneraciones q
 
 ###### ARTÍCULO 22.
 
-Están obligadas al pago de este impuesto las personas físicas, las personas morales y los entes económicos sin personalidad jurídica, residentes en el Estado de Yucatán o fuera de éste, que en él realicen las erogaciones a que se refiere el artículo inmediato anterior.
+Están obligados al pago de este impuesto las personas físicas, las personas morales y los entes económicos sin personalidad jurídica, residentes en el Estado de Yucatán o fuera de éste, que en él realicen las erogaciones a que se refiere el artículo inmediato anterior.
 
 Para los fines de este impuesto, son residentes en el Estado de Yucatán las personas físicas, las personas morales y los demás sujetos a que se refiere el presente capítulo, que realicen las erogaciones a que se refiere el artículo 21 de esta ley y que:
 
@@ -458,6 +458,8 @@ f) (DEROGADO, D.O. 24 DE DICIEMBRE DE 2007)
 g) Ejidos y comunidades;
 
 h) Uniones de ejidos y de comunidades;
+
+i) Empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, y
 
 j) Unidades agrícolas industriales de la mujer campesina.
 
@@ -1233,7 +1235,7 @@ Los retenedores de este impuesto, están obligados a enterar una cantidad equiva
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1339,9 +1341,11 @@ IX. Derechos por los servicios que prestan las unidades del Patronato de las Uni
 
 ###### ARTÍCULO 48.
 
-Por los servicios prestados por cualquiera de las dependencias de la Administración Pública del Estado, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
+Por los servicios prestados por cualquiera de las dependencias y entidades de la Administración Pública del Estado, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
 
-I.- Expedición de copias certificadas, por cada hoja 0.50 S.M.G.
+(ACTUALIZADA EN SU MONTO, D.O. 29 DE DICIEMBRE DE 2012)
+
+I.- Expedición de copias certificadas, por cada hoja 0.22 S.M.G.
 
 II.- Emisión de copias simples, por cada hoja 0.02 S.M.G.
 
@@ -1413,11 +1417,19 @@ XI.- (DEROGADA, D.O. 22 DE DICIEMBRE DE 2011)
 
 XII.- Constancias de no Inhabilitación 3 S.M.G.
 
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+XIII.- Reposición de recibos oficiales o recibos de caja 0.25 S.M.G.
+
 No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
 
 > <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 Tampoco se pagarán derechos por la expedición de copias certificadas para la substanciación del Juicio de Amparo.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+No se pagarán derechos por las reposiciones que sean solicitadas por el Estado, salvo que estas deriven de la petición de un particular.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1999,7 +2011,7 @@ IV.- Por la expedición de cualquier constancia 2.66 S.M.G.
 
 V.- Por la expedición de cualquier certificado, por cada predio 5.31 S.M.G.
 
-VI.- Por la forma de solicitud de certificado o de constancia 0.02 S.M.G.
+VI.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2045,9 +2057,17 @@ Por los servicios que preste la Dirección del Registro Público de la Propiedad
 
 I.- La calificación de cualquier documento 1.32 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-II.- La inscripción de cualquier acto o convenio 5.31 S.M.G.
+II.- Por la inscripción de cualquier acto o convenio relacionado con el Registro de Personas Morales de Naturaleza Civil o con el Registro de Crédito Rural, con excepción de poderes o mandatos 11.93 S.M.G
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+III.- Por la inscripción de cualquier acto o convenio relacionado con poderes o mandatos o su revocación en el Registro de Personas Morales de Naturaleza Civil o en el Registro de Crédito Rural. 11.93 S.M.G
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 5.31 S.M.G
 
 ###### ARTÍCULO 62.
 
@@ -2187,11 +2207,9 @@ a) Apertura
 
 4.- Tienda de autoservicio tipo B 901.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-5.- Bodega o distribuidora de bebidas alcohólicas 601.00 S.M.G.
+5.- Bodega y distribución de bebidas Alcohólicas 601.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2205,11 +2223,9 @@ a) Apertura
 
 7.- Discoteca 1,501.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-8.- Cabaret 1,501.00 S.M.G.
+8.- Cabaré 1,501.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2285,11 +2301,9 @@ b) Renovaciones
 
 4.- Tienda de autoservicio tipo B 105.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-5.- Bodega o distribuidora de bebidas alcohólicas 76.00 S.M.G.
+5.- Bodega y distribución de bebidas Alcohólicas 76.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2303,11 +2317,9 @@ b) Renovaciones
 
 7.- Discoteca 256.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-8.- Cabaret 256.00 S.M.G.
+8.- Cabaré 256.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2379,11 +2391,9 @@ c) Modificación de horario
 
 d) Cambio de denominación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 166.00 S.M.G.
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 166.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2393,11 +2403,9 @@ d) Cambio de denominación
 
 e) Cambio de propietario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2407,17 +2415,11 @@ e) Cambio de propietario
 
 f) Cambio de domicilio
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+1.- Cantina 301.00 S.M.G.
 
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 4,502.00 S.M.G.
+2.- (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
 II.- Certificado de defunción 0.60 S.M.G.
 
@@ -2469,11 +2471,9 @@ IX.- Por visita de establecimientos a petición de parte; 13.00 S.M.G.
 
 X.- Por muestra a petición de parte; 13.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(ACTUALIZADA EN SU MONTO, D.O. 29 DE DICIEMBRE DE 2012)
 
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XI.- Por permiso para otorgar degustaciones; 7.00 S.M.G.
+XI.- Por permiso para otorgar degustaciones; 12.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2481,17 +2481,15 @@ XI.- Por permiso para otorgar degustaciones; 7.00 S.M.G.
 
 XII.- Por autorización de corrección de nomenclatura; 17.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SUS MONTOS, D.O. 29 DE DICIEMBRE DE 2012)
 
 XIII.- Autorización temporal para expendio y suministro de bebidas alcohólicas:
 
-Tipo A 18.00 S.M.G.
+Tipo A 23.00 S.M.G.
 
-Tipo B 30.00 S.M.G.
+Tipo B 35.00 S.M.G.
 
-Tipo C 34.00 S.M.G.
+Tipo C 39.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2595,55 +2593,7 @@ XXIX.- Cambio de responsable sanitario y libros de control en farmacias: 8.00 S.
 
 XXX.- Por trámite de importación y exportación 26.00 S.M.G.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-ARTÍCULO 85 B.- Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura o renovaciones establecidas en el artículo anterior.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-ARTÍCULO 85 C.- Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
-
-Apartado A
-
-Determinaciones sanitarias y renovaciones
-
-I.- Los establecimientos con categoría A, son:
-
-Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
-
-II.- Los establecimientos con categoría B, son:
-
-Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
-
-III.- Los establecimientos con categoría C, son:
-
-Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
-
-IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
-
-Apartado B
-
-Autorizaciones temporales
-
-I.- Las autorizaciones con categoría A, son para:
-
-Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
-
-II.- Las autorizaciones con categoría B, son para:
-
-Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
-
-III.- Las autorizaciones con categoría C, son para:
-
-Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 66.
 
@@ -3109,11 +3059,13 @@ Los servicios que presta la Dirección del Catastro causarán derechos de confor
 
 I.- La emisión de copias fotostáticas simples:
 
-a) Cada hoja tamaño carta, de cédulas, planos,
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-parcelas, formas de manifestación de traslación
+a) Por cada hoja simple tamaño carta u oficio,
 
-de dominio o cualquier otra manifestación 0.28 S.M.G.
+de cédulas, planos, parcelas, formas de manifestación
+
+de traslación de dominio o cualquier otro documento 0.28 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -3149,27 +3101,27 @@ d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
 III.- Por expedición de:
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-a) Oficios de división, por cada parte, 0.51 S.M.G.
+a) Oficio o revalidación de oficio de división o unión
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+(por cada parte) 0.51 S.M.G.
 
-b) Oficios de rectificación de medidas, urbanización
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-y cambio de nomenclatura 1.21 S.M.G.
+b) Oficio o revalidación de oficio de rectificación de
+
+medidas, urbanización y cambio de nomenclatura 1.21 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 c) Cédulas catastrales 1.94 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+d) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-d) Oficios de unión de predios por cada parte 0.51 S.M.G.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-e) Constancias de No Propiedad, 1.64 S.M.G.
+e) Constancias y certificados 1.89 S.M.G.
 
 f) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
@@ -3177,35 +3129,17 @@ g) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
 h) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+i) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+j) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-i) Constancia de Única Propiedad 1.66 S.M.G.
+k) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+l) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-j) Certificado de Número Oficial de Predio 1.64 S.M.G.
+m) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-k) Certificado de Inscripción Vigente 1.51 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-l) Certificado de No Inscripción Predial 1.64 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-m) Constancia de Valor Catastral Vigente 1.51 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-n) Constancia de Historia del Predio 1.64 S.M.G.
+n) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -3213,31 +3147,25 @@ o) Constancia de Historia del Predio con
 
 aplicación de valor 1.99 S.M.G.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+p) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-p) Constancia de Información de Valor 1.85 S.M.G.
+q) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-q) Certificado de Valor Catastral 1.64 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
 r) Información de bienes por propietario:
 
-de 1 a 5 direcciones 1.64 S.M.G.
+de 1 a 5 predios 1.64 S.M.G.
 
-de 6 a 10 direcciones 3.34 S.M.G.
+de 6 a 10 predios 3.34 S.M.G.
 
-de 11 a 20 direcciones 4.90 S.M.G.
+de 11 a 20 predios 4.90 S.M.G.
 
-de 20 en adelante por cada dirección excedente 0.31 S.M.G.
+de 21 predios en adelante 0.31 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+adicionalmente por cada predio excedente a 21 0.20 S.M.G
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
 s) Información de bienes por predio:
 
@@ -3247,13 +3175,17 @@ de 6 a 10 direcciones 3.26 S.M.G.
 
 de 11 a 20 direcciones 4.90 S.M.G.
 
-de 20 en adelante por cada dirección excedente 0.31 S.M.G.
+de 21 en adelante 0.31 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+adicionalmente por cada dirección excedente a 21 0.20 S.M.G.
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+t) (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
 
-t) Constancia de no propiedad familiar 1.90 S.M.G.
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+u) Oficio de verificación de medidas, deslinde
+
+catastral, como ubicación o marcación de predio 1.20 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3263,43 +3195,29 @@ IV. Elaboración de planos:
 
 a) Catastrales a escala 1.86 S.M.G.
 
-b) Planos topográficos:
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-De 1 m2 a 9,999 m2 7.20 S.M.G.
+b) Planos topográficos
 
-De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 7.63 S.M.G.
+de 1 m2 a 9,999 m2 7.20 S.M.G.
 
-De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 9.19 S.M.G.
+de 01-00-00 ha a 10-00-00 ha 7.63 S.M.G.
 
-De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 11.44 S.M.G.
+de 10-00-01 ha a 20-00-00 ha 9.19 S.M.G.
 
-De 30 - 00 - 01 Ha en adelante por cada hectárea
+de 20-00-01 ha a 30-00-00 ha 11.44 S.M.G.
 
-de más se cobrará 0.38 S.M.G.
+A partir de 30-00-01 ha en adelante, por cada
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+hectárea excedente se cobrará 0.38 S.M.G.
 
-V.- Revalidación de oficios:
+V.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
 
-a) Oficios de división, por cada parte 0.51 S.M.G.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-b) Oficios de rectificación de medidas, urbanización
+VI.- Por diligencias de verificación o rectificación de medidas físicas, de colindancias de predios y acta circunstanciada 4.78 S.M.G.
 
-y cambio de nomenclatura 1.21 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-c) Oficios de unión de predios, por cada parte 0.51 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VI.- Diligencias de verificación o rectificación de medidas
-
-físicas y de colindancias de predios 4.78 S.M.G.
-
-Más 0.10 S.M.G. por kilómetro recorrido considerados a partir de 17 kms sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro del Estado.
+Más 0.10 S.M.G. por kilómetro recorrido, considerados a partir de 17 km. sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3339,9 +3257,9 @@ De 50 - 00 - 01 Ha en adelante se cobrará el derecho anterior, más 2.52
 
 S.M.G. por cada hectárea.
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-VIII.- Por impresión de planos de manzana, fraccionamiento o sección catastral:
+VIII.- Por impresión de planos:
 
 a) Tamaño carta 0.84 S.M.G.
 
@@ -3353,13 +3271,7 @@ c) Tamaño cuatro cartas (Plotter) 3.39 S.M.G.
 
 d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-IX.- Autorización para inscripción de predios, del 0.50 S.M.G.
-
-fundo legal
+IX.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3410,6 +3322,10 @@ a) Tipo comercial 1.92 S.M.G.
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 b) Tipo habitación 0.98 S.M.G.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+
+c) Constancia de factibilidad 1.20 S.M.G.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3985,11 +3901,55 @@ del anuncio publicitario o señal informativa 1 S.M.G
 
 ### CAPÍTULO ÚNICO
 
-###### ARTÍCULO 85-B.
+###### ARTICULO 85-B.
 
-Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura o renovaciones establecidas en el artículo anterior.
+Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura establecida en el artículo anterior.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 85 C.- Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
+
+Apartado A
+
+Determinaciones sanitarias y renovaciones
+
+I.- Los establecimientos con categoría A, son:
+
+Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
+
+II.- Los establecimientos con categoría B, son:
+
+Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
+
+III.- Los establecimientos con categoría C, son:
+
+Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
+
+IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
+
+Apartado B
+
+Autorizaciones temporales
+
+I.- Las autorizaciones con categoría A, son para:
+
+Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
+
+II.- Las autorizaciones con categoría B, son para:
+
+Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
+
+III.- Las autorizaciones con categoría C, son para:
+
+Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4180,3 +4140,17 @@ Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a
 ###### ARTÍCULO CUARTO.
 
 Publíquese este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones de este Decreto entrarán en vigor el día 1° de enero del año 2013, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Capítulo IV del Título III de la Ley General de Hacienda del Estado de Yucatán, dejará de ser aplicable a partir de que los municipios se hagan cargo del servicio público de panteones y la función recaudatoria inherente al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al presente Decreto.
