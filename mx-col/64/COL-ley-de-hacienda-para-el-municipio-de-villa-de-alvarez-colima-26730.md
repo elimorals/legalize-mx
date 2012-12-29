@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2012-07-14"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -87,7 +87,9 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Ley de Catastro, a la Ley de Catastro del Estado de Colima;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+I. Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
 
 II. Unidades de salario, a las unidades de salario mínimo diario vigente en la zona económica del municipio, que se determine en cada caso;
 
@@ -265,11 +267,29 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, éste sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectúe el pago en los términos de lo dispuesto por el segundo párrafo del artículo 120 de esta Ley y 25 en su último párrafo del Código Fiscal Municipal.
+En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
 
-Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Dicho beneficio no será aplicable, si la residencia del contribuyente se constituye en inmuebles donde se presten servicios de hospedaje, alojamiento y albergue temporal de personas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad del bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Quienes de acuerdo con esta ley, no estén obligadas (sic) a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
 #### SECCION OCTAVA. DE LAS MANIFESTACIONES Y AVISOS
 
@@ -369,19 +389,31 @@ Será base de este impuesto el valor que resulte mayor entre el valor catastral,
 
 A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 26.
 
-En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento del valor catastral.
+En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento de la base.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 27.
 
-La base del impuesto será el 50 por ciento del valor del inmueble, en los siguientes casos:
+La base del impuesto será el 50 por ciento en los siguientes casos:
 
 I. En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
-II. En las adjudicaciones en juicios sucesorios y en remates judiciales; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal.
+II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+IV. En los casos en que el sujeto del impuesto sea madre soltera, jefa de familia, de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 unidades de salario. La Tesorería Municipal emitirá los requisitos para el acreditar los (sic) condicionantes señaladas.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -405,9 +437,11 @@ IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripci�
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 29.
 
-Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fideicomiso a que se refiere la fracción XI del artículo 21 de esta Ley, deberá depositarse ante la Tesorería Municipal, dentro de los quince días siguientes al otorgamiento de la escritura de constitución, la cantidad equivalente al impuesto, tomando en cuenta el valor catastral de los inmuebles en esa fecha, y al operarse la transmisión de la propiedad al fideicomisario se hará la liquidación definitiva del impuesto sobre el valor catastral vigente en esta fecha y se pagará o devolverá la diferencia que resulte.
+Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fideicomiso a que se refiere la fracción XI del artículo 21 de esta Ley, deberá depositarse ante la Tesorería Municipal, dentro de los quince días siguientes al otorgamiento de la escritura de constitución, la cantidad equivalente al impuesto, tomando en cuenta la base del impuesto y al operarse la transmisión de la propiedad al fideicomisario se hará la liquidación definitiva del impuesto sobre la base vigente en esta fecha y se pagará o devolverá la diferencia que resulte.
 
 ###### ARTICULO 30.
 
@@ -479,13 +513,17 @@ Los notarios públicos no autorizarán ninguna escritura definitiva en donde con
 
 Los notarios, jueces y demás servidores públicos no certificarán las firmas de los contratos privados a que se refiere este Capítulo, si no les comprueban el pago de este impuesto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto.
+Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 39.
 
-Los servidores públicos adscritos al catastro municipal, no darán trámite a las solicitudes de traslado de dominio, si no se comprueba el pago del impuesto.
+Los servidores públicos adscritos al catastro municipal, no darán trámite a las solicitudes de traslado de dominio, si no se comprueba el pago de este impuesto.
 
 ###### ARTICULO 40.
 
@@ -635,9 +673,9 @@ No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
 ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+ARTICULO 51 B.- En el supuesto del párrafo cuarto del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
 > <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -701,7 +739,7 @@ Se causará el pago de derechos por los servicios prestados por el Ayuntamiento,
 
 A) CONSTRUCCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 62.
 
@@ -1985,6 +2023,10 @@ f) Por la expedición de permisos para la realización de eventos sociales, por 
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el (sic) artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 97, fracción I, inciso b), de este ordenamiento.
+
 D) OTRAS LICENCIAS Y PERMISOS
 
 ###### ARTICULO 82.
@@ -1993,9 +2035,25 @@ Las personas físicas o morales que exploten el uso de máquinas de video juegos
 
 Unidades de salario
 
-1. Máquinas de video juegos 3.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-2. Sinfonolas 6.00
+1. Máquinas de video juegos y de habilidad o destreza 10.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+2. Sinfonolas 15.00.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 82 A.- Las persona (sic) físicas o morales que se establezcan eventualmente en lugares públicos, que presten servicios, enajenen mercancía o alimentos bajo la denominación de expos o similares y que reúnan los requisitos para ser autorizados, deberán pagar diariamente por espacio utilizado de la siguiente manera:
+
+a).-Hasta 10M2 2.00
+
+b).- De 11.00 a 20.00 M2 4.00
+
+c).- De más de 20 M2 6.00
+
+d).-Tratándose de personas físicas o morales que vendan su mercancía bajo la dirección de una casa comercial o similar se cobrará diariamente 25.00
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -2329,7 +2387,7 @@ En caso de ser necesario, la unidad de protección civil municipal emitirá su o
 
 El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 E) OTROS
 
@@ -2389,13 +2447,29 @@ c) Venta de productos suntuarios 0.15
 
 Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
 
-V. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 2.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+V. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 5.00
 
 VI. Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 1.00 a 2.00
 
 VII. Por el uso de la vía pública (materiales para construcción, escombro cascajo, grava, arena y piedra), por metro lineal, diariamente 0.50 a 2.00
 
 VIII. Otros derechos no especificados en esta sección 2.30
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 88 A.- Los servicios de uso exclusivo de las áreas de uso público, previa autorización de la autoridad competente, causará el pago de los siguientes derechos:
+
+I. Por el uso de cancha de futbol en la Unidad Gil Cabrera Gudiño, en horario diurno, por evento 1.00
+
+II. Por el uso de cancha de futbol en la Unidad Gil Cabrera Gudiño, en horario nocturno, por evento 3.50
+
+III. Por el uso del Salón Presidentes de Casa de la Cultura, por hora, sin equipamiento 3.00
+
+IV. Por el uso del Salón Presidentes de Casa de la Cultura, por hora, con equipamiento 8.00
+
+Los derechos a que se refieren las fracciones I y II de este artículo, no se causarán en los casos de equipos del municipio de Villa de Álvarez que participen en ligas organizadas que estén reconocidas por la dependencia municipal competente en materia de fomento deportivo.
 
 #### SECCION TERCERA. SERVICIOS DE SEGURIDAD PUBLICA
 
@@ -2483,9 +2557,9 @@ I. Por recolección y traslado de residuos no peligrosos, previo dictamen de la 
 
 a) Los propietarios, poseedores o usuarios de predios destinados a la realización de actividades económicas que generen una cantidad diaria menor a 1.50 M3 sin compactar, pagarán 0.00
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-b) Quienes realicen actividades comerciales, industriales o de prestación de servicios, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas mínimas se estará a lo dispuesto por las siguientes:
+b) Quienes realicen actividades comerciales, industriales o de prestación de servicios que cuenten con licencia municipal de funcionamiento, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas medidas se estará a lo dispuesto por las siguientes:
 
 1) Por tonelada 0.50
 
@@ -2514,6 +2588,18 @@ b) Por metro cúbico compactado 3.00
 c) Por metro cúbico sin compactar 1.50
 
 d) Por cada tambo de 200 litros 0.30
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+e) Por llantas, por cada pieza 0.10
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+f) Por ramas y tronco, por descarga, en vehículos de dos ejes 0.50
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+g) Por ramas y tronco, por descarga, en vehículos de más dos ejes 2.00
 
 VI. Por depositar residuos no peligrosos provenientes de rastros y hospitales, en el relleno sanitario:
 
@@ -2621,6 +2707,22 @@ La autoridad municipal que corresponda, queda facultada para retener pieles y ca
 
 Igualmente queda facultada para decomisar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 105 A.- Las personas físicas y morales propietarias de animales que la autoridad municipal haya recogido, en el uso de la atribución que le confiere el artículo 59 de la Ley de Ganadería del Estado de Colima, por encontrarse pastando en calles, plazas públicas, jardines, parques, áreas de reforestación o derechos de vía de carreteras y ferrocarriles, dentro del territorio municipal, estarán obligadas al pago de los siguientes derechos:
+
+I.- Por la maniobra del ganado, por cabeza, por evento 5.00
+
+II.- Por el arrastre de ganado al corral autorizado 10.00
+
+III.- Por la alimentación en el corral autorizado, por cabeza, por día 1.50
+
+IV.- Por el aviso a la Secretaría de Desarrollo Rural y a la Asociación Ganadera 1.00
+
+Los sujetos al pago de los derechos establecidos en el artículo inmediato anterior, deberán efectuar su pago en la Tesorería Municipal antes de que la autoridad municipal competente les entregue los semovientes de su propiedad.
+
+El pago de los derechos contenidos en esta sección, no liberan al propietario del ganado recogido del pago de las multas y sanciones que la autoridad municipal le imponga en el uso de las facultades reglamentarias que tiene reconocidas.
+
 ### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
 ###### ARTICULO 106.
@@ -2637,13 +2739,11 @@ ARTICULO 106 A.- En los términos de lo dispuesto en el último párrafo del art
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 107.
 
-Son productos los ingresos que perciba el municipio por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
-
-El importe de los ingresos por concepto de productos que se señale en los siguientes capítulos deberá ser cubierto en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería. Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
+Son productos las contraprestaciones por los servicios que presta el municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
 ### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
@@ -2679,13 +2779,7 @@ IV. El importe de las rentas de otros bienes muebles e inmuebles propiedad del m
 
 ###### ARTICULO 110.
 
-Los propietarios de ganado que circule en las vías públicas y sea recogido por la autoridad municipal, haciendo uso de las instalaciones del municipio, pagarán diariamente los productos correspondientes, conforme a la siguiente tarifa:
-
-Unidad de salario
-
-I. Chiqueros especiales, por cabeza 0.23
-
-II. Corrales para guarda de animales que transiten en la vía pública sin vigilancia, por cada uno 0.47
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2012)
 
 ###### ARTICULO 111.
 
@@ -2725,7 +2819,7 @@ Por la venta de formas impresas de la autoridad municipal se cobrará por juego:
 
 Unidad de salario
 
-I. Solicitud de expedición o refrendo de licencia para negocio 1.00
+I. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2012)
 
 II. Solicitud de licencia de uso del suelo 1.00
 
@@ -2739,7 +2833,9 @@ VI. Solicitud de subdivisiones 3.00
 
 VII. Solicitud de matrimonio 2.00
 
-VIII. Solicitud de expedición o refrendo de licencia para bebidas alcohólicas 2.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+VIII. Solicitud de expedición o refrendo de licencia para bebidas alcohólicas 4.00
 
 IX. Bitácora de obra 2.60
 
@@ -2821,7 +2917,13 @@ Los ingresos por concepto de aprovechamientos serán los que el municipio percib
 
 Se consideran aprovechamientos también los ingresos que obtenga el municipio por intereses, indemnizaciones de terceros o por responsabilidades de los servidores públicos, reintegros, aportaciones y apoyos de terceros, depósitos y otros no especificados.
 
-En los términos de lo dispuesto en el último párrafo del artículo 6º A del Código, el municipio percibirá de manera accesoria a los Aprovechamientos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Aprovechamientos.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+El Patronato de los Festejos Charro Taurinos podrá obtener aprovechamientos por concepto de los convenios o contratos que suscriba con las personas físicas y morales que realicen actividades comerciales, deportivas o culturales dentro del recinto ferial.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+En los términos de lo dispuesto en el último párrafo del artículo 6° A del Código, el municipio y el Patronato percibirán de manera accesoria a los Aprovechamientos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Aprovechamientos.
 
 ###### ARTICULO 121.
 
@@ -2965,7 +3067,7 @@ Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P. O. 31 DE DICIEMBRE DE 2003.
 
@@ -3056,3 +3158,7 @@ P.O. 24 DE DICIEMBRE DE 2011.
 P.O. 14 DE JULIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1° de enero del año 2013, previa su publicación en el Periódico Oficial "El Estado de Colima".
