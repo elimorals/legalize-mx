@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2012-04-17"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CÓDIGO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2012.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -6054,7 +6054,9 @@ Art. 1,067 Bis. Para hacer cumplir sus determinaciones el juez puede emplear cua
 
 I. Amonestación;
 
-II. Multa hasta de seis mil pesos, monto que se actualizará en términos del artículo 1253, fracción VI;
+(ACTUALIZADA EN SU MONTO, D.O.F. 29 DE DICIEMBRE DE 2012)
+
+II. Multa hasta de $6,250.80 (Seis mil doscientos cincuenta pesos 80/100 M.N.), monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -7318,9 +7320,9 @@ VI. La falta de presentación del escrito del perito designado por la oferente d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2012)</small>
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 29 DE DICIEMBRE DE 2012)
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de tres mil pesos y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $3,125.40 (Tres mil ciento veinticinco pesos 40/100 M.N.) y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7794,9 +7796,9 @@ Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspen
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 29 DE DICIEMBRE DE 2012)
 
-Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a quinientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $520,900.00 (Quinientos veinte mil novecientos pesos 00/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7842,9 +7844,9 @@ Art. 1,339 Bis. Los asuntos de cuantía indeterminada siempre serán apelables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2012)</small>
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 29 DE DICIEMBRE DE 2012)
 
-Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a quinientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $520,900.00 (Quinientos veinte mil novecientos pesos 00/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -8616,11 +8618,11 @@ V. La calificación sobre la admisibilidad de las pruebas, y
 
 VI. La citación para audiencia de juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2011)</small>
+(ADICIONADO, D.O.F. 27 DE ENERO DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 29 DE DICIEMBRE DE 2012)
 
-Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a dos mil pesos, ni superior a cinco mil pesos, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a dos mil pesos, ni superior a $5,209.00 (Cinco mil doscientos nueve pesos 00/100 M.N.), monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10309,3 +10311,7 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 17 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
