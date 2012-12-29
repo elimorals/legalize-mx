@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-defensoria-de-oficio-del-estado-de-tabasco-7794"
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-15"
-last_updated: "2006-09-12"
+last_updated: "2012-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE DEFENSORIA DE OFICIO DEL ESTADO DE TABASCO
 
-LEY DE DEFENSORIA DE OFICIO DEL ESTADO DE TABASCO
+LEY DE DEFENSORÍA DE OFICIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 15 de septiembre de 1993.
 
@@ -539,7 +539,7 @@ LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -550,3 +550,25 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 29 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente ley entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado, aprobada mediante decreto número 0344 y publicada en el Periódico Oficial del Estado, de fecha diecinueve de diciembre de 1984.
+
+TERCERO.- Se derogan todas las demás disposiciones que contravengan lo establecido en la presente Ley.
+
+CUARTO.- Los recursos humanos, financieros y materiales con que actualmente cuenta la Dirección General de la Defensoría de Oficio del Estado, quedan legalmente inmersos en el Instituto; lo anterior, sin perjuicio de los derechos laborales de los trabajadores en los términos de la legislación burocrática aplicable.
+
+QUINTO.- Dentro de los ciento ochenta días hábiles siguiente (sic) después de la entrada en vigor de esta Ley, el Titular del Poder Ejecutivo, deberá expedir el Reglamento del Instituto. En tanto se expidiere, se aplicará en todo aquello que no lo contravenga (sic) las disposiciones previstas en el Reglamento Interior de la Defensoría de Oficio del Estado de Tabasco, expedido el 24 de febrero de 2009, y publicado en el suplemento 6943 del 21 de marzo de 2009, en el Periódico Oficial del Estado.
+
+SEXTO.- Los procedimientos administrativos relativos al personal dependiente de la Dirección General de Defensoría de Oficio, que actualmente se encuentren en trámite en la Dirección General de Asuntos Jurídicos de la Secretaría, se continuarán tramitando ante ésta, conforme a las disposiciones que actualmente los rigen, hasta su conclusión. Lo anterior, sin perjuicio de las disposiciones que sobre el particular, sean emitidas, en su oportunidad, en el Reglamento de esta Ley.
+
+SÉPTIMO.- Los procedimientos jurisdiccionales que actualmente se encuentran en trámite por los Defensores de Oficio de la Dirección General de la Defensoría de Oficio, se continuarán tramitando por los Defensores Públicos del Instituto, hasta su conclusión.
+
+OCTAVO.- Las referencias jurídicas que en otros ordenamientos legislativos, legales o reglamentarios estén citando a la Dirección General de la Defensoría de Oficio, y por ende a los servidores públicos en dichas funciones, se entenderá que por ministerio legal quedan conferidas al Instituto de la Defensoría Pública del Estado de Tabasco, y a los defensores públicos.
+
+NOVENO.- Con motivo de la entrada en vigor y por tanto en operación, de la primera fase del Nuevo Sistema de Justicia Penal, conforme las disposiciones legislativas que a la fecha ya se han expedido; luego, de conformidad con las previsiones presupuestarias respectivas, continúese con el proceso de selección, capacitación y designación oportuna, de los servidores públicos que cumplan cabalmente con los requisitos de profesionalización, con base en esta Ley y en el procedimiento correspondiente que se prevea en el Reglamento de la misma.
+
+DÉCIMO.- Lo concerniente a la hipótesis para el otorgamiento de cauciones y garantías económicas en apoyo de los imputados de escasos recursos económicos; quedará en suspenso, hasta en tanto no se dispongan las partidas presupuestales específicas que estarán limitadas a las previsiones financieras, aprobadas presupuestalmente en los términos de las disposiciones legales aplicables; por lo que estará sujeto a los recursos financieros públicos que en su oportunidad se destinen para la creación del fondo público correspondiente.
