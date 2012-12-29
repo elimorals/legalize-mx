@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2011-12-31"
+last_updated: "2012-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -343,23 +343,11 @@ La base de este impuesto es el monto total de las erogaciones a que se refiere e
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 31.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones señaladas en el artículo 28, y se determinará aplicando la tasa del 1.9% a la base que al respecto se determina en el artículo que antecede.
-
-I. (DEROGADA, P.O. 2 DE ENERO DE 2002)
-
-II. (DEROGADA, P.O. 2 DE ENERO DE 2002)
-
-III. (DEROGADA, P.O. 2 DE ENERO DE 2002)
-
-IV. (DEROGADA, P.O. 2 DE ENERO DE 2002)
-
-V. (DEROGADA, P.O. 2 DE ENERO DE 2002)
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+Este impuesto se causará en el momento en que se realicen las erogaciones señaladas en el artículo 28, y se determinará aplicando la tasa del 2% a la base que al respecto se determina en el artículo que antecede.
 
 DEL PAGO
 
@@ -497,13 +485,115 @@ VII. Cuando los contribuyentes detecten diferencias en sus pagos, deberán prese
 
 VIII. Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas.
 
+> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO IV BIS. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, APUESTAS, JUEGOS PERMITIDOS Y CONCURSOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 BIS.- Son objeto de este impuesto:
+
+I. Los ingresos que se obtengan sobre el total de billetes o boletos enajenados para participar en juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sea cual fuere la denominación que pretenda dársele a la enajenación, inclusive cooperación o donativos, realizados en territorio Estatal.
+
+II. Los ingresos percibidos por la obtención de premios en efectivo o en especie derivados de juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se cobren en el Estado de Zacatecas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 TER.- Son sujetos de este impuesto:
+
+I. Las personas físicas, morales o unidades económicas sin personalidad jurídica cuando enajenen boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
+
+II. Las personas físicas o morales que resulten beneficiadas con los premios de las loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
+
+No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 QUATER.- La base de este impuesto será:
+
+I. El ingreso total obtenido por los sujetos de este impuesto, por la enajenación de boletos, billetes o cualquier comprobante que permita participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
+
+En el caso de sorteos que se organicen y celebren fuera del territorio del Estado de Zacatecas se considerará la cantidad de boletos, billetes o cualquier comprobante que permita participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, efectivamente enajenados en el territorio del Estado de Zacatecas;
+
+II. El ingreso total del premio en efectivo o el valor del bien en que consista el premio que obtengan los sujetos derivado de loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, cobrados en el territorio del Estado de Zacatecas, sin deducción alguna.
+
+Tratándose de premios en especie, la base del impuesto es el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el valor de mercado vigente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 QUINQUIES.- Los contribuyentes del impuesto sobre loterías, rifas, sorteos, apuestas y juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente pagará (sic) conforme a la siguiente tasa:
+
+a) El 6% sobre los ingresos que se obtengan por la enajenación de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
+
+b) El 6% sobre el valor de los premios que obtengan los beneficiarios en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sin deducción alguna.
+
+Quienes entreguen los premios a que se refiere el párrafo anterior, tendrán la obligación de efectuar la retención de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DEL PAGO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 SEXIES.- El pago de este impuesto se realizará de la siguiente manera:
+
+I. Quienes enajenen boletos para participar en juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se celebren dentro o fuera del Estado de Zacatecas, pagarán el impuesto a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales siguientes a cada mes.
+
+II. Para los que obtengan el premio, el impuesto se pagará a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, a más tardar el día 17 del mes siguiente a la obtención de premio.
+
+III. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales siguientes a cada mes.
+
+IV. Son solidarios responsables del pago de este impuesto, los organizadores del evento de cuyo resultado dependa el pago del premio aún y cuando su domicilio fiscal se encuentre fuera del territorio del Estado de Zacatecas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 34 SEPTIES.- Los sujetos de este impuesto tendrán las siguientes obligaciones:
+
+I. Tratándose de personas que habitualmente organicen loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, deberán solicitar la inscripción en el registro de contribuyentes del Estado de Zacatecas, utilizando para tales efectos las formas aprobadas por la Secretaría de Finanzas.
+
+II. Presentar, ante las autoridades fiscales, los avisos y declaraciones que correspondan, dentro de los plazos y en los lugares señalados para tales efectos.
+
+III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones.
+
+IV. Conservar a disposición de las autoridades fiscales y exhibir, cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda.
+
+V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado de Zacatecas.
+
+VI. En tratándose de aquellos contribuyentes obligados a este impuesto, en el que su domicilio fiscal se ubique fuera de la Entidad, se considerará como domicilio de los sujetos afectos a este tributo el del lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 34 OCTIES. - Estarán exentos de este impuesto: los premios derivados de loterías, rifas, sorteos y concursos organizados por las Administraciones Públicas Centralizadas y Descentralizas de los gobiernos Federal, Estatal y Municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública y/o gasto público, asimismo las Asociaciones Civiles sin fines de lucro.
+
 ### CAPITULO V. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 DEL OBJETO Y DE LA BASE
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 35.
 
@@ -977,11 +1067,7 @@ III. Conservar la documentación comprobatoria relacionada con el objeto de este
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. DE LOS DERECHOS
-
-SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y COORDINACION GENERAL JURIDICA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 40.
 
@@ -1011,47 +1097,21 @@ Las certificaciones que soliciten las autoridades para surtir efectos probatorio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
+### CAPITULO II. DE LOS DERECHOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y COORDINACION GENERAL JURIDICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 46.
 
 Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-I. Expedición de certificados de: Salario Mínimo
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-a). Remisión parcial de la pena 4 cuotas;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-b) Libertad condicional 6 cuotas;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-c). Indulto 12 cuotas;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-d). Preliberaciones 3 cuotas
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-e) Constancias de readaptación y certificaciones
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-f) Prelibertad 2 cuotas
+I. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2012)
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004; P.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
-
-III. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
+III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1273,15 +1333,17 @@ civil provenientes del extranjero 5 cuotas
 
 III. La Dirección de Notarías:
 
-a) Expedición de segundo testimonio 1 cuota por hoja
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+a) Expedición de testimonio por hoja 1.5 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 b) Autorización de protocolos notariales:
 
-Protocolo ordinario 5 cuotas por libro
+Protocolo ordinario, por libro 5.5 cuotas
 
-Protocolo abierto 5 cuotas por libro
+Protocolo abierto, por libro 5.5 cuotas
 
 c) Expedición de copia certificada 1 cuota por hoja
 
@@ -1307,7 +1369,9 @@ d) Notarios públicos. 2 cuotas
 
 e) Apostilla de documentos 5 cuotas
 
-### CAPITULO IV. SERVICIOS DE CATASTRO
+### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 47.
 
@@ -1589,7 +1653,7 @@ El almacenamiento y guarda en recintos oficiales de bienes embargados conforme a
 
 Por día: 1 cuota;
 
-### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO IV. SERVICIOS DE CATASTRO
 
 ###### ARTICULO 51.
 
@@ -1859,31 +1923,27 @@ Loreto, Tlaltenango,
 
 Valparaíso y Villanueva 29 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 c) Plano manzanero de zonas
 
-urbanas de las cabeceras
+urbanas de las cabeceras municipales de:
 
-municipales de: Morelos, Villa
+Morelos, Villa de Cos, Pinos, Juchipila,
 
-de Cos, Pinos, Juchipila, Juan
+Juan Aldama, Luis Moya, Miguel Auza,
 
-Aldama, Luis Moya, Miguel Auza,
+Monte Escobedo, Nochistlán de Mejía,
 
-Monte Escobedo, Nochistlán de
+Saín Alto, Tabasco, Tepetongo, Villa García,
 
-Mejía, Saín Alto, Tabasco,
+Cañitas de Felipe Pescador, Teul de González
 
-Tepetongo, Villa García, Cañitas
+Ortega, Chalchihuites, Fco. R. Murguía,
 
-de Felipe Pescador, Teúl de
+Concepción del Oro, Cuauhtémoc, Tepechitlán,
 
-González Ortega, Chalchihuites,
-
-Fco. R. Murguía, Concepción del Oro,
-
-Cuauhtémoc, Tepechitlan y Trancoso 23 cuotas
+Trancoso y Santa María de la Paz. ………………… 24 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2003,7 +2063,7 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VI. SERVICIOS DE OBRAS PÚBLICAS
+### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 52.
 
@@ -2385,7 +2445,9 @@ Los conceptos no considerados en el presente capítulo, se tasarán de acuerdo c
 
 Del ingreso percibido por concepto de registro público, un 5% será destinado a la modernización integral de la administración hacendaria estatal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
 
-### CAPITULO VII. SERVICIOS DE CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO VI. SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA
 
 ###### ARTICULO 58.
 
@@ -2543,9 +2605,9 @@ VII. Costo por inscripción a licitaciones de suministros, servicios y arrendami
 
 Las verificaciones posteriores a que se refiere el artículo anterior, deberán solicitarse anualmente, durante el mes de enero.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO VIII. SERVICIOS DE EDUCACIÓN Y CULTURA
+### CAPITULO VII. SERVICIOS DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
 ###### ARTICULO 61.
 
@@ -2579,7 +2641,9 @@ V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO VIII. SERVICIOS DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTICULO 62.
 
@@ -2809,9 +2873,11 @@ XXIV. Autorización provisional para ejercer como pasante 5 cuotas;
 
 XXV. Autorización provisional para ejercer con título en trámite 5 cuotas.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Timbre con holograma para trámite de registro de título y expedición de cédulas profesionales $ 20.00
+XXVI. Timbre con holograma para trámite de registro
+
+de título y expedición de cédulas profesionales: $ 24.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2828,6 +2894,38 @@ XXVIII. Por solicitud, estudio y resolución del trámite de autorización para 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 XXIX. Por solicitud, estudio y resolución de trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO IX. SERVICIOS DE LA SECRETARÍA DE ADMINISTRACIÓN
+
+###### ARTICULO 63.
+
+Los servicios prestados por concepto de:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+I. Autorización de traslado de cadáver: $ 40.00;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+II. Otorgamiento a proveedores de las bases para concursos de:
+
+a) Adquisiciones, hasta 10 fojas 16 cuotas;
+
+b) Por cada foja adicional $ 35.00; (sic)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+III. Inscripción a concurso de adquisición 12 cuotas;
+
+por invitación.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV. Inscripción a concurso de obra por invitación 22 cuotas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ### CAPÍTULO X. SERVICIOS DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
@@ -2890,36 +2988,6 @@ y certificaciones 1 cuota, y
 f) Prelibertad 2 cuotas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 63.
-
-Los servicios prestados por concepto de:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-I. Autorización de traslado de cadáver: $ 40.00;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-II. Otorgamiento a proveedores de las bases para concursos de:
-
-a) Adquisiciones, hasta 10 fojas 16 cuotas;
-
-b) Por cada foja adicional $ 35.00; (sic)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-III. Inscripción a concurso de adquisición 12 cuotas;
-
-por invitación.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-IV. Inscripción a concurso de obra por invitación 22 cuotas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO XI. SERVICIOS DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE
 
 ###### ARTICULO 64.
 
@@ -3115,7 +3183,9 @@ b) Cambio ruta 12 cuotas;
 
 c) Ampliación de ruta 6 cuotas.
 
-### CAPITULO XII. OTROS DERECHOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO XI. SERVICIOS DE LA SECRETARÍA DEL AGUA Y MEDIO AMBIENTE
 
 ###### ARTICULO 66.
 
@@ -3242,6 +3312,8 @@ de manejo especial
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 XI. Trámite de certificación ambiental 20 cuotas.
+
+### CAPITULO XII. OTROS DERECHOS
 
 ### CAPÍTULO ÚNICO
 
@@ -3650,3 +3722,9 @@ A partir del 1° de enero del año 2012, de la recaudación que la entidad obten
 Las personas físicas o morales, propietarias o poseedoras de vehículos automotores cuyo valor de adquisición consignado en factura primordial sea igual o menor a $200,000.00 inscritas en el padrón vehicular estatal, podrán ser susceptibles de apoyo en el pago del Impuesto Sobre Tenencia o Uso de Vehículos por el ejercicio fiscal 2012, siempre y cuando estén al corriente o regularizados de sus obligaciones fiscales estatales y/o impuestos federales coordinados que la entidad recaude y/o administre; que se encuentren al corriente en el pago del Impuesto Predial y en el pago del Derecho de Agua Potable.
 
 Para ser beneficiarios de esta exención, el trámite de pago deberá de efectuarse dentro del periodo del 1° de Enero al 31 de Marzo del 2012.
+
+P.O. 29 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primer día de enero del dos mil trece, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
