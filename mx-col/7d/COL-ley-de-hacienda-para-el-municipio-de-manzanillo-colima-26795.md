@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2012-07-14"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -85,7 +85,9 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Ley de Catastro, a la Ley de Catastro del Estado de Colima;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+I. Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
 
 II. Unidades de salario, a las unidades de salario mínimo diario vigente en la zona económica del municipio, que se determine en cada caso;
 
@@ -279,13 +281,29 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, éste sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por éste artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectué el pago en los términos de lo dispuesto por el segundo párrafo del artículo 119 de ésta Ley y 25 en su último párrafo del Código Fiscal Municipal.
+En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+Dicho beneficio no será aplicable, si la residencia del contribuyente se constituye en inmuebles donde se presten servicios de hospedaje, alojamiento y albergue temporal de personas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad del bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+Quienes de acuerdo con esta ley, no estén obligadas (sic) a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
 #### SECCION OCTAVA. DE LAS MANIFESTACIONES Y AVISOS
 
@@ -385,21 +403,31 @@ Será base de este impuesto el valor que resulte mayor entre el valor catastral,
 
 A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 26.
 
-En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento del valor catastral.
+En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento de la base.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 27.
 
-La base del impuesto será tasa cero, en los siguientes casos:
+La base del impuesto será tasa cero en los siguientes casos:
 
 I. En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
-II. En las adjudicaciones en juicios sucesorios y en remates judiciales; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal.
+II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+IV. En los casos en que el sujeto del impuesto sea madre soltera, jefa de familia, de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 unidades de salario. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -425,9 +453,11 @@ IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripci�
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 29.
 
-Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fideicomiso a que se refiere la fracción XI del artículo 21 de esta Ley, deberá depositarse ante la Tesorería Municipal, dentro de los quince días siguientes al otorgamiento de la escritura de constitución, la cantidad equivalente al impuesto, tomando en cuenta el valor catastral de los inmuebles en esa fecha, y al operarse la transmisión de la propiedad al fideicomisario se hará la liquidación definitiva del impuesto sobre el valor catastral vigente en esta fecha y se pagará o devolverá la diferencia que resulte.
+Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fideicomiso a que se refiere la fracción XI del artículo 21 de esta Ley, deberá depositarse ante la Tesorería Municipal, dentro de los quince días siguientes al otorgamiento de la escritura de constitución, la cantidad equivalente al impuesto, tomando en cuenta la base del impuesto y al operarse la transmisión de la propiedad al fideicomisario se hará la liquidación definitiva del impuesto sobre la base vigente en esta fecha y se pagará o devolverá la diferencia que resulte.
 
 ###### ARTICULO 30.
 
@@ -501,13 +531,17 @@ Los notarios públicos no autorizarán ninguna escritura definitiva en donde con
 
 Los notarios, jueces y demás servidores públicos no certificarán las firmas de los contratos privados a que se refiere este Capítulo, si no les comprueban el pago de este impuesto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto.
+Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 39.
 
-Los servidores públicos adscritos al catastro municipal, no darán trámite a las solicitudes de traslado de dominio, si no se comprueba el pago del impuesto.
+Los servidores públicos adscritos al catastro municipal, no darán trámite a las solicitudes de traslado de dominio, si no se comprueba el pago de este impuesto.
 
 ###### ARTICULO 40.
 
@@ -671,9 +705,9 @@ No se pagará el impuesto por los espectáculos públicos de funciones de cine y
 
 ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6o del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+ARTICULO 51 B.- En el supuesto del párrafo cuarto del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -2461,6 +2495,10 @@ En zona rural, por cada uno:
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 97, fracción I, inciso a) y b), de este ordenamiento.
+
 D) OTRAS LICENCIAS Y PERMISOS
 
 ###### ARTICULO 82.
@@ -3199,7 +3237,9 @@ c) Venta de productos suntuarios 0.15
 
 Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
 
-VI. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 2.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+VI. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 5.00
 
 VII. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
 
@@ -3603,9 +3643,11 @@ Igualmente queda facultada para decomisar carnes no aptas para el consumo humano
 
 ### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 106.
 
-Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
+Son productos las contraprestaciones por los servicios que presta el municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -3769,7 +3811,9 @@ VI. Solicitud de subdivisiones 3.00
 
 VII. Solicitud de matrimonio 2.00
 
-VIII. Solicitud de expedición o refrendo de licencia para bebidas alcohólicas 2.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+VIII. Solicitud de expedición o refrendo de licencia para bebidas alcohólicas 4.00
 
 IX. Bitácora de obra 2.60
 
@@ -4136,3 +4180,7 @@ P.O. 24 DE DICIEMBRE DE 2011.
 P.O. 14 DE JULIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1° de enero del año 2013, previa su publicación en el Periódico Oficial "El Estado de Colima".
