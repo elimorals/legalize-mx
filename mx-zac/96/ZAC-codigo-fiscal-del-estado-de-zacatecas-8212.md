@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "2011-12-31"
+last_updated: "2012-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -252,6 +252,10 @@ El Gobernador del Estado y el Secretario de Finanzas, podrán encomendar a organ
 ###### ARTICULO 29o.
 
 Se faculta al Secretario de Finanzas, por sí o a través del Director de Ingresos, para celebrar convenios con los contribuyentes en relación con la forma de pago de los créditos fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+El Gobernador del Estado o el Secretario de Finanzas podrán conceder subsidios o estímulos fiscales.
 
 ###### ARTICULO 30o.
 
@@ -1884,3 +1888,7 @@ P.O. 31 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año dos mil doce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2012
+
+Artículo único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
