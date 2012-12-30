@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2012-12-23"
+last_updated: "2012-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -171,9 +171,9 @@ Toda persona acusada de delito se presume inocente mientras no se pruebe su culp
 
 Para todos los efectos legales se califican como delitos graves consignados en este Código; aún en grado de tentativa.
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2012)</small>
 
-I. Los previstos en los capítulos siguientes: CASOS DE CULPA, PRETERINTENCIONALIDAD Y ERROR en su artículo 86 incisos a) y b); REBELIÓN en sus artículos 141, 142, 143, 144 y 145; TERRORISMO en su artículo 149; SABOTAJE en su artículo 150; PECULADO en el último párrafo del artículo 172; DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA en su artículo 196; TORTURA en sus artículos 197, 198 y 200; DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA en sus artículos 205 y 206; FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO en su artículo 235; ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA en sus artículos 244 y 245; ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE en su artículo 267; CORRUPCIÓN DE MENORES E INCAPACES en sus artículos 290, 292 y 293; PORNOGRAFÍA INFANTIL en sus artículos 294 y 295; HOMICIDIO en sus artículos 327, 330, 331 y 332; LESIONES en sus artículos 337 y 339; REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES en su artículo 344; INFANTICIDIO en sus artículos 347, 348 y 349; PRIVACIÓN DE LA LIBERTAD PERSONAL en los dos últimos párrafos de su artículo 360; SECUESTRO en sus artículos 362, 362 bis, 362 ter y 363; DESAPARICIÓN FORZADA DE PERSONAS en su artículo 364; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES Y CON FINES DE CORRUPCIÓN O TRAFICO DE ÓRGANOS en sus artículos 367, 368 y 369; ASALTO en su artículo 378; VIOLACIÓN en sus artículos 392, 393, 394, 395, 396, 397 y 398; ROBO en sus artículos 409, 411 fracciones IV y V, 412 con las excepciones hechas en el artículo 413, 414 y 415; ABIGEATO en sus artículos 420 y 421; EXACCIÓN FRAUDULENTA en su artículo 428, DESPOJO previsto por el último párrafo del artículo 430.
+I. Los previstos en los capítulos siguientes: CASOS DE CULPA, PRETERINTENCIONALIDAD Y ERROR en su artículo 86 incisos a) y b); REBELIÓN en sus artículos 141, 142, 143, 144 y 145; TERRORISMO en su artículo 149; SABOTAJE en su artículo 150; PECULADO en el último párrafo del artículo 172; DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA en su artículo 196; TORTURA en sus artículos 197, 198 y 200; DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA en sus artículos 205 y 206; FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO en su artículo 235; ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA en sus artículos 244 y 245; ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE en su artículo 267; CORRUPCIÓN DE MENORES E INCAPACES en sus artículos 290, 292 y 293; PORNOGRAFÍA INFANTIL en sus artículos 294 y 295; HOMICIDIO en sus artículos 327, 330, 331 y 332; LESIONES en sus artículos 337 y 339; REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES en su artículo 344; INFANTICIDIO en sus artículos 347, 348 y 349; PRIVACIÓN DE LA LIBERTAD PERSONAL en los dos últimos párrafos de su artículo 360; SECUESTRO en sus artículos 362, 362 bis, 362 ter y 363; DESAPARICIÓN FORZADA DE PERSONAS en su artículo 364; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES Y CON FINES DE CORRUPCIÓN O TRAFICO DE ÓRGANOS en sus artículos 367, 368 y 369; EXTORSIÓN en su artículo 377; ASALTO en su artículo 378; VIOLACIÓN en sus artículos 392, 393, 394, 395, 396, 397 y 398; ROBO en sus artículos 409, 411 fracciones IV y V, 412 con las excepciones hechas en el artículo 413, 414 y 415; ABIGEATO en sus artículos 420 y 421; EXACCIÓN FRAUDULENTA en su artículo 428, DESPOJO previsto por el último párrafo del artículo 430.
 
 II.- Los delitos considerados como graves en leyes especiales del Estado.
 
@@ -3197,6 +3197,8 @@ Para los efectos de este artículo servidor público es aquel a que se refiere e
 
 ### CAPÍTULO SÉPTIMO. EXTORSIÓN
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 365.
 
 Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la guarda o custodia de un menor, aunque ésta no haya sido declarada, lo entregue ilegalmente a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le impondrán de dos a nueve años de prisión y de doscientos a quinientos días multa.
@@ -3269,7 +3271,27 @@ Se aplicará de dos a ocho años de prisión y de diez a cien días multa, a qui
 
 ###### ARTÍCULO 377.
 
-Se impondrá de seis meses a ocho años de prisión y de cien a quinientos días multa, al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, para obtener un lucro para sí o para otro.
+Se impondrá de cuatro a quince años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario, al que sin derecho, por cualquier medio, obligue a otro a hacer algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
+
+Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario, cuando en la comisión del delito:
+
+I.- Intervenga una o más personas armadas o portando instrumentos que puedan poner en peligro la vida;
+
+II. Se emplee violencia;
+
+III. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
+
+IV. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
+
+V. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+VI. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
+
+VII. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
+
+VIII. Participe algún miembro de una corporación policiaca u otro servidor público. Además de las penas previstas, también se impondrán como penas la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad; y
+
+IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
 
 ### CAPÍTULO DÉCIMO PRIMERO. AMENAZAS
 
@@ -4248,3 +4270,13 @@ P.O. 23 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
