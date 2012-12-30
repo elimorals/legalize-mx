@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2011-12-29"
+last_updated: "2012-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2012.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -67,7 +67,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1.
 
@@ -83,11 +83,11 @@ El Gobernador del Estado, como Titular del Poder Ejecutivo, tiene las atribucion
 
 Para los efectos de esta ley, en las disposiciones siguientes se utilizarán indistintamente los términos Ejecutivo del Estado o Titular del Poder Ejecutivo por Gobernador Constitucional del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 3.
 
-La administración pública centralizada está compuesta por las Secretarías, la Fiscalía General del Estado y demás dependencias y órganos desconcentrados de éstas, las unidades administrativas de apoyo, asesoría y coordinación de cualquier naturaleza, que establezca el Ejecutivo del Estado, conforme a las disposiciones legales respectivas; su estructura y funcionamiento se formalizarán y regirán en lo dispuesto por esta ley y demás normas y reglas aplicables.
+La Administración Pública Centralizada está compuesta por las Secretarías, la Fiscalía General del Estado y demás dependencias y Órganos Desconcentrados de éstas, las Unidades Administrativas de Apoyo, Asesoría y Coordinación de cualquier naturaleza, que establezca el Ejecutivo del Estado, conforme a las disposiciones legales respectivas; su estructura y funcionamiento se formalizarán y regirán en lo dispuesto por esta Ley y demás normas y reglas aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -169,6 +169,10 @@ El Gobernador del Estado expedirá los reglamentos interiores de las dependencia
 
 Los titulares de las dependencias y entidades podrán emitir acuerdos y circulares que regulen la organización y funcionamiento de las mismas, de igual forma deberán emitir los manuales de organización y de procedimientos, mismos que serán publicados en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2012)</small>
+
+El Titular de cada Secretaría y demás dependencias y órganos descentralizados de éstas, de la Administración Pública Estatal, expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicaciones y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado. En cada una de las dependencias y entidades de la Administración Pública del Estado, se establecerán los sistemas de estímulos y recompensas que determine la ley y las condiciones generales de trabajo respectivas que deberán contemplar medidas para garantizar un ambiente adecuado libre de acoso en el trabajo.
+
 ###### ARTICULO 16.
 
 Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado, para que sean obligatorios, deberán estar refrendados por el Secretario General de Gobierno, y en su caso, también por el encargado del ramo al que el asunto corresponda, sin estos requisitos no surtirán efecto legal alguno.
@@ -181,7 +185,7 @@ El Ejecutivo del Estado promulgará y publicara las leyes y decretos que expida 
 
 El Gobernador del Estado, podrá nombrar y remover libremente a los servidores de la administración pública, cuyo nombramiento o remoción no esté determinado de manera distinta en la Constitución Política del Estado y en las demás leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -511,7 +515,7 @@ LX. Suscribir en los términos de las leyes de las materias, los contratos de co
 
 LXI. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 31.
 
@@ -579,13 +583,13 @@ XXVII. Proyectar las normas y, en su caso, celebrar los contratos o convenios re
 
 XXVIII. Los demás que le señalen las leyes y reglamentos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 32.
 
 La Secretaría de Desarrollo Económico, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la administración pública estatal, relacionadas con el fomento y desarrollo de las actividades empresariales, en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 La Secretaría tiene como objeto fundamental el fomento, la regulación y promoción del desarrollo industrial, minero, comercial y de servicios del Estado, a fin de generar empleos, incrementar la exportación de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
 
@@ -1615,7 +1619,7 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 
 ARTÍCULO 59 bis. Las entidades paraestatales se regularan en todo lo concerniente a su constitución, organización, funcionamiento y control en las disposiciones de la Ley de Entidades Paraestatales del Estado de Durango.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II
 
@@ -1647,7 +1651,7 @@ CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1675,7 +1679,7 @@ CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
@@ -1703,7 +1707,7 @@ CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO V. DE LA OPERACIÓN Y CONTROL DE LAS ENTIDADES PARAESTATALES
 
@@ -1735,11 +1739,11 @@ CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO ÚNICO
 
@@ -1954,3 +1958,9 @@ TERCERO.- El Titular del Poder Ejecutivo deberá expedir el reglamento de esta L
 CUARTO.- El Titular del Poder Ejecutivo dispondrá lo necesario a efecto de transferir los bienes y recursos de los talleres gráficos de la Secretaría de Finanzas y de Administración a la Secretaría General de Gobierno.
 
 QUINTO.- La Secretaría General de Gobierno se subrogará en todos los derechos y obligaciones que correspondan a la Secretaría de Finanzas y Administración en lo que corresponda a la administración de los talleres gráficos del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
