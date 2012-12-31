@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2012-02-10"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -185,13 +187,13 @@ Son sujetos por deuda ajena y con responsabilidad y solidaria, los servidores p�
 
 El Impuesto Sobre la Propiedad Rústica, se causará sobre el Valor Catastral de los Predios Rústicos conforme a las siguientes tarifas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 I. 2.40 al millar anual si están explotados por su dueño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -205,25 +207,25 @@ En ningún caso el Impuesto Predial anual sobre propiedad rústica será inferio
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 I. A razón de 0.85 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 II. A razón de 1.3 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 III. A razón de 6 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.6 al millar; hasta en tanto no sea construida una edificación. La Tasa no excederá de 12 al millar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -275,17 +277,19 @@ III. Por un año, las fincas inutilizadas por incendio, derrumbe u otra causa se
 
 ### CAPÍTULO III. IMPUESTO SOBRE ADQUISICIÓN DE INMUEBLES
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 25.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de Mulegé, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará a la tasa del 2% del valor del inmueble, después de reducirlo en cinco veces el salario mínimo vigente en la zona elevado al año.
+Están obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de Mulegé, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará a la tasa del 2% del valor del inmueble.
 
-En el caso de adquisición de casa-habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, quedarán exentas del pago del impuesto.
+En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculara aplicando la tasa del 2% al valor del inmueble después de reducirlo en cinco veces el Salario Mínimo General de la zona elevado al año. Esta misma disposición se observara para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por él último párrafo de este mismo artículo.
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en diez veces el salario mínimo vigente en la zona elevado al año.
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en cinco veces el salario mínimo vigente en la zona elevado al año.
 
-Al cederse los derechos hereditarios o enajenarse bienes de la sucesión antes de la adjudicación de los bienes, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa prevista en el tercer párrafo de este artículo, independientemente de que se cause por el cesionario, por la sucesión o por el adquiriente.
+Al cederse los derechos hereditarios o enajenarse bienes de la sucesión antes de la adjudicación de los bienes, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa del 1% sobre el valor del avalúo, después de reducirlo en cinco veces el salario mínimo general vigente en la zona, elevado al año, independientemente de que se cause por el cesionario, por la sucesión o por el adquiriente.
 
-Se considera vivienda de interés social aquella que su costo de adquisición sea menor a 7,500 salarios mínimos. Siempre y cuando el adquiriente demuestre no tener él y su cónyuge o concubino (a), otra propiedad.
+Se considera vivienda de interés social aquella que su costo de adquisición sea menor a 5,000 salarios mínimos, siempre y cuando el adquiriente demuestre no tener él y su cónyuge o concubino (a), otra propiedad.
 
 ###### Artículo 26.
 
@@ -633,9 +637,11 @@ III. BANQUETA. Acera construida de mampostería o concreto o de una combinación
 
 ### CAPÍTULO VII. IMPUESTO ADICIONAL
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 58.
 
-Sobre el monto de los impuestos y derechos que establece esta Ley, excepto Impuesto Predial y sobre adquisición de inmuebles, y sobre diversiones y espectáculos públicos, deberá cubrirse el 30% adicional, que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará a la ejecución de obras publicas.
+Sobre el monto de los impuestos y derechos que establece esta Ley, excepto Impuesto Predial y sobre adquisición de inmuebles, y sobre diversiones y espectáculos públicos, deberá cubrirse el 30% adicional, que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará a la ejecución de obras públicas, las cuales deberán ser presentadas al Honorable Cabildo para su aprobación y supervisión del recurso aplicado.
 
 ## TÍTULO TERCERO. DERECHOS
 
@@ -945,19 +951,31 @@ I. Por cada copia de planos incluida
 
 la certificación 3 salarios mínimos
 
-II. Avalúos periciales por cada predio
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-incluida a construcción sobre su valor.
+II. Avalúos periciales por cada
 
-Sin que pueda ser inferior a un salario
+predio incluida la construcción
 
-mínimo 0.5 al millar.
+sobre su valor. En un rango de
+
+$1.00 a $250,000.00 pesos, sin
+
+que pueda ser inferior a un
+
+salario mínimo: 2 salarios
+
+mínimos.
+
+Cuando exceda de $250,000.00
+
+pesos en adelante: 0.5 al millar.
 
 III. Certificados, por cada hoja o
 
 fracción 0.3 del salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -971,7 +989,7 @@ proporcionar información económica
 
 y/o certificado por predio 1.5 salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -987,13 +1005,13 @@ De 251 metros cuadrados
 
 hasta 500 metros cuadrados
 
-8 salarías mínimos.
+8 salaríos mínimos.
 
 De 501 metros cuadrados
 
 hasta 1000 metros cuadrados
 
-15salarios mínimos
+15 salarios mínimos
 
 De 1001 metros cuadrados
 
@@ -1071,7 +1089,7 @@ a) Menos de un año 10 salarios mínimos
 
 b) De un año en adelante 20 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1081,7 +1099,7 @@ a).- Registro inicial 60 salarios mínimos
 
 b).- Revalidación de registro anual 50 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1095,13 +1113,13 @@ tipógrafos Acreditados en la
 
 Dirección de Catastro. 2 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XIII. Por venta de productos digitales
 
-a),- Planimetría de la Ciudad de Santa
+a).- Planimetría de la Ciudad de Santa
 
 Rosalía, incluyendo nombre de calles
 
@@ -1147,21 +1165,27 @@ por pagina tamaño
 
 carta
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XIV. Llenado de manifestación
 
-Catastral 1 salario mínimo
+catastral. 1 salario mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Inscripción de documento
+
+que ampara la propiedad
+
+y otorgamiento de
+
+manifestación catastral. 2 salarios mínimos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XV. Otorgamiento de cedula catastral 4 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1169,7 +1193,7 @@ XVI. Emisión de certificados de no
 
 propiedad 2 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1183,21 +1207,27 @@ Los planos que se elaboren por deslindes ó levantamientos catastrales a solicit
 
 ### CAPÍTULO IV. LICENCIAS PARA CONSTRUCCIÓN
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 74.
 
-Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las poblaciones del Municipio, se requiere licencia previa de la dependencia Municipal correspondiente.
+Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las poblaciones del Municipio de Mulegé, se requiere licencia previa de la dependencia Municipal correspondiente.
 
 ###### Artículo 75.
 
 Para obtener la licencia a la que se refiere el artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 76.
 
-La expedición o refrendo de las licencias causarán derechos 7 al millar sobre el valor de la construcción, según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a los que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
+La expedición de las licencias de construcción, causará derechos 7 al millar sobre el valor de la construcción, según el costo de las obras que se vayan a ejecutar, cuya vigencia no podrá exceder de un plazo de 6 meses contados a partir de la fecha de su expedición. Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo de la licencia, que se otorgará previo pago de los derechos correspondientes a razón de 3.5 al millar del valor de la obra pendiente por ejecutar, por el tiempo que se autorice para la conclusión de la misma, quedando obligado el interesado a dejar limpia la vía pública una vez terminado el plazo que se haya concedido, en caso contrario se hará acreedor a una sanción equivalente a 10 salarios mínimos. El pago de la licencia se hará cuando hayan sido aprobados los planos a los que deba sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
 La expedición de licencia de autorización por uso del suelo, causará un derecho de 1 a 20 salarios mínimos, con base en la descripción del articulo 76 de esta misma Ley.
 
-La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales, entre estos el agrícola, pesquero de acuacultura, transformación, minera y de generación o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
 ###### Artículo 77.
 
@@ -1207,29 +1237,57 @@ TARIFA:
 
 CONCEPTO SALARIOS MINIMOS
 
-a) Registro anual de director responsable de obra. 20
+CONCEPTO SALARIOS MÍNIMOS
 
-b) Autorización de fusión de predios por unidad. 2
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-c) Autorización de subdivisión, lotificación y
+a) Registro anual de director
 
-Relotificación de predios por unidad. 2
+responsable de obra. 30
 
-d) Inspección de terminación de obras. 3
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-e) Inspección de avance de obra. 3
+b) Autorización de fusión de
 
-f) Autorización del uso del suelo comercial en la
+predios por lote. 2
 
-Zona centro. 15
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-g) Autorización del uso del suelo comercial en las
+c) Autorización de subdivisión,
 
-principales avenidas. 10
+lotificación y relotificación de
 
-h) Autorización del uso del suelo comercial en
+predios por lote. 3
 
-fraccionamiento y conjuntos habitacionales 5
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+d) Inspección de terminación de obra 5
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+e) Inspección de avance de obra 5
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+f) Autorización del uso del suelo
+
+comercial en la Zona centro de
+
+cada población urbana. 20
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+g) Autorización del uso del suelo
+
+comercial en las principales avenidas. 15
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+h) Autorización del uso del suelo
+
+comercial en fraccionamiento y
+
+conjuntos habitacionales 10
 
 i) Autorización del uso del suelo comercial en el
 
@@ -1237,35 +1295,39 @@ resto de la mancha urbana. 3
 
 La ejecución de las obras sin la licencia respectiva, se sancionará, independientemente de pagar la licencia que corresponda, conforme a la siguiente:
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 TARIFA
 
 I. Locales comerciales:
 
 Salarios Mínimos
 
-Area Cimentación Muro Losa Acabados
+Área Cimentación Muro Losa Acabados
 
-Menos de 30 m2 3 5 10 20
+Menos de 40 m2 5 8 16 32
 
-De 31 a 100 m2 8 12 20 30
+De 41 a 100 m2 12 25 50 100
 
-De 101 a 200 m2 12 16 30 40
+De 101 a 200 m2 17 38 75 150
 
-De 201 m2 en adelante 16 24 40 60
+De 201 m2
+
+en adelante 50 100 150 300
 
 II. Casa habitación:
 
-Salarios Mínimos
+Área Cimentación Muro Losa Acabados
 
-Area Cimentación Muro Losa Acabados
+Menos de 40 m2 3 6 12 24
 
-Menos de 30 m2 2 4 6 8
+De 41 a 100 m2 7 12 25 50
 
-De 31 a 100 m2 5 8 12 18
+De 101 a 200 m2 9 17 38 75
 
-De 101 a 200 m2 7 12 18 24
+De 201 m2
 
-De 201 m2 en adelante 12 18 24 30
+en Adelante. 25 50 75 150
 
 ### CAPÍTULO V. AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
@@ -1741,9 +1803,13 @@ Para la dotación y reposición de placas de identificación del servicio de con
 
 No se permitirá conducir vehículos de motor sin obtener previamente su licencia o permiso para conducir cumpliendo los requisitos establecidos y conforme a la siguiente tarifa:
 
-I. Licencia de chofer (por 3 años) 8 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. Licencia de automovilista (por 3 años) 5 salarios mínimos
+I. Licencia de chofer (por 3 años) 10 salarios mínimos
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II. Licencia de automovilista (por 3 años) 6 salarios mínimos
 
 III. Licencia de motociclista (por 3 años) 3 salario mínimo
 
@@ -1921,15 +1987,55 @@ Son sujetos de este derecho las personas físicas o morales que se dediquen a la
 
 I. Por la expedición de licencias para el funcionamiento de establecimientos que almacenen, distribuyan, vendan y/o presten servicios que incluyan el consumo de bebidas alcohólicas, deberán causar derechos dentro de los rangos que establecen las tarifas que a continuación se mencionan y que deberán precisarse de acuerdo a lo que establezca el Ayuntamiento en su tabla tarifaría:
 
-a) Distribuidores con venta al mayoreo y centros nocturnos 3,483 hasta 2,500, salarios mínimos;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+a) Distribuidores con venta al mayoreo y centros nocturnos 6,531 hasta 5,224 salarios mínimos;
 
 b) Cantinas, bares, tiendas departamentales y cervecerías de 2,031 hasta 1,800 salarios mínimos
 
 c) Licorerías, Depósitos, tienda de alimentos y restaurantes bar, moteles y/o hoteles con departamento de bebidas alcohólicas, centros recreativos, clubes, clubes privados por membresía, casinos, asociaciones civiles, peñas culturales y clubes deportivos de 1,400 salarios mínimos
 
-d) Tienda de alimentos con venta de cerveza de 1,000 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+d) Tienda de alimentos con venta de cerveza de 1,050 salarios mínimos.
 
 e) Restaurantes con venta de cerveza y licor solo con el consumo de alimentos. De 1,000 salarios mínimos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+f) Ferias, eventos deportivos y diversiones análogas de carácter transitorio de acuerdo a los siguientes conceptos y tarifas:
+
+1.- Kermés. 5 salarios mínimos
+
+2.- Degustación y eventos
+
+con bebidas de cortesía. 10 salarios mínimos
+
+3.- Exhibiciones, arrancones,
+
+y carreras de automóviles. 40 salarios mínimos
+
+4.- Lucha libre. 40 salarios mínimos
+
+5.- Funciones de Box
+
+profesional. 50 salarios mínimos
+
+6.- Charreadas y rodeos. 30 salarios mínimos
+
+7.- Corridas de toros. 30 salarios mínimos
+
+8.- Baile Popular. 40 salarios mínimos
+
+9.- Conciertos
+
+musicales masivos. 80 salarios mínimos
+
+10.- Carreras de caballos. 40 salarios mínimos
+
+11.- Peleas de Gallos. 30 salarios mínimos
+
+Cuando cualquiera de las actividades señaladas en las fracciones que anteceden se celebren en la zona rural se cobrará solamente el 50% de las tarifas respectivas.
 
 II. La tabla tarifaría del inciso e) de la fracción anterior podrá disminuir tomando en cuenta la importancia demográfica, económica o turística del lugar donde se pretende establecer la licencia, de igual forma, a su capital social o a su número de empleados. Sin que sea inferior a 1,200 salarios mínimos.
 
@@ -1947,13 +2053,17 @@ d) Giros donde se utilicen vinos y licores para preparar bebidas a bases de caf�
 
 Para efecto de la revalidación anual para operar locales destinados al almacenaje, distribución, venta y/o consumo de bebidas alcohólicas, se cobrará con base en la tabla tarifaria autorizada por la autoridad municipal siempre y cuando no sea menor al 3.5 % sobre el valor de los rangos establecidos para la expedición de licencias.
 
-###### Articulo 140.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Para efectos de cambio de actividad o giro comercial, razón social y nombre comercial, se cubrirá a razón del 10% sobre los montos establecidos para la expedición de licencias.
+###### Artículo 140.
 
-###### Articulo 141.
+Para efectos de cambio de actividad o giro comercial, razón social y nombre comercial, se cubrirá a razón del 20% sobre los montos establecidos para la expedición de licencias.
 
-Por la autorización de horario extraordinario para el funcionamiento de establecimientos con almacenaje, distribución, venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos de hasta 0.50 hasta 3 salarios mínimos diarios por hora para lo cual deberán especificarse en la tabla tarifaria que determine la autoridad municipal.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 141.
+
+Por la autorización de horario extraordinario para el funcionamiento de establecimientos con almacenaje, distribución, venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos de 1 hasta 6 salarios mínimos diarios por hora, para lo cual deberán especificarse en la tabla tarifaría que determine la autoridad municipal.
 
 ###### Artículo 143.
 
@@ -2181,6 +2291,8 @@ b) Servicio de fotocopiado 0.03 del salario mínimo
 
 ### CAPÍTULO II. RECARGOS
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 175.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
@@ -2203,7 +2315,7 @@ Asimismo serán motivo de ingresos municipales de este capítulo, las infraccion
 
 ###### Artículo 177.
 
-La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos por concepto de indemnización al fisco municipal mismos que se cobrarán a razón de un 25% más del porcentaje que establezca la Ley de Ingresos.
+La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos por concepto de indemnización al fisco municipal mismos que se cobrarán a razón de un 50% más del porcentaje que establezca la Ley de Ingresos.
 
 ###### Artículo 178.
 
@@ -2229,17 +2341,23 @@ Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de T
 
 Clave Descripción Importe
 
-(salarios
+(Salarios
 
-mínimos)
+Mínimos)
 
-1 Manejar sin licencia 6
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2 Falta de resello anual a la licencia (cada uno) 1
+1 Manejar sin licencia 10
 
-3 Manejar en estado de ebriedad 75
+2 (DEROGADA, B.O. 31 DE DICIEMBRE DE 2012)
 
-4 Exceso de velocidad 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+3 Manejar en estado de ebriedad y/o drogado 80
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+4 Exceso de velocidad 20
 
 5 Ir a mas de 15 kilómetros frente a escuela 3
 
@@ -2247,19 +2365,29 @@ mínimos)
 
 7 No obedecer las indicaciones del agente 3
 
-8 Recurrir a la fuga 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+8 Recurrir a la fuga 15
 
 9 Faltas al agente 5
 
-10 Prestar servicios públicos sin autorización 30
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-11 Circular fuera de ruta 3
+10 Prestar servicios públicos sin autorización 50
 
-12 Por estacionarse mal 2
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-13 Estacionarse en exclusivo 3
+11 Circular fuera de ruta 5
 
-> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+12 Por estacionarse mal 3
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+13 Estacionarse en exclusivo 5
+
+(REFORMADA, B.O. 10 DE ENERO DE 2012) (REPUBLICADA, B.O. 31 DE DICIEMBRE DE 2012)
 
 14 Estacionarse en paraderos, cajones y
 
@@ -2273,17 +2401,23 @@ personas con discapacidad
 
 17 Cortar cortejo fúnebre 3
 
-18 Estacionarse en doble fila 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+18 Estacionarse en doble fila 4
 
 19 Abandonar unidad en la vía pública 5
 
 20 No ceder el paso al peatón 5
 
-21 No ceder el paso a vehículo de emergencia 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+21 No ceder el paso a vehículo de emergencia 20
 
 22 Pasarse alto del agente 4
 
-23 Pasarse alto del semáforo 5
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+23 Pasarse alto del semáforo 10
 
 24 Adelantar vehículo en bocacalle 3
 
@@ -2349,7 +2483,9 @@ al conducir 3
 
 47 No reportar cambio de colores 3
 
-48 No reportar cambio de propietario 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+48 No reportar cambio de propietario 10
 
 49 Estacionarse en sentido contrario 5
 
@@ -2361,7 +2497,9 @@ al conducir 3
 
 53 Falta de luz en las placas 3
 
-54 Falta de luz roja al frenar 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+54 Falta de luz roja al frenar 5
 
 55 Falta de luz direccional 3
 
@@ -2369,7 +2507,9 @@ al conducir 3
 
 57 Falta de frenos a bicicletas 1
 
-58 Uso indebido del claxon 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+58 Uso indebido del claxon 5
 
 59 Emisión excesiva de humo 5
 
@@ -2391,7 +2531,9 @@ al conducir 3
 
 Fisicomental 10
 
-68 Arrojar objetos o basura en la vía pública 5
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+68 Arrojar objetos o basura en la vía pública 10
 
 69 Llevar objetos que obstruyan la visibilidad 3
 
@@ -2427,13 +2569,21 @@ remolque cada uno 2
 
 maquinaria pesada, dentro de las áreas urbanas 10
 
-83 Por alterar tarifas en servicio de transporte público 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+83 Por alterar tarifas en servicio de transporte público 15
 
 84 No traer tarifas en lugar visible 5
 
-85 Permitir control de dirección a personas acompañan 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-86 Llevar personas o bultos en brazos al conducir 5
+85 Permitir control de dirección
+
+a personas acompañan (sic) 20
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+86 Llevar personas o bultos en brazos al conducir 20
 
 > <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
 
@@ -2471,7 +2621,9 @@ autorizada)
 
 92 Obstruir una intersección en crucero 3
 
-93 Entablar competencia de velocidad en la vía publica 50
+93 Entablar competencia de
+
+velocidad en la vía publica 50
 
 94 Adelantar vehículo en zona peatonal 3
 
@@ -2481,11 +2633,17 @@ autorizada)
 
 97 Adelantar vehículo por acotamiento 3
 
-98 Estacionarse frente a cochera 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-99 Estacionarse frente a hidrante 3
+98 Estacionarse frente a cochera 6
 
-100 Estacionarse frente a bomberos y ambulancia 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+99 Estacionarse frente a hidrante 10
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+100 Estacionarse frente a bomberos y ambulancia 10
 
 101 No atender descuentos a estudiantes,
 
@@ -2493,9 +2651,13 @@ uniformados oficiales, tercera edad y
 
 personas con discapacidad 5
 
-102 Transportar pasaje en autobús ebrio y/o drogado 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-103 Transportar animales, bultos que molesten al pasaje 5
+102 Transportar pasaje en autobús ebrio y/o drogado 200
+
+103 Transportar animales, bultos
+
+que molesten al pasaje 5
 
 104 Transportar más de 2 cargadores en camión
 
@@ -2513,7 +2675,9 @@ y de emergencia 3
 
 108 Establecer sitio en lugar no autorizado 5
 
-109 Derrapar quemando llanta 10
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+109 Derrapar quemando llanta 20
 
 110 Intento de soborno 10
 
@@ -2531,21 +2695,115 @@ cuadro de la ciudad 5
 
 116 Ingerir bebidas embriagantes en vehículo 20
 
-117 Pasarse alto de disco (señalamiento) 5
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+117 Pasarse alto de disco (señalamiento) 10
 
 118 No ceder paso a vehículo en preferencia 10
 
 119 No usar cinturón de seguridad 3
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 120 Por prestación de servicio público sin
 
 autorización para transportar carga y
 
-materiales para construcción 20
+materiales para construcción 55
 
 > <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
 
 121 Contaminación por ruido De 50 a 500
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+122 Producir ruidos por cualquier medio, ya
+
+sean fuentes fijas o fuentes móviles, que
+
+rebasen los límites permitidos conforme
+
+a las Normas Oficiales Mexicanas y que
+
+además provoquen molestias o alteren la
+
+tranquilidad de las personas. 11 a 20
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+123 Permitir al propietario o poseedor de un
+
+animal que éste transite libremente, o
+
+transitar con él sin adoptar las medidas de
+
+seguridad necesarias, de acuerdo con las
+
+características particulares del animal, para
+
+prevenir posibles ataques a otras personas o
+
+animales, así como azuzarlo, o no contenerlo. 11 a 20
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+124 Abstenerse de recoger, de vías o lugares
+
+públicos, las heces fecales de un animal de su
+
+propiedad o bajo su custodia. 11 a 20
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+125 Por pintar inmuebles, paredes o transporte
+
+público con graffiti. 10 a 100
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+126 Por contaminación con residuos peligrosos. 100 a 1000
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+127 Por contaminación con humos, olores y
+
+partículas suspendidas en el aire de
+
+sustancias tóxicas y volátiles. 100 a 1000
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+128 Contaminación por residuos sólidos urbanos
+
+en predios y viviendas. 10 a 100
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+129 Realizar actividades que generen
+
+contaminación sin contar con medidas de
+
+mitigación adecuadas. 10 a 100
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+130 Mal uso de agua potable, en lavado de patios,
+
+banquetas y riego de calles por costumbre. 5 a 10
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+131 Por descargas de agua de desecho a la
+
+vía pública. 5 a 10
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+132 Uso de teléfono móvil al conducir. 2
+
+(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+
+133 Permitir manejar sin licencia. 3
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
@@ -2870,3 +3128,21 @@ B.O. 10 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO No. 2054, POR EL QUE SE REFORMAN LOS ARTÍCULOS 25, 58, 72 FRACCIÓN II, PRIMER PÁRRAFO, 74, 76 PRIMERO Y TERCER PÁRRAFO, 77 INCISOS A), B), C), D), E), F), G) Y H) DE LA TARIFA RELATIVA A LA AUTORIZACIÓN DEL REGISTRO DE DIRECTOR RESPONSABLE DE OBRA, AUTORIZAR LA FUSIÓN, SUBDIVISIÓN, LOTIFICACIÓN O RELOTIFICACIÓN DE PREDIOS, AUTORIZAR EL USO DEL SUELO PARA DESARROLLOS URBANOS Y USO DEL SUELO COMERCIAL URBANO PARA GIROS COMERCIALES, DAR VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE OBRA PREVIO PAGO, Y LAS FRACCIONES I Y II DE LA TARIFA REFERENTE A LAS SANCIONES POR LA EJECUCIÓN DE LAS OBRAS SIN LA LICENCIA RESPECTIVA, 114 FRACCIONES I Y II, 138 FRACCIÓN I, INCISOS A) Y D), 140, 141, 177 Y 181 EN SUS CLAVES 1, 3, 4, 8, 10, 11, 12, 13, 14, 18, 21, 23, 48, 54, 58, 68, 83, 85, 86, 98, 99, 100, 102, 109, 117 Y 120; SE ADICIONA UN SEGUNDO PÁRRAFO A LAS FRACCIONES II Y XIV DEL ARTÍCULO 72, UN INCISO F) AL ARTÍCULO 138, LAS CLAVES 122, 123, 124, 125, 126, 127, 128, 129 Y 130 DEL ARTÍCULO 181; Y SE DEROGA LA CLAVE NÚMERO 2 DEL ARTÍCULO 181, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO No. 2058, POR EL QUE ADICIONAN LAS CLAVES 122, 123 Y 124 AL ARTÍCULO 181 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
