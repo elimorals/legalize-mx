@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-del-deporte-50409"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-30"
-last_updated: "2012-01-10"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE
 
-LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE
+LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de abril de 2006.
 
@@ -99,19 +99,23 @@ II. Un Secretario Ejecutivo, que será el Secretario General de Gobierno;
 
 III. Un Secretario Técnico, que será el Director General del Instituto;
 
-IV. Por las vocalías siguientes:
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Secretaría de Educación Pública;
+IV. Por las Vocalías siguientes:
 
-Secretaría de Salud;
+a).- Secretaría de Educación Pública;
 
-Secretaría de Finanzas;
+b).- Secretaría de Salud;
 
-Secretaría de Planeación Urbana, Infraestructura y Ecología;
+c).- Secretaría de Finanzas;
 
-Instituto Sudcaliforniano de la Juventud; y
+d).- Secretaría de Planeación Urbana, Infraestructura y Ecología;
 
-Dos representantes del sector privado.
+e).- Secretaría de Seguridad Pública;
+
+f).- Instituto Sudcaliforniano de la Juventud; y
+
+g).- Dos Representantes del sector privado.
 
 La Contraloría General del Estado fungirá como Comisario del Instituto.
 
@@ -316,3 +320,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 B.O. 10 DE ENERO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente al de publicación en el Boletín Oficial del Gobierno del Estado.
