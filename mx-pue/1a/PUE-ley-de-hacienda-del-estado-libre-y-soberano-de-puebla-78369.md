@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2011-02-11"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -457,7 +457,9 @@ a) El que se enajena por primera vez al consumidor por el fabricante, ensamblado
 
 b) El importado definitivamente al país, que corresponda al año modelo posterior al de aplicación de las disposiciones a que se refiere este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
 
-X.- Valor Total del Vehículo.- El precio de enajenación al consumidor, del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, así como las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado y en su caso, del valor de blindaje del vehículo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+X.- Valor Total del Vehículo.- El precio de enajenación al consumidor, del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante o tercero le adicione a solicitud del consumidor, así como las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado y en su caso, del valor de blindaje del vehículo.
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
@@ -723,6 +725,10 @@ El impuesto a que se refiere este Capítulo, se causará por año de calendario 
 
 Tratándose de vehículos nuevos, este impuesto deberá enterarse en un plazo no mayor a 15 días hábiles siguientes a la fecha de su adquisición.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Respecto de los vehículos de procedencia extranjera legalmente importados al país, con excepción de aquellos importados por las distintas plantas armadoras de la industria automotriz, el impuesto deberá pagarse por primera vez, dentro de los 15 días hábiles siguientes al de la fecha de importación señalada en el documento con el que se acredite su legal y definitiva estancia, y para los pagos subsecuentes, conforme a lo establecido en el primer párrafo de este artículo.
+
 Para aquellos vehículos que porten placas de transporte público federal, el impuesto se pagará en los plazos, lugares y formas previstas en el primer párrafo de este artículo, siempre y cuando el domicilio fiscal que el propietario tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado.
 
 En los casos que proceda, el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la Entidad Federativa correspondiente.
@@ -821,7 +827,9 @@ Los sujetos obligados al pago del impuesto a que se refiere este Capítulo, debe
 
 I.- Solicitar la inscripción del vehículo de que se trate en el Registro Estatal Vehicular;
 
-II.- Presentar anualmente declaración informativa en la que ratifique o modifique los datos del Registro Estatal Vehicula (sic), en términos del artículo 87 de esta Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II.- Presentar anualmente declaración informativa en la que ratifique o modifique los datos del Registro Estatal Vehicular, en términos del artículo 87 de esta Ley;
 
 III.- Presentar a requerimiento de las autoridades fiscales los comprobantes de los pagos de este impuesto y de los derechos por servicios de control vehicular, correspondientes a los últimos cinco ejercicios fiscales; y
 
@@ -1097,9 +1105,11 @@ Las participaciones en ingresos federales, los fondos y recursos participables, 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 79.
 
-Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso los que autorice el Ejecutivo del Estado y previo acuerdo con éste, el Secretario de Finanzas y Administración.
+Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Finanzas y Administración.
 
 Dentro de esta categoría quedan comprendidos las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como de los financiamientos que obtenga el Gobierno del Estado y los que deriven de los programas especiales que instrumente el mismo.
 
@@ -1153,9 +1163,11 @@ APARTADO B
 
 DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 85.
 
-Los propietarios, tenedores o usuarios de vehículos nuevos con domicilio en el Estado deberán realizar el trámite de inscripción o alta ante el Registro Estatal Vehicular dentro del plazo de 15 días hábiles contados a partir del día de la adquisición del vehículo de que se trate, término durante el que podrán solicitar, por una sola vez ante la Secretaría de Finanzas y Administración un permiso provisional para circular sin placas de identificación vehicular durante el citado plazo.
+Los propietarios, tenedores o usuarios de vehículos nuevos con domicilio en el Estado, deberán realizar el trámite de inscripción o alta en el Registro Estatal Vehicular dentro del mismo plazo que establece el artículo 46 de esta Ley para el primer pago del Impuesto Sobre Tenencia o Uso de Vehículos, término durante el que podrán solicitar, por una sola vez ante la Secretaría de Finanzas y Administración un permiso provisional para circular sin placas de identificación vehicular durante el citado plazo.
 
 ###### Artículo 86.
 
@@ -1185,7 +1197,9 @@ VI.- Cambio de propietario; y
 
 VII.- Baja del vehículo por cambio de domicilio a otra Entidad Federativa, siniestro, robo o por estar inservible o chatarrizado.
 
-Tratándose de trámite de baja de vehículo por cambio de domicilio a otra Entidad Federativa, la autoridad fiscal expedirá un permiso provisional con vigencia de 2 a 15 días para que el vehículo circule provisionalmente sin placa oficial.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de trámite de baja de vehículo por cambio de domicilio a otra Entidad Federativa, la autoridad fiscal expedirá un permiso provisional con vigencia de 15 días para que el vehículo circule provisionalmente sin placa oficial.
 
 Los formatos y mecanismos para realizar los trámites o movimientos a que se refiere este artículo se darán a conocer mediante Reglas de Carácter General que emita y publique la Secretaría de Finanzas y Administración, en el Periódico Oficial del Estado.
 
@@ -1253,9 +1267,11 @@ APARTADO E
 
 DEL SERVICIO PÚBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 97.
 
-Los concesionarios o permisionarios del servicio público del transporte y servicio de transporte mercantil, al solicitar algún trámite o movimiento al Registro Estatal Vehicular ante la Secretaría de Finanzas y Administración, además de los requisitos a que se refiere el artículo 89 de esta Ley, deberán presentar en original los documentos autorizados por la Secretaría de Comunicaciones y Transportes, relativos a sus concesiones o permisos, según sea el caso.
+Los concesionarios o permisionarios del servicio público del transporte y servicio de transporte mercantil, al solicitar algún trámite o movimiento al Registro Estatal Vehicular ante la Secretaría de Finanzas y Administración, además de los requisitos a que se refiere el artículo 89 de esta Ley, deberán presentar en original los documentos autorizados por la Secretaría de Transportes, relativos a sus concesiones o permisos, según sea el caso.
 
 ## TRANSITORIOS
 
@@ -1306,3 +1322,13 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
