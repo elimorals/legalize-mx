@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-del-delito-de-trata-de-personas-y-77719"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-03"
-last_updated: "2011-01-26"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY PARA LA PREVENCION DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE SUS VICTIMAS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ENERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2010.
 
@@ -494,3 +494,29 @@ OCTAVO.- Las acciones que lleven a cabo las Dependencias y Entidades de la Admin
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinticinco días del mes de noviembre de dos mil diez.- Diputada Presidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JAVIER AQUINO LIMÓN.- Rúbrica.- Diputado Secretario.- MELlTÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones que deriven de la entrada en vigor, estarán sujetas a la disponibilidad presupuestal que autorice el Congreso del Estado en el Presupuesto de Egresos correspondiente.
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos realizarán las adecuaciones administrativas que sean necesarias para el debido cumplimiento de la ley.
+
+CUARTO.- Se abroga la Ley para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas del Estado de Puebla.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO.- Las disposiciones legales de esta Ley que se refieren al Fondo destinado a la protección y asistencia a las víctimas de los delitos de Trata de Personas, entrarán en vigor una vez que se conforme el mismo, en términos de las disposiciones legales aplicables.
+
+SÉPTIMO.- El cumplimiento a lo previsto en el primer párrafo del artículo 44, queda sujeto a la integración del Fondo y a las disposiciones administrativas y presupuestarias que se emitan para tal efecto.
+
+OCTAVO.- Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente Decreto, seguirán rigiéndose por las normas vigentes al momento de la comisión del hecho delictivo.
+
+NOVENO.- Se reconoce la validez de los acuerdos y demás actos emanados de la Comisión Interinstitucional para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas.
+
+DÉCIMO.- El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley.
+
+El Reglamento de la Ley para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas del Estado de Puebla vigente, en tanto no se modifique, se seguirá aplicando en lo que no se oponga al presente Decreto.
