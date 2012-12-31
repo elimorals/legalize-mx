@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2012-09-14"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -735,9 +735,11 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 #### Sección Segunda.- Declaración de Ausencia
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 109.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 ###### Artículo 110.
 
@@ -919,9 +921,17 @@ Si la ausencia de los cónyuges fuere simultánea, se hará la separación de bi
 
 #### Sección Quinta.- Presunción de muerte del ausente
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 150.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez a instancia de parte interesada, declarará la presunción de muerte.
+
+Si la desaparición ocurre asociada a incendio, explosión, terremoto, catástrofe aérea o ferroviaria, naufragio, inundación o siniestro semejante, porque exista presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses contados a partir de la fecha en que ocurrió el acontecimiento trágico, para la declaración de presunción de muerte sin necesidad de declarar ausencia. El Juez ordenará la publicación de declaración de presunción de muerte por tres veces durante el procedimiento dentro de treinta días.
+
+Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro, así como en el supuesto de servidores públicos de procuración y administración de justicia, de seguridad pública o de ejecución de sanciones penales, no localizados por hechos acontecidos durante el ejercicio de sus funciones o con motivo de ellas, bastará que hayan transcurrido dos años, contados desde su no localización, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; no obstante, se tomarán las medidas provisionales autorizadas para personas ausentes en la Sección Primera de este Capítulo. En estos supuestos, el Juez acordará la publicación de la declaración de presunción de muerte, sin costo alguno.
+
+Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda.
 
 ###### Artículo 151.
 
@@ -1263,9 +1273,11 @@ I.- Según disponga el estatuto;
 
 II.- Según lo que determine la asamblea general, si el estatuto no contiene disposición sobre este punto; pero la asamblea sólo podrá atribuir a los asociados, la parte del activo social que equivalga a sus aportaciones, y los demás bienes se aplicarán a otra asociación o fundación de objeto similar a la extinguida.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 212.
 
-Las asociaciones de asistencia pública se regirán por las leyes correspondientes.
+Las asociaciones de asistencia social se regirán por las leyes correspondientes.
 
 ### CAPITULO SEXTO.- SOCIEDADES
 
@@ -1303,7 +1315,9 @@ I.- A solicitud de uno o más de los socios o de cualquiera persona interesada, 
 
 II.- Después de pagadas las deudas sociales, se reembolsará a los socios lo que hubieren llevado a la sociedad;
 
-III.- Las utilidades se destinarán a los establecimientos de asistencia pública del domicilio de la sociedad o a los más cercanos, si no los hubiere en ese lugar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- Las utilidades se destinarán a los establecimientos de asistencia social pública del domicilio de la sociedad o a los más cercanos, si no los hubiere en ese lugar.
 
 ###### Artículo 220.
 
@@ -4205,9 +4219,9 @@ El Presidente del Patronato del Sistema para el Desarrollo Integral de la Famili
 
 I.- De los menores huérfanos, abandonados por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes.
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II.- De los menores no sujetos a patria potestad o a tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno, el Instituto de Asistencia Pública del Estado o cualquiera otra.
+II.- De los menores no sujetos a patria potestad o tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno o cualquiera otra.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
@@ -4571,7 +4585,9 @@ X.- Cuando el mismo tutor esté obligado a dar alimentos por razón de su parent
 
 XI.- Si el tutor, en el caso de la fracción anterior, no se allana a cumplir su obligación alimentaria, será removido de la tutela y perderá el derecho que tuviere para heredar al menor y a quien lo nombró en su testamento, sin perjuicio de la acción penal que corresponda en su contra;
 
-XII.- Si el menor indigente no tiene personas que estén obligadas a alimentarlo, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, pondrá al menor en un establecimiento de asistencia pública o privada en donde pueda educarse;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII.- Si el menor indigente no tiene personas que estén obligadas a alimentarlo, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, pondrá al menor en un establecimiento de asistencia social, sea pública o privada, en donde pueda educarse;
 
 XIII.- Si no fuese posible poner al menor en uno de los establecimientos a que se refiere la fracción anterior, el tutor procurará obtener un trabajo para aquél, adecuado a su edad y circunstancias personales, con la obligación de alimentarlo y educarlo;
 
@@ -5969,9 +5985,11 @@ Si durante el plazo señalado se presentare alguna reclamación, la autoridad mu
 
 Si el reclamante es declarado dueño se le entregará el bien de que se trate o su precio, en el caso del Artículo 969, con deducción de los gastos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 973.
 
-Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclamara la propiedad del mostrenco, se venderá éste, dándose una cuarta parte del precio al que lo halló y destinándose el resto a alguna Institución de Asistencia Pública. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
+Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclamará la propiedad del mostrenco, se venderá éste, dándose una cuarta parte del precio al que lo halló y destinándose el resto al Gobierno del Estado para destinarlo a su vez a la asistencia social pública. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
 
 ###### Artículo 974.
 
@@ -16823,7 +16841,9 @@ I.- Los créditos de las personas comprendidas en las fracciones II y VI del art
 
 II.- Los créditos del erario, que no estén comprendidos en la fracción I del artículo 2980 y los créditos a que se refiere la fracción V del artículo 2943, que no hayan sido garantizados en la forma allí prevenida;
 
-III.- Los créditos de los establecimientos de asistencia pública o privada.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- Los créditos de los establecimientos de asistencia social, sea pública o privada.
 
 #### Sección Séptima.- Acreedores de cuarta clase
 
@@ -17125,7 +17145,9 @@ III.- Los ascendientes;
 
 IV.- Los parientes colaterales hasta el grado indicado en este Código; y
 
-V.- La Universidad Autónoma de Puebla y la Asistencia Pública por partes iguales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+V.- Por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública.
 
 ###### Artículo 3030.
 
@@ -17159,7 +17181,9 @@ I.- La distribución de las cantidades que deje a grupos determinados, como hué
 
 II.- La individuación y elección de las personas a quienes deban aplicarse las cantidades a que se refiere la fracción anterior;
 
-III.- La elección de los establecimientos públicos o de asistencia, a los que se transmitan los bienes del testador y la determinación de las cantidades que a cada uno corresponda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- La elección de los establecimientos públicos o de asistencia social pública, a los que se transmitan los bienes del testador y la determinación de las cantidades que a cada uno corresponda.
 
 ###### Artículo 3036.
 
@@ -17461,9 +17485,11 @@ Por causa de utilidad pública son incapaces de adquirir bienes inmuebles, sea p
 
 La herencia o legado que se dejen a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobernador del Estado los aprueba.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 3092.
 
-Las disposiciones hechas en favor del alma, o de los pobres en general, salvo lo dispuesto en el artículo 3035, se entienden hechas en favor de la Asistencia Pública del Estado.
+Las disposiciones hechas en favor del alma, o de los pobres en general, salvo lo dispuesto en el artículo 3035, se entienden hechas en favor de la asistencia social pública del Estado.
 
 ###### Artículo 3093.
 
@@ -18193,13 +18219,17 @@ Las substituciones antes establecidas son de estricta interpretación y se consi
 
 Puede el testador señalar el bien que quede afectado para el pago de la cantidad o cantidades que deje a un establecimiento de asistencia, pero pagadas estas cantidades, quedará liberado el bien.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 3242.
 
-Puede el testador fundar uno o más lugares en un establecimiento de asistencia o de instrucción pública, para sus herederos o legatarios.
+Puede el testador fundar uno o más lugares en un establecimiento de asistencia social pública o de instrucción pública, para sus herederos o legatarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 3243.
 
-Faltando las personas de que habla el artículo anterior, el capital quedará destinado por partes iguales a la Asistencia Pública del Estado y a la Universidad Autónoma de Puebla.
+Faltando las personas a que se refiere el artículo anterior, el capital quedará destinado por partes iguales a la Benemérita Universidad Autónoma de Puebla y al Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública.
 
 ###### Artículo 3244.
 
@@ -18657,9 +18687,11 @@ III.- Los ascendientes;
 
 IV.- Los parientes colaterales hasta el sexto grado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 3324.
 
-A falta de las personas comprendidas en el artículo anterior, heredarán la Universidad Autónoma de Puebla y la Asistencia Pública del Estado por partes iguales.
+A falta de las personas comprendidas en el artículo anterior, heredarán por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública.
 
 ###### Artículo 3325.
 
@@ -18807,7 +18839,9 @@ El concubino heredará como cónyuge, si el autor de la herencia falleció mient
 
 Faltando alguno de esos últimos requisitos, el concubino supérstite sólo tendrá derecho a alimentos, según lo dispuesto por la fracción VI del artículo 3107.
 
-#### Sección Séptima.- Sucesión de la Universidad Autónoma de Puebla y de la Asistencia Pública del Estado
+#### Sección Séptima.- Sucesión de la Benemérita Universidad Autónoma de Puebla y de la Asistencia Social
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 3356.
 
@@ -18829,11 +18863,13 @@ A falta de hermanos sucederán los hijos de éstos, dividiéndose la herencia po
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del sexto grado, sin distinción de líneas ni consideración a doble vínculo y heredarán por partes iguales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 #### Sección Primera.- Precauciones que deben adoptarse cuando la supérstite quede encinta
 
 ###### Artículo 3361.
 
-A falta de los herederos llamados en los capítulos anteriores, sucederán la Universidad Autónoma de Puebla y la Asistencia Pública del Estado por partes iguales, y si en la herencia hubiere bienes raíces, se cumplirá lo que disponga al respecto la Constitución Política de los Estados Unidos Mexicanos.
+A falta de los herederos llamados en los capítulos anteriores, sucederán por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública; si en la herencia hubiere bienes raíces, se cumplirá lo que disponga al respecto la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO DUODECIMO.- DISPOSICIONES COMUNES A LA SUCESION TESTAMENTARIA Y A LA LEGITIMA
 
@@ -20028,5 +20064,23 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 109 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 150, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 150 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto y que se encuentren en trámite, deberán ajustarse a los términos previstos en el mismo.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 212, LA FRACCIÓN III DEL 219, LA FRACCIÓN II DEL ARTÍCULO 680, LA FRACCIÓN XII DEL ARTÍCULO 721, EL ARTÍCULO 973, LA FRACCIÓN III DEL ARTÍCULO 2982, LA FRACCIÓN V DEL ARTÍCULO 3029, LA FRACCIÓN III DEL ARTÍCULO 3035, EL ARTÍCULO 3092, EL ARTÍCULO 3242, EL ARTÍCULO 3243, EL ARTÍCULO 3324, LA DENOMINACIÓN DE LA SECCIÓN SÉPTIMA DEL CAPÍTULO XI DEL LIBRO SEXTO Y EL ARTÍCULO 3361, DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
