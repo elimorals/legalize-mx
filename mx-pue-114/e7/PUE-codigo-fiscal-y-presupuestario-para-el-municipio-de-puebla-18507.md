@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2011-12-30"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -263,49 +263,81 @@ VII. Dependencias.- Las dependencias de la Administración Pública Centralizada
 
 VIII. Destinataria: La dependencia o entidad beneficiaria de un acuerdo de destino respecto de un bien del dominio público;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-IX. SAU.- Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla;
+IX. Devolución.- Término que describe el reintegro a los contribuyentes que lo soliciten oportunamente, de cantidades pagadas indebidamente o en cantidad mayor a la debida, previo cumplimiento de las disposiciones que norman el procedimiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-X. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
+X. SAU.- Secretaría de Desarrollo Urbano y Obras Públicas del Honorable Ayuntamiento del Municipio de Puebla;
 
-XI. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XII. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
+XI. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
 
-XIII. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIV. Municipio.- El Municipio de Puebla;
+XII. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
 
-XV. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVI. Otorgante.- La persona moral de derecho público, que emite un acuerdo de destino para el uso o aprovechamiento de un bien inmueble del dominio público;
+XIII. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
 
-XVII. Órgano desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVIII. Oficina Ejecutora.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
+XIV. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla:
 
-XIX. Periódico Oficial.- Periódico Oficial del Estado de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XX. Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+XV. Garantía de Audiencia.- Constituye un derecho de los particulares frente a las autoridades administrativas fiscales y judiciales, para que tengan la oportunidad de ser oídos en defensa de sus derechos antes de que éstos sean afectados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXI. Perito Valuador.- Es la persona que cuenta con los conocimientos necesarios para emitir avalúos, siendo ingeniero, arquitecto, corredor público, técnico o especialista en valuación, contando con cédula profesional o constancia oficial, expedida por autoridad competente;
+XVI. Municipio.- El Municipio de Puebla;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXII. Síndico.- El Síndico del Honorable Ayuntamiento del Municipio de Puebla;
+XVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXIII. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+XVIII. Otorgante.- La persona moral de derecho público, que emite un acuerdo de destino para el uso o aprovechamiento de un bien inmueble del dominio público;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXIV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla.
+XIX. Órgano desconcentrado.- Es el órgano dependiente de la administración pública centralizada jerárquicamente subordinado a alguna dependencia, con facultades específicas, que no goza de personalidad jurídica ni patrimonio propio y que solo tiene autonomía técnica y de gestión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XX. Oficina Ejecutora.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXI. Pago.- Es el medio de extinción de las obligaciones fiscales a cargo de los contribuyentes, que podrá hacerse en efectivo o en especie, o en las formas que lo determinen las leyes fiscales municipales, también es posible realizarlo por medios electrónicos, giros postales, telegráficos o bancarios;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXII. Periódico Oficial.- Periódico Oficial del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIV. Perito Valuador.- Es la persona que cuenta con los conocimientos necesarios para emitir avalúos, siendo ingeniero, arquitecto, corredor público, técnico o especialista en valuación, contando con cédula profesional o constancia oficial, expedida por autoridad competente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXV. Síndico.- El Síndico del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVI. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla.
 
 ###### Artículo 2.
 
@@ -573,55 +605,65 @@ III. El Director Jurídico;
 
 IV. El Tesorero, y los titulares de las siguientes unidades administrativas que de éste dependen:
 
-a) El Director de Ingresos Municipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+a). El Director de Catastro;
 
-b) El Jefe del Departamento de Ejecución u Oficina Ejecutora.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+b). El Director de Ingresos Municipal;
 
-c) El Director de Catastro.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c). El Director Jurídico de la Tesorería Municipal;
 
-d) El Jefe del Departamento de Impuestos Inmobiliarios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+d). El Titular de la Unidad de Normatividad y Regulación Comercial;
 
-e) El Jefe del Departamento de Actualización de Predial.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+e). El Coordinador de Fiscalización de Comercio Establecido;
 
-f) El Titular de la Unidad de Normatividad y Regulación Comercial.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+f). El Coordinador de Fiscalización de Espectáculos Públicos;
 
-g) El Jefe del Departamento de Licencias y Padrón de Contribuyentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+g). El Coordinador de Fiscalización de Mercados, Central e Industrial de Abastos;
 
-h) El Titular de la Coordinación de Fiscalización de Comercio Establecido.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+h). El Jefe del Departamento de Actualización de Predial;
 
-i) El Titular de la Coordinación de Fiscalización de Espectáculos Públicos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+i). El Jefe del Departamento de Ejecución;
 
-j) El Titular de la Coordinación de Fiscalización a Vía Pública.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+j). El Jefe del Departamento de Impuestos Inmobiliarios;
 
-k) El Titular de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+k). El Jefe del Departamento de Licencias y Padrón de Contribuyentes;
 
-l) El Director Jurídico de la Tesorería Municipal.
+l). (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-V. Los demás servidores públicos a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VI. Las autoridades fiscales a que se refiere el Código Fiscal del Estado de Puebla, se considerarán autoridades fiscales municipales cuando actúen en el ejercicio de las facultades a que se refieren los convenios que celebre el Gobierno del Estado y el Municipio, en los términos del último párrafo del inciso a) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y de este Código. En contra de los actos que se realicen cuando actúen de conformidad con lo anterior, sólo procederá el medio de defensa que establece este ordenamiento, o en su caso, el que establezcan las leyes fiscales en el Municipio.
+V. El Administrador General de Industrial de Abastos Puebla, en el marco de las atribuciones que en la legislación aplicable le concede.
+
+a). Los Médicos del Departamento de Control y Vigilancia de Industrial de Abastos Puebla, por cuanto hace a la fiscalización e inspección sanitaria externa, de los productos y subproductos cárnicos introducidos, industrializados y que se comercialicen en este Municipio.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VI. Los demás servidores públicos a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII. Las autoridades fiscales a que se refiere el Código Fiscal del Estado de Puebla, se considerarán autoridades fiscales municipales cuando actúen en el ejercicio de las facultades a que se refieren los convenios que celebre el Gobierno del Estado y el Municipio, en los términos del último párrafo del inciso a) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y de este Código. En contra de los actos que se realicen cuando actúen de conformidad con lo anterior, sólo procederá el medio de defensa que establece este ordenamiento, o en su caso, el que establezcan las leyes fiscales en el Municipio.
 
 ###### Artículo 27.
 
@@ -708,6 +750,10 @@ II. El Estado de Puebla; y
 III. Los Municipios del Estado de Puebla.
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, productos u otros ingresos, únicamente tendrán las otras obligaciones fiscales que establezcan en forma expresa las propias leyes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+En tratándose de bienes inmuebles exentos del pago de contribuciones a la propiedad raíz, los propietarios o poseedores deberán, además, solicitar oportunamente la declaración de exención respectiva de la autoridad fiscal para los efectos de lo dispuesto en el artículo 52 Ter de este Código.
 
 ###### Artículo 30.
 
@@ -827,13 +873,17 @@ También se considerarán como días y horas hábiles para la práctica de dilig
 
 Son obligaciones de los contribuyentes:
 
-I. Inscribirse en el padrón fiscal municipal dentro de los 15 días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+I. Inscribirse en el padrón fiscal municipal dentro de los 45 días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
 
 II. Señalar domicilio fiscal en el Municipio y en su caso domicilio para recibir notificaciones;
 
 III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
 
-IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales municipales, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, con los requisitos que señalan las leyes fiscales del Municipio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV. Presentar oportunamente los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales municipales, en las formas oficiales, ya sean impresas o electrónicas, que faciliten la auto declaración contributiva y que estén autorizadas por las instancias competentes del Ayuntamiento, con los requisitos que señalan las leyes fiscales del Municipio condicionadas para su validez a la veracidad de los datos asentados, sin perjuicios de las responsabilidades de cualquier índole que se generen por la falsedad en los informes y datos que proporcione el contribuyente;
 
 V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
 
@@ -1081,11 +1131,13 @@ e) Revisar o confrontar las manifestaciones o avisos presentados por los propiet
 
 f) Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-g) Allegarse de pruebas necesarias para formular denuncia, querella o declaratoria de perjuicio.
+g) Allegarse de pruebas necesarias para formular denuncia, querella o declaratoria de perjuicio cuando se detecten datos falsos o evidencia de actos u omisiones constitutivos de delitos.
 
-Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente en cualquiera de las formas previstas por este Código incluidos aquéllos que se realicen por medios electrónicos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -1137,9 +1189,11 @@ II. Bajas.- Cancelación de registros, debido al desglose de la totalidad de la 
 
 III. Cambios.- Modificaciones en los datos registrados de acuerdo con documentos presentados por los particulares y autoridades diversas, como son escrituras, avisos de enajenación, planos de construcción, ratificación de medidas de terreno, sentencias de usucapión ejecutoriadas, cambio de domicilio, entre otros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-Las autoridades fiscales, deberán notificar los actos administrativos, mismos que deberán tener por lo menos los siguientes requisitos:
+Las autoridades fiscales, deberán notificar los actos administrativos, en cualquiera de las formas previstas por este Código incluidos aquéllos que se realicen por medios electrónicos, regulados en el Capítulo I del Título Quinto de este Código, relativo a los Procedimientos Administrativos, mismos que deberán tener por lo menos los siguientes requisitos:
 
 I. Constar por escrito;
 
@@ -1871,45 +1925,57 @@ V.- Solicitar de los sujetos pasivos, responsables solidarios o terceros con ell
 
 VI.- Recabar de los servidores públicos y fedatarios los informes y datos que posean con motivo de sus funciones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VII.- Ordenar y practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes, documentos o mercancías, en la forma que para la comprobación de las obligaciones fiscales determine la Tesorería con las formalidades que establece este Código;
+VII.- Ordenar y practicar la fiscalización e inspección sanitaria, relacionada con el Abastos (sic), la organización, funcionamiento, transporte, industrialización y comercialización de productos y subproductos cárnicos, dentro del Municipio.
+
+Quedan sujetos a las disposiciones del presente Código, todos los involucrados en la cadena comercial de la carne, es decir, toda persona física o moral que directa o indirectamente esté relacionada en la producción y comercialización de especies animales, en la prestación de servicios y en la elaboración de productos relacionados con la actividad pecuaria.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 VIII. Practicar avalúos, nuevos avalúos o revaluaciones de bienes inmuebles, determinar valores provisionales o estimarlos ante la oposición de los propietarios, poseedores o detentadores;
 
-IX. Designar personal que supervise y verifique el número de personas que ingresen a las diversiones y espectáculos públicos, así como los ingresos que perciban;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+IX.- Ordenar y practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes, documentos o mercancías, en la forma que para la comprobación de las obligaciones fiscales determine la Tesorería con las formalidades que establece este Código;
 
-X. Autorizar y verificar el manejo de los boletos o documentos que otorguen el derecho de admisión a una diversión o espectáculo público y en su caso, que el sujeto del impuesto respectivo conserve en el lugar del evento el comprobante de pago anticipado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-En caso de que los contribuyentes del Impuesto Sobre Diversiones y Espectáculos Públicos expidan el boletaje por sí o por terceros, con anterioridad al evento y el organizador del evento o un tercero autorizado por el mismo, utilicen medios electrónicos de impresión y/o venta de boletos, obtener el reporte electrónico de la venta en las diferentes localidades, que contenga el costo de cada una de ellas y el acumulado correspondiente;
+X.- Designar personal que supervise y verifique el número de personas que ingresen a las diversiones y espectáculos públicos, así como los ingresos que perciban;
 
-XI. Designar personal para presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+XI.- Autorizar y verificar el manejo de los boletos o documentos que otorguen el derecho de admisión a una diversión o espectáculo público, y en su caso, que el sujeto del impuesto respectivo conserve en el lugar del evento el comprobante de pago anticipado.
 
-XII. Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones reportes o avalúos;
+En caso de que los contribuyentes del Impuesto Sobre Diversiones y Espectáculos Públicos expidan el boletaje por sí o por terceros, con anterioridad al evento y el organizador del evento o un tercero autorizado por el mismo, utilicen medios electrónicos de impresión y/o venta de boletos, obtener el reporte electrónico de la venta en las diferentes localidades que contenga el costo de cada una de ellas y el acumulado correspondiente.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIII. Allegarse y poner a disposición de la Sindicatura, las pruebas necesarias para integrar las denuncias ante el Ministerio Público, sobre la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva, aportando las pruebas que demuestren la actualización del tipo penal y que hayan obtenido en ejercicio de sus facultades de comprobación; y
+XII.- Designar personal para presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIV. Cuando los sujetos pasivos, los responsables solidarios, terceros con ellos relacionados, o cualquier otra persona se opongan u obstaculicen el ejercicio de las facultades de comprobación de las autoridades fiscales, éstas podrán indistintamente:
+XIII.- Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones, reportes o avalúos;
 
-a) Imponer la multa que corresponda en los términos de este Código.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Solicitar el auxilio de la fuerza pública.
+XIV.- Allegarse y poner a disposición de la Sindicatura, las pruebas necesarias para integrar las denuncias ante el Ministerio Público, sobre la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva, aportando las pruebas que demuestren la actualización del tipo penal y que hayan obtenido en ejercicio de sus facultades de comprobación; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XV.- Cuando los sujetos pasivos, los responsables solidarios, terceros con ellos relacionados, o cualquier otra persona se opongan u obstaculicen el ejercicio de las facultades de comprobación de las autoridades fiscales, éstas podrán indistintamente:
+
+a) Imponer la multa que corresponda en los términos de este Código;
+
+b) Solicitar el auxilio de la fuerza pública; y
 
 c) Solicitar a la autoridad correspondiente, se proceda por desobediencia a un mandato legítimo de autoridad fiscal competente.
 
 Las medidas previstas en los incisos anteriores, también serán aplicadas por las autoridades fiscales, de ser necesario, para hacer cumplir sus determinaciones.
 
-Las facultades señaladas en las fracciones II, IV, VII, IX, X y XI de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Las facultades señaladas en las fracciones II, IV, VII, IX, X, XI y XII de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
 
 ###### Artículo 68.
 
@@ -2065,11 +2131,11 @@ II. Que la información a que se refiere la fracción anterior, se encuentre loc
 
 Los servidores públicos que en el ejercicio de sus funciones, conozcan de hechos, actos u omisiones que puedan entrañar infracción o incumplimiento de las disposiciones fiscales, las comunicarán a la autoridad fiscal dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de tales acciones u omisiones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
 
-Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales o municipales, a las autoridades investigadoras y a las autoridades judiciales cuando la ley impone tal obligación.
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, incluyendo de manera enunciativa más no limitativa los datos personales de los contribuyentes, así como todos aquellos relativos a su actividad económica. Dicha Reserva no comprenderá los casos que señalen las disposiciones fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales o municipales, a las autoridades investigadoras y a las autoridades judiciales cuando la ley impone tal obligación.
 
 ###### Artículo 76.
 
@@ -2197,15 +2263,25 @@ XXIV. No tener en lugar visible de la negociación o establecimiento o no llevar
 
 XXV. Efectuar el sacrificio de animales fuera de los rastros o lugares autorizados por la autoridad municipal competente;
 
-XXVI. Evadir u obstaculizar en cualquier forma la inspección de carnes y productos de matanza que procedan de otros municipios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVI. Evadir u obstaculizar en cualquier forma la inspección o la fiscalización de productos y/o subproductos cárnicos para Abastos;
 
 XXVII. Omitir total o parcialmente el pago de contribuciones y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
 XXVIII. Obstruir con diversos objetos o no permitir el libre estacionamiento de vehículos, con el fin de realizar en la vía pública actividades mercantiles o lucrativas, así como utilizarlas para estacionamiento exclusivo, terminal o paradero de vehículos, sin contar con la autorización correspondiente;
 
-XXIX. No dar aviso a la Tesorería o hacerlo extemporáneamente respecto del cese de actividades o funcionamiento definitivo de su negociación; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXX. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores, que en alguna forma infrinjan las disposiciones fiscales.
+XXIX. No dar aviso a la Tesorería o hacerlo extemporáneamente respecto del cese de actividades o funcionamiento definitivo de su negociación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores, que en alguna forma infrinjan las disposiciones fiscales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Comercializar productos o subproductos cárnicos que no cuenten con documentación que acredite su legal procedencia y/o sin los sellos que certifiquen un sacrificio sanitario autorizado.
 
 ###### Artículo 83.
 
@@ -2429,15 +2505,31 @@ II. Con prisión de uno a cuatro años y multa de cien a doscientos cincuenta d�
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes, documentos o acuerdos administrativos que puedan ser recurridos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+I. Personalmente, por correo certificado con acuse de recibo, o por medios electrónicos, con acuse de recibo, siempre que se ostente la firma electrónica avanzada del servidor público competente previa autorización de la Secretaría de Administración del Gobierno del Estado de Puebla, cuando se trate de citatorios, requerimientos, solicitudes de informes, documentos o acuerdos administrativos, que puedan ser recurridos;
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos a los señalados en la fracción anterior;
 
 III. Por estrados, en los casos que señala este Código y otras disposiciones fiscales;
 
-IV. Por instructivo en el caso a que se refiere el artículo 107 segundo y tercer párrafo de este Código; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante legal de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentre en territorio del Municipio.
+IV. Por instructivo en el caso a que se refiere el artículo 107 segundo y tercer párrafos de este Código;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante legal de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentre en territorio del Municipio;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VI. Podrán realizarse notificaciones por medios electrónicos cuando se trate de oficios de respuesta a consultas, resoluciones, convenios, comunicaciones, procedimientos administrativos, trámites, declaratorias y en general todas las actuaciones de la autoridad municipal que puedan ser notificadas a los interesados por este medio, en términos de ley, así como a las dependencias, órganos desconcentrados, entidades o unidades administrativas, que integran la Administración Pública Federal, Estatal y Municipal, previo el cumplimiento de los requisitos que para las notificaciones electrónicas establezcan la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII. Tratándose de contribuyentes interesados que no hubieren señalado un medio electrónico para darse por notificados, deberán presentarse a la oficialía de partes de la Tesorería Municipal para recibir el oficio de respuesta a su petición en el plazo que legalmente proceda.
+
+Las notificaciones a través de medios electrónicos se podrán hacer en cualquier sistema de información que designe el destinatario, como correos electrónicos, institucionales o inclusive a través de una página Web, las cuales surtirán sus efectos a partir de que el destinatario cuente con su acuse de recibo electrónico.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2473,6 +2565,20 @@ Tratándose de actos relativos al Procedimiento Administrativo de Ejecución, el
 
 En casos de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia y de que anexó la copia con firma autógrafa del documento que se notifica por esa vía, para dar cuenta al jefe de la oficina ejecutora.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 107 Bis.
+
+Todos los actos, convenios, comunicaciones, procedimientos administrativos, trámites, requerimientos, resoluciones, declaratorias, consultas, acuerdos y en general todas las actuaciones que emitan las Dependencias, Entidades y Unidades Administrativas que integran el Ayuntamiento de Puebla, podrán ser notificados a los contribuyentes o a las mismas autoridades Municipales, a través de medios electrónicos, mediante mensajes de datos, siempre que en éstos se ostente la Firma Electrónica Avanzada del funcionario público competente, previa autorización de la Secretaría de Administración del Gobierno del Estado de Puebla, la cual tendrá los mismos efectos jurídicos que la firma autógrafa, salvo en los casos que las leyes y demás disposiciones jurídicas exijan o requieran exclusivamente la firma autógrafa de manera expresa; o que los actos jurídicos por su formalidad no sean susceptible de cumplirse por los medios señalados.
+
+Para que surta efectos jurídicos un mensaje de datos notificado a través de medios electrónicos, deberá contar siempre y sin excepción con un acuse de recibo electrónico del mismo, generado por el sistema de información utilizado en los medios electrónicos, conforme a la Ley Estatal de la materia.
+
+El mensaje de datos se tendrá por expedido en el lugar donde el firmante tenga registrado su domicilio electrónico dentro del certificado, y por recibido en el lugar donde el destinatario tenga establecido el suyo.
+
+Cuando se realicen cualquiera de los actos regulados por este Código a través de un mensaje de datos en hora o día inhábil, se tendrá por realizado en la primera hora hábil del siguiente día hábil y se tendrán por no realizados cuando no contengan un mensaje de datos.
+
+Quienes opten por el uso de los medios electrónicos, estarán obligados a conservar por un plazo mínimo de 5 años los originales de aquellos mensajes de datos que den nacimiento a derechos y obligaciones, a menos que se estipule otro plazo en la Ley que rija el acto o documento que se deba conservar.
+
 ###### Artículo 108.
 
 Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, la que dejará constancia de ello en el expediente respectivo, teniéndose como fecha de notificación la del sexto día siguiente a aquél en que se hubiera fijado el documento.
@@ -2486,6 +2592,22 @@ En este caso se tendrá como fecha de notificación la de la última publicació
 ###### Artículo 110.
 
 Salvo que las leyes o resoluciones señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente a aquél en que surta efectos la notificación o a aquél en que se realicen los hechos o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 110 Bis.
+
+Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga el sello digital. El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una Firma Electrónica Avanzada.
+
+En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Artículo 110 Bis a).- Las Dependencias, Entidades y Unidades Administrativas, establecerán los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Artículo 110 Bis b).- La integridad y autoría de un documento digital con Firma Electrónica Avanzada, será verificable mediante el método de remisión al documento original con la clave única del autor que al efecto establezca la autoridad certificadora.
 
 ### CAPÍTULO II. DE LA GARANTÍA DEL INTERES FISCAL
 
@@ -2745,17 +2867,25 @@ La tercería procederá hasta antes de fincado el remate de bienes.
 
 Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja y dado el caso, de administrador de la negociación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 134.
 
-El interventor con cargo a la caja, después de separar las cantidades que correspondan por concepto de salarios y créditos preferentes conforme a este Código, deberá de retirar de la negociación intervenida el 10% de los ingresos y enterarlos en la caja de la oficina ejecutora diariamente o en la medida que se efectúe la recaudación.
+Son obligaciones del Interventor con cargo a caja:
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación intervenida o de operaciones que pongan en peligro los intereses del fisco municipal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+I. Separar las cantidades que correspondan a salarios y demás créditos preferentes;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+II. Separar costos y gastos indispensables para la operación de la negociación;
 
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
+III. Deberá retirar de la negociación intervenida hasta el 10% de ingresos percibidos en efectivo, en transferencia electrónica o depósitos a través de instituciones del sistema financiero;
+
+IV. Enterar a la oficina ejecutora diariamente a medida que se efectué la recaudación.
+
+Los movimientos de las cuentas bancarias y demás negociaciones intervenidas por conceptos diferentes a los antes señalados, que impliquen, traspasos, retiros, transferencias o rembolsos deberán ser aprobados previamente por el interventor que llevará un control de dichos movimientos.
+
+V. El nombramiento de interventor administrador deberá anotarse en el registro público que corresponda al domicilio de la negociación intervenida a más tardar al día hábil siguiente del inicio formal de la intervención.
+
+La asamblea y la administración de la sociedad podrán continuar reuniéndose regularmente para conocer los asuntos que les correspondan y las informaciones que formule el interventor, así como opinar sobre asuntos que someta a su consideración el interventor. El interventor podrá convocar a asamblea de accionistas, socios o participes y además citará a la administración de la sociedad con los propósitos que considere necesarios.
 
 ###### Artículo 135.
 
@@ -2781,13 +2911,19 @@ IV. Rendir cuentas mensuales comprobadas a la oficina ejecutora.
 
 En caso de que la negociación que se pretende intervenir ya lo estuviere por mandato de otra autoridad, por créditos fiscales preferentes a los del Municipio se nombrará no obstante un interventor iniciando su gestión al término de la actuación de los interventores preferentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 138.
 
-La intervención se levantará cuando el crédito fiscal y sus accesorios se hubieren satisfecho o cuando de conformidad con este Código la negociación haya sido enajenada. En este caso la oficina ejecutora comunicará el hecho al Registro Público de la Propiedad que corresponda, para que se cancele la inscripción respectiva.
+La intervención se tendrá por concluida cuando:
 
-Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
+I. Cuando el crédito fiscal se hubiere satisfecho; y
+
+II. Cuando se haya enajenado la negociación.
+
+En estos casos la oficina ejecutora comunicara el hecho, al registro público que corresponda para que se cancele la inscripción respectiva.
+
+Las autoridades fiscales procederán a enajenar la negociación intervenida cuando, lo recaudado en 3 meses no alcance a cubrir por lo menos el 30% del crédito fiscal, excepto que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 10% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
 
 #### SECCIÓN CUARTA. DEL REMATE
 
@@ -3321,7 +3457,9 @@ IV. Al causar ejecutoria la sentencia de usucapión, protocolizarse o inscribirs
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate, se eleven a escritura pública, o se inscriban en el Registro Público de la Propiedad y del Comercio, para que surta efectos ante terceros en términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a la legislación aplicable.
 
-El contribuyente podrá pagar el impuesto por anticipado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+El contribuyente podrá pagar anticipada o directamente, el impuesto mediante el uso de las formas oficiales autorizadas por la Tesorería Municipal ya sean impresas o electrónicas, que faciliten la auto declaración contributiva, con los requisitos que señalan las leyes fiscales del Municipio quedando condicionada su validez a la veracidad de los datos asentados y sin perjuicio de las responsabilidades que se generen por la falsedad en los informes y datos que proporcione el contribuyente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -3395,21 +3533,13 @@ BASE. Es base gravable del Impuesto Sobre Diversiones y Espectáculos Públicos,
 
 TASA. El Impuesto Sobre Diversiones y Espectáculos Públicos, se causará y pagará conforme a la tasa que señale anualmente la Ley de Ingresos del Municipio, sobre la base a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 197.
 
-MOMENTO DE PAGO. El pago del Impuesto Sobre Diversiones y Espectáculos Públicos, se realizará en la forma siguiente:
+MOMENTO DE PAGO. El pago del Impuesto Sobre Diversiones y Espectáculos Públicos, se realizará en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-I. Diariamente al finalizar cada función de la diversión o espectáculo público de que se trate en los casos en que el boletaje haya sido expedido en el momento de su realización y/o parcialmente en forma previa a su realización y en las taquillas del evento;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-II. Previa a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo, en estos casos el contribuyente se encuentra obligado a conservar en el lugar en que se realiza el espectáculo el comprobante de pago expedido por la Tesorería.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-En los casos de las fracciones I y II de este artículo el entero del Impuesto Sobre Diversiones y Espectáculos Públicos, deberá hacerse invariablemente ante la Tesorería a más tardar el día hábil siguiente a aquél en que se haya recaudado por el inspector o interventor designado para tal efecto.
+El contribuyente podrá pagar directamente, el impuesto mediante el uso de las formas oficiales autorizados por la Tesorería Municipal ya sean impresas o electrónicas, que faciliten la auto declaración contributiva con los requisitos que señalan las leyes fiscales del Municipio quedando condicionada su validez a la veracidad de los datos asentados y sin perjuicio de las responsabilidades que se generen por la falsedad en los informes y datos que proporcione el contribuyente.
 
 ###### Artículo 198.
 
@@ -3517,9 +3647,9 @@ TASA. Este impuesto se causará y pagará, aplicando a la base gravable determin
 
 ÉPOCA Y LUGAR DE PAGO. En el caso de la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, este impuesto se deberá pagar en la Tesorería, a más tardar el día hábil siguiente a aquél en que se efectúen los eventos a que se refiere el artículo 203 de este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Respecto de los lugares donde habitualmente se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y toda clase de apuestas permitidas, el impuesto se causará mensualmente por cada establecimiento en que se celebren los juegos permitidos los primeros cinco días de cada mes, siempre y cuando no se trate de los supuestos contenidos en las fracciones III, IV y V del artículo 203 del presente ordenamiento, en cuyo caso el impuesto se pagará conforme al párrafo que antecede.
+El contribuyente podrá pagar directamente, los derechos a que se refiere este Capítulo mediante el uso de las formas oficiales autorizados por la Tesorería Municipal ya sean impresas o electrónicas, que faciliten la auto declaración contributiva con los requisitos que señalan las leyes fiscales del Municipio quedando condicionada su validez a la veracidad de los datos asentados y sin perjuicio de las responsabilidades que se generen por la falsedad en los informes y datos que proporcione el contribuyente.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3557,11 +3687,13 @@ En el caso de las fracciones III a VI del artículo 203 deberán presentar el ti
 
 NO CAUSACIÓN. Están exentos del pago de este impuesto los Partidos Políticos en los términos de la legislación electoral correspondiente, cuyo objeto sea la obtención de recursos para destinarlos a la consecución de sus fines legales. En todo caso la autoridad fiscal de corroborar que no son organizados los eventos mencionados o destinados los recursos económicos obtenidos con dicha finalidad, determinarán y cobrarán el crédito fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 211.
 
-OTROS. La Tesorería podrá nombrar personal adscrito a su responsabilidad para vigilar el cumplimiento de las obligaciones fiscales, a cargo de los sujetos del impuesto y podrá establecer una cantidad fija como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en los artículos 205, 206 y 207 de este Código o cuando no se compense el sostenimiento de su interventor.
+OTROS. La Tesorería podrá nombrar personal adscrito a su responsabilidad con el carácter de interventor, para vigilar el cumplimiento de las obligaciones fiscales a cargo de los sujetos del impuesto y para verificar la correcta liquidación y entero de este impuesto, así como el cumplimiento de las disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 La Tesorería podrá impedir la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase a que se refiere este Capítulo cuando no se pague el impuesto en términos de Ley o cuando se impida a las autoridades fiscales cumplir el desempeño de sus atribuciones legales.
 
@@ -3905,25 +4037,29 @@ Los funcionarios facultados para prestar los servicios a que se refiere este Cap
 
 Son objeto de estos derechos:
 
-I. Los servicios que se presten en Industrial de Abasto Puebla o en los lugares autorizados, relativos al sacrificio de toda clase de animales para el consumo humano, así como por el uso de los espacios e instalaciones de Industrial de Abasto Puebla para la realización de actos de control sanitario; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. El registro de fierros o marcas para el ganado así como su renovación anual por unidad.
+I. Los servicios que se presten en Industrial de Abastos Puebla o en los lugares autorizados, relativos al sacrificio de toda clase de animales autorizados para el consumo humano, así como por el uso de los espacios e instalaciones de Industrial de Abastos Puebla para la realización de actos de control sanitario; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II. El registro de fierros o marcas para el ganado, así como su renovación anual por unidad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 248.
 
-Son sujetos de este derecho, las personas físicas o morales que prestan el servicio en los lugares autorizados por la autoridad correspondiente y/o aquellas que habitual o eventualmente se dediquen a la introducción y compraventa de ganado en pie, en canal, en embutidos y similares en el Municipio, los que deberán registrar las operaciones que efectúen ante la administración de Industrial de Abasto Puebla, para cuyo caso se llevará un libro de registro, sin perjuicio del cumplimiento de los requisitos sanitarios.
+Son sujetos de estos derechos, las personas físicas o jurídicas que habitual o accidentalmente se dediquen a la introducción y compraventa de ganado en pie, en canal, en embutidos y similares en el Municipio y que requieran o utilicen cualquiera de los servicios que presta Industrial de Abastos Puebla.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Los sujetos de estos derechos deberán registrar los fierros, marcas y en general las operaciones que efectúen ante la administración de este organismo municipal para cuyo caso se llevará un libro de registro, sin perjuicio del cumplimiento de los requisitos sanitarios.
 
-También son sujetos de este derecho, las personas que registren fierros o marcas de ganado en el Padrón de Introductores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 249.
 
-Es base de este derecho, cada animal en pie considerado por cabeza, y tratándose de carnes en canal, embutidos y similares, por peso, en el caso del uso de instalaciones para control sanitario, del uso de frigoríficos, de corrales o exhibidores, se pagará por el tiempo utilizado.
+Es base de estos derechos cada animal en pie para sacrificio considerándolo por cabeza y tratándose de carnes en canal, productos y subproductos cárnicos, este derecho se pagará por peso.
 
-En el caso de registro de fierros o marcas, así como por su renovación, se cobrará por unidad.
+Tratándose del uso de instalaciones de control sanitario, frigoríficos, de corrales o exhibidores, se pagará por el tiempo utilizado y en el caso de registro de fierros o marcas, así como por su actualización, se cobrará por unidad; todo lo anterior en términos de lo que disponga anualmente la Ley de Ingresos del Municipio de Puebla.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6109,9 +6245,17 @@ V.- Los panteones;
 
 VI.- El rastro;
 
-VII.- Parques y jardines; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VIII.- Los demás que las leyes le confieran al Municipio.
+VII.- Parques y Jardines;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII.- El estacionamiento en sus diversas modalidades; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IX.- Los demás que las leyes le confieran al Municipio.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6610,3 +6754,13 @@ P.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
