@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2012-10-11"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -4175,13 +4175,13 @@ Los representantes de los partidos políticos podrán vigilar invariablemente el
 
 Los ciudadanos avecindados en el Estado podrán participar en cada proceso electoral como integrantes de las Casillas, en la forma y términos que este Código dispone, de acuerdo con las bases siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA. P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-I.- En el mes de enero del año de la elección, el Consejo General sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los nombres de los ciudadanos que, nacidos en esos meses, podrán integrar las Casillas;
+I.- Una vez iniciado el proceso electoral, el Consejo General sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los nombres de los ciudadanos que, nacidos en esos meses, podrán integrar las Casillas;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA. P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II.- Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, del primero al veinte de febrero del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a insacular del Listado Nominal integrado con los ciudadanos que obtuvieron su credencial para votar con fotografía al quince de enero del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, los Consejos Distritales deberán apoyarse en los centros de cómputo del Instituto Federal Electoral. Podrán estar presentes en la sesión de insaculación, los integrantes del Consejo General y los de la Comisión Local de Vigilancia del Registro Federal de Electores, según la programación que previamente se determine;
+II.- Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, los Consejos Distritales procederán a insacular del Listado Nominal integrado con los ciudadanos que obtuvieron su credencial para votar con fotografía al quince de enero del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, los Consejos Distritales deberán apoyarse en los centros de cómputo del Instituto Federal Electoral. Podrán estar presentes en la sesión de insaculación, los integrantes del Consejo General y los de la Comisión Local de Vigilancia del Registro Federal de Electores, según la programación que previamente se determine;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -4189,9 +4189,9 @@ III.- A los ciudadanos que resulten insaculados se les convocará para que asist
 
 IV.- Los Consejos Distritales harán una evaluación objetiva para seleccionar, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de este Código, prefiriendo a los de mayor escolaridad;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA. P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V.- En el mes de febrero del año de la elección, el Consejo General sorteará las veintinueve letras que comprende el alfabeto, a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionarán a los ciudadanos que integrarán las Casillas;
+V.- El Consejo General sorteará las veintinueve letras que comprende el alfabeto, a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionarán a los ciudadanos que integrarán las Casillas;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -6162,5 +6162,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE OCTUBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado y no aplicará para el proceso electoral iniciado en la segunda semana de noviembre del año dos mil doce.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
