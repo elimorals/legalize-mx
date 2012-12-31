@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2012-06-11"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -249,7 +249,7 @@ I.- Servicios Médicos:
 
 2. Atención de enfermedades en general y maternidad.
 
-3. Atención de riesgos de trabajo.
+3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 II.- Socioeconómicas:
 
@@ -273,9 +273,15 @@ d) Fallecimiento.
 
 e) Cesantía en Edad Avanzada.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+f) Riesgo de trabajo.
+
 2. Pago póstumo.
 
-3. Reintegro del valor de sus aportaciones al fondo de pensiones por separación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+3. Reintegro del valor de sus cuotas al fondo de pensiones por separación.
 
 4. Créditos a corto, mediano y largo plazo.
 
@@ -1335,9 +1341,11 @@ Si no existieran parientes, el Instituto se encargará del funeral.
 
 ### CAPÍTULO V. DEVOLUCIÓN DEL FONDO DE PENSIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 122.
 
-El trabajador que sin tener derecho a ser pensionado se separe definitivamente del servicio por cualquier causa, podrá solicitar la devolución de su aportación al fondo de pensiones.
+El trabajador que sin tener derecho a ser pensionado se separe definitivamente del servicio por cualquier causa, podrá solicitar la devolución, exclusivamente de las cuotas enteradas al fondo de pensiones.
 
 ###### ARTÍCULO 123.
 
@@ -1347,9 +1355,11 @@ Esta devolución será cubierta por el Instituto dentro de los primeros 30 días
 
 Solo podrán efectuarse descuentos a la cantidad correspondiente cuando el servidor público tenga algún adeudo con el Instituto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 125.
 
-En el caso de que el trabajador que hubiere retirado su aportación al fondo de pensión, en términos de los artículos anteriores y reingrese al servicio público, podrá solicitar que el tiempo durante el que laboró con anterioridad se le compute, para efectos de esta Ley, como tiempo efectivo de servicios, para lo cual deberá de reintegrar al Instituto, dentro del primer año de su reingreso, el monto recibido por este concepto mas los intereses correspondientes, cuya tasa porcentual conforme a la cual se calculen, será determinada por la Junta Directiva.
+En el caso de que el trabajador que hubiere retirado sus cuotas enteradas al fondo de pensión, en términos de los artículos anteriores y reingrese al servicio público, podrá solicitar que el tiempo durante el que laboró con anterioridad se le compute, para efectos de esta Ley, como tiempo efectivo de servicios, para lo cual deberá de reintegrar al Instituto, dentro del primer año de su reingreso, el monto recibido por este concepto más los intereses correspondientes, cuya tasa porcentual conforme a la cual se calculen, será determinada por la Junta Directiva.
 
 ### CAPÍTULO VI. DE LOS CRÉDITOS A CORTO, MEDIANO Y LARGO PLAZO
 
@@ -1383,15 +1393,19 @@ En ningún caso habrá lugar a la devolución de las aportaciones que los acredi
 
 La Junta Directiva, conforme a la disponibilidad financiera del Instituto, podrá autorizar la integración de fondos especiales, destinados al otorgamiento de créditos, a los que se aplicará, cuando menos, la tasa de interés vigente de cetes, al momento de autorizar el crédito.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 130.
 
-Para el otorgamiento de los créditos concedidos por el Instituto a los trabajadores o pensionados, se considerará que los pagos periódicos a que quede obligado el deudor no sobrepasen el 30% de su remuneración total ordinaria una vez deducidos los cargos por impuestos u otros créditos, las cuotas de seguridad social y las de carácter sindical, así como los descuentos ordenados por autoridad judicial.
+Para el otorgamiento de los créditos concedidos por el Instituto a los trabajadores o pensionados, se considerará que los pagos periódicos a que quede obligado el deudor no sobrepasen el 50% de la totalidad de las percepciones netas de los mismos, una vez deducidos los cargos por impuestos u otros créditos, las cuotas de seguridad social y las de carácter sindical, así como los descuentos ordenados por autoridad judicial; y se ajustarán a la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 131.
 
-No se tramitará un nuevo crédito a corto o mediano plazo mientras no se haya liquidado en su totalidad el concedido anteriormente.
+Los créditos a corto plazo o mediano plazo podrán reestructurarse cuando se haya cubierto, más del 50% del mismo y se encuentre al corriente de los pagos establecidos.
 
-El préstamo solo podrá renovarse cuando haya transcurrido el plazo por el cual fue concedido, se hubiesen cubierto en tiempo los pagos por dicho periodo y el deudor pague la prima de renovación que determine la Junta Directiva.
+Los trabajadores o pensionados podrán tramitar un nuevo crédito a corto o mediano plazo con independencia de que se haya liquidado en su totalidad el concedido anteriormente, en vista de los recursos que pueden afectarse y observando el grado de recuperación.
 
 ###### ARTÍCULO 132.
 
@@ -1411,17 +1425,15 @@ Los créditos a corto plazo podrán otorgarse a quienes hayan cotizado al Instit
 
 I. El monto de los préstamos para el personal activo no deberá exceder del importe de seis meses del sueldo base del solicitante;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. El monto de los préstamos para los pensionados no deberá exceder del importe de tres meses de la pensión del solicitante;
+II. El monto de los préstamos para los pensionados no deberá exceder del importe de seis meses de la pensión del solicitante.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III. El monto del préstamo lo constituirá el capital menos los intereses correspondientes y las demás deducciones que por Ley deban aplicarse; y
+III. El monto del préstamo lo constituirá el capital y los intereses calculados durante el plazo del mismo, así como las demás deducciones que por Ley deban aplicarse.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-IV. El trabajador tendrá la posibilidad de reestructurar su crédito.
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1431,9 +1443,11 @@ Los intereses y el fondo de garantía derivados de los préstamos deberán desti
 
 Los trabajadores de confianza y supernumerarios podrán obtener préstamos a corto plazo conforme a las mismas reglas establecidas para los trabajadores de base y mediante las garantías especiales que determine la Junta Directiva; y a falta de las mismas, será responsabilidad de quien autorice el préstamo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 136.
 
-Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo al Instituto, no excederán del 30% del sueldo del interesado.
+El Instituto asignará una partida especial para los préstamos por Servicios Turísticos, Servicios Funerarios, préstamos extraordinarios por desastres naturales y pago a tarjetas de crédito. Los cuales se sujetarán a las disposiciones que establece la presente Ley para los préstamos a corto plazo.
 
 ###### ARTÍCULO 137.
 
@@ -1549,11 +1563,11 @@ III. A las demás erogaciones relacionadas con su objeto.
 
 Los créditos para vivienda se sujetarán en lo conducente a las condiciones y facilidades que establece el artículo 143 y se cubrirán mediante amortizaciones mensuales o quincenales según sea el caso, que incluirán capital e intereses.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 149.
 
-El Instituto formulará tablas para determinar las cantidades que se descuenten a los trabajadores con motivo de los créditos para vivienda a que alude la presente sección, según el sueldo del trabajador, tomando como base que las amortizaciones no deban sobrepasar del 40% del sueldo o sueldos mensuales que el trabajador disfrute y por los cuales se le practiquen los descuentos para el Instituto, sin perjuicio de lo previsto en la normativa aplicable.
+El Instituto formulará tablas para determinar las cantidades que se descuenten a los trabajadores con motivo de los créditos para vivienda a que alude la presente sección, según la totalidad de las percepciones netas del trabajador, tomando como base que las amortizaciones no deban sobrepasar del 40% de las mismas que el trabajador disfrute y por los cuales se le practiquen los descuentos para el Instituto, sin perjuicio de lo previsto en la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1860,3 +1874,13 @@ P.O. 11 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
