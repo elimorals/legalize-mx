@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2012-01-10"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -121,7 +123,7 @@ Para efectos de esta Ley y demás disposiciones legales vigentes en el Municipio
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 15.
 
@@ -205,7 +207,7 @@ II. 2.5 al millar, si no están explotados por su dueño.
 
 En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a tres salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 22.
 
@@ -225,7 +227,7 @@ Se considerará lote baldío aquél que teniendo construcciones, éstas represen
 
 En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 3 salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 23.
 
@@ -635,7 +637,7 @@ Sobre el monto de los impuestos y derechos que establece esta ley, excepto impue
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 59.
 
@@ -939,7 +941,7 @@ IV. Otorgamiento de claves catastrales, por cada una 1.5 salarios mínimos
 
 V. Por búsqueda de datos para proporcionar información económica 1.5 salario mínimo.
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación, superficie y distancia en la que se ubiquen los predios:
 
@@ -1109,13 +1111,13 @@ Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo
 
 La Dependencia Municipal correspondiente podrá autorizar el registro de director responsable de obra, la fusión, subdivisión, lotificación o relotificación de predios, así como el uso del suelo para desarrollos urbanos y uso del suelo urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente:
 
-(VEASE TABLA ANEXA)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPÍTULO V. AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO, SANEAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 76.
 
@@ -1125,7 +1127,7 @@ La prestación del servicio de agua potable a que se refiere este capítulo caus
 
 #### SECCIÓN I. AGUA POTABLE
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Tarifas para el cobro del sistema de agua potable y alcantarillado de La Paz.
 
@@ -1347,7 +1349,7 @@ a) En horas inhábiles, en la oficina. 2 salarios mínimos
 
 b) Fuera de las oficinas. 15 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Registro de Adopción:
 
@@ -1869,7 +1871,7 @@ El servicio extraordinario de seguridad pública para eventos especiales causar�
 
 ### CAPÍTULO XIV. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 116.
 
@@ -2067,7 +2069,7 @@ V. Cuando los contribuyentes eventuales o ambulantes a que se refiere la fracci�
 
 a) si emplean vehículos de motor, pagarán sobre la cuota correspondiente el 50%
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPÍTULO XVIII
 
@@ -2259,7 +2261,7 @@ II. Los que se deriven de las Entidades Gubernamentales en sus funciones de dere
 
 III. El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que éste se localice en los límites de construcción del mismo, sin ser éste la vía pública.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO XX. REGULACIÓN DE ACTIVIDADES DE PROTECCIÓN AL MEDIO AMBIENTE
 
@@ -2475,11 +2477,13 @@ La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos
 
 Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 173.
 
 Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Transito, y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
-(VEASE TABLA ANEXA)
+(VÉASE ARCHIVO ANEXO)
 
 ###### Artículo 174.
 
@@ -2521,7 +2525,7 @@ Las aportaciones federales para fines específicos que a través de los diferent
 
 Son ingresos extraordinarios los que se originen de los organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de los convenios de colaboración administrativa con Entidades Federales.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE AGOSTO DE 2007)</small>
 
 ## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS ADULTAS MAYORES
 
@@ -2597,7 +2601,7 @@ IV. De un 50% de descuento en derechos por servicios de control vehicular, únic
 
 V. De un 50% de descuento por el servicio de agua potable y alcantarillado, tratamiento y saneamiento para uso doméstico, en el pago de los derechos de las solicitudes de contrato del servicio de agua potable y alcantarillado, así mismo para la solicitud de cambio de propietario, para personas con discapacidad o tutor legal que acrediten los requisitos del programa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO III. PERSONAS ADULTAS MAYORES
 
@@ -2763,7 +2767,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 31 DE DICIEMBRE DE 2002.
 
@@ -2796,3 +2800,13 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
