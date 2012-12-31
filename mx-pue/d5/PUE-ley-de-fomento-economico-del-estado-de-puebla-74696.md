@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-del-estado-de-puebla-74696"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-16"
-last_updated: "2012-03-28"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,539 +21,427 @@ state: "PUE"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE PUEBLA
 
-LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
+REGLAMENTO PARA LA ORGANIZACIÓN DE LOS PROCEDIMIENTOS DE REFERÉNDUM Y PLEBISCITO, A QUE SE REFIERE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+TEXTO ORIGINAL.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de abril de 2010.
+Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 16 de mayo de 2012.
 
-DECRETO del Honorable Congreso del Estado, que expide la LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA.
+INSTITUTO ELECTORAL DE MICHOACÁN
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
-
-LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
-
-Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
-
-EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+REGLAMENTO PARA LA ORGANIZACIÓN DE LOS PROCEDIMIENTOS DE REFERÉNDUM Y PLEBISCITO, A QUE SE REFIERE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MICHOACÁN DE OCAMPO.
 
 CONSIDERANDO.
 
-Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracciones I y II y 140 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XIV, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y XIV y 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
+Por lo expuesto y con fundamento en lo dispuesto en los artículos 8°, 44, fracción XXXV, 60, fracción XXI y 123, fracción XXIII de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, 14 y Segundo Transitorio de la Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo y 113, fracciones I y XXXIX del Código Electoral del Estado, se somete a consideración del Consejo General el siguiente proyecto de
 
-LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
+REGLAMENTO PARA LA ORGANIZACIÓN DE LOS PROCEDIMIENTOS DE REFERÉNDUM Y PLEBISCITO, A QUE SE REFIERE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO I
 
-### CAPÍTULO ÚNICO. DEL OBJETO Y DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, de interés social y de observancia general en todo el Estado de Puebla, y tiene como objeto:
-
-I.- Propiciar el desarrollo económico de la Entidad, a través de impulsar su crecimiento equilibrado y sobre las bases de un desarrollo sustentable, en congruencia con lo establecido en el Plan Estatal de Desarrollo vigente;
-
-II.- Promover la inversión productiva, el crecimiento de la industria, de la micro, pequeña y mediana empresa, la actividad artesanal, la turística la minería, el comercio, los servicios y las actividades económicas regionales, mediante el fomento económico a través del otorgamiento de apoyos específicos para su instalación, crecimiento, desarrollo y modernización;
-
-III.- Propiciar la participación conjunta para la integración y fortalecimiento de los sectores público, privado, académico y social en el desarrollo económico, así como el crecimiento de las ya existentes;
-
-IV.- Generar una cultura de aprovechamiento integral de los recursos y ventajas económicas con las que cuenta la Entidad;
-
-V.- Apoyar con base en los recursos disponibles, a los sectores productivos, a fin de alcanzar mayores niveles de productividad y competitividad, por medio del desarrollo tecnológico, vinculándolos para tal efecto, a los centros de producción tecnológica;
-
-VI.- Fortalecer y en su caso, incrementar la infraestructura industrial, comercial y de servicios, existente en el Estado;
-
-VII.- Difundir y fortalecer los sectores económicos estratégicos, a nivel nacional e internacional con el fin de detonar su competitividad a través de agrupamientos de cadenas productivas;
-
-VIII.- Crear las condiciones para lograr una mejora regulatoria;
-
-IX.- Promover y procurar condiciones económicas de atracción y desarrollo para las actividades empresariales en la Entidad;
-
-X.- Impulsar una política económica competitiva, que genere inversiones nacionales y extranjeras en el Estado, a través de programas de promoción y difusión económica de la Entidad; y
-
-XI.- Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+El presente Reglamento es de orden público e interés general, y tiene por objeto regular las disposiciones relativas a la organización y desarrollo de los procedimientos de referéndum y plebiscito, establecidas en la Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 2.
 
-El cumplimiento del presente ordenamiento parte del reconocimiento de que los agentes económicos establecidos y por establecerse en el Estado, tienen igualdad de derechos en materia de fomento económico.
+Para efectos del presente Reglamento se entenderá por:
+
+l. Código: El Código Electoral del Estado de Michoacán;
+
+II. Comisión: la Comisión de los Procedimientos de Participación Ciudadana del Instituto Electoral de Michoacán;
+
+III. Consejo General: El Consejo General del Instituto Electoral de Michoacán;
+
+IV. Constitución: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+
+V. Instituto: El Instituto Electoral de Michoacán;
+
+VI. Junta: La Junta Estatal Ejecutiva del Instituto Electoral de Michoacán;
+
+VII. Lista Nominal: Lista nominal de electores de la última elección ordinaria local, para efectos de la validación a que se refieren los artículos 33 y 42 de la Ley;
+
+VIII. Ley: Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo;
+
+IX. Mesas: Las Mesas Directivas de Consulta integradas por ciudadanos designados por sorteo y debidamente capacitados para recibir la votación y realizar el escrutinio y cómputo;
+
+X Órganos Ejecutivos: los órganos ejecutivos desconcentrados del Instituto Electoral de Michoacán;
+
+XI. Presidente: El Presidente del Instituto Electoral de Michoacán;
+
+XII. Procedimientos de consulta: Los procedimientos de Referéndum y Plebiscito que organiza el Instituto Electoral de Michoacán;
+
+XIII. Registro: El Registro Federal de Electores;
+
+XIV Reglamento: El Reglamento para la Organización de los Procedimientos de Referéndum y Plebiscito, a que se refiere la Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo; y,
+
+XV. Secretario General: El Secretario General del Instituto Electoral de Michoacán.
 
 ###### ARTÍCULO 3.
 
-La aplicación de la presente Ley en la esfera administrativa corresponde, dentro de su ámbito de competencia:
-
-I.- Al Gobernador del Estado de Puebla y a la Secretaría; sin perjuicio de las atribuciones que en la materia otorguen otros ordenamientos a las demás Dependencias y Entidades en el ámbito Estatal; y
-
-II.- A los Ayuntamientos, en el ámbito Municipal.
-
-Para lo no previsto en el presente ordenamiento se aplicarán de manera supletoria las disposiciones del Código Civil y del Código de Procedimientos Civiles del Estado de Puebla.
+La interpretación de las disposiciones de este Reglamento se hará conforme a los criterios gramatical, sistemático y funcional o, en su caso, se aplicarán los principios generales de derecho.
 
 ###### ARTÍCULO 4.
 
-Las autoridades a que se refiere el artículo anterior, deberán realizar en el ámbito de su competencia lo siguiente:
-
-I.- Elegir las zonas que requieran apoyos prioritarios y diseñar e impulsar las actividades económicas necesarias para su integración y desarrollo equilibrado, de acuerdo a las políticas de fomento y descentralización del Gobierno del Estado;
-
-II.- Realizar actividades de promoción que estimulen un adecuado y productivo desarrollo económico del Estado;
-
-III.-Ejecutar las políticas de fomento necesarias para estimular la inversión privada;
-
-IV.- Coordinarse con las autoridades competentes para promover la creación de empleos, con el fin de mejorar la competitividad y beneficiar el aparato productivo;
-
-V.- Participar en la elaboración de propuestas legislativas y normatividad administrativa en materia de fomento económico, y agilización de trámites que contribuyan a la solución de problemas relacionados con la organización del aparato económico, la producción, la competitividad, el mercado y el empleo;
-
-VI.- Implementar los instrumentos de promoción y desarrollo económico;
-
-VII.- Proponer programas de mejora regulatoria, que faciliten el funcionamiento de las actividades tendientes al desarrollo económico del Estado;
-
-VIII.- Impulsar las actividades de investigación, desarrollo y aplicación de técnicas que repercutan en el fomento y modernización del aparato económico estatal;
-
-IX.- Diseñar y aplicar esquemas y estrategias de asociación, producción y financiamiento, a nivel municipal y estatal en coordinación con la federación, que permitan el establecimiento y fortalecimiento de las empresas;
-
-X.- Realizar concertaciones entre el Estado o los Ayuntamientos con los inversionistas, que resulten pertinentes, para cumplir con los objetivos y finalidades de esta Ley;
-
-XI.- Promover y fomentar la vinculación de los sectores productivo y educativo a través de la realización de cursos, seminarios y diplomados, y demás eventos afines, relativos a la capacitación laboral y tecnológica, así como el desarrollo económico de la Entidad; y
-
-XII.- Ejercer las facultades que les confiere la presente Ley en el cumplimiento de su objeto, y las demás que se relacionen y les otorguen otras disposiciones jurídicas.
+Conforme a lo dispuesto en la Ley, en los asuntos no previstos en el presente Reglamento será aplicable supletoriamente el Código y los acuerdos emitidos por el Consejo General.
 
 ###### ARTÍCULO 5.
 
-Para los efectos de esta Ley, se entenderá por:
+A partir de la declaratoria de procedencia de un Referéndum o Plebiscito y hasta la conclusión del procedimiento, todos los días serán hábiles.
 
-I.- Fomento Económico.- La actividad administrativa que se dirige a satisfacer indirectamente ciertas necesidades consideradas de carácter público, protegiendo o promoviendo y sin emplear coacción, las actividades de los particulares o de otros entes públicos que directamente las satisfacen, atrayendo, desarrollando y reteniendo las inversiones a través de incentivos, con el objetivo de facilitar el establecimiento de nuevas empresas y fortalecer las ya instaladas;
+## TÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS EN LOS PROCEDIMIENTOS DE CONSULTA
 
-II.- Áreas de Desarrollo Económico.- Los espacios territoriales, comprendidos en zonas y unidades de fomento industrial, zonas y reservas mineras, unidades comerciales y artesanales;
-
-III.- Unidad de Fomento Industrial.- Los conjuntos, parques, corredores y ciudades industriales, de acuerdo con las características que se determinan para cada tipo, debiendo ajustarse a los procedimientos de establecimiento y consolidación que esta Ley señala;
-
-IV.- Corredor Industrial.- Demarcación territorial con una superficie mayor a doscientas cincuenta hectáreas, ubicada al margen de una vía carretera, entre dos centros urbanos importantes, determinada en forma lineal para el aprovechamiento de la infraestructura y recursos naturales y artificiales de cierta región, haciendo uso de los servicios que en el lugar tenga establecidos el Estado;
-
-V.- Ciudades Industriales.- Núcleos urbanos integrados a una unidad de superficie claramente deslindada para el establecimiento de instalaciones industriales, que contemplen la infraestructura e inversiones que implica un conjunto urbano, debiendo contar con las siguientes demarcaciones:
-
-a) Zonas habitacionales y deportivas;
-
-b) Zonas financieras, Comerciales, de servicios y recreativas;
-
-c) Centro cívico y mercado;
-
-d) Planteles educativos y de capacitación obrera;
-
-e) Oficinas públicas y privadas;
-
-f) Centros de salubridad y asistencia pública;
-
-g) Lugares de abastecimiento de combustible;
-
-h) Central de autobuses y terminal de carga y descarga; e
-
-i) Parques, jardines y reservas ecológicas.
-
-VI.- Beneficiario.- Es toda persona física o jurídica, que reciba uno o varios incentivos; y
-
-VII.- Secretaría.- La Secretaría de Desarrollo Económico del Estado.
-
-## TÍTULO SEGUNDO. DESARROLLO Y FOMENTO INDUSTRIAL
-
-### CAPÍTULO I. DEL FOMENTO A LA INVERSIÓN Y EL DESARROLLO EMPRESARIAL
+### CAPÍTULO I. DE SU INTEGRACIÓN
 
 ###### ARTÍCULO 6.
 
-El Gobernador del Estado de Puebla, a través de la Secretaría, y en su caso el Ayuntamiento, procurará las acciones necesarias para generar un entorno que facilite el establecimiento de nuevas empresas y/o promueva el desarrollo de las ya instaladas, debiendo:
+El Presidente realizará las gestiones pertinentes para la suscripción del Convenio General y los específicos que sean necesarios para el cumplimiento de las disposiciones en materia de participación ciudadana, con el Instituto Federal Electoral y otras autoridades e instituciones.
 
-I.- Promover la determinación, creación, construcción, conservación, mejoramiento, ampliación y protección de Áreas de Desarrollo Económico, que tengan las condiciones adecuadas, para atraer la inversión productiva y estimular el desarrollo de las actividades económicas a que se refiere esta Ley;
-
-II.- Gestionar de manera conjunta con la Federación y los Municipios, los apoyos necesarios para el desarrollo de una infraestructura productiva moderna y eficiente; así como, promover el mejoramiento de la cobertura y capacidad de los servicios públicos, al igual que el uso racional de insumos en los sistemas de producción y el incremento del número y calidad de los sistemas viales y carreteros del Estado;
-
-III.- Establecer y operar el Sistema de Información Económica del Estado de Puebla;
-
-IV.- Otorgar incentivos que apoyen la atracción de inversión directa e indirecta, así como el fortalecimiento de la ya instalada, con el objeto de fomentar el desarrollo económico del Estado;
-
-V.- Desarrollar las bases técnicas, económicas y de asesoría, que originen seguridad al inversionista, proporcionando los servicios de apoyo que sean necesarios y resulten procedentes;
-
-VI.- Procurar la ampliación y mejoramiento de la cobertura educativa local, en materia de formación y capacitación, técnica y especializada para el trabajo, a través de sus instancias correspondientes, coordinándose para tal efecto con las autoridades del Trabajo y Educación Pública, Federales y Estatales;
-
-VII.- Promover y celebrar convenios para la integración de cadenas productivas e incubadoras de negocios; así como para la promoción y distribución de productos locales, precios y abasto;
-
-VIII.- Fomentar una mayor vinculación entre los sectores empresarial y educativo;
-
-IX.- Diseñar y aplicar esquemas de integración, coinversión y agrupamiento económico;
-
-X.- Impulsar la mejora regulatoria, en cuanto incidan con la instalación, funcionamiento y desarrollo empresarial;
-
-XI.- Elaborar y ejecutar campañas de difusión y promoción de los diferentes programas de fomento económico y financiero;
-
-XII. Propiciar la creación de empleos directos e indirectos, dando preferencia a los habitantes de la zona, en que se esté impulsando el desarrollo económico respectivo;
-
-XIII.- Promover la asociación entre los inversionistas y los propietarios de los inmuebles en los que se pretendan establecer las empresas, para incorporar a éstos al desarrollo de los proyectos, en términos de lo dispuesto por la legislación aplicable;
-
-XIV.- Crear un Consejo que coadyuvará en el desarrollo económico del Estado conforme al objeto de esta Ley;
-
-XV.- Coordinar actividades con el Gobierno Federal y los Ayuntamientos, para promover la inversión, la generación de empleos y coadyuvar en la protección del proceso de competencia económica y libre concurrencia;
-
-XVI.- Promover la obtención y asignación de recursos federales, estatales o internacionales, que beneficien el desarrollo económico de la Entidad conforme al objeto de esta Ley; y
-
-XVII.- Las demás que sean necesarias para el cumplimiento de sus atribuciones.
+De manera específica se promoverá la firma de convenios de colaboración con instituciones académicas y científicas para los efectos previstos en el artículo 31 de la Ley.
 
 ###### ARTÍCULO 7.
 
-Las empresas localizadas en zonas urbanas y suburbanas que sean declaradas por autoridad competente, como fuentes de contaminación no permisible, gestionarán con apoyo de la Secretaría, su adecuado traslado a las áreas industriales autorizadas para tal efecto.
+Para los efectos previstos en el artículo 15 de la Ley, el Consejo General considerará en el presupuesto general de cada año, el importe calculado para la celebración de tres procedimientos de consulta en todo el Estado. En año electoral no se considerará este rubro en el presupuesto.
 
-Las empresas que se encuentren en el supuesto inicial, serán susceptibles de recibir los incentivos contemplados en esta Ley, sin que ello les permita sobrepasar el término fijado para su traslado, ni las exima de las multas y sanciones que les hayan sido fijadas por este motivo.
+La asignación del recurso necesario para cada procedimiento de consulta se solicitará y entregará una vez admitida la solicitud o dictado el acuerdo de reserva a que se refiere este Reglamento, conforme al Calendario que se apruebe por el Consejo General.
 
 ###### ARTÍCULO 8.
 
-Para mejorar la competitividad económica, el Gobierno Estatal y los Ayuntamientos en su caso, conforme a sus atribuciones y con fundamento en los ordenamientos legales aplicables al caso concreto, deben promover, realizar o permitir la instrumentación, con la participación del sector privado, de proyectos que por su impacto sean de interés público y permitan la continua modernización del aparato económico, que tengan como objetivos aumentar los niveles de productividad y calidad, fomentar la creación de empleos, facilitar la integración de actividades y mercados, y fortalecer los procesos de incorporación tecnológica y capacitación del capital humano, o bien apoyar y propiciar la regulación de los establecimientos económicos, con el objeto de orientar de manera eficiente el desarrollo de una región, sector, rama o actividad económica específica, mejorando sistemáticamente la eficiencia general de la economía estatal.
+El Consejo General podrá suspenderse (sic) temporal o definitivamente una consulta si durante el transcurso de su preparación, la difusión de la convocatoria o durante la celebración de la jornada de consulta se genere desorden público o se observe un ambiente de intimidación a los votantes.
 
-### CAPÍTULO II. DEL OTORGAMIENTO DE INCENTIVOS
+El procedimiento se reanudará por acuerdo del Consejo General cuando hayan cesado las causas de la suspensión, pudiéndose solicitar para ello el apoyo de las autoridades de seguridad, de acuerdo a lo establecido en el artículo 113, fracción XXVIII del Código.
+
+### CAPÍTULO II. DE SUS ATRIBUCIONES
 
 ###### ARTÍCULO 9.
 
-Para los efectos de la presente Ley, se consideran como incentivos a la inversión, los siguientes:
-
-I.- La asesoría y asistencia técnica necesaria para la instalación y funcionamiento de las empresas;
-
-II.- La reducción en el pago de contribuciones estatales, de manera gradual y por un tiempo determinado, pudiéndose cambiar el plazo, previo dictamen que al efecto se emita, en términos de la legislación aplicable, valorando las condiciones con que se otorgó, en relación con la información que al efecto emita el Sistema de Información Económica del Estado de Puebla;
-
-III.- La gestión de becas o apoyos económicos para capacitación y adiestramiento al capital humano que esté orientado a la productividad y competitividad de las empresas;
-
-IV.- El otorgamiento de recursos o el apoyo para obras de infraestructura que propicien el asentamiento, instalación o expansión de las empresas, u otorgamiento de recursos que pueden ser económicos o en especie para su ejecución;
-
-V.- El mejoramiento de los servicios públicos que sean necesarios para el proyecto;
-
-VI.- El otorgamiento de inmuebles con vocación industrial o acorde al giro del proyecto a través de las figuras de la donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sea necesaria, condicionada a ejecutar el proyecto de inversión que para el caso se apruebe.
-
-En el caso del párrafo anterior, el beneficiario no podrá trasmitir ni el dominio ni la posesión del bien inmueble, bajo cualquier título, hasta en tanto en cuanto no cumpla con lo pactado en el convenio y con el total de las obligaciones comprometidas en los documentos correspondientes, excepto cuando obtenga autorización de la propia Secretaría o en su caso del Ayuntamiento;
-
-VII.- El apoyo en numerario en forma directa para la adquisición de bienes inmuebles, necesarios para el desarrollo del proyecto de inversión, previo avalúo realizado por instituciones o peritos autorizados por la Secretaría o en su caso el Ayuntamiento. Dicho apoyo se dará a través de un convenio, en donde se establezcan el cumplimiento de las obligaciones que motivaron el otorgamiento del incentivo;
-
-VIII.- Las aportaciones económicas, para contratar en arrendamiento bienes inmuebles propiedad de particulares, por un periodo de hasta diez años, previo avalúo realizado por instituciones o peritos especializados, autorizados por la Secretaría o en su caso el Ayuntamiento;
-
-IX.- El apoyo para vincular a las micro, pequeñas y medianas empresas o personas dedicadas a la actividad artesanal con esquemas de financiamiento que otorguen las instituciones crediticias;
-
-X.- Los apoyos para el establecimiento de vínculos con nuevos mercados potenciales de acuerdo al sector industrial del que se trate; y
-
-XI.- Todos aquellos apoyos y aportaciones que fomenten el desarrollo económico, que apruebe y otorgue la Secretaría o en su caso los Ayuntamientos, previo cumplimiento de los requisitos que establece esta Ley.
+Los ciudadanos michoacanos que se encuentren inscritos en el listado nominal a la fecha de la consulta, tendrán derecho a participar en los procedimientos de Referéndum y Plebiscito, conforme a lo establecido en la Ley y en el presente Reglamento.
 
 ###### ARTÍCULO 10.
 
-Las erogaciones por concepto de incentivos a la inversión antes mencionados, se determinarán en forma anual de conformidad con la Ley de Egresos para el Ejercicio Fiscal que corresponda, pudiéndose de conformidad con la disponibilidad presupuestal, establecer dichos incentivos por actividad, región o sector económico que determine la Secretaría o en su caso el Ayuntamiento, quedando sujeto su otorgamiento a la disponibilidad presupuestal.
+En los procedimientos de consulta, los ciudadanos michoacanos tendrán las siguientes obligaciones:
+
+l. Votar de manera universal, libre, secreta y directamente; y,
+
+II. Participar como integrante de las mesas directivas de consulta y desempeñar las funciones correspondientes.
 
 ###### ARTÍCULO 11.
 
-Sin perjuicio de lo dispuesto en las leyes fiscales aplicables del Estado, los Municipios podrán otorgar incentivos a la inversión nacional y extranjera, para la instalación o asentamiento de nuevas empresas o la expansión de las ya existentes que generen nuevos empleos en su territorio. Estos incentivos consistirán en aquellos beneficios fiscales y de cualquier otra índole, que corresponda de acuerdo a su ámbito de competencia y de la normatividad que al efecto se expida.
+Seguido el procedimiento que, en lo conducente, prevé el artículo 7 del Código, podrán acreditarse ante la Comisión como observadores de los procesos de consulta, los ciudadanos que reúnan los requisitos que establece el artículo 8 del mismo.
+
+El plazo para solicitar la acreditación correspondiente iniciará diez días después de emitida la convocatoria y concluirá diez días antes de la Jornada de Consulta. La Comisión resolverá a más tardar cinco días antes de la Jornada de Consulta.
+
+Los observadores de la consulta tendrán los derechos y obligaciones que establecen los artículos 8 y 10 del Ordenamiento legal citado.
 
 ###### ARTÍCULO 12.
 
-Los incentivos a la inversión, que deriven de la presente Ley, no serán aplicables a aquellas empresas, que mediante un acto de simulación, presenten una inversión que ya fue apoyada por el Gobierno del Estado, como una nueva, para gozar de dichos beneficios.
+Para el trámite de las solicitudes de Referéndum y Plebiscito, se formará una Comisión de Procedimientos de Consulta Ciudadana, que funcionará de manera permanente, misma que estará integrada por:
+
+I. Presidente del Instituto Electoral de Michoacán, quien la presidirá;
+
+II. Dos consejeros electorales, designados por el Consejo General;
+
+III. El Secretario General, quien fungirá como Secretario Técnico de la misma; y,
+
+IV. Los Vocales de la Junta Estatal Ejecutiva.
 
 ###### ARTÍCULO 13.
 
-Para el otorgamiento de los incentivos, se deberán utilizar los criterios de rentabilidad social y desarrollo sustentable para cualquier tipo de empresa o inversionista, pudiéndose tomar en consideración entre otros los siguientes aspectos:
+A partir de la presentación de una solicitud de consulta, la Comisión sesionará de manera ordinaria cuando menos una vez al mes y extraordinaria cuando sea necesario para el debido cumplimiento de sus funciones.
 
-I.- El número de empleos directos a generar, tiempo de creación y duración de los nuevos empleos;
+A las sesiones de la Comisión se deberá invitar invariablemente a los Partidos Políticos debidamente acreditados ante el Consejo General.
 
-II.- El nivel de remuneración promedio de los nuevos empleos;
+Las sesiones se convocarán al menos con veinticuatro horas de anticipación; podrá convocarse a sesión con menor tiempo, de manera excepcional, si el asunto a tratar amerita atención urgente.
 
-III.- La correspondencia con los sectores y proyectos estratégicos de inversión para el desarrollo económico del Estado;
-
-IV.- El monto de la inversión directa e indirecta;
-
-V.- El compromiso de permanencia en la Entidad;
-
-VI.- La contribución de la inversión a la innovación, desarrollo tecnológico y científico;
-
-VII.- Fomento de las alianzas estratégicas con inversionistas regionales;
-
-VIII.- Integración de cadenas productivas nacionales y regionales;
-
-IX.- La sustitución de importaciones, mediante el control de insumos, componentes, servicios o productos de origen local o en su defecto regional o nacional;
-
-X.- El volumen de exportaciones;
-
-XI.- El consumo, cuidado y tratamiento del agua;
-
-XII.- La creación de empleos para personas con discapacidad o en edad adulta mayor;
-
-XIII.- La creación de accesibilidad en sus instalaciones, para personas con discapacidad;
-
-XIV.- La utilización de tecnologías en sus procesos productivos, que permitan la protección y el mejoramiento del medio ambiente;
-
-XV.- La asociatividad y colaboración de las empresas, así como centros de investigación e innovación tecnológica, particularmente en los sectores definidos como estratégicos, con el objetivo de consolidar el desarrollo de la economía del conocimiento;
-
-XVI.- La atracción e instalación de nuevas inversiones en zonas consideradas de alta marginación;
-
-XVII.- La descentralización geográfica de la inversión en el Estado;
-
-XVIII.- Los apoyos que hayan sido otorgados a la comunidad por parte de la empresa como son: la entrega de despensas, apoyos a familias pobres, apoyos a escuelas, apoyos en fiestas o ferias regionales o de la localidad y en caso de desastres naturales, se tomará en cuenta su contribución para efectos de un reconocimiento público, incorporándose al expediente de la empresa, para efectos de futuros incentivos; y
-
-XIX.- Los demás que en los términos de esta Ley y su reglamento se consideren relevantes según el caso de que se trate, sin omitir la referencia y consideración de las anteriores.
+A la convocatoria se acompañará en medio magnético el orden del día propuesto y la información sobre la temática a desarrollarse.
 
 ###### ARTÍCULO 14.
 
-Para obtener algún incentivo a la inversión, las empresas o inversionistas que lo pidan, deberán presentar ante la Secretaría o en su caso el Ayuntamiento de que se trate, según sea el tipo de apoyo requerido, su respectiva solicitud, indicando debidamente los elementos señalados en el artículo anterior y presentándolo en escrito libre, debiendo tener como mínimo los siguientes requisitos:
-
-a) Nombre, denominación o razón social, nacionalidad y domicilio fiscal;
-
-b) Antecedentes de la empresa o inversionista, respecto del lugar y fecha en que fue constituida, número de empleados con los que cuenta, es decir, todos aquellos datos sobre la trayectoria de la empresa o el inversionista;
-
-c) Apoyo o apoyos solicitados, requisitos cumplidos, motivación y fundamentación legal; y
-
-d) Nombre y alcance del proyecto, objetivo general, objetivo específico si lo hubiere y las metas del mismo.
-
-El otorgamiento de nuevos incentivos por actividad, región, sector o en forma global, así como la manera de otorgarse, serán determinados, en base al cumplimiento de los compromisos pactados con anterioridad, llevando la Secretaría para ello, un registro de las empresas que cumplen o incumplen con las obligaciones contraídas.
+Las decisiones se tomarán por mayoría de votos del Presidente y consejeros presentes.
 
 ###### ARTÍCULO 15.
 
-Para efectos del artículo anterior, se deberá anexar al escrito de solicitud, además de los documentos necesarios que permitan valorar los aspectos a que hace mención el artículo 13 de esta Ley, lo siguiente:
-
-a) Documento constitutivo y sus modificaciones;
-
-b) Documento con el cual se acredite la representación legal del promovente;
-
-c) En caso de presentar documentos que provengan de un país extranjero, deberán estar apostillados;
-
-d) Cédula de Identificación Fiscal;
-
-e) Identificación oficial;
-
-f) Comprobante domiciliario, máximo de cuatro meses de antigüedad; y
-
-g) La Constancia Municipal de uso de suelo.
-
-Los incisos a) y b), deberán estar acompañados de sus inscripciones en el Registro Público de la Propiedad y del Comercio, o en su caso, su similar.
-
-Todos los documentos que se anexen en términos de este artículo, deberán ser presentados en copias certificadas.
-
-Cuando la solicitud incumpla con alguno de los requisitos a que se refiere este artículo, la Secretaría o en su caso el Ayuntamiento, requerirá al solicitante para que en un plazo de cinco días hábiles cumpla con el o los requisitos omitidos. En caso de no subsanarse la omisión, la solicitud se tendrá por no presentada.
+La Comisión, para el ejercicio de sus funciones, se auxiliará del personal que para cada procedimiento de consulta se designe por la Junta.
 
 ###### ARTÍCULO 16.
 
-Las empresas o inversionistas que por el momento, no cuenten con un establecimiento o local dentro del territorio del Estado, podrán recibir los incentivos a la inversión a que se refiere esta Ley, previa valoración de los factores señalados en el artículo 14, siempre que se comprometan a realizar en el Estado, inversiones altamente productivas que requieran capital humano intensivo.
+La Comisión, podrá invitar a sus sesiones a los especialistas que considere necesario, de acuerdo a los asuntos a atender en sesión.
 
 ###### ARTÍCULO 17.
 
-La Secretaría, o en su caso los Ayuntamientos, determinarán sobre la solicitud, pudiendo negar, conceder total o parcialmente los incentivos solicitados.
+Serán aplicables, en lo que no se opongan al presente Reglamento, las disposiciones previstas en el Reglamento para el Funcionamiento de las Comisiones Permanentes, de la Comisión de Contraloría y de la Comisión de Acceso a la Información Pública del Instituto Electoral de Michoacán.
 
 ###### ARTÍCULO 18.
 
-La Secretaría o en su caso los Ayuntamientos serán responsables de dar seguimiento a las solicitudes de incentivos, asegurándose que toda solicitud reciba una respuesta oportuna. Se dará respuesta al inversionista en un período no mayor a treinta días hábiles, una vez que el inversionista haya entregado toda la información que le fue requerida para tramitar su solicitud por parte de la Secretaría o el Ayuntamiento.
+Son atribuciones de la Comisión las siguientes:
+
+l. Promover la participación de la ciudadanía michoacana en los procedimientos de Referéndum, Plebiscito e Iniciativa Popular;
+
+II. Dar trámite y vigilar que los procedimientos de consulta se efectúen conforme a la Ley y al presente Reglamento;
+
+III. Admitir o, en su caso, desechar las solicitudes de Referéndum y de Plebiscito;
+
+IV Emitir los acuerdos de reserva en los términos establecidos en el presente Reglamento;
+
+V. Acordar la acumulación de solicitudes de consulta, de acuerdo con lo previsto en este Reglamento;
+
+VI. Solicitar la opinión de especialistas para la valoración de la trascendencia del acto o resolución que pretende llevarse a consulta;
+
+VII. Proponer al Consejo General el proyecto de Acuerdo por el que se valora la trascendencia de un acto o resolución, y en su caso, la declaratoria de procedencia o improcedencia de las solicitudes de consulta;
+
+VIII. Resolver sobre la necesidad de colaboración y, en su caso, determinar la o las instituciones a las que se solicitará el apoyo para la elaboración del instrumento o pregunta para la consulta;
+
+IX. Proponer al Consejo General el instrumento o pregunta que habrá de llevarse a la consulta;
+
+X Aprobar los materiales para la consulta, a propuesta de la Vocalía de Organización Electoral;
+
+XI. Proponer al Consejo General la Convocatoria para la consulta;
+
+XII. Aprobar el procedimiento para la selección de los capacitadores-asistentes de los órganos ejecutivos desconcentrados;
+
+XIII. Nombrar, a propuesta de los órganos ejecutivos desconcentrados, a los capacitadores-asistentes;
+
+XIV. Aprobar los programas de capacitación para la Consulta, a propuesta de la Vocalía de Capacitación Electoral y de Educación Cívica;
+
+XV. Aprobar los programas de trabajo para los capacitadores-asistentes, a propuesta de las Vocalías de Capacitación y de Organización;
+
+XVI. Aprobar, a propuesta de los órganos ejecutivos desconcentrados, el número y ubicación de las mesas directivas de consulta;
+
+XVII. Aprobar, a propuesta de los órganos ejecutivos desconcentrados, la integración de las Mesas Directivas de Consulta;
+
+XVIII. Proponer al Consejo General, el proyecto de resolución del Referéndum o Plebiscito, a que se refiere el artículo 57 de la Ley;
+
+XIX. Emitir los acuerdos que sean necesarios para el desarrollo del procedimiento correspondiente;
+
+XX. Informar periódicamente al Consejo General sobre sus actividades, por lo menos cada quince días; y,
+
+XXI. Las demás que le establezca este Reglamento, el Consejo General y otras disposiciones legales.
 
 ###### ARTÍCULO 19.
 
-Las solicitudes que concedan total o parcialmente los incentivos solicitados, se deberán formalizar a través de un convenio que suscriban la Secretaría o en su caso el Ayuntamiento, con el beneficiario.
+La solicitud para la organización de referéndum ó plebiscito, deberá presentarse en horarios y días hábiles en la Oficialía de Partes del Instituto Electoral de Michoacán que sin demora la turnará al Presidente para su registro y trámite.
+
+Recibida una solicitud de plebiscito o referéndum, el Presidente convocará de inmediato a la Comisión, para dar cuenta de la solicitud respectiva; avisando también de la misma forma a los Partidos Políticos, a través de sus representantes.
+
+La Comisión, por conducto del Secretario Técnico, radicará la solicitud correspondiente, procederá a su registro asignándole un número consecutivo, el cual indicará el orden en que ha sido presentada y la fecha de recepción.
+
+Cuando se presenten dos o más solicitudes de referéndum o plebiscito, se tramitarán en orden de prelación. Excepcionalmente se dará preferencia a aquella que resulte de mayor trascendencia para el orden público o el interés social.
 
 ###### ARTÍCULO 20.
 
-La Secretaría y en su caso el Ayuntamiento competente, quedan facultados para revisar y evaluar la correcta aplicación de los incentivos otorgados.
+Radicada la solicitud, la Comisión, con apoyo del Secretario Técnico, procederá a verificar el cumplimiento de los requisitos de procedencia establecidos en la Ley, para el efecto de que en el plazo no mayor de cinco días hábiles siguientes determine sobre su admisión o improcedencia.
+
+Cuando la solicitud respectiva fuera imprecisa o tuviese omisiones, la Comisión, dentro del plazo señalado en el párrafo anterior, por conducto del Secretario Técnico, podrá requerir al o los solicitantes para que en un término de cuarenta y ocho horas, subsanen las omisiones o defectos que se desprendan de su solicitud y de los documentos que anexan o aclaren la misma, bajo el apercibimiento que de no hacerlo se procederá al desechamiento de plano.
 
 ###### ARTÍCULO 21.
 
-Si de la revisión y evaluación aludidas en el artículo anterior, resulta que la empresa o el inversionista beneficiado ha dejado de cumplir los requisitos o condiciones, bajo los cuales se le concedió algún incentivo o se apartó injustificadamente de los términos en que éste le fue concedido, previa determinación de la autoridad competente, los incentivos le serán retirados, haciéndosele exigible además, las contribuciones que por concepto de incentivos haya dejado de cubrir, desde el momento en que la empresa o el inversionista hubiese dejado de observar las condiciones para el otorgamiento del beneficio de referencia. Lo anterior de conformidad con el Título Séptimo de esta Ley.
+En tratándose de solicitudes del Gobernador, del Congreso del Estado y de los ayuntamientos sobre los temas de su competencia, una vez revisado que se hayan presentado en tiempo y que el contenido de la solicitud y los documentos que se acompañan reúnan los requisitos establecidos en la Ley, la Comisión, en el término establecido por la misma, emitirá el acuerdo de admisión correspondiente y ordenará las notificaciones respectivas.
 
-En el caso de los inmuebles que hayan sido adquiridos de conformidad con la fracción VI, del artículo 9 de esta Ley, en el convenio respectivo se establecerán los compromisos a los cuales estará sujeto el obligado.
+Para los efectos del párrafo anterior, se entenderán presentadas en tiempo las solicitudes de plebiscito que se presenten dentro de los treinta días hábiles posteriores al acto o decisión de gobierno de que se trate.
+
+En el caso de los Ayuntamientos, la solicitud deberá de ser aprobada por las dos terceras partes de los miembros del Cabildo de que se trate.
+
+En el caso de las solicitudes presentadas por ciudadanos, además de la revisión del cumplimiento de los requisitos previstos en los artículos 28 y 37 de Ley, de inmediato, se procederá a:
+
+l. Solicitar al Registro Federal de Electores, informe si los solicitantes están inscritos en la lista nominal correspondiente al Estado o municipio en donde, en su caso, se efectuará el procedimiento de consulta;
+
+II. De una muestra aleatoria dependiendo del número de solicitantes requeridos por la Ley, revisar, mediante verificación que se solicite al Registro Federal de Electores, si las firmas o huellas dactilares de los ciudadanos solicitantes corresponden con las contenidas en el sistema;
+
+III. De una muestra distinta de la anterior, que se acordará dependiendo del número de solicitantes, hacer una comparación entre las firmas de la solicitud y las de las copias de las credenciales de elector que se hayan adjuntado;
+
+IV. En el caso de que de la comparación o verificación de firmas y huellas, resulten diferencias, y en consecuencia no se alcance el porcentaje exigido por la Ley para la procedencia de la solicitud, de existir duda sobre la autenticidad de alguna o algunas firmas, que pudiesen ser determinantes para la admisión, podrán ordenarse dictámenes periciales a la Procuraduría General de Justicia del Estado; y,
+
+V. La lista de solicitantes deberá de ser publicada en la Página de Internet del Instituto.
+
+De acuerdo con la Ley, para efectos de la validación de las firmas o huellas digitales de los solicitantes de Referéndum o de Plebiscito, se utilizará la lista nominal de la última elección ordinaria.
+
+Si para la admisión de la solicitud dentro del plazo de cinco días hábiles previsto por la Ley, no fuese posible contar con los elementos referidos en las fracciones I y II de este artículo o no se tengan los resultados de los peritajes ordenados en el caso de la fracción IV, la Comisión, dentro del plazo referido, emitirá un acuerdo de reserva, que deberá ser notificado a los interesados dentro de los dos días siguientes, sin que ello obste para el avance de la solicitud de informe a la autoridad que corresponda y de los actos previos a la valoración de la trascendencia del acto que se quiere llevar a consulta; en este caso, el acuerdo de admisión o de desechamiento de la solicitud deberá ser dictado antes del vencimiento del plazo de veinte días hábiles establecido para la declaratoria de la procedencia de la consulta.
 
 ###### ARTÍCULO 22.
 
-Todo inversionista o beneficiario que esté gozando de los incentivos que determina la presente Ley, deberá dar aviso por escrito en un plazo no mayor de quince días hábiles a la Secretaría o en su caso al Ayuntamiento que le otorgó el incentivo, a fin de que apruebe o niegue parcial o totalmente la autorización para el caso de los siguientes supuestos:
+De acuerdo con lo establecido en la Ley, ningún procedimiento de consulta ciudadana podrá admitirse durante el desarrollo de un proceso electoral o durante los sesenta días posteriores a su conclusión; en ese caso, la admisión se reservará, y de seguir vigente la materia, transcurrido el tiempo referido, se iniciará el trámite correspondiente, previa notificación a los interesados.
 
-I.- Reubicación de sus instalaciones;
-
-II.- Modificación del monto de la inversión;
-
-III.- Modificación del número o remuneración de empleos generados;
-
-IV.- Cambio de actividad o giro inicialmente planteados;
-
-V.- Fusión con otras empresas; o
-
-VI.- Que existan motivos que lo obliguen a incumplir en cualquier medida, las condiciones que lo hicieron merecedor del incentivo.
+Lo mismo procederá en el caso de que en el mismo año de la presentación de la solicitud ya se hubiese aprobado la celebración de dos (sic) procedimientos de consulta en el ámbito territorial correspondiente, caso en el cual, el procedimiento reiniciará en el siguiente año, previa notificación a los interesados.
 
 ###### ARTÍCULO 23.
 
-El aviso mencionado en el artículo anterior deberá ser acompañado de los elementos necesarios para explicar y/o justificar los cambios en el proyecto de inversión. Estos cambios deberán plasmarse en un convenio modificatorio.
+El acuerdo de admisión, de reserva o de desechamiento de la solicitud deberá estar debidamente fundado y motivado, y se notificará a los interesados en el término de Ley.
 
-La omisión del aviso a que se refiere el artículo anterior, traerá como consecuencia a juicio de la autoridad respectiva, el inicio del procedimiento a que haya lugar de conformidad con el Título Séptimo de esta Ley.
-
-### CAPÍTULO III. DE LA EXTINCIÓN Y CANCELACIÓN DE LOS INCENTIVOS
+### CAPÍTULO I. DE LA SOLICITUD Y DEL TRÁMITE PARA SU ADMISIÓN
 
 ###### ARTÍCULO 24.
 
-Se extinguen las obligaciones derivadas del otorgamiento de los incentivos cuando:
-
-I.- No se haya cumplido con el objetivo del otorgamiento del incentivo, por causa justificada y fundada a criterio de la Secretaría o en su caso del Ayuntamiento respectivo;
-
-II.- Por renuncia expresa del interesado hasta antes de recibir el incentivo; o
-
-III.- Por que se haya cumplido el término de su vigencia.
+Previo a cualquier auto de desechamiento, se hará la prevención correspondiente, de acuerdo a lo previsto en el artículo 20 de la Ley.
 
 ###### ARTÍCULO 25.
 
-Procede la cancelación total o parcial de los incentivos cuando:
+En los términos de Ley, operará el desistimiento que se presente por escrito hasta cinco días hábiles después de que se notifique la declaratoria de procedencia de la consulta.
 
-I.- Se aporte información falsa;
+Para que proceda el desistimiento respecto de la solicitud presentada por ciudadanos, los firmantes deberán ser los suficientes para dejar la solicitud sin el porcentaje exigido por la Ley para cada proceso de consulta, independientemente de la necesidad de fundar y motivar la decisión, de acuerdo con lo establecido en la Ley.
 
-II.- No se acredite el cumplimiento de las obligaciones contraídas para el otorgamiento de dichos incentivos;
+En este caso, se hará la verificación de que las firmas y huellas del desistimiento, sean iguales a las de los solicitantes.
 
-III.- El beneficiario suspenda las actividades o compromisos pactados durante tres meses consecutivos sin causa justificada; o
-
-IV.- En aquellos casos que por determinación de una autoridad Federal, Estatal o Municipal, se interrumpa de manera temporal o definitiva el desarrollo de la actividad económica que dio origen al otorgamiento de algún incentivo.
-
-La cancelación a que hace referencia este artículo procederá, previo procedimiento de conformidad con el Título Séptimo de esta Ley.
-
-### CAPÍTULO IV. DE LOS SERVICIOS DE CONSULTORÍA Y ASESORÍA A LA EMPRESA
+### CAPÍTULO II. DE LAACUMULACIÓN (SIC)
 
 ###### ARTÍCULO 26.
 
-Con el objeto de proporcionar apoyos al inversionista, se reconocen como consultoría y asesoría, las siguientes:
+Procederá la acumulación de solicitudes de Referéndum o de Plebiscito, cuando ya admitida y en curso una de ellas, se presente una o más con fecha posterior, en las que exista identidad en el objeto y pretensión.
 
-I.- El otorgamiento de servicios de apoyo a la empresa, a la inversión y al comercio exterior, con la debida celeridad y transparencia;
-
-II.- La gestión oportuna de infraestructura en áreas y zonas susceptibles de inversión, conforme a las políticas establecidas para la descentralización del desarrollo;
-
-III.- La localización y adjudicación con la debida antelación, de inmuebles adecuados para el establecimiento de industrias y comercios;
-
-IV.- La difusión extensa de los criterios federales en la aplicación de disposiciones legales y reglamentarias sobre inversión y comercio que estén relacionadas con el Estado;
-
-V.- La consolidación de las operaciones y aprovechamientos de los diferentes órganos de coordinación, concertación y promoción intersectorial en el Estado; así como de programas de fomento;
-
-VI.- El establecimiento de políticas claras en materia de inversión; y
-
-VII.- Las demás que sean necesarias para el desarrollo económico.
+Si el acto o resolución objeto de diversas solicitudes de consulta es el mismo y éstas coinciden en el tiempo, podrá determinarse su trámite en el mismo procedimiento de consulta, siempre y cuando esto sea posible y las pretensiones en cada una sean valoradas trascendentes.
 
 ###### ARTÍCULO 27.
 
-El Gobernador del Estado de Puebla, a través de la Secretaría podrá otorgar servicios de consultoría y asesoría técnica a las empresas, la inversión y el comercio, o en su caso los Ayuntamientos.
+Dentro de los dos días hábiles posteriores a la admisión de la solicitud o dictado del acuerdo de reserva, se notificará a la autoridad o autoridades de las que emana la materia del referéndum, o el acto, decisión o resolución materia de plebiscito, solicitándole que en el plazo de cinco días hábiles presente el informe referido en el dispositivo 21 de la Ley.
 
 ###### ARTÍCULO 28.
 
-Entre los servicios de consultoría y asesoría a la empresa, la inversión y el comercio que deberán proporcionar la Secretaría, se enuncian los siguientes:
-
-I.- Información Empresarial y Sectorial;
-
-II.- Información sobre Oportunidades de Inversión;
-
-III.- Información sobre Oportunidades Comerciales;
-
-IV.- Asesoría sobre Procedimientos de Importación y Exportación;
-
-V.- Asesoría sobre Facilidades y Apoyos Gubernamentales;
-
-VI.- Información en Asesoría Tecnológica;
-
-VII.- Promoción para el Uso de Tecnologías Informáticas;
-
-VIII.- Apoyo y promoción para la organización sectorial y participación en Ferias, Exposiciones y Misiones, nacionales o extranjeras;
-
-IX.- Diagnóstico para identificar y corregir necesidades específicas;
-
-X.- Gestión y Consultoría para trámites y requisitos específicos;
-
-XI.- Orientación para obtener apoyos financieros o crediticios;
-
-XII.- Vinculación y Promoción Interna; y
-
-XIII.- Investigación y Estudios Sectoriales.
+La autoridad deberá incluir la información que estime pertinente sobre la materia del referéndum, el acto o resolución materia de la solicitud de plebiscito y acompañar los elementos necesarios para el análisis de la trascendencia del mismo; lo anterior sin perjuicio de que la Comisión le requiera de información adicional si se considera necesaria, para lo cual se le concederán dos días hábiles más.
 
 ###### ARTÍCULO 29.
 
-La Secretaría, operará los sistemas informáticos necesarios para integrar, procesar y difundir la información generada de los servicios a que se refiere el artículo anterior, para lo cual se crea el Sistema de Información Económica del Estado de Puebla, como instancia de la Secretaría, a través de la cual operarán los sistemas informáticos que sean necesarios y se accederá al Sistema de Información Empresarial Mexicano, para recurrir a otros programas y desarrollar bases de datos que contengan información sistematizada sobre la evolución de los sectores económicos, así como sobre producción, precios, variedad de productos, mercados, distribución, comercialización, instrumentos y mecanismos de apoyo.
+La materia del referéndum, el acto, decisión o resolución materia del plebiscito, objeto de solicitud para la celebración de un procedimiento de consulta, que presenten el Gobernador del Estado, el Congreso del Estado y los ayuntamientos, dentro del ámbito de sus respectivas competencias, serán considerados trascendentes por el Consejo General, con el simple hecho de su presentación y clara exposición de motivos.
 
-Para la actualización informativa, la Secretaría podrá coordinarse con las Dependencias y Entidades Federales, Estatales, Municipales, instituciones, asociaciones o con la iniciativa privada a fin de recabar los datos e información estadística, así como analizar los resultados que se obtengan, integrándolos al Banco de Datos correspondiente y difundiendo la información procesada sobre la evolución de los sectores económicos, sobre producción, precios, variedad de productos, mercados, distribución, comercialización, instrumentos y mecanismos de apoyo, a fin de que el sector público, privado y social, cuente con la información necesaria para la toma de decisiones en materia económica.
+En estos casos, la declaratoria de procedencia se determinará siempre y cuando la solicitud se haya presentado oportunamente, el acto o resolución corresponda a materia que puede ser objeto de consulta en términos de la Ley, se reúnan los requisitos previstos en los artículos 29 y 38 de la misma, y no se esté en ninguna de las causas de improcedencia previstas en los artículos 30 y 39 de la Ley, respectivamente.
 
-### CAPÍTULO V. DE LA CALIDAD PRODUCTIVA
+En el caso del Congreso y de los ayuntamientos, será necesario también que se acredite la aprobación de la solicitud en los términos de las leyes respectivas.
+
+### CAPÍTULO III. DEL INFORME DE LAAUTORIDAD (SIC)
 
 ###### ARTÍCULO 30.
 
-Es competencia del Gobernador del Estado de Puebla, a través de la Secretaría, fomentar una cultura y una dinámica social que promuevan la calidad en las empresas y sus productos como formas fundamentales para la superación económica y el bienestar de los poblanos.
+Para calificar la trascendencia de la materia del referéndum o del plebiscito, objeto de la solicitud de consulta por parte de ciudadanos, el Consejo General, a través de la Comisión, podrá solicitar la opinión de especialistas del ramo que corresponda.
+
+Para lo anterior, inmediatamente que se dicte el acuerdo de admisión o de reserva, la Comisión determinará de entre las propuestas que presente el Presidente, al o a los especialistas a consultar, y les solicitará su apoyo para obtener la opinión en el plazo de quince días hábiles.
 
 ###### ARTÍCULO 31.
 
-Corresponde a la Secretaría establecer medidas de apoyo, así como realizar las acciones que sean necesarias para impulsar la calidad y productividad dentro del aparato económico estatal, realizando las acciones necesarias, tales como:
+La Comisión, dentro de los cinco días hábiles siguientes, presentará al Consejo General, el proyecto de valoración de la trascendencia de la materia del Referéndum o del Plebiscito que se solicita, y, dependiendo del caso, de la declaratoria de procedencia o improcedencia de la consulta, para su aprobación.
 
-I.- Difundir una Cultura de Calidad en el Estado;
+En todo caso, la procedencia del plebiscito suspenderá la ejecución y/o la implementación de la decisión de gobierno del estado o municipal según se trate, hasta en tanto se conozcan los resultados del mismo, siempre y cuando no se afecte el interés público.
 
-II.- Coordinar la entrega anual del Premio Estatal Puebla a la Calidad;
+El plebiscito no procederá contra decisiones ejecutadas y/o implementadas.
 
-II.- Diseñar y operar un sistema de becas de calidad, de acuerdo con la normatividad existente y con la participación de los sectores público, social y privado;
-
-IV.- Formar Comités Regionales de Calidad que atiendan a la población y a las necesidades productivas del Estado, de acuerdo a lo establecido en las disposiciones legales vigentes;
-
-V.- Promover y organizar eventos entre empresarios, trabajadores, organismos e instituciones, tendientes a fomentar el intercambio de experiencias, en relación al mejoramiento de la calidad en las actividades productivas, que permitan crear un modelo general adaptable a cada empresa, sector o región en el Estado; y
-
-VI.- Investigar, analizar y dar a conocer los modelos de productividad y calidad exitosos de los Estados de la República y países extranjeros, que pudieran adoptar y beneficiar a las empresas locales.
+El Acuerdo del Consejo General deberá ser notificado a los interesados en el plazo de dos días hábiles posteriores a su aprobación.
 
 ###### ARTÍCULO 32.
 
-Las Dependencias del Ejecutivo del Estado, previa autorización del Gobernador del Estado de Puebla, podrán coordinarse, dentro de sus ámbitos de competencia, con las instancias federales e instituciones educativas correspondientes, para elaborar y signar convenios de productividad y certificación que se identifiquen con la problemática y el modelo de desarrollo económico.
+El proceso de Consulta constará de tres etapas:
 
-### CAPÍTULO VI. DE LOS ESQUEMAS DE INTEGRACIÓN, COINVERSIÓN Y AGRUPAMIENTO
+I. Preparatoria de la Consulta;
+
+II. Jornada de Consulta; y,
+
+III. De resultados.
+
+### CAPÍTULO IV. DE LA VALORACIÓN DE LA TRASCENDENCIA Y DE LA DECLARATORIA DE PROCEDENCIA
 
 ###### ARTÍCULO 33.
 
-El Gobierno del Estado, a través de la Secretaría, o en su caso los Ayuntamientos, promoverán programas o proyectos entre los empresarios, para la adopción de diferentes esquemas de integración, coinversión y agrupamiento económico, que respondan a objetivos y necesidades concretas, sin afectar las operaciones individuales de los asociados, con el propósito de mejorar la articulación de actividades productivas y acciones económicas, que incrementen las capacidades de administración, producción y comercialización, mejorando las escalas de producción de cada sector y fortaleciendo la capacidad de negociación en los diferentes mercados.
+La etapa preparatoria de la consulta, inicia con la Declaratoria de Procedencia emitida por el Consejo General y concluye el día previo al de la Jornada de Consulta, y comprende los actos relativos a:
+
+I. Elaboración del instrumento o de las preguntas que se someterán a consulta, según se trate;
+
+II. Determinación del formato para la consulta a los ciudadanos;
+
+III. Aprobación de los materiales a utilizar en la consulta;
+
+IV. Convocatoria;
+
+V. Información a los ciudadanos;
+
+VI. Integración de los órganos ejecutivos desconcentrados;
+
+VII. Integración de las Mesas Directivas de Consulta;
+
+VIII. Determinación del número y ubicación de las Mesas Directivas de Consulta y su publicación; y,
+
+IX. Capacitación para la consulta.
 
 ###### ARTÍCULO 34.
 
-El Gobernador del Estado de Puebla, a través de la Secretaría, impulsará la formación de agrupamientos económicos, así como el establecimiento de sectores estratégicos, mediante la determinación de Regiones Industriales en las que haya disponibilidad de áreas de desarrollo económico y se cuente con una infraestructura productiva adecuada y suficiente, para promover el establecimiento de empresas que hagan propicia la vinculación entre ellas, pudiendo formar parte de una cadena productiva o comercial específica dentro de dicha región, con el fin de fortalecer la competitividad del aparato económico estatal y facilitar su participación en nuevos mercados.
+La etapa de Jornada de Consulta, inicia a las 8:00 horas y termina con la clausura de la casilla el día señalado en la Convocatoria, lapso en el que los integrantes de las mesas directivas de consulta, recibirán la expresión de aprobación o rechazo al acto, resolución, Ley, Decreto, Reglamento, orden, acuerdo, circular o bando de gobierno que se somete a consulta en los términos de Ley, escrutarán y contarán los votos.
 
 ###### ARTÍCULO 35.
 
-Las Dependencias del Ejecutivo Estatal, coadyuvarán con la Secretaría, instrumentando en el ámbito de su competencia las acciones de fomento que contengan los diferentes programas sectoriales de desarrollo, estimulando la creación y consolidación de diversas formas asociativas de empresarios, establecidos en los ordenamientos legales correspondientes.
+La etapa de resultados inicia una vez clausurada la casilla el día de la jornada de consulta con el envío de los paquetes a los órganos ejecutivos desconcentrados y concluye el domingo siguiente, con el cómputo general de los resultados y la emisión de la resolución del Referéndum o Plebiscito de que se trate, por el Consejo General, en la que se determinará, en su caso, el carácter vinculante de los resultados para la autoridad.
 
 ###### ARTÍCULO 36.
 
-Para apoyar la operatividad de las formas asociativas a que se refiere el artículo anterior, la Secretaría promoverá la creación, organización y desarrollo de otros esquemas alternativos y de apoyo complementario, tendientes a cubrir de manera conjunta todos los servicios que requieran aquéllas, ya sea por región o por sector. Estos esquemas podrán tener la forma de una empresa privada dedicada a la prestación de servicios profesionales, técnicos, de consultoría o de apoyo especializado, u operar como un Centro de Servicios en común, en el que participen como socios las empresas interesadas, mismas que podrán constituirse bajo los esquemas de sociedad contemplados en la legislación vigente.
+Dentro de los tres días siguientes a la emisión de la declaratoria de procedencia, la Comisión resolverá sobre la necesidad de colaboración y, en su caso, determinará la o las instituciones a las que se solicitará el apoyo para la elaboración del instrumento o de la pregunta que se someterá a consulta, de acuerdo con la materia de la misma.
 
-### CAPÍTULO VII. DE LA PROMOCIÓN Y FOMENTO INDUSTRIAL
+### CAPÍTULO I. DE LAS ETAPAS DEL PROCESO DE CONSULTA
 
 ###### ARTÍCULO 37.
 
-Es facultad del Gobernador del Estado de Puebla, por conducto de la Secretaría y demás Dependencias competentes, promover y fomentar la industria, pudiendo efectuar todas las acciones necesarias para facilitar el establecimiento de nuevas industrias e impulsar el desarrollo de las ya instaladas, procurando la descentralización económica y la protección del medio ambiente.
+Por conducto del Presidente, a más tardar dentro de los dos días siguientes, la Comisión enviará la petición de apoyo a la o a las instituciones designadas, solicitándoles que dentro del plazo de veinticinco días en tratándose de consultas municipales y de cuarenta cuando se trate de consultas estatales, envíen sus aportaciones.
 
 ###### ARTÍCULO 38.
 
-Sin perjuicio de lo que dispongan otros ordenamientos, el Gobierno del Estado se coordinará, con el Gobierno Federal, los Ayuntamientos, los organismos empresariales y las organizaciones, para realizar las acciones necesarias dentro del ámbito de sus respectivas competencias, que permitan generar y preservar las fuentes de trabajo, propiciar el equilibrio de los factores de la producción, mejorar las condiciones laborales y en general, fomentar el desarrollo industrial, mediante la promoción del diálogo, la concertación, la legalidad y la justicia social.
+En sesión que se convocará a más tardar cinco días posteriores al vencimiento de los plazos establecidos en el artículo anterior, en el caso de consultas municipales y diez en el caso de consulta estatal, el Consejo General aprobará el instrumento o la pregunta que se someterá a consulta.
+
+El instrumento o la pregunta deberán redactarse en términos claros y precisos; no ser tendenciosa ni contener juicio axiológico; formularse en sentido afirmativo a efecto de que la respuesta sea sólo un sí o un no; contener un solo hecho; y, estar totalmente vinculada con la materia del proceso.
+
+2. DETERMINACIÓN DEL FORMATO Y MATERIALES PARA LA CONSULTA
 
 ###### ARTÍCULO 39.
 
-La Secretaría coordinará la elaboración y el seguimiento de los Programas de Fomento Sectorial y Regional en materia industrial, procurando las acciones necesarias para su debida ejecución, con base en las políticas marcadas en el Plan Estatal de Desarrollo vigente.
+El voto ciudadano en la consulta podrá recogerse por medio de nuevas tecnologías, siempre y cuando se garantice su secrecía y efectividad y lo apruebe el Consejo General, determinando previamente el procedimiento y necesidades.
 
-### CAPÍTULO VIII. DE LAS ÁREAS DE DESARROLLO ECONÓMICO INDUSTRIAL
+### CAPÍTULO II. DE LA ETAPA PREPARATORIA DE LA CONSULTA
+
+1. ELABORACIÓN DEL INSTRUMENTO O DE LAS PREGUNTAS QUE SE SOMETERÁN A CONSULTA
 
 #### SECCIÓN PRIMERA. DE LAS ZONAS INDUSTRIALES
 
 ###### ARTÍCULO 40.
 
-Se entiende por Zona Industrial a la superficie geográfica de propiedad pública o privada, delimitada y destinada al establecimiento de industrias o unidades de fomento industrial, previa su determinación en los planes estatal y municipales de desarrollo urbano, conforme a las necesidades industriales del Estado y a las características de las regiones en que se ubiquen.
+Los materiales para la consulta serán aprobados por la Comisión, a propuesta de la Vocalía de Organización Electoral, a más tardar cinco días antes de la emisión de la Convocatoria, en el caso de consultas municipales, y diez en el caso de consulta estatal.
 
 ###### ARTÍCULO 41.
 
-Corresponde al Gobierno del Estado, a través de la Secretaría, dictaminar de oficio o a petición de parte interesada, sobre la procedencia y la viabilidad económica de la creación o modificación de Zonas Industriales en el Estado, realizando los estudios que para tal efecto sean necesarios.
+El Comité de Adquisiciones del Instituto garantizará la adquisición oportuna de la documentación y de los materiales de la consulta, conforme al Reglamento de la materia.
 
 ###### ARTÍCULO 42.
 
-Toda resolución que declare o cambie el destino y uso del suelo de alguna zona o área de desarrollo económico, además de contar con el acuerdo favorable del o los Ayuntamientos respectivos, deberá sustentarse en los dictámenes de prefactibilidad urbana y ambiental, emitidos por la autoridad competente, previo cumplimiento de los requisitos que marca la Ley.
+La documentación consistirá en:
+
+I. Boletas;
+
+II. Acta de jornada de consulta;
+
+III. Acta de escrutinio y cómputo de mesa de consulta;
+
+IV. Hoja de incidentes; y,
+
+V. Las demás que apruebe la Comisión.
 
 ###### ARTÍCULO 43.
 
-Una vez reunidos los requisitos anteriores, el Ejecutivo Estatal, emitirá el Decreto por el que se autoriza y declara por causa de utilidad pública la creación o modificación de la Zona Industrial de que se trate.
+El material electoral consistirá en:
+
+I. Urnas, una por mesa de consulta;
+
+II. Mamparas, una por mesa de consulta;
+
+III. Líquido indeleble; y,
+
+IV. Los demás que apruebe la Comisión.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES DE FOMENTO INDUSTRIAL
 
 ###### ARTÍCULO 44.
 
-Las industrias y las Unidades de Fomento Industrial, deberán establecerse en áreas determinadas y cumplir con las disposiciones vigentes en materia de protección al ambiente y al equilibrio ecológico, por lo que, en caso de que se pretenda ubicarlas fuera de estas áreas, además de los trámites de establecimiento que se requieran, la parte interesada deberá solicitar la determinación o modificación respectiva, para que mediante resolución de la autoridad competente, de ser procedente, se declare o cambie el destino y uso de suelo de la zona o área de que se trate.
+Para la consulta se utilizará la lista nominal en la que se incluya a los ciudadanos que hayan cumplido dieciocho años de edad a la fecha de la consulta, debiéndose hacer el corte para la elaboración del listado nominal cuarenta y cinco días antes de dicha fecha.
+
+3. DE LA CONVOCATORIA
 
 ###### ARTÍCULO 45.
 
-El proyecto de inversión para el establecimiento y la consolidación de un conjunto, parque, corredor o ciudad industrial, requerirá de un promotor, elegido por la empresa inversionista, o en su caso a petición de la misma, la Secretaría lo podrá designar, teniendo como funciones:
+A propuesta de la Comisión, a más tardar noventa días posteriores a la declaratoria de procedencia en el ámbito estatal y cuarenta y cinco en el ámbito municipal, el Consejo General emitirá la Convocatoria para el proceso o procesos de consulta de que se trate, la que se publicará de acuerdo con lo establecido en el artículo 23 de la Ley.
 
-I.- Impulsar el proyecto desde su planeación, autorización, delimitación, construcción, comercialización y operación;
-
-II.- Trabajar de manera coordinada con las autoridades competentes en la realización de estudios de factibilidad técnica, económica, financiera y de recursos naturales que demuestren su viabilidad;
-
-III.- Apoyar la realización de un análisis sobre los impactos ambiental y urbano, los estudios y manifestaciones respectivos, así como el proyecto ejecutivo de ingeniería; y
-
-IV.- Gestionar la obtención de recursos financieros oportunos y suficientes, en las mejores condiciones de plazos y tasas de mercado.
+ARTÍCULO. 46. Podrá convocarse a dos procesos de consulta para la misma fecha, cuando se trate de solicitudes de Referéndum y Plebiscito coincidentes en objeto, y así lo permita el tiempo en que fueron presentadas.
 
 ###### ARTÍCULO 46.
 
@@ -563,345 +451,279 @@ Para efectos de lo dispuesto en este Capítulo, la Secretaría se coordinará co
 
 ###### ARTÍCULO 47.
 
-El establecimiento de una Unidad de Fomento Industrial, en todo caso, comprenderá cuatro etapas: planeación, delimitación, autorización y construcción, siendo competente el Gobierno del Estado, a través de la Secretaría, para supervisar que en cada una se cumplan los requisitos que señalan la presente Ley o cualquier otro ordenamiento que resulte aplicable.
+El contenido de la Convocatoria será el previsto en el artículo 55 de la Ley.
+
+La fecha de la Consulta deberá ser siempre en domingo.
+
+4. DE LA INFORMACIÓN A LOS CIUDADANOS
 
 ###### ARTÍCULO 48.
 
-La planeación integral de un conjunto, parque, corredor o ciudad industrial, como primera etapa para su establecimiento, deberá poseer la suficiente flexibilidad para enfrentar los cambios económicos y tecnológicos que se presenten, sin afectar la maduración del proyecto ni la toma de decisiones por parte de los inversionistas.
+Para los efectos previstos en el artículo 12, fracción II de la Ley, a través de los tiempos oficiales asignados al Instituto en la radio y la televisión y otros medios al alcance, se difundirá información relativa a la consulta para lograr la participación libre e informada de los ciudadanos.
+
+Deberá cuidarse que la información que se transmita sea equilibrada entre los elementos que motivan la solicitud y los contenidos del informe de la autoridad, evitándose tendencia a favor o en contra.
+
+La Comisión promoverá la participación de expertos en el tema de la consulta tanto a favor como en contra, en debates en medios de comunicación y espacios públicos y académicos, con los que se pueda convenir de forma gratuita.
+
+Esto último se suspenderá tres días antes de la jornada de consulta.
 
 ###### ARTÍCULO 49.
 
-La etapa de planeación tendrá como objetivo, la elaboración del proyecto de la Unidad Industrial, debiendo comprender:
-
-I.- El desarrollo de los trabajos de localización, ubicación e identificación de la zona y superficie de los terrenos en que se pretende establecer, incluida la definición de su situación jurídica;
-
-II.- La determinación de la forma o medio legal que se pretende seguir para adquirir los terrenos localizados o ubicados, si no pertenecen al titular o titulares del proyecto;
-
-III.- La elaboración de los estudios de factibilidad, incluyendo una proyección acorde con los Planes y Programas Federales, Estatales y Municipales;
-
-IV.- Las estrategias de desarrollo para su delimitación, construcción, comercialización y operación;
-
-V.- La realización de un anteproyecto ejecutivo, que permita determinar si es procedente la construcción de la Unidad, de acuerdo con la ingeniería básica, las normas urbanísticas y ambientales, la ingeniería financiera, la factibilidad de recursos naturales y humanos, y el plan maestro del proyecto;
-
-VI.- La elaboración de estudios de manifestación de impacto ambiental, de acuerdo con las Normas Federales. Estatales y Municipales en materia de ecología; y
-
-VII.- La definición de los esquemas jurídico y administrativo más convenientes para el desarrollo de las etapas siguientes.
+Sin que deba interpretarse como una limitante a la libertad de expresión, ni la autoridad ni los solicitantes u otros particulares podrán comprar tiempos en radio o televisión para transmitir sus opiniones.
 
 ###### ARTÍCULO 50.
 
-Una vez realizado el proyecto para establecer una Unidad de Fomento Industrial y definida la zona y la superficie para su construcción, será función del promotor y/o de la sociedad jurídica que se hubiere constituido para el efecto, delimitar los terrenos correspondientes y gestionar la regularización de la propiedad del predio, así como tramitar las autorizaciones, permisos y licencias que señala la normatividad vigente.
+Salvo la promoción de la participación ciudadana, toda información relacionada con la materia de la consulta deberá suspenderse desde tres días antes de la jornada de consulta.
 
 ###### ARTÍCULO 51.
 
-Terminada la etapa de planeación y delimitación, se deberá solicitar la autorización del Gobierno del Estado para el desarrollo del proyecto, para lo cual, se entregará a la Secretaría, un expediente con los documentos que demuestren que se han cubierto las formalidades y requisitos que señalan los artículos 48, 49 y 50 de la presente Ley; a su vez, el Titular de la misma remitirá copia de dicho expediente a las Secretarías de Desarrollo Urbano y Obras Públicas, y del Medio Ambiente y Recursos Naturales, para que en un plazo no mayor de sesenta días naturales, contados a partir de la fecha de recepción del expediente, se emita por ambos Secretarios, un dictamen que podrá ser favorable, desfavorable o condicionado.
+Durante los ocho días anteriores a la jornada de consulta y hasta su conclusión, queda prohibida la publicación o difusión total o parcial de encuestas o sondeos de opinión sobre preferencias de los ciudadanos.
+
+Previo a cualquier publicación deberá registrarse la metodología y resultados ante la Secretaría General del Instituto.
+
+5. DE LA INTEGRACIÓN Y FUNCIONES DE LOS ORGANOS EJECUTIVOS DESCONCENTRADOS
 
 ###### ARTÍCULO 52.
 
-Dictamen favorable, es aquél que se obtiene, al acreditarse en el expediente, que además de cumplir con las formalidades y requisitos antes señalados, para el establecimiento de la Unidad de Fomento Industrial, se cumple con los siguientes factores:
+Para las consultas de alcance estatal, el Instituto contará con el apoyo de veinticuatro órganos ejecutivos desconcentrados que se instalarán a más tardar veinte días antes de que se emita la convocatoria correspondiente.
 
-I.- Una adecuada ubicación;
+En el caso de cada consulta de alcance municipal, se instalará un órgano ejecutivo desconcentrado en el municipio de que se trate.
 
-II.- Disponibilidad de comunicaciones, servicios básicos y mano de obra;
-
-III.- Factibilidad de dotación de agua y energéticos;
-
-IV.- Prefactibilidad urbana, ambiental y análisis de riesgos;
-
-V.- Justificación de beneficios económicos que se pretendan;
-
-VI.- Vocación y dinámica industrial en la región;
-
-VII.- Demanda de espacios industriales; y
-
-VIII.- Construcción y equipamiento de calidad.
+Los órganos ejecutivos desconcentrados se integrarán con un Presidente, un Secretario, un Vocal de Capacitación y un Vocal de Organización, que tendrán el apoyo de los capacitadores-asistentes que determine la Junta Estatal Ejecutiva y el personal administrativo de acuerdo con el presupuesto aprobado para la consulta.
 
 ###### ARTÍCULO 53.
 
-Dictamen condicionado, es aquél que resulta del expediente que no cumple con algunos de los requisitos, formalidades o factores que ordena la Ley, pero que a juicio de las Secretarías a que se refiere el artículo 52 de esta Ley, puedan ser subsanados, para lo cual se señalarán los requerimientos que deban observarse en el término que éstas establezcan.
+El nombramiento de los integrantes de los órganos ejecutivos desconcentrados se hará por el Consejo General, a propuesta del Presidente, preferentemente de entre aquellos ciudadanos michoacanos que hayan fungido como funcionarios o consejeros de los comités municipales y distritales del Instituto, en procesos electorales anteriores y/o en general, con experiencia en procesos electorales estatales o federales.
+
+Los requisitos para ser integrante de los órganos ejecutivos desconcentrados son los mismos que para los consejeros electorales establece el artículo 127 del Código.
 
 ###### ARTÍCULO 54.
 
-En caso de que el dictamen que se emita resulte desfavorable, implícitamente se negará la autorización y concluirá el procedimiento de referencia.
+Los capacitadores-asistentes, serán designados, previa convocatoria pública, por la Comisión, a propuesta de los órganos ejecutivos desconcentrados, y entrarán en funciones el mismo día en que se emita la Convocatoria a la consulta.
+
+El procedimiento para la designación será acordado por la Comisión, a propuesta de la Vocalía de Capacitación Electoral y Educación Cívica.
 
 ###### ARTÍCULO 55.
 
-Los dictámenes favorables, deberán contener, por lo menos, la siguiente información originada por el promotor:
+Los órganos ejecutivos desconcentrados del Instituto tendrán las siguientes atribuciones:
 
-I.- Superficie total por afectar, con sus deslindes, medidas y colindancias;
+l. Vigilar que se cumpla con lo dispuesto en la Ley y en el presente Reglamento;
 
-II.- Planeación general de las superficies, que se desarrollarán de manera inmediata, de acuerdo con las diferentes etapas que conforman el proyecto ejecutivo;
+II. Cumplir con los acuerdos que dicte el Consejo General y la Comisión;
 
-III.- Descripción del sistema de comunicación por carreteras federales o estatales, vías de ferrocarril y aeropuertos cercanos, así como de sus elementos de enlace;
+III. Intervenir en la preparación, desarrollo y vigilancia del proceso de consulta;
 
-IV.- Distribución de zonas fabriles dentro del área a establecer, indicando los sistemas y medidas que deberán utilizarse, para prevenir y controlar la contaminación ambiental;
+IV Proponer a la Comisión el nombramiento de los capacitadores-asistentes, previo el procedimiento y conforme a los lineamientos que apruebe la Comisión;
 
-V.- Determinación del impacto urbano que originará el proyecto y de las medidas o requerimientos que deberán asegurarse para evitar problemas habitacionales, demográficos, de riesgo, viales o de transporte;
+V. Proponer a la Comisión el número y ubicación de las mesas directivas de consulta;
 
-VI.- Las obras mínimas de urbanización obligatoria que a continuación se mencionan:
+VI. Proponer a la Comisión la integración de las mesas directivas de consulta;
 
-a) Red de distribución de agua potable;
+VII. Supervisar el cumplimiento de los programas de trabajo aprobados por la Comisión para los capacitadores-asistentes;
 
-b) Drenaje y alcantarillado;
+VIII. Capacitar a los ciudadanos propuestos como funcionarios de las mesas directivas de consulta, conforme a los programas que apruebe la Comisión;
 
-c) Colectores pluviales;
+IX. Recibir del Presidente del Consejo General la documentación y materiales para la jornada de consulta;
 
-d) Pavimentos, guarniciones y banquetas, con las especificaciones de accesibilidad;
+X. Entregar la documentación y materiales para la consulta a los presidentes de las mesas directivas de consulta;
 
-e) Red de distribución de energía eléctrica;
+XI. Vigilar que las mesas directivas de consulta se instalen;
 
-f) Alumbrado público;
+XII. Realizar el cómputo distrital o municipal según se trate, de la consulta y remitirlo al Consejo General junto con los expedientes;
 
-g) Red telefónica;
+XIII. Solicitar por conducto de su Presidente el apoyo de la fuerza pública para asegurar el desarrollo de la consulta ciudadana; y,
 
-h) Arbolado en calles y áreas verdes;
+XIV. Las demás que le establezca este Reglamento, el Consejo General, la Comisión, y otras disposiciones legales.
 
-í) Nomenclatura;
-
-j) Entronques a carreteras o autopistas;
-
-k) El desarrollo de una planta de agua de tratamiento secundario; y
-
-l) Las demás que procedan, según los ordenamientos aplicables.
-
-VII.- Tratándose de Conjuntos Industriales, el dictamen contendrá los requisitos técnicos que deberán cubrir los proyectos respecto de la infraestructura y los servicios que caracterizan a este tipo de unidades; y
-
-VIII.- Tratándose de Ciudades Industriales, el dictamen describirá los proyectos generales de todos los Parques Industriales.
+6. DE LA INTEGRACIÓN Y FUNCIONES DE LAS MESAS DIRECTIVAS DE CONSULTA
 
 ###### ARTÍCULO 56.
 
-Una vez emitido dictamen favorable, se turnará al Gobernador del Estado de Puebla con la información procedente, a fin de que pueda resolver sobre la solicitud hecha y, en su caso, expida el Decreto por el que se autoriza y declara de utilidad pública la creación de cualquier Unidad de Fomento Industrial específica.
-
-En dicho Decreto, se considerarán la zona y la superficie de terreno, donde se integrará la Unidad de Fomento Industrial, así como, los demás aspectos que justifiquen la factibilidad urbana y ambiental, junto con la viabilidad económica y la naturaleza jurídica, debiendo especificar las condiciones o requerimientos a que se sujetará el desarrollo de la misma, y en su caso, incluir cualquier otro señalamiento o disposición que resulte conveniente.
+La mesa directiva de consulta, es el órgano que tiene a su cargo la recepción, escrutinio y cómputo de los votos emitidos en la jornada de consulta.
 
 ###### ARTÍCULO 57.
 
-Las superficies destinadas al desarrollo de Ciudades Industriales en el Estado, deberán guardar entre sí una distancia mínima de veinte kilómetros, contados a partir de sus perímetros y contará cada una con un plano regulador, elaborado conjuntamente por la autoridad municipal que corresponda y la Secretaría de Desarrollo Urbano y Obras Públicas, debiéndose dividir de la siguiente forma:
-
-I.- Una sección de ejecución, que programe y desarrolle la edificación de una zona habitacional, que comprenda los servicios y el equipamiento urbano adecuado;
-
-II.- Una sección de ejecución posterior, que contemple el establecimiento de una zona comercial y de oficinas públicas; y
-
-III.- Las demás que especifique el plano regulador y que formen parte del programa general para el desarrollo industrial.
+La mesa directiva de consulta se integra con un Presidente, un Secretario y un Escrutador y tres suplentes generales, que deberán reunir los requisitos que señala el artículo 136 del Código y tendrán las atribuciones que para las mesas directivas de casilla se establecen en el mismo ordenamiento.
 
 #### SECCIÓN CUARTA. DE LA CONSOLIDACIÓN DE LAS UNIDADES DE FOMENTO INDUSTRIAL
 
 ###### ARTÍCULO 58.
 
-La consolidación de una Unidad de Fomento Industrial comprende tres etapas: adquisición, comercialización y operación, siendo competente el Gobierno del Estado, a través de la Secretaría, para supervisar que en cada una se cumplan los requisitos que señalan la presente Ley o cualquier otro ordenamiento que resulte aplicable.
+Para la integración de las mesas directivas de consulta se seguirá el procedimiento siguiente:
+
+I. A más tardar veinte días antes de la emisión de la Convocatoria, el Consejo General procederá a insacular de la lista nominal de electores a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún momento el número de ciudadanos insaculados sea menor a cincuenta. El procedimiento de insaculación se llevará a cabo mediante sorteo en el que se tomará en cuenta el mes de nacimiento y la letra del primer apellido;
+
+II. El órgano ejecutivo desconcentrado, por conducto de los capacitadores-asistentes, procederá a notificar a los ciudadanos que resulten insaculados, conforme a los programas o lineamientos que apruebe la Comisión;
+
+III. El órgano ejecutivo desconcentrado propondrá a la Comisión a los ciudadanos que cumplan con los requisitos para la integración de las mesas directivas de consulta y que hayan sido aprobados en la evaluación de la primera etapa de capacitación, prefiriéndose a los de mayor grado de escolaridad; propondrá igualmente las funciones a desempeñar por cada ciudadano, según su idoneidad; asimismo, en su caso, propondrá a la Comisión las sustituciones que deban realizarse;
+
+IV. La Comisión deberá aprobar la integración de las mesas directivas de consulta a más tardar quince días antes de la jornada de consulta; y las sustituciones que hayan de realizarse deberán ser aprobadas a más tardar cinco días antes de la jornada; y,
+
+V. El órgano ejecutivo desconcentrado notificará los nombramientos a los ciudadanos designados.
+
+Si por alguna causa no fuese posible la integración de las mesas de consulta, seguido el procedimiento anterior, se invitará a participar a los demás ciudadanos inscritos en la lista nominal.
+
+7. DETERMINACIÓN DEL NÚMERO Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CONSULTA Y SU PUBLICACIÓN
 
 ###### ARTÍCULO 59.
 
-El Gobernador del Estado de Puebla podrá, con apego a las leyes, constituir usufructo, cesión, concesión, arrendamiento, permuta, gravamen o enajenación, a favor de cualquier persona física o jurídica, sobre inmuebles propiedad del Estado, para uso industrial, mediante la integración de unidades fabriles u oficinas de servicios, destinadas al desempeño de actividades económicas de acuerdo a la normatividad vigente. Al respecto, su adquisición por cualquiera de los medios señalados, podrá gozar de los mismos beneficios y apoyos económicos que conforme a la presente Ley otorga el Ejecutivo.
+Por cada mil quinientos ciudadanos inscritos en la lista nominal correspondiente, se integrará una mesa directiva de consulta.
+
+Para la instalación de las mesas de consulta se considerarán las secciones electorales, las casillas se dividirán en básica y las contiguas que sean necesarias de acuerdo al número de ciudadanos inscritos en la lista nominal de cada sección, el listado nominal se dividirá alfabéticamente para la votación de los ciudadanos.
+
+En tratándose de consultas estatales, se instalará adicionalmente al menos una mesa directiva de consulta especial, para recibir el voto de los ciudadanos que estando fuera de su municipio, cuenten con credencial para votar con residencia en Michoacán y estén inscritos en la lista nominal. Las casillas especiales se ubicarán en la cabecera del distrito electoral de que se trate.
 
 ###### ARTÍCULO 60.
 
-Las personas físicas o jurídicas, que por cualquiera de los medios señalados en el artículo anterior, adquieran algún inmueble dentro de una Unidad de Fomento Industrial, promovida, establecida o consolidada por el Estado, tendrán un plazo máximo de cinco meses, para la formalización de las escrituras del inmueble de que se trate, y de seis meses contados a partir de la fecha de la escrituración para iniciar la construcción. Por su parte la Secretaría, determinará el término máximo para concluirla y darle el destino industrial correspondiente.
+Los lugares para la ubicación de las mesas de consulta deberán reunir los requisitos previstos en el artículo 144 del Código.
 
 ###### ARTÍCULO 61.
 
-El propietario que pretenda gravar o enajenar algún inmueble ubicado dentro de una Unidad de Fomento Industrial de carácter público y que haya sido otorgado como incentivo a la inversión, deberá contar con autorización por escrito del Secretario de Desarrollo Económico, cuya expedición causará los derechos que se fijen en la Ley de Ingresos, a fin de que sea procedente dicho acto, teniendo la autorización, una vigencia de veinte días hábiles contados a partir de la notificación para ser utilizada, en caso de no hacerlo en ese lapso se tendrá que solicitar una nueva autorización, debiendo realizar nuevamente el pago de los derechos mencionados.
+El número y ubicación de las mesas directivas de consulta serán determinados por la Comisión, a propuesta de los órganos ejecutivos desconcentrados, a más tardar cuarenta y cinco días previos al de la jornada de consulta.
 
 ###### ARTÍCULO 62.
 
-Para efectos del artículo anterior, tanto el enajenante, como el adquirente, de algún inmueble ubicado dentro de una Unidad de Fomento Industrial, sólo podrán trasladar el dominio, presentando simultáneamente la solicitud de autorización de enajenación de quien vende, anexando el proyecto económico de la persona que desea adquirir dicho inmueble, obligándose este último a presentar su proyecto respectivo y a celebrar un convenio con el Gobierno del Estado, a través de la Secretaría, para poder ser autorizada la enajenación.
+Tanto la ubicación como la integración de las mesas directivas de consulta serán publicadas a partir de su aprobación en la página web del Instituto, en las instalaciones del órgano ejecutivo desconcentrado y del Consejo General, y durante el día de la jornada de consulta en al menos un diario de circulación estatal o municipal, según corresponda.
+
+8. CAPACITACIÓN PARA LA CONSULTA
 
 ###### ARTÍCULO 63.
 
-Cuando la adquisición o enajenación a que se refieren los dos artículos anteriores sea onerosa, deberá sujetarse a los precios que resulten de los avalúos públicos, que para cada Unidad Industrial determine el Instituto de Catastro del Estado de Puebla.
-
-En caso de los inmuebles que hayan sido adquiridos conforme al artículo 9 fracción VI de esta Ley, y destinados a otros fines o que se incumpla con las obligaciones comprometidas por parte del beneficiario, la Secretaría sin responsabilidad para el Gobierno del Estado, recobrará la posesión y en su caso la propiedad, sin necesidad de declaración judicial, substanciando el procedimiento previsto en el Título Séptimo de esta Ley.
-
-Los Notarios Públicos que intervengan en las operaciones a que se refiere este artículo, deberán insertar en sus protocolos, los datos del documento que acredite la existencia de tal autorización y su omisión los responsabiliza de los daños y perjuicios que se pudiesen ocasionar.
+A más tardar cinco días antes de la instalación de los órganos ejecutivos desconcentrados, la Comisión aprobará los programas de capacitación para la Consulta, a propuesta de la Vocalía de Capacitación Electoral y de Educación Cívica del Instituto.
 
 ###### ARTÍCULO 64.
 
-A fin de regular la operación y funcionamiento interno de la Unidad de Fomento Industrial que se establezca, así como ordenar el uso y ocupación del suelo, conservar su imagen urbana y proteger el valor del inmueble, deberá aprobarse por parte de la Secretaría, un Reglamento Interior de Operación, el que será de observancia general para todas las personas físicas y jurídicas relacionadas con el área; dicho ordenamiento deberá contener, por lo menos las siguientes disposiciones:
-
-I.- El uso, desarrollo o destino del suelo;
-
-II.- Los requisitos para la adquisición de inmuebles;
-
-III- Los fines, destinos, condiciones y limitantes para los inmuebles adquiridos, conforme a las disposiciones u ordenamientos aplicables;
-
-IV.- El plazo límite para que los adquirentes inicien la construcción de instalaciones, el cual de ningún modo podrá ser mayor de seis meses, contados a partir de la fecha en que se reciba el inmueble;
-
-V.- Las normas para la contratación de líneas telefónicas, electricidad, gas y agua;
-
-VI.- Las reglas para la ubicación y uso de estacionamientos, incluyendo las áreas de carga y descarga;
-
-VII.- Los requisitos para la instalación y construcción de infraestructura y componentes;
-
-VIII.- Las normas para prevenir riesgos de operación y medidas de seguridad;
-
-IX.- Las disposiciones en materia de protección ecológica y ambiental, sobre porcentaje y mantenimiento de las zonas ajardinadas y reserva ecológica del área; y
-
-X.- Las demás normas necesarias y convenientes, de acuerdo con la naturaleza de la Unidad de Fomento Industrial y de las empresas que se establezcan en ella, para optimizar la consolidación de la misma.
+Junto con la notificación a los ciudadanos insaculados, se impartirá el primer curso de capacitación, el segundo, al momento de la entrega de los nombramientos respectivos.
 
 ###### ARTÍCULO 65.
 
-Para la elaboración, expedición y aplicación de cada Reglamento Interior de Operación, se observarán las normas siguientes:
+El día de la jornada de consulta, con excepción de lo referido a la participación de los representantes de los partidos políticos, se procederá a la instalación de la casilla y recepción de la votación, en lo conducente conforme a lo establecido en el Título Tercero, Capítulo Primero del Libro Quinto del Código.
 
-I.- Será proyectado por el promotor y/o la persona jurídica que se hubiere constituido;
-
-II.- Deberá remitirse a la Secretaría para aprobación de su Titular;
-
-III.- Para su debida vigencia y observancia, será publicado en el Periódico Oficial del Estado;
-
-IV.- No podrán ser materia del Reglamento las normas de orden técnico y administrativo, que infieran en la actividad interna de las empresas y obstaculicen su función;
-
-V.- Cualquier modificación posterior, deberá seguir el mismo procedimiento; y
-
-VI.- El Reglamento surtirá efectos a partir de la fecha de publicación en el Periódico Oficial del Estado.
+Para mantener el orden en la casilla, será aplicable lo establecido en el Capítulo Tercero del mismo Título.
 
 ###### ARTÍCULO 66.
 
-A fin de facilitar la operación de la Unidad de Fomento Industrial que se establezca, tanto el promotor, como la persona jurídica que se haya constituido, y los adquirentes, estarán obligados a constituir una Oficina de Administración la que se integrará por un gerente, un contador y el personal de apoyo secretarial, de vigilancia y de mantenimiento que se requiera, dicha oficina tendrá las siguientes funciones:
+A las 18:00 horas se cerrará la votación, con las excepciones previstas en el artículo 181 del Código.
 
-I.- Administrar los bienes de la unidad, así como proporcionar o gestionar los servicios que correspondan;
-
-II.- Vigilar y supervisar el cumplimiento de las disposiciones que regulen la operación o funcionamiento interno de la Unidad;
-
-III.- Establecer las políticas de comercialización y oferta de servicios en condiciones competitivas, así como las facilidades e incentivos que ofrezcan, respecto a otros desarrollos industriales;
-
-IV.- Diseñar e implementar programas de promoción, a través de material gráfico, audiovisual, anuncios hemerográficos, medios informáticos, Internet, visitas y presentaciones personales, entre otros; y
-
-V.- En general, atender las necesidades y obligaciones que le señalen los integrantes de la Unidad de Fomento Industrial de que se trate.
+2. DEL ESCRUTINIO Y CÓMPUTO EN LA MESA DIRECTIVA DE CONSULTA
 
 ###### ARTÍCULO 67.
 
-El establecimiento de Unidades de Fomento Industrial, comprenderá cuatro etapas: planeación, delimitación, autorización y construcción, y se deberá cumplir con los siguientes requisitos:
+A través del escrutinio y cómputo se determinará:
 
-I.- Que se presente un plan específico de las características y propósitos de la unidad de fomento, así como, que la urbanización cubra los requisitos que establece la autoridad competente, considerando la disponibilidad de comunicaciones y servicios básicos;
+I. El número de ciudadanos que participaron;
 
-II.- Que exista factibilidad de servicios de infraestructura industrial;
+II. El número de votos emitidos por cada una de las opciones de la consulta;
 
-III.- Regularidad en la propiedad del predio en que se desarrollará;
+III. El número de votos anulados; y,
 
-IV.- Una adecuada ubicación, de manera que su asentamiento se realice dentro de las áreas autorizadas para tal efecto;
-
-V.- Impulsar el proyecto de la Unidad de Fomento Industrial desde su planeación, delimitación, autorización, construcción, comercialización y operación;
-
-VI.- Que la ubicación beneficie a los asentamientos urbanos existentes o susceptibles de crecimiento, que proporcionarán la mano de obra; así como facilidades para el transporte;
-
-VII.- Gestionar la obtención de los recursos necesarios para la dotación de infraestructura;
-
-VIII.- Que la infraestructura existente o a establecer, sea adecuada y responda a los requerimientos tecnológicos y de preservación ecológica;
-
-IX.- Que cuente con la resolución de impacto ambiental, que dicte la autoridad competente; y
-
-X.- Trabajar de manera coordinada con las autoridades competentes en la realización de estudios de factibilidad técnica, económica, financiera y de recursos naturales que demuestren la viabilidad de la Unidad de Fomento Industrial.
+IV. El número de boletas no utilizadas.
 
 ###### ARTÍCULO 68.
 
-La Secretaría en coordinación con el interesado, integrará el expediente con los documentos que demuestren que se han cubierto los requisitos señalados en el artículo anterior, a fin de que emita el Dictamen de Viabilidad de la Unidad de Fomento Industrial de que se trate, las cuales deberán cubrir además los requisitos establecidos en el artículo anterior.
+El procedimiento del escrutinio y cómputo en la mesa directiva de consulta será el siguiente:
+
+I. El Secretario inutilizará las boletas sobrantes con dos líneas paralelas;
+
+II. El Secretario abrirá la urna;
+
+III. El Secretario comprobará si el número de votos corresponde al número de ciudadanos que participaron conforme a la lista nominal;
+
+IV. El Escrutador separarán (sic) las boletas de acuerdo a la opción marcada por el ciudadano;
+
+V. Las boletas en las que no sea posible distinguir la intención del ciudadano se contarán como votos nulos; por lo que se separarán del resto;
+
+VI. El Escrutador contabilizará en voz alta los votos por cada una de las opciones asentadas en la boleta;
+
+VII. El Secretario llenará el acta correspondiente con los resultados, misma que deberá ser firmada por los integrantes de la mesa directiva de consulta; y,
+
+VIII. El Presidente declarará los resultados y los fijará en el exterior de la casilla con la firma de sus integrantes.
+
+3. DEL ENVÍO Y RECEPCIÓN DE PAQUETES DE LA CONSULTA
 
 ###### ARTÍCULO 69.
 
-Las superficies y demás aspectos relacionados con el desarrollo de Ciudades Industriales, deberán apegarse a las Normas Mexicanas de Parques Industriales, de Accesibilidad y las demás aplicables en materia de Fomento Industrial.
+Se formará un paquete de la consulta por cada mesa de consulta que contendrán (sic) toda la documentación utilizada en la jornada.
+
+En el exterior del paquete, deberán adherirse en sobres por separado dos ejemplares legibles del acta de escrutinio y cómputo, dirigidos el primero al Presidente del órgano ejecutivo desconcentrado y el segundo para el programa de resultados preliminares.
 
 ###### ARTÍCULO 70.
 
-Con base en el esquema jurídico administrativo, establecido en el Decreto del Ejecutivo por el que autoriza y declara de utilidad pública la creación de la Unidad de Fomento Industrial de que se trate, el Gobierno del Estado a través de la Secretaría y el promotor establecerán, en un Convenio de Colaboración, las acciones correspondientes para el desarrollo de la Unidad de Fomento Industrial, regulando los siguientes aspectos:
-
-I.- El monto de la inversión requerida para la construcción de la infraestructura de la Unidad de Fomento Industrial;
-
-II.- Las aportaciones económicas que corresponda efectuar al Gobierno del Estado y al promotor, para cubrir el monto total de la inversión requerida, así como los instrumentos o mecanismos a través de los cuales, en su caso, el promotor obtendrá y administrará los recursos necesarios para cubrir su aportación;
-
-III.- Los derechos y obligaciones del promotor en el desarrollo de la Unidad de Fomento Industrial, con los límites y las reservas que, en la materia, competan a la Secretaría;
-
-IV.- Las acciones que de manera coordinada deban implementarse para la promoción y comercialización de los lotes industriales, en la Unidad de Fomento Industrial de que se trate;
-
-V.- Los plazos de ejecución de las diversas etapas que se establezcan, para el desarrollo de la Unidad de Fomento Industrial de que se trate;
-
-VI.- El medio legal a través del cual se enajenarán los lotes industriales de la Unidad de Fomento Industrial, a las empresas adquirentes, y las condiciones que se les establezcan para llevar a cabo dicha adquisición; y
-
-VII.- Las demás, necesarias para el desarrollo de la Unidad de Fomento Industrial correspondiente.
+Bajo la responsabilidad del Presidente de la mesa directiva de consulta, se entregarán los paquetes de la consulta en los órganos ejecutivos desconcentrados, dentro de los plazos previstos en el artículo 191 del Código.
 
 ###### ARTÍCULO 71.
 
-Corresponderá a la Secretaría realizar los trámites correspondientes, ante las instancias competentes, a efecto de que pueda procederse a la enajenación de los lotes industriales, bajo la modalidad establecida, tanto en el Decreto del Gobernador del Estado de Puebla por el que autoriza y declara de utilidad pública la creación de la Unidad de Fomento Industrial, como en la autorización que al efecto emita el Honorable Congreso del Estado, considerando las siguientes bases:
+La Comisión podrá acordar un mecanismo para la recolección de los paquetes de las casillas.
 
-I.- El Gobernador del Estado de Puebla podrá, con apego a las leyes, constituir usufructo, cesión, concesión, arrendamiento, permuta, gravamen o enajenación, a favor de cualquier persona física o jurídica, sobre inmuebles propiedad del Estado, para uso industrial, mediante la integración de unidades fabriles u oficinas de servicios, destinadas al desempeño de actividades económicas de acuerdo a la normatividad vigente. Al respecto, su adquisición por cualquiera de los medios señalados podrá gozar de los mismos beneficios e incentivos que conforme a la presente Ley otorga el Ejecutivo;
+### CAPÍTULO III. DE LA JORNADA DE CONSULTA
 
-II.- Cuando la adquisición a que se refiere este articulo sea onerosa, deberá sujetarse a los precios que resulten de los avalúos públicos, que para cada Unidad Industrial determine el Instituto de Catastro del Estado de Puebla, pudiendo emitirse un precio de fomento, previamente autorizado por la Secretaría o el Ayuntamiento correspondiente;
-
-III.- El Gobierno del Estado o el Ayuntamiento correspondiente, procederá a escriturar los lotes industriales que enajene a las empresas, en un plazo que no excederá a cinco meses, a partir de que la empresa haya satisfecho las condiciones que le hayan sido establecidas para dicha enajenación; y
-
-IV.- Por ningún motivo, el Gobierno del Estado o el Ayuntamiento correspondiente, podrá entregar la posesión del inmueble al adquirente, si las partes no hubieren formalizado la enajenación mediante escritura pública.
-
-### CAPÍTULO IX. DEL FOMENTO INDUSTRIAL
+1. DEL DESARROLLO DE LA JORNADA DE CONSULTA
 
 ###### ARTÍCULO 72.
 
-La Secretaría fomentará y apoyará, en el ámbito de su competencia, la creación, promoción y consolidación de los diferentes conjuntos, parques, corredores y ciudades industriales en el Estado, procurando generar las condiciones para lograr el desarrollo óptimo de los mismos y de tal manera que permita operar a costos competitivos, a las plantas industriales y de servicios, en ellos establecidos.
+A partir de su recepción por el órgano ejecutivo desconcentrado, se procederá conforme a lo dispuesto en los artículos 191 y 191-A del Código.
 
 ###### ARTÍCULO 73.
 
-La Secretaría coordinará operativamente la participación de las dependencias, entidades, organismos y representantes del sector privado competentes, involucrados en el desarrollo de las Unidades de Fomento Industrial.
+El miércoles siguiente al de la jornada de consulta los órganos ejecutivos desconcentrados harán el cómputo municipal o distrital, según corresponda, de acuerdo con lo siguiente:
 
-## TÍTULO TERCERO. DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA Y LA ACTIVIDAD ARTESANAL
+I. Se examinarán los paquetes, separando los que tengan signos de alteración;
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+II. Por orden numérico de las casillas contando al final las especiales, el Presidente cotejará los resultados contenidos en el ejemplar del acta de escrutinio y cómputo de casilla que tiene en su poder, con los del original que deberá estar dentro del paquete; de no existir uno o el otro ejemplar del acta, el cotejo se hará con el del PREP; si son coincidentes se asentarán en el formato correspondiente;
+
+III. Si no coinciden se hará de nueva cuenta el cómputo, siguiendo el procedimiento previsto en las fracciones IV, V, VI y VII del artículo 68 de este Reglamento;
+
+IV. Si existen errores evidentes no subsanables en las actas de casilla se procederá de nueva cuenta al cómputo conforme a lo previsto en la fracción anterior;
+
+V. Acto seguido se abrirán los paquetes con signos de alteración, siguiendo en lo conducente el procedimiento anterior; y,
+
+VI. La suma de los resultados de todas las casillas instaladas, constituirá el cómputo municipal o distrital, según se trate.
+
+## TÍTULO III. DE LA COMISIÓN DE PROCEDIMIENTOS DE CONSULTA CIUDADANA
+
+### CAPÍTULO IV. DE LA ETAPA DE RESULTADOS DE LA CONSULTA
+
+1. DE LOS CÓMPUTOS DISTRITALES O MUNICIPALES
 
 ###### ARTÍCULO 74.
 
-Las disposiciones de este Título, tendrán por objeto, impulsar la consolidación y el desarrollo integral de la micro, pequeña y mediana empresa, así como de la actividad artesanal en el Estado, hasta lograr su plena consolidación, mediante las siguientes acciones:
-
-I.- Desarrollar programas que promuevan el desarrollo de las capacidades empresariales; y
-
-II.- Promover esquemas de colaboración con instituciones públicas, privadas, académicas y sociales, a fin (sic) impulsar el desarrollo empresarial, para la obtención de servicios que beneficien a la microempresa y a sus productos.
+Los resultados serán publicados en el exterior de las oficinas de los órganos ejecutivos desconcentrados.
 
 ###### ARTÍCULO 75.
 
-A fin de estar en posibilidades de acceder a los incentivos y beneficios que éste u otros ordenamientos les otorguen, las personas que se dediquen a la microempresa o la actividad artesanal en el Estado, deberán solicitar que la Secretaría, gestione su inscripción tanto en el Padrón Nacional de la Microindustria, como en el Sistema de Información Empresarial Mexicano. Una vez satisfechos los requisitos relativos a registros, licencias o autorizaciones, a los solicitantes, se les hará entrega de la Cédula de Registro de la Microindustria y el Certificado de Inscripción a dicho Sistema, sin costo alguno para el solicitante.
+El acto de cómputo municipal o distrital será público.
 
 ###### ARTÍCULO 76.
 
-La Secretaría emitirá y distribuirá gratuitamente a los interesados, las formas oficiales sobre la realización de trámites, para el otorgamiento de apoyos a las empresas que acrediten su calidad de microempresarios o artesanos en términos de lo señalado en el artículo anterior.
+Las actas de los cómputos municipales y distritales, serán remitidas de inmediato al Consejo General.
+
+2. DEL CÓMPUTO ESTATAL O DE LA VALIDACIÓN DE RESULTADOS
 
 ###### ARTÍCULO 77.
 
-Se entiende por actividad artesanal el trabajo realizado en forma individual, familiar o comunitaria, que sea desempeñado manualmente, con el auxilio de herramientas primarias y que tenga por objeto la transformación técnica y estética de productos o sustancias en artículos nuevos, utilitarios o de ornato, que adquieran un carácter simbólico o impliquen una función cultural que los identifique con su región y comunidad de origen, comprendiendo asimismo un conjunto de habilidades, destrezas y procedimientos específicos, transmisibles generacionalmente.
+El domingo siguiente al de la jornada de consulta el Consejo General hará el cómputo estatal de la consulta, mediante la suma de los resultados contenidos en las actas de los cómputos distritales; levantando el acta correspondiente.
 
 ###### ARTÍCULO 78.
 
-Exclusivamente para acreditar oficialmente la calidad de microempresario o artesano de las personas físicas o jurídicas que se dediquen a dichas actividades, y previo el cumplimiento de los requisitos legales que correspondan, la Secretaría o los Ayuntamientos que así convengan con ésta, expedirán gratuitamente la Cédula de Microempresario, la cual tendrá una vigencia de tres años y deberá consignar por lo menos los siguientes datos:
-
-I.- Nombre, denominación o razón social;
-
-II.- Domicilio;
-
-III.- Actividades preponderantes;
-
-IV.- Número de trabajadores y aprendices;
-
-V.- Monto del capital social y/o de la inversión realizada; y
-
-VI.- Número de registro y fecha de expedición de la cédula.
+En el caso de las consultas municipales, el domingo siguiente al de la jornada, se informará al Consejo General de los resultados.
 
 ### CAPÍTULO II. DEL APOYO INTEGRAL Y OTROS BENEFICIOS
 
 ###### ARTÍCULO 79.
 
-Para la ejecución de programas, proyectos y sistemas, así como de sus procedimientos, acciones y medidas de fomento a la creación de micro, pequeñas y medianas empresas y el apoyo para su viabilidad, productividad, integración, competitividad, sustentabilidad y generación de información, el Gobierno del Estado, mantendrá acciones coordinadas con el Gobierno Federal, con los Ayuntamientos y con el Sector Privado. Para implementar procedimientos y acciones de apoyo integral o el otorgamiento de otros beneficios, para la microempresa y la actividad artesanal, el Gobierno del Estado, a través de las instancias competentes y de conformidad con sus atribuciones, mantendrá una acción coordinada con el Gobierno Federal, con los Ayuntamientos, instituciones públicas y privadas o los demás organismos de los sectores académicos y sociales.
+Los resultados serán publicados de acuerdo a lo previsto en el artículo 58 de la Ley.
 
 ###### ARTÍCULO 80.
 
-Con el fin de fomentar el desarrollo de las micros pequeñas y medianas empresas, así como de la actividad artesanal, en el ámbito Estatal o Regional, el Gobierno del Estado apoyará la gestión de mecanismos crediticios que sean oportunos, suficientes y adecuados a su problemática, y que se encuentren establecidos en los fondos y organismos financieros de carácter público.
+En la misma sesión, el Consejo General emitirá la resolución del Referéndum o Plebiscito de que se trate, en la que se determinará, en su caso, el carácter vinculante de los resultados para la autoridad, de acuerdo a lo previsto en los artículos 33, 47 Y 57 de la Ley.
+
+Se considerarán con efectos vinculatorios los resultados del Referéndum o Plebiscito que cumplan con lo establecido en los artículos 33 y 42 de la Ley, en tanto que se considerarán con efectos indicativos aquellos en que la opinión manifestada por parte de los ciudadanos en determinado sentido, no alcance el porcentaje requerido en la Ley.
 
 ###### ARTÍCULO 81.
 
-Con el fin de apoyar y fomentar la actividad artesanal el Instituto de Artesanías e Industrias Populares del Estado de Puebla, realizará las siguientes acciones:
+La resolución a que se refiere el artículo anterior será notificada a los interesados y a la autoridad que corresponda, dentro del plazo de siete días posteriores a su aprobación.
 
-I.- Vincular y coordinar a los artesanos con organismos públicos y privados que promuevan y fomenten los productos y el desarrollo artesanal a nivel nacional e internacional;
-
-II.- Propiciar la ejecución de programas de apoyo, gestión, asistencia técnica, financiera, administrativa y comercial, proponiendo acciones, sistemas y procedimientos ante las instancias competentes, que beneficien al sector artesanal;
-
-III.- Desarrollar programas de difusión y promoción para la micro, pequeña y mediana empresa y la actividad artesanal, así como para dar a conocer los avances obtenidos, en materia de tecnología, oportunidades de comercialización, financiamiento y mejora regulatoria; y
-
-IV.- Promover la capacitación de los artesanos para el mejoramiento de técnicas, uso de nuevas herramientas e innovación en los diseños, prevaleciendo la identidad cultural regional.
-
-## TÍTULO CUARTO. DESARROLLO MINERO
+## TÍTULO IV. REGLAS PREVIAS AL INICIO DE LOS PROCEDIMIENTOS DE CONSULTA
 
 ### CAPÍTULO ÚNICO. DEL FOMENTO MINERO
 
@@ -931,7 +753,7 @@ La Secretaría coordinará la elaboración y el seguimiento de los programas y p
 
 Para lo no contemplado en el presente Título, tendrá aplicación la legislación aplicable en materia minera.
 
-## TÍTULO QUINTO. DESARROLLO COMERCIAL Y DE SERVICIOS
+## TÍTULO V. DE LA ORGANIZACIÓN DE LA CONSULTA CIUDADANA
 
 ### CAPÍTULO I. DEL ESTABLECIMIENTO DE NUEVOS COMERCIOS
 
@@ -1196,6 +1018,32 @@ El recurso de revisión tiene por objeto que la Secretaría o en su caso el Ayun
 La interposición del recurso de revisión, deberá hacerse valer dentro del plazo de quince días hábiles siguientes a la fecha de su notificación ante la autoridad que emitió el acto recurrido, debiendo de expresar el nombre y domicilio del recurrente, los antecedentes de la resolución impugnada y los agravios que se hagan valer; acompañándose de los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del recurrente. Dicho recurso será resuelto por la autoridad dentro de un plazo no mayor a los cuarenta y cinco días hábiles siguientes.
 
 ## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo y por consecuencia el Reglamento entrarán en vigor al día siguiente en que concluya el proceso electoral federal correspondiente al año 2012, dos mil doce.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en la Página de Internet del Instituto Electoral de Michoacán.
+
+Así lo acordó por unanimidad de votos, en Sesión Ordinaria, el Consejo General del Instituto Electoral de Michoacán, el día 23 de abril de 2012, dos mil doce.
+
+LIC. MARÍA DE LOS ÁNGELES LLANDERAL ZARAGOZA
+
+PRESIDENTA DEL INSTITUTO ELECTORAL DE MICHOACÁN
+
+LIC. RAMÓN HERNÁNDEZ REYES
+
+SECRETARIO GENERAL DEL INSTITUTO ELECTORAL DE MICHOACÁN
+
+(Firmados)
+
+CERTIFICACIÓN
+
+EL QUE SUSCRIBE, MTRO. RAMÓN HERNÁNDEZ REYES, SECRETARIO GENERAL DEL INSTITUTO ELECTORAL DE MICHOACÁN, CON FUNDAMENTO EN EL ARTÍCULO 116 FRACCIÓN VIII DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN, CERTIFICA QUE EL PRESENTE DOCUMENTO EN 24 FOJAS ÚTILES POR UN LADO, ES COPIA FIEL DEL ORIGINAL, EL CUAL TUVE A LA VISTA.
+
+MORELIA, MICHOACÁN 23 DE ABRIL DEL 2012.
+
+MTRO. RAMÓN HERNÁNDEZ REYES
+
+(Firmado)
 
 ###### ARTÍCULO PRIMERO.
 
