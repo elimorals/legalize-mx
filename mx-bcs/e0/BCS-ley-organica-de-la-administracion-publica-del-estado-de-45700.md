@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2012-05-16"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -121,9 +121,11 @@ El Gobernador del Estado podrá convocar a los titulares y demás funcionarios c
 
 El Gobernador del Estado podrá constituir comisiones para el despacho de los asuntos en los cuales por su naturaleza, deban intervenir varias dependencias del Ejecutivo. Las entidades de la Administración Pública Paraestatal podrán integrarse a estas comisiones, cuando se traten asuntos relacionados con su objeto. Estas comisiones podrán ser transitorias o permanentes y serán integradas por los titulares o representantes de las dependencias interesadas. Serán presididas por el titular o representante de la dependencia que el propio Gobernador determine.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 12.
 
-El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados de confianza de la Administración Pública Estatal, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las leyes del Estado.
+El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados de confianza de la Administración Pública Estatal, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las leyes del Estado, garantizado el principio de igualdad de género.
 
 ###### ARTÍCULO 13.
 
@@ -391,7 +393,7 @@ a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 b) Elaborar y presentar al Gobernador del Estado, previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos.
 
-c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
+c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo y Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
 d) Establecer los sistemas que permitan una mayor racionalidad en el aprovechamiento de los recursos financieros;
 
@@ -1700,3 +1702,9 @@ B.O. 16 DE MAYO DE 2012.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado proveerá lo conducente a fin de adecuar las disposiciones reglamentarias y demás normas administrativas que en términos de lo dispuesto por el artículo 18 de la Ley Orgánica de la Administración Pública del Estado sean necesarias para la creación del Centro Estatal de Becas y Apoyos Educativos.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas disposiciones que se opongan la (sic) presente decreto.
