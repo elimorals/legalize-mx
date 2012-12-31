@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-71415"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-18"
-last_updated: "2012-03-16"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Trigésima Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 2009.
 
@@ -1704,3 +1706,23 @@ P.O. 16 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha dieciocho de diciembre de dos mil nueve.
+
+TERCERO.- Los Notarios que a la entrada en vigor de la presente Ley, aún cuenten con libros de Protocolo Cerrado, una vez concluidos éstos, deberán iniciar el uso de folios que integran el Protocolo Abierto.
+
+CUARTO.- Para los efectos de esta Ley, el Protocolo Cerrado y los índices que se encuentren en poder del Notario, de la Secretaría o en el Archivo a la entrada de la misma, equivaldrán a las acepciones protocolo y control de folios de conformidad con los artículos 50 y 63, respectivamente.
+
+QUINTO.- Por lo que hace al respaldo electrónico de los protocolos que se encuentren en uso, los Notarios contarán con un plazo de doce meses a partir de la entrada en vigor de la presente Ley, para dar cumplimiento a esta disposición.
+
+SEXTO.- Se respetarán los derechos adquiridos por los particulares y Notarios Titulares, Auxiliares y Suplentes, así como la validez de todos los asuntos y trámites iniciados durante la vigencia de Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado, de fecha dieciocho de diciembre de dos mil nueve y que se abroga mediante el presente Decreto.
+
+Los procedimientos iniciados durante la vigencia de la Ley que se abroga por el presente Decreto, deberán ser substanciados conforme a aquélla hasta el momento de su conclusión.
+
+SÉPTIMO.- La Secretaría en un plazo no mayor a doce meses contados a partir de la entrada en vigor del presente Decreto, expedirá los Lineamientos que regulen el uso y funcionamiento del Protocolo Electrónico a que se refiere esta Ley.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
