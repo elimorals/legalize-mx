@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2012-11-05"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 143 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -353,7 +351,9 @@ Todo permiso provisional expedido por la Dirección General de Seguridad Públic
 
 Los vehículos requieren, para su tránsito en el Estado de Aguascalientes, del registro correspondiente ante la autoridad competente del Gobierno del Estado, dicho registro se comprobará mediante la exhibición de las placas, de la calcomanía vigente a éstas y de la tarjeta de circulación, instrumentos que deberán llevarse en el vehículo.
 
-Para proceder al registro de un vehículo de motor la Dirección comprobará que el vehículo satisface los requisitos establecidos por esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Para proceder al registro de un vehículo de motor se deberán (sic) cumplir con lo establecido en la Ley de Hacienda del Estado de Aguascalientes y en el Reglamento del Padrón Vehicular del Estado de Aguascalientes, la Dirección comprobará que el vehículo satisface los requisitos establecidos por estas disposiciones.
 
 El registro de vehículos ante la Dirección obliga a su propietario al cumplimiento de esta Ley y ordenamientos concordantes, y a usarlo en la forma y términos correspondientes al servicio para el que se encuentre destinado, sin más limitaciones que las modalidades que dicte el interés público.
 
@@ -3102,3 +3102,9 @@ P.O. 7 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
