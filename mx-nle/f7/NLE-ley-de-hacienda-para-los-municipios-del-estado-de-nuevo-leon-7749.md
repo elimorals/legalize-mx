@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2011-12-26"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -37,7 +37,7 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1o.
 
@@ -323,11 +323,11 @@ f) Los entes u organismos creados por el poder público, para solucionar el prob
 
 g) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO I BIS. IMPUESTO PREDIAL
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION PRIMERA. DEL OBJETO DEL IMPUESTO
 
@@ -343,7 +343,7 @@ II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 III.- La propiedad de predios rústicos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 IV.- La posesión de predios urbanos o rústicos, en los casos siguientes:
 
@@ -357,7 +357,7 @@ d) Cuando siendo propiedad del Estado, de sus Municipios o de la Federación, se
 
 El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes, edificadas sobre los predios.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS DEL IMPUESTO
 
@@ -401,7 +401,7 @@ VI.- Los usufructuarios, usuarios y habituarios.
 
 VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en los que se establezca que al término del plazo pactado se le transferirá la propiedad del bien objeto de éstos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. DETERMINACION DE LA BASE
 
@@ -435,7 +435,7 @@ La tasa del impuesto, cuando se trate del primer avalúo del predio, se aplicar�
 
 En los casos de modificación del valor catastral de un predio, el impuesto predial se determinará sobre el nuevo valor catastral que resulte, el cual se aplicará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia que motive la modificación. En caso de que resulte un incremento del impuesto, el contribuyente deberá pagar la diferencia de impuesto que resulte, aún y cuando se hubiere realizado el pago por anualidad, con el valor anterior. Si la modificación al valor catastral conlleva un decremento en el impuesto, la Tesorería Municipal deberá devolver al contribuyente las cantidades pagadas en exceso, desde la fecha en que se dieron los hechos que motivaron la reducción en el valor catastral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 21 Bis 6.
 
@@ -445,7 +445,7 @@ La división de un predio deberá ser manifestada a la Secretaría de Finanzas y
 
 Mientras se practica la valuación correspondiente a cada porción del predio dividido, se tendrá provisionalmente como base gravable para cada una de esas porciones, la parte proporcional del valor con el que venía tributando.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION CUARTA. DE LA BASE DEL IMPUESTO
 
@@ -455,7 +455,7 @@ Mientras se practica la valuación correspondiente a cada porción del predio di
 
 La base del impuesto será el valor catastral del inmueble, el cual será determinado conforme al procedimiento previsto en la Ley del Catastro. Esta base se ajustará a pesos, aumentando o disminuyendo las décimas a la unidad más próxima, según éstas excedan o no de N$.50.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION QUINTA. DE LA TASA DEL IMPUESTO
 
@@ -477,7 +477,7 @@ Tratándose de predios con edificaciones comerciales, industriales, de servicios
 
 Si una parte de la edificación tiene un uso habitacional, la tasa a que se refiere el párrafo anterior se aplicará únicamente respecto del valor catastral de las construcciones no habitacionales e instalaciones, y en lo que respecta al valor catastral del terreno y de las construcciones e instalaciones cuyo destino no sea posible identificar, se les aplicará la tasa en la proporción que represente el valor catastral de las construcciones e instalaciones identificables como de uso no habitacional, respecto del total de las construcciones con uso identificable, ya sea habitacional o no. A la proporción restante se le aplicará la tasa de acuerdo al primer párrafo de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 21 Bis 9.
 
@@ -519,7 +519,7 @@ VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asoc
 
 VIII.- Los predios pertenecientes a entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; o a las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey" respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de 6,049 cuotas, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre que habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado y que la propiedad o posesión por la que se solicite, esté inscrita en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 IX.- Los predios cuyo valor catastral no exceda de 7,354 cuotas y pertenezcan a:
 
@@ -565,7 +565,7 @@ XI.- Los predios pertenecientes a las asociaciones religiosas, siempre que los m
 
 Los contribuyentes que soliciten la tarifa única especial a que se refiere este artículo, deberán estar al corriente en el pago del impuesto predial para ser considerados dentro de dicho beneficio. En los casos establecidos en las fracciones I, II, III, VII y IX, el Ayuntamiento, a propuesta del Presidente Municipal, podrá otorgar, si lo juzga conveniente, una bonificación de hasta un 50% en el monto del rezago de este impuesto, siempre y cuando el beneficiario acredite que tuvo derecho a gozar del citado beneficio durante el período del rezago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 21 Bis 10.
 
@@ -587,11 +587,11 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1991)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21 Bis 12.
 
@@ -637,7 +637,7 @@ Los servidores públicos adscritos a las tesorerías municipales brindarán a lo
 
 El pago de este impuesto deberá efectuarse en la oficina recaudadora municipal correspondiente o en los lugares que la Tesorería Municipal determine.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 21 Bis 14.
 
@@ -669,7 +669,7 @@ Corresponde a los contribuyentes determinar las diferencias de construcción a m
 
 Los documentos para el pago del Impuesto Predial que expida la Secretaría de Finanzas y Tesorería General del Estado o la Tesorería Municipal, sólo tendrán efectos en relación con este mismo impuesto.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEPTIMA. DE LAS MANIFESTACIONES Y AVISOS
 
@@ -697,7 +697,7 @@ Las manifestaciones a que alude este Capítulo y la Ley del Catastro, respecto d
 
 También se consideran comprendidas en este Artículo las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario. Los Notarios Públicos, Jueces y demás fedatarios que autoricen dichas escrituras, tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -739,11 +739,11 @@ Los sujetos del impuesto están obligados a manifestar a la Secretaría de Finan
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28 Bis.
 
@@ -753,13 +753,13 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Es base de este impuesto el valor gravable, que será el valor que resulte mayor entre el de operación y el valor catastral del inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 28 Bis 1.
 
 En la adquisición de viviendas cuyo valor gravable no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única especial por cada inmueble equivalente a 7 cuotas, en los siguientes casos:
 
@@ -767,7 +767,7 @@ El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única espe
 
 I.- En las adquisiciones realizadas por instituciones de beneficencia privada, constituidas en términos legales, respecto de bienes destinados exclusivamente a sus fines.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 II.- En las adquisiciones hechas por instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación y de la Ley de Educación del Estado, por los bienes destinados exclusivamente a sus fines educativos.
 
@@ -907,7 +907,7 @@ Si el arrendatario financiero se encuentra en los supuestos previstos en el art�
 
 En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
@@ -931,7 +931,7 @@ Para los fines del Impuesto sobre Adquisición de Inmuebles, se considera que el
 
 Cuando el valor de operación se pacte en moneda extranjera, el tipo de cambio se determinará al que se indique en el contrato privado o la escritura pública correspondiente, o en su defecto, de acuerdo al que rija el día de firma del contrato, en su caso el día de firma de la escritura, conforme al que se publicó por el Banco de México, en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 III. En las adquisiciones que se hagan constar en escrituras públicas, actas fuera de protocolo o cualquier otro instrumento o contrato en que intervengan los notarios, jueces corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, haciendo constar en la escritura o documento el procedimiento para su cálculo y lo declararán y enterarán mediante la formulación de una nota oficial, conforme al modelo autorizado; la nota declaratoria deberá estar firmada por el fedatario conjuntamente con el contribuyente, debiendo señalarse domicilio común para el efecto de oír y recibir notificaciones en el Municipio donde se ubique el inmueble adquirido. Si se omite el señalamiento del domicilio para recibir notificaciones en los términos señalados en este párrafo, la Tesorería Municipal podrá notificar por estrados las resoluciones respectivas. Si el impuesto es cubierto directamente por el contribuyente, el fedatario hará constar tal circunstancia en la escritura del documento en que intervenga, antes de proceder a autorizar dicho instrumento. En el documento que se presente para su inscripción en el Registro Público de la Propiedad y del Comercio, los fedatarios insertarán los datos del recibo oficial o declaración de pago del impuesto correspondiente.
 
@@ -983,7 +983,7 @@ En caso de no cumplir con lo anterior o haber cumplido en forma parcial, con la 
 
 El pago del impuesto deberá hacerse:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 I.- Dentro de los 60 días naturales seguidos a aquél en que:
 
@@ -1081,7 +1081,7 @@ Para los efectos del Artículo anterior, cuando el enajenante, sea un fraccionad
 
 ### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 29.
 
@@ -1135,7 +1135,7 @@ II.- Si explotan las actividades gravadas en forma eventual o transitoria, sean 
 
 Para los efectos de este artículo, se considera que un contribuyente realiza las actividades gravadas en forma permanente si las lleva a cabo, en un establecimiento, sea fijo o no, con una periodicidad mínima de dos eventos cada mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 32.
 
@@ -1157,7 +1157,7 @@ II.- El impuesto se determinará, al terminar cada función, por los interventor
 
 III.- La Tesorería Municipal podrá exigir que los sujetos garanticen, previamente, a la autoridad municipal, la recaudación y entrega puntual del rendimiento del impuesto a que se refiere este Artículo, mediante efectivo o cheque certificado a nombre de la Tesorería Municipal correspondiente, el cual se depositará una vez vencido el término del pago del impuesto, cuando éste no se haya realizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 IV.- El impuesto deberá quedar liquidado dentro de los 10-diez días hábiles siguientes a la terminación de la función.
 
@@ -1267,7 +1267,7 @@ f) de $100.00 a $1,500.00 diarios, en el caso del inciso f) del Artículo 33.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ### CAPITULO VII. IMPUESTO A LA ADQUISICION DE CITRICOS
 
@@ -1337,7 +1337,7 @@ II.- Dar aviso ante la misma autoridad, y dentro del plazo que señala la Fracci
 
 III.- Adoptar las medidas de control que para el pago del impuesto establezcan las autoridades correspondientes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO VIII BIS (SIC). IMPUESTO SOBRE AUMENTO DE VALOR Y MEJORIA ESPECIFICA DE LA PROPIEDAD
 
@@ -1375,7 +1375,7 @@ Cuando sean personas distintas el propietario de la tierra y el de las construcc
 
 El monto total del impuesto no podrá exceder del costo de la obra pública de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 12.
 
@@ -1719,7 +1719,7 @@ El monto de los derechos que, en cada caso concreto deban pagarse, conforme a la
 
 Los derechos de cooperación se causarán cuando el Presidente Municipal acuerde realizar la obra mediante concurso público o de invitación, que estará sujeto a las reglamentaciones respectivas. Para los efectos de ese Título, cuando se trate de obras de pavimentación o repavimentación, su duración mínima será de diez años y, en consecuencia, no se podrá acordar una nueva realización de las mismas antes de ese plazo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 49.
 
@@ -1733,7 +1733,7 @@ La construcción de obras públicas y cooperación para una zona o sector podrá
 
 ### CAPITULO II. POR SERVICIOS PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 50.
 
@@ -1811,7 +1811,7 @@ VII.- Por ave .018 cuotas
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 51.
 
@@ -1857,13 +1857,13 @@ Cuando se trate de animales incompletos, se causarán los derechos que establece
 
 ### CAPITULO III. POR CONSTRUCCIONES Y URBANIZACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 52.
 
 Servicios prestados por las oficinas competentes en materia de Obras Públicas y Desarrollo Urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 I.- Por examen y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
@@ -1903,7 +1903,7 @@ En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por
 
 Por los servicios prestados en tramitaciones urbanísticas que se realizan en el Municipio en materia de desarrollo urbano:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 I.- Por subdivisiones, parcelaciones, fusiones y relotificaciones, por cada lote o fracción resultante 30 cuotas
 
@@ -1915,7 +1915,7 @@ Por los predios resultantes de hasta 250 metros cuadrados de superficie y los qu
 
 Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
@@ -1939,7 +1939,7 @@ d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
 
 e) Mayor de 1,000 m2 30 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por la licencia de uso de suelo o de edificaciones, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
@@ -1963,7 +1963,7 @@ d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
 
 e) Mayor de 1,000 m2 30 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
@@ -2111,7 +2111,7 @@ IV.- Los cobertizos de madera y las construcciones de tipo provisional.
 
 Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como de las personas que, sin fines de lucro, lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 55.
 
@@ -2161,7 +2161,7 @@ En todo caso, la placa con el número oficial podrá adquirirse, a elección del
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 I.- Por la expedición de copias, certificaciones, constancias y reproducciones diversas, que expidan las dependencias y entidades del gobierno municipal, se causarán los derechos de acuerdo a las siguientes tarifas:
 
@@ -2205,13 +2205,13 @@ En todos los casos, con excepción de las solicitudes tramitadas en los término
 
 Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 II.- Por registro de regularización que a juicio de los Municipios deban llevarse a cabo, de negocios señalados en los artículos 58 y 59 de esta Ley, se cobrará una cantidad cincuenta por ciento mayor que la máxima correspondiente señalada en dichos artículos.
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
 
@@ -2227,61 +2227,61 @@ IV.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 V.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII.- Fábricas de hielo, de N$40.00 a N$140.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Molinos de Nixtamal, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$40.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 X.- Peluquerías y salones de belleza, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$14,000.00 a N$36,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XII.- Baños públicos, de N$140.00 a N$360.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Salas de cine, boliches, patinaderos y salones de fiestas infantiles, de N$70.00 a N$200.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIV.- Terrazas de cine y autocinemas, de N$40.00 a N$120.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
@@ -2301,19 +2301,19 @@ c) A la intemperie, de N$110.00 a N$360.00
 
 d) Con superficie abierta no mayor de 400 metros cuadrados, de N$40.00 a N$120.00
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVI.- Salones de baile, de N$3,500.00 a N$8,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55.00 por unidad.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2643,7 +2643,7 @@ De $ 0.00 a $ 1,000.00 $ 15.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, 2 cuotas.
 
@@ -2663,19 +2663,19 @@ Dichos permisos serán provisionales y únicamente se otorgarán en caso de baja
 
 Por expedición de licencias para estacionamiento exclusivo para carga y descarga, 5 cuotas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.00 a N$70.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de N$330.00 a N$700.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 10 cuotas por cada inmueble.
 
@@ -2721,43 +2721,43 @@ En los servicios que por razones de orden público se vea obligado a prestar el 
 
 Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento, se fijarán igualmente los derechos correspondientes en razón a su costo.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PARRAFO, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
 ### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 64.
 
 Por la expedición de licencias se cobrará:
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de N$65.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por cada corrida de toros y rodeo, N$1,650.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por cada novillada, N$550.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de N$35.00 a N$130.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por licencia y medio de identificación oficial para anuncios que deberá quedar adherido al mismo, se pagarán por metro cuadrado de exposición, 2.5 cuotas.
 
@@ -2789,7 +2789,7 @@ Están exentos del pago, a que se refiere el párrafo anterior, los partidos pol
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 65.
 
@@ -2843,7 +2843,7 @@ El propietario podrá solicitar al Municipio el servicio de recolección, trasla
 
 ### CAPITULO X. POR LIMPIA Y RECOLECCION DE DESECHOS INDUSTRIALES Y COMERCIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 65 Bis.
 
@@ -2913,7 +2913,7 @@ Por otras ocupaciones de la vía pública, se pagarán 0.081 cuotas diarias por 
 
 II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 5 cuotas por unidad trimestralmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el departamento de tránsito, de acuerdo con su reglamento, se pagará una tarifa anual en la forma siguiente:
 
@@ -2933,7 +2933,7 @@ Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parq
 
 Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos del año que hayan transcurrido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existan instalados parquímetros, por cada hora $ 2.50
 
@@ -2949,7 +2949,7 @@ Cuando los parquímetros se instalen para el ordenamiento vial de una zona deter
 
 En el caso de que la autoridad municipal determine hacer uso de esa facultad, deberá informarlo en un plazo no mayor de 30 días al Congreso del Estado, señalando con precisión el fin al que serán destinados los recursos que se recauden en virtud de esta circunstancia, para que sea analizada su aplicación en la revisión de la cuenta pública correspondiente.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2957,7 +2957,7 @@ V.- Por ocupar la vía pública los organismos descentralizados del gobierno fed
 
 VI.- No especificados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
@@ -3045,7 +3045,7 @@ Las participaciones a los Municipios en los impuestos y en las participaciones d
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 69.
 
@@ -3097,7 +3097,7 @@ Los negocios que requieran autorización, deberán solicitarla oportunamente por
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 77.
 
@@ -3135,7 +3135,7 @@ Los contribuyentes que inicien sus actividades sin haber solicitado y obtenido l
 
 Las infracciones a la presente Ley, que no estén consignadas en disposiciones especiales, se sancionarán en los términos del Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 84.
 
@@ -3175,7 +3175,7 @@ Los impuestos, derechos, productos y aprovechamientos deben ser recaudados por l
 
 Una vez iniciado el procedimiento administrativo de ejecución, se cobrarán al contribuyente los gastos del mismo, cuyo importe se establecerá en los términos del Artículo 145 del Código Fiscal del Estado. Las cuotas que se tomen en cuenta para determinar los gastos de ejecución serán las que estén vigentes al momento en que se inicie el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 90.
 
@@ -3183,7 +3183,7 @@ No causan impuestos los bienes del dominio público de los Municipios, del Estad
 
 El C. Presidente Municipal hará las declaraciones generales o especiales que correspondan y podrán asimismo eximir de impuestos en cualquier otro caso, en que el producto de una actividad se destine a fines de interés público debidamente comprobados.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA APLICACION DEL PRESENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA APLICACIÓN DEL PRESENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3321,6 +3321,14 @@ Los derechos por servicio de limpia y recolección de desechos industriales y co
 
 Se suspende la vigencia del Impuesto Sobre Diversiones y Espectáculos Públicos únicamente en materia de espectáculos cinematográficos por los que se cause el Impuesto al Valor Agregado, mientras permanezca en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público, el 29 de Octubre de 1979.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 15o.
+
+Para efectos de lo dispuesto en los artículos 58 Bis y 59 Bis de esta Ley, se entiende como anuencia municipal y su revalidación anual, el permiso emitido por el Municipio para el expendio de bebidas alcohólicas hasta el mes de mayo del 2011.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veinticinco días del mes de diciembre de mil novecientos setenta y cuatro.- PRESIDENTE: DIP. LIC. JESUS J. AYALA VILLARREAL; DIP. SECRETARIO: PROFR. LIC. ERNESTO TIJERINA CANTU; DIP. SECRETARIO: LIC. JOSE LUIS CANTU VELAZQUEZ.- RUBRICAS.
@@ -3335,7 +3343,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. CESAR SANTOS SANTOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 1975.
 
@@ -3517,13 +3525,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
 
 P.O. 29 DE DICIEMBRE DE 1995.
 
-DECRETO NUMERO 130.
+DECRETO No. 130, POR EL QUE SE REFORMA EL DECRETO NÚMERO 340, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 29 DE JULIO DE 1994, EN SUS ARTÍCULOS TERCERO Y QUINTO, FRACCIÓN III Y PÁRRAFO SEGUNDO Y SE ADICIONA EN SU ARTÍCULO QUINTO, FRACCIÓN I, CON LOS INCISOS F) Y G). SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LOS ARTÍCULOS 57, FRACCIÓN II; 58, FRACCIONES VI A XVIII; 59, FRACCIONES VI A XVIII; 62, FRACCIONES II, III; 63, ÚLTIMO PÁRRAFO Y 64 FRACCIONES I, II, III Y IV, 69 Y 91 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
 
 P.O. 29 DE DICIEMBRE DE 1995.
 
-DECRETO NUMERO 132.
+DECRETO No. 132, POR EL QUE SE REFORMA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO, EN SUS ARTÍCULOS 21 BIS-9, EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES IV, VIII Y IX, PÁRRAFOS PRIMERO Y PENÚLTIMO; 21 BIS-20, EN SU ÚLTIMO PÁRRAFO; 50, EN SUS FRACCIONES I A VIII; 50 BIS, EN SUS FRACCIONES I A VII; 51, EN SUS FRACCIONES I A IX; 52, FRACCIÓN I EN SUS INCISOS A) A C); 52 BIS, FRACCIONES I A IV, INCISO A), V, INCISOS A), B), NUMERALES 1, SUBINCISOS A, B Y C, Y 2 A 6, C) A H), VII Y VIII; 55, EN SUS INCISOS A) A E) Y EN SU PENÚLTIMO PÁRRAFO; 57, EN SU FRACCIÓN I; 58, EN SUS FRACCIONES I, II, III, INCISOS A) A F), IV Y V, INCISOS A) A F); 59, EN SUS FRACCIONES I, II, III, INCISOS A) A F), IV Y V, INCISOS A) A F); 62, EN SU FRACCIÓN I, Y V; 64, FRACCIÓN V, 65, EN SUS INCISOS A) Y B); 65 BIS, EN SUS INCISOS A) A C); 65 BIS-1, EN SUS FRACCIONES I, II Y III, EN SUS INCISOS A) Y B) Y IV. SE ADICIONA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO EN SUS ARTÍCULOS 58 Y 59 CON UN ÚLTIMO PÁRRAFO, RESPECTIVAMENTE. SE DEROGA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO EN SUS ARTÍCULOS 22 A 28 Y EN SUS ARTÍCULOS SÉPTIMO Y OCTAVO TRANSITORIOS.
 
 UNICO.- Este decreto entrará en vigor el día 1°. de Enero de 1996.
 
@@ -3533,7 +3541,7 @@ Artículo Unico: El presente Decreto entrará en vigor al día siguiente de su p
 
 P.O. 27 DE DICIEMBRE DE 1996.
 
-DECRETO NUMERO 326.
+DECRETO No. 326, POR EL QUE SE REFORMA EL DECRETO NÚMERO 340, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 29 DE JULIO DE 1994, EN SU ARTÍCULO TERCERO.
 
 ###### ARTICULO UNICO.
 
@@ -3541,7 +3549,7 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
 
 P.O. 27 DE DICIEMBRE DE 1996.
 
-DECRETO NUMERO 332.
+DECRETO No. 332, POR EL QUE SE REFORMAN VARIOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
 
 PRIMERO.- Durante el año de 1997, el Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa especial de 41 cuotas, en las adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, tratándose de contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
 
@@ -3589,13 +3597,13 @@ Cuarto.- La obligación de dar aviso a la Dirección de Catastro a que se refier
 
 P.O. 31 DE DICIEMBRE DE 1999.
 
-DECRETO NUMERO 239.
+DECRETO No. 239, POR EL QUE SE REFORMA EL DECRETO NUMERO 340, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 29 DE JULIO DE 1994, EN SU ARTÍCULO TERCERO.
 
 Único.- El presente Decreto entrará en vigor el primero de enero del año 2000.
 
 P.O. 31 DE DICIEMBRE DE 1999.
 
-DECRETO NUMERO 252.
+DECRETO No. 252, POR EL QUE SE REFORMAN VARIOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -3645,7 +3653,7 @@ Cuando los inmuebles a los que se les haya aplicado parcialmente la desgravació
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
-DECRETO NUMERO 303.
+DECRETO No. 303, POR EL QUE SE REFORMA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO EN SUS ARTÍCULOS 10; 21 BIS-9, FRACCIONES I Y IX, INCISO E) PRIMER PÁRRAFO; 21 BIS 10 PÁRRAFOS PRIMERO Y SEGUNDO; 21 BIS-15; 28 BIS-1, FRACCIÓN II, PRIMER PÁRRAFO Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO; 58, FRACCIÓN II; 63, PÁRRAFO SEGUNDO; 64, FRACCIÓN V PÁRRAFO CUARTO; 65, PÁRRAFO SEGUNDO Y 65 BIS, PÁRRAFO SEGUNDO. SE ADICIONA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO EN SUS ARTÍCULOS 28 BIS-2, CON UNA FRACCIÓN XIII; 28 BIS-4, EN SU FRACCIÓN I, CON UN SEGUNDO PÁRRAFO; 65, CON UN SEGUNDO PÁRRAFO, PASANDO EL ACTUAL SEGUNDO REFORMADO A SER TERCERO Y 65 BIS-1, FRACCIÓN IV, CON UN SEGUNDO PÁRRAFO. SE DEROGA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO EN SU ARTÍCULO 28 BIS-4, FRACCIÓN I, EN SU INCISO D).
 
 Artículo Primero.- El presente Decreto entrará en vigor el 1° de Enero del año 2003.
 
@@ -3653,7 +3661,7 @@ Artículo Segundo.- Cuando los inmuebles a los que se les haya aplicado parcialm
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
-DECRETO NUMERO 314.
+DECRETO No. 314, POR EL QUE SE ADICIONA LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN EN SU ARTÍCULO 52 CON UNA FRACCIÓN III.
 
 Artículo Primero.- Este Decreto entrará en vigor a partir del 1° de Enero de 2003.
 
@@ -3683,13 +3691,13 @@ P.O. 24 DE DICIEMBRE DE 2010.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-DECRETO NUM. 157 QUE REFORMA LOS ARTICULOS 41 BIS-26, LAS FRACCIONES I, II, III Y IV DEL ARTICULO 50 BIS, LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTICULO 51, EL ARTICULO 65 BIS-2 Y LA DENOMINACION DEL TITULO IV, Y SE ADICIONAN LOS ARTICULOS 41 BIS-24, 41 BIS-27 Y 41 BIS-28, TODOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
+DECRETO NÚM. 157 QUE REFORMA LOS ARTÍCULOS 41 BIS-26, LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 50 BIS, LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 51, EL ARTÍCULO 65 BIS-2 Y LA DENOMINACIÓN DEL TÍTULO IV, Y SE ADICIONAN LOS ARTÍCULOS 41 BIS-24, 41 BIS-27 Y 41 BIS-28, TODOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2011.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-DECRETO NUM. 162 QUE ADICIONA DOS PARRAFOS A LA FRACCION IV DEL ARTICULO 65 BIS-14 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
+DECRETO NÚM. 162 QUE ADICIONA DOS PÁRRAFOS A LA FRACCIÓN IV DEL ARTÍCULO 65 BIS-14 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2011.
 
@@ -3722,3 +3730,7 @@ Octavo.- Los Ayuntamientos de los Municipios del Estado deberán de expedir o mo
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
