@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2010-12-17"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-CODIGO FISCAL DEL ESTADO DE NUEVO LEON
+CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -59,7 +59,7 @@ III.- Las que autoricen ingresos extraordinarios.
 
 IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -205,7 +205,7 @@ En los casos en que una sociedad entre en liquidación o sea fusionada, el ejerc
 
 Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
 
-> <small>(REFORMADO PRIMER PARRAFO, 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 31 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 13.
 
@@ -281,7 +281,7 @@ Se entiende que no hay enajenación en los siguientes casos:
 
 I.- En escisión, siempre que se cumpla con los requisitos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un período de dos años contados a partir del año inmediato anterior a la fecha en que se realice la escisión; siempre y cuando se protocolice la escisión de que se trate, dentro de un período de un año a partir de la fecha en que se llevó a cabo.
 
@@ -339,7 +339,19 @@ Se considerará empresa la persona física o moral que realice las actividades a
 
 Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 18 BIS.- El monto de las contribuciones, de los aprovechamientos y de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Tal factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Los valores de bienes u operaciones se actualizarán conforme a lo dispuesto por este artículo, cuando las leyes fiscales así lo determinen. Las disposiciones legales señalarán en cada caso el período de actualización de que se trate.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que poseían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni tampoco acreditable en relación con las contribuciones estatales y municipales.
+
+Para los efectos de este artículo se aplicará el Índice Nacional de Precios al Consumidor, calculado por el Instituto Nacional de Estadística y Geografía, que se publica en el Diario Oficial de la Federación.
 
 ###### ARTICULO 18 Bis.
 
@@ -415,7 +427,7 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
@@ -457,7 +469,7 @@ Cuando las autoridades fiscales procedan a la devolución de cantidades señalad
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 24.
 
@@ -465,13 +477,13 @@ Los contribuyentes obligados a pagar mediante declaración podrán optar por com
 
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 23 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos hayan quedado firmes por cualquier causa o cuando el derecho a la devolución provenga de sentencia ejecutoriada que no extinga el adeudo fiscal a cargo del contribuyente. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -625,7 +637,7 @@ Cuando se inicie el ejercicio de facultades de comprobación, únicamente se pod
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -699,7 +711,7 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 38.
 
@@ -727,7 +739,7 @@ IV.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nom
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además la causa legal de la responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41.
 
@@ -821,13 +833,13 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 47.
 
 Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, relacionadas con la visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán asegurar la contabilidad y demás datos, documentos o registros, papeles, discos, cintas o cualquier otro medio procesable de almacenamiento de datos, relacionados con el cumplimiento de las disposiciones fiscales:
 
@@ -1135,7 +1147,7 @@ Lo establecido en este Artículo no limita el ejercicio de las facultades de com
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 66.
 
@@ -1647,7 +1659,7 @@ Se impondrá la misma sanción prevista en el artículo anterior, a quien manufa
 
 #### SECCION PRIMERA. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1655,7 +1667,7 @@ Se impondrá la misma sanción prevista en el artículo anterior, a quien manufa
 
 Contra los actos administrativos dictados en materia fiscal, se podrá interponer el recurso de revocación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1679,19 +1691,19 @@ b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue,
 
 c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 117.
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 118.
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1699,7 +1711,7 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refiere el a
 
 La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 120.
 
@@ -1707,7 +1719,7 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad q
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1747,7 +1759,7 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1773,7 +1785,7 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Si son revocados los actos por la autoridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1795,7 +1807,7 @@ IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 #### SECCION SEGUNDA. Del Recurso de Revocación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1803,21 +1815,21 @@ IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION TERCERA. Del Recurso en caso del Procedimiento Administrativo de Ejecución
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 125.
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 126.
 
@@ -1831,13 +1843,13 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 #### SECCION CUARTA. De la Impugnación de Notificaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 128.
 
@@ -1865,9 +1877,9 @@ B).- Si resuelve que la notificación fue legalmente practicada y, como consecue
 
 #### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 129.
 
@@ -1883,9 +1895,9 @@ Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
 Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 130.
 
@@ -1899,7 +1911,7 @@ La resolución del recurso se fundará en derecho y examinará todos y cada uno 
 
 La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2029,7 +2041,7 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2037,13 +2049,13 @@ Si la garantía consiste en depósito de dinero en institución nacional de cré
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 En el caso de que en el juicio contencioso administrativo o en el recurso de revocación, no se impugne la totalidad de los créditos que derivan del acto administrativo cuya ejecución haya sido suspendida, deberán pagarse los créditos no impugnados con los accesorios correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2083,7 +2095,7 @@ No se extinguen por prescripción las obligaciones ni los créditos a favor del 
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2123,7 +2135,7 @@ Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a l
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles, el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 Si el contribuyente no cubre lo que se le reclama y sus accesorios legales en el acto del requerimiento, se procederá como sigue:
 
@@ -2143,7 +2155,7 @@ El ejecutor designado por el jefe de la oficina exactora se constituirá en el d
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con el Juez auxiliar de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 148.
 
@@ -2509,15 +2521,15 @@ Cuando existan excedentes después de haberse cubierto el crédito, se entregar�
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ## TITULO VI
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO I
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 191.
 
@@ -2539,19 +2551,19 @@ III.- Se trate de bienes muebles que no hubieren sido rematados después de tran
 
 IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de sesenta días naturales contados a partir de la fecha en que se ponga a su disposición.
 
-> <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquel en que se le notifique la resolución correspondiente.
 
-> <small>(ADICIONADO [N. DE E. ANTES TERCER PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. ANTES TERCER PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago del costo de almacenaje causado. En los casos en que no se hubiere señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
-> <small>(ADICIONADO [N. DE E. ANTES CUARTO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. ANTES CUARTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
 
-> <small>(ADICIONADO [N. DE E. ANTES QUINTO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. ANTES QUINTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Tesorería General del Estado.
 
@@ -2569,283 +2581,283 @@ II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de 
 
 ###### ARTICULO 193.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 194.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 195.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 196.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 197.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 198.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 199.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 200.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 201.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 202.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 203.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO II
 
 ###### ARTICULO 204.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 205.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO III
 
 ###### ARTICULO 206.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 207.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO IV
 
 ###### ARTICULO 208.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 209.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 210.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 211.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 212.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO V
 
 ###### ARTICULO 213.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 214.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 215.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 216.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 217.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO VI
 
 ###### ARTICULO 218.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 219.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 220.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 221.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 222.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 223.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 224.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 225.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 226.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 227.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 228.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 229.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO VII
 
 ###### ARTICULO 230.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 231.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 232.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 233.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 234.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO VIII
 
 ###### ARTICULO 235.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO IX
 
 ###### ARTICULO 236.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 237.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 238.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 239.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON EL SUBTITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON EL SUBTÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO X
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 De la Reclamación
 
 ###### ARTICULO 240.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 241.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 242.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO XI
 
 ###### ARTICULO 243.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 244.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 245.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 246.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 247.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 248.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 249.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO XII
 
 ###### ARTICULO 250.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 T R A N S I T O R I O S :
 
@@ -2913,7 +2925,7 @@ EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 VICTOR GOMEZ GARZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1986.
 
@@ -3052,3 +3064,7 @@ P.O. 23 DE DICIEMBRE DE 2009.
 P.O. 17 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
