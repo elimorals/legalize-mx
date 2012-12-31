@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2012-01-10"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -227,7 +229,7 @@ h). Los usuarios y posesionarios bajo cualquier título jurídico de bienes inmu
 
 Son sujetos por deuda ajena y responsabilidad objetiva, los adquirientes por cualquier título de predios urbanos o rústicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 24º.
 
@@ -251,13 +253,13 @@ c). Los propietarios de predios que hubieren prometido en venta o hubieren vendi
 
 El Impuesto sobre la Propiedad Rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 a). 1.7777 al millar anual si están explotados por su dueño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -709,7 +711,7 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 2. Servicios Catastrales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -741,7 +743,7 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 16. Servicios de inspección municipal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -749,25 +751,25 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 18. Recepción y Estudio de la solicitud de Registro, licencias y permisos de giros comerciales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 19. Expedición, revalidación y modificaciones para giros que expendan bebidas alcohólicas y horas extras para el ejercicio de dichas licencias, así como recepción y estudio de la solicitud por primera vez
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 20. Licencias, permisos y autorizaciones por anuncios, carteles o publicidad en la vía pública
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 21. Permisos para la realización de espectáculos y eventos especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1005,7 +1007,7 @@ XXII.- Por la anotación marginal que 2 días de salario
 
 corresponda a cada bien inmueble. mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1271,7 +1273,7 @@ II. Por caca copia de planos 5 días de salario
 
 mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1313,7 +1315,7 @@ VIII. Por expedición de coordenadas UTM 5 días salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1327,7 +1329,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1341,7 +1343,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1353,7 +1355,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1365,7 +1367,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1377,7 +1379,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1389,7 +1391,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1401,7 +1403,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1413,7 +1415,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1425,7 +1427,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1437,7 +1439,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1453,7 +1455,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1469,7 +1471,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1485,7 +1487,7 @@ mínimo.
 
 RED GEODÉSICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1507,7 +1509,7 @@ mínimo.
 
 INFORMACIÓN CATASTRAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1517,9 +1519,9 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Única
 
@@ -1533,15 +1535,15 @@ Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las pobl
 
 Para obtener la licencia a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan y en los términos que indique el Reglamento de Construcciones del Estado de Baja California Sur.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 80º.
 
 La expedición de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar, es decir el costo final de dichas obras según presupuesto de obra presentado por el propietario o director responsable de obra. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1549,9 +1551,9 @@ La expedición de autorización por uso del suelo habitacional en zonas populare
 
 La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causan un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 81º.
 
@@ -1603,7 +1605,7 @@ i) Supervisión Técnica 20 días salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1613,7 +1615,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1625,7 +1627,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1637,7 +1639,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1651,7 +1653,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1669,7 +1671,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1687,7 +1689,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1707,7 +1709,7 @@ Lote o
 
 Unidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1719,7 +1721,7 @@ de salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1731,7 +1733,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1755,7 +1757,7 @@ resultante.
 
 Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo de la licencia, que se otorgará previo pago de los derechos correspondientes a razón de 3.5 al millar de obra pendiente por ejecutar, por el tiempo que se autorice para la conclusión de la misma, quedando obligado el interesado a dejar expedita la vía pública una vez terminado el plazo que se haya concedido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1843,7 +1845,7 @@ embarcaciones, bicicletas, motocicletas y 50 días salario
 
 aquellas donde participen animales mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1981,7 +1983,7 @@ c). Fuera de la oficina 10 días salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2043,7 +2045,7 @@ VII. Expedición de actas de nacimiento 50% día salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2055,7 +2057,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2067,7 +2069,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2077,7 +2079,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2139,7 +2141,7 @@ Municipal, cuando no se precisen los 2 días salario
 
 datos y fechas del acto mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2395,9 +2397,9 @@ X. Baja de placas: 1 salario mínimo
 
 XI. Reporte de extravío de placas. EXENTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 114º.
 
@@ -2437,7 +2439,7 @@ reglamento de tránsito, las cuales
 
 tendrán un valor anual por juego de: 12 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2449,7 +2451,7 @@ chofer y vehículos turísticos de pasaje. 22 salarios mínimos
 
 V.- Reposición de tarjeta de circulación: 3 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2461,7 +2463,7 @@ de Salarios
 
 anual
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2469,7 +2471,7 @@ VII.- Permiso Particular de pasaje escolar de
 
 Instituciones publicas gubernamentales exento
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2481,7 +2483,7 @@ Salarios
 
 Anual
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2505,7 +2507,7 @@ capacidad
 
 de la unidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2531,7 +2533,7 @@ capacidad
 
 de la unidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2543,7 +2545,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2559,7 +2561,7 @@ salario
 
 mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2575,7 +2577,7 @@ por cada
 
 cambio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2591,7 +2593,7 @@ por cada
 
 permiso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2679,19 +2681,19 @@ Aseo, limpia, recolección, traslado, tratamiento y disposición final de basura
 
 Es objeto de este derecho el servicio que por recolección, traslado, tratamiento, saneamiento y disposición final de basura preste el Municipio de Los Cabos, Baja California Sur, por si o a través de concesiones a empresas, a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos obligados al pago de estos derechos, lo harán con base al volumen de basura que generen y entreguen en los lugares destinados para ello, enterando dicho pago en el lugar y en el momento de entrega de la basura, directamente al Ayuntamiento o a través de la empresa que para tales efectos contrate el Ayuntamiento, de acuerdo a las siguientes tarifas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 a).- La cantidad de 4 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura de residuos sólidos domésticos, que se reciba en el (sic) estación de transferencia de Residuos Sólidos Urbanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 b).- La cantidad de 6 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura de residuos sólidos comerciales, que se reciba en la estación de transfarencia de Residuos Sólidos Urbanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3061,7 +3063,7 @@ X. Carreras de Caballos. 140 Salarios Mínimos
 
 XI. Peleas de Gallos. 30 Salarios Mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3069,7 +3071,7 @@ XII. Eventos sociales como Bodas, XV años, 1 Salarios (sic)
 
 Bautizos, Cumpleaños y Convivíos Familiares. Mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3225,7 +3227,7 @@ Para la autorización de estacionamiento en la vía pública, el solicitante deb
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 137º.
 
@@ -3343,7 +3345,41 @@ Por la expedición de títulos de propiedad se pagará una cuota equivalente a c
 
 ### Capítulo Sexto. Ocupación de locales, almacenes y el uso de cuartos fríos en los mercados municipales
 
-ARTÍCULO154º. Por locales en mercados municipales será pagada una renta de acuerdo a la siguiente:
+###### ARTÍCULO 147º.
+
+Por la venta de papel para copias de actas de Registro Civil, se cobrará una cuota de $ 2.00 por hoja.
+
+###### ARTÍCULO 148º.
+
+Los oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley.
+
+###### ARTÍCULO 149º.
+
+El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
+
+###### ARTÍCULO 150º.
+
+Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal por hojas utilizables.
+
+###### ARTÍCULO 151º.
+
+Al concluir cada año fiscal, serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado, para que con las que tengan en su poder, las remitan al Presidente Municipal para su destrucción. La Tesorería Municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo. El Ayuntamiento señalará las formalidades que deban observar para la destrucción.
+
+###### ARTÍCULO 152º.
+
+En caso de que a los Oficiales del Registro Civil les sean presentadas hojas sin los requisitos de ley, las recogerán y harán la consignación ante el Ministerio Público.
+
+#### Sección Única. Venta de formatos oficiales
+
+###### ARTÍCULO 153º.
+
+Los formatos oficiales que sean requeridos para la realización y expedición de trámites, estarán a disposición en la dependencia correspondiente o en la oficina que la Autoridad señale, previo pago de 0.15 del salario mínimo vigente que deberá cubrirse en la Recaudación Municipal de Rentas.
+
+### Capítulo Séptimo. Productos Diversos
+
+###### ARTÍCULO 154º.
+
+Por locales en mercados municipales será pagada una renta de acuerdo a la siguiente:
 
 TARIFA:
 
@@ -3361,7 +3397,7 @@ Servicio de almacenamiento 10% salario mínimo
 
 por día
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3403,38 +3439,6 @@ c) Evento deportivo masivo por temporada, se cobrara 913 salarios mínimos por t
 
 d) Auditorios Municipales. 183 salarios mínimos, cuando sean con fines de lucro.
 
-###### ARTÍCULO 147º.
-
-Por la venta de papel para copias de actas de Registro Civil, se cobrará una cuota de $ 2.00 por hoja.
-
-###### ARTÍCULO 148º.
-
-Los oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley.
-
-###### ARTÍCULO 149º.
-
-El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
-
-###### ARTÍCULO 150º.
-
-Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal por hojas utilizables.
-
-###### ARTÍCULO 151º.
-
-Al concluir cada año fiscal, serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado, para que con las que tengan en su poder, las remitan al Presidente Municipal para su destrucción. La Tesorería Municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo. El Ayuntamiento señalará las formalidades que deban observar para la destrucción.
-
-###### ARTÍCULO 152º.
-
-En caso de que a los Oficiales del Registro Civil les sean presentadas hojas sin los requisitos de ley, las recogerán y harán la consignación ante el Ministerio Público.
-
-#### Sección Única. Venta de formatos oficiales
-
-###### ARTÍCULO 153º.
-
-Los formatos oficiales que sean requeridos para la realización y expedición de trámites, estarán a disposición en la dependencia correspondiente o en la oficina que la Autoridad señale, previo pago de 0.15 del salario mínimo vigente que deberá cubrirse en la Recaudación Municipal de Rentas.
-
-### Capítulo Séptimo. Productos Diversos
-
 ### Capítulo Primero. Recargos
 
 ###### ARTÍCULO 155º.
@@ -3460,6 +3464,8 @@ ARTÍCULO 160° Los aprovechamientos no especificados en este título se recauda
 ###### ARTÍCULO 158º.
 
 Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
@@ -3907,13 +3913,7 @@ preferencia. 10 a 11
 
 Cada Ocupante. 3 a 4
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-GRADOS DE ALCOHOLEMIA, A LOS CONDUCTORES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3929,35 +3929,17 @@ para conducir. 0
 
 500
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+136 Producir ruidos por cualquier medio, ya sean fuentes fijas o fuentes móviles, que rebasen los límites permitidos conforme a las Normas 11 a 20 Oficiales Mexicanas y que además provoquen molestias o alteren la tranquilidad de las personas.
 
-136 De 0.08 a 0.20 Aliento alcohólico 25 días
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-salario min.
+137 Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares 11 a 20 del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-137 De 0.21 a 0.39 Ebrio completo 50 días de
-
-salario min.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-138 De 0.40 en adelante, no es apto
-
-Para conducir. 100 días
-
-de
-
-salario
-
-mínimo
+138 Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad 11 a 20 bajo su custodia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
@@ -4199,7 +4181,7 @@ VII. Otros no especificados.
 
 ### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -4241,7 +4223,7 @@ Los giros que no estén inscritos en el padrón correspondiente, y los que no hu
 
 Todo causante sujeto a estos giros queda obligado a dar aviso a la oficina correspondiente en caso de cambio de nombre, denominación o razón social, de domicilio, en caso de sucesión de derechos y obligaciones, o de cualquier acto que modifique los padrones, dentro de los 30 días siguientes a la fecha en que se verifique el acto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -4373,7 +4355,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 30 DE JUNIO DE 2003.
 
@@ -4410,3 +4392,13 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
