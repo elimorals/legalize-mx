@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-para-la-asistencia-51145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-19"
-last_updated: "2009-01-02"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA
 
-REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL RESOLUTIVO ÚNICO DEL DECRETO POR EL QUE SE SUPRIME EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "INSTITUTO PARA LA ASISTENCIA PÚBLICA DEL ESTADO DE PUEBLA", PUBLICADO EN EL P.O. DE FECHA 31 DE DICIEMBRE DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de junio de 2006.
 
@@ -750,3 +752,39 @@ P.O. 2 DE ENERO DE 2009.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se abroga el Decreto del Honorable Congreso del Estado por el que se crea el Organismo Público Descentralizado denominado "Instituto para la Asistencia Pública del Estado de Puebla", publicado en el Periódico Oficial del Estado el día quince de marzo de mil novecientos noventa y seis, así como sus reformas.
+
+TERCERO.- El Gobierno del Estado, a través de las instancias, mecanismos y programas existentes, continuará realizando las acciones de asistencia social que a la entrada en vigor del presente Decreto se encuentran a cargo del "Instituto para la Asistencia Pública del Estado de Puebla".
+
+CUARTO.- El personal que a la entrada en vigor de este Decreto se encuentre laborando en el "Instituto para la Asistencia Pública del Estado de Puebla" será liquidado de conformidad con las disposiciones legales aplicables.
+
+QUINTO.- Los recursos financieros que formen parte del patrimonio del "Instituto para la Asistencia Pública del Estado de Puebla" y aquéllos que tenga derecho a percibir el mismo, se transferirán al Gobierno del Estado para que los destine a apoyar acciones, programas y proyectos de asistencia social en la Entidad, a través del Fideicomiso o del mecanismo financiero que la misma tenga instituido para tales efectos.
+
+SEXTO.- Los bienes inmuebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del "Instituto para la Asistencia Pública del Estado de Puebla" o tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al Gobierno del Estado para su administración, a través de las instancias competentes.
+
+El producto que obtenga el Gobierno del Estado por la administración de estas acciones, se destinará al Fideicomiso o al mecanismo financiero a que se refiere el artículo anterior, previa deducción de los gastos de administración y pago de contribuciones a que hubiere lugar.
+
+SÉPTIMO.- Los bienes muebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del "Instituto para la Asistencia Pública del Estado de Puebla", se transmitirán al Gobierno del Estado.
+
+Los bienes muebles a que se refiere el párrafo anterior, que da acuerdo a sus características y condiciones, sean considerados de valor histórico, serán destinados por el Gobierno del Estado al Organismo Público Descentralizado denominado "Consejo Estatal para la Cultura y las Artes de Puebla" para su resguardo, administración y conservación.
+
+OCTAVO.- Los juicios, recursos y procedimientos en los que a la entrada en vigor del presente Decreto sea parte el "Instituto para la Asistencia Pública del Estado de Puebla" y se encuentren en litigio derechos reales, continuarán tramitándose por el Gobierno del Estado a través de la Dependencia responsable de la administración del patrimonio inmobiliario estatal, y para el caso de que se obtenga resolución favorable, los derechos correspondientes o en su defecto, los productos que pudieren obtenerse de éstos, se destinarán al Fideicomiso o al mecanismo financiero a que se refiere el Artículo Quinto de este Decreto.
+
+Los juicios, recursos y procedimientos distintos a los señalados en el párrafo anterior, continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través de las Dependencias competentes, atendiendo a la naturaleza del asunto de que se trate.
+
+NOVENO.- Los convenios, contratos, acuerdos y demás asuntos en trámite, distintos a los señalados en los artículos anteriores, en los que sea parte el "Instituto para la Asistencia Pública del Estado de Puebla", continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través de las instancias competentes, atendiendo a su objeto o naturaleza.
+
+DÉCIMO.- Las Secretarías General de Gobierno, de Finanzas, de la Contraloría, y demás competentes en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones de extinción, así como a las demás que resulten conducentes para dar cumplimiento al presente Decreto.
+
+DÉCIMO PRIMERO.- El archivo del "Instituto para la Asistencia Pública del Estado de Puebla", será transferido al Archivo General del Estado para su custodia, conservación y administración.
+
+DÉCIMO SEGUNDO.- La persona que a la fecha de la entrada en vigor del presente Decreto haya sido designada por la Junta Directiva del "Instituto para la Asistencia Pública del Estado de Puebla" como encargado de llevar a cabo los trámites legales y administrativos finales del Organismo hasta su total conclusión, que resulten con motivo de este Decreto, deberá realizarlos dentro de los noventa días hábiles siguientes; una vez concluido este plazo, se entenderá que dicha función ha cesado. En tanto, el encargado de los citados trámites de extinción deberá solicitar al Gobierno del Estado, los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de extinción del Organismo.
+
+DÉCIMO TERCERO.- El encargado de los trámites de extinción del Organismo a que se refiere el artículo anterior, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, deberá coordinarse con la Secretaría de la Contraloría y con las demás instancias competentes para llevar a cabo el proceso de entrega-recepción a que haya lugar.
+
+DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
