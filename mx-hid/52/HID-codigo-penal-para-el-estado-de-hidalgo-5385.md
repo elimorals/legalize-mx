@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2011-03-31"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-CODIGO PENAL PARA EL ESTADO DE HIDALGO
+CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -141,7 +141,7 @@ Obra culposamente el que produce el resultado típico que no previó siendo prev
 
 Sólo es punible el delito doloso, salvo que la ley conmine expresamente con pena al culposo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO II. ACTOS PREPARATORIOS Y TENTATIVA PUNIBLES
 
@@ -225,7 +225,7 @@ Son aplicables los que se fundan en circunstancias objetivas, si los demás suje
 
 ### CAPITULO IV. CONCURSO DE DELITOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 22.
 
@@ -261,7 +261,7 @@ I.- En el hacer o no hacer del agente, haya ausencia de voluntad;
 
 II.- No se acredite alguno de los elementos constitutivos del tipo penal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 III.- Se repele una agresión real, actual o inminente, sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista la necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
@@ -333,7 +333,7 @@ VII.- Las demás que señalen las leyes.
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 28.
 
@@ -479,7 +479,7 @@ La reparación de daños podrá exigirse al acusado o al tercero obligado, indis
 
 ### CAPITULO V. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES, CARGOS, EMPLEOS, COMISIONES O PROFESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 48.
 
@@ -541,7 +541,7 @@ VII.- Vigilancia de la autoridad; y
 
 VIII.- Las demás que prevengan las leyes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO II. TRATAMIENTO EN INTERNAMIENTO O EN LIBERTAD DE INIMPUTABLES O DE IMPUTABLES DISMINUIDOS
 
@@ -641,7 +641,7 @@ La vigilancia consistirá en ejercer sobre el sentenciado, observación y orient
 
 ### CAPITULO UNICO. CLASIFICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 70.
 
@@ -905,7 +905,7 @@ Cuando por razón del delito cometido, el agente se encuentre en condiciones fí
 
 Cuando este Código prevea la disminución o el aumento de una punibilidad con referencia a otra, aquélla se fijará aplicando la disminución o aumento en los límites mínimo y máximo de la punibilidad que sirva de referencia, sin que en ningún caso se puedan rebasar los extremos establecidos en este Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
@@ -943,7 +943,7 @@ II.- Para el error de prohibición, se aplicará la mitad de la punibilidad prev
 
 Al que se exceda en los casos de legítima defensa, estado de necesidad, obediencia jerárquica, cumplimiento de un deber o ejercicio de un derecho, a que se refieren respectivamente las fracciones III, IV, V y VI del artículo 25 de este Código, se le impondrá una tercera parte de la punibilidad de referencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO V. PUNIBILIDAD DE LOS ACTOS PREPARATORIOS Y DE LA TENTATIVA
 
@@ -967,7 +967,7 @@ Cuando en caso de tentativa no fuere posible determinar el daño que se pretendi
 
 En el caso de tentativa de realización imposible a que se refieren los párrafos tercero y cuarto del artículo 14 de este Código, se aplicará una tercera parte de la punibilidad que debiera imponerse si el delito se hubiese podido consumar.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO, AUTORIA INDETERMINADA Y PANDILLA
 
@@ -1049,7 +1049,7 @@ X.- Las demás que prevea expresamente este Código.
 
 El cumplimiento de la pena o medida de seguridad impuesta, así como el de la que la sustituya o conmute, la extingue con todos sus efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 111.
 
@@ -1071,7 +1071,7 @@ La amnistía extingue la acción penal y la potestad de ejecutar las penas impue
 
 ### CAPITULO V. PERDON DEL OFENDIDO O DEL LEGITIMADO PARA OTORGARLO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 114.
 
@@ -1081,7 +1081,7 @@ El perdón del ofendido o del legitimado para otorgarlo, extingue la acción pen
 
 Cuando muera el ofendido, podrán otorgar el perdón las demás personas que tengan derecho a la reparación del daño y los perjuicios, de conformidad a lo previsto por el artículo 42 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 115.
 
@@ -1267,7 +1267,7 @@ II.- En vindicación próxima de una ofensa grave causada al autor del delito, s
 
 III.- (DEROGADA, P.O. 22 DE MARZO DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 138.
 
@@ -1511,7 +1511,7 @@ La misma pena se impondrá a quien no estando en condiciones de prestar auxilio,
 
 ### CAPITULO IV. PELIGRO DE CONTAGIO DE ENFERMEDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 160.
 
@@ -1525,7 +1525,7 @@ Al que habiendo atropellado a una persona no le preste auxilio o no solicite la 
 
 ### CAPITULO II. SECUESTRO Y SIMULACION DE SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 162.
 
@@ -1551,7 +1551,7 @@ La misma pena se aplicará al particular que por cualquier medio, obligue a una 
 
 ARTICULO 163 BIS.- Se considera también como privación ilegal de la libertad, cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral hasta el cuarto grado de un menor de edad, lo sustraiga o cambie de domicilio donde habitualmente resida, lo retenga o impida que regrese al mismo sin autorización de quienes ejerzan la patria potestad, entendiéndose que se necesita la autorización de todos los que ejercen este derecho aunque no se tenga la custodia y no permita que el padre o la madre visiten o convivan con el menor, se aplicará una pena de uno a tres años de prisión y multa de 30 a 300 días. En este contexto, sólo podrán cambiar de domicilio o impedir que regrese al mismo de manera unilateral, cuando exista resolución de autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 164.
 
@@ -1569,7 +1569,7 @@ III.- Que la privación se prolongue por más de ocho días.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de las setenta y dos horas siguientes al momento de inicio de la privación, se aplicará la mitad de la punibilidad prevista en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO IV. AMENAZAS
 
@@ -1747,7 +1747,7 @@ III.- Fuere cometido por la persona que tuviese al ofendido bajo su custodia, gu
 
 IV.- Bajo cualquier otro tipo de relación, el agente la cometa aprovechándose de la confianza en él depositada por el pasivo, cuando ésta sea determinante.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL HONOR
 
@@ -1795,7 +1795,7 @@ Si el pasivo del delito es mayor de doce años pero menor de quince, la seducci�
 
 El delito previsto en el presente capítulo, sólo se perseguirá por querella de parte ofendida o de su legítimo representante.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2002)</small>
 
 ### CAPITULO IV. FRAUDE
 
@@ -1813,13 +1813,19 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el a
 
 El aprovechamiento sexual se perseguirá por querella.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 189 BIS.- Al que con fines lascivos, asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se le impondrá multa de 20 a 40 días, si el hostigador fuese servidor público y utiliza los medios y las circunstancias que el cargo le proporcione, se le suspenderá o privará del mismo.
+ARTICULO 189 BIS.- Al que con fines lascivos, asedie a una persona, se le impondrá prisión de tres meses a dos años y multa de 40 a 80 días.
 
-El hostigamiento sexual, solamente será punible cuando se cauce (sic) un perjuicio o daño.
+Se duplicará la punibilidad prevista en el párrafo anterior:
 
-Sólo se procederá contra el hostigador a petición de parte ofendida.
+I.- Cuando el hostigador se valga de su relación laboral, docente, doméstica o cualquier otra que implique subordinación de la víctima.
+
+II.- Cuando la víctima sea menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo; o
+
+III.- Cuando el hostigador sea servidor público y utilice los medios y las circunstancias que el cargo le proporcione, caso en el cual también se le privará del cargo que desempeñe y se le inhabilitará para desempeñar cualquier otro, por el mismo tiempo que dure la pena de prisión impuesta.
+
+Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad con capacidad para comprender el significado del hecho y posibilidad para resistirlo.
 
 ### CAPITULO V. ADMINISTRACION FRAUDULENTA
 
@@ -1885,7 +1891,7 @@ Cuando se haya dictado sentencia que haya causado ejecutoria, absolviendo al cal
 
 ### CAPITULO IX. DAÑO EN LA PROPIEDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 198.
 
@@ -1959,7 +1965,7 @@ II.- Aproveche energía eléctrica o algún fluido, sin consentimiento de la per
 
 Al que se le imputare el hecho de haberse apoderado de una cosa mueble ajena, sin el consentimiento del dueño o del legítimo poseedor y acredite haberla tomado con el sólo fin de usarla temporalmente y no para apropiársela o venderla, se le aplicará de tres meses a un año de prisión y multa de 15 a 60 días, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación de daños y perjuicios, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 206.
 
@@ -1993,9 +1999,21 @@ IX.- Respecto de vehículos estacionados en la vía pública o en otro lugar des
 
 X.- Respecto de aves, de maguey y de productos agrícolas de cualquier especie o bien objetos o instrumentos utilizados en la agricultura;
 
-XI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad; o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XII.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad.
+XI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIII.- Respecto de cualquier bien, equipo, componente o accesorio compuesto de material de cobre, hierro, aluminio o fibra óptica y utilizado en la prestación de servicios públicos, suministro de gas, instalaciones hidráulicas, energía eléctrica, telecomunicaciones, equipamiento urbano, industrial o agrícola; o
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIV. Respecto de vales impresos o dispositivos electrónicos en forma de tarjeta plástica utilizados para canjear bienes y servicios.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2057,7 +2075,7 @@ Para los efectos del presente artículo, se entiende por ganado mayor el bovino,
 
 Si el abigeato se realiza concurriendo alguna de las calificativas previstas por las fracciones I, II, IV, XI y XII del Artículo 206 de este Código, se impondrá el doble de la punibilidad que corresponda, cuando concurran dos o más calificativas, se aplicará el triple de la punibilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 209.
 
@@ -2101,7 +2119,7 @@ Se aplicarán las mismas penas a que se remite el artículo anterior, al que dis
 
 ### CAPITULO II. SUSTRACCION DE MENORES E INCAPACES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 213.
 
@@ -2129,7 +2147,13 @@ VI.- Al que valiéndose del cargo que ocupa en el gobierno, en una empresa desce
 
 VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
-VIII.- Al deudor que con perjuicio de sus acreedores, o bien para retardar o disimular el estado de concurso, oculte o enajene o recurra a maniobras o arbitrios ruinosos; o aproveche el estado de concurso para especular con sus propias obligaciones, adquiriéndolas con descuento o para obtener otro provecho en perjuicio de sus acreedores; u ocasione por cualquier acto ilegal el estado de concurso con perjuicio de sus acreedores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII.- Al deudor que con perjuicio de sus acreedores, o bien para retardar o disimular el estado de concurso, oculte o enajene o recurra a maniobras o arbitrios ruinosos; o aproveche el estado de concurso para especular con sus propias obligaciones, adquiriéndolas con descuento o para obtener otro provecho en perjuicio de sus acreedores; u ocasione por cualquier acto ilegal el estado de concurso con perjuicio de sus acreedores; o
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IX.- Al que venda, intercambie o haga efectivos, vales impresos o dispositivos electrónicos en forma de tarjeta plástica utilizados para canjear bienes y servicios, con conocimiento de que son falsos.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -2213,7 +2237,7 @@ Si el daño recae en bienes de valor científico, artístico o de un servicio p�
 
 ### CAPITULO IX. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ARTICULO 243 BIS.- Por violencia familiar, se entiende el uso de la fuerza física o moral, así como la omisión que se ejerza en contra de un miembro de la familia por otro integrante de la misma, contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no otro delito.
 
@@ -2261,7 +2285,7 @@ Los tipos penales de robo y abigeato cuya cuantía de lo apoderado no exceda de 
 
 Se perseguirá por querella el delito de receptación, cuando el objeto o producto receptado provengan de la comisión de un delito también perseguible a instancia de parte ofendida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 227.
 
@@ -2381,7 +2405,7 @@ No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendi
 
 Sólo se castigará el adulterio consumado y cuando se conozca el estado familiar de matrimonio de la persona.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2002)</small>
 
 ### CAPITULO I. CORRUPCION DE MENORES
 
@@ -2419,7 +2443,7 @@ Será punible este delito, cuando se ocasione culposamente.
 
 ### CAPITULO IV. ULTRAJES A LA MORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 247.
 
@@ -2451,7 +2475,7 @@ Se entiende por acopio la reunión de tres a más armas o instrumentos prohibido
 
 Además de las penas señaladas para el delito a que se refiere el presente capítulo, se decomisarán y destruirán los objetos del delito, sin perjuicio de lo dispuesto en el artículo 63 de este Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -2697,7 +2721,7 @@ III.- Públicamente invite a otro al comercio carnal.
 
 En su caso, se aplicará el doble de la punibilidad, si el pasivo del delito fuere menor de dieciocho años o persona que por cualquier causa no tenga capacidad para comprender el significado del hecho o posibilidad para resistir la conducta delictuosa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL ORDEN CONSTITUCIONAL Y LA SEGURIDAD DEL ESTADO
 
@@ -2713,7 +2737,7 @@ A los profesionistas o técnicos que en el desempeño de sus actividades, causen
 
 Este delito también será punible si se causa culposamente y bajo esta forma de realización, será perseguible por querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 278.
 
@@ -2875,7 +2899,7 @@ Al que teniendo conocimiento de las actividades de un saboteador y de su identid
 
 ### CAPITULO III. DISTRACCION DE RECURSOS PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 295.
 
@@ -2883,7 +2907,7 @@ Se impondrá de uno a cinco años de prisión y multa de 20 a 100 días, al que 
 
 ### CAPITULO IV. FALSEDAD ANTE LA AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 296.
 
@@ -2897,7 +2921,7 @@ Si el responsable de estos delitos es servidor público, la punibilidad se aumen
 
 ## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -3021,7 +3045,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
@@ -3031,7 +3055,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO III. DELITOS CONTRA LA RIQUEZA FORESTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 310.
 
@@ -3195,7 +3219,7 @@ II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derech
 
 ## TITULO VIGESIMO. DE LOS DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 322.
 
@@ -3337,7 +3361,7 @@ Al evadido no se aplicará pena o medida de seguridad alguna, salvo que obre en 
 
 Cuando la evasión de presos la propicien dos o más personas, la punibilidad prevista en este capítulo se aumentará una mitad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 330.
 
@@ -3345,7 +3369,7 @@ A quien incumpla una pena no privativa de libertad o medida de seguridad que se 
 
 Al que favorezca el incumplimiento de la pena o medida de seguridad, se le impondrá una mitad más de la punibilidad. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, se le impondrá además la privación del cargo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 331.
 
@@ -3365,7 +3389,7 @@ III.- Oculte o favorezca el ocultamiento del autor o partícipe de un hecho típ
 
 IV.- Requerido por las autoridades, no dé auxilio para la investigación de los hechos delictivos o para la persecución de sus autores o partícipes o
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 V.- No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de algún hecho considerado como delictuoso que sabe va a cometerse o se está cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto por este Código u otras normas aplicables.
 
@@ -3559,13 +3583,13 @@ Al que a sabiendas comercie o emplee para fines industriales productos forestale
 
 ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, transporte o almacene alguna de las especies de maguey pulquero, sus derivados y/o subproductos, sin la autorización requerida por la Norma Técnica Estatal NTE-SAGEH-001/2006, se le aplicará una sanción de 1 a 3 años de prisión y multa de cincuenta a cien días de salarios mínimos vigentes en el Estado de Hidalgo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 350.
 
 Al que con el propósito de lucro, para sí o para otro, dé un destino distinto al señalado en la resolución de dotación o restitución de tierras ejidales o comunales, sean provisionales o definitivas, o en certificado de derechos agrarios, compre, enajene, arriende, ceda o de cualquier forma grave ilegalmente en todo o en parte los derechos de usufructo o tendencia de dichas tierras, violando disposiciones locales o municipales, se aplicará una pena de dos a ocho años de prisión y multa de 20 a 200 días.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 351.
 
@@ -3585,7 +3609,7 @@ VI.- Documentos Electorales: Es el conjunto de instrumentos que sirven para desa
 
 VII.- Material Electoral: Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 352.
 
@@ -3743,7 +3767,7 @@ X.- Permita que se fije propaganda política en las oficinas públicas de su enc
 
 XI.- Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 357.
 
@@ -3787,7 +3811,7 @@ Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 días de 
 
 Las sanciones previstas en los delitos del presente Título, se aplicarán, sin perjuicio de las demás penas que pudieran corresponder, al responsable por el concurso de delitos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 360.
 
@@ -3859,7 +3883,7 @@ LIC. ERNESTO GIL ELORDUY.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 4 DE DICIEMBRE DE 1995.
 
@@ -3923,13 +3947,13 @@ P.O. 10 DE MARZO DE 2008.
 
 P.O. 21 DE ABRIL DE 2008.
 
-DECRETO No. 557, POR EL QUE SE ADICIONA EL ARTICULO 265-BIS AL CODIGO PENAL PARA EL ESTADO DE HIDALGO.
+DECRETO No. 557, POR EL QUE SE ADICIONA EL ARTÍCULO 265-BIS AL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE ABRIL DE 2008.
 
-DECRETO No. 558, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 155, 157 Y 158 DEL CODIGO PENAL PARA EL ESTADO DE HIDALGO.
+DECRETO No. 558, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 155, 157 Y 158 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
@@ -3952,3 +3976,7 @@ P.O. 31 DE DICIEMBRE DE 2010.
 P.O. 31 DE MARZO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
