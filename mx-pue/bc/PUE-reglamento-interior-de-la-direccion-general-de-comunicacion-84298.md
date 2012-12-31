@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-direccion-general-de-comunicacion-842
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-24"
-last_updated: "2011-08-24"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE PUEBLA
 
+> <small>N. DE E. EL DECRETO APROBADO POR EL EJECUTIVO Y PUBLICADO EN EL P.O. DEL ESTADO DE PUEBLA EL 31 DE DICIEMBRE DE 2012, ESTABLECE EN SU ARTÍCULO ÚNICO QUE: "SE EXTINGUE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE PUEBLA, CREADA MEDIANTE DECRETO DEL EJECUTIVO DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL VEINTISIETE DE OCTUBRE DE DOS MIL". LO QUE SE INDICA PARA LOS EFECTOS A QUE HAYA LUGAR.</small>
+
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 24 de agosto de 2011.
 
@@ -394,3 +396,17 @@ SEGUNDO.- En tanto se expidan los Manuales de Procedimientos y de Organización,
 TERCERO.- Se dejan sin efecto todas aquellas disposiciones de la misma naturaleza que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la Sede del Poder Ejecutivo, a 23 de agosto de 2011.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+P.O. 31 DE DICIEMBRE DE 2012
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Ejecutivo del Estado por el que se crea la Dirección General de Comunicación Social del Poder Ejecutivo del Estado de Puebla, publicado en el Periódico Oficial del Estado el veintisiete de octubre de dos mil.
+
+###### ARTÍCULO TERCERO.
+
+Las Secretarías de la Contraloría y de Finanzas y Administración, en caso de así requerirse coordinarán en el ámbito de sus respectivas competencias las acciones que deriven del presente Decreto.
