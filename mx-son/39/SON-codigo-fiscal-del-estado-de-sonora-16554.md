@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2012-08-06"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -45,7 +45,7 @@ CODIGO FISCAL DEL ESTADO DE SONORA
 
 ### CAPITULO UNICO. De las Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 1º.
 
@@ -87,7 +87,7 @@ Las participaciones no pueden afectarse para fines específicos, ni estar sujeta
 
 Los productos se regularán por lo que prevengan los contratos o concesiones respectivos, por este Código y supletoriamente por el derecho común.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 5°.
 
@@ -97,7 +97,7 @@ Son créditos fiscales los que tenga derecho a percibir el Estado que provengan 
 
 La recaudación, administración, determinación y cobranza provenientes de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado quién ejercerá estas facultades por conducto de la Secretaría de Hacienda, a través de sus oficinas exactoras o autoridades fiscales coordinadas. También se podrán recaudar dichos ingresos en los cajeros automáticos de la Dependencia o en instituciones de crédito o tiendas comerciales, autorizadas para tal efecto.
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -123,7 +123,7 @@ Las leyes fiscales, sus reglamentos y las disposiciones administrativas de cará
 
 En los plazos sobre vigencia y demás disposiciones a que este artículo se refiere, se computarán los días inhábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 9°.
 
@@ -137,7 +137,7 @@ Cuando los plazos se fijen por mes o por año, sin especificar que sean de calen
 
 En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -257,7 +257,7 @@ Tratándose de personas físicas y morales, residentes o establecidas fuera de l
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este articulo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
 
 ###### ARTÍCULO 16.
 
@@ -287,19 +287,19 @@ Quien haga el pago de créditos fiscales deberá obtener de la oficina recaudado
 
 Cuándo los pagos se efectúen en las oficinas de las instituciones de crédito, tiendas comerciales o cajeros automáticos, deberá recabarse previamente en la oficina recaudadora o en los medios electrónicos, el pase de caja que deberá contener la línea de captura para la receptora del pago. El comprobante, constancia o acuse de recibo, emitido por la receptora autorizada, deberá contener la impresión de la ráfaga electrónica del sistema y en su caso, sello y firma del cajero. Juntos ambos documentos tendrán validez de recibo oficial de pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)
 
 La autoridad fiscal podrá enviar estados de cuenta de las contribuciones a cargo de los contribuyentes a su domicilio fiscal, los cuales tendrán el carácter de pase de caja para los efectos señalados en el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 Tratándose de pagos efectuados en medios electrónicos, el comprobante de pago que el propio sistema emita conjuntamente con la impresión del pase de caja correspondiente, tendrá validez de recibo oficial de pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -375,7 +375,7 @@ ARTÍCULO 24 BIS.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las e
 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -447,13 +447,17 @@ I.- Que se dicte acuerdo de la Secretaría de Finanzas;
 
 II.- Que el derecho a reclamar la devolución no se haya extinguido;
 
-> <small>(REFORMADO PARRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 31.
 
 Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligadas a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución. Al efecto bastará que efectúen la compensación de dichas cantidades, debiendo presentar aviso de compensación dentro de los cinco días siguientes a aquel en que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en la forma oficial correspondiente.
 
 Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, gravamen, contrato o por la cual están obligados a efectuar el pago, la Secretaría de Finanzas, apreciara discrecionalmente la conveniencia de autorizar la compensación.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 28 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos hayan quedado firmes por cualquier causa. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
 
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 26 de este Código sobre las cantidades compensadas indebidamente, por el período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
 
@@ -469,7 +473,7 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 33.
 
@@ -491,7 +495,7 @@ La Secretaría de Finanzas, llevará el Registro Estatal de Contribuyentes basá
 
 Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del mes siguiente a la firma, que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Registro Estatal de Contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Finanzas, por conducto de sus oficinas exactoras dentro del mes siguiente a la autorización de la escritura.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 36.
 
@@ -529,7 +533,7 @@ I.- Llevarán los sistemas y registros contables que señale este Código;
 
 II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
 
-(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
+(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
 
 III.- Llevarán la contabilidad en su domicilio fiscal. Los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos fiscales, deberán conservarse en el domicilio fiscal del contribuyente por un plazo de cinco años; en el entendido de que la contabilidad podrá llevarse en lugar distinto al anterior, cuando obtengan autorización y siempre que dicho lugar se encuentre ubicado en la misma población en la que se encuentra su domicilio fiscal, además los contribuyentes podrán procesar a través de medios electrónicos, datos e información de su contabilidad en lugar distinto a su domicilio fiscal, sin que por ello se considere que se lleva la contabilidad fuera del domicilio mencionado.
 
@@ -571,7 +575,7 @@ II.- Cuando sólo disminuyan las cantidades que hubieran compensado;
 
 III.- Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo; y,
 
-> <small>(REFORMADA EN PARRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA EN PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 IV.- Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de autoridad judicial o administrativa o por disposición expresa de la Ley.
 
@@ -629,7 +633,7 @@ c).- Prestar sus servicios en forma gratuita.
 
 > <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-lII.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el Registro Estatal de Contribuyentes.
+III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el Registro Estatal de Contribuyentes.
 
 No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes.
 
@@ -701,7 +705,7 @@ Procederá la condonación total o parcial de créditos fiscales cuando se haya 
 
 El Gobernador del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se condonen, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 50.
 
@@ -763,7 +767,7 @@ VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los 
 
 VII.- Allegarse las pruebas necesarias para formular la querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la Secretaría de Finanzas, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público del fuero común, en los términos del Código Estatal de Procedimientos Penales;
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 VIII.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la presentación de solicitudes o avisos del Registro Estatal de Contribuyentes.
 
@@ -839,7 +843,7 @@ Si el contribuyente presenta aviso de cambio de domicilio, después de recibido 
 
 Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 III. Al iniciarse la visita en el domicilio fiscal los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos, si estos no son designados o los designados no aceptan ser ' { (sic) ir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita;
 
@@ -971,7 +975,7 @@ IV.- Como consecuencia de la revisión de los informes, datos, documentos o cont
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
 
@@ -1025,7 +1029,7 @@ a).- Los libros y registros que formen parte de su contabilidad, solicitados en 
 
 b).- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 c).- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
 
@@ -1041,7 +1045,7 @@ II.- Que el dictamen se formule de acuerdo con las disposiciones del Código Fis
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1095,7 +1099,7 @@ II.- Quince días, tratándose de otra documentación o información relacionada
 
 Se considera que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado estados financieros dictaminados, cuando la autoridad fiscal competente lleva a cabo alguno de los actos señalados en las fracciones II y III del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 69.
 
@@ -1119,7 +1123,7 @@ IV.- Se adviertan otras irregularidades en su contabilidad que imposibiliten el 
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1333,9 +1337,9 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán, a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1393,7 +1397,7 @@ XI.- Cuando la liquidación de alguna prestación fiscal este encomendada a func
 
 XII.- La Secretaría de Finanzas se abstendrá de imponer sanciones cuando se haya incurrido en infracción por caso fortuito o fuerza mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1989,7 +1993,7 @@ IV.- Por edictos, únicamente en el caso de que la persona a quien deba notifica
 
 V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo de la fracción IV del artículo 127 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 126.
 
@@ -2239,11 +2243,11 @@ La declaratoria de prescripción de los créditos fiscales podrá realizarse de 
 
 Cuando se suspende el procedimiento administrativo de ejecución en los términos del artículo 133 de este Código, también se suspenderá el plazo de la prescripción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2565,7 +2569,7 @@ Cada subasta tendrá una duración de 8 días que empezará a partir de las 12:0
 
 Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore los anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, la Secretaría de Hacienda concederá plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez trascurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2575,7 +2579,7 @@ Los acreedores que aparezcan en el certificado de gravámenes correspondientes a
 
 Los acreedores mencionados en el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la respectiva autoridad ejecutora en el acto de la diligencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2591,7 +2595,7 @@ Una vez realizado el pago por el embargado o cuando obtenga resolución o senten
 
 Es postura legal la que cubra las dos terceras partes del valor señalado como base para remate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2637,7 +2641,7 @@ La Secretaría de Hacienda fincará el remate a favor de quien haya hecho la mej
 
 Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2671,7 +2675,7 @@ Tan luego como hubiere otorgado y firmado la escritura en que conste la adjudica
 
 Si el adquiriente lo solicita, se le dará a conocer como dueño del inmueble a las personas que designe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2685,7 +2689,7 @@ En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adq
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate, por si o por medio de interpósita persona, a los jefes de las oficinas ejecutoras y personal de las mismas y a las personas que hubieren intervenido por parte del fisco local, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y los infractores serán castigados de acuerdo con lo que establece este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2697,7 +2701,7 @@ El producto obtenido del remate, enajenación o adjudicación de los bienes al f
 
 Si hubiere otros acreedores, los derechos del fisco estatal se determinarán de acuerdo con la prelación que establece el artículo 148.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2713,7 +2717,7 @@ III.- En caso de posturas o pujas iguales, por la cantidad en que se haya produc
 
 La adjudicación regulada en este artículo, solo será válida si es aprobada por el Subsecretario de Ingresos de la propia Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2737,7 +2741,7 @@ Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispue
 
 Las adjudicaciones tendrán la naturaleza de dación en pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÍNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2749,7 +2753,7 @@ I.- El embargado proponga comprador antes del día en que se finque el remate o 
 
 II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2761,7 +2765,7 @@ I.- Tratándose de bienes que la autoridad se haya adjudicado, al producto obten
 
 II.- Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se aplicará en los términos de lo dispuesto en el artículo 190 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se devolverá al contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2783,7 +2787,7 @@ Los bienes que pasen a propiedad del Fisco Estatal conforme a este artículo, po
 
 El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Hacienda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -3417,7 +3421,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 18 de mayo de
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veintiséis de mayo del dos mil.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 18 DE DICIEMBRE DE 2003.
 
@@ -3512,3 +3516,25 @@ Transcurrido el plazo a que se refiere la fracción II de este artículo, la Sec
 II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2013, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la vigencia de esta Ley de Hacienda del Estado, el Ejecutivo estatal a través del Secretario de Hacienda, constituirá el fideicomiso que administrará el Impuesto por la Prestación de Servicios de Hospedaje, en un término no mayor a treinta días posteriores de iniciado el cobro del Impuesto.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del pago de la Contribución al Fortalecimiento Municipal, todos aquellos vehículos que se consideren como usados a la fecha de entrada en vigor del presente decreto, tomarán como referencia para efectos del cálculo el monto que se cause de conformidad con la aplicación de la tasa prevista en el artículo 212-F, fracción I, considerando el valor total del vehículo, y al resultado se le aplicará el factor que corresponda a los años de antigüedad de dicho vehículo de acuerdo con la tabla prevista en el artículo 212- G 7 de la Ley de Hacienda del Estado de Sonora.
+
+###### ARTÍCULO QUINTO.
+
+Para efecto de la rendición del informe financiero señalado en el Impuesto por la Prestación de Servicios de Hospedaje, no se presentará este informe el tercer lunes del mes de mayo de 2013.
