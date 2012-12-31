@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2012-01-10"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -163,7 +165,7 @@ El Impuesto sobre la Propiedad Rústica se causara sobre el valor catastral de l
 
 a) (DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -217,7 +219,7 @@ El valor del terreno de un predio regular se determinará multiplicando la super
 
 e). Predios destinados al campo de golf en el área de Nopoló, a razón de 2.65 al millar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 15.
 
@@ -781,7 +783,7 @@ XIX. La cancelación de las inscripciones en los casos a que se refieren las Fra
 
 XX. La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causará el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de...3 días salario mínimo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 XXI. La inscripción o registro de los contratos
 
@@ -957,7 +959,7 @@ XXI. Ratificaciones de documentos y firmas ante el Registrador...5 días salario
 
 XXII. Búsqueda de datos y revisión de libros para informes y certificaciones...3 días salario mínimo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
 XXIII.- Expedición de certificados relativos
 
@@ -1005,7 +1007,7 @@ T A R I F A :
 
 I. Por cada copia de planos 5 días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1031,7 +1033,7 @@ proporcionar información económica
 
 y/o certificado 1 día salario por predio mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1069,7 +1071,7 @@ En deslindes fuera del área urbana de la ciudad de Loreto, se cobrarán de mane
 
 VII. Por expedición de coordenas (sic) UTM 5 días salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1079,7 +1081,7 @@ A) Registro inicial 50 días de salario mínimo
 
 B) Revalidación de registro anual 30 días de salario mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1105,7 +1107,7 @@ XII. Por autorización de fusión y
 
 subdivisión de Predios 1 día de salario mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1117,7 +1119,7 @@ B) Revalidación de registro anual 30 días de salario
 
 Mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1155,7 +1157,7 @@ H) Impresión laser de imagen fotográfica 2.5 días de salario mínimo
 
 area blanco y negro
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1387,7 +1389,7 @@ Todas las certificaciones del Registro Civil causarán y se cubrirá el pago de 
 
 Los Oficiales del Registro Civil percibirán respectivamente el 30% de los derechos cobrados cuando se realicen los actos matrimoniales fuera de sus oficinas en horas inhábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 60.
 
@@ -2265,7 +2267,7 @@ c). El anuncio principal del establecimiento destinado a anunciar su propio nego
 
 #### SECCION PRIMERA. DERECHOS POR SERVICIO DE CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 106.
 
@@ -2364,6 +2366,8 @@ V. Permisos para conducir a mayores
 de 16 y menores de 18 años, Previo curso de
 
 Manejo, con una vigencia máxima de 90 días 4 días de salario mínimo.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2727,13 +2731,59 @@ ventanillas de los vehículos 8
 
 141 (SIC) Contaminación por ruido De 50 a 500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2008)</small>
+142 Producir ruidos por cualquier medio, 11 a 20
+
+ya sean fuentes fijas o fuentes
+
+móviles, que rebasen los límites
+
+permitidos conforme a las Normas
+
+Oficiales Mexicanas y que además
+
+provoquen molestias o alteren la
+
+tranquilidad de las personas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+143 Permitir el propietario o poseedor de 11 a 20
+
+un animal que éste transite
+
+libremente, o transitar con él sin
+
+adoptar las medidas de seguridad
+
+necesarias, de acuerdo con las
+
+características particulares del
+
+animal, para prevenir posibles
+
+ataques a otras personas o animales,
+
+así como azuzarlo, o no contenerlo.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+144 Abstenerse de recoger, de vías o 11 a 20
+
+lugares públicos, las heces fecales
+
+de un animal de su propiedad o
+
+bajo su custodia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO DECIMO SEPTIMO. SERVICIOS EN MATERIA DE ECOLOGIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -2767,13 +2817,13 @@ XII.- Herrerías;
 
 XIII.- Carpinterías;
 
-XIV. - Lavanderías;
+XIV.- Lavanderías;
 
 XV.- Estudios de fotografía y revelado de películas fotográficas; y
 
 XVI.- Venta y almacenaje de productos agrícolas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -2963,7 +3013,7 @@ la vía pública, diariamente se cobrara por cada
 
 uno. 0.005 días salario mínimo
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], B.O. 28 DICIEMBRE DE 2005)
+(REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], B.O. 28 DICIEMBRE DE 2005)
 
 ### CAPITULO OCTAVO. PRODUCTOS DIVERSOS
 
@@ -3067,7 +3117,7 @@ Son ingresos extraordinarios los que se originen de los organismos descentraliza
 
 ### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 130.
 
@@ -3089,7 +3139,7 @@ III. Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicana
 
 IV. Otras instituciones de Seguridad Social que presten estos servicios en las diversas Entidades Federativas del País.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 131.
 
@@ -3285,7 +3335,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE JULIO DE 2002.
 
@@ -3356,3 +3406,13 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
