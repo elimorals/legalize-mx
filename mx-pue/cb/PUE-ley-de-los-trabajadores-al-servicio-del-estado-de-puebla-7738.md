@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2012-03-28"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -190,6 +192,10 @@ Esta Ley no rige para los trabajadores supernumerarios y de confianza. Quedan ta
 ###### ARTICULO 9o.
 
 Todos los trabajadores de base, deben ser de nacionalidad mexicana, de preferencia ciudadanos poblanos y sólo podrán admitirse extranjeros, cuando no existan mexicanos que puedan desarrollar eficientemente el servicio de que se trate. La substitución o designación en su caso, será decidida por el representante del Poder respectivo del Estado, previa audiencia del Sindicato de Trabajadores al Servicio de los Poderes del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Los derechos de un nombramiento de base son intransferibles, por lo que no pueden ser materia de cesión bajo ninguna modalidad o circunstancia que implique limitaciones al Estado para otorgarlas, en los términos establecidos en la Ley. Cualquier disposición o pacto en contrario se tendrán por no puestos.
 
 ###### ARTICULO 10.
 
@@ -499,9 +505,13 @@ T I T U L O Q U I N T O
 
 Escalafón.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 44.
 
-Las vacaciones en los puestos de base que se presenten, se cubrirán por riguroso escalafón y mediante concurso, otorgándose a los trabajadores de la categoría inmediata inferior con mejores derechos.
+Las plazas de base están al servicio del Gobierno del Estado, por lo que una vez que se encuentren vacantes, quedarán a disposición del propio Gobierno, a fin de que determine la pertinencia de su ocupación o en su caso supresión.
+
+Para el caso de ser ocupadas, se dará por riguroso escalafón y mediante concurso, para lo cual el Gobierno del Estado establecerá las bases para su ocupación, debiendo cumplir con el perfil establecido para cada puesto vacante y otorgándose únicamente a los trabajadores de la categoría inmediata inferior con mejor derecho.
 
 ###### ARTICULO 45.
 
@@ -1044,3 +1054,9 @@ P.O. 28 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
