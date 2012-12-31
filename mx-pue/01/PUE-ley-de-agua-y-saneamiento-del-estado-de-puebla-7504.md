@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "2000-08-18"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -215,7 +217,7 @@ b) Los Organismos Operadores.
 
 c) Las Juntas de Administración.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBREDE 1994)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 d) Los Organismos Operadores Intermunicipales o Regionales.
 
@@ -309,7 +311,7 @@ Por cada miembro propietario deberá de haber un suplente, los representantes pr
 
 En el Reglamento Interior de la Comisión Estatal se hará referencia a los criterios y procedimientos que se seguirán para efectuar las designaciones a que se refieren las fracciones VI y VII del artículo 16 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 20.
 
@@ -981,7 +983,7 @@ Las actas deberán ser firmadas por el visitado o por la persona con quien se ha
 
 ### CAPITULO III. DE LA ESTIMACION PRESUNTIVA PARA EL PAGO DE LOS SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 92.
 
@@ -1229,7 +1231,7 @@ II.- No prestar a las Autoridades Competentes, el auxilio necesario para la dete
 
 ### CAPITULO II. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 101.
 
@@ -1343,7 +1345,7 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 
 Por tanto mando se imprima, publique y circule para sus efectos, dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a 30 de Enero de 1992.- El Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 15 DE DICIEMBRE DE 1992.
 
@@ -1382,3 +1384,57 @@ Los Organismos Operadores que a la fecha de entrada en vigor del presente decret
 P.O. 18 DE AGOSTO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente hábil al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Agua y Saneamiento del Estado de Puebla, publicada en Periódico Oficial del Estado el 28 de febrero de 1992, con las salvedades que se señalan en el artículo Octavo Transitorio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se aprueben por el Congreso del Estado el Decreto o Decretos a que se refiere el Capítulo II del Título Séptimo de esta Ley, se aplicarán las cuotas y tarifas establecidas en términos de las Leyes de Ingresos Municipales y demás disposiciones que correspondan.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos y obligaciones contractuales de la Comisión Estatal de Agua y Saneamiento del Estado de Puebla, vigentes a la entrada de la presente Ley, no se modificarán de forma alguna.
+
+###### ARTÍCULO SEXTO.
+
+Se concede un plazo de noventa días naturales contados a partir del inicio de vigencia de la presente Ley, a efecto de que el Consejo Directivo de la Comisión Estatal de Agua y Saneamiento del Estado de Puebla, se integre y funcione de conformidad con las bases previstas por esta Ley. En tanto no se lleve a cabo la nueva integración, el Consejo de Administración de la Comisión continuará realizando sus funciones y actividades en los términos de la Ley que se abroga.
+
+###### ARTÍCULO SÉPTIMO.
+
+La entrada en vigor de la presente Ley no limitará los derechos, competencias y atribuciones que sus respectivos Decretos de creación otorgan a los Organismos Operadores que se hayan constituido con anterioridad a la promulgación de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El Decreto del Congreso del Estado, publicado en el Periódico Oficial del Estado el 2 de agosto de 1996, continuará vigente, hasta en tanto el Sistema Operador de los Servicios de Agua y Alcantarillado del Municipio de Puebla, amortice totalmente los créditos autorizados mediante dicho Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los Usuarios que reporten adeudos que se hubieren generado conforme a las disposiciones que derogan la Ley de Agua y Saneamiento del Estado de Puebla, publicada en Periódico Oficial del Estado el 28 de febrero de 1992, podrán beneficiarse del procedimiento a que se refiere el Titulo Décimo Primero de esta Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+En la sustanciación y resolución de los procedimientos administrativos y de sanción que se encuentren en trámite al momento de la entrada en vigor de esta Ley, los interesados podrán optar por seguir los procedimientos previstos por la Ley de Agua y Saneamiento del Estado de Puebla, publicada en Periódico Oficial del Estado el 28 de febrero de 1992, o bien beneficiarse por el procedimiento dispuesto en el Título Décimo de esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se concede un plazo de ciento ochenta días naturales contados a partir del inicio de vigencia de la presente Ley, a efecto de que las personas físicas o morales que sin contar con las autorizaciones o contratos previstos por esta Ley, estén utilizando los servicios públicos o realizando actividades normadas por este ordenamiento, a fin de que regularicen su situación legal ante el Prestador de Servicios Públicos competente; vencido dicho plazo se harán acreedores a las sanciones que esta Ley establece.
+
+###### ARTICULO DÉCIMO SEGUNDO.
+
+Las personas físicas o morales que hayan iniciado obras de urbanización, fraccionamiento o construcción y que, estando obligadas a hacerlo, no lo hayan manifestado al Prestador de Servicios Públicos competente, previamente al inicio de la vigencia de esta Ley, contarán con un plazo igual al que se refiere el artículo que antecede para manifestarlo y en caso de no hacerlo, se considerará que tales obras se iniciaron con posterioridad a la fecha de inicio de vigencia de la presente Ley y en consecuencia estarán sujetos a las obligaciones y sanciones que la misma establece.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los Ayuntamientos, con la intervención que corresponda a los órganos internos del control, asumirán, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor de esta Ley, directa o indirectamente, las funciones que venían realizando las Juntas de Administración y de Patronatos Pro-Introducción de Agua Potable y Alcantarillado creados en los términos de la Ley que se abroga. Para tales efectos, los responsables de dichas juntas y patronatos deberán hacer entrega de toda la documentación, bienes, derechos y recursos a la instancia que determine el Ayuntamiento de la circunscripción territorial que corresponda.
