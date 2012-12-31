@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-escudo-del-estado-de-puebla-12050"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-19"
-last_updated: "1977-08-19"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY QUE CREA EL ESCUDO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL ESCUDO Y EL HIMNO AL ESTADO DE PUEBLA , PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de agosto de 1977.
 
@@ -88,3 +90,19 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los dieciocho días del mes de Agosto de mil novecientos setenta y siete.- Lic. Carlos J. Arruti Ramírez, D.P.- Miguel Becerra Contreras, D.S.- Celestino del Río Solano, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de agosto de mil novecientos setenta y siete.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley que crea el Escudo del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha diecinueve de agosto de mil novecientos setenta y siete.
+
+TERCERO.- Se abroga el Decreto que Instituye el Himno al Estado de Puebla publicado en el Periódico Oficial del Estado de fecha dieciséis de noviembre de dos mil uno.
+
+CUARTO.- Los procedimientos instaurados al momento de la entrada en vigor de esta Ley, se sujetarán a las disposiciones vigentes al momento de su inicio y hasta su conclusión.
+
+QUINTO.- Queda sin efecto todas las autorizaciones que se hayan emitido para el uso de los emblemas, con anterioridad a la publicación de la presente Ley.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
