@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2012-04-03"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2012.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -40,9 +40,11 @@ LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DE LA MISIÓN, ATRIBUCIONES E INTEGRACIÓN DE LA ARMADA DE MÉXICO
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior y coadyuvar en la seguridad interior del país.
+La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior y coadyuvar en la seguridad interior del país; en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales.
 
 ###### Artículo 2.
 
@@ -54,33 +56,57 @@ II. Cooperar en el mantenimiento del orden constitucional del Estado Mexicano;
 
 III. Realizar acciones para salvaguardar la soberanía y defender la integridad del territorio nacional en el mar territorial, zona marítimo-terrestre, islas, cayos, arrecifes, zócalos y plataforma continental; así como en aguas interiores, lacustres y ríos en sus partes navegables, incluyendo los espacios aéreos correspondientes, así como vigilar los derechos de soberanía en la zona económica exclusiva;
 
-IV. Proteger el tráfico marítimo, fluvial y lacustre, en el área de jurisdicción federal y donde el Mando Supremo lo ordene y, en coordinación con otras autoridades competentes mediante convenios, establecer por instrucción del Mando Supremo las áreas de control al mismo, incluidos los respectivos espacios aéreos;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-V. Salvaguardar la vida humana en la mar y en las aguas interiores, mediante operaciones de búsqueda, rescate y salvamento en las aguas marinas nacionales e internacionales y en todas aquellas en las que el Mando Supremo lo ordene;
+IV. Proteger el tráfico marítimo, fluvial y lacustre, en las zonas marinas mexicanas, aguas interiores navegables y donde el Mando Supremo lo ordene, así como establecer las áreas restringidas a la navegación, incluidos los espacios aéreos correspondientes, en coordinación con las autoridades competentes y de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales y la legislación nacional;
 
-VI. Proteger instalaciones estratégicas del país en su área de jurisdicción y donde el Mando Supremo lo ordene;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Salvaguardar la vida humana mediante operaciones de búsqueda y rescate en las zonas marinas mexicanas, aguas internacionales y en todas aquéllas en las que el Mando Supremo lo ordene;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+VI. Proteger instalaciones estratégicas del país en su ámbito de competencia y donde el Mando Supremo lo ordene;
 
 VII. Auxiliar a la población en los casos y zonas de desastre o emergencia; aplicando los planes institucionales de protección civil, en coordinación con otras autoridades;
 
-VIII. Proteger los recursos marítimos, fluviales y lacustres nacionales;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII. Proteger los recursos marítimos, fluviales y lacustres nacionales, así como participar en toda actividad relacionada con el desarrollo marítimo nacional;
 
 IX. Garantizar el cumplimiento del orden jurídico en las zonas marinas mexicanas por sí o coadyuvando con las autoridades competentes en el combate al terrorismo, contrabando, piratería en el mar, robo de embarcaciones pesqueras, artes de pesca o productos de ésta, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos, en los términos de la legislación aplicable;
 
-X. Realizar actividades de investigación científica, oceanográfica, meteorológica, biológica y de los recursos marítimos, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras, o en coordinación con dependencias del Ejecutivo;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-XI. Intervenir, sin perjuicio de las atribuciones de las dependencias del Ejecutivo, en la prevención y control de la contaminación marítima, así como vigilar y proteger el medio marino dentro del área de su responsabilidad, actuando por sí, o en colaboración con otras dependencias e instituciones nacionales o extranjeras;
+X. Realizar actividades de investigación científica, oceanográfica, meteorológica, biológica y de los recursos marítimos, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras, o en coordinación con dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XI. Intervenir, sin perjuicio de las atribuciones de las dependencias y entidades de la Administración Pública Federal, en la prevención y control de la contaminación marítima, así como vigilar y proteger el medio marino dentro del área de su responsabilidad, actuando por sí o en colaboración con otras dependencias e instituciones nacionales o extranjeras;
 
 XII. Fomentar y participar con las autoridades civiles en actividades socio-culturales y cívicas en aspectos relacionados con el medio marítimo;
 
-XIII. Realizar levantamientos topográficos de los mares y costas nacionales y publicar la cartografía náutica, así como la información necesaria para la seguridad de la navegación; y participar y fomentar toda actividad relacionada con el desarrollo marítimo nacional;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-XIV. Administrar y fomentar la educación naval en el país, y
+XIII. Ejecutar los trabajos hidrográficos de las costas, mares, islas, puertos y vías navegables; publicar la cartografía náutica y la información necesaria para la seguridad de la navegación, y organizar el archivo de cartas náuticas y las estadísticas relativas;
 
-XV. Las demás que le señalen las disposiciones aplicables y le encomiende el Mando Supremo.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XIV. Administrar y fomentar la educación naval en el país;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XV. Participar en los órganos del Fuero de Guerra, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XVI. Las demás que le señalen las disposiciones aplicables y le encomiende el Mando Supremo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-La Armada de México ejecutará sus atribuciones por sí o conjuntamente con el Ejército y Fuerza Aérea o en coadyuvancia con las dependencias del Ejecutivo Federal, cuando lo ordene el Mando Supremo o cuando las circunstancias así lo requieran.
+La Armada de México ejerce sus atribuciones por sí o conjuntamente con el Ejército y Fuerza Aérea o en coadyuvancia con las dependencias del Ejecutivo Federal, cuando lo ordene el Mando Supremo, y podrán coordinarse con otros órganos de gobierno que así lo requieran, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales.
 
 ###### Artículo 4.
 
@@ -128,17 +154,23 @@ V. Autorizar, mediante Acuerdo publicado en el Diario Oficial de la Federación,
 
 VI. Las demás establecidas en esta Ley y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-El Alto Mando lo ejercerá el Secretario de Marina y será responsable ante el Mando Supremo del desempeño de las atribuciones siguientes:
+El Alto Mando es ejercido por el Secretario de Marina, responsable ante el Mando Supremo del desempeño de las atribuciones siguientes:
 
-I. Elaborar, determinar y ejecutar la política y estrategia naval considerando las recomendaciones del Consejo del Almirantazgo;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+I. Planear, elaborar, determinar y ejecutar la política y estrategia naval;
 
 II. Operar y administrar el poder naval de la Federación;
 
 III. Participar en la formulación de los planes de seguridad nacional;
 
-IV. Establecer, mediante Acuerdo publicado en el Diario Oficial de la Federación, la organización jurisdiccional de sectores, subsectores y apostaderos navales que se requieran para el funcionamiento de la Armada, así como las áreas de control del tráfico marítimo en los términos asentados en la fracción IV del artículo 2 de esta Ley;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+IV. Establecer, mediante Acuerdo publicado en el Diario Oficial de la Federación, la creación y organización de sectores navales, así como las áreas de control naval del tráfico marítimo;
 
 V. Crear los establecimientos y unidades operativas necesarias para incrementar la eficiencia en la ejecución de las tareas de la Armada, con sujeción al presupuesto asignado;
 
@@ -156,7 +188,13 @@ I. Estado Mayor General de la Armada;
 
 II. Fuerzas navales;
 
-III. Regiones, zonas, sectores, subsectores y apostaderos navales;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. Regiones, zonas y sectores navales;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III Bis. Cuartel General del Alto Mando;
 
 IV. Órganos colegiados;
 
@@ -166,17 +204,25 @@ VI. Establecimientos, y
 
 VII. Unidades operativas.
 
-Asimismo, y para el despacho de los asuntos a que se refiere el artículo 2 de esta Ley, el Alto Mando se auxiliará con el Subsecretario, Oficial Mayor, Contralor Interno, Directores Generales, Directores, Agregados Navales y demás servidores públicos que establezcan los reglamentos de esta Ley, así como los órganos y unidades técnicos y administrativos, centrales o desconcentrados, que también establezcan dichos reglamentos, los cuales precisarán el número de ellos y las atribuciones que les correspondan.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Asimismo, y para el despacho de los asuntos a que se refiere el artículo 2 de esta Ley, el Alto Mando se auxiliará con el Subsecretario, Oficial Mayor, Inspector y Contralor General de Marina, Directores Generales, Agregados Navales y demás servidores públicos, órganos y unidades que establezcan los reglamentos respectivos.
 
 ###### Artículo 9.
 
 Son mandos:
 
-I. Superiores en Jefe, los titulares de las fuerzas navales y los de las regiones navales;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-II. Superiores, los titulares de las zonas navales, y
+I. Superiores en Jefe: los titulares de las fuerzas navales, regiones navales y el del Cuartel General del Alto Mando;
 
-III. Subordinados, los titulares de sectores, subsectores, bases aeronavales, flotillas, escuadrones aeronavales, unidades de superficie y de infantería de marina y otros que designe el Alto Mando.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+II. Superiores: los titulares de las zonas navales y otros que designe el Alto Mando, y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. Subordinados: los titulares de sectores, flotillas, escuadrillas, unidades de superficie, unidades aeronavales, batallones de infantería de marina, y otros que designe el Alto Mando.
 
 ###### Artículo 10.
 
@@ -194,13 +240,17 @@ IV. Incidentales, los desempeñados en los casos imprevistos por ausencia moment
 
 En caso de ausencia temporal, el orden y sucesión de Mando, se sujetará a lo siguiente:
 
-I. El Alto Mando será suplido por el Subsecretario y en ausencia de éste por la autoridad naval que el Alto Mando designe;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+I. El Alto Mando será suplido por el Subsecretario y, en ausencia de éste, por el Oficial Mayor;
 
 II. Los mandos superiores en jefe serán suplidos:
 
 A.- En las fuerzas navales por el Jefe del Estado Mayor, y
 
-B.- En las regiones navales por el comandante de zona más antiguo de su jurisdicción, y en la Región Naval Central por el Jefe del Estado Mayor;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+B.- En las regiones navales por el comandante de zona más antiguo de su jurisdicción y en el Cuartel General del Alto Mando por el Jefe del Estado Mayor;
 
 III. Los mandos superiores serán suplidos por sus jefes de estado mayor, y
 
@@ -212,83 +262,107 @@ En los casos a que se refieren las fracciones II a IV, las ausencias de quien de
 
 El Estado Mayor General de la Armada es el órgano asesor del Alto Mando a quien auxilia en la planeación, coordinación y supervisión de las operaciones requeridas para el cumplimiento de las atribuciones asignadas a la Armada, transformando sus decisiones en directivas, órdenes e instrucciones, supervisando su cumplimiento.
 
-Estará integrado con personal Diplomado de Estado Mayor y el personal especialista que sea necesario para el cumplimiento de sus atribuciones. El titular será de la categoría de almirante.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2011)</small>
+Estará integrado con personal Diplomado de Estado Mayor y el personal especialista que sea necesario para el cumplimiento de sus atribuciones. El titular será de la categoría de Almirante.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 13.
 
-Las fuerzas navales son el conjunto organizado de mujeres y hombres, buques, aeronaves y unidades de infantería de marina capacitados para salvaguardar los intereses marítimos, conforme a las prescripciones de la Constitución Política de los Estados Unidos Mexicanos.
+Las fuerzas navales son el conjunto organizado de mujeres y hombres, buques, aeronaves y unidades de infantería de marina capacitados para el cumplimiento de la misión y atribuciones asignadas a la Armada de México, conforme a las prescripciones de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las fuerzas navales se organizan, adiestran y operan con: fuerzas de superficie, de reacción anfibia y especiales, así como con unidades aeronavales, submarinas, antisubmarinas de minado, de contraminado y de vigilancia marítima, mismas que recibirán apoyo logístico necesario por conducto de las direcciones generales de la Secretaría de Marina, así como de las regiones y sus establecimientos.
-
-El Comandante de cada Fuerza Naval será de la jerarquía de Almirante del Cuerpo General.
+Los Comandantes de las Fuerzas Navales serán de la categoría de Almirante.
 
 ###### Artículo 14.
 
 Las fuerzas de tarea son unidades orgánicas operativas que se constituyen en forma temporal, con los medios necesarios para cumplir una misión específica; el Mando de éstas será designado por el Alto Mando.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-Las regiones navales son áreas geoestratégicas que agrupan a zonas, sectores, subsectores y apostaderos navales. Serán determinadas por el Mando Supremo.
+Las regiones navales son áreas geoestratégicas, determinadas por el Mando Supremo, que agrupan a zonas, sectores, flotillas, escuadrillas y otras unidades y establecimientos.
 
-Existirá la Región Naval Central, en la ciudad de México, misma que se integrará con las unidades operativas y con establecimientos navales en el área metropolitana.
+Tienen a su cargo la concepción, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones asignadas a la Armada de México en su área jurisdiccional.
 
-Tener a su cargo la concepción, preparación y conducción de las operaciones navales para la defensa marítima del territorio en su área jurisdiccional.
+Los comandantes de las regiones serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
 
-Los mandos de las regiones serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 15 Bis.
+
+El Cuartel General del Alto Mando se integra con las unidades operativas y establecimientos navales de la Capital de los Estados Unidos Mexicanos.
+
+Tiene a su cargo la concepción, preparación y conducción de las operaciones, proporcionando seguridad y apoyo logístico a las unidades y establecimientos en dicha Capital.
+
+El Comandante del Cuartel General del Alto Mando será de la categoría de Almirante y estará subordinado directamente al Alto Mando.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 16.
 
-Las zonas navales son las áreas geográfico-marítimas determinadas por el Mando Supremo, que agrupan a sectores, subsectores y apostaderos navales, fuerzas adscritas, incorporadas y destacadas, así como unidades y establecimientos que se encuentran dentro de su jurisdicción.
+Las zonas navales son las áreas geográfico-marítimas determinadas por el Mando Supremo, que agrupan a sectores navales, flotillas, escuadrillas y otras unidades y establecimientos que determine el Alto Mando.
 
 Tienen a su cargo la concepción, preparación, conducción y apoyo logístico de las operaciones navales en su área de responsabilidad.
 
 Los comandantes de las zonas serán de la categoría de Almirante, y estarán subordinados directamente al comandante de la Región Naval correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-Los sectores navales son las subdivisiones geográfico-marítimas, determinadas por el Alto Mando, que agrupan a subsectores, apostaderos, unidades y establecimientos navales.
+Los sectores navales son las subdivisiones geográfico-marítimas determinadas por el Alto Mando, que tienen bajo su mando a las flotillas, escuadrillas, unidades, establecimientos y fuerzas adscritas, incorporadas o destacadas.
 
 Tienen a su cargo la concepción, preparación y conducción de las operaciones navales dentro de su jurisdicción. Asimismo, brindan apoyo logístico a las unidades adscritas, incorporadas y destacadas bajo su mando.
 
-Los comandantes serán de la categoría de Almirante del Cuerpo General y estarán subordinados al mando de la región o zona naval que corresponda.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Los comandantes serán de la categoría de Almirante y estarán subordinados al mando de la región o zona naval que corresponda.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 18.
 
-Los subsectores navales son áreas determinadas por el Alto Mando, que agrupan a los apostaderos navales.
+Las flotillas y escuadrillas tienen a su cargo la supervisión de las actividades operativas de las unidades de superficie adscritas, a fin de mantenerlas con un alto grado de alistamiento, incrementar su eficiencia y optimizar los medios disponibles para el desarrollo de las operaciones que se les asignen.
 
-Tienen a su cargo la conducción de las operaciones tácticas, así como el otorgamiento del apoyo logístico a las operaciones navales que se desarrollen en su jurisdicción.
-
-Están integrados por personal, unidades y establecimientos navales. Los comandantes serán de la categoría de Capitán del Cuerpo General y estarán subordinados al comandante de la zona o sector naval que corresponda.
+Están integradas por personal y unidades de superficie de acuerdo a los requerimientos operativos. Los comandantes serán de la categoría de Capitán del Cuerpo General y estarán subordinados al comandante de región, zona o sector naval que corresponda.
 
 ###### Artículo 19.
 
-Los apostaderos navales son los establecimientos situados en puertos, bahías e islas nacionales, que cuentan con la infraestructura mínima necesaria para apoyar logísticamente a las unidades navales.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
-Pueden constituirse como bases para las operaciones tácticas que se desarrollen; no se les considerarán límites geográficos jurisdiccionales y su responsabilidad operativa en la zona marítima será de acuerdo con la capacidad de los medios de que disponga.
-
-Estarán a cargo de un Capitán u Oficial destacamentado, subordinado al comandante de zona, sector o subsector naval correspondiente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-Las brigadas navales son las unidades operativas, pertenecientes a los mandos navales, responsables de proporcionar servicios de índole naval y logístico destinados a satisfacer las necesidades de vida y operación de las unidades adscritas o incorporadas, establecimientos y apostaderos navales a fin de coadyuvar al cumplimiento de la misión encomendada al Mando de quien dependan.
+Las unidades operativas son los buques, aeronaves y unidades de infantería de marina, mediante los cuales se cumplimentan las funciones que se derivan de la misión y atribuciones de la propia Armada. Contarán con el personal necesario de los cuerpos y servicios.
 
-Estarán constituidas por personal de las diferentes jerarquías del Cuerpo General y de los servicios.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-Las unidades de superficie de la Armada de México, adscritas a los mandos navales jurisdiccionales, estarán organizadas en unidades de mar territorial y unidades oceánicas.
+Las unidades de superficie de la Armada de México, adscritas a los mandos navales, se agruparán en diferentes tipos y clases de acuerdo a su misión, empleo táctico, equipamiento y sistemas de armas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
-Los agrupamientos de infantería de marina, adscritos a los mandos navales jurisdiccionales, se encargarán de proporcionar principalmente seguridad militar a las instalaciones estratégicas para el desarrollo nacional, ubicadas dentro de la jurisdicción de la Armada de México.
+Las unidades de infantería de marina, adscritas a los mandos navales, se integran en batallones, fuerzas especiales y otras que designe el Alto Mando.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 22 Bis.
+
+Las unidades aeronavales, adscritas a los mandos navales, son de ala fija o móvil, de diferentes tipos y clases, encuadradas a bases, estaciones y escuadrones aeronavales.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 23.
 
-Los establecimientos de educación naval tienen por objeto la capacitación, adiestramiento, formación y especialización del personal de la Armada de México y, en su caso, de los becarios, en los términos del Plan General de Educación Naval.
+Los establecimientos de educación naval tienen por objeto adiestrar, capacitar, formar y proporcionar estudios de posgrado al personal de la Armada de México y, en su caso, de los becarios en los términos del Plan General de Educación Naval.
 
-La Armada de México contará con los establecimientos educativos necesarios para preparar los recursos humanos que requiera a nivel técnico, técnico-profesional, profesional, especialización y posgrado, de acuerdo con los recursos financieros que le sean asignados.
+La Armada de México contará con los establecimientos educativos necesarios para preparar los recursos humanos que requiera a nivel técnico, técnico-profesional, profesional y posgrado, de acuerdo con los recursos financieros que le sean asignados.
 
 ###### Artículo 24.
 
@@ -300,23 +374,69 @@ Entre éstos se consideran los centros de abastecimiento, de mantenimiento, de p
 
 El Alto Mando de la Armada de México contará con órganos asesores que le proporcionen elementos de juicio para la toma de decisiones, que serán los siguientes:
 
-I. El Consejo del Almirantazgo reducido y ampliado;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-II. La Comisión Coordinadora para la Designación de Cargos, y
+I. El Consejo del Almirantazgo, en sus modalidades de reducido y ampliado;
 
-III. La Comisión Coordinadora para Ascensos.
+II. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2012)
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. La Comisión Coordinadora para Ascensos, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+IV. Otros que establezca.
 
 ###### Artículo 26.
 
 El Consejo del Almirantazgo es un órgano de análisis para la concertación, acuerdo y toma de decisiones sobre asuntos trascendentes para la Armada de México.
 
-Funcionará y se integrará en las modalidades de reducido y ampliado, de acuerdo a las disposiciones reglamentarias que emita el Presidente de la República. En ambos casos, será presidido por el Alto Mando.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Funcionará y se integrará en los términos que establece la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
-La Comisión Coordinadora para la Designación de Cargos es un órgano auxiliar que califica y selecciona al personal de las jerarquías, desde oficiales hasta capitanes de fragata, para la asignación de cargos.
+El Consejo del Almirantazgo tiene las funciones siguientes:
 
-Estará integrada con personal de la categoría de Almirante y funcionará de acuerdo a su manual de normas y procedimientos. La presidirá el Jefe del Estado Mayor General.
+I. En su modalidad de ampliado:
+
+A. Asesorar al Alto Mando en asuntos de carácter estratégico;
+
+B. Proporcionar los elementos de juicio que sustenten la toma de decisiones en asuntos relacionados con el desarrollo del poder naval, y
+
+C. Proponer las políticas de la institución relacionadas con el ámbito marítimo que impacten en el desarrollo del país, y
+
+II. En su modalidad de reducido, conocerá de las inconformidades a que se refieren los artículos 31 y 33 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+El Consejo del Almirantazgo se integrará de la manera siguiente:
+
+I. En la modalidad de reducido por:
+
+A. Secretario;
+
+B. Subsecretario;
+
+C. Oficial Mayor;
+
+D. Inspector y Contralor General de Marina;
+
+E. Jefe del Estado Mayor General de la Armada;
+
+F. Comandante de la Fuerza Naval del Golfo, y
+
+G. Comandante de la Fuerza Naval del Pacífico, y
+
+II. En la modalidad de ampliado, además de los servidores públicos señalados en la fracción anterior, por los Comandantes de las regiones navales.
+
+En ambas modalidades, será presidido por el Alto Mando.
 
 ###### Artículo 28.
 
@@ -324,45 +444,77 @@ La Comisión Coordinadora para Ascensos es un órgano auxiliar que califica y se
 
 Estará integrada con personal de la categoría de almirantes y capitanes, y funcionará de acuerdo a su manual de normas y procedimientos. La presidirá el Director General de Recursos Humanos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 29.
 
-Los órganos disciplinarios se establecen para conocer, resolver y sancionar las faltas graves en contra de la disciplina militar, en que incurra el personal de la Armada de México.
+Los órganos de disciplina son competentes para conocer, resolver y sancionar las faltas graves en contra de la disciplina naval, así como calificar la conducta o actuación del personal de la Armada de México.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-Los órganos disciplinarios son la Junta de Almirantes y los consejos de honor superiores y ordinarios.
+Los órganos de disciplina son:
 
-Tendrán como competencia calificar la conducta o actuación del personal, así como conocer y sancionar las faltas graves a la disciplina militar.
+I. La Junta de Almirantes;
 
-Funcionarán y se organizarán conforme a su reglamento, a la Ley de Disciplina del Personal de la Armada de México y demás disposiciones legales aplicables.
+II. Los Consejos de Honor Superior;
+
+III. Los Consejos de Honor Ordinario, y
+
+IV. Los Consejos de Disciplina.
+
+Funcionarán y se organizarán conforme a las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
-Los órganos disciplinarios funcionarán con carácter permanente, sus resoluciones serán autónomas y aplicadas en tiempo y forma sin que esto coarte la posibilidad de interponer el recurso de inconformidad ante el organismo disciplinario superior al que emitió el fallo.
+Los órganos de disciplina funcionarán con carácter permanente y sus resoluciones serán autónomas.
 
-Sus resoluciones podrán ser recurridas en un término de 15 días ante el organismo disciplinario superior al que emitió el fallo.
+Dichas resoluciones se aplicarán en tiempo y forma sin que ello coarte la posibilidad de interponer el recurso de inconformidad ante el órgano de disciplina superior al que emitió el fallo, en un término de quince días naturales.
 
-De igual forma el Consejo del Almirantazgo reducido conocerá de las resoluciones que emita la Junta de Almirantes.
+El Consejo del Almirantazgo, en su modalidad de reducido, conocerá de las impugnaciones en contra de las resoluciones que emita la Junta de Almirantes.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
-La Junta Naval funcionará y se organizará conforme a su propio reglamento y demás disposiciones aplicables; será competente para conocer de las inconformidades que manifieste el personal respecto a:
+La Junta Naval es un órgano administrativo de carácter permanente y estará integrada de un Presidente y dos Vocales de la Categoría de Almirantes en servicio activo de los diferentes Cuerpos y Servicios de la Armada de México, designados por el Alto Mando; el Segundo Vocal fungirá como Secretario.
+
+Será competente para conocer de la inconformidad que manifieste el personal respecto a:
 
 I. Situaciones escalafonarias;
 
 II. Antigüedad en el grado;
 
-III. Exclusión en el concurso de selección para ascenso, y
+III. Exclusión en el concurso de selección para ascenso;
 
-IV. Postergas.
+IV. Postergas;
+
+V. Adecuación de grado, y
+
+VI. Pase a la milicia permanente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 32 Bis.
+
+La inconformidad a que se refiere el artículo anterior, deberá interponerse por escrito ante la Junta Naval, dentro de los treinta días naturales siguientes a la fecha en que surta efectos la notificación.
+
+La resolución de la inconformidad deberá ser emitida en un término no mayor a noventa días naturales posteriores a aquel en que se interpuso la inconformidad.
+
+Las inconformidades se regularán conforme a las disposiciones reglamentarias respectivas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-Las resoluciones emitidas por la Junta Naval serán autónomas y obligatorias. En caso de inconformidad, deberán ser analizadas por el Consejo del Almirantazgo reducido.
+Las resoluciones emitidas por la Junta Naval serán autónomas y obligatorias. En caso de inconformidad, deberán ser analizadas por el Consejo del Almirantazgo en su modalidad de reducido.
 
 ###### Artículo 34.
 
-Las unidades operativas son los buques, aeronaves, fuerzas de infantería de marina, de reacción anfibia, especiales, de minado y contraminado, submarinas, de trabajos y comando submarino, de artillería, agrupamientos de infantería de marina, brigadas navales y otros recursos de la Armada de México, mediante las cuales se cumplimentan las funciones tácticas que se derivan de la misión y atribuciones de la propia Armada. Contarán con el personal del Cuerpo General y de los servicios.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO TERCERO. DEL PERSONAL
 
@@ -374,17 +526,23 @@ I. A la milicia permanente, o
 
 II. A la milicia auxiliar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-El personal de la milicia permanente se caracteriza por su estabilidad en el servicio y los que a ella pertenecen no pueden ser destituidos de su jerarquía, sino por sentencia ejecutoriada del órgano de justicia competente.
+El personal de la milicia permanente se caracteriza por su estabilidad en el servicio.
 
 Pertenecerá a la milicia permanente:
 
 I. El egresado de las escuelas de formación a quien se le expida el despacho de Guardiamarina o Primer Maestre;
 
-II. El que, habiendo causado alta como Marinero, obtenga por ascensos sucesivos la jerarquía de Primer Maestre o equivalente y haya cumplido ininterrumpidamente cuatro años de servicio;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-III. El que haya ingresado como Marinero o Clase, deberá cumplir el requisito de temporalidad a que se refiere la fracción siguiente a partir de la fecha en que obtenga la jerarquía de oficial, y
+II. El que habiendo causado alta como Marinero, obtenga por ascensos sucesivos el grado de Primer Maestre o equivalente y haya cumplido ininterrumpidamente cuatro años de servicio;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. El que obtenga el grado de Primer Maestre o equivalente y no se encuadre en la fracción anterior, al cumplir quince años de servicio ininterrumpidos y reúna los requisitos establecidos en el Reglamento respectivo, previa solicitud, podrá participar en el proceso de pase de Oficiales de la milicia auxiliar a la milicia permanente, y
 
 IV. El que cause alta en la Armada como Oficial de la milicia auxiliar, cuando sus servicios se consideren necesarios a juicio del Alto Mando, y reúna sin interrupción el tiempo de servicio siguiente:
 
@@ -396,7 +554,9 @@ C.- Teniente de Fragata 7 años,
 
 D.- Teniente de Navío 9 años.
 
-Al personal mencionado que haya sido adecuado de grado por estudios efectuados, se le computará el tiempo de servicios en cada una de las jerarquías que haya ostentado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Al personal mencionado que haya sido adecuado de grado por estudios efectuados, se le computará el tiempo de servicios en cada uno de los grados que haya ostentado.
 
 Además de lo anterior, el pase de la milicia auxiliar a la milicia permanente, previa solicitud del interesado, estará sujeto al cumplimiento de los requisitos de conducta, edad, aptitud física y profesional, conforme al reglamento respectivo.
 
@@ -404,15 +564,19 @@ Además de lo anterior, el pase de la milicia auxiliar a la milicia permanente, 
 
 El personal que se contrate presentando carta de pasante de nivel licenciatura tendrá un plazo de un año, contado a partir de la fecha en que cause alta en el servicio activo de la Armada de México, para presentar el título y cédula profesional que corresponda. De no hacerlo, causará baja y no podrá ser reenganchado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-El personal de la milicia permanente, núcleo o escala de los diferentes servicios, podrá obtener las distintas jerarquías conforme a los procedimientos establecidos en la Ley de Ascensos o realizando estudios acordes a su profesión, por su cuenta y sin perjuicio del servicio, pudiendo obtener los grados de:
+El personal de la milicia permanente, núcleo o escala de los diferentes servicios, podrá obtener los distintos grados conforme a los procedimientos establecidos en la Ley de Ascensos de la Armada de México o realizando estudios acordes a su profesión, por su cuenta y sin perjuicio del servicio, pudiendo obtener los grados de:
 
 I. Teniente de Corbeta, con estudios de licenciatura;
 
 II. Teniente de Fragata, con especialidad o maestría, y
 
-III. Teniente de Navío, con subespecialidad o doctorado.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. Teniente de Navío, con segunda especialidad afín o doctorado.
 
 Lo anterior estará sujeto a que dichos estudios resulten de utilidad a la Armada, a juicio del Alto Mando, y a que exista vacante.
 
@@ -422,9 +586,25 @@ El personal de la milicia auxiliar es el que presta sus servicios en forma tempo
 
 La estancia en el servicio activo de este personal estará sujeta a las disposiciones reglamentarias correspondientes.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-El personal de la milicia auxiliar podrá ascender por adecuación de grado al efectuar estudios acordes a su profesión, o de utilidad para la Armada, sin perjuicio del servicio, obteniendo un título o diploma y cédula profesional, según corresponda, siempre y cuando exista vacante.
+El personal de la milicia auxiliar podrá ascender por adecuación de grado al haber realizado estudios por su cuenta acordes a su profesión sin perjuicio del servicio y que sean de utilidad para la Armada, pudiendo obtener los grados de:
+
+I. Tercer Maestre, con estudios de nivel técnico profesional;
+
+II. Segundo Maestre, con estudios de nivel técnico profesional con especialidad;
+
+III. Primer Maestre, con estudios de nivel técnico superior universitario;
+
+IV. Teniente de Corbeta, con estudios de licenciatura;
+
+V. Teniente de Fragata, con especialidad o maestría, y
+
+VI. Teniente de Navío, con segunda especialidad afín o doctorado.
+
+La adecuación de grado estará sujeta a la consideración del Alto Mando, a que exista vacante y a la presentación de título o diploma y cédula profesional.
 
 ###### Artículo 41.
 
@@ -432,25 +612,43 @@ Se consideran becarios, aquellas personas de nacionalidad extranjera que se encu
 
 Los becarios no serán considerados como personal de la Armada de México, pero quedan sujetos a la reglamentación interna de los establecimientos educativos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 42.
 
-Atendiendo a su formación y funciones, el personal se agrupa en Cuerpo General y servicios.
+El personal se agrupa en Cuerpos y Servicios en atención a su formación y funciones.
 
-A su vez, el Cuerpo General y los servicios están constituidos por núcleos y escalas. Los núcleos agrupan al personal profesional, las escalas al técnico profesional y no profesional.
+A su vez, los Cuerpos y los Servicios están constituidos por núcleos y escalas. Los núcleos agrupan al personal profesional, y las escalas al técnico profesional y no profesional.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 43.
 
-El núcleo del Cuerpo General está constituido por personal egresado de la Heroica Escuela Naval Militar, quien podrá realizar las especialidades que resulten necesarias para la Armada de México, en los términos previstos en el Plan General de Educación Naval.
+Los Cuerpos son los siguientes:
 
-Los núcleos de los servicios están constituidos por personal profesional procedente de establecimientos educativos superiores de la Armada de México, o de otras instituciones de educación superior tanto nacionales como extranjeras. Los estudios de estas últimas, para su validez, deberán ser revalidados y reconocidos por la Secretaría de Educación Pública.
+I. Cuerpo General;
+
+II. Infantería de Marina;
+
+III. Aeronáutica Naval, y
+
+IV. Otros que sean necesarios a juicio del Alto Mando.
+
+Los núcleos de los cuerpos señalados están constituidos por personal egresado de la Heroica Escuela Naval Militar, quien podrá realizar las especialidades que resulten necesarias para la Armada de México, en los términos previstos en el Plan General de Educación Naval.
+
+Los núcleos de los servicios están constituidos por personal profesional procedente de establecimientos educativos superiores de la Armada de México, o de otras instituciones de educación superior tanto nacionales como extranjeras. Los estudios en estas últimas, para su reconocimiento, deberán ser revalidados por la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-La escala técnico profesional del Cuerpo General y de los servicios está integrada por el personal que haya realizado estudios en escuelas reconocidas por la Secretaría de Educación Pública, de nivel técnico profesional, con una duración mínima de tres años lectivos y que obtengan el título y la cédula correspondientes.
+La escala técnico profesional de los Cuerpos y Servicios está integrada por el personal que haya realizado estudios en escuelas reconocidas por la Secretaría de Educación Pública, de nivel técnico profesional, con una duración mínima de tres años lectivos y que obtengan el título o diploma y la cédula profesional correspondiente.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 45.
 
-La escala no profesional del Cuerpo General y de los servicios está integrada por todo el personal que no esté considerado en los artículos 42 y 43 de esta Ley.
+La escala no profesional de los Cuerpos y Servicios está integrada por el personal no considerado en los artículos 43 y 44 de esta Ley.
 
 ###### Artículo 46.
 
@@ -464,7 +662,9 @@ III. Del Medio Ambiente Marino;
 
 IV. Docente Naval;
 
-V. Electrónica Naval;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Logística Naval;
 
 VI. Ingenieros de la Armada;
 
@@ -474,9 +674,17 @@ VIII. Meteorología Naval;
 
 IX. Músicos Navales;
 
-X. Sanidad Naval, y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-XI. Trabajo Social Naval.
+X. Sanidad Naval;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XI. Trabajo Social Naval, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+XII. Otros que sean necesarios a juicio del Alto Mando.
 
 ###### Artículo 47.
 
@@ -484,17 +692,23 @@ Para ingresar a la Armada de México se requiere:
 
 I. Ser mexicano por nacimiento;
 
-II. No adquirir otra nacionalidad;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+II. No contar con otra nacionalidad;
 
 III. Estar en pleno goce y ejercicio de los derechos civiles y políticos;
 
 IV. No contar con antecedentes penales por delitos dolosos o intencionales, y
 
-V. Reunir los requisitos de edad, aptitud física y académica, así como de conducta que establece el reglamento respectivo y demás disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Reunir los requisitos de edad, de aptitud física y académica, de conducta, así como encontrarse médica y clínicamente sano y apto para el servicio de las armas, en términos de las normas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 48.
 
-El reclutamiento del personal de marinería se efectuará:
+El reclutamiento del personal se efectuará:
 
 I. Por conscripción en los términos de la Ley del Servicio Militar, y
 
@@ -508,29 +722,39 @@ El reclutamiento del personal de cadetes y alumnos se efectuará por contrato de
 
 El personal de la milicia auxiliar que no sea del Servicio Militar Nacional, se reclutará por contrato de enganche voluntario, según las condiciones y términos establecidos en el mismo. Podrá reengancharse o causar baja de acuerdo a lo contenido en la presente Ley y los reglamentos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-La capacitación y desarrollo del personal tiene por objeto instruirlo con conocimientos y habilidades para el cumplimiento de sus funciones dentro de la Armada de México, en los términos del Plan General de Educación Naval.
+La educación naval tiene por objeto proporcionar al personal los principios doctrinarios navales, conocimientos y habilidades para el cumplimiento de sus funciones dentro de la Armada de México, en los términos establecidos por las disposiciones legales y reglamentarias.
 
-Dicho Plan, establecerá los requerimientos para cumplir los objetivos de:
+La educación naval se conforma por los siguientes niveles educativos:
 
-I. Capacitación;
+I. Adiestramiento;
 
-II. Adiestramiento;
+II. Capacitación;
 
 III. Formación, y
 
-IV. Especialización.
+IV. Posgrado.
 
-Estos objetivos, se llevarán a cabo en las unidades y en los establecimientos de la Armada, así como en otros centros educativos nacionales o extranjeros.
+Estos niveles, se llevaran a cabo en las unidades y en los establecimientos de la Armada, así como en otros centros educativos nacionales o extranjeros.
 
 ###### Artículo 52.
 
 El personal designado para efectuar cursos por cuenta de la Armada en centros educativos, nacionales o extranjeros, ajenos a la misma, se comprometerá a prestar sus servicios conforme a las siguientes reglas:
 
-I. En planteles nacionales, un tiempo de servicios equivalente a que duren sus estudios, y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-II. En planteles extranjeros, un tiempo de servicios de dos veces del tiempo que duren sus estudios.
+I. En planteles nacionales, un tiempo equivalente a dos veces el que duren sus estudios, y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+II. En planteles extranjeros, un tiempo equivalente a tres veces el que duren sus estudios.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+El personal que solicite su separación del servicio activo y no haya concluido con el tiempo de servicio especificado en las fracciones anteriores, cubrirá el total o la parte proporcional del importe erogado por la Institución para la realización de dichos estudios.
 
 ###### Artículo 53.
 
@@ -538,9 +762,11 @@ El personal seleccionado para efectuar cursos en establecimientos educativos de 
 
 La Armada de México expedirá el título profesional, diploma o constancia correspondiente a los nacionales o extranjeros que concluyan estudios en los establecimientos de educación naval, en los términos en que lo señalen las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 54.
 
-El personal desempeñará los cargos y comisiones acordes a su cuerpo, servicio y jerarquía establecidos en las planillas orgánicas de las unidades y establecimientos de la Armada de México, así como los que se le nombren por necesidades del servicio, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables.
+El personal desempeñará los cargos y comisiones acordes a su cuerpo, servicio y grado establecidos en las planillas orgánicas de las unidades y establecimientos de la Armada de México, así como los que se le nombren por necesidades del servicio, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables.
 
 Los cargos y comisiones confieren al designado las atribuciones, obligaciones y responsabilidades que establecen las disposiciones aplicables.
 
@@ -548,11 +774,15 @@ Los cargos y comisiones confieren al designado las atribuciones, obligaciones y 
 
 El personal que desempeñe un cargo o comisión, podrá ser nombrado o reasignado a otro distinto, sin más trámite que la orden de cambio emitida por el Mando facultado para ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-Al personal del Cuerpo General le corresponden las funciones siguientes:
+Al personal de los Cuerpos le corresponden las funciones siguientes:
 
-I. Ejercer el Alto Mando, así como el mando en regiones, fuerzas, zonas, sectores, subsectores, establecimientos, instalaciones, unidades aéreas, a flote, de infantería de marina y demás que le designen;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+I. Ejercer los niveles y tipos de mando que establece esta Ley;
 
 II. Operar y mantener las unidades aeronavales, de superficie y de infantería de marina, armas, armamento marinero, maquinaria naval y las que se requieran en la profesión naval, y
 
@@ -568,15 +798,21 @@ II. Realizar las actividades correspondientes a su profesión, especialidad u of
 
 III. Desempeñar las comisiones de carácter militar que se les asigne.
 
-### CAPÍTULO CUARTO. JERARQUÍAS Y ESCALAFONES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO CUARTO. GRADOS Y ESCALAFONES
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 58.
 
-Las jerarquías en el personal tienen por objeto el ejercicio de la autoridad, otorgando a su titular los derechos y consideraciones establecidos en las leyes y reglamentos respectivos, e imponiendo las obligaciones y deberes inherentes a la situación en que se encuentre.
+Los grados en el personal tienen por objeto el ejercicio de la autoridad, otorgando a su titular los derechos y consideraciones establecidos en las leyes y reglamentos respectivos, e imponiendo las obligaciones y deberes inherentes a la situación en que se encuentre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 59.
 
-El personal, por su jerarquía se agrupará en las categorías siguientes:
+El personal, por su grado, se agrupará en las categorías siguientes:
 
 I. Almirantes;
 
@@ -656,6 +892,10 @@ Condestable
 
 IV.- CADETES CADETES CADETES
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Cadetes Cadetes Cadetes
+
 Alumnos Alumnos Alumnos
 
 V.- CLASES CLASES CLASES
@@ -700,39 +940,47 @@ Marinero Soldado Soldado
 
 Fogonero Soldado Soldado
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 61.
 
-La categoría de Cadete corresponde al personal que se encuentra efectuando estudios en la Heroica Escuela Naval Militar, y la de Alumno, al que efectúa estudios en las Escuelas de Formación de la Armada.
+Al personal que se encuentre cursando estudios en los diferentes establecimientos de educación naval se les denominará Cadetes a nivel licenciatura, y Alumnos a nivel técnico profesional o técnico.
 
-Tendrán las jerarquías que establezcan los reglamentos de los establecimientos educativos y estarán sujetos a la legislación militar con la jerarquía de Segundo Maestre.
+Tendrán los grados que establezcan los reglamentos de los establecimientos educativos y estarán sujetos a la legislación militar con el grado de Segundo Maestre.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 62.
 
-Los ascensos de Cabo hasta Capitán de Fragata, se otorgarán para cubrir vacantes mediante proceso de selección conforme a lo previsto en esta Ley, en la Ley de Ascensos de la Armada de México y demás disposiciones reglamentarias.
+Los ascensos del personal naval se conferirán con arreglo a lo previsto en las disposiciones constitucionales, legales y reglamentarias aplicables.
 
 ###### Artículo 63.
 
-Los ascensos de Capitán de Navío hasta Almirante serán conferidos de acuerdo a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Ascensos de la Armada.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
-Para tal efecto, el Alto Mando propondrá al Mando Supremo el personal que reúna los requisitos para ascender, y le informará de las vacantes que existan para cada jerarquía.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 64.
 
-El grado tope es la máxima jerarquía que puede ostentar el personal de la Armada, del Cuerpo General y de los diferentes servicios.
+El grado tope es el grado máximo que puede alcanzar el personal de la Armada.
 
-Quien alcance el grado tope, en los términos en que lo establece esta Ley o la Ley de Ascensos de la Armada de México, al cumplir cinco años en dicho grado percibirá una compensación mensual igual a la diferencia de percepciones que exista entre el grado que ostenta y el inmediato superior.
+Quien alcance el grado tope, en los términos en que lo establece esta Ley o la Ley de Ascensos de la Armada de México, al cumplir cinco años en dicho grado percibirá una asignación mensual igual a la diferencia de percepciones que exista entre el grado que ostenta y el inmediato superior.
 
-Cada cinco años dicha compensación será aumentada a las percepciones que correspondan al grado inmediato superior de los que perciba.
+Cada cinco años dicha asignación será aumentada a las percepciones que correspondan al grado inmediato superior de los que perciba.
 
 ###### Artículo 65.
 
 Se consideran como grados tope los siguientes:
 
-I. Para el Cuerpo General:
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-A.- Núcleo: de Guardiamarina hasta Almirante, y
+I. Para los Cuerpos:
 
-B.- Escala: de Marinero hasta Teniente de Navío, y
+A.- Núcleo: de Guardiamarina hasta Almirante;
+
+B.- Escala técnico profesional: de Primer Maestre hasta Capitán de Corbeta, y
+
+C.- Escala no profesional: de Marinero hasta Teniente de Navío, y
 
 II. Para los servicios:
 
@@ -744,31 +992,43 @@ C.- Escala no profesional: de Marinero hasta Teniente de Navío.
 
 Los escalones jerárquicos se regirán por las disposiciones de la legislación en materia de ascensos aplicable al personal de la Armada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 66.
 
-El escalafón de la Armada de México se formulará, agrupando al personal por Cuerpo y Servicios en orden descendente, en razón de la jerarquía y antigüedad, señalando además las especialidades que ostenten.
+El escalafón de la Armada de México se integra de acuerdo a la normatividad aplicable, agrupando al personal de la milicia permanente por cuerpos y servicios, núcleos y escalas en orden descendente, en razón de la categoría, grado y la antigüedad, señalando las especialidades que ostenten.
 
 Cada miembro de la Armada ocupará un solo lugar en el escalafón que le corresponda.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 67.
 
-El personal de la Armada de México, podrá ser cambiado de Cuerpo o Servicio a petición del mismo, o por necesidades del servicio, sujetándose a las siguientes reglas:
+El personal de la Armada de México podrá ser cambiado de Cuerpo, Servicio, Núcleo o Escala, por necesidades del servicio; recomendación de un Consejo Médico integrado por médicos especialistas navales o a petición del interesado, sujetándose a las siguientes reglas:
 
-I. No perderá la antigüedad en su grado, si el cambio es por necesidades del servicio, y
+I. Si el cambio es por necesidades del servicio o recomendación de un Consejo Médico como resultado de lesiones en actos del servicio, no perderá el grado ni la antigüedad, y
 
-II. Perderá la antigüedad en su grado, ocupando el último lugar en el escalafón que le corresponda a su antigüedad, si es a solicitud del interesado; la nueva antigüedad contará a partir de la fecha del cambio.
+II. Si el cambio es a solicitud del interesado o recomendación de un Consejo Médico como resultado de lesiones en actos no imputables al servicio, ocupará el último lugar del grado que ostente en el cuerpo o servicio del escalafón al que vaya a pertenecer a partir de la fecha del cambio.
+
+Para efectos de retiro no perderá el tiempo de servicio en el grado.
+
+Para efectos de ascenso, la antigüedad en el grado contará a partir de la fecha del cambio.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 68.
 
-Al término de los estudios de formación el personal de cadetes de la Heroica Escuela Naval Militar será promovido a la jerarquía de Guardiamarina y los alumnos de las escuelas de formación egresarán con la jerarquía de Primer Maestre.
+Al término de los estudios en la Heroica Escuela Naval Militar, el personal de cadetes perteneciente a los Cuerpos será promovido al grado de Guardiamarina y el de los Servicios a Primer Maestre; los egresados de los demás establecimientos de educación naval de nivel licenciatura, al de Primer Maestre, y los de nivel técnico profesional al de Segundo Maestre.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 69.
 
-El personal de clases del Cuerpo General y servicios que concluya satisfactoriamente algún curso en los Centros de Capacitación de la Armada de México, será candidato a ser promovido conforme a las vacantes que existan.
+El personal de clases que concluya satisfactoriamente algún curso en los centros de capacitación de la Armada de México, se sujetará a lo dispuesto en la Ley de Ascensos de la Armada de México.
 
 ###### Artículo 70.
 
-Para los efectos de ratificación de los nombramientos de Capitán de Navío hasta Almirante, a que se refiere la Constitución Política de los Estados Unidos Mexicanos, el Alto Mando remitirá la documentación correspondiente a la Cámara de Senadores o a la Comisión Permanente del Congreso de la Unión, por conducto de la Secretaría de Gobernación.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO QUINTO. SITUACIONES DEL PERSONAL
 
@@ -794,29 +1054,37 @@ III. En situación especial;
 
 IV. En depósito, o
 
-V. Con licencia.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Con licencia, a excepción de la ilimitada.
 
 ###### Artículo 73.
 
 Se encuentra a disposición:
 
-I. El personal en espera de órdenes para que le sea asignado cargo o comisión;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-II. El personal que pase a esta situación por resolución de organismo disciplinario, en los términos en que dispone la Ley de Disciplina del Personal de la Armada de México;
+I. El personal en espera de órdenes para que le sea asignado cargo o comisión, y
 
-III. El personal de capitanes de navío, contralmirantes, vicealmirantes y almirantes que, como resultado del procedimiento de evaluación del Consejo del Almirantazgo, fundado y motivado, no haya sido seleccionado y resulte excedente para ocupar los cargos o comisiones que establezca la estructura orgánica autorizada para estas jerarquías, y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-IV. El personal de las jerarquías de Oficial a Capitán de Fragata que, como resultado del procedimiento de evaluación de la Comisión Coordinadora para la Designación de Cargos, fundado y motivado, no haya sido seleccionado y resulte excedente para ocupar los cargos que establezca la estructura orgánica autorizada para estas jerarquías.
+II. El personal que pase a esta situación por resolución de Órgano de Disciplina en los términos que dispone la Ley de Disciplina para el Personal de la Armada de México.
+
+III. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2012)
+
+IV. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2012)
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 74.
 
-El personal que se encuentre a disposición, estará sujeto a las normas siguientes:
+El personal a que hace referencia la fracción II del artículo anterior, estará sujeto a las normas siguientes:
 
-I. Mientras permanezca en esta situación, de acuerdo a lo establecido en las fracciones II, III y IV del artículo anterior, no será propuesto para ascenso;
+I. Mientras permanezca en esta situación, no será convocado para efectos de ascenso;
 
-II. En el caso de la fracción II del artículo anterior, se le deducirá de la antigüedad en el grado que ostente, el tiempo que dure a disposición y pasará a ocupar el lugar que le corresponda del escalafón, y
+II. Se le deducirá de la antigüedad del grado que ostente, el tiempo que dure a disposición y pasará a ocupar el lugar que le corresponda del escalafón, y
 
-III. El Alto Mando tendrá la facultad para suspender o cancelar la situación a disposición a todo aquel personal que se encuentre considerado en la fracción II del artículo anterior.
+III. El Alto Mando tendrá la facultad para suspender o dar por terminada la situación a disposición a todo aquel personal que se encuentre considerado en la fracción II del artículo anterior.
 
 ###### Artículo 75.
 
@@ -878,7 +1146,9 @@ Quien solicite esta licencia no percibirá haberes, sobrehaberes, compensaciones
 
 La licencia por enfermedad se concederá de acuerdo al dictamen de la autoridad médica competente, hasta por seis meses.
 
-Se dará por terminada cuando el interesado sea dado de alta o hasta que se expida el certificado de inutilidad permanente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Se dará por terminada cuando el interesado sea dado de alta o hasta que se expida el certificado de incapacidad permanente.
 
 A quien se le conceda, únicamente percibirá haberes y sobrehaberes.
 
@@ -934,17 +1204,33 @@ El personal que se encuentre haciendo uso de licencia en cualquiera de sus modal
 
 Baja es la separación definitiva del servicio activo y procederá:
 
-I. Por concretarse alguna de las circunstancias siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+I. Por ministerio de ley, al concretarse alguna de las circunstancias siguientes:
 
 A.- Defunción;
 
 B.- Sentencia ejecutoriada dictada por órgano de justicia competente;
 
-C.- Declarado prófugo de la justicia, tratándose de almirantes, capitanes y oficiales de la milicia permanente, sin perjuicio del proceso que se les siga;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-D.- Por faltar injustificadamente tres días consecutivos el personal de la milicia auxiliar, sin perjuicio del proceso que se les siga, o
+C.- Ser declarados prófugos de la justicia, tratándose de almirantes, capitanes y oficiales de la milicia permanente, sin perjuicio del proceso que se les siga;
 
-E.- Cuando se adquiera otra nacionalidad.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+D.- El personal de la milicia auxiliar, por faltar injustificadamente tres días consecutivos, sin perjuicio del proceso que se les siga;
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+E.- Cuando se adquiera otra nacionalidad, o
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+F.- Por resolución firme del órgano de disciplina competente para el personal de la milicia auxiliar.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Las bajas previstas en esta fracción serán comunicadas por la autoridad competente o el mando naval correspondiente;
 
 II. Por acuerdo del Alto Mando en los casos siguientes:
 
@@ -952,23 +1238,45 @@ A.- Ausencia durante un periodo mayor de dos meses, comprobada mediante los part
 
 B.- Solicitud del interesado que se considere procedente tratándose de almirantes, capitanes y oficiales;
 
-C.- Recomendación de organismo disciplinario competente, para el personal de la milicia auxiliar;
+C.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
-D.- Tratándose del personal de la milicia auxiliar, incapacidad para el cumplimiento de las obligaciones inherentes al servicio, en los casos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-1.- Encontrarse procesado en el orden común o federal; de resultar absuelto podrá reingresar al servicio a juicio del Alto Mando;
+D.- Tratándose del personal de la milicia auxiliar, por incapacidad para el cumplimiento de las obligaciones inherentes al servicio, en los casos siguientes:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+1.- Encontrarse sujeto a un proceso penal en las jurisdicciones federal o común, que amerite prisión preventiva sin derecho a libertad caucional. De resultar absuelto, podrá reingresar al servicio siempre y cuando cumpla con los requisitos de ingreso establecidos en esta Ley, y
 
 2.- Padecer, de acuerdo a dictamen de autoridad médica naval competente, una enfermedad contraída como consecuencia de actos ajenos al servicio y no contar a la fecha con más de cinco años de servicio en la Armada, o
 
-E.- Tratándose de personal de la milicia auxiliar, por terminación de su contrato o anticipadamente por no ser necesarios sus servicios, conforme a las cláusulas de su contrato y demás disposiciones legales. El afectado será escuchado en defensa dentro de los tres días siguientes a su notificación, y
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+E.- Tratándose de personal de la milicia auxiliar, por terminación de su contrato o anticipadamente por no ser necesarios sus servicios, conforme a las cláusulas de su contrato y demás disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+El afectado será escuchado en defensa dentro de los quince días naturales siguientes a su notificación, y
 
 III. Por acuerdo de los mandos superiores en jefe y mandos superiores, al personal de clases y marinería encuadrados en unidades y establecimientos a su cargo, en los casos siguientes:
 
 A.- A solicitud del interesado cuando no exista causa comprobada que lo obligue a permanecer en el servicio;
 
-B.- Por observar mala conducta determinada por el Consejo de Honor de la unidad o dependencia a que pertenezca; por colocarse en situación de no poder cumplir con sus obligaciones militares por causa no imputable a la Armada de México; en ambos casos será escuchado en defensa, o
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-C.- Por terminación de su contrato o anticipadamente cuando se detecten hechos de falsedad en declaraciones o documentación presentada para la acreditación de su situación y de sus derechohabientes. El afectado será escuchado en defensa dentro de los tres días siguientes a la notificación.
+B.- Por observar mala conducta determinada por el Consejo de Honor de la unidad o dependencia a que pertenezca;
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+C.- Por colocarse en situación de no poder cumplir con sus obligaciones militares por causa no imputable a la Armada de México, y
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+D.- Por terminación de su contrato o anticipadamente por no ser necesarios sus servicios o cuando se detecten hechos de falsedad en declaraciones o en la documentación presentada para la acreditación de su situación y de sus derechohabientes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+Para los casos señalados en los apartados C y D, el interesado será escuchado en defensa dentro de los quince días naturales siguientes a la notificación correspondiente.
 
 ###### Artículo 86.
 
@@ -978,9 +1286,13 @@ No se concederá baja, licencia ilimitada, extraordinaria ni pase a depósito, p
 
 Las reservas de la Armada son:
 
-a) Primera Reserva, y
+> <small>(REFORMADA [N. DE E. ANTES INCISO A], D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Segunda Reserva.
+I. Primera Reserva, y
+
+> <small>(REFORMADA [N. DE E. ANTES INCISO B], D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+II. Segunda Reserva.
 
 ###### Artículo 88.
 
@@ -1077,3 +1389,9 @@ D.O.F. 26 DE ENERO DE 2011.
 D.O.F. 3 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
