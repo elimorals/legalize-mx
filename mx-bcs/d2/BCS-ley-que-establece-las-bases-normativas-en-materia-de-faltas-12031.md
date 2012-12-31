@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-establece-las-bases-normativas-en-materia-de-faltas-120
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1988-12-31"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE FALTAS A LOS BANDOS DE POLICIA Y BUEN GOBIERNO Y DEMAS REGLAMENTOS MUNICIPALES
 
-LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE FALTAS A LOS BANDOS DE POLICÍA Y BUEN GOBIERNO Y DEMÁS REGLAMENTOS MUNICIPALES
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE FALTAS A LOS BANDOS DE POLICÍA Y BUEN GOBIERNO Y DEMÁS REGLAMENTOS MUNICIPALES DEL ESTADO DE BAJA CALIFORNIA SUR
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1988.
 
@@ -65,9 +67,11 @@ A falta de disposiciones normativas en los Reglamentos Municipales, se estará a
 
 ### CAPITULO II. DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 6o.
 
-Se consideran como faltas de Policía y Buen Gobierno, toda conducta que por acción u omisión altere el orden público, los servicios públicos, la paz social, la moral pública, cualquier otra que ofenda las buenas costumbres o afecte la seguridad pública, realizada en lugares de uso común, acceso público o libre tránsito o que tengan efectos en esos lugares.
+Se consideran como faltas de Policía y Buen Gobierno, todas aquellas acciones u omisiones que alteren el orden público, los servicios públicos, la paz social o la moral pública, que ofendan las buenas costumbres, que afecten la seguridad pública o que vayan en contra de los deberes colectivos, cuando se realicen en lugares de uso común, acceso público o libre tránsito, tengan efecto en esos lugares o atenten contra la tranquilidad de las personas.
 
 No se considerará como falta para fines de esta Ley el legítimo ejercicio de los derechos de expresión, reunión y otros en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás disposiciones legales aplicables.
 
@@ -91,7 +95,9 @@ VII.- Utilizar las vías públicas para ofrecer la enajenación de cosas, en lug
 
 VIII.- Solicitar mediante falsas alarmas, los servicios de Policía, bomberos, Cruz Roja o cualquier establecimiento médico o de asistencia pública.
 
-IX.- Producir ruidos por cualquier medio que provoquen molestias o alteren la tranquilidad de las personas.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IX.- Producir ruidos por cualquier medio, ya sean fuentes fijas o fuentes móviles, que rebasen los límites permitidos conforme a las Normas Oficiales Mexicanas y que además provoquen molestias o alteren la tranquilidad de las personas;
 
 X.- Manifestar o difundir opiniones falsas acerca de hechos o fenómenos naturales que provoquen inquietud, pánico o psicosis social.
 
@@ -101,7 +107,17 @@ XII.- Escandalizar en la vía pública.
 
 XIII.- Asumir en lugares públicos actitudes obcenas (sic), indignas o contrarias a las buenas costumbres.
 
-XIV.- Las demás que señalen las leyes, reglamentos y los Bandos de Policía y Buen Gobierno de los Municipios del Estado.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIV.- Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con el sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XV.- Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVI.- Las demás que señalen las Leyes, Reglamentos y los Bandos de Policía y Buen Gobierno de los Municipios del Estado.
 
 ###### ARTICULO 8o.
 
@@ -228,3 +244,15 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
