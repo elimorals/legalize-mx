@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2011-12-26"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1223,15 +1223,25 @@ Mayor de 163,135.16 19.1
 
 Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
 
-II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea igual o superior a 3.5 toneladas e inferior a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
 Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 III. Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
 
 Para los efectos de este Artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de automóviles nuevos destinados al transporte de efectos cuyo peso bruto vehicular sea menor de 3.5 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa a que se refiere la fracción I, de este Artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1355,13 +1365,11 @@ Tratándose de motocicletas de más de diez años modelos anteriores al de aplic
 
 Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 129.
 
-Para los efectos de lo dispuesto en los Artículos 122, 125, 126 y 127, de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el Artículo 18 Bis del Código Fiscal del Estado de Nuevo León.
+Para los efectos de lo establecido en los artículos 122, 125, 126 y 127, de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año con efectos a partir del 1° de enero del año siguiente, aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el Artículo 18 Bis del Código Fiscal del Estado de Nuevo León.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1478,6 +1486,10 @@ Años de antigüedad Factor de depreciación
 La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el Artículo 129 del presente Capítulo y al resultado se le aplicará la tarifa a que hace referencia el Artículo 122 de este Capítulo.
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Tratándose de automóviles usados destinados al transporte de efectos cuyo peso bruto vehicular sea menor de 3.5 toneladas, el impuesto será el que resulte de aplicar el procedimiento establecido en este Artículo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1757,9 +1769,11 @@ La Federación, el Estado, los Municipios, los Organismos Descentralizados, Fide
 
 Es base de este impuesto, el monto total de los pagos a que se refiere el Artículo 154.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 157.
 
-Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Artículo anterior.
+Este impuesto se causará con tasa del 3% sobre la base a que se refiere el Artículo anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2719,19 +2733,23 @@ T A R I F A
 
 Concepto: Tasa:
 
-I.- Por inscripción o registro de Título ya se trate de documentos públicos o privados; de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, trasmita, grave, modifique o extinga el dominio o la posesión de bienes inmuebles, así como el de bienes muebles que deban registrarse conforme a las leyes, por el valor mayor, legal o convencional que en ellos se especifique:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+I.- Por inscripción o registro de Títulos ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, grave, modifique o extinga el dominio o la posesión de bienes inmuebles, así como el de bienes muebles que deban registrarse conforme a las leyes, por el valor mayor, legal o convencional que en ellos se especifique; por cada millar o fracción …… $ 5.00
 
-a) Hasta N$ 50,000.00, por cada millar o fracción ….. N$ 4.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+a) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. 1 cuota
 
-b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+b) Por cancelación de inscripciones se pagará por el valor mayor, legal o convencional, que se especifique en el documento, cuya inscripción se cancela, por cada millar o fracción ….. $ 0.50
 
-c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ....... 5 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+c) En ningún caso la cantidad a pagar será menor a ….. 5 cuotas
+
+ni mayor a ….. 570 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2743,9 +2761,9 @@ d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
 
 ni mayor a....................................................................360 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Cuando una parte del valor sea determinada y la otra no, se cubrirán por la determinada conforme a los incisos a) y b) y por la indeterminada la cuota que señala el inciso c). En los casos de donación sin valor, se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y, según el valor resultante se aplicará la tarifa correspondiente.
+Cuando una parte del valor sea determinada y la otra no, se cubrirán por la determinada conforme a la fracción I y por la indeterminada la cuota que señala el inciso a). En los casos de donación sin valor se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y, según el valor resultante, se aplicará la tarifa correspondiente.
 
 e) (DEROGADO, P.O. 29 DE DICIEMBRE DE 1989)
 
@@ -2765,23 +2783,19 @@ II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
-IV.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción pero en ningún caso la cantidad a pagar será menor de ….. 3 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Ni mayor de ….. 24 cuotas
+V.- Por cualquier rectificación de inscripciones ..... 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V.- Por cualquier rectificación de inscripciones ….. 3.5 cuotas
+VI.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad y del Comercio para el Estado de Nuevo León ….. 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. 3.5 cuotas
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-VII.- Por el Registro de subdivisiones de predios, por cada lote resultante….... 57 cuotas
+VII.- Por el registro de subdivisiones de predios por cada lote resultante ….. 1 cuota
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2789,37 +2803,35 @@ VIII.- Por el registro de planos de fraccionamientos, por cada lote vendible:
 
 A.- Fraccionamientos habitacionales:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados…...... 5 cuotas
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados ….. 0.75 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ........ 28 cuotas
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ….. 0.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-B.- Fraccionamientos comerciales, industriales y campestres ….. 1 cuota
+B.- Fraccionamientos comerciales, industriales y campestres. 2 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-C.- Cementerios…....23 cuotas
+C.- Cementerios ….. 0.5 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-IX.- Por certificado de no inscripción de inmuebles ........... 0.50 cuotas
+IX.- Por certificado de no inscripción de inmuebles ….. 1 cuota
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+Por certificado de inscripción de inmuebles, por cada inmueble o lote ….. 2 cuotas
 
-Por certificado de inscripción de inmuebles, por cada inmueble o lote………………..… 1 cuota
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote … 1.86 cuotas
+X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote ….. 3 cuota
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2829,13 +2841,13 @@ XI.- Por acreditación o rectificación de medidas, según el valor de la superf
 
 En ningún caso la cantidad a pagar será menor a ….. 6 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. 3 cuotas
+XII.- Por inscripción de avisos pre-preventivos y preventivos, por cada lote o inmueble ….. 4 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIII.- Por la búsqueda de antecedentes registrales…...93 cuotas
+XIII.- Por la búsqueda de antecedentes registrales ….. 1 cuota
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2849,25 +2861,37 @@ XV.- Por la utilización de sistemas digitalizados:
 
 a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización …… 8 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Expedición de copias de registro de antecedentes, por cada una ….. 0.07 cuotas
+b) Expedición de copias de registro de antecedentes, por cada una ….. 0.10 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-c) Información de datos de antecedentes registrales........70 cuotas
+c) Información de datos de antecedentes registrales ….. 1 cuota
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. 3 cuotas
+d) Por consulta en línea, por cada imagen digital ….. 1 cuota
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVII.- Por la presentación de aviso testamentario ….. 3 cuotas
+XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. 4 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVIII.- Por la expedición de informes sobre la existencia o inexistencia de Testamentos ….. 3 cuotas
+XVII.- Por la presentación de aviso testamentario ….. 4 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVIII.- Por la expedición de informes sobre la existencia o inexistencia de testamentos ….. 4 cuotas
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIX.- Por la expedición de copias simples de las inscripciones y asientos registrales, por página ….. 0.018 cuotas
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XX.- Por la certificación de copias de las inscripciones y asientos registrales, sin perjuicio de la fracción anterior ….. 2 cuotas
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3009,29 +3033,9 @@ II.- Balances de Empresas 7.50 cuotas.
 
 La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circulares de carácter general y demás disposiciones a que se refiere el Artículo 10 de la Ley del Periódico Oficial del Estado, emitidos por las autoridades, estará exenta de los derechos previstos en este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
 ###### ARTICULO 274.
 
-Por los siguientes servicios prestados por las Corporaciones Policiacas.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-I.- Por registro y refrendo anual de vigilantes privados que presten sus servicios en forma independiente N$20.00
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos N$50.00
-
-Estos derechos deberán ser cubiertos por el patrón.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente N$550.00
-
-Estos derechos deberán ser cubiertos dentro del primer mes del período correspondiente. En caso de incumplimiento, la Dirección de Seguridad Pública del Estado impondrá una multa equivalente a dos tantos de los derechos omitidos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3223,7 +3227,9 @@ II.- Por copia de documentos existentes en el expediente catastral:
 
 a) Copia simple, por hoja 0.018 cuotas
 
-b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3231,11 +3237,21 @@ b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el i
 
 III.- Por la expedición de avalúos catastrales:
 
-a) Informativo de valor catastral 2.5 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Avalúo catastral simple 2 cuotas
+a) Informativo de valor catastral ….. 4 cuotas
 
-c) Avalúo catastral certificado 3 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+b) Avalúo en materia de desarrollo urbano ….. 4 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+c) Avalúo catastral simple ….. 3 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+d) Avalúo catastral certificado ….. 4.5 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3243,33 +3259,33 @@ c) Avalúo catastral certificado 3 cuotas
 
 IV.- Certificaciones de inscripción catastral:
 
-a) Por expedición de certificado de no inscripción catastral 0.50 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Por expedición de certificado de inscripción catastral, por predio 1 cuota
+a) Por expedición de certificado de no inscripción catastral ….. 1 cuota
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+b) Por expedición de certificado de inscripción catastral, por predio ….. 2 cuotas
 
-V.- Por certificación de información catastral, actual o histórica,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-por lote o inmueble 4 cuotas
+V.- Por certificación de información catastral, actual o histórica, por lote o inmueble ..... 5 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+VI.- Por rectificación de medidas, por lote ….. 10 cuotas
 
-VI.- Por rectificación de medidas, por lote 6 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII.- Por la inscripción de:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+a) Fraccionamientos, relotificaciones y/o condominios, por cada lote o unidad resultante ….. 2 cuotas
 
-VII.- Por la inscripción de subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, departamentos, disolución de copropiedades y predios omisos, por cada lote resultante 1 cuota
+b) Subdivisión y/o disolución de copropiedad, por cada lote resultante ….. 1 cuota
 
-Por asignación de número de expediente catastral a
+c) Predios omisos, por cada lote ….. 4 cuotas
 
-planos de fraccionamientos 2.5 cuotas
+Por asignación de número de expediente catastral a planos de fraccionamientos ….. 10 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3277,21 +3293,21 @@ planos de fraccionamientos 2.5 cuotas
 
 VIII.- Por información y ubicación de predios, por cada uno:
 
-a) Urbanos 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Rústicos 2 cuotas
+a) Urbanos ..... 2 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+b) Rústicos ….. 4 cuotas
 
-IX.- Por baja de construcción por demolición u otras causas 2.5 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IX.- Por baja de construcción por demolición u otras causas ….. 5 cuotas
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-X.- Resello de planos de construcción 2.5 cuotas
+X.- Resello de planos de construcción ….. 4 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3301,23 +3317,39 @@ XI.- Por expedición de copias de planos de terreno y construcciones existentes 
 
 a) Copia simple de planos manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
 
-1. Carta u oficio 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a oficio y hasta doble carta 2 cuotas
+1. Carta u oficio ….. 1.5 cuotas
 
-3. Mayor a doble carta y hasta 61 cm x 91 cm 3 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-4. Mayor a 61 cm x 91 cm 4 cuotas
+2. Mayor a oficio y hasta doble carta ….. 3 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm ….. 4.5 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+4. Mayor a 61 cm x 91 cm ….. 6 cuotas
 
 b) Copia certificadas de planos manzaneros, región catastral, fraccionamientos, condominios, subdivisiones:
 
-1. Carta u oficio 2 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a oficio y hasta doble carta 3 cuotas
+1. Carta u oficio ….. 4 cuotas
 
-3. Mayor a doble carta y hasta 61 cm x 91 cm 4 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-4. Mayor a 61 cm x 91 cm 5 cuotas
+2. Mayor a oficio y hasta doble carta ….. 6 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm ….. 8 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+4. Mayor a 61 cm x 91 cm ….. 10 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3327,15 +3359,23 @@ XII.- Impresión de plano de terreno de cartografía digital:
 
 a) Plano simple de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
 
-1. Doble carta 3 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a doble carta 4 cuotas
+1. Doble carta ….. 4.5 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+2. Mayor a doble carta ….. 6 cuotas
 
 b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según las siguientes medidas:
 
-1. Doble carta 4 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a doble carta 5 cuotas
+1. Doble carta ….. 8 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+2. Mayor a doble carta ….. 10 cuotas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3557,6 +3597,10 @@ C) Autorizaciones de cambio de titular de licencia, 15 cuotas
 
 Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasarán a ser patrimonio del Instituto de Control Vehicular, por lo que serán recaudados y administrados por dicho instituto en cumplimiento de sus fines y de acuerdo a sus facultades legales.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+En el caso de las fracciones XIII a XIX de este Artículo, no se expedirán los medios de control vehicular ni se proporcionará ninguno de sus servicios a vehículos o conductores que registren multas pendientes de pago en cualesquiera de los municipios del Estado, o en la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, tratándose de vehículos de servicio público.
+
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
 
 Para la aplicación de los derechos previstos en las fracciones XXII y XXIII de este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
@@ -3749,9 +3793,9 @@ b) Proveedores N$220.00
 
 V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
 
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-En ningún caso la cantidad a cubrir será menor a 2.5 cuotas
+En ningún caso la cantidad a cubrir será menor a ….. 5 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3841,31 +3885,69 @@ c) Por reposición del documento en el que consta la concesión. 10 cuotas
 
 d) Por cambio de vehículo objeto de la concesión. 10 cuotas
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+e) Por constancias de no infracciones, en materia de transporte público 0.25 cuotas
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII.- Por servicios prestados por la Secretaría de Seguridad Pública:
+
+a) Por la evaluación de factibilidad para la prestación de servicios:
+
+1. De seguridad privada de bienes ….. 207 cuotas
+
+2. De seguridad privada en el traslado de bienes o valores. ….. 204 cuotas
+
+3. De seguridad privada personal ….. 207 cuotas
+
+4. De sistemas de prevención y responsabilidades ….. 193 cuotas
+
+5. De seguridad de la información y por cualquier actividad vinculada con los servicios de seguridad privada ….. 193 cuotas
+
+En caso de revalidación se pagarán los mismos derechos, establecidos en este inciso.
+
+b) Por la constancia de ingreso a la base de datos de cada persona que preste los servicios a que se refiere esta fracción, en el Registro Estatal de Empresa, Personal y Equipo de Seguridad Privada ….. 3 cuotas
+
+c) Por la constancia de ingreso a la base de datos de cada arma de fuego o equipo utilizado por las personas físicas o morales a que se refiere esta fracción, en el Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada ….. 1 cuota
+
+d) Por consulta de antecedentes policiales para cada integrante, en el Registro Nacional del Personal de Seguridad Pública y Registro Estatal de Seguridad Pública, respecto del personal con que cuentan las instituciones que presten los servicios de seguridad privada ….. 2 cuotas
+
+e) Por la modificación de una autorización, o en su caso, de la revalidación anual, a que se refiere esta fracción ….. 37 cuotas
+
+f) Por la expedición de cada cédula de identificación del personal, con el registro asignado en su inscripción ….. 2 cuotas
+
+g) Por la constancia de ingreso a la base de datos de cada animal utilizado por las personas físicas o morales a que se refiere este Artículo, en el Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada ….. 1 cuota
+
+h) Por la evaluación de factibilidad de Capacitadores Privados o por la revalidación anual ….. 25 cuotas
+
+i) Compulsa de documento, por hoja ….. 0.15 cuotas
+
+j) Reposición de constancias o duplicados de las mismas, así como de calcomanías ….. 2 cuotas
+
+k) Copia simple, por hoja ….. 0.018 cuotas
+
+l) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
+
+m) Por cualquier otra certificación o expedición de constancias distintas de las señaladas en las fracciones que anteceden ….. 3 cuotas
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 277 Bis.
 
 Por la expedición de copias, certificaciones y reproducciones diversas, que expida cualquier autoridad, dependencia, entidad, órgano u organismo, estatal de Nuevo León, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-I. Copias simples por hoja:
+I. Copia simple, tamaño carta u oficio, por hoja ….. 0.018 cuotas
 
-a) Tamaño carta 0.012 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Tamaño oficio 0.017 cuotas
+II. Copia a color, tamaño carta u oficio, por hoja ….. 0.20 cuotas
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. Copias a color por hoja:
-
-a) Tamaño carta. 0.024 cuotas
-
-b) Tamaño oficio. 0.034 cuotas
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores…1 cuota
+III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores ….. 2 cuotas
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -4528,3 +4610,7 @@ P.O. 26 DE DICIEMBRE DE 2011.
 DECRETO NÚMERO 291, POR EL QUE SE REFORMA POR MODIFICACIÓN EL OCTAVO TRANSITORIO DEL DECRETO NÚMERO 200, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, EL 18 DE MAYO DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
