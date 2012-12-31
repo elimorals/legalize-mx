@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2012-12-07"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1887,13 +1887,17 @@ III.- Asegurar la participación de la sociedad en las acciones del Gobierno Mun
 
 IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del plan y los programas; y
+V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del Plan y los programas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VI.- Apoyar a las personas con discapacidad para su inclusión a las actividades productivas y culturales en los sectores público, privado y social, conforme al orden jurídico vigente.
+VI.- Apoyar a las personas con discapacidad para su inclusión a las actividades productivas y culturales en los sectores público, privado y social, conforme al orden jurídico vigente; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII.- Prever las acciones necesarias para impulsar el desarrollo económico y social del Municipio.
 
 ###### ARTÍCULO 108.
 
@@ -3558,3 +3562,9 @@ PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Es
 SEGUNDO.- Los trámites de expedición de constancias de vecindad que se encuentren pendientes a la entrada en vigor del presente Decreto, se concluirán en términos de las disposiciones vigentes al momento de su inicio.
 
 TERCERO.- Los Ayuntamientos expedirán, o en su caso modificarán, la normatividad necesaria para la expedición de las constancias de vecindad en los términos del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
