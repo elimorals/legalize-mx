@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2012-12-20"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -739,7 +739,9 @@ IV. Cuando se estime que se trata de un caso urgente y así se ordene;
 
 V. El requerimiento de un acto a la parte que deba cumplirlo;
 
-VI. Las sentencias definitivas;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VI. Las sentencias definitivas dictadas en primera y segunda instancia;
 
 VII. La sentencia que condene al arrendatario de casa habitación a desocuparla y la resolución que decrete su ejecución, y
 
@@ -4221,11 +4223,15 @@ No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo
 
 La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 674.
 
-La apelación debe interponerse por escrito, ante el juez que pronunció la sentencia, dentro de cinco días improrrogables si la sentencia fuere definitiva, o dentro de tres si fuere auto o interlocutoria, salvo cuando se tratare de la apelación extraordinaria.
+La apelación debe interponerse por escrito, ante el juez que pronuncio la sentencia, dentro de cinco días improrrogables si la sentencia fuere definitiva, o dentro de tres si fuere auto o interlocutoria, salvo cuando se tratare de la apelación extraordinaria.
 
 Los autos que causen un gravamen irreparable, salvo disposición especial, y las interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
+
+Cuando el apelante tenga su domicilio fuera del lugar de residencia del Tribunal Superior de Justicia, deberá en términos de lo dispuesto por el artículo 111 de este Código, dentro del escrito por el cual se interpone la apelación señalar domicilio para oír y recibir notificaciones en el lugar de residencia del Tribunal, prevenido de que de no hacerlo se procederá conforme a lo dispuesto en el segundo párrafo del citado artículo. Lo propio para la parte contraria dentro de los tres días siguientes de que surta efectos la notificación del auto que admita el recurso de apelación.
 
 ###### Artículo 675.
 
@@ -4295,9 +4301,11 @@ En el caso del artículo anterior, se suspenderá la ejecución de la sentencia 
 
 Llegados los autos o el testimonio en su caso, al Tribunal Superior, los turnará desde luego a la sala que corresponda su conocimiento y ésta sin necesidad de vista o informes, dentro de los ocho días dictará providencia en la que decidirá sobre la admisión del recurso y la calificación del grado hecha por el juez inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación, se procederá en su consecuencia.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 687.
 
-En el auto a que se refiere el artículo anterior mandará la Sala por publicación en el Boletín Judicial, poner a disposición del apelante los autos, por seis días, en la secretaría, para que exprese agravios. Del escrito de esta expresión de agravios se corre traslado a la contraria por otros seis días durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
+En el auto a que se refiere el artículo anterior mandará la Sala su notificación personal en el domicilio señalado en el recurso de apelación, asentando que quedan a disposición del apelante los autos, por seis días, en la secretaría, para que exprese agravios. Del escrito de esta expresión de agravios se correrá traslado a la contraria por otros seis días durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
 
 ###### Artículo 688.
 
@@ -6316,3 +6324,13 @@ B.O. 20 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor a los noventa días naturales siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, a efectos de dar oportunidad al Poder Judicial del Estado de Baja California Sur, la aplicación de las medidas que estime necesarias dentro del ámbito de su competencia para dar cumplimiento al presente decreto.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
