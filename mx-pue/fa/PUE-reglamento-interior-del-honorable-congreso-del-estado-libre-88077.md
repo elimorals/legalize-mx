@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2012-04-04"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DE ESTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2012, SÓLO AL CONSIDERANDO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -144,6 +142,18 @@ Para el caso de las inasistencias de los Diputados a las Sesiones de Comisiones 
 ###### ARTÍCULO 18.
 
 En los recesos del Pleno del Congreso, los Diputados deberán cumplir con lo establecido en la Constitución Política del Estado Libre y Soberano.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Cuando los Diputados requieran viáticos necesarios para cursos, capacitaciones, foros, reuniones o similares fuera del Estado, con el propósito de participar en representación del Congreso del Estado, deberán dirigir una solicitud por escrito a la Junta de Gobierno y Coordinación Política, misma que deberá estar avalada por el Coordinador Legislativo respectivo; siempre y cuando los viáticos solicitados excedan el límite autorizado por la Junta de Gobierno y Coordinación Política.
+
+A dicha solicitud deberán anexarse la invitación de los organizadores al evento que se pretenda asistir.
+
+Al respecto, una vez concluida la comisión, deberán elaborar un informe detallado sobre las actividades desarrolladas, mismo que será entregado a la Junta de Gobierno y Coordinación Política.
+
+En tal sentido, es responsabilidad de los Diputados cumplir con sus obligaciones legislativas, así como evitar que éstos interfieran con su asistencia a las Sesiones de Pleno, Comisiones y Comités.
 
 ### CAPÍTULO II. DE LAS PRERROGATIVAS DE LOS DIPUTADOS
 
@@ -344,6 +354,14 @@ II.- La suma de los votos ponderados de los Grupos y Representaciones Legislativ
 ###### ARTÍCULO 44.
 
 Cuando la Junta de Gobierno y Coordinación Política no pudiera reunirse para aprobar la firma de algún convenio, el Presidente de éste Órgano Legislativo podrá suscribirlo, debiendo informar a los Diputados integrantes del mismo en la sesión inmediata.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 44 Bis.
+
+La Junta de Gobierno y Coordinación Política será el órgano encargado de conocer sobre las solicitudes de viáticos que realicen los Diputados integrantes del Honorable Congreso del Estado, siempre y cuando éstos excedan de los límites establecidos.
+
+En este sentido, no podrá otorgarse autorización alguna, cuando éstas puedan interferir con el cumplimiento a las obligaciones legislativas.
 
 ### CAPÍTULO IV. DE LAS COMISIONES Y COMITÉS
 
@@ -2676,6 +2694,14 @@ Los Servidores Públicos que a la entrada en vigor del presente Reglamento se en
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de marzo de dos mil doce.- Diputado Presidente.- MARIO GERARDO RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
