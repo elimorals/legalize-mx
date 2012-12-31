@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2011-12-26"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -3977,13 +3977,21 @@ El Poder Ejecutivo de Estado de Sinaloa, a través de la Secretaría de Administ
 
 P.O. 26 DE DICIEMBRE DE 2011.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La vigencia del presente Decreto será del 1° de enero al 31 de diciembre del año 2012, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+La vigencia del presente Decreto será a partir del 1° de enero al 31 de diciembre del año 2013, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO SEGUNDO.
 
 Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos Federal abrogada a partir del primero de enero del 2012, así como las derivadas del Impuesto sobre Tenencia o Uso de Vehículos previstas en la Ley de Hacienda del Estado de Sinaloa, contenidas en el Decreto número 40, publicado en el Periódico Oficial "El Estado de Sinaloa" el 27 de diciembre de 2010, al cual sustituye este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
