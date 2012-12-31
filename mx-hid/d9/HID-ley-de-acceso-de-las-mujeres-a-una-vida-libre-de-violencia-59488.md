@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-10-18"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -51,7 +51,7 @@ QUE CONTIENE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 1.
 
@@ -367,7 +367,7 @@ IV.- Prohibición de intimidar o molestar a la víctima en su entorno social, as
 
 Son órdenes de protección preventivas las siguientes:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 I.- Retención y guarda de armas de fuego propiedad, custodia o posesión del generador de violencia, independientemente, si las mismas se encuentran registradas conforme a la normatividad de la materia.
 
@@ -461,25 +461,29 @@ V.- La Secretaría de Educación Pública;
 
 VI.- La Secretaría de Salud;
 
-VII.- La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VIII.- El Instituto Hidalguense de las Mujeres, quien ocupará la Secretaría Técnica del Sistema;
+VII.- La Secretaría del Trabajo y Previsión Social;
 
-IX.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+VIII.- La Procuraduría General de Justicia del Estado;
 
-X.- El Poder Judicial a través del o la Presidente del Tribunal Superior de Justicia;
+IX.- El Instituto Hidalguense de las Mujeres, quien ocupará la Secretaría Técnica del Sistema;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+X.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XI.- El Congreso del Estado, a través del Presidente de la Junta de Gobierno;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
-
-XII.- La Comisión de Derechos Humanos del Estado de Hidalgo; y
+XI.- El Poder Judicial a través del o la Presidente del Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-XIII.- Los Organismos y Dependencias instituidos para la protección de los derechos de las mujeres en el ámbito Municipal.
+XII.- El Congreso del Estado, a través del Presidente de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+XIII.- La Comisión de Derechos Humanos del Estado de Hidalgo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIV.- Los organismos y Dependencias instituidos para la protección de los derechos de las mujeres en el ámbito Municipal.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -753,9 +757,33 @@ e).- Los recursos erogados en la atención de las víctimas; y
 
 XII.- Las demás previstas para el cumplimiento de la presente Ley.
 
-#### SECCIÓN SÉPTIMA. DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
+#### SECCIÓN SEXTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 45 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral en contra de las mujeres;
+
+III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia en contra de las mujeres en los centros de trabajo;
+
+V.- Orientar a las mujeres víctimas de violencia laboral, sobre las instituciones que les prestan atención y protección;
+
+VI.- Tomar medidas y realizar las acciones de su competencia, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
+
+VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+
+IX.- Las demás previstas para el cumplimiento de la presente Ley.
+
+#### SECCIÓN SÉPTIMA. DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 46.
 
@@ -779,7 +807,7 @@ VIII.- Procurar la seguridad de la víctima; y
 
 IX.- Las demás previstas para el cumplimiento de la presente Ley.
 
-#### SECCIÓN NOVENA. DE LOS MUNICIPIOS
+#### SECCIÓN OCTAVA. DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
 
 ###### ARTÍCULO 47.
 
@@ -828,6 +856,8 @@ XVII.- Recibir, orientar y dar el trámite pertinente a las quejas presentadas c
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 XVIII.- Las demás previstas para el cumplimiento de la Ley.
+
+#### SECCIÓN NOVENA. DE LOS MUNICIPIOS
 
 #### SECCIÓN DÉCIMA. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -1003,7 +1033,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE OCTUBRE DE 2010.
 
@@ -1022,3 +1052,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Con motivo del proceso de armonización normativa, los Municipios dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, podrán realizar las acciones correspondientes para adecuar su marco normativo a las disposiciones establecidas en esta Ley.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
