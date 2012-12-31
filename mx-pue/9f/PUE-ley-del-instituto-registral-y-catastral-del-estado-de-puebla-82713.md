@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-registral-y-catastral-del-estado-de-puebla-82
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-03"
-last_updated: "2011-08-03"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de agosto de 2011.
 
@@ -71,25 +71,75 @@ IV. Gobierno del Estado: El Gobierno del Estado de Puebla;
 
 V. Junta de Gobierno: Junta de Gobierno del Organismo;
 
-VI. Ley de Entidades: Ley de Entidades Paraestatales del Estado de Puebla;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Ley: Ley del Instituto Registral y Catastral del Estado de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VIII. Organismo: Instituto Registral y Catastral del Estado de Puebla;
+VI. Juzgados: Juzgados del Registro del Estado Civil de las Personas;
 
-IX. Registro Público: El Registro Público de la Propiedad del Estado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Reglamento Interior: El Reglamento Interior del Organismo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII. Ley de Entidades: Ley de Entidades Paraestatales del Estado de Puebla;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII. Ley: Ley del Instituto Registral y Catastral del Estado de Puebla;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IX. Organismo: Instituto Registral y Catastral del Estado de Puebla;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+X. Registro Civil: Registro del Estado Civil de las Personas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XI. Registro Público: El Registro Público de la Propiedad del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII. Reglamento Interior: El Reglamento Interior del Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIII. Registrales: Lo correspondiente al Registro Civil y al Registro Público.
 
 ###### ARTÍCULO 5.
 
 El Organismo tendrá su domicilio en la Ciudad de Puebla, pudiendo establecer oficinas catastrales y/o registrales en el interior del Estado, conforme a sus requerimientos y la disponibilidad presupuestal, previo acuerdo de la Junta de Gobierno. Estas oficinas ejercerán sus funciones en la circunscripción territorial, mediante el acuerdo que para estos efectos emita la Junta de Gobierno, el cual deberá ser publicado en el Periódico Oficial del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 6.
 
-El Organismo tiene por objeto ejercer las funciones Registral y Catastral, garantizando la seguridad del patrimonio inmobiliario en el Estado, a través de su plena identificación, delimitación y registro, para lo cual dispondrá de los recursos y las herramientas catastrales, registrales y tecnológicas que se requieran.
+El Organismo tiene por objeto ejercer las funciones siguientes:
 
-El Organismo tendrá a su cargo normar y dirigir el Catastro y el Registro Público y se regirá por la presente Ley, su Reglamento Interior, la Ley de Catastro del Estado de Puebla, la Ley del Registro Público de la Propiedad del Estado de Puebla y su Reglamento, Código Fiscal del Estado de Puebla, Ley de Entidades y las demás disposiciones federales y estatales aplicables.
+I. Del Registro Público y del Catastro a través de la plena identificación, delimitación y registro de los inmuebles; y
+
+II. Del Registro Civil, en términos de lo dispuesto por el Código Civil para el Estado Libre y Soberano de Puebla.
+
+El Organismo tendrá a su cargo normar y dirigir las funciones a que se refiere la fracción I de este artículo, en términos de la presente Ley, la Ley de Catastro del Estado de Puebla, la Ley del Registro Público de la Propiedad del Estado de Puebla y su Reglamento, Ley de Entidades Paraestatales del Estado de Puebla, el Reglamento Interior del Organismo, el Código Fiscal del Estado de Puebla y las demás disposiciones federales y estatales aplicables.
+
+Por lo que se refiere a las funciones señaladas en la fracción II de este artículo, el Organismo normará y dirigirá las mismas en términos de esta Ley, el Código Civil para el Estado Libre y Soberano de Puebla, el Reglamento Interior del Organismo, el Reglamento del Registro Civil de las Personas para el Estado de Puebla, y las demás disposiciones federales y estatales aplicables.
+
+Para cumplir con su objeto, el Organismo dispondrá de los recursos y las herramientas catastrales, registrales y tecnológicas que se requieran.
 
 ###### ARTÍCULO 7.
 
@@ -125,21 +175,45 @@ El Organismo fijará las bases para que, a través de los medios de vinculación
 
 Para el cumplimiento de su objeto, el Organismo tendrá las funciones siguientes:
 
-I. Dirigir, organizar, coordinar, vigilar y evaluar los servicios Registral y Catastral, a fin de brindar certeza jurídica en la información y servicios a su cargo, así como vincular e integrar su información a través de los mecanismos que al efecto se establezcan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Establecer y difundir normas, políticas, lineamientos generales, criterios y procedimientos para la unificación y modernización de los sistemas Registral y Catastral, así como para su actualización y mantenimiento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III. Realizar las funciones y actividades inherentes al Catastro y al Registro Público, en cumplimiento a los ordenamientos legales aplicables;
+I. Dirigir, organizar, coordinar, vigilar y evaluar los servicios Registrales y Catastral, a fin de brindar certeza jurídica en la información objeto de los mismos; así como vincular e integrar dicha información a través de los mecanismos que al efecto se establezcan;
 
-IV. Regular la prestación de los servicios Registral y Catastral, a través de la formulación y aplicación de programas, proyectos y demás disposiciones administrativas, para promover el mejoramiento en la aplicación de procedimientos catastrales y registrales, a través del uso de tecnologías de la información que impulsen la mejora continua, la transparencia, la rendición de cuentas y la gestión de calidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II. Establecer y difundir normas, políticas, lineamientos generales, criterios y procedimientos para la unificación y modernización de los sistemas Registrales y Catastral, así como para su actualización y mantenimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III. Realizar las funciones y actividades inherentes al Catastro, al Registro Público y al Registro Civil, en cumplimiento a los ordenamientos legales aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV. Regular la prestación de los servicios Registrales y Catastral, a través de la formulación y aplicación de programas, proyectos y demás disposiciones administrativas, para promover el mejoramiento en la aplicación de procedimientos catastrales y registrales, a través del uso de tecnologías de la información que impulsen la mejora continua, la transparencia, la rendición de cuentas y la gestión de calidad;
 
 V. Elaborar estudios y proyectos para simplificar, modernizar y transparentar la gestión y los servicios catastrales y registrales;
 
 VI. Integrar y actualizar las estadísticas catastrales y registrales en el Estado;
 
-VII. Establecer, reubicar, reorganizar o suprimir las oficinas que se requieran para la provisión eficiente de sus servicios y el logro de sus fines;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Dirigir, organizar, coordinar, supervisar, controlar y evaluar el funcionamiento y los servicios de sus oficinas, conforme a sus planes y programas de trabajo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII. Establecer, reubicar, reorganizar o suprimir las oficinas o juzgados que se requieran para la provisión eficiente de sus servicios y el logro de sus fines;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII. Dirigir, organizar, coordinar, supervisar, controlar y evaluar el funcionamiento y los servicios de sus oficinas y juzgados, conforme a sus planes y programas de trabajo;
 
 IX. Fungir como órgano de consulta, a solicitud del Poder Legislativo y de los Ayuntamientos, en la revisión de la zonificación y tablas de valores catastrales unitarios del suelo y la construcción, en el análisis para la determinación de tasas aplicables a los impuestos inmobiliarios, y en la delimitación territorial en el Estado;
 
@@ -153,19 +227,31 @@ XIII. Prestar asistencia técnica a las Dependencias y Entidades de los gobierno
 
 XIV. Impulsar la coordinación y colaboración en materia de Catastro con los Municipios del Estado, promoviendo el intercambio de información en el ámbito de su competencia;
 
-XV. Incorporar al sistema registral todos los actos y procedimientos que procedan conforme a las disposiciones aplicables en la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XV. Incorporar a los sistemas registrales todos los actos y procedimientos que procedan conforme a las disposiciones aplicables en la materia;
 
 XVI. Sustituir el sistema manual del Registro Público por el sistema de folio electrónico, en todas sus oficinas, de conformidad con los planes y programas que al efecto establezca;
 
 XVII. Coadyuvar en la regularización de la propiedad inmobiliaria del Estado, en coordinación con las dependencias y entidades que llevan a cabo programas específicos en la materia;
 
-XVIII. Reponer los documentos registrales deteriorados, destruidos y extraviados, de acuerdo con las constancias existentes en las oficinas registrales y las que proporcionen las autoridades, los fedatarios públicos o los interesados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Reponer los documentos Registrales deteriorados, destruidos y extraviados, de acuerdo con las constancias existentes en las oficinas registrales, y en su caso, las que proporcionen las autoridades, los fedatarios públicos o los interesados;
 
 XIX. Coordinar sus actividades con los distintos órdenes de gobierno, así como con los organismos y asociaciones públicas y privadas, nacionales y extranjeras, relacionados con su objeto;
 
 XX. Coordinar con las autoridades responsables los procedimientos dirigidos a la inscripción de los planes de desarrollo urbano;
 
-XXI. Promover y difundir entre los ciudadanos los servicios que presta y los beneficios de contar con el registro de propiedad, con el fin de promover la cultura registral;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXI. Promover y difundir entre los ciudadanos los servicios que presta y los beneficios de hacer uso de los mismos, con el fin de promover la cultura registral;
 
 XXII. Coordinar y colaborar con autoridades y dependencias vinculadas con las funciones catastrales y registrales, con el objeto de compartir información para la adecuada prestación de estos servicios;
 
@@ -173,31 +259,101 @@ XXIII. Formular las bases necesarias para garantizar la capacitación y profesio
 
 XXIV. Crear un sistema de información inmobiliaria Registral y Catastral oficial, que permita ofrecer servicios de consulta a los gobiernos y entidades públicas y privadas. La base de datos del sistema se integrará con la información electrónica de los archivos y acervos documentales de las oficinas del Organismo, en su caso, de las oficinas municipales, así como de las demás entidades públicas federales y estatales que cuenten con información inmobiliaria;
 
-XXV. Otorgar, previa autorización del Honorable Congreso del Estado, cualquier tipo de garantías y avales de obligaciones, títulos de crédito o instrumentos de deuda a cargo de cualesquiera terceros, constituyéndose en garante, obligado solidario, fiador o avalista de tales personas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI. Celebrar los convenios para la consecución de sus fines y la prestación de sus servicios, con facultades para asumir obligaciones de hacer y no hacer, así como para comparecer ante terceros y realizar declaraciones. En los convenios que celebre podrá obligarse a indemnizar a la contraparte del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de las mencionadas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública. Asimismo, podrá estipular en dichos convenios las demás cláusulas que se requieran, incluyendo aquéllas aplicables a la jurisdicción, entre otras. En los convenios a que se refiere esta fracción, no podrá pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXVII. Contratar, gestionar, obtener y canalizar apoyos económicos, créditos, préstamos, empréstitos y financiamientos de cualquier naturaleza, incluyendo la emisión de valores, para el cumplimiento de sus fines y el ejercicio de sus atribuciones, y disponer por cualquier medio de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, conforme a lo previsto en las disposiciones legales aplicables, incluyendo a través del otorgamiento de cualquier tipo de garantías y de la cesión, afectación o enajenación de dichos activos, bienes, derechos e ingresos en favor de terceros, incluyendo fideicomisos revocables o irrevocables;
+XXV. Preservar, documentalmente y en medios electrónicos, el archivo del Registro Civil;
 
-XXVIII. Llevar a cabo la enajenación, afectación, cesión o disposición de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, sin necesidad de subasta pública, conforme a los lineamientos previstos en la presente Ley y en las demás disposiciones legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIX. Participar en fideicomisos, ya sea como fideicomitente y/o fideicomisario, para el cumplimiento de su objeto y fines;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXX. Celebrar convenios y acuerdos de colaboración y coordinación con autoridades y dependencias federales, estatales y municipales vinculadas con las funciones Registral y Catastral, con el objeto de intercambiar información y contribuir en la prestación de los servicios;
+XXVI. Coordinar las funciones del Registro Civil con los Sistemas Nacional y Estatal de Población, a fin de obtener la información demográfica que se requiera para el cumplimiento de su objeto;
 
-XXXI. Administrar y ejercer conforme a lo previsto en los ordenamientos legales aplicables, los recursos que obtenga de los servicios que preste y de las operaciones que realice;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII. Proponer a la Secretaría de Finanzas los montos de los derechos, productos, aprovechamientos y demás recursos por los servicios que preste, conforme a lo previsto en los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXXIII. Verificar que el pago de los derechos, productos, aprovechamientos y demás ingresos que tenga derecho a percibir por la prestación de sus servicios, se realice de conformidad con las disposiciones aplicables;
+XXVII. Otorgar, previa autorización del Honorable Congreso del Estado, cualquier tipo de garantías y avales de obligaciones, títulos de crédito o instrumentos de deuda a cargo de cualesquiera terceros, constituyéndose en garante, obligado solidario, fiador o avalista de tales personas;
 
-XXXIV. Recaudar y administrar los derechos, productos, aprovechamientos y demás recursos que se generen por la prestación de sus servicios, a través del sistema bancario, del sistema de pagos o de los establecimientos mercantiles, autorizados para tal efecto, y las demás autoridades competentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXV. Celebrar, suscribir u otorgar convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás documentos que sean necesarios para el cumplimiento de su objeto, la prestación de sus servicios y el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXXVI. Establecer normas de carácter general para regular la creación y utilización de la firma electrónica avanzada en la prestación de los servicios y en la realización de los trámites catastrales y registrales; y
+XXVIII. Celebrar los convenios para la consecución de sus fines y la prestación de sus servicios, con facultades para asumir obligaciones de hacer y no hacer, así como para comparecer ante terceros y realizar declaraciones. En los convenios que celebre podrá obligarse a indemnizar a la contraparte del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de las mencionadas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública. Asimismo, podrá estipular en dichos convenios las demás cláusulas que se requieran, incluyendo aquéllas aplicables a la jurisdicción, entre otras. En los convenios a que se refiere esta fracción, no podrá pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento;
 
-XXXVII. Las demás que le señalen esta Ley, así como otros ordenamientos legales y administrativos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIX. Contratar, gestionar, obtener y canalizar apoyos económicos, créditos, préstamos, empréstitos y financiamientos de cualquier naturaleza, incluyendo la emisión de valores, para el cumplimiento de sus fines y el ejercicio de sus atribuciones, y disponer por cualquier medio de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, conforme a lo previsto en las disposiciones legales aplicables, incluyendo a través del otorgamiento de cualquier tipo de garantías y de la cesión, afectación o enajenación de dichos activos, bienes, derechos e ingresos en favor de terceros, incluyendo fideicomisos revocables o irrevocables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX. Llevar a cabo la enajenación, afectación, cesión o disposición de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, sin necesidad de subasta pública, conforme a los lineamientos previstos en la presente Ley y en las demás disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Participar en fideicomisos, ya sea como fideicomitente y/o fideicomisario, para el cumplimiento de su objeto y fines;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXII. Celebrar convenios y acuerdos de colaboración y coordinación con autoridades y dependencias federales, estatales y municipales vinculadas con las funciones Registrales y Catastral, con el objeto de intercambiar información y contribuir en la prestación de los servicios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIII. Administrar y ejercer conforme a lo previsto en los ordenamientos legales aplicables, los recursos que obtenga de los servicios que preste y de las operaciones que realice;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIV. Proponer a la Secretaría de Finanzas los montos de los derechos, productos, aprovechamientos y demás recursos por los servicios que preste, conforme a lo previsto en los ordenamientos legales aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXV. Verificar que el pago de los derechos, productos, aprovechamientos y demás ingresos que tenga derecho a percibir por la prestación de sus servicios, se realice de conformidad con las disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVI. Recaudar y administrar los derechos, productos, aprovechamientos y demás recursos que se generen por la prestación de sus servicios, a través del sistema bancario, del sistema de pagos o de los establecimientos mercantiles, autorizados para tal efecto, y las demás autoridades competentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVII. Recaudar y administrar los impuestos en materia inmobiliaria derivados de los convenios de colaboración administrativa que para tal efecto celebre con los municipios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVIII. Celebrar, suscribir u otorgar convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás documentos que sean necesarios para el cumplimiento de su objeto, la prestación de sus servicios y el ejercicio de sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIX. Establecer normas de carácter general para regular la creación y utilización de la firma electrónica avanzada en la prestación de los servicios y en la realización de los trámites catastrales y registrales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XL. Las demás que le señalen esta Ley, así como otros ordenamientos legales y administrativos.
 
 ### CAPÍTULO III. DE LA ESTRUCTURA Y ADMINISTRACIÓN
 
@@ -323,49 +479,149 @@ VI. Proponer a la Junta de Gobierno los planes y programas del Organismo, necesa
 
 VII. Someter a la Junta de Gobierno los proyectos de Reglamento Interior, los manuales de organización y de procedimientos y, en general, la normatividad interna del Organismo, así como sus modificaciones;
 
-VIII. Presentar a la Junta de Gobierno los estudios y proyectos de reformas legales y administrativas, orientadas a mejorar la organización y el funcionamiento del Organismo, así como a hacer más eficientes al Catastro y el Registro Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Rendir a la Junta de Gobierno un informe anual de las actividades del Organismo que contenga los estados financieros dictaminados. En cada sesión ordinaria, se rendirá un informe de las actividades generales, de la situación financiera y de los asuntos que requieran de su consideración;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-X. Someter a la autorización de la Junta de Gobierno, los proyectos de presupuesto anual de ingresos y de egresos del Organismo, así como las propuestas de adecuaciones presupuestales que procedan;
+VIII. Presentar a la Junta de Gobierno los estudios y proyectos de reformas legales y administrativas, orientadas a mejorar la organización y el funcionamiento del Organismo, así como a hacer más eficientes al Catastro, al Registro Público y al Registro Civil;
 
-XI. Proponer a la Junta de Gobierno los montos de los derechos, productos, aprovechamientos y demás conceptos por los servicios que preste el Organismo, según sea el caso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Someter a la discusión y aprobación de la Junta de Gobierno, los informes requeridos para la integración de la cuenta pública anual del Organismo, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIII. Suscribir, celebrar u otorgar garantías, convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, social y privado, en representación y en las materias competencia del Organismo, previa autorización de la Junta de Gobierno cuando: (I) así lo disponga el Reglamento Interior y las disposiciones legales y administrativas aplicables, (II) se trate de contratos, convenios, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos o documentos jurídicos fuera del curso ordinario de operaciones del Organismo, (III) se trate de la enajenación o adquisición de inmuebles, o (IV) se trate de los asuntos a que se refieren las fracciones XXV a XXVIII del artículo 11 de esta Ley;
+IX. Proponer a la Junta de Gobierno las políticas, lineamientos, medidas y acciones que resulten necesarias para el ejercicio de las funciones Registrales y Catastral;
 
-XIV. Proponer a la Junta de Gobierno, las reglas de carácter general necesarias para dar plena validez a la prestación de los servicios y la realización de los trámites y actos catastrales y registrales, a través del uso y aplicación de la firma electrónica avanzada o cualquier otro medio electrónico similar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Someter a la Junta de Gobierno la creación, la integración, las reglas de funcionamiento y la extinción de los Consejos Registral y Catastral, así como de los Comités internos, cuando lo considere conveniente para la mejor operación de los programas del Organismo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XVI. Proponer a la Junta de Gobierno el establecimiento, reubicación, readscripción o supresión de oficinas registrales y/o catastrales en el Estado;
+X. Rendir a la Junta de Gobierno un informe anual de las actividades del Organismo que contenga los estados financieros dictaminados. En cada sesión ordinaria, se rendirá un informe de las actividades generales, de la situación financiera y de los asuntos que requieran de su consideración;
 
-XVII. Conducir, organizar y evaluar, con el apoyo de las unidades administrativas que correspondan, las actividades y el funcionamiento del Organismo, en cumplimiento de su objeto, así como supervisar la operación y los servicios que se prestan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII. Nombrar y remover a los servidores públicos del Organismo, de conformidad con las disposiciones aplicables y las reglas que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIX. Promover la actualización, capacitación y profesionalización del personal del Organismo;
+XI. Someter a la autorización de la Junta de Gobierno, los proyectos de presupuesto anual de ingresos y de egresos del Organismo, así como las propuestas de adecuaciones presupuestales que procedan;
 
-XX. Ordenar la readscripción del personal del Organismo, cuando sea conveniente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXI. Administrar el patrimonio del Organismo, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXII. Promover, coordinar y vigilar la ejecución de los programas y acciones orientadas a modernizar y vincular el Catastro y el Registro Público, para hacer más eficiente la prestación de los servicios y fomentar la cultura Registral y Catastral;
+XII. Proponer a la Junta de Gobierno los montos de los derechos, productos, aprovechamientos y demás conceptos por los servicios que preste el Organismo, según sea el caso;
 
-XXIII. Emitir y difundir criterios registrales que permitan la unificación y homologación en la prestación de los servicios y la atención de los trámites del Registro Público en las oficinas registrales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIV. Establecer los planes y programas para el inventario, guarda y administración de los acervos Registral y Catastral, así como ordenar la reposición y restauración de libros y documentos del Registro Público que se encuentren deteriorados, destruidos o extraviados, de acuerdo con las constancias existentes y las que proporcionen las autoridades, los fedatarios públicos o los interesados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXV. Dar cuenta al H. Congreso del Estado sobre los asuntos del Organismo, en términos de las disposiciones legales aplicables, cuando sea requerido para ello;
+XIII. Someter a la discusión y aprobación de la Junta de Gobierno, los informes requeridos para la integración de la cuenta pública anual del Organismo, en términos de las disposiciones aplicables;
 
-XXVI. Rendir los informes que le solicite la Junta de Gobierno, el Comisario Público y las demás autoridades competentes, en términos de las disposiciones legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVII. Celebrar los convenios, contratos y demás actos jurídicos que sean necesarios, para el cumplimiento de los objetivos del Organismo, previa autorización de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXVIII. Expedir, a petición de particulares o autoridades competentes, la certificación de datos o documentos que obren en los archivos del Organismo, previo pago de los derechos correspondientes, en los casos que proceda; y
+XIV. Suscribir, celebrar u otorgar garantías, convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, social y privado, en representación y en las materias competencia del Organismo, previa autorización de la Junta de Gobierno cuando: (I) así lo disponga el Reglamento Interior y las disposiciones legales y administrativas aplicables, (II) se trate de contratos, convenios, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos o documentos jurídicos fuera del curso ordinario de operaciones del Organismo, (III) se trate de la enajenación o adquisición de inmuebles, o (IV) se trate de los asuntos a que se refieren las fracciones XXVII a XXX del artículo 11 de esta Ley;
 
-XXIX. Las demás que se le confieran en esta Ley y en otras disposiciones legales o administrativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XV. Proponer a la Junta de Gobierno, las reglas de carácter general necesarias para dar plena validez a la prestación de los servicios y la realización de los trámites y actos catastrales y registrales, a través del uso y aplicación de la firma electrónica avanzada o cualquier otro medio electrónico similar;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVI. Someter a la Junta de Gobierno la creación, la integración, las reglas de funcionamiento y la extinción de los Consejos Registrales y Catastral, así como de los Comités internos, cuando lo considere conveniente para la mejor operación de los programas del Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVII. Proponer a la Junta de Gobierno el establecimiento, reubicación, readscripción o supresión de oficinas catastrales, registrales y/o juzgados en el Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Conducir, organizar y evaluar, con el apoyo de las unidades administrativas que correspondan, las actividades y el funcionamiento del Organismo, en cumplimiento de su objeto, así como supervisar su operación y los servicios que presta;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIX. Nombrar y remover a los servidores públicos del Organismo, de conformidad con las disposiciones aplicables y las reglas que al efecto se establezcan;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XX. Promover la actualización, capacitación y profesionalización del personal del Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXI. Ordenar la readscripción del personal del Organismo, cuando sea conveniente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXII. Administrar el patrimonio del Organismo, de conformidad con las disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIII. Promover, coordinar y vigilar la ejecución de los programas y acciones orientadas a modernizar y vincular el Catastro y el Registro Público, para hacer más eficiente la prestación de los servicios y fomentar la cultura Registral y Catastral;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIV. Coordinar y vigilar que el funcionamiento de las oficinas Catastrales, Registrales, de los juzgados y demás unidades a su cargo, sea eficiente y se realice conforme a la normatividad legal y administrativa establecida;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXV. Emitir y difundir criterios que permitan la unificación y homologación en la prestación de los servicios y la atención de los trámites del Registro Público en las oficinas registrales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVI. Establecer los planes y programas para el inventario, guarda, preservación y administración de los acervos Registrales y Catastral, así como ordenar la reposición o restauración de libros y documentos del Registro Público o del Registro Civil que se encuentren deteriorados, destruidos o extraviados, de acuerdo con las constancias existentes en los archivos y en su caso, las que proporcionen las autoridades, los fedatarios públicos o los interesados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Autorizar y supervisar la depuración e integración de registros digitales y promover la vinculación de la información contenida en los registros a su cargo, con los de las dependencias y entidades que realicen funciones afines;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVIII. Dar cuenta al H. Congreso del Estado sobre los asuntos del Organismo, en términos de las disposiciones legales aplicables, cuando sea requerido para ello;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIX. Rendir los informes que le solicite la Junta de Gobierno, el Comisario Público y las demás autoridades competentes, en términos de las disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX. Expedir, a petición de particulares o autoridades competentes, la certificación de datos o documentos que obren en los archivos del Organismo, previo pago de los derechos correspondientes, en los casos que proceda; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXI. Las demás que se le confieran en esta Ley y en otras disposiciones legales o administrativas.
 
 ### CAPÍTULO IV. DE LOS CONSEJOS
 
@@ -498,3 +754,33 @@ El Instituto Registral y Catastral del Estado de Puebla, fijará las medidas par
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintisiete días del mes de julio de dos mil once.- Diputado Presidente.- ELÍAS ABAID KURI.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputada Secretaria.- MYRIAM GALINDO PETRIZ.- Rúbrica.- Diputado Secretario.- JAVIER FILIBERTO GUEVARA GONZÁLEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la heroica Puebla de Zaragoza, a los veintiocho días del mes de julio de dos mil once.- El Gobernador Constitucional de Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los noventa días naturales posteriores a su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado realizará las adecuaciones administrativas que sean necesarias para el debido cumplimiento del presente Decreto.
+
+En tanto no se realicen las adecuaciones a las que se refiere el párrafo anterior, el Instituto Registral y Catastral del Estado de Puebla, continuará aplicando las disposiciones administrativas que rigen al Registro Civil de las Personas, en lo que no se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO.- Los formatos utilizados por la Dirección del Registro del Estado Civil de las Personas, de la Secretaría General de Gobierno a la entrada en vigor del presente Decreto, se seguirán utilizando por el Instituto Registral y Catastral hasta la adecuación de los mismos.
+
+QUINTO.- Las Secretarías General de Gobierno, de Finanzas, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, llevarán a cabo la transferencia de los recursos humanos, financieros y materiales que resulten necesarios para la operación del Instituto Registral y Catastral del Estado de Puebla.
+
+Los recursos señalados deberán ser puestos a disposición del Instituto Registral y Catastral del Estado de Puebla a la entrada en vigor del presente Decreto, para continuar el curso normal de los servicios públicos. Dentro de los primeros 120 días naturales, los responsables de las áreas administrativas de las dependencias competentes, formularán las actas de entrega-recepción pormenorizadas que correspondan. En ellas se incluirán los inventarios de bienes respectivos y su situación, y se señalarán todas las observaciones que correspondan. En todo momento, la Secretaría de la Contraloría participará asesorando y vigilando el proceso. El Instituto Registral y Catastral del Estado de Puebla tendrá 120 días naturales, a partir de la firma de las actas señaladas, para formular las observaciones que correspondan. Los acervos registrales continuarán bajo la responsabilidad de los servidores públicos que los tengan bajo su guarda y custodia.
+
+SEXTO.- Los derechos laborales y de seguridad social de los servidores públicos y/o trabajadores que en virtud de lo dispuesto en el presente Decreto deban incorporarse al Instituto Registral y Catastral del Estado de Puebla, se respetarán en términos de las disposiciones legales aplicables.
+
+SÉPTIMO.- Los asuntos en trámite y los recursos, juicios y procedimientos en que sea parte la Dirección del Registro del Estado Civil de las Personas, seguirán tramitándose hasta su resolución por el Instituto Registral y Catastral del Estado de Puebla.
+
+OCTAVO.- En un plazo no mayor de 30 días naturales, a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas realizará las adecuaciones presupuestales y contables necesarias.
+
+NOVENO.- Los ingresos a que se refiere el artículo 14 de la Ley de Ingresos del Estado, para el Ejercicio Fiscal 2012, que se recauden a partir de la entrada en vigor del presente Decreto, formarán parte del patrimonio del Instituto Registral y Catastral del Estado de Puebla.
+
+DÉCIMO.- La Junta de Gobierno del Instituto Registral y Catastral del Estado de Puebla, modificará el Reglamento Interior del Organismo, dentro de un plazo que no excederá de 120 días naturales a partir de la entrada en vigor del presente Decreto, para su expedición por conducto del Ejecutivo del Estado.
+
+DÉCIMO PRIMERO.- Los convenios, anexos y demás actos jurídicos y administrativos, suscritos en materia de colaboración administrativa por la Secretaría General de Gobierno en materia del Registro Civil, con los ayuntamientos, con la federación o los de carácter interestatal, serán atribuidos al Instituto Registral y Catastral del Estado de Puebla y continuarán en vigor hasta su ejecución, el cumplimiento de su vigencia o la suscripción de nuevos actos.
