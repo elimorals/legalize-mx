@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2011-04-20"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "REG_DIPUTADOS"
 ---
 # REGLAMENTO DE LA CAMARA DE DIPUTADOS
 
-REGLAMENTO DE LA CAMARA DE DIPUTADOS
+REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -104,39 +104,43 @@ VII. Gaceta Parlamentaria de la Cámara de Diputados: Es la publicación a trav�
 
 VIII. Iniciativa: Es el acto jurídico por el cual da inicio el proceso legislativo;
 
-IX. Legislatura: Es el periodo durante el cual funciona la Cámara, que será de tres años, contados a partir de su instalación;
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-X. Licencia: Es la autorización concedida por la Cámara, a la solicitud presentada por el diputado o diputada para separarse del ejercicio de su cargo;
+IX. Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el segundo párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XI. Mayoría absoluta: Es el resultado de la suma de diputadas y diputados o votos que representen, cuando menos, la mitad más uno de los presentes;
+X. Legislatura: Es el periodo durante el cual funciona la Cámara, que será de tres años, contados a partir de su instalación;
 
-XII. Mayoría calificada: Es el resultado de la suma de diputadas y diputados o votos que representa, cuando menos, las dos terceras partes de los presentes;
+XI. Licencia: Es la autorización concedida por la Cámara, a la solicitud presentada por el diputado o diputada para separarse del ejercicio de su cargo;
 
-XIII. Mayoría simple: Es el resultado de la suma de votos de los presentes, que constituye la cantidad superior frente a otra u otras opciones;
+XII. Mayoría absoluta: Es el resultado de la suma de diputadas y diputados o votos que representen, cuando menos, la mitad más uno de los presentes;
 
-XIV. Minuta: Es el proyecto de ley o de decreto que se recibe de la Cámara de Senadores o que se envía a ella, en cualquiera de las etapas del proceso legislativo;
+XIII. Mayoría calificada: Es el resultado de la suma de diputadas y diputados o votos que representa, cuando menos, las dos terceras partes de los presentes;
+
+XIV. Mayoría simple: Es el resultado de la suma de votos de los presentes, que constituye la cantidad superior frente a otra u otras opciones;
+
+XV. Minuta: Es el proyecto de ley o de decreto que se recibe de la Cámara de Senadores o que se envía a ella, en cualquiera de las etapas del proceso legislativo;
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XV. Orden del día: es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una Sesión o Reunión;
+XVI. Orden del día: es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una Sesión o Reunión;
 
-XVI. Permiso: Es la autorización de un órgano de la Cámara para que alguno de sus integrantes pueda retirarse de una Sesión o Reunión;
+XVII. Permiso: Es la autorización de un órgano de la Cámara para que alguno de sus integrantes pueda retirarse de una Sesión o Reunión;
 
-XVII. Pleno: Es la Asamblea general de la Cámara de Diputados;
+XVIII. Pleno: Es la Asamblea general de la Cámara de Diputados;
 
-XVIII. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo;
+XIX. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo;
 
-XIX. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes;
+XX. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes;
 
-XX. Reunión: Es la asamblea que realiza cada órgano de la Cámara;
+XXI. Reunión: Es la asamblea que realiza cada órgano de la Cámara;
 
-XXI. Sesión: Es la asamblea de los integrantes de la Cámara en Pleno;
+XXII. Sesión: Es la asamblea de los integrantes de la Cámara en Pleno;
 
-XXII. Suplencia: Es el mecanismo de ocupación del cargo de diputado o diputada, que se presenta cuando el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través actos (sic) u omisiones, su decisión de no aceptar el cargo o de obtener licencia;
+XXIII. Suplencia: Es el mecanismo de ocupación del cargo de diputado o diputada, que se presenta cuando el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través actos (sic) u omisiones, su decisión de no aceptar el cargo o de obtener licencia;
 
-XXIII. Turno: Es la resolución de trámite que dicta el Presidente, durante las sesiones, para enviar los asuntos que se presentan en el Pleno a la instancia respectiva, con el fin de darles el curso legal que corresponda dentro del procedimiento, y
+XXIV. Turno: Es la resolución de trámite que dicta el Presidente, durante las sesiones, para enviar los asuntos que se presentan en el Pleno a la instancia respectiva, con el fin de darles el curso legal que corresponda dentro del procedimiento, y
 
-XXIV. Vacante: Es la declaración hecha por la Cámara sobre la situación de ausencia en el ejercicio del cargo de diputado o diputada propietario y suplente.
+XXV. Vacante: Es la declaración hecha por la Cámara sobre la situación de ausencia en el ejercicio del cargo de diputado o diputada propietario y suplente.
 
 ###### Artículo 4.
 
@@ -630,7 +634,7 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 ###### Artículo 47.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 1. Se computará como inasistencia de la diputada o del diputado a una Sesión cuando:
 
@@ -686,7 +690,7 @@ III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa 
 
 1. La Secretaría será la encargada de supervisar la operación del Sistema Electrónico y verificará los resultados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 2. Al final de cada Sesión, la Secretaría, emitirá una relación en la que se especifique lo siguiente:
 
@@ -848,9 +852,15 @@ III. Conocimiento y atención.
 
 2. La comisión a la que corresponda opinar, deberá remitir su parecer a la comisión dictaminadora, en un plazo máximo de treinta días, a partir de la recepción formal del asunto. La opinión deberá ser aprobada por mayoría absoluta de la comisión que la emite. Si vencido el plazo no se hubiese formulado la opinión, se entenderá que la comisión respectiva declina realizarla.
 
-3. Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de la (sic) comisiones, pero en ningún caso serán vinculatorias.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-4. En los dictámenes, las comisiones deben anexar copia de la opinión para su publicación.
+3. En el caso de la Iniciativa preferente, la Comisión deberá remitir su parecer a la dictaminadora, en un plazo máximo de diez días naturales, de lo contrario se entenderá su declinación.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+4. Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de las comisiones, pero en ningún caso serán vinculatorias.
+
+5. En los dictámenes, las comisiones deben anexar copia de la opinión para su publicación.
 
 ###### Artículo 70.
 
@@ -948,7 +958,7 @@ VI. Efemérides, hasta por tres minutos.
 
 ###### Artículo 78.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 1. Los elementos indispensables de la iniciativa serán:
 
@@ -1042,7 +1052,11 @@ VII. Solicitudes de permiso constitucional en términos del artículo 37, inciso
 
 ###### Artículo 81.
 
-1. Los dictámenes que atiendan minutas deberán abocarse solo a estas.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+1. Los dictámenes que atiendan minutas deberán abocarse sólo a éstas.
+
+En el caso de dictámenes que atiendan iniciativas preferentes, estos podrán incorporar, previo acuerdo de la Comisión, aquellas que sobre la materia hayan sido presentadas.
 
 2. El resto de los dictámenes podrán atender una o varias iniciativas o asuntos, siempre y cuando traten el mismo tema.
 
@@ -1052,9 +1066,13 @@ VII. Solicitudes de permiso constitucional en términos del artículo 37, inciso
 
 2. Un asunto podrá ser sometido a discusión y votación del Pleno sin que se presente el dictamen de comisión respectivo cuando:
 
-I. Se tramite de urgente u obvia resolución, y
+I. Se tramite de urgente u obvia resolución, y (sic)
 
 II. Se trate de iniciativas y minutas que no hubieran sido dictaminadas por la comisión responsable, en los plazos establecidos en este Reglamento y deban ser presentadas en sus términos ante el Pleno, sólo cuando hayan cumplido el requisito de declaratoria de publicidad que deberá hacerse, con una anticipación de al menos, dos sesiones previas a la que se discuta.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+III. Se trate de una iniciativa o minuta con trámite preferente, que no hubiera sido dictaminada por la o las comisiones responsables en el término de 30 días naturales, contados a partir de que la iniciativa sea presentada por el Ejecutivo Federal. En tal caso, la iniciativa o minuta deberá presentarse para su discusión y votación en sus términos y sin mayor tramite, en la siguiente sesión del Pleno.
 
 ###### Artículo 83.
 
@@ -1128,6 +1146,10 @@ XIV. Lugar y fecha de la Reunión de la comisión en que se aprueba.
 
 2. El Presidente realizará una prevención a la comisión o comisiones, diez días antes de que venza el plazo prorrogado para dictaminar, señalado en el artículo 183, numeral 2 de este Reglamento, a través de una comunicación que se publicará en la Gaceta.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+3. El Presidente realizará una prevención a la comisión o comisiones, siete días naturales antes de que venza el plazo para dictaminar la iniciativa preferente, a través de una comunicación que deberá publicarse en la Gaceta.
+
 ###### Artículo 89.
 
 1. Si el dictamen correspondiente a las iniciativas no se ha presentado, cuando haya transcurrido el plazo para dictaminar, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
@@ -1145,6 +1167,26 @@ I. La comisión o comisiones deberán resolverlas dentro de un término máximo 
 II. La comisión o comisiones que consideren conveniente prorrogar la decisión de la iniciativa turnada, deberán hacer la solicitud al Presidente, por conducto de su Junta Directiva, dentro del término para dictaminar, establecido en el numeral anterior. La Mesa Directiva resolverá las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta noventa días más, contados a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga, y
 
 III. Aquellas que no se resuelvan en el plazo indicado, se tendrán por desechadas. El Presidente instruirá su archivo como asuntos total y definitivamente concluidos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+3. En el caso de las iniciativas preferentes, se observará lo siguiente:
+
+I. La comisión o comisiones deberán resolverlas dentro de un término máximo de treinta días naturales, contados a partir de la fecha en que fue presentada,
+
+II. El plazo a que se refiere la fracción anterior será improrrogable,
+
+III. Si transcurre el plazo, sin que se formule el dictamen correspondiente, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
+
+a) El Presidente deberá emitir la declaratoria de publicidad inmediatamente después de concluido el plazo para dictaminar.
+
+b) La Mesa Directiva deberá incluirlas en el orden del día de la siguiente sesión del Pleno para su discusión y votación.
+
+c) La iniciativa preferente será discutida en sus términos y sin mayor trámite deberá ser el primer asunto que sea discutido y votado durante la sesión del Pleno.
+
+d) La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada por mayoría absoluta, de lo contrario, se tendrá por desechada, en términos de lo dispuesto en el Apartado G del artículo 72 de la Constitución.
+
+e) El proyecto de decreto materia de la iniciativa con carácter preferente aprobado por la Cámara, será enviado de inmediato a la Cámara revisora, en calidad de minuta, para los efectos del artículo 71 de la Constitución.
 
 #### Sección Quinta. Votos Particulares
 
@@ -1230,7 +1272,27 @@ d) En el caso de las minutas de reforma constitucional deberán ser aprobadas po
 
 e) Por lo que se refiere a los incisos c) y d) de esta fracción, las minutas continuarán con su proceso legislativo, de acuerdo a lo que establece el artículo 72 Constitucional.
 
-3. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+3. Para las minutas sobre iniciativas preferentes, se observará lo siguiente:
+
+I. El Presidente turnara a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de esta al Pleno;
+
+II. En el momento de anunciar el turno, el Presidente dará treinta días naturales a partir de la recepción formal del asunto, para que se presente el Dictamen correspondiente;
+
+III. El plazo a que se refiere la fracción anterior es improrrogable;
+
+IV. Si transcurre el plazo, sin que se formule un dictamen, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
+
+a) El Presidente deberá emitir la declaratoria de publicidad inmediatamente después de concluido el plazo para dictaminar.
+
+b) La Mesa Directiva deberá incluirla en el orden del día de la siguiente Sesión del Pleno para su discusión y votación.
+
+c) La minuta será discutida en sus términos y sin mayor trámite como el primer asunto que sea discutido y votado en la sesión del Pleno.
+
+d) La minuta se discutirá y tendrá que ser aprobada por mayoría absoluta, de lo contrario, se tendrá por desechada.
+
+V. Cuando la minuta que contenga un proyecto de ley o decreto con carácter preferente sea desechada, en todo o en parte, o modificada por la Cámara, ésta deberá devolverla, acompañada de las observaciones pertinentes, a la Cámara de Senadores, para los efectos del artículo 72, Apartados D o E, de la Constitución.
 
 ### CAPITULO II. Del Trámite de los Asuntos ante el Pleno
 
@@ -1410,9 +1472,9 @@ VI. Cuando hayan intervenido un orador en contra y uno a favor, el Presidente pr
 
 1. Cuando un dictamen no se apruebe en lo general, el Presidente consultará al Pleno, en votación económica, si el proyecto se devuelve a la comisión. Si la resolución fuese afirmativa, se devolverá a la comisión para que elabore un nuevo dictamen; si fuese negativa, se tendrá por desechado.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Las comisiones a las que el Pleno devuelva el dictamen para elaboración de uno nuevo, dispondrán de veinte días para presentarlo nuevamente.
+2. Las comisiones a las que el Pleno devuelva el dictamen para elaboración de uno nuevo, dispondrán de veinte días para presentarlo nuevamente, salvo que se trate de una iniciativa preferente, la cual deberá sujetarse al término constitucional de treinta días naturales para ser discutida y votada por el Pleno de la Cámara.
 
 ###### Artículo 108.
 
@@ -1851,6 +1913,10 @@ III. Terminada la votación, la Secretaría comunicará el resultado al Presiden
 3. Los acuerdos de las comisiones serán suscritos por la mayoría de los integrantes presentes en la Reunión, en tanto que los acuerdos de la Junta Directiva serán suscritos por la mayoría.
 
 4. Las comisiones o comités se reunirán, cuando menos, una vez al mes, aún en los recesos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+5. Las comisiones que conozcan de una iniciativa preferente durante el primer periodo de sesiones del primer año de la legislatura, deberán instalarse como tiempo máximo en la segunda sesión ordinaria de la legislatura.
 
 ###### Artículo 147.
 
@@ -2418,9 +2484,9 @@ IV. A las cámaras, consejos y organizaciones sociales conocedoras del tema que 
 
 V. Las opiniones de los ciudadanos.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-3. El Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, con cinco días de anticipación a la Reunión en que se discuta y se vote.
+3. El Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, con cinco días de anticipación a la Reunión en que se discuta y se vote. Tratándose de una iniciativa preferente se deberá circular con un mínimo de veinticuatro horas previas a su discusión y votación.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -2464,17 +2530,21 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 ###### Artículo 182.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-1. Todo asunto turnado a comisión deberá ser resuelto por ésta, dentro de un término máximo de cuarenta y cinco días, a partir de la recepción formal del asunto, con las salvedades que este Reglamento establece.
+1. Todo asunto turnado a comisión deberá ser resuelto por esta, dentro de un término máximo de cuarenta y cinco días, a partir de la recepción formal del asunto, con las salvedades que este Reglamento y la Constitución establecen.
 
-2. Los plazos para dictaminar se interrumpirán, desde el inicio de la legislatura hasta que se instale la comisión.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+2. Los plazos para dictaminar se interrumpirán, desde el inicio de la legislatura hasta que se instale la comisión, salvo en el caso de iniciativa preferente.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 3. La comisión tendrá como término para dictaminar las proposiciones, hasta el fin de cada periodo ordinario de sesiones.
 
-4. En caso de que el Presidente autorice la ampliación de turno de un asunto para dictamen, el plazo volverá a correr a partir de que se notifique a las comisiones.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+4. En caso de que el Presidente autorice la ampliación de turno de un asunto para dictamen, el plazo volverá a correr a partir de que se notifique a las comisiones, con excepción de las iniciativas con carácter de preferente.
 
 5. Salvo disposición legal en contrario, para el cómputo de los plazos señalados en días, se considerarán días hábiles; los establecidos en meses, de fecha a fecha; y los indicados en horas, de momento a momento. Los días inhábiles son los sábados, domingos y días festivos. Al inicio de cada año de ejercicio de la Legislatura, la Mesa Directiva establecerá los días que se computarán como inhábiles.
 
@@ -2491,6 +2561,10 @@ IV. Los demás asuntos que no ameriten dictamen.
 > <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 3. La solicitud que realice la comisión, así como el acuerdo por el que la Mesa Directiva resuelva, serán publicados en la Gaceta.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+
+4. Las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
 
 ###### Artículo 184.
 
@@ -2814,7 +2888,7 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 1. Las actividades de las comisiones y comités, preferentemente sus reuniones, se transmitirán según lo previsto en el Reglamento del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos y de acuerdo a los criterios que establezca la Comisión Bicamaral.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ## TITULO SEXTO. De los Procedimientos Especiales
 
@@ -2844,7 +2918,7 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 1. Los expedientes que deban pasar al Titular del Poder Ejecutivo Federal para los efectos de la fracción A, del Artículo 72 de la Constitución, se remitirán con los documentos a que se refiere el artículo 94 de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ### CAPITULO II. De la Expedición de Decretos y otras Resoluciones exclusivas de la Cámara
 
@@ -3008,7 +3082,7 @@ IV. Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tie
 
 ###### Artículo 235.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 1. El Diario de los Debates es el órgano oficial de la Cámara que contiene la memoria de debates parlamentarios, así como el desarrollo de las sesiones, en el que se publicará la siguiente información:
 
@@ -3444,7 +3518,7 @@ V. Las que llevan a cabo los Grupos de Amistad.
 
 ###### Artículo 277.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 1. Los integrantes de las delegaciones y Grupos de Amistad que hayan desarrollado alguna actividad de diplomacia parlamentaria en lo individual, tendrán la responsabilidad de rendir un informe de actividades y asistencia a los eventos correspondientes, dentro de los veinte días posteriores a la conclusión de la actividad, que contendrá:
 
@@ -3572,7 +3646,7 @@ Décimo Tercero. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
 
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 20 DE ABRIL DE 2011.
 
@@ -3591,3 +3665,7 @@ Sexto. Para la organización y funcionamiento del Comité de Administración, se
 Séptimo. Corresponderá a la Junta con el auxilio del Comité de Administración, analizar las normas del Reglamento de la Cámara de Diputados que conlleven un impacto presupuestal a efecto de instrumentarlas y en su caso, considerar la partida correspondiente para su incorporación en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012.
 
 Octavo. La Cámara de Diputados a través de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, deberá revisar el Estatuto durante la presente Legislatura para que se formulen las adecuaciones correspondientes que armonicen su texto con la Ley y el Reglamento, a fin de emitir una opinión con el Proyecto de reformas, para presentarlo a la Conferencia.
+
+D.O.F. 31 DE DICIEMBRE DE 2012.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
