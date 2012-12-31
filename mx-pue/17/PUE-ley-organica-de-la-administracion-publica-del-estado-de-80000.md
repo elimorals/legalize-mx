@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2012-05-11"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -67,9 +67,45 @@ Para el despacho de los asuntos que le competen, el Gobernador del Estado se aux
 
 El Titular del Poder Ejecutivo contará con una Oficina del Gobernador, cuyas funciones serán aquéllas que establezca el acuerdo respectivo, que podrán ser de asesoría, apoyo técnico, coordinación o las que él determine.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Asimismo, podrán estar directamente sectorizados o dependientes del Gobernador del Estado, organismos públicos descentralizados y las unidades administrativas que él mismo determine.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Asimismo, el Gobernador del Estado contará con una Consejería Jurídica que estará adscrita directamente al mismo y tendrá las atribuciones que señala esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Podrán estar directamente sectorizados al Gobernador del Estado, organismos públicos descentralizados y las unidades administrativas que él mismo determine.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 4 BIS.- La Consejería Jurídica del Gobernador estará a cargo de un Titular, que tendrá las atribuciones siguientes:
+
+I. Representar legalmente al Gobernador del Estado, en todo tipo de juicios, procedimientos, recursos, acciones y controversias en que el mismo intervenga con cualquier carácter o tenga interés. La representación a que se refiere esta fracción comprende la ejecución y desahogo de todo tipo de actos procesales;
+
+II.- Promover medios preparatorios de juicio, medidas precautorias, demandas, contestaciones y reconvenciones, incidentes, recursos, ofrecer pruebas, presentar alegatos, e intervenir en todos los demás actos procesales, en los asuntos en que el Gobernador del Estado sea parte o tenga interés, hasta la conclusión y ejecución de los juicios correspondientes;
+
+III.- Dar apoyo técnico jurídico al Titular del Poder Ejecutivo, en todos aquellos asuntos que éste le encomiende;
+
+IV.- Prestar asesoría jurídica a las Dependencias y Entidades de la Administración Pública Estatal, cuando el Gobernador del Estado así lo acuerde;
+
+V.- Coordinar con las unidades jurídicas de las Dependencias y Entidades, la atención de los asuntos legales en los que intervenga el Gobernador del Estado;
+
+VI.- Atender las solicitudes de información y las resoluciones de las Comisiones de Derechos Humanos cuando estén dirigidas al Gobernador del Estado;
+
+VII.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos que compete resolver al Titular del Poder Ejecutivo, que no corresponda conocer a otras Dependencias;
+
+VIII.- Expedir copia certificada en el ámbito de sus atribuciones, de los documentos expedidos por el Gobernador del Estado y aquéllos expedidos por los servidores públicos adscritos a la propia Consejería en el desempeño de sus funciones;
+
+IX.- Intervenir en los procedimientos judiciales y administrativos en que la Consejería sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, así como representar legalmente a la misma en lo relativo a las relaciones laborales;
+
+X.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones que en los términos de las leyes, reglamentos y demás disposiciones legales le competan; y
+
+XI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ###### ARTÍCULO 5.
 
@@ -83,7 +119,11 @@ Los Titulares de las Dependencias y Entidades de la Administración Pública Est
 
 El Gobernador del Estado podrá autorizar y en su caso gestionar, la creación, supresión, liquidación o transferencia de las unidades administrativas que requiere la Administración Pública del Estado, asignarles las funciones que considere conveniente, así como nombrar y remover libremente a sus funcionarios y empleados, observando, en su caso, lo dispuesto por la Ley de los Trabajadores al Servicio del Estado y demás disposiciones aplicables.
 
-El Gobernador del Estado podrá constituir comisiones intersecretariales para el despacho de asuntos en que deban intervenir dos o más Secretarías. Podrán integrar dichas comisiones las entidades de la Administración Pública Paraestatal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+El Gobernador del Estado podrá constituir comisiones intersecretariales para el despacho de asuntos en que deban intervenir dos o más Dependencias. Podrán integrar dichas comisiones las entidades de la Administración Pública Paraestatal.
 
 Asimismo, promoverá un sistema de modernización administrativa, y establecerá el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla y demás legislación aplicable.
 
@@ -105,13 +145,21 @@ El Gobernador del Estado determinará cuáles Dependencias del Ejecutivo Estatal
 
 El Titular del Poder Ejecutivo, podrá celebrar y firmar contratos y convenios y actos administrativos, ejercer y autorizar créditos y empréstitos en términos de la normatividad vigente.
 
-Lo anterior sin perjuicio de que los Secretarios, en auxilio del despacho de sus asuntos, celebren todo tipo de contratos y convenios, a excepción de los relacionados con la contratación de créditos y empréstitos, en los que intervendrá la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Lo anterior sin perjuicio de que los Secretarios, en auxilio del despacho de sus asuntos, celebren todo tipo de contratos y convenios, a excepción de los relacionados con la contratación de créditos y empréstitos, en los que intervendrá la Secretaría de Finanzas y Administración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas de los planes de gobierno, establezca el Gobernador del Estado, directamente o a través de las Dependencias correspondientes, cuyos Titulares integrarán con base en la información que les proporcionen sus subordinados, un informe que remitirán al Titular del Poder Ejecutivo del Estado, en los términos y conforme a las especificaciones que señale la Secretaría de Finanzas.
+Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas de los planes de gobierno, establezca el Gobernador del Estado, directamente o a través de las Dependencias correspondientes, cuyos Titulares integrarán con base en la información que les proporcionen sus subordinados, un informe que remitirán al Titular del Poder Ejecutivo del Estado, en los términos y conforme a las especificaciones que señale la Secretaría de Finanzas y Administración.
 
-Asimismo, con base en lo señalado en el párrafo anterior y las disposiciones aplicables, darán cuenta al Congreso Local, del estado que guarden sus respectivas Dependencias y Entidades a la apertura del primer periodo de sesiones y deberán informar además cuando el Congreso del Estado lo solicite, en los casos en que se discuta una iniciativa o se estudie un asunto concerniente a sus actividades.
+Asimismo, con base en lo señalado en el párrafo anterior y las disposiciones aplicables, darán cuenta al Congreso Local, del estado que guarden sus respectivas Dependencias y Entidades a la apertura del primer período de sesiones y deberán informar además cuando el Congreso del Estado lo solicite, en los casos en que se discuta una iniciativa o se estudie un asunto concerniente a sus actividades.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -149,9 +197,15 @@ Para el estudio, planeación y despacho de los negocios de los diversos ramos de
 
 I. SECRETARÍA GENERAL DE GOBIERNO;
 
-II. SECRETARÍA DE FINANZAS;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. SECRETARÍA DE ADMINISTRACIÓN;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II.- SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 IV. SECRETARÍA DE LA CONTRALORÍA;
 
@@ -159,7 +213,9 @@ V. SECRETARÍA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO;
 
 VI. SECRETARÍA DE TURISMO;
 
-VII. SECRETARÍA DE DESARROLLO RURAL;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VII.- SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL;
 
 VIII. SECRETARÍA DE INFRAESTRUCTURA;
 
@@ -171,33 +227,43 @@ XI. SECRETARÍA DE EDUCACIÓN PÚBLICA;
 
 XII. PROCURADURÍA GENERAL DE JUSTICIA;
 
-XIII. SECRETARÍA DE SERVICIOS LEGALES Y DEFENSORÍA PÚBLICA;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 XIV. SECRETARÍA DE DESARROLLO SOCIAL;
 
-XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y
+XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y (SIC)
 
-XVI. SECRETARÍA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL.
+XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 ###### ARTÍCULO 18.
 
 Las Secretarías y la Procuraduría General de Justicia, tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Cuando para la atención de algún asunto exista duda respecto de la competencia de las Dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-Los Titulares de las Secretarías, ejercerán las funciones de su competencia en términos de esta Ley, de los demás ordenamientos aplicables y los que acuerde el Gobernador del Estado, de conformidad con el artículo 79 de la Constitución Política del Estado Libre y Soberano de Puebla.
+Los Titulares de las Dependencias, ejercerán las funciones de su competencia en términos de esta Ley, de los demás ordenamientos aplicables y los que acuerde el Gobernador del Estado, de conformidad con el artículo 79 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-Los Titulares de las Dependencias y Entidades del Ejecutivo formularán, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones y ordenamientos legales, que remitirán a la Secretaría de Servicios Legales y Defensoría Pública, para su estudio y análisis.
+Los Titulares de las Dependencias del Ejecutivo formularán, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás documentos, disposiciones y ordenamientos legales, los que se remitirán al Gobernador del Estado por conducto de la Secretaría General de Gobierno, para su análisis y trámite correspondiente.
 
-Una vez analizados y determinada su procedencia, los proyectos de iniciativa se remitirán al Gobernador del Estado por conducto de la Secretaría General de Gobierno, y los demás, por conducto de la Secretaría de Servicios Legales y Defensoría Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, enviarán a la Secretaría de Servicios Legales y Defensoría Pública, los proyectos de Iniciativas de leyes y decretos, por lo menos con un mes de anticipación a la fecha que se pretendan presentar, salvo en los casos de las Iniciativas de Leyes de Ingresos y de Egresos del Estado y aquellos de notoria urgencia a juicio del Gobernador del Estado.
+Las Dependencias y Entidades de la Administración Pública Estatal, enviarán a la Secretaría General de Gobierno, los proyectos de Iniciativas de leyes y decretos, por lo menos con un mes de anticipación a la fecha que se pretendan presentar, salvo en los casos de las Iniciativas de Leyes de Ingresos y de Egresos del Estado y aquéllos de notoria urgencia a juicio del Gobernador del Estado.
 
 ###### ARTÍCULO 22.
 
@@ -213,15 +279,23 @@ Las Dependencias y Entidades, en el ámbito de su competencia, deberán vigilar 
 
 Las Dependencias y Entidades de la Administración Pública del Estado, deberán coordinarse en la ejecución de sus respectivas atribuciones, con la finalidad de facilitar la realización de los programas de Gobierno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Las Dependencias y Entidades deberán atender, verificar y dar respuesta a las solicitudes de información y recomendaciones que emitan tanto la Comisión Nacional de los Derechos Humanos como la Comisión de Derechos Humanos del Estado y demás autoridades en la materia. Asimismo, instrumentarán las políticas que en materia de derechos humanos se determinen.
+
 ###### ARTÍCULO 25.
 
 La estructura orgánica de cada Dependencia será determinada por el Titular del Poder Ejecutivo, en el reglamento interior correspondiente. Cada Dependencia deberá contar con manuales de organización, de procedimientos administrativos, de servicios y demás que determinen las Dependencias competentes.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-Será obligación de los Titulares de las Dependencias y Entidades, la emisión de sus manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán enviar previamente a la Secretaría de Administración para su análisis y autorización.
+Será obligación de los Titulares de las Dependencias y Entidades, la emisión de sus manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán enviar previamente a la Secretaría de Finanzas y Administración, para su análisis y autorización.
 
 ###### ARTÍCULO 27.
 
@@ -241,13 +315,21 @@ Al Gobernador del Estado corresponderá el mando de las fuerzas de seguridad pú
 
 El Gobernador del Estado intervendrá en lo relacionado con las Instituciones de Beneficencia, de conformidad con los ordenamientos legales vigentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 31.
 
-Para la eficiente atención y despacho de los asuntos de su competencia, las Dependencias de la Administración Pública Centralizada, podrán contar con órganos o unidades desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+Para la eficiente atención y despacho de los asuntos competencia de las Dependencias de la Administración Pública Centralizada, el Gobernador del Estado podrá crear mediante acuerdo, órganos o unidades desconcentrados que les estarán jerárquicamente subordinados a aquéllas y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal al tomar posesión de su cargo, levantarán un inventario de los bienes que se encuentren en poder de las mismas, con la intervención de la Secretaría de la Contraloría, para verificar y certificar su exactitud; debiendo, los Titulares de las Dependencias y Entidades, comprobar periódicamente, que el inventario de bienes de la Dependencia o Entidad correspondan a lo registrado en su toma de posesión, notificando los resultados a la Secretaría de Administración.
+Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal al tomar posesión de su cargo, levantarán un inventario de los bienes que se encuentren en poder de las mismas, con la intervención de la Secretaría de la Contraloría, para verificar y certificar su exactitud; debiendo, los Titulares de las Dependencias y Entidades, comprobar periódicamente, que el inventario de bienes de la Dependencia o Entidad correspondan a lo registrado en su toma de posesión, notificando los resultados a la Secretaría de Finanzas y Administración.
 
 ###### ARTÍCULO 33.
 
@@ -259,13 +341,25 @@ Los Titulares de las Dependencias y Entidades del Gobierno del Estado deberán l
 
 A la Secretaría General de Gobierno, corresponde el despacho de los siguientes asuntos:
 
-I.- Conducir las relaciones del Poder Ejecutivo con los demás Poderes del Estado, con los Poderes de la Unión, con los Estados y con los Ayuntamientos de los Municipios del Estado; así como, conducir y atender los aspectos relativos a la Política Interna, la gobernabilidad y los partidos políticos, de acuerdo con los ordenamientos legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+I.- Conducir, de acuerdo con los ordenamientos legales aplicables, las relaciones del Poder Ejecutivo con los demás Poderes del Estado, con los Poderes de la Unión, con los Órganos Constitucionalmente Autónomos, con otros Estados, con los Ayuntamientos de los Municipios de la Entidad; así como conducir y atender los asuntos relativos a la política interna, la gobernabilidad y los partidos políticos;
 
 II.- Fungir como Coordinador del Gabinete integrado por los Titulares de las Dependencias y Entidades de la Administración Pública Estatal;
 
-III.- Someter a firma del Gobernador del Estado, las Iniciativas que serán, remitidas por la Secretaría de Servicios Legales y Defensoría Pública, dando el trámite correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Administrar el Periódico Oficial del Estado y ordenar la publicación de las Leyes y Decretos que expida el Congreso del Estado, así como los Reglamentos, Acuerdos y demás ordenamientos de carácter general;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- Someter a consideración, y en su caso, firma del Gobernador del Estado, las Iniciativas de leyes y decretos, así como los reglamentos, acuerdos, convenios y demás instrumentos u ordenamientos legales, dando el trámite correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV.- Administrar el Periódico Oficial del Estado y ordenar la publicación de las Leyes y Decretos que expida el Congreso del Estado, así como los Reglamentos, Acuerdos y demás ordenamientos de carácter general; así como mantener actualizado un portal electrónico de consulta del orden jurídico del Estado;
 
 V.- Llevar el control y archivo de los convenios que celebre el Gobernador del Estado con los Poderes de la Unión, los Estados, los Ayuntamientos, Órganos Constitucionalmente Autónomos, asociaciones y sociedades;
 
@@ -277,7 +371,11 @@ VIII.- Tramitar lo relativo al ejercicio de las facultades que al Titular del Po
 
 IX.- Llevar el registro de autógrafos y legalizar las firmas de los funcionarios estatales, de los Presidentes Municipales, Secretarios y Síndicos de los Ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autenticar los documentos en que intervengan;
 
-X.- Presentar ante el Congreso del Estado las Iniciativas de Leyes, Decretos y Acuerdos en que interviene el Titular del Poder Ejecutivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+X.- Integrar la Agenda Legislativa del Gobernador del Estado, así como presentar ante el Congreso del Estado las Iniciativas de Leyes, Decretos y Acuerdos en que interviene el Titular del Poder Ejecutivo;
 
 XI.- Asumir el despacho y la representación de los asuntos que al Gobernador del Estado correspondan, en sus ausencias temporales, de acuerdo a la Constitución Política del Estado;
 
@@ -319,7 +417,11 @@ XXVIII.- Conocer, tramitar y resolver, en términos de las disposiciones legales
 
 XXIX.- Organizar y controlar el Archivo General del Estado, así como el Archivo de Notarías del Estado;
 
-XXX.- Intervenir en los asuntos de regulación de la tenencia de la tierra y de asentamientos humanos irregulares que le encomiende el Titular del Poder Ejecutivo del Estado, de conformidad con la normatividad legal vigente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX.- Intervenir, de conformidad con la normatividad legal vigente, en los asuntos y programas de regulación de la tenencia de la tierra, de asentamientos humanos irregulares y de liberación de derechos de vía que le encomiende el Titular del Poder Ejecutivo del Estado;
 
 XXXI.- Prestar los servicios que le correspondan en materia de expedición de pasaportes y cualesquiera otros que se acuerden, conforme a los Convenios celebrados con la Secretaría de Relaciones Exteriores del Gobierno Federal;
 
@@ -337,23 +439,59 @@ XXXVII.- Proveer lo conducente para la valoración de las conductas tipificadas 
 
 XXXVIII.- Tramitar por acuerdo del Gobernador del Estado, las solicitudes de amnistía, indulto, remisión parcial, conmutación, modificación de sanciones y medidas, traslado de reos y beneficios de libertad anticipada, que conforme a la Ley sean tendientes a lograr la rehabilitación y reinserción social de los internos, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
 
-XXXIX.- Coadyuvar en el control de la radio-comunicación interna de los órganos de Gobierno, en coordinación con la Secretaría de Administración;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIX.- Coadyuvar con las instancias competentes, en el control de la radio-comunicación interna de los Órganos de Gobierno;
 
 XL.- Cumplir y controlar las actividades del Calendario Oficial de Ceremonias Cívicas;
 
-XLI.- Administrar el Archivo General del Estado; normar y asesorar a las Dependencias y Entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deban enviar al Archivo General del Estado; así como coordinar con las Secretarías de Finanzas; de Administración y de la Contraloría, la emisión de las normas y lineamientos que deban observar las Dependencias y Entidades para la guarda, custodia, conservación y en su caso, baja de documentos oficiales, de conformidad con las disposiciones legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLI.- Administrar el Archivo General del Estado; normar y asesorar a las Dependencias y Entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deban enviar al Archivo General del Estado; así como coordinar con las Secretarías de Finanzas y Administración y de la Contraloría, la emisión de las normas y lineamientos que deban observar las Dependencias y Entidades para la guarda, custodia, conservación, y en su caso, baja de documentos oficiales, de conformidad con las disposiciones legales aplicables;
 
 XLII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
-XLIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLIV.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO III. DE LA SECRETARÍA DE FINANZAS
+XLIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLIV.- Prestar, a través de la unidad administrativa o instancia correspondiente, la asistencia jurídica gratuita en el fuero común, en términos de la Constitución Política de los Estados Unidos Mexicanos, además de otorgar la misma a las personas que carezcan de recursos económicos, que tengan notorio atraso intelectual y aquéllas que por su condición o por disposición de la ley, merezcan especial protección, frente a las que se encuentren en la situación contraria;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLVI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO III. DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 35.
 
-A la Secretaría de Finanzas, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Administración, corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar y proponer al Gobernador del Estado, el Plan Estatal de Desarrollo por el periodo constitucional de la Administración, incluyendo consideraciones y proyecciones de largo alcance, así como los Programas Sectoriales, Institucionales, Regionales, Especiales y Anuales que requiera la Entidad, con apego a las disposiciones legales aplicables;
 
@@ -421,7 +559,11 @@ XXXI.- En materia de Fideicomisos, intervenir con el carácter de Fideicomitente
 
 XXXII.- Elaborar la contabilidad que derive de la ejecución de las Leyes de Ingresos y de Egresos del Estado; así como integrar la Cuenta Anual de la Hacienda Pública Estatal;
 
-XXXIII.- Llevar a cabo la contabilidad patrimonial del Estado con base en la información que periódicamente le proporcione la Secretaría de Administración, respecto de los bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIII.- Llevar a cabo la contabilidad patrimonial del Estado, respecto de los bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado;
 
 XXXIV.- Emitir el clasificador por objeto de gasto presupuestal, para la aplicación y control del gasto público en las Dependencias y Entidades de la Administración Pública;
 
@@ -435,7 +577,11 @@ XXXVIII.- Elaborar las estadísticas básicas de la actividad socio-económica d
 
 XXXIX.- Recabar la información para la formulación del informe que debe rendir anualmente el Gobernador del Estado, ante el Congreso del Estado;
 
-XL.- Administrar y controlar los almacenes que conforme a las disposiciones legales le corresponda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XL.- Administrar y controlar el Almacén General del Gobierno del Estado y los demás que conforme a las disposiciones legales le corresponda;
 
 XLI.- Previo acuerdo del Titular del Poder Ejecutivo, contratar créditos a cargo del Gobierno del Estado, en términos de la legislación aplicable en la materia;
 
@@ -451,7 +597,11 @@ XLVI.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de la
 
 XLVII.- Establecer normas y lineamientos para la elaboración de proyectos para prestación de servicios a largo plazo, así como llevar a cabo las acciones que resulten necesarias para su instrumentación;
 
-XLVIII.- Representar legalmente al Gobierno del Estado, en el cumplimiento de las obligaciones fiscales federales, estatales y municipales, que tenga a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLVIII.- Representar legalmente al Gobierno del Estado, en el cumplimiento de las obligaciones fiscales federales, estatales y municipales, que tenga a su cargo, así como en lo relativo a recursos humanos y materiales, bienes muebles e inmuebles, servicios generales y adjudicaciones;
 
 XLIX.- Representar legalmente al Gobierno del Estado, a través de la Procuraduría Fiscal, en la interposición de recursos administrativos y medios de defensa ante las Autoridades Fiscales o Administrativas correspondientes y en la promoción de juicios ante los Tribunales Jurisdiccionales, en las materias de su competencia;
 
@@ -461,9 +611,11 @@ LI.- Intervenir a través de la Procuraduría Fiscal, en toda clase de procedimi
 
 LII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en materia de su competencia; y (sic)
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LIII.- Participar con la Secretaría de Administración en el análisis de las propuestas de modificación de las estructuras orgánicas, con el fin de verificar que el número de personal solicitado esté dentro del presupuesto de plazas autorizado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LIII.- Analizar, y en su caso, autorizar las propuestas de modificación de las estructuras orgánicas, con el fin de verificar que el número de personal solicitado esté dentro del presupuesto de plazas autorizado;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -485,137 +637,131 @@ LVII.- Asignar placas de circulación a los vehículos inscritos en el Registro 
 
 LVIII.- Adquirir, suministrar, controlar y destruir las formas oficiales valoradas y las formas oficiales de reproducción restringida que se utilicen en la prestación de los servicios a cargo de las Dependencias y Entidades de la Administración Pública del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LIX.- Coordinar y orientar la gestión de recursos para la prevención y atención de los efectos provocados por fenómenos naturales perturbadores, así como dar seguimiento junto con las instancias federales, estatales y municipales a las acciones derivadas de los convenios y sus anexos y demás instrumentos y/o programas en materia de prevención y atención de desastres naturales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+LIX.- Coordinar y orientar la gestión de recursos para la prevención y atención de los efectos provocados por fenómenos naturales perturbadores, así como dar seguimiento junto con las instancias federales, estatales y municipales a las acciones derivadas de los convenios y sus anexos y demás instrumentos y/o programas en materia de prevención y atención de desastres naturales;
 
-LX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE ADMINISTRACIÓN
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LX.- Dirigir y vigilar en el ámbito administrativo, con base en las disposiciones legales y demás lineamientos en la materia, los asuntos del personal al servicio del Estado, así como normar y administrar el Servicio Civil de Carrera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXI.- Emitir las normas, políticas y lineamientos en materia de administración, remuneración, desarrollo de recursos humanos, que deban observar las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXII.- Elaborar y actualizar el escalafón de los trabajadores del Poder Ejecutivo y en general de los servidores públicos del Estado, así como mantener actualizado el expediente personal de cada uno de ellos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXIII.- Operar lo relacionado con los nombramientos, remociones, renuncias y licencias de los servidores públicos de las Dependencias de la Administración Pública Estatal; así como todo tipo de movimiento de personal con cargo al erario público estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXIV.- Llevar a cabo los procedimientos de adjudicación en materia de obra pública y servicios relacionados con la misma, así como de adquisiciones, arrendamientos y prestación de servicios de la Administración Pública Estatal, de conformidad con la legislación aplicable en la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXV.- Celebrar todo tipo de actos o instrumentos legales respecto de los bienes inmuebles propiedad o al cuidado del Gobierno del Estado; y ejercitar en su caso, las acciones de reivindicación y reversión del patrimonio del Estado, salvo cuando las mismas se encuentren reservadas a otras dependencias en términos de las leyes respectivas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXVI.- Administrar el patrimonio del Estado, así como llevar el registro, control y actualización de los inventarios de bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado y que se encuentran en las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXVII.- Regularizar la situación jurídica de los bienes inmuebles propiedad del Gobierno del Estado y de aquéllos que hubieren formado parte del patrimonio del mismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXVIII.- Mantener asegurados los bienes que conforman el patrimonio del Gobierno del Estado o estén bajo su cuidado; así como ejercer las facultades de administración, cobro y demás en relación a estos seguros y los que conforme a la ley deba otorgar el mismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXIX.- Autorizar la transferencia del uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXX.- Coordinar las acciones necesarias a efecto de cumplir con lo dispuesto en la Ley de Medios Electrónicos del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXI.- Establecer las normas, lineamientos y controles para el diseño y registro del Sistema Estatal de Información Ciudadana, que contendrá el inventario de los servicios al público que prestan las Dependencias y Entidades del Gobierno del Estado y llevar a cabo su implantación, difusión y vigilancia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXII.- Planear, organizar y coordinar el Sistema de Desarrollo de la Administración Pública Estatal, así como establecer las políticas, planes, programas y lineamientos en materia de desempeño y desarrollo administrativo, así como mejora regulatoria y desregulación en la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXIII.- Organizar, coordinar y promover el desarrollo administrativo integral en las Dependencias y Entidades de la Administración Pública Estatal, con criterios de eficiencia, austeridad y racionalidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXIV.- Verificar los sistemas y estructuras que tengan en operación las Dependencias y Entidades del Gobierno del Estado, para asegurar su correcto funcionamiento y proponer adecuaciones o dar nuevos métodos, sistemas, estructuras, procedimientos y controles que aseguren una mayor eficiencia en el desarrollo de los programas de gobierno y la modernización constante del mismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXV.- Diseñar, instrumentar y coordinar la operación del Sistema de Evaluación del Desempeño de la Administración Pública Estatal y fungir como instancia técnica de evaluación de los programas presupuestarios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXVI.- Generar, requerir, analizar y consolidar con fines de inteligencia, información patrimonial, económica, financiera, fiscal, civil y cualquier otra que pudieran proporcionar las Dependencias y Entidades de la Administración Pública Estatal y Municipal y presentarla a las autoridades competentes, a fin de prevenir y detectar los delitos en materia de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo, dentro del territorio del Estado; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXXVII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO IV
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 36.
 
-A la Secretaría de Administración, corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-I.- Emitir las normas, políticas y lineamientos en materia de administración, remuneración y desarrollo integral de recursos humanos, que deban de observar las dependencias y entidades de la Administración Pública Estatal, así como dar seguimiento a su aplicación;
-
-II.- Dirigir y vigilar en el ámbito administrativo, con base en las disposiciones legales y demás lineamientos en la materia, los asuntos del personal al servicio del Estado;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-III.- Representar al Gobierno del Estado en materia de recursos humanos, recursos materiales, bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado, servicios generales, adjudicaciones y arrendamientos;
-
-IV.- Emitir las normas y lineamientos en materia de administración de recursos materiales, adquisiciones, adjudicaciones, arrendamientos, baja, destino y desincorporación de bienes muebles e inmuebles, y de los servicios en general, que deban observar las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-V.- Normar, administrar y emitir lineamientos del servicio civil de carrera en la Administración Pública Estatal, dictando las resoluciones conducentes en los casos de duda sobre la interpretación y alcances de sus normas;
-
-VI.- Elaborar y mantener actualizado el escalafón de los trabajadores del Poder Ejecutivo y en general de los servidores públicos del Estado, así como mantener actualizado el expediente personal de cada uno de ellos;
-
-VII.- Operar lo relacionado con los nombramientos, remociones, renuncias y licencias de los servidores públicos de las Dependencias de la Administración Pública Estatal; así como todo tipo de movimiento de personal con cargo al erario público estatal, de acuerdo con los criterios que para tal efecto establezca la Secretaría de la Contraloría;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-VIII.- Autorizar las propuestas de modificación de las estructuras orgánicas de las dependencias y entidades del Gobierno del Estado; coordinándose con la Secretaría de Finanzas a fin de verificar que el número de personal solicitado esté dentro del presupuesto autorizado;
-
-IX.- Llevar a cabo los procedimientos de adjudicación en materia de adquisiciones, arrendamientos y prestación de servicios de la Administración Pública Estatal, de conformidad con la legislación aplicable en la materia;
-
-X.- Elaborar los contratos de adquisición, arrendamientos y servicios que se deriven de los procedimientos de adjudicación respectivos y remitirlos a la Dependencia o Entidad de que se trate para que sean debidamente formalizados;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XI.- Llevar a cabo los procedimientos de adjudicación en materia de obra pública y servicios relacionados con la misma de la Administración Pública Estatal, de acuerdo con la legislación aplicable, así como aquellos esquemas de participación público, privado y de proyectos de prestación de servicios;
-
-XII.- Elaborar los contratos de obra pública y servicios relacionados con la misma que se deriven de los procedimientos de adjudicación respectivos y remitirlos a la Dependencia o Entidad de que se trate, para que sean debidamente formalizados;
-
-XIII.- Dirigir la política, y los sistemas para la administración y el óptimo aprovechamiento de los recursos materiales y servicios generales que se otorguen a las Dependencias y Entidades de la Administración Pública Estatal, incluyendo la consolidación de adquisiciones de materiales y servicios generales;
-
-XIV.- Administrar y controlar el Almacén General del Gobierno del Estado, garantizando la recepción, guarda, custodia y distribución de los materiales;
-
-XV.- Establecer los mecanismos operativos necesarios a fin de verificar en cualquier momento que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con los procesos de recepción, distribución y asignación de recursos materiales o servicios generales;
-
-XVI.- Llevar el registro, control y actualización de los inventarios de bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado y que se encuentran en las Dependencias y Entidades de la Administración Pública Estatal; solicitándoles que periódicamente mantengan actualizados estos registros y que dicha información se transmita oportunamente a la Secretaría;
-
-XVII.- Proporcionar de manera periódica a la Secretaría de Finanzas la información que requiera respecto de los bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado, para efectos de la contabilidad patrimonial del Estado;
-
-XVIII.- Celebrar contratos respecto de los bienes inmuebles propiedad o al cuidado del Gobierno del Estado. Ejercitando en su caso, las acciones de reivindicación y reversión del patrimonio del Estado, salvo cuando las mismas se encuentren reservadas a otras Dependencias en términos de las leyes respectivas;
-
-XIX.- Otorgar en concesión, comodato, uso, aprovechamiento, explotación o enajenación los bienes inmuebles del dominio público del Estado, previo acuerdo del Titular del Poder Ejecutivo y, en su caso, del Congreso del Estado;
-
-XX.- Mantener debidamente asegurados los bienes muebles e inmuebles que conforman el patrimonio del Gobierno del Estado de Puebla;
-
-XXI.- Regularizar la situación jurídica de los bienes inmuebles propiedad del Gobierno del Estado;
-
-XXII.- Ejercer las facultades de administración, cobro y demás establecidas en los ordenamientos aplicables, en relación a los seguros que contrate respecto a los bienes muebles e inmuebles del Gobierno del Estado y los que conforme a la ley deba otorgar el mismo;
-
-XXIII.- Autorizar la transferencia del uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal;
-
-XXIV.- Dirigir, coordinar y asesorar el desarrollo informático y de telecomunicaciones de las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXV.- Normar y promover la aplicación de las estrategias necesarias para establecer políticas de gobierno digital en la Administración Pública Estatal;
-
-XXVI.- Emitir lineamientos y, en su caso, supervisar directamente o a través de terceros los servicios de instalación, apoyo preventivo, mantenimiento y de soluciones correctivas en materia de informática, telecomunicaciones, redes de voz y datos, equipos de cómputo, sistemas biométricos, de video vigilancia y equipos electrónicos, que cada Dependencia o Entidad tenga bajo su responsabilidad, atendiendo a los principios de austeridad y racionalidad con base en el presupuesto asignado;
-
-XXVII.- Instrumentar los procesos y emitir los lineamientos para la operación del Sistema Electrónico de Registro Único de Personas Acreditadas;
-
-XXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
-
-XXIX.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y (sic)
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXX.- Planear, organizar y coordinar el Sistema de Desarrollo de la Administración Pública Estatal, así como establecer las políticas, planes y lineamientos en materia de desempeño;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXI.- Expedir las disposiciones administrativas que regulen el desarrollo y mejora administrativa en las dependencias y entidades de la Administración Pública;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXII.- Organizar, coordinar y promover el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de las mismas, sean aprovechados y aplicados con criterios de eficiencia, austeridad y racionalidad buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa, así como dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Estatal, para ello podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias en forma directa o por terceros;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXIII.- Proponer la expedición o el impulso de normas y políticas que en materia de desarrollo y mejora administrativa, deberán observar las dependencias y entidades de la Administración Pública Estatal en el desempeño de sus atribuciones;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXIV.- Contribuir, a solicitud de la Secretaría de la Contraloría, a dar seguimiento a los resultados de las evaluaciones del desempeño y de resultados, practicadas en las dependencias o entidades de la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXV.- Recibir, analizar, autorizar e informar al Gobernador del Estado, sobre los cambios de organización y procedimientos que propongan los titulares de las dependencias y entidades de la Administración Pública Estatal que impliquen, modificaciones a su estructura básica, su reglamento interior, sus manuales de organización, de procedimientos y de servicios al público, de acuerdo con las normas establecidas y tendientes a mejorar el desarrollo administrativo;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXVI.- Establecer las normas, lineamientos y controles para el diseño y registro del Sistema Estatal de Información Ciudadana, que contendrá el inventario de los servicios al público que prestan las dependencias y entidades del Gobierno del Estado y llevar a cabo su implementación, difusión y vigilancia;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXVII.- Emitir lineamientos e implementar programas de mejora regulatoria y desregulación en la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXVIII.- Coordinar la operación de los Centros Integrales de Trámites y Servicios, así como los Kioscos de Servicios, dictando la normatividad que permita homologar la forma en que éstos se desarrollarán y su instrumentación con las dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXIX.- Elaborar lineamientos generales a efecto de que las dependencias y entidades certifiquen sus procesos en calidad, así como para las demás certificaciones que sean materia de la Administración Pública;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XL.- Verificar directamente o a través de terceros, los métodos, sistemas, estructuras, procedimientos y controles que tengan en operación las dependencias y entidades de la Administración Pública Estatal, para asegurar su correcto funcionamiento, y realizar las propuestas que aseguren una mayor eficiencia en el desarrollo de los programas de gobierno y la modernización constante; y
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XLI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO V. DE LA SECRETARÍA DE LA CONTRALORÍA
 
@@ -647,9 +793,11 @@ VII.- Coordinarse con los órganos de control administrativo, o sus correlativos
 
 VIII.- Establecer colaboración con las autoridades investigadoras en los términos de la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Expedir las normas, políticas y procedimientos generales que en materia de auditoría, evaluación, inspección, revisión, supervisión y en su caso, de contraloría social, deberán observar las dependencias y entidades de la Administración Pública Estatal en el desempeño de sus atribuciones, debiendo coordinarse con la Secretaría de Administración en la evaluación del desempeño y de resultados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IX.- Expedir las normas, políticas y procedimientos generales que en materia de auditoría, evaluación, inspección, revisión, supervisión, y en su caso, de contraloría social, deberán observar las Dependencias y Entidades de la Administración Pública Estatal en el desempeño de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -659,13 +807,17 @@ X.- Requerir a la dependencia o entidad que corresponda, la instrumentación de 
 
 XI.- Expedir los instrumentos que regulen las bases generales para la realización de las auditorías, evaluaciones, inspecciones, revisiones o supervisiones, y en su caso, de contraloría social, en las dependencias y entidades de la Administración Pública Estatal, llevándolas a cabo en forma directa o por terceros;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- Expedir las normas, políticas y lineamientos para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas su debido manejo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+XII.- Expedir las normas, políticas y lineamientos para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas y Administración su debido manejo;
 
-XIII.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de planeación, programación y presupuestación, así como en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Finanzas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIII.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de planeación, programación y presupuestación, así como en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Finanzas y Administración;
 
 XIV.- Establecer los lineamientos y requisitos que deberán observar los comisarios y auditores externos y llevar a cabo su remoción cuando no cumplan con lo establecido por esta Secretaría;
 
@@ -711,9 +863,11 @@ XXVIII.- Inspeccionar y vigilar que se efectúe, en los términos establecidos, 
 
 XXIX.- Verificar y supervisar directamente o a través de terceros, que los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado, se lleven a cabo dentro de las normas legales vigentes y que su cumplimiento se realice en los términos convenidos;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXX.- Dar seguimiento a los resultados de las revisiones, inspecciones, evaluaciones y auditorías practicadas en las Dependencias o Entidades de la Administración Pública Estatal en forma directa, por parte de los órganos de control o por conducto de auditores externos, comunicando sus resultados a la Secretaría de Administración, a fin de asegurar que se corrijan las deficiencias detectadas en ellas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX.- Dar seguimiento a los resultados de las revisiones, inspecciones, evaluaciones y auditorias practicadas en las Dependencias o Entidades de la Administración Pública Estatal en forma directa, por parte de los órganos de control o por conducto de auditores externos, comunicando sus resultados a la Secretaría de Finanzas y Administración, a fin de asegurar que se corrijan las deficiencias detectadas en ellas;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -737,13 +891,19 @@ XXXVIII.- Proporcionar apoyo técnico y jurídico a los Ayuntamientos de la Enti
 
 XXXIX.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XL.- Recibir, analizar e informar al Gobernador del Estado, previa autorización por parte de la Secretaría de Administración, sobre los cambios de organización y procedimientos que propongan los Titulares de las Dependencias y Entidades de la Administración Pública Estatal que impliquen, modificaciones a su estructura básica, su Reglamento Interior, sus Manuales de Organización, de Procedimientos y de Servicios al Público, de acuerdo a las normas establecidas y tendientes a mejorar el desarrollo administrativo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XL.- Recibir, analizar e informar al Gobernador del Estado, previa autorización por parte de la Secretaría de Finanzas y Administración, sobre los cambios de organización y procedimientos que propongan los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que impliquen modificaciones a su estructura básica, su Reglamento Interior, sus Manuales de Organización, de Procedimientos y de Servicios al Público, de acuerdo a las normas establecidas y tendientes a mejorar el desarrollo administrativo;
 
 XLI.- Llevar el registro y publicar anualmente en el Periódico Oficial del Estado, la relación de las Entidades Paraestatales que formen parte de la Administración Pública del Estado y su sectorización;
 
-XLII.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Finanzas, la disolución, venta, transferencia, liquidación, fusión o extinción de las Entidades Paraestatales, en los términos de la ley de la materia y vigilar que estas acciones se lleven a cabo con apego a las normas legales y administrativas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLII.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Finanzas y Administración, la disolución, venta, transferencia, liquidación, fusión o extinción de las Entidades Paraestatales, en los términos de la Ley de la materia y vigilar que estas acciones se lleven a cabo con apego a las normas legales y administrativas aplicables;
 
 XLIII.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
 
@@ -871,7 +1031,9 @@ XLVII.- Fomentar el adiestramiento, así como el desarrollo de los programas de 
 
 XLVIII.- Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo económico del Estado y las posibilidades de inversión;
 
-XLIX.- Organizar e impulsar la producción artesanal en el Estado, promover su difusión y fomentar su comercialización en los centros de consumo nacional e internacional, por si o a través de la Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLIX.- Organizar e impulsar la producción artesanal en el Estado, promover su difusión y fomentar su comercialización en los centros de consumo nacional e internacional, por sí o a través de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
 L.- Promover y apoyar los programas de investigación y desarrollo tecnológico industrial y fomentar su divulgación y aplicación que beneficien a la productividad y a la ecología estatal;
 
@@ -987,17 +1149,27 @@ XXX.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su 
 
 XXXI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE DESARROLLO RURAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO VIII. DE LA SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD y ORDENAMIENTO TERRITORIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 40.
 
-A la Secretaría de Desarrollo Rural, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas generales de desarrollo rural del Estado, en coordinación con los sectores público y productivo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II.- Elaborar y proponer al Gobernador del Estado, los planes y programas en materia de Desarrollo Rural, que requiera la Entidad con apego a las disposiciones legales aplicables;
+I.- Formular y conducir las políticas generales de asentamientos humanos, vivienda, desarrollo urbano, territorial, ordenamiento ecológico y territorial, así como la ambiental y de recursos naturales del Estado, así como las relativas al desarrollo rural del Estado, en coordinación con los sectores público y productivo;
 
-III.- Ejercer las atribuciones y funciones que en materia de producción agropecuaria, acuícola, silvícola y de desarrollo rural corresponde al Estado en términos de los acuerdos, convenios y decretos correspondientes, así como a los dispuesto en la Ley de Desarrollo Rural Sustentable del Estado de Puebla y en otras legislaciones federales aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+II.- Elaborar, revisar, ejecutar, evaluar y vigilar los Programa (sic) en materia de Desarrollo Urbano, Ordenamiento Ecológico, Medio Ambiente, Recursos Naturales, así como los correspondientes en materia de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- Ejercer las atribuciones y funciones que en materia de producción agropecuaria, acuícola, silvícola y de desarrollo rural, así como en materia de asentamientos humanos y desarrollo urbano que corresponden al Estado, en términos de las disposiciones, acuerdos, convenios y decretos aplicables;
 
 IV.- Fomentar en el Estado el desarrollo rural, impulsando la agricultura, ganadería, pesca, avicultura, apicultura, piscicultura y silvicultura, así como el manejo sustentable de los recursos;
 
@@ -1029,15 +1201,179 @@ XVII.- Coordinar las acciones que el Titular del Poder Ejecutivo Estatal conveng
 
 XVIII.- Coordinar las relaciones entre el Ejecutivo del Estado y las Instituciones Federales, Estatales, Municipales y del sector privado que tengan relación con la producción ganadera, avícola, piscícola, apícola, agrícola y silvícola en el Estado;
 
-XIX.- Coadyuvar en las acciones para el aprovechamiento hidráulico en las cuencas hidrográficas, vasos, manantiales y aguas de propiedad nacional en la Entidad, de acuerdo con los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XIX.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua para el servicio de las poblaciones y de actividades productivas, agrícolas, pecuarias, acuacultura e industriales, de cuencas hidrográficas, vasos, manantiales y aguas de propiedad nacional en la Entidad, así como en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso de consumo humano;
 
 XX.- Proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales competentes, así como con los usuarios del riego;
 
-XXI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
+XXI.- Proponer al Gobernador del Estado las acciones e inversiones públicas que en materia de desarrollo urbano estatal se deban ejecutar en la Entidad, en concordancia con los planes y programas establecidos;
 
-XXIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXII.- Elaborar programas y proyectos integrales de carácter regional, subregional o parcial en materia de desarrollo urbano, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIII.- Establecer en los programas integrales de desarrollo urbano, estrategias de desarrollo de infraestructura urbana y todas aquéllas que resulten necesarias para su ejecución;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIV.- Elaborar y vigilar el cumplimiento de las Declaratorias de provisiones de predios y áreas, que expida el Ejecutivo del Estado; así como definir, delimitar y controlar los usos de suelo y destinos que integran las reservas territoriales del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXV.- Revisar, evaluar y dictaminar la viabilidad de la constitución de urbanizaciones conforme a la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVI.- Participar en los estudios de vialidad, comunicaciones y transportes en el Estado, a fin de que se cumplan las disposiciones legales relativas a desarrollo urbano en la Entidad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVII.- Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVIII.- Prever y regular en concordancia con los Gobiernos Federal y Municipales, las políticas para satisfacer las necesidades de tierra para el desarrollo urbano y de vivienda, a nivel estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXIX.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten y en coordinación con ellos, llevar acabo (sic) la implementación de políticas en todo lo relacionado con el desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXX.- Participar en las Comisiones Consultivas que estén relacionadas con las funciones asignadas a esta Secretaría;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXI.- Organizar y fomentar las investigaciones relacionadas con las materias de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXII.- Aplicar los instrumentos de política ambiental previstos en la Ley de la materia y sus Reglamentos, en los términos en ellos establecidos, así como la regulación de las acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el Estado, acerca de las materias y zonas que no sean exclusivas de la Federación o de los Municipios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIII.- Expedir el Informe Anual del Medio Ambiente y ponerlo a disposición del público en términos de la ley correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIV.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la normatividad aplicable, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXV.- Evaluar el impacto ambiental de las obras o actividades que no estén reservadas a la Federación, conforme a los preceptos correspondientes en la ley respectiva; así como regular las actividades que no sean consideradas altamente riesgosas para el ambiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVI.- Establecer, regular, administrar y vigilar, los parques urbanos y las áreas naturales protegidas de competencia estatal, con participación de los Gobiernos Federal, Estatales y Municipales, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVII.- Realizar acciones para la protección y conservación de la vida silvestre y la biodiversidad en el Estado, y colaborar con las demás autoridades competentes, en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los sistemas acuáticos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXVIII.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil en caso de emergencia ecológica, contingencia o riesgo ambiental, conforme a las políticas y programas de protección civil y de incendios forestales que al efecto se establezcan;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXXIX.- Prever y controlar la contaminación en los términos de las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XL.- Requerir la instalación de sistemas de tratamiento de aguas residuales, a los establecimientos industriales y agropecuarios, en los casos previstos en la ley correspondiente, y en su caso, proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales competentes, así como con los usuarios del riego;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLI.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua para el servicio de las poblaciones y de actividades productivas agrícolas, pecuarias, acuícolas e industriales, de cuencas hidrográficas, vasos, manantiales y aguas de propiedad nacional en la Entidad, así como en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso de consumo humano;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLII.- Promover el aprovechamiento de las aguas pluviales, la recarga de los mantos acuíferos, el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLIII.- Coadyuvar con las autoridades Federales, Municipales y los Sistemas Operadores en la regulación de las descargas de origen industrial, de servicios, de origen municipal y su mezcla con otras descargas; las descargas derivadas de actividades agropecuarias y acuícolas; las infiltraciones de origen humano, industrial, agropecuario y acuícola que afecten los mantos acuíferos; el vertimiento de residuos sólidos en cuerpos y corrientes de agua y la disposición final de los lodos generados en los sistemas de tratamiento de aguas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLIV.- Regular los sistemas de recolección, transporte, almacenamiento, tratamiento, aprovechamiento, reciclaje, reutilización y disposición final de los residuos sólidos e industriales que no sean considerados peligrosos por la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLV.- Formular y ejecutar acciones de mitigación y adaptación al cambio climático, y en su caso, participar con la federación en los programas de acciones en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLVI.- Fomentar la aplicación de tecnologías, equipos y procesos que reduzcan las emisiones y descargas contaminantes provenientes de cualquier tipo de fuente, en coordinación con la Federación y los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLVII.- Promover e impulsar la aplicación de tecnologías y uso de energías alternas en materia Ambiental;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLVIII.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XLIX.- Conducir la política estatal de información y difusión en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+L.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en las materias de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LI.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente en cualquier Municipio del Estado y, en coordinación con la Federación, los asuntos que afecten el equilibrio ecológico de zonas compartidas por el Estado y otras Entidades Federativas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LII.- Expedir recomendaciones a las autoridades correspondientes, en las materias de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LIII.- Ordenar y ejecutar la realización de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en los ámbitos de su competencia; así como, imponer y aplicar medidas preventivas o de seguridad y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LIV.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LV.- Planear, realizar, coordinar, supervisar e instrumentar acciones de saneamiento, preservación, protección y restauración de los ecosistemas y terrenos forestales; así como diseñar e instrumentar programas de forestación y reforestación en zonas degradadas de jurisdicción estatal, implementando acciones de mantenimiento de las zonas forestadas o reforestadas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LVI.- En el ámbito de su competencia, establecer criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales, así como los relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales, en términos de las leyes, acuerdos o convenios respectivos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LVII.- Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar, las infracciones o delitos que se cometan en las materias de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LVIII.- Prestar directamente o a través de terceros, los servicios que las diversas leyes le atribuyan;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LIX.- Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y ejercer las demás atribuciones que le otorgue la legislación en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXI.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+LXII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE INFRAESTRUCTURA
 
@@ -1171,7 +1507,11 @@ XVI.- Normar y establecer las políticas y criterios para llevar a cabo directam
 
 XVII.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando, actualizando y comprobando su correcta aplicación;
 
-XVIII.- Suscribir mancomunadamente con la Secretaría de Finanzas, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte mercantil previstos en la ley de la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVIII.- Suscribir mancomunadamente con la Secretaría de Finanzas y Administración, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte mercantil previstos en la Ley de la materia;
 
 XIX.- Expedir la documentación para la prestación del servicio de transporte, prevista en la ley y reglamento de la materia;
 
@@ -1189,7 +1529,11 @@ XXIV.- Promover y organizar la capacitación, investigación y el desarrollo tec
 
 XXV.- Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y mercantil y sus servicios auxiliares cuando se justifique su necesidad e interés colectivo;
 
-XXVI.- Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXVI.- Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones, que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas y Administración;
 
 XXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
@@ -1417,113 +1761,17 @@ XIX.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su 
 
 XX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPÍTULO XIV. DE LA SECRETARÍA DE SERVICIOS LEGALES Y DEFENSORÍA PÚBLICA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO XIV
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
-A la Secretaría de Servicios Legales y Defensoría Pública, corresponde el despacho de los siguientes asuntos:
-
-I.- Dar apoyo técnico jurídico al Titular del Poder Ejecutivo, en todos aquellos asuntos que éste le encomiende;
-
-II.- Remitir a la Secretaría General de Gobierno, previo análisis y estudio, los proyectos de Iniciativas de leyes y decretos que se presenten al Congreso Local;
-
-III.- Revisar los proyectos de reglamentos, decretos, acuerdos, resoluciones gubernamentales y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, a firma del Gobernador del Estado;
-
-IV.- Prestar asesoría jurídica, cuando el Gobernador del Estado así lo acuerde, en asuntos en que intervengan varias Dependencias de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-V.- Coadyuvar con los Titulares de las unidades jurídicas de las dependencias, entidades y, en su caso, con los Municipios, en materia de asesoría, consulta e investigación jurídica;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-VI.- Coordinar los programas de actualización de la normatividad jurídica de la Administración Pública que apruebe el Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-VII.- Definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen el funcionamiento de la Administración Pública del Estado, cuando dicha atribución no esté reservada a otra dependencia en el ordenamiento a interpretar;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-VIII.- Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad, la que tendrá por objeto la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública;
-
-IX.- Elaborar el proyecto de Agenda Legislativa del Gobernador del Estado, atendiendo a las propuestas de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública y someterlo a la consideración del mismo;
-
-X.- Intervenir en los juicios de amparo en carácter de Delegado, cuando el Gobernador del Estado sea señalado como autoridad responsable;
-
-XI.- Atender las solicitudes de información y las resoluciones de las Comisiones de Derechos Humanos cuando estén dirigidas al Gobernador del Estado;
-
-XII.- Tramitar, substanciar y dejar en estado de resolución, los recursos administrativos que compete resolver al Titular del Poder Ejecutivo, que no corresponda conocer a otras Dependencias;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XIII.- Promover medios preparatorios de juicio, medidas precautorias, demandas, contestaciones y reconvenciones, incidentes, recursos, ofrecer pruebas, presentar alegatos, e intervenir en todos los demás actos procesales, en los asuntos en que el Ejecutivo sea parte o tenga interés, hasta la conclusión y ejecución de los juicios correspondientes;
-
-XIV.- Expedir copia certificada en el ámbito de sus atribuciones, de los documentos expedidos por el Gobernador del Estado y aquéllos expedidos por los servidores públicos adscritos a la propia Secretaría en el desempeño de sus funciones;
-
-XV.- Emitir los lineamientos generales para la suscripción de convenios, contratos y demás instrumentos jurídicos que en el ámbito de sus respectivas competencias acuerden las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública;
-
-XVI.- Realizar los estudios e investigaciones en materia legislativa, a fin de que el Titular del Poder Ejecutivo del Estado, cuente con la información necesaria, para que en su caso promueva las Iniciativas correspondientes ante el Congreso del Estado;
-
-XVII.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
-
-XVIII.- Participar, junto con las demás Dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
-
-XIX.- Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el Titular del Ejecutivo Local intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XX.- Emitir opinión sobre las consultas que formulen las dependencias del Poder Ejecutivo, Organismos Públicos Descentralizados, Fideicomisos Públicos, Empresas de Participación Estatal y Ayuntamientos, sobre interpretación de Leyes, Reglamentos, Decretos, Acuerdos y Circulares, de cualquier índole;
-
-XXI.- Crear y mantener actualizado un portal electrónico de consulta del orden jurídico del Estado;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXII.- Prestar la asistencia jurídica gratuita en el fuero común, en términos de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXIII.- Otorgar asistencia jurídica en forma gratuita, a las personas que carezcan de recursos económicos, que tengan notorio atraso intelectual y aquéllas que por su condición o por disposición de la ley, merezcan especial protección, frente a las que se encuentren en la situación contraria;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXIV.- Procurar la especial atención respecto del servicio señalado en las tracciones que anteceden, a favor de los campesinos y pueblos y comunidades indígenas en la Entidad, a través de traductores o intérpretes en los casos en que por su origen sea necesario;
-
-XXV.- Coadyuvar con las instituciones competentes, en el ámbito de sus atribuciones, para la correcta aplicación de las disposiciones y medidas legales protectoras de la familia, la mujer y la niñez;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXVI.- Recabar, a través de los defensores públicos que por su adscripción estén encargados de la asistencia jurídica gratuita que le compete, la información necesaria para su eficaz prestación;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXVII.- Intervenir en el ámbito jurídico, en los asuntos de interés social y colectivo, que le sean encomendados por el Gobernador del Estado;
-
-XXVIII.- Procurar el avenimiento de las partes en conflictos legales de naturaleza privada o de familia, promoviendo la integración de sus miembros;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXIX.- Coordinar su actuación con la Procuraduría General de Justicia del Estado y demás instancias, para el ejercicio de sus funciones;
-
-XXX.- Llevar el control estadístico de los asuntos de su competencia;
-
-XXXI.- Deducir los derechos del Estado como subrogado legal, en lo que se refiere a la reparación del daño, en términos de las leyes respectivas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXII.- Mantener con el Honorable Tribunal Superior de Justicia, la comunicación y colaboración que institucionalmente corresponda, para el mejor cumplimiento de los objetivos de ambas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXIII.- Formular y conducir las políticas generales para la asistencia jurídica a los ciudadanos ante los Tribunales del Estado;
-
-XXXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXV.- Recibir, tramitar y resolver los procedimientos administrativos, y en su caso, imponer y aplicar sanciones que en los términos de las leyes, reglamentos y demás disposiciones legales le competan; y
-
-XXXVI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO XV. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
@@ -1689,195 +1937,13 @@ XXXVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en
 
 XXXIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPÍTULO XVII. DE LA SECRETARÍA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO XVII
 
 ###### ARTÍCULO 49.
 
-A la Secretaría del Sustentabilidad Ambiental y Ordenamiento Territorial, corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-I.- Formular y conducir las políticas generales de asentamientos humanos, vivienda, desarrollo urbano, ordenamiento ecológico y territorial, así como la ambiental y de recursos naturales del Estado;
-
-II.- Elaborar, revisar, ejecutar y vigilar el Programa Estatal de Desarrollo Urbano;
-
-III.- Proponer al Gobernador del Estado las acciones e inversiones públicas que en materia de Desarrollo Urbano Estatal se deban ejecutar en la Entidad, en concordancia con los planes y programas establecidos;
-
-IV.- Elaborar programas y proyectos integrales de carácter regional, subregional o parcial en materia de Desarrollo Urbano, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
-
-V.- Establecer en los programas integrales de Desarrollo Urbano, estrategias de desarrollo de infraestructura urbana y todas aquellas que resulten necesarias para su ejecución;
-
-VI.- Actuar en los programas de Desarrollo Urbano, como coordinadora de todas las Dependencias y Entidades de la Administración Pública Estatal que intervengan en esta materia, y estableciendo la comunicación y coordinación con las entidades federales y municipales que requiera el desarrollo de dichos programas;
-
-VII.- Realizar la planeación, dirección, evaluación y control de los Programas de Desarrollo Urbano Regional, Subregional o Parcial que realice la Secretaría;
-
-VIII.- Elaborar y vigilar el cumplimiento de las Declaratorias de provisiones de predios y áreas, que expida el Ejecutivo del Estado;
-
-IX.- Revisar, evaluar y dictaminar la viabilidad de la constitución de urbanizaciones conforme a la Ley de la materia;
-
-X.- Participar en los estudios de vialidad, comunicaciones y transportes en el Estado, a fin de que se cumplan las disposiciones legales relativas a desarrollo urbano;
-
-XI.- Definir, delimitar y controlar los usos de suelo y destinos que integran las reservas territoriales del Estado;
-
-XII.- Prestar asesoría a los Ayuntamientos cuando éstos lo soliciten, a fin de promover y encauzar el Desarrollo Urbano en sus comunidades;
-
-XIII.- Promover el equilibrio del desarrollo urbano en las diversas comunidades del Estado, con una adecuada planeación de asentamientos humanos;
-
-XIV.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de asentamientos humanos y desarrollo urbano a que deben sujetarse los sectores público, social y privado;
-
-XV.- Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
-
-XVI.- Normar los criterios de vivienda en el Estado a través de los Programas de Desarrollo Urbano, y demás disposiciones legales aplicables, con el objeto de respetar la vocación natural del suelo y buscar su integración al entorno ecológico;
-
-XVII.- Prever y regular en concordancia con los Gobiernos Federal y Municipales, las políticas para satisfacer las necesidades de tierra para el desarrollo urbano y de vivienda, a nivel estatal;
-
-XVIII.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten y en coordinación con ellos, llevará acabo (sic) la implementación de políticas en todo lo relacionado con el desarrollo urbano;
-
-XIX.- Participar en las Comisiones Consultivas de Desarrollo Urbano, Ecología y en las que estén relacionadas con las funciones asignadas a esta Secretaría;
-
-XX.- Coordinarse con las autoridades Federales, Estatales y Municipales de acuerdo a su competencia, para la aplicación de la normatividad en materia de desarrollo urbano;
-
-XXI.- Organizar y fomentar las investigaciones relacionadas con la vivienda y el desarrollo urbano;
-
-XXII.- Aplicar los instrumentos de política ambiental previstos en la Ley de la materia y sus Reglamentos, en los términos en ellos establecidos, así como la regulación de las acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el Estado, acerca de las materias y zonas que no sean exclusivas de la Federación o de los Municipios;
-
-XXIII.- Formular, evaluar y ejecutar el Programa Estatal de Protección al Ambiente Natural y el Desarrollo Sustentable;
-
-XXIV.- Expedir el Informe Anual del Medio Ambiente y ponerlo a disposición del público en términos de la ley correspondiente;
-
-XXV.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la normatividad aplicable, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
-
-XXVI.- Evaluar el impacto ambiental de las obras o actividades que no estén reservadas a la Federación, conforme a los preceptos correspondientes en la ley respectiva;
-
-XXVII.- Establecer, regular, administrar y vigilar las áreas naturales protegidas de competencia estatal, con participación de los Gobiernos Federal, Estatales y Municipales, en el ámbito de su competencia;
-
-XXVIII.- Realizar acciones para la protección y conservación de la vida silvestre y la biodiversidad en el Estado;
-
-XXIX.- Prever y controlar la contaminación provocada por las emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica y olores, generados por establecimientos industriales, comerciales y de servicios, así como por fuentes móviles que circulen en la Entidad, en los términos establecidos en la Ley para la Protección del Medio Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla;
-
-XXX.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil en caso de emergencia ecológica, contingencia o riesgo ambiental conforme a las políticas y programas de protección civil y de incendios forestales que al efecto se establezcan;
-
-XXXI.- Prever y controlar la contaminación de los recursos naturales en los términos de la ley aplicable;
-
-XXXII.- Requerir la instalación de sistemas de tratamiento de aguas residuales, a los establecimientos industriales y agropecuarios, en los casos previstos en la ley correspondiente;
-
-XXXIII.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua para el servicio de las poblaciones y de actividades productivas, agrícolas, pecuarias, acuacultura e industriales, así como en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso de consumo humano;
-
-XXXIV.- Promover el aprovechamiento de las aguas pluviales, la recarga de los mantos acuíferos, el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento;
-
-XXXV.- Colaborar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los sistemas acuáticos;
-
-XXXVI.- Coadyuvar con las autoridades Federales, Municipales y los Sistemas Operadores en la regulación de las descargas de origen industrial, de servicios, de origen municipal y su mezcla con otras descargas; las descargas derivadas de actividades agropecuarias y acuícolas; las infiltraciones de origen humano, industrial, agropecuario y acuícola que afecten los mantos acuíferos; el vertimiento de residuos sólidos en cuerpos y corrientes de agua y la disposición final de los lodos generados en los sistemas de tratamiento de aguas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXVII.- Regular los sistemas de recolección, transporte, almacenamiento, tratamiento, aprovechamiento, reciclaje, reutilización y disposición final de los residuos sólidos e industriales que no sean considerados peligrosos por la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXVIII.- Regular las actividades que no sean consideradas altamente riesgosas para el ambiente;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXXIX.- Formular y ejecutar acciones de mitigación y adaptación al cambio climático, y en su caso, participar con la federación en los programas de acciones en la materia;
-
-XL.- Prever y controlar la contaminación generada por el aprovechamiento de los minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su intemperismo que pueda utilizarse como materia prima;
-
-XLI.- Fomentar la aplicación de tecnologías, equipos y procesos que reduzcan las emisiones y descargas contaminantes provenientes de cualquier tipo de fuente, en coordinación con la Federación y los Ayuntamientos;
-
-XLII.- Promover e impulsar la aplicación de tecnologías y uso de energías alternas en materia Ambiental;
-
-XLIII.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
-
-XLIV.- Conducir la política estatal de información y difusión en materia ambiental;
-
-XLV.- Promover la participación de la sociedad en la protección al ambiente conforme lo dispuesto en la Legislación;
-
-XLVI.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en materia ambiental;
-
-XLVII.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente en cualquier Municipio del Estado;
-
-XLVIII.- Expedir recomendaciones a las autoridades competentes en el cuidado del medio ambiente, para promover el cumplimiento de la Legislación Ambiental;
-
-XLIX.- Atender en coordinación con la Federación los asuntos que afecten el equilibrio ecológico de zonas compartidas por el Estado y otras Entidades Federativas;
-
-L.- Imponer y aplicar medidas preventivas o de seguridad y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
-
-LI.- Ejercer las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente le transfiera la Federación a través de convenios o acuerdos de coordinación;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LII.- Participar en la elaboración, expedición, revisión, ejecución y vigilancia de los programas y declaratorias de ordenamiento ecológico;
-
-LIII.- Organizar y administrar los parques y zonas ecológicas para la preservación y restauración del equilibrio ecológico a cargo del Estado;
-
-LIV.- Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en los ámbitos de su competencia;
-
-LV.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
-
-LVI.- Diseñar, instrumentar y coordinar la política forestal en la Entidad, atendiendo los criterios que en la materia se emitan a nivel nacional, en concordancia con la legislación federal, estatal y los demás ordenamientos aplicables;
-
-LVII.- Coordinar la elaboración e instrumentación de los programas relativos al sector forestal estatal, vinculándolos con los programas nacionales, regionales y con el Plan Estatal de Desarrollo; así como colaborar en la elaboración y aplicación de los programas forestales regionales de ámbito interestatal o por cuencas hidrológico-forestales;
-
-LVIII.- Fungir como instancia normativa en materia forestal, sin perjuicio de las facultades que correspondan a la Federación;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LIX.- Suscribir, de conformidad con la normatividad aplicable, convenios, contratos, acuerdos y demás actos jurídicos en materia de la competencia de la Secretaría;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LX.- Planear, realizar, coordinar, supervisar e instrumentar acciones de saneamiento, preservación, protección y restauración de los ecosistemas y terrenos forestales; así como diseñar e instrumentar programas de forestación y reforestación en zonas degradadas de jurisdicción estatal, implementando acciones de mantenimiento de las zonas forestadas o reforestadas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXI.- Participar de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la Entidad, así como las acciones para prevenir y combatir la extracción ilegal y la tala clandestina de recursos forestales;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXII.- En el ámbito de su competencia, establecer criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales, en términos de las leyes, acuerdos o convenios respectivos;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXIII.- Establecer los lineamientos, sistemas, métodos, servicios y mecanismos relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales o preferentemente forestales;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXIV.- Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones o delitos que se cometan en las materias de su competencia;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXV.- Prestar directamente o a través de terceros, los servicios que las diversas leyes le atribuyan;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXVI.- Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y ejercer las demás atribuciones que le otorgue la legislación en la materia;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXVII.- Propiciar la participación de los sectores privado y social, en la difusión y fomento de una cultura de respeto y trato digno hacia los animales en el Estado de Puebla;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXVIII.- Promover en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado de Puebla;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXX.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-LXXI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
-
-LXXII.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
-
-LXXIII.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
-
-LXXIV.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ## TÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1895,7 +1961,11 @@ Las Entidades a que se refiere el artículo anterior, son órganos auxiliares de
 
 Las Entidades podrán ser agrupadas en sectores por el Gobernador del Estado, con el objeto de que las relaciones con el propio Ejecutivo, se realicen a través de la dependencia que en cada caso se designe como Coordinadora de Sector.
 
-Las relaciones entre las dependencias del Ejecutivo Estatal y las Entidades Paraestatales para fines de congruencia global de la Administración Pública Estatal con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control se llevarán a cabo en la forma y términos que dispongan las leyes por conducto de las Secretarías General de Gobierno, de Finanzas, de Administración y de la Contraloría, en el ámbito de sus competencias, sin perjuicio de las atribuciones que competan a las Coordinadoras de Sector.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Las relaciones entre las Dependencias del Ejecutivo Estatal y las Entidades Paraestatales para fines de congruencia global de la Administración Pública Estatal con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control se llevarán a cabo en la forma y términos que dispongan las leyes por conducto de las Secretarías General de Gobierno, de Finanzas y Administración y de la Contraloría, en el ámbito de sus competencias, sin perjuicio de las atribuciones que competan a las Coordinadoras de Sector.
 
 ###### ARTÍCULO 52.
 
@@ -1973,13 +2043,21 @@ Las empresas de participación estatal mayoritaria, además de tener dentro de s
 
 ### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 65.
 
-Son Fideicomisos Públicos aquellos que autorice el Gobernador del Estado, a través de la Secretaría de Finanzas y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo órgano de gobierno participen dos o más Dependencias, correspondiendo al Ejecutivo la designación del Director. En estos Fideicomisos, la Secretaría de Finanzas fungirá como fideicomitente.
+Son Fideicomisos Públicos aquéllos que autorice el Gobernador del Estado, a través de la Secretaría de Finanzas y Administración y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo órgano de gobierno participen dos o más Dependencias, correspondiendo al Ejecutivo la designación del Director. En estos Fideicomisos, la Secretaría de Finanzas y Administración fungirá como fideicomitente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 66.
 
-Los Fideicomisos Públicos se regirán por Comités Técnicos, los cuales se integrarán con autorización del Gobernador del Estado, emitida a través de la Secretaría General de Gobierno, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y uno de la Secretaría de Administración.
+Los Fideicomisos Públicos se regirán por Comités Técnicos, los cuales se integrarán con autorización del Gobernador del Estado, emitida a través de la Secretaría General de Gobierno, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y Administración.
 
 ###### ARTÍCULO 67.
 
@@ -1999,11 +2077,13 @@ Estos organismos podrán crearse por ley, y por decreto o acuerdo del Gobernador
 
 ### CAPÍTULO VI. DEL DESARROLLO, CONTROL Y EVALUACIÓN
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 70.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales, institucionales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de la Contraloría, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas, así como a las políticas que defina el Coordinador de Sector y la Ley de Entidades Paraestatales del Estado de Puebla.
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales, institucionales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de la Contraloría, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas y Administración, así como a las políticas que defina el Coordinador de Sector y la Ley de Entidades Paraestatales del Estado de Puebla.
 
 ###### ARTÍCULO 71.
 
@@ -2142,3 +2222,31 @@ SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el pre
 TERCERO.- Cuando se haga referencia a la Secretaría de Finanzas y Administración en la integración de los órganos de gobierno de las entidades paraestatales, se entenderá que participarán en las mismas los Titulares de las Secretarías de Finanzas y de Administración, debiendo ocupar uno de ellos el cargo que el Decreto de Creación señale, tomando en cuenta las atribuciones previstas por la presente Ley para cada uno de los Titulares, y el otro Secretario asumirá el carácter que en su caso le corresponda en el ámbito de su competencia o el que determine el propio Órgano de Gobierno.
 
 CUARTO.- El Ejecutivo del Estado dentro de los noventa días naturales a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias correspondientes.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado, a excepción de lo previsto en el párrafo siguiente.
+
+La reforma a la fracción VII del artículo 17, a la fracción XLIX del artículo 38, a la denominación del Capítulo VIII del Título II, al primer párrafo y a las fracciones I, II, III, XIX, XXI, XXII y XXIII del artículo 40 y la adición de las fracciones XXIV a LXII al mismo, así como la derogación de la fracción XVI al artículo 17, del Capítulo XVII al Título II y del artículo 49 de la Ley Orgánica de la Administración Pública del Estado de Puebla, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SEGUNDO.- Para el cumplimiento de este Decreto, el Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+TERCERO.- La Secretaría de la Contraloría coordinará la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existente, hacia las Dependencias que ejercerán las atribuciones para las que fueron originalmente asignados.
+
+CUARTO.- Cuando alguna unidad administrativa pase de una Dependencia a otra, con motivo de lo establecido en el presente Decreto, la transferencia se realizará incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+QUINTO.- Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las unidades administrativas de la Dependencia o instancia que la sustituya.
+
+SEXTO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a las Dependencias que desaparecen o modifican su denominación por virtud del mismo, se entenderá asignado a las Dependencias que absorben las facultades de aquéllas y a las que atribuya la competencia específica que en cada caso se relacione.
+
+Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y honestidad para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de las Dependencias que como consecuencia de esta reforma se suprimen o cambian su denominación, se seguirán utilizando hasta que se agoten.
+
+SÉPTIMO.- Los derechos y obligaciones contractuales contraídos por las Dependencias que desaparecen con motivo del presente Decreto, serán atribuidos a la Dependencia o instancia que las sustituyan.
+
+OCTAVO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+NOVENO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los Reglamentos vigentes en todo aquello que no la contravengan.
+
+DÉCIMO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
