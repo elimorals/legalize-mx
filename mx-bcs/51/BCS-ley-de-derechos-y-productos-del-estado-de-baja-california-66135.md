@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2012-02-10"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -273,25 +275,49 @@ Quedan exentos de este pago, cuando se trate de transferencias por defunción o 
 
 Lo recaudado por el cobro de estos derechos tanto de concesiones nuevas como de las cesiones y/o regularizaciones se destinarán al Fondo Social para el Desarrollo de Baja California Sur, a efecto de constituir un fondo que permita otorgar créditos a transportistas, para la renovación de sus vehículos.
 
-### Capítulo II
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 2063 PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2012, SE DEROGAN LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO I DEL TÍTULO SEGUNDO.</small>
 
-De los servicios prestados por la Secretaría de Seguridad Pública.
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo I Bis. De los Servicios prestados por la Secretaría de Pesca y Acuacultura
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
-(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
+Por los servicios prestados por la Secretaría de Pesca y Acuacultura, se causarán y pagarán los derechos conforme a la siguiente:
+
+T A R I F A
+
+C O N C E P T O NÚMERO DE SALARIOS MÍNIMOS
+
+VIGENTES EN EL ESTADO
+
+Expedición de permiso individual
+
+para efectuar la pesca deportivo-
+
+recreativa en embarcaciones y de
+
+manera subacuática, se pagará por
+
+persona.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 12.
 
-(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo anterior, se destinarán a la modernización, equipamiento y operación del Fideicomiso Fondo para la Promoción de los Recursos Marinos de Baja California Sur (FONMAR).
 
-### Capítulo III.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-De los servicios prestados por la Secretaría de Educación Pública.
+### Capítulo II. De los Servicios prestados por la Secretaría de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 13.
 
-Por la expedición de licencias y refrendos a las personas físicas y morales que dentro del Estado presten el servicio de seguridad privada de acuerdo con la legislación de la materia, se causarán y pagarán los derechos conforme a la siguiente
+Por los servicios de expedición de licencias y refrendos a las personas físicas y morales que dentro del Estado presten el servicio de seguridad privada de acuerdo a la legislación de la materia, así como por la expedición de constancias de no antecedentes penales, se causarán y pagarán los derechos conforme a la siguiente:
 
 T A R I F A:
 
@@ -309,13 +335,21 @@ III. Autorización y Registro de Personal de
 
 Seguridad Privada por cada agente. 5
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV. Constancia de No Antecedentes Penales; 1
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+V. Aplicación de Evaluaciones; 64
+
 ###### Artículo 14.
 
 Los derechos causados conforme al artículo anterior, se deberán pagar en las oficinas de la Dirección de Ingresos, de las recaudaciones o subrecaudaciones de rentas de la Secretaría de Finanzas los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Secretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros treinta días del mes de enero.
 
-### Capítulo IV.
+### Capítulo III.
 
-De los servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Ecología.
+De los servicios prestados por la Secretaría de Educación Pública.
 
 ###### Artículo 15.
 
@@ -463,13 +497,13 @@ la modalidad. 12.5
 
 En los casos de las Fracciones XVI y XVII del artículo anterior, el pago podrá realizarse en la Institución Educativa que aplique los exámenes, la cual deberá enterar el importe recaudado a la Secretaría de Finanzas en los plazos a que se refiere el Artículo 2 de esta Ley.
 
-### Capítulo V.
+### Capítulo IV.
 
-De los servicios prestados por la Secretaría de Salud.
+De los servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Ecología.
 
-#### Sección Tercera.
+#### Sección Primera.
 
-Servicios prestados por la Dirección Estatal del Registro Público de la Propiedad, Registro Civil y Archivo General de Notarías.
+Servicios prestados por la Dirección de Maquinaria Pesada y Pavimentación.
 
 ###### Artículo 17.
 
@@ -489,9 +523,11 @@ asfáltico, para la conexión de los servicios
 
 de agua potable y alcantarillado. 4
 
-#### Sección Cuarta.
+#### Sección Segunda.
 
-Servicios prestados por la Dirección de Asuntos Jurídicos.
+Servicios prestados por la Dirección de Planeación Urbana y Ecología.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -611,13 +647,15 @@ IV. Industrial 20 salarios mínimos vigentes en el estado. 25 salarios mínimos 
 
 Para los efectos de este artículo, se entenderá por unidad, la unidad de propiedad exclusiva a que se refiere el artículo 2 fracción XVI de la Sobre el Régimen de Propiedad en Condominio del Estado de Baja California Sur.
 
-### Capítulo VI.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-De los servicios prestados por la Secretaría de Turismo.
+### Capítulo V.. De los Servicios prestados por la Secretaría de Salud
 
-#### Sección Primera.
+#### Sección Única.. Servicios prestado por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
 
-Servicios prestados por la Dirección de Maquinaria Pesada y Pavimentación.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
@@ -627,13 +665,13 @@ T A R I F A:
 
 C O N C E P T O: NÚMERO DE SALARIOS
 
-MÍNIMOS VIGENTE
+MÍNIMOS VIGENTES
 
 EN EL ESTADO
 
-I. Por Curso de Capacitación, por persona, (máximo 20 personas) de:
+I. Por Curso de Capacitación, por
 
-II. 4
+persona, (máximo 20 personas) de: 10
 
 a. Manejadores de Alimentos;
 
@@ -649,9 +687,15 @@ f. Manejo y Dispensación de Medicamentos
 
 en Farmacias.
 
+II. Expedición de registro y credencial
+
+Para el ejercicio profesional, técnico
+
+y auxiliar para la salud; 2
+
 III. Permiso sanitario de construcción,
 
-regulación, ampliación o remodelación; 11
+regulación, aplicación o remodelación; 11
 
 IV. Autorización de libros para medicamentos
 
@@ -659,77 +703,127 @@ estupefacientes y psicotrópicos; 5
 
 V. Autorización para manejo de recetario
 
-con código de barras; 7
+de código de barras; 7
 
-VI. Expedición de código de barras
+VI. Autorización de recetarios para
+
+prescripción de medicamentos controlados
+
+del grupo I y II; 5
+
+VII. Expedición de código de barras
 
 para recetario especial; 9
-
-VII. Solicitud de verificación para
-
-destrucción y/o desactivación de
-
-medicamentos no controlados y
-
-materiales de curación; 19
 
 VIII. Publicidad en eventos locales de
 
 bebidas alcohólicas; 17
 
-IX. Solicitud de visita de verificación sanitarias; 23
+IX. Permiso de traslado de cadáveres
 
-X. Solicitud de visita de verificación sanitaria
+dentro del territorio del Estado de Baja
 
-con toma de muestras sin costo de laboratorio; 23
+California Sur; 23
 
-XI. Solicitud de visita de verificación sanitaria
+X. Permiso de traslado de cadáveres a
 
-para destrucción de alimentos; 23
+Otra entidad federativa; 23
 
-XII. Respecto a las áreas certificadas del Programa Mexicano de Sanidad de Moluscos Bivalvos:
+XI. Permiso de inhumación antes de las
 
-a) Toma de muestras hasta el laboratorio; 173
+12 horas de fallecimiento y después de
 
-b) Elaboración de Estudios para la
+las 48 horas de ocurrido éste; 10
 
-Clasificación Sanitaria. 684
+XII. Permiso de exhumación; 23
 
-XII. Laboratorio Móvil No. 2 del Programa Mexicano de Sanidad de Moluscos Bivalvos:
+XIII. Permiso de embalsamamiento; 4
+
+XIV. Solicitud de visita de verificación
+
+sanitarias:
+
+a. Destrucción y/o desactivación de medicamentos
+
+no controlados y materiales de curación; 23
+
+b. Toma de muestras; 23
+
+c. Para destrucción de alimentos; 23
+
+d. Expedición de constancia de condiciones
+
+sanitarias; 6
+
+e. Embarcaciones marítimas internacionales
+
+que tocan el primer puerto de arribo en
+
+aguas de jurisdicción estatal; 23
+
+XV. Respecto a las áreas en vías de clasificar
+
+y certificadas del Programa Mexicano de Sanidad
+
+de Moluscos Bivalvos:
+
+a. Toma de muestras de agua de mar y
+
+producto en el área de cultivo o de extracción
+
+silvestre de Moluscos Bivalvos para su análisis; 370
+
+b. Elaboración de estudios para la clasificación
+
+sanitaria; 350
+
+XVI. Para el análisis de agua de mar y de moluscos
+
+bivalvos para el Programa Mexicano de Sanidad
+
+de Moluscos Bivalvos;
 
 A. Agua de Mar:
 
-a) PH; 4
-
-b) Coliformes fecales; 10
-
-c) Coliformes totales; 7
-
-d) Mesofilicos aerobios; 8
-
-e) Oxígeno disuelto; 13
-
-f) Salinidad. 4
-
-B). Ostión Japonés:
+Fisicoquímicos
 
 a) PH; 4
 
-b) Coliformes fecales; 10
+b) Temperatura del agua y ambiental; 15
 
-c) Coliformes totales; 7
+c) Oxigeno disuelto; 6
 
-d) Mesofilicos aerobios; 8
+d) salinidad; 3
 
-e) Salinidad. 4
+e) hidrocarburo de origen petrolero; 3
+
+Microbiológicos:
+
+Coliformes fecales; 5
+
+B. Moluscos Bivalvos:
+
+Microbiológicos
+
+a) E. Coli; 31
+
+b) Coliformes fecales; 5
+
+c) PH; 4
+
+d) Salinidad. 3
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-Quedan excluidas del pago de derechos, por los conceptos mencionados en el artículo anterior, las dependencias que forman parte del sector salud y de la administración estatal y paraestatal.
+Para los permisos relacionados al manejo de cadáveres de los especificados en las fracciones IX y X del artículo anterior, se pagarán los derechos mediante la tarifa señalada, misma que podrá ser disminuida previa solicitud del particular y cumplimiento con los requisitos emitidos por la Secretaría de Salud, los cuales deberán publicarse para su vigencia y debida observancia en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
-Los montos por concepto de pago por derechos aplicados por la Secretaría de Salud, a través de la COEPRIS-BCS se cubrirán en las cajas recaudadoras de la Secretaría de Finanzas del Gobierno del Estado, mediante orden de pago que expida la COEPRIS-BCS.
+Los montos por concepto de pago por derechos aplicados por la Secretaría de Salud. A través de la COEPRIS-BCS se cubrirán en las cajas recaudadoras de la Secretaría de Finanzas del Gobierno del Estado, mediante orden de pago correspondiente.
 
 ###### Artículo 23.
 
@@ -739,9 +833,9 @@ Los servicios a que se refiere el artículo anterior, se prestarán previo pago 
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el Artículo 20 de esta Ley, se destinarán a la Comisión Estatal para la Protección contra Riesgos Sanitarios COEPRIS-BCS, para el mantenimiento, conservación y operación de los servicios en materia de riesgo sanitario.
 
-### Capítulo VII.
+### Capítulo VI.
 
-De los servicios prestados por la Secretaría de Finanzas.
+De los servicios prestados por la Secretaría de Turismo.
 
 ###### Artículo 25.
 
@@ -775,15 +869,11 @@ El pago de los derechos por este servicio se cubrirá de acuerdo a lo señalado 
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el Artículo 25, serán destinados a sufragar los gastos generados por la contratación de instructores profesionales que habrán de impartir los módulos de capacitación requeridos por la NOM-08-TUR-2002 que establece los elementos a que deben sujetarse los Guías Generales y Especializados en temas o localidades específicos de carácter cultural.
 
-### Capítulo VIII
+### Capítulo VII.
 
-De los servicios prestados por la Contraloría General del Estado.
+De los servicios prestados por la Secretaría de Finanzas.
 
-#### Sección Segunda.
-
-Servicios prestados por la Dirección de Planeación Urbana y Ecología.
-
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2011)</small>
+#### Sección Única.. Servicios prestados por las autoridades fiscales
 
 ###### Artículo 30.
 
@@ -833,31 +923,45 @@ h) Consulta a otras entidades federativas
 
 sobre trámites y pagos efectuados 1
 
-### Capítulo IX. De los Servicios prestados por la Secretaría de la Consejería Jurídica
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 10 DE FEBRERO DE 2012)</small>
+### Capítulo VIII
+
+De los Servicios prestados por la Contraloría General del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
 Por los servicios prestados por la Contraloría General del Estado, se causarán y pagarán derechos conforme a la siguiente:
 
-T A R I F A:
+T A R I F A
 
-C O N C E P T O: NÚMERO DE SALARIOS
+C O N C E P T O NÚMERO DE SALARIOS
 
-MÍNIMOS VIGENTE
+MÍNIMOS VIGENTES
 
 EN EL ESTADO
 
-Constancia de no inhabilitación en
+I.- Constancia de No Inhabilitación en
 
-la Administración Pública Estatal. 1
+la Administración Pública Estatal; 1
+
+II.- Constancia de No Sujeción a
+
+Proceso Administrativo; 1
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE FEBRERO DE 2012)</small>
 
-### Capítulo Único
+### Capítulo IX. De los Servicios prestados por la Secretaría de la Consejería Jurídica
 
-#### Sección Única.. Servicios prestado por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 10 DE FEBRERO DE 2012)</small>
+
+#### Sección I. De los servicios prestados por la Dirección Estatal del Registro Civil
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 31
 
@@ -915,11 +1019,15 @@ IX. Extemporaneidades. 5
 
 Los trámites urgentes prestados el mismo día causarán una tarifa adicional del 100%.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinaran a la modernización y equipamiento de la Dirección Estatal del Registro Civil.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinarán a la modernización y equipamiento de la Dirección Estatal del Registro Civil.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 10 DE FEBRERO DE 2012)</small>
 
-#### Sección Única.. Servicios prestados por las autoridades fiscales
+#### Sección II. De los servicios prestados por el Archivo General de Notarías
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 31
 
@@ -1031,11 +1139,37 @@ Los servicios extraordinarios tendrán un incremento del 100% de su costo regula
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinaran al Archivo General de Notarias, para el mantenimiento, conservación y operación de los servicios en materia notarial.
 
-#### Sección I. De los servicios prestados por la Dirección Estatal del Registro Civil
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
+#### Sección III. De los Documentos Publicados en el Boletín Oficial del Gobierno del Estado
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 31
+
+QUATER.- Por certificación de documentos publicados en el Boletín Oficial del Gobierno del Estado que haga la Secretaría de la Consejería Jurídica, se causarán y pagarán los derechos conforme a la siguiente:
+
+T A R I F A
+
+C O N C E P T O NÚMERO DE SALARIOS
+
+MÍNIMOS VIGENTES EN EL
+
+ESTADO
+
+Certificación de documentos
+
+Publicados en el Boletín Oficial
+
+del Gobierno del Estado, se
+
+pagará por cada documento. 4
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinarán a la modernización y equipamiento de la Secretaría de la Consejería Jurídica.
 
 ## Título Tercero. De los productos
+
+### Capítulo Único
 
 ###### Artículo 32.
 
@@ -1057,9 +1191,9 @@ VI. Productos diversos.
 
 Los productos especificados en este capítulo se cobrarán de acuerdo con las cuotas que fije la tarifa que expida el Gobierno del Estado y las reformas que se hicieran a la misma, las que surtirán efecto diez días hábiles después de su publicación en el Boletín Oficial.
 
-#### Sección II. De los servicios prestados por el Archivo General de Notarías
+#### Sección Primera.
 
-> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
+Servicios prestados por el Archivo General del Estado.
 
 ###### Artículo 34.
 
@@ -1082,10 +1216,6 @@ Número atrasado. 1
 Servicios prestados por los Talleres Gráficos del Gobierno.
 
 > <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2012)</small>
-
-#### Sección Primera.
-
-Servicios prestados por el Archivo General del Estado.
 
 ###### Artículo 35.
 
@@ -1183,7 +1313,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 T.C. LUIS ARMANDO DIAZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 30 DE JUNIO DE 2011.
 
@@ -1192,3 +1322,13 @@ B.O. 30 DE JUNIO DE 2011.
 B.O. 10 DE FEBRERO DE 2012.
 
 ÚNICO- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado, emitirá y dará a conocer en el Boletín Oficial del Gobierno del Estado, las disposiciones a que se refiere el Artículo 21 de esta Ley, en un plazo que no exceda de los 60 días posteriores a la entrada en vigor del presente Decreto.
