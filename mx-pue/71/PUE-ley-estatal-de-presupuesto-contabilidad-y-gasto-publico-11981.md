@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-11981"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-23"
-last_updated: "2012-09-19"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 23 de agosto de 1994.
 
@@ -448,3 +450,33 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Estatal de Presupuesto, Contabilidad y Gasto Público publicada en el Periódico Oficial del Estado de fecha 23 de agosto de 1994, y reformada y adicionada mediante Decretos del Honorable Congreso del Estado de Puebla, publicados en el Periódico Oficial del Estado el 31 de diciembre de 2007 y 19 de septiembre de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite o en proceso al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos de la referida Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+
+###### ARTÍCULO CUARTO.
+
+Cuando otros ordenamientos se refieran a la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, se entenderá referida a la Ley contenida en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en las disposiciones legales, reglamentarias o administrativas estatales se haga referencia a los Programas Operativos Anuales, se considerará efectuada a los Programas Presupuestarios.
+
+###### ARTÍCULO SEXTO.
+
+Las Unidades Administrativas competentes de los Ejecutores de Gasto comprendidos en la presente Ley, en el ámbito de sus respectivas competencias, deberán concluir la implementación del Sistema de Evaluación del Desempeño a que se refiere el Capítulo II del Título Cuarto de esta Ley, con la debida anticipación para que los recursos presupuestales se asignen en sus respectivos presupuestos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
