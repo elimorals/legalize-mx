@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-del-estado-de-puebla-74696"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-16"
-last_updated: "2012-03-28"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de abril de 2010.
 
@@ -324,6 +324,128 @@ Los incisos a) y b), deberán estar acompañados de sus inscripciones en el Regi
 Todos los documentos que se anexen en términos de este artículo, deberán ser presentados en copias certificadas.
 
 Cuando la solicitud incumpla con alguno de los requisitos a que se refiere este artículo, la Secretaría o en su caso el Ayuntamiento, requerirá al solicitante para que en un plazo de cinco días hábiles cumpla con el o los requisitos omitidos. En caso de no subsanarse la omisión, la solicitud se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 15 BIS.- Se establece un estímulo a favor de las empresas de capital privado que por primera vez inviertan en el Estado, de conformidad con lo siguiente:
+
+I. La inversión que efectúen deberá aplicarse de manera efectiva en el Estado;
+
+II. La inversión que efectúen, deberá ser comprobada y en ningún caso podrá ser menor al equivalente en moneda nacional a setecientos millones de dólares;
+
+III. La inversión que efectúen deberá garantizar la generación directa e indirecta de empleos en la Entidad, lo cual se comprobará mediante las altas de los trabajadores en el Instituto Mexicano del Seguro Social;
+
+IV. Las empresas que deseen acceder al estímulo, deberán utilizar, predominantemente, mano de obra e insumos locales en la ejecución y operación de los proyectos de inversión;
+
+V. Las empresas que deseen acceder al estímulo, deberán estar inscritas en los Registros Federal y Estatal de Contribuyentes, y registradas ante el Instituto Mexicano del Seguro Social; y
+
+VI. Sin perjuicio de lo establecido en el artículo 14 de esta Ley, las empresas que deseen acceder al estímulo, deberán formalizar su petición ante la Secretaría de Finanzas del Estado, mediante la cual acrediten colmar los requisitos a que se refiere este artículo, así como los que se determinen en las reglas de carácter general que al efecto se emitan.
+
+Este estímulo, en ningún caso será aplicable para aquellas empresas ya establecidas que, mediante simulación de actos, aparezcan como una nueva empresa para gozar del mismo.
+
+El plazo máximo por el que podrá otorgarse este estímulo, será de doce años contados a partir de que sea aprobada la solicitud a que se refiere la fracción VI de este artículo, y para su cálculo únicamente se tomarán en consideración las erogaciones que deriven directamente de la inversión a que se refiere este artículo.
+
+La Secretaría de Finanzas del Estado, en conjunto con la Secretaría, emitirá las reglas de carácter general que resulten necesarias para la aplicación de este estímulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 15 TER.- Se establece un estímulo a favor de las empresas de capital privado que amplíen la inversión existente en el Estado, de conformidad con lo siguiente:
+
+I. La inversión que efectúen deberá aplicarse de manera efectiva en el Estado;
+
+II. La inversión que efectúen, en ningún caso podrá ser menor al equivalente en moneda nacional a quinientos millones de dólares;
+
+III. La inversión que efectúen, deberá garantizar la generación directa e indirecta de empleos en la Entidad, lo cual se comprobará mediante las altas de los trabajadores en el Instituto Mexicano del Seguro Social;
+
+IV. Las empresas que deseen acceder al estímulo, deberán utilizar, predominantemente, mano de obra e insumos locales en la ejecución y operación de los proyectos de inversión;
+
+V. Las empresas que deseen acceder al estímulo, deberán estar inscritas en los Registros Federal y Estatal de Contribuyentes, y registradas ante el Instituto Mexicano del Seguro Social; y
+
+VI. Sin perjuicio de lo establecido en el artículo 14 de esta Ley, las empresas que deseen acceder al estímulo, deberán formalizar su petición ante la Secretaría de Finanzas del Estado, mediante la cual acrediten colmar los requisitos a que se refiere este artículo, así como los que se determinen en las reglas de carácter general que al efecto se emitan.
+
+El plazo máximo por el que podrá otorgarse este estímulo, será de doce años contados a partir de que sea aprobada la solicitud a que se refiere la fracción VI de este artículo, y para su cálculo sólo se tomarán en cuenta las erogaciones realizadas directamente con la ampliación de inversión a que se refiere este artículo, y no así con la inversión que ya tengan establecida en la Entidad.
+
+La Secretaría de Finanzas del Estado, en conjunto con la Secretaría, emitirá las reglas de carácter general que resulten necesarias para la aplicación de este estímulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 15 QUATER.- Se establece un estímulo a favor de las empresas ya establecidas en el Estado, que se dediquen a la manufactura y ensamble de automóviles, de conformidad con lo siguiente:
+
+I. Las empresas que deseen acceder al estímulo, deberán utilizar, predominantemente, mano de obra e insumos locales;
+
+II. Las empresas que deseen acceder al estímulo, deberán estar inscritas en los Registros Federal y Estatal de Contribuyentes, y registradas ante el Instituto Mexicano del Seguro Social;
+
+III. Las empresas que deseen acceder al estímulo, deberán comprobar que han colaborado en el desarrollo económico de la Entidad; y
+
+IV. Sin perjuicio de lo establecido en el artículo 14 de esta Ley, las empresas que deseen acceder al estímulo, deberán formalizar su petición ante la Secretaría de Finanzas del Estado, mediante la cual acrediten colmar los requisitos a que se refiere este artículo, así como los que se determinen en las reglas de carácter general que al efecto se emitan.
+
+No podrán acceder a este estímulo aquellas empresas que alguna vez se hayan visto beneficiadas por cualquiera de los estímulos a que se refieres (sic) los artículos 15 Bis y 15 Ter de esta Ley.
+
+El plazo máximo por el que podrá otorgarse este estímulo, será de diez años contados a partir de que sea aprobada la solicitud a que se refieren (sic) la fracción IV de este artículo.
+
+La Secretaría de Finanzas del Estado, en conjunto con la Secretaría, emitirá las reglas de carácter general que resulten necesarias para la aplicación de este estímulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 15 QUINQUIES.- Para determinar el monto de los estímulos a que se refieren los artículos 15 Bis, 15 Ter y 15 Quater de esta Ley, se aplicará la siguiente fórmula:
+
+Mts = (Ss + Spi + Sas) * 0.02
+
+Donde:
+
+Mts. Es el monto mensual que será entregado en forma de estímulo.
+
+Ss. Es la suma de todos los pagos y remuneraciones efectivamente erogados por la empresa, durante el mes inmediato anterior a aquel en que se otorgue el estímulo, por los servicios subordinados que le son prestados, por concepto de:
+
+1. Cuota diaria;
+
+2. Gratificaciones;
+
+3. Percepciones;
+
+4. Alimentación;
+
+5. Habitación;
+
+6. Primas;
+
+7. Comisiones;
+
+8. Prestaciones en especie; y
+
+9. Cualquier otra de naturaleza análoga.
+
+Spi. Es la suma de todas las remuneraciones efectivamente erogadas por la empresa, para el pago de servicios personales independientes de miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole; comisarios, administradores y gerentes generales, durante el mes inmediato anterior a aquel en que se otorgue el estímulo.
+
+Sas. Es la suma de los pagos efectivamente erogados por la empresa, para cubrir los honorarios de las personas físicas que presten servicios profesionales independientes, cuando éstos opten por asimilar sus ingresos a salarios, durante el mes inmediato anterior a aquel en que se otorgue el estímulo.
+
+Tratándose de los estímulos a los que se refieren los artículos 15 Bis y 15 Ter de esta Ley, las variables Ss, Spi y Sas, se integrarán por los conceptos señalados en los párrafos que anteceden, únicamente respecto de las plazas que se creen y trabajadores que se contraten con la nueva inversión o la ampliación de la existente, según corresponda; y para éstos, así como para el establecido en el artículo 15 Quater, las variables mencionadas en este párrafo se calcularán sin tomar en consideración los siguientes conceptos:
+
+a. Los instrumentos de trabajo;
+
+b. Las indemnizaciones por riesgos o enfermedades de trabajo;
+
+c. Jubilación y pensiones;
+
+d. Gastos funerarios;
+
+e. El ahorro, en términos de la Ley del Impuesto Sobre la Renta;
+
+f. Las aportaciones que se otorguen a los trabajadores por concepto de cuotas de seguro de retiro;
+
+g. Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+h. Las participaciones de las utilidades de la empresa;
+
+i. La alimentación, habitación y despensas, cuando éstas se proporcionen gratuitamente al trabajador;
+
+j. Los premios de asistencia o por puntualidad, siempre que el importe entregado por cada uno de estos conceptos no rebase el 10% de su sueldo; y
+
+k. Las cantidades entregadas para constituir fondos de algún plan de pensiones que reúna los requisitos que establezca la Comisión Nacional del Sistema del Ahorro para el Retiro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 15 SEXIES.- Los beneficiarios de los estímulos a que se refieren los artículos 15 Bis y 15 Ter de esta Ley, también podrán acceder a un estímulo consistente en una cantidad equivalente al costo de adquisición de las superficies de tierra que correspondan a la unidad industrial de la nueva inversión o su ampliación, según sea el caso, siempre y cuando dichos bienes sean adquiridos a una persona jurídica de orden público y comprueben que éstos serán destinados exclusivamente para el objeto de la empresa que haya sido manifestado al formalizar su petición en términos de los artículos referidos. Igualmente, todas las erogaciones efectuadas ante Notario Público por la realización de tal operación y los gastos registrales derivados de ella, formarán parte del referido estímulo.
 
 ###### ARTÍCULO 16.
 
@@ -1232,6 +1354,12 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de la misma naturaleza que contravengan lo establecido por el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
