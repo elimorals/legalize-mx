@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2011-01-19"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -143,9 +143,9 @@ IV.- Deporte, cultura y recreación;
 
 V.- Comunicación, información y acceso a las tecnologías de la información;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VI.- Accesibilidad;
+VI.- Accesibilidad y Atención Preferente;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -621,7 +621,9 @@ La Comisión Estatal Coordinadora, fomentará el establecimiento de servicios y 
 
 Se proporcionará a través de la Comisión Estatal Coordinadora, dentro del Programa de Inclusión e Integración Social de Personas con Discapacidad, el apoyo necesario a los servicios turísticos de mercado, contemplando las necesidades especiales de las personas con discapacidad haciendo las modificaciones pertinentes y necesarias a los paquetes turísticos.
 
-## TÍTULO SEXTO. DE LA ACCESIBILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+## TÍTULO SEXTO. DE LA ACCESIBILIDAD Y ATENCIÓN PREFERENTE
 
 ### CAPÍTULO ÚNICO
 
@@ -672,6 +674,20 @@ Las Dependencias y entidades Públicas, así como los establecimientos de carác
 ###### Artículo 66.
 
 Con el objeto de facilitar el acceso y libre desplazamiento de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, las autoridades competentes tendrán que proveer en la esfera administrativa que les corresponda, la normatividad conducente en materia de estacionamientos, baños públicos y sanitarios, elevadores y rampas, barreras arquitectónicas y las demás relativas a la vía pública, a efecto de otorgarles las condiciones adecuadas para realizar sus actividades de acuerdo con lo dispuesto en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 66 Bis.
+
+Las Dependencias y Entidades de la Administración Pública Estatal, en los ámbitos de su competencia, observarán y promoverán los derechos de las personas con discapacidad.
+
+En las Dependencias y Entidades de la Administración Pública Estatal en las que se realicen trámites y procedimientos administrativos, se procurará la atención preferente de las personas con discapacidad, debiendo implementar mecanismos que permitan a éstos realizar sugerencias o quejas para hacer eficientes los trámites respectivos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 66 Ter.
+
+Las oficinas de la Administración Pública Estatal donde se presten servicios al público, establecerán mecanismos para la efectiva atención de las personas con discapacidad, incluyendo aquéllos que aclaren y especifiquen la atención preferente, y en su caso, la adaptación de dichas oficinas.
 
 ## TÍTULO SÉPTIMO. DE LA COMUNICACIÓN E INFORMACIÓN ESTADÍSTICA
 
@@ -754,3 +770,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todas las acciones derivadas de la aplicación del presente Decreto, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el ejercicio fiscal correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
