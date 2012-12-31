@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-01-04"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO DE FORMA GRADUAL POR LOS ARTICULOS PRIMERO Y TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGION JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -123,7 +123,7 @@ El Ministerio Público deberá:
 
 I.- Dirigir a la Policía Judicial, en las investigaciones que a su juicio sean necesarias para acreditar el cuerpo del delito y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal persecutoria;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 II.- Decretar o pedir la libertad del inculpado:
 
@@ -385,11 +385,11 @@ Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación
 
 Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### Artículo 31.
 
 El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 31 Bis.
 
@@ -659,9 +659,13 @@ IX.- Solicitar a las autoridades competentes para sí o para los sujetos vincula
 
 X.- Interponer el recurso de apelación en contra de las sentencias de primera instancia, solo cuando la impugnación verse sobre las cuestiones relativas a la reparación del daño proveniente de delito, y
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XI.- Las demás que señalen las Leyes.
+XI.- Que se resguarde su identidad y otros datos personales, en los caos (sic) previstos en la fracción V del apartado C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y cuando a juicio del juzgador sea necesario para su protección, dejando a salvo en todo caso los derechos de la defensa; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII.- Los demás que señalen las leyes.
 
 ###### Artículo 55.
 
@@ -961,11 +965,11 @@ VII.- Otros medios que permitan la identificación del individuo.
 
 El Procurador General de Justicia emitirá las disposiciones necesarias para regular los dispositivos técnicos que permitan generar, enviar, recibir, consultar o archivar toda la información a que se refiere el artículo anterior, la que podrá abarcar imágenes, sonidos y video, en forma electrónica, óptica o mediante cualquier otra tecnología.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 69.
 
-Se califican como delitos graves, para todos los efectos legales por transgredir valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código de Defensa Social para el Estado, así como su tentativa:
+Se clasifican como delitos graves, para todos los efectos legales por transgredir valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código de Defensa Social para el Estado Libre y Soberano de Puebla, así como su tentativa:
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -1010,6 +1014,10 @@ J.- Plagio o secuestro previsto en el artículo 302, excepto el segundo párrafo
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 K.- Homicidio, previsto en el artículo 312 en relación con los artículos 316, 323, 331, 334 y 336;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+K Bis.- Feminicidio, previsto en el artículo 312 Bis;
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -1279,7 +1287,7 @@ IV.- Curaciones que se le hubieren hecho; y
 
 V.- Lugar preciso en que queda a disposición de la autoridad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2000)</small>
 
 #### SECCION CUARTA.- COMPROBACION DEL CUERPO DEL DELITO Y LA PROBABLE RESPONSABILIDAD. (REFORMADO, P.O. 24 DE MARZO DE 2000) (F. DE E., P.O. 7 DE ABRIL DE 2002)
 
@@ -1745,7 +1753,7 @@ XVI.- Los peritos pueden excusarse por enfermedad u otros motivos, que les impid
 
 XVII.- La excusa de los peritos será calificada por el Juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 144.
 
@@ -1939,7 +1947,7 @@ Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse
 
 El cotejo se hará con documentos indubitables o que las partes reconozcan como tales; con documentos reconocidos judicialmente y con el documento impugnado, en la parte que no hubiere sido tachada de falsa por aquél a quien perjudique la falsedad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE AGOSTO DE 2010)</small>
 
 #### SECCIÓN SEXTA BIS (SIC). ELEMENTOS APORTADOS POR LA CIENCIA O POR LA TÉCNICA
 
@@ -2387,7 +2395,7 @@ El Juez, bajo su más estricta responsabilidad, deberá admitir las pruebas que 
 
 #### SECCION SEGUNDA.- AUTO DE FORMAL PRISION O DE LIBERTAD POR FALTA DE MERITOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2002)</small>
 
 ###### Artículo 211.
 
@@ -2593,7 +2601,7 @@ XII.- La declaración precitada surtirá los efectos de citación para sentencia
 
 #### SECCION TERCERA.- PROCEDIMIENTO RELATIVO A DELITOS QUE MERECEN SANCION MENOR DE SEIS MESES DE PRISION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 235.
 
@@ -3027,7 +3035,7 @@ En los casos previstos en el artículo anterior, si el defensor fuere de oficio,
 
 #### SECCION CUARTA.- QUEJA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 305.
 
@@ -3393,7 +3401,7 @@ V.- Durante el término a que se refiere la fracción anterior, así como en la 
 
 #### SECCION SEXTA.- LIBERTAD BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 350.
 
@@ -3465,7 +3473,7 @@ V. En todo caso, el Ministerio Público observará, en lo conducente, las dispos
 
 La naturaleza de la caución quedará a elección del acusado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de que el Juez o Sala pueda fijar el monto de la caución atendiendo a la naturaleza de la ofrecida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 355.
 
@@ -3763,11 +3771,11 @@ El aseguramiento de bienes para garantizar el pago de la responsabilidad civil p
 
 La apelación interpuesta por el ofendido o su representante en los casos establecidos en este Código de Procedimientos en Materia de Defensa Social, sólo puede versar sobre cuestiones relativas a la reparación del daño proveniente del delito.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO SEPTIMO. MEDIACION
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -3819,11 +3827,11 @@ VII.- Legalidad.- Sólo pueden ser objeto de mediación, los conflictos derivado
 
 VIII.- Honestidad.- El mediador debe excusarse de participar en una mediación o dar por terminada la misma si, a su juicio, cree que tal acción será a favor de los intereses de los mediados.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEGUNDA. PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 398.
 
@@ -3913,7 +3921,7 @@ La autoridad encargada de la tramitación de la Averiguación Previa o el proces
 
 En el momento que alguna de las partes manifieste su interés de mediar, la autoridad citará a una audiencia en los términos de esta sección o podrá derivar el caso a mediadores nombrados por la Procuraduría General de Justicia o profesionales, quienes intervendrán en los términos que establece esta misma sección.
 
-(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002) (F. DE E., P.O. 24 DE MARZO DE 2003)
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002) (F. DE E., P.O. 24 DE MARZO DE 2003)
 
 #### SECCION TERCERA. CONVENIO
 
@@ -3979,7 +3987,7 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermno (sic) Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Humberto Gutiérrez Manzano.- Rubrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 1 DE JULIO DE 1994
 
@@ -4152,3 +4160,19 @@ P.O. 4 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO SEGUNDO, POR EL QUE SE ADICIONA EL APARTADO K BIS AL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+DECRETO ÚNICO, POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 54 BIS DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
