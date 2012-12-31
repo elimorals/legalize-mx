@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2012-01-10"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
+LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -345,7 +347,7 @@ I. Si se puede determinar previamente el monto del impuesto por adelantado, a m�
 
 II. Si no puede determinarse previamente el monto del impuesto, el representante de la autoridad, al finalizar el evento, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor, un ejemplar de la liquidación se entregará al empresario y los otros dos a la tesorería municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -669,7 +671,7 @@ XXIX.- En ningún caso los derechos a que se refiere este artículo, podrán ser
 
 Para el cobro de los derechos que establece el artículo que antecede, se observarán las siguientes reglas:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos de las fracciones II, III, IV, V, VI, IX, XI, XII, XIII, XIV, del artículo anterior, el que resulte mayor entre el valor de operación consignado en el documento, el del avalúo que se utilizó ante la autoridad Federal, Estatal o Municipal para cubrir el impuesto causado o el valor catastral.
 
@@ -723,7 +725,7 @@ X.- Para la aplicación de la tarifa a que se refiere el presente capítulo, por
 
 #### SECCIÓN SEGUNDA. REGISTRO DE COMERCIO
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 40.
 
@@ -825,7 +827,7 @@ a). Por cada documento 5 días salario mínimo
 
 b). Por cada hoja adicional 1 día salario mínimo.
 
-> <small>(ADICIONADA [N. DE E. ANTES ULTIMO PARRAFO DEL ARTICULO], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. ANTES ÚLTIMO PÁRRAFO DEL ARTÍCULO], B.O. 15 DE FEBRERO DE 2006)</small>
 
 XXIII. En ningún caso los derechos a que se refiere este artículo podrán ser mayores a treinta veces el salario mínimo elevado al año, del área geográfica del domicilio del contribuyente.
 
@@ -851,7 +853,7 @@ VII. Se exceptúa del pago de derechos de inscripción en el registro público d
 
 ### CAPÍTULO SEGUNDO. SERVICIOS CATASTRALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 42.
 
@@ -1241,11 +1243,11 @@ Los derechos de cooperación para obras públicas se pagaran de acuerdo con el c
 
 El costo de las obras públicas que se ejecuten en las bocacalles será pagado a prorrata por los propietarios de los predios ubicados en las arterias que las originen, en una proporción que corresponderá a cada calle al cuarta parte del valor de la obra a realizar, de acuerdo a las dimensiones frontales de los predios de que se trate.
 
-Corresponderá al municipio los gastos que se originen en los proyectos y estudios previos que se requieran par estas obras, el costo de las obras comprenderá los siguientes conceptos.
+Corresponderá al municipio los gastos que se originen en los proyectos y estudios previos que se requieran par (sic) estas obras, el costo de las obras comprenderá los siguientes conceptos.
 
 a). El de la ejecución material de la obra, considerando exclusivamente el precio que se pague al constructor de las mismas.
 
-b). Los gastos de financiamiento para la ejecución de las misma, incluyendo los intereses que devengue y los gastos que se eroguen par obtenerlo.
+b). Los gastos de financiamiento para la ejecución de las misma, incluyendo los intereses que devengue y los gastos que se eroguen par (sic) obtenerlo.
 
 c). Los gastos de administración del financiamiento respectivo.
 
@@ -1719,7 +1721,7 @@ Para la mejor administración de este derecho, el tesorero municipal será el en
 
 ### CAPÍTULO DÉCIMO QUINTO. OCUPACIÓN DE LA VÍA PÚBLICA
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 97], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 97], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 85.
 
@@ -1759,7 +1761,7 @@ En el caso de nuevos contribuyentes, nuevas ocupaciones de la vía pública, o q
 
 El pago del derecho se realizará mediante declaración que formule el contribuyente, la cual estará sujeta a comprobación por las autoridades fiscales municipales en términos de las leyes fiscales del Estado.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 98], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 86.
 
@@ -1781,7 +1783,7 @@ a). Accesorios, locales, expendios y puestos según el giro:
 
 3. Otros (calzado, joyería etc.) 26 % salario mínimo.
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS MEDIANTE EL DECRETO 1606, PUBLICADO EN EL B.O. DE 15 DE FEBRERO DE 2006, SE MODIFICA DE MANERA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TITULO, DANDO COMO RESULTADO UN CONTENIDO DIFERENTE; MOTIVO POR EL CUAL, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA FECHA QUE SE MENCIONA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS MEDIANTE EL DECRETO 1606, PUBLICADO EN EL B.O. DE 15 DE FEBRERO DE 2006, SE MODIFICA DE MANERA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO, DANDO COMO RESULTADO UN CONTENIDO DIFERENTE; MOTIVO POR EL CUAL, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA FECHA QUE SE MENCIONA.</small>
 
 ## TÍTULO TERCERO. PRODUCTOS
 
@@ -1795,7 +1797,7 @@ La venta de bienes muebles e inmuebles pertenecientes al municipio solo podrá l
 
 Solo se podrán explotar los bienes muebles e inmuebles del municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 86], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 86], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 88.
 
@@ -1803,7 +1805,7 @@ Con los mismos requisitos señalados en el artículo 83, se podrá dar en pago d
 
 En todos los casos en que se autorice la enajenación de bienes del municipio y se estipule entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte que de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 87], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 87], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 89.
 
@@ -1813,7 +1815,7 @@ Los bienes de uso común o destinados al servicio del municipio no podrán ser e
 
 #### SECCIÓN PRIMERA. VENTA O EXPLOTACIÓN DE BIENES INMUEBLES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 85], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 85], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 90.
 
@@ -1835,7 +1837,7 @@ VI.- Remolques 50%
 
 VII.- Motocicletas y Bicicletas 5%
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 89], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 91.
 
@@ -1869,7 +1871,7 @@ III.- Cuando el vehículo este en condiciones mecánicas para seguir operando, n
 
 BIENES MOSTRENCOS.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 90], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 90], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 92.
 
@@ -1879,7 +1881,7 @@ Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrenco
 
 ### CAPÍTULO TERCERO. VENTA DE SOLARES FUNDO LEGAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 91], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 91], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 93.
 
@@ -1897,25 +1899,25 @@ El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue 
 
 ### CAPÍTULO CUARTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 92], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 92], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 94.
 
 Por la venta de papel para copias de actas de registro civil, se cobrará una cuota de 10 % salario mínimo diario.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 93], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 93], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 95.
 
 El papel para copias de actas del registro civil, será impreso en los términos del artículo 20 de la ley del registro civil para el estado de baja California Sur.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 94], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 94], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 96.
 
 Los encargados de las oficinas del registro civil podrán, en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la tesorería municipal por hojas utilizables.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 95], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 95], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 97.
 
@@ -1925,7 +1927,7 @@ La tesorería municipal, al hacer la remisión dará cuenta del movimiento habid
 
 El ayuntamiento señalará las formalidades que deban observar para la destrucción.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 96], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 96], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 98.
 
@@ -1933,7 +1935,7 @@ Los oficiales del registro civil extenderán las certificaciones y copias certif
 
 En caso de que les sean presentadas hojas sin los requisitos indicados en el artículo 93, las recogerán y harán la consignación ante el ministerio público.
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES CAPÍTULO SEXTO], B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO QUINTO. LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
 
@@ -2161,7 +2163,7 @@ e) los establecimientos que no reúnan los requisitos contemplados de la secreta
 
 Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente. los derechos se cobrarán de 1 a 3 salarios mínimos.
 
-(REUBICADO, ANTES CAPITULO SEPTIMO, B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO, ANTES CAPÍTULO SÉPTIMO, B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO SEXTO. DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
 
@@ -2211,7 +2213,7 @@ b). Los que deriven de las entidades gubernamentales en sus funciones de derecho
 
 c). El anuncio principal del establecimiento destinado a anunciar su propio negocio y productos que expendan, a excepción de bebidas alcohólicas y/o cigarros.
 
-(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], B.O. 15 DE FEBRERO DE 2006)
+(REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO SÉPTIMO. PRODUCTOS DIVERSOS
 
@@ -2219,7 +2221,7 @@ c). El anuncio principal del establecimiento destinado a anunciar su propio nego
 
 #### SECCIÓN SEGUNDA. SERVICIO DE GRÚA Y ALMACENAJE DE VEHICULOS EN CORRALONES MUNICIPALES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 88], B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 88], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ### CAPÍTULO PRIMERO. RECARGOS
 
@@ -2567,6 +2569,56 @@ AUTORIZADA) DE 10 A 100
 
 56 CONTAMINACIÓN POR RUIDO DE 50 A 500
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+57 PRODUCIR RUIDOS POR CUALQUIER
+
+MEDIO, YA SEAN FUENTES FIJAS O
+
+FUENTES MÓVILES, QUE REBASEN
+
+LOS LÍMITES PERMITIDOS CONFORME
+
+A LAS NORMAS OFICIALES MEXICANAS
+
+Y QUE ADEMÁS PROVOQUEN MOLESTIAS
+
+O ALTEREN LA TRANQUILIDAD DE
+
+LAS PERSONAS. DE 11 A 20
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+58 PERMITIR EL PROPIETARIO O POSEEDOR
+
+DE UN ANIMAL QUE ÉSTE TRANSITE
+
+LIBREMENTE, O TRANSITAR CON ÉL SIN
+
+ADOPTAR LAS MEDIDAS DE SEGURIDAD
+
+NECESARIAS, DE ACUERDO CON LAS
+
+CARACTERÍSTICAS PARTICULARES
+
+DEL ANIMAL, PARA PREVENIR POSIBLES
+
+ATAQUES A OTRAS PERSONAS O
+
+ANIMALES, ASÍ COMO AZUZARLO, O
+
+NO CONTENERLO. DE 11 A 20
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+
+59 ABSTENERSE DE RECOGER, DE VÍAS
+
+O LUGARES PÚBLICOS, LAS HECES
+
+FECALES DE UN ANIMAL DE SU
+
+PROPIEDAD O BAJO SU CUSTODIA. DE 11 A 20
+
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPITULO CUARTO. REZAGOS
@@ -2853,7 +2905,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE JULIO DE 2002.
 
@@ -2873,7 +2925,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 10 DE JULIO DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 B.O. 10 DE AGOSTO DE 2005.
 
@@ -2896,3 +2948,13 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
