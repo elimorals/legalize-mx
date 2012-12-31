@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2000-12-29"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCION A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -371,6 +371,24 @@ En caso de que los senescentes no puedan alcanzar los beneficios de una jubilaci
 
 El Organismo establecerá programas de capacitación y empleo, dirigidos a los senescentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO IX. DE LA ATENCIÓN A LOS ADULTOS MAYORES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 38.
+
+Las Dependencias y Entidades de la Administración Pública Estatal, en los ámbitos de su competencia, observarán y promoverán los derechos de los Adultos Mayores.
+
+En las Dependencias y Entidades de la Administración Pública Estatal en las que se realicen trámites y procedimientos administrativos, se procurará la atención preferente de los Adultos Mayores, debiendo implementar mecanismos que permitan a éstos realizar sugerencias o quejas para hacer eficientes los trámites respectivos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 39.
+
+Las oficinas de la Administración Pública Estatal donde se presten servicios al público, establecerán mecanismos para la efectiva atención de los Adultos Mayores, incluyendo aquellos que aclaren y especifiquen la atención preferente, y en su caso, la adaptación de dichas oficinas.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -380,3 +398,11 @@ SEGUNDO.- El Titular del Poder Ejecutivo del Estado, en ejercicio de las faculta
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil.- Diputado Presidente.- RAYMUNDO HERRERA MENTADO.- Rúbrica.- Diputado Vicepresidente.- HUGO ÁLVAREZ VERA.- Rúbrica.- Diputada Secretaria.- TERESA ARRIAGA MORA.- Rúbrica.- Diputado Secretario.- GERARDO ARTURO RIVERA GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de diciembre del año dos mil.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
