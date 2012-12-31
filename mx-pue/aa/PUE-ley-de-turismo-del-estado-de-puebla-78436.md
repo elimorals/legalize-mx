@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2012-03-28"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -587,7 +587,9 @@ La Secretaría, con el apoyo y en coordinación de las dependencias y entidades 
 
 La Secretaría deberá establecer los mecanismos de coordinación y participación con autoridades municipales que favorezcan el desarrollo del turismo gastronómico y promoverá la capacitación a los prestadores de servicios turísticos, con el propósito de buscar la calidad en el sector.
 
-### CAPÍTULO IX. DE LA CULTURA TURÍSTICA
+> <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO IX. DE LA CULTURA TURÍSTICA Y DEL TURISMO CULTURAL
 
 ### CAPÍTULO X. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO
 
@@ -602,6 +604,18 @@ La Secretaría, en coordinación con los Ayuntamientos y las Dependencias de la 
 ###### Artículo 43.
 
 La Secretaría en conjunto con la Secretaría de Educación Pública del Estado, promoverá acciones que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio, honradez y hospitalidad hacia el turista nacional y extranjero.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 43 Bis.
+
+Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino especifico.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 43 Ter.
+
+La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes, promoverán el turismo cultural a nivel nacional e internacional, como una atracción turística de nuestro Estado e implementarán programas que impulsen el desarrollo del mismo.
 
 ### CAPÍTULO XIII. DE LA EVALUACIÓN
 
@@ -1074,3 +1088,9 @@ P.O. 28 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
