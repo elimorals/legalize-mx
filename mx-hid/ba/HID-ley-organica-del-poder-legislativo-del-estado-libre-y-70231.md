@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2012-10-08"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +75,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el periodo de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -487,9 +487,9 @@ En la última sesión de la Diputación Permanente, con la mayoría de los Diput
 
 El mismo procedimiento será aplicable tratándose de Periodos Extraordinarios de Sesiones.
 
-> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-En caso de no ser posible nombrar a la Directiva que presidirá los trabajos del siguiente periodo de Sesiones, por falta de Quórum o alguna otra causa, la Directiva en funciones de la Diputación Permanente, seguirá actuando hasta en tanto se nombre a la nueva Directiva.
+En caso de no ser posible nombrar a la Directiva que presidirá los trabajos del siguiente periodo de Sesiones, por falta de Quórum o alguna otra causa, la Directiva en funciones, seguirá actuando hasta en tanto se nombre a la nueva Directiva.
 
 ###### ARTÍCULO 56.
 
@@ -647,7 +647,9 @@ X.- Firmar la correspondencia oficial; esta facultad podrá delegarse por Acuerd
 
 XI.- Las demás que se deriven de esta Ley, su Reglamento o de los Acuerdos que emita el Congreso del Estado.
 
-Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario de Servicios Legislativos, en uso de las facultades que le concede el Artículo 194 de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario de Servicios Legislativos, en uso de las facultades que le concede el Artículo 193 de esta Ley.
 
 ###### ARTÍCULO 68.
 
@@ -843,7 +845,9 @@ El Dictamen, deberá estar firmado por la mayoría de los integrantes de la Comi
 
 Las Comisiones pueden solicitar de cualquier Dependencia del Estado y Entidades Públicas, los informes o copias de documentos que estimen necesarios para el mejor estudio de los asuntos, así como la comparecencia de servidores públicos que apruebe la Junta de Gobierno, salvo que se trate de informes o documentos que conforme a la Ley, deben mantenerse en secreto.
 
-El Titular de la Dependencia o Entidad Pública, estará obligado a proporcionar la información en un plazo de diez días hábiles, si así no lo hiciere, dicha omisión será calificada como falta grave y será sujeto del procedimiento que establezca la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Los Titulares de Dependencia o Entidad Pública, así como de los Ayuntamientos, estarán obligados a comparecer en la fecha que se señale y/o proporcionar la información, para lo cual contarán con un plazo de diez días hábiles, si así no lo hicieren, dicha omisión será calificada como falta grave y serán sujetos del procedimiento que establezca la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 Con motivo de alguna promoción o escrito dirigidos al Congreso o a alguna Comisión en particular, se deberá designar domicilio ubicado en la población donde resida el Poder Legislativo, para que se hagan las notificaciones correspondientes.
 
@@ -857,9 +861,11 @@ Cuando a las Comisiones, le sean tomados asuntos cuya naturaleza no amerite la e
 
 Las comisiones rendirán informe al Pleno, del estado que guardan los expedientes que les han sido turnados a más tardar al final de cada período Ordinario de Sesiones y a la Secretaría, cuando ésta lo solicite.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 91.
 
-En los recesos del Congreso, las Comisiones conservarán los expedientes que tuvieren en su poder. Después de cerrado el último periodo de Sesiones de la Legislatura a la que pertenezcan, los Presidentes de las Comisiones deberán entregar a la Secretaría de la Directiva de la Diputación Permanente, los expedientes que quedaron sin despachar, para que así pasen a la Legislatura siguiente.
+En los recesos del Congreso, las Comisiones conservarán los expedientes que tuvieren en su poder. Después de cerrado el último periodo de Sesiones de la Legislatura a la que pertenezcan, los Presidentes de las Comisiones deberán entregar a la Secretaría de la Directiva de la Diputación Permanente, los expedientes que quedaron sin despachar, para que así pasen a la Legislatura siguiente, así como los concluidos para su archivo.
 
 ### CAPÍTULO IV. DE LOS GRUPOS LEGISLATIVOS
 
@@ -1231,13 +1237,17 @@ IV.- Junta de Gobierno.
 
 El Congreso en vía de Acuerdo Económico puede resolver cualquier asunto que se someta a su consideración, cuando para ello no se requiera la aprobación de una Ley o Decreto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 135.
 
-Toda propuesta de Acuerdo Económico, una vez leída en el Pleno o en la Diputación Permanente será turnada a Comisiones para su Estudio y Dictamen, salvo en aquellos casos que por su naturaleza o extrema urgencia, requiera de ser aprobada en la misma Sesión en que se presenta para lo cual, se someterá a la consideración del Pleno o de la Diputación Permanente, en su caso, si, se aprueba su discusión y votación.
+Los planteamientos de los Diputados, una vez expuestos en el Pleno o en la Diputación Permanente, serán turnados a Comisiones para su Estudio y resolución, salvo en aquellos casos que los mismos contengan propuestas de Acuerdos Económicos, que por su naturaleza o extrema urgencia, requieran de ser aprobados en la misma Sesión en que se presentan, para lo cual se someterán a la consideración del Pleno o de la Diputación Permanente, en su caso, si se aprueba su discusión y votación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 136.
 
-Toda propuesta de Acuerdo Económico deberá cubrir los siguientes requisitos:
+En caso de presentar propuesta de Acuerdo Económico, deberá cubrir los siguientes requisitos:
 
 I.- Deberá formularse por escrito en los supuestos que señala el Artículo que antecede; y
 
@@ -1341,9 +1351,13 @@ Iniciada la discusión, nadie puede interrumpir al orador, si no es para reclama
 
 Cuando algún orador inscrito no estuviere presente en el salón en el momento de su turno, se declarará desierta su participación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 155.
 
-Podrá votarse en un sólo acto, un Proyecto de Dictamen en lo general, así como uno o varios o la totalidad de sus Artículos en lo particular, siempre que no hayan sido impugnados.
+Podrá votarse en un solo acto, un Proyecto de Dictamen en lo general, así como uno o varios o la totalidad de sus Artículos en lo particular, siempre que no hayan sido impugnados.
+
+En caso de que se reserven Artículos para su discusión en lo particular, en primer lugar, el Presidente someterá a consideración del Pleno, el dictamen en lo general y en lo particular de los Artículos que no se reservaron y una vez aprobado, concederá el uso de la palabra al articulante para que argumente sobre los Artículos reservados y al finalizar su exposición, la Presidencia someterá a votación en forma nominal, Artículo por Artículo.
 
 ###### ARTÍCULO 156.
 
@@ -1992,3 +2006,13 @@ P.O. 31 DE DICIEMBRE DE 2011.
 P.O. 8 DE OCTUBRE DE 2012.
 
 Artículo Único. Envíese el presente Decreto al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en las presentes Reformas y Adiciones.
