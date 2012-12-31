@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-15"
-last_updated: "2011-03-16"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -1458,3 +1458,13 @@ Una vez que se cree el Centro Único de Evaluación y Control de Confianza del E
 ###### ARTÍCULO CUARTO.
 
 Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Ordenamiento, se refiera al Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado de Puebla o a los Centros Estatales de Evaluación y Control de Confianza, se entenderá atribuido al Centro Único de Evaluación y Control de Confianza del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las Direcciones Generales y Direcciones Regionales, Subdirecciones, agencias del Ministerio Público y demás unidades que describa el Reglamento de esta Ley, respecto del Título Cuarto de esta Ley, se crearán de forma progresiva para cada Región Judicial en que entre en vigor el Sistema Penal Acusatorio en el Estado.
+
+CUARTO.- Para efectos de lo previsto en la fracción I inciso a) del Artículo 19 de esta Ley, su entrada en vigor estará supeditada a las autorizaciones administrativas y a la normatividad que se emita para tal efecto.
