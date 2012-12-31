@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2012-05-21"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -181,9 +183,11 @@ Ante la ausencia de valores catastrales determinados por autoridad competente o 
 
 El pago mínimo del impuesto predial en el caso de predios urbanos sin valor determinado, será igual a cinco salarios mínimos diarios vigentes en la zona económica en la que se ubique el predio; en el caso de predios rústicos sin avalúo determinado, el pago mínimo será igual al equivalente a dos salarios mínimos diarios vigentes en la zona económica del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-Con independencia del valor que arroje en su oportunidad el avalúo catastral correspondiente, el monto de las bases determinadas con apego a lo previsto en el artículo anterior se incrementará anualmente en la misma proporción a la que respecto del Índice Nacional de Precios al Consumidor Publique el Banco de México.
+Con independencia del valor que arroje en su oportunidad el avalúo catastral correspondiente, el monto de las bases determinadas con apego a lo previsto en el Artículo anterior se incrementará anualmente en la misma proporción a la que respecto del Índice Nacional de Precios al Consumidor Publique el Instituto Nacional de Estadística y Geografía (INEGI).
 
 ###### ARTÍCULO 15.
 
@@ -829,15 +833,21 @@ Todas las licencias y permisos estarán sujetos a revalidación anual mediante e
 
 Las infracciones al presente capítulo se sancionarán de conformidad con lo dispuesto por el Código Fiscal Municipal y en los Reglamentos Municipales que correspondan.
 
-#### SECCIÓN CUARTA. DERECHOS POR SERVICIO DE EXPEDICIÓN DE PLACA DE BICICLETAS, MOTOCICLETAS Y VEHÍCULOS DE PROPULSIÓN NO MECÁNICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+#### SECCIÓN CUARTA. DERECHOS POR SERVICIO DE EXPEDICIÓN DE PLACA DE BICICLETAS Y VEHÍCULOS DE PROPULSIÓN NO MECÁNICA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 110.
 
-Es objeto de este derecho el servicio de expedición y canje de placas de circulación, de bicicletas y motocicletas particulares, de alquiler para carro de mano de primera, y de tracción animal.
+Es objeto de este derecho el servicio de expedición y canje de placas de circulación, de bicicletas particulares, de alquiler para carro de mano de primera, y de tracción animal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 111.
 
-Son sujetos del pago del derecho por el servicio de expedición y canje de placas. Todas las personas físicas, morales o unidades económicas que ostenten la propiedad o posesión de bicicletas y motocicletas particulares o de alquiler para carro de mano de primera y de tracción animal.
+Son sujetos del pago del derecho por el servicio de expedición y canje de placas. Todas las personas físicas, morales o unidades económicas que ostenten la propiedad o posesión de bicicletas particulares o de alquiler para carro de mano de primera y de tracción animal.
 
 ###### ARTÍCULO 112.
 
@@ -1724,3 +1734,9 @@ LIC. JOSÉ FRANCISCO OLVERA RUIZ
 P.O. 21 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2013, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
