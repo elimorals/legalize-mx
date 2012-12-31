@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2012-09-17"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -1351,9 +1351,11 @@ topográficos catastrales. 8.0
 
 #### Sección Primera. Derechos por Servicios que Presta la Dirección de Asuntos Jurídicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-Los derechos por los servicios que presta la Dirección de Asuntos Jurídicos, se pagarán de la siguiente forma:
+Los derechos por los servicios que presta la Subsecretaría de Asuntos Jurídicos, se pagarán de la siguiente forma:
 
 Servicio Tarifa
 
@@ -1385,9 +1387,11 @@ Quedan exceptuados del pago de derechos por publicaciones, las dependencias y ó
 
 #### Sección Segunda. Derechos por otros Servicios que Presta la Secretaría General de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 18.
 
-Los derechos que se cobren por otros servicios que preste la Secretaría de Gobierno se sujetarán a lo siguiente:
+Los derechos que se cobren por otros servicios que preste la Secretaría General de Gobiernose (sic) sujetarán a lo siguiente:
 
 Servicio Tarifa
 
@@ -1617,15 +1621,13 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 Para la expedición de la constancia de funcionamiento a que se refieren las fracciones I y II de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
 
-Se aplicará un descuento del 50% en las tarifas de los derechos contemplados en el presente artículo en sus fracciones III a la VII, para aquellos contribuyentes que realicen el pago dentro de los cuarenta y cinco días del primer y segundo semestre, para quienes lo realicen fuera del plazo establecido, el descuento a aplicar será del 20% sobre la tarifa semestral, y se le aplicarán los accesorios correspondientes por la mora de acuerdo a la norma aplicable; salvo disposición en contrario.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Para efecto de que los contribuyentes se hagan acreedores a las reducciones contempladas en el párrafo anterior, es requisito indispensable que estos regularicen los adeudos generados por la omisión de sus contribuciones hasta el Ejercicio Fiscal 2011, que venían tributando bajo el artículo 36 de la Ley Estatal de Derechos, así como el artículo 20 B, vigente hasta el 31 de diciembre de 2010 de la misma Ley.
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Los contribuyentes que hayan realizado el pago de los derechos contemplados en el presente artículo en su totalidad, podrán solicitar la devolución del excedente sujetándose a lo establecido en los artículos 51 y 81 del Código de la Hacienda Pública para el Estado de Chiapas.
-
-Para el caso de los contribuyentes que inicien sus operaciones y se inscriban por primera vez en el padrón, no se aplicará descuento alguno durante el primer semestre en el que ocurra su inscripción en el padrón estatal de contribuyentes, el descuento se iniciará a partir del semestre inmediato posterior.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2097,33 +2099,47 @@ identificación del personal, con el registro
 
 asignado en su inscripción. 1.0
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 V. Por la autorización o su revalidación anual,
 
-para prestar el servicio en la modalidad de
+para prestar el servicio de seguridad privadaen (sic)
 
-vigilancia y custodia de lugares o establecimientos
+la modalidad de protección, vigilancia de lugares o
 
-y en general de toda clase de inmuebles. 100.0
+establecimientos. 100.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VI. Por la autorización o su revalidación anual,
 
-para prestar el servicio en la modalidad de la
+para prestar el servicio de seguridad privadaen (sic)
 
-protección, vigilancia o custodia de personas. 100.0
+la modalidad de traslado, custodia de
+
+bienes y valores. 100.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VII. Por la autorización o revalidación anual,
 
-para prestar el servicio en la modalidad de
+para prestar el servicio de seguridad privadaen (sic)
 
-la custodia de bienes muebles y valores. 100.0
+la modalidad de seguridad y protección de
+
+personas. 100.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VIII. Por la autorización o revalidación anual,
 
-para prestar el servicio en la modalidad
+para prestar el servicio en la modalidad de
 
-del establecimiento y operación de sistemas
+instalación, supervisión y monitoreo de sistemas y
 
-y equipos de seguridad. 100.0
+equipos de seguridad privada por
+
+medios electrónicos. 100.0
 
 IX. Por la autorización o revalidación anual,
 
@@ -2132,6 +2148,10 @@ para prestar los servicios en las demás
 actividades que se relacionen directamente
 
 con servicios de seguridad privada. 100.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+X. Por la expedición de constancias. 1.5
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -2217,13 +2237,7 @@ por elemento de 12 horas, de lunes a sábado,
 
 por mes. 235.0
 
-VI. Servicio armado a instituciones de banca
-
-múltiple y similares, con manejo de efectivo,
-
-por elemento de 24 horas, de lunes a sábado,
-
-por mes. 260.0
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 VII. Servicio extraordinario armado o desarmado
 
@@ -2237,11 +2251,161 @@ IX. Servicio de patrulla establecida,
 
 en turno de 12 horas. 45.0
 
-#### Sección Segunda. Servicios que Presta la Dirección de Tránsito
+> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
+Por los servicios que presta la Dirección de la Policía de Tránsito se causarán por cada uno de los conceptos o servicios los siguientes derechos:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+I.- Por expedición de licencias con vigencia permanente:
+
+a) Chofer para servicio público. 34.0
+
+b) Chofer. 34.0
+
+c) Automovilista. 30.0
+
+d) Motociclista. 15.0
+
+II. Por reposición de licencia por pérdida o extravío.
+
+a) Chofer para Servicio Público. 8.5
+
+b) Chofer. 8.5
+
+c) Automovilista. 8.5
+
+d) Motociclista. 4.5
+
+III. Por expedición de licencias por 2 años:
+
+a) Chofer para servicio público. 14.0
+
+b) Chofer. 13.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+IV. Por expedición de licencias por 3 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.0
+
+V. Por expedición de licencias por 4 años:
+
+a) Chofer para servicio público. 27.0
+
+b) Chofer. 26.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+VI. Por expedición de licencias por 5 años:
+
+a) Chofer para servicio público. 33.0
+
+b) Chofer. 32.0
+
+c) Automovilista. 21.0
+
+d) Motociclista. 11.0
+
+VII. Por reexpedición de licencias por 2 años:
+
+a) Chofer para servicio público. 11.0
+
+b) Chofer. 10.0
+
+c) Automovilista. 7.0
+
+d) Motociclista. 4.0
+
+VIII. Por reexpedición de licencias por 3 años:
+
+a) Chofer para servicio público. 13.0
+
+b) Chofer. 12.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+IX. Por reexpedición de licencias por 4 años:
+
+a) Chofer para servicio público. 16.0
+
+b) Chofer. 15.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.0
+
+X. Por reexpedición de licencias por 5 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+XI. Por reposición de licencia por pérdida
+
+o extravío de las contempladas en las
+
+fracciones III a la X, del presente artículo. 3.0
+
+XII. Por la utilización de servicio (sic) oficiales
+
+de depósito y custodia de vehículos accidentados,
+
+infraccionados por orden judicial, por día. 0.3
+
+XIII. Por arrastre de vehículos automotores en
+
+tramos carreteros de jurisdicción estatal en los
+
+casos de automóviles, camiones y camiones (sic)
+
+hasta 8 toneladas; por kilómetro. 0.8
+
+XIV. Por la expedición de constancias de
+
+antigüedad de licencia de manejo, por expedición
+
+de constancia de no infracción. 2.0
+
+XV. Por la expedición de constancias por
+
+revisión mecánica para vehículos particulares. 2.0
+
+XVI. Por expedición de permisos provisionales
+
+para circular sin placas ni tarjeta de circulación
+
+para vehículos nacionales por una sola vez y
+
+hasta por 15 días. 11.0
+
+XVII. Por impartición de cursos de manejo
+
+por 30 horas. 19.0
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2481,6 +2645,24 @@ p) Dictamen de riesgo en predios de
 
 q) Dictamen de riesgo químico. 300.0
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+r) Estudio de sondeo eléctrico vertical x
+
+cada 20 metros. 300.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+s) Pruebas de ensaye de 4 cilindros de
+
+concreto hidráulico. 50.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+t) Pruebas de elementos estructurales con
+
+tecnología no destructiva. 80.0
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 XII. Por la realización de visita de inspección
@@ -2667,9 +2849,7 @@ VIII. Por la expedición de permiso para vehículos en
 
 modalidad de transporte especial, tipo grúa. 100.0
 
-IX. Por la expedición de permiso de paso o
-
-penetración para el transporte federal de carga. 12.0
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 X. Por expedición de título de regularización
 
@@ -2730,6 +2910,22 @@ modalidades y tipo de unidades. 1.0
 XVI. Por pago de derechos por la integración
 
 de expediente para solicitar una concesión. 6.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVII. Por la expedición de permiso para
+
+vehículos en la modalidad de transporte
+
+especial, en su clasificación modalidad de
+
+ecotaxi, taxi turístico y taxi especial. 60.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Por búsqueda en los libros de
+
+registro de concesión. 3.0
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -2931,6 +3127,26 @@ de transporte en modalidades de carga y
 
 pasaje, en cualquier tipo de unidad 20.0
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XX. Por la expedición de permiso de
+
+paso o penetración para el transporte
+
+federal de carga. 12.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XXI. Por revalidación anual de permiso
+
+para la prestación de servicio
+
+transporte especial en su clasificación
+
+modalidad de ecotaxi, taxi turístico y
+
+taxi especial. 8.0
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
@@ -2955,163 +3171,11 @@ II. Por reposición del certificado de aptitud de
 
 operador de servicio público de transporte. 3.0
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Cuarta. Derechos por Servicios que presta la Dirección de la Policía de Tránsito
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-Artículo 33 C.- Por los servicios que presta la Dirección de la Policía de Tránsito se causarán por cada uno de los conceptos o servicios los siguientes derechos:
-
-SERVICIO TARIFA
-
-S.M.D.V.E.
-
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
-
-I. Por expedición de licencias con vigencia permanente:
-
-a) Chofer para servicio público. 34.0
-
-b) Chofer. 34.0
-
-c) Automovilista. 30.0
-
-d) Motociclista. 15.0
-
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
-
-II. Por reposición de licencia por pérdida o extravío.
-
-a) Chofer para servicio público 8.5
-
-b) Chofer 8.5
-
-c) Automovilista 8.5
-
-d) Motociclista. 4.5
-
-III. Por expedición de licencias por 2 años:
-
-a) Chofer para servicio público. 14.0
-
-b) Chofer. 13.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-IV. Por expedición de licencia por 3 años:
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.00
-
-V. Por expedición de licencia por 4 años:
-
-a) Chofer para servicio público. 27.0
-
-b) Chofer. 26.0
-
-c) Automovilista. 17.0
-
-d) Motociclista. 8.0
-
-VI. Por expedición de licencia por 5 años:
-
-a) Chofer para servicio público. 33.0
-
-b) Chofer. 32.0
-
-c) Automovilista. 21.0
-
-d) Motociclista. 11.0
-
-VII. Por reexpedición de licencias por 2 años:
-
-a) Chofer para servicio público. 11.0
-
-b) Chofer. 10.0
-
-c) Automovilista. 7.0
-
-d) Motociclista. 4.0
-
-VIII. Por reexpedición de licencias por 3 años:
-
-a) Chofer para servicio público. 13.0
-
-b) Chofer. 12.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-IX. Por reexpedición de licencias por 4 años:
-
-a) Chofer para servicio público. 16.0
-
-b) Chofer. 15.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.0
-
-X. Por reexpedición de licencias por 5 años:
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 17.0
-
-d) Motociclista. 8.0
-
-XI. Por reposición de licencia por pérdida
-
-o extravío, de las contempladas en las
-
-fracciones III a la X, del presente artículo. 3.0
-
-XII. Por la utilización de servicio (sic) oficiales
-
-de depósito y custodia de vehículos accidentados,
-
-infraccionados por orden judicial, por día. 0.3
-
-XIII. Por arrastre de vehículos automotores en
-
-tramos carreteros de jurisdicción estatal en los
-
-casos de automóviles, camiones y camiones
-
-hasta 8 toneladas; por kilómetro. 0.8
-
-XIV. Por la expedición de constancias de
-
-antigüedad de licencia de manejo, por expedición
-
-de constancia de no infracción. 2.0
-
-XV. Por la expedición de constancias por
-
-revisión mecánica para vehículos particulares. 2.0
-
-XVI. Por expedición de permisos provisionales
-
-para circular sin placas ni tarjeta de circulación
-
-para vehículos nacionales por una sola vez y
-
-hasta por 15 días. 11.0
-
-XVII. Por impartición de cursos de manejo
-
-por 30 horas. 19.0
+Artículo 33 C.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
@@ -4100,3 +4164,9 @@ P.O. 17 DE SEPTIEMBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del dos mil trece.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
