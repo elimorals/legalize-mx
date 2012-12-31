@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2011-10-31"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -325,9 +323,17 @@ VIII.- No vender boletos en tanto no estén resellados por la Autoridad Fiscal E
 
 IX.- Permitir en los eventos la presencia de los verificadores que hayan sido designados por la Autoridad Fiscal Estatal, quienes darán cuenta de los ingresos obtenidos por la venta de boletos pudiendo éstos recaudar y expedir el recibo oficial al final del evento, respecto de los impuestos autodeterminados por el contribuyente al suscribir la declaración correspondiente, la cual tendrá carácter de definitiva.
 
-X.- Presentar declaración autodeterminando el impuesto a pagar respecto a cada evento, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XI.- Exhibir ante la Autoridad Fiscal Estatal los libros, registro y documentos relacionados con el o los eventos, cuando ésta así se lo requiera.
+X.- Presentar declaración autodeterminando el impuesto a pagar respecto a cada evento.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XI.- Exhibir ante la Autoridad Fiscal Estatal los libros, registro y documentos relacionados con el o los eventos, cuando ésta así se lo requiera, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+XII.- Constituir garantía del interés fiscal en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un monto equivalente al veinte por ciento de los boletos emitidos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -419,17 +425,25 @@ Este impuesto en ningún caso, debe ser repercutido al adquirente del boleto.
 
 #### SECCION SEPTIMA. De las Excepciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 29.
 
-Estarán exceptuados del pago de este impuesto:
+Estarán exceptuados del pago de éste Impuesto:
 
-I.- La Federación, el Estado y los Municipios, a menos que su actividad no corresponda a sus funciones de derecho público.
+I.- La Federación, el Estado y los Municipios, cuando el objeto del impuesto a que se refiere este Capítulo corresponda a sus funciones de derecho público;
 
-II.- Las instituciones y asociaciones de beneficencia pública o privada que acredite a satisfacción de la Autoridad Fiscal Estatal que los fondos que se recauden serán destinados a actividades de beneficencia; y
+II.- Las instituciones y asociaciones de beneficencia pública o privada que acredite a satisfacción de la Autoridad Fiscal Estatal que los fondos que se recauden fueron destinados a actividades de beneficencia; y
 
-III.- Los Partidos Políticos Nacionales con registro, cuando los eventos que se realicen sean con el objeto de allegarse recursos para el cumplimiento de sus fines.
+III.- Los Partidos Políticos Nacionales con registro, cuando acrediten a satisfacción de la Autoridad Fiscal Estatal que los eventos se realizaron con objeto de allegarse recursos para el cumplimiento de sus fines.
+
+En caso de haber sido otorgada la excepción del Impuesto a que se refiere el presente Capítulo y haya sido pagado, procederá su devolución en términos del Código Fiscal del Estado.
+
+Cuando los entes a que se refieren las fracciones II y III, soliciten la excepción a que se refiere este artículo y tengan celebrado algún tipo de contrato con terceros para la organización y realización de las diversiones y/o espectáculos públicos, únicamente estarán exceptuados del Impuesto Sobre Diversiones y Espectáculos Públicos por los ingresos que el tercero les haga participe, y que estén previamente acordados en el contrato. A la parte no exceptuada de éste, se le aplicará la tasa correspondiente conforme a la tarifa establecida en el Artículo 21 de esta Ley.
+
+Lo anterior es independiente del cumplimiento con el pago de Derechos a que se refiere la Ley de Ingresos del Estado que corresponda al ejercicio fiscal de que se trate.
+
+Para la aplicación de este Capítulo, se estará a lo dispuesto en los Lineamientos que para tal efecto publique la Secretaría de Finanzas del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -455,39 +469,39 @@ Este impuesto se causará por ejercicios fiscales los cuales se fijarán por añ
 
 No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Finanzas que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de circulación de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
 
-Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEGUNDA. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 31.
 
-Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, de modelo anterior a los últimos diez ejercicios fiscales.
+Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, motocicletas, ómnibus, camiones y tractocamiones, de modelo anterior a los últimos diez ejercicios fiscales.
 
 Para los efectos de este Artículo, se consideran:
 
-a) Automóviles: vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna de 4, 6 Y 8 cilindros, energía eléctrica y/o híbridos;
+a) Automóviles: vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos;
 
-b) Motocicletas: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos de 1,2 Y 4 cilindros, en cualquier denominación que se les dé;
+b) Motocicletas: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos sin importar el número de cilindros, en cualquier denominación que se les dé;
 
-e) Ómnibus: vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna de 4, 6, 8 o más cilindros;
+c) Ómnibus: vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna sin importar el número de cilindros;
 
-d) Camiones: vehículos destinados para el transporte de bienes o personas y bienes cuando la ley de la materia lo permita, accionados con motores de combustión interna de 4, 6, 8 o más cilindros; y
+d) Camiones: vehículos destinados para el transporte de bienes o personas y bienes cuando la ley de la materia lo permita, accionados con motores de combustión interna sin importar el número de cilindros; y
 
-e) Tractores: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna de 4, 6, 8, o más cilindros.
+e) Tractocamiones: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna sin importar el número de cilindros.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION TERCERA. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 32.
 
-El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, ómnibus, camiones y tractores, a excepción de tractores destinados a actividades agrícolas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna de 1, 2, 4, 6, 8 o más cilindros.
+El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, ómnibus, camiones y tractocamiones, que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna sin importar el número de cilindros.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -547,53 +561,69 @@ Para efectos de este impuesto son responsables solidarios:
 
 I. Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de .este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
 
-II. Las personas físicas o morales con actividad permanente o temporal de compraventa de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III. Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
+II.- Las personas físicas o morales con actividad permanente o temporal de compraventa de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Estado de Aguascalientes, mientras el nuevo adquirente, o el nuevo tenedor o usuario, no hayan realizado el pago del Impuesto correspondiente.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. De las Excepciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 35.
 
-Se exceptúan del pago de este impuesto a las personas con discapacidad, pensionados, jubilados y de la tercera edad que acrediten esta condición ante la Secretaría de Finanzas. Asimismo se exceptúa del pago del impuesto a los vehículos que hayan sufrido robo, en cuyo caso, deberá de acreditarse dicha circunstancia fehacientemente ante la Autoridad.
+Se exceptúan del pago de este impuesto los vehículos:
 
-Cuando el vehículo sufra descompostura parcial que amerite la inutilización del vehículo por más de cuatro meses que implique la no utilización del vehículo o pérdida total por accidente del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo siempre y cuando se acredite dicho supuesto a entera satisfacción de la autoridad.
+I.- Cuyo usuario o tenedor a que se refiere este Apartado sea una persona con discapacidad permanente, pensionado, jubilado o de personas adultas mayores en términos de la Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes, siempre y cuando acrediten de conformidad con el Reglamento del Padrón Vehicular esta condición ante la Secretaría de Finanzas del Estado.
 
-Estas excepciones se limitarán a un vehículo por persona.
+Esta excepción se limita a un vehículo por persona.
+
+II.- Cuyo usuario o tenedor a que se refiere este Apartado, refrende en el Padrón Vehicular del Estado su registro a más tardar el 31 de marzo del ejercicio fiscal que trascurra, de conformidad con la Ley de Ingresos del Estado de Aguascalientes correspondiente.
+
+III.- Tractores destinados a actividades agrícolas.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEPTIMA. Del Padrón Vehicular del Estado de Aguascalientes
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 36.
 
-El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Finanzas, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado
+El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
 
-En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: Inscripción, Cambios, Rectificaciones y Bajas.
+En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: inscripción, cambios, rectificaciones y bajas.
 
-En los trámites a que se refiere el párrafo anterior, los interesados deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
+En los trámites de inscripción y cambios a que se refiere el párrafo anterior, los interesados deberán acreditar el uso o tenencia del vehículo, legal estancia en el País en su caso, y la residencia o domicilio en el Estado de Aguascalientes de acuerdo a lo dispuesto en el Reglamento del Padrón Vehicular del Estado.
 
-Para tal efecto, deberán cumplir con los requisitos que establezca el Reglamento respectivo.
+En todos los movimientos al Padrón Vehicular, el interesado deberá comprobar ante la Autoridad Fiscal correspondiente no tener adeudos por contribuciones federales y estatales derivadas del uso o tenencia del vehículo de que se trate. Para tal efecto, deberán de cumplir con los requisitos que establezca el Reglamento al Padrón Vehicular.
 
-La Secretaría de Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+La Secretaría de Finanzas del Estado mantendrá actualizado el Padrón Vehicular, para lo cual podrá si así lo considera, verificar y comprobar la veracidad de los documentos aportados para los diversos trámites a través de las disposiciones jurídicas aplicables.
 
-Los propietarios de los vehículos registrados, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
+Al quedar inscrito un vehículo en el Registro Estatal Vehicular, se entregará al propietario o tenedor la Constancia de Registro correspondiente.
 
-I. Si el vehículo es de procedencia extranjera, deberá acreditar la legal estancia en el país en los términos de la Ley Aduanera.
+Los propietarios de los vehículos tienen la obligación de refrendar su registro anualmente a más tardar el 31 de marzo del ejercicio fiscal de que se trate, previo pago del derecho de control vehicular que corresponda.
 
-II. Presentar los avisos de baja o modificaciones siguientes:
+Los propietarios de los vehículos, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
+
+I.- Si el vehículo es de procedencia extranjera, deberá acreditar la legal estancia en el país en los términos de la Ley Aduanera.
+
+II.- Presentar los avisos siguientes:
 
 a) Alta por inscripción.
 
 b) Por cambio de propietario.
 
-e) Por cambio de domicilio.
+c) Por cambio de domicilio.
 
 d) Por cambio en el servicio a que se encuentra destinado.
 
@@ -603,259 +633,177 @@ f) Baja por robo o destrucción.
 
 g) Alta por recuperación del vehículo robado o destruido.
 
-Los trámites deberán efectuarse ante las oficinas de la Secretaría de Finanzas, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
+h) Canje de placas.
 
-Para obtener la baja en el Padrón o realizar el canje de placas, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción.
+Para realizar cualquiera de los trámites antes señalados, excepto en cambio de domicilio y baja por venta el interesado deberá presentar la Constancia de Registro en el Padrón Vehicular del Estado ante la Autoridad competente.
 
-Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+Los trámites deberán efectuarse ante las oficinas de la Secretaria de Finanzas del Estado, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular del Estado dentro de los 30 días naturales siguientes a la fecha de la operación que da origen al trámite de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de placas, el interesado debe entregar las placas respectivas a la autoridad fiscal, salvo en los casos de robo o destrucción de las mismas, en los términos señalados en el Reglamento del Padrón Vehicular del Estado.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaria de Finanzas del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 APARTADO B
 
 Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION PRIMERA. De los Sujetos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+ARTICULO 36 A.- Están obligados al pago de este impuesto las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes y tenga su domicilio en el mismo.
 
-ARTICULO 36 A.- Están obligadas al pago de este impuesto las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes y tenga su domicilio en el mismo.
+Los contribuyentes pagarán el Impuesto por año de calendario durante los tres primeros meses del ejercicio fiscal respectivo ante las oficinas autorizadas.
 
-Para efectos de esta ley, se presume que el propietario es tenedor o usuario del vehículo.
+En los casos de vehículos nuevos o importados, el impuesto a que se refiere el presente Apartado deberá calcularse y enterarse a más tardar durante los treinta días naturales siguientes a aquel en que se adquirió o importó el vehículo ante las oficinas autorizadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en la Secretaría de Finanzas del Estado cuando el contribuyente acredite tener registrado su domicilio fiscal ante la misma. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Los importadores ocasionales efectuarán el pago de este impuesto, correspondiente al primer año de calendario a más tardar durante los treinta días naturales siguientes a que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el Artículo 36, séptimo párrafo de esta Ley.
 
-ARTICULO 36 B.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulaci6n en traslado o alta del vehículo. El impuesto se pagará en las oficinas de la Secretaría de Finanzas que autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en esta Secretaría cuando el contribuyente acredite tener registrado su domicilio fiscal ante la Secretaría de Finanzas. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asigne dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el siguiente párrafo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Impuesto, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar este impuesto aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-ARTICULO 36 C.- Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Apartado, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el Artículo anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el tercer párrafo de este Artículo.
+ARTICULO 36 B.- Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, motocicletas, ómnibus, camiones y tractocamiones, nuevos y de hasta nueve años modelo anterior.
 
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+Para los efectos de este Apartado, se consideran:
 
-Para los efectos de este Apartado, también se consideran automóviles, a los ómnibus, camiones y tractores no agrícolas tipo quinta rueda.
+a) Automóviles: vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos.
 
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este Apartado, se pagará como si éste fuese nuevo.
+b) Motocicletas: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos sin importar el número de cilindros, en cualquier denominación que se les dé;
 
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+c) Ómnibus: vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna sin importar el número de cilindros;
 
-Mes de Adquisición Factor aplicable al Impuesto causado
+d) Camiones: vehículos destinados para el transporte de bienes o personas y bienes cuando la ley de la materia lo permita, accionados con motores de combustión interna sin importar el número de cilindros; y
 
-Febrero 0.92
+e) Tractocamiones: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna sin importar el número de cilindros y tractocamiones tipo quinta rueda.
 
-Marzo 0.83
+Para efectos de este Apartado se entiende por:
 
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 D.- Para efectos de este Apartado, se entiende por:
-
-1. Vehículo nuevo:
+I.- Vehículo nuevo:
 
 a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
 
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la ley, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
 
-II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, consignado en la primera facturación, a excepción del impuesto al valor agregado.
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-III. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+Tratándose de vehículos de procedencia extranjera, se considerará como valor total la del promedio del valor de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por el Servicio de Administración Tributaria, de año y modelo igual y se divide entre el número de ellas.
 
-IV. Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 10 de octubre del año anterior y el 30 de septiembre del año que transcurra.
+III.- Marca, los signos distintivos consistentes en denominaciones, diseños o formas tridimensionales, que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
 
-V. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+IV.- Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1° de octubre del año anterior y el 30 de septiembre del año que transcurra.
 
-VI. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+V.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
 
-VII. Línea:
+VI.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
 
-a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+VII.- Línea:
 
-b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+a) Automóviles con motor de gasolina o gas sin importar el número de cilindros.
 
-c) Automóviles con motor diesel.
+b) Automóviles con motor diesel.
 
-d) Camiones con motor de gasolina, gas o diesel.
+c) Camiones con motor de gasolina, gas o diesel.
 
-e) Tractores no agrícolas tipo quinta rueda.
+d) Tractocamiones tipo quinta rueda.
 
-f) Autobuses integrales.
+e) Autobuses integrales.
 
-g) Automóviles eléctricos.
+f) Automóviles eléctricos.
 
-h) Automóviles híbridos.
+g) Automóviles híbridos.
 
-i) Motocicletas.
+h) Motocicletas.
 
-VIII. Comerciantes en el ramo de vehículos, a las personas físicas v .morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+VIII.- Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+ARTICULO 36 C.- El presente impuesto se causará por el uso o tenencia de vehículos que son objeto de este Apartado.
 
-ARTICULO 36 E.- La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Apartado, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+El presente impuesto se causará por el uso o tenencia de los vehículos señalados en el Artículo 36 A de esta ley; la base del impuesto será el valor total del vehículo señalado en la factura de primera enajenación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, se tomará de base como si éste fuese nuevo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Tratándose de vehículos de procedencia extranjera, se tomará como base la de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por el Servicio de Administración Tributaria, de año y modelo igual y se divide entre el número de ellas.
 
-#### SECCION SEGUNDA. Del Objeto
+Cuando el contribuyente de este impuesto sufra el robo, o pérdida total del vehículo y que éste se encuentre registrado en el padrón vehicular del Estado de Aguascalientes, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo siempre y cuando se acredite dicho supuesto a entera satisfacción de la Secretaría de Finanzas del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+ARTICULO 36 D.- los contribuyentes comprobarán el pago del impuesto a que se refiere este Apartado con el original y/o la copia certificada del documento original correspondiente a la forma de pago del citado impuesto, misma información que deberá de validarse ante la autoridad emisora de dicho comprobante en los términos del Reglamento al Padrón Vehicular del Estado, en caso de portar placas de otro Estado, o haber estado inscrito en alguna Entidad Federativa en la cual no se pague un gravamen similar, el impuesto a que se refiere este Apartado que haya sido causado en el Estado de Aguascalientes por dicho año, se pagará en proporción al número de meses a partir de que se solicite su registro en el Padrón Vehicular del Estado.
 
-ARTICULO 36 F.- Es objeto de este impuesto, la tenencia o uso de los vehículos a que se refiere el Apartado B de este Capítulo.
+El impuesto a que se refiere el presente Apartado, se calculará como a continuación se indica:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-#### SECCION TERCERA. De la Base
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 G.- El presente impuesto se causará por la tenencia o uso de automóviles y motocicletas a que se refiere este Apartado. La base del impuesto será la que resulte de multiplicar el valor total del vehículo consignado en la primera facturación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-#### SECCION CUARTA. Del Pago
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 H.- los contribuyentes comprobarán el pago del impuesto con el original y/o la copia certificada de la forma de pago del citado impuesto, misma información que deberá de validarse ante la autoridad emisora de dicho comprobante en los términos del reglamento respectivo.
-
-Tratándose de automóviles, ómnibus, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
-
-I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+I.- En caso de automóviles nuevos destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
 TARIFA
 
-Limite Limite Cuota Tasa para aplicarse
+Límite Límite Cuota Tasa para aplicarse
 
-inferior superior fija sobre el excedente
+Inferior $ Superior $ Fija $ sobre el excedente
 
-del limite inferior %
+del límite inferior %
 
-0.01 428,768.31 0.00 3.0
+0.01 526,657.78 0.00 3.00
 
-428,768.32 825,140.79 12,863.05 8.7
+526,657.79 1,013,523.64 15,799.73 8.70
 
-825,140.80 1,109,080.70 47,347.45 13.3
+1,013,523.65 1,362,288.13 58,157.06 13.30
 
-1,109,080.71 1,393,020.60 85,111.46 16.8
+1,362,288.14 1,711,052.62 104,542.74 16.80
 
-1,393,020.61 En adelante 132,813.36 19.1
+1,711,052.63 En adelante 163,135.16 19.10
 
-II. Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta Fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta Fracción, multiplicando el resultado por el factor de 0.80;
+II.- Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta Fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta Fracción, multiplicando el resultado por el factor de 0.80;
 
-III. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+III.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando, la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
 Para los efectos de esta Fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
-Para los efectos de este Articulo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso rueda, así como minibuses, microbuses y autobuses integrales cualquiera que sea su tipo y peso bruto vehicular.
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de quince pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractocamiones tipo quinta rueda, así como los minibuses, microbuses y autobuses, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 I.- Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
 
 TARIFA
 
-Limite Limite Cuota Tasa para aplicarse
+Límite Límite Cuota Tasa para aplicarse
 
-inferior superior fija sobre el excedente
+Inferior $ Superior $ Fija $ sobre el excedente
 
-del limite inferior %
+del límite inferior %
 
-0.01 97,826.09 0.00 3.0
+0.01 220,660.00 0.00 3.00
 
-97,826.10 188,260.87 2,934.78 8.7
+220,660.01 303,459.28 6,619.80 8.70
 
-188,260.88 253,043.48 10,802.61 13.3
+303, 459.29 407,882.92 13,823.33 13.30
 
-253,043.49 En adelante 19,418.69 16.8
+407,882.93 En adelante 27,711.67 16.80
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
+Tratándose de automóviles eléctricos, así como aquellos eléctricos que además cuenten con motor de combustión interna, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.0%.
 
-ARTICULO 36 J.- Tratándose de automóviles eléctricos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna, el impuesto se pagará a la tasa del 0%.
+Para los efectos del párrafo anterior, el impuesto será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la autoridad estatal de conformidad con los Artículos 18, 19 y demás relativos a la Ley de Vialidad para el Estado de Aguascalientes en vigor, o por la autoridad federal en los términos de la normatividad que resulte aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los montos de las cantidades a que se refiere el presente Apartado, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con lo dispuesto en el Artículo 4° de esta Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 K.- Para los efectos de lo dispuesto en los Artículos 36 H Y 36 1, de este Apartado, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el' que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado mismo que se obtendrá de conformidad con lo dispuesto en el Articulo 4° de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 L.- No se pagará el impuesto en los términos de este Apartado por la tenencia o uso de los siguientes vehículos:
-
-I. Los importados temporalmente en los términos de la Ley Aduanera.
-
-II. Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
-
-III. Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las Fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial o que implique la no utilización del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
-
-En los casos de robo del automóvil, descompostura parcial e perdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación.
-
-Las campañas aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
-
-El importe a acreditar no será sujeto de devolución.
-
-Vehículos Usados
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 M.- Tratándose de vehículos de fabricación nacional o importados, a que se refieren los Artículos 36 H, Fracción III y 36 J de ese Apartado, así como de motocicletas, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+Tratándose de vehículos de fabricación nacional o importados, así como de motocicletas, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
 TABLA
 
@@ -879,27 +827,25 @@ Años de antigüedad Factor
 
 9 0.500
 
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Articulo 36 K de este Apartado.
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en esta Ley.
 
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "Taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados “Taxis”, el impuesto sobre el uso o tenencia de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
 
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Articulo; y
+I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo; y
 
-II. La cantidad obtenida conforme a la Fracción anterior se actualizará de conformidad con lo dispuesto en el Articulo 36 K de este Apartado; el resultado obtenido se multiplicará por 0.245%.
+II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el presente Apartado; el resultado obtenido se multiplicará por 0.245%.
 
 Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Tratándose de automóviles destinados al transporte de hasta quince pasajeros de fabricación nacional o importados de hasta nueve años modelo anteriores al de aplicación de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 N.- Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anterior al de aplicación de este Apartado, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
 
-Años de antigüedad Factor de depreciación
+Años de antigüedad Factor de
+
+depreciación
 
 1 0.850
 
@@ -919,53 +865,101 @@ Años de antigüedad Factor de depreciación
 
 9 0.075
 
-II. La cantidad obtenida conforme a la Fracción anterior, se actualizará de conformidad con lo dispuesto en el Articulo 36 K de este Apartado; al resultado se le aplicará la tarifa a que hace referencia el Articulo 36 H de este Apartado.
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el presente Apartado, y al resultado se le aplicará la tarifa a que se hace referencia en el mismo.
 
 Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+En los casos que la autoridad fiscal considere que el sujeto del impuesto ha comprobado situaciones de no utilización del vehículo durante un ejercicio fiscal, podrá aceptar la acreditación de la parte del Impuesto a que se refiere este Apartado pagado y no usado en el ejercicio fiscal de que se trate para el pago del impuesto del año inmediato siguiente.
+
+Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
+
+El importe a acreditar no será sujeto de devolución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 36 E.- Son solidariamente responsables del pago de este impuesto:
+
+I.- Quienes por cualquier título, adquieran el uso o tenencia del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago del mismo.
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III.- Las autoridades estatales o municipales competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matriculas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de ésta obligación.
+
+Las autoridades municipales competentes, solamente registrarán vehículos cuyos usuarios o tenedores se encuentren domiciliados en su territorio.
+
+IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Estado de Aguascalientes, mientras el nuevo adquirente, o el nuevo tenedor o usuario, no hayan realizado el pago del Impuesto correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### SECCION SEGUNDA. Del Objeto
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 36 F.- No se pagará este impuesto por el uso o tenencia de los siguientes vehículos:
+
+I.- Los eléctricos utilizados para el transporte público de personas;
+
+II.- Los importados temporalmente en los términos de la Ley Aduanera;
+
+III.- Los de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+
+IV.- Los encomendados al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos, siempre y cuando carezcan de placas de circulación;
+
+VI.- Los vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos cuando el valor total del vehículo y el Impuesto al Valor Agregado consignados en su factura de primera enajenación, sumados den como resultado la cantidad de hasta $200,000.00. Para que la presente excepción surta efectos, será necesario que el usuario o tenedor a que se refiere este Apartado, refrende en el Padrón Vehicular del Estado su registro a más tardar el 31 de marzo del ejercicio fiscal que trascurra, de conformidad con la ley de Ingresos del Estado de Aguascalientes correspondiente y tratándose de vehículos nuevos adquiridos después de esa fecha para que la excepción surta efectos, será necesario que el usuario o tenedor a que se refiere este apartado, lo registre dentro de los quince días siguientes a la fecha de su enajenación; y
+
+VII.- Tratándose de tractores destinados a actividades agrícolas.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el usuario o el tenedor del mismo deberán pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### SECCION TERCERA. De la Base
+
+ARTICULO 36 G.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### SECCION CUARTA. Del Pago
+
+ARTICULO 36 H.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 I.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 J.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 K.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 L.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 M.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+ARTICULO 36 N.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION QUINTA. De la Responsabilidad Solidaria
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 36 O.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 36 O.- Son solidariamente responsables del pago del impuesto establecido en este Apartado:
-
-I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
-
-II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
-
-III. Las autoridades estatales o municipales competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matriculas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de ésta obligación.
-
-Las autoridades municipales competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en su territorio.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION SEXTA. De las Exenciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 P.- No se pagará el impuesto, en los términos de este Apartado, por la tenencia o uso de los siguientes vehículos:
-
-I. Los eléctricos utilizados para el transporte público de personas.
-
-II. Los importados temporalmente en los términos de la legislación aduanera.
-
-III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
-
-IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
-
-V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las Fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+ARTICULO 36 P.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -985,11 +979,13 @@ Es objeto de este impuesto los servicios de hospedaje, la prestación de alojami
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
-Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada o utilizada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos. El 90% de los ingresos que se obtengan por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
+Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada o utilizada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos. El 90% de los ingresos que se obtengan por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes, siempre y cuando el pago del impuesto se realice de forma espontánea.
+
+Para efectos del párrafo anterior, se entenderá que el pago del impuesto se realiza de forma espontánea, cuando el mismo se realice antes del inicio del ejercicio de las facultades de comprobación relativas al cumplimiento de las obligaciones fiscales, previstas en el Código Fiscal del Estado de Aguascalientes, o antes de que dé inicio el Procedimiento Administrativo de Ejecución por la Secretaría de Finanzas del Estado.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1029,7 +1025,7 @@ El impuesto se calculará aplicando la tasa del 2% sobre la base prevista por el
 
 El contribuyente trasladará el impuesto en forma expresa y por separado a las personas que reciban los servicios gravados por esta Ley. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas por un monto equivalente al impuesto establecido en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 43.
 
@@ -1053,9 +1049,9 @@ Numérico
 
 9 y 10 5 días hábiles adicionales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-El pago provisional será el impuesto correspondiente al total de las actividades realizadas en el período por el que se efectúa.
+El pago provisional será el impuesto correspondiente al total de las actividades gravadas en el período por el que se efectúa.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1071,7 +1067,7 @@ II.- En caso de anticipos por reservaciones, cuando se reciba total o parcialmen
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 45.
 
@@ -1087,15 +1083,15 @@ La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyen
 
 II.- Presentar en las fechas establecidas las declaraciones del ejercicio y de pagos provisionales en las formas autorizadas por la Secretaría de Finanzas del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III.- Llevar contabilidad, conforme a las disposiciones fiscales federales o de acuerdo a los principios de contabilidad generalmente aceptados.
+III.- Llevar contabilidad, conforme a las disposiciones fiscales federales.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEPTIMA. De las Facultades de las Autoridades
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 46.
 
@@ -1109,7 +1105,9 @@ I.- Ordenar y practicar revisiones de las declaraciones de los contribuyentes, s
 
 II.- Determinar presuntivamente el valor de las contraprestaciones sujetas al pago de este impuesto, cuando:
 
-a).- El contribuyente no presente la declaración del ejercicio o de cuatro o más bimestres en el ejercicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+a).- El contribuyente no presente la declaración del ejercicio o de seis o más meses en el ejercicio.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -1119,7 +1117,7 @@ c).- No efectúe los registros contables en los términos de las disposiciones f
 
 d).- Exista discrepancia superior al 3% entre los datos asentados en las declaraciones y los de la contabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 III.- Para la determinación presuntiva a que se refiere la fracción anterior, la Secretaría de Finanzas del Estado, utilizará los siguientes elementos:
 
@@ -1241,7 +1239,7 @@ Se exceptúan del pago de este impuesto, los premios derivados de loterías, rif
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION CUARTA. De la Base
 
@@ -1273,7 +1271,7 @@ Se exceptúan del pago de este impuesto, los premios derivados de loterías, rif
 
 #### SECCION QUINTA. Del pago
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 #### SECCION PRIMERA. Del Objeto
 
@@ -1373,11 +1371,11 @@ II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, 
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios que sean utilizados para la prestación de servicios públicos.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VII. Del Impuesto Sobre Nóminas
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
@@ -1391,15 +1389,29 @@ II.- Indemnizaciones por riesgos o enfermedades profesionales;
 
 III.- Pensiones y jubilaciones en casos de invalidez, vejez, cesantía y muerte;
 
-IV.- Indemnizaciones y primas de retiro por rescisión o terminación de la relación laboral;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+IV.- Indemnizaciones y primas de retiro por rescisión o terminación de la relación laboral que corresponden a las que se obtengan por concepto de primas de antigüedad, retiro e indemnización u otros pagos, así como los obtenidos con cargo a la subcuenta del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a la cuenta individual del sistema de ahorro para el retiro, prevista en la ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de la subcuenta del seguro del retiro, de la subcuenta de retiro, cesantía en edad avanzada y vejez de la cuenta individual del sistema de ahorro para el retiro. Los años de servicio serán los que hubiera considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo, por el excedente se pagará el impuesto en los términos de la ley de Hacienda;
 
 V.- Pagos por gastos funerarios;
 
 VI.- Gastos de representación y viáticos erogados por cuenta del patrón, comprobados en los mismos términos que para su deducibilidad exija la Ley del Impuesto sobre la Renta;
 
-VII.- aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y las Cuotas al Instituto Mexicano del Seguro Social para las Fuerzas Armadas Mexicanas y las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VIII.- El ahorro, siempre que se integre por un depósito por cantidad igual del trabajador y de la empresa, así como las cantidades otorgadas por el patrón para fines sociales o sindicales;
+VII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón, las cuotas que en términos de ley le corresponde cubrir al patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) y las aportaciones al ISSSTE.
+
+En los conceptos señalados en las Fracciones IX, X y XIV, cuando el importe de las referidas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base del objeto del impuesto.
+
+Para efectos de la presente regla, el salario base corresponde al total de las percepciones que reciban los trabajadores por la aportación de su trabajo personal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+VIII.- El ahorro, cuando se integre por un depósito de cantidad semanal, quincenal o mensual igual del trabajador y de la empresa; si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, será parte de su salario base;
+
+Para efectos de la presente regla, el salario base corresponde al total de las percepciones que reciban los trabajadores por la aportación de su trabajo personal.
+
+Las aportaciones otorgadas por el patrón para fines sociales o sindicales, en ningún caso podrán exceder del 20% del salario del trabajador. En caso de que sea mayor la aportación, solamente se integrara el excedente;
 
 IX.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebase el 10% del salario base;
 
@@ -1413,9 +1425,9 @@ XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de 
 
 XIII.- Primas de seguros por gastos médicos o de vida;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIV.- Las despensas en dinero o en especie, cuando representen más del 40% del salario mínimo general vigente en el Estado;
+XIV.- las despensas en dinero o en especie, hasta el 40% del salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -1447,11 +1459,11 @@ Son responsables solidarios del pago de este impuesto, las personas físicas o m
 
 La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal subordinado, en términos del Artículo 63, de esta ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 67.
 
-Este impuesto se causará y pagará aplicando a la bases, la tasa del 1.5% sobre los pagos efectuados en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado por cada uno de los meses del año calendario.
+Este impuesto se causará y pagará aplicando a la base, la tasa del 2% sobre los pagos efectuados en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado por cada uno de los meses del año calendario.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -1765,11 +1777,11 @@ EL SECRETARIO DE PLANEACION Y DESARROLLO ESTATAL,
 
 Lic. Oscar López Velarde Vega.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE DICIEMBRE DE 1992.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 31 DE DICIEMBRE DE 1995.
 
@@ -1914,3 +1926,9 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTICULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la (sic) Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
