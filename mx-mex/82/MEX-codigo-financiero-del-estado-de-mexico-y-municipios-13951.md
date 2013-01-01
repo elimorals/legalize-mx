@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2012-12-19"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1159,6 +1161,8 @@ Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal 
 
 Tratándose de fianza otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se estará a lo dispuesto por la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 41.
 
 Son responsables solidarios del pago de créditos fiscales:
@@ -1290,8 +1294,6 @@ XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, pe
 En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -3059,6 +3061,8 @@ Artículo 60 E.- Este impuesto se calculará como a continuación se indica:
 
 I. En el caso de automóviles destinados al transporte particular de hasta quince pasajeros, motocicletas y embarcaciones, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE ENERO DE 2013)</small>
+
 A). El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
@@ -3095,23 +3099,31 @@ C). Al resultado obtenido en el inciso anterior, se le aplicará la tarifa sigui
 
 TARIFA
 
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+
+C). Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
+
+TARIFA
+
 Valor total del Vehículo Cuota fija Tasa para aplicarse
 
 Límite inferior Límite superior $ sobre el excedente
 
 $ $ del límite inferior %
 
-0.01 542,457.51 0.00 3.0
+0.01 565,114.92 0.00 3.0
 
-542,457.52 1,043,929.34 16,273.72 8.7
+565,114.93 1,087,532.27 16,953.44 8.7
 
-1,043,929.35 1,403,156.77 59,901.77 13.3
+1,087,532.28 1,461,763.94 62,403.75 13.3
 
-1,403,156.78 1,762,384.19 107,679.02 16.8
+1,461,763.95 1,835,995.60 112,176.57 16.8
 
-1,762,384.20 En adelante 168,029.21 19.1
+1,835,995.61 En adelante 175,047.47 19.1
 
 Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
+
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
 
 Para el caso de automóviles de servicio público de transporte que pasen a ser de servicio particular, el impuesto se calculará conforme a esta fracción para el ejercicio fiscal siguiente a aquel en el que se dé esta circunstancia.
 
@@ -3171,9 +3183,9 @@ Dicha tasa aplicará siempre y cuando no se modifiquen las características orig
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-Artículo 60 G.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la capacidad de carga de la aeronave, expresado en toneladas, por la cantidad de $9,844.11 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $10,603.32 para aeronaves de reacción.
+Artículo 60 G.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la capacidad de carga de la aeronave, expresado en toneladas, por la cantidad de $10,255.28 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $11,046.20 Para aeronaves de reacción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3457,39 +3469,41 @@ SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO], G.G. 1 DE ENERO DE 2010)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
+#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
 
 #### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE AGUA Y OBRA PUBLICA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
 DISPOSICIONES GENERALES
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
 
-(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 70.
 
@@ -3505,7 +3519,7 @@ Cuando el pago de los derechos se haya efectuado por el contribuyente y no sea p
 
 Una vez realizado el pago de los derechos el contribuyente o retenedor deberá de efectuar su trámite ante la autoridad prestadora del servicio a más tardar en un plazo de treinta días.
 
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 70 Bis.
 
@@ -3519,35 +3533,35 @@ CONCEPTO
 
 I. Por la expedición de copias certificadas
 
-A). Por la primera hoja $53
+A). Por la primera hoja $56
 
-B). Por cada hoja subsecuente $26
+B). Por cada hoja subsecuente $27
 
 II. Copias simples:
 
-A). Por la primera hoja $14
+A). Por la primera hoja $15
 
 B). Por cada hoja subsecuente $1
 
 III. Expedición de copias certificadas de testimonios de
 
-viviendas de interés social, social progresiva y popular $14
+viviendas de interés social, social progresiva y popular $15
 
-IV. Por la expedición de información en medios magnéticos. $14
+IV. Por la expedición de información en medios magnéticos. $15
 
-V. Por la expedición de información en disco compacto. $21
+V. Por la expedición de información en disco compacto. $22
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 Para los supuestos establecidos en las fracciones IV y V, el solicitante podrá, en ejercicio del derecho a la información pública, aportar el medio en el que se requiera le sea proporcionada la información, en cuyo caso no habrá costo que cubrir.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 Artículo 70 A.- Por los servicios prestados por las dependencias y entidades publicas, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un 2% por concepto de derechos a los contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas, mediante retención que ellas realicen.
 
 Para el cobro de estos derechos, los Organismos Autónomos harán las retenciones de los mismos de acuerdo a sus propias disposiciones.
 
-(ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 70 Ter.
 
@@ -3565,8 +3579,6 @@ La actualización que en su caso se realice conforme a lo previsto en el present
 
 Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente:
 
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
-
 TARIFA
 
 CONCEPTO
@@ -3577,39 +3589,39 @@ A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo
 
 1. De Educación:
 
-a). Programas de estudio. $72
+a). Programas de estudio. $76
 
-b). Boletas de Calificaciones. $72
+b). Boletas de Calificaciones. $76
 
-c). Certificados de estudio. $72
+c). Certificados de estudio. $76
 
-d). Títulos profesionales. $215
+d). Títulos profesionales. $225
 
-2. Del Registro Civil. $72
+2. Del Registro Civil. $76
 
-3. De otros servidores públicos del Poder Ejecutivo. $72
+3. De otros servidores públicos del Poder Ejecutivo. $76
 
 B). Por cada legalización de firmas de servidores públicos del
 
-Poder Judicial. $72
+Poder Judicial. $76
 
 C). Por cada legalización de firmas de servidores públicos
 
-municipales. $72
+municipales. $76
 
 II. Apostillamiento de documentos públicos para presentarse
 
-en países firmantes de la Convención de La Haya. $215
+en países firmantes de la Convención de La Haya. $225
 
 III. Por certificación de cada ejemplar agotado del Periódico
 
-Oficial "Gaceta del Gobierno". $35
+Oficial "Gaceta del Gobierno". $37
 
 IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
 
-A). Folios de protocolo ordinario, por volumen. $215
+A). Folios de protocolo ordinario, por volumen. $225
 
-B). Folios de libros de cotejos, por volumen. $359
+B). Folios de libros de cotejos, por volumen. $376
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3627,21 +3639,21 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 #### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 74.
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+
 #### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 75.
 
 Las personas físicas y jurídicas colectivas que presten los servicios de seguridad privada, pagarán derechos conforme a la siguiente:
-
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
 
 TARIFA
 
@@ -3653,13 +3665,13 @@ Registro Público correspondiente, respecto del
 
 personal operativo con que cuentan los prestadores
 
-de servicios, por elemento. $329
+de servicios, por elemento. $345
 
 II. Por el estudio y evaluación de la solicitud para la
 
 prestación de servicios de seguridad privada, en los
 
-términos de ley, o su revalidación. $1,647
+términos de ley, o su revalidación. $1,727
 
 III. Por el estudio para determinar la legalidad de
 
@@ -3667,7 +3679,7 @@ inscribir cada arma de fuego o equipo utilizado en
 
 la prestación de los servicios, por cada arma
 
-o equipo. $329
+o equipo. $345
 
 IV. Por el estudio para determinar la legalidad de
 
@@ -3677,41 +3689,41 @@ de cada uno de los elementos operativos de quienes
 
 la Secretaría haya efectuado la consulta previa de
 
-antecedentes policiales, por elemento. $329
+antecedentes policiales, por elemento. $345
 
 V. Por la expedición de cédula de identificación
 
-a personal operativo, por cada elemento o su reposición. $275
+a personal operativo, por cada elemento o su reposición. $288
 
 VI. Por la modalidad de la prestación de los servicios
 
-de seguridad privada. $549
+de seguridad privada. $576
 
 VII. Por el cambio de modalidad del servicio de
 
-seguridad privada o su ampliación. $1,647
+seguridad privada o su ampliación. $1,727
 
 VIII. Por inscripción de licencia colectiva de portación
 
 de arma de fuego por cada uno de los elementos
 
-operativos. $329
+operativos. $345
 
 SUBSECCION TERCERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION CIVIL
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
 
-(F. DE E., G.G. 25 DE MARZO DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(F. DE E., G.G. 25 DE MARZO DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 76.
 
 Por los servicios prestados por la Dirección General de Protección Civil, se pagarán derechos conforme a la siguiente:
-
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
 
 TARIFA
 
@@ -3719,17 +3731,17 @@ CONCEPTO
 
 I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil:
 
-A). Grupos voluntarios. $3,198
+A). Grupos voluntarios. $3,351
 
 B). Prestadoras de servicios de consultoría o capacitación
 
-en materia de protección civil. $3,737
+en materia de protección civil. $3,916
 
 II. Derogada.
 
 III. Por la evaluación de las condiciones de seguridad para
 
-usos del suelo que generen impacto regional. $3,837
+usos del suelo que generen impacto regional. $4,021
 
 IV. Por la prestación de los servicios de asesoría técnica
 
@@ -3737,7 +3749,7 @@ a personas físicas o jurídicas colectivas que así lo soliciten,
 
 para la elaboración de sus programas específicos de
 
-protección civil. $2,881
+protección civil. $3,019
 
 V. Por la evaluación del análisis de vulnerabilidad y
 
@@ -3745,13 +3757,13 @@ riesgo, así como la incorporación de información
 
 cualitativa del Subsistema Afectable identificado al
 
-Sistema Estatal de Información de Protección Civil. $3,737
+Sistema Estatal de Información de Protección Civil. $3,916
 
 VI. Por el suministro de atlas estatal de riesgos o de los
 
 productos del Sistema Estatal de Información de
 
-Protección Civil, en medios digitales o impresos. $2,313
+Protección Civil, en medios digitales o impresos. $2,424
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3759,61 +3771,61 @@ Protección Civil, en medios digitales o impresos. $2,313
 
 VII. Por la prestación de los servicios que involucre el Programa de Capacitación en materia de Protección Civil:
 
-A). Prevención y Combate de Incendios Urbanos Nivel Básico, Incendios Estructurales, y Normatividad en la materia, por cada curso. $1,207.50
+A). Prevención y Combate de Incendios Urbanos Nivel Básico, Incendios Estructurales, y Normatividad en la materia, por cada curso. $1,265.50
 
-B). Prevención y Combate de Incendios Urbanos Nivel Intermedio e Incendios Industriales por cada curso. $2,012.50
+B). Prevención y Combate de Incendios Urbanos Nivel Intermedio e Incendios Industriales por cada curso. $2,109
 
-C). Manejo Defensivo de Vehículos de Emergencia, Operación y Mantenimiento de Auto-Bombas y Preparación Psicofísica del Rescatista, por cada curso. $1,207.50
+C). Manejo Defensivo de Vehículos de Emergencia, Operación y Mantenimiento de Auto-Bombas y Preparación Psicofísica del Rescatista, por cada curso. $1,265.50
 
-D). Equipos de Aire Autocontenido. $2,012.50
+D). Equipos de Aire Autocontenido. $2,109
 
-E). Prevención y Combate de Incendios Urbanos Nivel Avanzado y Formación Profesional de Instructores, por cada curso. $2,242.50
+E). Prevención y Combate de Incendios Urbanos Nivel Avanzado y Formación Profesional de Instructores, por cada curso. $2,350
 
-F). Elaboración de Programas, Introducción a la Protección Civil. Taller de Integrantes de Brigadas Internas y Amenaza Bomba, por cada curso. $690.00
+F). Elaboración de Programas, Introducción a la Protección Civil. Taller de Integrantes de Brigadas Internas y Amenaza Bomba, por cada curso. $723.00
 
-G). Práctica para Brigadas Internas. $920.00
+G). Práctica para Brigadas Internas. $964
 
-H). Protección Civil para Caravanas, Desfiles y Eventos Especiales. $690.00
+H). Protección Civil para Caravanas, Desfiles y Eventos Especiales. $723
 
-I). Taller sobre Fenómenos Perturbadores y Ayuda Humanitaria en Situación de Emergencia, por cada curso. $460.00
+I). Taller sobre Fenómenos Perturbadores y Ayuda Humanitaria en Situación de Emergencia, por cada curso. $482
 
-J). Riesgo Químico y Transporte de Mercancía, Gestión en la Administración de Desastres y Riesgos, por cada curso. $920.00
+J). Riesgo Químico y Transporte de Mercancía, Gestión en la Administración de Desastres y Riesgos, por cada curso. $964
 
-K). Rescate Módulo Uno y Dos, por cada curso. $1,207.50
+K). Rescate Módulo Uno y Dos, por cada curso. $1,265.50
 
-L). Rescate Módulo Tres y Cuatro, Soporte Básico de la Vida, Rescate Agreste, en Espacios Confinados y Estructuras Colapsadas, por cada curso. $2,242.50
+L). Rescate Módulo Tres y Cuatro, Soporte Básico de la Vida, Rescate Agreste, en Espacios Confinados y Estructuras Colapsadas, por cada curso. $2,350
 
-M). Manejo de Paciente Politraumatizado. $1,207.50
+M). Manejo de Paciente Politraumatizado. $1,265.50
 
-N). Manejo de Paciente Clínico. $2,242.50
+N). Manejo de Paciente Clínico. $2,350
 
-O). Empaquetamiento y Transporte de Lesionados. $1,380
+O). Empaquetamiento y Transporte de Lesionados. $1,446
 
-P). Taller Curso de Extracción Vehicular. $2,012.50
+P). Taller Curso de Extracción Vehicular. $2,109
 
-Q). RCP para Profesionales de la Salud. $2,242.50
+Q). RCP para Profesionales de la Salud. $2,350
 
-R). Prestación de Servicios Especiales. $1,035
+R). Prestación de Servicios Especiales. $1,085
 
 VIII. Por la evaluación de las condiciones de seguridad para la emisión de la opinión favorable del Ejecutivo Estatal, en términos de la Ley Federal de Armas de Fuego y Explosivos:
 
-A). Carro vitrina para juguetería pirotécnica. $400
+A). Carro vitrina para juguetería pirotécnica. $419
 
-B). Bodega para artificios pirotécnicos. $1,604
+B). Bodega para artificios pirotécnicos. $1,681
 
-C). Fabricación de artificios pirotécnicos. $2,405
+C). Fabricación de artificios pirotécnicos. $2,520
 
-D). Fábrica de elementos pirotécnicos. $4,677
+D). Fábrica de elementos pirotécnicos. $4,902
 
-E). Compra-venta de sustancias químicas. $2,874
+E). Compra-venta de sustancias químicas. $3,012
 
 F). Instalaciones en que se realiza la compra-venta de
 
-sustancias químicas. $2,874
+sustancias químicas. $3,012
 
-G). Obras de ingeniería civil. $2,874
+G). Obras de ingeniería civil. $3,012
 
-H). Industrias químicas de transformación. $2,874
+H). Industrias químicas de transformación. $3,012
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3825,39 +3837,39 @@ deportivas, fulminantes y demás proyectiles
 
 impulsados por deflagración de pólvora,
 
-así como clubes y campos de tiro y cacería. $2,371.00
+así como clubes y campos de tiro y cacería. $2,604
 
-J). Reparación de armas de fuego y gas. $1,900
+J). Reparación de armas de fuego y gas. $1,991
 
-K). Transporte especializado de explosivos. $2,534
+K). Transporte especializado de explosivos. $2,656
 
 IX. Por la evaluación de Programas Específicos de Protección Civil:
 
-A). Presentación del programa. $2,881
+A). Presentación del programa. $3,019
 
-B). Actualización del programa. $1,078
+B). Actualización del programa. $1,129
 
 X. Por la evaluación y dictamen de condiciones de seguridad
 
 de los bienes inmuebles, sus instalaciones y equipo, por cada
 
-vez que se solicite. $3,837
+vez que se solicite. $4,021
 
 XI. Evaluación de condiciones de seguridad en sitios de concentración masiva de población donde se reúnan 3,000 o más personas, ó se realicen torneos de gallos:
 
-A). Instalaciones fijas, anual. $6,395
+A). Instalaciones fijas, anual. $6,702
 
-B). Instalaciones eventuales, por cada ocasión que se realice. $6,395
+B). Instalaciones eventuales, por cada ocasión que se realice. $6,702
 
 XII. Por el suministro de guías:
 
 A). Para la elaboración de programas específicos de
 
-protección civil. $1,023
+protección civil. $1,072
 
 B). Para la elaboración de análisis de vulnerabilidad y riesgo,
 
-por guía. $1,023
+por guía. $1,072
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3865,7 +3877,9 @@ SUBSECCION CUARTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 77.
 
@@ -3873,9 +3887,9 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-A). Apeo y deslinde judicial. $511
+A). Apeo y deslinde judicial. $536
 
-B). Capitulaciones matrimoniales sobre inmuebles. $511
+B). Capitulaciones matrimoniales sobre inmuebles. $536
 
 C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
@@ -3893,7 +3907,7 @@ D). La compraventa a plazos, con reserva de dominio o cualquier otra condición 
 
 E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $57.
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $60.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3901,13 +3915,15 @@ Tratándose del registro de actos que constituyan compraventa a plazos, con rese
 
 F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
-Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos $507.
+Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos $531.
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $768.
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $805.
 
 H). Otros actos inscribibles o anotables.
 
-Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresivo o popular, se pagarán por concepto de derechos $120, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $126, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
 Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
@@ -3917,31 +3933,31 @@ CONCEPTO
 
 1. Cuando los actos a inscribir no tengan valor determinado
 
-o éste sea hasta de $205,997. $1,384
+o éste sea hasta de $215,885. $1,451
 
 2. Cuando el valor de los actos a inscribir sea de más de
 
-$205,997 y hasta de $257,497. $4,156
+$215,885 y hasta de $269,857. $4,355
 
 3. Cuando el valor de los actos a inscribir sea de más de
 
-$257,497 y hasta de $308,996. $6,928
+$269,857 y hasta de $323,828. $7,260
 
 4. Cuando el valor de los actos a inscribir sea de más de
 
-$308,996 y hasta de $360,496. $9,698
+$323,828 y hasta de $377,800. $10,163
 
 5. Cuando el valor de los actos a inscribir sea de más de
 
-$360,496 y hasta de $411,997. $12,469
+$377,800 y hasta de $431,773. $13,068
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$411.997. $13,882
+$431,773. $14,548
 
 Por las inscripciones a que se refiere el inciso C), D), E) y H) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $547.
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $573.
 
 II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
 
@@ -3951,27 +3967,27 @@ CONCEPTO
 
 1. Cuando los actos a inscribir no tengan valor determinado
 
-o éste sea hasta de $205,997. $1,384
+o éste sea hasta de $215,885. $1,451
 
 2. Cuando el valor de los actos a inscribir sea de más de
 
-$205,997 y hasta de $257,497. $4,156
+$215,885 y hasta de $269,857. $4,355
 
 3. Cuando el valor de los actos a inscribir sea de más de
 
-$257,497 y hasta de $308,996. $6,928
+$269,857 y hasta de $323,828. $7,260
 
 4. Cuando el valor de los actos a inscribir sea de más de
 
-$308,996 y hasta de $360,496. $9,698
+$323,808 y hasta de $377,800. $10,163
 
 5. Cuando el valor de los actos a inscribir sea de más de
 
-$360,496 y hasta de $411,997. $12,469
+$377,800 y hasta de $431,773. $13,068
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$411.997. $13,882
+$431.773. $14,548
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3983,21 +3999,21 @@ Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada, pa
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Por la inscripción de la división de hipoteca se pagarán $1,321 por cada inmueble.
+Por la inscripción de la división de hipoteca se pagarán $1,451 por cada inmueble.
 
-Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $755.
+Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $792.
 
-Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $120.
+Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $125.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,095, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $58, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,203, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $60, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $511.
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $536.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4005,7 +4021,7 @@ III. Por la inscripción de actos o documentos cuyo registro sea necesario como 
 
 Para efectos del párrafo anterior, los contratos privados de compraventa no se consideraran como un acto previo, independientemente de la denominación que se les dé.
 
-Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $232.
+Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $244.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -4017,9 +4033,11 @@ Para la aplicación de los derechos previstos en este artículo referidos a vivi
 
 Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aún cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 78.
 
@@ -4039,33 +4057,33 @@ CONCEPTO
 
 1. Cuando los actos a inscribir no tengan valor determinado
 
-o éste sea hasta de $205,997. $1,384.
+o éste sea hasta de $215,885. $1,451
 
 2. Cuando el valor de los actos a inscribir sea de más de
 
-$205,997 y hasta de $257, 497. $4,156
+$215,885 y hasta de $269,857. $4,355
 
 3. Cuando el valor de los actos a inscribir sea de más de
 
-$257,497 y hasta de $308,996. $6,928
+$269,857 y hasta de $323,828. $7,260
 
 4. Cuando el valor de los actos a inscribir sea de más de
 
-$308,996 y hasta de $360,496. $9,698
+$323,828 y hasta de $377,800. $10,163
 
 5. Cuando el valor de los actos a inscribir sea de más de
 
-$360,496 y hasta de $411,997. $12,469
+$377,800 y hasta de $431,773. $13,068
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$411,997. $13,882
+$431,773. $14,548
 
 IV. Por la cancelación de cualquiera de los
 
-actos contenidos en este artículo $1,384
+actos contenidos en este artículo $1,451
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
@@ -4077,13 +4095,13 @@ Por inscripciones de documentos o actos relativos a personas jurídicas colectiv
 
 I. Escrituras constitutivas de personas
 
-jurídicas colectivas o aumento de capital social. $1,371
+jurídicas colectivas o aumento de capital social. $1,437
 
 II. Actas de asambleas de socios o de juntas
 
 de administradores de conformidad a la legislación
 
-aplicable. $1,371
+aplicable. $1,437
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -4097,21 +4115,21 @@ renuncia de los mismos conferidos
 
 a gerentes, administradores y cualesquiera
 
-otros mandatarios, se pagarán $564.
+otros mandatarios, se pagarán $591.
 
 IV. Emisiones de acciones, cédulas, obligaciones
 
-o certificados de participación. $1,371
+o certificados de participación. $1,437.
 
-V. Fianzas de corredores, se pagarán $768
+V. Fianzas de corredores, se pagarán $805.
 
 VI. Depósito de la firma en facsímil de los
 
-administradores, se pagarán $1,384
+administradores, se pagarán $1,451.
 
 VII. Depósito de copia autorizada por
 
-balance, se pagarán $1,384
+balance, se pagarán $1,451.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -4121,21 +4139,21 @@ VIII. Cancelación, por mandato judicial, de cualquier
 
 acto que sea inscribible de acuerdo con este
 
-artículo. $1,021
+artículo. $1,070.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 (ACTUALIZADA EN SU TARIFA, G.G. 21 DE DICIEMBRE DE 2010)
 
-IX. Otros actos inscribibles o anotables. $1.371.
+IX. Otros actos inscribibles o anotables. $1,437.
 
-Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo (sic) $105.
+Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo $110.
 
 ###### Artículo 80.
 
 (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
@@ -4145,7 +4163,7 @@ Las microindustrias que se encuentren registradas en el Padrón Nacional de la M
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-I. Corresponsalía, $770.
+I. Corresponsalía, $806.
 
 II. Compra-venta con reserva de dominio.
 
@@ -4153,9 +4171,9 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III y IV, $1,088.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III y IV, $1,140.
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $547.
+VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $573.
 
 VII. Arrendamiento financiero.
 
@@ -4169,31 +4187,33 @@ CONCEPTO
 
 1. Cuando los actos a inscribir no tengan valor determinado o
 
-éste sea hasta de $205,997. $1,384
+éste sea hasta de $215,885. $1,451
 
 2. Cuando el valor de los actos a inscribir sea de más de
 
-$205,997 y hasta de $257,497. $4,156
+$215,885 y hasta de $269,857. $4,355
 
 3. Cuando el valor de los actos a inscribir sea de más de
 
-$257,497 y hasta de $308,996. $6,928
+$269,857 y hasta de $323,828. $7,260
 
 4. Cuando el valor de los actos a inscribir sea de más de
 
-$308,996 y hasta de $360,496. $9,698
+$323,828 y hasta de $377,800. $10,163
 
 5. Cuando el valor de los actos a inscribir sea de más de
 
-$360,496 y hasta de $411,997. $12,469
+$377,800 y hasta de $431,773. $13,068
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$411,997. $13,882
+$431,773. $14,548
 
-Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derecho, $755.
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
 
-(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $792.
+
+(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 82.
 
@@ -4203,15 +4223,15 @@ TARIFA
 
 CONCEPTO
 
-I. Providencias precautorias. $1,384
+I. Providencias precautorias. $1,451
 
-II Suspensión de pagos. $1,387
+II Suspensión de pagos. $1,454
 
-III. Quiebras. $1,387
+III. Quiebras. $1,454
 
-IV. Otras resoluciones. $1,387
+IV. Otras resoluciones. $1,454
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
@@ -4227,13 +4247,13 @@ CONCEPTO
 
 I. Expedición de certificados:
 
-A). De no inscripción. $652
+A). De no inscripción. $684
 
-B). De no propiedad. $53
+B). De no propiedad. $55
 
-C). De inscripción. $646
+C). De inscripción. $677
 
-D). De libertad o de existencia de gravámenes. $752
+D). De libertad o de existencia de gravámenes. $788
 
 Tratándose de la expedición de certificados de
 
@@ -4241,13 +4261,13 @@ libertad o existencia de gravámenes relacionados
 
 con la adquisición de viviendas de interés social,
 
-social progresiva o popular. $131
+social progresiva o popular. $137
 
 Tratándose de terrenos en donde se construyan
 
 Viviendas de interés social, social progresiva o
 
-popular. $326
+popular. $342
 
 Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
 
@@ -4259,9 +4279,9 @@ IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
 V. Por expedición de informes sobre la existencia o
 
-inexistencia de testamentos. $547
+inexistencia de testamentos. $573
 
-VI. Por compulsa de documentos. $53
+VI. Por compulsa de documentos. $55
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4271,13 +4291,13 @@ VII. Expedición de copias literales de asientos registrales,
 
 o de las copias certificadas de la carátula de los folios reales
 
-electrónicos. $652
+electrónicos. $684
 
 VIII. Por la expedición del certificado de una
 
 secuencia registral de un inmueble o asiento
 
-registral, por cada asiento que se certifique. $552
+registral, por cada asiento que se certifique. $578
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -4289,7 +4309,7 @@ informes contenidos en los libros, partidas o folios
 
 electrónicos del Registro Público de la Propiedad
 
-de antecedentes regístrales. $287
+de antecedentes registrales. $301
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4303,7 +4323,7 @@ En el caso de los certificados a que hace referencia la fracción I y tratándos
 
 Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VIII y IX de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
@@ -4315,9 +4335,9 @@ Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VII
 
 ###### Artículo 84.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $415.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $435.
 
-(F. DE E., G.G. 13 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(F. DE E., G.G. 13 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -4325,13 +4345,15 @@ Por la calificación de los documentos, cuando se devuelvan sin haberse practica
 
 ###### Artículo 85.
 
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $107.
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $112.
 
 ###### Artículo 86.
 
 (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 87.
 
@@ -4341,7 +4363,7 @@ Cuando un mismo título o documento origine dos o más inscripciones, los derech
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $346, por cada una de ellas.
+Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $380, por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
@@ -4349,7 +4371,7 @@ Tratándose de instituciones y organizaciones de crédito y seguros, las inscrip
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
 
@@ -4365,25 +4387,25 @@ CONCEPTO
 
 I. Expedición de testimonios, incluida la autorización,
 
-por cada hoja. $53
+por cada hoja. $55
 
 II. Expedición de copias certificadas de planos que obran
 
-en el apéndice por cada foja, Incluida la autorización. $107
+en el apéndice por cada foja, Incluida la autorización. $112
 
 III. Expedición de testimonio de escrituras mecanografiadas,
 
-por hoja. $70
+por hoja. $73
 
-IV. Informe sobre existencia o inexistencia de testamento. $529
+IV. Informe sobre existencia o inexistencia de testamento. $554
 
-V. Búsqueda de antecedentes notariales. $53
+V. Búsqueda de antecedentes notariales. $55
 
 VI. Autorización definitiva de las escrituras o actas
 
 notariales de valor determinado que no contengan
 
-cuota especial en este Código. $1,016
+cuota especial en este Código. $1,065
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4393,35 +4415,35 @@ VII. Derechos por autorización definitiva,
 
 para cuando se trate de actas o escrituras
 
-de valor indeterminado. $1,085
+de valor indeterminado. $1,137
 
 VIII. Por la cancelación de la disposición del patrimonio
 
-familiar. $511
+familiar. $536
 
 IX. Por revocación, extinción y sustitución de poderes
 
 que se asienten en nota complementaria dentro del acto
 
-jurídico que corresponda. $523
+jurídico que corresponda. $548
 
 X. Depósito de aviso de testamento, incluyendo
 
-el que se realiza por vía correo electrónico, por cada uno. $52
+el que se realiza por vía correo electrónico por cada uno. $55
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 89.
 
-Los notarios públicos deberán, efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán efectuar el pago de los derechos correspondientes, conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
 
 ###### Artículo 90.
 
@@ -4433,7 +4455,7 @@ del apéndice de los procedimientos administrativos
 
 y de la documentación concentrada en la Dirección
 
-General del Registro Civil. $74
+General del Registro Civil. $78
 
 II. Expedición de copia certificada del Registro Civil en
 
@@ -4441,15 +4463,15 @@ papel bond para acuerdos de aclaración de actas,
 
 concentradas en la Dirección General y oficinas regionales
 
-del Registro Civil. $27
+del Registro Civil. $28
 
-III. Expedición de copia certificada en papel seguridad, de
+III. Expedición de copia certificada en papel seguridad de
 
 las actas de los actos y/o hechos del estado civil
 
-concentradas en la Dirección General. $55
+concentradas en la Dirección General. $57
 
-IV. Por el dictamen de procedencia del divorcio administrativo. $1,023
+IV. Por el dictamen de procedencia del divorcio administrativo. $1,072
 
 V. Búsqueda en los libros y archivos sistematizados del
 
@@ -4459,13 +4481,13 @@ Dirección General, subdirecciones y oficinas regionales,
 
 cuando no se señale fecha de registro, por cada año o
 
-fracción. $14
+fracción. $15
 
 VI. Por el trámite de aclaración de acta por vía administrativa
 
-y el asentamiento de la anotación marginal correspondiente. $80
+y el asentamiento de la anotación marginal correspondiente. $83
 
-VII. Por certificación de constancia de inexistencia de registro. $55
+VII. Por certificación de constancia de inexistencia de registro. $57
 
 VIII. Por cada hoja de papel seguridad para copia certificada. $3
 
@@ -4477,7 +4499,7 @@ X. Por el servicio de encuadernación o rehabilitación de los
 
 libros de Oficialía de las diversas actas de los actos y hechos
 
-del estado civil, por libro. $246
+del estado civil, por libro. $258
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4489,15 +4511,15 @@ TARIFA
 
 CONCEPTO
 
-I. Expedición de certificados por cada foja. $54
+I. Expedición de certificados por cada foja. $56
 
-II. Expedición de formas aprobadas. $50
+II. Expedición de formas aprobadas. $52
 
 III. Práctica de auditoría realizada a solicitud de particulares:
 
-A). Hora auditor. $44
+A). Hora auditor. $46
 
-B). Hora supervisor. $74
+B). Hora supervisor. $77
 
 IV. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con la siguiente:
 
@@ -4507,21 +4529,21 @@ A). Cuando los bienes ocupen hasta 1 m2 de superficie, por día. $9
 
 B). Por cada metro o fracción excedente, por día. $2
 
-V. Expedición de copias microfilmadas a papel, por imagen. $14
+V. Expedición de copias microfilmadas a papel, por imagen. $15
 
-VI. Expedición de constancia de inexistencia de documentos. $27
+VI. Expedición de constancia de inexistencia de documentos. $29
 
 VII. (DEROGADA, G.G. 27 DE DICIEMBRE DE 2005) (REPUBLICADA, G.G. 1 DE ENERO DE 2011)
 
 VIII. Expedición de constancias de pago de contribuciones y
 
-de constancias que reflejen la situación fiscal del contribuyente. $138
+de constancias que reflejen la situación fiscal del contribuyente. $145
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
 
-(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 91 Bis.
 
@@ -4539,7 +4561,7 @@ I. Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
 A). Para vehículos de servicio particular. $554
 
-B). Para vehículos particulares de carga comercial. $1,104
+B). Para vehículos particulares de carga comercial. $1,157
 
 C). Para remolques:
 
@@ -4559,7 +4581,7 @@ C). Para remolques:
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-3. Con capacidad de carga de 5.001 a 10,000 Kgs. $2,066
+3. Con capacidad de carga de 5001 a 10,000 Kgs. $2,066
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4581,7 +4603,7 @@ D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
 2. Cilindrada 351 c.c en adelante. $463
 
-E). Para auto antiguo. $1,889
+E). Para auto antiguo. $1,980
 
 Para efectos del presente inciso, se entenderá por auto antiguo, a aquel vehículo con una antigüedad mínima de 30 años a partir de la fecha de su fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, debiendo contar con una certificación de sus condiciones físico-mecánicas, expedida por el fabricante u organismo de certificación, laboratorio de prueba o unidad de verificación debidamente acreditado.
 
@@ -4597,17 +4619,17 @@ II. Por refrendo anual:
 
 A). Para vehículos de uso particular. $414
 
-B). Para vehículos particulares de carga comercial. $990
+B). Para vehículos particulares de carga comercial. $1,038
 
 C). Para remolques:
 
-l. Con capacidad de carga de hasta 1,000 Kgs. $1,379
+l. Con capacidad de carga de hasta 1,000 Kgs. $1,445
 
-2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,650
+2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,729
 
-3. Con capacidad de carga de 5,001 a 10,000 Kgs. $1,971
+3. Con capacidad de carga de 5,001 a 10,000 Kgs. $2,066
 
-4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,683
+4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,812
 
 D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
@@ -4623,7 +4645,7 @@ D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
 2. Cilindrada 351 c.c en adelante. $463
 
-E). Para auto antiguo. $1,907
+E). Para auto antiguo. $1,999
 
 Los derechos previstos en esta fracción se pagarán anualmente de manera simultánea con el impuesto sobre tenencia, mediante declaración, dentro de los tres primeros meses de cada año.
 
@@ -4633,7 +4655,7 @@ con motivo de correcciones por errores imputables al
 
 contribuyente o actualizaciones de datos que afecten el
 
-registro en el padrón vehicular. $585
+registro en el padrón vehicular. $613
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4671,7 +4693,7 @@ D). Para motocicleta, motoneta, trimoto y cuadrimoto. $168
 
 > <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Por la expedición del permiso para transportar carga en vehículo particular, por quince días y hasta por una ocasión en el ejercicio fiscal de que se trate. $192
+VI. Por la expedición del permiso para transportar carga en vehículo particular por quince días y hasta por una ocasión en el ejercicio fiscal de que se trate. $192
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4689,13 +4711,13 @@ VII. Por el trámite de baja de vehículos o placas:
 
 A). Particular. $335
 
-B). Vehículos particulares de carga comercial. $448
+B). Vehículos particulares de carga comercial. $469
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 C). (DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
 
-D). Remolque. $428
+D). Remolque. $448
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4713,7 +4735,7 @@ G). (DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
 
 VIII. Por los servicios relativos a las placas en demostración y traslado.
 
-A). Por la expedición inicial de placas y tarjeta de circulación. $1,475
+A). Por la expedición inicial de placas y tarjeta de circulación. $1,546
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4721,11 +4743,11 @@ A). Por la expedición inicial de placas y tarjeta de circulación. $1,475
 
 B). Refrendo anual. $1,045
 
-C). Baja. $348
+C). Baja. $365
 
 IX. Por otros servicios relativos al transporte particular y comercial, se pagarán los siguientes derechos:
 
-A.) Por la práctica de revista a vehículos particulares de carga. $379
+A). Por la práctica de revista a vehículos particulares de carga. $397
 
 Los derechos previstos en este inciso, se pagarán anualmente de manera simultánea con el Impuesto sobre Tenencia o Uso de Vehículos o el Impuesto sobre Tenencia o Uso de Vehículos Automotores, según corresponda, mediante declaración, dentro de los tres primeros meses de cada año.
 
@@ -4739,7 +4761,7 @@ C). Por los servicios de certificación de extravío, mutilación
 
 o deterioro de documentos que amparen la circulación del
 
-vehículo. $53
+vehículo. $56
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4747,7 +4769,7 @@ X. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012).
 
 XI. Por la obtención de un número de placas especifico
 
-sujeto a disponibilidad. $3,044
+sujeto a disponibilidad. $3,191
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4757,11 +4779,11 @@ Tratándose de los servicios previstos en las fracciones I, II, III, IV, V y VII
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 91 Ter.
 
-Por los servicios prestados por el Instituto de Seguridad Social del Estado de México y Municipios, se pagarán los siguientes derechos:
+Por los servicios prestados por el Instituto de Seguridad Social del Estado de México y municipios, se pagarán los siguientes derechos:
 
 I. Expedición de identificación institucional del ISSEMYM. $100
 
@@ -4775,11 +4797,17 @@ B). Si una vez realizado su registro y obtenida su identificación institucional
 
 2. Registre a sus hijos, dentro de los 30 días hábiles siguientes a la fecha de su nacimiento.
 
-3. Registre a su concubina o concubinario, dentro de los 30 días hábiles siguientes a la fecha en que el Instituto le reconozca tal carácter, en términos de lo dispuesto por la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
 
-4. Registre a sus ascendientes o hijos mayores de edad con discapacidad o inhabilitados, dentro de los 30 días hábiles siguientes a la fecha de notificación del dictamen favorable de afiliación.
+3. Registre a su concubina o concubinario, dentro de los 30 días hábiles siguientes a la fecha a la que el Instituto le reconozca tal carácter, en términos de lo dispuesto por la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
 
-II. Expedición de duplicado de identificación institucional del ISSEMYM. $100
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+
+4. Registre a sus ascendientes o hijos mayores de edad discapacitados o inhabilitados, dentro de los 30 días hábiles siguientes a la fecha de notificación del dictamen favorable de afiliación.
+
+> <small>(REFORMADA, G.G. 1 DE ENERO DE 2013)</small>
+
+II. Expedición del duplicado de identificación institucional del ISSEMYM. $100
 
 III. Expedición de duplicado de gafete de identificación institucional del ISSEMYM. $200
 
@@ -4803,13 +4831,13 @@ I. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
 II. Por solicitud, estudio, revisión y resolución del trámite de autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
 
-A). Preescolar. $4,667
+A). Preescolar. $4,891
 
-B). Primaria. $4,856
+B). Primaria. $5,089
 
-C). Secundaria. $5,976
+C). Secundaria. $6,263
 
-D). Normal. $8,993
+D). Normal. $9,424
 
 III. Por solicitud, estudio, revisión y resolución del trámite
 
@@ -4817,45 +4845,45 @@ de reconocimiento de validez oficial de estudios, por plan
 
 de estudios, a escuelas particulares de educación media
 
-superior. $7,769
+superior. $8,142
 
 IV. Por solicitud, estudio, revisión y resolución del trámite
 
-de reconocimiento de validez oficial de estudios por plan
+de reconocimiento de validez oficial de estudios, por plan
 
 de estudios o carrera a escuelas particulares de educación
 
-superior. $9,713
+superior. $10,179
 
 V. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por turno y por modalidad, a escuelas particulares.
 
-A). Educación Media Superior. $7,769
+A). Educación Media Superior. $8,142
 
-B). Educación Superior. $9,714
+B). Educación Superior. $10,180
 
 VI. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación media superior:
 
-A). Por plan de estudio o carrera. $6,799
+A). Por plan de estudio o carrera. $7,125
 
-B). Por modalidad y turno. $6,799
+B). Por modalidad y turno. $7,125
 
 VII. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación superior:
 
-A). Por plan de estudio o carrera. $8,500
+A). Por plan de estudio o carrera. $8,908
 
-B). Por modalidad y turno. $8,500
+B). Por modalidad y turno. $8,908
 
 VIII. Por vigencia anual de derechos, plan de estudios, modalidad y turno a escuelas particulares:
 
 A). Autorización:
 
-1. Preescolar. $4,861
+1. Preescolar. $5,094
 
-2. Primaria. $5,034
+2. Primaria. $5,275
 
-3. Secundaria. $5,924
+3. Secundaria. $6,208
 
-4. Normal. $9,489
+4. Normal. $9,944
 
 5. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
@@ -4875,39 +4903,39 @@ nuevo ingreso matriculado en el plantel educativo,
 
 por una sola vez, independientemente del grado o ciclo
 
-que curse. $72
+que curse. $76
 
 X. Por cambios diversos:
 
 A). Por cambio de plan de estudio:
 
-1. Educación Media Superior para Profesional Medio. $3,365
+1. Educación Media Superior para Profesional Medio. $3,527
 
-2. Educación Superior. $3,365
+2. Educación Superior. $3,527
 
 B). Por cambio de denominación de carrera de educación
 
-superior. $972
+superior. $1,019
 
 C). Por actualización de contenidos de programas de estudios:
 
-1. Educación Media Superior para Profesional Medio. $972
+1. Educación Media Superior para Profesional Medio. $1,019
 
-2. Educación Superior. $972
+2. Educación Superior. $1,019
 
 D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, docente de grupo, domicilio o turno:
 
-1. Educación Básica. $972
+1. Educación Básica. $1,019
 
-2. Educación Media Superior. $972
+2. Educación Media Superior. $1,019
 
-3. Educación Superior. $972
+3. Educación Superior. $1,019
 
 E). Por cambio de plantilla de personal docente:
 
-1. Educación media superior. $972
+1. Educación Media Superior. $1,019
 
-2. Educación superior. $972
+2. Educación Superior. $1,019
 
 No se causarán los derechos a que hace referencia el inciso D) de esta fracción, respecto del cambio de personal, cuando el particular acredite que el director o docente sustituido goza de incapacidad otorgada por la institución de seguridad social correspondiente.
 
@@ -4915,93 +4943,93 @@ XI. Por expedición de certificados o de duplicados de certificados de estudios 
 
 A). Por expedición de certificado:
 
-1. Educación Media Superior. $153
+1. Educación Media Superior. $161
 
-2. Educación Superior. $216
+2. Educación Superior. $227
 
 B). Por duplicado de certificado:
 
-1. Educación Básica. $90
+1. Educación Básica. $95
 
-2. Educación Media Superior. $153
+2. Educación Media Superior. $161
 
-3. Educación Superior. $216
+3. Educación Superior. $227
 
 XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
 A). Por resolución:
 
-1. Educación Básica. $45
+1. Educación Básica. $47
 
-2. Educación Media Superior. $272
+2. Educación Media Superior. $285
 
-3. Educación Superior. $815
+3. Educación Superior. $854
 
 B). Por duplicado:
 
-1. Educación Media Superior. $97
+1. Educación Media Superior. $102
 
-2. Educación Superior. $226
+2. Educación Superior. $237
 
 C). Por modificación o enmienda
 
-l. Educación Media Superior. $71
+l. Educación Media Superior. $74
 
-2. Educación Superior. $226
+2. Educación Superior. $237
 
 XIII. Por resolución de equivalencia de estudios o expedición de duplicado:
 
 A). Por resolución:
 
-1. Educación Medio Superior. $270
+1. Educación Medio Superior. $283
 
-2. Educación Superior. $806
+2. Educación Superior. $845
 
 B). Por duplicado:
 
-1. Educación Media Superior. $92
+1. Educación Media Superior. $96
 
-2. Educación Superior. $214
+2. Educación Superior. $224
 
 XIV. Por expedición de cédula de pasante para el ejercicio
 
-profesional. $971
+profesional. $1,018
 
 XV. Por expedición de duplicado de cédula de pasante
 
-para el ejercicio profesional. $485
+para el ejercicio profesional. $509
 
 XVI. Por inscripción de:
 
 A). Títulos profesionales con timbre holograma:
 
-1. Licenciatura o grado académico. $599
+1. Licenciatura o grado académico. $627
 
-2. Profesional Técnico o Técnico Superior Universitario. $364
+2. Profesional Técnico o Técnico Superior Universitario. $381
 
 B). Certificado, constancia o diplomas de especialidad con
 
-timbre holograma. $599
+timbre holograma. $627
 
-XVII. Por registro de colegios de profesionistas. $6,891
+XVII. Por registro de colegios de profesionistas. $7,222
 
 XVIII. Por enmienda al registro de los colegios de
 
-profesionistas. $972
+profesionistas. $1,019
 
-XIX. Refrendo de registro de colegios de profesionistas. $972
+XIX. Refrendo de registro de colegios de profesionistas. $1,019
 
-XX. Autorización temporal para ejercer la actividad de perito. $972
+XX. Autorización temporal para ejercer la actividad de perito. $1,019
 
 XXI. Refrendo y expedición de duplicado a la autorización
 
-para ejercer la actividad de perito. $972
+para ejercer la actividad de perito. $1,019
 
-XXII. Por la expedición de hojas de servicio, por cada hoja. $27
+XXII. Por la expedición de hojas de servicio, por cada hoja. $28
 
 XXIII. Por la expedición de constancia de antecedentes
 
-profesionales. $64
+profesionales. $67
 
 XXIV. Por solicitud, estudio, revisión y resolución del trámite
 
@@ -5009,9 +5037,9 @@ de aprobación del reglamento académico o de titulación, o de
 
 la actualización del mismo, a planteles particulares de tipo
 
-superior. $963
+superior. $1,010
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 93 Bis.
 
@@ -5021,15 +5049,15 @@ TARIFA
 
 CONCEPTO
 
-I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, Modalidad y turno de educación:
+I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
 
-A). Preescolar. $4,856
+A). Preescolar. $5,089
 
-B). Primaria. $4,856
+B). Primaria. $5,089
 
-C). Secundaria. $5,825
+C). Secundaria. $6,105
 
-D). Normal. $8,993
+D). Normal. $9,424
 
 II. (DEROGADA, G.G. 30 DE JUNIO DE 2006)
 
@@ -5037,13 +5065,13 @@ III. Por vigencia anual de derechos, por plan de estudios, modalidad, carrera y 
 
 A). Autorización:
 
-1. Preescolar. $4,861
+1. Preescolar. $5,094
 
-2. Primaria. $5,034
+2. Primaria. $5,275
 
-3. Secundaria. $5,924
+3. Secundaria. $6,209
 
-4. Normal. $9,439
+4. Normal. $9,945
 
 B). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
@@ -5051,17 +5079,17 @@ IV. Por expedición de certificados o duplicado de certificados de estudios real
 
 A). Certificados:
 
-1. Educación Normal. $216
+1. Educación Normal. $226
 
 2. (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
 B). Duplicados:
 
-1. Educación Básica. $90
+1. Educación Básica. $95
 
-2. Educación Normal. $215
+2. Educación Normal. $226
 
-V. Por dictamen de revalidación de estudios tipo Básico. $45
+V. Por dictamen de revalidación de estudios tipo Básico. $47
 
 VI. Por servicios de evaluación, orientación o asesoría en
 
@@ -5073,21 +5101,21 @@ medio superior y superior por cada alumno de nuevo
 
 ingreso matriculado en el plantel educativo, por una sola
 
-vez independientemente del grado o ciclo que curse. $72
+vez independientemente del grado o ciclo que curse. $75
 
 VII. Por cambio del nombre del plantel, titular del acuerdo de autorización, representante legal, apoderado legal, directivos, modificación a la plantilla docente, domicilio o turno:
 
-1. Educación Básica. $972
+1. Educación Básica. $1,019
 
-2. Educación Media Superior. $972
+2. Educación Media Superior. $1,019
 
-3. Educación Superior. $972
+3. Educación Superior. $1,019
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE ENERO DE 2013)</small>
 
 #### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
@@ -5095,21 +5123,9 @@ VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
 I. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
 
 II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
@@ -5117,33 +5133,37 @@ TARIFA
 
 CONCEPTO
 
-A). Por el duplicado de la primera hoja simple. $53
+A). Por el duplicado de la primera hoja simple. $56
 
-B). Por el duplicado de las subsecuentes hojas simples. $26
+B). Por el duplicado de las subsecuentes hojas simples. $27
 
-C). Por duplicado de cada plano. $146
+C). Por duplicado de cada plano. $153
 
 D). Por el duplicado de planos con material proporcionado
 
-por el usuario. $104
+por el usuario. $109
 
-La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente;
+La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
 
-III. (DEROGADA, G.G. 22 DE AGOSTO DE 2012)
+III. Por la expedición de nombramientos de peritos responsables de obras, se pagarán derechos equivalentes a $1,340.
 
-IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,198.
+Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
 
-V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $3,198.
+Por la reposición de la credencial de perito responsable en obra que se encuentre vigente, se pagará el 50% de la tarifa establecida.
 
-VI. Por la expedición de informe técnico urbano, $1,220.
+IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,351.
 
-VII. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán. $576.
+V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $3,351.
 
-VIII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano o áreas privativas de un condominio, se pagarán. $576.
+VI. Por la expedición de informe técnico urbano, $1,279.
 
-IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio, se pagarán. $1, 279.
+VII. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán $603.
 
-X. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $ 2,197.
+VIII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano, áreas privativas de un condominio, se pagarán $603.
+
+IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio se pagarán $1,340.
+
+X. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $ 2,302.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -5159,9 +5179,9 @@ GRUPO DE MUNICIPIOS
 
 M3/día 1 2 3 4
 
-Uso doméstico $2,974 $2,794 $2,617 $2,440
+Uso doméstico $3,117 $2,929 $2,743 $2,558
 
-Uso no doméstico $3,718 $3,360 $3,121 $2,941
+Uso no doméstico $3,896 $3,521 $3,271 $3,082
 
 Para su aplicación se atenderá a la clasificación de municipios contenida en el artículo 140 de este Código.
 
@@ -5195,7 +5215,7 @@ TARIFA
 
 GRUPO 1 1 b 2 3 4 Otros
 
-$/m3 6.66 6.16 5.51 4.79 3.71 7.99
+$/m3 6.98 6.45 5.77 5.02 3.89 8.37
 
 Para su aplicación se atenderá a la clasificación siguiente:
 
@@ -5229,9 +5249,9 @@ B). Para usuarios que tengan asignación directa de la Comisión Nacional del Ag
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-Por cada metro cúbico de agua asignada de fuentes federales $2.06.
+Por cada metro cúbico de agua asignada de fuentes federales $2.16.
 
-C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $10.38 por metro cúbico.
+C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $10.87 por metro cúbico.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5247,25 +5267,23 @@ TARIFA
 
 Usos Pesos/m3
 
-Uso a cargo del municipio $2.00
+Uso a cargo del municipio $2.10
 
-Otros usos $4.66
+Otros usos $4.88
 
 Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría del Agua y Obra Pública y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
 
 E). Conexión, tratamiento y manejo ecológico de aguas residuales:
 
-1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $3,017 por m3/día.
+1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $3,162 por m3/día.
 
-2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $4.29 por metro cúbico.
+2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $4.50 por metro cúbico.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
 
-Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento de jurisdicción estatal, no deberán exceder de los límites máximos permisibles de contaminación que señale el organismo y observarán las normas oficiales mexicanas en la materia, así como las observaciones que emitan otras autoridades competentes.
+Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento de jurisdicción estatal, no deberán exceder de los límites máximos permisibles de contaminación que señale el organismo y observarán las normas oficiales mexicanas en la materia, así como las observaciones que emitan otras autoridades competentes. Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio o contrato correspondiente para la prestación del servicio.
 
-Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio o contrato correspondiente para la prestación del servicio.
-
-F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.134 por metro cúbico.
+F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.140 por metro cúbico.
 
 > <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -5273,11 +5291,11 @@ III. Por la expedición de duplicados existentes en archivo, se pagarán los der
 
 CONCEPTO TARIFA
 
-A). Por duplicado de cada plano $139
+A). Por duplicado de cada plano $146
 
 B). Por el duplicado de planos con material
 
-proporcionada por el usuario $98
+proporcionada por el usuario $103
 
 La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
 
@@ -5285,7 +5303,7 @@ La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo,
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características, circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos, o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos durante los treinta días del mes siguiente a aquel en el que se haya recibido el servicio.
+Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características, circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos; o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos durante los treinta días del mes siguiente a aquel en el que se haya recibido el servicio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5297,13 +5315,15 @@ Para efectos de aplicación de las tarifas previstas en este artículo, deberá 
 
 La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+> <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
 
 ###### Artículo 95 Bis.
 
-La Comisión del Agua del Estado de México, para efectos de las solicitudes de retención y pagos de derechos y aprovechamientos por concepto de agua, a que se refieren los artículos 51 de la Ley de Coordinación Fiscal y 230 B de este ordenamiento, deberá entregar a la Comisión Nacional del Agua durante los primeros 10 días de cada mes, un informe sobre los volúmenes de agua suministrada a los municipios, incluyendo sus organismos operadores de agua.
+La Comisión del Agua del Estado de México, para efectos de las solicitudes de retención y pago de derechos y aprovechamientos por concepto de agua, a que se refieren los artículos 51 de la Ley de Coordinación Fiscal y 230 B de este ordenamiento, deberá entregar a la Comisión Nacional del Agua durante los primeros 10 días de cada mes, un informe sobre los volúmenes de agua suministrada a los municipios, incluyendo sus organismos operadores de agua.
 
 En caso de que la Comisión Nacional del Agua considere que existe alguna diferencia entre los volúmenes suministrados o adeudos informados, lo hará del conocimiento de la Comisión del Agua del Estado de México a fin de que en su caso se lleven al cabo los ajustes correspondientes.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2012)</small>
 
@@ -5341,7 +5361,7 @@ TARIFA
 
 CONCEPTO
 
-I. Canalizaciones Superficiales por cada metro.
+I. Canalizaciones superficiales por cada metro.
 
 A). De 0 a 999 metros. $14
 
@@ -5349,17 +5369,17 @@ B). A partir de 1000 metros. $9
 
 II. Canalizaciones subterráneas por cada metro:
 
-A). De 0 a 999 metros. $15
+A). De 0 a 999 metros. $16
 
 B). A partir de 1000 metros. $9
 
-III. Instalación de postería para instalación marginal, por cada poste. $264
+III. Instalación de postería para instalación marginal, por cada poste. $276
 
 IV. Cruzamientos por cada metro:
 
-A). Aéreo. $52
+A). Aéreo. $54
 
-B). Subterráneo. $108
+B). Subterráneo. $113
 
 V. Instalaciones marginales aéreas por cada metro:
 
@@ -5371,99 +5391,99 @@ VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señ
 
 A). Elaboración de estudio técnico, al realizarse la instalación:
 
-1. Por señal informativa. $343
+1. Por señal informativa. $360
 
-2. Por estructura para anuncios publicitarios. $3,435
+2. Por estructura para anuncios publicitarios. $3,600
 
 B). Uso y aprovechamiento del derecho de vía anualmente:
 
-1. Por señal informativa de hasta 10 metros cuadrados. $2,335.
+1. Por señal informativa de hasta 10 metros cuadrados. $2,447
 
 2. Por estructura para anuncios publicitarios, según el tamaño, de acuerdo con lo siguiente:
 
-a) Hasta 10 metros cuadrados $2,390
+a) Hasta 10 metros cuadrados $2,505
 
-b) Más de 10 y hasta 20 metros cuadrados $4,904
+b) Más de 10 y hasta 20 metros cuadrados $5,139
 
-c) Más de 20 y hasta 30 metros cuadrados $7,356
+c) Más de 20 y hasta 30 metros cuadrados $7,709
 
-d) Más de 30 y hasta 40 metros cuadrados $9,808
+d) Más de 30 y hasta 40 metros cuadrados $10,279
 
-e) Más de 40 y hasta 50 metros cuadrados $12,260
+e) Más de 40 y hasta 50 metros cuadrados $12,848
 
-f) Más de 50 y hasta 60 metros cuadrados $14,712
+f) Más de 50 y hasta 60 metros cuadrados $15,418
 
-g) Más de 60 y hasta 70 metros cuadrados $17,164
+g) Más de 60 y hasta 70 metros cuadrados $17,988
 
-h) Más de 70 y hasta 80 metros cuadrados $19,616
+h) Más de 70 y hasta 80 metros cuadrados $20,558
 
-i) Más de 80 y hasta 90 metros cuadrados $22,068
+i) Más de 80 y hasta 90 metros cuadrados $23,127
 
 C). Otorgamiento del permiso anualmente:
 
-1. Por señal informativa. $125
+1. Por señal informativa. $131
 
-2. Por estructura para anuncios publicitarios. $1,245
+2. Por estructura para anuncios publicitarios. $1,305
 
 VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
 
-A). Para transición aéreo-subterráneo en baja tensión. $1,881
+A). Para transición aéreo-subterráneo en baja tensión. $1,972
 
-B). Para instalaciones de telecomunicaciones. $1,881
+B). Para instalaciones de telecomunicaciones. $1,972
 
 C). Para líneas de drenaje, agua potable, hidrocarburos o similares:
 
-1. Por pozo. $1,881
+1. Por pozo. $1,972
 
-2. Por registro. $941
+2. Por registro. $986
 
-VIII. Ruptura de banquetas por metro cúbico. $104
+VIII. Ruptura de banquetas por metro cúbico. $109
 
-IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico.
+IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico:
 
-A). Manual. $123
+A). Manual. $129
 
-B). Con maquinaria. $57
+B). Con maquinaria. $60
 
 X. Protección a instalaciones subterráneas con pintura o cinta
 
 plástica por metro lineal. $17
 
-XI. Ruptura de guarnición por metro cúbico. $57
+XI. Ruptura de guarnición por metro cúbico. $60
 
-XII. Accesos por metro cuadrado. $380
+XII. Accesos por metro cuadrado. $399
 
 XIII. Revisión técnica de memorias y/o planos:
 
 A). Instalaciones marginales por metro lineal. $15
 
-B). Cruzamientos aéreos o subterráneos por cruce. $861
+B). Cruzamientos aéreos o subterráneos por cruce. $903
 
-C). Instalaciones marginales de telecomunicaciones por metro lineal. $4.
+C). Instalaciones marginales de telecomunicaciones por metro lineal. $5
 
-D). Anuncios por memoria. $4,843
+D). Anuncios por memoria. $5,075
 
 XIV. Por retiro de estructuras de anuncios publicitarios:
 
-A). Estructurales. $22,241
+A). Estructurales. $23,308
 
-B). Semiestructurales. $54,542
+B). Semiestructurales. $57,160
 
-C). Unipolares. $89,774
+C). Unipolares. $94,083
 
-D). Bipolares. $99,441
+D). Bipolares. $104,214
 
-E). Tripolares. $109,620
+E). Tripolares. $114,882
 
-F). Denominativos. $3,936
+F). Denominativos. $4,125
 
 G). Anuncios tipo oficial, pendones, gallardetes u otros análogos. $17
 
-H). Estructura para vallas y columnas. $28,812
+H). Estructura para vallas y columnas. $30,195
 
-Cuando por su denominación o características del anuncio no se encuentran comprendidos en la clasificación anterior, se ubicara en aquel que por sus características le sea más semejante.
+Cuando por su denominación o características del anuncio no se encuentran comprendidos en la clasificación anterior, se ubicará en aquel que por sus características le sea más semejante.
 
-(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 97-A.
 
@@ -5477,7 +5497,7 @@ I. Por la integración de expediente técnico de la solicitud
 
 para la explotación y utilización del derecho de vía de las
 
-autopistas de cuota estatales y zonas aledañas. $63
+autopistas de cuota estatales y zonas aledañas. $66
 
 II. Por el estudio técnico de planos y proyectos para la
 
@@ -5485,7 +5505,7 @@ instalación de cada señalamiento vertical informativo dentro
 
 del derecho de vía de las autopistas de cuota estatales y
 
-zonas aledañas. $380
+zonas aledañas. $399
 
 III. Por el estudio técnico de planos y proyectos para la
 
@@ -5493,7 +5513,7 @@ instalación de cada señalamiento publicitario monumental
 
 dentro del derecho de vía de las autopistas de cuota
 
-estatales y zonas aledañas. $6,018
+estatales y zonas aledañas. $6,307
 
 IV. Por el estudio técnico de planos, proyectos y memorias de
 
@@ -5503,13 +5523,13 @@ derecho de vía de las autopistas de cuota estatales y zonas
 
 aledañas, por cada 100 metros lineales o fracción que
 
-exceda de dicha longitud. $6,018
+exceda de dicha longitud. $6,307
 
 V. Por el estudio técnico para validación y restitución del
 
 derecho de vía de las autopistas de cuota estatales y zonas
 
-aledañas. $1,141
+aledañas. $1,196
 
 VI. Por el estudio técnico de planos, proyectos y memorias
 
@@ -5517,7 +5537,7 @@ de cálculo para la construcción de obras por cruzamientos
 
 superficiales, subterráneos o aéreos que atraviesen las
 
-autopistas de cuota estatales y zonas aledañas. $4,434
+autopistas de cuota estatales y zonas aledañas. $4,647
 
 VII. Por el estudio técnico de planos, proyectos y memorias
 
@@ -5527,95 +5547,95 @@ marginales subterráneas, que se realicen dentro de los
 
 derechos de vía de las autopistas de cuota estatales y
 
-zonas aledañas, por kilómetro lineal o fracción. $1,141
+zonas aledañas, por kilómetro lineal o fracción. $1,196
 
 VIII. Por el estudio técnico del proyecto y aprobación de obras para paradores integrales de servicio en las autopistas de cuota estatales y zonas aledañas:
 
 A). Con superficie total del proyecto hasta 3,000 metros
 
-cuadrados. $49,161
+cuadrados. $51,521
 
 B). Con superficie total del proyecto hasta 5,000 metros
 
-cuadrados. $58,539
+cuadrados. $61,349
 
 C). Con superficie total del proyecto hasta 10,000 metros
 
-cuadrados. $68,548
+cuadrados. $71,838
 
 D). Con superficie mayor a los 10,000 metros cuadrados,
 
-para cada 1,000 metros cuadrados adicionales. $1,964
+para cada 1,000 metros cuadrados adicionales. $2,059
 
 IX. Por el permiso para la instalación de cada señalamiento
 
 informativo sobre el derecho de vía de las autopistas de
 
-cuota estatales y zonas aledañas. $222
+cuota estatales y zonas aledañas. $233
 
 X. Por el permiso para la instalación de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-A). De 2.00 y hasta 50.00 metros cuadrados. $14,546
+A). De 2.00 y hasta 50.00 metros cuadrados. $15,244
 
-B). De 51.00 y hasta 90.00 metros cuadrados. $18,275
+B). De 51.00 y hasta 90.00 metros cuadrados. $19,152
 
 XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-A). Proyecto a realizar en terreno plano. $19,576
+A). Proyecto a realizar en terreno plano. $20,515
 
 B). Proyecto a realizar en terreno de lomerío con:
 
-1. Geometría en corte. $20,527
+1. Geometría en corte. $21,512
 
-2. Geometría en terraplén. $21,540
+2. Geometría en terraplén. $22,574
 
 C). Proyecto a realizar en terreno montañoso con:
 
-1. Geometría en corte. $24,454
+1. Geometría en corte. $25,628
 
-2. Geometría en terraplén. $25,404
+2. Geometría en terraplén. $26,624
 
 XII. Por el permiso del proyecto geométrico, estructura de pavimentos y obras hidráulicas en las autopistas de cuota estatales y zonas aledañas:
 
 A). Por obras desarrolladas en un tramo de I kilómetro de
 
-longitud. $19,576
+longitud. $20,515
 
 B). Por obras desarrolladas en un tramo mayor de I kilómetro
 
-y hasta 5 kilómetros de longitud. $21,540
+y hasta 5 kilómetros de longitud. $22,574
 
 C). Por obras desarrolladas en un tramo mayor de
 
-5 kilómetros y hasta 20 kilómetros de longitud. $25,404
+5 kilómetros y hasta 20 kilómetros de longitud. $26,624
 
 D). Por obras desarrolladas en un tramo mayor de
 
-20 kilómetros, por cada kilómetro adicional. $254
+20 kilómetros, por cada kilómetro adicional. $266
 
 XIII. Pago anual por el permiso para permanencia de cada
 
 señalamiento informativo sobre el derecho de vía de las
 
-autopistas de cuota estatales y zonas aledañas. $222
+autopistas de cuota estatales y zonas aledañas. $233
 
 XIV. Pago anual por el permiso para la permanencia de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-A). De 2.00 y hasta 50.00 metros cuadrados. $52,525
+A). De 2.00 y hasta 50.00 metros cuadrados. $55,047
 
-B). De 51.00 y hasta 90.00 metros cuadrados. $78,135
+B). De 51.00 y hasta 90.00 metros cuadrados. $81,886
 
 XV. Pago anual por la explotación de cada acceso que
 
 afecte el derecho de vía de las autopistas de cuota estatales
 
-y zonas aledañas. $92,369
+y zonas aledañas. $96,803
 
 XVI. Pago anual por la permanencia de cada cruce
 
 subterráneo o aéreo en las autopistas de cuota
 
-estatales y zonas aledañas. $3,547
+estatales y zonas aledañas. $3,717
 
 XVII. Pago anual por la permanencia de instalaciones
 
@@ -5623,19 +5643,19 @@ marginales subterráneas, que el particular realice dentro
 
 de los derechos de vía de las autopistas de cuota estatales
 
-y zonas aledañas, por kilómetro lineal o fracción. $887
+y zonas aledañas, por kilómetro lineal o fracción. $929
 
 XVIII. Permiso por un día para la expedición de folletos o
 
 volantes en plataformas y casetas de las autopistas de
 
-cuota estatales y zonas aledañas. $1,305
+cuota estatales y zonas aledañas. $1,368
 
 XIX. Por verificación inicial para desvíos y maniobras en
 
 plataformas e instalaciones sobre el derecho de vía de
 
-las autopistas de cuota estatales y zonas aledañas. $7,832
+las autopistas de cuota estatales y zonas aledañas. $8,208
 
 XX. Por la verificación inicial para la construcción de obras
 
@@ -5643,7 +5663,7 @@ por cruzamientos superficiales, subterráneos o aéreos
 
 que atraviesen las autopistas de cuota estatales y zonas
 
-aledañas. $19,215
+aledañas. $20,138
 
 XXI. Por el permiso para la construcción de obras e
 
@@ -5651,7 +5671,7 @@ instalaciones marginales, que se realicen dentro de los
 
 derechos de vía de las autopistas de cuotas estatales
 
-y zonas aledañas, por kilómetro lineal o fracción. $4,819
+y zonas aledañas, por kilómetro lineal o fracción. $5,051
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -5669,19 +5689,19 @@ A). Servicio regular de pasaje.
 
 1. Colectivo:
 
-a). Autobuses. $23,512
+a). Autobuses. $24,641
 
 b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-c). Minibuses. $19,278
+c). Minibuses. $20,203
 
-d). Vagonetas. $19,278
+d). Vagonetas. $20,203
 
 2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 3. Mixto:
 
-a). Camioneta de carga y pasaje. $15,675
+a). Camioneta de carga y pasaje. $16,428
 
 B). Servicio discrecional de pasaje:
 
@@ -5691,7 +5711,7 @@ a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
 con un máximo de cinco asientos y un mínimo de cuatro,
 
-incluido el del operador. $18,143
+incluido el del operador. $19,014
 
 C). El servicio discrecional de arrastre o de salvamento:
 
@@ -5699,23 +5719,23 @@ C). El servicio discrecional de arrastre o de salvamento:
 
 trasladar vehículos impedidos mecánica o legalmente
 
-para su autodesplazamiento. $23,512
+para su autodesplazamiento. $24,641
 
-2. Grúas de salvamento. $23,512
+2. Grúas de salvamento. $24,641
 
 3. Servicio de depósito de vehículos para guarda y custodia
 
 de vehículos accidentados o a disposición de autoridades
 
-diversas por cada corralón. $23,512
+diversas por cada corralón. $24,641
 
 D). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
 
-1. Concesiones para servicio de transporte de pasajeros. $1,566
+1. Concesiones para servicio de transporte de pasajeros. $1,641
 
 2. Concesiones para servicio discrecional de arrastre o
 
-de salvamento. $1,566
+de salvamento. $1,641
 
 II. Por la cesión de derechos o cambio de titular de la concesión, que se refieran a las modalidades:
 
@@ -5723,19 +5743,19 @@ A). Servicio regular de pasaje:
 
 1. Colectivo:
 
-a). Autobuses. $18,811
+a). Autobuses. $19,714
 
 b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-c). Minibuses. $15,675
+c). Minibuses. $16,428
 
-d). Vagonetas. $15,421
+d). Vagonetas. $16,162
 
 2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 3. Mixto:
 
-a). Camioneta de carga y pasaje. $12,540
+a). Camioneta de carga y pasaje. $13,142
 
 B). Servicio discrecional de pasaje:
 
@@ -5745,7 +5765,7 @@ a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
 con un máximo de 5 asientos y un mínimo de cuatro,
 
-incluido el del operador. $15,675
+incluido el del operador. $16,428
 
 C). El servicio discrecional de arrastre o de salvamento:
 
@@ -5753,15 +5773,15 @@ C). El servicio discrecional de arrastre o de salvamento:
 
 trasladar vehículos impedidos mecánica o legalmente
 
-para su autodesplazamiento. $18,811
+para su autodesplazamiento. $19,714
 
-2. Grúas de salvamento. $18,811
+2. Grúas de salvamento. $19,714
 
 3. Servicio de depósito de vehículos para guarda y
 
 custodia de vehículos accidentados o a disposición
 
-de autoridades diversas por cada corralón. $18,811
+de autoridades diversas por cada corralón. $19,714
 
 III. Por la prórroga o cambio de temporalidad de vigencia de la concesión, que se refieran a las modalidades de:
 
@@ -5769,19 +5789,19 @@ A). Servicio regular de pasaje
 
 1. Colectivo:
 
-a). Autobuses. $11,755
+a). Autobuses. $12,320
 
 b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-c). Minibuses. $9,797
+c). Minibuses. $10,267
 
-d). Vagonetas. $9,797
+d). Vagonetas. $10,267
 
 2. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 3. Mixto:
 
-a). Camioneta mixta de carga y pasaje. $7,837
+a). Camioneta mixta de carga y pasaje. $8,213
 
 B). Servicio discrecional de pasaje
 
@@ -5791,7 +5811,7 @@ a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
 con un máximo de cinco asientos y un mínimo de cuatro,
 
-incluido el del operador. $9,797
+incluido el del operador. $10,267
 
 Las tarifas establecidas en esta fracción, amparan la prórroga o cambio de la temporalidad de vigencia de las concesiones por un período hasta de diez años, pudiendo los contribuyentes solicitar la prestación de estos servicios por anualidad, para lo cual se pagarán los derechos correspondientes en forma proporcional al período solicitado, cuando así lo acuerde la autoridad administrativa.
 
@@ -5801,15 +5821,15 @@ C). El servicio discrecional de arrastre o de salvamento:
 
 trasladar vehículos impedidos mecánica o legalmente
 
-para su autodesplazamiento. $11,755
+para su autodesplazamiento. $12,319
 
-2. Grúas de salvamento. $11,755
+2. Grúas de salvamento. $12,319
 
 3. Servicio de depósito de vehículos para guarda y
 
 custodia de vehículos accidentados o a disposición
 
-de autoridades diversas por cada corralón. $11,755
+de autoridades diversas por cada corralón. $12,319
 
 IV. Por el otorgamiento de permisos de:
 
@@ -5819,13 +5839,13 @@ A). Servicio discrecional de pasaje en la modalidad especializado:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-1 Vehículos de transporte de pasaje especializado escolar y personal de empresa en que se obtenga lucro por la prestación del servicio:
+1. Vehículos de transporte de pasaje especializado escolar y personal de empresa en que se obtenga lucro por la prestación del servicio:
 
-a). Autobús. $2,191
+a). Autobús. $2,297
 
-b). Minibús. $2,191
+b). Minibús. $2,297
 
-c). Vagonetas. $1,880
+c). Vagonetas. $1,971
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5833,19 +5853,19 @@ c). Vagonetas. $1,880
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica, en que se obtenga lucro por la prestación del servicio:
 
-a). Autobús. $4,838
+a). Autobús. $5,071
 
-b). Minibús. $4,838
+b). Minibús. $5,071
 
-c). Vagonetas. $3,135
+c). Vagonetas. $3,286
 
-d). Bicitaxis. $634
+d). Bicitaxis. $665
 
 B). Transporte de carga en general:
 
-1. Capacidad hasta de 3,000 kgs. $2,192
+1. Capacidad hasta de 3,000 kgs. $2,298
 
-2. Capacidad de carga de más de 3,000 kgs. $3,135
+2. Capacidad de carga de más de 3,000 kgs. $3,285
 
 C). Por la realización de estudios técnicos y económicos
 
@@ -5853,45 +5873,45 @@ a solicitud de los particulares, para el otorgamiento de
 
 permisos en la modalidad de vehículos de propulsión
 
-no mecánica. $124
+no mecánica. $130
 
 D). El servicio discrecional de arrastre y traslado, prestado
 
 a través de grúas para transportar vehículos impedidos
 
-mecánicamente para su auto-desplazamiento o para traslado. $11,755
+mecánicamente para su auto-desplazamiento o para traslado. $12,319
 
 E). Por el otorgamiento de permiso o autorización de bases,
 
-sitios o lanzaderas, por cada uno de ellos. $1,381
+sitios o lanzaderas, por cada uno de ellos. $1,448
 
 F). Los servicios conexos al servicio público de transporte:
 
 1. Por el otorgamiento de permiso para el establecimiento de
 
-terminales de pasaje. $6,335
+terminales de pasaje. $6,639
 
 2. Por el otorgamiento de permiso para el establecimiento de
 
-bahías de ascenso y descenso. $1,901
+bahías de ascenso y descenso. $1,993
 
 3. Por el otorgamiento de permiso para el establecimiento de
 
-cobertizos. $3,168
+cobertizos. $3,320
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 5. Por la realización de estudios técnicos para el establecimiento
 
-de terminales de pasaje. $6,335
+de terminales de pasaje. $6,639
 
 6. Por la realización de estudios técnicos para el establecimiento
 
-de bahías de ascenso y descenso. $1,901
+de bahías de ascenso y descenso. $1,993
 
 7. Por la realización de estudios técnicos para el establecimiento
 
-de cobertizos. $3,168
+de cobertizos. $3,320
 
 8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -5905,7 +5925,7 @@ a solicitud de los particulares o de las autoridades
 
 para el otorgamiento de concesiones y permisos en todas
 
-sus modalidades, por unidad vehicular. $1,566
+sus modalidades, por unidad vehicular. $1,641
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -5915,7 +5935,7 @@ sus modalidades, por unidad vehicular. $1,566
 
 para la autorización o modificación de ruta o derrotero,
 
-enlace y enrolamiento. $3,918
+enlace y enrolamiento. $4,107
 
 11. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
@@ -5925,21 +5945,21 @@ G). La instalación y explotación de anuncios publicitarios en el transporte:
 
 1. Por la obtención del permiso para la instalación de
 
-anuncios publicitarios. $3,167
+anuncios publicitarios. $3,319
 
 2. Por la instalación y explotación de anuncios publicitarios por el período de ciento veinte días por unidad vehicular:
 
-a). Autobús. $634
+a). Autobús. $665
 
-b). Minibús. $443
+b). Minibús. $465
 
-c). Pick up, panel, van y vagoneta. $380
+c). Pick up, panel, van y vagoneta. $399
 
 d). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
 con un máximo de cinco asientos y un mínimo de cuatro,
 
-incluido el del operador. $254
+incluido el del operador. $266
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -5955,41 +5975,41 @@ A). El servicio discrecional de pasaje:
 
 1. Transporte de pasaje especializado escolar y personal de empresa, en que se obtenga un lucro por la prestación:
 
-a). Autobús. $1,880
+a). Autobús. $1,971
 
-b). Minibús. $1,880
+b). Minibús. $1,971
 
-c). Vagoneta. $1,505
+c). Vagoneta. $1,577
 
 2. El servicio de transporte de pasaje especializado o individual.
 
-a). Autobús. $3,762
+a). Autobús. $3,943
 
-b). Minibús. $3,762
+b). Minibús. $3,943
 
-c). Vagonetas. $2,507
+c). Vagonetas. $2,627
 
-d). Vehículos de propulsión no mecánica, bicitaxis. $317
+d). Vehículos de propulsión no mecánica, bicitaxis. $332
 
 B). El servicio de carga en general:
 
-1. Capacidad hasta de 3,000 kgs. $1,175
+1. Capacidad hasta de 3,000 kgs. $1,232
 
-2. Capacidad de carga de más de 3,000 kgs. $1,568
+2. Capacidad de carga de más de 3,000 kgs. $1,643
 
 C). El servicio discrecional de arrastre y traslado, prestado
 
 a través de grúas para transportar vehículos impedidos
 
-mecánicamente para su auto-desplazamiento o para traslado. $9, 405
+mecánicamente para su auto-desplazamiento o para traslado. $9,856
 
 D). Los servicios conexos:
 
-1. Terminales de pasaje. $6,335
+1. Terminales de pasaje. $6,639
 
-2. Bahías de ascenso y descenso. $2,218
+2. Bahías de ascenso y descenso. $2,325
 
-3. Cobertizos. $1,901
+3. Cobertizos. $1,993
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -5997,7 +6017,7 @@ E). La instalación de anuncios publicitarios en el transporte:
 
 1. Por la cesión de derechos o cambio de titular del permiso
 
-para la instalación de anuncios publicitarios. $1,584
+para la instalación de anuncios publicitarios. $1,660
 
 VI. Por la prórroga o cambio de la temporalidad de vigencia del permiso respecto de:
 
@@ -6005,27 +6025,27 @@ A). El servicio discrecional de pasaje:
 
 1. El servicio de transporte de pasaje especializado escolar y personal de empresa en que se obtenga un lucro por la prestación del servicio:
 
-a). Autobús. $1,175
+a). Autobús. $1,232
 
-b ).Minibús. $941
+b ).Minibús. $986
 
-c). Vagonetas. $941
+c). Vagonetas. $986
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica que obtenga un lucro por la prestación del servicio:
 
-a). Autobús. $2,351
+a). Autobús. $2,464
 
-b). Minibús. $2,351
+b). Minibús. $2,464
 
-c). Vagonetas. $1,568
+c). Vagonetas. $1,643
 
-d). Bicitaxi. $634
+d). Bicitaxi. $665
 
 B). El servicio de carga en general y especializado de carga:
 
-1. Capacidad hasta de 3,000 kgs. $1,175
+1. Capacidad hasta de 3,000 kgs. $1,232
 
-2. Capacidad de carga de más de 3,000 kgs. $1,568
+2. Capacidad de carga de más de 3,000 kgs. $1,643
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009) (F. DE E., G.G. 2 DE FEBRERO DE 2010)
 
@@ -6033,19 +6053,19 @@ C). El servicio discrecional de arrastre y traslado, prestado
 
 a través de grúas para transportar vehículos impedidos
 
-mecánicamente para su auto-desplazamiento o para traslado. $4,702
+mecánicamente para su auto-desplazamiento o para traslado. $4,928
 
 D). Los servicios conexos, por el establecimiento de:
 
-1. Terminales de pasaje. $3,168
+1. Terminales de pasaje. $3,320
 
-2. Bahías de ascenso y descenso. $1,141
+2. Bahías de ascenso y descenso. $1,196
 
-3. Cobertizos. $951
+3. Cobertizos. $997
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-E). El permiso para la instalación de anuncios publicitarios: $3,168
+E). El permiso para la instalación de anuncios publicitarios: $3,320
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -6069,13 +6089,13 @@ las modalidades de colectivo, mixto, de arrastre
 
 y de salvamento, y de arrastre y traslado, por
 
-cada vehículo. $1,937
+cada vehículo. $2,030
 
 B). Modificación de rutas o área geográfica de operación del servicio público de transporte en las modalidades referidas en el inciso que antecede, por cada vehículo:
 
-1. De enrolamiento. $1,381
+1. De enrolamiento. $1,448
 
-2. Por la fusión de dos rutas como resultado de un enlace. $1,381
+2. Por la fusión de dos rutas como resultado de un enlace. $1,448
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -6083,13 +6103,13 @@ B). Modificación de rutas o área geográfica de operación del servicio públi
 
 3. De su derrotero por cambios de sentido de la circulación
 
-vehicular, y/o en su recorrido original $156
+vehicular, y/o en su recorrido original $164
 
 4. La reducción de su longitud por reubicarse su origen o
 
-destino, reduciendo el derrotero. $156
+destino, reduciendo el derrotero. $164
 
-5. De frecuencia de la ruta o derrotero. $1,381
+5. De frecuencia de la ruta o derrotero. $1,448
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -6099,19 +6119,19 @@ destino, reduciendo el derrotero. $156
 
 o destino y alargamiento en la longitud del
 
-derrotero. $1,937
+derrotero. $2,030
 
 C). Autorización de las tarifas a que se sujetará la operación
 
 del servicio público de transporte en las modalidades referidas
 
-en los incisos A) y B) anteriores, por cada vehículo. $222
+en los incisos A) y B) anteriores, por cada vehículo. $233
 
 D). Autorización de la cromática de los vehículos y equipos
 
 afectos a los servicios de transporte en las modalidades
 
-referidas en los incisos A) y B) anteriores, por cada vehículo. $699
+referidas en los incisos A) y B) anteriores, por cada vehículo. $733
 
 E). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -6119,51 +6139,51 @@ VIII. Por la expedición inicial de licencias o de permisos para conducir vehíc
 
 A). Chofer para servicio público
 
-1. Por cuatro años de vigencia. $1,538
+1. Por cuatro años de vigencia. $1,612
 
-2. Por tres años de vigencia. $1,106
+2. Por tres años de vigencia. $1,159
 
-3. Por dos años de vigencia. $831
+3. Por dos años de vigencia. $871
 
-4. Por un año de vigencia. $622
+4. Por un año de vigencia. $652
 
 B). Chofer para servicio particular:
 
-1. Por cuatro años de vigencia. $1,097
+1. Por cuatro años de vigencia. $1,150
 
-2. Por tres años de vigencia. $824
+2. Por tres años de vigencia. $863
 
-3. Por dos años de vigencia. $618
+3. Por dos años de vigencia. $647
 
-4. Por un año de vigencia. $463
+4. Por un año de vigencia. $485
 
 C). Automovilista:
 
-1. Por cuatro años de vigencia. $842
+1. Por cuatro años de vigencia. $882
 
-2. Por tres años de vigencia. $633
+2. Por tres años de vigencia. $663
 
-3. Por dos años de vigencia. $474
+3. Por dos años de vigencia. $496
 
-4. Por un año de vigencia. $354
+4. Por un año de vigencia. $371
 
 D). Motociclista:
 
-1. Por cuatro años de vigencia. $842
+1. Por cuatro años de vigencia. $882
 
-2. Por tres años de vigencia. $633
+2. Por tres años de vigencia. $663
 
-3. Por dos años de vigencia. $474
+3. Por dos años de vigencia. $496
 
-4. Por un año de vigencia. $354
+4. Por un año de vigencia. $371
 
 E). Por la expedición de permiso provisional de práctica "B".
 
-1. Por dos años de vigencia. $474
+1. Por dos años de vigencia. $496
 
-2. Por un año de vigencia. $354
+2. Por un año de vigencia. $371
 
-F). Por la expedición de permiso provisional de práctica "A". $1,682
+F). Por la expedición de permiso provisional de práctica "A". $1,762
 
 El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
 
@@ -6171,13 +6191,13 @@ IX. Duplicado de licencias y permisos, con la vigencia del
 
 documento expedido originalmente y con la leyenda de
 
-"Duplicado". $239
+"Duplicado". $250
 
 X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
 
 A). Por la expedición de la tarjeta de identificación personal
 
-para operadores de transporte público, por año. $966
+para operadores de transporte público, por año. $1,013
 
 B). Por el duplicado de la tarjeta de identificación personal
 
@@ -6185,7 +6205,7 @@ para operadores de transporte público con la vigencia del
 
 documento expedido originalmente y con la leyenda
 
-"Duplicado". $706
+"Duplicado". $740
 
 La expedición de la tarjeta de identificación personal incluye exámenes medico, psicométrico y toxicológico.
 
@@ -6193,13 +6213,13 @@ XI. Por los servicios de control vehicular se pagarán los siguientes derechos:
 
 A). Servicio público de transporte:
 
+> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+
 1. Por la expedición o reposición, o en su caso, de placas,
 
 tarjeta de circulación y calcomanía para vehículos de
 
-servicio público en todas sus modalidades y tipos,
-
-excepto los de propulsión no mecánica. $1,015
+servicio público en todas sus clases, modalidades y tipos. $1,063
 
 2. Por refrendo anual para vehículos afectos a la
 
@@ -6207,39 +6227,39 @@ prestación del servicio público del transporte en
 
 todas sus clases, modalidades y tipos, a excepción
 
-del servicio de carga en general y especializado de carga. $828
+del servicio de carga en general y especializado de carga. $868
 
 3. Por cambio de propietario o cambio de motor del vehículo
 
 afecto a la prestación del servicio público de transporte en
 
-todas sus modalidades y tipos. $167
+todas sus modalidades y tipos. $175
 
 4. Por cambio de vehículo afecto a la prestación del servicio
 
-público de transporte, en todas sus modalidades y tipos. $442
+público de transporte, en todas sus modalidades y tipos. $463
 
 5. Por el trámite de baja de placas para vehículos afectos
 
 a la prestación del servicio público de transporte en todas
 
-sus clases, modalidades y tipos. $337
+sus clases, modalidades y tipos. $353
 
 6. Por la expedición de placas y tarjeta de circulación, para
 
 vehículos de servicio público en la modalidad de individual
 
-en vehículo de propulsión no mecánica. $311
+en vehículo de propulsión no mecánica. $326
 
 7. Por la reposición de tarjeta de circulación, o del titulo
 
-de concesión o permiso, en todas sus modalidades o tipos. $782
+de concesión o permiso, en todas sus modalidades o tipos. $819
 
 B). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 XII. Expedición de permiso de transporte público en otras
 
-modalidades $783
+modalidades $821
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -6249,17 +6269,17 @@ XIII. Por la expedición de constancia:
 
 A). De registro de licencia o permiso para
 
-conducir vehículos automotores. $54
+conducir vehículos automotores. $56
 
 B). De registro de tarjeta de identificación
 
-personal para operadores de transporte público. $54
+personal para operadores de transporte público. $56
 
 XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas:
 
-A). Autorización. $10,229
+A). Autorización. $10,720
 
-B). Refrendo. $205
+B). Refrendo. $214
 
 Los derechos por refrendo previstos en esta fracción, se pagarán anualmente dentro de los tres primeros meses de cada año.
 
@@ -6269,7 +6289,7 @@ el establecimiento de bases o concesionarios del Gobierno
 
 del Distrito Federal; personas físicas o jurídicas colectivas,
 
-unidades o empresas económicas. $3,918
+unidades o empresas económicas. $4,107
 
 XVI. Expedición del permiso para el establecimiento de bases
 
@@ -6279,7 +6299,7 @@ hayan sido autorizados para prestar el servicio público de
 
 autotransporte colectivo de pasajeros, en rutas fijas dentro
 
-del territorio del Estado. $437
+del territorio del Estado. $458
 
 (REPUBLICADA, G.G. 1 DE ENERO DE 2010)
 
@@ -6293,7 +6313,7 @@ CONCEPTO
 
 I. Por la búsqueda y reposición de la constancia sobre los
 
-resultados de la verificación del vehículo automotor. $141
+resultados de la verificación del vehículo automotor. $148
 
 II. Por la expedición de la constancia que ampara a los
 
@@ -6305,7 +6325,7 @@ conforme a las normas técnicas emitidas al efecto no
 
 quedan sujetos al Acuerdo “Hoy No Circula” y al
 
-Programa de Contingencias Ambientales. $635
+Programa de Contingencias Ambientales. $666
 
 III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
@@ -6321,21 +6341,21 @@ licuado de petróleo, gas natural, diesel u otros, que
 
 conforme a las normas técnicas emitidas al efecto
 
-no quedan sujetos al Acuerdo “Hoy No Circula” y al
+no quedan sujetos al Acuerdo “Hoy no Circula” y al
 
-Programa de Contingencias Ambientales, por cada uno. $692
+Programa de Contingencias Ambientales, por cada uno. $725
 
 VI. Por la certificación para la comercialización y/o
 
 instalación de sistemas, equipos y dispositivos de control de
 
-emisiones. $4,981
+emisiones. $5,220
 
 VII. Por la renovación anual de la certificación para la
 
 comercialización y/o instalación de sistemas, equipos y
 
-dispositivos de control de emisiones. $1,245
+dispositivos de control de emisiones. $1,304
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6343,7 +6363,7 @@ dispositivos de control de emisiones. $1,245
 
 El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados Verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno".
 
-(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 99.
 
@@ -6353,35 +6373,35 @@ TARIFA
 
 CONCEPTO INDUSTRIAL OTROS
 
-I. por la evaluación de la
+I. Por la evaluación de la
 
-manifestación de impacto ambiental. $8,658 $8,910
+manifestación de impacto ambiental. $9,073 $9,338
 
 II. Evaluación del estudio de riesgo
 
-ambiental. $12,985 $13,365
+ambiental. $13,608 $14,007
 
 III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental.
 
-A). Impacto. $3,565
+A). Impacto. $3,736
 
-B). Riesgo. $3,565
+B). Riesgo. $3,736
 
 IV. Por la evaluación del informe previo de impacto ambiental:
 
-A). Industria. $4,111
+A). Industria. $4,308
 
-B). Otros. $4,237
+B). Otros. $4,440
 
 V. Por expedición del oficio de prórroga de la vigencia de la
 
-resolución. $3,635
+resolución. $3,810
 
 VI. Por la expedición del oficio que determine que una
 
 obra y/o actividad no requiere someterse al procedimiento
 
-de evaluación en materia de impacto ambiental. $419
+de evaluación en materia de impacto ambiental. $439
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -6391,7 +6411,7 @@ No pagarán los derechos previstos en este artículo los fraccionadores de conju
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 100.
 
@@ -6403,19 +6423,19 @@ CONCEPTO
 
 (ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2011)
 
-I. Por cada línea de verificación con que cuente el verificentro. $4,668
+I. Por cada línea de verificación con que cuente el verificentro. $4,893
 
 II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 101.
 
-Por las evaluaciones técnicas para la procedencia operativa de Verificentros autorizados, se pagarán $4,669, semestralmente, dentro de los primeros diez días naturales siguientes a la entrada en vigor del Programa de Verificación Vehicular correspondiente.
+Por las evaluaciones técnicas para la procedencia operativa de verificentros autorizados, se pagarán $4,893, semestralmente, dentro de los primeros diez días naturales siguientes a la entrada en vigor del Programa de Verificación Vehicular correspondiente.
 
-(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 102.
 
@@ -6425,13 +6445,13 @@ TARIFA
 
 CONCEPTO
 
-I. Funcionamiento de emisiones a la atmósfera. $659
+I. Funcionamiento de emisiones a la atmósfera. $691
 
-II. Generador de residuos de manejo especial. $494
+II. Generador de residuos de manejo especial. $518
 
-III. Quema de materiales a cielo abierto. $879
+III. Quema de materiales a cielo abierto. $921
 
-(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 102 Bis.
 
@@ -6441,7 +6461,7 @@ CONCEPTO TARIFA
 
 Taller autorizado en el Programa Integral de Reducción
 
-de Emisiones Contaminantes (PIREC). $4,751
+de Emisiones Contaminantes (PIREC). $4,979
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -6451,7 +6471,7 @@ Por los servicios prestados por la Procuraduría General de Justicia del Estado,
 
 CONCEPTO TARIFA
 
-I. Expedición de certificados de no antecedentes penales. $110
+I. Expedición de certificados de no antecedentes penales. $115
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -15533,6 +15553,10 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
 
+G.G. 1 DE JULIO DE 2004.
+
+PRIMERO.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
 G.G. 22 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
@@ -15674,6 +15698,12 @@ SEXTO.- Los recursos presupuestarios que el Gobierno del Estado aporte al Fondo 
 En congruencia con lo anterior, los recursos que los ayuntamientos aporten al Fondo deberán reflejarse en su respectivo presupuesto de egresos para el ejercicio fiscal 2007.
 
 SÉPTIMO.- Para el seguimiento y vigilancia del cumplimiento del convenio, se constituye una comisión integrada por diputados de la Legislatura del Estado de México, representantes de la Secretaría del Agua y obra (sic) Pública, y la Comisión del Agua del Estado de México, así como representantes de los ayuntamientos por sí o a través de sus organismos descentralizados prestadores de los servicios de agua potable y, en su caso, con la asesoría de las autoridades federales competentes.
+
+G.G. 30 DE DICIEMBRE DE 2006.
+
+Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
 
 G.G. 1 DE FEBRERO DE 2007.
 
@@ -16003,29 +16033,31 @@ CUARTO.- El Registro Estatal de Especialistas en Valuación y en Levantamiento T
 
 QUINTO.- En los casos en que este Código y otras disposiciones legales refieran al Impuesto Sobre Tenencia o Uso de Vehículos Automotores (ISTUVA), se entenderá que se refiere al Impuesto contenido en la Sección Segunda del Capítulo Primero del Título Tercero de este Código.
 
+> <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
+
 SEXTO.- El artículo 60-E no será aplicable para vehículos cuyo año modelo sea más antiguo que 2002. Los contribuyentes obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Sección Segunda del Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios respecto de estos vehículos, lo calcularán conforme a lo siguiente:
 
 I. En el caso de vehículos de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
 NÚMERO DE CILINDROS TARIFA
 
-Hasta 4 $249
+Hasta 4 $261
 
-De 5 a 6 $745
+De 5 a 6 $781
 
-De más de 6 $930
+De más de 6 $975
 
-II. En el caso de motocicletas, motonetas, trimotos y cuadrimotos, la determinación será atendiendo a los centímetros cúbicos del motor, conforme a lo siguiente:
+II. En el caso de motocicletas, motonetas, trimotos y cudrimotos (sic), la determinación será atendiendo a los centímetros cúbicos del motor, conforme a lo siguiente:
 
-1. Cilindrada hasta 200 c.c. $210
+1. Cilindrada hasta 200 c.c. $220
 
-2. Cilindrada de 201 c.c. en adelante $356
+2. Cilindrada de 201 c.c. en adelante $373
 
-III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $773.
+III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $810.
 
 Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en este artículo en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público, se pagará una cuota de $173, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
+IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público se pagará una cuota de $181, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 Estas tarifas se actualizarán cada ejercicio fiscal, aplicando el factor de actualización a que hace referencia el artículo 70 del Código Financiero del Estado de México y Municipios.
 
@@ -16100,6 +16132,12 @@ SEXTO.- Las dependencias y entidades públicas del Gobierno del Estado dispondr�
 SÉPTIMO.- Para efectos de la reforma al artículo 216-F del Código Financiero del Estado de México y Municipios, el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, realizará las gestiones necesarias a fin de finiquitar la cuenta del fideicomiso que se aperturó para la administración de los recursos a que hace referencia el citado artículo, así como la transferencia de los mismos a la cuenta que determine la Secretaría de Finanzas, en un plazo máximo de seis meses.
 
 OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del Estado de México, realicen una revisión minuciosa de los esquemas de cobro de los Derechos por Uso de Vías y Áreas Públicas, para el ejercicio de actividades comerciales o de servicios, así como del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos permitidos con cruce de apuestas y, en su caso, se hagan las propuestas conducentes, a fin de coadyuvar con los Municipios de la Entidad, en eficientar la recaudación de los ingresos propios.
+
+G.G. 1 DE ENERO DE 2013.
+
+Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
