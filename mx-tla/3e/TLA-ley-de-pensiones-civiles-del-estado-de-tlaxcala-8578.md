@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-pensiones-civiles-del-estado-de-tlaxcala-8578"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-25"
-last_updated: "1985-08-06"
+last_updated: "2013-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TLA"
 ---
 # LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1985.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA, PUBLICADO EN EL P.O. EL 1 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 25 de enero de 1984.
 
@@ -700,3 +704,203 @@ P.O. 6 DE AGOSTO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día hábil siguiente a aquél en que se publique en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DEL 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1° de enero de 2013, deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala, excepto las disposiciones del Libro B que entrarán en vigor a partir del día 1° de enero de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, se abroga la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984.
+
+###### ARTÍCULO TERCERO.
+
+Los servidores públicos que a la entrada en vigor de la presente Ley cumplan con los requisitos establecidos en los artículos 33, 40 y 45 de la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984, en cualquier momento podrá tramitar, previa solicitud expresa de acogerse al beneficio que otorga este artículo, su jubilación, o su pensión por vejez, respectivamente, en los términos que establecía dicho ordenamiento.
+
+Para efectos del párrafo anterior, los servidores públicos a que se refiere este articulo, deberán solicitar, dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley, ante la Dirección de Pensiones Civiles del Estado de Tlaxcala, la constancia que acredite el cumplimiento de los requisitos a que se refiere el párrafo anterior. En caso de que los servidores públicos a que se refiere este artículo no presenten la solicitud señalada en el párrafo anterior estarán a lo establecido en el artículo Décimo Transitorio de este decreto para el caso de jubilaciones.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a ciento ochenta días naturales se estará a lo siguiente:
+
+I. El Ejecutivo Estatal emitirá:
+
+a) El Reglamento Interior a que se refiere el artículo 2 del presente ordenamiento;
+
+b) El Reglamento correspondiente para la verificación de vigencia de derechos del Pensionado, y
+
+c) El Reglamento de Cuentas de Ahorro Personal a que se refiere el Libro B de esta ley. El plazo de este inciso se podrá prorrogar hasta por 185 días adicionales, una vez agotado el plazo a que se refiere el primer párrafo de este artículo;
+
+II. La Secretaria de Finanzas del Gobierno del Estado de Tlaxcala emitirá y publicará en el Periódico Oficial del Gobierno del Estado de Tlaxcala:
+
+a) Los lineamientos de la inversión de las reservas a que se refiere el artículo 20 de este ordenamiento, y
+
+b) Los lineamientos a que se refiere la fracción II del artículo 67 de este ordenamiento;
+
+III. El Director General de Pensiones Civiles de Tlaxcala emitirá:
+
+a) Los lineamientos para el correcto funcionamiento de la Institución, a que se refiere la fracción III del artículo 14 de esta ley;
+
+b) Los lineamientos respecto de las solicitudes de jubilación y pensión establecidas en el artículo 36 de este ordenamiento;
+
+c) Los lineamientos con los requisitos para las solicitudes del pago del seguro de vida, a que se refiere el artículo 66 de este ordenamiento;
+
+d) Los lineamientos a que se refiere la fracción III del artículo 67 de esta ley, y
+
+e) Los lineamientos a que se refieren las fracciones I y IV del artículo 68 de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+La aportación de los titulares de las dependencias del Gobierno del Estado, a través de la Oficialía Mayor, y la de los titulares de las demás dependencias y entidades públicas, a través de sus áreas de recursos humanos, y las retenciones hechas a los servidores públicos enteradas al Fondo de Pensiones referido en la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984, se tendrán por efectuadas al Fondo de Pensiones Civiles establecido en el artículo 18 de esta ley.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se hayan iniciado al amparo de la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984, se atenderán y tramitarán hasta su conclusión bajo las disposiciones de dicho ordenamiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas físicas que a la entrada en vigor de esta ley, hayan obtenido jubilación o pensión en los términos establecidos en la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984, continuarán ejerciendo los derecho que obtuvieron bajo esa ley en los términos y condiciones señalados en las disposiciones legales vigentes al momento de su otorgamiento. A excepción de lo señalado en este artículo, los jubilados y pensionados se sujetarán en su totalidad a lo establecido en el Libro A de este ordenamiento.
+
+###### ARTÍCULO OCTAVO.
+
+La institución denominada Pensiones Civiles del Estado de Tlaxcala, a que se refiere el artículo 2 de este ordenamiento es el organismo público descentralizado, con personalidad jurídica y patrimonio propios, a que se refiere el artículo 2 de la Ley de Pensiones Civiles de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día 25 de enero de 1984.
+
+###### ARTÍCULO NOVENO.
+
+Durante los ejercicios fiscales 2013 a 2016, el Gobierno del Estado aportará un total de 150 millones de pesos para el Fondo de Créditos, con base en las solicitudes y otorgamiento de créditos a que se refiere el artículo 67 del presente ordenamiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Para efectos del artículo 41 de la presente Ley, en tratándose de aquellos servidores públicos que al 31 de diciembre de 2012, cuenten con al menos 27 años de aportación ininterrumpida a la Institución, hasta el año 2026, la edad requerida para obtener la jubilación estará en función del año calendario, de acuerdo con lo siguiente:
+
+AÑO CALENDARIO EDAD HOMBRES EDAD MUJERES
+
+2013 53 AÑOS 53 AÑOS
+
+2014 53 53
+
+2015 54 54
+
+2016 54 54
+
+2017 55 55
+
+2018 55 55
+
+2019 56 56
+
+2020 56 56
+
+2021 57 57
+
+2022 57 57
+
+2023 58 58
+
+2024 58 58
+
+2025 59 58
+
+2026 59 58
+
+A partir del primero de enero de 2027, para efectos del artículo 41 de esta Ley, los servidores públicos a que se refiere el primer párrafo de este artículo deberán tener 60 años de edad cumplidos los hombres y 58 años de edad cumplidos las mujeres y en ambos casos se deberá contar con 30 años de aportación ininterrumpida a la Institución.
+
+A partir de la entrada en vigor de la presente Ley y hasta el 31 de diciembre del 2027, las servidoras públicas a que se refiere el primer párrafo de este artículo que cuenten con al menos 28 años de aportación ininterrumpida a la Institución y cuenten con la edad a que se refiere el cuadro anterior, de acuerdo con el año calendario que corresponda, podrán optar por enterar las aportaciones y deducciones establecidas en los artículos 28 y 29 de esta ley, respectivamente, que correspondan al tiempo que resulte de restar a 30 años el tiempo que la servidora pública haya cotizado de manera ininterrumpida a la Institución al momento de ejercer la opción a que se refiere este párrafo. Para efectos del artículo 41 de este ordenamiento las servidoras públicas que ejerzan esta opción se considerará que cuentan con 30 años de aportación ininterrumpida a la Institución.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las personas que ingresen el servicio público a partir del día 1° de enero de 2014, serán sujetos del Libro B y en ningún caso podrán acogerse al Libro A de esta ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los servidores públicos que, a la fecha de entrada en vigor de esta Ley, cuenten con un máximo de cinco años ininterrumpidos de descuentos obligatorios a la Institución, serán sujetos del Libro B de este ordenamiento, excepto en el caso que se refiere el párrafo siguiente.
+
+Los servidores públicos a que se refiere este artículo podrán optar por no ser sujetos del Libro B de este ordenamiento. Para efectos de este párrafo los servidores públicos dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley deberán comparecer ante la Institución para manifestar por escrito su voluntad de no sujetarse a dicho Libro.
+
+Se considerará para todos los efectos legales a los que haya lugar, que los servidores públicos a que se refiere este artículo y que hayan optado por mantenerse en el Libro B de este ordenamiento inician su relación laboral con el Gobierno del Estado a partir de la entrada en vigor de esta ley. Asimismo, los trabajadores que se mantengan en el Libro B, con los beneficios recibidos que establece el artículo Décimo Tercero transitorio de esta ley, se darán por satisfechos de sus prestaciones laborales asociadas al empleo, cargo o comisión, que desempeñaron en el Gobierno del Estado desde su incorporación al servicio público hasta el 31 de diciembre de 2013.
+
+###### ARTICULO DÉCIMO TERCERO.
+
+Los servidores públicos a que se refiere el artículo Décimo Segundo Transitorio de esta Ley que hayan optado por mantenerse en el Libro B de este ordenamiento tendrán derecho a lo siguiente:
+
+I. Recibir en efectivo el equivalente a cinco salarios mínimos elevados al mes, correspondientes a la zona geográfica de Tlaxcala. Dicha cantidad se entregará en un plazo no mayor a trescientos sesenta y cinco días a partir de la entrada en vigor del Libro B de esta Ley. Para efectos de esta fracción, una vez transcurrido el plazo a que se refiere el párrafo segundo del artículo Décimo Segundo Transitorio de la presente Ley, el Servidor Público acudirá a la Institución e informará por escrito el número de cuenta y clave a la que solicita se le deposite el monto indicado, y
+
+II. Al momento de obtener alguna de las pensiones establecidas en el Libro B de este ordenamiento, el Gobierno del Estado deposite en sus cuentas de ahorro personal un 100% de la liquidación que al 31 de diciembre de 2013, les hubiera correspondido, más los intereses que dicho monto genere a una tasa real anual del 2 %.
+
+La cantidad a que se refiere esta fracción se depositará en la Cuenta de Ahorro Personal del Servidor Público cuando se cumplan los requisitos establecidos en esta Ley para obtener la pensión a que se tenga derecho ya sea de invalidez, vejez, cesantía en edad avanzada o por causa de muerte.
+
+Para efectos de esta fracción, los intereses se calcularán desde el 1° de enero de 2014, hasta el mes anterior a aquel en que el Servidor Público presente su solicitud de pensión.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La opción adoptada por el Servidor Público a que se refiere el artículo Decimo Segundo Transitorio de esta Ley será definitiva, irrenunciable y no podrá modificarse una vez efectuada.
+
+El Director General emitirá en un plazo no mayor a diez días naturales a la entrada en vigor de esta Ley el formato que se apruebe para que los servidores públicos puedan ejercer la opción a que se refiere este artículo, el cual deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Las personas físicas que al 31 de diciembre de 2012, se encuentren fuera del servicio público y regresen posteriormente a éste, serán sujetos al Libro B de esta Ley.
+
+Las personas físicas a que se refiere el párrafo anterior después de haber transcurrido un año de su reingreso tendrán derecho a recibir en su Cuenta de Ahorro Personal un monto equivalente a las cantidades que el Gobierno del Estado les haya deducido y haya enterado a la Institución, actualizadas por inflación conforme al Índice Nacional de Precios al Consumidor.
+
+Para efectos de este artículo la actualización de la inflación se llevará a cabo desde la fecha de entrada en vigor de esta Ley hasta el mes anterior al que el Servidor Público presente su solicitud de pensión. Asimismo, los intereses se calcularán desde la fecha de entrada en vigor de esta ley hasta el mes anterior al que el Servidor Público presente dicha solicitud.
+
+Las cantidades a que se refiere este artículo se depositarán en la Cuenta de Ahorro Personal del Servidor Público cuando se cumplan los requisitos establecidos en esta Ley para obtener la pensión a que se tenga derecho ya sea de invalidez, cesantía en edad avanzada, vejez o por causa de muerte.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+En caso de que el Gobierno de Estado firme el convenio a que se refiere el segundo párrafo del artículo 73 de esta ley se estará a lo siguiente:
+
+I Los siguientes seguros con carácter obligatorio:
+
+a) De salud;
+
+b) De riesgos de trabajo;
+
+c) De retiro, cesantía en edad avanzada y vejez, y
+
+d) De invalidez y vida;
+
+II. Las siguientes prestaciones y servicios con carácter obligatorio:
+
+a) Préstamos hipotecarios y financiamiento en general para vivienda;
+
+b) Préstamos personales, y
+
+c) Servicios sociales y culturales.
+
+III. La contribución que se refiere el artículo 76 de esta Ley se aplicará de la siguiente manera:
+
+a) Seguro de retiro, cesantía en edad avanzada y vejez, 5.1755 %;
+
+b) Invalidez y vida, 0.712 %;
+
+c) Riesgos de trabajo, 0.750 %;
+
+d) Seguro de salud de los trabajadores en activo y familiares derechohabientes, 8.565 %;
+
+e) Seguro de salud de los pensionados y familiares derechohabientes, 0.720 %;
+
+f) Ahorro solidario, 6.500 %;
+
+g) Vivienda, 5.000 %, y
+
+h) Servicios sociales y culturales, 0.500 %.
+
+IV. El descuento a que se refiere el artículo 77 de esta Ley se aplicará de la siguiente manera:
+
+a) Seguro de retiro, cesantía en edad avanzada y vejez, 6.125 %;
+
+b) Invalidez y vida, 0.625 %;
+
+c) Seguro de salud de los trabajadores en activo y familiares derechohabientes, 2.750 %;
+
+d) Seguro de salud de los pensionados y familiares derechohabientes, 0.625 %;
+
+e) Ahorro solidario, 2.00 %, y
+
+f) Servicios sociales y culturales, 0.500 %.
+
+V. Los seguros a que se refiere los artículos 79 a 85 de la presente Ley se prestarán conforme a lo dispuesto en la Ley del ISSSTE, excepto en lo que se refiere a la edad, la cual se regirá por esta Ley.
