@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-estatal-de-la-juventud-60190"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-27"
-last_updated: "2011-05-18"
+last_updated: "2013-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD, DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE ABROGA EL DECRETO POR EL QUE SE CREA EL INSTITUTO ESTATAL DE LA JUVENTUD, PUBLICADO EN EL P.O. DE 2 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de febrero de 2008.
 
@@ -466,3 +468,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al mismo.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 2 DE ENERO DE 2013.
+
+Artículo Único.- Se abroga el Decreto por el que se crea el Instituto Estatal de la Juventud, publicado en el Periódico Oficial número 001, Tomo III, de fecha lunes once de diciembre de dos mil seis, así como las normas que de él emanen, extinguiéndose en consecuencia el órgano administrativo desconcentrado denominado Instituto Estatal de la Juventud.
+
+T r a n s i t o r i o s
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, se encuentren asignados al Instituto Estatal de la Juventud, serán transferidos a la Secretaría de la Juventud, Recreación y Deporte, en términos de lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Chiapas.
+
+Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto hubiere contraído el Instituto Estatal de la Juventud, así como las atribuciones y referencias que otras leyes les asignen, serán asumidas inmediatamente y se entenderán conferidas a la Secretaría de la Juventud, Recreación y Deporte.
+
+Artículo Quinto.- En cumplimiento a lo previsto en el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
