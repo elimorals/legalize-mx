@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-pensiones-civiles-del-estado-de-tlaxcala-90707"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TLA"
 ---
 # LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2013.</small>
 
 Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 1 de enero de 2013.
 
@@ -33,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Con
 
 MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
 
-Que por conducto de la Secretaría Parlamentaria del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2013)</small>
+
+Que por conducto de la Mesa Directiva del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 
@@ -831,8 +833,6 @@ Los servidores públicos sujetos al Libro B de esta ley disfrutarán del Seguro 
 
 Para que los familiares puedan obtener y gozar de la pensión por causa de muerte de los servidores públicos sujetos al libro B de esta Ley se estará en lo dispuesto en el Reglamento de Cuentas de Ahorro Personal que para el efecto emita el Ejecutivo del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1037,7 +1037,9 @@ AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
 
 Dado en el Salón Las Tapas del Hotel Misión, Atlihuetzía, Municipio de Yauhquemehcan, Tlaxcala, declarado recinto oficial del Poder Legislativo del Estado de Tlaxcala, en cumplimiento a lo dispuesto por el artículo 11 de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, a los treinta y un días del mes de diciembre del año dos mil doce.
 
-C. TEODARDO TORRES MUÑOZ.- DIP. PRESIDENTE.- Rúbrica.- C. JUAN JAVIER POTRERO TIZAMITL.- DIP SECRETARO (SIC).- Rúbrica.- C. JOAQUIN PLUMA MORALES.- DIP. SECRETARIO.- Rúbrica.
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2013)</small>
+
+C. TEODARDO MUÑOZ TORRES.- DIP. PRESIDENTE.- Rúbrica.- C. JUAN JAVIER POTRERO TIZAMITL.- DIP.- SECRETARIO.- Rúbrica.- C. JOAQUIN PLUMA MORALES.- DIP.- SECRETARIO.- Rúbrica.
 
 Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 
