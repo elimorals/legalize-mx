@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2012-12-26"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 265 PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -1221,7 +1221,7 @@ Transcurrido el plazo de diez días a que se refiere el Artículo 94, declarada 
 
 ###### Artículo 97.
 
-Si el Tribunal Estatal de Conciliación y Arbitraje resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en el supuesto de suspender las labores, el caso será considerado como abandono de trabajo y dictara las medidas que juzgue necesarias para evitar esa suspensión, quedando cesados por este solo hecho sin responsabilidad para el Gobierno del Estado o de los Municipios, los trabajadores que hubieren realizado la suspensión de labores.
+Si el Tribunal Estatal de Conciliación y Arbitraje resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en el supuesto de suspender las labores, el caso será considerado como abandono de trabajo y dictará las medidas que juzgue necesarias para evitar esa suspensión, quedando cesados por este solo hecho sin responsabilidad para el Gobierno del Estado o de los Municipios, los trabajadores que hubieren realizado la suspensión de labores.
 
 ###### Artículo 98.
 
