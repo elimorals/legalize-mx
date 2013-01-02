@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gestion-e-71289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-09"
-last_updated: "2012-06-27"
+last_updated: "2013-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN E INNOVACIÓN GUBERNAMENTAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICION SEGUNDA TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 2 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2009.
 
@@ -646,3 +648,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO. Los Manuales de Organización y de Políticas y Procedimientos de la Secretaría que, por razón de este Decreto, deban ser modificados, deberán actualizarse en un plazo no mayor de sesenta días hábiles; y en tanto se modifiquen seguirán vigentes los anteriores.
+
+P.O. 2 DE ENERO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Gestión e Innovación Gubernamental del Poder Ejecutivo del Gobierno del Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" numero 4758 de fecha 9 de diciembre del 2009 y sus reformas publicadas en el periódico oficial "Tierra y Libertad" números 4925 de fecha 12 de octubre del 2011 y 4991 de fecha 27 de junio del 2012, así como todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico Normativo que se opongan al presente Reglamento.
+
+TERCERA. Cuando en una ley, reglamento o disposición jurídica se haga referencia a la Dirección General de Adquisiciones y Patrimonio y Dirección General de Gestión del Pago de Servicios, de acuerdo a la naturaleza del asunto se estará encomendada a la Dirección General de Adquisiciones, a la Dirección General de Patrimonio, Dirección General de Coordinación y Desarrollo Administrativo, lo mismo ocurrirá con las Unidades de Tecnologías de Información y Comunicaciones, se entenderá se refieren a las Unidades Responsables de Soporte Informático.
+
+CUARTA. Los asuntos iniciados bajo las disposiciones jurídicas que se abrogan o derogan, deberán substanciarse y concluirse conforme a las mimas (sic).
+
+QUINTA. Los Manuales de Organización, y de Políticas y Procedimientos de la Secretaría, que por razón de éste Reglamento, sufran cambios substanciales distintos a los cambios de denominación, deberán adecuarse en un plazo no mayor a 90 días hábiles y en tanto se expidan dichos manuales, seguirán vigentes los anteriores; en su caso, la persona titular de la Secretaría resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de éste ordenamiento. Aquellos cuya modificación estribe en adecuación de denominación, podrán irse actualizando de manera programada conforme al calendario que se determine.
