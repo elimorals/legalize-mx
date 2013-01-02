@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2012-12-27"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -46,9 +46,9 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
 La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
-La Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
+La Oficina de la Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
@@ -96,17 +96,21 @@ A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las dispos
 
 Para los efectos del Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado y el Procurador General de la República.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 7o.
 
-El Presidente de la República podrá convocar a reuniones de Secretarios de Estado y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Federal en materias que sean de la competencia concurrente de varias dependencias, o entidades de la Administración Pública Federal. Estas reuniones serán presididas por el Titular del Ejecutivo Federal y el Secretariado Técnico de las mismas estará adscrito a la Presidencia de la República.
+El Presidente de la República podrá convocar, directamente o a través del Secretario de Gobernación, a reuniones de gabinete con los Secretarios de Estado y funcionarios de la Administración Pública Federal que el Presidente determine, a fin de definir o evaluar la política del Gobierno Federal en asuntos prioritarios de la administración; cuando las circunstancias políticas, administrativas o estratégicas del gobierno lo ameriten; o para atender asuntos que sean de la competencia concurrente de varias dependencias o entidades de la Administración Pública Federal. Estas reuniones serán presididas por el Presidente o, si éste así lo determina, por el Titular de la Secretaría de Gobernación.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+El Jefe de la Oficina de la Presidencia de la República podrá ser convocado a las reuniones de gabinete, por acuerdo del Presidente.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 8o.
 
-El Presidente de los Estados Unidos Mexicanos contará con las unidades de asesoría, de apoyo técnico y de coordinación que el propio Ejecutivo determine, de acuerdo con el presupuesto asignado a la Presidencia de la República.
+El Presidente de los Estados Unidos Mexicanos contará con el apoyo directo de la Oficina de la Presidencia de la República para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias. El Presidente designará al Jefe de dicha Oficina.
+
+La Oficina de la Presidencia de la República contará con las unidades de apoyo técnico y estructura que el Presidente determine, de acuerdo con el presupuesto asignado a dicha Oficina.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -120,11 +124,11 @@ Las dependencias y entidades de la Administración Pública Centralizada y Parae
 
 ### CAPITULO I. De las Secretarías de Estado
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 10.
 
-Las Secretarías de Estado tendrán igual rango, y entre ellos no habrá, por lo tanto, preeminencia alguna.
+Las Secretarías de Estado tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Presidente de la República, la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -138,11 +142,11 @@ Los titulares de las Secretarías de Estado ejercerán las funciones de su compe
 
 Cada Secretaría de Estado formulará, respecto de los asuntos de su competencia; los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes del Presidente de la República.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-Los Reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales ir firmados por el Secretario de Estado respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías o Departamentos, deberán ser refrendados por todos los titulares de los mismos.
+Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Estado respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1985)</small>
 
@@ -160,11 +164,11 @@ En los juicios de amparo, el Presidente de la República podrá ser representado
 
 (DEROGADO, D.O.F. 9 DE ABRIL DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refieren los Artículos 14 y 15, cualesquiera de sus facultades, excepto aquellas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares. En los casos en que la delegación de facultades recaiga en jefes de oficina, de sección y de mesa de las Secretarías de Estado y Departamentos Administrativos, aquellos conservarán su calidad de trabajadores de base en los términos de la Ley Federal de los Trabajadores al Servicio del Estado.
+Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refiere el artículo 14 de esta Ley, cualesquiera de sus facultades, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -262,17 +266,19 @@ Los Secretarios de Estado, una vez abierto el período de sesiones ordinarias, d
 
 En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado para conocer de un asunto determinado, el presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 25.
 
-Cuando alguna Secretaría de Estado necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a las normas que determine la Secretaría de la Contraloría General de la Federación.
+Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la República necesite informes, datos o la cooperación técnica de cualquier otra dependencia para el cumplimiento de sus atribuciones, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a lo que determine la Secretaría de Gobernación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ### CAPÍTULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
-> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 26.
 
@@ -285,8 +291,6 @@ Secretaría de Relaciones Exteriores
 Secretaría de la Defensa Nacional
 
 Secretaría de Marina
-
-Secretaría de Seguridad Pública
 
 Secretaría de Hacienda y Crédito Público
 
@@ -302,95 +306,121 @@ Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación
 
 Secretaría de Comunicaciones y Transportes
 
-Secretaría de la Función Pública
-
 Secretaría de Educación Pública
 
 Secretaría de Salud
 
 Secretaría del Trabajo y Previsión Social
 
-Secretaría de la Reforma Agraria
+Secretaría de Desarrollo Agrario, Territorial y Urbano
 
 Secretaría de Turismo
 
 Consejería Jurídica del Ejecutivo Federal
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 27.
 
 A la Secretaría de Gobernación corresponde el despacho de los siguientes asuntos:
 
-I.- Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo;
+I. Coordinar, por acuerdo del Presidente de la República, a los Secretarios de Estado y demás funcionarios de la Administración Pública Federal para garantizar el cumplimiento de las órdenes y acuerdos del Titular del Ejecutivo Federal. Para tal efecto, convocará por acuerdo del Presidente de la República a las reuniones de gabinete; acordará con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes correspondientes;
 
-II.- Publicar las leyes y decretos del Congreso de la Unión, alguna de las dos Cámaras o la Comisión Permanente y los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción primera del artículo 89 constitucional, así como las resoluciones y disposiciones que por ley deban publicarse en el Diario Oficial de la Federación;
+II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo;
 
-III.- Administrar y publicar el Diario Oficial de la Federación;
+III. Administrar el Diario Oficial de la Federación y publicar las leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o la Comisión Permanente, así como los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción I del artículo 89 constitucional y el inciso B del artículo 72 constitucional, y las resoluciones y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
 
-IV.- Formular y conducir la política de población, salvo lo relativo a colonización, asentamientos humanos y turismo;
+IV. Compilar y sistematizar las leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, estatales y municipales, así como establecer el banco de datos correspondiente, con objeto de proporcionar información a través de los sistemas electrónicos de datos;
 
-V.- Manejar el servicio nacional de identificación personal;
+V. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
 
-VI.- Tramitar lo relativo a la aplicación del artículo 33 de la Constitución;
+VI. Tramitar lo relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia y de los Consejeros de la Judicatura Federal;
 
-VII.- Tramitar lo relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia y de los Consejeros de la Judicatura Federal;
+VII. Llevar el registro de autógrafos de los funcionarios federales y de los Gobernadores de los Estados y legalizar las firmas de los mismos;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+VIII. Conducir, siempre que no esté conferida esta facultad a otra Secretaría, las relaciones del Poder Ejecutivo con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con los gobiernos de las entidades federativas y de los municipios y con las demás autoridades federales y locales, así como rendir las informaciones oficiales del Ejecutivo Federal. Asimismo, conducir, en el ámbito de su competencia, las relaciones políticas del Poder Ejecutivo con los partidos y agrupaciones políticas nacionales, con las organizaciones sociales, con las asociaciones religiosas y demás instituciones sociales;
 
-VIII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los secretarios de Estado y del procurador general de la República;
+IX. Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado;
 
-IX.- Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
+X. Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia así como fomentar el desarrollo político; contribuir al fortalecimiento de las instituciones democráticas; promover la activa participación ciudadana, salvo en materia electoral; favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de unidad nacional, cohesión social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
 
-X.- Llevar el registro de autógrafos de los funcionarios federales y de los Gobernadores de los Estados y legalizar las firmas de los mismos;
+XI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
-XI.- Administrar las islas de jurisdicción federal, salvo aquellas cuya administración corresponda, por disposición de la ley, a otra dependencia o entidad de la administración pública federal;
+(NOTA: EL 23 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-En las islas a que se refiere el párrafo anterior, regirán las leyes federales y los tratados; serán competentes para conocer de las controversias que en ellas se susciten los tribunales federales con mayor cercanía geográfica;
+XII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; COMPARECER CADA SEIS MESES ANTE LAS COMISIONES DE GOBERNACIÓN Y DE SEGURIDAD PÚBLICA DEL SENADO PARA PRESENTAR LA POLÍTICA CRIMINAL Y DARLE SEGUIMIENTO CUANDO ÉSTA SE APRUEBE O SE MODIFIQUE; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
 
-XII.- Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia;
+XIII. Presidir el Consejo Nacional de Seguridad Pública en ausencia del Presidente de la República;
 
-XIII.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país, especialmente en lo que se refiere a las garantías individuales y dictar las medidas administrativas necesarias para tal efecto;
+XIII bis. Proponer acciones tendientes a asegurar la coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios en el ámbito del Sistema Nacional de Seguridad Pública; proponer al Consejo Nacional de Seguridad Pública las políticas y lineamientos en materia de Carrera Policial, el Programa Rector para la Profesionalización Policial, los criterios para establecer academias e institutos para ello, el desarrollo de programas de coordinación académica y los lineamientos para la aplicación de los procedimientos en materia del régimen disciplinario policial; participar, de acuerdo con la ley de la materia, de planes y programas de Profesionalización para las Instituciones Policiales; y coordinar las acciones para la vigilancia y protección de las Instalaciones Estratégicas, en términos de ley;
 
-XIV.- Conducir, siempre que no esté conferida esta facultad a otra Secretaría, las relaciones del Poder Ejecutivo con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con los gobiernos de las entidades federativas y de los municipios y con las demás autoridades federales y locales, así como rendir las informaciones oficiales del Ejecutivo Federal;
+XIV. Presidir la Conferencia Nacional de Secretarios de Seguridad Pública, nombrar y remover a su Secretario Técnico y designar tanto a quien presidirá, como a quien fungirá como Secretario Técnico de la Conferencia Nacional del Sistema Penitenciario, en el marco del Sistema Nacional de Seguridad Pública;
 
-XV.- Conducir las relaciones del gobierno federal con el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado;
+XV. Organizar, dirigir y supervisar bajo su adscripción a la Policía Federal, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden federal;
 
-XVI.- Conducir, en el ámbito de su competencia, las relaciones políticas del Poder Ejecutivo con los partidos y agrupaciones políticos nacionales, con las organizaciones sociales, con las asociaciones religiosas y demás instituciones sociales;
+XVI. Proponer al Presidente de la República el nombramiento del Comisionado Nacional de Seguridad y del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, en los términos que establece el párrafo final de este artículo;
 
-XVII.- Fomentar el desarrollo político, contribuir al fortalecimiento de las instituciones democráticas; promover la activa participación ciudadana y favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de gobernabilidad democrática;
+XVII. Proponer en el seno del Consejo Nacional de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio nacional; y efectuar, en coordinación con la Procuraduría General de la República, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
-XVIII.- Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
+XVIII. Auxiliar a las autoridades federales, estatales, municipales y del Distrito Federal competentes, que soliciten apoyo en el marco del Sistema Nacional de Seguridad Pública, en la protección de la integridad física de las personas y la preservación de sus bienes; reforzar, cuando así lo soliciten, la tarea policial y de seguridad de los municipios y localidades rurales y urbanas que lo requieran, intervenir ante situaciones de peligro cuando se vean amenazados por aquellas que impliquen violencia o riesgo inminente; promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia; así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación;
 
-XIX.- Administrar el Archivo General de la Nación, así como vigilar el cumplimiento de las disposiciones legales en materia de información de interés público;
+XIX. Auxiliar al Poder Judicial de la Federación y a la Procuraduría General de la República, cuando así lo requieran, para el debido ejercicio de sus funciones, así como a otras dependencias, órganos de gobierno, entidades federativas y municipios; y cuando así lo requiera, a la Procuraduría General de la República en la investigación y persecución de los delitos, en cuyo caso los cuerpos de policía que actúen en su auxilio estarán bajo el mando y conducción del Ministerio Público; y disponer de la fuerza pública en términos de las disposiciones legales aplicables;
 
-XX.- Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia;
+XX. Proponer al Consejo Nacional de Seguridad Pública el desarrollo de políticas orientadas a prevenir el delito y reconstituir el tejido social de las comunidades afectadas por fenómenos de delincuencia recurrente o generalizada, y aplicarlas en coordinación con las autoridades competentes federales, estatales y municipales; fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos federales y, por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero común; promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones en materia de seguridad pública; y atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de estas atribuciones;
 
-XXI.- Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral pública y a la dignidad personal, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito o perturben el orden público;
+XXI. Participar en la atención integral a víctimas y coadyuvar en la celebración de acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
 
-XXII.- Regular, autorizar y vigilar el juego, las apuestas, las loterías y rifas, en los términos de las leyes relativas;
+XXII. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
 
-XXIII.- Compilar y ordenar las normas que impongan modalidades a la propiedad privada, dictadas por el interés público;
+XXIII. Ejecutar las penas por delitos del orden federal y administrar el sistema penitenciario federal y de justicia para adolescentes, en términos de la política especial correspondiente y con estricto apego a los derechos humanos; así como organizar y dirigir las actividades de apoyo a liberados;
 
-XXIV.- Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos de los estados, del Distrito Federal, con los gobiernos municipales, y con las dependencias y entidades de la Administración Pública Federal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Nacional de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social, las acciones conducentes al mismo objetivo;
+XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reos a que se refiere el párrafo séptimo del artículo 18 constitucional;
 
-XXV.- Formular, normar, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, así como propiciar la coordinación interinstitucional para la realización de programas específicos;
+XXV. Impulsar a través de su titular, en calidad de Secretario Ejecutivo del Consejo de Seguridad Nacional, la efectiva coordinación de éste, así como la celebración de convenios y bases de colaboración que dicho Consejo acuerde;
 
-XXVI.- Fijar el calendario oficial;
+XXVI. Establecer y operar un sistema de investigación e información, que contribuya a preservar la integridad, estabilidad y permanencia del Estado mexicano así como contribuir en lo que corresponda al Ejecutivo de la Unión, a dar sustento a la unidad nacional, a preservar la cohesión social y a fortalecer las instituciones de gobierno;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2006)</small>
+XXVII. Coordinar, operar e impulsar la mejora continua del sistema de información, reportes y registro de datos en materia criminal; desarrollar las políticas, normas y sistemas para el debido suministro permanente e intercambio de información en materia de seguridad pública entre las autoridades competentes; y establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
 
-XXVII.- Formular, regular y conducir la política de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información;
+XXVIII. Establecer mecanismos e instancias para la coordinación integral de las tareas y cuerpos de seguridad pública y policial, así como para el análisis y sistematización integral de la investigación e información de seguridad pública y de seguridad nacional en el marco del Sistema Nacional de Seguridad Pública;
 
-XXVIII.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal;
+XXIX. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública y nacional, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que las leyes le establecen;
 
-XXIX.- Establecer y operar un sistema de investigación e información, que contribuya a preservar la integridad, estabilidad y permanencia del Estado Mexicano;
+(NOTA: EL 23 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XXX.- Contribuir en lo que corresponda al Ejecutivo de la Unión, a dar sustento a la unidad nacional, a preservar la cohesión social y a fortalecer las instituciones de gobierno;
+XXX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional, A TRAVÉS DE COMPARECENCIA DE SU TITULAR CADA SEIS MESES ANTE LA COMISIÓN BICAMARAL PREVISTA EN EL ARTÍCULO 56 DE LA LEY DE SEGURIDAD NACIONAL;
 
-XXXI.- Compilar y sistematizar las leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, estatales y municipales, así como establecer el banco de datos correspondiente, con objeto de proporcionar información a través de los sistemas electrónicos de datos; y
+XXXI. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
 
-XXXII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXII. Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos de los estados, del Distrito Federal, con los gobiernos municipales, y con las dependencias y entidades de la Administración Pública Federal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Nacional de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social, las acciones conducentes al mismo objetivo;
+
+XXXIII. Formular y dirigir la política migratoria, así como vigilar las fronteras del país y los puntos de entrada al mismo por tierra, mar o aire, garantizando en términos de ley la libertad de tránsito, en coordinación con las demás autoridades competentes;
+
+XXXIV. Tramitar lo relativo a la aplicación del artículo 33 de la Constitución;
+
+XXXV. Administrar las islas de jurisdicción federal, salvo aquellas cuya administración corresponda, por disposición de la ley, a otra dependencia o entidad de la Administración Pública Federal. En las islas a que se refiere esta fracción, regirán las leyes federales y los tratados; serán competentes para conocer de las controversias que en ellas se susciten los tribunales federales con mayor cercanía geográfica;
+
+XXXVI. Formular y conducir la política de población, salvo lo relativo a colonización, asentamientos humanos y turismo, así como manejar el servicio nacional de identificación personal, en términos de las leyes aplicables;
+
+XXXVII. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
+
+XXXVIII. Regular, autorizar y vigilar el juego, las apuestas, las loterías y rifas, en los términos de las leyes relativas;
+
+XXXIX. Formular, regular y conducir la política de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información, así como orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal;
+
+XL. Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral pública y a la dignidad personal, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito o perturben el orden público;
+
+XLI. Impulsar las políticas públicas y dar seguimiento a los programas que refuercen la inclusión social y la igualdad, mediante estrategias y acciones que contribuyan a prevenir y eliminar la discriminación;
+
+XLII. Fijar el calendario oficial; y
+
+XLIII. Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+En el ejercicio de las facultades a que se refieren las fracciones XII, XIII Bis, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVII, XXVIII, XXIX y XXXI de este artículo, el Secretario de Gobernación se auxiliará del Comisionado Nacional de Seguridad, sin perjuicio de ejercer directamente dichas facultades.
+
+(NOTA: EL 23 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EL COMISIONADO NACIONAL DE SEGURIDAD Y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo Federal con la ratificación del Senado de la República.
 
 ###### ARTICULO 28.
 
@@ -578,73 +608,7 @@ XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigila
 
 XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 30 BIS.- A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
-
-I. Desarrollar las políticas de seguridad pública y proponer la política criminal en el ámbito federal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos;
-
-II. Proponer al Ejecutivo Federal las medidas que garanticen la congruencia de la política criminal entre las dependencias de la administración pública federal;
-
-III. Presidir el Consejo Nacional de Seguridad Pública;
-
-IV. Representar al Poder Ejecutivo Federal en el Sistema Nacional de Seguridad Pública;
-
-V. Proponer al Consejo Nacional de Seguridad Pública la designación del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública y, en su caso, removerlo libremente;
-
-VI. Proponer en el seno del Consejo Nacional de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio nacional;
-
-VII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos federales y, por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero común;
-
-VIII. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
-
-IX. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
-
-X. Organizar, dirigir, administrar y supervisar la Policía Federal Preventiva, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
-
-XI. Proponer al Presidente de los Estados Unidos Mexicanos el nombramiento del Comisionado de la Policía Federal Preventiva;
-
-XII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del orden federal, así como preservar la libertad, el orden y la paz públicos;
-
-XIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
-
-XIV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
-
-XV. Efectuar, en coordinación con la Procuraduría General de la República, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
-
-XVI. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
-
-XVII. Organizar, dirigir y administrar el servicio civil de carrera de la policía a su cargo;
-
-XVIII. Regular y autorizar la portación de armas para empleados federales, para lo cual se coordinará con la Secretaría de la Defensa Nacional;
-
-XIX. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, así como supervisar su funcionamiento;
-
-XX. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras autoridades federales, estatales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación;
-
-XXI. Colaborar, en el marco del Sistema Nacional de Seguridad Pública, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
-
-XXII. Auxiliar al Poder Judicial de la Federación y a la Procuraduría General de la República, cuando así lo requieran, para el debido ejercicio de sus funciones;
-
-XXIII. Ejecutar las penas por delitos del orden federal y administrar el sistema federal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados;
-
-XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reos a que se refiere el quinto párrafo del artículo 18 constitucional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
-
-XXV. Administrar la parte relativa a la ejecución de las medidas previstas en el Sistema Federal de Justicia para Adolescentes, así como diseñar campañas de difusión de respeto a la legalidad entre los adolescentes con el fin de prevenir la realización de conductas antisociales y suscribir los convenios de colaboración en términos de la Ley Federal de Justicia para Adolescentes y con estricto apego a los derechos humanos;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XXVII. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente; y
-
-XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+ARTICULO 30 BIS.- (DEROGADO, D.O.F. 2 DE ENERO DE 2013)
 
 > <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
@@ -684,9 +648,11 @@ X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la a
 
 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII.- Organizar y dirigir los servicios aduanales y de inspección, así como la Unidad de Apoyo para la Inspección Fiscal y Aduanera;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XII.- Organizar y dirigir los servicios aduanales y de inspección;
 
 XIII.- Representar el interés de la Federación en controversias fiscales;
 
@@ -706,25 +672,93 @@ XVII.- Llevar a cabo las tramitaciones y registros que requiera el control y la 
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX.- Coordinar, conjuntamente con la Secretaría de la Función Pública, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores estratégicos, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XIX.- Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la Administración Pública Federal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXI.- Opinar, previamente a su expedición, sobre los proyectos de normas y lineamientos en materia de adquisiciones, arrendamientos y desincorporación de activos, servicios y ejecución de obras públicas de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-XXII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+XXI.- Coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal, y emitir las normas para que los recursos humanos y patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficiencia y simplificación administrativa;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXII.- Emitir políticas, normas, lineamientos y procedimientos en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas de la Administración Pública Federal; emitir y en su caso opinar sobre las normas relacionadas con la desincorporación de activos; administrar el sistema COMPRANET, llevar los procedimientos de conciliación en dichas materias, en términos de las disposiciones respectivas y aplicar la Ley de Firma Electrónica Avanzada;
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIV. Ejercer el control presupuestal de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro, y
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XXIV.- Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación y remuneraciones del personal, Servicio Profesional de Carrera en la Administración Pública Federal, estructuras orgánicas y ocupacionales, y ejercer el control presupuestario de los servicios personales, con las respectivas normas de control de gasto en ese rubro;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXV.- Llevar y normar el registro de servidores públicos de la Administración Pública Federal, incluyendo sus declaraciones patrimoniales y su seguimiento, así como la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas, en los términos de los ordenamientos aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXVI.- Determinar los perfiles que deberán cubrir los titulares y personal de las auditorías preventivas de las dependencias y entidades de la Administración Pública Federal, así como las disposiciones generales para su organización, funcionamiento y régimen disciplinario; señalar los órganos desconcentrados o entes similares que se consideren que deban contar en forma directa con unidades de auditoría preventiva, o determinar los órganos desconcentrados y entidades paraestatales que por su dimensión puedan ser auditados por la unidad de auditoría preventiva de su sector correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXVII.- Coordinar y supervisar el sistema de control gubernamental, establecer las bases generales para la realización de auditorías internas, transversales y externas, y expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXVIII.- Designar a los comisarios de las entidades de la Administración Pública Federal, así como normar sus atribuciones y desempeño;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXIX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXX.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXXI.- Coordinar políticas de desarrollo de indicadores por dependencia y entidad que estimulen el desempeño y cumplimiento de resultados de los órganos y servidores públicos de la Administración Pública Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXXII.- Emitir normas, lineamientos y manuales que integren disposiciones y criterios que impulsen la simplificación administrativa;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXXIII.- Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXXIV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE MAYO DE 1992)</small>
 
@@ -732,59 +766,73 @@ XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-I.- Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza; en particular, la de asentamientos humanos, desarrollo urbano y vivienda;
+I.- Fortalecer el desarrollo, la inclusión y la cohesión social en el país mediante la instrumentación, coordinación y seguimiento, en términos de ley y con los organismos respectivos, de las políticas siguientes:
 
-II.- Proyectar y coordinar, con la participación que corresponda a los gobiernos estatales y municipales, la planeación regional;
+a) Combate efectivo a la pobreza;
+
+b) Atención específica a las necesidades de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas; y
+
+c) Atención a los derechos de la niñez; de la juventud; de los adultos mayores, y de las personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+II.- Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 III.- Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida, en lo que el Ejecutivo Federal convenga con los gobiernos estatales y municipales, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-IV.- Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos estatales y municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción II que antecede, en coordinación con la Secretaría de Hacienda y Crédito Público;
+IV.- Fomentar las actividades realizadas por organizaciones de la sociedad civil;
 
-V.- Evaluar la aplicación de las transferencias de fondos en favor de estados y municipios, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+V.- Evaluar la aplicación de las transferencias de fondos a entidades federativas y municipios, y de los sectores social y privado, que se deriven de las acciones e inversiones convenidas en los términos de este artículo;
 
 > <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2003)</small>
 
 VI.- Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales y, con la participación de los sectores social y privado;
 
-VII.- (DEROGADA, D.O.F. 21 DE MAYO DE 2003)
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-VIII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
+VII.- Impulsar políticas y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes, en coordinación con las dependencias y entidades de la Administración Pública Federal, así como de los diferentes niveles de gobierno;
 
-IX.- Proyectar la distribución de la población y la ordenación territorial de los centros de población, conjuntamente con las dependencias y entidades de la Administración Pública Federal que corresponda, así como coordinar las acciones que el Ejecutivo Federal convenga con los Ejecutivos Estatales para la realización de acciones coincidentes en esta materia, con la participación de los sectores social y privado;
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+VIII.- Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social participativa y productiva;
 
-X.- Prever a nivel nacional las necesidades de tierra para desarrollo urbano y vivienda, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos estatales y municipales, los mecanismos para satisfacer dichas necesidades;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-XI.- Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos estatales y municipales, y con la participación de los diversos grupos sociales;
+IX.- Impulsar las políticas públicas y dar seguimiento a los programas de inclusión y atención de los adultos mayores y sus derechos;
 
-XII.- Promover y concertar programas de vivienda y de desarrollo urbano, y apoyar su ejecución, con la participación de los gobiernos estatales y municipales, y los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+X.- Fomentar las políticas públicas y dar seguimiento a los programas que garanticen la plenitud de los derechos de las personas con discapacidad;
 
-XIII.- Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+XI.- Impulsar a través del Sistema Nacional de Asistencia Social Pública y Privada políticas públicas en materia de asistencia social e integración familiar, en coordinación con el Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XIV.- Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de los gobiernos estatales y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+XII.- Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social, en coordinación con los gobiernos de las entidades federativas y municipales y con la participación de los sectores social y privado;
 
-XV.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+XIII.- Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a la Secretaría de Economía así como a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
 
-XVI.- Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a la Secretaría de Economía así como a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
+XIV.- (DEROGADA, D.O.F. 2 DE ENERO DE 2013)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+XV.- (DEROGADA, D.O.F. 2 DE ENERO DE 2013)
 
-XVII.- Los demás que le fijen expresamente las leyes y reglamentos;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XVI.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+XVII.- (DEROGADA, D.O.F. 2 DE ENERO DE 2013)
 
 XVIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -1390,131 +1438,11 @@ XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el d
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 37.
 
-A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-I.- Organizar y coordinar el sistema de control y evaluación gubernamental; inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos; coordinar, conjuntamente con la Secretaría de Hacienda y Crédito Público, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores de gestión, en los términos de las disposiciones aplicables;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Expedir las normas que regulen los instrumentos y procedimientos de control de la Administración Pública Federal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Vigilar el cumplimiento de las normas de control y fiscalización así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública Federal;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-V.- Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VI.- Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados con criterios de eficiencia, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello, podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Federal;
-
-> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-VI bis.- Dirigir, organizar y operar el Sistema de Servicio Profesional de Carrera en la Administración Pública Federal en los términos de la Ley de la materia, dictando las resoluciones conducentes en los casos de duda sobre la interpretación y alcances de sus normas;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VII.- Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o de la coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Federal, con el objeto de promover la eficiencia en su gestión y propiciar el cumplimiento de los objetivos contenidos en sus programas;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VIII.- Inspeccionar y vigilar, directamente o a través de los órganos de control, que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, servicios, y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IX.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-X.- Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XI.- Designar, para el mejor desarrollo del sistema de control y evaluación gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada, y comisarios en los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paraestatal;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-XII.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIII.- Colaborar con la Contaduría Mayor de Hacienda para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el mejor cumplimiento de sus respectivas responsabilidades;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIV.- Informar periódicamente al Ejecutivo Federal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Federal, así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda del resultado de tales intervenciones y, en su caso, dictar las acciones que deban desarrollarse para corregir las irregularidades detectadas;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XV.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos de la Administración Pública Federal, y verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con las disposiciones aplicables;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XVI.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Federal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XVII.- Conocer e investigar las conductas de los servidores públicos, que puedan constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos de ley y, en su caso, presentar las denuncias correspondientes ante el Ministerio Público, prestándose para tal efecto la colaboración que le fuere requerida;
-
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-XVIII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-XVIII bis.- Establecer normas y lineamientos en materia de planeación y administración de personal;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIX.- Establecer normas, políticas y lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obras públicas de la Administración Pública Federal;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XXI.- Expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación, a fin de obtener el mayor provecho del uso y goce de los mismos. Para tal efecto, la Secretaría podrá coordinarse con estados y municipios, o bien con los particulares y con otros países;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XXII.- Administrar los inmuebles de propiedad federal, cuando no estén asignados a alguna dependencia o entidad;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XXIII.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; así como expedir las normas y procedimientos para la formulación de inventarios y para la realización y actualización de los avalúos sobre dichos bienes que realice la propia Secretaría, o bien, terceros debidamente autorizados para ello;
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XXIV.- Llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente, y (sic)
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
-
-XXIV bis.- Reivindicar los bienes propiedad de la nación, por conducto del Procurador General de la República;
-
-> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2002)</small>
-
-XXV.- Formular y conducir la política general de la Administración Pública Federal para establecer acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, y (sic)
-
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-XXVI.- Promover las estrategias necesarias para establecer políticas de gobierno electrónico, y
-
-> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-XXVII.- Las demás que le encomienden expresamente las leyes y reglamentos.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2013)
 
 ###### ARTICULO 38.
 
@@ -1734,39 +1662,67 @@ XVIII.- Promover la cultura y recreación entre los trabajadores y sus familias,
 
 XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 41.
 
-A la Secretaría de la Reforma Agraria corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Agrario, Territorial y Urbano corresponde el despacho de los siguientes asuntos:
 
-I.- Aplicar los preceptos agrarios del artículo 27 constitucional, así como las leyes agrarias y sus reglamentos;
+I. Impulsar, en coordinación con las autoridades estatales y municipales, la planeación y el ordenamiento del territorio nacional para su máximo aprovechamiento, con la formulación de políticas que armonicen:
 
-II.- Conceder o ampliar en términos de ley, las dotaciones o restituciones de tierra y aguas a los núcleos de población rural;
+a) El crecimiento o surgimiento de asentamientos humanos y centros de población;
 
-III.- Crear nuevos centros de población agrícola y dotarlos de tierras y aguas y de la zona urbana ejidal;
+b) La regularización de la propiedad agraria y sus diversas figuras que la ley respectiva reconoce en los ejidos, las parcelas, las tierras ejidales y comunales, la pequeña propiedad agrícola, ganadera y forestal, los terrenos baldíos y nacionales, y los terrenos que sean propiedad de asociaciones de usuarios y de otras figuras asociativas con fines productivos;
 
-IV.- Intervenir en la titulación y el parcelamiento ejidal;
+c) El desarrollo urbano con criterios uniformes respecto de la planeación, control y crecimiento con calidad de las ciudades y zonas metropolitanas del país, además de los centros de población en general, así como su respectiva infraestructura de comunicaciones y de servicios;
 
-V.- Hacer y tener al corriente el Registro Agrario Nacional, así como el catastro de las propiedades ejidales, comunales e inafectables;
+d) La planeación habitacional y del desarrollo de vivienda; y
 
-VI.- Conocer de las cuestiones relativas a límites y deslinde de tierras ejidales y comunales;
+e) El aprovechamiento de las ventajas productivas de las diversas regiones del país;
 
-VII.- Hacer el reconocimiento y titulación de las tierras y aguas comunales de los pueblos;
+II. Aplicar los preceptos agrarios del artículo 27 constitucional, así como las leyes agrarias y sus reglamentos, en lo que no corresponda a otras dependencias, entidades u otras autoridades en la materia;
 
-VIII.- Resolver conforme a la ley las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras dependencias o entidades, con la participación de las autoridades estatales y municipales;
+III. Administrar el Registro Agrario Nacional;
 
-IX.- Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
+IV. Conducir los mecanismos de concertación con las organizaciones campesinas;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+V. Conocer de las cuestiones relativas a límites y deslinde de tierras ejidales y comunales;
 
-X.- Proyectar los programas generales y concretos de colonización ejidal, para realizarlos, promoviendo el mejoramiento de la población rural y, en especial, de la población ejidal excedente, escuchando la opinión de la Secretaría de Desarrollo Social;
+VI. Resolver las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras dependencias o entidades, con la participación de las autoridades estatales y municipales;
 
-XI.- Manejar los terrenos baldíos, nacionales y demasías;
+VII. Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
 
-XII.- Ejecutar las resoluciones y acuerdos que dicte el Presidente de la República en materia agraria, así como resolver los asuntos correspondientes a la organización agraria ejidal, y
+VIII. Ejecutar las resoluciones y acuerdos que dicte el Presidente de la República en materia agraria, en términos de la legislación aplicable;
 
-XIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+IX. Administrar los terrenos baldíos y nacionales y las demasías, así como establecer los planes y programas para su óptimo aprovechamiento;
+
+X. Planear y proyectar la adecuada distribución de la población y la ordenación territorial de los centros de población, ciudades y zonas metropolitanas, bajo criterios de desarrollo sustentable, conjuntamente con las dependencias y entidades de la Administración Pública Federal competentes, y coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos de las entidades federativas y municipales para la realización de acciones en esta materia, con la participación de los sectores social y privado;
+
+XI. Prever a nivel nacional las necesidades de tierra para desarrollo urbano y vivienda, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos de las entidades federativas y municipales, los mecanismos para satisfacer dichas necesidades;
+
+XII. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos de las entidades federativas y municipales, y con la participación de los diversos grupos sociales;
+
+XIII. Promover y concertar programas de vivienda y de desarrollo urbano y metropolitano, y apoyar su ejecución, con la participación de los gobiernos de las entidades federativas y municipales, así como de los sectores social y privado, a efecto de que el desarrollo nacional en la materia se oriente hacia una planeación sustentable y de integración;
+
+XIV. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
+
+XV. Planear, diseñar, promover, apoyar y evaluar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de los gobiernos de las entidades federativas y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+XVI. Apoyar los programas de modernización de los registros públicos de propiedad;
+
+XVII. Facilitar las acciones de coordinación de los entes públicos responsables de la planeación urbana y metropolitana en las entidades federativas y municipios cuando así lo convengan;
+
+XVIII. Proyectar y coordinar, con la participación que corresponda a los gobiernos de las entidades federativas y municipales, la planeación regional del desarrollo;
+
+XIX. Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción que antecede, en coordinación con la Secretaría de Hacienda y Crédito Público;
+
+XX. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+
+XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en materia de crecimiento demográfico y su impacto en el ámbito territorial;
+
+XXII. Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia; y
+
+XXIII. Los demás que le fijen expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1860,9 +1816,21 @@ ARTICULO 43 BIS.- Las dependencias de la Administración Pública Federal enviar
 
 Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 44.
 
-(DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997)
+Los titulares de las dependencias y entidades de la Administración Pública Federal serán responsables de mantener el control interno y de gestión de la dependencia o entidad que encabecen, con el apoyo de unidades de auditoría preventiva. Los propios titulares tendrán la obligación de nombrar a los auditores preventivos de su respectiva dependencia y entidad, con base en los perfiles que establezca la Secretaría de Hacienda y Crédito Público, para apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Las unidades de auditoría preventiva se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, fiscalización superior, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia, y por las disposiciones generales que emita la Secretaría de Hacienda y Crédito Público respecto de dichos asuntos, sobre la organización, funcionamiento y supervisión de los sistemas de control interno, además de las de auditoría preventiva, mejora de gestión en las dependencias y entidades de la Administración Pública Federal y presentación de informes por parte de dichas unidades. Las unidades de auditoría preventiva formarán parte del sistema nacional de fiscalización, e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con las mejores prácticas, que considere el referido sistema.
+
+Las unidades de auditoría preventiva de cada dependencia y entidad formularán en el mes de noviembre su plan anual de trabajo y de auditorías.
+
+En los meses de mayo y noviembre entregarán informes tanto al titular de la dependencia o entidad de que se trate, así como a la Secretaría de Hacienda y Crédito Público, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y ejecución de los programas, así como sobre la eficiencia y eficacia en la administración de los recursos humanos, materiales y financieros y de los servicios generales, además de los correspondientes a la situación de desempeño y el ejercicio del gasto; y en su caso, sobre la relación de los procedimientos abiertos por causas disciplinarias, de presunta responsabilidad administrativa y de sanciones aplicadas por la propia unidad de auditoría preventiva, así como de las denuncias presentadas ante la autoridad competente por actos de corrupción. Con base en dichos informes, tanto las dependencias y entidades, así como la Secretaría de Hacienda y Crédito Público, formularán las recomendaciones pertinentes para mejora de la gestión.
+
+Los titulares de las dependencias y entidades encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión, conforme a las disposiciones que establezca la Secretaría de Hacienda y Crédito Público.
 
 ### CAPITULO UNICO. De la Administración Pública Paraestatal
 
@@ -1920,11 +1888,13 @@ Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de
 
 ARTICULO 49 BIS.- (DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 50.
 
-Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público y de la Contraloría General de la Federación, sin perjuicio de las atribuciones que competan a las coordinadoras del sector.
+Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de la Secretaría de Hacienda y Crédito Público, sin perjuicio de las atribuciones que competan a la dependencia coordinadora del sector correspondiente.
 
 ###### ARTICULO 51.
 
@@ -2347,3 +2317,45 @@ SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolesce
 OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 2 DE ENERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las modificaciones previstas en el presente Decreto para los artículos 26, 31, 37, 44, y 50 de esta Ley exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
+
+Al expedir los ordenamientos reglamentarios de la reforma constitucional correspondiente, el Congreso de la Unión revisará que el control interno y el sistema integral de control y evaluación gubernamental sean congruentes con las atribuciones que le sean conferidas a dicho órgano y compatibles con las bases y principios del Sistema Nacional de Fiscalización, para lo cual realizará las reformas legales a que haya lugar.
+
+Entre tanto se expiden y entran en vigor las disposiciones a que se refiere este artículo, la Secretaría de la Función Pública continuará ejerciendo sus atribuciones conforme a los ordenamientos vigentes al momento de expedición de este Decreto.
+
+Tercero.- El Titular del Poder Ejecutivo Federal deberá expedir la reforma a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, así como de la Oficina de la Presidencia de la República, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias cuyas funciones cambian por este Decreto a otras Secretarías de Estado, se transferirán a éstas, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
+
+Los oficiales mayores de las dependencias a que se refiere el presente Decreto serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto, así como de la elaboración de la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
+
+La Secretaría de Hacienda y Crédito Público podrá dictar los lineamientos y disposiciones de carácter general que estime necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Quinto.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones. Respecto de las atribuciones de la Secretaría de la Función Pública, será la Secretaría de Hacienda y Crédito Público la que determine, en su caso, si las mismas corresponden a esta última dependencia o a las unidades de auditoría preventiva.
+
+Sexto.- Los programas aprobados en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2012 continuarán siendo ejecutados hasta el final de dicho ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas relacionadas con dichos programas.
+
+Séptimo.- Los titulares de las dependencias a que se refiere el presente Decreto deberán someter a consideración del Ejecutivo Federal los proyectos de reforma a los respectivos reglamentos interiores, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+Octavo.- Las facultades con que cuentan las unidades administrativas que, por virtud del presente Decreto, pasan a formar parte de otras dependencias, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto sean emitidos los nuevos reglamentos interiores.
+
+Los órganos administrativos desconcentrados y las entidades paraestatales de las Secretarías cuyas atribuciones hayan sido transferidas a otras por virtud del presente Decreto, estarán adscritos a estas últimas a partir de la entrada en vigor de este último. Lo anterior será igualmente aplicable tanto para aquellos organismos desconcentrados o entidades paraestatales cuya adscripción se señale por ley, como para aquellos cuya adscripción se señale actualmente por decreto o reglamento, y que por la naturaleza de sus atribuciones se derive su readscripción a la nueva dependencia de que se trate.
+
+El Titular del Poder Ejecutivo de la Unión expedirá las modificaciones a los reglamentos interiores de las Secretarías afectadas por el presente Decreto, a efecto de considerar la readscripción de órganos desconcentrados y entidades paraestatales, según corresponda.
+
+Las dependencias reformadas en virtud del presente Decreto integrarán los diversos consejos, comisiones intersecretariales y órganos directivos contemplados en las leyes, en función de sus nuevas atribuciones. En su caso, resolverá la Secretaría de Gobernación.
+
+Noveno.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+Décimo.- La Secretaría de Desarrollo Agrario, Territorial y Urbano será la dependencia que continuará atendiendo los asuntos pendientes de la materia agraria, en términos de lo establecido por el artículo tercero transitorio del Decreto por el que se reforma el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 6 de enero de 1992.
+
+Décimo Primero.- La Secretaría de Gobernación resolverá sobre los aspectos de adscripciones, integraciones de órganos y definición de competencias no previstos en el presente régimen transitorio. La Secretaría de Hacienda y Crédito Público resolverá sobre los aspectos administrativos no contemplados en el régimen mencionado.
+
+Décimo Segundo.- El Congreso de la Unión expedirá la legislación sobre el uso legítimo de la fuerza en un plazo no mayor de seis meses a partir de la entrada en vigor del presente Decreto.
