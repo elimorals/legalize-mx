@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2012-10-31"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3617,39 +3617,77 @@ DISPOSICIONES GENERALES
 
 Las disposiciones del presente Capítulo tienen por objeto regular la seguridad vial y el tránsito, tanto de peatones como de vehículos, en las vías públicas ubicadas dentro de la extensión territorial del Municipio, así como proveer en el orden de la administración pública municipal al cumplimiento de los preceptos de las disposiciones federales, leyes estatales y reglamentos derivados de las mismas, que resulten aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
 
 ###### Artículo 254.
 
 Para efectos de la aplicación del presente Capítulo se entiende por:
 
-I. Agente: Elemento de la Dirección de Tránsito Municipal;
+I. Acta de Infracción: Documento escrito en el cual se da cuenta de los hechos sucedidos ante cualquier infracción al presente Capítulo;
 
-II. Áreas de Transferencia o Servicios Complementarios: Aquéllas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, las estaciones para cargar gasolina y gas licuado de petróleo, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
+II. Agente: Elemento de la Dirección de Tránsito Municipal;
 
-III. Capítulo: El Capítulo 10 del Código Reglamentario para el Municipio de Puebla;
+III. Alcoholímetro: Se entiende por alcoholímetro el instrumento destinado a medir la concentración de alcohol en el aire expirado por una persona;
 
-IV. Ciclovía: Infraestructura con señalización, para la circulación exclusiva de ciclistas;
+IV. Alimentadores: Rutas de desplazamiento de áreas colindantes a la troncal;
 
-V. Departamento de Infracciones: El Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal;
+V. Áreas de Transferencia o Servicios Complementarios: Aquéllas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, las estaciones para cargar gasolina y gas licuado de petróleo, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
 
-VI. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipal;
+VI. Bolardo: Señalamiento vial horizontal que delimita el carril confinado, con el resto de la vialidad;
 
-VII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
+VII. Capítulo: El Capítulo 10 del Código Reglamentario para el Municipio de Puebla;
 
-VIII. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción;
+VIII. Carril Exclusivo: Extremo de la superficie de rodamiento de una vialidad que conforme a la demanda del servicio, es destinado para el uso de las unidades de transporte público masivo y de vehículos de emergencia;
 
-IX. Secretaría: La Secretaria de Seguridad Pública y Tránsito Municipal;
+IX. C.E.R.I.: Centro de Emergencia y Respuesta Inmediata;
 
-X. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
+X. Ciclista: Conductor de un vehículo de tracción humana a pedales;
 
-XI. Vía de Acceso Controlado: Aquélla que presenta dos o más secciones centrales y laterales, en un solo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforo;
+XI. Ciclo Carril: Carril en la vía destinado exclusivamente para circulación en bicicleta;
 
-XII. Vía Primaria: Aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+XII. Ciclo vía: Vía o selección de ésta exclusiva para la circulación ciclista, físicamente confinada del tránsito automotor;
 
-XIII. Vía Pública: Todo espacio de uso común destinado al libre tránsito y que sea propiedad del Municipio, que cuente con las características y especificaciones señaladas en el Capítulo de construcciones; y
+XIII. Cinemómetro: Dispositivo para medir en tiempo real la velocidad de los vehículos de motor;
 
-XIV. Vía Secundaria: Aquélla que permite la circulación al interior de las colonias, barrios y pueblos, tales como callejones, callejuelas, rinconadas, cerradas, privadas, caminos de terracería, calles peatonales, pasajes, andadores y portales.
+XIV. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalidades;
+
+XV. Corredor de Transporte Público de Pasajeros: Aquél que forma parte integral del Sistema de Transporte Público Masivo RUTA, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino;
+
+XVI. Departamento de Infracciones: El Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal;
+
+XVII. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipal;
+
+XVIII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
+
+XIX. Dispositivos de Control Vial: Señales, marcas, semáforos y cualquier otro dispositivo, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
+
+XX. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción:
+
+XXI. Paraderos: Rutas de estación temporal de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+
+XXII. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
+
+XXIII. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
+
+XXIV. Señalética: El concepto refiere a todos los señalamientos que se perciben en las vías, tanto señalamiento vial como señalamiento comercial y elementos de todo tipo que generan un efecto en los usuarios de las vías;
+
+XXV. Sistema de Transporte Público Masivo: Es aquél que se presta a través de corredores de transporte público de pasajeros el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El Sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
+
+XXVI. Terminal de Transferencia: Punto principal de estación del cual parten las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+
+XXVII. Troncal: Consiste en la vía principal de desplazamiento de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+
+XXVIII. RUTA: Red urbana de trasporte articulado RUTA;
+
+XXIX. Vía de Acceso Controlado: Aquélla que presenta dos o más secciones centrales y laterales, en un solo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforo;
+
+XXX. Vía Primaria: Aquélla que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+
+XXXI. Vía Pública: Todo espacio de uso común destinado al libre tránsito y que sea propiedad del Municipio, que cuente con las características y especificaciones señaladas en el Capítulo de construcciones;
+
+XXXII. Vía Secundaria: Aquélla que permite la circulación al interior de las colonias, barrios y pueblos, tales como callejones, callejuelas, rinconadas, cerradas, privadas, caminos de terracería, calles peatonales, pasajes, andadores y portales; y
+
+XXXIII. Usuarios de la vía pública: El elemento más importante dentro del Sistema, lo constituyen hombre o mujeres que transitan por los caminos en diferentes modalidades como peatón, pasajero o conductor. Creadores de la necesidad de circular, el cual adquiere características diferenciadas según su actitud en el transitar por los caminos.
 
 ###### Artículo 255.
 
@@ -3827,11 +3865,15 @@ TRÁNSITO MUNICIPAL DE LOS VEHÍCULOS
 
 Por su naturaleza, los vehículos materia del presente Capítulo se clasifican en:
 
-I. Bicicletas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+I. Bicicletas a partir de la rodada 16 en adelante;
 
 II. Triciclos;
 
-III. Motobicicletas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+III. Moto bicicletas;
 
 IV. Motonetas;
 
@@ -3851,9 +3893,17 @@ XI. Remolques;
 
 XII. Grúas;
 
-XIII. Tracto-camiones; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-XIV. Equipo Especial Móvil, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior.
+XIII. Tracto-camiones;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XIV. Equipo Especial Móvil, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XV. Vehículos del Sistema de Transporte Público Masivo RUTA.
 
 ###### Artículo 266.
 
@@ -3861,9 +3911,17 @@ Para los fines establecidos en el presente Capítulo, los vehículos se clasific
 
 I. Vehículos Particulares. Aquellos que están destinados al servicio particular o privado de sus propietarios, los cuales pueden ser indistintamente de pasajeros o de carga y en ningún caso podrán usar los colores reservados a vehículos de instituciones públicas o destinados al servicio de transporte público y mercantil;
 
-II. Vehículos destinados al Servicio de Transporte Público o Mercantil. Aquellos previstos y clasificados en la legislación federal y estatal en materia de transporte, destinados a la transportación de personas o de bienes en sus diferentes modalidades y que operan en virtud de concesiones o permisos, otorgados conforme a dichos ordenamientos; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-III. Equipo Especial Móvil. Aquél que no se encuentra comprendido en las fracciones anteriores y que haga uso de las vías públicas municipales en forma eventual.
+II. Vehículos destinados al Servicio de Transporte Público o Mercantil. Aquéllos previstos y clasificados en la legislación federal y estatal en materia de transporte, destinados a la transportación de personas o de bienes en sus diferentes modalidades y que operan en virtud de concesiones o permisos, otorgados conforme a dichos ordenamientos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+III. Equipo Especial Móvil. Aquél que no se encuentra comprendido en las fracciones anteriores y que haga uso de las vías públicas municipales en forma eventual; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+IV. Vehículos del Sistema de Transporte Público Masivo RUTA.
 
 ###### Artículo 267.
 
@@ -4005,9 +4063,17 @@ V. Choferes Particulares. Conductores de vehículos destinados al uso particular
 
 VI. Choferes para el Servicio Público y el Servicio Mercantil. Conductores de vehículos destinados al servicio público de transporte o al servicio mercantil, sin menos cabo de que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los referidos en la fracción III de este artículo;
 
-VII. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-VIII. Choferes del Servicio Público y del Servicio Mercantil, con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio de transporte.
+VII. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+VIII. Choferes del Servicio Público y del Servicio Mercantil, con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio de transporte; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+IX. Conductores del Sistema de Transporte Público Masivo RUTA.
 
 ###### Artículo 277.
 
@@ -4365,9 +4431,25 @@ XII. Dentro de una distancia de 20 metros del cruce de una línea de ferrocarril
 
 XIII. Dentro de una distancia de 10 metros de la entra (sic) y salida de ambulancias, carros de bomberos y patrullas de tránsito o policía;
 
-XIV. A una distancia de 50 metros, cuando menos, de donde un vehículo de bomberos se encuentre detenido para atender una emergencia, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-XV. En las demás zonas o áreas de la vía pública que determine el Ayuntamiento, conforme a los artículos 289, 293 294 del presente Capítulo.
+XIV. A una distancia de 50 metros, cuando menos, de donde un vehículo de bomberos se encuentre detenido para atender una emergencia;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XV. En las demás zonas o áreas de la vía pública que determine el Ayuntamiento, conforme a los artículos 289, 293 y 294 del presente Capítulo;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XVI. En el carril exclusivo del Corredor de Transporte Público Masivo RUTA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XVII. En accesos, salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales del trasporte colectivo RUTA; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XVIII. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacio reservados a peatones y ciclistas, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios.
 
 ###### Artículo 298.
 
@@ -4455,7 +4537,9 @@ X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie
 
 XI. Llevar a su izquierda o entre sus manos alguna persona, dispositivo móvil, animal, bulto o permitir intromisiones sobre el control de dirección;
 
-XII. Permitir que los menores de edad viajen sin utilizar los cinturones o asientos de seguridad respectivos, debiendo colorarse estos últimos en la parte posterior del vehículo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XII. Permitir que los menores de edad viajen sin utilizar los cinturones o asientos de seguridad respectivos, debiendo colocarse estos últimos en la parte posterior del vehículo;
 
 XIII. Conducir motocicletas, motonetas o motobicicletas, sin el casco de protección correspondiente;
 
@@ -4463,15 +4547,55 @@ XIV. Usar o mantener encendidos teléfonos celulares dentro de gasolineras o est
 
 XV. Conducir vehículos cuyos vidrios laterales, medallón y parabrisas impidan la plena visibilidad hacia el interior del vehículo, en los términos y con la salvedad que prevé el presente Capítulo;
 
-XVI. Conducir usando audífonos o con el volumen de algún aparato de sonido, de tal manera que éste se escuche en el exterior del vehículo; y (sic)
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+XVI. Conducir usando audífonos o con el volumen de algún aparato de sonido, de tal manera que éste se escuche en el exterior del vehículo;
 
-XVII. Ofender, insultar o denigrar a los agentes o personal de tránsito municipal en el desempeño de sus labores; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+XVII. Ofender, insultar o denigrar a los agentes o personal de tránsito municipal en el desempeño de sus labores;
 
-XVIII. Las demás que deriven del presente Capítulo.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XVIII. Circular en carriles de contraflujo, carriles confinados excepto cuando conduzcan vehículos autorizados para ello;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XIX. Dar vuelta a la izquierda en carriles confinados;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XX. Estacionarse en carriles de contraflujo y carriles confinados;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXI. Estacionarse sobre bulevares, avenidas, calles, y/o privadas por donde circule el Sistema de Transporte Público Masivo RUTA y se tenga la señalética correspondiente;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXII. Estacionarse en los accesos, salidas, áreas de circulación, zonas de ascenso y descenso de pasaje en las terminales del transporte;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXIII. Obstruir terminales, paraderos y terminales de transferencia;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXIV. No respetar las señales del semáforo del Sistema de Transporte Público Masivo RUTA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXV. Transitar en ciclo vías y ciclo carriles; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+XXVI. Las demás que se deriven del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2013)</small>
+
+###### Artículo 304 Bis.
+
+Sólo pueden circular por carriles exclusivos del corredor de transporte público masivo RUTA, o de contraflujo además de los vehículos del servicio de transporte público que cuenten con la autorización respectiva, los vehículos destinados a la prestación de servicios de emergencia Puebla, en cuyo caso deben de circular con torretas encendidas y la sirena abierta.
 
 ###### Artículo 305.
 
@@ -4553,9 +4677,17 @@ III. Los destinados a los servicios de ambulancias, policía, seguridad vial, cu
 
 IV. Los que transiten por avenidas o calles, sobre los que lo hagan por calles, privadas o cerradas;
 
-V. Los que circulen por calles con camellón central, a los que lo hacen por calles sin camellón; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
 
-VI. Los que transiten por arterias asfaltadas o petrolizadas, sobre los que lo hagan por calles que no lo estén.
+V. Los que circulen por calles con camellón central, a los que lo hacen por calles sin camellón;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+VI. Los que transiten por arterias asfaltadas o petrolizadas, sobre los que lo hagan por calles que no lo estén; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+
+VII. Vehículos del Sistema de Transporte Público Masivo RUTA.
 
 ###### Artículo 316.
 
@@ -4665,11 +4797,13 @@ II. Por lo establecido en este Capítulo, en todo lo concerniente a su circulaci
 
 Los pasajeros tendrán derecho a exigir al conductor del vehículo y, en su caso, a los agentes de tránsito de la Dirección de Tránsito Municipal, que se cumpla con dichas disposiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2013)</small>
+
 #### SECCIÓN PRIMERA DE LAS DISPOSICIONES COMUNES
 
 ###### Artículo 328.
 
-La circulación de los vehículos de transporte público o mercantil de personas que daba (sic) sujeta a las siguientes disposiciones especiales en materia de tránsito:
+La circulación de los vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil de personas quedaba (sic) sujeta a las siguientes disposiciones especiales en materia de tránsito:
 
 I. Las puertas de seguridad deben mantenerse cerradas durante todo el recorrido y solamente se abrirán para el ascenso y descenso del pasaje;
 
@@ -4733,15 +4867,19 @@ V. Para el transporte de explosivos en el Municipio, es obligatorio contar previ
 
 VI. Los vehículos que transporten materias inflamables o explosivas deben usar una bandeja roja en la parte posterior del vehículo y en forma ostensible se fijaran rótulos en las posteriores y laterales que contengan la inscripción “PELIGRO, EXPLOSIVOS” o “PELIGRO, INFLAMABLE”.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
+
 #### SECCIÓN SEGUNDA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PERSONA. TITULAR DEL ORGANISMO
 
 ###### Artículo 331.
 
-Los conductores de vehículos de transporte público o mercantil tendrán las mismas prohibiciones que el artículo 304 impone a los conductores en general, así como las demás obligaciones y derechos que el presente Capítulo establezca de manera general.
+Los conductores de vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil tendrán las mismas prohibiciones que el artículo 304 impone a los conductores en general, así como las demás obligaciones y derechos que el presente Capítulo establezca de manera general.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
 
 ###### Artículo 332.
 
-Los conductores de vehículos de transporte público o mercantil, tienen prohibido estacionarlos en la vía pública para hacer reparaciones o limpieza de éstos, para abastecerse de las materias o sustancias que transportan, o para realizar algún chequeo con sus concesionarios, permisionarios o de los dependientes de éstos. En el caso de sitios, bases o terminales, se deberá contar con la autorización de las instancias competentes para estacionar las unidades respectivas en la vía pública.
+Los conductores de vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil, tienen prohibido estacionarlos en la vía pública para hacer reparaciones o limpieza de éstos, para abastecerse de las materias o sustancias que transportan, o para realizar algún chequeo con sus concesionarios, permisionarios o de los dependientes de éstos. En el caso de sitios, bases o terminales, se deberá contar con la autorización de las instancias competentes para estacionar las unidades respectivas en la vía pública.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -4757,11 +4895,15 @@ Todo viajero, a cambio del importe de pasaje, recibirá, en las rutas urbanas o 
 
 Los pasajeros están obligados a presentar sus boletos cuantas veces lo exijan los empleados o los inspectores de servicio y si no lo hicieren o se niegan a pagar su pasaje, el conductor, concesionario o permisionario tiene derecho a requerirle que abandone el vehículo o dar parte a las autoridades policíacas, por violación a las disposiciones del Capítulo de Policía y Gobierno del Municipio del presente Código Reglamentario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2013)</small>
+
 ###### Artículo 335.
 
-Además de los derechos y obligaciones que en materia de transporte les confieren las disposiciones conducentes, los usuarios del servicio de transporte público o mercantil de personas, tienen los siguientes:
+Además de los derechos y obligaciones que en materia de transporte les confieren las disposiciones conducentes, los usuarios del servicio de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil de personas, tienen los siguientes:
 
-I. Exigir a los empleados del transporte que cumplan en todo momento con las disposiciones aplicables en materia de tránsito y seguridad vial y reportar la violación de las mismas a las autoridades competentes;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+I. Exigir a los empleados del transporte y del Sistema de Transporte Público Masivo RUTA que cumplan en todo momento con las disposiciones aplicables en materia de tránsito y seguridad vial y reportar la violación de las mismas a las autoridades competentes;
 
 II. Llevar sus bienes en términos del artículo 273;
 
@@ -4787,7 +4929,9 @@ DE LAS ESTACIONES, TERMINALES, BASES Y SITIOS
 
 Para los efectos de estaciones, terminales, bases y/o sitios, se entiende por:
 
-I. Estaciones, Estaciones Terminales o Terminales.- Las instalaciones auxiliares del servicio público de transporte y de servicio mercantil, establecidas en el Municipio en los términos previstos por la legislación aplicable, previo dictamen en términos del siguiente artículo, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; al ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+I. Estaciones, Estaciones Terminales o Terminales o Terminales de Trasferencia.- Las instalaciones auxiliares del servicio público de transporte, del Sistema de Transporte Público Masivo RUTA y de servicio mercantil, establecidas en el Municipio en los términos previstos por la legislación aplicable, previo dictamen en términos del siguiente artículo, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; al ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida;
 
 II. Bases.- Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar como áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, previo dictamen en términos del siguiente artículo, debiendo estar ubicadas en el único lugar que el itinerario respectivo señale como puntos de origen y destino de cada ruta, para ser destinadas por las empresas o concesionarios del servicio público de transporte a estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas, sin exceder el número de unidades permitido, o en su defecto, a servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas; y
 
@@ -5153,7 +5297,9 @@ Las faltas y violaciones a las disposiciones de este Capítulo que comentan los 
 
 I. Amonestación verbal; y
 
-II. Multa por el importe de 2 a 40 días de salario mínimo general vigente en el Municipio de Puebla, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+
+II. Multa por el importe de 2 a 100 días de salario mínimo general vigente en el Municipio de Puebla, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
 
@@ -6191,7 +6337,7 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 445.
 
-Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
+Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -10073,7 +10219,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10293,9 +10439,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -31163,7 +31309,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y qu ereditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -32865,7 +33011,7 @@ Si el retador a un título es quien se encuentre excedido de peso, el encuentro 
 
 ###### Artículo 2226 Bis.
 
-En caso de que el Campeón hubiere perdido el titulo en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
+En caso de que el Campeón hubiere perdido el título en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -34862,6 +35008,10 @@ P.O. 31 DE OCTUBRE DE 2012.
 PRIMERO.- La presente reforma del primer párrafo de la fracción VI del artículo 670 del Libro Tercero denominado Acciones Urbanísticas y Edificaciones en el Municipio de Puebla, Título Único denominado Control del Desarrollo Urbano Sustentable, Capítulo 17 Construcciones del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Los efectos de la reforma del primer párrafo de la fracción VI del artículo 670 del Libro Tercero denominado Acciones Urbanísticas y Edificaciones en el Municipio de Puebla, Título Único denominado Control del Desarrollo Urbano Sustentable, Capítulo 17 Construcciones del Código Reglamentario para el Municipio de Puebla, entrarán en vigor hasta que concluya el periodo de los representantes que integren la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, al momento de la publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 2 DE ENERO DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
