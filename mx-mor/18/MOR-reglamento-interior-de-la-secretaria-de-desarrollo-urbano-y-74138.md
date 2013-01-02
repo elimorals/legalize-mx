@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-741
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-24"
-last_updated: "2011-05-25"
+last_updated: "2013-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de marzo de 2010.
 
@@ -758,3 +758,17 @@ P.O. 25 DE MAYO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2013.
+
+REGLAMENTO INTERIOR DE LA SECRETARíA DE OBRAS'PÚBlICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, publicado en el Periódico Oficial "Tierra y Libertad" número 4790 de fecha 24 de Marzo del año 2010.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTO. Cuando una ley, reglamento o disposición jurídica haga referencia a la Secretaría de Desarrollo Urbano y Obras Públicas, se entenderá que hace referencia a la Secretaría de Obras Públicas, en el ámbito de su competencia.
+
+QUINTO. Los Manuales de Organización, y de Políticas y Procedimientos y demás instrumentos administrativos, deberán adecuarse al presente Reglamento en un plazo no mayor de 90 días hábiles a partir de la entrada en vigor del presente Reglamento a efecto de armonizarlos con el contenido del presente instrumento, y en tanto se expidan dichos Manuales seguirán vigentes los actuales.
