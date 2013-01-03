@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2012-05-18"
+last_updated: "2013-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ENERO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -148,9 +148,11 @@ También se nombrará una comisión especial, para acompañar a los Diputados in
 
 #### SECCIÓN 2. DE LOS GRUPOS PARLAMENTARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ENERO DE 2013)</small>
+
 ###### Artículo 10.
 
-La constitución de los Grupos Parlamentarios se hará dentro de los cinco días siguientes a la apertura del primer periodo de sesiones ordinarias del primer año de cada Legislatura, con por lo menos tres Diputados y mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los integrantes y la designación del Coordinador y Vicecoordinador del grupo.
+La constitución de los Grupos Parlamentarios se hará dentro de los cinco días siguientes a la apertura del primer periodo de sesiones ordinarias del primer año de cada Legislatura, con por lo menos dos Diputados y mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los integrantes y la designación del Coordinador y Vicecoordinador del grupo.
 
 La Mesa Directiva hará del conocimiento del Pleno los Grupos Parlamentarios constituidos en la Asamblea.
 
@@ -3237,3 +3239,11 @@ El presente Decreto entrará en vigor al día siguiente de su aprobación por el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 3 DE ENERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
