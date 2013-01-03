@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2012-11-16"
+last_updated: "2013-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ENERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1330,11 +1330,15 @@ La Asamblea Legislativa administrará el Fondo en forma autónoma e independient
 
 Los grupos parlamentarios se integran de la manera siguiente:
 
-I.- Cuando menos por tres Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido, los cuales actuarán en forma orgánica y coordinada en todos los trabajos de la Asamblea Legislativa del Distrito Federal, a efecto de garantizar la libre expresión de las corrientes ideológicas.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ENERO DE 2013)</small>
+
+I.- Cuando menos por dos Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido, los cuales actuarán en forma orgánica y coordinada en todos los trabajos de la Asamblea Legislativa del Distrito Federal, a efecto de garantizar la libre expresión de las corrientes ideológicas.
 
 En ningún caso pueden constituir un Grupo Parlamentario separado, los Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido. Ningún diputado podrá formar parte de más de un Grupo Parlamentario, pero habiéndose separado del primero se considerara sin partido o independiente.
 
-II.- Cuando de origen existan diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse a efecto de conformar una Coalición Parlamentaria con la denominación que acuerden previamente y siempre que la suma de sus integrantes sea mayor a 3.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ENERO DE 2013)</small>
+
+II.- Cuando de origen existan diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse a efecto de conformar una Coalición Parlamentaria con la denominación que acuerden previamente y siempre que la suma de sus integrantes sea mayor a 2.
 
 La Coalición Parlamentaria podrá constituirse a partir del día siguiente a la conformación de la Comisión de Gobierno, mediante convenio suscrito por los diputados integrantes. Ésta se equiparará respecto de los derechos, beneficios y/o prerrogativas que esta Ley les otorga a un Grupo Parlamentario.
 
@@ -1911,3 +1915,11 @@ PRIMERO.- Las reformas a la Ley Orgánica y al Reglamento Interior de las Comisi
 SEGUNDO.- Las reformas mencionadas a la Ley del Notariado entrarán en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 3 DE ENERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
