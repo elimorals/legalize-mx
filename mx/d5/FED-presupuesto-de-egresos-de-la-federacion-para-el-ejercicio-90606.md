@@ -4,7 +4,7 @@ identifier: "FED-presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-90606
 country: "mx"
 rank: "presupuesto"
 publication_date: "2012-12-27"
-last_updated: "2012-12-27"
+last_updated: "2013-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90606&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-12-26"
 ---
 # PRESUPUESTO DE EGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE ENERO DE 2013.</small>
 
 Presupuesto publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 27 de diciembre de 2012.
 
@@ -1079,8 +1079,6 @@ TERCERO. Las disposiciones administrativas emitidas con base en lo dispuesto en 
 
 CUARTO. Se faculta al Ejecutivo Federal, a través de la Secretaría, para que emita las autorizaciones que correspondan, a efecto de realizar los traspasos de recursos humanos, financieros y materiales, incluyendo bienes muebles e inmuebles, que sean necesarios como consecuencia de reformas jurídicas que tengan por objeto la creación o modificación, de cualquier dependencia, entidad o ente autónomo, reportando las mismas en los Informes Trimestrales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. VÉASE ANEXO 1. GASTO NETO TOTAL (PESOS), EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, PÁGINA 33.</small>
 
 > <small>N. DE E. VÉASE ANEXO 2. GASTOS OBLIGATORIOS (MILLONES DE PESOS), EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, PÁGINA 34.</small>
@@ -1136,6 +1134,8 @@ CUARTO. Se faculta al Ejecutivo Federal, a través de la Secretaría, para que e
 > <small>N. DE E. VÉASE ANEXO 19.1. DISTRIBUCIÓN DEL FONDO PARA LA ACCESIBILIDAD EN EL TRANSPORTE PÚBLICO PARA LAS PERSONAS CON DISCAPACIDAD (PESOS), EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, PÁGINA 53.</small>
 
 > <small>N. DE E. VÉASE ANEXO 19.2 AMPLIACIONES PARA PROYECTOS DE DESARROLLO REGIONAL, EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, PÁGINAS DE LA 54 A LA 55.</small>
+
+> <small>N. DE E. VÉASE F. DE E. AL ANEXO 19.2, D.O.F. DE 3 DE ENERO DE 2013, PÁGINA 38.</small>
 
 > <small>N. DE E. VÉASE ANEXO 20. RAMO 25 PREVISIONES Y APORTACIONES PARA LOS SISTEMAS DE EDUCACIÓN BÁSICA, NORMAL, TECNOLÓGICA Y DE ADULTOS (PESOS), EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, PÁGINA 56.</small>
 
