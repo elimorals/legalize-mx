@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-extincion-de-dominio-en-favor-del-estado-de-morelos-6740
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2009-03-11"
+last_updated: "2013-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EXTINCION DE DOMINIO EN FAVOR DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 11 de marzo de 2009.
 
@@ -125,17 +125,27 @@ II. La falta de notificación prevista en los artículos 18 y 19 de esta Ley.
 
 ### CAPÍTULO PRIMERO. Presupuestos procésales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 3 DE ENERO DE 2013)</small>
+
 ###### Artículo 9.
 
-La extinción de dominio procederá, respecto de los bienes a que se refiere el artículo siguiente, cuando existan elementos suficientes para determinar que sucedieron los hechos ilícitos en los casos de:
+La acción de extinción de dominio se ejercerá, respecto de los bienes a que se refiere el artículo siguiente, cuando existan elementos suficientes para determinar que sucedieron los hechos ilícitos en cualquiera de los siguientes casos:
 
 I. Delincuencia Organizada, previstos en la Ley contra la Delincuencia Organizada para el Estado de Morelos;
 
 II. Secuestro, previsto en el Código Penal para el Estado de Morelos;
 
-III. Robo de vehículos, previsto en el Código Penal para el Estado de Morelos, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2013)</small>
 
-IV. Trata de personas o equiparables del Código Penal para el Estado de Morelos.
+III. Robo de vehículos, previsto en el Código Penal para el Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2013)</small>
+
+IV. Trata de personas o equiparables del Código Penal para el Estado de Morelos; y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2013)</small>
+
+V. Contra la salud en su modalidad de narcomenudeo, previstos en los artículos 475 y 476 de la Ley General de Salud, en los casos del ejercicio de la competencia concurrente a que se refiere el artículo 474 de dicha Ley.
 
 Para los efectos de esta Ley se entiende que existen elementos suficientes para determinar que el hecho ilícito sucedió, cuando se reúnan indicios respecto de los elementos objetivos o externos y, en su caso, normativos de los delitos a que se refieren las fracciones anteriores, aún cuando no se haya determinado quienes intervinieron en él o el carácter de su participación.
 
@@ -151,7 +161,9 @@ III. Aquellos que estén siendo utilizados para la comisión de delitos por un t
 
 IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delincuencia organizada y de los delitos patrimoniales y el acusado por estos delitos se ostente o comporte como dueño.
 
-Para los efectos de esta Ley, los delitos de secuestro, trata de personas y robo de vehículos, cuando generen un beneficio económico o persigan ese fin, se considerarán delitos patrimoniales.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2013)</small>
+
+Para los efectos de esta Ley, los delitos de secuestro, trata de personas, robo de vehículos y delitos contra la salud en su modalidad de narcomenudeo, se considerarán delitos patrimoniales.
 
 La extinción de dominio procederá aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -165,7 +177,7 @@ Cualquiera que sea la resolución que se adopte en el procedimiento penal, así 
 
 ###### Artículo 12.
 
-El Poder Judicial del Estado contará con los jueces especializados en extinción de dominio que estime necesarios.
+(DEROGADO, P.O. 3 DE ENERO DE 2013)
 
 ### CAPÍTULO SEGUNDO. De la Acción de Extinción de Dominio
 
@@ -539,7 +551,7 @@ II. Los bienes respecto de los cuales se solicite la extinción de dominio se ub
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
-SEGUNDO.- Para instrumentar la aplicación de la presente Ley, se autoriza al Pleno del Tribunal Superior de Justicia del Estado de Morelos y/o al Consejo de la Judicatura del Poder Judicial del Estado, para que tome las medidas necesarias para el traslado de funcionarios. La designación de los jueces por su relevancia quedarán a Cargo del Congreso del Estado; y del Poder Judicial del Estado la creación de órganos administrativos que resulten pertinentes dentro del plazo de sesenta días contados a partir de la entrada en vigor de la misma.
+SEGUNDO.- (DEROGADO, P.O. 3 DE ENERO DE 2013)
 
 TERCERO.- En tanto no sean creados los jueces a que se refiere el artículo anterior serán competentes los jueces en materia civil.
 
@@ -588,3 +600,23 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURÍDICO.
+
+P.O. 3 DE ENERO DE 2013.
+
+DECRETO No. 158 ARTICULO PRIMERO.- SE REFORMA EL PARRAFO PRIMERO, ASI COMO LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCION V DEL ARTICULO 9 DE LA LEY DE EXTINCION DE DOMINIO EN FAVOR DEL ESTADO DE MORELOS.
+
+PRIMERA.-Expídase el Decreto respectivo y publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación.
+
+P.O. 3 DE ENERO DE 2013.
+
+DECRETO No. 220 ARTICULO UNICO.- SE DEROGAN EL ARTICULO 12 Y EL ARTICULO TRANSITORIO SEGUNDO DE LA LEY DE EXTINCION DE DOMINIO EN FAVOR DEL ESTADO DE MORELOS.
+
+Primera.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segunda.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado
+
+Ubre y Soberano de Morelos.
