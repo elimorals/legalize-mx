@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-en-materia-de-desincorporacion-de-bienes-muebles-757
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-18"
-last_updated: "2010-03-18"
+last_updated: "2013-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO EN MATERIA DE DESINCORPORACION DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
 
-REGLAMENTO EN MATERIA DE DESINCORPORACION DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
+REGLAMENTO EN MATERIA DE DESINCORPORACIÓN DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO EN MATERIA DE DESINCORPORACIÓN DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 3 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de marzo de 2010.
 
@@ -516,3 +518,13 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ENERO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Secretario Ejecutivo, en un término no mayor de cinco días, contados a partir de la publicación del presente Reglamento, deberá instalar el Comité de Desincorporación de Bienes Muebles del Consejo en los términos contenidos en el presente Reglamento.
+
+TERCERO. Con la vigencia del presente acuerdo se abroga el Reglamento en Materia de Desincorporación de Bienes Muebles del Consejo Estatal Electoral y de Participación Ciudadana, expedido por acuerdo del Pleno del Consejo número 11/03/2010 de fecha 08 de marzo del año 2010 dos mil diez.
