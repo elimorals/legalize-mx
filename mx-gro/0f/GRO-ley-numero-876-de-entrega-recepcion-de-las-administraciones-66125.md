@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-876-de-entrega-recepcion-de-las-administraciones-661
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2013-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 876 DE ENTREGA - RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO
 
-LEY NUMERO 876 DE ENTREGA - RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO
+LEY NÚMERO 876 DE ENTREGA - RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2013.
 
 Ley publicada en el Alcance 2 al No. 100 del Periódico Oficial del Estado de Guerrero, el viernes 12 de diciembre de 2008.
 
@@ -363,11 +363,13 @@ VII.- Relación de las rentas y productos de todos los bienes municipales; y
 
 VIII.- Documentación normativa que regula la actividad municipal.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-En cuestión de Ayuntamientos, el saliente hará entrega durante el mes de Diciembre del año de la elección, de los informes e inventarios mencionados en el Artículo 17 de la presente Ley asegurando la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
+En cuestión de Ayuntamientos, el saliente hará entrega quince días previos a la toma de protesta del año de la elección, de los informes e inventarios mencionados en el Artículo 17 de la Presente Ley asegurando la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
 
-En cada Ayuntamiento durante la primera decena del mes de Diciembre, se creara un Comité de Entrega-Recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social.
+En cada Ayuntamiento, treinta días previos a la toma de protesta, se creara un Comité de Entrega-Recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social.
 
 ### CAPÍTULO IV. De las Obligaciones y Sanciones
 
@@ -492,3 +494,11 @@ EL CONTRALOR GENERAL DEL ESTADO.
 C.P. CARLOS ARTURO BARCENAS AGUILAR.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
