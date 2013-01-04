@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2012-08-15"
+last_updated: "2013-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-29"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2013.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el martes 30 de julio de 2002.
 
@@ -124,6 +124,12 @@ La Secretaría contará con una Unidad de Contraloría Interna, órgano interno 
 La adscripción de las unidades administrativas y órganos administrativos desconcentrados al área de responsabilidad del Secretario, a cada Subsecretaría, a la Oficialía Mayor y a la Coordinación General de Protección Civil será determinada por acuerdo del Secretario, que será publicado en el Diario Oficial de la Federación.
 
 Asimismo, la Secretaría de Gobernación contará con las unidades subalternas que figuren en su estructura autorizada, cuyas funciones deberán especificarse y regularse en el Manual de Organización General de la propia Secretaría y, en su caso, en los específicos de sus unidades administrativas y de sus órganos administrativos desconcentrados.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2013)</small>
+
+###### Artículo 2o Bis.
+
+El Secretario de Gobernación se auxiliará del Comisionado Nacional de Seguridad, quien ejercerá las facultades a que se refieren las fracciones XII, XIII Bis, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVII, XXVIII, XXIX y XXXI del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
 
 ###### Artículo 3o.
 
@@ -611,7 +617,9 @@ III. Proponer esquemas y procedimientos eficientes de coordinación con el Centr
 
 IV. Apoyar a sus superiores jerárquicos en la definición de la estructura, los formatos, la calidad y la oportunidad de los productos de información, análisis y prospectiva de la Secretaría, apoyándose al efecto en las demás unidades administrativas y en el Centro de Investigación y Seguridad Nacional;
 
-V. Apoyar en el desempeño de las funciones al Secretario o subsecretarios que correspondan, en su participación dentro de las distintas instancias de seguridad nacional y seguridad pública;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2013)</small>
+
+V. Apoyar en el desempeño de las funciones al Secretario, subsecretarios o Comisionado Nacional de Seguridad, según corresponda, en su participación dentro de las distintas instancias de seguridad nacional y seguridad pública;
 
 VI. Auxiliar al titular de la Unidad de Gobierno, en el cumplimiento de sus atribuciones que no se encuentren conferidas a otras unidades administrativas, y
 
@@ -2445,9 +2453,11 @@ El Secretario será suplido en sus ausencias por el Subsecretario de Gobierno; d
 
 En los procedimientos constitucionales en que deba intervenir el Secretario en representación del Presidente de la República o como titular de la Secretaría, podrá ser suplido indistintamente por el Jefe de la Unidad de Asuntos Jurídicos o por los servidores públicos antes señalados.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2013)</small>
+
 ###### Artículo 102.
 
-Las ausencias de los subsecretarios y del Oficial Mayor serán suplidas por los jefes de Unidad y directores generales que de ellos dependan, en los asuntos de sus respectivas competencias.
+Las ausencias de los subsecretarios, del Comisionado Nacional de Seguridad y del Oficial Mayor serán suplidas por los jefes de unidad y directores generales que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### Artículo 103.
 
@@ -2538,3 +2548,15 @@ QUINTO. Los asuntos que se encuentren pendientes, a la entrada en vigor de este 
 SEXTO. La Oficialía Mayor de la Secretaría de Gobernación realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Decreto y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 SÉPTIMO. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación de su reglamento interior se realice con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 4 DE ENERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las unidades administrativas y órganos desconcentrados de la Secretaría de Seguridad Pública, transferidos a la Secretaría de Gobernación en términos de lo dispuesto en los artículos Cuarto y Octavo transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, continuarán ejerciendo las facultades que les corresponden de acuerdo con lo dispuesto en el Reglamento Interior de la Secretaría de Seguridad Pública y demás normas aplicables.
+
+En tanto es nombrado el Comisionado Nacional de Seguridad, será suplido por el titular de la Subsecretaría de Planeación y Protección Institucional, de conformidad con lo dispuesto en los artículos Cuarto y Octavo transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+TERCERO. En tanto se expiden las normas reglamentarias a que se refieren los artículos transitorios tercero, séptimo y octavo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, y demás disposiciones aplicables, el Comisionado Nacional de Seguridad tendrá a su cargo la coordinación y supervisión de la operación y funcionamiento de los órganos y unidades administrativas a que se refiere el artículo segundo transitorio del presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
