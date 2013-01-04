@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-social-81554
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2013-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN LA CUARTA SECCIÓN DEL P.O. DE 4 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Décima Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -1066,3 +1068,15 @@ CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo disp
 QUINTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción o denominación, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine, competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- La Secretaria de Desarrollo Social.- C. MYRIAM DE LOURDES ARABIAN COUTTOLENC.- Rúbrica.- Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ENERO DE 2013.
+
+PRIMERO.- El presente Reglamento deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Estado el trece de mayo de dos mil once.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas o áreas que desaparecen o se modifican, serán transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento, y la Coordinación General de Administración y Finanzas efectuará las acciones necesarias para tal fin, de conformidad con las disposiciones aplicables.
