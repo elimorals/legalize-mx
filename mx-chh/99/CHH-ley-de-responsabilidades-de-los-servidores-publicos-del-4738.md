@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2010-10-02"
+last_updated: "2013-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -95,7 +95,7 @@ No podrán imponerse dos veces por una sola conducta, sanciones de la misma natu
 
 ### CAPITULO I. DE LOS SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -285,13 +285,23 @@ XXIV.- Proporcionar oportunamente y en forma veraz la Información y datos solic
 
 Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV.- Las demás que le impongan otras leyes y reglamentos.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2000)</small>
+XXV.- Sujetarse a las bases previstas en el artículo 165 bis de la Constitución Política del Estado, al proponer o determinar las remuneraciones que deban percibir los servidores públicos, si ello se encuentra dentro de sus atribuciones;
 
-Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones contenidas en este artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+
+XXVI.- Las demás que le impongan otras leyes y reglamentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+
+Se incurre en responsabilidad administrativa por el incumplimiento de cualesquiera de las obligaciones contenidas en este artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
 ###### ARTICULO 24.
 
@@ -595,7 +605,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE DICIEMBRE DE 1989.
 
@@ -746,3 +756,19 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 2013.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso del Estado a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil trece. Las reformas legales enunciadas en los Artículos Segundo, Tercero y Cuarto del presente, entrarán en vigor al día siguiente en que lo hiciere la reforma Constitucional expresada en el Artículo Primero.
+
+TERCERO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+CUARTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los Jueces o Magistrados del Poder Judicial del Estado, los Magistrados del Tribunal Electoral del Estado de Chihuahua, los integrantes del Consejo General del Instituto Estatal Electoral, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 165 bis de la Constitución Política del Estado, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
