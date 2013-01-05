@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2012-09-29"
+last_updated: "2013-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -41,7 +41,7 @@ CONSTITUCION POLITICA del Estado Libre y soberano de Colima
 
 De los Derechos Humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
 
 ### CAPITULO II.
 
@@ -1159,23 +1159,25 @@ La Ley organizará el Ministerio Público y la Defensoría Pública, fijará sus
 
 De la Protección y Defensa de los Derechos Humanos.
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 29 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 ###### Artículo 86.
 
-La Comisión de Derechos Humanos del Estado de Colima, será el organismo encargado de la protección y defensa en la Entidad, de los derechos humanos que otorgue el orden jurídico mexicano, la que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público Estatal o Municipal que violen estos derechos, con excepción de los del Poder Judicial. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+La Comisión de Derechos Humanos del Estado de Colima será el organismo público dotado de plena autonomía, con personalidad jurídica y patrimonios propios, carácter permanente, de servicio gratuito y de participación ciudadana, que estará a cargo de la protección y defensa en la Entidad, de los derechos humanos que otorgue el orden jurídico mexicano.
 
-De las inconformidades que se presenten respecto de sus recomendaciones, acuerdos u omisiones, conocerá el organismo equivalente que a nivel Federal esté constituido.
+Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatal o municipal que violen estos derechos. Formulará recomendaciones públicas autónomas no vinculatorias así como denuncias y quejas ante las autoridades respectivas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2002)</small>
+Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no fueran aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado, a solicitud de la Comisión, podrá llamar a las autoridades o servidores públicos responsables para que comparezcan ante el pleno, a efecto de que expliquen el motivo de su negativa. Su ley orgánica establecerá el procedimiento conforme al cual se desahogue esta comparecencia.
 
-El Presidente y los Consejeros de la Comisión serán electos por el Congreso, a propuesta de los Diputados, por mayoría calificada de sus integrantes y de conformidad con el procedimiento que establezca su ley orgánica. El Presidente durará en su encargo cuatro años y podrá ser reelecto para un plazo igual.
+La Comisión no será competente tratándose de asuntos electorales y Jurisdiccionales.
 
-La Comisión no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+De las Inconformidades que se presenten respecto de las recomendaciones, acuerdos u omisiones de la Comisión estatal, conocerá la Comisión Nacional de los Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+La Comisión tendrá facultad para ejercitar acción de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado, dentro de los treinta días naturales siguientes a la fecha de su publicación.
 
-La ley orgánica determinará la forma de integración, su estructura y funcionamiento de dicho organismo, así como la responsabilidad en que incurran las autoridades, servidores públicos y particulares, que no atiendan los requerimientos de la Comisión.
+El Presidente y los Consejeros de la Comisión serán electos por el Congreso, a propuesta de los Diputados, por mayoría calificada de sus integrantes y de conformidad con un procedimiento de consulta pública y que deberá ser transparente, en los términos que establezca su ley orgánica. El Presidente durará en su encargo cuatro años, podrá ser relecto (sic) para un plazo igual y presentará anualmente al Congreso del Estado un informe de las actividades del organismo a su cargo. Comparecerá también ante el Congreso en los términos que disponga la ley.
+
+La ley orgánica determinará la forma de integración, su estructura y funcionamiento de dicho organismo, así como la responsabilidad en que incurran las autoridades, servidores públicos y particulares que no atiendan los requerimientos de la Comisión.
 
 (REUBICADO Y REFORMADA SU NUMERACIÓN, P.O. 26 DE MARZO DE 1994)
 
@@ -1573,11 +1575,11 @@ Los actos de gobierno de las autoridades municipales podrán ser sometidos a ple
 
 De los Servicios de Educación.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 ###### Artículo 97.
 
-El Estado -gobierno (sic) estatal y municipales- impartirá la educación de tipo básico comprendiendo los niveles de preescolar, primaria y secundaria, en coordinación con el gobierno federal y de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes y reglamentos relativos a la materia. La educación preescolar, primaria y secundaria son obligatorias.
+El Estado - gobiernos estatal y municipales - impartirá la educación de tipo básico comprendiendo los niveles de preescolar, primaria y secundaria, así como la educación media superior, en coordinación con el gobierno federal y de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes y reglamentos relativos a la materia. La educación preescolar, primaria, secundaria y media superior son obligatorias.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2035,11 +2037,11 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 
 ###### Artículo 1°.
 
-El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República, los tratados internacionales de los que el Estado México (sic) sea parte y los establecidos en esta Constitución." (sic)
+El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y los establecidos en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
-Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
@@ -2057,9 +2059,9 @@ Esta Constitución, para todos los efectos legales a que diere lugar, cuando hag
 
 Con respecto a la vida, la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
 
-I.- La vida es un derecho inherente a todo ser humano. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y a tener un nombre.
+I.- La vida es un derecho inherente a toda persona. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, la niñez será objeto de especial protección por parte de las autoridades, quienes velarán y cumplirán con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se les inscriba en el Registro Civil y a tener un nombre.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2069,9 +2071,9 @@ El niño hasta la edad de 18 años y los adultos mayores de 65 años, tendrán d
 
 Las personas con discapacidad que pertenezcan a población abierta, también gozarán del beneficio establecido en el párrafo anterior y, en el caso de que en su estudio socioeconómico resulte que tienen capacidad económica suficiente para pagar la contraprestación, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades. Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los ancianos para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
+Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades. Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de las personas con discapacidad con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2093,9 +2095,9 @@ IV.- La población tiene derecho a estar informada de manera continua y eficient
 
 Es derecho de los colimenses, acceder a la sociedad de la información y el conocimiento, como una política de Estado, para lograr una comunidad integrada y totalmente intercomunicada, en la que cada uno de sus integrantes viva en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada al desarrollo, que permita un claro impacto en todos los sectores de la sociedad.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
 
-V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
+V.- Toda persona tiene derecho al trabajo, a la salud, a una alimentación nutritiva, suficiente y de calidad, así como a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2121,9 +2123,9 @@ Los menores que cometan una infracción a las leyes penales serán objeto de un 
 
 El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación. En todo proceso del orden penal, el inculpado, la víctima y el ofendido tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
-El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2137,9 +2139,11 @@ IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar e
 
 X.- Todas las autoridades, dentro de la esfera de sus atribuciones, estarán obligadas en su ejercicio a vigilar por la conservación, protección y fomento del medio ambiente y de los recursos naturales de la entidad.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-XI.- Toda persona tiene derecho a vivir en un medio ambiente seguro, a que se le prevenga y proteja ante cualquier eventualidad de un riesgo o desastre provocado por agentes naturales o humanos y a recibir auxilio en caso de consumarse algún siniestro. El estado, con la participación de los sectores público, social y privado, organizará el sistema de protección civil, el cual estará bajo la dirección del titular del Poder ejecutivo.
+XI.- Toda persona tiene derecho a vivir en un medio ambiente sano y seguro para su desarrollo y bienestar, en el que se le prevenga y proteja ante cualquier eventualidad de un riesgo o desastre provocado por agentes naturales o humanos y a recibir auxilio en caso de consumarse algún siniestro. El estado, con la participación de los sectores público, social y privado, organizará el sistema de protección civil, el cual estará bajo la dirección del titular del Poder ejecutivo.
+
+El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2163,9 +2167,9 @@ XIV.- Toda persona tiene derecho a un medio ambiente social que le permita vivir
 
 El Estado implementará las políticas y acciones correspondientes a fin de garantizar las condiciones que permitan a sus habitantes, a través de la cultura de la paz, vivir sin violencia.
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-XV.- El acceso al suministro de agua potable y el saneamiento básico es un derecho humano fundamental para el pleno disfrute de la vida y la salud, y a su vez una obligación del individuo en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho, cuyo servicio se prestará en los casos que exista la viabilidad técnica y financiera para ello.
+XV.- El acceso al suministro de agua potable y el saneamiento básico es un derecho humano fundamental para el pleno disfrute de la vida y la salud, en forma suficiente, salubre, aceptable y asequible, y a su vez una obligación del individuo en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho, cuyo servicio se prestará en los casos que exista la viabilidad técnica y financiera para ello.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2996,6 +3000,10 @@ P.O. 11 DE AGOSTO DE 2012.
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 29 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
