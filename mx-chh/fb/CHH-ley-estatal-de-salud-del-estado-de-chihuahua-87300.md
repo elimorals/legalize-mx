@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2012-04-14"
+last_updated: "2013-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -528,6 +528,10 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales.
 
 IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+Estas actividades se prestarán con oportunidad y deberá privilegiarse la certeza en el horario en que se otorgan las citas médicas.
 
 ### CAPÍTULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -3362,3 +3366,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de marzo del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
