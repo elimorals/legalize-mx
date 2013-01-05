@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-10-13"
+last_updated: "2013-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1007,7 +1007,11 @@ VI.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estad
 
 En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los proyectos de inversión pública a largo plazo que haya aprobado, de acuerdo con lo dispuesto en la fracción IX, inciso G), del presente artículo.
 
-El Ejecutivo del Estado hará llegar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+
+El Ejecutivo del Estado hará llegar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas. Tanto el Proyecto, como el Presupuesto de Egresos que se apruebe, deberán incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, sujetándose a los dispuesto en los artículos 116 y 127 de la Constitución Federal y 165 bis de esta Constitución;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -2373,11 +2377,15 @@ Los municipios podrán celebrar convenios con el Estado para que éste se haga c
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
 
 ###### Art. 133.
 
-Los Presupuestos de Egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley.
+Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley. En dichos presupuestos deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en los artículos 115 y 127 de la Constitución Federal y 165 bis de esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo aprobados en los términos del artículo 137.
 
@@ -2762,6 +2770,24 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 ###### Art. 165.
 
 Los Poderes Legislativo, incluida la Auditoría Superior del Estado, y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+Art. 165 bis.- Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración igual o superior al monto máximo autorizado en el presupuesto estatal para la remuneración del Gobernador del Estado; y la remuneración de éste, a su vez no será igual o superior que la del Presidente de la República.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3897,14 +3923,30 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. La reforma al artículo 58 de la Ley Electoral del Estado de Chihuahua, contenida en el Artículo Segundo del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 ###### ARTÍCULO TERCERO.
 
-Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en los artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo, 87; y 129, fracciones I, primer párrafo; II y III primer párrafo, todos de la Constitución Política del Estado, para la asignación de diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los siguientes términos:
+Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo; 87; y 126, fracciones I, primer párrafo; II y III, primer párrafo, todos de la Constitución Política del Estado de Chihuahua, para la designación de Diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los términos siguientes:
 
-I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo comprendido del 4 de octubre del 2016 al 7 de septiembre de 2021;
+l.- El próximo Gobernador Constitucional del Estado se elegirá por un período de cinco años, que comprenderá del 04 de octubre de 2016 al 03 de octubre de 2021;
 
-II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
+II.- Los Diputados que integrarán la LXV Legislatura local, durarán dos años en su cargo, que comprenderá del 01 de octubre de 2016 al 30 de septiembre de 2018;
 
-III.- Los integrantes de los Ayuntamientos, así como las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016, al 9 de septiembre de 2018.
+III.- Los integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente dos años en su cargo.
+
+Las autoridades electorales del Estado proveerán lo necesario en cada caso, a fin de que las disposiciones contenidas en este artículo tengan un exacto cumplimiento, y para que la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las fracciones anteriores.
+
+P.O. 5 DE ENERO DE 2013.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso del Estado a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil trece. Las reformas legales enunciadas en los Artículo Segundo, Tercero y Cuarto del presente, entrarán en vigor al día siguiente en que lo hiciere la reforma Constitucional expresada en el Artículo Primero.
+
+TERCERO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+CUARTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los Jueces o Magistrados del Poder Judicial del Estado, los Magistrados del Tribunal Electoral del Estado de Chihuahua, los integrantes del Consejo General del Instituto Estatal Electoral, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 165 bis de la Constitución Política del Estado, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
