@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2012-09-22"
+last_updated: "2013-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2901,6 +2901,16 @@ Si el monto de los beneficios no excede del equivalente a mil quinientas veces e
 
 Cuando el monto de los beneficios a que hace referencia este artículo exceda mil quinientas veces el salario mínimo diario vigente en el Estado, se impondrán de cuatro a doce años de prisión y de mil quinientos a dos mil días multa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+Artículo 262 bis.
+
+Se impondrá prisión de seis meses a cuatro años y de quinientos a mil días multa, al servidor público que, en el ejercicio de sus funciones o con motivo de ellas, al proponer o determinar las remuneraciones que deban percibir los servidores públicos correspondientes, incumpla o realice actos de simulación para eludir el cumplimiento de las bases previstas en el artículo 165 bis de la Constitución Política del Estado.
+
+Cuando el monto de la remuneración ilegal exceda de quinientas veces el salario mínimo, se impondrá prisión de cuatro a doce años y de mil a dos mil días multa.
+
 ### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 263.
@@ -4198,3 +4208,19 @@ Los procedimientos penales iniciados antes de la entrada en vigor del presente D
 ###### ARTÍCULO TERCERO.
 
 Las disposiciones relativas al delito de tortura previstas (sic) en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 5 DE ENERO DE 2013.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso del Estado a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil trece. Las reformas legales enunciadas en los Artículos Segundo, Tercero y Cuarto del presente, entrarán en vigor al día siguiente en que lo hiciere la reforma constitucional expresada en el Artículo Primero.
+
+TERCERO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+CUARTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los Jueces o Magistrados del Poder Judicial del Estado, los Magistrados del Tribunal Electoral del Estado de Chihuahua, los integrantes del Consejo General del Instituto Estatal Electoral, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 165 bis de la Constitución Política del estado, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, solo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
