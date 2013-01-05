@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-despacho-del-c-gobernador-del-80427"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-26"
-last_updated: "2011-02-26"
+last_updated: "2013-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL DESPACHO DEL C. GOBERNADOR DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LAS UNIDADES ADMINISTRATIVAS DEL TITULAR DEL EJECUTIVO DEL ESTADO, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 26 de febrero de 2011.
 
@@ -984,3 +986,21 @@ MIGUEL ALEJANDRO ALONSO REYES
 SECRETARIO GENERAL DE GOBIERNO
 
 ESAÚ HERNÁNDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ENERO DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se Abroga el Reglamento Interior del Despacho del C. Gobernador, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el 26 de febrero del 2011, en Suplemento al número 17.
+
+Tercero.- Se Abroga el Decreto que Crea la Coordinación Estratégica para el Desarrollo del Estado de Zacatecas, publicado en el Periódico Oficial órgano del Gobierno del Estado en el Número 25 de fecha 26 de marzo de 2011, asimismo su Reglamento Interior publicado en el Suplemento 2 al No. 72 de fecha 7 de septiembre de 2011.
+
+Cuarto.- Se derogan además las disposiciones administrativas que se opongan al presente Reglamento.
+
+Quinto.- Los Manuales de Organización y Procedimientos de las Unidades Administrativas del Titular del Ejecutivo del Estado, deberán emitirse en un término que no excederá de 90 días naturales contados a partir de la vigencia del presente ordenamiento.
+
+Sexto.- Los trámites pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una área a otra, continuarán su proceso y serán resueltos por aquella unidad a quienes se atribuye la competencia en el presente ordenamiento.
+
+Séptimo.- Cuando en este Reglamento se dé una denominación nueva o distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento.
