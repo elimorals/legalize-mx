@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2012-10-06"
+last_updated: "2013-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -333,13 +333,17 @@ VII.- Ingresos y gastos del ejercicio fiscal en curso;
 
 VIII.- Situación de la deuda pública estatal al término del último ejercicio fiscal y estimación de las que tendrá en los ejercicios en curso e inmediato siguiente;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-IX.- Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo que hayan sido autorizadas por el Congreso del Estado, y
+IX.- Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo que hayan sido autorizadas por el Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-X.- En general toda la información que se considere útil para sustentar la proposición en forma clara y completa.
+X.- Los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, sujetándose a las bases contenidas en el artículo 165 bis de la Constitución Política del Estado, y
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+
+XI.- En general, toda la información que se considere útil para sustentar la proposición en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -381,7 +385,9 @@ Los diputados del H. Congreso del Estado analizarán, discutirán y aprobarán l
 
 ## TITULO QUINTO
 
-### CAPITULO ÚNICO. DE LA EJECUCIÓN DEL PRESUPUESTO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 5 DE ENERO DE 2013)</small>
+
+### CAPÍTULO PRIMERO. DE LA EJECUCIÓN DEL PRESUPUESTO
 
 ###### ARTICULO 38.
 
@@ -543,9 +549,9 @@ I.- Ajustarse al número de plazas y montos consignados en sus presupuestos apro
 
 II.- Ajustarse a las necesidades de personal que requiera el desarrollo de sus programas, y
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
-III.- Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores expedidos por la Secretaría y a las plazas y montos autorizados por el H. Congreso del Estado.
+III.- Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores expedidos por los entes públicos a que se refiere el artículo 165 bis de la Constitución del Estado y a las plazas y montos autorizados por el H. Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -671,13 +677,99 @@ Todas las entidades, dependencias y los organismos, proporcionarán a la Secreta
 
 Una vez concluída la vigencia de una (sic) presupuesto de egresos del Estado, el gasto corriente no pagado se aplicará con cargo a los recursos del nuevo presupuesto, el gasto de invesión (sic) pagado total o parcialmente y no comprobado se aplicará a la partida de adeudos de ejercicios fiscales anteriores, a la presentación de la documentación.
 
-### CAPITULO PRIMERO. DEL SISTEMA DE CONTABILIDAD GUBERNAMENTAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+### CAPÍTULO SEGUNDO. DE LOS TABULADORES Y MANUALES DE REMUNERACIÓN DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 BIS.- Son principios aplicables en materia de remuneraciones, los siguientes:
+
+I. Principio de igualdad: La remuneración de los servidores públicos se determinará sin discriminación por motivos de género, edad, etnia, discapacidad, condición social, condiciones de salud, religión, opinión política, preferencia sexual o cualquier otro que atente contra la dignidad humana.
+
+II. Principio de proporcionalidad: La remuneración de cada función pública deberá ser proporcional a la responsabilidad que derive del cargo y al presupuesto designado para el órgano u organismo público, en cuyo tabulador se incluya.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 TER.- Todo tabulador determinará los rangos o niveles mínimos y máximos de los montos de las remuneraciones que deberán percibir los servidores públicos por nivel, categoría o puesto.
+
+Dentro de estos rangos, cada ente público deberá determinar las remuneraciones de los servidores públicos, en función de su cargo, empleo o comisión.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 CUÁTER.- El tabulador deberá contener como mínimo, lo siguiente:
+
+I. Los niveles mínimos y máximos de las remuneraciones, deberán estar apegados a las bases establecidas por esta Ley.
+
+Los montos establecidos en el tabulador respectivo, serán netos.
+
+II. Los niveles mínimos y máximos de las remuneraciones para los empleos, cargos o comisiones públicos deberán ser conforme a la actividad y responsabilidad que desempeñan.
+
+III. Respetar las medidas de protección al salario estipuladas por la Ley.
+
+IV. Los conceptos de remuneraciones por cargo, empleo o comisión, sin omisión alguna en su percepción neta.
+
+V. Las remuneraciones deberán promover y estimular el mejor desempeño y el desarrollo profesional de los servidores públicos, siempre y cuando se privilegie el total cumplimiento de las atribuciones de entidades públicas definidas en el Artículo Primero de esta Ley.
+
+VI. Los señalamientos de los acuerdos celebrados con los representantes de los servidores públicos legalmente constituidos, en los que se acuerden los incrementos salariales conforme a las leyes y condiciones generales de trabajo.
+
+VII. Los incrementos salariales que correspondan a los servidores públicos de confianza.
+
+VIII. El número de plazas presupuestadas, por nivel, categoría, grupo o puesto.
+
+Los tabuladores, a que se refiere el presente artículo, deberán presentarse por el tipo de nivel, categoría, puesto o plaza que corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 QUINQUIES.- Las entidades públicas, al elaborar el tabulador, serán responsables que se incluya en los respectivos presupuestos de egresos:
+
+I. Remuneraciones apegadas a los requisitos establecidos por la Constitución Política del Estado y esta Ley.
+
+II. Remuneraciones para los servidores públicos acordes a la actividad y responsabilidad que desempeñan y que cumplan los principios previstos en esta Ley.
+
+III. Se privilegie el total cumplimiento de las atribuciones de las entidades públicas.
+
+IV. Se respeten las medidas de protección al salario y derechos laborales adquiridos, estipulados por la ley de la materia.
+
+V. Se estimule el mejor desempeño y el desarrollo profesional del servidor público.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 SEXIES.- Los tabuladores son de carácter público y deberán estar anexos en los presupuestos de egresos aprobados, del Estado o de los Municipios, los cuales considerarán como mínimo:
+
+I. La situación financiera o presupuestal.
+
+II. El grado de responsabilidad del servidor público de que se trate.
+
+III. Todos aquellos datos que se requieren para la transparencia de remuneraciones de los servidores públicos.
+
+Tratándose de los tabuladores municipales, deberán ser aprobados por los Ayuntamientos respectivos, en los términos que señalen las disposiciones legales aplicables, observando las bases previstas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+
+ARTICULO 67 SEPTIES.- Dentro del mes siguiente a la aprobación del presupuesto correspondiente, los entes públicos a que se refiere el artículo 165 bis de la Constitución Política del Estado, expedirán un Manual de Administración de Remuneraciones, donde se establecerán:
+
+I. Las unidades responsables de la administración de las remuneraciones.
+
+II. El tabulador vigente para el ejercicio presupuestal respectivo.
+
+III. La estructura de organización.
+
+IV. Los criterios para definir, en los tabuladores fijos y variables, los niveles de remuneración.
+
+V. Las prácticas y fechas de pago de las remuneraciones.
+
+VI. Las políticas de autorización de incrementos salariales.
+
+VII. Las políticas para la asignación de percepciones variables, como los bonos, compensaciones, estímulos y premios, únicamente para el personal de base.
+
+VIII. Los Indicadores a ser considerados para el desarrollo de las funciones de los Servidores Públicos.
 
 ## TITULO SEXTO
 
-### CAPITULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y CONTABILIZACIÓN DE OPERACIONES
+### CAPITULO PRIMERO. DEL SISTEMA DE CONTABILIDAD GUBERNAMENTAL
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 68.
 
@@ -759,7 +851,7 @@ Los estados financieros y demás información presupuestal que emane de la conta
 
 La Secretaría deberá informar mensualmente a las entidades y dependencias el estado que guarda su ejercicio presupuestal debiendo, en su caso, hacer las aclaraciones correspondientes.
 
-### CAPITULO TERCERO. DE LOS ARCHIVOS CONTABLES
+### CAPITULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y CONTABILIZACIÓN DE OPERACIONES
 
 ###### ARTICULO 79.
 
@@ -801,7 +893,7 @@ Las solicitudes que con tal motivo formulen las entidades deberán consignar, en
 
 La Dirección emitirá anualmente la balanza de apertura que presente los saldos iniciales como primer documento de registro contable del ejercicio, que corresponderán con saldos finales del ejercicio inmediato anterior.
 
-### CAPITULO CUARTO. DE LA INFORMACIÓN Y FORMULACIÓN DE LA CUENTA PÚBLICA
+### CAPITULO TERCERO. DE LOS ARCHIVOS CONTABLES
 
 ###### ARTICULO 84.
 
@@ -867,7 +959,7 @@ La documentación comprobatoria y justificativa se conservará en archivos físi
 
 Se exceptúa de lo dispuesto en este artículo la documentación relativa a los convenios, actos o contratos cuya vigencia y cumplimiento no hubieran concluido, se encuentran en litigio o exista disposición expresa del H. Congreso del Estado, en cuyos casos los plazos empezarán a correr a partir de la fecha de extinción o cumplimiento de las obligaciones establecidas en los documentos respectivos.
 
-### CAPITULO UNICO. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPITULO CUARTO. DE LA INFORMACIÓN Y FORMULACIÓN DE LA CUENTA PÚBLICA
 
 ###### ARTICULO 91.
 
@@ -931,7 +1023,7 @@ La revisión de la Cuenta Pública por el H. Congreso del Estado se sujetará a 
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES
+### CAPITULO UNICO. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 ###### ARTICULO 97.
 
@@ -996,6 +1088,8 @@ III. Fincamiento de las responsabilidades que procedan, en los términos de las 
 IV. Las demás que señalen los ordenamientos jurídicos aplicables.
 
 ## TITULO OCTAVO
+
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES
 
 ###### ARTICULO 104.
 
@@ -1218,3 +1312,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El trámite de los asuntos en la materia, solicitados ante la Comisión Estatal de Gasto Financiamiento, serán continuados por la Secretaría de Hacienda, a través de la Dirección General de Egresos.
+
+P.O. 5 DE ENERO DE 2013.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso del Estado a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil trece. Las reformas legales enunciadas en los Artículos Segundo, Tercero y Cuarto del presente, entrarán en vigor al día siguiente en que lo hiciere la reforma constitucional expresada en el Artículo Primero.
+
+TERCERO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+CUARTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los Jueces o Magistrados del Poder Judicial del Estado, los Magistrados del Tribunal Electoral del Estado de Chihuahua, los integrantes del Consejo General del Instituto Estatal Electoral, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 165 bis de la Constitución Política del Estado, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, solo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
