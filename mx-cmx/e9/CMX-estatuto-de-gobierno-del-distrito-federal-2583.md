@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "2011-01-28"
+last_updated: "2013-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -76,7 +76,7 @@ Son habitantes del Distrito Federal las personas que residan en su territorio. S
 
 Son ciudadanos del Distrito Federal los varones y mujeres que teniendo calidad de mexicanos reúnan los requisitos del artículo 34 Constitucional y posean, además, la calidad de vecinos u originarios de la misma.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 7º.
 
@@ -136,7 +136,7 @@ Los elementos de los cuerpos de seguridad pública de prevención serán auxilia
 
 Los elementos de estos cuerpos de seguridad deberán poner en conocimiento del Ministerio Público los hechos constitutivos de los delitos de que conozcan en el desempeño de sus funciones y los mandos deberán poner a disposición del Ministerio Público a todo elemento de los mismos cuando sea requerido en el ejercicio de sus atribuciones.
 
-REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 11.
 
@@ -366,7 +366,7 @@ Corresponde a la Suprema Corte de Justicia de la Nación conocer de las controve
 
 (DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 31.
 
@@ -456,7 +456,7 @@ III. Ejercer las demás facultades que le corresponden como titular del mando de
 
 ## TITULO CUARTO. DE LAS BASES DE LA ORGANIZACION Y FACULTADES DE LOS ORGANOS LOCALES DE GOBIERNO DEL DISTRITO FEDERAL
 
-(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO I. DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
@@ -466,7 +466,7 @@ III. Ejercer las demás facultades que le corresponden como titular del mando de
 
 La función legislativa del Distrito Federal corresponde a la Asamblea Legislativa en las materias que expresamente le confiere la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 37.
 
@@ -522,7 +522,7 @@ En el supuesto de que alguna de las fórmulas aparezca tanto en la lista "A", co
 
 Tratándose de coaliciones y candidaturas comunes, la Ley desarrollará el procedimiento correspondiente considerando lo señalado en los incisos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 En todo caso, para la asignación de diputados por el principio de representación proporcional se observarán las siguientes reglas:
 
@@ -692,7 +692,7 @@ Las leyes y decretos que expida la Asamblea Legislativa del Distrito Federal oto
 
 #### SECCION II. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 46.
 
@@ -702,7 +702,9 @@ El derecho de iniciar leyes y decretos ante la Asamblea Legislativa del Distrito
 
 I. A los diputados de la Asamblea Legislativa del Distrito Federal;
 
-II. (DEROGADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE ENERO DE 2013)</small>
+
+II. Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
 
 (REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
@@ -764,7 +766,7 @@ Las leyes y decretos que expida la Asamblea Legislativa para su debida aplicaci�
 
 En la Asamblea Legislativa del Distrito Federal, habrá una Comisión de Gobierno integrada de manera plural, en los términos de su Ley Orgánica, por diputados electos por el voto mayoritario del pleno de la Asamblea y será presidida por quien designen los miembros de dicha Comisión. Ésta se elegirá e instalará durante el primer periodo ordinario del primer año de ejercicio.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 51.
 
@@ -784,11 +786,11 @@ III. Recibir las iniciativas de ley y proposiciones dirigidas a la Asamblea y tu
 
 IV. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los miembros de la Asamblea Legislativa.
 
-(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO II. DEL JEFE DE GOBIERNO
 
-(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
 #### SECCION I. DE LA ELECCIÓN Y LA REMOCIÓN
 
@@ -924,7 +926,7 @@ IV. Utilizar la fuerza pública fuera de las facultades de dirección que en mat
 
 V. Las demás que determinen otras disposiciones legales y que afecten gravemente las relaciones con los Poderes de la Unión o el orden público.
 
-(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
 #### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL
 
@@ -1060,7 +1062,7 @@ VI. Las controversias que se generen con motivo de la validez de los procesos de
 
 El Distrito Federal participará, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y este Estatuto, en la planeación y ejecución de acciones coordinadas con la Federación, Estados y Municipios en las zonas conurbadas limítrofes con la Ciudad de México, en materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 70.
 
@@ -1108,7 +1110,7 @@ Los acuerdos y convenios que en materia de coordinación metropolitana suscriba 
 
 El Jefe de Gobierno difundirá el contenido de los acuerdos y convenios entre los habitantes del Distrito Federal que residan en la zona materia de los mismos, a fin de que éstos conozcan sus alcances, así como a las autoridades responsables de su ejecución.
 
-(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO III. DE LOS ORGANOS ENCARGADOS DE LA FUNCION JUDICIAL
 
@@ -1144,7 +1146,7 @@ En caso de que la Asamblea Legislativa no apruebe dos nombramientos sucesivos re
 
 Dentro de los quince días a que se refiere el artículo anterior, la Asamblea deberá aprobar o no el nombramiento y si nada resuelve, el magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo, haciendo el Jefe de Gobierno la declaración correspondiente. Si la Asamblea desecha el nombramiento, cesará en sus funciones el magistrado provisional y el Jefe de Gobierno le someterá un nuevo nombramiento.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 80.
 
@@ -1334,7 +1336,7 @@ La ley determinará las relaciones entre el Jefe de Gobierno y las entidades par
 
 Los titulares de las entidades que conforman la administración pública paraestatal, además de cumplir los requisitos establecidos en las leyes, deberán haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en la materia o materias a cargo de la entidad a dirigir, o contar con conocimientos de alto nivel y experiencia en materia administrativa.
 
-(REFORMADA SU DENOMINACION, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO II. DE LAS DEMARCACIONES TERRITORIALES Y DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS
 
@@ -1422,7 +1424,7 @@ Los Jefes Delegacionales deberán observar y hacer cumplir las resoluciones que 
 
 Las controversias de carácter competencial administrativo que se presentaren entre las Delegaciones y los demás órganos y dependencias de la Administración Pública del Distrito Federal serán resueltas por el Jefe de Gobierno.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 109.
 
@@ -1430,7 +1432,7 @@ Con el objeto de formular los estudios para establecer, modificar o reordenar la
 
 El comité realizará los trabajos necesarios, con los apoyos técnicos que requiera, con cargo a la administración pública del Distrito Federal.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 110.
 
@@ -1622,11 +1624,11 @@ Tratándose de las materias a que se refiere este artículo, las leyes de la Asa
 
 Los Programas de Desarrollo Urbano serán formulados por el Jefe de Gobierno del Distrito Federal y sometidos a la aprobación de la Asamblea Legislativa del Distrito Federal, de acuerdo con los procedimientos y requisitos establecidos en la ley de la materia.
 
-(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN [N. DE E. REFORMADA SU DENOMINACION], D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ## TITULO SEXTO. DE LAS AUTORIDADES ELECTORALES LOCALES Y LOS PARTIDOS POLÍTICOS
 
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, [N. DE E. REFORMADA SU DENOMINACION], D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -1646,7 +1648,7 @@ De igual modo, la propaganda que difunda cada uno de estos órganos bajo cualqui
 
 La Ley establecerá las sanciones que correspondan por la violación de este precepto.
 
-(ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACION] CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACIÓN] CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO II. DE LOS PARTIDOS POLITICOS
 
@@ -2014,7 +2016,7 @@ México, D.F., a 14 de julio de 1994.- Dip. Enrique Chavero Ocampo, Presidente.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 3 DE JUNIO DE 1995.
 
@@ -2119,3 +2121,9 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los Consejeros de la Judicatura del Distrito Federal que hubieren sido electos mediante el procedimiento de insaculación concluirán sus respectivos encargos en las fechas establecidas al momento de su designación.
 
 Tercero. La Asamblea Legislativa del Distrito Federal, a fin de que cobre plena vigencia el presente Decreto, habrá de realizar adecuaciones a las disposiciones legales a que haya lugar, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+D.O.F. 7 DE ENERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Posterior a la aprobación de la presente reforma y a la entrada en vigor del Decreto, la Asamblea Legislativa del Distrito Federal deberá promover las reformas conducentes a la Ley Orgánica y al Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, dentro de los 90 días posteriores, a efecto de realizar las modificaciones correspondientes.
