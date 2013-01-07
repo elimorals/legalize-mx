@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-84558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2013-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2013.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de diciembre de 2011.
 
@@ -97,9 +97,11 @@ El Secretario, para el desempeño de sus funciones, se auxiliará de los Órgano
 
 La Secretaría, conforme a su presupuesto asignado, contará con órganos desconcentrados en los lugares que se requiera para el desempeño de las atribuciones que tiene asignadas en el presente Reglamento.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2013)</small>
+
 ###### Artículo 10.
 
-Para el ejercicio de sus atribuciones, las Oficinas de Hacienda del Estado y las Delegaciones Regionales de Catastro se considerarán como Áreas adscritas a la Subsecretaría de Ingresos; mientras que las Delegaciones Regionales del Patrimonio del Estado se considerarán adscritas a la Subsecretaría de Finanzas y Administración.
+Para el ejercicio de sus atribuciones, las Oficinas de Hacienda del Estado se considerarán como Áreas adscritas a la Subsecretaría de Ingresos; mientras que las Delegaciones Regionales del Patrimonio del Estado se considerarán adscritas a la Subsecretaría de Finanzas y Administración.
 
 ###### Artículo 11.
 
@@ -181,7 +183,9 @@ XXII. Revisar y autorizar la presentación de los informes trimestrales, sobre e
 
 XXIII. Intervenir como fideicomitente único en representación de la Secretaría, en los fideicomisos del Gobierno del Estado;
 
-XXIV. Previo Acuerdo del Ejecutivo del Estado, conforme al presupuesto aprobado, autorizar la creación, transformación, desaparición o cambio de ubicación de las Oficinas de Hacienda del Estado, Cobradurías de Hacienda, Delegaciones Regionales de Catastro, Delegaciones Regionales del Patrimonio del Estado y Áreas Administrativas subalternas, que las necesidades del servicio requieran, determinando su ubicación, organización, atribuciones y responsabilidades;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XXIV. Previo Acuerdo del Ejecutivo del Estado, conforme al presupuesto aprobado, autorizar la creación, transformación, desaparición o cambio de ubicación de las Oficinas de Hacienda del Estado, Cobradurías de Hacienda, Delegaciones Regionales del Patrimonio del Estado y Áreas Administrativas subalternas, que las necesidades del servicio requieran, determinando su ubicación, organización, atribuciones y responsabilidades;
 
 XXV. Por acuerdo del Gobernador del Estado, crear las plazas que requiera la Administración Pública Estatal, dentro de los límites presupuestales asignados;
 
@@ -405,11 +409,15 @@ XIX. Proponer al Secretario las medidas técnicas y administrativas necesarias p
 
 XX. Supervisar las Áreas Administrativas y Órganos Desconcentrados de su adscripción;
 
-XXI. Previo acuerdo con el Secretario, determinar las políticas, sistemas y procedimientos, así como ejercer las atribuciones y facultades que en materia de catastro y valuación, estén otorgadas a la Secretaría, por la Ley respectiva;
+XXI. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
-XXII. Proponer al Secretario para su autorización, el nombramiento y remoción de los Jefes de Oficina de Hacienda o Cobradurías, así como de los Delegados Regionales de Catastro;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
 
-XXIII. Proponer al Secretario, el establecimiento, supresión o reubicación de las Oficinas de Hacienda del Estado, Cobradurías de Hacienda, cajeros multiservicios y Delegaciones Regionales de Catastro; así como, acordar con el Secretario, el establecimiento, modificación y organización de sus servicios;
+XXII. Proponer al Secretario para su autorización, el nombramiento y remoción de los Jefes de Oficina de Hacienda o Cobradurías;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XXIII. Proponer al Secretario, el establecimiento, supresión o reubicación de las Oficinas de Hacienda del Estado, Cobradurías de Hacienda y cajeros multiservicios; así como, acordar con el Secretario, el establecimiento, modificación y organización de sus servicios;
 
 XXIV. Verificar que los establecimientos, sistema bancarizado y otros lugares autorizados, realicen el cobro de contribuciones, productos o aprovechamientos, en los términos de los convenios suscritos con la Secretaría;
 
@@ -467,7 +475,9 @@ L. Realizar estudios y proyectos técnicos de investigación, en el Área de su 
 
 LI. Conforme a los lineamientos que establezca el Secretario, informar y difundir por los medios de comunicación gráfica y audiovisual, las disposiciones destinadas a los contribuyentes, que permitan orientar y mejorar el cumplimiento de sus obligaciones;
 
-LII. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales, en materia de contribuciones estatales y federales, así como por las infracciones a la Ley de Catastro y su Reglamento;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+LII. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales, en materia de contribuciones estatales y federales;
 
 LIII. Conforme a los ordenamientos legales en la materia, autorizar o negar la condonación, incluso de las multas administrativas aplicadas por infracción a las disposiciones fiscales estatales o federales y someter a la consideración del Secretario, aquéllas que por su monto e importancia requieran de su autorización;
 
@@ -489,11 +499,11 @@ LXI. Coordinar las acciones de supervisión y fiscalización a contribuyentes qu
 
 LXII. Impulsar acciones de modernización y mejora administrativa en la Subsecretaría, Áreas Administrativas y Órganos Desconcentrados de su adscripción;
 
-LXIII. Revisar y proponer mejoras a los sistemas de registro y valoración catastral, para eficientar la recaudación en materia del impuesto, de conformidad con las disposiciones de la Ley de Catastro, su Reglamento, Acuerdos y demás Ordenamientos Legales aplicables;
+LXIII. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
-LXIV. Comunicar a la Tesorería Municipal correspondiente, el resultado de la valuación o revaluación, y en su caso, el registro catastral y las modificaciones que realice;
+LXIV. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
-LXV. Otorgar, negar o cancelar el registro catastral de bienes inmuebles;
+LXV. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 LXVI. Aprobar las normas técnicas para la elaboración de las Tablas de Valores;
 
@@ -509,9 +519,11 @@ LXXI. Autorizar los donativos en especie, otorgados a favor del Gobierno del Est
 
 LXXII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2013)</small>
+
 ###### Artículo 21.
 
-El Subsecretario de Ingresos será asistido por las (sic) Directores Generales de Recaudación, de Fiscalización; de Catastro y Evaluación y por el de Vinculación y Coordinación Hacendaria; por los Subdirectores; Jefes de las Oficinas de Hacienda del Estado; Delegados Regionales de Catastro; Jefes de Departamento y Ejecutivos de Proyectos, así como por el personal administrativo que las necesidades del servicio requieran, atendiendo a la disponibilidad presupuestal.
+El Subsecretario de Ingresos será asistido por las (sic) Directores Generales de Recaudación, de Fiscalización y por el de Vinculación y Coordinación Hacendaria; por los Subdirectores; Jefes de las Oficinas de Hacienda del Estado; Jefes de Departamento y Ejecutivos de Proyectos, así como por el personal administrativo que las necesidades del servicio requieran, atendiendo a la disponibilidad presupuestal.
 
 ###### Artículo 22.
 
@@ -521,7 +533,7 @@ I. Dirección General de Recaudación;
 
 II. Dirección General de Fiscalización;
 
-III. Dirección General de Catastro y Valuación; y
+III. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 IV. Dirección General de Vinculación y Coordinación Hacendaria.
 
@@ -531,7 +543,9 @@ IV. Dirección General de Vinculación y Coordinación Hacendaria.
 
 Son atribuciones comunes de los Directores Generales de la Subsecretaría de Ingresos, las siguientes:
 
-I. De conformidad con las disposiciones legales aplicables, imponer las sanciones administrativas que procedan, por la comisión de infracciones fiscales en materia estatal y federal; y por infracciones a ley de Catastro y su Reglamento, informando al Subsecretario;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+I. De conformidad con las disposiciones legales aplicables, imponer las sanciones administrativas que procedan, por la comisión de infracciones fiscales en materia estatal y federal, informando al Subsecretario;
 
 II. Resolver las consultas fiscales en materia de su competencia, que formulen los contribuyentes, respecto a situaciones reales y concretas; así como resolver las autorizaciones que establezcan las leyes fiscales federales o estatales;
 
@@ -617,7 +631,7 @@ XXV. Autorizar conforme a las disposiciones legales aplicables, el pago diferido
 
 XXVI. Llevar el control del traslado de documentos y valores a las Oficinas de Hacienda del Estado;
 
-XXVII. Controlar la información mensual, de los ingresos obtenidos por los organismos descentralizados del Gobierno Estatal, para incluirla en la Cuenta Pública, que anualmente presenta el Gobernador al Congreso del Estado;
+XXVII. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 XXVIII. Diseñar y proponer al Subsecretario los sistemas y procedimientos de control, de la actuación de los notificadores ejecutores, de las Oficinas de Hacienda del Estado;
 
@@ -631,7 +645,7 @@ XXXII. Recabar de los servidores y fedatarios públicos, los informes, datos y d
 
 XXXIII. Tramitar y poner en estado de resolución, para autorización del Subsecretario, las solicitudes de exención, devolución o compensación de cantidades pagadas indebidamente al fisco;
 
-XXXIV. Elaborar las estadísticas de los ingresos estatales y federales;
+XXXIV. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 XXXV. Remitir periódicamente a la Tesorería, un informe de las garantías otorgadas en relación con créditos fiscales;
 
@@ -693,7 +707,7 @@ XXI. Aplicar, cuando proceda, las medidas de apremio previstas en el Código Fis
 
 XXII. Ordenar la clausura provisional o definitiva de establecimientos comerciales, por incumplimiento de las obligaciones fiscales del contribuyente;
 
-XXIII. Apoyar al Subsecretario en la elaboración, revisión, cumplimiento e interpretación de los convenios, con los gobiernos federal, estatal y municipal en materia fiscal, en el ámbito de su competencia;
+XXIII. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 XXIV. Proporcionar a la Procuraduría Fiscal, la documentación relacionada con los recursos de revocación que sean promovidos y aportar los elementos de juicio necesarios, para la elaboración de la resolución que emite el Subsecretario;
 
@@ -735,85 +749,13 @@ XLII. Remitir a la autoridad competente, los acuerdos de adjudicación de los bi
 
 XLIII. Difundir entre las Áreas de su adscripción, la normatividad aplicable al ejercicio de las facultades, en materia aduanera y de comercio exterior;
 
-XLIV. Rendir, de conformidad con las condiciones y plazos convenidos con la Federación, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones; y
+XLIV. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 XLV. Ordenar la cumplimentación de las resoluciones, mandamientos y ejecutorias de órganos jurisdiccionales y autoridades federales o locales, en materia de comercio de exterior.
 
 ###### Artículo 26.
 
-Corresponde al Director General de Catastro y Valuación:
-
-I. Analizar, proponer al Subsecretario y aplicar las políticas en materia catastral, que deriven de la Ley de Catastro y su Reglamento, y coordinarse con la Dirección General de Fiscalización, cuando tengan repercusión fiscal;
-
-II. Atender las consultas que sobre situaciones reales y casos concretos, le planteen las dependencias gubernamentales en materia catastral;
-
-III. Supervisar el Catastro y la operación de las delegaciones regionales, de conformidad con las disposiciones de la Ley de Catastro, su Reglamento, Acuerdos y demás Ordenamientos Legales aplicables, así como ser el enlace, entre dichas delegaciones y las diferentes Áreas Administrativas de la Secretaría;
-
-IV. Realizar investigación científica y tecnológica en materia catastral y de estudios del territorio estatal;
-
-V. Localizar cada predio mediante su deslinde y medición, señalándose los elementos jurídicos, económicos, sociales, estadísticos y topográficos que lo constituyen;
-
-VI. Realizar levantamientos topográficos, fotogramétricos, geodésicos o cualesquiera otros por cuya vía se efectúe la exploración y estudio del territorio;
-
-VII. Establecer los sistemas de registro catastral y archivo de los bienes inmuebles ubicados en el Estado; determinar la conformación de la clave catastral, así como la estructura y procedimientos para la administración de las bases de datos catastrales alfanuméricas y cartográficas;
-
-VIII. Efectuar el registro catastral y sus modificaciones, así como la valuación y revaluación catastral de los bienes inmuebles;
-
-IX. Elaborar y actualizar la cartografía estatal y establecer las normas técnicas para su producción;
-
-X. Custodiar la cartografía original, la de conservación y el archivo documental de los expedientes individuales de los predios de la Entidad;
-
-XI. Integrar las bases de datos de la información territorial del Estado;
-
-XII. Determinar los valores catastrales unitarios, provisionales de suelo y construcciones;
-
-XIII. Supervisar la realización de operaciones catastrales en el territorio estatal;
-
-XIV. Ofrecer capacitación y asesoría en materia catastral a los Ayuntamientos, en los términos de los convenios que se suscriban;
-
-XV. Efectuar la investigación de la infraestructura y equipamientos urbanos, de los costos de mano de obra y materiales de construcción, así como de los valores del mercado inmobiliario que servirán de base a la propuesta de Tablas de Valores;
-
-XVI. Hacer propuestas sobre sus cuotas o tarifas aplicables a impuestos inmobiliarios, para proporcionarlas a los ayuntamientos que las soliciten;
-
-XVII. Auxiliar técnicamente al Congreso del Estado, cuando éste lo requiera, en la formulación del dictamen de las propuestas de tablas de valores y de cuotas o tarifas que le sean presentadas para su aprobación, así como en el deslinde y descripción de los límites del Estado y de los municipios que lo integran;
-
-XVIII. Elaborar el padrón factura y boletas del impuesto predial y proporcionarlos a los Ayuntamientos que lo soliciten;
-
-XIX. Proporcionar en los términos de Ley, información, asesoría, apoyo, asistencia técnica, bienes y servicios, en materia catastral, a las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, propietarios, poseedores y a los particulares interesados;
-
-XX. Preparar los oficios de negación o cancelación del registro catastral de bienes inmuebles, para firma del Subsecretario;
-
-XXI. Auxiliar al Subsecretario, en coordinación con la Procuraduría Fiscal, para contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades que le confiere la Ley de la materia, cuando sea autoridad demandada;
-
-XXII. Notificar a los interesados los actos o resoluciones que emita relacionados con la función catastral;
-
-XXIII. Apoyar a la Procuraduría Fiscal, en el trámite del recurso administrativo de revocación, en los casos en que las autoridades estatales, actúen como autoridades catastrales y aportar los elementos de juicio con que cuente, para su resolución por el Subsecretario;
-
-XXIV. Expedir, negar o cancelar cédulas catastrales, certificados de valor catastral o catastral provisional, copia certificada de planos y demás constancias relacionadas con la información catastral de los bienes inmuebles;
-
-XXV. Expedir la documentación que acredite al personal a su cargo, para la realización de las diversas funciones catastrales;
-
-XXVI. Desarrollar y actualizar las bases de datos catastrales, mediante la investigación e información que genere directamente o que obtenga de las dependencias y entidades federales, estatales y municipales, y promover su difusión;
-
-XXVII. Elaborar el avalúo comercial y dictamen de arrendamiento de los bienes inmuebles, para las operaciones de adquisición, enajenación o renta en que participen los poderes del Estado, y para los ayuntamientos, cuando lo soliciten;
-
-XXVIII. Expedir constancias o certificados del valor catastral registrado en los padrones;
-
-XXIX. Someter a la consideración del Subsecretario, los convenios o acuerdos que se deban celebrar con las dependencias y entidades de los gobiernos federal, estatal y municipal;
-
-XXX. Coordinarse con las dependencias y entidades federales, estatales y municipales, que desarrollen actividades relacionadas con el acopio y difusión de información catastral, así como, solicitar a las mismas dependencias, instituciones y particulares, en su caso, los datos y documentos que sean necesarios, para la formación y conservación, del Sistema de Información Catastral Territorial del Estado;
-
-XXXI. Proponer al Subsecretario, las normas técnicas para la elaboración de las Tablas de Valores. Asimismo elaborar propuestas de tablas de valores, cuotas o tarifas aplicables a Impuestos Inmobiliarios e instructivos técnicos referentes a la valuación catastral y a la generación, conservación, consulta y difusión de la información catastral y territorial, que deberán ser proporcionadas a los ayuntamientos que lo soliciten;
-
-XXXII. Intercambiar con las dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, la cartografía y bases de datos geográficos que del territorio estatal elaboren, en los términos de los convenios que al efecto se celebren;
-
-XXXIII. Tener a su cargo el Sistema de Información Catastral Territorial y establecer los medios y mecanismos informáticos, que le permitan obtener de las diversas dependencias y entidades de los gobiernos federal, estatal y municipal, la información catastral y territorial que requiera para el cumplimiento de sus atribuciones;
-
-XXXIV. Comunicar a la Tesorería Municipal correspondiente, el resultado de la valuación o revaluación, y en su caso, el registro catastral y las modificaciones que realice;
-
-XXXV. Coordinar las investigaciones y estudios técnicos, que sustenten la elaboración, de las Tablas de Valores Unitarios de suelo y construcciones, que realicen el estado y los municipios; y
-
-XXXVI. Llevar control y registro de los créditos que se originen, por infracciones a la Ley de Catastro y su Reglamento.
+(DEROGADO, G.O. 7 DE ENERO DE 2013)
 
 ###### Artículo 27.
 
@@ -843,9 +785,25 @@ XI. Informar al Subsecretario de Ingresos, los montos de los ingresos que recibe
 
 XII. Analizar y opinar sobre la estimación de los ingresos propios y los derivados del Sistema Nacional de Coordinación Fiscal y presentarla al Subsecretario de Ingresos, en el anteproyecto que se formule de la Ley de Ingresos;
 
-XIII. Previo acuerdo con el Subsecretario, coordinar las gestiones, ante las instancias del Gobierno Federal, respecto de las acciones tendentes a una mejor y más eficiente distribución de los recursos federales; y
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2013)</small>
 
-XIV. Propiciar la coordinación fiscal entre el Estado y los Municipios.
+XIII. Controlar la información mensual, de los ingresos obtenidos por los organismos descentralizados del Gobierno Estatal, para incluirla en la Cuenta Pública, que anualmente presenta el Gobernador al Congreso del Estado;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XIV. Elaborar las estadísticas de los ingresos estatales y federales;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XV. Apoyar al Subsecretario en la elaboración, revisión, cumplimiento e interpretación de los convenios, con los gobiernos federal, estatal y municipal en materia fiscal, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XVI. Rendir, de conformidad con las condiciones y plazos convenidos con la Federación, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones;
+
+XVII. Previo acuerdo con el Subsecretario, coordinar las gestiones, ante las instancias del Gobierno Federal, respecto de las acciones tendentes a una mejor y más eficiente distribución de los recursos federales; y
+
+XVIII. Propiciar la coordinación fiscal entre el Estado y los Municipios.
 
 ### CAPÍTULO VIII. DE LA SUBSECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
@@ -1089,7 +1047,9 @@ XXIII. Aportar a la Procuraduría Fiscal, los elementos jurídicos, para sustent
 
 XXIV. Efectuar, conforme a las disposiciones legales aplicables, las donaciones de bienes muebles de propiedad estatal, cuya administración o asignación, estén a cargo de esta Secretaría;
 
-XXV. Atender y, en su caso, resolver las solicitudes de bienes y servicios de los Órganos y Áreas Administrativas de la Secretaría; controlar el destino, baja, asignación y resguardo de maquinaria, vehículos, mobiliario y equipo asignados a éstas; así como controlar los servicios de conservación, uso y mantenimiento de bienes muebles e inmuebles asignados a la Secretaría, Oficinas de Hacienda del Estado, Delegaciones Regionales de Catastro y Delegaciones Regionales del Patrimonio del Estado, con base en la disponibilidad presupuestal;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XXV. Atender y, en su caso, resolver las solicitudes de bienes y servicios de los Órganos y Áreas Administrativas de la Secretaría; controlar el destino, baja, asignación y resguardo de maquinaria, vehículos, mobiliario y equipo asignados a éstas; así como controlar los servicios de conservación, uso y mantenimiento de bienes muebles e inmuebles asignados a la Secretaría, Oficinas de Hacienda del Estado, y Delegaciones Regionales del Patrimonio del Estado, con base en la disponibilidad presupuestal;
 
 XXVI. Brindar asesoría a las Áreas Administrativas para que las actividades relacionadas con adquisiciones, arrendamientos, contratación de servicios y enajenación de bienes muebles, se efectúen en condiciones de imparcialidad, eficiencia y transparencia; de acuerdo a la normatividad correspondiente;
 
@@ -1427,7 +1387,9 @@ XXVII. Validar y sancionar, los convenios de regularización de colonias popular
 
 XXVIII. Otorgar el traslado de dominio de lotes de interés social, mediante la formalización en instrumento público, en colonias populares asentadas en inmuebles de propiedad particular, cuyo convenio haya sido validado y sancionado por esta Dirección General, previa práctica de los trabajos de lotificación y cartografía, en coordinación con el Instituto Veracruzano de la Vivienda;
 
-XXIX. Coordinar acciones con la Dirección General de Catastro y Valuación, a efecto de que sean emitidos y actualizados los valores de los bienes inmuebles de la Administración Pública Estatal, que permitan reflejar el valor real de los activos del Gobierno del Estado, adoptando lo previsto en la Ley General de Contabilidad Gubernamental y en las principales Reglas de Registro y Valoración de Patrimonio;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XXIX. Coordinar acciones con la Secretaría de Gobierno, a efecto de que sean emitidos y actualizados los valores de los bienes inmuebles de la administración pública estatal, que permitan reflejar el valor real de los activos del Gobierno del Estado, adoptando lo previsto en la Ley General de Contabilidad Gubernamental y en las principales reglas de registro y valoración de patrimonio.
 
 XXX. Proponer al Subsecretario, en coordinación con la Procuraduría Fiscal, la participación en sociedades o asociaciones o la constitución de ellas, cuando su objeto social sea la práctica de operaciones inmobiliarias de interés público;
 
@@ -1875,7 +1837,9 @@ i) En su caso, previo acuerdo del Secretario, desistirse de cualquier acción in
 
 XXI. Allanarse en aquellos procesos jurisdiccionales o contenciosos administrativos cuando, a su juicio, considere que existen agravios suficientes expresados en la demanda, que puedan inducir al tribunal correspondiente a declarar la nulidad de la resolución impugnada, para el efecto de que se reponga su emisión o el procedimiento del que deriva;
 
-XXII. Contestar las demandas, oponer las excepciones y defensas, ofrecer pruebas, formular alegatos e interponer los incidentes y recursos que procedan en los que sean parte las autoridades catastrales o las fiscales de la Secretaría, que se susciten con motivo del ejercicio de sus facultades en materia catastral, así como las de índole fiscal, estatal o federal, en los casos de los ingresos cuya administración le ha sido delegada al Estado, con fundamento en la Ley de Coordinación Fiscal y en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia Fiscal Federal y sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+XXII. Contestar las demandas, oponer las excepciones y defensas, ofrecer pruebas, formular alegatos e interponer los incidentes y recursos que procedan en los que sean parte las autoridades de la Secretaría, que se susciten con motivo del ejercicio de sus facultades, así como las de índole fiscal, estatal o federal, en los casos de los ingresos cuya administración le ha sido delegada al Estado, con fundamento en la Ley de Coordinación Fiscal y en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia Fiscal Federal y sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
 
 XXIII. Formular las demandas en los asuntos en los que se afecte el interés jurídico del fisco estatal, cuando éste actúe en la administración de ingresos federales delegados al Estado en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en materia Fiscal Federal, incluyendo sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
 
@@ -2131,7 +2095,9 @@ h) Cuando sea procedente, previo acuerdo del Secretario y sin perjuicio del erar
 
 i) En su caso, previo acuerdo del Secretario, desistirse de cualquier acción intentada;
 
-III. Contestar las demandas, oponer las excepciones y defensas, ofrecer pruebas, formular alegatos e interponer los incidentes y recursos que procedan en los juicios en que sean parte las autoridades catastrales o las fiscales de la Secretaría, que se susciten con motivo del ejercicio de sus facultades en materia catastral, así como las de índole fiscal estatal o federal, en los casos de los ingresos cuya administración le ha sido delegada al Estado, con fundamento en la Ley de Coordinación Fiscal y en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+
+III. Contestar las demandas, oponer las excepciones y defensas, ofrecer pruebas, formular alegatos e interponer los incidentes y recursos que procedan en los juicios en que sean parte las autoridades de la Secretaría, que se susciten con motivo del ejercicio de sus facultades, así como las de índole fiscal estatal o federal, en los casos de los ingresos cuya administración le ha sido delegada al Estado, con fundamento en la Ley de Coordinación Fiscal y en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
 
 IV. Elaborar y formular las demandas y participar en los términos de las fracciones I y II del presente artículo, en los asuntos en los que se afecte el interés jurídico estatal, incluso cuando éste actúe en la administración de ingresos federales delegados al Estado en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
 
@@ -2197,7 +2163,7 @@ La Secretaría contará para el mejor ejercicio de las atribuciones que tiene as
 
 I. Oficinas de Hacienda del Estado;
 
-II. Delegaciones Regionales de Catastro; y
+II. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 III. Delegaciones Regionales del Patrimonio del Estado.
 
@@ -2481,83 +2447,15 @@ VI. Cobraduría de la Oficina de Hacienda del Estado de Jáltipan, con residenci
 
 ###### Artículo 59.
 
-Las Delegaciones Regionales de Catastro estarán a cargo de un Delegado Regional de Catastro, que se auxiliará de los jefes de Área y personal administrativo que se requiera y atendiendo a la disponibilidad presupuestal.
+(DEROGADO, G.O. 7 DE ENERO DE 2013)
 
 ###### Artículo 60.
 
-Corresponde a los Delegados Regionales de Catastro:
-
-I. Coordinar la operación de la Delegación Regional a su cargo, conforme a las disposiciones de la Ley de la materia, su Reglamento, los acuerdos y demás ordenamientos legales aplicables;
-
-II. Aplicar los lineamientos, procedimientos, especificaciones, sistemas y políticas a que deberán sujetarse las operaciones y funciones catastrales, así como la producción de bienes y prestación de servicios en materia catastral, en el ámbito de su competencia;
-
-III. Localizar cada predio mediante su deslinde y mesura, señalándose los elementos jurídicos, económicos, sociales, estadísticos y topográficos que lo constituyen;
-
-IV. Realizar levantamientos topográficos o cualquier otro mediante el que se efectúe la exploración y el estudio del territorio;
-
-V. Efectuar el registro catastral y sus modificaciones, así como la valuación y revaluación catastral de los bienes inmuebles;
-
-VI. Elaborar y actualizar la cartografía catastral;
-
-VII. Custodiar la cartografía original, la de conservación y el archivo documental de los expedientes individuales de los predios de la Entidad, ubicados en el territorio de su circunscripción;
-
-VIII. Intercambiar con las dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, la cartografía y bases de datos geográficas que del territorio Estatal elaboren, en los términos de los convenios que al efecto se celebren;
-
-IX. Determinar valores catastrales unitarios provisionales de suelo y construcciones;
-
-X. Coordinar, administrar y evaluar los programas de actualización en materia catastral;
-
-XI. Supervisar la realización de operaciones catastrales en el ámbito de su jurisdicción;
-
-XII. Ofrecer capacitación y asesoría en materia catastral a los Ayuntamientos, en los términos de los convenios o acuerdos que se suscriban;
-
-XIII. Efectuar la investigación de la infraestructura y equipamiento urbano, de los costos de mano de obra y materiales de construcción, así como de los valores del mercado inmobiliario que servirán de base a la propuesta de tablas de valores;
-
-XIV. Auxiliar al Congreso del Estado en el deslinde y descripción de los límites de la Entidad, así como de los municipios que la integran;
-
-XV. Proporcionar información, asesoría, apoyo, asistencia técnica, bienes y servicios en materia catastral a las dependencias y entidades de la Administración Publica Federal, Estatal y Municipal, propietarios, poseedores y a los particulares interesados, previo pago de los derechos establecidos en Ley;
-
-XVI. Otorgar, negar o cancelar el registro catastral de bienes inmuebles;
-
-XVII. Contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades que les confiere la Ley de la materia;
-
-XVIII. Notificar a los interesados los actos relacionados con la función catastral;
-
-XIX. Apoyar a la Procuraduría Fiscal en el trámite del recurso administrativo de revocación, en los casos en que las autoridades estatales actúen como autoridades catastrales y aportar los elementos de juicio necesarios para su resolución por el Subsecretario;
-
-XX. Expedir, negar o cancelar cédulas catastrales, certificados de valor catastral o catastral provisional, copias certificadas de planos y demás constancias relacionadas con la información catastral de los bienes inmuebles;
-
-XXI. Expedir constancias o certificados del valor catastral registrado en los padrones;
-
-XXII. Coordinarse con las dependencias y entidades federales estatales y municipales que desarrollen actividades relacionadas con el acopio y difusión de información catastral y territorial;
-
-XXIII. Solicitar a las dependencias federales, estatales y municipales, instituciones y particulares, en su caso, los datos y documentos que sean necesarios para la formación y conservación del Sistema de Información Catastral Territorial del Estado;
-
-XXIV. Comunicar a la Tesorería Municipal correspondiente, el resultado de la valuación o revaluación, así como el registro catastral y las modificaciones que realicen;
-
-XXV. De conformidad con las disposiciones legales aplicables, imponer las sanciones administrativas a los infractores de la ley de la materia y su reglamento; y
-
-XXVI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+(DEROGADO, G.O. 7 DE ENERO DE 2013)
 
 ###### Artículo 61.
 
-Las Delegaciones Regionales de Catastro ejercerán su jurisdicción en la circunscripción territorial de las siguientes zonas catastrales:
-
-I. Primera Zona Catastral con cabecera en Pánuco, que comprende los Municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Ixcatepec, Naranjos-Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tempoal y Tepetzintla;
-
-II. Segunda Zona Catastral con cabecera en Poza Rica de Hidalgo, que comprende los Municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixhuatlán de Madero, Martínez de la Torre, Mecatlán, Papantla, Poza Rica de Hidalgo, San Rafael, Tamiahua, Tecolutla, Temapache, Texcatepec, Tihuatlán, Tlachichilco, Tlapacoyan, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo;
-
-III. Tercera Zona Catastral con cabecera en Xalapa, que comprende los Municipios de: Acajete, Acatlán, Alto Lucero, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Coacoatzintla, Coatepec, Colipa, Cosautlán de Carvajal, Chiconquiaco, Emiliano Zapata, Ixhuacán de los Reyes, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Miahuatlán, Las Minas, Misantla, Naolinco, Perote, Rafael Lucio, Tatatila, Tenochtitlán, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán, Las Vigas de Ramírez, Villa Aldama, Xalapa, Xico y Yecuatla;
-
-IV. Cuarta Zona Catastral con cabecera en Veracruz, que comprende los Municipios de: Actopan, Alvarado, La Antigua, Boca del Río, Camarón de Tejeda, Comapa, Cotaxtla, Ignacio de la Llave, Jamapa, Manlio Fabio Altamirano, Medellín, Nautla, Paso de Ovejas, Puente Nacional, Sochiapa, Soledad de Doblado, Tenampa, Tlacotepec de Mejía, Tlalixcoyan, Tlaltetela, Totutla, Úrsulo Galván, Vega de Alatorre y Veracruz;
-
-V. Quinta Zona Catastral con cabecera en Orizaba, que comprende los Municipios de: Acultzingo, Aquila, Astacinga, Atlahuilco, Atzacan, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Nogales, Orizaba, La Perla, Rafael Delgado, Los Reyes, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tlaquilpa, Tlilapan, Xoxocotla y Zongolica;
-
-VI. Sexta Zona Catastral con cabecera en Córdoba, que comprende los Municipios de: Alpatláhuac, Amatlán de los Reyes, Atoyac, Calcahualco, Carrillo Puerto, Coetzala, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huatusco, Ixhuatlán del Café, Naranjal, Omealca, Paso del Macho, Tepatlaxco, Tezonapa, Tomatlán, Yanga y Zentla;
-
-VII. Séptima Zona Catastral con cabecera en Cosamaloapan, que comprende los Municipios de: Acula, Amatitlán, Ángel R. Cabada, Carlos A. Carrillo, Catemaco, Cosamaloapan, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Lerdo de Tejada, Otatitlán, Playa Vicente, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapa, Santiago Tuxtla, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles y Tuxtilla; y
-
-VIII. Octava Zona Catastral con cabecera en Coatzacoalcos, que comprende los Municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Las Choapas, Hidalgotitlán, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+(DEROGADO, G.O. 7 DE ENERO DE 2013)
 
 ###### Artículo 62.
 
@@ -2617,9 +2515,11 @@ El Subsecretario de Finanzas y Administración en sus ausencias temporales menor
 
 Cuando el Subsecretario de Finanzas y Administración se ausente del cargo en forma definitiva, y en tanto es nombrado el nuevo titular, el Secretario podrá designar al Servidor Público para que lo supla en forma provisional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ENERO DE 2013)</small>
+
 ###### Artículo 66.
 
-El Subsecretario de Ingresos en sus ausencias temporales menores de quince días, será suplido por los Directores Generales de Recaudación, Fiscalización, Catastro y Valuación, así como de Vinculación y Coordinación Hacendaria en el orden indicado. En caso de que el período de ausencia sea mayor a quince días, el Secretario designará a alguno de los Directores Generales mencionados, para ocupar el cargo entre tanto se reincorpora el Subsecretario al desempeño de sus funciones.
+El Subsecretario de Ingresos en sus ausencias temporales menores de quince días, será suplido por los Directores Generales de Recaudación, Vinculación y Coordinación Hacendaria, así como de Fiscalización en el orden indicado. En caso de que el período de ausencia sea mayor a quince días, el Secretario designará a alguno de los Directores Generales mencionados, para ocupar el cargo entre tanto se reincorpora el Subsecretario al desempeño de sus funciones.
 
 Cuando el Subsecretario de Ingresos se ausente del cargo en forma definitiva, y en tanto es nombrado el nuevo titular, el Secretario podrá designar al Servidor Público para que lo supla en forma provisional.
 
@@ -2674,3 +2574,11 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE ENERO DE 2013.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
