@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-10-09"
+last_updated: "2013-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ENERO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -501,7 +505,9 @@ III. Noroeste III, que comprende los Estados de Baja California Sur y Sinaloa;
 
 IV. Norte-Centro I, que comprende el Estado de Chihuahua;
 
-V. Norte-Centro II, que comprende los Estados de Durango y Coahuila;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 2013)</small>
+
+V. Norte-Centro II, que comprende todo el Estado de Coahuila y los Municipios de Lerdo y Gómez Palacio del Estado de Durango;
 
 VI. Noreste, que comprende el Estado de Nuevo León y los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa del Estado de Tamaulipas;
 
@@ -531,9 +537,13 @@ XVIII. Golfo-Norte, que comprende el Estado de Tamaulipas, con excepción de los
 
 XIX. Chiapas-Tabasco, que comprende los Estados de Chiapas y Tabasco;
 
-XX. Caribe, que comprende el Estado de Quintana Roo, y
+XX. Caribe, que comprende el Estado de Quintana Roo, y (sic)
 
 XXI. Pacífico-Centro, que comprende el Estado de Michoacán.
+
+> <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
+
+XXII. Norte-Centro III, que comprende el Estado de Durango, con excepción de los Municipios de Lerdo y Gómez Palacio, del propio Estado.
 
 ###### Artículo 22.
 
@@ -593,9 +603,13 @@ XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del
 
 XIX. Región Chiapas-Tabasco: Una Sala que se denominará “Sala Regional Chiapas-Tabasco”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y
+XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
 
 XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
+
+> <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
+
+XXII. Región del Norte-Centro III: una Sala que se denominará "Sala Regional del Norte-Centro III", con sede en la ciudad de Victoria de Durango, Estado de Durango.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -639,31 +653,27 @@ m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 n) Comisión Reguladora de Energía (CRE)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
 
-Bis.- El Tribunal contará con Salas Auxiliares, cuya denominación y sede serán las siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+Bis.- El Tribunal contará con las Salas Auxiliares siguientes, cuya denominación y sede serán:
 
 > <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
 
 I. Primera Sala Auxiliar, con sede en San Andrés Cholula, Estado de Puebla;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
 II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
 III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
+
+IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción VI, y 22, fracción VI, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -2668,3 +2678,19 @@ D.O.F. 9 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+D.O.F. 8 DE ENERO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Sala Regional del Norte-Centro III que se crea iniciará sus operaciones el 5 de febrero de 2013.
+
+TERCERO.- En términos de lo señalado en el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de la Sala Regional del Norte-Centro III, para establecer las reglas de atención de los juicios y redistribuir los expedientes que se encuentren radicados en la Primera y Segunda Salas Regionales del Norte-Centro II, y que conforme al artículo 34 de la misma Ley Orgánica, sean competencia de la Sala Regional recién creada.
+
+CUARTO.- El Pleno de la Sala Superior, en su integración de once Magistrados determinará las Salas Regionales que serán apoyadas por la Sala Regional del Norte-Centro III, en su calidad de Auxiliar, con sede en la Ciudad de Victoria de Durango, Estado de Durango.
+
+QUINTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, se realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+SEXTO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
+
+SEPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
