@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2012-11-28"
+last_updated: "2013-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL AL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA Y A SU TITULAR, RESPECTIVAMENTE; SE ENTENDERÁN HECHAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA Y A SU RESPECTIVO TITULAR.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -95,7 +95,9 @@ El Instituto deberá vigilar en el ámbito electoral el cumplimiento de las disp
 
 El Consejo General será el Órgano Superior de Dirección del Instituto y el responsable de vigilar el cumplimento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza e independencia guíen todas las actividades del Instituto.
 
-El Consejo General se reunirá en la segunda semana del mes de noviembre del año anterior a la etapa de la jornada electoral para declarar el inicio del proceso electoral.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2013)</small>
+
+El Consejo General se reunirá en la primera semana del mes de febrero del año de la jornada electoral para declarar el inicio del proceso electoral.
 
 El Consejo General del Instituto se integrará por:
 
@@ -3052,3 +3054,11 @@ DÉCIMO SEGUNDO.- La Ley de Fiscalización Superior y Rendición de Cuentas para
 La actual estructura orgánica y el personal adscrito a la misma del Órgano de Fiscalización Superior del Estado, continuará funcionando como parte de la Auditoría Superior del Estado, hasta en tanto no se modifique, y las actuaciones de su personal tendrán plena validez.
 
 DÉCIMO TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2013.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado y no aplicará para el proceso electoral que inició en la segunda semana de noviembre del año dos mil doce.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
