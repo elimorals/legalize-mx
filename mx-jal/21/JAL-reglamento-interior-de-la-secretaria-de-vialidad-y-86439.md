@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-vialidad-y-86439"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-25"
-last_updated: "2012-02-25"
+last_updated: "2013-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE VIALIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 2012.
 
@@ -167,11 +167,13 @@ e) Dirección General de Planeación y Profesionalización;
 
 f) Dirección General de Infraestructura Vial;
 
-g) Dirección General de Policía de Vialidad y Tránsito en la Zona Metropolitana de
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
 
-Guadalajara;
+g) Comisaría General de Vialidad de la Zona Metropolitana de Guadalajara;
 
-h) Dirección General de Policía de Vialidad en las Delegaciones Foráneas;
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
+
+h) Comisaría General de Vialidad en las Delegaciones Foráneas;
 
 i) Dirección General de Seguridad Vial;
 
@@ -429,15 +431,21 @@ XV. Proponer la ejecución de programas relativos a la construcción y mantenimi
 
 XVI. Las demás que por delegación o disposición legal se le asignen.
 
-#### Sección Sexta. De la Dirección General de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2013)</small>
+
+#### Sección Sexta. Comisaría General de Vialidad de la Zona Metropolitana de Guadalajara
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
 
 ###### Artículo 21.
 
-La Dirección General de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara, contará con la Dirección de Operación Vial Metropolitana.
+La Comisaría General de Vialidad de la Zona Metropolitana de Guadalajara, contará con la Dirección de Operación Vial Metropolitana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2013)</small>
 
 ###### Artículo 22.
 
-La Dirección General de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara será la encargada de vigilar el cumplimiento de la Ley y su reglamento, en la zona metropolitana de Guadalajara; y tendrá las siguientes atribuciones:
+La Comisaría General de Vialidad de la Zona Metropolitana de Guadalajara será la encargada de vigilar el cumplimiento de la Ley y su reglamento, en la zona metropolitana de Guadalajara; y tendrá las siguientes atribuciones:
 
 I. Planear, dirigir, organizar y controlar todas las actividades relativas a la regulación vial en la Zona Metropolitana de Guadalajara, así como ordenar, coordinar y controlar los operativos viales que generen las máximas garantías de seguridad, comodidad y rapidez en el tránsito y transporte de personas, vehículos y bienes;
 
@@ -453,19 +461,33 @@ VI. Elaborar informes sobre las acciones, logros y estado de fuerza de la Direcc
 
 VII. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de la Ley y a sus normas reglamentarias en el ámbito de su competencia;
 
-VIII. Elaborar el parte de los accidentes que ocurran en las vías de jurisdicción estatal relativas a la Zona Metropolitana de Guadalajara y proporcionar auxilio a los usuarios; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2013)</small>
 
-IX. Las demás que por delegación o disposición legal se le asignen.
+VIII. Elaborar el parte de los accidentes que ocurran en las vías de jurisdicción estatal relativas a la Zona Metropolitana de Guadalajara y proporcionar auxilio a los usuarios;
 
-#### Sección Séptima. De la Dirección General de Policía de Vialidad en las Delegaciones Foráneas
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2013)</small>
+
+IX. Velar por la preservación de la vida, la integridad física y los bienes de las personas a las que se les preste el servicio de escolta y custodia, de conformidad con las disposiciones legales aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2013)</small>
+
+X. Las demás que por delegación o disposición legal se le asignen.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2013)</small>
+
+#### Sección Séptima. Comisaría General de Vialidad en las Delegaciones Foráneas
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
 
 ###### Artículo 23.
 
-La Dirección General de Policía de Vialidad en las Delegaciones Foráneas contará con la Dirección de Atención a Municipios e Inspección.
+La Comisaría General de Vialidad en las Delegaciones Foráneas contará con la Dirección de Atención a Municipios e Inspección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2013)</small>
 
 ###### Artículo 24.
 
-La Dirección General de Policía de Vialidad en las Delegaciones Foráneas será la encargada de otorgar y controlar los diferentes servicios que competen a la Secretaría, así como vigilar el cumplimiento de la Ley y su reglamento en el Interior del Estado; y tendrá las siguientes atribuciones:
+La Comisaría General de Vialidad en las Delegaciones Foráneas será la encargada de otorgar y controlar los diferentes servicios que competen a la Secretaría, así como vigilar el cumplimiento de la Ley y su reglamento en el Interior del Estado; y tendrá las siguientes atribuciones:
 
 I. Dirigir, planear, coordinar, supervisar y controlar las actividades de las Delegaciones Regionales como instancias operativas, administrativas y de representación de la Secretaría, en sus respectivas jurisdicciones;
 
@@ -744,3 +766,13 @@ LIC. DIEGO MONRAZ VILLASEÑOR
 Secretario de Vialidad y Transporte
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE ENERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las disposiciones en las que se haga mención a la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se hace referencia a la Secretaría de Seguridad Pública, Prevención y Reinserción Social.
+
+TERCERO. Las disposiciones en las que se haga mención de las Direcciones Generales de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara; y de Policía de Vialidad en las Delegaciones Foráneas; se entenderá que se refiere a las Comisarías Generales de Vialidad de la Zona Metropolitana de Guadalajara, y de Vialidad en las Delegaciones Foráneas, respectivamente.
