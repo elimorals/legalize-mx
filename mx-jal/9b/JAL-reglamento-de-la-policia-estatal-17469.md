@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-policia-estatal-17469"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-24"
-last_updated: "2011-12-06"
+last_updated: "2013-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA POLICÍA ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2013.
 
 Reglamento Publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 24 de junio de 2000.
 
@@ -53,9 +53,9 @@ El presente Reglamento es de orden público e interés social y tiene por objeto
 
 La Dirección General de Seguridad Pública, es la dependencia responsable de conducir en el Estado las normas, políticas y programas, con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado y mantener, en coordinación con los municipios, la seguridad y el orden público, prevenir la comisión de delitos, proteger a los habitantes en su persona, propiedades y derechos, así como coadyuvar con las autoridades federales, estatales y municipales, en la prestación del servicio de seguridad pública y las demás funciones establecidas en el artículo 10 del Reglamento Interior de la Secretaría de Seguridad Pública, Prevención y Readaptación Social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
 
-La policía estatal deberá prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Seguridad Pública, Prevención y Readaptación Social, Procurador General de Justicia, Comisario General de Seguridad Pública y Comisario General de Prevención y Reinserción Social, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
+La policía estatal deberá prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Vialidad y Transporte, Secretario de Seguridad Pública, Prevención y Reinserción Social, Procurador General de Justicia del Estado, Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, Comisario General de Vialidad de la Zona Metropolitana de Guadalajara, Comisario General de Vialidad en las Delegaciones Foráneas, Comisario General de Seguridad Pública, Comisario General de Prevención y Reinserción Social, y Director General del Centro Estatal de Evaluación y Control de Confianza, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2011)</small>
 
@@ -1217,7 +1217,7 @@ EL C. SECRETARIO DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 C. DANIEL G. ITUARTE REYNAUD
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2009.
 
@@ -1226,3 +1226,11 @@ P.O. 4 DE JUNIO DE 2009.
 P.O. 6 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE ENERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las disposiciones en las que se haga mención a la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se hace referencia a la Secretaría de Seguridad Pública, Prevención y Reinserción Social.
+
+TERCERO. Las disposiciones en las que se haga mención de las Direcciones Generales de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara; y de Policía de Vialidad en las Delegaciones Foráneas; se entenderá que se refiere a las Comisarías Generales de Vialidad de la Zona Metropolitana de Guadalajara y de Vialidad en las Delegaciones Foráneas, respectivamente.
