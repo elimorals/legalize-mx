@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2011-08-04"
+last_updated: "2013-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -457,7 +457,7 @@ XXVI. Acordar la integración de las Comisiones Municipales, de conformidad con 
 
 XXVII. Formular, aprobar y administrar, en términos de las disposiciones legales aplicables, la zonificación y planes de desarrollo urbano municipal;
 
-XVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
+XXVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
@@ -734,6 +734,10 @@ XIX. Turismo;
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 XX. Promoción y Defensa de los Derechos Humanos.
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2013)</small>
+
+XXI. Ciencia y Tecnología.
 
 ###### Artículo 41.
 
@@ -1168,6 +1172,22 @@ V. Conocer de la situación imperante en los centros de detención y custodia de
 VI. Revisar la reglamentación municipal y proponer modificaciones a las disposiciones que, en forma explícita o por omisión, resulten discriminatorias; y
 
 VII. Promover entre los servidores públicos municipales, por medio de la dependencia correspondiente, relaciones laborales y de atención al público que eviten discriminaciones por razón de origen étnico o nacional, género, edad, discapacidad, condición social, salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2013)</small>
+
+###### Artículo 60 Sexies.
+
+Son atribuciones de la Comisión de Ciencia y Tecnología:
+
+I. Desarrollar actividades con el objeto de fortalecer el fomento de la investigación científica y el desarrollo tecnológico en el ámbito municipal.
+
+II. Fijar en el presupuesto de egresos del municipio los recursos necesarios para la realización de las actividades relacionadas con la Ciencia y Tecnología.
+
+III. Instalar en los principales parques y bibliotecas públicas municipales, el servicio de Internet gratuito, siempre y cuando lo permitan las condiciones técnicas y geográficas de los municipios.
+
+IV. Las que señalan el artículo 8 de la Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Veracruz de Ignacio de la Llave.
+
+V. Las demás que expresamente le señalen otras disposiciones normativas.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -2919,7 +2939,7 @@ IX. Promover el adecuado mantenimiento de la obra pública ante las autoridades 
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Segundo. Se deroga la Ley Orgánica del Municipio Libre, promulgada el nueve de febrero de mil novecientos ochenta y cuatro.
+Segundo. Se abroga la Ley Orgánica del Municipio Libre, promulgada el nueve de febrero de mil novecientos ochenta y cuatro.
 
 Tercero. De conformidad con el artículo séptimo transitorio de la Ley que reformó y derogó diversas disposiciones de la Constitución Política del Estado, la duración del ejercicio constitucional de los Ayuntamientos electos en el proceso electoral del año dos mil será, por única vez, de cuatro años, iniciando sus funciones el primero de enero del año dos mil uno para concluirlas el treinta y uno de diciembre del año dos mil cuatro.
 
@@ -3210,5 +3230,11 @@ G.O. 4 DE AGOSTO DE 2011.
 DECRETO NÚMERO 281 POR EL QUE REFORMA EL ARTÍCULO 175, FRACCIÓN VIII, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE ENERO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
