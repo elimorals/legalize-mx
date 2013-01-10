@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-seguridad-publica-12423
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2011-12-06"
+last_updated: "2013-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y REINSERCION SOCIAL - ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL -
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y REINSERCIÓN SOCIAL, DEL ESTADO DE JALISCO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -41,23 +41,31 @@ XI. Que es propósito del Ejecutivo a mi cargo, promover e impulsar todas las me
 
 ACUERDO
 
-Unico.- Se expide el Reglamento Interior de la Secretaría De Seguridad Pública, Prevención y Readaptación Social, para quedar como sigue:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2013)</small>
+
+Reglamento Interior de la Secretaría de Seguridad Pública, Prevención y Reinserción Social
 
 ### CAPÍTULO I. De la Competencia y Organización de la Secretaría
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2013)</small>
+
 ###### Artículo 1.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Seguridad Pública del Estado, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado de Jalisco, las leyes relativas a menores infractores y a la reinserción de liberados, así como leyes, reglamentos, decretos, acuerdos y órdenes del Ejecutivo del Estado.
+La Secretaría de Seguridad Pública, Prevención y Reinserción Social como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado de Jalisco, las leyes relativas a menores infractores y la reinserción de liberados, así como leyes, reglamentos, decretos, acuerdos y órdenes del Ejecutivo del Estado.
 
 ###### Artículo 2.
 
 Para efectos de este Ordenamiento se entiende por:
 
-I.- Secretaría: La Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2013)</small>
 
-II.- Secretario: El Secretario de Seguridad Pública, Prevención y Readaptación Social, quien será el Titular de la Secretaría; y
+I. Secretaría: La Secretaría de Seguridad Pública, Prevención y Reinserción Social;
 
-III.- Consejo Estatal: El Consejo Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2013)</small>
+
+II. Secretario: El Secretario de Seguridad Pública, Prevención y Reinserción Social, quien será el Titular de la Secretaría; y
+
+III. Consejo Estatal: El Consejo Estatal de Seguridad Pública.
 
 ###### Artículo 3.
 
@@ -309,9 +317,11 @@ XXI.- Participar en los comités municipales de seguridad pública, para atender
 
 XXII. Certificar copias de los documentos y constancias existentes en los archivos de la Comisaría General de Seguridad Pública, siempre que obren en original o copia certificada;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2013)</small>
 
-XXIII. Prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Seguridad Pública, Prevención y Readaptación Social, Procurador General de Justicia del Estado, Comisario General de Seguridad Pública y Comisario General de Prevención y Reinserción Social, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
+XXIII. Prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Vialidad y Transporte, Secretario de Seguridad Pública, Prevención y Reinserción Social, Procurador General de Justicia del Estado, Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, Comisario General de Vialidad de la Zona Metropolitana de Guadalajara, Comisario General de Vialidad en las Delegaciones Foráneas, Comisario General de Seguridad Pública, Comisario General de Prevención y Reinserción Social, y Director General del Centro Estatal de Evaluación y Control de Confianza, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 En caso de que, al término del periodo antes mencionado, sigan existiendo condiciones objetivas de riesgo para los ex servidores públicos, el servicio de escolta y custodia podrá prorrogarse por el tiempo que se considere necesario; y
 
@@ -860,3 +870,11 @@ P.O. 12 DE FEBRERO DE 2011.
 P.O. 6 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE ENERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las disposiciones en las que se haga mención a la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se hace referencia a la Secretaría de Seguridad Pública, Prevención y Reinserción Social.
+
+TERCERO. Las disposiciones en las que se haga mención de las Direcciones Generales de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara: y de Policía de Vialidad en las Delegaciones Foráneas: se entenderá que se refiere a las Comisarías Generales de Vialidad de la Zona Metropolitana de Guadalajara, y de Vialidad en las Delegaciones Foráneas, respectivamente.
