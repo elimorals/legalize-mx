@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2012-04-20"
+last_updated: "2013-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -83,143 +83,71 @@ VI.- Municipio.- Es el Municipio de Mexicali, Baja California; y,
 
 VII.- Sistema.- Es el organismo descentralizado de la administración pública municipal denominado Sistema Municipal del Transporte.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
 Para efectos de la aplicación e interpretación del presente Reglamento, se establecen los siguientes conceptos:
 
-I.- Acera o banqueta.- Parte de las vías públicas construidas específicamente para el Tránsito de peatones;
+I.- Alcoholímetro.- Dispositivo para medir la cantidad de alcohol presente en el aire respirado por una persona;
 
-II.- Acotamiento.- Franja comprendida entre la orilla de la superficie de rodamiento y la corona de un camino, que sirve para dar más seguridad al tránsito, y para el estacionamiento eventual de vehículos;
+II.- Acera o banqueta.- Parte de las vías públicas construidas específicamente para el Tránsito de peatones;
 
-III.- Alto.- Dispositivo de tránsito que indica la parada total del vehículo, antes de atravesar un cruce de peatones, o bien en intersecciones con vialidades de igual o mayor jerarquía, indicándose a través de señales humanas, gráficas, electromecánicas, marcas en el pavimento, o sonoras. Como señal gráfica se apreciará en forma octagonal, pintado de rojo con letras y filetes blancos;
+III.- Acotamiento.- Franja comprendida entre la orilla de la superficie de rodamiento y la corona de un camino, que sirve para dar más seguridad al tránsito, y para el estacionamiento eventual de vehículos;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-IV.- Área de espera ciclista.- Aquella zona, cuya función es la de servir de espacio de detención para los ciclistas durante el alto de un semáforo;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IV.- Alto.- Dispositivo de tránsito que indica la parada total del vehículo, antes de atravesar un cruce de peatones, o bien en intersecciones con vialidades de igual o mayor jerarquía, indicándose a través de señales humanas, gráficas, electromecánicas, marcas en el pavimento, o sonoras. Como señal gráfica se apreciará en forma octagonal, pintado de rojo con letras y filetes blancos;
 
 V.- Arroyo de circulación o calle.- Superficie de rodamiento para el tránsito de vehículos;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
 VI.- Calzar con cuñas.- Poner una pieza en forma de cuña entre el piso y la rueda de un vehículo para inmovilizarlo;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 VII.- Carril.- Una de las franjas de circulación en que puede estar dividida la superficie de rodamiento de una vía, marcada o no con anchura suficiente para la circulación en la fila, de vehículos de motor de cuatro ruedas o más;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VIII.- Ceder el paso.- Tomar las precauciones necesarias, inclusive detener la marcha del vehículo si es necesario, para que otros no se vean obligados a modificar por virtud de la presencia del primero, su dirección o velocidad;
 
-VIII.- Ciclista.- Conductor de un vehículo de tracción humana a pedales;
+IX.- Conductor.- Es la persona que conduce un vehículo;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+X.- Cruce.- Intersección de un camino con una vía férrea;
 
-IX.- Ciclocarril.- Carril ubicado en la extrema derecha del área de circulación vehicular, para uso compartido entre ciclistas y vehículos de transporte público y otros vehículos.
+XI.- Glorieta.- Entronque de varias vías, en donde la circulación es de un solo sentido que da por resultado un movimiento de tránsito continuo y ordenado;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XII.- Infracción.- Es la conducta realizada por un conductor, peatón o pasajero que transgrede alguna disposición de este Reglamento, y que tiene como consecuencia una sanción;
 
-X.- Ciclovía.- Vía o sección de una vía, exclusiva para la circulación ciclista, físicamente confinada del tránsito automotor;
+XIII.- Intersección.- Área en donde dos o más vialidades se unen o se cruzan, existiendo dos tipos: los entronques y los pasos;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XIV.- Pasajero.- Es la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
 
-XI.- Ceder el paso.- Tomar las precauciones necesarias, inclusive detener la marcha del vehículo si es necesario, para que otros no se vean obligados modificar por virtud de la presencia del primero, su dirección o velocidad;
+XV.- Paso.- Zona donde dos vías terrestres se cruzan sin que puedan unirse las corrientes de tránsito, pudiendo contar o no con estructuras a distintos niveles;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XVI.- Paso a desnivel.- Estructura que permite la circulación simultánea a diferentes elevaciones a dos o más vías;
 
-XII.- Conductor.- Es la persona que conduce un vehículo;
+XVII.- Peatón.- Es la persona que transita a pie por la vía pública;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XVIII.- Peralte.- En las carreteras, la mayor elevación de la parte exterior de la curva, en relación con la interior;
 
-XIII.- Cruce.- Intersección de un camino con una vía férrea;
+XIX.- Peso bruto vehicular.- Es el peso propio del vehículo y su capacidad de carga, especificadas por el fabricante;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XX.- Remolque.- Vehículo no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor;
 
-XIV.- Glorieta.- Entronque de varias vías, en donde la circulación es de un solo sentido que da por resultado un movimiento de tránsito continuo y ordenado;
+XXI.- Semirremolque.- Todo remolque sin eje delantero, destinado a ser acoplado a un tractocamión de manera que parte de su peso sea soportado por éste;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXII.- Superficie de rodamiento.- Área de una vía sobre la cual transitan los vehículos;
 
-XV.- Infracción.- Es la conducta realizada por un conductor, peatón o pasajero que transgrede alguna disposición de éste Reglamento, y que tiene como consecuencia una sanción;
+XXIII.- Tracto camión.- Vehículo de motor destinado a soportar y jalar semirremolques;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXIV.- Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
 
-XVI.- Intersección.- Área en donde dos o más vialidades se unen o se cruzan, existiendo dos tipos: los entronques y los pasos;
+XXV.- Vehículo.- Es el medio de propulsión en el cual se transportan personas o bienes;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXVI.- Vialidad.- Es el sistema de vías públicas utilizado para el tránsito el Municipio;
 
-XVII.- Pasajero.- Es la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
+XXVII.- Vías de acceso controlado.- Aquéllas en que la entrada o salida de los vehículos se efectúa en lugares específicamente determinados;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXVIII.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a otra, excepto en los lugares destinados al efecto;
 
-XVIII.- Paso.- Zona donde dos vías terrestres se cruzan sin que puedan unirse las corrientes de tránsito, pudiendo contar o no con estructuras a distintos niveles;
+XXIX.- Vía pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras; y,
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XIX.- Paso a desnivel.- Estructura que permite la circulación simultánea a diferentes elevaciones a dos o más vías;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XX.- Peatón.- Es la persona que transita a pie por la vía pública;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXI.- Peralte.- En las carreteras, la mayor elevación de la parte exterior de la curva, en relación con la interior;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXII.- Peso bruto vehicular.- Es el peso propio del vehículo y su capacidad de carga, especificadas por el fabricante;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXIII.- Remolque.- Vehículo no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXIV.- Semirremolque.- Todo remolque sin eje delantero, destinado a ser acoplado a un tractocamión de manera que parte de su peso sea soportado por éste;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXV.- Superficie de rodamiento.- Área de una vía sobre la cual transitan los vehículos;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXVI.- Tractocamión.- Vehículo de motor destinado a soportar y jalar semirremolques;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXVII.- Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXVIII.- Vehículo.- Es el medio de propulsión en el cual se transportan personas o bienes;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXIX.- Vialidad.- Es el sistema de vías públicas utilizado para el tránsito del Municipio;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXX.- Vías de acceso controlado.- Aquellas en que la entrada o salida de los vehículos se efectúa en lugares específicamente determinados;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXXI.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a otra, excepto en los lugares destinados al efecto;
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXXII.- Vía pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras;
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXXIII.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones;
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXXIV.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones; y,
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
-
-XXXV.- Alcoholímetro.- Dispositivo para medir la cantidad de alcohol presente en aire respirado por una persona.
+XXX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
 
 ###### ARTÍCULO 5.
 
@@ -269,13 +197,17 @@ Como auxiliares de las autoridades de tránsito, corresponde a los jueces califi
 
 I.- Conocer y resolver los recursos de inconformidad que se interpongan contra las sanciones impuestas por violaciones al presente Reglamento;
 
-II.- Ejercer funciones de conciliación entre las personas involucradas en un accidente de tránsito en el que sólo se hubieren generado daños materiales, si los interesados están de acuerdo en someterse a su decisión; y,
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+II.- Conocer de los asuntos referentes a los conductores en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, que impidan o perturben la adecuada conducción, con las excepciones establecidas en el presente reglamento; autoridad que formará un registro para establecer antecedentes de conductores; y,
 
 III.- Las demás que se determinan en el presente Reglamento y en los demás ordenamientos de tránsito aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Como auxiliar de las autoridades de tránsito, corresponde al Departamento de Servicios Médicos Municipales, a través de sus médicos adscritos, efectuar reconocimientos médicos y exámenes de laboratorio a los conductores que cometan alguna infracción al presente Reglamento, en los supuestos que se determinan en el mismo, y emitir los certificados de escencia (sic) psicofisiológicos respectivos.
+Como auxiliar de las autoridades del ayuntamiento, de tránsito, corresponde al Departamento de Servicios Médicos Municipales, a través de sus médicos adscritos, efectuar reconocimientos médicos a los conductores que cometan alguna infracción al presente Reglamento, en los supuestos que se determinan en el mismo, y emitir los certificados de esencia psicofisiológicos respectivos.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -297,15 +229,21 @@ IV.- Constar por escrito; y,
 
 V.- Contener el nombre, firma y número de cédula profesional de quienes lo hubieren practicado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Se practicarán exámenes de laboratorio a la sangre de cualquier conductor, para confirmar o determinar si conducía en estado de ebriedad, o bajo el influjo de alguna droga enervante o psicotrópica, en los siguientes casos:
+Se practicarán exámenes correspondientes a cualquier conductor, para confirmar o determinar si se conducía en estado de ebriedad, o bajo el influjo de una droga enervante o psicotrópica, y además en los siguientes casos:
 
-I.- Cuando haya estado implicado en un accidente de tránsito del que hubieren resultado lesionados o fallecidos;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-II.- Cuando lo solicite el juez calificador; y,
+I.- Cuando haya estado implicado en un accidente de tránsito del que hubieren resultado lesionados o fallecidos, o cuando tratándose de conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público, este podrá ser solicitado por el juez calificador y/o agente de la Dirección de Seguridad Pública Municipal;
 
-III.- Cuando lo solicite el conductor, u otro con quien hubiere tenido algún accidente de tránsito, casos en los que será a costa del solicitante.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+II.- Cuando lo solicite el Juez Calificador y/o Agente de la Dirección de Seguridad Pública Municipal; y, (sic)
+
+III.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
 El conductor al que se le tomen muestras de sangre para su análisis, podrá solicitar se le proporcione una de éstas, a fin de someterla a exámenes por su cuenta.
 
@@ -779,9 +717,11 @@ El incumplimiento de esta disposición, será sancionado con una multa que se ap
 
 Para efectos de la verificación de la emisión de contaminantes a los vehículos de motor registrados en el Municipio, se estará a lo dispuesto en los ordenamientos en materia de ecología y preservación del medio ambiente.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 51.
 
-Es obligación de los conductores de vehículos de motor, evitar la emisión excesiva y ostensible de humo de los escapes de sus vehículos, de manera que pueda molestar a otros conductores o peatones.
+Es obligación de los conductores de vehículos de motor, evitar la emisión excesiva y ostensible de humo de color negro y/o azul de los escapes de sus vehículos.
 
 ### CAPÍTULO QUINTO. DE LOS CONDUCTORES Y PASAJEROS DE VEHÍCULOS DE MOTOR
 
@@ -1647,11 +1587,15 @@ II.- En los accidentes de tránsito en los que sólo resulten daños materiales 
 
 De no lograrse entre las partes el acuerdo antes mencionado, el agente que tome conocimiento del caso procederá a solicitar la intervención a su vez, del agente que actúe como perito de tránsito, para que éste, en base al análisis de las evidencias físicas encontradas en el lugar del accidente, determine la presunta responsabilidad de los conductores, elaborando el reporte correspondiente.
 
-El reporte y los conductores, se pondrán a disposición del juez calificador, quien determinará lo que en derecho corresponda; y,
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+
+El reporte y los conductores, se pondrán a disposición del juez calificador y/o Ministerio Público, quien determinará lo que en derecho corresponda; y,
 
 III.- Cuando en un accidente de tránsito resulten daños a bienes públicos, o de terceros, los implicados darán aviso a la Dirección, para que ésta pueda comunicar a su vez los hechos a las dependencias o particulares, cuyos bienes hayan sido afectados, para los efectos procedentes.
 
-En todo caso, el juez calificador al turnar el asunto al Ministerio Público, deberá solicitar que el vehículo del conductor señalado como responsable en el reporte del perito, quede en garantía de pago de los daños ocasionados a bienes municipales, a menos que el responsable otorgue en garantía, un depósito en efectivo ante la Recaudación de Rentas Municipal, por dos veces el valor estimado de los daños por el juez calificador, o que el pago se realice en el acto.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+
+En todo caso el juez calificador y/o el agente que tome conocimiento del caso al turnar al Ministerio Público, deberá solicitar que el vehículo del conductor señalado como responsable en el reporte de perito, quede en garantía de pago de los daños ocasionados a bienes municipales, a menos que el responsable otorgue garantía, un deposito en efectivo ante la Recaudación de Rentas Municipal, por dos veces el valor estimado de los daños por el juez calificador y/o el perito, o que el pago se realice en el acto.
 
 ###### ARTÍCULO 122.
 
@@ -1665,7 +1609,9 @@ I.- Tomar las medidas necesarias y solicitar apoyo de los elementos de la Direcc
 
 II.- En caso de que hubiere personas fallecidas, dará aviso inmediato al Ministerio Público que corresponda;
 
-III.- En caso de que hubiere lesionados, solicitará o prestará auxilio inmediato según las circunstancias e informará del caso al juez calificador;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+III.- En caso de que hubiere lesionados, solicitará o prestará auxilio inmediato según las circunstancias e informará del caso al juez calificador y/o al Ministerio Público;
 
 IV.- Abordará al conductor o conductores cortésmente, proporcionando su nombre, y les solicitará los documentos e información que requiera;
 
@@ -1679,7 +1625,9 @@ Cuando sea necesario deberá solicitar el auxilio de los servicios correspondien
 
 Los conductores de los vehículos implicados en un accidente tendrán la obligación de retirarlos de la superficie de rodamiento de la vía pública, una vez que la autoridad competente lo disponga, para evitar otros accidentes;
 
-VIII.- Detendrá vehículos y conductores cuando proceda, poniéndolos a disposición del juez calificador;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+VIII.- Detendrá vehículos y conductores cuando proceda, poniéndolos a disposición del juez calificador y/o Ministerio Público;
 
 En el caso de accidentes del que resulten sólo daños materiales, el agente dispondrá la forma de traslado, pudiendo hacerlo el propio conductor, dependiendo de su estado y de las condiciones del vehículo;
 
@@ -1697,7 +1645,9 @@ d.- Cuando así lo requiera una o ambas partes.
 
 e.- Cuando exista duda sobre las causas del accidente y,
 
-XI.- Una vez terminado el reporte, deberá ser supervisado por sus superiores y remitido al juez calificador.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+XI.- Una vez terminado el reporte, deberá ser supervisado por sus superiores y remitido al juez calificador y/o Ministerio Público.
 
 ###### ARTÍCULO 124.
 
@@ -1859,11 +1809,11 @@ I.- Cuando la Dirección implemente programas preventivos para la detección de 
 
 II.- Cuando los agentes coadyuven con el Ministerio Público, o con los órganos de seguridad pública o procuración de justicia, en la prevención, averiguación y esclarecimiento de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 138.
 
-Las sanciones se harán constar en boletas sobre formas impresas y foliadas, con el número de copias necesarias, que deberán ser en el idioma español e inglés, y deberán contener cuando menos los siguientes datos:
+Las sanciones se harán constar en boletas sobre formas impresas y foliadas, con el número de copias necesarias, que deberán ser en idioma español y deberán contener cuando menos los siguientes datos:
 
 I.- Nombre y domicilio del infractor, y en su caso del propietario del vehículo;
 
@@ -1899,39 +1849,83 @@ f.- Números telefónicos para aclaraciones o dudas.
 
 Los agentes o inspectores deberán impedir la circulación de un vehículo y ponerlo a disposición del juez calificador junto con su conductor, en los casos siguientes:
 
-I.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad, o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
+I.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad, y/o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, que impidan o perturben la adecuada conducción con la excepción que marca la fracción I del artículo 139 BIS.
 
-En estos casos, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente. Una vez efectuada, procederá como sigue:
+En este caso, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente y/o a las pruebas de rutina correspondientes a verificar si el estado que presenta permite la adecuada conducción de un vehículo de motor. Una vez efectuada, se procederá como sigue:
 
-a.- Entregará un ejemplar del comprobante del resultado de la prueba al conductor, inmediato a su realización;
+a).- Si de las pruebas resulte que no existen síntomas claros de que el conductor se encuentre en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, solo lo sancionara por otras infracciones que hubiere cometido.
 
-b.- En el caso de que el resultado del examen indique que el conductor tiene una cantidad de alcohol en el aire exhalado superior a 0.4 miligramos por litro, lo pondrá a disposición del juez calificador. En caso de que resulte con una cantidad de alcohol inferior, sólo lo sancionará por otras infracciones que hubiere cometido; y,
+b).- Si de las pruebas realizadas, resultare que existen síntomas claros de que el conductor se encuentre en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias toxicas, lo presentara ante el Juez calificador en turno quien si estima pertinente autorizara se le realice certificado médico correspondiente.
 
-c.- Si efectúa el turno del conductor al juez calificador, entregará a este último un ejemplar del comprobante del resultado de la prueba, mismo que servirá de referencia para el certificado de esencia psicofísiológico que se le practicará.
+c).- A la realización del certificado médico, si este resultare normal o con aliento alcohólico, el Juez Calificador le entregara un ejemplar del comprobante del resultado de la prueba al conductor, inmediato a su realización, y solo lo sancionara por otras infracciones que hubiera cometido;
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+d).- En el caso de que el resultado del examen indique que el conductor tiene una cantidad de alcohol en el aire exhalado superior a 0.08 miligramos por litro, y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, el Juez Calificador en turno ordenara su aseguramiento en los separos del juzgado.
 
-Para efectos de este Reglamento se considera que una persona se encuentra en estado de ebriedad o bajo el influjo de estupefacientes psicotrópicos u otras sustancias tóxicas, cuando esto se determine en el certificado de esencia psicofísiológico que se le practique;
+e).- El conductor deberá permanecer en los separos hasta que el médico diagnostique que se le ha pasado el estado inconveniente o bien que un familiar o persona conocida de éste, se haga responsable de su cuidado ante el Juez Calificador.
 
-II.- Cuando el conductor al circular, vaya ingiriendo bebidas alcohólicas;
+f).- El Juez Calificador apercibirá formalmente al conductor de que si incurre de nuevo en esta conducta dentro del plazo de dos años, será turnado a la Agencia del Ministerio Publico.
 
-III.- Cuando el conductor no exhiba licencia para conducir, ni tarjeta de circulación vigente, o las que exhiba, sean de otro Estado o país;
+g).- En el caso de que el conductor reincida en un plazo de dos años, el juez calificador turnara al conductor y remitirá copia certificada de las constancias que integren el registro en que formo el antecedente a la Agencia de Ministerio Publico.
 
-IV.- Cuando proceda en casos de accidente conforme al presente Reglamento;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-V.- Cuando sea requerido legalmente por autoridad competente, o exista denuncia respecto al robo del vehículo;
+II.- El juez independientemente de la sanción que corresponda por la infracción cometida, impondrá al infractor;
+
+a).- La obligación de asistir a por lo menos diez sesiones de cualquier grupo de alcohólicos anónimos de la localidad, por un periodo mínimo de dos semanas, apercibiéndole que para el caso de incumplimiento, se le impondrá un arresto de hasta 36 horas.
+
+b).- Además, deberá realizar 8 horas de trabajo comunitario como voluntario ante las diversas dependencias municipales, o en las actividades que realice la Dirección de Servicios Públicos Municipales, deberá realizarse en un plazo no mayor de treinta días naturales, debiendo regresar ante el juez calificador la constancia de cumplimiento de las actividades.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+III.- Cuando el conductor al circular, vaya ingiriendo bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+IV.- Cuando el conductor no exhiba licencia de conducir, ni tarjeta de circulación vigente, o las que exhiba, sean de otro Estado o país;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+V.- Cuando los acompañantes vayan ingiriendo bebidas embriagantes y/o sustancias toxicas consideradas como drogas;
 
 VI.- Cuando el vehículo circule sin ninguna placa de matrícula, o no exhiba el permiso correspondiente expedido por la autoridad competente;
 
 VII.- Cuando las placas del vehículo no coincidan con los datos impresos en la tarjeta de circulación o no correspondan al vehículo.
 
-En los casos que el vehículo deba retenerse como garantía de pago de infracciones, el juez calificador lo remitirá al depósito vehicular; y,
+En los casos que el vehículo deba retenerse como garantía de pago de infracciones, el juez calificador lo remitirá al depósito vehicular; y, (sic)
 
-VIII.- Cuando el vehículo esté relacionado con la comisión de algún delito por el que sea detenido el conductor.
+VIII.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
-En los casos de comisión de infracciones, que requieran que el conductor se presente junto con el vehículo, de no resultar inconveniente, se concederá a su propietario o conductor que se traslade en su vehículo, siendo escoltado por el agente o inspector.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+
+En los casos de comisión de infracciones, que requieran que el conductor se presente junto con el vehículo de no resultar inconveniente, se concederá a su propietario o conductor que se traslade en su vehículo, siendo escoltado por el agente o inspector, con la excepción de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2013)</small>
+
+ARTÍCULO 139 BIS.- Los agentes o inspectores deberán impedir la circulación de un vehículo y ponerlo a disposición del Ministerio Público junto con su conductor, en los casos siguientes:
+
+I.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad, y/o de estar bajo influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, siempre y cuando este, cause daños a terceros ya sea en las personas o en las cosas.
+
+El procedimiento será conforme al presente Reglamento, en el apartado de los accidentes de tránsito;
+
+II.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad y/o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, si el conductor es de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado.
+
+En esto caso, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente, y/o a las pruebas de rutina correspondientes a verificar el estado que permita la adecuada conducción de un vehículo de motor. Una vez efectuada, y procederá como sigue:
+
+a).- si de las pruebas resulte que no existen síntomas claros de que el conductor se encuentre en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, solo lo sancionara por otras infracciones que hubiere cometido.
+
+b).- Si de las pruebas realizadas, resultare que existen síntomas claros de que el conductor se encuentre en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias toxicas, se le trasladara a que se le realice certificado médico correspondiente.
+
+c).- A la realización del certificado médico, si este resultare normal o con aliento alcohólico, se le entregara un ejemplar del comprobante del resultado de la prueba al conductor, inmediato a su realización, y solo lo sancionara por otras infracciones que hubiera cometido.
+
+d).- En el caso de que el resultado del examen indique que el conductor tiene una cantidad de alcohol en el aire exhalado superior a 0.08 miligramos por litro, y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, lo pondrá a disposición del Ministerio Publico. En éste caso, se le deberá dar aviso al Juez Calificador en turno, para que formule el registro de antecedentes.
+
+III.- Cuando sea requerido legalmente por autoridad competente, o exista denuncia respecto al robo del vehículo;
+
+IV.- Cuando proceda en casos de accidente conforme al presente reglamento; y,
+
+V.- Cuando el vehículo esté relacionado con la comisión de algún delito por el que se haya detenido al conductor.
 
 ###### ARTÍCULO 140.
 
@@ -1983,41 +1977,51 @@ III.- Multa.
 
 En el caso de infracciones sancionadas hasta con multa de diez días de salario mínimo general vigente en el Municipio, podrá permutarse su pago con la asistencia a una sesión de educación vial que para el efecto programe la Dirección. Además deberá acreditar hasta cinco horas de trabajo comunitario como voluntario de seguridad vial escolar, en los términos de los artículos 28 y 29 del presente ordenamiento; o en las actividades que realice la Dirección de Servicios Públicos.
 
-(ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
 
-El beneficio citado anteriormente, no aplicará para las infracciones señaladas en los numerales 335, 423 y 425 de la Tabla de Sanciones Pecuniarias.
+El beneficio citado anteriormente, no aplicara para las infracciones Medias o Graves en la tabla de sanciones pecuniarias.
 
-(ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
 
-Para recibir el beneficio, el infractor deberá solicitarlo ante el Juez Calificador o en su caso el Delegado Municipal, quien le indicará el horario y lugar para asistir a la sesión de educación vial y según la gravedad de las infracciones, acordará la cantidad de horas de trabajo comunitario a cubrir, para que el infractor se presente ante la Dirección que corresponda según la actividad por la que opte, en un plazo no mayor de treinta días, deberá regresar con el Juez Calificador o en su caso con el Delegado Municipal, a presentar la constancia de cumplimiento de ambas actividades.
+Para recibir el beneficio, el infractor deberá solicitarlo ante el Juzgado Calificador, quien le indicara el horario y lugar para asistir a la sesión de Educación Vial y según la gravedad de las infracciones, acordara la cantidad de horas de trabajo comunitario a cubrir, para que el infractor se presente a la Dirección que corresponda según la actividad por la que opte, en un plazo no mayor de treinta días, deberá regresar con el Juez Calificador, a presentar la constancia de cumplimiento de ambas actividades.
 
 ###### ARTÍCULO 145.
 
 Las infracciones cometidas por peatones, ciclistas, conductores de vehículos de tracción animal o de propulsión humana, serán sancionadas con amonestación, consistiendo en una advertencia y un exhorto para que observen las disposiciones de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 146.
 
-Las infracciones previstas del numeral 343 al 359 B de la Tabla de Sanciones Pecuniarias del Artículo siguiente, se consideran infracciones objetivas, en virtud de que dependen de las condiciones del vehículo, al referirse a fallas mecánicas o carencias de equipo o accesorios.
+Las infracciones previstas en el numeral 41 en sus fracciones I a la IX de la Tabla de Sanciones Pecuniarias del Artículo siguiente, se consideran infracciones objetivas, en virtud de que dependen de las condiciones del vehículo, al referirse a fallas mecánicas o carencias de equipo o accesorios.
 
 En estos casos, se entenderá que el infractor es sancionado con un apercibimiento, por lo que tendrá la oportunidad de solventar la infracción y evitar el pago de la multa, para lo cual deberá reparar la falla mecánica o reponer la falta de accesorios, y comparecer con el vehículo ante el juez calificador en un plazo máximo de quince días naturales a partir del día en que se levante la infracción, quien la cancelará una vez que constate que la falla fue reparada, entregando un comprobante al infractor con el que podrá recoger el documento retenido como garantía sin cargo alguno.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
 
-En el caso del numeral 358 de la Tabla de Sanciones Pecuniarias del artículo siguiente, el plazo a que se refiere el párrafo anterior para hacer la reparación correspondiente, será de sesenta días.
+En el caso del numeral 54 de la Tabla de Sanciones Pecuniarias del Artículo siguiente, el plazo a que se refiere el párrafo anterior para hacer la reparación correspondiente, será de sesenta días.
 
 Si transcurrido el plazo, o habiéndose presentado ante el juez calificador sin comprobar que se reparó la falla, se deberá pagar la sanción impuesta.
 
 E (sic) apercibimiento no aplicará a los vehículos del servicio público de transporte, quienes de inmediato se harán acreedores al pago de la multa, sin perjuicio de la obligación de reparar la falla, y de lo dispuesto en el Reglamento Municipal del Transporte, respecto a equipo (sic) y accesorios, y condiciones mecánicas para circular.
 
-###### ARTÍCULO 147.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
 
-Al conductor o pasajero que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo a la falta cometida con el pago de multa correspondiente en días de salario mínimo general vigente en el Municipio, según se indica en la siguiente:
+###### ARTICULO 147.
+
+Al conductor o pasajero que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo a la falta cometida con el pago de multa correspondiente en días de salario mínimo general vigente en el Municipio, según se indica de la manera siguiente:
+
+Según el grado de la Infracción:
+
+a) Leve: Aquellas que se comprenden de 1 a 5 salarios.
+
+b) Media: Aquellas que se comprenden de 6 a 10 salarios.
+
+c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
 
 > <small>N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PÁGINA 57, P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42, P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34, P.O. 20 DE ABRIL DE 2012, PÁGINA 57.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74.</small>
 
 ###### ARTÍCULO 148.
 
@@ -2160,3 +2164,9 @@ SEGUNDO: SE INSTRUYE A LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL, A EFECTO D
 TERCERO.- SE INSTRUYE A LA DIRECCIÓN DE COMUNICACIÓN SOCIAL A EFECTO DE QUE LLEVE A CABO UNA CAMPAÑA DE CONCIENTIZACIÓN, PARA EFECTO DE PRESERVAR LA SEGURIDAD DE LOS JÓVENES QUE REPARTEN ALIMENTOS EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
 
 CUARTO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 11 DE ENERO DE 2013.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
