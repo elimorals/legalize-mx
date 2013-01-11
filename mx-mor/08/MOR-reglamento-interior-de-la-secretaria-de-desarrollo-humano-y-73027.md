@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-humano-y-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2012-09-26"
+last_updated: "2013-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -650,3 +652,15 @@ P.O. 26 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+P.O. 11 DE ENERO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Humano y Social, publicado en el Periódico Oficial "Tierra y Libertad", número 4778, el diez de febrero del año dos mil diez.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente ordenamiento jurídico.
+
+CUARTA. Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban de pasar de una unidad o área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se haya atribuido la competencia correspondiente o afín, y seguirán substanciándose conforme a la normatividad que les dio origen.
+
+QUINTA. En tanto se expiden los Manuales de Organización, de Políticas y Procedimientos, de Servicios al Público y demás disposiciones administrativas, la o el titular de la Secretaría de Desarrollo Social resolverá las cuestiones de procedimiento y operación que se originen por la aplicación del presente Reglamento.
