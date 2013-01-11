@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-12-28"
+last_updated: "2013-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -521,13 +521,13 @@ III.- La detección temprana de la sordera y su tratamiento, en todos sus grados
 
 IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-V.- La promoción de la integración y del bienestar familiar; y
+V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionará atención pre-hospitalaria o de urgencia según sea el caso, y
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE ENERO DE 2013)</small>
 
-VI.- La atención del preescolar y escolar en los centros educativos.
+VI.- La realización del tamiz neonatal ampliado.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
@@ -643,9 +643,15 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas que c
 
 II.- La difusión de las orientaciones para la promoción de la salud mental preferentemente al núcleo familiar;
 
-III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+
+IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción; y
+
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTÍCULO 31.
 
@@ -2630,3 +2636,23 @@ P.O. 28 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2013.
+
+DECRETO No. 393 POR EL QUE SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE PARA PASAR A SER FRACCIÓN V DEL ARTÍCULO 30 DE LA LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE ENERO DE 2013.
+
+DECRETO No. 396 POR EL QUE SE APRUEBA LA REFORMA DE LA FRACCIÓN V, Y LA ADICIÓN DE LA FRACCIÓN VI AL ARTÍCULO 22 DE LA LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: La presente reforma entrará en vigor el primero de enero de 2013.
+
+SEGUNDO: A partir del ejercicio fiscal de 2013, se programarán los recursos necesarios en los presupuestos de egresos correspondientes a fin de garantizar el debido cumplimiento de la presente reforma.
