@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2012-06-22"
+last_updated: "2013-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -127,7 +127,13 @@ XIV.- La colaboración y auxilio a las autoridades laborales competentes, en la 
 
 XV.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de dieciocho años de edad a la satisfacción de sus necesidades y a la salud física y mental;
 
-XVI.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+XVI.- EI establecimiento de actividades educativas, culturales y deportivas, cuyo objeto sea el de generar e inculcar en el niño y joven de escasos recursos, las herramientas necesarias para prevenir las conductas antisociales así como para brindarles oportunidades de participar en actividades que fomentan la sana competitividad y el desarrollo personal del individuo;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+
+XVII.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -1384,3 +1390,7 @@ SEGUNDO.- El Ejecutivo Estatal deberá adecuar la reglamentación interna en té
 P.O. 22 DE JUNIO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación (sic) el periódico Oficial del Estado de Baja California.
