@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-administracion-publica-municipal-75134
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "1998-10-23"
+last_updated: "2013-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON
 
-REGLAMENTO INTERNO DE LA ADMINISTRACION PUBLICA MUNICIPAL
+REGLAMENTO INTERNO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de octubre de 1998.
 
@@ -670,3 +672,23 @@ DR. JOSE JUAN CANTU GARCIA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. ARTURO GARZA RIOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Se aprueba y autoriza la abrogación del Reglamento Interno de la Administración Pública Municipal del Municipio de Cadereyta Jiménez, Nuevo León publicado en el Periódico Oficial del Estado de fecha 23-veintitrés de octubre del (sic) 1998, junto con sus reformas y adiciones.
+
+###### ARTÍCULO SEGUNDO.
+
+Se aprueba y expide él Reglamento Orgánico de la Administración Pública del Municipio de Cadereyta Jiménez, Nuevo León.
+
+###### ARTÍCULO TERCERO.
+
+El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO CUARTO.
+
+Envíese el presente reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Gaceta y en la Página de Internet del Municipio de Cadereyta Jiménez, Nuevo León www. cadereyta.gob.mx.
