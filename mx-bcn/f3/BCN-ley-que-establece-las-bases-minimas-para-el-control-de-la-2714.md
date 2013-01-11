@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-establece-las-bases-minimas-para-el-control-de-la-2714"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-24"
-last_updated: "2012-09-21"
+last_updated: "2013-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE ESTABLECE LAS BASES MÍNIMAS PARA EL CONTROL DE LA EXPLOTACIÓN DE APARATOS MECÁNICOS, ELECTRÓNICOS, ELECTROMECÁNICOS Y MUSICALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de diciembre de 1993.
 
@@ -44,6 +44,14 @@ Esta Ley tiene por objeto controlar la explotación de aparatos Mecánicos, Elec
 ###### ARTICULO 2.
 
 Para la explotación de los aparatos indicados en el artículo anterior, se requiere permiso previo del Presidente Municipal, mismo que deberá revalidarse anualmente mediante el pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2013)</small>
+
+Queda prohibido otorgar permiso o autorización para la explotación de máquinas tragamonedas en cualquiera de sus modalidades, cuyos artefactos, dispositivos electrónicos o electromecánicos, digital, interactivo o de cualquier tecnología similar que mediante la inserción de un billete, moneda, tarjeta, banda magnética, ficha, dispositivo electrónico de pago u objeto similar, o por el pago de alguna contraprestación, esté disponible para operarse y como resultado de dicha operación, ofrezca al usuario mediante el azar o la combinación de azar y destreza la entrega inmediata o posterior de premios en efectivo o especie.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2013)</small>
+
+Las autoridades Estatales y Municipales darán aviso de inmediato a las autoridades federales competentes respecto a la instalación de máquinas tragamonedas para su debida intervención y sanción, así mismo, coadyuvarán en todo lo necesario para el retiro de las mismas; las autoridades de Salud Pública del Estado darán asistencia de manera expedita en caso de que se detecte a menores de edad con problemas de salud mental a causa de ludopatía.
 
 ###### ARTICULO 3.
 
@@ -232,3 +240,9 @@ P.O. 21 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A partir del día siguiente de su publicación, los Ayuntamientos del Estado contarán con sesenta días para la adecuación del Reglamento Municipal respectivo, así como para la creación del Registro Municipal de Videojuegos, que dependerá de la Secretaría de Gobierno de los Ayuntamientos en el Estado.
+
+P.O. 11 DE ENERO DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir del día siguiente de su publicación, los Ayuntamientos del Estado contarán con sesenta días para la adecuación del Reglamento Municipal respectivo.
