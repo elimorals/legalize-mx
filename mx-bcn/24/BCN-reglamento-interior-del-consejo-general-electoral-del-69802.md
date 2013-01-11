@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-general-electoral-del-69802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-07"
-last_updated: "2010-01-22"
+last_updated: "2013-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO GENERAL ELECTORAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de agosto de 2009.
 
@@ -721,7 +721,9 @@ III.- Conocer y dictaminar las solicitudes de registro de convenios de Coalició
 
 IV.- Conocer y dictaminar las quejas y denuncias que formulen los quejosos o denunciantes, en los términos del artículo 473 de la Ley;
 
-V.- Conocer y dictaminar la asignación de Diputaciones y Regidurías por el Principio de Representación Proporcional, en los términos de la Ley y el presente Reglamento;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+V.- Conocer y dictaminar la asignación de Diputados, Síndicos Sociales, y Regidores por el Principio de Representación Proporcional, en los términos de la Ley y el presente Reglamento;
 
 VI.- Realizar gestiones ante el Instituto Federal Electoral, para el ejercicio de las prerrogativas de los Partidos Políticos en radio y televisión;
 
@@ -1465,9 +1467,11 @@ III.- La Comisión del Régimen de Partidos Políticos examinará la documentaci
 
 IV.- El Pleno del Consejo General a más tardar el día treinta de septiembre del año de la elección, resolverá la procedencia del dictamen planteado y en su caso, realizará las asignaciones de Diputados bajo este principio, expidiendo las constancias respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 156.
 
-Corresponde al Consejo General asignar los Regidores por el Principio de Representación Proporcional que integrarán los Ayuntamientos, en los términos previstos por los artículos 79 de la Constitución Local, 34 y 35 de la Ley; asimismo, se observará el procedimiento siguiente:
+Corresponde al Consejo General Electoral asignar los Síndicos Sociales y Regidores por el Principio de Representación Proporcional que integrarán los Ayuntamientos, en los términos previstos por los artículos 79 de la Constitución Local, 34 y 35 de la Ley; asimismo, se observará el procedimiento siguiente:
 
 I.- El Director General, dentro de los cinco días siguientes al que causen estado los resultados de las elecciones para Munícipes, presentará al Consejero Presidente, la documentación que contenga las actas de cómputo emitidas por el Consejo General y, en su caso, las resoluciones de los Tribunales Electorales, que se hayan derivado de los medios de impugnación previstos por la Ley;
 
@@ -1475,7 +1479,9 @@ II.- El Consejero Presidente, sin mayor trámite, la turnará a la Comisión del
 
 III.- La Comisión del Régimen de Partidos Políticos examinará la documentación recabada y emitirá el dictamen correspondiente, remitiéndolo al Consejo General para su discusión, análisis y resolución, y
 
-IV.- El Pleno a más tardar el día treinta de noviembre del año de la elección, resolverá la procedencia del dictamen planteado y en su caso, realizará las asignaciones de Regidores bajo este principio, expidiendo las constancias respectivas.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+
+IV.- El Pleno a más tardar el día treinta de noviembre del año de la elección, resolverá la procedencia del dictamen planteado y en su caso, realizará las asignaciones de Síndicos Sociales y Regidores bajo este principio, expidiendo las constancias respectivas.
 
 ## TRANSITORIOS
 
@@ -1512,3 +1518,7 @@ SECRETARIO FEDATARIO
 P.O. 22 DE ENERO DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+P.O. 11 DE ENERO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
