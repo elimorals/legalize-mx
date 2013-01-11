@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2011-01-21"
+last_updated: "2013-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE QUERETARO
 
-LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE QUERETARO
+LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -51,11 +51,11 @@ El Estado de Querétaro, tiene una composición pluricultural sustentada origina
 
 Los indígenas procedentes de otro Estado de la República que transiten o residan temporal o permanentemente dentro del territorio del Estado de Querétaro, podrán acogerse, en lo conducente, a los beneficios de ésta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
 
 ###### Artículo 3.
 
-Esta Ley reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como a las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Peñamiller y Tolimán.
+Esta Ley reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como a las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Peñamiller, San Joaquín y Tolimán.
 
 Para los efectos de ésta Ley y para todos los niveles de gobierno, los pueblos y comunidades indígenas, se encuentran distribuidos en el Estado de forma siguiente:
 
@@ -63,13 +63,13 @@ Para los efectos de ésta Ley y para todos los niveles de gobierno, los pueblos 
 
 I. Amealco de Bonfil: Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio de Sta. Teresa (Santiago Mexquititlán Barrio 6o.), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Santiago Mexquititlán Barrio 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dehedó, El Bothé, El Cacahuate (Santiago Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San Miguel Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Joya del Capulín, La Manzana, La Piní, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Las Salvas, Loma de las Víboras (Santiago Mexquititlán Barrio 6o.), Loma de los Blases, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Juan Dehedó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Santiago Mexquititlán Barrio 5°., Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerta del Chivato), Tierras Negras (Santiago Mexquititlán Barrio 6o.), Veinte de Noviembre, Xahay y Yosphí;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-II. Arroyo Seco: El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura y Tuna Manza;
+II. Arroyo Seco: Concá, El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura y Tuna Manza;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho Nuevo Sombrerete, Santo Domingo, Sombrerete, Taxidhó, Xidhí y Xodhé;
+III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho Nuevo Sombrerete, Santo Domingo, Taxidhó, Xidhí y Xodhé;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
@@ -89,11 +89,15 @@ VII. Jalpan de Serra: Carrizal de los Durán, Carrizalito, El Cañón, El Pocito
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-VIII. Peñamiller: Agua Caliente, Agua de Pedro, Cruz del Milagro, Cuesta Colorada, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, Las Mesas, Mesa del Troje, Milpillas, Peña Blanca y San Miguel Palmas (Misión de Palmas); y
+VIII. Peñamiller: Agua Caliente, Agua de Pedro, Cruz del Milagro, Cuesta Colorada, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, Las Mesas, Mesa del Troje, Milpillas, Peña Blanca y San Miguel Palmas (Misión de Palmas); y (sic)
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+
+IX. San Joaquín: El Deconí, Puerto de la Garita y Santa Mónica las Tinajas; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
 
-IX. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Barrio La Loma, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Shaminal, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Lomas de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote).
+X. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Barrio La Loma, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Shaminal, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Lomas de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote).
 
 Esta relación de pueblos y comunidades indígenas, es enunciativa, más no limitativa, toda vez, que para el caso de que se pudiera crear un nuevo asentamiento indígena, bastará su solicitud y la sujeción al procedimiento de auto adscripción o auto reconocimiento, la composición lingüística y demográfica, la geografía territorial de la comunidad, incluyendo, en su caso, la pertenencia de varias unidades interiores; localidades, barrios y secciones, entre otros; la estructura y mecánica de la autoridad comunitaria, la costumbre jurídica, el calendario festivo y ritual anual. Dicha solicitud se tramitará ante la autoridad de la materia, de cualquier nivel de gobierno, para su asesoría e inclusión en ésta relación.
 
@@ -515,10 +519,16 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE ENERO DE 2011.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 11 DE ENERO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al contenido de esta Ley.
