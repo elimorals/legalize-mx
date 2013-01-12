@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-transporte-publico-del-estado-de-87645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-19"
-last_updated: "2012-04-19"
+last_updated: "2013-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1145,9 +1145,11 @@ VIII. Las resoluciones que dicte la Secretaría en materia de indemnización a u
 
 Las tarifas determinadas y ajustadas conforme las disposiciones de la Ley y del presente Reglamento, serán aplicables a las modalidades de transporte público de pasajeros a que se refieren las fracciones I, II, III y IV del artículo 21 de la propia Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 78.
 
-Para la determinación de tarifas del servicio público de pasajeros, la Secretaría, el Consejo, los consejos municipales, y los concesionarios y permisionarios, se estarán a lo siguiente:
+Para la determinación de tarifas del servicio público de pasajeros, El Congreso del Estado, la Secretaría, el Consejo, los Consejos Municipales, y los concesionarios y permisionarios, se estarán a lo siguiente:
 
 I. Los concesionarios, solicitarán la expedición de nuevas tarifas ante el Consejo Estatal o el consejo municipal que corresponda, por escrito que deberá indicar, cuando menos:
 
@@ -1169,25 +1171,35 @@ III. A partir de la recepción de la solicitud, el Consejo o el Consejo Municipa
 
 IV. Una vez elaborado el estudio técnico, se dará vista de con él a los solicitantes, directamente o a través de su representante común, otorgándoles un plazo de 15 días hábiles para que presenten las observaciones que en su caso tuvieren;
 
-V. Concluido el plazo anterior, con observaciones o sin ellas, el Consejo, el Consejo Municipal o la Secretaría, deberá elaborar con base en el estudio técnico la propuesta de tarifas y remitirlas al titular del Ejecutivo para su autorización y publicación en el Periódico Oficial del Estado, y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-VI. Previa a la autorización de la propuesta tarifaria respectiva, el titular del Ejecutivo podrá solicitar al Consejo, a los consejos municipales y a los concesionarios o permisionarios los informes o documentos que estime necesarios para verificar el contenido de la misma y del estudio técnico en que se apoye.
+V. Concluido el plazo anterior, con observaciones o sin ellas, el Consejo, el Consejo Municipal que corresponda o la Secretaría, deberá elaborar con base en el estudio técnico la propuesta de nuevas tarifas y remitirlas al Congreso del Estado para su autorización; una vez autorizadas serán enviadas al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, y
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
+
+VI. Previa a la autorización de la propuesta tarifaria respectiva, el Congreso del Estado podrá solicitar al Consejo, a los Consejos Municipales y a los concesionarios o permisionarios los informes o documentos que estime necesarios para verificar el contenido de la misma y del estudio técnico en que se apoye.
 
 ###### ARTICULO 79.
 
 Las tarifas del servicio público de pasajeros previamente autorizadas se ajustarán cada año, para lo cual el Consejo que corresponda recabará, durante la segunda quincena del mes de enero, la información relativa a la variación de los indicadores económicos a que se refiere el primer párrafo del artículo 94 de la Ley, desde la fecha de expedición de las tarifas o del último ajuste que en su caso se hubiera efectuado, hasta el día 31 de diciembre del año anterior.
 
-El promedio aritmético de la variación de los indicadores por el período que se menciona en el párrafo que antecede, constituirá el ajuste a las tarifas, mismo que, a través de la Secretaría, se remitirá al titular del Ejecutivo para su autorización y publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
+
+El promedio aritmético de la variación de los indicadores por el período que se menciona en el párrafo que antecede, constituirá el ajuste a las tarifas, mismo que, a través de la Secretaría, se remitirá al Congreso del Estado para su autorización, hecho lo anterior se remitirá al Ejecutivo del Estado para efectos de su publicación en el Periódico Oficial del Estado.
 
 El ajuste será aplicable a partir del segundo sábado del mes de febrero del año de su publicación.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 80.
 
-Sin perjuicio de lo preceptuado en el artículo anterior, el titular del Ejecutivo del Estado tiene la atribución de proponer en cualquier tiempo nuevas tarifas en función del costo total de la prestación de los servicios de transporte público de pasajeros en una o en todas sus modalidades, para cuyo efecto iniciará ante el consejo respectivo el procedimiento que se establece en el artículo 78 de este Reglamento.
+Sin perjuicio de lo preceptuado en el artículo anterior, el Congreso del Estado, tiene la atribución de proponer en cualquier tiempo nuevas tarifas en función del costo total de la prestación de los servicios de transporte público de pasajeros en una o en todas sus modalidades, para cuyo efecto iniciará ante el consejo respectivo el procedimiento que se establece en el artículo 78 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 81.
 
-En los procesos de expedición y ajuste de tarifas para transporte colectivo urbano, la Secretaría deberá incluir y mantener tarifas especiales que beneficien a los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
+En los procesos de expedición y ajuste de tarifas para transporte colectivo urbano, el Congreso del Estado deberá incluir y mantener tarifas especiales que beneficien a los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
 
 ### CAPITULO X. DE LOS SERVICIOS AUXILIARES
 
@@ -2022,3 +2034,9 @@ Se concede a los concesionarios respectivos, el término de 30 días para dar cu
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ENERO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
