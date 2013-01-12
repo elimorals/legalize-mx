@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2012-12-08"
+last_updated: "2013-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -203,7 +203,9 @@ III.- Solicitar a la autoridad jurisdiccional que corresponde, en sus respectivo
 
 IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas;
 
-V.- Ordenar y llevar a cabo, en los términos procedentes, las medidas de aseguramiento provisional de bienes, con los cuales pueda hacerse efectiva la reparación del daño;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
+
+V.- Ordenar y llevar a cabo, en los términos procedentes, las medidas de aseguramiento provisional de bienes, pudiendo levantar dicho aseguramiento, mediante petición del interesado de que se sustituya tal aseguramiento provisional del bien respectivo, por garantía otorgada en cualquiera de las formas autorizadas por este Código, a efectos de garantizar la reparación del daño.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2012)</small>
 
@@ -309,7 +311,9 @@ I.- Desde el instante en que quede a disposición del juez a solicitud, le será
 
 II.- Igualmente, desde ese momento, y en caso de no haberlo hecho antes, podrá designar defensor;
 
-III.- Inmediatamente que lo solicite y cuando proceda, de acuerdo a la fracción I del artículo 20 de la Constitución General de la República, éste Código y su Ley sustantiva y demás leyes aplicables; será puesto en libertad provisional bajo caución;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
+
+III.- Inmediatamente que lo solicite y cuando proceda, de acuerdo a la fracción I del artículo 20 de la Constitución General de la República, éste Código y demás leyes aplicables; será puesto en libertad provisional bajo caución o administrativa en cualquiera de las formas autorizadas por este Código.
 
 IV.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
@@ -1113,9 +1117,13 @@ I.- Que no se trate de los delitos graves previstos en el artículo 10 del Códi
 
 II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
-III.- Que garantice suficientemente y mediante depósito en efectivo, el pago de la reparación del daño; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-IV.- Que otorgue ante el Ministerio Público garantía, mediante depósito en efectivo de no sustraerse a la acción de la justicia.
+III.- Que garantice suficientemente y mediante garantía otorgada en cualquiera de las formas autorizadas por este Código, el pago de la reparación del daño; y
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
+
+IV.- Que otorgue ante el Ministerio Público garantía, en cualquiera de las formas autorizadas por este Código de no sustraerse a la acción de la justicia.
 
 ###### ARTICULO 131.
 
@@ -3686,3 +3694,7 @@ P.O. 8 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 12 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
