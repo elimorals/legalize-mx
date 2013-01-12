@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2012-06-30"
+last_updated: "2013-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -149,9 +149,9 @@ I. Los peritos en vialidad:
 
 II. El personal del Servicio Médico Oficial, autorizado por la Dirección, en materia de Vialidad;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-III. La Secretaría de Finanzas y Administración;
+III. La Secretaría de Hacienda;
 
 IV. Las Tesorerías Municipales de aquellos municipios que presten el servicio de Tránsito;
 
@@ -371,9 +371,9 @@ V. Brindar los primeros auxilios y atención médica a los conductores remitidos
 
 Compete a la Secretaría de Hacienda:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-I. Expedir y entregar a los propietarios o legítimos poseedores de vehículos, las placas metálicas, tarjeta de circulación y demás signos de identificación que, por la naturaleza de los vehículos y condiciones de prestación de los servicios, se requieren, una vez que hayan cumplido con los requisitos que para tal efecto establecen las disposiciones aplicables;
+I. Expedir y entregar a los propietarios o legítimos poseedores de vehículos, las placas metálicas, tarjeta de circulación, Constancia del Registro Público Vehicular y demás signos de identificación que, por la naturaleza de los vehículos y condiciones de prestación de los servicios, se requieren una vez que hayan cumplido con los requisitos que para tal efecto establecen las disposiciones aplicables.
 
 II. Mantener actualizado el padrón vehicular estatal en coordinación con la Dirección de Tránsito y / o Vialidad; y
 
@@ -469,17 +469,17 @@ Los vehículos de servicio público de transporte son aquellos que operan sujeto
 
 Son vehículos de paso preferencial o emergencia, aquellos que cumplen funciones de seguridad y asistencia social, por lo que deberán de estar plenamente identificados como tales, además de contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 32.
 
-Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse ante la Secretaría de Finanzas y Administración.
+Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse ante la Secretaría de Hacienda, y contar con la Constancia del Registro Público Vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 33.
 
-Todo vehículo que transite por vías públicas deberá contar con las placas, tarjeta de circulación, así como la póliza de seguro vigente, las cuales acreditarán su registro en el Padrón Vehicular Estatal, previo cumplimiento de los siguientes requisitos:
+Todo vehículo que transite por vías públicas deberá contar con las placas, tarjeta de circulación, Constancia del Registro Público Vehicular, así como la póliza de seguro vigente, las cuales acreditarán su registro en el Padrón Vehicular Estatal, previo cumplimiento de los siguientes requisitos:
 
 I. Exhibir el documento que acredite la propiedad o posesión legítima del vehículo;
 
@@ -499,7 +499,9 @@ VI. Las demás que disponga esta Ley y sus reglamentos.
 
 Las placas y tarjeta de circulación son intransferibles.
 
-En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Finanzas y Administración, con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el artículo 33 de esta Ley, obtener las placas y tarjeta de circulación correspondientes y efectuar el registro respectivo.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
+
+En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Hacienda, con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el artículo 33 de esta Ley, obtener las placas y tarjeta de circulación correspondientes y efectuar el registro respectivo.
 
 ###### Artículo 35.
 
@@ -585,13 +587,11 @@ Los vehículos podrán circular sin placas únicamente cuando la autoridad compe
 
 El otorgamiento del permiso provisional a que se refiere el párrafo anterior, no será procedente en el caso de los vehículos nuevos de uso particular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 44.
 
-La Secretaría de Finanzas y Administración expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley y reglamento correspondiente.
-
-Estas se clasifican en:
+La Secretaría de Hacienda expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley y reglamento correspondiente. Estas se clasifican en:
 
 I. Servicio particular;
 
@@ -617,11 +617,11 @@ Las placas de demostración se proporcionarán exclusivamente a las personas fí
 
 La persona a la que le hayan sido proporcionados juegos de placas de demostración deberá de llevar un registro de los vehículos sobre los que se han portado y será responsable del uso que de las mismas se hagan.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 47.
 
-El extravío o robo de una o ambas placas de circulación de cualquier tipo, deberá notificarse a la Secretaría de Finanzas y Administración en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente, con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
+El extravío o robo de una o ambas placas de circulación de cualquier tipo, deberá notificarse a la Secretaría de Hacienda en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente, con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
 
 ### CAPÍTULO PRIMERO. DE LOS CONDUCTORES Y PASAJEROS
 
@@ -813,7 +813,9 @@ Son causas de suspensión de la licencia de conducir hasta por dos años:
 
 I. Por dos o más violaciones a la presente Ley o sus reglamentos en un año, si el titular fuese menor de edad;
 
-II. Por acumular dos infracciones, de las consideradas graves, a esta Ley o sus reglamentos en el término de un mes.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
+
+II. Por acumular dos infracciones, de las consideradas graves, a esta Ley o sus reglamentos, en el término de tres meses, cuando deriven de hechos distintos.
 
 III. Cuando exista negativa a reparar, reponer o corregir anomalías detectadas en la inspección de las condiciones mecánicas, físicas o eléctricas del vehículo;
 
@@ -831,9 +833,11 @@ Son causas de cancelación de licencias de conducir:
 
 I. Cuando se compruebe que su titular ha dejado de tener la aptitud física o mental necesaria para conducir los vehículos de motor de la categoría por la cual se le haya otorgado la licencia;
 
-II. Cuando el titular de la misma cometa tres infracciones de las consideradas graves en el término de un mes, o cuatro en el término de un año;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-III. Cuando se haya suspendido la licencia dos veces en un periodo de dos años o tres veces en cinco años;
+II. Cuando el titular de la misma cometa cuatro infracciones de las consideradas graves, en el término de un año, cuando deriven de hechos distintos;
+
+III. (DEROGADA, P.O. 12 DE ENERO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -853,7 +857,9 @@ V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En
 
 VI. En el caso de los menores de edad, si éstos conducen un vehículo diverso para el que están autorizados, o si no portan en el mismo el holograma de identificación previsto en esta Ley.
 
-La suspensión y la cancelación de las licencias se sujetarán al procedimiento establecido por el reglamento de la materia.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
+
+La suspensión y la cancelación de las licencias a que se refieren el presente artículo y el que le precede, se sujetarán al procedimiento establecido por el reglamento de la materia. El incumplimiento del mandato de autoridad será considerado desobediencia y resistencia de particulares y se dará vista al Ministerio Público de la probable comisión de un delito.
 
 ###### Artículo 60.
 
@@ -1095,11 +1101,21 @@ V. Arresto hasta por treinta y seis horas;
 
 VI. Retención del vehículo automotor, en los términos del artículo 101 de la presente Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2010)</small>
+VII. Asistencia a institución pública, social o privada, dedicada a la prevención y tratamiento de adicciones para su deshabituación.
 
-VII. Asistencia obligatoria a sesiones de Alcohólicos Anónimos.
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2013)</small>
+
+VIII. Trabajo a favor de la comunidad.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2013)</small>
+
+IX. Asistencia a cursos de sensibilización y prevención de accidentes.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2013)</small>
+
+X. Retención de la licencia de conducir en los términos del artículo 90 Bis.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1115,13 +1131,11 @@ C) Que se haya perturbado la normalidad en la circulación de los vehículos; y
 
 D) Los antecedentes de tránsito en los últimos doce meses del conductor en la comisión de infracciones de la misma naturaleza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 90 Bis.
 
-En el caso de detención de conductores que se encuentren bajo los efectos de la ingesta de alcohol, la sanción consistirá en la suspensión de la licencia y en la canalización para la asistencia obligatoria a un mínimo de diez sesiones de Alcohólicos Anónimos, en un periodo de treinta días, a criterio del Oficial Calificador, tomando en cuenta el grado de intoxicación alcohólica y, en caso de reincidencia, a veinte sesiones, en un periodo de sesenta días.
+Además de las sanciones que les correspondan, en el caso de detención de conductores que se encuentren bajo los efectos de la ingesta de alcohol o intoxicación por drogas, enervantes, psicotrópicos u otras sustancias igualmente tóxicas, la sanción consistirá en la retención temporal de la licencia y en la canalización para la asistencia obligatoria a un mínimo de diez sesiones a instituciones públicas, sociales o privadas mencionadas en el artículo anterior, en un periodo de treinta días, a criterio del Oficial Calificador, tomando en cuenta el grado de intoxicación alcohólica o el certificado médico y, en caso de reincidencia, a veinte sesiones, en un periodo de sesenta días.
 
 En todos los casos, la licencia para conducir quedará suspendida en tanto no se cumpla la sanción, mediante documento por escrito que acredite la asistencia a las sesiones.
 
@@ -1137,6 +1151,10 @@ C) El darse a la fuga. Se entiende por ésta, al hecho de que el conductor que, 
 
 D) Estacionarse en las zonas reservadas para personas con discapacidad, cuando en el vehículo no se transporte a persona con discapacidad neuromotriz permanente o invidentes y que aun contando con la autorización correspondiente, haga mal uso de ella; o frente a rampas especiales de acceso a las banquetas diseñadas especialmente para personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2013)</small>
+
+E) Agredir físicamente a comandantes, oficiales o demás personal de las corporaciones de vialidad y tránsito.
+
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones mencionadas en el artículo 90.
 
 En el caso de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
@@ -1149,11 +1167,13 @@ En el caso de que el infractor no pagare la multa que se le hubiese impuesto, se
 
 Tratándose de menores infractores no emancipados, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, mismos que deberán acompañar al infractor a dicho tratamiento o curso y tendrán a su cargo las responsabilidades patrimoniales correspondientes. La autoridad de tránsito establecerá la forma en que se deberá cumplir esta sanción.
 
-En estos casos se deberá comprometer al infractor a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. Para tales efectos, se dispondrá de un sistema de detección y registro que acredite la asistencia a las sesiones de Alcohólicos Anónimos, las cuales no podrán ser menos de diez en un periodo de treinta días, y de veinte en un periodo de sesenta días, en caso de reincidencia.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
+
+En estos casos se deberá comprometer al infractor a asistir al tratamiento o cursos de prevención y acreditar su cumplimiento ante la autoridad competente. Para tales efectos, se dispondrá de un sistema de detección y registro que acredite la asistencia a las sesiones, las cuales no podrán ser menos de diez en un periodo de treinta días, y de veinte en un periodo de sesenta días, en caso de reincidencia.
 
 ###### Artículo 92.
 
-El probable responsable de una infracción a la ley de Vialidad y Trasito, podrá acudir ante el oficial calificador, a fin de alegar lo que a su derecho corresponda. Se fijará el día y hora determinado para tal efecto, para ser escuchado por la autoridad calificadora quien procederá en la audiencia a:
+El probable responsable de una infracción a la ley de Vialidad y Transito, podrá acudir ante el oficial calificador, a fin de alegar lo que a su derecho corresponda. Se fijará el día y hora determinado para tal efecto, para ser escuchado por la autoridad calificadora quien procederá en la audiencia a:
 
 > <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2006)</small>
 
@@ -1580,3 +1600,9 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
