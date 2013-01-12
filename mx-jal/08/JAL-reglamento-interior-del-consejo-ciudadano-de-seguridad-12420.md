@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-consejo-ciudadano-de-seguridad-12420"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2013-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL
 
-REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL
+REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA, PREVENCIÓN Y REINSERCIÓN SOCIAL, PUBLICADO EN EL P.O. DE 12 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -442,3 +444,15 @@ EL C. SECRETARIO GENERAL DE GOBIERNO EL C. SECRETARIO DE SEGURIDAD PÚBLICA, PRE
 LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 
 DANIEL GUILLERMO ITUARTE REYNAUD
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ENERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en el artículo cuarto transitorio.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social.
+
+TERCERO. El personal administrativo que actualmente forma parte del Consejo pasará a formar parte de la nueva plantilla laboral.
+
+CUARTO. Las disposiciones del presente Reglamento en materia de integración del Consejo entrarán en vigor el 1° de enero de 2013.
