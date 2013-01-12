@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2012-12-01"
+last_updated: "2013-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2013.</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -2701,8 +2701,6 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
@@ -3459,8 +3457,6 @@ Primaria y Secundaria 0.330
 
 Servicios prestados por el Instituto para el Registro del Territorio del Estado de Colima.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
@@ -4103,7 +4099,9 @@ durante el período de vigencia del contrato, se pagará la tasa del 0.3%,
 
 sin que el mínimo sea inferior a. 6.000
 
-Ni el máximo superior a. 36.000
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2013)</small>
+
+Ni el máximo superior a. 136.000
 
 IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto
 
@@ -4387,9 +4385,13 @@ XX.- Por la inscripción del programa parcial o incorporación municipal,
 
 de un fraccionamiento:
 
-a).- Programa parcial o incorporación municipal sin protocolización 9.000
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2013)</small>
 
-b).- Programa parcial o incorporación municipal protocolizado 6.000
+a).- Programa parcial o incorporación municipal sin protocolización 19.500
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2013)</small>
+
+b).- Programa parcial o incorporación municipal protocolizado 9.000
 
 XXI.- Por la inscripción de cualquier otro documento distinto a los
 
