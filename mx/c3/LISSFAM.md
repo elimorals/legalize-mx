@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2012-06-05"
+last_updated: "2013-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -1172,7 +1172,9 @@ III. Por haber permanecido prófugos de la justicia militar, o bien por efectos 
 
 La suma asegurada se calculará conforme a las reglas siguientes:
 
-Su cuantía será equivalente a lo que resulte de multiplicar el haber y sobrehaber mensual mínimo vigente para las Fuerzas Armadas a que tengan derecho los militares conforme a la última jerarquía en que hayan aportado la prima por el factor que corresponda, según los años de servicios efectivos prestados al momento de producirse la baja del activo y alta en situación de retiro, de acuerdo con la tabla siguiente:
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 2013)</small>
+
+Su cuantía será equivalente a lo que resulte de la suma del haber y sobrehaber mensual mínimo vigente para las Fuerzas Armadas a que tengan derecho los militares conforme a la última jerarquía en que hayan aportado la prima, multiplicado por el factor que corresponda, según los años de servicios efectivos prestados al momento de producirse la baja del activo y alta en situación de retiro, de acuerdo con la tabla siguiente:
 
 Años de Servicios Factor (meses)
 
@@ -3013,3 +3015,7 @@ TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del pre
 D.O.F. 5 DE JUNIO DE 2012.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
