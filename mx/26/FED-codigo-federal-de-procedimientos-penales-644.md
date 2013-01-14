@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2012-06-14"
+last_updated: "2013-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2553,9 +2553,13 @@ XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los a
 
 XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96;
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
 
-XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter, y en los artículos 475 y 476;
+XV. De la Ley General de Salud:
+
+1) La alteración y la contaminación de bebidas alcohólicas, previstas en las fracciones II y III, párrafo segundo, del artículo 464 de la Ley General de Salud.
+
+2) Los previstos en las fracciones I, II y III del artículo 464 Ter, y en los artículos 475 y 476.
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -5704,3 +5708,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 14 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
