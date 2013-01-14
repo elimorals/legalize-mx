@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-90212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2012-11-22"
+last_updated: "2013-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90212&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-11-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES A LA SUBSECRETARÍA PARA LA PEQUEÑA Y MEDIANA EMPRESA, SE ENTENDERÁN HECHAS AL INSTITUTO NACIONAL DEL EMPRENDEDOR.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -49,7 +51,7 @@ II. Subsecretario de Industria y Comercio;
 
 III. Subsecretario de Comercio Exterior;
 
-IV. Subsecretario para la Pequeña y Mediana Empresa, y
+IV. (DEROGADA, D.O.F. 14 DE ENERO DE 2013)
 
 V. Oficial Mayor.
 
@@ -105,13 +107,13 @@ XXIV. Dirección General de Comercio Internacional de Servicios e Inversión;
 
 XXV. Dirección General de Reglas de Comercio Internacional;
 
-XXVI. Dirección General de Capacitación, Innovación y Fomento;
+XXVI. (DEROGADA, D.O.F. 14 DE ENERO DE 2013)
 
-XXVII. Dirección General de Acceso al Financiamiento;
+XXVII. (DEROGADA, D.O.F. 14 DE ENERO DE 2013)
 
-XXVIII. Dirección General de Desarrollo Empresarial y Oportunidades de Negocio;
+XXVIII. (DEROGADA, D.O.F. 14 DE ENERO DE 2013)
 
-XXIX. Dirección General de Acceso a Mercados;
+XXIX. (DEROGADA, D.O.F. 14 DE ENERO DE 2013)
 
 XXX. Dirección General de Programación, Organización y Presupuesto;
 
@@ -135,9 +137,17 @@ C. Los órganos administrativos desconcentrados siguientes:
 
 I. Comisión Federal de Competencia;
 
-II. Comisión Federal de Mejora Regulatoria, y
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
 
-III. Instituto Nacional de la Economía Social.
+II. Comisión Federal de Mejora Regulatoria;
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
+
+III. Instituto Nacional de la Economía Social, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 2013)</small>
+
+IV. Instituto Nacional del Emprendedor.
 
 La Secretaría cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto por el Capítulo VII de este Reglamento.
 
@@ -739,6 +749,10 @@ XXIII. Ejercer las facultades que en materia de valuación sean de competencia d
 
 XXIV. Autorizar, en términos de la Ley de Inversión Extranjera, el uso de denominaciones o razones sociales, así como autorizar el cambio de dicha denominación o razón social;
 
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 2013)</small>
+
+XXIV BIS. Operar, administrar técnicamente y promover el Sistema de Información Empresarial Mexicano, así como expedir las autorizaciones correspondientes a las cámaras empresariales;
+
 XXV. Administrar y controlar la base de datos, y la información relacionada con las autorizaciones de uso de denominaciones o razones sociales, avisos de uso y de liberación de denominaciones y razones sociales, cancelación de solicitudes de las denominaciones o razones sociales, así como proponer los criterios para determinar la improcedencia de una solicitud, y
 
 XXVI. Las demás que resulten necesarias para el desarrollo de sus atribuciones.
@@ -905,6 +919,10 @@ XIX. Solicitar a empresas, organismos, dependencias y entidades de la Administra
 
 XX. Emitir el visto bueno para que una zona sea considerada como estratégica de desarrollo, previa opinión de las unidades administrativas de la Secretaría competentes (sic) y otras dependencias y entidades de la Administración Pública Federal;
 
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 2013)</small>
+
+XX BIS. Coordinar los trabajos de la Comisión Mixta para la Promoción de las Exportaciones;
+
 XXI. Resolver las consultas y solicitudes que le sean formuladas por los ciudadanos, y otras autoridades, en materia de su competencia, así como requerir la información y documentación necesaria en el ámbito de sus funciones, y
 
 XXII. Las demás que en materia de comercio exterior sean competencia de la Secretaría.
@@ -1049,123 +1067,19 @@ La Secretaría contará con un Secretario General de la Sección Mexicana del Se
 
 ###### ARTÍCULO 38.
 
-Son atribuciones de la Dirección General de Capacitación, Innovación y Fomento:
-
-I. Diseñar y ejecutar programas, instrumentos y esquemas que propicien la creación de empresas y el desarrollo, fortalecimiento, modernización e incremento de la competitividad y productividad de las micro, pequeñas y medianas empresas;
-
-II. Diseñar y ejecutar programas, instrumentos y esquemas para el desarrollo de conocimientos, habilidades gerenciales y competencias de los recursos humanos de las micro, pequeñas y medianas empresas y las que fortalezcan su capacidad productiva, comercial y administrativa;
-
-III. Establecer y administrar programas y sistemas que permitan a los emprendedores y a las micro, pequeñas y medianas empresas el desarrollo de su productividad, competitividad, para generar y promover información económica, de producción y de propiedad intelectual, entre otros;
-
-IV. Establecer y administrar sistemas que permitan dar seguimiento y evaluar el impacto de los programas de apoyo a emprendedores y de los que fomenten y desarrollen una cultura empresarial, la innovación y desarrollo tecnológico y la modernización en las micro, pequeñas y medianas empresas;
-
-V. Establecer una red a nivel nacional de centros de atención empresarial, así como desarrollar el modelo de administración y operación de los mismos;
-
-VI. Consolidar los mecanismos que permitan vincular a emprendedores y las micro, pequeñas y medianas empresas con la oferta de programas, productos y servicios, a través de los centros de atención empresarial;
-
-VII. Diseñar, proponer e instrumentar estrategias dirigidas a promover la información empresarial que permita el impulso de un modelo de crecimiento económico de las micro, pequeñas y medianas empresas;
-
-VIII. Operar, administrar técnicamente y promover el Sistema de Información Empresarial Mexicano, así como expedir las autorizaciones correspondientes a las cámaras empresariales;
-
-IX. Coordinar el establecimiento de esquemas para promover la generación y uso de aplicaciones e innovaciones tecnológicas por las micro, pequeñas y medianas empresas;
-
-X. Establecer y promover la formación de promotores, asesores, instructores y consultores especializados en el fortalecimiento de micro, pequeñas y medianas empresas, emprendedores y en materia de innovación y desarrollo tecnológico de las mismas;
-
-XI. Establecer y promover mecanismos e instrumentos para fomentar una cultura de calidad en las micro, pequeñas y medianas empresas;
-
-XII. Establecer, promover, coordinar y apoyar el desarrollo de nuevas franquicias;
-
-XIII. Organizar y promover talleres, foros, ferias, congresos, seminarios, exposiciones y otros eventos de carácter nacional e internacional que se relacionen con las atribuciones previstas en este artículo;
-
-XIV. Evaluar los proyectos, programas, instrumentos y esquemas que se relacionen con las atribuciones previstas en este artículo y de conformidad con la normativa aplicable;
-
-XV. Dar seguimiento a los recursos, impactos y metas derivados de apoyos otorgados al amparo de los programas, instrumentos y esquemas que se relacionen con sus atribuciones, y
-
-XVI. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende el Secretario.
+(DEROGADO, D.O.F. 14 DE ENERO DE 2013)
 
 ###### ARTÍCULO 39.
 
-Son atribuciones de la Dirección General de Acceso al Financiamiento:
-
-I. Diseñar, ejecutar y coordinar acciones, programas, instrumentos, sistemas y esquemas para promover el acceso al financiamiento para emprendedores, las micro, pequeñas y medianas empresas y proyectos productivos;
-
-II. Promover esquemas de acceso al financiamiento para emprendedores y micro, pequeñas y medianas empresas con la banca múltiple y de desarrollo, las organizaciones auxiliares de crédito, e instituciones y organismos financieros nacionales e internacionales públicos o privados;
-
-III. Fomentar y apoyar la constitución y fortalecimiento de fondos de garantía, así como de otros programas, instrumentos y esquemas financieros que faciliten a las micro, pequeñas y medianas empresas, así como a los emprendedores el acceso al financiamiento;
-
-IV. Identificar y gestionar intercambio de información y cooperación internacional para la aplicación de las mejores prácticas en el acceso al financiamiento para los emprendedores y las micro, pequeñas y medianas empresas;
-
-V. Establecer programas para fortalecer, especializar y multiplicar la atención de los intermediarios financieros no bancarios, para que brinden mejores opciones de financiamiento a los emprendedores y las micro, pequeñas y medianas empresas;
-
-VI. Fomentar y apoyar la creación y operación de esquemas y productos financieros orientados a brindar el acceso al capital en sus diversas modalidades a proyectos de emprendedores y de micro, pequeñas y medianas empresas;
-
-VII. Establecer acciones, programas, instrumentos y esquemas para apoyar a las micro, pequeñas y medianas empresas afectadas por desastres naturales para reactivar su actividad económica;
-
-VIII. Establecer programas para la certificación y capacitación de consultores especializados en proyectos productivos;
-
-IX. Fomentar y apoyar el desarrollo de una cultura financiera en los emprendedores y las micro, pequeñas y medianas empresas, mediante esquemas de capacitación, asesoría especializada y la formación de especialistas en la materia;
-
-X. Coordinar, organizar y promover talleres, foros, ferias, congresos, seminarios, exposiciones y otros eventos de carácter nacional e internacional que se relacionen con las atribuciones previstas en este artículo;
-
-XI. Evaluar los proyectos, programas, instrumentos y esquemas que se relacionen con las atribuciones previstas en este artículo y de conformidad con la normativa aplicable;
-
-XII. Dar seguimiento a los recursos, impactos y metas derivados de apoyos otorgados al amparo de los programas, instrumentos y esquemas que se relacionen con sus atribuciones, y
-
-XIII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende el Secretario.
+(DEROGADO, D.O.F. 14 DE ENERO DE 2013)
 
 ###### ARTÍCULO 40.
 
-Son atribuciones de la Dirección General de Desarrollo Empresarial y Oportunidades de Negocio:
-
-I. Diseñar y ejecutar acciones, programas, instrumentos y esquemas para la aceleración de empresas y para la articulación productiva de las micro, pequeñas y medianas empresas con las grandes empresas;
-
-II. Diseñar, coordinar y promover la competitividad de los sectores productivos para fortalecer e integrar las cadenas industrial, comercial y de servicios de las micro, pequeñas y medianas empresas;
-
-III. Diseñar, coordinar y apoyar la formación, desarrollo y consolidación de agrupamientos empresariales, empresas integradoras, parques industriales, parques tecnológicos, entre otros;
-
-IV. Diseñar y coordinar mecanismos para la identificación de oportunidades de negocios en beneficio de las micro, pequeñas y medianas empresas;
-
-V. Diseñar y coordinar sistemas que permitan dar seguimiento y evaluar el impacto de los programas de apoyo que promuevan la integración de las cadenas productivas;
-
-VI. Organizar y promover talleres, foros, ferias, congresos, seminarios, exposiciones y otros eventos de carácter nacional e internacional que se relacionen con las atribuciones previstas en este artículo;
-
-VII. Elaborar, modificar y aplicar las reglas a que se sujetará la operación, funcionamiento y administración de los registros que tenga a su cargo derivado de las atribuciones establecidas en el presente artículo;
-
-VIII. Evaluar los proyectos, programas, instrumentos y esquemas que se relacionen con las atribuciones previstas en este artículo y de conformidad con la normativa aplicable;
-
-IX. Dar seguimiento a los recursos, impactos y metas derivados de apoyos otorgados al amparo de los programas, instrumentos y esquemas que se relacionen con sus atribuciones, y
-
-X. Las demás que se determinen, con arreglo a las disposiciones jurídicas aplicables, respecto de las atribuciones previstas en este artículo.
+(DEROGADO, D.O.F. 14 DE ENERO DE 2013)
 
 ###### ARTÍCULO 41.
 
-Son atribuciones de la Dirección General de Acceso a Mercados:
-
-I. Diseñar y coordinar las acciones, programas, directrices, instrumentos y esquemas para promover y fomentar el acceso de las micro, pequeñas y medianas empresas a los mercados interno y externo;
-
-II. Coordinar acciones en materia de oferta exportable con las instancias públicas competentes;
-
-III. Diseñar, coordinar y evaluar los mecanismos e instrumentos que incrementen la competitividad de la oferta de bienes y servicios, la consolidación de proyectos integrales de comercialización, la ampliación de nuevos segmentos de mercado y la atracción de nuevos clientes para las micro, pequeñas y medianas empresas;
-
-IV. Integrar y promover una red de consultores especializados para el apoyo a las micro, pequeñas y medianas empresas, vinculándolos en el desarrollo de proyectos que fortalezcan los procesos de comercialización;
-
-V. Concertar y coordinar acciones para inducir y fomentar la compra de productos y servicios nacionales competitivos a las micro, pequeñas y medianas empresas;
-
-VI. Diseñar y coordinar mecanismos de apoyo a las micro, pequeñas y medianas empresas para su integración a la cadena productiva como proveedores o distribuidores;
-
-VII. Gestionar y promover ante las instancias federales, estatales y municipales el establecimiento o ampliación de micro, pequeñas y medianas empresas;
-
-VIII. Establecer y operar sistemas de información que optimicen el aprovechamiento de las potencialidades de cada sector económico y región para el acceso a los mercados por las micro, pequeñas y medianas empresas;
-
-IX. Coordinar los trabajos de la Comisión Mixta para la Promoción de las Exportaciones;
-
-X. Organizar y promover talleres, foros, ferias, congresos, seminarios, exposiciones y otros eventos de carácter nacional e internacional que se relacionen con las atribuciones previstas en este artículo;
-
-XI. Evaluar los proyectos, programas, instrumentos y esquemas que se relacionen con las atribuciones previstas en este artículo y de conformidad con la normativa aplicable;
-
-XII. Dar seguimiento a los recursos, impactos y metas derivados de apoyos otorgados al amparo de los programas, instrumentos y esquemas que se relacionen con sus atribuciones, y
-
-XIII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende el Secretario.
+(DEROGADO, D.O.F. 14 DE ENERO DE 2013)
 
 ###### ARTÍCULO 42.
 
@@ -1433,9 +1347,11 @@ Las ausencias de los titulares del Órgano Interno de Control, de las áreas de 
 
 ### CAPÍTULO VIII. De la suplencia de los servidores públicos de la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-El Secretario será suplido en sus ausencias por el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Subsecretario para la Pequeña y Mediana Empresa, el Oficial Mayor y por el Jefe de la Unidad de Asuntos Jurídicos, en el orden indicado.
+El Secretario será suplido en sus ausencias por el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Oficial Mayor y por el Jefe de la Unidad de Asuntos Jurídicos, en el orden indicado.
 
 Las ausencias de los Subsecretarios o del Oficial Mayor serán suplidas por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que éstos designen.
 
@@ -1458,6 +1374,122 @@ Para la mayor eficacia y debida atención del despacho de los asuntos de la comp
 ###### ARTÍCULO 57.
 
 El Instituto Nacional de la Economía Social, como órgano administrativo desconcentrado de la Secretaría, tendrá las atribuciones que establece la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y contará con su propio Reglamento Interno.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2013)</small>
+
+ARTÍCULO 57 BIS.- El Instituto Nacional del Emprendedor es un órgano administrativo desconcentrado de la Secretaría, que tiene por objeto instrumentar, ejecutar y coordinar la política nacional de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su innovación, competitividad y proyección en los mercados nacional e internacional para aumentar su contribución al desarrollo económico y bienestar social, así como coadyuvar al desarrollo de políticas que fomenten la cultura y productividad empresarial.
+
+El Instituto Nacional del Emprendedor estará a cargo de un Presidente, quien será designado por el titular del Ejecutivo Federal.
+
+Al Presidente del Instituto le corresponde la representación legal y administrativa de ese órgano administrativo desconcentrado.
+
+El Instituto tendrá las siguientes atribuciones:
+
+I. Proponer, desarrollar y ejecutar los programas, estrategias y acciones que se aprueben para el apoyo, atención, creación, consolidación y competitividad de las micro, pequeñas y medianas empresas, los emprendedores y las franquicias;
+
+II. Apoyar la creación de micro, pequeñas y medianas empresas innovadoras;
+
+III. Diseñar y operar, en los términos de las disposiciones jurídicas aplicables, fondos, fideicomisos y demás instrumentos que tiendan a la ejecución de la política nacional de apoyo a los emprendedores y a las micro, pequeñas y medianas empresas;
+
+IV. Promover y ejecutar las acciones necesarias que aseguren la cohesión, coherencia e integralidad de todos los esfuerzos que en materia de apoyo a emprendedores y micro, pequeñas y medianas empresas se desarrollan en el país para alcanzar la más alta calidad, eficiencia y eficacia de las políticas públicas en la materia;
+
+V. Suscribir convenios de coordinación y colaboración con dependencias y entidades de la Administración Pública Federal, de las entidades federativas y municipales, con las organizaciones del sector privado, instituciones académicas, organizaciones y entidades financieras, organizaciones de la sociedad civil y organizaciones nacionales e internacionales, así como ejecutar todas las acciones necesarias para el efectivo cumplimiento de los referidos convenios en beneficio del desarrollo económico nacional;
+
+VI. Autorizar y canalizar, conforme a las disposiciones jurídicas aplicables, recursos públicos que se le asignen para el apoyo a proyectos relacionados con las micro, pequeñas y medianas empresas y los emprendedores del país, ya sea por la vía de convocatorias públicas o de manera directa, a través de la suscripción de convenios específicos;
+
+VII. Definir y operar los diferentes tipos de apoyos económicos que podrán ser canalizados a las micro, pequeñas y medianas empresas y a los emprendedores del país, bajo esquemas con cargo a recursos federales, o esquemas de recursos compartidos o mixtos con los gobiernos de las entidades federativas y municipios, el sector privado y el sector académico, así como los demás esquemas que considere pertinentes para incrementar la disponibilidad de recursos y asegurar mayor eficiencia en su aplicación;
+
+VIII. Canalizar recursos públicos a proyectos estratégicos, de carácter regional o sectorial, en los que podrán intervenir una o varias empresas que no sean de las comprendidas en el artículo 3, fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, cuando se cuente con autorización expresa del Secretario y se cumpla con alguna de las siguientes condiciones:
+
+a) Que se generen beneficios específicos para las micro, pequeñas y medianas empresas o los emprendedores del país;
+
+b) Que se generen empleos de calidad en un número congruente con la naturaleza del proyecto, preferentemente en las micro, pequeñas y medianas empresas;
+
+c) Que el proyecto ayude a elevar la productividad del sector o región;
+
+d) Que sea determinante para completar el eslabonamiento de una o varias cadenas productivas, o
+
+e) Que el proyecto proporcione al sector o región un flujo importante de inversión que fortalezca y cree condiciones más propicias para las empresas de la región o sector.
+
+IX. Desarrollar y ejecutar los programas, estrategias y mecanismos necesarios para la creación, desarrollo y fortalecimiento de agrupamientos regionales de innovación y financiamiento, que incidan en la creación, incubación, crecimiento, aceleración, consolidación, competitividad e internacionalización de las micro, pequeñas y medianas empresas y los emprendedores del país;
+
+X. Ejecutar los programas, estrategias y mecanismos necesarios para la creación, desarrollo y fortalecimiento de la infraestructura productiva de apoyo a micro, pequeñas y medianas empresas y emprendedores, de carácter industrial, tecnológico, comercial y de servicios;
+
+XI. Impulsar la coordinación de los fondos y programas en materia de apoyo a las micro, pequeñas y medianas empresas, con los existentes para un fin análogo en otras instituciones de investigación y del sistema financiero mexicano;
+
+XII. Impulsar políticas y estrategias de vinculación entre las micro, pequeñas y medianas empresas e inversionistas en el mercado empresarial mexicano;
+
+XIII. Impulsar y desarrollar políticas de formación y capacitación permanente de emprendedores;
+
+XIV. Promover y generar acciones y mecanismos para incidir en los cambios que sean necesarios para consolidar un ambiente favorable para el desarrollo de las micro, pequeñas y medianas empresas y de los emprendedores, en especial en la materia regulatoria, de promoción, de capacidades y de financiamiento;
+
+XV. Conformar la Red Nacional del Emprendedor para lograr una adecuada y eficiente coordinación con todos los participantes en la ejecución de políticas de apoyo a los emprendedores y a las micro, pequeñas y medianas empresas y con las redes internacionales de emprendedores para generar y aprovechar las oportunidades que surjan tanto en el ámbito nacional como en el internacional;
+
+XVI. Instaurar y operar el Observatorio Nacional del Emprendedor para dar seguimiento y obtener datos, análisis, estudios, estadísticas, casos de éxito, modelos replicables y otra información de utilidad para la generación, actualización y toma de decisiones en la instrumentación de las políticas públicas a favor de los emprendedores y de las micro, pequeñas y medianas empresas del país, observando las disposiciones legales en materia de información estadística;
+
+XVII. Realizar los estudios e investigaciones que permitan al Instituto contar con información relacionada con la innovación, el desarrollo tecnológico, las cadenas productivas, el desarrollo de proveedores, los agrupamientos regionales y de sectores industriales, el acceso a mercados y otros relacionados con el desarrollo y competitividad de las micro, pequeñas y medianas empresas y de los emprendedores;
+
+XVIII. Impulsar estudios e investigaciones que permitan reconocer los óptimos encadenamientos productivos regionales, sectoriales y globales; sinergias entre las empresas incubadas, así como plataformas tecnológicas que permitan compartir eficientemente las oportunidades de mejora y negocio, así como la transferencia de conocimiento en innovación;
+
+XIX. Brindar asesoría, capacitación y consultoría, en materia de formación emprendedora, incubación, aceleración, internacionalización, innovación, financiamiento e implementación y mejora de procesos de administración, gestión, producción y comercialización a las micro, pequeñas y medianas empresas y a los emprendedores para la generación de planes de negocio, planes de mejora, programas de calidad, planes de mercadotecnia y de acceso a mercados nacionales e internacionales, así como su implementación y desarrollo;
+
+XX. Desarrollar sistemas de información integrales, así como bases de datos, que permitan contar con información detallada relacionada con los esquemas de financiamiento, obtención de capital y de los procesos de acceso y otorgamiento de los créditos en el sistema financiero relacionados con emprendedores y las micro, pequeñas y medianas empresas;
+
+XXI. Evaluar, en el marco del Plan Nacional de Desarrollo, los resultados de las acciones orientadas al desarrollo de las micro, pequeñas y medianas empresas y de los emprendedores;
+
+XXII. Participar, al interior de la Secretaría, en la formulación de proyectos de leyes, reglamentos, decretos, acuerdos y reglas, en los asuntos de su competencia;
+
+XXIII. Formular y proponer al Secretario para su aprobación las políticas, criterios generales, lineamientos, normas y elaboración de manuales y procedimientos institucionales para el mejor desarrollo de las funciones del Instituto, así como los anteproyectos de las reglas de operación de los programas de su competencia;
+
+XXIV. Impulsar la creación y consolidación de empresas que contribuyan al desarrollo sustentable;
+
+XXV. Establecer acciones, programas, instrumentos y esquemas para apoyar a las micro, pequeñas y medianas empresas afectadas por desastres naturales para reactivar su actividad económica;
+
+XXVI. Organizar y promover talleres, foros, ferias, congresos, seminarios, exposiciones y otros eventos de carácter nacional e internacional que se relacionen con las atribuciones previstas en este artículo;
+
+XXVII. Definir los mecanismos de evaluación de los proyectos, programas, instrumentos y esquemas que se relacionen con las atribuciones del Instituto;
+
+XXVIII. Proponer esquemas que permitan dar seguimiento a los recursos, impactos y metas derivados de los apoyos otorgados al amparo de los programas, instrumentos y esquemas que se relacionen con las atribuciones del Instituto;
+
+XXIX. Fomentar y apoyar la constitución y fortalecimiento de fondos de garantía, así como de otros programas, instrumentos y esquemas financieros que faciliten a las micro, pequeñas y medianas empresas, así como a los emprendedores, el acceso al financiamiento;
+
+XXX. Elaborar y administrar los registros que tenga a su cargo el Instituto;
+
+XXXI. Diseñar y coordinar las acciones, programas, directrices, instrumentos y esquemas para promover y fomentar el acceso de las micro, pequeñas y medianas empresas a los mercados interno y externo;
+
+XXXII. Coordinar acciones en materia de oferta exportable con las instancias públicas competentes;
+
+XXXIII. Diseñar y coordinar mecanismos de apoyo a las micro, pequeñas y medianas empresas para su integración a la cadena productiva como proveedores o distribuidores, y
+
+XXXIV. Las demás que le confieran otras disposiciones legales o administrativas, así como las que le encomiende el Titular del Ejecutivo Federal y el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2013)</small>
+
+ARTÍCULO 57 TER.- El Instituto Nacional del Emprendedor contará con un Consejo Consultivo, el cual fungirá como un órgano de consulta y tendrá las siguientes funciones:
+
+I. Asesorar al Instituto en la formulación y aplicación de las estrategias nacionales en materia de apoyo a las micro, pequeñas y medianas empresas y emprendedores, a solicitud de su Presidente;
+
+II. Recomendar acciones para mejorar políticas, programas y acciones específicas del Instituto que respondan a las necesidades económicas del país;
+
+III. Analizar los asuntos que en casos específicos someta a su consideración, el Presidente del Instituto Nacional del Emprendedor;
+
+IV. Hacer propuestas para impulsar y fortalecer el desarrollo de las micro, pequeñas y medianas empresas y emprendedores;
+
+V. Asesorar al Instituto cuando así lo solicite su Presidente, respecto de la creación, desarrollo y fortalecimiento de la infraestructura productiva de apoyo a micro, pequeñas y medianas empresas y emprendedores, de carácter industrial, tecnológico, comercial y de servicios, y
+
+VI. Hacer recomendaciones con base en los resultados de las acciones orientadas al desarrollo de las micro, pequeñas y medianas empresas y de los emprendedores.
+
+El Consejo estará integrado por el Secretario, quien lo presidirá, el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Oficial Mayor y el Jefe de la Unidad de Asuntos Jurídicos, quienes tendrán derecho de voz y voto. Los miembros podrán ser suplidos por el servidor público con nivel jerárquico inmediato inferior.
+
+El Consejo Consultivo contará con un Secretariado Técnico, el cual estará a cargo del Presidente del Instituto.
+
+El Consejo tendrá como invitados a un representante de la Secretaría de Hacienda y Crédito Público, un representante de la Secretaría de Turismo, un representante de PROMÉXICO y un representante del Consejo Nacional de Ciencia y Tecnología. Asimismo, el Presidente del Consejo podrá invitar a representantes del sector privado y académico, así como a un representante de la Asociación Mexicana de Secretarios de Desarrollo Económico. Los invitados tendrán solo derecho de voz.
+
+El Secretario emitirá los lineamientos que regulen el funcionamiento del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2013)</small>
+
+ARTÍCULO 57 QUÁTER.- El Instituto contará, para el ejercicio de sus atribuciones, con un Coordinador General de Planeación Estratégica, Evaluación y Seguimiento, un Director General de Programas de Sectores Estratégicos y Desarrollo Regional, un Director General de Programas de Desarrollo Empresarial, un Director General de Programas de Emprendedores y Financiamiento, un Director General de Programas para MIPYMES y un Director General de Programas de Defensa para PYMES y Emprendedores, así como con el personal que se determine en su estructura orgánica, los cuales tendrán las funciones que se establezcan en el Manual de Organización.
 
 ###### ARTÍCULO 58.
 
@@ -1510,3 +1542,19 @@ SEXTO.- Las referencias que se hagan en otros instrumentos jurídicos a las unid
 SÉPTIMO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Dependencia.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría emitirá en un plazo no mayor de treinta días naturales las disposiciones que regulen el funcionamiento del Instituto Nacional del Emprendedor.
+
+TERCERO.- Las atribuciones, facultades y funciones que las disposiciones jurídicas aplicables confieren a la Subsecretaría para la Pequeña y Mediana Empresa y a las Direcciones Generales que le son adscritas, serán ejercidas directamente por el Instituto Nacional del Emprendedor.
+
+Las referencias que se hagan en otras disposiciones a la Subsecretaría para la Pequeña y Mediana Empresa, se entenderán hechas al Instituto Nacional del Emprendedor.
+
+CUARTO.- Los asuntos pendientes al entrar en vigor este Decreto, que conforme al mismo deban pasar al Instituto Nacional del Emprendedor continuarán su trámite y serán resueltos hasta su conclusión por el Instituto.
+
+QUINTO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Dependencia.
