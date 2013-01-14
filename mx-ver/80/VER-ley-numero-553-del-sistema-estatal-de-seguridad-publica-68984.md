@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2012-09-28"
+last_updated: "2013-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2013.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -227,9 +227,21 @@ III. Las Comisiones, especiales o regionales, conformadas por acuerdo del Consej
 
 IV. Las instituciones de Seguridad Pública estatales y municipales;
 
-V. Los Comités de Participación Ciudadana, en su carácter de auxiliares en materia de evaluación de políticas públicas; y
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2013)</small>
 
-VI. La Secretaría Ejecutiva.
+V. Los Comités de Participación Ciudadana, en su carácter de auxiliares en materia de evaluación de políticas públicas;
+
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2013)</small>
+
+VI. La Secretaría Ejecutiva;
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2013)</small>
+
+VII. El Consejo Ciudadano de Seguridad Pública; y
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2013)</small>
+
+VIII. El Consejo Consultivo Observatorio Ciudadano para la Seguridad y la Justicia.
 
 El Poder Judicial del Estado contribuirá con las instancias que integran el Sistema, en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública.
 
@@ -375,11 +387,11 @@ En las Comisiones podrán participar expertos de instituciones académicas, de i
 
 ### CAPÍTULO III. De la Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 21.
 
-La Secretaría Ejecutiva es el órgano operativo del Consejo Estatal y del Sistema, que funcionará con autonomía técnica, de gestión y presupuestal.
+La Secretaría Ejecutiva es el órgano operativo del Consejo Estatal y del Sistema que funcionará con autonomía técnica, de gestión y presupuestal. A este órgano estará sectorizado el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana.
 
 El Titular del Poder Ejecutivo Estatal expedirá el Reglamento interior de la Secretaría Ejecutiva, que establecerá las unidades de apoyo administrativo que requiera para el cumplimiento de sus funciones, así como sus atribuciones.
 
@@ -390,6 +402,42 @@ El Secretario Ejecutivo, además de cumplir con lo que establece la Constitució
 I. Tener más de treinta años de edad; y
 
 II. Contar con experiencia en las áreas relacionadas con la Seguridad Pública. Correspondientes a su función.
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2013)</small>
+
+###### Artículo 21 Bis.
+
+El Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana:
+
+I. Proponer al Consejo Estatal lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
+
+II. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+III. Emitir opiniones y recomendaciones, dar seguimiento y evaluar los programas implementados por las instituciones de Seguridad Pública en los órdenes de gobierno estatal y municipal para:
+
+a) Prevenir la violencia infantil y juvenil;
+
+b) Promover la erradicación de la violencia especialmente la ejercida contra niñas, niños, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+
+c) Prevenir la violencia y delincuencia generada por el uso de armas, el abuso de drogas y alcohol; y
+
+d) Garantizar la atención integral a las víctimas.
+
+IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su atribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública estatal;
+
+V. Realizar, por sí o por terceros, encuestas victimológicas, de fenómenos delictivos y otras que coadyuven a la prevención del delito;
+
+VI. Promover la inclusión de contenidos relativos a la prevención social de la violencia y la delincuencia, en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las dependencias y entidades estatales y municipales, así como colaborar con los Estados, el Distrito Federal y los Municipios en esta misma materia;
+
+VII. Organizar seminarios, conferencias y ponencias sobre prevención social del delito;
+
+VIII. Coordinar acciones en materia de prevención social del delito con otras instancias competentes, en el ejercicio de sus funciones;
+
+IX. Coordinarse con el Consejo Ciudadano de Seguridad Pública y el Consejo Consultivo Observatorio Ciudadano para la Seguridad y la Justicia, para implementar acciones en materia de seguridad pública y participación ciudadana;
+
+X. Promover la participación ciudadana para el fortalecimiento del Sistema; y
+
+XI. Las demás que establezcan otras disposiciones, el Consejo Estatal y su presidente.
 
 ###### Artículo 22.
 
@@ -825,7 +873,7 @@ El servicio de carrera de las instituciones del Sistema comprenderá las etapas 
 
 I. El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
 
-II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del servicio de carrera; y
+II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del servicio de carrera; y (sic)
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1651,7 +1699,9 @@ IX. La depuración de los expedientes se hará transcurrido un año después de 
 
 ## TÍTULO SÉPTIMO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
+### CAPÍTULO ÚNICO. De la Participación Ciudadana
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 110.
 
@@ -1771,77 +1821,89 @@ En el caso de que los integrantes de las instituciones de Seguridad Pública ase
 
 El incumplimiento de las disposiciones de esta sección, dará lugar a que la portación o posesión de armas se considere ilícito y sea sancionada en los términos de las normas aplicables.
 
-## TÍTULO OCTAVO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE ENERO DE 2013)</small>
+
+## TÍTULO OCTAVO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE ENERO DE 2013)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 124.
 
-El Consejo Estatal establecerá mecanismos eficaces para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema, en los términos de la Ley General, esta Ley y demás ordenamientos aplicables.
+Se establecerá y organizará un Consejo Ciudadano de Seguridad Pública como instancia colegiada de consulta con participación ciudadana, dependiente del Consejo Estatal, a través del cual se establecerán mecanismos eficientes, con la finalidad de que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema; de igual manera, este Consejo impulsará las acciones necesarias en materia de seguridad pública, prevención social del delito y participación ciudadana, debiendo coadyuvar con las autoridades competentes para el servicio de la comunidad.
 
-Dicha participación se realizará en coadyuvancia y corresponsabilidad con las autoridades, al través de:
+El Consejo Ciudadano de Seguridad Pública se integrará mayoritariamente por ciudadanos y con la representación del Estado, que determine el Reglamento Interior correspondiente.
 
-I. La comunidad, tenga o no estructura organizativa; y
+El Titular del Ejecutivo del Estado elegirá, a propuesta del Secretario Ejecutivo, a los Consejeros Ciudadanos que integrarán este Consejo, y que podrán pertenecer a asociaciones civiles, agrupaciones de profesionales, organismos no gubernamentales, empresariales, así como también, instituciones de educación superior.
 
-II. La sociedad civil organizada.
+El Presidente del Consejo Ciudadano de Seguridad Pública será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 125.
 
-El Consejo Estatal, al través de la Secretaría Ejecutiva, impulsará las acciones necesarias para establecer un servicio para localización de personas y bienes.
+El Consejo Ciudadano de Seguridad Pública se integrará de la siguiente forma:
+
+I. Por siete Consejeros Ciudadanos, uno de los cuales fungirá como Presidente, quienes tendrán voz y voto;
+
+II. Los titulares de la Secretaría de Gobierno, Secretaría de Seguridad Pública, Procuraduría General de Justicia del Estado; así como el Secretario Ejecutivo, quienes fungirán como Consejeros Gubernamentales con voz y voto; y
+
+III. Un Secretario Técnico, quien sólo contará con voz.
+
+Los consejeros gubernamentales propietarios podrán designar a sus respectivos suplentes.
+
+Podrán asistir a las sesiones del Consejo, a invitación del Presidente, los titulares de las dependencias, órganos y entidades de la administración pública del Estado, así como las personas relacionadas con la materia de seguridad pública, quienes contarán con derecho de voz pero no de voto.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 126.
 
-La Secretaría Ejecutiva, por conducto de sus áreas administrativas u operativas, recibirá los reportes de la comunidad sobre las emergencias, faltas y delitos de que tenga conocimiento. Asimismo, promoverá que los municipios del Estado se incorporen al servicio de comunicación establecido a nivel nacional.
+El Secretario Ejecutivo tendrá la facultad de designar y remover libremente al Secretario Técnico, sin perjuicio de las atribuciones que le confieran otras disposiciones legales y administrativas.
 
-El servicio tendrá comunicación directa con las instituciones de Seguridad Pública, de Salud, de Protección Civil y las demás asistenciales públicas y privadas.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 127.
 
-Para mejorar el servicio de Seguridad Pública, las instancias de coordinación que prevé esta Ley promoverán la participación de la comunidad al través de las siguientes acciones:
+En el Reglamento Interior del Consejo se establecerán las disposiciones que regulen la celebración de sus sesiones, los mecanismos de votación para que sus acuerdos y resoluciones tengan validez, así como la integración y mecanismo de funcionamiento de las comisiones que se consideren necesarias, para el cumplimiento de sus atribuciones.
 
-I. Participar en la evaluación de las políticas y de las Instituciones de Seguridad Pública;
-
-II. Opinar sobre políticas en materia de Seguridad Pública;
-
-III. Sugerir medidas específicas y acciones concretas para esta función;
-
-IV. Realizar labores de seguimiento;
-
-V. Proponer reconocimientos por méritos o estímulos para los Integrantes de las Instituciones;
-
-VI. Realizar denuncias o quejas sobre irregularidades; y
-
-VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño de la función de Seguridad Pública.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 128.
 
-Las instituciones de Seguridad Pública deberán contar con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del Artículo anterior.
+Las dependencias, entidades y órganos desconcentrados de la Administración Pública del Estado proporcionarán al Consejo la información y datos necesarios para la realización de las funciones previstas en la presente Ley, salvo aquellos que sean determinados como reservados o confidenciales, en términos de sus propios ordenamientos legales y de la Ley de Transparencia y Acceso a la Información Pública para el Estado.
 
-La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos por el Consejo Estatal sobre los siguientes temas:
-
-I. El desempeño de sus integrantes;
-
-II. El servicio prestado; y
-
-III. El impacto de las políticas públicas en prevención del delito.
-
-Los resultados de los estudios deberán ser entregados a las instituciones de Seguridad Pública, así como al Consejo Estatal. Estos estudios servirán para la formulación de políticas públicas en la materia.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 129.
 
-Los Consejos Estatal y Municipales promoverán la integración de Comités de Participación Ciudadana, para lo cual convocarán a los sectores social y privado interesados en colaborar con la seguridad pública. Los Comités estarán vinculados a cada una de las instituciones de Seguridad Pública.
+Para el cumplimiento de las atribuciones del Consejo, podrá constituirse un fideicomiso de administración e inversión.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 130.
 
-Las instituciones de Seguridad Pública deberán establecer políticas públicas de atención a la víctima, que deberán prever, al menos, los siguientes rubros:
+EL Consejo Ciudadano de Seguridad Pública tendrá las siguientes atribuciones:
 
-I. Atención de la denuncia en forma pronta y expedita;
+I. Ser un órgano de consulta, análisis y opinión, en materia de seguridad pública y prevención social del delito;
 
-II. Atención jurídica, médica y psicológica especializada;
+II. Establecer vinculación con organizaciones del sector social y privado, que desarrollen actividades relacionadas con la materia de seguridad pública, prevención social del delito y procuración y administración de justicia, a fin de encauzar los esfuerzos ciudadanos en el objeto común de coadyuvar al mejoramiento de la seguridad pública en el Estado;
 
-III. Medidas de protección a la víctima; y
+III. Emitir opiniones y sugerencias para la elaboración del programa de seguridad pública para el Estado y evaluar la aplicación del mismo;
 
-IV. Otras, en los términos del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+IV. Formular recomendaciones, dar seguimiento y evaluar las políticas, programas, estrategias y acciones instrumentadas por la Administración Pública del Estado, vinculadas a la prevención, investigación y combate al delito, la prevención y reinserción social, la atención a migrantes, la cultura cívica y el apoyo a las víctimas del delito;
+
+V. Turnar ante la Contraloría Interna de las dependencias o entidades que desarrollen actividades de prevención del delito los casos de faltas graves de sus servidores públicos de que tenga conocimiento, de acuerdo con las disposiciones legales aplicables;
+
+VI. Proponer el otorgamiento de reconocimientos a los servidores públicos que se destaquen en el ejercicio de sus funciones de seguridad pública o que realicen acciones relevantes;
+
+VII. Emitir opinión en los temas o asuntos específicos que le sean planteados por el Gobernador del Estado o por los titulares de las Secretarías de Gobierno, Seguridad Pública y la Procuraduría General de Justicia del Estado;
+
+VIII. Conocer, analizar e integrar los reclamos ciudadanos en las funciones de prevención e investigación del delito, apoyo a las víctimas del delito, ejecución de sanciones penales y formular las propuestas y peticiones tendientes a satisfacerlas;
+
+IX. Emitir opiniones sobre la evolución de las tendencias delictivas, la percepción de inseguridad y el desempeño de las instituciones encargadas de la seguridad pública y la procuración e impartición de justicia, a partir de la construcción de indicadores y la investigación y monitoreo que lleve a cabo el Observatorio Ciudadano de la Seguridad y la Justicia de Veracruz; y
+
+X. Las demás previstas en la presente Ley y en su Reglamento Interior.
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
@@ -2348,3 +2410,17 @@ Tercero. Una vez efectuado el nombramiento del Director General del Centro de Ev
 Cuarto. El Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, efectuará las modificaciones a los reglamentos que resulten necesarias para dar cumplimiento al presente Decreto.
 
 Quinto. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+G.O. 14 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La instalación del Consejo Ciudadano de Seguridad Pública, del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana y del Consejo Consultivo Observatorio Ciudadano para la Seguridad y la Justicia se realizará conforme a las etapas presupuestales disponibles de ejecución.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento Interior del Consejo Ciudadano de Seguridad Pública y el del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, deberán emitirse en un plazo no mayor de noventa días hábiles después de su instalación respectiva, los cuales determinarán su organización, funcionamiento y coordinación.
