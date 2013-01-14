@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-peritos-oficiales-en-materia-civil-y-familiar-643
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-29"
-last_updated: "2008-10-29"
+last_updated: "2013-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE PERITOS OFICIALES EN MATERIA CIVIL Y FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 29 de octubre de 2008.
 
@@ -104,6 +104,10 @@ III. Peritos traductores e intérpretes: Son los profesionistas técnicos o prá
 ###### Artículo 11.
 
 Para formar parte de la lista el interesado deberá presentar solicitud por escrito ante la Secretaría de Acuerdos, a más tardar el día 31 de enero del año de su elaboración, en la que deberá indicar el rubro y distrito judicial en el cual pretenda participar, así como las razones que estime pertinentes para demostrar sus conocimientos en el área respectiva, manifestando expresamente su conformidad con todas las obligaciones que le impone el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE ENERO DE 2013)</small>
+
+En cada distrito judicial señalará domicilio para oír y recibir notificaciones, so pena de no ser enlistado en aquellos que no cumpla con esta obligación.
 
 I. Tratándose de peritos valuadores y dictaminadores, a la solicitud deberán acompañarse los siguientes documentos:
 
@@ -245,7 +249,9 @@ l. Que se les reconozca como inscritos en la lista de peritos mediante la expedi
 
 II. Ser nombrado por el Juez en igualdad de circunstancias y en su caso conforme a las bases que haya determinado el Pleno, respecto de los otros peritos listados en su categoría;
 
-III. Recibir el pago de sus honorarios y gastos, autorizados por el Juez, una vez desahogada definitivamente su opinión, conforme al arancel correspondiente;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2013)</small>
+
+III. Recibir el pago de sus honorarios y gastos, autorizados por el Juez, una vez desahogada definitivamente su opinión, conforme al arancel correspondiente; exceptuando cuando se encuentre en la hipótesis a que se refiere el articulo 26 de este Reglamento.
 
 IV. Solicitar una ampliación del término concedido para rendir dictámenes o efectuar las actividades que le fueron encomendadas, ante el Juez de la causa, quien resolverá sobre la procedencia de la petición;
 
@@ -311,21 +317,33 @@ IX. Cuando habiendo sido sancionado con anterioridad, el perito reincida en la v
 
 Las sanciones serán impuestas por el Pleno, una vez agotado el procedimiento establecido en los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2013)</small>
+
 ###### Artículo 31.
 
-Para sancionar a un perito oficial deberá recibirse, por conducto de la Secretaría de Acuerdos, queja planteada por escrito por el Juez o las partes, en la cual se hará constar cual es la imputación y, en su caso, acompañarse de las constancias necesarias para su acreditación.
+El juez del conocimiento, una vez observada la posible falta del perito o en su caso, interpuesta queja por alguna de las partes, procederá a formar el expediente respectivo, requiriendo al perito para que justifique su proceder con las pruebas que considere necesarias, dentro del término de tres días hábiles contados a partir de la notificación.
+
+Únicamente se recibirán pruebas documentales, declaraciones de partes y de testigos, sin perjuicio de que el juez se allegue de oficio de los elementos que estime pertinentes, y de escuchar la opinión de otro u otros peritos cuando sea necesario.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 32.
 
-Recibida la queja, la Secretaría de Acuerdos radicará la causa y comunicará al Pleno la presentación de la misma; correrá traslado con el escrito al perito contra el cual se presentó y le señalará un plazo de cinco días hábiles, contados a partir del siguiente al de su notificación, para que comparezca ante la propia Secretaría y manifieste por escrito lo que a su interés corresponda y, en su caso, aporte las pruebas que considere necesarias.
+Desahogadas las pruebas admitidas, el juez dictará acuerdo haciéndole saber que enviará los autos respectivos al Pleno del Supremo Tribunal de Justicia para los efectos del artículo 343 párrafo quinto, del Código de Procedimientos Civiles vigente para el Estado de Sinaloa, y 30 de este Reglamento.
 
-Únicamente se recibirán pruebas documentales, declaraciones de partes y de testigos, sin perjuicio de que el Pleno se allegue de oficio los elementos que estime pertinentes, y de escuchar la opinión de otro u otros peritos cuando sea necesario.
+En el mismo acuerdo, hará del conocimiento del perito que en un plazo de tres días hábiles a partir de la notificación, deberá comparecer ante el Tribunal Pleno por conducto de la Secretaría de Acuerdos, para alegar lo que a su derecho convenga, señalando domicilio para oír y recibir notificaciones en esa instancia.
 
-De lo anterior, el Secretario de Acuerdos formará expediente y, en su caso, levantará acta circunstanciada con la que dará cuenta al Pleno para que resuelva lo conducente.
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2013)</small>
+
+###### Artículo 32 Bis.
+
+Recibido el expediente y los alegatos del perito, la Secretaría de Acuerdos del Supremo Tribunal de Justicia del Estado, dará cuenta al Pleno en la primera sesión ordinaria que se celebre.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 33.
 
-Recibido el expediente por el Pleno, en un plazo no mayor de quince días hábiles resolverá de plano sobre la procedencia o improcedencia de la queja y, en su caso, impondrá la sanción correspondiente, tomando en consideración lo señalado en el presente Reglamento y atendiendo la gravedad de la falta.
+Una vez turnado el expediente al Pleno, en un plazo no mayor de quince días hábiles resolverá de plano sobre la procedencia o improcedencia de la reclamación y, en su caso, impondrá la sanción correspondiente, tomando en consideración lo señalado en el presente Reglamento y atendiendo la gravedad de la falta.
 
 La decisión del Pleno no admite recurso alguno.
 
@@ -348,3 +366,15 @@ Presidente del Supremo Tribunal de Justicia del Estado.
 LIC. RAFAEL RODRÍGUEZ OVALLE.
 
 Secretario.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE ENERO DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
