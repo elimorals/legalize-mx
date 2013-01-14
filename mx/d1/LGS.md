@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-06-07"
+last_updated: "2013-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -120,7 +120,9 @@ La presente Ley reglamenta el derecho a la protección de la salud que tiene tod
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-I.- El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
+
+I.- El bienestar físico y mental de la persona, para contribuir al ejercicio pleno de sus capacidades;
 
 II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -766,15 +768,15 @@ X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera e
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 28 Bis.
 
@@ -792,7 +794,7 @@ Los profesionales que podrán prescribir medicamentos son:
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 29.
 
@@ -7044,11 +7046,21 @@ Se impondrá la sanción a que se refiere el presente artículo, al responsable 
 
 Al que introduzca al territorio nacional, transporte o comercie con animales vivos o sus cadáveres, que padezcan o hayan padecido una enfermedad transmisible al hombre en los términos del artículo 157 de esta Ley, teniendo conocimiento de este hecho, se le sancionará con prisión de uno a ocho años y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 464.
 
-A quien, adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas o cualquier otra sustancia o producto de uso o consumo humano, con peligro para la salud, se le aplicará de uno a nueve años de prisión y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
+A quien, adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de alimentos, bebidas no alcohólicas o cualquier otra sustancia o producto de uso o consumo humano, con peligro para la salud, se le aplicará de uno a nueve años de prisión y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+A quien adultere, altere, contamine o permita la adulteración, alteración o contaminación de bebidas alcohólicas, se le aplicará:
+
+I. Cuando se trate de bebidas alcohólicas adulteradas o falsificadas, en términos de los artículos 206 y 208 Bis de la Ley General de Salud, de seis meses a tres años de prisión y de cincuenta a doscientos cincuenta días multa;
+
+II. Cuando se trate de bebidas alcohólicas alteradas, acorde con la fracción II del artículo 208 de la Ley General de Salud, de tres a siete años de prisión y de doscientos cincuenta a quinientos días multa, y
+
+III. Cuando se trate de bebidas alcohólicas contaminadas, conforme a lo dispuesto por el artículo 207 de la Ley General de Salud, de cinco a nueve años de prisión y de quinientos a mil días multa.
+
+Las mismas penas se aplicarán a quien, a sabiendas, por sí o a través de otro, expenda, venda o de cualquier forma distribuya bebidas alcohólicas adulteradas, contaminadas o alteradas.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2001)</small>
 
@@ -7835,3 +7847,15 @@ D.O.F. 7 DE JUNIO DE 2012.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 61 Y 64, SE ADICIONAN LOS ARTÍCULOS 61 BIS Y 64 BIS DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 464 DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2°., DE LA LEY GENERAL DE SALUD.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
