@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-eliminar-la-discriminacion-en-91671
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL TEXTO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
