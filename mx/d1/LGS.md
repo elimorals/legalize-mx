@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-01-14"
+last_updated: "2013-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -354,9 +354,11 @@ II. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos 
 
 El Sistema Nacional de Salud está constituido por las dependencias y entidades de la Administración Pública, tanto federal como local, y las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones, y tiene por objeto dar cumplimiento al derecho a la protección de la salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 6o.
 
-El Sistema Nacional de Salud tiene los siguientes objetivos:
+El sistema nacional de salud tiene los siguientes objetivos:
 
 I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
@@ -380,13 +382,17 @@ VI.- Impulsar un sistema racional de administración y desarrollo de los recurso
 
 VI bis.- Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección, y
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
-VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+IX.- Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -409,6 +415,10 @@ VI.- Coordinar el proceso de programación de las actividades del sector salud, 
 VII.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud;
 
 VIII.- Impulsar las actividades científicas y tecnológicas en el campo de la salud;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+VIII bis.- Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en los servicios de Salud;
 
 IX.- Coadyuvar con las dependencias competentes a la regulación y control de la transferencia de tecnología en el área de salud;
 
@@ -1076,7 +1086,7 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO VII. Salud Mental
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 61.
 
@@ -1354,25 +1364,51 @@ Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Fed
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-###### Artículo 72.
+###### ARTICULO 72.
 
-La prevención de los trastornos mentales y del comportamiento es de carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control multidisciplinario de dichos trastornos, así como otros aspectos relacionados con la salud mental.
+La prevención y atención de los trastornos mentales y del comportamiento es de carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control multidisciplinario de dichos trastornos, así como otros aspectos relacionados con el diagnóstico, conservación y mejoramiento de la salud mental.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+Para los efectos de esta Ley, se entiende por salud mental el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, y, en última instancia el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental y la prevención de los trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental y la atención de las personas con trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente a grupos en situación de vulnerabilidad.
+
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y del comportamiento;
 
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 III. La realización de programas para la prevención y control del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
-V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+V. La implementación estratégica y gradual de servicios de salud mental en establecimientos de la red del Sistema Nacional de Salud, que permita abatir la brecha de atención;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+VI. La investigación multidisciplinaria en materia de salud mental;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+VII. La participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento, que son atendidas en los establecimientos de la red del Sistema Nacional de Salud, y
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+VIII. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención y fomento de la salud mental de la población.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -1382,9 +1418,13 @@ La atención de los trastornos mentales y del comportamiento comprende:
 
 I. La atención de personas con trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, y la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
-III. La reintegración de la persona con trastornos mentales y del comportamiento a su comunidad, mediante la creación de programas extrahospitalarios y comunitarios para la atención de estos trastornos.
+II. La organización, operación y supervisión de establecimientos dedicados al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento, y
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+III. La reintegración de la persona con trastornos mentales y del comportamiento a su familia y comunidad, mediante la creación de programas sociales y asistenciales como residencias y talleres protegidos, en coordinación con otros sectores, para la debida atención de estos pacientes.
 
 > <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -1392,7 +1432,9 @@ III. La reintegración de la persona con trastornos mentales y del comportamient
 
 La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
 
-I. Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+I. Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimientos de la red del Sistema Nacional de Salud;
 
 II. Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
 
@@ -1408,35 +1450,49 @@ VII. Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al
 
 VIII. Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 75.
 
-El internamiento de personas con trastornos mentales y del comportamiento en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
+El internamiento de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 Será involuntario el internamiento, cuando por encontrarse la persona impedida para solicitarlo por sí misma, por incapacidad transitoria o permanente, sea solicitado por un familiar, tutor, representante legal o, a falta de los anteriores, otra persona interesada, que en caso de urgencia solicite el servicio y siempre que exista la intervención de un médico calificado, que determine la existencia de un trastorno mental y del comportamiento y que debido a dicho trastorno existe un peligro grave o inmediato para sí mismo o para terceros.
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 La decisión de internar a una persona deberá ser notificada a su representante, así como a la autoridad judicial.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 El internamiento involuntario será revisado por la autoridad judicial a petición de la persona internada o de su representante. La resolución de la autoridad judicial deberá estar fundada en dictamen pericial y, en caso de que se resuelva la terminación del internamiento, deberá establecer un plazo para que se ejecute la misma. En todo caso, durante dicho procedimiento deberá garantizarse la defensa de los intereses de la persona internada.
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 Las autoridades sanitarias deberán coordinarse con los organismos públicos de protección a los derechos humanos para que los establecimientos dedicados a la atención y tratamiento de las personas con trastornos mentales y del comportamiento sean supervisados continuamente, a fin de garantizar el respeto a los derechos de las personas internadas.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Salud establecerá las normas oficiales mexicanas para que se preste atención a las personas con trastornos mentales y del comportamiento que se encuentran en reclusorios o en otras instituciones no especializadas en salud mental.
-
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+La Secretaría de Salud establecerá las normas oficiales mexicanas para los establecimientos que prestan atención a las personas con trastornos mentales y del comportamiento, de la red del Sistema Nacional de Salud.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
+A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 77.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda o custodia, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de un trastorno mental y del comportamiento.
+Los padres, tutores, quienes ejercen la patria potestad o quienes ostenten la representación legal de personas con trastornos mentales y del comportamiento, serán responsables de la guardia o custodia. Las autoridades educativas y cualquier persona que esté en contacto con las personas con trastornos mentales y del comportamiento, procurarán la oportuna y debida atención de los mismos.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de personas con trastornos mentales y del comportamiento.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+
+A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
@@ -7859,3 +7915,17 @@ D.O.F. 14 DE ENERO DE 2013.
 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2°., DE LA LEY GENERAL DE SALUD.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2013.
+
+DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN IX AL ARTÍCULO 6o, Y UNA FRACCIÓN VIII BIS AL ARTÍCULO 7o DE LA LEY GENERAL DE SALUD.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Ejecutivo Federal, a través de la Secretaría de Salud, contará con un plazo de 180 días naturales, a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones administrativas necesarias para su aplicación.
