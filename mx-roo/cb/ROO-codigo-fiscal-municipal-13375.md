@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2009-12-18"
+last_updated: "2013-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO FISCAL MUNICIPAL
 
-CODIGO FISCAL MUNICIPAL
+CÓDIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -39,13 +41,13 @@ DECRETA:
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 1o.
 
 Las personas físicas y morales o unidades económicas están obligadas a contribuir para el gastó público de los Municipios del Estado de Quintana Roo, conforme a las Leyes fiscales respectivas. Las autoridades Municipales en materia fiscal sólo pueden hacer lo que las Leyes, Reglamentos, Decretos, Acuerdos del Ayuntamiento y Convenios de Colaboración Administrativa en Materia Fiscal expresamente establezcan como de su competencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
@@ -65,17 +67,17 @@ III.- S.M.G: Por estas siglas se entenderá el salario mínimo general diario vi
 
 Todo lo referente a las contribuciones para cubrir el gasto público de los municipios del Estado de Quintana Roo, será establecido en las leyes de Ingresos y de Hacienda de los Municipios del Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 4o.
 
 Además del presente código, son ordenamientos fiscales municipales:
 
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 I.- La Ley de Hacienda de los Municipios del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 II.- La Ley de Ingresos de los Municipios del Estado de Quintana Roo;
 
@@ -83,7 +85,7 @@ III.- Las que autoricen ingresos extraordinarios;
 
 IV.- Los demás ordenamientos legales que contengan disposiciones de orden hacendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 5o.
 
@@ -125,7 +127,7 @@ VIII.- Los alcaldes, delegados y subdelegados;
 
 IX.- Los previstos en los Reglamentos Municipales y Acuerdos del Ayuntamiento, que norman su estructura orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 6o.
 
@@ -173,7 +175,7 @@ PARTICIPACIONES.- Son aquellos ingresos que percibe el Municipio de conformidad 
 
 PRODUCTOS.- Son las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado; así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 6-D.
 
@@ -241,13 +243,13 @@ Las contribuciones se pagan en las fechas o dentro de los plazos señalados en l
 
 Quien haga pago de contribuciones o créditos fiscales deberá obtener de la oficina autorizada, el recibo oficial o la forma aprobada por las Tesorerías.
 
-> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 13.
 
 Los Ayuntamientos tendrán acción real para el cobro del Impuesto Predial y demás prestaciones accesorias y en consecuencia, el Procedimiento Administrativo de Ejecución se aplicará afectando los predios directamente, o cualquier otro bien propiedad del contribuyente que a juicio de la autoridad exactora garantice el pago del crédito fiscal omitido así como de sus accesorios legales. Las multas impuestas por infracciones al presente capítulo, se considerarán personales para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 14.
 
@@ -331,7 +333,7 @@ Cuando se trate de personas físicas o morales residentes fuera del municipio, e
 
 La autoridad fiscal podrá practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 18.
 
@@ -371,7 +373,7 @@ VI.- Exhibir y poner a la vista los documentos municipales públicos y privados 
 
 VII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O.15 DE DICIEMBRE DE 1998)</small>
 
 VIII.- Realizar los pagos y cumplir las obligaciones en la forma y términos que señala este Código;
 
@@ -397,7 +399,7 @@ Toda promoción que se presente ante las autoridades fiscales, deberá estar fir
 
 La presentación de avisos, declaraciones, manifestaciones o promociones deberá hacerse en los formularios que al efecto aprueben las Tesorerías Municipales, en el número de ejemplares que establezcan las formas oficiales, acompañando los anexos que en su caso estás requieran y consignando los mismos datos que los mismos formularios requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales, y contener por lo menos los siguientes requisitos:
 
@@ -423,7 +425,7 @@ Los contribuyentes que planteen consultas sobre la aplicación de las disposicio
 
 Las autoridades se abstendrán de resolver consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las leyes fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23.
 
@@ -495,7 +497,7 @@ Si el pago de lo indebido se hubiera efectuado el cumplimiento de actos de autor
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28.
 
@@ -511,7 +513,7 @@ I.- Las personas físicas o morales que adquieren bienes o negociaciones que rep
 
 II.- Los copropietarios, condóminos o poseedores de un bien determinado por el cual se cause un crédito fiscal a favor del municipio;
 
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 III.- Los representantes legales, albaceas y apoderados, por los créditos fiscales municipales que dejan de pagar sus representados con motivo del acto jurídico que originó la representación que tengan;
 
@@ -567,7 +569,7 @@ VI.- Celebrar convenios con los contribuyentes para determinar el monto de los i
 
 VII.- Conceder mediante resoluciones de carácter general, subsidios o estímulos fiscales a los contribuyentes, siempre y cuando el otorgamiento de estos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Municipio hasta por el 100% del monto del impuesto en los casos de calamidad pública o situación de desastre y;
 
-> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -583,13 +585,13 @@ X.- Determinar créditos fiscales conforme a las Leyes, Reglamentos, Acuerdos y 
 
 XI.- Las demás que le correspondan conforme a este código u otras leyes, reglamentos y acuerdos en el ámbito de los Convenios de Colaboración en Materia Fiscal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XII.- Decretar la cancelación de los créditos fiscales por no localización, incosteabilidad en el cobro o por insolvencia de los sujetos directos y de los responsables solidarios, en los términos del presente Código, así como de las reglas de carácter general que expida el propio Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32.
 
@@ -623,19 +625,19 @@ IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se ac
 
 X.- Determinar créditos fiscales y multas conforme a las Leyes, Reglamentos, Procedimientos, Acuerdos y Convenios de Colaboración en Materia Fiscal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 XI.- Ordenarla clausura de establecimientos, previo cumplimiento de los requisitos y exclusivamente en los supuestos que expresamente se establezcan en este Código, sin que con ello se limite su facultad de establecer de manera conjunta otras sanciones diferentes por el incumplimiento de las obligaciones fiscales en que incurran los contribuyentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 XII.- Las demás que le correspondan conforme a las Leyes, Reglamentos, Convenios de colaboración y Acuerdos del H. Ayuntamiento y del Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 33.
 
@@ -733,11 +735,11 @@ III.- Embargar precautoriamente los bienes o la negociación cuando el contribuy
 
 En el caso de la fracción II y agotados los actos señalados en la misma, los hechos se harán del conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legitimo de la autoridad competente.
 
-> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 La (sic) oficinas a que se refiere el primer párrafo de este artículo recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban sin hacer observaciones, ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contenga el nombre, denominación o razón social del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no acompañen los anexos o tratándose de declaraciones, estas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios. La recepción de los mencionados documentos no presume el correcto cumplimiento o pago del crédito fiscal, por parte del contribuyente.
 
-> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 Lo dispuesto en este precepto, no limita las facultades de revisión y comprobación de las autoridades fiscales.
 
@@ -891,7 +893,7 @@ En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rinda
 
 Sólo procederá la inconformidad cuando se interpongan contra los hechos u omisiones contenidas en las actas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -947,7 +949,7 @@ Bis.- El personal oficial que intervenga en los diversos trámites relativos a l
 
 ### CAPITULO I. REGLAS DE LA APLICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 58.
 
@@ -991,7 +993,7 @@ La solicitud de reducción o condonación de multas en los términos de este art
 
 Sólo procederá la reducción o condonación de multas que hayan quedado firmes, siempre que se solicite dentro de los seis días hábiles siguientes a dicha circunstancia y que un acto administrativo conexo no sea materia de impugnación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 64.
 
@@ -1059,7 +1061,7 @@ XV.- Por interponer o por entorpecer por cualquier medio para evitar los actos o
 
 Las infracciones cuya responsabilidad corresponda a terceros, se sancionará conforme a lo siguiente:
 
-I.- Consentir que se inscriban a su nombre en el Padrón Municipal de Contribuyentes negociaciones ajenas o percibir a nombre propio ingresos gravables que corresponda a otra persona, cuando este último traiga como consecuencia omisión de ingresos públicos para la hacienda municipal; multa de 10 a 10U0 S.M.G.
+I.- Consentir que se inscriban a su nombre en el Padrón Municipal de Contribuyentes negociaciones ajenas o percibir a nombre propio ingresos gravables que corresponda a otra persona, cuando este último traiga como consecuencia omisión de ingresos públicos para la hacienda municipal; multa de 10 a 1000 S.M.G.
 
 II.- Por no proporcionar los avisos, datos o documentos que conforme a las disposiciones fiscales deban hacerlo, o no exhibirlas en el plazo fijado, o no aclararlos cuando las autoridades fiscales municipales lo soliciten, multa de 10 a 150 S.M.G.
 
@@ -1303,7 +1305,7 @@ I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han ext
 
 II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley. En este caso, las violaciones cometidas antes del remate solo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material.
 
-> <small>(ADICIONADA, P.O 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 100 de este Código.
 
@@ -1331,11 +1333,11 @@ II.- Los agravios que le cause el acto o resolución impugnada; y
 
 III.- Las pruebas y los hechos controvertidos de que se trate.
 
-> <small>(REFORMADO, P.O 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Cuando no se manifieste alguno de los señalamientos a que se refiere este artículo, la autoridad fiscal requerirá al promovente para que dentro del término de 5 días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le causa la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna, se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrá por no ofrecidas las pruebas respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 98.
 
@@ -1375,7 +1377,7 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Que, hayan sido revocados por la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 100.
 
@@ -1471,7 +1473,7 @@ a).- Personalmente o por correo certificado con acuse de recibo, cuando se trate
 
 b).- Por correo ordinario o por telegrama cuando se trate de actos distintos de los señalados en el inciso anterior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1479,7 +1481,7 @@ c).- Por estrados, cuando la persona a quien deba notificarse se oponga a la dil
 
 d).- Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiere desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el territorio estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1523,7 +1525,7 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Las notificaciones por estrados se harán fijando durante cinco días hábiles el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día hábil siguiente a aquél en el que se hubiera fijado el documento y comenzará a surtir sus efectos ese mismo día.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1565,7 +1567,7 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero o fianza, una vez que el crédito fiscal y sus accesorios queden firmes, se aplicará por la Tesorería Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O EL 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. EL 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 116.
 
@@ -1611,13 +1613,13 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 Los contribuyentes podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 Asimismo se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1697,7 +1699,7 @@ No se cobrarán los gastos de ejecución a que se refiere este artículo, cuando
 
 Los honorarios por notificación de requerimientos y los gastos de ejecución improcedentes que se hayan cobrado y distribuido, serán devueltos de la recaudación de estos conceptos con base a las resoluciones que dicte la autoridad competente.
 
-> <small>(REFORMADO EN EL P.O EL 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO EN EL P.O. EL 29 DE DICIEMBRE DE 2000)</small>
 
 Se considerarán erogaciones extraordinarias las que se generen con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargados señalados en el artículo 125 fracción II de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -1705,7 +1707,7 @@ La autoridad recaudadora vigilará que las erogaciones extraordinarias a que se 
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora debiendo pagarse junto con las contribuciones omitidas y demás accesorios, en los términos de las disposiciones de éste Código.
 
-> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 Los honorarios y gastos de ejecución a que aluden las tarifas que anteceden, no son condonables, ni objeto de convenio alguno con la hacienda pública municipal, pasará a formar parte del fondo de administración tributaria, de la Tesorería Municipal y será distribuido de conformidad con la reglamentación y porcentajes que al efecto determine la propia Tesorería municipal.
 
@@ -1731,7 +1733,7 @@ El ejecutor designado por la Tesorería Municipal o sus unidades administrativas
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso se hizo por edictos o por estrados, la diligencia se entenderá con la autoridad Municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 127.
 
@@ -1745,7 +1747,7 @@ III.- Bienes muebles no comprendidos en las fracciones anteriores; y
 
 IV.- Bienes inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1853,7 +1855,7 @@ De las diligencias que se practiquen con estos motivos, se levantarán actas cir
 
 Cualquier otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El notificador-ejecutor la subsanará discrecionalmente a reserva de lo que disponga la Tesorería Municipal o sus unidades administrativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1861,7 +1863,7 @@ Cualquier otra dificultad que se suscite tampoco impedirá la prosecución de la
 
 Los embargos administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería Municipal estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2013,7 +2015,7 @@ Si se trata de bienes muebles o inmuebles cuyo valor no exceda de quinientas vec
 
 Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a quinientas veces el S.M.G. diario vigentes en la región, la convocatoria se publicará además en el Periódico Oficial del Estado, por una vez, y en uno de los periódicos de mayor circulación en la entidad durante tres días consecutivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 157.
 
@@ -2103,7 +2105,7 @@ II.- A falta de pujas; y
 
 III.- En el caso de posturas o pujas iguales, la adjudicación se hará al valor que corresponda para la almoneda de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170.
 
@@ -2137,7 +2139,7 @@ En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargad
 
 Una vez realizado el pago por el embargado, éste deberá reiterar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo se causarán derechos por almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinado conforme a la parte conducente del artículo 155 de este Código, se aplicarán a cubrir los adeudos que se generaren por éste concepto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2193,15 +2195,15 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILANO SOLIS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O 15 DE DICIEMBRE DE 1998.
+P.O. 15 DE DICIEMBRE DE 1998.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
-P.O 29 DE DICIEMBRE DE 2000.
+P.O. 29 DE DICIEMBRE DE 2000.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2252,3 +2254,9 @@ SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al 
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE ENERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Código fiscal Municipal, publicado el día quince de diciembre de 1997 en el entonces Periódico Oficial del Gobierno del Estado de Quintana Roo.
