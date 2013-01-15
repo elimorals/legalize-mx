@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2012-06-14"
+last_updated: "2013-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -323,15 +323,21 @@ II. Preventivas, y
 
 III. De naturaleza Civil.
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+
+Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
 
 ###### ARTÍCULO 29.
 
 Son órdenes de protección de emergencia las siguientes:
 
-I. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
-II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+I. Desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+
+II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad, y
 
@@ -1096,3 +1102,7 @@ D.O.F. 14 DE JUNIO DE 2012.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+D.O.F. 15 DE ENERO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
