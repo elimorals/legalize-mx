@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-de-la-suprema-corte-de-57755"
 country: "mx"
 rank: "otro"
 publication_date: "2006-11-14"
-last_updated: "2006-11-14"
+last_updated: "2013-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2013-01-15"
 
 CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADAS EN EL S.J.F. Y G. DE 15 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: DEROGADA.
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIV, Diciembre de 2006, página 1473.
 
@@ -671,3 +673,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que en cumplimiento de lo dispuesto en el artículo Primero Transitorio de las Condiciones generales de trabajo de la Suprema Corte de Justicia de la Nación que antecede, su depósito en la Comisión Substanciadora Única del Poder Judicial de la Federación quedaron formalizadas mediante el acuerdo que ésta dictó hoy, y que, por lo tanto, las propias Condiciones Generales de Trabajo entrarán en vigor mañana, veinticuatro de noviembre de dos mil seis.- México, Distrito Federal, a veintitrés de noviembre de dos mil seis.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. Y G. 15 DE ENERO DE 2013.
+
+PRIMERO. Las presentes Condiciones entrarán en vigor el día hábil siguiente al de su depósito ante la Comisión Substanciadora Única del Poder Judicial de la Federación.
+
+SEGUNDO. Se derogan las Condiciones Generales de Trabajo emitidas el trece de noviembre de dos mil seis y las disposiciones que se opongan a estas Condiciones.
+
+TERCERO. Publíquense estas Condiciones en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
