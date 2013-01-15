@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cultura-de-la-legalidad-del-estado-libre-y-soberano-9166
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE CULTURA DE LA LEGALIDAD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CULTURA DE LA LEGALIDAD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
@@ -315,8 +315,6 @@ En la elaboración del Programa deberá tomarse en cuenta el acervo cultural e h
 
 El Secretario Técnico del Consejo Estatal y los Secretarios Técnicos de los Consejos Municipales, serán los responsables de dar seguimiento y evaluar el grado de cumplimiento del Programa, así como proponer los ajustes o modificaciones que sean necesarios como resultado del análisis de su ejecución.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -359,6 +357,8 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 
-LA SECRETARIA DE CULTURA DEL ESTADO DE QUINTANA ROO.
+(F. DE. E., P.O. 15 DE ENERO DE 2013)
 
-LIC. LILIAN VILLANUEVA CHAN.
+EL SECRETARIO DE SALUD DEL ESTADO DE QUINTANA ROO.
+
+DR. RAFAEL ALPUCHE DELGADO.
