@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-a-la-lectura-y-el-libro-del-estado-de-91677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ROO"
 ---
 # LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. LA EDICIÓN DEL PERIÓDICO OFICIAL EN EL QUE SE PUBLICA ESTE ORDENAMIENTO PRESENTA INCONSISTENCIAS, POR LO QUE SE REPRODUCE LITERALMENTE.</small>
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, lunes 31 de diciembre de 2012.
 
@@ -389,8 +389,6 @@ Serán considerados, además, los gastos necesarios para aprovechar los adelanto
 
 La Secretaría de Cultura, por medio de la Dirección de Bibliotecas y Fomento a la Lectura, y con la participación del Consejo Estatal, dispondrá las medidas necesarias para el pleno aprovechamiento del presupuesto destinado a las bibliotecas públicas, considerando su administración, equipamiento e infraestructura, así como la contratación y capacitación de su personal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ARTÍCULOS TRANSITORIOS:
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
@@ -420,3 +418,15 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2013)</small>
+
+LA SECRETARIA DE CULTURA DEL ESTADO DE QUINTANA ROO.
+
+LIC. LILIAN VILLANUEVA CHAN.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2013)</small>
+
+EL SECRETARIO DE EDUCACION DEL ESTADO DE QUINTANA ROO.
+
+PROF. EDUARDO JOSE PATRÓN AZUETA.
