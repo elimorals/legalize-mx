@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2013-01-02"
+last_updated: "2013-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 265 PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -355,11 +353,17 @@ XII.- Por falta comprobada de cumplimiento al servicio;
 
 XIII.- Por prisión que sea resultado de una sentencia ejecutoriada;
 
-XIV.- Por pérdida de la confianza; y (sic)
+XIV.- Por pérdida de la confianza; y
 
-(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA 1: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+(NOTA 2: EL 20 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 80/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2008)</small>
 
@@ -757,9 +761,15 @@ Artículo 55 C.- Las madres, durante los seis meses siguientes al vencimiento de
 
 Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto o adopción, disfrutarán de un período de quince días naturales con goce de salario integro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
 
-(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA 1: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+(NOTA 2: EL 20 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 80/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2008)</small>
 
@@ -798,6 +808,12 @@ IV. Copia certificada del acta de nacimiento del trabajador.
 (NOTA 1: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 (NOTA 2: EL 3 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO ASÍ COMO EN EL RESOLUTIVO SEGUNDO, DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 50/2010, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE MAYO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+(NOTA 3: EL 20 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 80/2013, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE LA FECHA EN QUE SE TENGA POR RECIBIDA LA DOCUMENTACIÓN NECESARIA PARA SU TRAMITACIÓN, EN UN TÉRMINO DE TREINTA DÍAS DURANTE EL PERÍODO ORDINARIO DE SESIONES. EN CASO DE QUE LA LEGISLATURA SE ENCUENTRE EN RECESO, DEBERÁ CONTABILIZARSE DICHO TÉRMINO A PARTIR DE QUE INICIE EL PERÍODO ORDINARIO DE SESIONES INMEDIATO.
 
@@ -915,6 +931,10 @@ Para recibir esta prestación no se requiere edad determinada.
 
 El monto de la pensión mensual a que se refiere este artículo, en ningún caso podrá ser inferior al equivalente de 40 veces el salario mínimo general vigente en la entidad.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
+
+En todos los casos estarán sujetos a lo dispuesto por el párrafo primero del artículo 66 de esta Ley.
+
 ###### Artículo 59.
 
 La pensión por cesantía en edad avanzada, se otorgará al trabajador que habiendo cumplido cuando menos cincuenta y cinco años de edad, se separe voluntariamente del servicio público o quede separado del mismo con un mínimo de 10 años de servicio.
@@ -933,7 +953,9 @@ e).- Por catorce años de servicio 70%
 
 f).- Por quince años de servicio 75%
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
+
+En todos los casos estarán sujetos a lo dispuesto por el párrafo primero del artículo 66 de esta Ley.
 
 (REFORMADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -1011,9 +1033,11 @@ En ningún caso, el monto de la pensión podrá exceder de 300 veces el salario 
 
 Cuando sean varios los beneficiarios, la pensión se dividirá en partes iguales entre los previstos en los incisos que anteceden y conforme a la prelación señalada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2013)</small>
+
 ###### Artículo 66.
 
-Los porcentajes y montos de las pensiones a que se refiere este Capítulo se calcularán tomando como base el último salario percibido por el trabajador.
+Los porcentajes y montos de las pensiones a que se refiere este Capítulo, se calcularán tomando como base el último salario percibido por el trabajador; para el caso de las pensiones por jubilación y cesantía en edad avanzada, cuando el último salario mensual sea superior al equivalente de 600 salarios mínimos vigentes en la entidad, deberán acreditar, haber desempeñado cuando menos cinco años el cargo por el cual solicitan pensionarse, de no cumpiirse (sic) este plazo, el monto de la pensión se calculará tomando como tope los referidos 600 salarios mínimos vigentes en la entidad, y de acuerdo a los porcentajes que establece la Ley.
 
 La cuantía de las pensiones se incrementará de acuerdo con el aumento porcentual al salario mínimo general del área correspondiente al Estado de Morelos.
 
@@ -1221,7 +1245,7 @@ Transcurrido el plazo de diez días a que se refiere el Artículo 94, declarada 
 
 ###### Artículo 97.
 
-Si el Tribunal Estatal de Conciliación y Arbitraje resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en el supuesto de suspender las labores, el caso será considerado como abandono de trabajo y dictará las medidas que juzgue necesarias para evitar esa suspensión, quedando cesados por este solo hecho sin responsabilidad para el Gobierno del Estado o de los Municipios, los trabajadores que hubieren realizado la suspensión de labores.
+Si el Tribunal Estatal de Conciliación y Arbitraje resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en el supuesto de suspender las labores, el caso será considerado como abandono de trabajo y dictara las medidas que juzgue necesarias para evitar esa suspensión, quedando cesados por este solo hecho sin responsabilidad para el Gobierno del Estado o de los Municipios, los trabajadores que hubieren realizado la suspensión de labores.
 
 ###### Artículo 98.
 
@@ -1558,3 +1582,9 @@ P.O. 26 DE DICIEMBRE DE 2012.
 Artículo Primero.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico "Tierra y Libertad", órgano de difusión del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones de rango jerárquico normativo igual o inferior que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- Remítase al Poder Ejecutivo del Estado de Morelos, para los efectos de su promulgación en términos de los artículos 44, 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
