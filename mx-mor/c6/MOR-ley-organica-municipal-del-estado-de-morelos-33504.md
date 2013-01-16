@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2012-12-26"
+last_updated: "2013-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -873,11 +873,17 @@ LXII. Crear los comités, comisiones y consejos de carácter consultivo que se c
 
 LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que establece el artículo 42 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La cuenta pública podrá ser difundida en el Periódico Oficial o la Gaceta Municipal, atendiendo a la disponibilidad de recursos municipales. Por lo que hace a las remuneraciones y los tabuladores de sueldo autorizados, así como sus adecuaciones, éstos también cumplirán con el principio de publicidad;
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
+
+LXIV. Otorgar uniformes y un paquete de útiles escolares en concordancia con la lista oficial emitida por la Secretaría de Educación Pública, a las niñas y los niños de sus respectivos municipios que cursen el nivel básico.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el Ayuntamiento al momento de aprobar su presupuesto anual deberá contar con el padrón de estudiantes de nivel básico del municipio.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
-LXIV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+LXV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -2339,7 +2345,7 @@ El título de concesión deberá contener:
 
 I. Nombre y domicilio del concesionario;
 
-II. Servicio público concesionario;
+II. Servicio público concesionado;
 
 III. Centro de población o región donde se prestará el servicio público municipal concesionado;
 
@@ -3024,6 +3030,20 @@ P.O. 26 DE DICIEMBRE DE 2012.
 PRIMERO.- Remítase al Poder Ejecutivo para los efectos conducentes.
 
 SEGUNDO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 16 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
