@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2012-12-31"
+last_updated: "2013-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -856,15 +854,97 @@ VI. Descripción de las fianzas y garantías que se otorgarán en favor del cons
 
 VII. En lo relativo a los servicios de tiempo compartido a prestarse en el extranjero éstos podrán ser comercializados en la República Mexicana únicamente cuando las personas físicas o morales que ofrezcan y/o presten y/o comercialicen los servicios sean sujetos de comercio, en México, de conformidad con las leyes aplicables, y que se hayan constituido en lo general, así como en lo especial en materia de tiempo compartido o club vacacional, de conformidad con las leyes de su país de origen; en caso de ser omisas, las personas referidas en el párrafo anterior deberán acreditar fehacientemente que su representada es el dueño del inmueble y su autorización a ser destinado a la comercialización de tiempo compartido.
 
-> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
 
-ARTICULO 65 BIS.- Los proveedores personas físicas o sociedades mercantiles no regulados por leyes financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán registrar su contrato de adhesión ante la Procuraduría.
+ARTICULO 65 BIS.- Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o sociedades mercantiles no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria.
 
-Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas por las leyes vigentes a las instituciones del sistema financiero nacional.
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional.
 
-Los proveedores deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar, el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+La Procuraduría establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
 
-Los proveedores deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, la cual incluirá aspectos operativos tales como las características de la información que se debe proporcionar al consumidor, y los elementos de información que debe contener el contrato de adhesión que se utilice para formalizar las operaciones. Asimismo, deberá contener o permitir obtener para los principales servicios ofrecidos, la suma de todos los costos asociados a la operación.
+Para organizarse y operar se requiere la inscripción en el Registro de Casas de Empeño, que compete otorgar a la Procuraduría. Por su naturaleza, los derechos derivados de la inscripción son intransmisibles.
+
+La operación de una casa de empeño sin la inscripción en el Registro de Casas de Empeño se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 1.- Para obtener de la Procuraduría el registro para operar como casa de empeño se requiere, además de la documentación e información que la Procuraduría establezca mediante disposiciones de carácter general, los siguientes requisitos:
+
+I. Presentar solicitud por escrito dirigida a la Procuraduría con los siguientes datos:
+
+a) Nombre, denominación o razón social de la casa de empeño y, en su caso, del representante legal;
+
+b) Registro Federal de Contribuyentes;
+
+c) Domicilio del establecimiento matriz o de las oficinas en las que se asiente la administración de la casa de empeño;
+
+d) En su caso, domicilio de las sucursales en las que se prestará el servicio de casa de empeño;
+
+e) Domicilio para oír y recibir notificaciones;
+
+f) Fecha y lugar de la solicitud;
+
+II. Presentar documento con el que se acredite la personalidad jurídica del promovente. Tratándose de personas morales, se deberán presentar los documentos con los que se acredite su constitución y la personalidad jurídica de su representante; y
+
+III. Acompañar copia del formato de contrato de adhesión que se utilizará para las operaciones de mutuo con interés y garantía prendaria, el cual deberá cumplir, además de los requisitos que establece la presente ley, los que en su caso se encuentren establecidos por alguna norma oficial mexicana.
+
+No podrán ser socios, accionistas, administradores, directivos o representantes de las casas de empeño quienes hayan sido condenados por delitos patrimoniales, financieros o de delincuencia organizada. La violación a esta disposición se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis y con la cancelación definitiva del registro.
+
+La Procuraduría expedirá el resto de las disposiciones de carácter general que sean necesarias para la operación del registro, procurando su agilidad y economía, y considerará también las causales de suspensión y cancelación del mismo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 2.- Una vez cumplidos los requisitos establecidos en el artículo anterior, la Procuraduría inscribirá al solicitante en el registro público y emitirá la constancia que ampare dicho registro indicando un número único de identificación.
+
+La Procuraduría, dentro del plazo de noventa días naturales contados a partir de la recepción de la solicitud, deberá resolver sobre la inscripción en el registro y emitir la constancia correspondiente. Transcurrido dicho plazo, se entenderá que la resolución es en sentido negativo al solicitante.
+
+La Procuraduría deberá publicar cada año en el Diario Oficial de la Federación y de forma permanente en su sitio de Internet la lista de los proveedores inscritos en el registro.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 3.- Las casas de empeño deberán informar a la Procuraduría de cualquier cambio o modificación en la información solicitada en el artículo 65 Bis 1 de la presente ley mediante la presentación de un aviso dentro de los treinta días naturales siguientes a la fecha en que se realizó el cambio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 4.- Las casas de empeño deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos.
+
+Además, deberán informar el costo diario totalizado, así como el costo mensual totalizado, que se deberán expresar en tasas de interés porcentual sobre el monto prestado, los cuales, para fines informativos y de comparación, incorporaran la totalidad de los costos y gastos inherentes al contrato de mutuo durante ese periodo.
+
+La información a la que se refiere el presente artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable y permitir su fácil comprensión y comparación por parte de los consumidores.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 5.- Las casas de empeño deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, misma que determinará, entre otros, los elementos de información que se incluirán en el contrato de adhesión que se utilizará para formalizar las operaciones; las características de la información que se proporcionará al consumidor, y la metodología para determinar la información relativa a la totalidad de los costos asociados a la operación a que se refiere el artículo 65 Bis 4 de la presente ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 6.- Las casas de empeño deberán establecer procedimientos que le garanticen al pignorante la restitución de la prenda. En caso de que el bien sobre el que se constituyó la prenda haya sido robado, extraviado o sufra algún daño o deterioro, el pignorante podrá optar por la entrega del valor del bien conforme al avalúo o la entrega de un bien del mismo tipo, valor y calidad.
+
+Tratándose de metales preciosos, el valor de reposición del bien no podrá ser inferior al valor real que tenga el metal en el mercado al momento de la reposición.
+
+La infracción a este artículo se considerará particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 7.- La Procuraduría podrá celebrar convenios de colaboración o concertación con las asociaciones, cámaras, confederaciones u organismos de representación de las casas de empeño, con el objeto de coadyuvar en el cumplimiento de las disposiciones contenidas en la presente ley y las normas oficiales mexicanas aplicables.
+
+Las Casas de Empeño deberán hacer del conocimiento de la procuraduría estatal que corresponda, mediante un reporte mensual, los siguientes actos o hechos que estén relacionados con las operaciones que realizan, de acuerdo con lo que se establece a continuación:
+
+I. Los casos en que un cliente haya empeñado tres o más artículos iguales o de naturaleza similar en una o más sucursales o unidades de negocio de una misma casa de empeño.
+
+II. Cuando racionalmente se pueda estimar que existe un comportamiento atípico del pignorante que permite suponer que los bienes prendarios son objetos provenientes de hechos ilícitos.
+
+Para efectos de los supuestos contemplados en este artículo, las casas de empeño deberán proporcionar a la procuraduría estatal que corresponda los siguientes datos del cliente involucrado:
+
+I. Nombre;
+
+II. Domicilio;
+
+III. Copia de la identificación oficial contra la cual se cotejo la firma del contrato respectivo; y
+
+IV. Tipo de bien o bienes empeñados y el importe de los montos empeñados.
+
+En los casos en que se presuma la comisión de un delito, a solicitud del Ministerio Público las prendas empeñadas podrán quedar en calidad de depósito en la casa de empeño sin que se pueda disponer de ellas de forma alguna, hasta en tanto no se concluya la averiguación previa. Si concluida ésta el Ministerio Público determina que existen elementos para ejercer la acción penal, la custodia de las prendas quedará sujeta a lo que en su oportunidad dicte la autoridad competente. En caso de determinar que no existen elementos para ejercer la acción penal, el Ministerio Público competente notificará a la casa de empeño para liberar el mencionado depósito.
 
 ### Capítulo VII. De las operaciones a crédito
 
@@ -1712,11 +1792,11 @@ Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás di
 
 Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $ $428.81 a $1,372,195.89.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 32, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $643.22 a $2,515,692.48.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $617.41 a $2'414,759.14.
 
 (REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
 
@@ -2169,3 +2249,11 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 31 DE DICIEMBRE DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2013.
+
+D.O.F. 16 DE ENERO DE 2013.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las casas de empeño contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+Tercero. La Procuraduría Federal del Consumidor deberá ejecutar un programa de verificación de establecimientos y lugares en los que se ofertan al público contratos de mutuo con interés y garantía prendaria.
