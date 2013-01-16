@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2012-12-10"
+last_updated: "2013-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2013.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -221,7 +221,7 @@ I.- Cuando el juez que sea competente para conocer del asunto, se encuentre impe
 
 II.- Cuando la apertura o continuación de la causa ante el juez competente presente peligros para la seguridad o el orden públicos;
 
-III.- Cuando el inculpado sea de tal peligrosidad, que la cárcel del lugar no presente las seguridades debidas; y
+III.- Cuando el inculpado sea de tal peligrosidad, que la cárcel del lugar no presente las seguridades debidas; y,
 
 IV.- Cuando corra peligro la integridad corporal del inculpado si continúa su estancia dentro de la jurisdicción del juez competente.
 
@@ -301,7 +301,7 @@ Al ministerio público, se le entregarán los expedientes penales exclusivamente
 
 Si se perdiere algún expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida y además, se hará la consignación correspondiente al Ministerio Público.
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto que ordenó la aprehensión; en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que en ella se haga.
+Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto que ordenó la aprehensión; en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que de ella se haga.
 
 ###### ARTICULO 21.
 
@@ -371,7 +371,7 @@ Cuando no tenga que dictarse resolución alguna anterior a la sentencia, deberá
 
 ###### ARTICULO 34.
 
-Cuando esté plenamente comprobado en autos del delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
 
 Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios, si el funcionario a cuya disposición está el bien, estima necesaria esa garantía.
 
@@ -467,7 +467,7 @@ Cuando hubieren de ser examinados miembros del Cuerpo Diplomático Mexicano que 
 
 ###### ARTICULO 50.
 
-Cuando un tribunal o juez no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encargaren, por tener que verificarse en población distinta, pero dentro de su jurisdicción, podrá encomendar su ejecución el juez correspondiente, remitiéndole el exhorto original, o un oficio con las inserciones necesarias, si aquél, no pudiera mandarse.
+Cuando un tribunal o juez no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encargaren, por tener que verificarse en población distinta, pero dentro de su jurisdicción, podrá encomendar su ejecución al juez correspondiente, remitiéndole el exhorto original, o un oficio con las inserciones necesarias, si aquél, no pudiera mandarse.
 
 ###### ARTICULO 51.
 
@@ -549,7 +549,7 @@ En la misma forma que determina este Capítulo se procederá, cuando mediare exh
 
 ###### ARTICULO 64.
 
-Los términos judiciales son improrrogables y empezarán a correr desde el día siguiente al en que se hubiere hecho la notificación. No se incluirán en esos términos los sábados, los domingos, ni los días decretados como inhábiles por el Consejo de la Judicatura del Poder Judicial del Estado, salvo que se trate de tomar la declaración preparatoria o del término constitucional para resolver la situación jurídica de un indiciado.
+Los términos judiciales son improrrogables y empezarán a correr desde el día siguiente al que se hubiere hecho la notificación. No se incluirán en esos términos los sábados, los domingos, ni los días decretados como inhábiles por el Consejo de la Judicatura del Poder Judicial del Estado, salvo que se trate de tomar la declaración preparatoria o del término constitucional para resolver la situación jurídica de un indiciado.
 
 ###### ARTICULO 65.
 
@@ -571,13 +571,13 @@ Las citaciones podrán hacerse verbalmente o por cédula, o por telégrafo, anot
 
 La cédula y el telegrama contendrán:
 
-I.- La designación legal de la autoridad ante la que deba presentarse el citado y la ubicación de su oficina.
+I.- La designación legal de la autoridad ante la que deba presentarse el citado y la ubicación de su oficina;
 
 II.- El nombre, apellido y domicilio del citado si se supieren, o en caso contrario, los datos de que se disponga para identificarlo;
 
 III.- El día, hora y lugar en que debe comparecer;
 
-IV.- El medio de apremio que se empleará si no compareciere; y
+IV.- El medio de apremio que se empleará si no compareciere; y,
 
 V.- La firma o la transcripción de la firma del funcionario que ordena la citación.
 
@@ -669,7 +669,7 @@ Si es el defensor quien altera el orden, se le apercibirá; y si continúa en la
 
 ###### ARTICULO 84.
 
-Las resoluciones judiciales se clasifican en: decretos, si se refieren a simples determinaciones de trámite; sentencias, si terminan la instancia resolviendo el asunto en lo principal y decidiendo en su caso, sobre la responsabilidad civil, y autos, en cualquiera otro caso.
+Las resoluciones judiciales se clasifican en: decretos, si se refieren a simples determinaciones de trámite; sentencias, si terminan la instancia resolviendo el asunto en lo principal y decidiendo en su caso, sobre la responsabilidad civil; y, autos, en cualquiera otro caso.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1993)</small>
 
@@ -783,7 +783,7 @@ Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, ex
 
 ###### ARTICULO 103.
 
-El Ministerio Público y sus auxiliares, de acuerdo con las órdenes que reciban de aquéllos, están obligados a proceder de oficio con la investigación de los delitos de que tenga noticia.
+El Ministerio Público y sus auxiliares, de acuerdo con las órdenes que reciban de aquéllos, están obligados a proceder de oficio con la investigación de los delitos de que tengan noticia.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -849,7 +849,7 @@ Para la de querellas, si el ofendido es una persona física, sólo se admitirá 
 
 ###### ARTICULO 110.
 
-Cuando en un negocio judicial se alegue sobre la falsedad de un documento, o el tribunal tenga duda fundada sobre su autenticidad, se podrá dar vista al Agente del Ministerio Público, y si e lo solicita, se desglosará de los autos, dejando en ellos copia certificada, o en su defecto, copia fotostática del propio documento, mismo que con las constancias conducentes se remitirán al Ministerio Público con la firma del magistrado o juez y el secretario que corresponda.
+Cuando en un negocio judicial se alegue sobre la falsedad de un documento, o el tribunal tenga duda fundada sobre su autenticidad, se podrá dar vista al Agente del Ministerio Público, y si éste lo solicita, se desglosará de los autos, dejando en ellos copia certificada, o en su defecto, copia fotostática del propio documento, mismo que con las constancias conducentes se remitirán al Ministerio Público con la firma del magistrado o juez y el secretario que corresponda.
 
 ###### ARTICULO 111.
 
@@ -969,11 +969,11 @@ La víctima u ofendido podrá recurrir la resolución dentro del término de 15 
 
 El recurso de revisión deberá cumplir los siguientes requisitos:
 
-I.- Presentarse por escrito ante el Agente del Ministerio Público que emitió la resolución;
+I.- Presentarse por escrito ante el Agente del Ministerio Público que emitió la resolución.
 
-II.- Nombre y firma autógrafa del promovente;
+II.- Nombre y firma autógrafa del promovente.
 
-III.- Señalar domicilio para recibir notificaciones y en su caso, a quién en su nombre las pueda recibir;
+III.- Señalar domicilio para recibir notificaciones y en su caso, a quién en su nombre las pueda recibir.
 
 IV.- Expresar los agravios que le causa la resolución.
 
@@ -1425,13 +1425,11 @@ Se considerará que hay delito flagrante cuando el indiciado es detenido en el m
 
 En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio o perseguible previa querella u otro requisito equivalente, que ya se encuentre satisfecho, o bien ordenará la libertad del detenido.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 157.
 
-En casos urgentes el Ministerio Público podrá, bajo su responsabilidad ordenar por escrito la detención de una persona, fundado y expresando los indicios que acredite:
+En casos urgentes el Ministerio Público podrá, bajo su responsabilidad ordenar por escrito la detención de una persona, fundando y expresando los indicios que acredite:
 
 A) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo;
 
@@ -1441,9 +1439,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012) (F. DE E., P.O. 16 DE ENERO DE 2013)
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 325 fracción IX, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con los artículos 260, 260 bis y 260 ter; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 325 fracción IX, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358 y 358 bis fracciones II y III; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -1825,7 +1823,7 @@ Los peritos practicarán todas las operaciones y experimentos que su ciencia o a
 
 ###### ARTICULO 219.
 
-Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario,
+Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
 
 ###### ARTICULO 220.
 
@@ -1843,7 +1841,7 @@ Cuando el funcionario que practique las diligencias lo crea conveniente, podrá 
 
 Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
 
-I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando las averiguación, y, en ese caso, se levantará el acta correspondiente; y,
+I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación, y, en ese caso, se levantará el acta correspondiente; y,
 
 II.- El cotejo se hará con documentos indubitables o con los que las partes de común acuerdo reconozcan como tales; con aquéllos cuya letra o firma haya sido reconocida judicialmente, y con el escrito impugnado en la parte en que reconozca la letra como suya aquél a quién perjudique.
 
@@ -1965,7 +1963,7 @@ Si alguna de las partes solicita que se observen mayores precauciones que las pr
 
 ###### ARTICULO 246.
 
-El que deba ser confrontado puede elegir el sitio en que quiera colocarse con relación a los que lo acompañen y pedir que se excluya del grupo a cualquiera persona que le parezca sospechosa se podrá limitar prudentemente el uso de este derecho cuando se considere malicioso o perjudique el resultado de la prueba.
+El que deba ser confrontado puede elegir el sitio en que quiera colocarse con relación a los que lo acompañen y pedir que se excluya del grupo a cualquiera persona que le parezca sospechosa. Se podrá limitar prudentemente el uso de este derecho cuando se considere malicioso o perjudique el resultado de la prueba.
 
 ###### ARTICULO 247.
 
@@ -1997,7 +1995,7 @@ El careo solamente se practicará entre dos personas y no concurrirán a la dili
 
 ###### ARTICULO 251.
 
-Nuca se hará constar en un diligencia más de un careo. La autoridad que contravenga esta disposición incurre en responsabilidad.
+Nunca se hará constar en una diligencia más de un careo. La autoridad que contravenga esta disposición incurre en responsabilidad.
 
 ###### ARTICULO 252.
 
@@ -2027,13 +2025,13 @@ La correspondencia particular y demás documentos privados, presentados u ofreci
 
 ###### ARTICULO 258.
 
-Cuando se considere que en la correspondencia dirigida al inculpado puedan encontrarse pruebas del delito que motiva la instrucción, en tribunal de oficio o a petición de parte legítima, ordenará que dicha correspondencia se recoja cerrada y se ponga inmediatamente a su disposición.
+Cuando se considere que en la correspondencia dirigida al inculpado puedan encontrarse pruebas del delito que motiva la instrucción, el tribunal de oficio o a petición de parte legítima, ordenará que dicha correspondencia se recoja cerrada y se ponga inmediatamente a su disposición.
 
 ###### ARTICULO 259.
 
 La correspondencia recogida se abrirá por el juez en presencia de su secretario, del Ministerio Público y del inculpado, si estuviere en el lugar.
 
-En seguida, el juez leerá para sí la correspondencia; si no tuviere relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia si aquél no estuviere presente; si tuviera relación le comunicará su contenido y la mandará agregar al expediente.
+En seguida, el juez leerá para sí la correspondencia; si no tuviere relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, si aquél no estuviere presente; si tuviera relación le comunicará su contenido y la mandará agregar al expediente.
 
 ###### ARTICULO 260.
 
@@ -2045,7 +2043,7 @@ Cuando a solicitud de parte legítima, el tribunal mande sacar testimonio de doc
 
 En caso de resistencia fundada del tenedor del documento, el tribunal oyendo a aquél y a las partes presentes, resolverá de plano sobre si debe hacerse la exhibición.
 
-Todas las Instituciones y dependencias oficiales, así como las particulares a que se refieren los párrafos anteriores, residentes en la Entidad, están obligados a rendir los informes o expedir las copias que le soliciten tanto los tribunales, cono el Ministerio Público y que deban servir como prueba para la investigación de un delito.
+Todas las Instituciones y dependencias oficiales, así como las particulares a que se refieren los párrafos anteriores, residentes en la Entidad, están obligados a rendir los informes o expedir las copias que le soliciten tanto los tribunales, como el Ministerio Público y que deban servir como prueba para la investigación de un delito.
 
 ###### ARTICULO 262.
 
@@ -2091,7 +2089,7 @@ Los documentos privados solo harán prueba plena contra su autor, si fueren judi
 
 ###### ARTICULO 268.
 
-La inspección judicial, así como el resultado de los visitas domiciliarias o cateos, harán prueba plena, siempre que se practiquen con los requisitos que señala esta Ley.
+La inspección judicial, así como el resultado de las visitas domiciliarias o cateos, harán prueba plena, siempre que se practiquen con los requisitos que señala esta Ley.
 
 ###### ARTICULO 269.
 
@@ -2153,7 +2151,7 @@ VIII. La conciliación, prevista en los términos del Código Penal, o la soluci
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-En los casos sobreseimiento siempre será el Juez o Magistrado el que decida si procede o no;
+En los casos de sobreseimiento siempre será el Juez o Magistrado el que decida si procede o no;
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2201,7 +2199,7 @@ El Ministerio Público, al formular su conclusiones, hará una exposición breve
 
 ###### ARTICULO 284.
 
-En el primer caso de la parte final del artículo anterior, deberá fijar en proposiciones concretas, los hechos punibles que atribuya al acusado, precisar cómo intervino el sujeto en términos del artículo 13 del código penal, solicitar la aplicación de las sanciones correspondientes, citar las leyes aplicables al caso debidamente fundadas y motivadas. Estas proposiciones deberán contener los elementos constitutivos del delito y las circunstancias atenuantes o agravantes que deban tomase en cuenta para imponer la sanción.
+En el primer caso de la parte final del artículo anterior, deberá fijar en proposiciones concretas, los hechos punibles que atribuya al acusado, precisar cómo intervino el sujeto en términos del artículo 13 del código penal, solicitar la aplicación de las sanciones correspondientes, citar las leyes aplicables al caso debidamente fundadas y motivadas. Estas proposiciones deberán contener los elementos constitutivos del delito y las circunstancias atenuantes o agravantes que deban tomarse en cuenta para imponer la sanción.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2233,7 +2231,7 @@ Si al concluirse el término concedido al acusado y a su defensor, éstos no hub
 
 ###### ARTICULO 289.
 
-Transcurrido el término de cinco días que establece el Artículo 282, sin que las conclusiones fueren presentadas, el juez de oficio o a solicitud de parte prevendrá al Agente del Ministerio Público para que las formule dentro de un término suplementario de otros cinco días y así lo hará saber por oficio urgente al Procurador General de Justicia, quien tomará las providencias necesarias, a fin de que el Agente del Ministerio Público omiso cumpla con tal determinación judicial; si a pesar de ello no se formulan en tiempo las conclusiones, el agente del Agente del Ministerio Público será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+Transcurrido el término de cinco días que establece el Artículo 282, sin que las conclusiones fueren presentadas, el juez de oficio o a solicitud de parte prevendrá al Agente del Ministerio Público para que las formule dentro de un término suplementario de otros cinco días y así lo hará saber por oficio urgente al Procurador General de Justicia, quien tomará las providencias necesarias, a fin de que el Agente del Ministerio Público omiso cumpla con tal determinación judicial; si a pesar de ello no se formulan en tiempo las conclusiones, e (sic) Agente del Ministerio Público será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 ### CAPITULO III. PROCEDIMIENTO ANTE LOS JUECES MENORES
 
@@ -2315,13 +2313,13 @@ Al declararse la ejecutoriedad de la sentencia, el Juez ordenará poner al sente
 
 ###### ARTICULO 303.
 
-Solamente los autos contra los cuales no se concede por este Código, el recurso de apelación, será revocable por el tribunal que los dictó.
+Solamente los autos contra los cuales no se concede por este Código, el recurso de apelación, serán revocables por el tribunal que los dictó.
 
 También lo serán las resoluciones que se dicten en segunda instancia, antes de la sentencia.
 
 ###### ARTICULO 304.
 
-El recurso deberá interponerse en el acto de la notificación o dentro de las veinticuatro horas siguientes. El tribunal del conocimiento lo resolverá de plano si estimare que no es necesario oír a las partes; en caso contrario, la citará a un audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
+El recurso deberá interponerse en el acto de la notificación o dentro de las veinticuatro horas siguientes. El tribunal del conocimiento lo resolverá de plano si estimare que no es necesario oír a las partes; en caso contrario, la citará a una audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
 
 ### CAPITULO III. DENEGADA APELACION
 
@@ -2527,11 +2525,11 @@ La misma multa a que se refiere el artículo 306, se impondrá al defensor cuand
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 331 BIS.- Procede el recurso de revisión en contra de las resoluciones dictadas por el agente del ministerio público en las que resolvió el no ejercicio de la acción penal, una vez autorizada por el Procurador General de Justicia, la citada resolución, será notificada personalmente, al denunciante, querellante o sus representantes legales, haciéndoles saber el derecho y término para recurrirla dentro del término de quince días hábiles a partir del día siguiente de la notificación por escrito, en el cual se expresarán los agravios correspondientes.
+ARTICULO 331 BIS.- Procede el recurso de revisión en contra de las resoluciones dictadas por el agente del ministerio público en las que resolvió el no ejercicio de la acción penal, una vez autorizada por el Procurador General de Justicia, la citada resolución, será notificada personalmente, al denunciante, querellante o sus representantes legales, haciéndole saber el derecho y término para recurrirla dentro del término de quince días hábiles a partir del día siguiente de la notificación por escrito, en el cual se expresarán los agravios correspondientes.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-Podrán interponer el recurso, el denunciante, querellante o su s representantes legales, por conducto del agente del ministerio público que resolvió el no ejercicio de la acción penal, y éste a su vez remitirá el expediente al juez competente, quien dentro del término de quince días resolverá lo procedente.
+Podrán interponer el recurso, el denunciante, querellante o sus representantes legales, por conducto del agente del ministerio público que resolvió el no ejercicio de la acción penal, y éste a su vez remitirá el expediente al juez competente, quien dentro del término de quince días resolverá lo procedente.
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
@@ -2543,7 +2541,7 @@ El recurso de denegada apelación procede cuando ésta se haya negado, o cuando 
 
 ###### ARTICULO 333.
 
-El recurso deberá interponerse por escrito ante el Supremo Tribunal de Justicia, dentro de los tres días siguientes al en (sic) se notifique la resolución que niegue la apelación.
+El recurso deberá interponerse por escrito ante el Supremo Tribunal de Justicia, dentro de los tres días siguientes al en que se notifique la resolución que niegue la apelación.
 
 Dentro del plazo señalado, el interesado hará del conocimiento al juez que dictó la resolución impugnada, sobre la interposición del recurso, acompañando al efecto copia de la promoción correspondiente.
 
@@ -2657,7 +2655,7 @@ I. En depósitos en efectivo, hecho por el inculpado o por terceras personas, an
 
 II. En caución hipotecaria otorgada por el inculpado o por terceras personas con las formalidades de una hipoteca voluntaria, sobre inmuebles que no tengan gravamen alguno y cuyo valor catastral sea, cuando menos dos veces el monto de la suma fijada, para lo cual se exhibirán los certificados registrales y catastrales como anexos del testimonio de la hipoteca.
 
-III. En garantía prendaria otorgada mediante la entrega de bienes muebles cuyo valor determinado por peritos oficiales, sea cuando menos dos veces el monto de la suma fijada como caución. En este caso el Tribunal o el Juzgado correspondiente fijarán el lugar en que se ha constituido el depósito de los bienes otorgados en prenda y expedirá la constancia respectiva.
+III. En garantía prendaria otorgada mediante la entrega de bienes muebles cuyo valor determinado por peritos oficiales, sea cuando menos dos veces el monto de la suma fijada como caución. En este caso el Tribunal o el Juzgado correspondiente fijarán el lugar en que será constituido el depósito de los bienes otorgados en prenda y expedirá la constancia respectiva.
 
 IV. En fianza personal bastante que podrá ser otorgada en la siguiente forma:
 
@@ -2737,7 +2735,7 @@ IX. En el caso del párrafo segundo del artículo 338 bis.
 
 ###### ARTICULO 351.
 
-Cuando un tercero haya garantizado la libertad del inculpado por medio de depósito en effectivo (sic), fianza o hipoteca, aquélla se revocará:
+Cuando un tercero haya garantizado la libertad del inculpado por medio de depósito en eefctivo (sic), fianza o hipoteca, aquélla se revocará:
 
 I.- En los casos que se mencionan en el artículo anterior;
 
@@ -3027,19 +3025,19 @@ Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos sigu
 
 I.- Cuando el responsable se hubiere substraído a la acción de la justicia;
 
-II.- Cuando pierda la razón el procesado, cualquiera que sea el estado del proceso; y (sic)
+II.- Cuando pierda la razón el procesado, cualquiera que sea el estado del proceso; y, (sic)
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-III. Cuando se ejercite acción penal con detenido, en el que el indiciado se encuentre inconsciente en un hospital de la jurisdicción del juez, se levantará el acta circunstanciada y justificando la imposibilidad de declarar, se suspenderá el procedimiento. Desaparecidas las causas se ordenará la continuación del procedimiento siempre y cuando se trate de delitos que se sancione (sic) con pena privativa de libertad;
+III. Cuando se ejercite acción penal con detenido, en el que el indiciado se encuentre inconsciente en un hospital de la jurisdicción del juez, se levantará el acta circunstanciada y justificando la imposibilidad de declarar, se suspenderá el procedimiento. Desaparecidas las causas se ordenará la continuación del procedimiento siempre y cuando se trate de delitos que se sancione (sic) con pena privativa de libertad.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-IV. Cuando se hubiere promovido amparo contra el auto de formal prisión, se suspenderá el procedimiento una vez cerrada la instrucción respecto del quejoso hasta en tanto se notifique la resolución que recaiga en el amparo;
+IV. Cuando se hubiere promovido amparo contra el auto de formal prisión, se suspenderá el procedimiento una vez cerrada la instrucción respecto del quejoso hasta en tanto se notifique la resolución que recaiga en el amparo.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-V. Cuando exista apelación en contra de un auto de formal prisión o de un incidente de desvanecimiento de datos que haya negado la libertad, se suspenderá el procedimiento una vez cerrada la instrucción hasta en tanto se resuelve dicho recurso por el superior;
+V. Cuando exista apelación en contra de un auto de formal prisión o de un incidente de desvanecimiento de datos que haya negado la libertad, se suspenderá el procedimiento una vez cerrada la instrucción hasta en tanto se resuelve dicho recurso por el superior.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3265,11 +3263,13 @@ Contra la resolución que dicte el tribunal en la audiencia a que se refiere est
 
 ###### ARTICULO 435.
 
-Si se tiene por acreditado que el estado mental del inculpado no le permite darse cuenta del procedimiento, éste dejará de ser ordinario y se abrirá el especial en el que se encomienda al recto criterio y a la prudencia del tribunal, la forma de investigar la existencia del hecho delictuoso que se impute, la participación que en él hubiere tenido el inculpado y de estudiar su personalidad, sin tener que sujetarse a las normas procesales establecidas por este Código. Al concluirse la investigación, si el Ministerio Público solicita la aplicación del artículo 81 y 82 del Código Penal, el Tribunal, previa audiencia de dicho funcionario, del defensor y del representante legal del inculpado, si lo tuviere, dictará la resolución que corresponda en los términos del artículo siguiente.
+Si se tiene por acreditado que el estado mental del inculpado no le permite darse cuenta del procedimiento, éste dejará de ser ordinario y se abrirá el especial en el que se encomienda al recto criterio y a la prudencia del tribunal, la forma de investigar la existencia del hecho delictuoso que se impute, la participación que en él hubiere tenido el inculpado y de estudiar su personalidad, sin tener que sujetarse a las normas procesales establecidas por este Código. Al concluirse la investigación, si el Ministerio Público solicita la aplicación de los artículos 81 y 82 del Código Penal, el Tribunal, previa audiencia de dicho funcionario, del defensor y del representante legal del inculpado, si lo tuviere, dictará la resolución que corresponda en los términos del artículo siguiente.
 
 ###### ARTICULO 436.
 
-Cuando se compruebe la existencia del hecho delictuoso y que en él tuvo participación el inculpado, el tribunal ordenará la reclusión en los términos que fije el Código Penal. En caso contrario, se dará por terminada la reclusión provisional, dándose aviso a las autoridades administrativas competentes para que tomen las providencias que sean pertinentes. Las resoluciones a que se refiere este artículo serán apelables en el efecto devolutivo.
+Cuando se compruebe la existencia del hecho delictuoso y que en él tuvo participación el inculpado, el tribunal ordenará la reclusión en los términos que fije el Código Penal. En caso contrario, se dará por terminada la reclusión provisional, dándose aviso a las autoridades administrativas competentes para que tomen las providencias que sean pertinentes.
+
+Las resoluciones a que se refiere este artículo serán apelables en el efecto devolutivo.
 
 ###### ARTICULO 437.
 
@@ -3377,7 +3377,7 @@ Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otor
 
 Cuando por alguna de las causas que señala el artículo 80 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que concedió ésta procederá, con audiencia del Ministerio Público, del reo y de su defensor, sí fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
 
-### CAPITULO IV
+### CAPITULO IV. RETENCION
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3579,13 +3579,13 @@ XVI. Las demás que le determinen las leyes y Reglamento Interior.
 
 1o. Este Código entrará en vigor a partir del día siguiente a su publicación.
 
-2o. Desde esa misma fecha queda abrogado el Código de Procedimientos Penales para el Estado de Nayarit, adoptado conforme a lo dispuesto en el artículo segundo del Decreto número 1753, promulgado el primero de enero de mil novecientos treinta y ocho, salvo lo expresado en los dos artículos siguientes.
+2o. Desde esa misma fecha queda abrogado el Código de Procedimientos Penales para el Estado de Nayarit, adoptado conforme a lo dispuesto en el artículo segundo del Decreto número 1736, promulgado el primero de enero de mil novecientos treinta y ocho, salvo lo expresado en los dos artículos siguientes.
 
 3o. Todos los asuntos que se encuentren en trámite al comenzar la vigencia del presente Código, se sujetarán a las disposiciones de éste, excepto tratándose de los recursos de apelación ya admitidos en segunda instancia, que deberán continuarse hasta su terminación, conforme a las disposiciones del Código anterior.
 
 4o. Los términos que estén corriendo al comenzar a regir este Código, se computarán conforme a las disposiciones del mismo, o del anterior, aplicándose los que señalen mayor tiempo.
 
-D A D O en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los treinta días del mes de agosto de mil novecientos setenta y nueve.
+D A D O en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los treinta días del mes de agosto de mil novecientos sesenta y nueve.
 
 Dip. Vice-Presidente.
 
@@ -3715,7 +3715,7 @@ P.O. 24 DE DICIEMBRE DE 2008.
 
 Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
-P.O. 25 DE NOVIEMBRE 2009.
+P.O. 25 DE NOVIEMBRE DE 2009.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
