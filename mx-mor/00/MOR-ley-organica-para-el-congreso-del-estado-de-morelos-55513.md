@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2012-12-14"
+last_updated: "2013-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -875,6 +875,16 @@ Las Comisiones Ordinarias serán las siguientes:
 
 28. Investigación y Relaciones Interparlamentarias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
+
+###### Artículo 59 Bis.
+
+Las comisiones especiales serán las siguientes:
+
+1.- Comisión de Energía.
+
 ###### Artículo 60.
 
 Corresponde a la Comisión de Puntos Constitucionales y Legislación, el conocimiento y dictamen de los asuntos siguientes:
@@ -1313,9 +1323,23 @@ I. Conocer y dictaminar sobre las iniciativas en materia de turismo;
 
 II. Conocer de los asuntos que se relacionen con los programas y acciones que contribuyan al desarrollo de la actividad turística en el Estado;
 
-III. Emitir opinión sobre los proyectos y programas que se relacionen con la infraestructura turística; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2013)</small>
 
-IV. Las demás que le sean turnadas por Mesa Directiva del Congreso del Estado y que no sean materia de otra comisión.
+III. Emitir opinión sobre los proyectos y programas que se relacionen con la infraestructura turística;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
+
+IV. Implementar e impulsar foros de consulta para conocer las demandas que aquejan al sector público social y privado y proponer medidas de atención;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
+
+V. Promover estudios y diagnósticos de investigación, como instrumentos de consulta y apoyo en la creación y diseño de políticas públicas;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
+
+VI. Promover la coordinación entre los tres niveles de gobierno; y
+
+VII. Las demás que le sean turnadas por Mesa Directiva del Congreso del Estado y que no sean materia de otra comisión.
 
 ###### Artículo 82.
 
@@ -1370,6 +1394,26 @@ VI. Fomentar las relaciones y cooperación con los organismos parlamentarios mun
 VII. Realizar estudios e investigaciones al marco normativo del Congreso y de los Congresos Estatales; y
 
 VIII. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
+
+###### Artículo 83 Ter.
+
+A la Comisión especial de Energía, le corresponde conocer y dictaminar, en su caso, los siguientes asuntos:
+
+a) Que sean turnados por la Mesa Directiva a fin de resolver mediante Leyes, acuerdos o pronunciamientos, la problemática sobre la suficiencia energética para satisfacer las necesidades humanas, comerciales y agrícolas y abastecimiento;
+
+b).- Relacionados con la promoción del desarrollo sustentable, tales como la educación energética, ecoeficiencia, salud ocupacional, transporte alternativo, y todas aquellas que persigan objetivos en este sentido;
+
+c) Dar cauce y contestación a las peticiones ciudadanas, así como hacer del conocimiento de las autoridades competentes los asuntos que le sean turnados;
+
+d) Representar al Congreso ante los organismos gubernamentales, del sector productivo, ambiental y de la sociedad civil cuya función tenga relación directa con la materia energética.
+
+e) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
+
+f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2264,3 +2308,33 @@ P.O. 14 DE DICIEMBRE DE 2012.
 Primero.- El presente decreto entrará en vigor al momento de su aprobación por este Congreso.
 
 Segundo.- Remítase al titular del Poder Ejecutivo para su divulgación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 16 DE ENERO DE 2013.
+
+DECRETO NÚMERO DOSCIENTOS ONCE, POR EL QUE SE ADICIONA EL ARTÍCULO 59 BIS Y CREA EL ARTÍCULO 83 TER DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS.
+
+PRIMERO.- Una vez aprobado por el pleno, el presente decreto entrará en vigor el primer día del Segundo Periodo Ordinario de sesiones de la LII Legislatura.
+
+SEGUNDO.- La Junta Política y de Gobierno hará la propuesta de los integrantes de las fracciones y Grupos parlamentarios que conformarán esta Comisión.
+
+TERCERO.- La Comisión Especial tendrá una duración de cinco periodos legislativos.
+
+CUARTO.- La Presidencia de la Comisión Especial de Energía será rotativa cada periodo legislativo, iniciando con el Grupo Parlamentario de mayor representación.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE ENERO DE 2013.
+
+DECRETO NÚMERO DOSCIENTOS DOCE, POR EL QUE SE REFORMA EL ARTÍCULO 81 MODIFICANDO LA FRACCIÓN III, SE ADICIONAN LAS FRACCIONES IV, V Y VI, SE RECORRE LA FRACCIÓN IV PARA QUEDAR EN LA VII POSICIÓN, DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en la Gaceta Legislativa y remítase para su divulgación al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
