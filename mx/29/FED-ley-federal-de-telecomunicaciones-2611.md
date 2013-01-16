@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "2012-04-17"
+last_updated: "2013-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-06"
 
 LEY FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -837,6 +837,12 @@ Los concesionarios de derechos de emisión y recepción de señales de satélite
 
 Los concesionarios y permisionarios fijarán libremente las tarifas de los servicios de telecomunicaciones en términos que permitan la prestación de dichos servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+En el caso de servicios de telecomunicaciones que se ofrecen al público consumidor con cargos por concepto de la duración de las comunicaciones, los concesionarios y permisionarios deberán incluir dentro de su oferta comercial planes y tarifas, el cobro por segundo, sin perjuicio de otros planes que se basen en el cobro por minuto, por evento, por capacidad o cualquier otra modalidad.
+
 ###### Artículo 61.
 
 Las tarifas deberán registrarse ante la Secretaría previamente a su puesta en vigor. Los operadores no podrán adoptar prácticas discriminatorias en la aplicación de las tarifas autorizadas.
@@ -1166,3 +1172,9 @@ Artículo Segundo.- La Secretaría de Gobernación y la Comisión Federal de Tel
 Artículo Tercero.- La disposición contenida en la fracción XVI del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor a los 60 días de la publicación en el Diario Oficial de la Federación del presente Decreto.
 
 Artículo Cuarto.- Los concesionarios y permisionarios de redes públicas de telecomunicaciones contarán con doce meses a partir de la entrada en vigor del presente Decreto para realizar las actualizaciones tecnológicas que garanticen una mayor precisión en la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea, sin que este plazo permita desatender las obligaciones de localización geográfica con el equipo disponible.
+
+D.O.F. 16 DE ENERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los operadores de redes públicas de Telecomunicaciones realizarán las adecuaciones necesarias a sus sistemas de facturación e infraestructura y elaborarán los planes y tarifas considerando el segundo como criterio de medición y cobro, de igual forma, registrarán la tarifa de cobro por segundo, previo a su puesta en vigor, de acuerdo con lo señalado en los artículos 61 y 64, fracción VIII de la Ley Federal de Telecomunicaciones.
