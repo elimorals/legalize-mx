@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-693
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-29"
-last_updated: "2009-07-29"
+last_updated: "2013-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de julio de 2009.
 
@@ -270,3 +272,35 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Los poderes del Estado y los municipios deberán hacer las adecuaciones internas necesarias para el cumplimiento de los objetivos de esta Ley, en un plazo no mayor de ciento ochenta días a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Las y los titulares de las instancias del gobierno estatal, propondrán al Titular del Ejecutivo, las reformas a los reglamentos internos y orgánicos necesarias para el cumplimiento de esta Ley, dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal deberá instalarse dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, y emitirá el Programa Estatal dentro de los ciento ochenta días hábiles siguientes a su instalación en pleno acatamiento al Plan Estatal de Desarrollo.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, dentro de los noventa días hábiles siguientes a la entrada en vigor de la misma.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" de fecha 29 de julio de 2009.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que contravengan a la presente Ley.
