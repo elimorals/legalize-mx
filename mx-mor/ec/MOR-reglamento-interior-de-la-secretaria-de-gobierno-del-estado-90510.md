@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2012-12-14"
+last_updated: "2013-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2013.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -75,7 +75,9 @@ II. Subsecretaría de Asesoría y Atención Social;
 
 III. Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal;
 
-IV. Coordinación General de Análisis Político y Proyectos Estratégicos;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
+
+IV. Coordinación General de Desarrollo Político y Proyectos Estratégicos;
 
 V. Coordinación General de Asesores del Secretario;
 
@@ -101,7 +103,9 @@ XV. Dirección General de Reorganización Institucional, Control y Evaluación;
 
 XVI. Dirección General de Armonización Legislativa y Comunicación;
 
-XVII. Dirección General de Análisis Político;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
+
+XVII. Dirección General de Desarrollo Político;
 
 XVIII. Dirección General de Proyectos Estratégicos;
 
@@ -379,9 +383,11 @@ XX. Evaluar y controlar los procesos administrativos y operativos en la implemen
 
 XXI. Evaluar y rediseñar la infraestructura de las instituciones operadoras del Sistema de Justicia Penal al interior del Poder Ejecutivo, para proponer, mediante proyectos arquitectónicos, las modificaciones necesarias para su buen funcionamiento, de acuerdo a las necesidades requeridas, según el modelo de gestión a implementar; (sic)
 
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
+
 ###### Artículo 12.
 
-A la Coordinación General de Análisis Político y Proyectos Estratégicos corresponden las siguientes atribuciones:
+A la Coordinación General de Desarrollo Político y Proyectos Estratégicos corresponden las siguientes atribuciones:
 
 I. Promover la gobernabilidad democrática en coordinación con los tres órdenes de gobierno, así como con grupos y organizaciones políticas y sociales, autoridades religiosas, medios de comunicación y organismos autónomos:
 
@@ -489,9 +495,11 @@ I. Dirección General de Reorganización Institucional, Control y Evaluación, y
 
 II. Dirección General de Armonización Legislativa y Comunicación.
 
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
+
 ###### Artículo 19.
 
-Se adscriben a la Coordinación General de Análisis Político y Proyectos Estratégicos, las siguientes Unidades Administrativas:
+Se adscriben a la Coordinación General de Desarrollo Político y Proyectos Estratégicos, las siguientes Unidades Administrativas:
 
 > <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2012)</small>
 
