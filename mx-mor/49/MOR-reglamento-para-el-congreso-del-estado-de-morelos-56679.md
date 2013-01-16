@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2012-10-24"
+last_updated: "2013-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -953,11 +953,13 @@ V. Que incluyan disposiciones generales que incidan en la regulación en materia
 
 Deberán contener evaluación de impacto presupuestario, acorde con los planes y programas de gobierno. Toda propuesta de aumento o creación del gasto público, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-Los diputados que promuevan iniciativas, podrán presentarlas directamente ante el Pleno del Congreso, en sesión ordinaria, previa su inscripción en la orden del día.
+Los diputados que promuevan iniciativas y puntos de acuerdo, podrán presentarlas directamente ante el Pleno del Congreso, en sesión ordinaria, previa su inscripción en la orden del día.
 
-Una vez leída o presentada en su caso ante el Pleno del Congreso la iniciativa, su síntesis o exposición de motivos, el Presidente de la Mesa Directiva ordenará se turne a la comisión o comisiones que corresponda, según la materia.
+Para la presentación de las mismas, el iniciador, no podrá excederse de diez minutos en su participación, pues sólo leerá una síntesis o la exposición de motivos. El Presidente de la Mesa Directiva, vigilará el cumplimiento del tiempo reglamentario y ordenará se turne a la comisión o comisiones que corresponda, según la materia.
 
 ###### ARTÍCULO 99.
 
@@ -2032,3 +2034,9 @@ SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente
 OCTAVO.- En tanto el Poder Ejecutivo, determina la nueva estructura orgánica, administrativa y funcional del Sistema Morelense de Radio y Televisión, que tendrá a su cargo, se continuará laborando con la estructura actual, a fin de prever que no se vean interrumpidas las labores de las diferentes estaciones y el canal de televisión con que cuenta dicho Sistema.
 
 NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente en la fracción III del artículo 85 y 88 de la Ley Orgánica para el Congreso del Estado de Morelos y que con esta reforma se deroga, terminará sus funciones el 31 de agosto de 2012, extinguiéndose dicho Comité.
+
+P.O. 16 DE ENERO DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de su divulgación en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Estado de Morelos.
