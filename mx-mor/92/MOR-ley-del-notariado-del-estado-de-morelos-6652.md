@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "1990-08-01"
+last_updated: "2013-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -127,9 +127,9 @@ I.- Ser morelense por nacimiento o por residencia en pleno ejercicio de sus dere
 
 II.- Ser Licenciado en Derecho con Cédula Profesional, expedida por la Autoridad competente, para ejercer la profesión.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2013)</small>
 
-III.- Comprobar que por lo menos durante ocho meses ininterrumpidos inmediatos anteriores a la solicitud del examen, ha realizado prácticas notariales bajo la Dirección y responsabilidad de algún Notario en ejercicio en el Estado. El Notario tiene la obligación de comunicar por escrito tanto el inicio como la terminación de la práctica a la Secretaría General de Gobierno y al Colegio de Notarios del Estado, y de proporcionar el nombre y el número de la Cédula Profesional del practicante.
+III.- Acreditar como mínimo 18 meses previos ininterrumpidos a la solicitud del examen, que ha realizado prácticas notariales bajo la Dirección y responsabilidad de algún Notario en ejercicio en el Estado. El Notario tiene la obligación de comunicar por escrito tanto el inicio como la terminación de la práctica a la Secretaría General de Gobierno y al Colegio de Notarios del Estado, y de proporcionar el nombre y el número de la Cédula Profesional del practicante;
 
 IV.- No haber sido condenado por sentencia ejecutoriada, por delito intencional.
 
@@ -1288,3 +1288,17 @@ P.O. 1 DE AGOSTO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "TIERRA Y LIBERTAD", Organo del Gobierno del Estado.
+
+P.O. 16 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
