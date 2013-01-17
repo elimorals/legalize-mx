@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2012-12-19"
+last_updated: "2013-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2013.</small>
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1227,8 +1227,6 @@ X.- Presentar declaración anual informativa a más tardar en el mes de abril de
 
 XI.- Las personas físicas y morales que lleven a cabo la retención de este impuesto deberán expedir la constancia correspondiente por cada una de las operaciones que realice, en las formas aprobadas que dé a conocer la autoridad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 52.
 
 Están exentos del pago de este impuesto:
@@ -1275,15 +1273,9 @@ j) La alimentación y la habitación cuando se entreguen en forma onerosa a trab
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012) (F. DE E., P.O. 17 DE ENERO DE 2013)
 
-k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga: y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del contribuyente y manifestarse en la declaración anual del ejercicio que corresponda.
+k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
