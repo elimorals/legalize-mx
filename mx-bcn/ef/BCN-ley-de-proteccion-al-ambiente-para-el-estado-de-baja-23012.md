@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2012-10-26"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -521,15 +521,21 @@ VII. El titular de la Secretaría de Fomento Agropecuario;
 
 VIII. El titular de la Secretaría de Pesca y Acuacultura;
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-IX. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental; y
+IX. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental,
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-X. Un ciudadano por cada uno de los municipios, electos mediante procedimientos participativos y transparentes.
+X. Un ciudadano por cada uno de los municipios, electos mediante procedimientos participativos y transparentes; y
 
-Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el Reglamento.
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XI. El titular del área de Protección al Ambiente de cada uno de los gobiernos municipales.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
+Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el reglamento.
 
 ###### ARTÍCULO 19.
 
@@ -2710,3 +2716,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo implementará en un periodo de 90 días, la forma y dependencia responsable de la operación administrativa que debe contemplar la logística de transporte, inversión en los recipientes de basura y propaganda de la campaña, cuyo costo deberá ser acorde al dinero obtenido por la venta del material reciclable.
+
+P.O. 18 DE ENERO DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
