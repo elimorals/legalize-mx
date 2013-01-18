@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-la-juventud-y-del-19703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-02"
-last_updated: "2001-02-02"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE LA JUVENTUD Y DEL DEPORTE DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 18 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 2 de febrero de 2001.
 
@@ -685,3 +687,13 @@ C.P. JORGE RAMOS.
 EL SECRETARIO DE EDUCACION Y BIENESTAR SOCIAL,
 
 M.C. LORENZO GOMEZ-MORIN FUENTES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE ENERO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto de la Juventud y del Deporte de Baja California, publicado en el Periódico Oficial del Estado de Baja California, en fecha 02 de febrero 2001.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General está facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
