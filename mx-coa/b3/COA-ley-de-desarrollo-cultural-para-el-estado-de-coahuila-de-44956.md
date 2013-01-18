@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2007-01-26"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -1273,6 +1273,192 @@ LA AUDIENCIA. En la audiencia, la Junta Directiva le hará saber al quejoso y a 
 
 En caso contrario, la Junta Directiva del Instituto emitirá una recomendación a la autoridad responsable para solucionar el conflicto.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2013)</small>
+
+## TÍTULO QUINTO.
+
+EL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2013)</small>
+
+### CAPÍTULO ÚNICO.
+
+DE LAS ATRIBUCIONES, INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 135.
+
+El Consejo de Cultura. El Consejo de Cultura es el órgano de carácter ciudadano que con voz y voto coadyuva con el Ejecutivo del Estado en la rectoría de la política pública en materia cultural, el cual funge como un espacio de vinculación, deliberación, colaboración y corresponsabilidad entre la autoridad y la sociedad, en especial con la comunidad artística.
+
+El Ejecutivo, a través de la Secretaría de Cultura, ejercitará las funciones que le corresponda conforme a la ley tomando en cuenta las decisiones del Consejo de Cultura en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 136.
+
+Las atribuciones del Consejo de Cultura. El Consejo de Cultura es un órgano colegiado con atribuciones propositivas, de consulta y orientación de la política pública en materia cultural.
+
+El Consejo de Cultura tendrá las atribuciones siguientes:
+
+I. En materia propositiva:
+
+1. Proponer las bases generales, principios o criterios rectores para que la Secretaría de Cultura elabore y lleve a cabo el Plan Estatal de Cultura.
+
+2. Proponer las bases generales para que la Secretaría de Cultura elabore el Plan Anual de Actividades, desglosado por programas y acciones.
+
+3. Proponer las bases generales para que la Secretaría de Cultura instrumente la promoción cultural a partir de programas diseñados conjuntamente por artistas y autoridades.
+
+4. Exponer y denunciar en las sesiones respectivas los casos en los que la autoridad cultural, funcionarios o empleados de la Secretaría de Cultura se aparten de las normas y criterios que rijan los planes y programas establecidos.
+
+5. Proponer el diseño de mecanismos financieros novedosos que permitan a la Secretaría de Cultura allegarse recursos para financiar programas.
+
+6. Conocer y encauzar las denuncias de las presuntas violaciones a los derechos culturales.
+
+7. Proponer la elaboración de leyes y reglamentos en la materia para que las autoridades competentes las presenten o autoricen en la esfera de su competencia.
+
+8. Proponer mecanismos que favorezcan la transparencia y la rendición de cuentas en el sector cultura.
+
+9. Proponer a las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural.
+
+10. Proponer la implementación de un esquema de asistencia y protección social para artistas y promotores culturales, con la coparticipación de éstos en la conformación de un Fondo destinado a ese propósito.
+
+11. Proponer las bases generales para la preservación y fortalecimiento de las culturas populares del Estado.
+
+II. En materia de consulta y opinión especializada:
+
+1. Desarrollar las bases para recabar la opinión de la comunidad cultural y demás sectores de la sociedad respecto a la política cultural del Estado, la cual hará del conocimiento de las autoridades competentes.
+
+2. Brindar asesoría y apoyo a la Secretaría de Cultura para llevar a cabo proyectos y programas que eleven la calidad de los servicios culturales.
+
+3. Crear Grupos de Trabajo o comisiones que sean necesarias para planear, instrumentar o evaluar la política pública.
+
+4. Crear observatorios ciudadanos en materia cultural para analizar y evaluar los programas y acciones de la materia.
+
+III. En materia de orientación:
+
+1. Establecer las directrices o pautas generales para el desarrollo de la política cultural.
+
+2. Establecer las bases generales para que la Secretaría de Cultura pueda presentar el Plan Anual de aplicación presupuestal, en el que se dé preferencia a proyectos culturales y artísticos realizados por coahuilenses.
+
+3. Establecer bases generales para la orientación de los mecanismos financieros y fondos económicos de apoyo a las iniciativas de los creadores, artistas, intelectuales y promotores culturales de la entidad, organizados en compañías y asociaciones civiles, que permitan allegarles recursos bajo esquemas modernos de financiamiento y propiciar con ello la multiplicación de la actividad cultural en todo el estado.
+
+4. Diseñar bases generales de los programas que autorizará la Secretaría de Cultura que fortalezcan, impulsen y vinculen integralmente los procesos de capacitación, creación, producción y difusión del arte, y que aseguren la sustentabilidad, el fortalecimiento y el crecimiento de proyectos artísticos sólidos, de mediano y largo plazo.
+
+5. Diseñar las bases para que la Secretaría de Cultura instrumente mecanismos de supervisión y evaluación a fin de evitar la arbitrariedad en el ejercicio de las funciones culturales.
+
+6. Orientar la política cultural hacia la procuración de un equilibrio en la aplicación presupuestal, considerando las necesidades y características de las distintas regiones del Estado, así como de las diferentes disciplinas artísticas y manifestaciones culturales.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 137.
+
+La integración del Consejo de Cultura. El Consejo de Cultura se integrará:
+
+I. Por el sector público estatal:
+
+1. El titular del Ejecutivo del Estado.
+
+2. La Secretaría de Cultura.
+
+3. La Secretaría de Educación.
+
+4. La Secretaría de Finanzas.
+
+II. Por el sector público federal y municipal:
+
+1. Un representante del área cultural federal.
+
+2. Un representante por cada una de las cinco regiones en el Estado.
+
+III. Por el sector artístico y cultural, con representación de todas las regiones del Estado:
+
+1. Dos integrantes de cada una de las áreas de Teatro, Danza, Música, Artes Plásticas y Visuales, y Literatura; y
+
+2. Un integrante de cada una de las áreas de Cine, Cultura Popular y Patrimonio Cultural, Promoción Cultural, Historia y Periodismo Cultural.
+
+IV. Por el sector de la ciudadanía en general:
+
+1. Un representante de la iniciativa privada.
+
+2. Un representante de la comunidad académica relacionado con el ámbito cultural.
+
+3. Un representante de las organizaciones no gubernamentales relacionado con el ámbito cultural.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 138.
+
+La designación del Consejo de Cultura. El Consejo de Cultura se designará de la manera siguiente:
+
+I. El sector público estatal se integrará por los titulares de las dependencias correspondientes. Cada titular podrá designar un suplente que en todo caso será un funcionario vinculado con el tema cultural.
+
+II. El sector público federal y municipal se integrará:
+
+1. El representante del área cultural federal será invitado por el Ejecutivo del Estado, a través de la Secretaría de Cultura.
+
+2. El representante de cada una de las cinco regiones en el Estado, será elegido por los presidentes municipales que integran la misma región, debiendo recaer la representación en una persona que haya destacado en la cultura en general.
+
+III. El sector artístico y cultural se elegirá de la siguiente forma:
+
+1. Por cada representante de cada área se elegirá un propietario y un suplente por mayoría bajo la misma fórmula.
+
+2. Se erigirán a través del voto libre y secreto de los integrantes que correspondan a cada área del padrón artístico y cultural.
+
+3. La duración del cargo será de tres años, sin derecho a la reelección consecutiva.
+
+4. Para ser integrante del padrón artístico o cultural, se deberá contar con los siguientes requisitos:
+
+a) Tener 18 años de edad y ser coahuilense, residente o haber realizado obra artística o cultural en el Estado, durante los tres años previos a la elección.
+
+b) Ser artista profesional, promotor cultural, periodista cultural, académico, investigador o teórico de la cultura y el arte, con cinco años de participación. Quienes no reúnan el tiempo y requisitos serán incluidos en el padrón en su calidad de postulantes con voz pero sin voto.
+
+c) Presentar solicitud de inscripción y anexar los comprobantes de formación y trayectoria artística. No se considera trayectoria artística el trabajo que hubiera realizado con el carácter de alumno o estudiante.
+
+El registro, validación y actualización del padrón le corresponde a la Secretaría de Cultura, que se auxiliará por un Comité Técnico integrado por tres personas que hayan destacado en la comunidad artística o cultural, a invitación de la Secretaría.
+
+5. Además de los requisitos previstos en el numeral anterior, cada área del padrón deberá cumplir con los siguientes criterios:
+
+a) Artes plásticas y visuales: si el solicitante ha expuesto su obra individualmente en por lo menos 2 ocasiones en alguna institución de reconocido prestigio en las artes visuales; o haber ilustrado por lo menos 2 libros o revistas especializadas en artes de circulación nacional; ha participado como museógrafo o curador en por lo menos 5 exposiciones; o ha recibido por lo menos en 3 ocasiones premios, becas o reconocimientos por su obra o trayectoria artística por parte de una institución de carácter estatal, nacional o internacional.
+
+b) Danza: Si el solicitante tiene una trayectoria como ejecutante, maestro, coreógrafo, director o investigador de danza, con preparación académica en alguna institución o asociación especializada con reconocimiento oficial, y ha participado en por lo menos 5 montajes o programas artísticos; o bien haber recibido 3 premios, becas o reconocimientos otorgados por instituciones oficiales que avalen su trayectoria y experiencia.
+
+c) Literatura: si el solicitante ha publicado 3 de sus obras literarias en alguna editorial o en revista especializada; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o ha publicado al menos 3 libros de crítica o ensayo literario en una editorial establecida, sin tomar en cuenta las publicaciones de autor.
+
+d) Música: si se ha publicado parte de la obra musical del solicitante en alguna editorial o en una revista especializada en por lo menos 3 ocasiones; le han sido presentadas, por lo menos 2 composiciones, por un ensamble musical en alguna sala de conciertos del Estado, del país o del extranjero; le ha sido editado parte de su producción musical en por lo menos 3 discos compactos por una productora musical o institución cultural; o participa como ejecutante o director en algún escenario a donde el público acuda exclusivamente a escuchar música, con una trayectoria continua comprobable y/o una formación académica profesional equivalente al menos a un 60% de la curricula escolar.
+
+e) Teatro: si el solicitante se ha presentado en al menos 5 obras en algún escenario público de clara vocación teatral, ya sea como actor, director o escenógrafo y 10 como diseñador de vestuario, maquillaje, iluminación o sonido; es dramaturgo y ha publicado 3 de sus obras en alguna editorial o en alguna revista especializada en literatura o teatro; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o 3 de sus obras han sido representadas profesionalmente.
+
+f) Cine: si el solicitante ha participado en por lo menos 10 obras cinematográficas profesionales terminadas (cortometraje o largometraje) y con propuesta artística, en formato de cine y/o video, y dicha obra haya sido exhibida en salas de cine o en canales de televisión o ha sido distribuida en empresas especializadas en la comercialización de obras cinematográficas, como Director, Productor, Sonidista Editor, Diseñador de Producción, Director de Arte, Guionista, Músico de cine, Director Asistente, Continuista, Animador Cinematográfico, Creador de Efectos Especiales para Cine, Maquillista especializado en Cine, o Actores de cine sin considerarse este último los que participan como extras; o que haya participado en al menos 3 festivales cinematográficos nacionales y/o internacionales.
+
+g) Cultura Popular y Patrimonio Cultural: si el solicitante es artesano, creador o ejecutante de cualquier manifestación popular con 5 años de trayectoria; o es académico, teórico, creador o crítico sobre patrimonio cultural y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación.
+
+h) Promoción cultural, historia y periodismo cultural: si el solicitante ha realizado actividades comprobadas como empresario artístico o promotor cultural en los últimos 5 años; es historiador o investigador y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación; o es crítico, editorialista, locutor o periodista cultural en medios de comunicación escrita, radial, televisiva o electrónica en los últimos 5 años o haber obtenido premios, por lo menos en 3 ocasiones, por su labor periodística a nivel estatal, nacional o internacional.
+
+6. Para poder ser electo como integrante del sector artístico y cultural, se deben reunir los siguientes requisitos:
+
+a) Estar inscrito en el padrón artístico y cultural a que se refiere el numeral- del artículo - de esta Ley.
+
+b) Poseer reconocida trayectoria demostrada en el área que se postula, teniendo una participación profesional, activa y comprobada de mínimo siete años anteriores al día de su elección.
+
+c) No ocupar el día de la elección un cargo de dirección en mandos medios o superiores en dependencias del gobierno federal, estatal o municipal, a menos que se haya separado con un año de anticipación a la emisión de la convocatoria respectiva.
+
+IV. El sector de la ciudadanía en general:
+
+1. El representante de la iniciativa privada será invitado por el Ejecutivo del Estado de entre los representantes de la iniciativa privada en el Estado.
+
+2. El representante de la comunidad académica o de las organizaciones no gubernamentales, se elegirá por los integrantes del Consejo de Cultura de entre las personas que hayan presentado su solicitud correspondiente.
+
+V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada unos de los sectores correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 139.
+
+Del funcionamiento del Consejo de Cultura. Los integrantes del Consejo de Cultura tendrán voz y voto en las sesiones para participar en los asuntos que les compete conforme a la ley.
+
+El reglamento de esta Ley que expedirá el Ejecutivo regulará la organización y funcionamiento del Consejo de Cultura.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1353,7 +1539,7 @@ C.P. INÉS GARZA ORTA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE NOVIEMBRE DE 2006.
 
@@ -1368,3 +1554,25 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Para integrar el Consejo de Cultura se seguirán las siguientes reglas:
+
+I. Dentro de los treinta días siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado, a través de la Secretaría de Cultura, integrará el Comité Técnico a que se refiere el Artículo 138 de esta Ley.
+
+II. La Secretaría de Cultura auxiliada por el mencionado Comité Técnico, expedirá la Convocatoria Pública que contendrá las bases para integrar el Consejo de Cultura, dentro de los sesenta días siguientes a la constitución del mencionado Comité Técnico.
+
+III. En la Convocatoria se establecerá un plazo razonable para recibir las solicitudes de los interesados en integrar el padrón artístico y cultural. Hecho el registro y la validación correspondiente por parte de la Secretaría de Cultura, con auxilio del Comité Técnico, se procederá a convocar a las elecciones respectivas de los representantes de cada área. Las integraciones y designaciones de los demás sectores del Consejo de Cultura se realizarán conforme a las bases que se expidan en la Convocatoria.
+
+IV. La Secretaría de Cultura podrá solicitar el auxilio del Instituto Electoral y de Participación Ciudadana de Coahuila, para organizar las elecciones del sector artístico y cultural.
+
+V. La primera sesión del Consejo de Cultura se convocará por el Ejecutivo del Estado, a través de la Secretaría de Cultura, una vez que estén elegidos los representantes del sector artístico y cultural, para instalar los trabajos del Consejo.
+
+La Secretaría de Cultura preparará los trabajos correspondientes.
+
+TERCERO. El Ejecutivo del Estado, a través de la Secretaría de Cultura, deberá realizar los actos necesarios para dar cumplimiento a este Decreto.
+
+CUARTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se expedirá el Reglamento del Consejo de Cultura.
