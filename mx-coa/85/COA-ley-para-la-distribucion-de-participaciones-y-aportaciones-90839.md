@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-distribucion-de-participaciones-y-aportaciones-9083
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA DISTRIBUCION DE PARTICIPACIONES Y APORTACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA DISTRIBUCIÓN DE PARTICIPACIONES Y APORTACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 21 de diciembre de 2012.
 
@@ -451,11 +451,11 @@ Este fondo se enterará mensualmente a los Municipios de conformidad con los ord
 
 Los Municipios tendrán las mismas obligaciones a que se refieren las fracciones I a la III, del artículo anterior.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 20.
 
-El Gobierno del Estado, por conducto de la Tesorería General del Estado, publicará en el Periódico Oficial del Gobierno del Estado el calendario de entrega de aportaciones, las variables y fórmulas utilizadas para su determinación a más tardar el 31 de enero del ejercicio fiscal que corresponda.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas del Estado, publicará en el Periódico Oficial del Gobierno del Estado el calendario de entrega de aportaciones, las variables y fórmulas utilizadas para su determinación a más tardar el 31 de enero del ejercicio fiscal que corresponda.
 
 ###### ARTÍCULO 21.
 
