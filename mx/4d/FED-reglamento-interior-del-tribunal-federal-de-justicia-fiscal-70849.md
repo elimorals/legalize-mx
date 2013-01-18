@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-01-08"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2009-11-11"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ENERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 18 DE ENERO DE 2013.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -653,8 +653,6 @@ m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 n) Comisión Reguladora de Energía (CRE)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
@@ -671,9 +669,9 @@ II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
 
 III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila.
 
-> <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
+(ADICIONADA, D.O.F. 8 DE ENERO DE 2013) (F. DE E., D.O.F. 18 DE ENERO DE 2013)
 
-IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción VI, y 22, fracción VI, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXII, y 22, fracción XXII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
