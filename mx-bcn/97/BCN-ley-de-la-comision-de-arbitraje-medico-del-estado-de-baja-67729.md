@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-de-arbitraje-medico-del-estado-de-baja-67729
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-02"
-last_updated: "2012-04-13"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 2 de marzo de 2009.
 
@@ -53,7 +53,7 @@ Para los efectos de esta Ley se entiende por:
 
 I.- PRESTADORES.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad para dichas instituciones o de manera independiente;
 
-II.- USUARIOS.- Las personas que solicitan, requieren y obtienen dicho servicios de los prestadores de servicios de salud;
+II.- USUARIOS.- Las personas que solicitan, requieren y obtienen dicho servicio de los prestadores de servicios de salud;
 
 III.- CAME.- Comisión de Arbitraje Médico del Estado de Baja California;
 
@@ -1083,6 +1083,12 @@ P.O. 13 DE ABRIL DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero de 2013.
 
-SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Congreso del Estado tendrá un plazo de 90 días para nombrar a un representante, que será el consejero que integrara el Consejo Consultivo de la CAME.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
+SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Congreso del Estado tendrá un plazo de 30 días para nombrar un representante, que será el Consejero que integrará el Consejo Consultivo de la CAME.
 
 TERCERO.- El Ejecutivo del Estado realizará las adecuaciones a las normas reglamentarias dentro de un plazo que no excederá de los 90 días a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 18 DE ENERO DE 2013
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
