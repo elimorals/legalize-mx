@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2013-01-11"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -249,7 +249,13 @@ VI.- Promover la eficaz aplicación de los recursos que se destinen en el rubro 
 
 VII.- Operar el Sistema Estatal de Información Básica;
 
-VIII.- Los demás que tiendan al fomento del desarrollo integral de la familia y del individuo.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+
+VIII.- Crear la Red Estatal de Orientación y Apoyo a Mujeres Embarazadas; con el objeto de conjuntar, difundir y hacer accesibles los diversos apoyos, bienes y servicios de las dependencias e instituciones públicas y privadas para proteger el estado de gestación y,
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+IX.- Los demás que tiendan al fomento del desarrollo integral de la familia y del individuo.
 
 ### CAPITULO III. DE LOS SERVICIOS DE SALUD EN MATERIA DE ASISTENCIA SOCIAL
 
@@ -1394,3 +1400,7 @@ P.O. 22 DE JUNIO DE 2012.
 P.O. 11 DE ENERO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación (sic) el periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE ENERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
