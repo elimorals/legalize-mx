@@ -4,7 +4,7 @@ identifier: "CAM-lineamientos-para-la-protecccion-de-datos-personales-del-90532"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2012-11-21"
-last_updated: "2012-11-21"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LINEAMIENTOS PARA LA PROTECCCION DE DATOS PERSONALES DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LINEAMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ENERO DE 2013.</small>
 
 Lineamientos publicados en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 21 de noviembre de 2012.
 
@@ -737,8 +737,6 @@ En caso de que, en la visita de inspección se advirtiera un posible tratamiento
 
 SEXAGÉSIMO TERCERO.- Las denuncias presentadas con motivo de presuntas violaciones a las disposiciones establecidas en la Ley y estos Lineamientos serán atendidas y tramitadas de acuerdo con el procedimiento establecido para tal fin por la Comisión, dándose vista a la autoridad competente para que ésta proceda en términos de lo establecido en el artículo 45 de la misma Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO. Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
@@ -752,3 +750,5 @@ CUARTO. Los entes públicos contarán con ciento ochenta días hábiles para rea
 QUINTO.- Los datos personales en poder de los entes públicos que hayan sido recabados antes de la entrega en vigor de la Ley, no necesitarán el consentimiento del titular de los datos.
 
 > <small>N. DE E. VÉASE FORMATOS EN EL P.O. DE 21 DE NOVIEMBRE DEL 2012, PAGINAS DE LA 20 A LA 23.</small>
+
+> <small>N. DE E. VÉASE FE DE ERRATAS A LOS FORMATOS EN EL P.O. DE 18 DE ENERO DE 2013, PÁGINAS DE LA 25 A LA 31.</small>
