@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-01-11"
+last_updated: "2013-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -369,13 +369,17 @@ XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
 
 XII.- Citar al farmacodependiente o consumidor a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos en la materia, una vez que el centro o institución especializado en tratamiento, atención y rehabilitación de farmacodependientes haya recibido de la Secretaria de Salud del Estado el reporte de no ejercicio de la acción penal;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de sangre que garantice su abasto al servicio de salud, en la que se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad; y
+XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de sangre que garantice su abasto al servicio de salud, en la que se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-XIV.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
+XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias equipadas para trasladar a aquellas personas que requieran atención médica de urgencia y se encuentren en zonas marginadas. Estas ambulancias deberán de ubicarse en puntos estratégicos para una mejor cobertura y reducción de los tiempos de traslado; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XV.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -2656,3 +2660,7 @@ DECRETO No. 396 POR EL QUE SE APRUEBA LA REFORMA DE LA FRACCIÓN V, Y LA ADICIÓ
 PRIMERO: La presente reforma entrará en vigor el primero de enero de 2013.
 
 SEGUNDO: A partir del ejercicio fiscal de 2013, se programarán los recursos necesarios en los presupuestos de egresos correspondientes a fin de garantizar el debido cumplimiento de la presente reforma.
+
+P.O. 18 DE ENERO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
