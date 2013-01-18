@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-permisos-de-construccion-del-municipio-de-65599"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2010-05-28"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PERMISOS DE CONSTRUCCION DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE PERMISOS DE CONSTRUCCION DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE PERMISOS DE CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2008.
 
@@ -76,9 +76,11 @@ Infractor: es el que comete alguna infracción o incurra en una falta al ejecuta
 
 Reincidente: es el infractor que incurra en otra falta igual a aquella por la que hubiera sido sancionado con anterioridad, durante la ejecución de la misma obra.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Centro: A el Centro de Desarrollo Urbano y Ecología del Municipio de Guadalupe, Nuevo León.
+Secretaría: La Secretaría de Desarrollo Urbano y Obras Públicas del Municipio de Guadalupe, Nuevo León.
 
 ###### ARTÍCULO 11.
 
@@ -94,11 +96,15 @@ La aplicación y vigilancia del cumplimiento de las disposiciones de este Reglam
 
 2.- El C. Presidente (a) Municipal.
 
-3.- El C. Director General del Centro de Desarrollo Urbano y Ecología.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
+3.- El C. Secretario de Desarrollo Urbano y Obras Públicas.
 
 4.- Al personal que habilite o designe la autoridad Municipal para integrar una Comisión.
 
-Corresponden al R. Ayuntamiento, y al C. Presidente (a) Municipal de Guadalupe Nuevo León, a través del Centro de Desarrollo Urbano y Ecología, las atribuciones que le confieren la Legislación en materia de Desarrollo Urbano vigente del Estado de Nuevo León, La Ley General del Equilibrio Ecológico y Protección al Ambiente, las Normas Oficiales Mexicanas, la Ley Ambiental del Estado, la Ley del Régimen de Propiedad en Condominio; las cuales podrán ser ejercidas por los órganos de la administración pública Municipal tales como:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2013)</small>
+
+Corresponden al R. Ayuntamiento, y al C. Presidente (a) Municipal de Guadalupe Nuevo León, a través de la Secretaría de Desarrollo Urbano y Obras Públicas las atribuciones que le confieren la Legislación en materia de Desarrollo Urbano vigente del Estado de Nuevo León, La Ley General del Equilibrio Ecológico y Protección al Ambiente, las Normas Oficiales Mexicanas, la Ley Ambiental del Estado, la Ley del Régimen de Propiedad en Condominio; las cuales podrán ser ejercidas por los órganos de la administración pública Municipal tales como:
 
 I.- Fijar los requisitos técnicos generales a que deberán sujetarse las construcciones e instalaciones en predios y vías públicas a fin de que satisfagan las condiciones de habitabilidad, seguridad, higiene y comodidad;
 
@@ -146,13 +152,13 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 ###### ARTÍCULO 15.
 
-Se requiere autorización expresa del Centro, para realizar en la vía pública, ocupando parcial o totalmente su superficie, subsuelo o espacio aéreo, obras, excavaciones, construcciones, instalaciones, modificaciones o reparaciones públicas o privadas, así como para depositar o colocar en ella, materiales u objetos, salvo en los casos que este Reglamento menciona.
+Se requiere autorización expresa de la Secretaría, para realizar en la vía pública, ocupando parcial o totalmente su superficie, subsuelo o espacio aéreo, obras, excavaciones, construcciones, instalaciones, modificaciones o reparaciones públicas o privadas, así como para depositar o colocar en ella, materiales u objetos, salvo en los casos que este Reglamento menciona.
 
-El Centro al otorgar autorización para las obras mencionadas, señalará en cada caso las condiciones bajo las cuales se conceda, de modo que al ejecutarse los trabajos, sólo se interrumpa el funcionamiento de la vía pública en el espacio en base del programa de obra que presente el interesado.
+La Secretaría al otorgar autorización para las obras mencionadas, señalará en cada caso las condiciones bajo las cuales se conceda, de modo que al ejecutarse los trabajos, sólo se interrumpa el funcionamiento de la vía pública en el espacio en base del programa de obra que presente el interesado.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
-Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o al pago de su importe, cuando el Centro las realice. En ambos casos el Centro solicitará una garantía que el Municipio asigne, hasta recibir a su entera satisfacción los trabajos realizados.
+Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o al pago de su importe, cuando la Secretaría las realice. En ambos casos la Secretaría solicitará una garantía que el Municipio asigne, hasta recibir a su entera satisfacción los trabajos realizados.
 
 ###### ARTÍCULO 16.
 
@@ -638,7 +644,9 @@ Queda prohibido hacer excavaciones que pongan en peligro la estabilidad de muros
 
 Queda prohibido construir vías públicas con pendientes longitudinales mayores al 18% según los lineamientos dictados por la dependencia de los Servicios de Agua Y Drenaje de Monterrey; cuando se construyan tramos con pendientes mayores a los 15% estos deberán cumplir con lo siguiente:
 
-Un recubrimiento antiderrapante determinado por el Centro de Desarrollo Urbano y Ecología del Municipio.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
+Un recubrimiento antiderrapante determinado por la Secretaría de Desarrollo Urbano y Obras Públicas del Municipio.
 
 No ser mayores de 40.00 metros de largo.
 
@@ -716,9 +724,11 @@ Cumplido los requisitos anteriores, el Municipio recibirá la documentación y p
 
 Cualquier cambio de uso en edificaciones ya ejecutadas, requerirá de previa licencia de construcción y de autorización sanitaria por parte del Municipio en los casos señalados en este Reglamento y en la ley de salud para el estado, respectivamente. Se podrán autorizar los cambios de uso, si el programa de construcción lo permite, y si se efectúan las modificaciones, instalaciones y pruebas de carga adicionales necesarias, para cumplir con los requerimientos que establece el presente reglamento para el nuevo uso.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 75.
 
-Las edificaciones señaladas por la Ley de Protección Civil del Estado de Nuevo León requerirán de la inspección, control y vigilancia de la Dirección Municipal de Protección Civil. Lo anterior, con el objetivo de evitar la ocurrencia de riesgos o desastres para los usuarios y las edificaciones contiguas.
+Las edificaciones señaladas por la Ley de Protección Civil del Estado de Nuevo León requerirán de la inspección, control y vigilancia de Protección Civil Municipal. Lo anterior, con el objetivo de evitar la ocurrencia de riesgos o desastres para los usuarios y las edificaciones contiguas.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
@@ -740,35 +750,47 @@ Cuando el predio limite con arroyo o río, se debe presentar el visto bueno de l
 
 ### CAPITULO TERCERO. DE LOS DICTÁMENES PREVENTIVOS
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 80.
 
-Si en la Matriz de usos y destinos del suelo y zonificación de las áreas urbanas y urbanizables y estacionamientos necesarios se presente un uso condicionado, al Centro de Desarrollo Urbano y Ecología del Municipio, sus órganos técnicos o las instancias correspondientes elaborarán los dictámenes donde se fijará el tipo de condicionante aplicable, las medidas preventivas, restrictivas o compensatorias que resulten. Las condicionantes serán de siete tipos: vial, riesgo, ambiental, protección al entorno ambiental, impacto social, estabilidad estructural y protección civil.
+Si en la Matriz de usos y destinos del suelo y zonificación de las áreas urbanas y urbanizables y estacionamientos necesarios se presente un uso condicionado, a la Secretaría de Desarrollo Urbano y Obras Públicas del Municipio, sus órganos técnicos o las instancias correspondientes elaborarán los dictámenes donde se fijará el tipo de condicionante aplicable, las medidas preventivas, restrictivas o compensatorias que resulten. Las condicionantes serán de siete tipos: vial, riesgo, ambiental, protección al entorno ambiental, impacto social, estabilidad estructural y protección civil.
 
-El Centro de Desarrollo Urbano y Ecología por medio de las instancias correspondientes tendrá un plazo máximo de diez días hábiles para emitir respuesta a los dictámenes señalados en el párrafo anterior.
+La Secretaría de Desarrollo Urbano y Obras Públicas por medio de las instancias correspondientes tendrá un plazo máximo de diez días hábiles para emitir respuesta a los dictámenes señalados en el párrafo anterior.
 
 ###### ARTÍCULO 81.
 
 El dictamen vial se elabora por la Dirección de Vialidad del Municipio y su objeto es determinar las medidas de seguridad para acceso y salida de vehículos de un predio; así como su integración adecuada a la vialidad del sector.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 82.
 
-Para el dictamen de riesgo ambiental, la Dirección de Ecología del Municipio fijará las medidas preventivas a la protección del medio ambiente.
+Para el dictamen de riesgo ambiental, la dependencia responsable de Ecología del Municipio fijará las medidas preventivas a la protección del medio ambiente.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 83.
 
-Corresponderá a la Dirección de Planeación Urbana del Municipio la elaboración del dictamen que determine el impacto social, procurando evitar o disminuir las perturbaciones a la comunidad en áreas habitacionales, corredores de barrio y residencial; todo ello según la intensidad de uso, horarios de trabajo, afluencia de usuarios o personal, maniobra de suministro y distribución de mercancías, entre otras.
+Corresponderá a la dependencia responsable de Planeación Urbana del Municipio la elaboración del dictamen que determine el impacto social, procurando evitar o disminuir las perturbaciones a la comunidad en áreas habitacionales, corredores de barrio y residencial; todo ello según la intensidad de uso, horarios de trabajo, afluencia de usuarios o personal, maniobra de suministro y distribución de mercancías, entre otras.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 84.
 
-Por su parte, la Coordinación de Uso de Suelo del Municipio deberá emitir el dictamen de consulta social con base en lo establecido en la Ley vigente en la materia. Será la Dirección de Permisos de Construcción y Uso de Suelo quien verificará la autenticidad de las firmas de las consultas a los vecinos.
+Por su parte, la dependencia municipal competente para supervisar el Uso de Suelo deberá emitir el dictamen de consulta social con base en lo establecido en la Ley vigente en la materia. Será la dependencia de Permisos de Construcción y Uso de Suelo del municipio quien verificará la autenticidad de las firmas de las consultas a los vecinos.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 85.
 
-Para el dictamen de estabilidad estructural, la Dirección de Permisos de Construcción y Usos de Suelo será la encargada de emitirlo, con base en los cálculos elaborados por un perito en estructuras y que deberá aportar el solicitante.
+Para el dictamen de estabilidad estructural, la dependencia responsable de Permisos de Construcción y Usos de Suelo del municipio será la encargada de emitirlo, con base en los cálculos elaborados por un perito en estructuras y que deberá aportar el solicitante.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 86.
 
-La Dirección de Protección Civil del Municipio será quien emita los dictámenes correspondientes a la materia con el objeto de asegurar que los proyectos consideren las normas estatales y federales en la materia.
+Protección Civil del Municipio será quien emita los dictámenes correspondientes a la materia con el objeto de asegurar que los proyectos consideren las normas estatales y federales en la materia.
 
 ## TITULO SEPTIMO. PROYECTO ARQUITECTÓNICO
 
@@ -788,11 +810,11 @@ La superficie construida máxima permitida en los predios, será la que se deter
 
 En las nuevas edificaciones de tiendas y almacenes, bodegas, de servicios o industriales no nocivos; se deberá respetar una zona de amortiguamiento en una franja de terreno con un ancho mínimo de 18-dieciocho metros lineales paralelos a las colindancias a predios con usos habitacionales. Dicha franja se dispondrá dentro de los límites del predio.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 90.
 
-El Centro establecerá los números oficiales para su área jurisdiccional, siendo los propietarios quienes lo soliciten, con la licencia de construcción.
+La Secretaría establecerá los números oficiales para su área jurisdiccional, siendo los propietarios quienes lo soliciten, con la licencia de construcción.
 
 ###### ARTÍCULO 91.
 
@@ -802,9 +824,11 @@ Los frentes de las vías públicas serán los lugares donde se establezcan los n
 
 El Municipio tiene la facultad de realizar cambios en la numeración y notificará a los propietarios estableciendo el plazo para colocar el nuevo número. Y será el Ayuntamiento el responsable de notificar al Servicio Postal Mexicano, a la Secretaría de Finanzas y Tesorería General del Estado, al Registro del Plan Director de Desarrollo Urbano y al Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 93.
 
-El Centro establecerá en la Licencia de Construcción, en la Licencia de Uso de Suelo o de Uso de Edificación, el alineamiento de la vía pública existente o la prevista. El ancho de esa vía pública existente o prevista y el de los escurrimientos pluviales deberán ser respetadas por el propietario del inmueble, el responsable de las obras o por el titular de la licencia, según corresponda.
+La Secretaría establecerá en la Licencia de Construcción, en la Licencia de Uso de Suelo o de Uso de Edificación, el alineamiento de la vía pública existente o la prevista. El ancho de esa vía pública existente o prevista y el de los escurrimientos pluviales deberán ser respetadas por el propietario del inmueble, el responsable de las obras o por el titular de la licencia, según corresponda.
 
 ###### ARTÍCULO 94.
 
@@ -922,13 +946,11 @@ Los estacionamientos públicos, tendrán una caseta de control anexa al área de
 
 En los estacionamientos deberán existir protecciones adecuadas en rampas, colindancias, fachadas y elementos estructurales, con dispositivos capaces de resistir los posibles impactos de los automóviles.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 115 Bis.
 
-En los estacionamientos se deberá de contar con arborización nativa de la región (palo blanco, encino, ébano, nogal, anacua o anacahuita) de al menos 5 cm-cinco centímetros de grosor medidos a 1.00 m-un metro de altura, los cuales se colocaran 1 árbol por cada dos cajones de estacionamiento en hilara (sic) sencilla ó 1 árbol por cada 4 cajones de estacionamiento en hilera doble.
-
-De no ser posible plantar árboles en el estacionamiento, por razones técnicas y naturales justificables, deberá de entregarlos a la Dirección de Ecología dependiente del Centro de Desarrollo Urbano y Ecología, para los programas de reforestación.
+En los estacionamientos se deberá de contar con arborización nativa de la región (palo blanco, encino, ébano, nogal, anacua o anacahuita) de al menos 5 cm-cinco centímetros de grosor medidos a 1.00 m-un metro de altura, los cuales se colocaran 1 árbol por cada dos cajones de estacionamiento en hilara (sic) sencilla ó 1 árbol por cada 4 cajones de estacionamiento en hilera doble. De no ser posible plantar árboles en el estacionamiento, por razones técnicas y naturales justificables, deberá de entregarlos al área responsable de Ecología dependiente de la Secretaría de Desarrollo Urbano y Obras Públicas, para los programas de reforestación.
 
 ###### ARTÍCULO 116.
 
@@ -938,9 +960,9 @@ Las edificaciones deberán contar con los espacios para estacionamientos de veh�
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 28 DE MAYO DE 2010, PAGINA 27.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 28 DE MAYO DE 2010, PAGINA 27.</small>
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2008, PAGINAS DE LA 91, A LA 93.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2008, PAGINAS DE LA 91, A LA 93.</small>
 
 Las cantidades de cajones para estacionamiento de vehículos, variarán de acuerdo a estudios correspondientes de cada zona, en lo referente a carencia actual de cajones de estacionamiento y estimación futura de demanda de los mismos.
 
@@ -1080,7 +1102,9 @@ Las edificaciones de riesgo mayor, deberán disponer, además de lo requerido pa
 
 I. Redes hidrantes que cumplan con las normas técnicas complementarias.
 
-II. Se practicarán simulacros de incendios en los que participen los trabajadores y, en los casos que señalen las normas técnicas complementarias del Departamento Técnico del H. cuerpo de Bomberos y de la Dirección Municipal de Protección Civil.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+
+II. Se practicarán simulacros de incendios en los que participen los trabajadores y, en los casos que señalen las normas técnicas complementarias del Departamento Técnico del H. cuerpo de Bomberos y de Protección Civil Municipal.
 
 ###### ARTÍCULO 141.
 
@@ -1360,9 +1384,11 @@ Los trabajadores deberán usar los equipos de protección personal, en los casos
 
 En las obras de construcción, deberán proporcionar a los trabajadores: servicios provisionales de agua potable y de un sanitario portátil, o letrina por cada veinticinco trabajadores o fracción excedente de quince; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 192.
 
-En la ejecución de cualquier construcción quedaran las medidas de seguridad, bajo la supervisión de las Dirección de Protección Civil Municipal.
+En la ejecución de cualquier construcción quedaran las medidas de seguridad, bajo la supervisión de Protección Civil Municipal.
 
 ### CAPITULO TERCERO. EXCAVACIONES Y CIMENTACIONES
 
@@ -1468,9 +1494,11 @@ Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá tam
 
 Una vez concluidas las obras o los trabajos que hayan sido ordenados, el propietario de la construcción, o el director responsable de obras dará aviso de terminación al Municipio, el que verificará la correcta ejecución de dichos trabajos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 213.
 
-Si como resultado del dictamen técnico otorgado por Protección Civil del (sic) Municipal fuere necesario ejecutar algunos de los trabajos mencionados en este reglamento, para los que se requiere efectuar la desocupación parcial o total de una edificación peligrosa para sus ocupantes, el municipio podrá ordenarla.
+Si como resultado del dictamen técnico otorgado por la dependencia de Protección Civil Municipal fuere necesario ejecutar algunos de los trabajos mencionados en este reglamento, para los que se requiere efectuar la desocupación parcial o total de una edificación peligrosa para sus ocupantes, el municipio podrá ordenarla.
 
 En caso de peligro inminente, la desocupación deberá ejecutarse en forma inmediata y, si es necesario, el municipio hará uso de la fuerza pública para hacer cumplir la orden.
 
@@ -1512,9 +1540,11 @@ El estado de suspensión total o parcial impuesto, con base en este artículo no
 
 ### CAPITULO PRIMERO. CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 216.
 
-El Director General del Centro de Desarrollo Urbano y Ecología, los directores, los inspectores o el personal debidamente acreditado; con facultades delegadas por escrito, podrán llevar a cabo visitas de inspección en los inmuebles o en cualquier obra o construcción que se encuentren ubicados en el Municipio, para comprobar el cumplimiento de las disposiciones de la Legislación vigente en la materia, del Plan de Desarrollo Urbano del Municipio de Guadalupe, de este Reglamento o de las resoluciones, licencias o autorizaciones expedidas por el R. Ayuntamiento, por el Presidente Municipal o por el Centro de Desarrollo Urbano y Ecología o de las Direcciones dependientes de esta última, para en caso de incumplimiento, aplicar las medidas de seguridad y sanciones que correspondan.
+El Secretario de Desarrollo Urbano y Obras Públicas, los directores, los inspectores o el personal debidamente acreditado; con facultades delegadas por escrito, podrán llevar a cabo visitas de inspección en los inmuebles o en cualquier obra o construcción que se encuentren ubicados en el Municipio, para comprobar el cumplimiento de las disposiciones de la Legislación vigente en la materia, del Plan de Desarrollo Urbano del Municipio de Guadalupe, de este Reglamento o de las resoluciones, licencias o autorizaciones expedidas por el R. Ayuntamiento, por el Presidente Municipal o por la Secretaría de Desarrollo Urbano y Obras Públicas o de las Direcciones dependientes de esta última, para en caso de incumplimiento, aplicar las medidas de seguridad y sanciones que correspondan.
 
 ###### ARTÍCULO 217.
 
@@ -1628,11 +1658,11 @@ La segunda y posteriores notificaciones se efectuarán en el domicilio que se de
 
 ### CAPITULO SEGUNDO. INFRACCIONES
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 233.
 
-La violación a la Legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León, a este Reglamento, al Reglamento de Zonificación y usos del Suelo del Municipio de Guadalupe, Nuevo León, al Plan de Desarrollo Urbano del Municipio de Guadalupe, Nuevo León y al Reglamento de Protección Ambiental del Municipio de Guadalupe, Nuevo León vigentes, o de las resoluciones, licencias o autorizaciones expedidas, por el C. Presidente (a) Municipal, por el Centro de Desarrollo Urbano y Ecología o de las direcciones dependientes de esta última, se considera una infracción y origina como consecuencia, la aplicación de las sanciones correspondientes.
+La violación a la Legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León, a este Reglamento, al Reglamento de Zonificación y usos del Suelo del Municipio de Guadalupe, Nuevo León, al Plan de Desarrollo Urbano del Municipio de Guadalupe, Nuevo León y al Reglamento de Protección Ambiental del Municipio de Guadalupe, Nuevo León vigentes, o de las resoluciones, licencias o autorizaciones expedidas, por el C. Presidente (a) Municipal, por la Secretaría de Desarrollo Urbano y Obras Públicas o de las direcciones dependientes de esta última, se considera una infracción y origina como consecuencia, la aplicación de las sanciones correspondientes.
 
 ###### ARTÍCULO 234.
 
@@ -1652,7 +1682,9 @@ I. El R. Ayuntamiento de Guadalupe, Nuevo León;
 
 II. El C. Presidente (a) Municipal;
 
-III. El C. Director General del Centro de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+
+III. El C. Secretario de Desarrollo Urbano y Obras Públicas;
 
 IV. El C. Secretario de Finanzas y Tesorero Municipal.
 
@@ -1894,11 +1926,11 @@ La imposición de las sanciones antes referidas al perito responsable de la obra
 
 En materia de recursos y denuncia, se estará a lo dispuesto en la Ley vigente de la materia.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 ## TITULO DECIMO QUINTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPITULO XIX (SIC). PROGRAMAS DE INCENTIVOS PARA EL USO DE MATERIALES ECOLÓGICOS EN LA EDIFICACIÓN
 
@@ -1920,23 +1952,23 @@ El Programa de Incentivos en el uso de nuevas Tecnologías Ecológicas en la Con
 
 El Programa tiene por objeto promover mediante incentivos, un cambio en la conducta de las personas que realizan actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable, mediante sistemas constructivos o tecnologías que permitan el aprovechamiento del medio ambiente para lograr una edificación sana o bioclimática, que utilice los recursos naturales para su subsistencia.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 253.
 
-La Secretaría de Finanzas y Tesorería Municipal otorgará incentivos de hasta un 25% (veinticinco porciento) de acuerdo a la Ley de Hacienda para los Municipios del Estado de N.L. y la Ley de Ingresos para los Municipios del Estado de Nuevo León para el año 2009, en lo que respecta al pago de derechos de los servicios prestados por el Centro a los Ciudadanos.
+La Secretaría de Finanzas y Tesorería Municipal otorgará incentivos de hasta un 25% (veinticinco por ciento) de acuerdo a la Ley de Hacienda para los Municipios del Estado de Nuevo León, y la Ley de Ingresos para los Municipios del Estado de Nuevo León para el año 2009, en lo que respecta al pago de derechos de los servicios prestados por la Secretaría a los ciudadanos.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 254.
 
-El Centro por conducto de la Secretaría de Finanzas incentivará a los ciudadanos en la construcción de edificación cuando utilicen nuevas tecnologías que favorezcan al Medio Ambiente, mismos que serán determinados en base al presupuesto invertido de constructor para la preservación del Medio Ambiente, ya sea en el equipamiento o en la infraestructura necesaria para la aplicación del mencionado subsidio.
+La Secretaría por conducto de la Secretaría de Finanzas incentivará a los ciudadanos en la construcción de edificación cuando utilicen nuevas tecnologías que favorezcan al Medio Ambiente, mismos que serán determinados en base al presupuesto invertido de constructor para la preservación del Medio Ambiente, ya sea en el equipamiento o en la infraestructura necesaria para la aplicación del mencionado subsidio.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 255.
 
-El Centro deberá informar a la Secretaría de Finanzas y Tesorería Municipal para que en común acuerdo y en base al análisis realizado en costo beneficio, y de acuerdo a lo mencionado en el artículo 257 se determine el porcentaje del subsidio.
+La Secretaría deberá informar a la Secretaría de Finanzas y Tesorería Municipal para que en común acuerdo y en base al análisis realizado en costo beneficio, y de acuerdo a lo mencionado en el artículo 257 se determine el porcentaje del subsidio.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1968,11 +2000,13 @@ XI. Instalación de sistemas de riego.
 
 XII. Instalación de subestación eléctrica.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 257.
 
-Los incentivos Fiscales solo podrán otorgarse previo estudio del Centro de Desarrollo Urbano y Ecología, en coordinación con la Dirección de Ingresos de la Secretaría de Finanzas y Tesorería Municipal de acuerdo a la siguiente tabla de Incentivos Fiscales Ambientales:
+Los incentivos fiscales solo podrán otorgarse previo estudio de la Secretaría de Desarrollo Urbano y Obras Públicas, en coordinación con la Dirección de Ingresos de la Secretaría de Finanzas y Tesorería Municipal de acuerdo a la siguiente tabla de Incentivos Fiscales Ambientales:
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 % DEL TOTAL DE LA INVERSIÓN EN % DE DESCUENTO
 
@@ -1986,13 +2020,15 @@ LA EDIFICACIÓN APLICABLE
 
 Hasta 4 5
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
 Del punto medio del porcentaje del total de la inversión hacia arriba se tomará en cuenta el descuento aplicable.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 258.
 
-Los anteriores incentivos fiscales, serán aplicables únicamente al costo del pago de derechos de los servicios prestados por el Centro de Desarrollo Urbano y Ecología en concesiones, autorizaciones, licencias y permisos y serán transferibles, no gravables y quedarán sujetos al interés público; así como a cualquier otra tecnología que se presente y que se demuestre su eficiencia.
+Los anteriores incentivos fiscales, serán aplicables únicamente al costo del pago de derechos de los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas en concesiones, autorizaciones, licencias y permisos y serán transferibles, no gravables y quedarán sujetos al interés público; así como a cualquier otra tecnología que se presente y que se demuestre su eficiencia.
 
 ## TRANSITORIOS
 
@@ -2016,7 +2052,7 @@ LIC. ALFONSO RODRIGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
@@ -2037,3 +2073,9 @@ P.O. 28 DE MAYO DE 2010.
 PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE PERMISOS DE CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
+
+P.O. 18 DE ENERO DE 2013.
+
+PRIMERO.- Las presentes reformas al Reglamento de Permisos de Construcción del Municipio de Guadalupe, Nuevo León, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Gírese el presente acuerdo de reformas al Reglamento de Permisos de Construcción del Municipio de Guadalupe, Nuevo León, al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que lo remita para a (sic) su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
