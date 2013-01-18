@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-las-vias-83226
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2012-04-03"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83226&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-10"
 
 REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 11 de octubre de 2011.
 
@@ -67,6 +67,26 @@ IX. Vehículo, todo medio autopropulsado que se usa para transportar personas o 
 X. Vía Pública, el espacio de uso común destinado al tránsito de peatones, vehículos y ciclistas, determinado por la Secretaría de Desarrollo Urbano y Vivienda en los planos de alineamiento, números oficiales y derechos de vía;
 
 XI. Zona de Parquímetros, las vías públicas en las que podrán instalarse y operarse sistemas de control de estacionamiento;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+XII. Cochera, cajón de estacionamiento en el interior de un inmueble con capacidad para un vehículo;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+XIII. EcoParq, programa del Gobierno del Distrito federal a cargo de la Secretaría, a través de la Autoridad para el mejoramiento de la movilidad urbana, y la recuperación del espacio público a través del control de estacionamiento en las vías públicas de la ciudad;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+XIV. Oficina de Atención, la ventanilla de atención a residentes, misma que será determinada por la Secretaría y publicada en la Gaceta Oficial del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+XV. Vivienda, espacio delimitado por paredes y techos que se utilizan para vivir, con entrada y número oficial independiente;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+XVI. Permiso, el permiso renovable para residente.
 
 ### Capítulo Segundo. De la competencia
 
@@ -152,7 +172,9 @@ El estacionamiento de Vehículos Automotores en las Zonas de Parquímetros, se s
 
 I. Los parquímetros se instalarán en los lugares determinados por la Secretaría, a través de la Dirección General de Administración Urbana, sin que obstruyan accesos vehiculares a viviendas, pasos peatonales, rampas de acceso de personas con discapacidad u otros que dispongan las leyes o reglamentos aplicables;
 
-II. Los días y el horario de operación se determinará por la Secretaría de, Desarrollo Urbano, mediante acuerdo que se publicará en la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 18 DE ENERO DE 2013)</small>
+
+II. Los días y el horario de operación serán propuestos por el Comité de Transparencia y Rendición de Cuentas a la Secretaría, quién los aprobará, y publicará mediante acuerdo en la Gaceta Oficial del Distrito Federal.
 
 III. Los parquímetros contendrán a la vista del usuario, al menos, el horario de estacionamiento, el monto del pago por hora o fracción, las instrucciones generales de uso y un plano de la Zona de Parquímetros que abarca el mismo;
 
@@ -206,9 +228,11 @@ V. Cuando el vehículo se encuentre estacionado parcialmente fuera de la Zona de
 
 En los casos que el operador detecte la alteración o falsificación de comprobantes de pago o de permisos para residentes, dará vista de inmediato al Ministerio Público.
 
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
+
 ###### Artículo 17.
 
-El dispositivo inmovilizador será colocado y retirado por el Agente, quien además colocará una estampa adherible en la puerta del conductor del vehículo.
+El dispositivo inmovilizador será colocado y retirado por el agente quién podrá ser auxiliado por un tercero, de acuerdo al artículo 13 del Reglamento de Tránsito.
 
 ###### Artículo 18.
 
@@ -220,13 +244,17 @@ II. Centros autorizados para este fin; o
 
 III. Con el Agente que impuso la sanción en caso de que cuente con tecnología que le permita emplear una terminal de cobro con impresora.
 
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
+
 ###### Artículo 19.
 
-Cuando el usuario del servicio de estacionamiento en la Zona de Parquímetros, impida, dificulte o se niegue a que se ejerzan las facultades de revisión, de elaboración de boletas de infracción o de retiro del vehículo, será puesto a disposición del Ministerio Público.
+Cuando el usuario del servicio de estacionamiento en la Zona de Parquímetros, impida, dificulte o se niegue a que se ejerzan las facultades de revisión, de elaboración de boletas de infracción o de retiro del vehículo o insulte al personal autorizado, será puesto a disposición del Juez Cívico o del Ministerio Público según corresponda.
+
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 20.
 
-Quien insulte al personal autorizado, durante el ejercicio de sus funciones, así como quien cause algún daño a los parquímetros o a la señalización de los mismos, o haga un mal uso de ellos, pintarlos, averiarlos o cualquier otro que signifique un daño parcial o total a dicho mobiliario urbano, será puesto a disposición del Ministerio Público.
+Quién cause algún daño a los parquímetros o a la señalización de los mismos, o haga un mal uso de ellos, pintarlos, averiarlos o cualquier otro que signifique un daño parcial o total a dicho mobiliario urbano, será puesto a disposición del Ministerio Público.
 
 ###### Artículo 21.
 
@@ -242,57 +270,57 @@ II. Requerir un pago a cambio de remover el objeto que impida la normal utilizac
 
 Los infractores serán remitidos al Juez Cívico por el Agente, y sólo en el caso de la fracción II del presente artículo, deberá mediar queja del personal del operador.
 
-### Capítulo Sexto. De los permisos temporales especiales para residentes
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE ENERO DE 2013)</small>
+
+### Capítulo Sexto. De los Permisos Renovables para Residentes
+
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 23.
 
-Los propietarios o poseedores de los inmuebles destinados a vivienda, que se ubiquen en la Zona de Parquímetros, podrán estacionar sus vehículos en dicha zona, sin estar obligados al pago por dicho concepto, siempre que cuenten con el permiso temporal especial para residente.
+Los propietarios o poseedores de los inmuebles destinados a vivienda, que se ubiquen en el área específica de la Zona de Parquímetros, podrán estacionar sus vehículos en dicha área, sin estar obligados al pago por dicho concepto, siempre que cuenten con el permiso renovable para residentes.
+
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 24.
 
-La solicitud de permiso temporal especial para residente se presentará en la ventanilla única de la Secretaría, en el formato autorizado por la misma, con los siguientes documentos, en original y copia para cotejo:
+La solicitud de permiso para residentes se presentará en la Oficina de Atención de la Secretaría, en el formato autorizado por la misma, con los siguientes documentos en original y copia para cotejo:
 
-I. Licencia de conducir vigente del propietario del vehículo para el cual se solicita el permiso;
+I. Identificación oficial vigente;
 
-II. Documento que compruebe la propiedad o posesión del inmueble en el que habita el solicitante;
+II. Tarjeta de circulación del vehículo vigente; en caso de que el vehículo sea propiedad de una persona moral, deberá entregarse carta poder suscrita por el representante legal de la misma, a favor del solicitante, con firma autógrafa;
 
-III. Comprobante de domicilio, con fecha de expedición no mayor a 30 días, que contenga el mismo domicilio que el del inmueble que se encuentra dentro de la Zona de Parquímetros;
+III. Comprobante de domicilio con fecha de expedición no mayor a 60 días, que contenga el mismo domicilio que el de la vivienda que se habita. Dicho comprobante deberá ser alguno de los siguientes: boleta de pago del impuesto predial o, de derechos por suministro de agua o, recibo de luz o recibo de teléfono;
 
-IV. Tarjeta de circulación del vehículo, cuyo propietario deberá ser el solicitante;
+IV. Carta bajo protesta de decir verdad de acuerdo al formato establecido por la Secretaría.
 
-En caso de que el vehículo sea propiedad de una personal moral, deberá entregarse carta poder suscrita por el representante legal de dicha persona moral a favor del solicitante, con firma autógrafa, así como original y copia, para efectos de cotejo, del documento que acredite la personalidad de dicho representante legal;
-
-V. Manifestación, bajo protesta de decir verdad, que el inmueble en el que reside no cuenta con cochera; y
-
-VI. Última boleta de pago del impuesto predial y de derechos por suministro de agua.
-
-Para el otorgamiento del permiso temporal especial para residentes, será indispensable que el vehículo del solicitante se encuentre al corriente en la verificación vehicular obligatoria así como que no presente adeudos en el pago de multas de tránsito.
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 25.
 
-Los permisos sólo podrán ser solicitados en los meses de noviembre, diciembre, mayo y junio y su vigencia será semestral en periodos comprendidos de enero a junio y de julio a diciembre de cada año.
+Los permisos tendrán una vigencia de un año, contado a partir de su fecha de otrogamiento (sic) y deberán ser solicitados en la Oficina de Atención, en días y horas hábiles durante todo el año.
 
 ###### Artículo 26.
 
 La Secretaría podrá verificar en todo momento la veracidad de los datos e información proporcionados por los solicitantes del permiso temporal especial para residente. El otorgamiento del mismo será resuelto con base en las circunstancias específicas de cada solicitante.
 
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
+
 ###### Artículo 27.
 
-La Secretaría otorgará un permiso por inmueble, siempre y cuando en el interior del mismo no se cuente con cochera.
+La Secretaría otorgará un permiso por vivienda, siempre y cuando en el interior del inmueble donde se ubica la misma, no se cuente con cochera.
+
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 28.
 
-La Secretaría proporcionará al solicitante el permiso temporal especial para residentes así como una calcomanía adherible que contendrá el número de placas del vehículo autorizado, el período de vigencia y el área específica de la Zona de Parquímetros en la cual se autoriza el estacionamiento.
+La Secretaría proporcionará al solicitante el permiso para residente así como un distintivo que contendrá las placas del vehículo autorizado, el periodo de vigencia y el área específica de la Zona de Parquímetros en la cual se le autoriza a estacionar el vehículo. El distintivo deberá colocarse en el interior del vehículo autorizado, en la parte inferior del parabrisas del mismo, del lado del conductor, siempre a la vista desde el exterior del vehículo.
 
-La calcomanía deberá adherirse en el interior del vehículo autorizado, en la parte inferior del parabrisas del mismo, del lado del conductor, siempre a la vista desde el exterior del vehículo.
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
 ###### Artículo 29.
 
-El otorgamiento del permiso temporal especial para residente, surtirá efectos únicamente dentro de un área delimitada de la Zona de Parquímetros, en la que se encuentre el inmueble del cual sea propietario o poseedor el solicitante, dicha área se especificará en el permiso.
-
-> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2012)</small>
-
-Los permisos a que se refiere este artículo serán otorgados por la Autoridad del Espacio Público del Distrito Federal, a través del titular de la Dirección Ejecutiva de Gestión, ante quien se realizarán los trámites para ello.
+El otorgamiento del permiso para residente, surtirá efectos únicamente dentro de un área delimitada de la Zona de Parquímetros, en la que se encuentren la vivienda de la cual sea residente, propietario o poseedor el solicitante. Dicha área se especificará en el permiso.
 
 ### Capítulo Séptimo. Del comité de de (sic) transparencia y rendición de cuentas
 
@@ -320,9 +348,25 @@ Corresponde al Comité de Transparencia y Rendición de Cuentas:
 
 I. Proponer el mejoramiento de espacios públicos, infraestructura y equipamiento urbano en la colonia o colonias que comprenda la Zona de Parquímetros;
 
-II. Recibir y evaluar la propuesta emanada de las reuniones entre la Delegación y el Comité Ciudadano respectivo, para la rehabilitación y el mejoramiento del espacio público, y
+II. Recibir y evaluar la propuesta emanada de las reuniones entre la Delegación y el Comité Ciudadano respectivo, para la rehabilitación y el mejoramiento del espacio público, y (sic)
 
 III. Supervisar la ejecución de los proyectos y, en su caso, proponer adecuaciones al mismo.
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+IV. Generar sus reglas de operación interna;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+V. Proponer a la Secretaría las modificaciones de horario y días en que operen los parquímetros para su evaluación;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+VI. Recibir el reporte de Ingresos y contraprestación correspondiente que será recibido trimestralemente (sic) de parte de la autoridad del espacio público y;
+
+> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+
+VII. Recibir el reporte estadístico operativo y de comportamiento de la Zona de Parquímetros que le corresponda.
 
 ###### Artículo 32.
 
@@ -361,3 +405,11 @@ G.O. 3 DE ABRIL DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE ENERO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los permisos temporales especiales para residentes con vigencia semestral que se hayan otorgado antes de la entrada en vigor del presente decreto, conservarán su validez hasta el final de su vigencia; y una vez concluida ésta, los interesados podrán pedir un nuevo permiso renovable para residentes con vigencia de un año, de acuerdo con lo preceptuado por este decreto.
