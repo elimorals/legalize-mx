@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2012-11-30"
+last_updated: "2013-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -201,11 +201,9 @@ XIII.- Dirección General de Tecnologías de la Información.
 
 XIV.- Dirección General de Participación Ciudadana.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XV.- Dirección de Políticas de Seguridad Patrimonial y Tenencia de la Tierra.
+XV. Dirección General de Seguridad Patrimonial y Tenencia de la Tierra.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -287,7 +285,25 @@ XXVII. Formular el anteproyecto del presupuesto anual de la Secretaría, conform
 
 XXVIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas a su cargo, así como el ejercicio de las mismas.
 
-XXIX. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XXIX. Dirigir, supervisar y evaluar todas las acciones que en materia de protección civil se lleven a cabo en el Municipio.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XXX. Organizar las acciones de coordinación con las Autoridades Estatales y Federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XXXI. Salvaguardar la integridad física, los bienes y el entorno de las comunidades del municipio, supervisando, elaborando y operando programas de fortalecimiento de la cultura de la prevención, y el Plan Municipal de contingencias que permita evitar y/o minimizar los daños que ocasionan los: Fenómenos Socio Organizativos: Disturbios Sociales, Terrorismo y Sabotaje, Interrupción de los Servicios vitales a la población, Accidentes Carreteros, Ferroviarios, Aéreos y Marítimos, Concentraciones masivas de población. Fenómenos Sanitarios: Intoxicaciones, Epidemias, Contingencia Ambiental, Plagas, Lluvia Ácida. Fenómenos Químicos: Incendios forestales, Incendios Industriales, Incendios Urbanos, Explosiones, Derrame de Sustancias Químicas, Radiaciones, Fugas de Gases, Envenenamientos. Fenómenos Hidrometeorológicos: Huracanes, Lluvias Intensas, Inundaciones, Desbordamiento de Ríos y Arroyos, Granizadas, Temperaturas Extremas, Vientos Fuertes, Sequías, Deslaves y Tormentas Eléctricas. Fenómenos Geológicos: Deslizamientos y Derrumbes, Colapso de Suelos, Hundimiento y Agrietamiento de Suelos, efectos en el municipio derivados de los fenómenos provocados por Sismos, Vulcanismo, Tsunamis o Maremotos en el territorio nacional.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XXXII. Coordinarse con los planes de acción de todos los cuerpos de auxilio, dependencias municipales, voluntarios y sociedad civil para salvaguardar la vida y los bienes de los ciudadanos, de manera preventiva y en casos de desastre actuar oportunamente.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XXXIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
 Para el despacho de los asuntos de su competencia el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: Jurídica, Política, de Espectáculos y Comercio; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
@@ -951,23 +967,13 @@ XXVIII. Llevar y mantener actualizado el padrón de las licencias de manejo que 
 
 XXIX. Promover ante la comunidad mediante medios publicitarios, la denuncia de conductas irregulares que llegare a presentar el personal de la Secretaría.
 
-XXX. Dirigir, supervisar y evaluar todas las acciones que en materia de protección civil se lleven a cabo en el Municipio.
+XXX. (DEROGADA, P.O. 18 DE ENERO DE 2013)
 
-XXXI. Organizar las acciones de coordinación con las Autoridades Estatales y Federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres.
+XXXI. (DEROGADA, P.O. 18 DE ENERO DE 2013)
 
-XXXII. Salvaguardar la integridad física, los bienes y el entorno de las comunidades del municipio, supervisando, elaborando y operando programas de fortalecimiento de la cultura de la prevención, y el Plan Municipal de contingencias que permita evitar y/o minimizar los daños que ocasionan los:
+XXXII. (DEROGADA, P.O. 18 DE ENERO DE 2013)
 
-Fenómenos Socio-Organizativos: Disturbios Sociales, Terrorismo y Sabotaje, Interrupción de los Servicios vitales a la población, Accidentes Carreteros, Ferroviarios, Aéreos y Marítimos, Concentraciones masivas de población.
-
-Fenómenos Sanitarios: Intoxicaciones, Epidemias, Contingencia Ambiental, Plagas, Lluvia Ácida.
-
-Fenómenos Químicos: Incendios forestales, Incendios Industriales, Incendios Urbanos, Explosiones, Derrame de Sustancias Químicas, Radiaciones, Fugas de Gases, Envenenamientos.
-
-Fenómenos Hidrometeorológicos: Huracanes, Lluvias Intensas, Inundaciones, Desbordamiento de Ríos y Arroyos, Granizadas, Temperaturas Extremas, Vientos Fuertes, Sequías, Deslaves y Tormentas Eléctricas.
-
-Fenómenos Geológicos: Deslizamientos y Derrumbes, Colapso de Suelos, Hundimiento y Agrietamiento de Suelos, efectos en el municipio derivados de los fenómenos provocados por Sismos, Vulcanismo, Tsunamis o Maremotos en el territorio nacional.
-
-XXXIII. Coordinarse con los planes de acción de todos los cuerpos de auxilio, dependencias municipales, voluntarios y sociedad civil para salvaguardar la vida y los bienes de los ciudadanos, de manera preventiva y en casos de desastre actuar oportunamente.
+XXXIII. (DEROGADA, P.O. 18 DE ENERO DE 2013)
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1017,11 +1023,9 @@ XL. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Adminis
 
 XLI. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, el Secretario de Seguridad Pública se auxiliará de las siguientes Direcciones: de Policía; de Policía de Tránsito; de Operaciones; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+Para el despacho de los asuntos de su competencia, el Secretario de Seguridad Pública se auxiliará de las siguientes Direcciones: de Policía; de Tránsito; y de de (sic) Operaciones; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE CONTRALORÍA Y DEFENSA CIUDADANA
 
@@ -1189,11 +1193,9 @@ XXV.- Participar en la celebración de contratos y convenios relacionados con el
 
 XXVI.- Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXVII.- Formular el anteproyecto del presupuesto anual de la Secretaria de Contraloría y Desarrollo Administrativo (sic), conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
+XXVII. Formular el anteproyecto del presupuesto anual de la Secretaría de Contraloría y Defensa Ciudadana, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1870,3 +1872,13 @@ TERCERO. Todos los trámites y asuntos pendientes, de las dependencias que se fu
 CUARTO. Se instruye a las instancias responsables para determinar las disposiciones administrativas y presupuestales, que en su caso correspondan, para garantizar el funcionamiento de las Secretarías, Direcciones Generales, Direcciones, y demás dependencias del Municipio que fueron creadas, fusionadas o modificadas, en virtud de las presentes reformas.
 
 QUINTO. Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 18 DE ENERO DE 2013.
+
+PRIMERO. Las reformas por modificación y adición al articulado del Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León.
+
+TERCERO. Instrúyase al C. Secretario de Administración, a la Secretaría de Finanzas y Tesorería Municipal y a la Secretaría de la Contraloría y Defensa Ciudadana, a efecto de que dispongan lo conducente en relación a los efectos de las presentes reformas al Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León.
+
+CUARTO. Instrúyase al C. Secretario del Ayuntamiento para que remita para su publicación, el presente Acuerdo, en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
