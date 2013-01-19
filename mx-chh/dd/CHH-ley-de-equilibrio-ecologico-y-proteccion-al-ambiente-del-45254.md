@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2012-07-04"
+last_updated: "2013-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -1595,7 +1595,9 @@ La reiterada realización de actividades ruidosas, así como la emisión proveni
 
 Los Gobiernos Municipales deberán incorporar en sus bandos y reglamentos, disposiciones que regulen obras, actividades y anuncios publicitarios, a fin de crear una imagen agradable de los centros de población y evitar la contaminación visual en los mismos.
 
-Queda prohibida la fijación o colocación de anuncios publicitarios en elementos que conformen el entorno natural, tales como accidentes orográficos, cerros, colinas, barrancas, montañas, parques o jardines públicos, edificios públicos y monumentos históricos.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
+Queda prohibida la fijación o colocación de anuncios publicitarios en elementos que conformen el entorno natural, tales como accidentes orográficos, cerros, colinas, barrancas, montañas, árboles, áreas naturales protegidas de jurisdicción estatal, plazas públicas, parques o jardines públicos, edificios públicos y monumentos históricos, en elementos del equipamiento urbano, bastidores, mamparas, cuando obstruyan la visibilidad en puentes, pasos a desnivel, vialidades o señalamientos de tránsito.
 
 La Secretaría determinará las zonas en la Entidad que tengan un valor escénico o de paisaje y regulará y autorizará los tipos de obras o actividades que se pueden realizar con el propósito de evitar su deterioro.
 
@@ -2822,6 +2824,12 @@ DECRETO NÚMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTÍCULOS 5, CON 
 ###### ARTÍCULO TERCERO.
 
 El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2013
 
 ###### ARTÍCULO ÚNICO.
 
