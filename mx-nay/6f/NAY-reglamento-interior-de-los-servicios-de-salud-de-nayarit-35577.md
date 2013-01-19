@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2011-04-08"
+last_updated: "2013-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -157,7 +157,7 @@ VII. Las demás que de manera expresa le confiera la Junta.
 
 ### CAPITULO V. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 19.
 
@@ -227,9 +227,13 @@ XIII. Informar a la Junta, de los movimientos de personal transferido como el de
 
 XIV. Presentar en la última reunión ordinaria del año que corresponda, el anteproyecto del Programa Operativo Anual del organismo;
 
-XV. Solventar las observaciones en tiempo y forma que le imponga el órgano de control federal y estatal en su caso, informando debida y oportunamente a la Junta;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
-XVI. Expedir constancias y certificar las copias de documentos que existan en los archivos de (sic) organismo a todas aquellas personas que tengan interés legítimo o jurídico en ello;
+XV. Instruir en tiempo y forma la atención y contestación de las observaciones que le impongan al Organismo los Órganos de Control interno o Externos, estatales o federales.
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XVI. Expedir constancias y certificar las copias de documentos que obren en la Dirección, ó hayan sido generadas por la misma, a todas aquellas personas que tengan interés legítimo o jurídico en ello;
 
 XVII. Promover y proponer convenios de colaboración con la Secretaría de Educación Pública del Estado, en asuntos relacionados con acciones enfocadas a la enseñanza en salud;
 
@@ -285,9 +289,19 @@ XVI. Proponer al Director General la creación, modificación, reorganización, 
 
 XVII. Aplicar los criterios que difunda la unidad de Asuntos Jurídicos, así como consultarla cuando los asuntos impliquen cuestiones jurídicas y proporcionarle la información que le solicite;
 
-XVIII. Rendir informes al Director General del avance de los programas así como de las demás que le solicite, en el ámbito de su competencia, y;
+XVIII. Rendir informes al Director General del avance de los programas así como de las demás que le solicite, en el ámbito de su competencia, y; (sic)
 
-XIX. Las demás que de manera expresa le confiera el Director General
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XIX. Expedir constancias y certificar las copias de documentos que obren en su Unidad Administrativa, ó hayan sido generadas por la misma, a todas aquellas personas que tengan interés legítimo o jurídico en ello;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XX. Atender y contestar a las observaciones en el tiempo y forma que establezcan los Órganos de Control interno o Externos, estatales o federales, relativas a su unidad administrativa; e informar el resultado de las mismas al Director General y la Junta de Gobierno del Organismo;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XXI. Las demás que de manera expresa le confiera el Director General.
 
 ### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
@@ -579,7 +593,7 @@ XV. Las demás que le confiera el Director General y otras disposiciones, en el 
 
 ###### ARTICULO 26.
 
-La Dirección de la Administración, tendrá las siguientes atribuciones:
+La Dirección de Administración, tendrá las siguientes atribuciones:
 
 I. Dirigir la integración y consolidación del anteproyecto de presupuesto y del programa operativo anual del organismo, para su presentación ante el Comité Interno de Administración, vigilando el cumplimiento de la normativa vigente;
 
@@ -615,9 +629,15 @@ XVI. Asesorar a las diferentes unidades administrativas del organismo, en todos 
 
 XVII. Dirigir el registro y actualización de la plantilla del personal del organismo;
 
-XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unidades, cuotas de recuperación y programas prioritarios, y;
+XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unidades, cuotas de recuperación y programas prioritarios, y; (sic)
 
-XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XIX. Coordinar la atención y contestación de las observaciones que le impongan al Organismo los Órganos de Control Interno o Externos, estatales o federales.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
 
@@ -695,9 +715,17 @@ XI. Dictaminar en definitiva las actas administrativas que se levanten a los tra
 
 XII. Asesorar a las unidades administrativas del organismo para que cumplan adecuadamente las resoluciones jurisdiccionales pronunciadas o las recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, con la participación de otras unidades administrativas competentes;
 
-XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de este organismo y someterlos a la consideración del Director General, así como proponer a éste los proyectos de resolución a dichos recursos, y;
+XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de este organismo y someterlos a la consideración del Director General, así como proponer a éste los proyectos de resolución a dichos recursos, y; (sic)
 
 XIV. Las demás que le confiera el Director General, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XV. Expedir constancias y certificar las copias de los documentos que obren en los archivos del Organismo para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo, y en general para cualquier trámite, juicio, procedimiento, proceso o averiguación relacionado con sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XVI. Las demás que le confiera el Director General, en el ámbito de su competencia. (sic)
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
 
@@ -757,13 +785,15 @@ ARTlCULO 30.- El organismo contará con un órgano de control interno, cuyo titu
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-ARTlCULO 31.- Corresponde a la Contraloría Interna realizar todas las actividades inherentes a la vigilancia, fiscalización, seguimiento, control y evaluación de la recepción de los recursos públicos federales, estatales y de otras fuentes social y privada, que se aporten al organismo y su debida aplicación congruente con la normatividad aplicable.
-
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
-
 ###### ARTICULO 31.
 
-El órgano de control interno se sujetará a las disposiciones que de manera expresa le confieran la Junta de Gobierno y la Secretaría de la Contraloría General de Gobierno.
+Corresponde a la Contraloría Interna realizar todas las actividades inherentes a la vigilancia, fiscalización, seguimiento, control y evaluación de la recepción de los recursos públicos federales, estatales y de otras fuentes social y privada, que se aporten al organismo y su debida aplicación congruente con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2013)</small>
+
+La Contraloría interna conminará y apercibirá a los responsables de área a atender y contestar las observaciones de su unidad administrativa, haciendo del conocimiento de los servidores públicos de las sanciones en que incurren en no hacerlo en tiempo y forma, y en caso de ser omisos iniciar el procedimiento administrativo que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 32.
 
@@ -867,7 +897,7 @@ DR. ROBERTO S. YAÑEZ FRANCO
 
 DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE ABRIL DE 2005.
 
@@ -881,12 +911,16 @@ SEGUNDO. El Director General emitirá las medidas procedentes para que en un pla
 
 P.O. 8 DE ABRIL DE 2011.
 
-ACUERDO QUE MODIFICA EL ARTICULO 19 Y SE ADICIONA EL ARTICULO 27 BIS DEL REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE NAYARIT.
+ACUERDO QUE MODIFICA EL ARTÍCULO 19 Y SE ADICIONA EL ARTÍCULO 27 BIS DEL REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE NAYARIT.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE PARA EL ESTADO.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE PARA EL ESTADO.
 
 P.O. 8 DE ABRIL DE 2011.
 
-ACUERDO QUE MODIFICA EL ARTICULO 19 Y SE ADICIONA EL ARTICULO 26 BIS DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
+ACUERDO QUE MODIFICA EL ARTÍCULO 19 Y SE ADICIONA EL ARTÍCULO 26 BIS DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 19 DE ENERO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
