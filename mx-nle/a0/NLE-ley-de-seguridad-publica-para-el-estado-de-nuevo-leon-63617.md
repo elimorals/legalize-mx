@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2012-09-28"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -69,7 +69,7 @@ En los términos del Artículo 21 de la Constitución Política de los Estados U
 
 Para los efectos de esta Ley, se entiende por:
 
-l. Academia: La Academia Estatal de Seguridad Pública;
+I. (DEROGADA, P.O. 19 DE ENERO DE 2013)
 
 II. Centro de Control de Confianza: Al Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, Órgano Administrativo desconcentrado adscrito a la Secretaría General de Gobierno;
 
@@ -77,7 +77,7 @@ III. Comisión: la Comisión de Honor y Justicia;
 
 IV. Comités Comunitarios: los Comités de Participación Comunitaria;
 
-V. Consejo Académico: el Consejo de la Academia Estatal de Seguridad Pública;
+V. (DEROGADA, P.O. 19 DE ENERO DE 2013)
 
 VI. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública del Estado;
 
@@ -101,9 +101,17 @@ XV. Instituto: el Instituto Estatal de Seguridad Pública;
 
 XVI. Programa Estatal: el Programa Estatal de Seguridad Pública;
 
-XVII. Secretaría: la Secretaría de Seguridad Pública del Estado; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
-XVIII. Sistema Integral: el Sistema Integral de Seguridad Pública del Estado de Nuevo León.
+XVII. Secretaría: La Secretaría de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XVIII. Sistema Integral: el Sistema Integral de Seguridad Pública del Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XIX. Universidad: La Universidad de Ciencias de la Seguridad del Estado de Nuevo León.
 
 ###### Artículo 4.
 
@@ -171,7 +179,9 @@ II. Los Consejos de Participación Ciudadana en Materia de Seguridad Pública de
 
 III. Los Servicios de Seguridad Privada, en cualquiera de las modalidades previstas en la Ley de Seguridad Privada para el Estado de Nuevo León;
 
-IV. La Academia Estatal de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+IV. La Universidad; y
 
 V. Las demás organizaciones del sector público, privado, social, empresarial o académico que realicen actividades relacionadas con el objeto y fines de esta Ley.
 
@@ -325,7 +335,9 @@ El Instituto pondrá a consideración del Consejo de Coordinación y de los Cons
 
 Las autoridades de Seguridad Pública del Estado y de los Municipios llevarán a cabo la evaluación de las políticas, planes, programas, proyectos y acciones, con el propósito de conocer a través de referencias cualitativas y cuantitativas, la efectividad, eficacia, utilidad, grado de desempeño e impacto social que tienen en el cumplimiento de sus objetivos y en la consecución de los fines que prevé este ordenamiento.
 
-El Instituto contará con un órgano interno que tendrá como propósito evaluar el funcionamiento de las instituciones de seguridad pública del Estado, de los Municipios y de la Academia Estatal de Seguridad Pública.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
+El Instituto contará con un órgano interno que tendrá como propósito evaluar el funcionamiento de las instituciones de seguridad pública del Estado, de los Municipios y de la Universidad.
 
 ###### Artículo 24.
 
@@ -523,7 +535,9 @@ VI. Conocer las controversias sobre la operación y funcionamiento de los esquem
 
 VII. Vigilar los esquemas de coordinación operativa que, en materia de comunicación y en los términos de esta Ley, realizan las instituciones policiales del Estado y de los Municipios, dictando los lineamientos necesarios para hacerlo eficiente y proponer su modernización tecnológica;
 
-VIII. Coadyuvar con el Consejo de la Academia de Seguridad Pública con el propósito de examinar, dar opinión y precisar lineamientos generales sobre los planes y programas de formación, capacitación, actualización, profesionalización, especialización y desarrollo del personal de seguridad pública y de otros proyectos académicos, así como sobre su organización y funcionamiento;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+VIII. Coadyuvar con el Consejo Académico de la Universidad con el propósito de examinar, dar opinión y precisar lineamientos generales sobre los planes y programas de formación, capacitación, actualización, profesionalización, especialización y desarrollo del personal de seguridad pública y de otros proyectos académicos, así como sobre su organización y funcionamiento;
 
 IX. Evaluar los proyectos de creación o modificación de Leyes o reglamentos que en materia de seguridad pública, se sometan a su consideración;
 
@@ -667,27 +681,73 @@ Las demás organizaciones del sector público que no se encuentren establecidas 
 
 ### CAPÍTULO QUINTO. DE LA COORDINACIÓN PARA LA SEGURIDAD Y PROTECCIÓN DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 54.
 
-Las autoridades competentes del Estado dictarán las medidas conducentes para brindar los elementos necesarios para la protección que en su caso resulte necesaria a los siguientes servidores públicos estatales: Gobernador, Presidente del Tribunal Superior de Justicia, Secretario General de Gobierno, Secretario de Seguridad Pública, Procurador General de Justicia, Comisario General de la Agencia Estatal de Policía, Comisario General de la Agencia de Administración Penitenciaria, Sub Procurador del Ministerio Público, Director General de Averiguaciones Previas y Director General de la Agencia Estatal de Investigaciones y a todo aquel que realice actividades relacionadas con la seguridad pública que, en razón de su empleo, cargo o comisión asuman riesgos en el desempeño de sus atribuciones.
+Las autoridades competentes del Estado dictarán las medidas conducentes para brindar los elementos necesarios para la protección que en su caso resulte necesaria a los siguientes servidores públicos estatales:
 
-Para los efectos de las disposiciones contenidas en este Capítulo, se entiende por elementos necesarios a la designación que se haga, en el número que sea indispensable, de elementos policiales del Estado y de los Municipios, para brindar la seguridad y protección del servidor público y a la correspondiente asignación del armamento, municiones, equipo táctico y de comunicación, vehículos, bienes, instrumentos u objetos que faciliten dicha medida, lo anterior en los términos del presupuesto respectivo y de conformidad con el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo o el Ayuntamiento que corresponda.
+I. Gobernador del Estado;
+
+II. Presidente del Tribunal Superior de Justicia;
+
+III. Secretario General de Gobierno;
+
+IV. Procurador General de Justicia, Sub Procurador del Ministerio Público, Director General de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones;
+
+V. Los Titulares de las Instituciones Policiales Estatales; y
+
+VI. Todo aquel que realice actividades relacionadas con la seguridad pública, procuración e impartición de justicia, que, en razón de su empleo, cargo o comisión asuman riesgos en el desempeño de sus atribuciones, siempre que sea autorizado por el Titular del Ejecutivo del Estado, pudiendo ser temporal o bien por todo el período que permanezca en el ejercicio de su función, según las circunstancias del caso.
+
+Para los efectos de las disposiciones contenidas en este Capítulo, se entiende por elementos necesarios a la designación que se haga, en el número que sea indispensable, de elementos policiales del Estado y de los Municipios, para brindar la seguridad y protección del servidor público y a la correspondiente asignación del armamento, municiones, equipo táctico y de comunicación, vehículos, bienes, instrumentos u objetos que faciliten dicha medida, lo anterior en los términos del presupuesto respectivo, bajo los principios de optimización de recursos, humanos, materiales y financieros y de conformidad con el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Estado o el Ayuntamiento que corresponda.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 55.
 
-Los Titulares de las Salas Colegiadas y Unitarias en materia Penal, Juzgados Penales y Juzgados mixtos pertenecientes al Poder Judicial del Estado, y sus secretarios podrán solicitar las medidas de protección a que se refiere esta Ley, brindándoles los elementos necesarios cuando se presenten circunstancias de riesgo que amenacen su tranquilidad, o bien, cuando en el ejercicio de sus atribuciones tomen conocimiento de asuntos que por su naturaleza y particularidades específicas son o puedan ser víctimas de represión o de amenazas que afecten el correcto desempeño de sus atribuciones y la libertad para la toma de decisiones.
+El Presidente del Tribunal Superior de Justicia del Estado podrá solicitar las medidas de protección a que se refiere esta Ley, para la asignación de la protección necesaria para los Magistrados y Jueces que conozcan asuntos en materia penal, incluidos los de narcomenudeo, brindándoles los elementos necesarios cuando se presenten circunstancias de riesgo por motivos de su función que amenacen su tranquilidad, o bien, cuando en el ejercicio de sus atribuciones tomen conocimiento de asuntos que por su naturaleza y particularidades específicas son o puedan ser víctimas de represión o de amenazas que afecten el correcto desempeño de sus atribuciones y la libertad para la toma de decisiones.
 
 La solicitud de protección deberá ser por escrito para que las autoridades competentes del Estado dicten inmediatamente las medidas para garantizar la seguridad y protección de dichos servidores públicos.
 
+La protección se otorgará durante el tiempo en el cual persistan las circunstancias de riesgo o durante el tiempo en que conozcan de los casos a que se refiere el párrafo primero de este artículo, sin exceder en todos los casos de dos años.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 56.
 
-Las autoridades de Seguridad Pública de los Municipios dictarán las medidas y providencias para brindar los elementos necesarios para la protección de los Secretarios, Sub Secretarios, Directores, Sub Directores o Titulares de la Policía Municipal y de aquellos funcionarios que ejerzan funciones operativas o de quienes en razón de su empleo, cargo o comisión, estén expuestos a sufrir algún daño, amenaza o peligro, debiéndose efectuar las previsiones necesarias en el presupuesto anual del municipio correspondiente.
+Las autoridades de Seguridad Pública de los Municipios dictarán las medidas y providencias para brindar los elementos necesarios para la protección de:
+
+I. Los Presidentes Municipales;
+
+II. Los Titulares de las Instituciones Policiales Municipales y aquellos funcionarios que ejerzan funciones operativas; y
+
+III. Todo aquel servidor público municipal que en razón de su empleo, cargo o comisión, esté expuesto a sufrir algún daño, amenaza o peligro, siempre que sea autorizado por el Ayuntamiento respectivo, pudiendo ser temporal o bien por todo el período que permanezca en el ejercicio de su función; según las circunstancias del caso.
+
+Lo anterior con cargo al erario municipal, para lo cual deberán efectuarse las previsiones correspondientes en el presupuesto anual del municipio respectivo, bajo los principios de optimización de recursos, humanos, materiales y financieros y de conformidad las disposiciones reglamentarias que para tal efecto emita el Ayuntamiento que corresponda.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 57.
 
-De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, también tendrán derecho a recibir las medidas de protección y seguridad el cónyuge del servidor público y demás familiares en línea ascendente hasta en primer grado y descendentes hasta en un segundo grado.
+De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, también tendrán derecho a recibir las medidas de protección y seguridad el cónyuge del servidor público y los familiares en línea recta descendente hasta el primer grado, durante el mismo período de tiempo en que la reciba el servidor público.
 
-Las disposiciones contenidas en este capítulo se aplicarán hasta los tres años siguientes a la conclusión del encargo, término que en todo caso será prorrogable tomando en consideración las circunstancias particulares del caso.
+A la conclusión del encargo, se podrán continuar aplicando las medidas de seguridad y protección contenidas en este capítulo, siempre que subsista el riesgo de daño, amenaza o peligro, previa autorización del Titular del Ejecutivo del Estado o del Ayuntamiento, según corresponda, conforme a los siguientes principios:
+
+I. Los plazos de protección serán:
+
+a) De hasta seis años posteriores a la conclusión del encargo, para el Gobernador del Estado;
+
+b) De hasta tres años posteriores a la conclusión del encargo, para el Procurador General de Justicia y el Secretario General de Gobierno;
+
+c) Por un periodo igual al tiempo en que desempeño su encargo o hasta tres años posteriores a la conclusión, lo que resulte menor, para Presidentes Municipales; o
+
+d) Por un periodo igual al tiempo en que desempeño su encargo o hasta dos años posteriores a la conclusión, lo que resulte menor, para Magistrados, Jueces del Poder Judicial y cualquier otro supuesto.
+
+II. Ningún servidor público podrá tener protección por dos cargos diversos, por lo tanto, cesará la protección derivada del ejercicio de un cargo, si se es nombrado en uno nuevo que sea sujeto de protección conforme a este capítulo; y
+
+III. Se otorgará siempre que no se comprometa la suficiencia de recursos humanos y materiales para la prestación del servicio de seguridad en el Estado o Municipio correspondiente.
+
+Bajo ninguna circunstancia se permitirá que los recursos humanos y materiales destinados a la protección, sean utilizados para atender asuntos personales, siendo su única función la seguridad del servidor o exservidor público. La infracción a lo dispuesto en este párrafo será motivo del retiro de la protección.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -991,9 +1051,11 @@ Las órdenes de aprehensión o arresto administrativo se notificarán cuando no 
 
 La Secretaría, inscribirá y mantendrá actualizado en el Registro los datos relativos a los integrantes de las autoridades de Seguridad Pública del Estado y de los Municipios, en los términos de esta Ley y el Reglamento y verificará que la misma se integre en el Registro Nacional del Personal de Seguridad Pública, previsto en la Ley Federal de la materia.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 67.
 
-Para los efectos de la fracción II del Artículo 65 la Secretaría verificará que la Academia cuente con los registros actualizados del personal de Seguridad Pública del Estado y de los Municipios, mediante la integración de expedientes individualizados.
+Para los efectos de la fracción II del Artículo 65 la Secretaría verificará que la Universidad cuente con los registros actualizados del personal de Seguridad Pública del Estado y de los Municipios, mediante la integración de expedientes individualizados.
 
 ###### Artículo 68.
 
@@ -1313,7 +1375,9 @@ III. Emitir los lineamientos necesarios para el funcionamiento del Consejo Ciuda
 
 IV. Observar que el presupuesto asignado a la seguridad pública se aplique adecuadamente, haciendo las recomendaciones conducentes para su correcto destino y uso;
 
-V. Proponer los perfiles y requisitos que deban observarse en la designación de los Secretarios, Subsecretarios, Directores, Subdirectores, Comisarios Generales, Comisarios, Jefe y mandos operativos de las instituciones policiales preventivas del Estado y de los Municipios, incluyendo el Titular de la Academia y de los Alcaldes (sic);
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+V. Proponer los perfiles y requisitos que deban observarse en la designación de los Secretarios, Subsecretarios, Directores, Subdirectores, Comisarios Generales, Comisarios, Jefe y mandos operativos de las Instituciones Policiales del Estado y de los Municipios, incluyendo al Rector de la Universidad y los Alcaides de los Centros Penitenciarios;
 
 VI. Promover la creación e integración de los Consejos Ciudadanos Municipales de Seguridad Pública, estableciendo mecanismos de coordinación para el desarrollo de acciones conjuntas;
 
@@ -1441,53 +1505,85 @@ Los Comités Comunitarios se integrarán conforme al Reglamento que expida el Ti
 
 Las autoridades municipales deberán promover la integración de Comités Comunitarios, expidiendo para tal efecto la reglamentación correspondiente, con apego a las disposiciones contenidas en este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
 
-## TITULO SEXTO. DEL SISTEMA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS INSTITUCIONES POLICIALES
+## TÍTULO SEXTO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS INSTITUCIONES POLICIALES
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 120.
 
-El Sistema a que se refiere este Título, tiene por objeto establecer sus atribuciones y las bases para la organización y funcionamiento de las Instituciones Policiales.
+El presente Título tiene por objeto establecer las bases para la organización y funcionamiento de las corporaciones de la Policía Estatal y de la Policía y Tránsito Municipales.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+Se regirán, además, por este título, los elementos de vigilancia y custodia de los establecimientos penitenciarios, centros de detención preventiva y del Centro de Internamiento para Adolecentes (sic) Infractores.
+
+La organización y funcionamiento de los Agentes de Policía Ministerial se regirán de acuerdo a sus propias normas.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 121.
 
-Le corresponde a la policía del Estado y de los Municipios, con sujeción a las disposiciones contenidas en esta Ley, prevenir la comisión de los delitos, las infracciones administrativas y las infracciones de los adolescentes; mantener el orden, la paz y tranquilidad pública dentro del territorio del Estado y de sus respectivos Municipios; así como auxiliar a las demás autoridades para el cumplimiento de las Leyes y Reglamentos respectivos, en el ámbito de sus competencias.
+En los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el servicio que proporcionen las corporaciones de la Policía Estatal y de la Policía y Tránsito Municipales, así como la actuación los elementos de vigilancia y custodia de los establecimientos penitenciarios, centros de detención preventiva y del Centro de Internamiento para Adolecentes (sic) Infractores se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 122.
 
-Para los efectos de esta Ley, son autoridades de la policía del Estado de Nuevo León:
+Son autoridades de las Instituciones Policiales reguladas por este Título:
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 I. El Gobernador del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 II. El Secretario General de Gobierno;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 III. El Procurador General de Justicia;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 IV. El Secretario de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 V. Los Subsecretarios y Directores dependientes de la Secretaría;
 
-VI. El Comisario General de la Agencia Estatal de Policía;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+VI. Los Titulares de las Instituciones Policiales del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 VII. Los Presidentes Municipales; y
 
-VIII. Los Titulares de las Instituciones Policiales Municipales.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de las personas, sus bienes y derechos; así como mantener la paz, la tranquilidad y el orden público en todo el Estado, por conducto de las Dependencias que conforme a la Ley Orgánica de la Administración Pública del Estado deban ejercer esa atribución.
+VIII. Los Titulares de las Instituciones Policiales Municipales.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
+Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de las personas, sus bienes y derechos; así como mantener la paz, la tranquilidad y el orden público en todo el Estado, por conducto de las Dependencias que conforme a la Ley Orgánica de la Administración Pública del Estado deban ejercer esa atribución.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 123.
 
-En los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el servicio de seguridad pública que proporcionen las Instituciones Policiales se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
+En congruencia con los ámbitos de intervención y de la consecución de los fines que en materia de seguridad pública establece esta Ley, las Instituciones Policiales reguladas en este Título tendrán cuando menos las siguientes funciones:
+
+I. Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
+
+II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección y vigilancia en su ámbito territorial; y
+
+III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+
+La función de investigación sobre la comisión de los delitos corresponde al Ministerio Público y las demás corporaciones de policía le auxiliarán y estarán bajo su mando.
+
+La función de la investigación para disuasión y prevención de los delitos y demás infracciones administrativas corresponde a la Policía Estatal y municipales.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
@@ -1501,93 +1597,115 @@ La Policía Municipal estará bajo el mando del Presidente Municipal, en los té
 
 El Ejecutivo del Estado podrá celebrar convenios con los Municipios del Estado, previa aprobación de los Ayuntamientos correspondientes, para que a solicitud de éstos de manera directa las autoridades de Seguridad Pública del Estado se hagan cargo de manera temporal de la prestación del servicio público de policía, o bien se preste coordinadamente entre ambos niveles de gobierno, conforme a las prescripciones que prevé esta Ley y en los términos del convenio respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 126.
 
-Las Instituciones Policiales deberán actuar en condiciones que hagan visible y notoria su identidad y presencia en los lugares públicos, portando el uniforme e insignias que correspondan y con vehículos debidamente identificados con los emblemas oficiales, salvo autorización por escrito del Ministerio Público a solicitud de la institución de seguridad pública del Estado o municipal correspondiente, en los términos del Código de Procedimientos Penales del Estado de Nuevo León.
+Las Instituciones Policiales deberán desempeñar sus actividades en condiciones que hagan visible y notoria su identidad y presencia, portando el uniforme respectivo, las insignias y la identificación que corresponda. Los vehículos deberán estar plenamente identificados con los emblemas oficiales y los números de identificación de unidad.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+En el uso de emblemas, uniformes y demás insignias deberán cumplir con la normatividad y manuales de identidad que para ello se establezca.
 
-En el caso de la investigación de los delitos las Instituciones Policiales deberán auxiliar, previa solicitud por escrito del Ministerio Público y será la propia institución pública investigadora y persecutora quien ejerza bajo su más estricta responsabilidad el mando y supervisión de las tareas encomendadas para su auxilio.
+Sólo los elementos de las Instituciones Policiales Estatales que ejerzan técnicas especiales de investigación quedan exceptuados de lo prescrito en el párrafo anterior, pero en todo caso, su asignación al área de investigación sólo será autorizada por el Secretario de Seguridad Pública en el Estado.
 
 Los funcionarios o servidores públicos que contraviniendo esta disposición, ejerzan funciones que no les correspondan, serán sancionados conforme al Código Penal vigente en el Estado.
 
-### CAPÍTULO SEGUNDO. DE LA AGENCIA ESTATAL DE POLICÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
+
+### CAPITULO SEGUNDO. DE LAS INSTITUCIONES POLICIALES DEL ESTADO
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 127.
 
-La Agencia Estatal de Policía tendrá las atribuciones siguientes:
+A las Instituciones Policiales del Estado les corresponde el uso legitimo de la fuerza pública, en todo el territorio del Estado, para la conservación del orden, la paz, la tranquilidad pública, la prevención de conductas delictivas e infracciones administrativas, así como ejercer acciones de intervención, control, reacción y custodia, frente a hechos que afecten o puedan afectar la seguridad pública, particularmente tratándose de delitos de alta reincidencia, de alto impacto social o que la ley penal califica de graves.
 
-I. Prevenir las conductas delictivas y las faltas administrativas;
+El mando supremo de las Instituciones Policiales Estatales corresponderá al Gobernador del Estado.
 
-II. Proteger la integridad física de las personas, sus propiedades, derechos y libertades;
+El mando superior de las Instituciones Policiales Estatales corresponderá al Secretario de Seguridad Pública del Estado.
 
-III. Vigilar el cumplimiento estricto de las Leyes y Reglamentos de Policía y Buen
+El mando directo de las Instituciones Policiales Estatales corresponderá al Titular de la Institución Policial de que se trate.
 
-Gobierno;
+Las instituciones policiales del Estado se caracterizarán en su organización y funcionamiento por los siguientes principios:
 
-IV. Mantener el orden, la paz y tranquilidad de los lugares públicos;
+I. Principio de Efectividad: Consiste en que la Institución será efectiva al garantizar el justo equilibrio entre el eficaz cumplimiento de los fines últimos de la seguridad pública y la eficiencia en el manejo de los recursos que se apliquen a la consecución de los mismos. Se integra de los siguientes elementos:
 
-V. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia, en los términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+a) Eficaz, en cuanto a que buscará ante todo el cumplimiento de los fines de la seguridad pública, en ellos, la salvaguarda, la integridad y derechos de las personas, preservando las libertades, el orden y la paz públicos; y
 
-VI. A petición expresa del Ministerio Público auxiliar en la investigación y persecución de los delitos;
+b) Consecuente con el principio constitucional, será eficiente, pues buscará que los fines de la seguridad sean alcanzados mediante el uso racional, proporcionado y certero de los recursos aplicados.
 
-VII. Diseñar estrategias de prevención, intervención o de reacción frente a la comisión de conductas delictivas de alto impacto social o que, conforme a la Legislación Penal en vigor, sean calificados como delitos graves, que afecten o puedan afectar la paz, tranquilidad y orden público;
+II. Principio de Colaboración: Consiste en que contribuirá de manera permanente para la coordinación y cooperación en su caso, con el resto de las Instituciones de Seguridad Pública que actúen en el Estado. Promoverá además la colaboración y la participación comunitaria en materia de seguridad pública. Este principio se despliega de la siguiente manera:
 
-VIII. Colaborar, cuando así sea formalmente requerido, con las autoridades federales y municipales en el ejercicio de sus funciones de vigilancia, verificación e inspección;
+a) Es eje de coordinación entre las autoridades federales y las municipales. Como tramo intermedio entre estas autoridades, establecerá un mando central, vinculando y coordinando el despliegue de estrategias, información y mando en el ámbito territorial del Estado;
 
-IX. Auxiliar en los términos de ésta y otras Leyes, al Poder Legislativo y Judicial del Estado, las dependencias del Poder Ejecutivo, los órganos electorales y los organismos de la administración pública paraestatal;
+b) Favorecerá en la formación de sus elementos policiales, el desarrollo de capacidades y actitudes colaborativas, de trabajo en equipo y de resolución conjunta de conflictos. Para su actuación policial los integrantes de las corporaciones estatales desarrollaran protocolos de intervención conjunta; y
 
-X. Llevar el registro estadístico de los delitos, las conductas antisociales y las faltas de policía y buen gobierno;
+c) Accionará bajo el principio de suficiencia, es decir, dispondrá de los recursos humanos y materiales necesarios para lograr presencia y despliegue territorial oportuno, ante cualquier amenaza al orden y tranquilidad sociales en cualquier municipio del Estado. En este sentido, su Estado de Fuerza y Capacidad de Fuego se establecerá conforme a los parámetros internacionales.
 
-XI. Coordinar acciones con las Policías Preventivas Municipales para el cumplimiento de los objetivos y fines de esta Ley;
+III. Principio de objetividad: Consiste en que la Policía Estatal ejerce sus funciones en forma imparcial, con apego a la verdad y fiel cumplimiento de su responsabilidad. Dicho principio promoverá la actuación particular de cada uno de los integrantes de la institución policial así como de la corporación en su conjunto. Se integra por los siguientes elementos:
 
-XII. Brindar las medidas de protección y seguridad a los servidores públicos del Estado, en los términos y condiciones que establece este ordenamiento y el Reglamento respectivo;
+a) Imparcial, en el cumplimiento de los derechos de igualdad y libertad de los ciudadanos, así como de los órdenes social, jurídico y disciplinario. Protegerá a los grupos más vulnerables y se opondrá en lo general a cualquier tipo de discriminación o de atención policial con carácter selectivo;
 
-XIII. Ejecutar tareas de auxilio a la población en caso de accidentes, riesgos, siniestros, emergencias o desastres naturales, en apoyo a las instituciones de protección civil del Estado y de los Municipios;
+b) De actuación veraz, por ofrecer respuestas pertinentes, factibles y proporcionales a los diversos servicios en la atención de la seguridad pública. Apoyará sus intervenciones con información cierta que le proporcionen los grupos de inteligencia policial; y
 
-XIV. Participar en el diseño e instrumentación de los programas de prevención del delito, conforme a las disposiciones contenidas en esta Ley;
+c) Responsable al establecer misiones y objetivos estrictamente determinados, subordinados a la planeación y a la estrategia.
 
-XV. Observar lo dispuesto en el Programa Estatal de Seguridad Pública, que corresponda al ámbito de sus atribuciones;
+IV. Principio de Actuación Científica: Consiste en que las Instituciones Policiales del Estado están vinculadas al manejo de las tecnologías de la información y comunicación, como instrumentos para la obtención información veraz y generación de inteligencia, a fin prevenir (sic) conductas delictivas y llevar a cabo acciones de reacción precisas y responsables ante la comisión de delitos. Se integra por los siguientes elementos:
 
-XVI. Colaborar con el Consejo Ciudadano, para el cumplimiento de sus objetivos en los términos de esta Ley;
+a) Modernidad: que consiste en que la policía está actualizada en la utilización y manejo de los sistemas más avanzados de información y comunicación, así como en los procesos en la prevención y el combate de delitos y faltas administrativas;
 
-XVII. Cumplir con las recomendaciones emitidas por el Consejo Ciudadano cuando las mismas sean procedentes y no exista causa que justifique su rechazo o inobservancia;
+b) Investigación: que consiste en que la policía desarrolla funciones de investigación tendientes a la ampliación del conocimiento y entendimiento de los delitos y faltas administrativas;
 
-XVIII. Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción administrativa, buscando que se les proporcione una atención adecuada y oportuna por parte de las Instituciones correspondientes;
+c) Inteligencia: consistente en que la policía, como resultado de la investigación, genera y maneja la información, con la finalidad de conocer y entender las causas que originan la comisión de delitos y faltas administrativas, permitiendo llevar a cabo acciones de prevención y, en su caso, el combate de forma precisa, de dichas conductas;
 
-XIX. Realizar acciones coordinadas con los Comités de Participación Comunitaria;
+d) Tecnológica: que consiste en que la policía, para el desempeño de sus funciones se vincula de manera estrecha con el Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo del Estado, mismo que desempeña la utilización e implementación de las tecnologías de la información y comunicación, abasteciendo a las Instituciones Policiales de la información y medios tecnológicos requeridos para el desarrollo de sus funciones, facilitando la mejora continua en la prestación de los servicios.
 
-XX. Fomentar entre la comunidad el respeto irrestricto a los Derechos Humanos;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-XXI. Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito;
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-XXII. Brindar el apoyo de la fuerza pública cuando sea formalmente requerida por las autoridades federales, estatales o municipales en materia de protección civil para que estas lleven a cabo sus funciones vigilancia (sic), verificación e inspección, particularmente cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares; y
-
-XXIII. Las demás que señale esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 128.
 
-Para el cumplimiento de sus atribuciones, la Policía del Estado se sujetará a un esquema de organización que se oriente a la conservación del orden, la paz y tranquilidad pública; la prevención de conductas delictivas e infracciones administrativas y de ejercer acciones de intervención, de control o de reacción frente a hechos que afecten o puedan afectar la seguridad pública, particularmente tratándose de delitos de alto impacto social o que la Ley penal califica de graves.
+Las Instituciones Policiales del Estado, ejercerán entre otras las siguientes atribuciones:
+
+I. Implementar acciones de prevención de delitos y faltas administrativas, manteniendo el orden y paz públicos, fomentando con su actuar la observancia de los principios establecidos por la Constitución y los derechos humanos;
+
+II. Proteger en todo momento la integridad, propiedades, garantías individuales, derechos y libertades de las personas, así como respetar los derechos humanos;
+
+III. Auxiliar a las autoridades, órganos y organismos de la administración pública, cuando así lo soliciten, para el cumplimiento de sus atribuciones;
+
+IV. Auxiliar al Ministerio Público en sus tareas de conformidad con la legislación aplicable;
+
+V. Realizar las detenciones necesarias, en casos de flagrancia, observando lo dispuesto por el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+VI. Realizar la investigación para la prevención y disuasión de infracciones a la ley;
+
+VII. Brindar apoyo y auxilio a la ciudadanía en labores de protección civil cuando así se requiera, así como brindar orientación a víctimas de delito;
+
+VIII. Dar cumplimiento a lo dispuesto en el Programa Estatal de Seguridad, observando las recomendaciones y sugerencias del Consejo Ciudadano;
+
+IX. Promover, con el ejemplo, una cultura de la legalidad, de la denuncia ciudadana y de la prevención o auto protección del delito; y
+
+X. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 129.
 
-El Titular del Poder Ejecutivo del Estado expedirá el Reglamento que contenga entre otras: las disposiciones jerárquicas, la estructura normativa, la administrativa y de organización territorial; los mandos administrativos y operativos, los procedimientos de patrullaje y vigilancia y las demás relativas al régimen interno de la Policía Preventiva del Estado.
+La investigación para la prevención de los delitos es el conjunto sistematizado de acciones y procedimientos encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito exclusivo de evitar la comisión de delitos, con base en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
+Las labores de investigación para la prevención, invariablemente, deberán ajustarse a lo establecido en los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPÍTULO TERCERO. DE LA POLICÍA DE LOS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+### CAPÍTULO TERCERO. DE LAS INSTITUCIONES POLICIALES DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 130.
+
+Las Instituciones Policiales de los Municipios adoptarán, en su ámbito territorial, un esquema de organización y funcionamiento para la consecución del orden, la paz y tranquilidad públicos; previniendo los delitos y las infracciones administrativas de acuerdo a la normatividad aplicable. Para ello, desplegarán acciones de proximidad, comunicación y participación directa con los ciudadanos.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
+###### Artículo 131.
 
 La Policía de los Municipios, tendrá las atribuciones siguientes:
 
@@ -1599,25 +1717,23 @@ III. Vigilar el cumplimiento estricto de las Leyes y Reglamentos de Policía y B
 
 IV. Mantener el orden, la paz y tranquilidad de los lugares públicos;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
-
 V. Vigilar las calles, parques, jardines, vías públicas, lotes baldíos, escuelas, plazas, comercios, mercados, panteones, zonas ecológicas, espectáculos públicos, y aquellas que sean de la misma naturaleza.
 
-Cuando derivado de la vigilancia de calles y vías públicas, o por alguna denuncia ciudadana, la policía de los municipios tome conocimiento de la existencia de lotes baldíos, que sean propicios para la comisión de actividades ilícitas, deberá dar inmediato aviso a la autoridad municipal competente, a efecto de proceder a la limpieza del lote baldío respectivo, en los términos de la Ley de Hacienda para los Municipios del Estado.
+Cuando derivado de la vigilancia de calles y vías públicas, o por alguna denuncia ciudadana, la policía de los municipios tome conocimiento de la existencia de lotes baldíos, que sean propicios para la comisión de actividades ilícitas, deberá dar inmediato aviso a la autoridad municipal competente, a efecto de proceder a la limpieza del lote baldío respectivo, en los términos de la Ley de Hacienda para los Municipios del Estado;
 
 VI. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia; lo anterior, en los términos que dispone el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. A petición expresa del Ministerio Público auxiliar en la investigación y persecución de los delitos;
+VII. Auxiliar al Ministerio Público en sus tareas de conformidad con la legislación aplicable;
 
-VIII. Llevar el registro y control estadístico de los delitos, las infracciones administrativas contenidas en los reglamentos de policía y buen gobierno;
+VIII. Realizar la investigación para la prevención y disuasión de infracciones a la ley;
 
-IX. Instrumentar los programas, proyectos o acciones para garantizar la seguridad pública, la prevención del delito y de las infracciones administrativas en los municipios;
+IX. Llevar el registro y control estadístico de los delitos, las infracciones administrativas contenidas en los reglamentos de policía y buen gobierno;
 
-X. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública, que corresponda al ejercicio de sus atribuciones;
+X. Instrumentar los programas, proyectos o acciones para garantizar la seguridad pública, la prevención del delito y de las infracciones administrativas en los municipios;
 
-XI. Coordinar acciones con la Agencia Estatal de Policía para el cumplimiento de los objetivos y fines de esta Ley;
+XI. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública, que corresponda al ejercicio de sus atribuciones;
 
-XII. Brindar las medidas de protección y seguridad a los servidores públicos municipales, en los términos y condiciones que establece este ordenamiento y el Reglamento respectivo;
+XII. Coordinar acciones con las Instituciones Policiales Estatales para el cumplimiento de los objetivos y fines de esta Ley;
 
 XIII. Ejecutar tareas de auxilio a la población en caso de accidentes, riesgos, siniestros, emergencias o desastres naturales, en apoyo a las instituciones de protección civil del Estado y de los Municipios;
 
@@ -1625,25 +1741,11 @@ XIV. Colaborar con el organismo de participación ciudadana en materia de Seguri
 
 XV. Coordinar acciones con los Comités de Participación Comunitaria de los Municipios;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
-
 XVI. Solicitar a las autoridades de seguridad pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar, y
 
-XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar;
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-XVIII. Participar, en coordinación con la Agencia Estatal de Policía, cuando sea formalmente requerida con el apoyo de la fuerza pública necesaria para que las autoridades federales, estatales o municipales en materia de protección civil lleven a cabo sus funciones de vigilancia, verificación e inspección, en particular cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares; y
-
-XIX. Las demás que señale esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 131.
-
-La Policía Municipal adoptará un esquema de organización y funcionamiento que se oriente a la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
+XVIII. Las demás que señale esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1687,11 +1789,11 @@ a) Fomentar entre la comunidad el respeto irrestricto a los Derechos Humanos; y
 
 b) Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 133.
 
-La Academia deberá incorporar en los programas de formación, capacitación, actualización, desarrollo, profesionalización y especialización para los integrantes de las Instituciones Policiales los principios de organización y funcionamiento previstos en el Artículo 132 de esta Ley.
+La Universidad deberá incorporar en los programas de formación, capacitación, actualización, promoción, desarrollo, especialización y alto mando, para los integrantes de las Instituciones Policiales, los principios de organización y funcionamiento previstos en el Artículo 132 de esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1717,45 +1819,71 @@ En dicho convenio se deberá prever la determinación de reglas operativas para 
 
 Las demás Instituciones Policiales de los Municipios podrán constituirse en instancias de Coordinación Intermunicipal Regional, con sujeción a las disposiciones contenidas en este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
 
-### CAPÍTULO CUARTO. DE LA POLICÍA COMPLEMENTARIA
+### CAPÍTULO CUARTO. DE LAS FUNCIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 138.
 
-La Policía Complementaria tiene por objeto otorgar la seguridad, protección y vigilancia focalizada por áreas o destinatarios específicos como pueden ser, enunciativa y no limitativamente, entre otros, la destinada a centros comerciales, colonias, calles u otros lugares públicos, instituciones bancarias o de carácter empresarial, de manejo, custodia y traslado de valores, así como aquellas instalaciones estratégicas que por razón de seguridad de Estado requieran de sus servicios.
+Son atribuciones básicas de las Instituciones Policiales Estatales y Municipales las descritas en los artículos 128 y 131 de esta ley, respectivamente.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 139.
 
-El servicio de seguridad pública no podrá ser objeto de concesión a particulares el Estado y los Municipios podrán adicionalmente prestar estos servicios a organizaciones u agrupaciones ciudadanas o instituciones bancarias, del sector empresarial, industrial o comercial, con base en las modalidades y características que se establecen en este ordenamiento, suscribiendo para tal efecto los convenios o acuerdos de colaboración respectivos, sin que ello implique un demérito a la calidad del servicio que prioritariamente se le debe brindar a la comunidad.
+Las Instituciones Policiales Estatales y Municipales podrán prestar, sin menoscabo de sus atribuciones básicas descritas en el artículo anterior, las funciones complementarias que se describen en este capítulo.
+
+La prestación de las funciones complementarias deberá seguir en todo caso las bases y condiciones que se establecen para cada una de ellas.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 140.
 
-El usuario del servicio a que se refiere el Artículo anterior, podrá aportar equipo tecnológico, de localización satelital, de radio-comunicación, computacional y de sistemas informáticos, alarmas, centros de monitoreo, video - cámaras, bienes muebles o inmuebles y cualquier objeto, producto o recurso en especie o económico que contribuya al fortalecimiento de la medida de seguridad y protección objeto de la prestación, e incluso, la asignación de personal del servicio de seguridad privada, bajo la estricta supervisión y mando de la autoridad prestadora del servicio.
+La vigilancia especifica en barrios, colonias, fraccionamientos, comunidades o sectores urbanos delimitados, se otorgará previa formación de un comité ciudadano integrado por residentes del sector y cumpliendo los requisitos que al efecto se establezcan.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 141.
 
-Para los efectos del Artículo 139, se cubrirán los derechos correspondientes en la Tesorería del Estado o de los Municipios y su monto será determinado en el convenio o acuerdo que se suscriba, atendiendo a las condiciones, tiempos y modalidades que ambas partes determinen expresamente.
+La vigilancia en sitios y edificios públicos que por su naturaleza requieran de resguardo y protección, se concederá previo análisis de riesgo de las instalaciones a resguardar y con absoluto respeto a los ámbitos de competencia de cada Institución Policial.
 
-Los ingresos que perciban el Estado y los Municipios por concepto de la prestación de este servicio, serán destinados exclusivamente al mejoramiento de las instituciones de seguridad pública y al cumplimiento de los fines que esta Ley determina.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 142.
 
-Le corresponde a la policía auxiliar desarrollar tareas de vigilancia y protección de las oficinas públicas gubernamentales y para tal efecto, la Secretaría promoverá la realización periódica de análisis de vulnerabilidad tendientes a neutralizar cualquier posible riesgo o afectación mediante la adopción de mecanismos de seguridad.
+La vigilancia de espectáculos públicos o de eventos cuya concurrencia masiva de personas requieran de protección, resguardo y aseguramiento, se otorgará en proporción a la naturaleza de las instalaciones y riesgos potenciales.
+
+Si en el desempeño de esta función concurren instituciones policiales municipales o estatales, el mando y dirección de las acciones implementadas corresponderá a la Policía Estatal.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 143.
 
-Adicional y eventualmente tratándose de la vigilancia en eventos públicos o privados, de cualquier naturaleza, le corresponde a la policía auxiliar prestar el servicio correspondiente, sujetándose a las disposiciones contenidas en este Capítulo.
+La protección y escolta de servidores públicos, ex servidores públicos y demás personas que gocen de este beneficio, dentro de su respectivo ámbito de competencia, se observará lo dispuesto en el Capitulo Quinto del Título Tercero de la presente Ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 144.
 
-La policía de barrio se integra por el conjunto de elementos policiales destinados a desempeñar actividades de protección, seguridad y vigilancia circunscrita a sectores o zonas delimitadas territorialmente, cuya cobertura y ejecución permita la interacción con sus habitantes y para su conformación se sujetara a las disposiciones contenidas en los Artículos 139, 140 y 141 de esta Ley.
+La vigilancia de lugares privados, que por la importancia o interés público que representan debido a la actividad que desempeñan requieran de protección, se otorgará en proporción a la naturaleza de las instalaciones y riesgos potenciales.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 145.
 
-Para la conformación de la policía de barrio a que se refiere el Artículo anterior, será indispensable la instalación de un Comité de Participación Comunitaria, en los términos de este ordenamiento, a efecto de que a través de esa instancia se realicen las evaluaciones del servicio y desempeño.
+La prestación de los servicios complementarios establecidos en los artículos 140, 142 y 144 de esta Ley, podrán ser solicitados conforme a las siguientes bases:
+
+I. Posibilidad cualitativa y cuantitativa de comisionar elementos para el desempeño de estas funciones;
+
+II. Presentación por escrito de la solicitud respectiva, ante la autoridad correspondiente;
+
+III. Suscripción del convenio respectivo para la prestación del servicio, en donde se establecerán las obligaciones y los alcances del servicio, así como la temporalidad de la prestación de estos;
+
+Para el caso de la vigilancia de sectores urbanos delimitados, deberá conformarse un comité ciudadano; y
+
+IV. Realizar el pago de derechos correspondientes, ante la Tesorería General del Estado o la Tesorería Municipal que corresponda.
 
 ### CAPÍTULO QUINTO. DE LOS GRUPOS OPERATIVOS ESPECIALES
 
@@ -1787,7 +1915,9 @@ V. Indicar los esquemas de supervisión institucional;
 
 VI. Proporcionar el nombre, edad, antigüedad, cargo y funciones de sus integrantes;
 
-VII. Justificar, mediante constancia expedida por la Academia, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+VII. Justificar, mediante constancia expedida por la Universidad, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
 
 VIII. Acreditar que sus integrantes estén inscritos en el Registro Estatal del Personal de Seguridad Pública y contar con cédula única de identificación policial;
 
@@ -1810,6 +1940,8 @@ En los términos del Artículo 115 fracción VII de la Constitución Política d
 ###### Artículo 150.
 
 La Secretaría llevará un riguroso control y supervisión del personal que conforman los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción a que se refiere este Capítulo y, además, considerando la naturaleza de las funciones que desempeñan, deberá instrumentar los mecanismos institucionales que sean necesarios para garantizar la aplicación permanente de pruebas de control de confianza, que permitan examinar la pertinencia entre sus integrantes de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, disciplina y lealtad institucional.
+
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO 010 POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO, MODIFICO DE MANERA SUSTANCIAL PRÁCTICAMENTE EL CAPÍTULO SEXTO CON SUS RESPECTIVAS SECCIONES, P.O. 19 DE ENERO DE 2013.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1875,7 +2007,9 @@ XV. Participar en el diseño e instrumentación de los programas de prevención 
 
 XVI. Facilitar la activa participación de la comunidad en las tareas que se relacionen con la seguridad pública;
 
-XVII. Asistir a los cursos de capacitación, adiestramiento y especialización que imparta la Academia;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+XVII. Asistir a los cursos de capacitación y formación continua y especializada que imparta la Universidad;
 
 XVIII. Someterse, cuando lo ordenen sus superiores, a las pruebas de control de confianza y a los procedimientos de evaluación del desempeño, en los términos y condiciones que determina esta Ley;
 
@@ -2003,9 +2137,11 @@ Los agentes policiales que realicen detenciones, deberán dar aviso administrati
 
 #### SECCIÓN CUARTA. DE LOS DERECHOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 157.
 
-Son derechos de los integrantes de las instituciones policiales preventivas del Estado y de los Municipios las siguientes:
+Son derechos de los Integrantes de las Instituciones Policiales del Estado y de los Municipios las siguientes:
 
 I. Recibir cursos de formación básica para su ingreso, de capacitación, actualización, desarrollo, especialización y profesionalización y aquellos que permitan el fortalecimiento de los valores civiles;
 
@@ -2023,7 +2159,9 @@ VII. Recibir apoyo terapéutico, médico, psicológico, psiquiátrico, de trabaj
 
 VIII. Obtener beneficios sociales, culturales, deportivos, recreativos y de cualquier especie que contribuyan a mejorar sus condiciones de vida personal y al fortalecimiento de los lazos de unión familiar;
 
-IX. Participar con la Academia Estatal de Seguridad Pública como instructores técnicos en la formulación de programas de capacitación, acondicionamiento y adiestramiento, de acuerdo con sus aptitudes, habilidades y competencias;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+
+IX. Participar, a invitación de la Universidad como instructores técnicos; así como, en la formulación de programas de capacitación, acondicionamiento y adiestramiento, de acuerdo con sus aptitudes, habilidades y competencias;
 
 X. Ser evaluado en el desempeño de sus funciones y ser informado oportunamente del resultado que haya obtenido;
 
@@ -2133,59 +2271,169 @@ Al haberse dictado auto de formal prisión o de vinculación al proceso por la c
 
 Quedan excluídas de este delito las autoridades señaladas en el Artículo 122 de esta Ley.
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2013)</small>
+
+### CAPÍTULO SÉPTIMO. DEL USO DE LA FUERZA POLICIAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 160.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Se entiende por uso de la fuerza policial la aplicación de métodos, técnicas y tácticas, con base en los distintos niveles de fuerza y en ejercicio de las funciones policiales, las acciones tendientes a:
+
+I. Hacer cumplir la Ley;
+
+II. Mantener la vigencia del Estado de Derecho;
+
+III. Salvaguardar el orden y la paz públicos;
+
+IV. Salvaguardar la vida o la integridad física del policía, de la víctima, del presunto infractor o delincuente, así como de cualquier otra persona;
+
+V. Evitar la violación de derechos humanos de las personas y garantizar el restablecimiento de la paz y el orden público;
+
+VI. Controlar a la persona que se resista a la detención ordenada por una autoridad competente o en caso de flagrancia;
+
+VII. Cumplir con un deber o con una orden emitida por autoridad competente;
+
+VIII. Prevenir la comisión de conductas ilícitas, y
+
+IX. Actuar en legítima defensa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 161.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Corresponde al Ejecutivo ordenar el uso de la fuerza pública municipal, en aquellos casos que determine la existencia de hechos o acontecimientos presentes o futuros inminentes de fuerza mayor o alteración grave del orden público, de conformidad con lo dispuesto en la Ley de Emergencia Policial, Reglamentaria de la fracción XVIII del artículo 58 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 162.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+El uso de la fuerza por los Policías debe ser de forma gradual, siguiendo los siguientes niveles:
+
+I. Presencia Policial: Es la acción de hacerse presente en el lugar y ante la o las personas que pretendan realizar o hayan realizado actos contrarios a la ley, mediante la utilización adecuada del uniforme, equipo y actitud diligente;
+
+II. Persuasión o disuasión verbal: Es la utilización de palabras o gesticulaciones, que son catalogadas como órdenes, y que con razones permiten a la persona facilitar al policía cumplir con sus funciones;
+
+III. Advertencia del empleo legítimo de la fuerza o de las armas no letales: Es el aviso que realiza el policía, con tiempo suficiente, en el que indica que de no acatar sus órdenes empleará legítimamente la fuerza o alguna arma no letal;
+
+IV. Control físico: Es la reducción física de movimientos de la persona que se ha resistido y ha obstaculizado que el policía cumpla con sus funciones, mediante técnicas de acción de cuerpo a cuerpo, a efecto de que la persona obedezca la orden legal del policía.
+
+Para el empleo del control físico se deberá tomar en cuenta el tipo de resistencia ofrecido por la persona que podrá ser pasiva, activa o violenta;
+
+V. Utilización de armas incapacitantes no letales: Es el empleo de las mismas con el fin de controlar a la persona que realiza resistencia violenta, disminuyendo el daño que en la acción se le pueda ocasionar;
+
+VI. Advertencia del empleo de armas de fuego o letales: Es el aviso que realiza el policía, con tiempo suficiente, indicando que utilizará las armas de fuego en caso de que la persona a quien se dirige no cumpla sus órdenes; y
+
+VII. Utilización de armas de fuego o de fuerza letal: Es el empleo de las armas de fuego a efecto de controlar la resistencia violenta agravada de una persona, en los casos que autoriza esta Ley.
+
+Los anteriores niveles en el empleo de de (sic) la fuerza y las armas, deben observarse siempre, salvo que de acuerdo a las circunstancias, de seguir el orden de ellos se ponga en peligro grave la integridad física o la vida del policía, de la persona que se pretende controlar o de alguna otra tercera persona.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 163.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+El policía, al emplear la fuerza o las armas, valorará las siguientes circunstancias:
+
+I. El objetivo que persigue, las particularidades del caso y las capacidades tanto del sujeto a controlar, como de él mismo;
+
+II. El uso, en la medida de lo posible, de medios no violentos, antes de recurrir al empleo de la fuerza o las armas;
+
+III. La posibilidad de utilizar la fuerza y las armas únicamente después de que otros medios resulten ineficaces, o no garanticen de ninguna manera el logro del resultado previsto;
+
+IV. Que sea estrictamente necesario para el desempeño de las tareas de seguridad pública; y
+
+V. Que realice un empleo diferenciado de la fuerza y las armas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 164.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Cuando estén en riesgo los derechos y garantías de personas e instituciones, la paz pública y la seguridad ciudadana, las Instituciones Policiales podrán hacer uso de la fuerza, siempre que se rijan y observen los siguientes principios:
+
+I. Legalidad: consistente en que todo servidor público debe regir su actuación a lo que la Ley específicamente le faculte, así como para cumplimentar orden emitida por autoridad competente que funde y motive la causa legal del procedimiento;
+
+II. Racionalidad: consistente en que el policía realiza una diferenciación de las diversas situaciones que pueden presentarse ante una agresión, evaluando la duración, la magnitud, los riesgos y los daños causados o que puedan causarse:
+
+a) Cuando el uso de la fuerza se deriva de una decisión, valorando el objetivo que se persigue, las circunstancias del caso y las capacidades de la persona a controlar y de los Policías, siempre que sea estrictamente necesario;
+
+b) Cuando se haga uso diferenciado de la fuerza;
+
+c) Cuando se usen, en la medida de lo posible, los medios no violentos antes de recurrir al empleo de la fuerza y de las armas, sin poner en riesgo su propia integridad o la de otras personas, y
+
+d) Cuando se utilice la fuerza y las armas, solamente cuando los medios no violentos resulten ineficaces.
+
+III. Necesidad: que consiste en que se hará uso de la fuerza o de las armas sólo cuando sea estrictamente necesario e inevitable los Integrantes emplearán la fuerza para impedir la perturbación del orden público y para restablecerlo;
+
+IV. Oportunidad: consiste en que el empleo de la fuerza sea utilizado de forma inmediata para evitar o neutralizar un daño o peligro inminente o actual, que vulnere o lesione la integridad, derechos o bienes de las personas, las libertades, la seguridad ciudadana o la paz pública; y
+
+V. Proporcionalidad: consiste en que el empleo de la fuerza y las armas debe ser adecuado y corresponder a la acción que enfrenta o que intentar repeler; además, debe justificarse por las circunstancias específicas de la situación concreta, considerando la intensidad, duración, magnitud y los riesgos o daños causados o que puedan causarse.
+
+No se deberá actuar con todo el potencial de una unidad si las personas contra las que se usa la fuerza se encuentran en una situación cuantitativa y cualitativa inferior. En consecuencia, la fuerza empleada debe ser prudente y limitada, sólo para alcanzar el control y neutralización de la agresión.
+
+El uso de la fuerza está en directa relación con los medios que emplean las personas que participan en la agresión, su número y grado de hostilidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 165.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Las instituciones policiales deberán establecer los protocolos y directrices que regulen específicamente la aplicación de los criterios establecidos para el uso de la fuerza.
+
+En consecuencia, todos los integrantes de las Instituciones Policiales recibirán la capacitación y adiestramiento necesarios para el empleo de la fuerza en el desempeño de sus funciones con base en dichos protocolos y directrices
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 166.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Los policías no deberán, por ningún motivo, abusar del uso de la fuerza física en función de sus capacidades técnicas e intensidad de las operaciones, una vez llevada a cabo la neutralización física de los sujetos a controlar, ni los someterán a tratos crueles, inhumanos, degradantes o torturas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 167.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Siempre que el policía utilice la fuerza y las armas en cumplimiento de sus funciones, deberá presentar un informe pormenorizado a su superior jerárquico inmediato.
+
+Los superiores jerárquicos adquieren responsabilidad cuando tienen conocimiento de que el policía bajo su mando ha empleado ilícitamente la fuerza o las armas, y no lo impidan o no lo denuncien ante las autoridades correspondientes.
+
+En caso de que los integrantes de la Instituciones Policiales no adopten todas las medidas a su disposición para hacer uso de la fuerza, se les iniciará la investigación respectiva por las áreas de asuntos internos de las Instituciones Policiales, en términos de las disposiciones legales aplicables, sin óbice de que sean acreedores, de acuerdo a su participación, a la responsabilidad a que diere lugar, sea administrativa, civil o penal.
+
+Los policías podrán, como último medio de aplicación de la fuerza, utilizar distintas armas de fuego, de conformidad con lo dispuesto por la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 168.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Ningún Policía podrá ser sancionado por negarse a ejecutar una orden notoriamente inconstitucional o ilegal, o que pudiera constituir un delito. Toda orden con estas características deberá ser reportada al superior jerárquico inmediato de quien la emita.
+
+Los motivos por los cuales se da la intervención de las instituciones policiales, por lo que se refiere al tipo del delito o de orden a cumplir, no justifican por sí mismo el uso de las armas letales o fuerza letal, inclusive si los hechos de que se trate hayan sido violentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 169.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+A los integrantes de la Instituciones Policiales, previa aprobación de los exámenes de evaluación y control de confianza, se les proveerá del equipo autoprotector y medios de transporte pertinentes, armas incapacitantes no letales y letales acorde a las funciones que desempeñen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 170.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Para el uso de las armas y el equipo referido en el artículo anterior, los integrantes de las Instituciones Policiales recibirán capacitación y adiestramiento de manera permanente con especial atención a la ética policial y respeto a los derechos humanos.
 
-###### Artículo 171.
+En materia de capacitación además conocerán los medios que puedan sustituir el empleo de la fuerza y de armas de fuego, tales como la solución pacífica de los conflictos, el estudio del comportamiento de las multitudes y las técnicas de persuasión, negociación y mediación.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
+
+###### Articulo 171.
+
+Cuando el empleo de las armas de fuego sea inevitable, los integrantes de las Instituciones Policiales encargadas de hacer cumplir la ley reducirán al mínimo las lesiones, asimismo respetarán y protegerán la vida humana, para ello:
+
+I. Procederán de modo que se presten lo antes posible asistencia y servicios médicos a las personas heridas; y
+
+II. Notificarán lo sucedido, tan pronto como sea posible, a los familiares de las personas heridas.
 
 ## TÍTULO SÉPTIMO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL DEL DELINCUENTE
 
-### CAPÍTULO SEGUNDO. DE LAS BASES GENERALES DEL SISTEMA PENITENCIARIO
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 172.
 
@@ -2233,7 +2481,7 @@ Esta disposición no aplicará para las áreas de medicina general, geriatría, 
 
 El tratamiento de adaptación social para adolescentes se integrará, en lo aplicable, con las disciplinas descritas en el Artículo anterior, incluyendo la pedagogía correctiva. Por cada veinte adolescentes, los centros tendrán por lo menos un profesionista en cada una de las disciplinas mencionadas.
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LAS BASES GENERALES DEL SISTEMA PENITENCIARIO
 
 ###### Artículo 177.
 
@@ -2281,7 +2529,7 @@ Reglamentariamente se determinará lo relativo al régimen interior de las insti
 
 ## TÍTULO OCTAVO. DEL SISTEMA ESPECIALIZADO PARA LA ATENCIÓN INTEGRAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES INFRACTORES
 
-### CAPITULO SEGUNDO. DE LAS BASES GENERALES PARA LA PREVENCIÓN, REHABILITACIÓN Y ASISTENCIA SOCIAL
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 187.
 
@@ -2315,7 +2563,7 @@ IX. Principio de humanidad en la ejecución de sanciones: Que en el cumplimiento
 
 X. Principio de legalidad durante la ejecución: Ningún adolescente sancionado podrá sufrir limitación alguna a su libertad u otros derechos que no sean consecuencia directa e inevitable de la medida sancionadora impuesta.
 
-### CAPITULO TERCERO. DE LAS BASES GENERALES PARA EL TRATAMIENTO EN LA EJECUCIÓN DE MEDIDAS SANCIONADORAS
+### CAPITULO SEGUNDO. DE LAS BASES GENERALES PARA LA PREVENCIÓN, REHABILITACIÓN Y ASISTENCIA SOCIAL
 
 ###### Artículo 190.
 
@@ -2337,9 +2585,7 @@ Para la rehabilitación y asistencia social proporcionada por la Secretaría se 
 
 El cumplimiento de las medidas sancionadoras no privativas de la libertad en centros especializados estará a cargo de la Secretaría o de las Instituciones Especializadas con las que ésta establezca un acuerdo específico.
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+### CAPITULO TERCERO. DE LAS BASES GENERALES PARA EL TRATAMIENTO EN LA EJECUCIÓN DE MEDIDAS SANCIONADORAS
 
 ###### Artículo 195.
 
@@ -2353,19 +2599,45 @@ Las instancias públicas estatales, cuya competencia incida en la atención de a
 
 ## TITULO NOVENO. DEL DESARROLLO POLICIAL
 
-### CAPÍTULO SEGUNDO. DEL SERVICIO DE CARRERA POLICIAL
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 197.
 
 El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2013)</small>
+
+###### Artículo 197 Bis.
+
+A efecto de instrumentar y evaluar las reglas y procesos en materia de desarrollo policial, descritas en el artículo anterior, se crea con carácter funcional, consultivo, de opinión y honorifico, el Consejo Consultivo de Desarrollo Policial, el cual estará integrado de la siguiente manera:
+
+I. Un Presidente, que será el Secretario de Seguridad Pública del Estado;
+
+II. Un Secretario, que será el Titular de la Comisión de Honor y de Justicia;
+
+III. Cuatro vocales, que serán:
+
+a) El Titular de la Comisión de Carrera Policial;
+
+b) El Rector de la Universidad de Ciencias de la Seguridad;
+
+c) El Titular del Centro de Información para la Seguridad de Estado, Evaluación y Control de Confianza; y
+
+d) El Director del Instituto Estatal de Seguridad Pública.
+
+IV. Un grupo multidisciplinario no menor de cinco y no mayor de diez Consejeros, designados por invitación del Titular del Ejecutivo Estatal y que en su conjunto representen a organismos no gubernamentales e instituciones de educación superior cuya (sic) objeto social o fines estén relacionados con la seguridad pública, mismos que deberán ser renovados cada seis años.
+
+La participación de estos organismos e instituciones será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
+
+El Reglamento respectivo definirá la formalidad y periodicidad de las sesiones del Consejo Consultivo de Desarrollo Policial, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación del mismo.
+
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO TERCERO. DEL PERFIL DE INGRESO
+### CAPÍTULO SEGUNDO. DEL SERVICIO DE CARRERA POLICIAL
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198.
 
@@ -2429,17 +2701,17 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 ###### Articulo 198 Bis 3.
 
-Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
+Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO CUARTO. DEL RÉGIMEN LABORAL
+### CAPÍTULO TERCERO. DEL PERFIL DE INGRESO
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 198 Bis 4.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en la Academia Estatal de Seguridad Pública el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en la Universidad, el período de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2529,9 +2801,9 @@ XIV. Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO QUINTO. DE LOS ASCENSOS
+### CAPÍTULO CUARTO. DEL RÉGIMEN LABORAL
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 10.
 
@@ -2563,11 +2835,13 @@ Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO SEXTO. DE LAS CONDECORACIONES, ESTÍMULOS ECONÓMICOS Y RECOMPENSAS
+### CAPÍTULO QUINTO. DE LOS ASCENSOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-#### SECCIÓN SEXTA. DE LA PERMANENCIA Y DEL SERVICIO POLICIAL DE CARRERA
 
 ###### Artículo 198 Bis 14.
 
@@ -2645,7 +2919,9 @@ III. El de las suspensiones, en los casos en que éstas sean obstáculos para la
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-#### SECCIÓN SÉPTIMA. DE LA TERMINACIÓN DEL NOMBRAMIENTO
+#### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN JERÁRQUICA DE LAS INSTITUCIONES POLICIALES
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 21.
 
@@ -2723,7 +2999,7 @@ II. Para los servicios, de policía a Comisario Jefe.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO SÉPTIMO. DE LO PROCESOS DE CERTIFICACIÓN
+### CAPÍTULO SEXTO. DE LAS CONDECORACIONES, ESTÍMULOS ECONÓMICOS Y RECOMPENSAS
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2739,7 +3015,7 @@ La Secretaría tratándose de elementos estatales y las dependencias municipales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO OCTAVO. DE LA TERMINACIÓN DEL NOMBRAMIENTO
+### CAPÍTULO SÉPTIMO. DE LO PROCESOS DE CERTIFICACIÓN
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2793,9 +3069,9 @@ El Consejo de Coordinación podrá proponer al Centro de Control y de Confianza 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO NOVENO. DE LA PROFESIONALIZACIÓN Y DE LA ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO OCTAVO. DE LA TERMINACIÓN DEL NOMBRAMIENTO
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 30.
 
@@ -2841,11 +3117,13 @@ En el procedimiento establecido en este Artículo tratándose de ofrecimiento de
 
 Para efectos de lo dispuesto en el presente Artículo, será de aplicación supletoria la Ley de Responsabilidades de Servidores Públicos del Estado y Municipios del Estado de Nuevo León.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
 
-### CAPÍTULO SEGUNDO (SIC). DE LA ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO NOVENO. DE LA PROFESIONALIZACIÓN
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DE LA PROFESIONALIZACIÓN
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2853,21 +3131,149 @@ Para efectos de lo dispuesto en el presente Artículo, será de aplicación supl
 
 La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alto mando, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
 ###### Artículo 198 Bis 33.
 
-El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaria, tendrá a su cargo la administración y operación de la Academia Estatal de Seguridad Pública, como única instancia responsable de dar cumplimiento a las disposiciones contenidas en este capítulo.
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
 
-Para el cumplimiento de la disposición anterior, se podrá autorizar la creación de extensiones de la Academia Estatal de Seguridad Pública.
-
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 198 Bis 34.
 
-Los Municipios podrán desarrollar programas de actualización, capacitación, profesionalización y desarrollo para sus policías, cumpliendo previamente los requisitos de acreditación y validación por parte de la Academia, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional.
+Los Municipios podrán desarrollar programas de actualización, capacitación, profesionalización y desarrollo para sus policías, cumpliendo previamente los requisitos de acreditación y validación por parte de la Universidad, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en ésta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional.
 
-Así mismo, las autoridades municipales podrán participar conjuntamente con la Academia, en los proceso (sic) de reclutamiento y selección de quienes aspiren a ingresar a su policía, con apego a los lineamientos que ésta le imponga, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente la Academia quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
+Así mismo, las autoridades municipales podrán participar conjuntamente con la Universidad, en los proceso (sic) de reclutamiento y selección de quienes aspiren a ingresar a su policía, con apego a los lineamientos que ésta le imponga, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente la Universidad quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
+
+### CAPÍTULO SEGUNDO (SIC). DE LA ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE ENERO DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DE LAS FACULTADES EN MATERIA DE FORMACIÓN DE PERSONAL PARA LA SEGURIDAD PÚBLICA (SIC)
+
+###### Artículo 199.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 200.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 201.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 202.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 203.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 204.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE ENERO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN DE LA ACADEMIA
+
+###### Artículo 205.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Articulo 206.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 207.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 208.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 209.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 210.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA COMISIÓN DE ORDEN Y DISCIPLINA
+
+###### Artículo 211.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN
+
+#### SECCIÓN CUARTA. DE LA INVESTIGACIÓN SOBRE POLÍTICA CRIMINOLÓGICA
+
+###### Artículo 212.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+###### Artículo 213.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE ENERO DE 2013)</small>
+
+#### SECCIÓN QUINTA. DE LA TECNOLOGÍA EDUCATIVA
+
+###### Artículo 214.
+
+(DEROGADO, P.O. 19 DE ENERO DE 2013)
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES SECCIÓN SEXTA], P.O. 19 DE ENERO DE 2013)</small>
+
+### CAPÍTULO DÉCIMO. DE LA COMISIÓN DE CARRERA POLICIAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
+
+###### Artículo 215.
+
+Se crea la Comisión de Carrera Policial, como un órgano autónomo de la Secretaría de Seguridad Pública, con el objeto de implementar y supervisar los procesos que integra la carrera policial.
+
+La Comisión de Carrera Policial se integrará por un presidente y cuatro vocales nombrados por el Titular del Ejecutivo del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
+
+###### Artículo 216.
+
+Con el propósito de implantar el servicio policial de carrera, en cada municipio, en los términos de su reglamentación respectiva deberán crearse comisiones de carrera policial. La Comisión de Carrera Policial del Estado podrá brindar apoyo a las comisiones que se establezcan en los municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
+
+###### Artículo 217.
+
+Las comisiones de carrera policial que se establezcan tendrán, cuando menos, las siguientes atribuciones:
+
+I. Supervisar y evaluar la correcta implementación de los procesos de la Carrera Policial, definidos en la presente ley y en el reglamento respectivo;
+
+II. Evaluar y proponer lineamientos, determinaciones y directrices respecto de la operación de cada uno de los procesos que integran la Carrera Policial;
+
+III. Conocer y resolver sobre las modificaciones a la operación de los procesos de la Carrera Policial;
+
+IV. Coordinarse con la Universidad, a fin de participar en la elaboración de los planes de estudio, así como mantener un registro de los estudios realizados por los Integrantes, así como de los resultados;
+
+V. Coordinarse con el Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, a fin de tener conocimiento sobre los resultados emitidos para cada uno de los Integrantes;
+
+VI. Decidir sobre los ascensos de los Integrantes, así como del otorgamiento de estímulos, recompensas y condecoraciones;
+
+VII. Conocer y llevar a cabo el registro de los resultados de procesos de implementación del régimen disciplinario;
+
+VIII. Resolver toda controversia que se suscite con motivo de la Carrera Policial; y
+
+IX. Las demás que se determinen en el reglamento respectivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+## TITULO DÉCIMO. DEL REGIMEN DISCIPLINARIO
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -2876,228 +3282,6 @@ Así mismo, las autoridades municipales podrán participar conjuntamente con la 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-#### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN JERÁRQUICA DE LAS INSTITUCIONES POLICIALES
-
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 199.
-
-En los términos de esta Ley, se crea la Academia Estatal de Seguridad Pública, como un Órgano Administrativo Desconcentrado, jerárquicamente subordinado a la Secretaría.
-
-###### Artículo 200.
-
-La Academia de Seguridad Pública tiene por objeto la formación y profesionalización de los siguientes servidores públicos:
-
-I. Personal técnico y profesional en las áreas de prevención del delito, tratamiento de menores y adolescentes infractores, función policial, sistema penitenciario y de reinserción social y en aquellas disciplinas que se relacionen con cumplimiento del objeto y fines de esta Ley;
-
-II. Policías preventivos del Estado y de los Municipios, en todas sus modalidades;
-
-III. Agentes de tránsito;
-
-IV. Custodios o elementos de seguridad de los centros penitenciarios, preventivos y de reinserción social y en los de internamiento y de adaptación social de adolescentes;
-
-V. Los integrantes de los servicios de seguridad privada; y
-
-VI. Quienes ejerzan funciones indirectas en la Seguridad Pública del Estado y de los Municipios.
-
-Para los efectos de esta Ley, se entenderá que tanto las instituciones de tránsito, como el personal de seguridad privada forman parte de la seguridad pública; por lo tanto, la Academia Estatal de Seguridad Pública será la institución responsable de la formación y profesionalización de su personal.
-
-###### Artículo 201.
-
-La Academia tendrá como objetivos específicos los siguientes:
-
-I. Formar profesionales en seguridad pública, aptos para la aplicación de conocimientos y el razonamiento crítico en la toma de decisiones, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
-
-II. Inculcar en los educandos los principios de legalidad, eficiencia, profesionalismo y honradez, haciendo especial énfasis en los procedimientos y estrategias para combatir la corrupción;
-
-III. Desarrollar estudios y diseñar proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento de la seguridad pública;
-
-IV. Desarrollar programas de vinculación con los sectores público, social, académico y privado para la ejecución de acciones en materia de profesionalización en seguridad pública, de acuerdo con lo establecido en esta Ley y de las demás, que por la naturaleza de los actos, resulten aplicables; y
-
-V. Fomentar actividades académicas, de manera independiente o en coordinación con otras instituciones públicas o privadas, sobre aspectos relacionados con el objeto y fines de esta Ley.
-
-###### Artículo 202.
-
-Para el cumplimiento de su objeto la Academia tendrá las atribuciones siguientes:
-
-I. Impartir formación básica, educación media superior y técnica superior universitaria a todos los servidores públicos que laboren directa o indirectamente en la Seguridad Pública del Estado y de sus municipios, así como de otros Estados a través de convenios;
-
-II. Abrir la educación de las Carreras Técnicas Superior Universitarias al público en general a través de convocatorias, observando los requisitos que establece la normatividad federal y estatal de educación. El Reglamento Interior de la Academia establecerá el perfil de ingreso y condiciones para la matriculación;
-
-III. Otorgar la formación inicial para elementos de seguridad privada y acreditar la capacitación del personal en activo, acorde a las modalidades en que se autorice el servicio, conforme a la Ley de Seguridad Privada para el Estado de Nuevo León, y en los términos y condiciones que establezca el Reglamento Interior de la Academia;
-
-IV. Extender títulos o grados de Técnico Superior Universitario, así como Certificados y Diplomas en los términos de los planes y programas de estudios correspondientes;
-
-V. Establecer convenios de colaboración con Instituciones de Educación Superior para brindar educación en niveles de pregrado y grado en materia de Seguridad Pública y sobre el objeto y fines de este ordenamiento;
-
-VI. Planear y programar la enseñanza e incorporar en sus planes y programas de estudio los temas particulares o regionales conducentes según las necesidades del servicio;
-
-VII. Regular los procedimientos de selección e ingreso de los alumnos y establecer las normas para su permanencia en la institución;
-
-VIII. Establecer los procedimientos y requisitos de acreditación y certificación de estudios;
-
-IX. Establecer los procedimientos de ingreso, permanencia y promoción de su personal académico, técnico y administrativo;
-
-X. Aplicar programas de superación académica y actualización, dirigidos tanto al personal de la Academia, como a los usuarios de sus servicios académicos;
-
-XI. Verificar que los planes y programas de formación, capacitación, actualización, desarrollo, profesionalización y especialización se realicen con apego a las disposiciones contenidas en este ordenamiento, fomentando el conocimiento de su contenido y la obligatoriedad de su aplicación;
-
-XII. Determinar sus programas de investigación y vinculación;
-
-XIII. Impulsar estrategias de participación y concertación con los sectores público, social y privado para fortalecer las actividades de la Academia;
-
-XIV. Promover convenios con otras instituciones nacionales o extranjeras, con el fin de cumplir su objeto;
-
-XV. Organizarse administrativamente en la forma que le sea conveniente para su operación, de conformidad con el presupuesto anual asignado;
-
-XVI. Establecer, con la aprobación del Consejo Académico, en forma particular o a través de lineamientos generales, las tarifas por los servicios que brinde la Academia, y todos los demás ingresos a que se refieren las fracciones II y III del presente Artículo;
-
-XVII. Integrar y mantener actualizados los Expedientes Académicos del personal de Seguridad Pública del Estado y de los Municipios, incluyendo su formación inicial; y
-
-XVIII. Las demás que le confiera el Secretario de Seguridad Pública del Estado, el Reglamento Interior, o demás disposiciones legales aplicables.
-
-###### Artículo 203.
-
-La Academia contará con el presupuesto que le otorgue la Ley de Egresos del Estado, en los términos de las disposiciones aplicables y podrá recibir por su conducto aportaciones para su funcionamiento mediante acuerdos o convenios con dependencias y entidades del Gobierno Federal, de otras entidades federativas o municipios; así como de personas o instituciones privadas, sociales o académicas.
-
-###### Artículo 204.
-
-El Reglamento Interior de la Academia establecerá lo correspondiente a su régimen interno.
-
-#### SECCIÓN PRIMERA. DE LA PROFESIONALIZACIÓN
-
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 205.
-
-Al frente de la Academia, habrá un Titular que será designado por el Ejecutivo del Estado, verificando que su perfil se ajuste a la recomendación que emita el Consejo Ciudadano.
-
-La Academia contará con una planta docente seleccionada conforme al procedimiento que determine el Reglamento, bajo los principios de idoneidad, capacidad académica, honradez y vocación de servicio
-
-La Academia contará con un Consejo Académico que será la máxima autoridad educativa en materia de seguridad pública. Éste será el órgano directivo de las acciones que se emprendan para el cumplimiento de la presente Ley.
-
-Contará con la estructura administrativa que se establezca en el Reglamento de la Academia Estatal de Seguridad Pública que expida el Ejecutivo del Estado.
-
-###### Artículo 206.
-
-El Consejo Académico estará integrado por:
-
-I. El Titular del Ejecutivo, en su calidad de Presidente del Consejo de Coordinación y quien presidirá este Consejo Académico;
-
-II. El Secretario de Seguridad Pública del Estado;
-
-III. El Titular de la Academia, quien fungirá como Secretario Técnico;
-
-IV. El Secretario de Educación Pública del Estado;
-
-V. El Secretario de Finanzas y Tesorero General del Estado;
-
-VI. El Presidente del Consejo Ciudadano de Seguridad Pública;
-
-VII. El Titular de una Facultad de Criminología que cuente con prestigio nacional; y
-
-VIII. Los Presidentes Municipales de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Gral. Escobedo, Apodaca, Cadereyta Jiménez, Santiago, Juárez y García, Nuevo León.
-
-###### Artículo 207.
-
-Los integrantes del Consejo Académico tendrán voz y voto y podrán designar, mediante escrito dirigido al Secretario Técnico, un suplente único que acuda a las sesiones en su representación.
-
-Los cargos de este Consejo son honoríficos.
-
-###### Artículo 208.
-
-El Secretario Técnico por sí o por instrucciones del Presidente, de acuerdo al tema que se trate en la agenda, podrá invitar a las reuniones de Consejo a los representantes de otras dependencias o instituciones públicas o privadas, así como a representantes de organizaciones de los distintos sectores sociales para que asistan con voz pero sin voto.
-
-###### Artículo 209.
-
-El Consejo Académico tendrá las siguientes atribuciones:
-
-I. Establecer los lineamientos generales de actuación de la Academia;
-
-II. Proponer estrategias, proyectos y acciones para el cumplimiento del objeto de la Academia, así como darles seguimiento;
-
-III. Coadyuvar en la promoción de los proyectos y actividades de la Academia;
-
-IV. Proponer la conformación de comités o comisiones con la finalidad de integrar al sector público, social y privado para colaborar en la definición y ejecución de las políticas, planes y programas de la Academia;
-
-V. Coadyuvar en la gestión ante las distintas dependencias gubernamentales, federales, estatales y municipales, para el desarrollo de las actividades de la Academia;
-
-VI. Aprobar los planes de estudio y temarios, así como la eliminación o creación de nuevos;
-
-VII. Aprobar en forma particular o a través de lineamientos generales, las cuotas por todos los servicios que brinde la Academia; y
-
-VIII. Las demás atribuciones establecidas en el Reglamento Interior de la Academia, así como aquellas que le señale el Ejecutivo del Estado.
-
-###### Artículo 210.
-
-Las facultades del Titular de la Academia y de la estructura administrativa autorizada, se determinarán en el Reglamento de la Academia Estatal de Seguridad Pública.
-
-#### SECCIÓN PRIMERA. DE LAS FACULTADES EN MATERIA DE FORMACIÓN DE PERSONAL PARA LA SEGURIDAD PÚBLICA
-
-###### Artículo 211.
-
-La Academia contará con una Comisión de Orden y Disciplina que conocerá de las faltas al Reglamento cometidas por alumnos, personal docente y administrativo y dictará, en su caso, la sanción que corresponda.
-
-La Comisión de Orden y Disciplina estará integrada por:
-
-I. El Titular de la Academia, quien la presidirá;
-
-II. El Responsable del área Académica;
-
-III. El Responsable del Cuerpo de Cadetes;
-
-IV. El Responsable de la Seguridad de la Academia; y
-
-V. El Titular de la Dirección Jurídica de la Secretaría.
-
-La Comisión de Orden y Disciplina funcionará en los términos que señale el Reglamento y sus decisiones serán definitivas. El Presidente de la Comisión será el representante del Ejecutivo del Estado dentro de la Academia para todo lo referente a la imposición de las sanciones.
-
-Todos los integrantes de la Comisión, salvo el mencionado en la fracción V, deberán concurrir personalmente a las sesiones. Habrá quórum cuando concurran tres miembros.
-
-#### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN DE LA ACADEMIA
-
-###### Artículo 212.
-
-La Academia contará con un Centro de Especialización Criminológica, para el desarrollo de áreas de investigación científica en dicha materia.
-
-A través de este Centro, la Academia podrá realizar publicaciones científicas periódicas tanto para divulgar los resultados de sus investigaciones, como las de otros expertos en seguridad pública.
-
-###### Artículo 213.
-
-La integración, facultades y funcionamiento del Centro de Especialización Criminológica se determinarán en el Reglamento de la Academia Estatal de Seguridad Pública.
-
-#### SECCIÓN TERCERA. DE LA COMISIÓN DE ORDEN Y DISCIPLINA
-
-###### Artículo 214.
-
-Para los servidores públicos de municipios no conurbados, se emplearán herramientas educativas tecnológicas que permitan la educación presencial a distancia, en los términos que establezca el presupuesto. Lo mismo se observará tratándose de servidores públicos que por la naturaleza de su función no puedan matricularse en el sistema ordinario o escolarizado. Sin embargo, las materias que por su contenido no puedan ser impartidas de esta forma, deberán cursarse en las instalaciones de la Academia.
-
-El Reglamento de la Academia Estatal de Seguridad Pública determinará los lineamientos en que se otorgará la educación presencial a distancia.
-
-#### SECCIÓN SEXTA. DEL PERFIL DE INGRESO A LA FORMACIÓN INICIAL
-
-### CAPÍTULO SEGUNDO. DE LA APLICACIÓN DEL RÉGIMEN DISCIPLINARIO
-
-###### Artículo 215.
-
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
-
-###### Artículo 216.
-
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
-
-###### Artículo 217.
-
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-## TITULO DÉCIMO. DEL REGIMEN DISCIPLINARIO
-
-### CAPÍTULO TERCERO. DE LA COMISIÓN DE HONOR Y JUSTICIA
-
-#### SECCIÓN CUARTA. DE LA INVESTIGACIÓN SOBRE POLÍTICA CRIMINOLÓGICA
 
 ###### Artículo 218.
 
@@ -3130,8 +3314,6 @@ Los Integrantes de las Instituciones Policiales, observarán las obligaciones pr
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS SANCIONES
-
-#### SECCIÓN QUINTA. DE LA TECNOLOGÍA EDUCATIVA
 
 ###### Artículo 219.
 
@@ -3174,6 +3356,8 @@ La suspensión cautelar subsistirá hasta que el asunto de que se trate quede de
 Las sanciones de apercibimiento, amonestación, arresto y los cambios de adscripción, serán aplicados en una sola audiencia por el inmediato superior jerárquico, sin que para ello se deban observar las formalidades establecidas en esta Ley y las demás sanciones se impondrán por la Comisión de Honor y Justicia en los términos que prevé este ordenamiento.
 
 Cualquier controversia interna que se relacione con el funcionamiento de las instituciones de seguridad pública del Estado y de los Municipios deberá ser atendida y resuelta por las unidades administrativas de asuntos internos.
+
+### CAPÍTULO SEGUNDO. DE LA APLICACIÓN DEL RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 222.
 
@@ -3223,9 +3407,15 @@ La suspensión cautelar se aplicará en aquellos casos que por la gravedad de la
 
 Le corresponde a la Secretaría verificar que las sanciones descritas en los Artículos anteriores y que sean impuestos a los servidores públicos sean debidamente integradas al Registro del Personal de Seguridad Pública, procurando que dicha información conste por escrito y sea actualizada permanentemente.
 
+### CAPÍTULO TERCERO. DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+
 ###### Artículo 226.
 
-Para el conocimiento, trámite y resolución de las quejas o denuncias que se interpongan en relación con la actuación de los servidores públicos de la Secretaría de Seguridad Pública del Estado, se crea la Comisión de Honor y Justicia, a cargo de dicha dependencia, integrada por cinco miembros designados por el Titular del Poder Ejecutivo del Estado.
+Para el conocimiento, trámite y resolución de las quejas o denuncias que se interpongan en relación con la actuación de los servidores públicos de la Secretaría de Seguridad Pública del Estado, se crea la Comisión de Honor y Justicia, a cargo de dicha dependencia, integrada por cinco miembros designados por el Titular del Poder Ejecutivo del Estado y un representante de organizaciones de la sociedad civil organizada, vinculado con temas afines a la seguridad pública, el cual fungirá como invitado especial, con derecho a voz y no a voto.
+
+La participación del representante de las organizaciones de la sociedad civil organizada será a título de colaboración ciudadana y su desempeño tendrá carácter honorifico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirá remuneración alguna por el desempeño de sus funciones ni será considerado servidor público.
 
 En cada municipio, en los términos de su reglamentación respectiva, se crearán comisiones con iguales fines. La Procuraduría General de Justicia aplicará las disposiciones de su Ley Orgánica en lo que no se oponga al presente ordenamiento.
 
@@ -3339,13 +3529,9 @@ Artículo Cuarto.- Hasta en tanto no se expida y entre en vigor la Ley de Instit
 
 Artículo Quinto.- El Congreso del Estado dentro del plazo de 30-treinta días naturales contados a partir de la fecha de la entrada en vigor de este Decreto, deberá expedir la convocatoria a que se refiere el segundo párrafo del Artículo 100 a efecto de nombrar los integrantes del Consejo Ciudadano establecido en la presente Ley.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2009)</small>
+Artículo Sexto.- (DEROGADO, P.O. 19 DE ENERO DE 2013)
 
-Artículo Sexto.- Se deberá presentar al Congreso en un plazo no mayor a 300-trescientos días naturales contados a partir de la entrada en vigor de este Decreto, las iniciativas de Ley del Servicio Policial de Carrera y de la Ley relativa a la regulación de los Comités de Participación Comunitaria en materia de Seguridad Pública a que se refiere el Artículo 118 de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2009)</small>
-
-Artículo Séptimo.- El Titular del Poder Ejecutivo deberá expedir en un plazo no mayor a 300-trescientos días naturales, contado a partir de la entrada en vigor de este Decreto los siguientes Reglamentos: Reglamento relativo a la regulación del Sistema Estatal de Información para la Seguridad Pública a que se refiere el Artículo 19 de este ordenamiento; Reglamento relativo a la regulación de los Procesos de Evaluación en materia de Seguridad Pública a que se refiere el Artículo 30 de este ordenamiento; Reglamento relativo a la Seguridad y Protección de los Servicios Públicos a que se refiere el Artículo 54 de este ordenamiento; Reglamento relativo a la regulación de los Programas de Prevención del Delito a que se refiere el Artículo 95 de este ordenamiento; Reglamento relativo a la organización y funcionamiento de la Agencia Estatal de Policía a que se refiere el Artículo 129 de este ordenamiento, incluyendo lo relativo a la regulación de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción de la Agencia Estatal de Policía a que se refiere el Artículo 147 de dicho cuerpo legal; Reglamento relativo al Régimen Interior de las Instituciones Penitenciarias del Estado a que se refiere el Artículo 186 de este ordenamiento; y el Reglamento de la Academia Estatal de Seguridad Pública de Nuevo León.
+Artículo Séptimo.- (DEROGADO, P.O. 19 DE ENERO DE 2013)
 
 Artículo Octavo.- A la entrada en vigor de la presente Ley se le otorga a los Ayuntamientos de los Municipios del Estado un plazo no mayor a 180 días naturales a efecto de que procedan a cumplir con los requisitos de acreditación y certificación de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción que tengan a su cargo, conforme al Artículo 148 de este ordenamiento.
 
@@ -3460,3 +3646,21 @@ P.O. 21 DE DICIEMBRE DE 2011.
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2013.
+
+Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El Titular del Ejecutivo del Estado, de acuerdo a sus facultades reglamentarias, podrá determinar la transferencia de bienes muebles e inmuebles, así como de recursos humanos, administrativos y financieros de la Agencia Estatal de Policía a otras instituciones policiales estatales.
+
+Para el caso del personal, podrá transferirse siempre y cuando cumplan con los requisitos establecidos en las leyes y reglamentos para esas instituciones. Pero en todo caso, deberán cumplir sin excepción con todos los procesos establecidos en materia de profesionalización, certificación, régimen disciplinario y carrera policial establecidos en esta Ley para dichas instituciones.
+
+El personal que pase a laborar a otras instituciones policiales estatales, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+Tercero.- El personal de la Agencia Estatal de Policía que no sea transferido a otras instituciones policiales estatales, conservará sus derechos laborales. Tratándose del personal operativo podrán ser reorientados a las funciones de protección institucional, escoltas y de atención a mandamientos de carácter jurisdiccional, policial procesal o aquellas asignaciones operativas que determine el Secretario de Seguridad Pública.
+
+Cuarto.- El Consejo Consultivo de Desarrollo Policial referido en el artículo 197 Bis de la presente Ley, deberá instalarse dentro de los 120 días naturales siguientes a la entrada en vigor de este Decreto.
+
+Quinto.- La Comisión de Carrera Policial se integrará dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Séptimo (sic).- Para los primeros seis años, el Consejo Consultivo de Desarrollo Policial se integrará por un representante de cada una de las siguientes instituciones: a) Consejo Cívico de las Instituciones de Nuevo León, A.C.; b) Institución RENACE, A.B.P.; c) ASIS Internacional Capítulo México Norte, A.C.; d) Asociación Mexicana de Profesionales en Prevención de Perdidas, A.C.; e) Universidad Autónoma de Nuevo León; f) Escuela de Graduados en Administración Pública y Política Pública del Instituto Tecnológico y de Estudios Superiores de Nuevo León; y g) las demás que, en su caso, designe el Titular del Ejecutivo en los términos del Artículo 197 Bis de esta Ley.
