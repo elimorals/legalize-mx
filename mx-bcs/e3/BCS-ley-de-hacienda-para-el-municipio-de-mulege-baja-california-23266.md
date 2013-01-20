@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2012-12-31"
+last_updated: "2013-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
