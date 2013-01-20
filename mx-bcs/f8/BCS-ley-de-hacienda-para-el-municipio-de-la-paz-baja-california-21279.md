@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE ENERO DE 2013.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -2476,8 +2476,6 @@ La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos
 ###### Artículo 172.
 
 Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 173.
 
