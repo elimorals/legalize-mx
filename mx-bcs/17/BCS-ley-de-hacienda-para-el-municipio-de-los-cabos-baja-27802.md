@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE ENERO DE 2013.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -3465,8 +3465,6 @@ ARTÍCULO 160° Los aprovechamientos no especificados en este título se recauda
 
 Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 159º.
@@ -3923,23 +3921,53 @@ a los menores se les retira el permiso
 
 para conducir. 0
 
-> <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
+(ADICIONADA, B.O. 10 DE ENERO DE 2012) (F. DE E., B.O. 20 DE ENERO DE 2013)
 
-135 (SIC) Contaminación por ruido De 50 a
+136 Contaminación por ruido De 50 a
 
 500
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-136 Producir ruidos por cualquier medio, ya sean fuentes fijas o fuentes móviles, que rebasen los límites permitidos conforme a las Normas 11 a 20 Oficiales Mexicanas y que además provoquen molestias o alteren la tranquilidad de las personas.
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
+137 De 0.08 a 0.20 Aliento alcohólico 25 días
 
-137 Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares 11 a 20 del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo.
+salario min.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-138 Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad 11 a 20 bajo su custodia.
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
+
+138 De 0.21 a 0.39 Ebrio completo 50 días de
+
+salario min.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
+
+139 De 0.40 en adelante, no es apto
+
+Para conducir. 100 días
+
+de
+
+salario
+
+mínimo
+
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012) (F. DE E., B.O. 20 DE ENERO DE 2013)
+
+140 Producir ruidos por cualquier medio, ya sean fuentes fijas o fuentes móviles, que rebasen los límites permitidos conforme a las Normas 11 a 20 Oficiales Mexicanas y que además provoquen molestias o alteren la tranquilidad de las personas.
+
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012) (F. DE E., B.O. 20 DE ENERO DE 2013)
+
+141 Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares 11 a 20 del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo.
+
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012) (F. DE E., B.O. 20 DE ENERO DE 2013)
+
+142 Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad 11 a 20 bajo su custodia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
