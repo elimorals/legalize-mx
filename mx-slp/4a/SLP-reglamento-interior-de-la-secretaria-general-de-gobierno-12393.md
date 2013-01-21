@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2009-10-29"
+last_updated: "2013-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2009.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -81,13 +79,11 @@ e).- La Dirección del Registro Civil.
 
 f).- El Instituto de Investigaciones Jurídicas
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
+IV.- Subsecretaría de Enlace Interinstitucional, integrada por:
 
-a).- La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
-
-b).- La Dirección General de Ejecución de Medidas para Menores, de la que a su vez dependen los Centros de Internamiento y de Reeducación.
+La Dirección para Asuntos de Coordinación Interinstitucional y Seguimiento de Programas.
 
 > <small>(F. DE E., P.O. 29 DE OCTUBRE DE 2009)</small>
 
@@ -185,7 +181,9 @@ XVI.- Acordar con el titular del Ejecutivo el nombramiento de los servidores pú
 
 XVII.- Resolver las dudas que se susciten en las áreas de la dependencia sobre la competencia de las mismas con motivo de la interpretación o aplicación del presente reglamento, así como los casos no previstos en el mismo;
 
-XVIII.- Proponer y acordar con el Gobernador del Estado los programas relativos a protección civil, seguridad pública, preservación del orden público, prevención de delitos y readaptación social;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+
+XVIII.- Proponer y acordar con el Gobernador Constitucional del Estado los programas relativos a la protección civil;
 
 XIX.- Proponer al Ejecutivo la creación, supresión o modificación de los órganos desconcentrados, así como publicar en el Periódico Oficial del Estado los acuerdos o decretos que aquél dicte al respecto;
 
@@ -321,9 +319,9 @@ ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DE AREA.
 
 ###### ARTICULO 13.
 
-Competen a la Dirección General de Gobernación las siguientes atribuciones:
+Compete a la Dirección General de Gobernación las siguientes atribuciones:
 
-I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
+I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto pública, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
 
 II.- Instrumentar, coordinar, vigilar y evaluar el Sistema Estatal de Protección Civil, así como los relativos a la prevención y restablecimiento de zonas afectadas en caso de desastre, incorporando en ellos a la comunidad;
 
@@ -621,117 +619,41 @@ XII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y ma
 
 ARTICULO 21 BIS.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2013)</small>
+
+ARTICULO 21 TER. Compete a la Dirección Asuntos (sic) de Coordinación Interinstitucional y Seguimiento de Programas:
+
+I. Colaborar en la conducción y coordinación de las relaciones que competen al Secretario con los Poderes Estatales y Federales y con Instituciones políticas;
+
+II. Ayudar en la coordinación de la comunicación con las diversas instancias del Gobierno Federal;
+
+III. Auxiliar en la formulación de proyectos y programas de la Secretaría, con especial énfasis en aquellos que permitan impulsar la comunicación, colaboración y vinculación entre las autoridades administrativas en el Estado con los diversos sectores de la población;
+
+IV. Asistir a la superioridad en comisiones, juntas, consejos y comités y desempeñar las funciones que el Secretario le delegue o encomiende e informarle sobre el desarrollo de sus actividades, así como darle el seguimiento permanente a los acuerdos correspondientes;
+
+V. Apoyar a las dependencias, entidades y órganos desconcentrados de la Administración Pública del Estado que tengan bajo su responsabilidad la ejecución de programas, en los que la Secretaría General de Gobierno participe; para que los realicen en congruencia a los postulados del Plan Estatal de Desarrollo;
+
+VI. Coadyuvar en lo que corresponde al Poder Ejecutivo, en la implementación, operación y ejecución del Sistema de Justicia Penal en el Estado, y
+
+VII. Las demás que le señalen las leyes, reglamentos, decretos, convenios, acuerdos, manuales y las que expresamente le confiera la superioridad.
+
 ###### ARTICULO 22.
 
-Competen a la Dirección General de Prevención y Readaptación Social las siguientes atribuciones:
+(DEROGADO, P.O. 21 DE ENERO DE 2013)
 
-I.- Dar cumplimiento a la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-II.- Organizar, dirigir y vigilar el sistema penitenciario del Estado, aplicando las normas legales correspondientes;
-
-III.- Elaborar y coordinar el Programa Estatal de Prevención, Readaptación y Reinserción Sociales;
-
-IV.- Coordinar acciones con las instituciones que, dentro del ámbito de su competencia, puedan apoyar la realización de las tareas de prevención de conductas infractores (sic) y delictivas;
-
-V.- Orientar técnicamente la elaboración de proyectos de infraestructura penitenciaria, así como la remodelación de establecimientos penitenciarios;
-
-VI.- Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste su servicio en las instituciones de readaptación social;
-
-VII.- Operar y mantener actualizado el archivo estatal de sentenciados, de acuerdo con los informes de los centros de reclusión del Estado;
-
-VIII.- Proporcionar antecedentes penales a las autoridades competentes y expedir, previa solicitud, constancias de los mismos para el ejercicio de un derecho o el cumplimiento de un deber legal;
-
-IX.- Tramitar el otorgamiento y revocación de la libertad preparatoria, la remisión parcial de la pena o el tratamiento preliberacional, fundamentando cada caso en estudios que revelen el grado de readaptación, para así procurar la seguridad de la sociedad;
-
-X.- Vigilar la ejecución de las medidas de tratamiento a los sujetos inimputables, así como verificar el respeto irrestricto a los derechos de las personas;
-
-XI.- Determinar, previa valoración médica psiquiátrica de los sujetos inimputables, la institución para su tratamiento, la entrega a su familia o a la autoridad sanitaria, cuando proceda, así como modificar o dar por concluida la medida, de acuerdo a la Ley Penal;
-
-XII.- Promover la adecuada incorporación social de los internos mediante la vinculación de sus actividades en los reclusorios con los centros laborales educativos, asistenciales u otros que coadyuven a este fin;
-
-XIII.- Proponer a la superioridad la elaboración de convenios con instituciones públicas o privadas que contribuyan a la protección de los familiares y dependientes económicos de las personas sentenciadas a una pena o sujetas a medidas de seguridad;
-
-XIV.- Proponer la creación de patronatos que apoyen tanto a los internos durante su reclusión como a los sentenciados liberados para su readaptación y reinserción social; y
-
-XV.- Las demás que les señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllos que les confiera la superioridad.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 22 BIS.- Compete a la Dirección General de Ejecución de Medidas para Menores:
-
-I. Proponer al Subsecretario los criterios de organización de la misma;
-
-II. Proponer la capacitación y formación especializada del personal de las áreas respectivas así como los procedimientos de ingreso, promoción y permanencia del cargo;
-
-III. Aplicar y dar seguimiento a las medidas de orientación y protección de los menores, a través de los servidores que designe excepto la de apercibimiento, propiciando en lo posible, la colaboración de la familia y su comunidad;
-
-IV. Celebrar convenios de colaboración con las instituciones u organizaciones sociales y privadas, previa autorización del Juez de Ejecución, garantizando en todo tiempo el respecto a los derechos del menor;
-
-V. Informar al Juez Especializado sobre las alternativas de residencia para el menor, privilegiando las opciones familiares;
-
-VI. Informar al Juez de Ejecución por lo menos cada tres meses, sobre el cumplimiento y evaluación de las medidas que aplique conforme a la Ley;
-
-VII. Suscribir y someter a la aprobación del Juez de Ejecución, convenios de colaboración con dependencias e instituciones públicas y privadas, a fin de que se facilite el acceso de los menores a los centros educativos existentes;
-
-VIII. Suscribir convenios de colaboración con centros de trabajo, públicos o privados, que estén interesados en emplear a los menores;
-
-IX. Informar del estado de los menores al Juez de Ejecución, en los casos en que se percate de que el menor presenta alguna discapacidad intelectual, o bien, alguna enfermedad mental, para que sea éste quien ordene lo conducente;
-
-X. Tomar las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, excepto cuando se involucren cambios en la situación jurídica de los menores sujetos a medidas, ni cuando se comprometan sus derechos;
-
-XI. Emitir los reglamentos que rijan el cumplimiento de las medidas previstas por la Ley de Justicia para Menores del Estado;
-
-XII. Celebrar convenios de colaboración con otras instituciones u organismos públicos o privados, así como con la comunidad, con la finalidad de generar y contar con redes de apoyo, gubernamentales y no gubernamentales, así como de la sociedad civil, para la implementación de los mecanismos de ejecución de las medidas previstas en esta Ley;
-
-XIII. Conminar a los padres, familiares, responsables, tutores, quienes ejerzan la patria potestad o custodia, para que brinden apoyo y asistencia al menor durante el cumplimiento de las medidas. Para estos efectos la Dirección deberá contar con Programas de capacitación a padres, tutores, familiares, responsables, quienes ejerzan la patria potestad o custodia, en los términos de la Ley sobre los Derechos de Niñas, Niños y Adolescentes del Estado programas de escuelas para responsables de las familias programas de orientación y tratamiento en caso de alcoholismo o drogadicción programas de atención médica cursos y programas de orientación, y las demás acciones que permitan a los padres, familiares, responsables, tutores, quienes ejerzan la patria potestad o custodia, contribuir a asegurar el desarrollo integral de los menores;
-
-XIV. Elaborar los programas individualizados, para el cumplimiento de las medidas impuestas a los menores por el Juez Especializado, considerando los elementos que establece la Ley, remitiéndolo al Juez de Ejecución para su revisión respectiva;
-
-XV. Recabar la información necesaria para notificar al Juez de Ejecución de manera mensual, sobre el desarrollo del Programa Individualizado de cada uno de los menores a su cargo, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Asimismo, notificar a los familiares, a los defensores y al propio menor, el contenido del informe;
-
-XVI. Solicitar, en cualquier momento, al Juez de Ejecución, la adecuación de la medida impuesta por el Juez Especializado, o la que hubiese sido determinada durante la fase de ejecución, cuando considere que el menor ha incurrido en un incumplimiento de tal gravedad que ponga en riesgo o impida la finalidad de la medida impuesta;
-
-XVII. Recibir y tramitar las quejas que se presenten debiendo realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días naturales contados a partir de la recepción de la queja de que se trate, disponiendo en su caso, las medidas precautorias necesarias para salvaguardar los derechos del agraviado mientras se resuelve la queja, y
-
-XVIII. Las demás que deriven de la Ley o que conforme a ésta le sean encomendadas por el Secretario.
+ARTICULO 22 BIS.- (DEROGADO, P.O. 21 DE ENERO DE 2013)
 
 ###### ARTICULO 23.
 
-Competen a los Directores de los Centros de Readaptación Social las siguientes atribuciones;
-
-I.- Organizar y administrar el establecimiento a su cargo para la ejecución de las sentencias y la aplicación de los tratamientos de readaptación social que respondan a las condiciones socioeconómicas del Estado, a la seguridad de la colectividad y a las características de los internos;
-
-II.- Ejecutar la pena de prisión dictada por las autoridades competentes en contra de los sentenciados confinados en su Centro, tomando en consideración la edad del delincuente, el fuero al que corresponda el delito, las medidas de seguridad y la capacidad de atención;
-
-III.- Llevar al cabo la custodia de las personas sujetas a prisión preventiva por disposición de la autoridad judicial;
-
-IV.- Aplicar las medidas de tratamiento a los reclusos inimputables que se encuentren internados en el Centro a su cargo;
-
-V.- Aplicar las leyes que establecen las normas sobre la readaptación social de los sentenciados;
-
-VI.- Establecer, promover y operar los programas de trabajo tendientes a fortalecer el sistema penitenciario estatal, orientando su funcionamiento con base en el trabajo, capacitación para el mismo, educación, instrucción e individualización del tratamiento mediante el estudio de cada interno, a fin de lograr su readaptación social;
-
-VII.- Implantar en el Centro a su cargo las medidas necesarias que contribuyan a mejorar el funcionamiento administrativo y penitenciario, así como atender eficientemente las necesidades de los internos, al igual que las sugerencias y quejas de sus familiares y defensores;
-
-VIII.- Formular programas de trabajo e implementar en el interior del Centro los talleres que permitan, en lo posible, al interno bastarse a sí mismo, colaborar en el mantenimiento de la institución donde se encuentra recluido y sufragar los gastos de su familia;
-
-IX.- Operar y mantener actualizado el archivo de sentenciados, que contenga los antecedentes procesales y su comportamiento durante el cumplimiento de su sentencia;
-
-X.- Proveer lo conducente para que los internos participen en las actividades laborales, educativas y terapéuticas, en los casos en que estas últimas sean necesarias, se les practiquen oportunamente los estudios que muestren su esfuerzo y la evaluación de su tratamiento; y mantengan relaciones con sus familiares; y
-
-XI.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 21 DE ENERO DE 2013)
 
 ###### ARTICULO 24.
 
-Compete al Centro de Reeducación de la Dirección General de Ejecución de Medidas para Menores, el ejercicio de las atribuciones que le señala el artículo 25 de la Ley de Justicia para Menores del Estado.
+(DEROGADO, P.O. 21 DE ENERO DE 2013)
 
 ###### ARTICULO 25.
 
-(DEROGADO, P.O. 27 DE OCTUBRE DE 2009)
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2009) (F. DE E., P.O. 29 DE OCTUBRE DE 2009)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2005)</small>
 
@@ -885,7 +807,7 @@ III.- Planear y programar el anteproyecto anual del presupuesto de egresos de la
 
 IV.- Ejercer y controlar el presupuesto anual de egresos autorizado a la Secretaría, de conformidad con la normatividad aplicable y las disposiciones emitidas por la Comisión Gasto-Financiamiento;
 
-V.- Cotizar, adjudicar y pagar directamente los víveres destinados a la alimentación de los internos de los Centros de Readaptación Social y del Consejo Tutelar Central para Menores Infractores, así como aquellos insumos que estas dependencias requieran con carácter urgente e inaplazable;
+V.- (DEROGADA, P.O. 21 DE ENERO DE 2013)
 
 VI.- Participar en el Sistema Estatal de Modernización Administrativa;
 
@@ -1164,3 +1086,11 @@ Los trabajadores de base con que cuentan las Coordinaciones para Asuntos Especia
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se contrapongan al presente decreto.
+
+P.O. 21 DE ENERO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Los presentes cambios reglamentarios se realizan sin demérito del estricto cumplimiento de los Artículos Quinto y Séptimo Transitorios del invocado Decreto Legislativo 95 correspondiente a las reformas y adiciones a los artículos 32 y 41 Quáter, de la Ley Orgánica de la Administración Pública del Estado, toda vez que, está en trámite en el proceso administrativo de entrega-recepción de los recursos públicos que tenía bajo su responsabilidad la Secretaría General de Gobierno y que serán transferidos a la Secretaría de Seguridad Pública y, en consecuencia, hasta en tanto se concluya la transferencia administrativa y presupuestal, los asuntos que no admitan demora o sean urgentes los seguirá conociendo la Secretaría General de Gobierno.
+
+Tercero. Realícense las gestiones administrativas necesarias para que se lleve a cabo la conformación operativa y del personal que estará asignado a la Subsecretaría de Enlace Interinstitucional.
