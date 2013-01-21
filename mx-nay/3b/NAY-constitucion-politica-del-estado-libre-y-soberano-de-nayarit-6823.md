@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2012-10-13"
+last_updated: "2013-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -551,11 +551,11 @@ V. No estar suspendido en sus derechos políticos; y
 
 VI. No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 29.
 
-No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Procurador General de Justicia, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público dentro de los tres días siguientes a la fecha de inicio del proceso electoral.
+No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección.
 
 ###### Art. 30.
 
@@ -689,9 +689,9 @@ La celebración de sesiones extraordinarias no impedirá la elección del Congre
 
 El 17 de noviembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
-El Congreso realizará el análisis del informe y podrá solicitar al Gobernador ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias de la administración pública centralizada y descentralizada y al Procurador General de Justicia, quienes comparecerán ante el Congreso y bajo protesta de decir verdad, rendirán un informe sobre el estado que guardan sus respectivos ramos.
+El Congreso realizará el análisis del informe y podrá solicitar al Gobernador ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias de la administración pública centralizada y descentralizada y al Fiscal General, quienes comparecerán ante el Congreso y bajo protesta de decir verdad, rendirán un informe sobre el estado que guardan sus respectivos ramos.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -769,7 +769,7 @@ g) Las relaciones de trabajo entre el Estado y Municipio con sus trabajadores, c
 
 h) Todos los aspectos previstos por las Constituciones federal y local, y leyes que de ellas emanen.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 III. Crear nuevas Municipalidades y reconocer en la legislación los límites de las ya existentes, en los términos y condiciones previstos en la ley de la materia;
 
@@ -793,9 +793,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado; y otorgar o negar su ratificación a la designación del Procurador General de Justicia y del Secretario de Seguridad Pública, que haga el Gobernador en los términos de esta Constitución.
+IX. Designar a los Magistrados Numerarios y Supemumerarios del Tribunal Superior de Justicia del Estado, al Fiscal General y al Secretario de Seguridad Pública, con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -811,9 +811,9 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, el Secretario General de Gobierno y los demás secretarios del despacho, tanto por delito de orden común, como por delitos o faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
+XV. Declarar a pedimento del Fiscal General cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, el Secretario General de Gobierno y los demás secretarios del despacho, tanto por delito de orden común, como por delitos o faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Fiscal General del Estado, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Fiscalía General.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -1025,9 +1025,9 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y del Órgano Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución;
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y del Órgano Electoral del Estado, del Fiscal General y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución y a las leyes aplicables.
 
 Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los empleados dependientes de la Legislatura.
 
@@ -1069,9 +1069,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-III. No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Procurador General de Justicia, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público dentro de los tres días siguientes a la fecha de inicio del proceso electoral.
+III.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrantes de los organismos Electorales, con excepción de los representantes de los partidos políticos; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1181,13 +1181,11 @@ X. Hacer cumplir los fallos y sentencias de los tribunales y prestar a estos el 
 
 XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
 XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Designar, con ratificación del Congreso, al Procurador General de Justicia y al Secretario de Seguridad Pública.
+Someter a la aprobación del Congreso, la designación del Fiscal General y del Secretario de Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -1237,7 +1235,9 @@ XXV.- Tomar, en caso de invasión extranjera o conmoción interior armada las me
 
 XXVI.- Concurrir cada año al acto de abrir la Legislatura su primer período de sesiones ordinarias.
 
-XXVII.- Pasar al Procurador General de Justicia en el Estado, todos los asuntos que deban ventilarse ante los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+
+XXVII.- Turnar al Fiscal General, todos los asuntos que deban ventilarse ante tribunales para que ejercite ante ellos las atribuciones de su ministerio.
 
 XXVIII.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquella incurriere.
 
@@ -1441,7 +1441,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-VI.- No haber sido Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado local, durante el año previo al día de la designación.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+
+VI.- No haber sido Secretario del Despacho del Poder Ejecutivo, Fiscal General o Diputado local, durante el año previo al día de la designación.
 
 Para la designación de los Magistrados del Tribunal Superior de Justicia, el Gobernador someterá una terna a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá al Magistrado que deba cubrir la vacante. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador.
 
@@ -1575,7 +1577,9 @@ II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la p
 
 Las acciones de inconstitucionalidad podrán ejercitarse dentro de los treinta días naturales siguientes a la fecha de la publicación de la norma, por:
 
-a).- El Procurador General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
+a).- Fiscal General del Estado;
 
 b).- Cuando menos una tercera parte de los miembros integrantes del Congreso, en contra de leyes o decretos expedidos por la propia legislatura;
 
@@ -1595,7 +1599,7 @@ IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autorida
 
 V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 VI.- De los medios de impugnación en materia electoral en los términos que disponga la ley de la materia;
 
@@ -1613,33 +1617,37 @@ La Sala Constitucional-Electoral podrá resolver la no aplicación de leyes en m
 
 ### CAPITULO II. Del Ministerio Público
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
 ###### Art. 92.
 
-El Ministerio Público es el representante legítimo de los intereses sociales ante los Tribunales de Justicia.
+El Ministerio Público es el representante legítimo de los intereses sociales y es una institución con autonomía en términos de ley, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 93.
 
-Ejerce las funciones de Ministerio Público en el Estado, el Procurador General de Justicia que será el jefe nato de aquél y los agentes que determine la ley.
+Ejerce las funciones de Ministerio Público en el Estado el Fiscal General, quien durará en el cargo siete años pudiendo ser ratificado por única vez por un periodo igual y será el jefe nato de aquél y los agentes que determine la ley.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 94.
 
-Para ser Procurador General de Justicia del Estado, se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
+Para ser designado Fiscal General, se necesitan los mismos requisitos que para ser Secretario del Despacho del Poder Ejecutivo, salvo lo previsto para el caso de la profesión, pues en este caso deberá contar invariablemente con título de Licenciado en Derecho.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+La propuesta y ratificación respectivas, se harán conforme las bases estipuladas en esta Constitución y en las leyes aplicables. El Fiscal General podrá ser removido solamente en términos del Título Octavo de esta Constitución.
 
-La propuesta y ratificación respectivas, se harán dentro del plazo de diez días naturales conforme las bases estipuladas en esta Constitución. El Procurador podrá ser removido solamente en términos del Título Octavo de esta Constitución.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 95.
 
-No podrá ser Procurador General de Justicia del Estado quien haya ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
+No podrá ser Fiscal General, quien haya ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 96.
 
-Los Agentes del Ministerio Público serán nombrados y removidos por el Procurador General de Justicia.
+Los Agentes del Ministerio Público serán nombrados y removidos por el Fiscal General.
 
 ###### Art. 97.
 
@@ -1659,7 +1667,9 @@ Sus labores en términos generales, serán las de velar por el exacto cumplimien
 
 Todas las autoridades del estado, tienen el deber de facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su cargo.
 
-Las facultades y obligaciones del Procurador General de Justicia y de los Agentes del Ministerio Público, serán las que se determinen en la ley de la materia.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
+Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio Público, serán las que se determinen en la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -1735,7 +1745,9 @@ V. Tener por lo menos tres años de práctica profesional en materia administrat
 
 VI. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-VII. No tener ni haber tenido cargo alguno de elección popular durante el año anterior al nombramiento, ni haber sido secretario del despacho del Poder Ejecutivo, Procurador General de Justicia o haber pertenecido a las fuerzas armadas; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+
+VII. No tener ni haber tenido cargo alguno de elección popular durante el año anterior al nombramiento, ni haber sido secretario del despacho del Poder Ejecutivo, Fiscal General o haber pertenecido a las fuerzas armadas, y
 
 VIII. No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
 
@@ -1805,9 +1817,11 @@ II. Ser ciudadano nayarita en pleno ejercicio de sus derechos; originario del mu
 
 III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Procurador General de Justicia, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público dentro de los tres días siguientes a la fecha de inicio del proceso electoral; y
+IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado; miembro del Consejo de la Judicatura Estatal o Federal o integrantes de los organismos Electorales, con excepción de los representantes de los partidos políticos, titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos noventa días antes del día de la elección.
+
+En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección, y
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1909,9 +1923,11 @@ En lo conducente y de conformidad con los fines señalados en el párrafo tercer
 
 El presidente municipal presentará anualmente al Ayuntamiento, un informe por escrito sobre el estado que guarda la administración pública municipal, así como de los avances del Plan Municipal de Desarrollo. Dicho informe será revisado y evaluado por los miembros del Ayuntamiento, en los términos que señale la ley.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
 ###### Art. 113.
 
-Los miembros del Ayuntamiento serán responsables personal y colectivamente conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que correspondan, ya sea directamente por los particulares cuando se ofendan sus derechos o por el Procurador General de Justicia en el Estado cuando se ofendan los de la sociedad.
+Los miembros del ayuntamiento serán responsables personal y colectivamente conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas, ante las autoridades que correspondan, ya sea directamente por los particulares cuando se ofendan sus derechos o por el Fiscal General cuando se ofendan los derechos de la sociedad.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -2077,7 +2093,9 @@ IV. Contar con experiencia de al menos cinco años en materia de control, audito
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+
+VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal y órgano autónomo, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Síndico o Tesorero Municipal o dirigente del algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
 
@@ -2123,11 +2141,11 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Procurador General de Justicia, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -2149,11 +2167,11 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, los Magistrados del Tribual de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Procurador General de Justicia, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, los Magistrados del Tribunal de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -3386,3 +3404,15 @@ Artículo Tercero.- Los procedimientos penales iniciados con anterioridad a la e
 Artículo Cuarto.- El Congreso del Estado, deberá realizar las adecuaciones pertinentes a la legislación secundaria en materia de límites territoriales relacionadas con el presente decreto, dentro de un plazo que no excederá de treinta días hábiles contados a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
+
+P.O. 21 DE ENERO DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial, órgano del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado, dentro del plazo de un año contado a partir de la entrada en vigor de la presente reforma, deberá expedir las adecuaciones legales conducentes relacionadas con la Fiscalía General.
+
+Artículo Tercero.- En tanto se emitan las adecuaciones legislativas referidas en el artículo anterior, para todos los efectos, la Fiscalía General del Estado ejercerá las atribuciones que los ordenamientos legales vigentes le confieren a la Procuraduría General de Justicia.
+
+Artículo Cuarto.- El Congreso del Estado deberá realizar las adecuaciones correspondientes en la Ley Electoral del Estado de Nayarit, en un término de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Quinto.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
