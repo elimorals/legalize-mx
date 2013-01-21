@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-electoral-profesional-del-instituto-91158
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-12-14"
-last_updated: "2012-12-14"
+last_updated: "2013-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 21 DE ENERO DE 2013.</small>
 
 Estatuto publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el viernes 14 de diciembre de 2012.
 
@@ -589,8 +589,6 @@ Sin excepción alguna, todas las solicitudes que no sean presentadas en los plaz
 
 Los procedimientos relativos al reclutamiento en órganos centrales deberán ajustarse al tipo de concurso que la Junta General determine conjuntamente con la Comisión, pudiendo ser interno, cuando se dirija a los servidores públicos electorales que se desempeñen de manera permanente en los órganos centrales, como primera opción o bien externo cuando se dirija a ciudadanos residentes en el Estado de México, dependiendo de las características del puesto, perfil requerido y de las necesidades propias del Instituto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 32.
 
 Corresponderá a la Dirección, la elaboración de las convocatorias para el ingreso en órganos centrales, previo acuerdo con la Comisión y la Junta General, mismas que serán publicadas en estrados del Instituto. Todas las convocatorias deberán incluir en su diseño, al menos los siguientes datos:
@@ -605,9 +603,13 @@ IV. Etapas del procedimiento, periodo de registro y recepción de documentos;
 
 V. Fechas, lugar y horarios de las evaluaciones y de la notificación de resultados;
 
-VIII (SIC). Fecha de inicio de actividades;
+> <small>(F. DE E., G.G. 21 DE ENERO DE 2013)</small>
 
-IX. Nivel y rango salarial.
+VI. Fecha de inicio de actividades;
+
+> <small>(F. DE E., G.G. 21 DE ENERO DE 2013)</small>
+
+VII. Nivel y rango salarial.
 
 ### Capítulo Segundo. De las vacantes
 
@@ -1394,8 +1396,6 @@ La Dirección notificará anticipadamente, vía publicación en los estrados del
 La Dirección facilitará a los aspirantes, los materiales didácticos y de apoyo necesarios, antes de la fecha de aplicación de la evaluación respectiva.
 
 ## Título Noveno. Del reconocimiento al mérito e incentivos de los servidores electorales profesionales en órganos desconcentrados
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ### Capítulo Primero. Del reconocimiento al mérito e incentivos
 
