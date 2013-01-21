@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-coordinacion-y-participacion-catastral-del-66483"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2012-01-05"
+last_updated: "2013-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE COORDINACIÓN Y PARTICIPACIÓN CATASTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2013.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1 de enero de 2009.
 
@@ -177,7 +177,9 @@ II. La elección a la que se refiere la fracción anterior, podrá llevarse a ca
 
 III. Se procederá a celebrar la votación mediante manifestación expresa de los asistentes, siendo electos los dos representantes por región, que obtengan la mayoría simple de votos.
 
-IV. Una vez electos los representantes municipales para el ejercicio correspondiente, el delegado regional elaborara el acta circunstanciada, que deberán firmar al calce y al margen por duplicado los asistentes.
+> <small>(REFORMADA, G.G. 21 DE ENERO DE 2013)</small>
+
+IV. Una vez electos los representantes municipales para el ejercicio correspondiente, el delegado regional elaborará el acta que deberán firmar al calce y al margen por duplicado los asistentes.
 
 V. Los representantes municipales electos, tomarán protesta de su encargo ante el Presidente de la Comisión durante la sesión programada para tal efecto.
 
@@ -388,3 +390,9 @@ G.G. 5 DE ENERO DE 2012.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero del año dos mil doce.
+
+G.G. 21 DE ENERO DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
