@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4570
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-21"
-last_updated: "2012-07-19"
+last_updated: "2013-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 21 de julio de 2005.
 
@@ -875,13 +875,9 @@ En el caso de la fracción III, no se requerirá la conformidad del recurrente c
 
 (DEROGADO, P.O. 15 DE JULIO DE 2009)
 
-(NOTA: EL 10 DE JULIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JULIO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
-
 ###### Artículo 74.
 
-Las resoluciones que emita la Comisión podrán impugnarlas los particulares ante la Sala Administrativa del Tribunal Superior de Justicia del Estado, mediante el juicio de nulidad previsto en el Código de Procedimientos Contencioso-Administrativos del Estado; y las unidades de acceso ante el Pleno del indicado Tribunal, conforme a las disposiciones establecidas en dicho Código para la tramitación del recurso de revisión. En este último caso la Comisión no podrá requerir la ejecución o cumplimento de su resolución hasta en tanto ésta no haya sido confirmada por el Tribunal Pleno.
+(DEROGADO, P.O. 21 DE ENERO DE 2013)
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
 
@@ -1004,3 +1000,11 @@ P.O. 19 DE JULIO DE 2012.
 Primero.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que opongan al presente decreto.
+
+P.O. 21 DE ENERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Notifíquese el presente decreto al H. Tribunal Superior de Justicia y a la Comisión de Transparencia y Acceso a la Información Pública del Estado.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
