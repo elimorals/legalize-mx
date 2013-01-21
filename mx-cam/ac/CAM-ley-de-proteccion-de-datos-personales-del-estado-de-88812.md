@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-datos-personales-del-estado-de-88812"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-09"
-last_updated: "2012-07-09"
+last_updated: "2013-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 9 de julio de 2012.
 
@@ -493,11 +493,11 @@ Los Entes Públicos deberán esforzarse por reducir al máximo, los costos de en
 
 Podrá interponer recurso de revisión ante la Comisión el interesado que se considere agraviado por la resolución que recaiga a su solicitud de acceso, rectificación, cancelación u oposición o ante la omisión de la respuesta. Para este efecto, las Unidades de Acceso al dar respuesta a las solicitudes, orientarán al particular sobre su derecho de interponer el recurso de revisión y el modo y plazo para hacerlo.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
 ###### Artículo 39.
 
-La Comisión tendrá acceso a la información contenida en los sistemas de datos personales que resulte indispensable para resolver el recurso. Dicha información deberá ser mantenida con carácter confidencial y no estará disponible en el expediente.
-
-Las resoluciones que emita la Comisión podrán impugnarlas los particulares ante la Sala Administrativa del Tribunal Superior de Justicia del Estado, mediante el juicio de nulidad previsto en el Código de Procedimientos Contencioso-Administrativos del Estado; y las Unidades de Acceso ante el Pleno del citado Tribunal, conforme a las disposiciones establecidas en dicho Código para la tramitación del recurso de revisión. En este último caso la Comisión no podrá requerir la ejecución o cumplimento de su resolución hasta en tanto ésta no haya sido confirmada por el Tribuna. Pleno.
+La comisión tendrá acceso a la información contenida en los sistemas de datos personales que resulte indispensable para resolver el recurso. Dicha información deberá ser mantenida con carácter confidencial y no estará disponible en el expediente.
 
 La autoridad judicial competente tendrá acceso a los sistemas de datos personales cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente.
 
@@ -596,3 +596,13 @@ C. Gloria del Carmen Gutiérrez Ocampo, Diputada Presidenta.- C. Silvia María A
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinticinco días del mes de junio del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SECRETARIA "A" DE GOBIERNO ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ENERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Notifíquese el presente decreto al H. Tribunal Superior de Justicia y a la Comisión de Transparencia y Acceso a la Información Pública del Estado.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
