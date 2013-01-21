@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2012-01-05"
+last_updated: "2013-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2013.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -299,11 +299,15 @@ Los levantamientos topográficos catastrales se ejecutarán por el personal cert
 
 Si derivado de la notificación a los propietarios o poseedores de los inmuebles colindantes del predio donde se pretenda realizar el levantamiento topográfico, la autoridad catastral recibe oposición fundada de parte de cualquiera de ellos, se suspenderán los trabajos hasta en tanto los interesados regularicen o aclaren la situación legal del inmueble.
 
-Al término del levantamiento topográfico catastral, se elaborará acta circunstanciada, en donde se asentarán los hechos y circunstancias ocurridos durante la diligencia, así como las observaciones y preguntas que hayan realizado los interesados, firmando los que en ella intervinieron y quisieron hacerlo.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Al término del levantamiento topográfico catastral, se elaborará el acta, en donde se asentarán los hechos y circunstancias ocurridos durante la diligencia, así como las observaciones y preguntas que hayan realizado los interesados, firmando los que en ella intervinieron y quisieron hacerlo.
 
 En caso de que algún propietario o poseedor de un inmueble colindante o su representante legal no quisieren firmar el acta, se anotará en ésta la razón de su negativa, así mismo, cuando haya sido notificado legalmente y no asista a la diligencia del levantamiento topográfico, se asentará en el acta dicha razón.
 
-Los datos contenidos en el plano obtenido por la autoridad catastral serán considerados, en su caso, para actualizar el padrón catastral municipal. Cuando el levantamiento topográfico lo realice el IGECEM, además de la copia del plano, deberá remitir al Ayuntamiento, copias del acta circunstanciada y del documento que acredite la propiedad.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Los datos contenidos en el plano obtenido por la autoridad catastral serán considerados, en su caso, para actualizar el padrón catastral municipal. Cuando el levantamiento topográfico lo realice el IGECEM, además de la copia del plano deberá remitir al Ayuntamiento, copias del acta y del documento que acredite la propiedad.
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
 
@@ -635,7 +639,9 @@ C. Catálogos normativos:
 
 II. El registro gráfico deberá contener:
 
-A. Tratándose de la cartografía lineal catastral a nivel de manzana:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE ENERO DE 2013)</small>
+
+A. Tratándose de la cartografía vectorial catastral a nivel de manzana:
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2011)</small>
 
@@ -655,7 +661,9 @@ A. Tratándose de la cartografía lineal catastral a nivel de manzana:
 
 7. Nombre de la calle.
 
-B. En el caso de la cartografía lineal catastral a nivel de predio, además de lo anterior:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE ENERO DE 2013)</small>
+
+B. En el caso de la cartografía vectorial catastral a nivel de predio, además de lo anterior:
 
 1. Clave catastral.
 
@@ -679,7 +687,9 @@ En caso de que los propietarios o poseedores de inmuebles en los territorios mun
 
 El IGECEM deberá actualizar el padrón catastral del Estado, conforme a lo siguiente:
 
-I. La cartografía lineal digital a nivel manzana, anualmente, con base en las modificaciones que generen y propongan los Ayuntamientos, integradas conforme a los procedimientos establecidos para estos efectos en el Manual Catastral.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE ENERO DE 2013)</small>
+
+I. La cartografía vectorial catastral a nivel manzana, anualmente, con base en las modificaciones que generen y propongan los Ayuntamientos, integradas conforme a los procedimientos establecidos para estos efectos en el Manual Catastral.
 
 Antes del inicio de cada ejercicio fiscal, el IGECEM proporcionará al Catastro Municipal un respaldo en medio digital de la cartografía actualizada conforme al párrafo anterior.
 
@@ -687,17 +697,19 @@ II. Recopilar mensualmente, la base de datos del padrón catastral municipal, a 
 
 El IGECEM resguardará permanentemente los registros gráfico y alfanumérico a nivel estatal, los que estarán a disposición de Catastro Municipal para su consulta, impresión, respaldo en medios electrónicos de almacenamiento o valuación, previa solicitud y justificación.
 
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
 ###### Artículo 32.
 
-En el registro gráfico escala 1:5000 que procese el IGECEM deberá contener la información geográfica y catastral del estado, de los municipios, de los centros de población y de las localidades.
+En el registro gráfico digital que procese el IGECEM deberá contener la información geográfica y catastral del Estado, de los municipios, de los centros de población y de las localidades.
 
 ###### Artículo 33.
 
 La integración y actualización de los registros gráfico y alfanumérico a que se refiere la fracción VI del artículo 171 del Código, el Catastro Municipal las realizará en los siguientes términos:
 
-I. Tratándose de la cartografía lineal a nivel predio, deberá actualizar en medio digital, las modificaciones derivadas de las manifestaciones catastrales de los propietarios o poseedores; de los levantamientos topográficos catastrales o verificación de linderos; así como de los trabajos de fotointerpretación que realice para detectar los cambios que se operen en los inmuebles y que por cualquier concepto alteren los datos contenidos en el padrón catastral municipal, conforme a los lineamientos y procedimientos establecidos para estos efectos en el Manual Catastral.
+> <small>(REFORMADA, G.G. 21 DE ENERO DE 2013)</small>
 
-Una vez realizada esta actualización, dentro de los primeros 10 días del mes siguiente al que se realizó la actualización, el Catastro Municipal proporcionará al IGECEM copia de los gráficos actualizados en medio digital o analógico, o en su caso, el reporte de las actualizaciones realizadas conforme al formato establecido en el Manual Catastral.
+I. Tratándose de la cartografía vectorial catastral a nivel predio, deberá actualizar en medio digital, las modificaciones derivadas de las manifestaciones catastrales de los propietarios o poseedores así como de los trabajos técnicos que realice para detectar los cambios que se operen en los inmuebles y que por cualquier concepto alteren los datos contenidos en el padrón catastral municipal, conforme a los lineamientos y procedimientos establecidos para estos efectos en el Manual Catastral.
 
 II. Respecto al registro alfanumérico, deberá capturar en el Sistema de Información Catastral las actualizaciones y movimientos que se generen por las modificaciones indicadas en la fracción anterior, debiendo ejecutar los procesos de valuación y registro histórico de los movimientos.
 
@@ -1255,7 +1267,25 @@ Localización: Se encuentra ubicado principalmente en las zonas agrícolas o urb
 
 Régimen Jurídico de la Propiedad: Privada o Social.
 
-Uso del Suelo Predominante: Es agrícola de riego, mediante la utilización de corrientes de agua permanentes o intermitentes, ya sea en forma de vasos de captación y distribución existentes en las áreas susceptibles de ser irrigadas por gravedad, así mismo comprenden a los predios en los que se aprovechan los depósitos o corrientes de agua subterránea o superficial mediante el uso de la (sic) elementos mecánicos para realizar la irrigación, en algunos casos mezclados con otros usos como el industrial o agroindustrial en áreas agrícolas y urbanizables.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Es agrícola de riego, mediante la utilización de corrientes de agua permanentes o intermitentes, ya sea en forma de vasos de captación y distribución existentes en las áreas susceptibles de ser irrigadas por gravedad, así mismo comprenden a los predios en los que se aprovechan los depósitos o corrientes de agua subterránea o superficial mediante el uso de elementos mecánicos para realizar la irrigación, la profundidad del suelo con condiciones favorables para el desarrollo radicular de las plantas es de 100 cms. o más de profundidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo o la capacidad de absorber agua en todo su espesor debe ser eficiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo que corresponde al aspecto interior es una mezcla uniforme de diferentes granos de arena, limos y arcilla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno debe ser plano con pendientes que no excedan de 6%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el industrial o agroindustrial en áreas agrícolas y urbanizables.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy baja o baja menor al 20% (distribución dispersa).
 
@@ -1275,7 +1305,29 @@ Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de la
 
 Régimen Jurídico de la Propiedad: Privada o Social.
 
-Uso del Suelo Predominante: Es agrícola por capilaridad, colinda con cuerpos de agua ya sean subterráneas o superficiales de donde reciben la humedad necesaria para el desarrollo de algún cultivo, en algunos casos mezclados con otros usos como el industrial o agroindustrial en áreas agrícolas y urbanizables.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Es agrícola por capilaridad, colinda con cuerpos de agua ya sean subterráneas o superficiales de donde reciben la humedad necesaria para el desarrollo de algún cultivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Se localiza comúnmente en las vegas de los cuerpos de agua, con una profundidad del suelo con condiciones favorables para el desarrollo radicular de las plantas de 50 cms. a 100 cms. de profundidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo debe ser buena.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo presenta alto contenido de materia orgánica también presenta características intermedias tales como texturas arcillo-limosa, franco-arcillo-limosos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno debe tener pendientes que no excedan del 6% al 10%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el industrial o agroindustrial en áreas agrícolas y urbanizables.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy baja o baja menor al 20% (distribución dispersa).
 
@@ -1295,7 +1347,29 @@ Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de la
 
 Régimen Jurídico de la Propiedad: Privada o Social.
 
-Uso del Suelo Predominante: Es agrícola que para producir algún cultivo depende del agua proporcionada por la precipitación pluvial. Comprende también aquellos terrenos que se dejan ociosos por algún tiempo, generalmente de 3 a 5 años antes de volverse a sembrar. En algunos casos mezclados con otros usos como el pecuario, industrial o agroindustrial en áreas agrícolas y urbanizables.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Es agrícola que para producir algún cultivo depende del agua proporcionada por la precipitación pluvial. Comprende también aquellos terrenos que se dejan ociosos por algún tiempo, generalmente de 3 a 5 años antes de volverse a sembrar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Con una profundidad del suelo con condiciones favorables para el desarrollo radicular de las plantas de 25 cms. a 50 cms. de profundidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es regular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo que corresponde al aspecto interior son los arcillosos, presentan grandes grietas y son difíciles de labrar cuando están secos y húmedos son muy plásticos al tacto, también presentan características intermedias tales como texturas arcillo-arenoso, franco-arcillo-arenosos, franco-arenosos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Su configuración topográfica del terreno debe tener pendientes que no excedan del 6% al 10%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el pecuario, industrial o agroindustrial en áreas agrícolas y urbanizables.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy baja o baja menor al 20% (distribución dispersa).
 
@@ -1315,7 +1389,9 @@ Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de la
 
 Régimen Jurídico de la Propiedad: Privada o Social.
 
-Uso del Suelo Predominante: Es agroindustrial; terrenos en los que se desarrollan actividades transformadoras, que incorporan productos agropecuarios como materias primas.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Es agroindustrial, terrenos en los que se desarrollan actividades transformadoras, que incorporan productos agropecuarios como materias primas, observan edificaciones para la transformación y comercialización.
 
 En algunos casos mezclados con otros usos como el pecuario o industrial en áreas agrícolas o urbanizables.
 
@@ -1325,7 +1401,9 @@ Lotificación: Presenta lotes irregulares en su forma, en lo referente a su tama
 
 Servicios Públicos e Infraestructura: Son incipientes; la dotación de agua es mediante pozos y ocasionalmente, con tomas domiciliarias para uso domestico, el drenaje es a cielo abierto, ocasionalmente con fosas sépticas, vialidades de importancia local, terciarias y algunas secundarias.
 
-Vivienda: Naves económica sin proyecto, materiales de calidad económica sin acabados, claros menores de 10.0 metros, con estructura de soporte horizontal menores a 1.10 m., alturas de 5.00 m. o menores, con muros de carga y columnas; autoconstrucción y autofinanciamiento, se localizan en forma aislada en predios en áreas agrícolas o urbanizables y como complemento en zonas industriales.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Vivienda: Naves económicas sin proyecto, materiales de calidad económica sin acabados, claros menores de 10.0 metros, con estructura de soporte horizontal menores a 1.10 metros, alturas de 5.00 metros o menores, con muros de carga y columnas, autoconstrucción y autofinanciamiento y, en algunos casos, naves ligeras, se localizan en forma aislada en predios en áreas agrícolas o urbanizables y, como complemento, en zonas industriales.
 
 Ocupación y Nivel de Educación: Ocupación: pequeño comerciante, obrero, empleado de niveles bajos. Nivel de educación: primaria, secundaria y técnico incipiente terminada.
 
@@ -1339,7 +1417,25 @@ Localización: Se encuentra ubicado en las de las periferias de los pueblos o fu
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Agostadero natural, son terrenos cubiertos de pastizales o especies vegetales de la región que se han establecido y desarrollado como agostadero de manera natural y espontánea, en algunos casos mezclados con otros usos como el agrícola de temporal.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Agostadero natural, son terrenos cubiertos de pastizales o especies vegetales de la región que se han establecido y desarrollado como agostadero de manera natural y espontánea, con una profundidad con condiciones favorables para el desarrollo radicular de las plantas de 15 cms. a 25 cms.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es deficiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura corresponde a suelos pardos, de constitución arcillo-arenosa con acumulación de arcilla en el subsuelo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del suelo puede ser con áreas planas o semiplanas, con pendientes de 0 a 5%, zonas de lomeríos con pendientes de 5% a 15% y áreas muy accidentadas con pendientes mayores a un 15%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola de temporal.
 
 Densidad del Uso del Suelo: La densidad habitacional es nula.
 
@@ -1359,7 +1455,25 @@ Localización: Se encuentra ubicado en las de las periferias, de los pueblos o f
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Es agostadero artificial; son aquellos terrenos en los que son sembradas diversas especies o variedades de pastos adecuado al lugar, con lo cual se logra una mejoría en los coeficientes de agostadero, en algunos casos mezclados con otros usos como el agrícola de riego o de temporal.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Son agostadero artificial, aquellos terrenos en los que son sembradas diversas especies o variedades de pastos adecuado al lugar, con lo cual se logra una mejoría en los coeficientes de agostadero, con una profundidad con condiciones favorables para el desarrollo radicular de las plantas de 15 cms. a 25 cms.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es regular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo corresponde al arenoso ya que se presentan las superficies con partículas de las más gruesas, son sueltas y de granos aislados que pueden sentirse fácilmente con la mano, sin ninguna o con muy poca plasticidad, también presentan características intermedias tales como texturas arcillo-arenoso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno debe ser áreas planas o semiplanas con pendientes de 0 a 5% y zonas de lomeríos con pendientes de 5% a 15%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola de riego o de temporal.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy escasa o nula.
 
@@ -1381,7 +1495,29 @@ Localización: Se encuentra ubicado fuera de los centros de población.
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Es forestal natural; son aquellos terrenos en los que las especies de árboles nacen y se desarrollan de manera espontánea atendiendo a las condiciones naturales de la región; esta compuesto por vegetación arbórea que comúnmente presenta poca la variación de especies dentro de una zona, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Son forestal natural, aquellos terrenos en los que las especies de árboles nacen y se desarrollan de manera espontánea atendiendo a las condiciones naturales de la región, está compuesto por vegetación arbórea que comúnmente presenta poca variación de especies dentro de una zona. Se presenta principalmente en regiones de climas templados y semifríos con diferentes grados de humedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Con una profundidad con condiciones favorables para el desarrollo radicular de las plantas desde 15 cms. hasta mayores de 90 cms.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es regular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo observa fragmentos de roca, grava, arena gruesa, arena fina, limos y arcillas de alta y baja plasticidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno presenta diversas variaciones que van desde pendientes suaves cuando presentan pendientes menores al 30%, moderadas cuando presentan pendientes del 30% al 45%, abruptas cuando presentan pendientes del 45% al 60% y muy abruptas cuando presentan pendientes mayores al 60%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola, agostadero y otros.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy escasa o nula.
 
@@ -1401,7 +1537,29 @@ Localización: Se encuentra ubicado fuera de los centros de población.
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Es forestal cultivado; son aquellos terrenos en los que interviene el hombre para la siembra, plantación y selección de especies arbóreas, mediante la aplicación de tecnologías y conocimiento del tipo y condición de los suelos para incrementar y mejorar la producción y explotación de productos maderables y derivados, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Son forestal cultivado, aquellos terrenos en los que interviene el hombre para la siembra, plantación y selección de especies arbóreas, mediante la aplicación de tecnologías y conocimiento del tipo y condición de los suelos para incrementar y mejorar la producción y explotación de productos maderables y derivados. Se planifican con técnicas de preparación de los sitios más apropiados de acuerdo al tipo y condición de los suelos, según el riesgo potencial a la erosión, remoción o deslizamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Con una profundidad con condiciones favorables para el desarrollo radicular de las plantas desde 15 cms. hasta mayores de 90 cms.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es variable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo son de fragmentos de roca, grava, arena gruesa, arena fina, limos y arcillas de alta y baja plasticidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno presenta variaciones que van desde pendientes suaves a moderadas con suelos profundos, así mismo, ocupan un amplio rango de pendientes desde sitios muy abruptos susceptibles de deslizamiento, hasta pendientes suaves con suelos arcillosos susceptibles de compactación, con lomeríos suaves cuando presentan pendientes menores al 30% y moderados cuando presentan pendientes del 30% al 45%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola, agostadero y otros.
 
 Densidad del Uso del Suelo: La densidad habitacional es muy escasa o nula.
 
@@ -1423,7 +1581,37 @@ Localización: Se encuentra ubicado fuera de los centros de población.
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Es eriazo; son los terrenos pedregosos, arenosos, medianos o gruesos, o erosionados, con poca arcilla y por sus características propias no pueden retener humedad suficiente, por lo que no son susceptibles de cultivo alguno, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Son eriazo, los terrenos pedregosos, arenosos, medianos o gruesos o erosionados, con poca arcilla y por sus características propias no pueden retener humedad suficiente, por lo que no son susceptibles de cultivo alguno, ya que no puede sobrevivir sin lluvias frecuentes, no tienen partículas finas de arcilla o limo llenando el espacio poroso, por lo que no pueden retener la humedad, pues el peso del agua hace que pase rápidamente a través de los poros del suelo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Este tipo de suelos puede producirse por los efectos más importantes de la erosión, entre los que se encuentran la degradación de los ecosistemas, el azolve de los cuerpos de agua, la disminución de la fertilidad, la pérdida de materia orgánica y el cambio en el estado de agregación de los suelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Los agentes externos causantes de la erosión y modelación de la corteza terrestre son esencialmente la intemperie, el viento (erosión eólica), las aguas superficiales (erosiones pluvial y fluvial).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Tienen una profundidad con condiciones desfavorables para el desarrollo radicular de las plantas menor de 8 cms.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La permeabilidad del suelo es deficiente y mala.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La textura del suelo es rocosa, con grava, arena gruesa, pedregosa y roca superficial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La configuración topográfica del terreno y la presencia de erosión son un factor desfavorable en el aprovechamiento del suelo, presentan pendientes del 30% al 45%, sitios muy abruptos susceptibles de deslizamiento y corresponden a suelos muy delgados con pendientes desde 45% hasta mayores de 60%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola, agostadero y otros.
 
 Densidad del Uso del Suelo: La densidad habitacional es nula.
 
@@ -1445,7 +1633,13 @@ Localización: Se encuentra ubicado dentro o fuera de los centros de población.
 
 Régimen Jurídico de la Propiedad: Pública o Social.
 
-Uso del Suelo Predominante: Zonas Arqueológicas; son los terrenos o parajes que contienen en la superficie o en el subsuelo restos de la intervención humana, bienes muebles o inmuebles que poseen valor histórico, etnológico, paleontológico o antropológico, susceptibles de ser estudiados con metodología arqueológica, en algunos casos mezclados con otros usos como el agrícola, agostadero, habitacional y otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Son Zonas Arqueológicas, los terrenos o parajes que contienen en la superficie o en el subsuelo restos de la intervención humana, bienes muebles o inmuebles que poseen valor histórico, etnológico, paleontológico o antropológico, susceptibles de ser estudiados con metodología arqueológica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola, agostadero, habitacional y otros.
 
 Densidad del Uso del Suelo: No aplica.
 
@@ -1465,7 +1659,17 @@ Localización: Se encuentran en todo el territorio.
 
 Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
-Uso del Suelo Predominante: Cuerpos de agua son las áreas que en su superficie contienen corrientes, cauces o depósitos de agua, tanto naturales como artificiales, como son lagos, lagunas, presas, pantanos y bordos, en algunos casos mezclados con otros usos como el agrícola, agostadero, habitacional y otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Los cuerpos de agua, son las áreas que en su superficie contienen corrientes, cauces o depósitos de agua, tanto naturales como artificiales, como son lagos, lagunas, presas, pantanos y bordos. Se hace imprescindible considerar los cuerpos de agua o almacenamientos, que son originados por acumulación natural o, en su defecto, inducidos por el hombre, como es el caso de las presas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+La cantidad de agua que se precipita es fundamental para la existencia de bordos temporales o permanentes, la textura del suelo y las características del sustrato geológico que determinan la permeabilidad del suelo condicionan la posibilidad de almacenamiento natural del agua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el agrícola, agostadero, habitacional y otros.
 
 Densidad del Uso del Suelo: No aplica.
 
@@ -1485,7 +1689,21 @@ Localización: Se encuentran dispersos en todo el territorio del Estado.
 
 Régimen Jurídico de la Propiedad: Pública.
 
-Uso del Suelo Predominante: Las Reservas Naturales son las porciones terrestres o acuáticas del territorio, representativas de los diversos ecosistemas en donde el ambiente original no ha sido esencialmente alterado por la mano del hombre. Se originan mediante un decreto emitido por el Poder Legislativo que regula estrictamente el uso del suelo y están sujetos a regímenes especiales de protección, conservación y restauración, en algunos casos mezclados con otros usos como el forestal, agostadero, eriazo u otros.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Uso del Suelo Predominante: Las reservas naturales, son las porciones terrestres o acuáticas del territorio, representativas de los diversos ecosistemas en donde el ambiente original no ha sido esencialmente alterado por la acción de las personas. Se originan mediante un decreto emitido por el Poder Legislativo que regula estrictamente el uso del suelo y están sujetos a regímenes especiales de protección, conservación y restauración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Las Áreas Naturales Protegidas, se definen como aquellas zonas del territorio del Estado de México, en las cuales los ambientes originales no han sido significativamente alterados y los gobiernos ejercen su jurisdicción de dominio con el objeto de conservar los recursos naturales y satisfacer las necesidades educativas, de recreación y de investigación científica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+Por su compleja situación geográfica, observan una gran diversidad de climas y suelos, presentan una variedad de flora y fauna constituida en un alto porcentaje por especies endémicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 21 DE ENERO DE 2013)</small>
+
+En algunos casos, el uso está mezclado con otros como el forestal, agostadero, eriazo u otros.
 
 Densidad del Uso del Suelo: No aplica.
 
@@ -6429,7 +6647,7 @@ I. El factor de edad de la construcción (FEC) demerita el valor de las edificac
 
 Para determinar el factor de edad de la construcción se requiere conocer además del periodo transcurrido desde la construcción inicial o última remodelación realizada, el número de años de vida económica o vida útil de la edificación, que es variable dependiendo de la tipología de construcción que corresponda al inmueble de que se trate, asimismo el coeficiente de demérito anual es variable y está en función de los mismos elementos, como se indica en el siguiente cuadro:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El factor aplicable se determinará considerando la tipología de la construcción relacionada con el número de años de vida económica o vida útil de la edificación y el coeficiente de demérito anual que le corresponda del inmueble de que se trate, conforme al cuadro anterior, aplicando la siguiente fórmula general:
 
@@ -6453,37 +6671,47 @@ II. El factor por grado de conservación (FGC) demerita el valor de las construc
 
 Los factores aplicables se localizan en la siguiente tabla.
 
-GRADO DE FACTOR APLICABLE
+> <small>(REFORMADA, G.G. 21 DE ENERO DE 2013)</small>
 
-CONSERVACIÓN “FGC”
+CÓDIGO GRADO DE FACTOR APLICABLE
 
-1 Muy bueno 1.000
+CONSERVACIÓN "FGC"
 
-2 Bueno 0.875
+1 Bueno 1.00000
 
-3 Medio 0.750
+2 Normal 0.90000
 
-4 Malo 0.400
+3 Regular 0.75000
 
-5 Muy malo 0.250
+4 Malo 0.40000
 
-6 Ruinoso 0.080
+5 Ruinoso 0.08000
 
 Para efectos de identificar los grados de conservación indicados, se atenderá a lo siguiente:
 
-Muy bueno.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores no presentan deterioro alguno; su mantenimiento es general y permanente o se realiza en periodos inferiores a un año. En esta clasificación quedan comprendidas las edificaciones nuevas.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
 
-Bueno.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros leves; su mantenimiento es general y se realiza en periodos comprendidos entre uno y tres años.
+Bueno. Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores no presentan deterioro alguno, en esta clasificación quedan comprendidas las edificaciones nuevas.
 
-Medio.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros notables a la vista; su mantenimiento es parcial y se realiza en periodos comprendidos entre cuatro y seis años.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
 
-Malo.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros importantes; su mantenimiento es parcial y se realiza en periodos superiores a los seis años.
+Normal. Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros leves en los acabados, debido al uso regular.
 
-Muy malo.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros graves, no se le ha realizado mantenimiento alguno, estando en importante riesgo su habitabilidad.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
 
-Ruinoso.- Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros irreversibles, por lo que no son susceptibles de recuperación y no es habitable en ninguno de sus componentes.
+Regular. Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros notables a la vista, su mantenimiento es parcial debido al uso normal.
 
-En caso de que algún inmueble presente grados de conservación muy malo o ruinoso, no se aplicarán los factores de edad de la construcción y de número de niveles.
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Malo. Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros importantes.
+
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+Ruinoso. Cuando los elementos constructivos de la edificación y los acabados interiores y exteriores presentan deterioros irreversibles, por lo que no son susceptibles de recuperación y no es habitable en ninguno de sus componentes.
+
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2013)</small>
+
+En caso de que algún inmueble presente grados de conservación malo o ruinoso, no se aplicarán los factores de edad de la construcción y de número de niveles.
 
 III. El factor de número de niveles (FN) incrementa el valor de los inmuebles cuya edificación tenga más de dos niveles.
 
@@ -6725,7 +6953,9 @@ V. Constancia de vigencia de afiliación emitida por una Asociación, Instituto 
 
 VI. Certificación que acredite la actualización de conocimientos para la práctica de valuación inmobiliaria catastral, expedida por la Asociación, Instituto o Colegio de profesionales especialistas en valuación inmobiliaria radicada y registrada en el Estado de México.
 
-VII. Currículum Vital.
+> <small>(REFORMADA, G.G. 21 DE ENERO DE 2013)</small>
+
+VII. Currículum vítae.
 
 VIII. Tres fotografías recientes a color, tamaño infantil.
 
@@ -6924,3 +7154,9 @@ G.G. 5 DE ENERO DE 2012.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero de 2012.
+
+G.G. 21 DE ENERO DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo, entrará en vigor al día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
