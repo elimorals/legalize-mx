@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2012-12-21"
+last_updated: "2013-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -443,9 +443,9 @@ XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
 
 XXXIV. Dirigir y coordinar las políticas y programas de la Administración Pública en materia de Equidad de Género y Desarrollo Municipal, participando en los Órganos de Gobierno de las instituciones que se constituyan para el manejo y atención de esos temas, mismas que estarán sectorizados a esta Secretaría.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ENERO DE 2013)</small>
 
-XXXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+XXXV. Dirigir y coordinar las políticas y programas en materia de juventud, para tal efecto contará con la subsecretaría del ramo, la organización y funcionamiento estará previsto en los términos que señale el reglamento interior respectivo;
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -2514,3 +2514,9 @@ G.O. 21 DE DICIEMBRE DE 2012.
 Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
 
 Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
+
+G.O. 21 DE ENERO DE 2013.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 591 QUE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
