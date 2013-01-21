@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2009-12-18"
+last_updated: "2013-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -609,7 +609,9 @@ Las Comisiones permanentes se nombrarán en la primera Sesión Ordinaria del añ
 
 5.- Transporte.
 
-6.- Asistencia Social y Participación Ciudadana.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
+6.- Asistencia Social.
 
 7.- Juventud y Deporte.
 
@@ -628,6 +630,10 @@ Las Comisiones permanentes se nombrarán en la primera Sesión Ordinaria del añ
 14.- Agua Potable y Alcantarillado.
 
 15.- Patrimonio Municipal, Panteones y Espectáculos.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2013)</small>
+
+16.- Participación Ciudadana.
 
 Así mismo, y en base a las necesidades de la administración pública municipal, el Ayuntamiento, en cualquier momento podrá aprobar la creación, supresión o unión de las demás Comisiones que estime pertinentes para el buen ejercicio de sus atribuciones y eficaz despacho de los asuntos Municipales.
 
@@ -707,7 +713,9 @@ C) Realizar estudios y proponer alternativas para mejorar las rutas de transport
 
 D) Las demás que determine el Ayuntamiento.
 
-VI.- ASISTENCIA SOCIAL Y PARTICIPACIÓN CIUDADANA.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
+
+VI.- ASISTENCIA SOCIAL.
 
 A) Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la participación ciudadana y vecinal.
 
@@ -834,6 +842,18 @@ C) Evaluar los trabajos de las dependencias municipales con funciones y atribuci
 D) Vigilar que los bienes inmuebles del municipio sean incorporados al dominio público en los términos de ley, mediante el acuerdo de incorporación correspondiente debidamente publicado en el Periódico Oficial del Estado.
 
 E) Las demás que le confiera el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2013)</small>
+
+XVI.- PARTICIPACIÓN CIUDADANA.
+
+A) Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la participación ciudadana y vecinal.
+
+B) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+
+C) Presentar al Ayuntamiento las propuestas de dictamen, los informes, resultados de los trabajos de investigación y demás documentos relativos a los asuntos que les son turnados en torno a la participación ciudadana y vecinal.
+
+D) Las demás que le confiera el Ayuntamiento.
 
 ###### ARTÍCULO 75.
 
@@ -1211,7 +1231,7 @@ C. Margarita Martínez López
 
 Presidente Municipal
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE DICIEMBRE DE 2009.
 
@@ -1222,3 +1242,9 @@ Las presentes reformas al Reglamento Interior del R. Ayuntamiento del Municipio 
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
+
+P.O. 21 DE ENERO DE 2013.
+
+PRIMERO.- Las presentes reformas al Reglamento Interior del R. Ayuntamiento del Municipio de General Escobedo, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la Gaceta Municipal.
