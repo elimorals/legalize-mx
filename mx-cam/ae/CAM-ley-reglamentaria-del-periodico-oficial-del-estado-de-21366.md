@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-periodico-oficial-del-estado-de-21366"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-25"
-last_updated: "2001-05-25"
+last_updated: "2013-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY REGLAMENTARIA DEL PERIODICO OFICIAL DEL ESTADO DE CAMPECHE
 
-LEY REGLAMENTARIA DEL PERIODICO OFICIAL DEL ESTADO DE CAMPECHE
+LEY REGLAMENTARIA DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 25 de mayo de 2001.
 
@@ -107,6 +107,10 @@ El Periódico Oficial del Estado será distribuido gratuitamente a las dependenc
 
 El Periódico Oficial del Estado será editado y distribuido en cantidad suficiente que garantice la satisfacción de la demanda en todo el territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2013)</small>
+
+Cuando se cuente con equipamiento tecnológico adecuado, podrá ser publicado en versión electrónica que facilite el acceso informativo a su contenido, para consulta y conocimiento.
+
 ###### Art. 11.
 
 Para los efectos de lo dispuesto en el artículo anterior, la Secretaría de Finanzas y Administración fijará el precio de venta por ejemplar a distribuidores y establecerá las modalidades para el suministro a los mismos. El precio de venta al público será el que determine la Ley de Hacienda del Estado.
@@ -115,9 +119,11 @@ Para los efectos de lo dispuesto en el artículo anterior, la Secretaría de Fin
 
 El Periódico Oficial del Estado, deberá publicar dentro del primer trimestre de cada año, un índice por materias de las publicaciones del año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+
 ###### Art. 13.
 
-Dentro de los tres primeros meses de cada año, el Periódico Oficial del Estado reeditará en su integridad, bajo la denominación de suplemento y en el mismo formato que se previene en el artículo 7 o mediante medios electromagnéticos, todas aquellas leyes, reglamentos, acuerdos y demás disposiciones de carácter general que durante el año inmediato anterior hayan sufrido alguna modificación. En estas reediciones invariablemente se deberá hacer la mención del número, sección y fecha del Periódico Oficial en que originalmente apareció publicada la ley, reglamento, acuerdo o disposición de carácter general, así como los mismos datos del Periódico en que, también originalmente, se publicó la modificación y, en su caso, el número de decreto que le haya correspondido y los respectivos artículos transitorios.
+Dentro de los tres primeros meses de cada año, el Periódico Oficial del Estado reeditará en su integridad, bajo la denominación de suplemento y en el mismo formato que se previene en los artículos 7 y 10 todas aquellas leyes, reglamentos, acuerdos y demás disposiciones de carácter general que durante el año inmediato anterior hayan emitido alguna modificación. En estas reediciones invariablemente se deberá hacer la mención del número, sección y fecha del Periódico Oficial en que originalmente apareció publicada la ley, reglamento, acuerdo o disposición de carácter general, así como los mismos datos del Periódico en que, también originalmente, se publicó la modificación y, en su caso, el número de decreto que le haya correspondido y los respectivos artículos transitorios.
 
 ###### Art. 14.
 
@@ -138,3 +144,11 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche,
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veinticuatro días del mes de mayo del año dos mil uno.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ENERO DE 2013.
+
+Primero.- El presente decreto entrará en vigor a los tres días siguiente a su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
