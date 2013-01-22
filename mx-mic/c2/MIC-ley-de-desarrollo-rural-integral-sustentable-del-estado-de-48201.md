@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2010-12-29"
+last_updated: "2013-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
 
 Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -179,6 +179,10 @@ XXV. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
 XXVI. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2013)</small>
+
+XXVI Bis. Fuentes de energía alternativas renovables: Aquéllas que pueden regenerarse de manera natural a una velocidad mayor de la que se consumen.
+
 XXVII. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
 
 XXVIII. Investigación y transferencia de tecnología: La investigación y la modernización tecnológicas aplicadas a las actividades rurales, así como las acciones que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
@@ -216,6 +220,10 @@ XLIII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los
 XLIV. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, generación de oxígeno, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros; estipulados en las leyes específicas de la materia;
 
 XLV. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Gobierno del Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2013)</small>
+
+XLV Bis. Series de mineralización: Registro en el tiempo sobre las tasas de cambio de la fracción orgánica convertida a formas inorgánicas.
 
 XLVI. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento, y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
@@ -449,9 +457,11 @@ El desarrollo rural estará fincado sobre la base de la planeación democrática
 
 Para planear, acordar, instrumentar, dar seguimiento y evaluar la política de Estado, la Secretaría tomará como base los acuerdos que implemente el Consejo Estatal como órgano concurrente, así como los planteamientos que realicen los Consejos Distritales, Municipales y Locales.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 17.
 
-La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción, mediante procesos productivos socialmente solamente justos y ambientalmente amigables.
+La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción, mediante procesos productivos socialmente democráticos, participativos justos y ambientalmente apegados a la normatividad vigente.
 
 ###### Artículo 18.
 
@@ -775,7 +785,17 @@ IV. La identificación de la demanda de alimentos para la ganadería en el Estad
 
 V. Las condiciones climatológicas prevalecientes y esperadas, en cada uno de los ámbitos señalados en este Capítulo;
 
-VI. La información técnica de suelos y agua, proporcionada por laboratorios autorizados o de tecnología satelital;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+VI. La información técnica especializada en materia de suelos, agua, atmósfera, fuentes de energías alternativas renovables, insumos de síntesis química e insumos orgánicos, proporcionada por: laboratorios autorizados, de tecnología satelital o científicos calificados por instituciones educativas registrados ante la Dirección General de Profesiones de la Secretaría de Educación Pública; que contenga:
+
+a. Información relativa a la salud pública que exponga los posibles riesgos para la seguridad alimentaria de la población;
+
+b. Información en materia de innovación y desarrollo tecnológico de fuentes de energías alternativas renovables para la sustentabilidad rural integral;
+
+c. Información de insumos de síntesis química y sus efectos sobre el ambiente, que permita evaluar posibles alteraciones nocivas en agua, suelo, atmósfera, flora y fauna;
+
+d. Información sobre la dinámica de los materiales orgánicos utilizados como fertilizantes; con los objetivos de calcular series de mineralización en el tiempo y diseñar un manejo integral sustentable que optimice la fertilidad química, física, biológica y ambiental en los sistemas de producción.
 
 VII. Las condiciones de organización de los productores para atender de manera eficaz la demanda de productos agrícolas en los mercados; y,
 
@@ -1380,3 +1400,7 @@ P.O. 17 DE MAYO DE 2010.
 P.O. 29 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE ENERO DE 2013.
+
+ÚNICO. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
