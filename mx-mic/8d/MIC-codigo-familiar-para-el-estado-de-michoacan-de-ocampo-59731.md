@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2011-12-28"
+last_updated: "2013-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -139,9 +139,11 @@ El sexto, de actas de defunción; y,
 
 El séptimo, de la inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 15.
 
-Los Oficiales del Registro Civil, asentarán en formas especiales que se denominarán "formas del registro civil", las actas a que se refiere el artículo 14.
+Los Oficiales del Registro Civil asentarán en formas especiales que se denominarán «Formas del Registro Civil», las actas a que se refiere el presente Código.
 
 ###### Artículo 16.
 
@@ -327,7 +329,7 @@ En los casos de los artículos 51 y 63 de este Código, el Oficial del Registro 
 
 Cuando el nacido fuere presentado como hijo de matrimonio se asentarán los nombres, apellidos, domicilio y nacionalidad de los progenitores, de los abuelos paternos y maternos y de las personas que hubieren hecho la presentación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### Artículo 51.
 
@@ -383,9 +385,11 @@ Si el nacimiento se verificare durante un viaje por tierra, podrá registrarse e
 
 Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las formas del Registro Civil que correspondan.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 62.
 
-Cuando se trate de nacimiento múltiple, se levantará acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 38, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la partera, o las personas que hayan asistido el nacimiento. El Oficial del Registro Civil, relacionará las actas.
+Cuando se trate de nacimiento múltiple, se levantará acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 49 de este Código, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la partera, o las personas que hayan asistido el nacimiento. El Oficial del Registro Civil relacionará las actas.
 
 ### Capítulo III. De las actas de reconocimiento
 
@@ -413,11 +417,13 @@ Si el reconocimiento se hiciere en oficialía distinta a aquella en la que se le
 
 ### Capítulo IV. De las actas de adopción
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 68.
 
 Dictada la resolución judicial definitiva que autorice la adopción, el Juez de Primera Instancia, dentro del término de ocho días hábiles, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
-La falta de registro de la adopción no priva a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 55.
+La falta de registro de la adopción no priva a ésta sus efectos legales, pero sujeta al responsable a la sanción señalada en el artículo 55 de este Código.
 
 ###### Artículo 69.
 
@@ -481,17 +487,25 @@ Al escrito a que se refiere el artículo anterior, se acompañará:
 
 I. El acta de nacimiento de los contrayentes, y en su defecto dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 142 (sic), fracción II, 129, 133 y 134 de este Código;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 132, 133, 134 y 135 de este Código.
 
 III. La declaración de dos testigos mayores de edad que conozcan a los contrayentes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos contrayentes, deberán presentarse dos testigos por cada uno de ellos;
 
 IV. Un certificado médico sobre el estado de salud de los contrayentes. Para los indigentes, tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial; y el Oficial del Registro Civil, les explicará su contenido;
 
-V. El convenio que los contrayentes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los contrayentes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los contrayentes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 175 y 195, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado. Si de acuerdo con lo dispuesto en el artículo 171, fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura. Cuando los contrayentes, por falta de conocimientos no puedan redactar el convenio, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los contrayentes le suministren;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
 
-I. (sic) Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los contrayentes hubiere sido casado anteriormente; y,
+V. El convenio que los contrayentes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los contrayentes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los contrayentes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 177 y 197 de este Código, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado. Si de acuerdo con lo dispuesto en el artículo 173 de este Código, fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura. Cuando los contrayentes, por falta de conocimientos no puedan redactar el convenio, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los contrayentes le suministren.
 
-II. Copia de la dispensa de impedimentos, si los hubo.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los contrayentes hubiere sido casado anteriormente; y,
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+VII. Copia de la dispensa de impedimentos, si los hubo.
 
 ###### Artículo 78.
 
@@ -717,7 +731,9 @@ II. A las que se mencionen en el acta como relacionadas con el estado civil de a
 
 III. A los herederos de las personas a que se refieren los dos incisos anteriores; y,
 
-IV. A las personas que según los artículos 331, 332 y 333 pueden continuar o intentar la acción de que en esos artículos se trata.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+IV. A las personas que según los artículos 333 y 334 de este Código pueden continuar o intentar la acción de que en esos artículos se trata.
 
 ###### Artículo 118.
 
@@ -1139,9 +1155,11 @@ La sentencia que declare la ausencia de alguno de los cónyuges, modifica o susp
 
 El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 186.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 175 de este Código.
+La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 176 de este Código.
 
 ###### Artículo 187.
 
@@ -1491,17 +1509,23 @@ III. Las hechas al inocente por el que no lo fue quedarán subsistentes; y,
 
 IV. Cuando ambos cónyuges hayan procedido de mala fe, las donaciones que recíprocamente se hayan hecho, quedarán en favor de los hijos. Si no los tienen, ninguna reclamación podrán hacerse con motivo de la liberalidad.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 252.
 
-Se tomarán las precauciones a que se refiere el Libro Segundo cuando al declararse la nulidad del matrimonio, la mujer estuviere encinta.
+Se tomarán las precauciones a que se refiere el Libro Segundo de éste Código, cuando al declararse la nulidad del matrimonio, la mujer estuviere gestando.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2013)</small>
 
 ###### Artículo 253.
 
-Es ilícito, aunque no nulo, el matrimonio:
+Es causa de nulidad relativa por ser dispensable, el matrimonio:
 
 I. Si se ha contraído estando pendiente la decisión de un impedimento impediente; y,
 
-II. Si no se ha otorgado la previa dispensa que requiere el artículo 144 o si se celebra sin transcurrir los términos que fijan los artículos 143 y 258.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+II. Si no se ha otorgado la previa dispensa que requiere el artículo 144 de este Código o si se celebra sin transcurrir los términos que fijan los artículos 276 y 289 de este Código.
 
 ###### Artículo 254.
 
@@ -1569,7 +1593,9 @@ X. La declaración de ausencia legalmente hecha o la de presunción de muerte, e
 
 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, o para las hijas o hijos;
 
-XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el artículo 150, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del artículo 153 de este Código;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el artículo 152 de este Código, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del artículo 155 de este Código.
 
 XIII. La acusación calumniosa por delito que merezca pena mayor de dos años de prisión, hecha por un cónyuge contra el otro;
 
@@ -2521,23 +2547,35 @@ II. Con la emancipación derivada del matrimonio; y,
 
 III. Por la mayor edad del hijo.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2013)</small>
 
 ###### Artículo 418.
 
-La patria potestad se pierde cuando quien la ejerce:
+La patria potestad se pierde:
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
 I. Es privado de ese derecho mediante resolución judicial;
 
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
 II. Es condenado dos o más veces por delitos graves;
 
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
 III. Realice cualquier acción que, valorada por especialistas en la materia, atente contra la integridad, seguridad, desarrollo físico, psicológico, emocional o social del menor de edad;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
 IV. Exponga o abandone al menor de edad, siempre que ello pueda comprometer su salud o seguridad.
 
 También se perderá la patria potestad de los acogidos por alguna persona o depositados en establecimientos de beneficencia, a menos que el acogimiento o depósito sobrevenga por caso fortuito o fuerza mayor.
 
-V. Realice conductas de violencia familiar según lo dispuesto en este Código; y,
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2013)</small>
+
+V. Por cometer conductas de violencia familiar en contra de quien se ejerce la patria potestad; para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 296 de este Código.
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
 VI. Se excuse de ella y manifieste la intención de dar en adopción al menor de edad, entregándolo al Sistema Estatal para el Desarrollo Integral de la Familia, Michoacán.
 
@@ -3001,9 +3039,11 @@ La tutela es testamentaria, legítima o dativa.
 
 ### Capítulo II. De la tutela testamentaria
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 496.
 
-El ascendiente que sobreviva, de los dos que en cada grupo lleguen a ejercer la patria potestad conforme a lo dispuesto en el artículo 400 tiene derecho, aunque no sea menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+El ascendiente que sobreviva, de los dos que en cada grupo lleguen a ejercer la patria potestad conforme a lo dispuesto en el artículo 391 de este Código tiene derecho, aunque no sea menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
 
 ###### Artículo 497.
 
@@ -3461,9 +3501,11 @@ Si el tutor dejare pasar los plazos para hacer las imposiciones de que tratan lo
 
 El tutor no podrá enajenar ni gravar los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos del incapacitado, sino por causa de absoluta necesidad o evidente utilidad, comprobadas debidamente y con el consentimiento del curador y la autorización judicial.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 577.
 
-Cuando se haya autorizado la enajenación de bienes con algún objeto determinado, el Juez señalará al tutor un término prudente dentro del cual justificará que el producto de la enajenación se invirtió en su objeto. Mientras no se haga la inversión se observará lo dispuesto en la parte final del artículo 409.
+Cuando se haya autorizado la enajenación de bienes pertenecientes al menor con algún objeto determinado, el Juez señalará al tutor un término prudente dentro del cual justificará que el producto de la enajenación se invirtió en el objeto finalidad de la enajenación. Mientras no se haga la inversión se observará lo dispuesto en la parte final del artículo 411 de este Código.
 
 ###### Artículo 578.
 
@@ -3533,9 +3575,11 @@ El tutor está obligado a aceptar las donaciones simples, los legados y las here
 
 Entre el tutor y el incapacitado no corre la prescripción durante la tutela.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+
 ###### Artículo 594.
 
-El tutor tiene respecto del menor las mismas facultades concedidas a los ascendientes en el artículo 396.
+El tutor tiene respecto del menor las mismas facultades concedidas a los ascendientes en los artículos 396 y 398 de este Código.
 
 ###### Artículo 595.
 
@@ -6197,7 +6241,7 @@ La venta de bienes indivisos pertenecientes a mayores y menores de edad, se har�
 
 ### Capítulo X. De la adopción
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 1077.
 
@@ -6341,7 +6385,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE JULIO DE 2008.
 
@@ -6378,3 +6422,13 @@ SEGUNDO. Los procedimientos que hasta la entrada en vigor del presente Decreto s
 P.O. 28 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y administrativas que se opongan a la literalidad del presente Decreto Legislativo.
