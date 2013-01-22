@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2012-09-06"
+last_updated: "2013-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -514,6 +514,30 @@ V. Capacitar a los prestadores de servicios de salud de los sectores público, s
 VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama y el uso de la cartilla nacional de salud de la mujer; y,
 
 VII. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2013)</small>
+
+ARTÍCULO 31 BIS. A fin de prevenir y atender integralmente la obesidad, el sobrepeso, el síndrome metabólico, la desnutrición y los trastornos de la conducta alimentaria, así como promover la adopción de hábitos de alimentación y actividad física correctos, la Secretaría desarrollará, entre otras, las siguientes acciones:
+
+I. Planear, diseñar, elaborar, ejecutar, supervisar y evaluar un programa para la prevención, combate y atención de la obesidad, sobrepeso, síndrome metabólico, desnutrición y trastornos de la conducta alimentaria, priorizando en él las medidas dirigidas a niñas, niños, adolescentes y mujeres gestantes, poniendo especial atención a las necesidades de los grupos socioeconómicos más vulnerables, en coherencia con las recomendaciones de los organismos internacionales;
+
+II. Promover y coordinar, con las autoridades municipales, la implementación de este tipo de programas a nivel municipal de acuerdo a su capacidad financiera;
+
+III. Garantizar la suficiencia y disponibilidad de servicios gratuitos de salud para la prevención, atención y tratamiento de la obesidad, sobrepeso, síndrome metabólico, desnutrición y trastornos de la conducta alimentaria;
+
+IV. Elaborar una guía para la población en general y, de manera particular, para los padres y madres, donde se incluya de forma didáctica información básica sobre el sobrepeso, la obesidad, la desnutrición y los trastornos de la conducta alimentaria, la forma de detectarlas, el perfil de las personas que las padecen y los hábitos que pueden adoptarse en el ámbito familiar, así como información respecto a los lugares a donde acudir a recibir orientación, atención médica preventiva y promoción de la salud;
+
+V. Elaborar, en coordinación con la Comisión Estatal de Cultura Física y Deporte, una guía de rutinas de activación física que permitan modificar hábitos de sedentarismo en el hogar, la escuela y el trabajo, en los sectores público y privado;
+
+VI. Realizar investigaciones sobre agentes causales, diagnóstico y tratamiento de las enfermedades vinculadas, patologías derivadas, asistencia integral y rehabilitación, así como de medidas tendientes a evitar su propagación;
+
+VII. Generar y difundir bases de datos, desagregadas por grupos de edad, sexo, ubicación geográfica y nivel socioeconómico, que registren la incidencia de obesidad, sobrepeso, síndrome metabólico, desnutrición y trastornos de la conducta alimentaria en la población, indicando peso, talla y masa corporal, poniendo especial atención en niños, niñas, adolescentes, adultos mayores y grupos vulnerables;
+
+VIII. Implementar una estrategia para fomentar una alimentación saludable y promover la práctica de actividad física, en coordinación con las entidades y dependencias de la administración pública estatal, los poderes Legislativo y Judicial del Estado y los municipios, así como con la participación de los sectores social y privado;
+
+IX. Realizar acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional o social, motivadas por el sobrepeso, obesidad, desnutrición y los trastornos de la conducta alimentaria; y,
+
+X. Desarrollar actividades de difusión, a través de los diferentes medios masivos de comunicación; dirigidas a la población en general y a grupos de riesgo en particular, a fin de concientizar sobre los riesgos en la salud que ocasionan las dietas sin control médico y de instruir a la población sobre hábitos alimentarios y físicos saludables y adecuados a cada etapa de crecimiento.
 
 ###### ARTÍCULO 32.
 
@@ -2022,6 +2046,16 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, emitir
 Notifíquese al Titular del Poder Ejecutivo y a los Titulares de la Secretaría de Salud y de la Secretaría de Educación.
 
 P.O. 6 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
+
+P.O. 22 DE ENERO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
