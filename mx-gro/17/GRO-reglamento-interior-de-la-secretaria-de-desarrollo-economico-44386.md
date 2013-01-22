@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-desarrollo-economico-44
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2005-03-04"
+last_updated: "2013-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 4 de marzo de 2005.
 
@@ -458,3 +460,15 @@ El Secretario de Desarrollo Económico.
 C. LIC. JUAN SALGADO TENORIO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2013.
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Gobierno del Estado número 19 de fecha 4 de marzo de 2005.
+
+Tercero. En tanto se expida el Manual de Organización de la Secretaría de Desarrollo Económico, el titular de la misma, queda facultado para resolver las cuestiones de operación que se originen por la aplicación del presente Reglamento Interior.
+
+Cuarto. En caso de suscitarse cambios de adscripción de algunos servidores públicos dentro de la Secretaría de Desarrollo Económico, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de una nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la Secretaría, quedan garantizados los derechos laborales de los trabajadores de la misma.
