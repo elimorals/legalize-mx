@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-12-12"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -761,11 +761,9 @@ VIII. Designar, a propuesta de su presidente, al secretario técnico de la Comis
 
 IX. Nombrar al personal subalterno que fije el presupuesto;
 
-X. Determinar las políticas y criterios inherentes a la organización, funcionamiento y desarrollo del Archivo General del Consejo;
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 23 DE ENERO DE 2013, SE DEROGAN LAS FRACCIONES X Y XI DEL ARTÍCULO 50 RECORRIENDO LA NUMERACIÓN PARA QUE LA FRACCIÓN XII PASE A SER LA ACTUAL X.</small>
 
-XI. Las que en materia de transparencia y acceso a la información pública gubernamental le correspondan; y
-
-XII. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
+X. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
 Sección 9a.
 
@@ -2799,43 +2797,67 @@ XVI. Las demás que establezcan el Pleno, y las comisiones.
 
 ### Capítulo VIII. Del Archivo General del Consejo
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 139.
 
-El Archivo General del Consejo es la unidad encargada de desarrollar e implementar el sistema de administración de documentación de las áreas administrativas, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de sus documentos para archivo.
+El Archivo General del Consejo es el Area Coordinadora de Archivos, encargada de desarrollar e implementar el sistema institucional de archivos, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
 
 ###### Artículo 140.
 
 El titular del Archivo General del Consejo tendrá a su cargo las siguientes atribuciones:
 
-I. Proponer las normas, políticas y directrices para la operación del sistema de administración documental, así como para la organización de los archivos de las áreas administrativas;
+I. Elaborar y someter a consideración de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, aquellos procedimientos y métodos necesarios para el adecuado funcionamiento del Sistema Institucional de Archivos, así como el Plan Anual de Desarrollo Archivístico de los archivos bajo administración del Consejo;
 
-II. Establecer sistemas de clasificación, conservación y difusión documental, considerando los estándares nacionales e internacionales de calidad y de mejora continua de los procesos de trabajo, de conformidad con los criterios, políticas y lineamientos que en materia de transparencia y acceso a la información establezcan las unidades administrativas competentes del Consejo;
+II. Proponer a la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales las normas, criterios y lineamientos archivísticos para la organización y conservación de los archivos bajo la administración del Consejo; así como de los expedientes que contengan información y documentación clasificada como reservada o confidencial, a fin de asegurar su integridad según las disposiciones aplicables;
 
-III. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman sus archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
+III. Participar en la elaboración de las propuestas normativas de los archivos bajo la administración del Consejo;
 
-IV. Incorporar en sus acervos, los documentos que posean interés histórico para la institución y promover su difusión;
+IV. Formar parte del Comité de Acceso a la Información y Protección de Datos Personales con voz y voto, en aquellos casos relacionados con la materia archivística;
 
-V. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos administrativos;
+V. Proporcionar capacitación archivística de conformidad con el programa que para tal efecto apruebe la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, así como asesorar en los asuntos de su competencia a los órganos jurisdiccionales y áreas administrativas del Consejo;
 
-VI. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
+VI. Promover el uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
 
-VII. Proponer las políticas para reunir, organizar y difundir el acervo documental gráfico, bibliográfico y hemerográfico necesario para apoyar el desarrollo archivístico y la investigación histórica del Consejo;
+VII. En coordinación con la Dirección General de Tecnologías de la Información, determinar los métodos para la conservación de los documentos de archivo en formato electrónico;
 
-VIII. Proporcionar capacitación técnica en la organización de archivos, sistemas y métodos para el control de documentos, así como asesorar en los asuntos de su competencia a los órganos jurisdiccionales y áreas administrativas;
+VIII. Elaborar y someter a consideración de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, los contenidos y actualizaciones del Manual Institucional de Archivo;
 
-IX. Expedir, de conformidad con las disposiciones aplicables, constancia de la existencia de los documentos que obren en sus acervos, así como remitir los expedientes administrativos que requieran los titulares de las áreas administrativas. La facultad de expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar conforme a lo previsto en la fracción XIV del artículo 53 de este Acuerdo;
+IX. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman sus archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
 
-X. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
+X. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos históricos;
 
-XI. Rendir informe sobre el estado que guarda su funcionamiento, con la periodicidad que determine la Comisión de Vigilancia, Información y Evaluación;
+XI. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
 
-XII. Informar a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
+XII. Determinar, en coordinación con las áreas responsables del diseño, mantenimiento y conservación de los archivos bajo administración del Consejo, los espacios físicos y condiciones requeridas para su guarda;
 
-XIII. Las demás que establezcan el Pleno, y las comisiones.
+XIII. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia archivística de acuerdo a las atribuciones y funciones señaladas en el presente acuerdo y a la normativa aplicable;
+
+XIV. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
+
+XV. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
+
+XVI. Participar en la elaboración y revisión de los Sistemas de Manejo Ambiental al que se refiere el artículo 17 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en el tema de la racionalidad y sustentabilidad de los archivos institucionales;
+
+XVII. Elaborar los perfiles de puesto del personal adscrito al Archivo General;
+
+XVIII. Proponer, en coordinación con las áreas competentes, los mecanismos de evaluación de los archivos bajo administración del Consejo;
+
+XIX. Rendir informe sobre el estado que guarda el Archivo General, con la periodicidad que determine la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales;
+
+XX. Informar anualmente a los titulares de áreas administrativas de los avances alcanzados en materia archivística;
+
+XXI. Informar a la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
+
+XXII. Las demás que establezcan el Pleno y la Comisión.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
 
 ###### Artículo 141.
 
-El Archivo General del Consejo estará a cargo de un Jefe de Unidad que será designado por el Pleno, a propuesta de la Comisión de Vigilancia, Información y Evaluación.
+El titular de la unidad de Archivo General será nombrado por el Pleno a propuesta de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales.
 
 Las áreas administrativas, brindarán el apoyo que sea requerido por el Archivo General del Consejo, para el cumplimiento de las atribuciones que le sean conferidas.
 
@@ -3574,3 +3596,11 @@ Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el
 ###### ARTICULO TERCERO.
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 23 DE ENERO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
