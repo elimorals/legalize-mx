@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-6646"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-14"
-last_updated: "2000-09-13"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Morelos, el miércoles 14 de febrero de 1990.
 
@@ -63,19 +63,19 @@ LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
-###### ARTICULO 1º.
+###### ARTICULO 1°.
 
-En el Estado de Morelos, toda persona tiene derecho a impugnar los actos y resoluciones, de carácter Administrativo o fiscal, emanados de dependencias del poder ejecutivo del Estado o de los ayuntamientos, que afecten sus derechos e intereses legítimos, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y por esta Ley. También podrán impugnar los actos y resoluciones de carácter fiscal producidos por los organismos descentralizados estatales o municipales.
+En el Estado de Morelos, toda persona tiene derecho a impugnar los actos y resoluciones, de carácter administrativo o fiscal, emanados de dependencias del Poder Ejecutivo del Estado, de su administración centralizada y paraestatal, así como de actos y resoluciones de empresas de participación estatal y municipal, cuando estas realicen funciones administrativas de autoridad, o de los ayuntamientos, que afecten sus derechos e intereses legítimos, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y los Tratados Internacionales y por esta Ley. También podrán impugnar los actos y resoluciones de carácter fiscal producidos por los organismos descentralizados Estatales o Municipales.
 
-Los servidores públicos al propio tiempo que deben realizar sus funciones bajo el orden jurídico establecido, sujetarán sus actos y resoluciones a lo ordenado por la norma específica, procurando observar estrictamente, desde el ejercicio de la competencia atribuida, la aplicación congruente de los preceptos substantivos, hasta el cumplimiento de las formalidades esenciales del procedimiento.
+Los servidores públicos al propio tiempo que deben realizar sus funciones bajo el orden jurídico establecido, sujetarán sus actos y resoluciones en respeto a los Derechos Humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales, así como la particular del Estado de Morelos a lo ordenado por la norma específica, procurando observar estrictamente, desde el ejercicio de la competencia atribuida, la aplicación congruente de los preceptos substantivos, hasta el cumplimiento de las formalidades esenciales del procedimiento.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
-###### ARTICULO 2º.
+###### ARTICULO 2°.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Morelos, cuenta con las facultades, competencia y organización que establece la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y esta Ley, para revisar la legalidad de los actos y resoluciones de la administración pública estatal y de los Ayuntamientos de la Entidad, para lo cual estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+El Tribunal de lo Contencioso Administrativo del Estado de Morelos, cuenta con las facultades, competencia y organización que establece la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y esta Ley, para revisar la legalidad de los actos y resoluciones de la administración pública estatal y de los Ayuntamientos de la Entidad, para lo cual estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones, acorde a los principios de legalidad, objetividad, buena fe, transparencia, y pro personaestablecidos (sic) en la Constitución Política de los Estados Unidos Mexicanos, el Tribunal adoptará el método de interpretación jurídica más acorde al caso concreto.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
@@ -103,7 +103,7 @@ Para la atención de los asuntos de su competencia el Tribunal de lo Contencioso
 
 Los magistrados del Tribunal de lo Contencioso Administrativo serán designados por el Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política del Congreso del Estado, durarán seis años en su encargo y adquirirán inamovilidad en los términos previstos por la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7º.
 
@@ -123,7 +123,7 @@ V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 Durante el ejercicio de su encargo, los Magistrados, Secretario de Acuerdos y Actuarios del Tribunal y de las salas, no podrán desempeñar otro puesto o empleo público o privado, ni ejercer la Abogacia sino en causa propia. El incumplimiento de esta disposición será causa de separación de su encargo.
 
-Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos en asociaciones de carácter cultural o de beneficiencia, (sic) cuyo desempeño no perjudique las funciones propias del tribunal o de las salas.
+Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos en asociaciones de carácter cultural o de beneficiencia (sic), cuyo desempeño no perjudique las funciones propias del tribunal o de las salas.
 
 ###### ARTICULO 9°.
 
@@ -169,7 +169,7 @@ La residencia del Tribunal será la Ciudad de Cuernavaca, en el recinto del Pode
 
 El Presidente del Tribunal será suplido, en sus faltas temporales que no excedan de dos meses, por el magistrado adscrito a la sala que le siga en número; cuando la falta exceda de dicho término, la Presidencia del Tribunal la asumirá el Magistrado al que no le corresponda el período inmediato, quien concluirá el período si fuere el caso. Concluido este, se continuará con el orden de rotación correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 16.
 
@@ -221,7 +221,7 @@ Las sesiones del tribunal serán públicas y se efectuarán una vez por semana e
 
 Las resoluciones del pleno se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar a menos que exista algún impedimento legal. El magistrado que difiera de la opinión de la mayoría, podrá formular voto particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 20.
 
@@ -275,7 +275,7 @@ XV.- Las demás que determinen las leyes.
 
 El Tribunal de lo Contencioso Administrativo funcionará por medio de salas unitarias, las que tendrán la residencia y jurisdicción que le señala esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 22.
 
@@ -293,7 +293,7 @@ III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 Las Salas del Tribunal conocerán de los asuntos que les sean turnados por el secretario general de acuerdos, de conformidad al orden de presentación de las demandas, substanciando el procedimiento de acuerdo con esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 24.
 
@@ -351,7 +351,7 @@ VII.- El personal administrativo que las necesidades del servicio requiera y que
 
 VIII.- El personal supernumerario e interino que exiga (sic) el buen despacho de los asuntos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 26.
 
@@ -463,7 +463,7 @@ I.- De los juicios que se promuevan en contra de cualquier acto o resolución de
 
 II.- De los juicios que se promuevan en contra de cualquier acto o resolución de carácter fiscal, producido por un organismo descentralizado, Estatal o Municipal, en agravio de los particulares;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 III.- De los juicios que se promuevan contra la falta de contestación de las autoridades mencionadas en las dos fracciones anteriores, dentro de un término de 15 días a las promociones presentadas ante ellas por los particulares, a menos que las Leyes y Reglamentos fijen otros plazos o la naturaleza del asunto que lo requiera;
 
@@ -657,7 +657,7 @@ La Personalidad y Legitimación de las partes, deberá ser analizada de oficio p
 
 Toda resolución deberá ser notificada dentro de los tres días siguientes al de su pronunciación asentándose la razón que corresponda en el expediente respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 64.
 
@@ -725,7 +725,7 @@ Si se declarase procedente la nulidad de la notificación, los magistrados podr�
 
 Son días hábiles para la promoción substanciación y resolución de los juicios Contencioso Administrativos, todos los días del año, excepto los sábados y domingos, el primero de enero, el cinco de febrero, el diez de abril, el primero y cinco de mayo, el dieciséis y treinta de septiembre, el veinte de noviembre, el primero de diciembre de cada seis años, cuando tome posesión de su cargo el titular del Poder Ejecutivo Federal, el veinticinco de diciembre y aquellos días en que el tribunal suspenda las labores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 73.
 
@@ -767,7 +767,7 @@ XIII.- Cuando hayan cesado los efectos del acto impugnado o este no pueda surtir
 
 XIV.- Cuando de las constancias de autos se desprende claramente que el acto reclamado es inexistente;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 XV.- En contra de los actos o resoluciones de las dependencias que no constituyan en sí mismos, actos de autoridad;
 
@@ -793,11 +793,11 @@ IV.- Si la autoridad demandada deja sin efecto el acto impugnado; y
 
 V.- Por inactividad procesal o falta de promoción del demandante durante el término de ciento ochenta días naturales.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 ### CAPITULO VII. DE LA DEMANDA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 77.
 
@@ -1165,7 +1165,7 @@ Cuando se decrete la nulidad de una resolución fiscal favorable a un particular
 
 Una vez notificada la sentencia, la autoridad demandada deberá darle cumplimiento en la forma y términos previstos en la propia resolución, haciéndolo saber a la sala regional correspondiente dentro de un término no mayor de diez días. Si dentro de dicho plazo la autoridad no cumpliese con la sentencia, la sala, a petición de parte, le requerirá para que dentro del término de veinticuatro horas cumplimente el fallo, apercibiéndole con la aplicación de las medidas de apremio prevista por esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 125.
 
@@ -1251,7 +1251,7 @@ No se concederá la suspensión si se causa evidente perjuicio al interés socia
 
 La sala podrá modificar o revocar el acuerdo en que hayan concedido o negado la suspensión, cuando ocurra un hecho superveniente que le sirva de fundamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 139.
 
@@ -1279,7 +1279,7 @@ Tan pronto como se conceda la suspensión y se otorgue las garantías correspond
 
 La violación por parte de las autoridades a la suspensión concedida por la sala, será recurrible en queja, la cual se tramitará en los términos previstos por los artículos 129, 130 y 131 de este ordenamiento.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 Al cumplimiento de la suspensión otorgada por la sala se encuentran obligadas todas las autoridades que intervengan en el acto reclamado, con cualquier carácter, aún cuando no se encuentren demandadas.
 
@@ -1291,7 +1291,7 @@ En los casos en que la suspensión pueda causar daños o perjuicios o ambos a te
 
 Cuando los daños o perjuicios que puedan ocasionarse a terceros no sean estimables en dinero, el tribunal fijará discrecionalmente el importe de la garantía.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 ###### ARTICULO 143.
 
@@ -1337,7 +1337,7 @@ II.- Cuando se impugnen actos que sean unos antecedentes de los otros o consecue
 
 La acumulación procederá de oficio o a petición de parte y podrá plantearse hasta antes de la celebración de la audiencia.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 ###### ARTICULO 150.
 
@@ -1373,7 +1373,7 @@ V.- Las nulidades promovidas por parte interesada, se substanciarán mediante es
 
 ## TITULO VII. DEL AUXILIO DEL TRIBUNAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 154.
 
@@ -1475,7 +1475,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Alfredo de la Torre y Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE JULIO DE 1996.
 
@@ -1496,3 +1496,17 @@ SEGUNDO.- El Pleno del Tribunal de lo Contencioso Administrativo procederá a ll
 TERCERO.- Expídase un nuevo reglamento interior acorde a las Reformas Constitucionales y de la Ley de Justicia Administrativa, dentro de los treinta días siguientes al inicio de la vigencia de la Ley de la materia.
 
 CUARTO.- Iniciada la vigencia a que se refiere el Artículo Primero Transitorio del presente Decreto, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO
+
+Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+###### ARTÍCULO TERCERO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
