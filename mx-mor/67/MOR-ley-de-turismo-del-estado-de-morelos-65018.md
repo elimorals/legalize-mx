@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2010-10-27"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -99,7 +99,9 @@ VIII. Orientar, informar, y auxiliar a los turistas;
 
 IX. Establecer mecanismos necesarios para la creación, conservación, preservación, mejoramiento, protección, y aprovechamiento de los recursos atractivos y patrimonio turísticos del Estado;
 
-X. Garantizar a los grupos sociales vulnerables la igualdad de oportunidades en los programas del sector turístico;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+X. Garantizar a los grupos sociales vulnerables la igualdad de trato, servicios y oportunidades en los programas del sector turístico;
 
 XI. Establecer las medidas pertinentes para lograr que el Gobierno del Estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico;
 
@@ -111,11 +113,11 @@ XIV. La emisión de políticas y estrategias para la formulación de los program
 
 XV. La colaboración con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos y demás sitios de atractivo turístico, con el objeto de impulsar y fomentar su aprovechamiento turístico;
 
-XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y
+XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y (sic)
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XVII. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+XVII. Otorgar a las personas con discapacidad, el acceso a la infraestructura apropiada para el uso y disfrute de las actividades turísticas, así como su participación plena dentro de los programas de turismo accesible;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -231,7 +233,9 @@ VII. Implementar y mejorar las medidas de seguridad e higiene en los establecimi
 
 VIII. Proporcionar al turista los bienes o servicios ofrecidos en los términos acordados, excepto en casos fortuitos, de fuerza mayor o cuando el turista incumpla con el pago del servicio contratado y/o contravenga los reglamentos internos de los prestadores de servicios, avalados por las Normas Oficiales Mexicanas;
 
-IX. Deberán en la medida de sus posibilidades, contar con las instalaciones necesarias que permitan y faciliten el acceso y desplazamiento a las personas con capacidad diferente y adultos mayores;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+IX. Deberán contar con las instalaciones necesarias y adecuadas que permitan y faciliten el acceso y desplazamiento a las personas con discapacidad y adultos mayores;
 
 X. Inscribirse en el Registro Estatal de Turismo;
 
@@ -409,13 +413,25 @@ III. Contener un diagnóstico y un pronóstico de la situación del turismo en l
 
 IV. Fomentar el desarrollo de aquellas regiones que sean atractivas para la inversión turística;
 
-V. Contener un registro de las zonas de desarrollo prioritarias, para su conservación y desarrollo;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VI. Considerar las necesidades y expectativas de la región a desarrollar, así como las disposiciones en materia ecológica y para la protección del patrimonio turístico;
+V. Fomentar el desarrollo en la infraestructura de los lugares turísticos con las adecuaciones necesarias para personas con discapacidad.
 
-VII. Investigar y analizar la oferta y la demanda de los servicios turísticos y sus líneas de acción, con la finalidad de atraer mayores inversiones turísticas que promuevan el crecimiento de este sector; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VIII. Promover la integración y desarrollo de productos turísticos y atención a segmentos prioritarios.
+VI. Contener un registro de las zonas de desarrollo prioritarias, para su conservación y desarrollo;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VII. Considerar las necesidades y expectativas de la región a desarrollar, así como las disposiciones en materia ecológica y para la protección del patrimonio turístico;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VIII. Investigar y analizar la oferta y la demanda de los servicios turísticos y sus líneas de acción, con la finalidad de atraer mayores inversiones turísticas que promuevan el crecimiento de este sector; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+IX. Promover la integración y desarrollo de productos turísticos y atención a segmentos prioritarios
 
 ###### Artículo 25.
 
@@ -485,7 +501,9 @@ La Secretaría, promoverá ante las dependencias respectivas y el Gobierno Feder
 
 De la misma forma, gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en:
 
-I. Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la infraestructura o servicios turísticos;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+I. Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la infraestructura o servicios turísticos; considerando además las necesidades de las personas con discapacidad.
 
 II. Adquisición de equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas residuales o disposición final de residuos de cualquier tipo;
 
@@ -543,7 +561,9 @@ III. Establecer Consejos Municipales de Turismo, con la participación de los pr
 
 IV. Implementar medidas de simplificación administrativa y mejora regulatoria que faciliten la instalación y operación de empresas dedicadas a la prestación de servicios turísticos;
 
-V. Promover y coordinar las obras y servicios públicos, así como las medidas administrativas necesarias para procurar la adecuada atención y seguridad del turista y al propio desarrollo turístico de la comunidad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+V. Promover y coordinar las obras y servicios públicos, así como las medidas administrativas necesarias para procurar la adecuada atención y seguridad del turista y al propio desarrollo turístico de la comunidad; así como realizar las adecuaciones necesarias, para que las personas con discapacidad tengan acceso a todos los lugares turísticos.
 
 VI. Delimitar las zonas destinadas a los establecimientos que presten servicios turísticos, con base en los planes reguladores de uso de suelo;
 
@@ -788,3 +808,13 @@ Los prestadores de servicios turísticos contarán con un término de seis meses
 Artículo Tercero.- Remítase la presente al titular del Poder Ejecutivo Estatal para los efectos constitucionales y legales correspondientes.
 
 Artículo Cuarto.- El Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias relativas a la presente Ley, en un plazo de 90 días hábiles contados a partir del inicio de la vigencia del presente decreto, mientras tanto seguirán vigentes los ordenamientos aplicables, siempre y cuando no se opongan a lo establecido a la presente ley.
+
+P.O. 23 DE ENERO DE 2013.
+
+Artículo Primero.- El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+ARTÍCULO (sic) Segundo.- Aprobado el presente decreto remítase copia a la Secretaría de Turismo del Gobierno del Estado de Morelos para que de conformidad a lo establecido en la Ley haga las manifestaciones correspondientes.
+
+Artículo Tercero.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación.
+
+Artículo Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
