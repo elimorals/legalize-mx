@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-84-2008-del-pleno-del-consejo-de-la-64775"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64775&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-12-10"
 ---
 # ACUERDO GENERAL 84/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE LAS ATRIBUCIONES DE LOS ORGANOS EN MATERIA DE TRANSPARENCIA, ASI COMO LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES]
 
-ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS ATRIBUCIONES DE LOS ORGANOS EN MATERIA DE TRANSPARENCIA, ASI COMO LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES
+ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS ATRIBUCIONES DE LOS ÓRGANOS EN MATERIA DE TRANSPARENCIA, ASÍ COMO LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2013.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -123,13 +123,17 @@ IV. Aprobar los criterios sostenidos al resolver asuntos en materia de transpare
 
 V. Emitir las disposiciones de carácter general que se requieran para el exacto cumplimiento de la Ley, del Reglamento y del presente acuerdo;
 
-VI. Interpretar en el orden administrativo las disposiciones de la Ley, el Reglamento y las que de éstos emanen;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+
+VI. Interpretar en el orden administrativo las disposiciones de la Ley, el Reglamento y las que de éstos emanen; así como las relativas a la Ley Federal de Archivos y la normativa que de ella derive;
 
 VII. Establecer mecanismos que permitan dar orientación y asesoría a los solicitantes respecto de las peticiones de acceso a la información y datos de carácter personal;
 
 VIII. Revisar y aprobar el procedimiento y los formatos de las solicitudes de acceso a la información, así como los de acceso, rectificación, cancelación y oposición a la publicación de datos de carácter personal, que someta a su consideración el Comité;
 
-IX. Revisar, aprobar y expedir los criterios para la catalogación y conservación de los documentos, así como para la organización de archivos de las Unidades Administrativas y Organos Jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+
+IX. Revisar, aprobar y expedir los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos de las Unidades Administrativas y Organos Jurisdiccionales; los criterios específicos en materia de organización y conservación de archivos; así como el Plan Anual de Desarrollo Archivístico y el Manual Institucional de Archivos;
 
 X. Aprobar y expedir los lineamientos y políticas generales para la administración, seguridad y protección de los datos de carácter personal que estén en posesión de las Unidades Administrativas y los Organos Jurisdiccionales;
 
@@ -237,9 +241,11 @@ XII. Las demás que le confieran la Comisión y las disposiciones legales y regl
 
 El Comité es la instancia ejecutiva, encargada de instrumentar las medidas necesarias para coordinar las acciones tendentes a cumplir con la publicidad de la información, asegurar el ejercicio del derecho al acceso a la información y proteger los datos personales en posesión de las Unidades Administrativas y Organos Jurisdiccionales, conforme a lo dispuesto en la Ley, el Reglamento y a las demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 12.
 
-El Comité estará integrado por los Titulares de la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, quien lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y de la Unidad de Enlace, los que tendrán voz y voto en las resoluciones que se tomen.
+El Comité estará integrado por los Titulares de la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, quién lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y de la Unidad de Enlace, los que tendrán voz y voto en las resoluciones que se tomen. Igualmente, formará parte del Comité, con voz y voto, el titular de la Unidad de Archivo General, en aquéllos casos relacionados con la materia archivística.
 
 ###### Artículo 13.
 
@@ -249,9 +255,11 @@ El Comité sesionará en forma ordinaria de acuerdo a las cargas de trabajo y, e
 
 El Comité tomará sus decisiones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad. Para su funcionamiento, se auxiliará de un secretario técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Comité tendrá las siguientes atribuciones:
+El Comité tendrá a su cargo las siguientes atribuciones:
 
 I. Coordinar y supervisar las acciones de las Unidades Administrativas y los Organos Jurisdiccionales, para dar cumplimiento a lo dispuesto en la Ley, el Reglamento y los demás ordenamientos aplicables;
 
@@ -261,7 +269,9 @@ III. Comunicar, confirmar, modificar o revocar las determinaciones de las Unidad
 
 IV. Confirmar, modificar o revocar, a instancia de parte, las determinaciones de las Unidades Administrativas y Organos Jurisdiccionales en las que se niegue, total o parcialmente, el acceso a datos personales, su rectificación, cancelación o la oposición a su publicación;
 
-V. Elaborar programas que faciliten la obtención de información en posesión de las Unidades Administrativas y los Organos Jurisdiccionales y que incluyan las medidas necesarias para la organización de sus archivos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+
+V. Elaborar programas que faciliten la obtención de información en posesión de las Unidades Administrativas y los Organos Jurisdiccionales; así como definir los criterios y medidas necesarias para la organización, conservación y difusión de archivos, que someterá a aprobación de la Comisión;
 
 VI. Instruir los procedimientos de ejecución de las resoluciones de la Comisión;
 
@@ -1448,3 +1458,13 @@ SEGUNDO. Se abroga el Acuerdo General 30/2003, del Pleno del Consejo de la Judic
 TERCERO. Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 84/2008, del Pleno del Consejo de la Judicatura Federal, que Establece las Atribuciones de los Organos en Materia de Transparencia, así como los Procedimientos de Acceso a la Información Pública y Protección de Datos Personales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diez de diciembre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a once de diciembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE ENERO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General 84/2008, del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales.
