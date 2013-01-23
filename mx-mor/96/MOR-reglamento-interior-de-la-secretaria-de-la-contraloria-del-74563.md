@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-7456
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2012-06-13"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 21 de abril de 2010.
 
@@ -1134,3 +1134,19 @@ SEGUNDO. Las auditorías, revisiones y demás actuaciones y procedimientos que s
 TERCERO. Los Manuales de Organización y de Políticas y Procedimientos que en virtud del presente Decreto deben actualizarse, se modificarán en un plazo no mayor a ciento ochenta días hábiles, y en tanto sean actualizados, serán aplicables los que se encuentren vigentes.
 
 CUARTO. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2013
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de la Contraloría, publicado en el Periódico Oficial "Tierra y Libertad" número 4798, Segunda Sección, de fecha veintiuno de abril de dos mil diez.
+
+TERCERA. Las Auditorías, revisiones, procedimientos administrativos de responsabilidad y todas las actuaciones que se encuentren en trámite, así como las causales que le dieron origen deberán ajustarse a las reglas previstas por el Reglamento bajo el cual se generaron hasta su conclusión definitiva. Las resoluciones interlocutorias que deban dictarse bajo el Reglamento Interior que se abroga, serán suscritas además del Director General de Responsabilidades y Sanciones Administrativas, por el Subsecretario Jurídico y de Responsabilidades Administrativas, en sustitución del Director de Resoluciones y Determinaciones.
+
+CUARTA. Los Manuales de Organización, y de Políticas y Procedimientos que en virtud del presente Reglamento deban elaborarse o actualizarse, se modificarán en un plazo no mayor a ciento veinte días hábiles, y en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. Para estos efectos se atenderá, en los casos aplicables, a los lineamientos que fije la Secretaría de Administración.
+
+QUINTA. En lo relativo a los lineamientos que establezcan el procedimiento y requisitos para la tramitación de los oficios de habilitación, la Secretaría de la Contraloría contará con un plazo no mayor a noventa días hábiles para su emisión y publicación; en tanto, serán aplicables las disposiciones contenidas en el Reglamento Interior que se abroga en lo tocante a las constancias de no inhabilitación.
+
+SEXTA. Se abrogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
