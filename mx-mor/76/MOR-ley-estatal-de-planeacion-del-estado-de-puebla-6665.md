@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-planeacion-del-estado-de-puebla-6665"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-31"
-last_updated: "1997-09-10"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE PLANEACION, DEL ESTADO DE PUEBLA
 
-LEY ESTATAL DE PLANEACION
+LEY ESTATAL DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el día 31 de agosto de 1988.
 
@@ -85,13 +85,21 @@ II.- La preservación y el perfeccionamiento del régimen democrático, republic
 
 III.- El constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno;
 
-IV.- La igualdad de derechos, la atención de las necesidades básicas de la población, y la mejoría en todos los aspectos de la calidad de la vida, en cumplimiento del principio de justicia social, para lograr una sociedad más igualitaria;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+IV.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de lapoblación (sic), y la mejoría en todos los aspectos de la calidad de la vida, en cumplimiento del principio de justicia social, para lograr una sociedad más igualitaria;
 
 V.- El respeto irrestricto de las garantías individuales y de las libertades y derechos sociales y políticos;
 
 VI.- El fortalecimiento del Municipio libre para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional y estatal;
 
-VII.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VII.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica, social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2013)</small>
+
+VIII.- La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ###### ARTICULO 3o.
 
@@ -123,17 +131,21 @@ El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los Mun
 
 El Gobernador del Estado al enviar al Congreso del Estado las Iniciativas de Leyes de Ingresos y los Proyectos de Presupuesto de Egresos, informará sobre el contenido general de estos documentos y de su relación con los Programas Anuales, que conforme a lo previsto en el Artículo 33 de esta Ley, deberá elaborarse para la ejecución del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 10o.
 
-Los Secretarios de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta a éste del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de Política Económica y Social de acuerdo con dichos objetivos y prioridades.
+Los Secretarios de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta a éste del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de Política Económica y Social de acuerdo con dichos objetivos y prioridades, precisando el impacto específico y diferencial que generan en mujeres y hombres.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
 Los funcionarios a que alude el primer párrafo de este Artículo y los Directores de las entidades paraestatales, a través de los propios Secretarios, que sean citados por el Congreso para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiera entre el Proyecto de Ley o negocio de que se trate y los objetivos de la Planeación Estatal, relativo a la Dependencia o entidades a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 11o.
 
-Las dependencias de la Administración Pública Centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación de desarrollo.
+Las dependencias de la Administración Pública Centralizada deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación de desarrollo.
 
 Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Paraestatal, a este efecto, los titulares de las Secretarías proveerán lo conducente en el ejercicio de las atribuciones, que como coordinadores del Sector les confiere la Ley.
 
@@ -163,7 +175,9 @@ La Secretaría de Programación y Finanzas, con el apoyo de las dependencias y e
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
-II.- Integrar en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las Dependencias de la Administración Pública Estatal, de los Ayuntamientos, así como los planteamientos que se formulen por los grupos sociales interesados;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+II.- Integrar en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las Dependencias de la Administración Pública Estatal, de los Ayuntamientos, así como los planteamientos que se formulen por los grupos sociales interesados y la perspectiva de género;
 
 III.- Definir las políticas financieras, fiscales y crediticias del Plan Estatal de Desarrollo, estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
 
@@ -185,7 +199,13 @@ XI.- Considerar los efectos de la Política crediticia adoptada para el logro de
 
 XII.- Adecuar y diseñar un sistema de contabilidad congruente con los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven; para sistematizar programáticamente la contabilidad Estatal y Municipal;
 
-XIII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas Dependencias de la Administración Pública, los resultados de su ejecución y las operaciones en el uso del crédito público con el cumplimiento de los objetivos y prioridades del Plan y de los Programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y de formar, en su caso, el Plan y los Programas respectivos.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas Dependencias de la Administración Pública, los resultados de su ejecución y las operaciones en el uso del crédito público con el cumplimiento de los objetivos y prioridades del Plan y de los Programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y de formar, en su caso, el Plan y los Programas respectivos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2013)</small>
+
+XIV.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en mujeres y hombres.
 
 ###### ARTICULO 17o.
 
@@ -489,7 +509,7 @@ Lic. Alfredo de la Torre y Martínez
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 1997.
 
@@ -500,3 +520,11 @@ Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo Estat
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto
