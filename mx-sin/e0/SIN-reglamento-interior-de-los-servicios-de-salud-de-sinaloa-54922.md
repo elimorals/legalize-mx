@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-los-servicios-de-salud-de-sinaloa-54922"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-23"
-last_updated: "2007-03-23"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SINALOA, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 23 de marzo de 2007.
 
@@ -694,3 +696,17 @@ El Secretario de Salud
 Hector Ponce Ramos
 
 La presente hoja de firmas corresponde al Reglamento Interior de Servicios de Salud de Sinaloa.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2013.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de los Servicios de Salud de Sinaloa, de fecha 21 de Marzo de 2007, publicado en el Periódico Oficial "El Estado de Sinaloa", número 036, el día 23 del mismo mes y año, así como sus reformas y adiciones publicadas en este mismo medio.
+
+Artículo Tercero.- Los asuntos que se encuentran pendientes de resolución a la fecha en que entre en vigor el presente Reglamento, se turnarán a la Unidad Administrativa correspondiente, hasta concluir la tramitación de los mismos.
+
+Artículo Cuarto.- Los expedientes en trámite, así como sus archivos, de las unidades o áreas administrativas existentes antes de la entrada en vigor del presente Reglamento, pasarán a las nuevas unidades o áreas competentes.
+
+Artículo Quinto.- Cada director formulará dentro de un plazo de sesenta días naturales, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, que deberán ser sometidos a la consideración del Director General a efecto de que éste, a su vez, los someta a la aprobación de la Junta de Gobierno.
