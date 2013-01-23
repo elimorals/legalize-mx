@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-01-02"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2384,6 +2384,10 @@ b) Induzcan u obliguen que una persona ejerza la mendicidad;
 c) Encontrándose en estado de embriaguez o bajo el influjo de estupefacientes o que produzcan cualquier efecto similar, circulen o caminen en lugares públicos, causando escándalo o molestia a las personas;
 
 d) Manejen un vehículo automotor de combustión interna o eléctricos, motocicleta, motocicletas adaptadas, bicicleta, bicicletas adaptadas, bicimotos, triciclos, automotores, motonetas, remolques, semovientes cuando se utilicen como medio de transporte, vehículos agrícolas, de maquinaría pesada o para la construcción, en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica, u otras sustancias que causen efectos similares;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+En el caso exclusivo de la conducta a la que se refiere el inciso d) en el rubro de multa; ésta deberá ser sancionada de cincuenta a cien días de salario mínimo general vigente en el Municipio de Puebla.
 
 e) Ingieran bebidas alcohólicas o alguna otra que cause efectos similares en lugares públicos no autorizados para ello, o bien dentro de un vehículo automotor, mientras permanezcan en lugares públicos;
 
@@ -5153,21 +5157,29 @@ Ninguna persona podrá conducir vehículos por la vía pública, superior al gra
 
 Los agentes pueden detener la marcha de un vehículo cuando los conductores u operadores de vehículos presenten señas aparentes de circular bajo el influjo de cualquiera de estas sustancias.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
 
 ###### Artículo 350 Quáter.
 
-Cuando se realicen operativos de programas de control y preventivos de ingestión de alcohol o de narcóticos, se realizará lo siguiente:
+Cuando se ejecuten operativos de prevención que tengan por objeto evitar que haya conductores que manejen sus vehículos en estado de ebriedad o bajo los influjos de narcóticos o substancias psicotrópicas, se procederá de la siguiente manera:
 
-I. Los agentes indicarán la detención del vehículo;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-II. El presunto infractor procederá a bajar del vehículo;
+I. Los agentes de Tránsito indicarán la detención del vehículo;
 
-III. Una vez fuera del vehículo los conductores se someterán a las pruebas para la detección del grado de intoxicación, que establezca la Norma Oficial Mexicana que determina los diferentes periodos de intoxicación etílica que se instrumenten a través del Programa del Alcoholímetro que implemente el Ayuntamiento;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-IV. En el caso de que el conductor sobrepase el límite permitido de alcohol o narcóticos, será remitido al Juez Calificador y el vehículo será remitido al depósito vehicular; y
+II. Solicitarán al conductor que proceda a realizar las pruebas a que haya lugar;
 
-V. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+III. Una vez realizada la prueba y habiendo resultado positiva, se procederá a remitir al conductor al Juzgado Calificador a efecto de que se desahogue el procedimiento administrativo; y se determine la sanción correspondiente contemplada en el Capítulo 9 del presente Código.
+
+IV. (DEROGADA, P.O. 23 DE ENERO DE 2013)
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+V. El agente de Tránsito entregará un ejemplar del comprobante de los resultados de la prueba para la detección del grado de intoxicación al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
@@ -5747,7 +5759,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5857,13 +5869,13 @@ XII. Expedir y modificar los acuerdos, instructivos, circulares y demás disposi
 
 XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo autorizado;
+XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
+XV. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6189,7 +6201,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -6337,7 +6349,7 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 445.
 
-Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan
+Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -10219,7 +10231,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10439,9 +10451,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10449,7 +10461,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -24609,7 +24621,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -31309,7 +31321,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que redtiúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -35012,6 +35024,10 @@ SEGUNDO.- Los efectos de la reforma del primer párrafo de la fracción VI del a
 P.O. 2 DE ENERO DE 2013.
 
 ÚNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2013.
+
+ÚNICO.- El presente entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
