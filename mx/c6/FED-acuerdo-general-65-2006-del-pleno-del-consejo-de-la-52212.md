@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-65-2006-del-pleno-del-consejo-de-la-52212"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-14"
-last_updated: "2006-11-14"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52212&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-10-18"
 
 ACUERDO GENERAL 65/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS GENERALES PARA LA ORGANIZACION, CONSERVACION, CUSTODIA, GUARDA Y DESTINO FINAL DE LOS ARCHIVOS DE LAS UNIDADES ADMINISTRATIVAS Y ORGANOS AUXILIARES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 2/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ADMINISTRACIÓN DOCUMENTAL Y ARCHIVOS DE LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 23 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de noviembre de 2006.
 
@@ -446,3 +448,19 @@ SEXTO.- Las unidades administrativas y órganos auxiliares, programarán en coor
 SEPTIMO.- El Archivo General presentará para su aprobación a la Comisión de Vigilancia, Información y Evaluación del Consejo, en un término no mayor a veinte días hábiles contados a partir de la entrada en vigor del presente acuerdo, el Manual Institucional de Archivos del Consejo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 65/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos Generales para la Organización, Conservación, Custodia, Guarda y Destino Final de los Archivos de las Unidades Administrativas y Órganos Auxiliares, fue aprobado por el Pleno del propio Consejo, en sesión de dieciocho de octubre de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrara Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a dieciocho de octubre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE ENERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga el Acuerdo General 65/2006 del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la organización, conservación, custodia, guarda y destino final de los archivos de las áreas administrativas y órganos auxiliares, publicado en el Diario Oficial de la Federación el 14 de noviembre de 2006.
+
+CUARTO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+QUINTO. El titular del Archivo General presentará para autorización de la Comisión las actualizaciones al Manual Institucional de Archivos así como los reglamentos del Archivo Histórico y Centro de Documentación, en un periodo no mayor a 90 días hábiles contados a partir de la publicación del presente Acuerdo.
+
+SEXTO. Las áreas administrativas tendrán de plazo un año, contado a partir de la publicación del presente acuerdo, para llevar a cabo la organización, registro y transferencia primaria conforme a las disposiciones normativas.
