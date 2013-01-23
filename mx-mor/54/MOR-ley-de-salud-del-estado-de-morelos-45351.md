@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2011-12-14"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -845,7 +845,9 @@ En el ámbito de los servicios de salud reproductiva, quienes practiquen una est
 
 La atención a la salud reproductiva comprende las siguientes acciones:
 
-I.- Atención a la salud de la mujer, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+I.- Atención a la salud de la mujer, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo. El Sector Salud asume como prioridad la prevención, diagnóstico, tratamiento, control y vigilancia del cáncer de mama y cervicouterino.
 
 II.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
 
@@ -3430,3 +3432,9 @@ CUARTO.- Se derogan los artículos; 167, 170, 171, 172, 173 y 174 de la Ley de S
 QUINTO.- Se abroga la Ley de protección a la Salud de los no fumadores para el Estado de Morelos y su Reglamento.
 
 SEXTO.- El Ejecutivo Estatal dispondrá de 60 días a partir de la publicación de la presente, para publicar el Reglamento de la presente Ley.
+
+P.O. 23 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación y remítase al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial, órgano de difusión del Estado de Morelos.
