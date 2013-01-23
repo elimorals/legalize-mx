@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2010-03-10"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -105,9 +105,15 @@ f).- Los Organismos Auxiliares Municipales en los términos de las disposiciones
 
 g).- La Oficina del Cronista Municipal en los términos de las disposiciones de la Ley Orgánica Municipal del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
+
+A los Poderes, Instituciones, Dependencias, Organismos descentralizados, Empresas de participación estatal mayoritaria y Fideicomiso, los cuales deberán cumplir las disposiciones de esta Ley observando que la administración de los recursos públicos estatales se realice con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 3o.
 
-La programación, presupuestación y ejercicio del Gasto Público estatal y municipal se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipales de Desarrollo y en los programas que de éstos se deriven.
+La programación, presupuestación y ejercicio del Gasto Público estatal y municipal se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipales de Desarrollo y en los programas que de éstos se deriven atendiendo a los principios de equidad de género.
 
 Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias, podrán establecer los lineamientos que se requieran a efecto de ser congruentes, en sus sistemas administrativos y de control de gasto, con lo establecido por esta Ley.
 
@@ -122,6 +128,12 @@ Las facultades que la presente Ley concede a las Tesorerías Municipales no excl
 ###### ARTICULO 5o.
 
 Las dependencias del Ejecutivo del Estado y de los municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector conforme al acuerdo respectivo que dicte el Ejecutivo del Estado o los Ayuntamientos y con base en las políticas y programas sectoriales, institucionales y especiales establecidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
+
+Lo anterior atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
 
 Las disposiciones de las entidades mencionadas en el párrafo anterior, se presentarán a la Secretaría de Hacienda y a las tesorerías municipales, por conducto de la dependencia coordinadora del sector al que correspondan.
 
@@ -223,13 +235,17 @@ Todas las erogaciones deberán cubrirse siempre con los ingresos previstos, de m
 
 Para la formulación de los proyectos de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, las dependencias y entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las dependencias, directamente a la Secretaría de Hacienda o a las Tesorerías Municipales según el caso; las entidades lo harán, en su caso, por conducto de la dependencia coordinadora del sector correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
+
+Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
 
 La Secretaría de Finanzas y Planeación y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de junio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el cual se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente por las Dependencias y Entidades, tanto la Secretaría como las Tesorerías, elaborarán según su propio criterio, los mencionados proyectos.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
 
-Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los entregarán al Ejecutivo del Estado a más tardar el 1° de septiembre de cada año para que, conforme a los acuerdos, se ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado. Para el caso de que inicie una nueva Legislatura el término de presentación del anteproyecto de presupuesto del Poder Legislativo, será el 17 de septiembre.
+Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los entregarán al Ejecutivo del Estado a más tardar el 1º de septiembre de cada año para que, conforme a los acuerdos, se ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado. Para el caso de que inicie una nueva Legislatura el término de presentación del anteproyecto de Presupuesto del Poder Legislativo, será el 17 de septiembre.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -237,7 +253,9 @@ Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Pres
 
 La iniciativa de Presupuesto de Egresos del Gobierno del Estado de Morelos, que presente el titular del Ejecutivo Estatal a la legislatura local, así como el presupuesto de gasto público de los municipios, en el ámbito de sus respectivas competencias, deberá comprender:
 
-I.- Las condiciones económico-sociales que prevalezcan en su ámbito territorial, la situación financiera y hacendaria presente y su perspectiva; los programas en los que se considere la participación de los sectores privado y social; así como las estrategias a implementar y los propósitos a lograr con el gasto público.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+I.- Las condiciones económico-sociales que prevalezcan en su ámbito territorial, la situación financiera y hacendaria presente y su perspectiva; los programas en los que se considere la participación de los sectores privado y social; así como las estrategias a implementar y los propósitos a lograr con el gasto público, así como la información necesaria que fundamente y motive las actividades programadas, con base en los principios de equidad de género y lineamientos que señala el Plan Estatal de Desarrollo.
 
 II.- Los ingresos y los gastos realizados en el periodo transcurrido del ejercicio en curso.
 
@@ -343,9 +361,11 @@ La comprobación del Gasto Público se efectuará con la documentación original
 
 Una erogación se entenderá justificada, cuando exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros y exista la documentación que determine el compromiso u obligación de efectuar el pago por parte de la dependencia o entidad de que se trate.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### ARTICULO 28.
 
-El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberá invertirse cualquier tipo de aportación extraordinaria, incluyendo los subsidios que se otorguen a las entidades, instituciones Públicas o privadas y particulares, quienes proporcionarán a la Secretaría de Hacienda o a la Tesorería Municipal respectiva la información que se les solicite sobre la aplicación de los mismos.
+El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberá invertirse cualquier tipo de aportación extraordinaria, incluyendo los subsidios que se otorguen a las entidades, instituciones Públicas o privadas y particulares, quienes proporcionarán a la Secretaría de Hacienda o a la Tesorería Municipal respectiva la información que se les solicite sobre la aplicación de los mismos dando prioridad a aquéllos destinados a grupos poblacionales en situación de desventaja y a los que incorporen acciones afirmativas tendientes a construir la equidad de género.
 
 ###### ARTICULO 29.
 
@@ -371,13 +391,11 @@ La presupuestación y la clasificación del gasto derivado de contratos de colab
 
 Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+###### ARTÍCULO 32.
 
-###### ARTICULO 32.
-
-Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Hacienda o las Tesorerías Municipales, a los programas prioritarios y que requieran financiamiento, a la amortización o pago de la Deuda Pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.
+Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Hacienda o las Tesorerías Municipales, a los programas prioritarios y que requieran financiamiento; especialmente cuando se trate de acciones afirmativas orientadas a construir la equidad de género, a la amortización o pago de la Deuda Pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.” (sic)
 
 ###### ARTICULO 33.
 
@@ -658,3 +676,11 @@ Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, a
 Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
+
+P.O. 23 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto
