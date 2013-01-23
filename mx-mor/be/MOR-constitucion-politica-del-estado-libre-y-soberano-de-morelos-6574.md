@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-10-24"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -850,7 +850,7 @@ El Presidente del Congreso velará por el respeto debido al fuero constitucional
 
 ###### Artículo 37.
 
-Los Diputados que sin la licencia respectiva dejen de asistir hasta por el término de ocho sesiones consecutivas, no tendrán derecho de percibir las dietas correspondientes. Si la falta se prolongare por más tiempo sin justificarla, se llamará al suplente respectivo, quien deberá concurrir a las sesiones hasta la terminación del período en que ocurra la falta.
+Los Diputados que sin la licencia respectiva dejen de asistir hasta por el término de ocho sesiones consecutivas, no tendrán derecho de percibir las dietas correspondientes. Si la falta se prolongare por más tiempo sin justificarla, se llamará al suplente respectivo, quien deberá concurrir a las sesiones hasta la terminación del periodo en que ocurra la falta.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -1094,11 +1094,9 @@ XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al E
 
 XL.- Nombrar a los Consejeros propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, Consejero Presidente y Consejeros del Instituto Morelense de Información Pública y Estadística, Auditor Superior de Fiscalización y los Presidentes Municipales y Síndicos.
+XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador y Magistrados del Tribunal Superior de Justicia y Consejeros de la Judicatura.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1253,6 +1251,10 @@ IV.- A los Ayuntamientos.
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 V.- A los ciudadanos morelenses de conformidad con el artículo 19 bis de esta constitución.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+El Gobernador del Estado podrá presentar dos iniciativas preferentes el día de la apertura de cada período ordinario de sesiones o solicitar con este carácter dos que hubiera presentado en períodos anteriores que no tengan dictamen, cada iniciativa debe ser discutida y votada por el Pleno del Congreso en un plazo máximo de 40 días naturales. No tendrán carácter de preferentes las iniciativas de presupuesto, fiscal, electoral y reformas a la Constitución del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1540,7 +1542,7 @@ IV.- Nombrar, remover y conceder licencias a los servidores públicos, así como
 
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-V.- Como responsable de la administración pública y de la hacienda pública, cuidar de la legal recaudación e inversión de los caudales públicos.
+V.- Como responsable de la administración pública y de la hacienda pública. cuidar de la legal recaudación e inversión de los caudales públicos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2980,13 +2982,11 @@ Al Gobernador solo se le podrá exigir responsabilidad durante su cargo, mediant
 
 El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los diputados al Congreso del Estado, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura Estatal, por la comisión de delitos federales durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros, previo audiencia del acusado por sí, por su defensor, o por ambos, si ha lugar o no a la formación da causa.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -2995,6 +2995,14 @@ En caso negativo cesará todo procedimiento en contra del servidor público, sin
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
 (REFORMADO, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 20 DE AGOSTO DE 2003)
 
@@ -3100,7 +3108,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la Legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
-T R A N S I T O R I O S.
+T R A N S I T O R I O S .
 
 Artículo Primero.- Esta Constitución se publicará por bando solemne en la Capital del Estado y en las Cabeceras de los Municipios, el día veinte del mes de noviembre, y entrará en vigor inmediatamente.
 
@@ -4257,3 +4265,21 @@ SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente
 OCTAVO.- En tanto el Poder Ejecutivo, determina la nueva estructura orgánica, administrativa y funcional del Sistema Morelense de Radio y Televisión, que tendrá a su cargo, se continuará laborando con la estructura actual, a fin de prever que no se vean interrumpidas las labores de las diferentes estaciones y el canal de televisión con que cuenta dicho Sistema.
 
 NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente en la fracción III del artículo 85 y 88 de la Ley Orgánica para el Congreso del Estado de Morelos y que con esta reforma se deroga, terminará sus funciones el 31 de agosto de 2012, extinguiéndose dicho Comité.
+
+P.O. 23 DE ENERO DE 2013.
+
+DECRETO No. 268, POR EL QUE SE REFORMAN LA FRACCIÓN XLI DEL ARTÍCULO 40; EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTICULO 136, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+Artículo Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo. El presente decreto entrará en vigor a partir de que se haga la declaratoria.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que contravengan la presente reforma.
+
+P.O. 23 DE ENERO DE 2013.
+
+DECRETO No. 269, POR EL QUE SE ADICIONA UN PÁRRAFO ULTIMO AL ARTICULO 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+Artículo Primero.- Aprobado que sea el presente decreto, en términos de los numerales 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
+
+Artículo Segundo.- El presente decreto entrará en vigor a partir de que se haga la declaratoria.
