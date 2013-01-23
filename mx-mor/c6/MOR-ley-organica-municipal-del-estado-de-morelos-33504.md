@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-01-16"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -511,9 +511,9 @@ En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté 
 
 Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que incluirá la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013.)</small>
 
-I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la Instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
+I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente, en una proporción que no exceda el cincuenta por ciento para un mismo género. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2761,9 +2761,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
 
 ###### Artículo 191.
 
@@ -3032,6 +3032,20 @@ PRIMERO.- Remítase al Poder Ejecutivo para los efectos conducentes.
 SEGUNDO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 P.O. 16 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 23 DE ENERO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
