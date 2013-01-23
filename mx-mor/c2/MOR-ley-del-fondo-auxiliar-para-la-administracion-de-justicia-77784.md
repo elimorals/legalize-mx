@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-auxiliar-para-la-administracion-de-justicia-77784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS
 
-LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS
+LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY QUE REGULA EL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: ABROGADA.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Morelos, el viernes 31 de diciembre de 2010.
 
@@ -352,3 +354,27 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 4861 del 31 de diciembre de 2010. Asimismo, se derogan, todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En un término no mayor a los noventa días hábiles el Consejo, deberá expedir el Reglamento interno en tanto se expide el mismo, el Consejo queda facultado para expedir los acuerdos pertinentes.
+
+###### ARTÍCULO QUINTO.
+
+Entre tanto se elabora el Presupuesto de Egresos, el Consejo acordará lo conducente para la aplicación de los recursos del Fondo Auxiliar, sujetándose en todo caso a los principios de transparencia, rendición de cuentas, estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica y auditoría.
