@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2012-04-02"
+last_updated: "2013-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -223,9 +223,13 @@ En las faltas temporales el Diputado propietario que solicite la reincorporació
 
 Los diputados tendrán derecho a recibir por igual la dieta, así como las compensaciones y partidas para gastos que requieran para el desempeño de sus funciones legislativas y de gestión.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 18.
 
-Los Diputados tendrán la obligación de cumplir con las Comisiones, trabajos y demás tareas que el Pleno les encomiende.
+Los diputados tendrán la obligación de cumplir con las comisiones, trabajos y demás tareas que el pleno les encomiende, y podrán crear oficinas de enlace legislativo preferentemente con cabecera en sus Distritos respectivos.
+
+Para cumplir con lo establecido en el párrafo anterior, del presupuesto aprobado para la función legislativa se destinara una partida de gastos para cada diputado que así lo solicite, de acuerdo a los lineamientos que establezca la Comisión de Coordinación y Régimen Interno.
 
 ADICIONADO, P.O. 17 DE JUNIO DE 2011)
 
@@ -2460,3 +2464,7 @@ P.O. 28 DE SEPTIEMBRE DE 2011.
 P.O. 2 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2013.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
