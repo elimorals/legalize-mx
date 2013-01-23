@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2013-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
+LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -49,6 +49,10 @@ LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
 La presente Ley regirá en el Estado de Morelos, es de orden público e interés social y tiene por objeto normar las medidas y acciones que contribuyan al desarrollo integral de las personas con discapacidad, procurando, su bienestar físico y mental, así como la igualdad de oportunidades y equidad, a fin de facilitar su integración plena a la sociedad.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+Tiene por objeto reglamentar en lo conducente, al Artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos estableciendo las condiciones en las que el Estado deberá promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades.
+
 De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas necesarias para su ejercicio.
 
 ###### Artículo 2.
@@ -63,51 +67,99 @@ Para los efectos de esta Ley deberá entenderse por:
 
 I.- Secretaría.- Secretaría de Salud del Estado de Morelos;
 
-II.- El Sistema Estatal.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Morelos;
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
 
-III.- La Comisión Estatal.- La Comisión Estatal de Valoración de las Personas con Discapacidad la cual deberá crearse como una Comisión dependiente del Sistema Estatal para el Desarrollo Integral de la Familia;
+II.- Dependencias.- A la Secretaría de Cultura, Secretaría de Educación, Secretaría de Movilidad y Transporte, Secretaría del Trabajo y Secretaría de Turismo;
 
-IV.- Consejo.- Consejo Estatal para la Atención Integral de las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-V.- Lengua de señas.- Lengua de una comunidad de discapacitados auditivos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+III.- El Sistema Estatal.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Morelos;
 
-VI.- Organizaciones.- Todas aquellas organizaciones de la sociedad civil constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VII.- Sistema de escritura Braille.- Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los discapacitados visuales;
+IV.- La Comisión Estatal.- La Comisión Estatal de Valoración de las Personas con Discapacidad la cual deberá crearse como una Comisión dependiente del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VIII.- Persona con discapacidad.- Todo ser humano que tiene una carencia o disminución, congénita o adquirida de alguna aptitud o capacidad funcional, de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-IX.- Habilitación.- Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales, por tiempo determinado, que permitan a las personas con discapacidad congénita, desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
+V.- Consejo.- Consejo Estatal para la Atención Integral de las Personas con Discapacidad;
 
-X.- Rehabilitación.- Aplicación coordinada de un conjunto de medidas y acciones médicas, psicológicas, educativas, ocupacionales y de capacitación social, por tiempo determinado, que tengan como finalidad readaptar y reeducar a la persona con discapacidad adquirida, para que alcance la mayor proporción posible de recuperación funcional, a fin de ser independiente, a su familia y a la sociedad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XI.- Barreras arquitectónicas.- Aquellos elementos de construcción que entorpecen o impiden el libre desplazamiento o el uso de servicios e instalaciones a personas con discapacidad;
+VI.- Lengua de señas.- Lengua de una comunidad de discapacitados auditivos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
-XII.- Prevención.- La adopción de las medidas necesarias tendientes a impedir que se produzcan deficiencias físicas y mentales;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XIII.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+VII.- Organizaciones.- Todas aquellas organizaciones de la sociedad civil constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-XIV.- Ayudas técnicas.- Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XV.- Estenografía Proyectada.- Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales o en sistema de escritura Braille;
+VIII.- Sistema de escritura Braille.- Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los discapacitados visuales;
 
-XVI.- Equiparación de oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad, una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XVII.- Comunidad de discapacitados auditivos.- Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
+IX.- Persona con discapacidad.- Todo ser humano que tiene una carencia o disminución, congénita o adquirida de alguna aptitud o capacidad funcional, de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
 
-XVIII.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XIX.- Estimulación Temprana.- Atención brindada al niño de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración; y
+X.- Habilitación.- Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales, por tiempo determinado, que permitan a las personas con discapacidad congénita, desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
 
-XX.- Trabajo Protegido.- Aquél que realizan las personas con discapacidad mental o de cualquier otro tipo y que no pueden ser incorporadas al trabajo común por no alcanzar a cubrir los requerimientos de productividad.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XXI.- Discriminación.- El término “Discriminación contra las personas con discapacidad” significa toda distinción, exclusión o restricción basada en una discapacidad, antecedente de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales; no constituye discriminación la distinción o preferencia adoptada por el estado a fin de promover la integración social o el desarrollo personal de las personas con discapacidad, siempre que la distinción o preferencia no limite en sí misma el derecho a la igualdad de las personas con discapacidad y que los individuos con discapacidad no se vean obligados a aceptar tal distinción o preferencia. La declaratoria de interdicción, cuando sea necesaria y apropiada para su bienestar, no constituirá discriminación.
+XI.- Rehabilitación.- Aplicación coordinada de un conjunto de medidas y acciones médicas, psicológicas, educativas, ocupacionales y de capacitación social, por tiempo determinado, que tengan como finalidad readaptar y reeducar a la persona con discapacidad adquirida, para que alcance la mayor proporción posible de recuperación funcional, a fin de ser independiente, a su familia y a la sociedad;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XII.- Barreras arquitectónicas.- Aquellos elementos de construcción que entorpecen o impiden el libre desplazamiento o el uso de servicios e instalaciones a personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIII.- Prevención.- La adopción de las medidas necesarias tendientes a impedir que se produzcan deficiencias físicas y mentales;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIV.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XV.- Ayudas técnicas.- Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XVI.- Estenografía Proyectada.- Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales o en sistema de escritura Braille;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XVII.- Equiparación de oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad, una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XVIII.- Comunidad de discapacitados auditivos.- Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIX.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XX.- Estimulación Temprana.- Atención brindada al niño de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XXI.- Trabajo Protegido.- Aquel que realizan las personas con discapacidad mental o de cualquier otro tipo y que no pueden ser incorporadas al trabajo común por no alcanzar a cubrir los requerimientos de productividad; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XXII.- Discriminación.- El término “Discriminación contra las personas con discapacidad” significa toda distinción, exclusión o restricción basada en una discapacidad, antecedente de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales; no constituye discriminación la distinción o preferencia adoptada por el estado a fin de promover la integración social o el desarrollo personal de las personas con discapacidad, siempre que la distinción o preferencia no limite en sí misma el derecho a la igualdad de las personas con discapacidad y que los individuos con discapacidad no se vean obligados a aceptar tal distinción o preferencia. La declaratoria de interdicción, cuando sea necesaria y apropiada para su bienestar, no constituirá discriminación.
 
 ### CAPÍTULO III. De la Competencia
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 4.
 
-Corresponde al Ejecutivo del Estado a través de sus dependencias y entidades y a los Ayuntamientos la aplicación de esta ley, en el ámbito de sus respectivas competencias. Las dependencias y entidades estatales y municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
+Corresponde al Ejecutivo del Estado a través de sus dependencias y entidades y a los Ayuntamientos la aplicación de esta Ley, en el ámbito de sus respectivas competencias; así mismo las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad, deberán sujetarse a la presente Ley.
+
+Las dependencias y entidades estatales y Municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
 
 ###### Artículo 5.
 
@@ -161,15 +213,43 @@ b) La justicia social,
 
 c) La equiparación de oportunidades,
 
-d) El reconocimiento de las diferencias,
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
+d) El reconocimiento y el respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humana,
 
 e) La dignidad,
 
 f) La integración,
 
-g) El respeto y
+g) El respeto y (sic)
 
-h) La accesibilidad.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
+h) La accesibilidad,
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+i) El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad,
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+j) La participación e inclusión plena y efectiva en la sociedad,
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+k) La no discriminación,
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+l) La igualdad entre mujeres y hombres con discapacidad,
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+m) La transversalidad, y
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+
+n) Las demás que resulten aplicables.
 
 ###### Artículo 10.
 
@@ -217,15 +297,21 @@ III.- Como vocales fungirán, el titular o servidor público que éste designe, 
 
 a) Secretaría de Educación;
 
-b) Subsecretaria de Trabajo y Previsión Social;
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
+b) Secretaría del Trabajo
 
 c) Sistema para el Desarrollo Integral de la Familia;
 
-d) Dirección General de Transportes;
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
+d) Secretaría de Movilidad y Transporte
 
 e) Consejo de Beneficencia Pública Estatal;
 
-f) Instituto de Cultura;
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
+f) Secretaría de la Cultura
 
 g) Instituto del Deporte y Cultura Física del Estado de Morelos;
 
@@ -271,7 +357,9 @@ XV.- Crear de entre sus miembros, las subcomisiones que estime pertinentes para 
 
 XVI.- Impulsar estudios e investigaciones científicas y tecnológicas en materia de prevención y rehabilitación de los diversos tipos de discapacidad;
 
-XVII.- Desarrollar programas de capacitación y autoempleo para personas con discapacidad y manejar una bolsa de trabajo en coordinación con la Subsecretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XVII.- Desarrollar programas de capacitación y autoempleo para personas con discapacidad y manejar una bolsa de trabajo en coordinación con la Secretaría del Trabajo.
 
 XVIII.- Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
@@ -399,7 +487,9 @@ IX.- La promoción del deporte, la cultura y la recreación;
 
 X.- El fomento del empleo y la capacitación para el trabajo;
 
-XI.- La institución de bolsas de trabajo para personas con discapacidad en coordinación con la Subsecretaría de Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XI.- La institución de bolsas de trabajo para personas con discapacidad en coordinación con la Secretaría del Trabajo;
 
 XII.- La promoción y defensa de los derechos de las personas con discapacidad, así como la asistencia jurídica;
 
@@ -561,9 +651,11 @@ IV. Iniciar en el seno familiar, con la participación de los padres, tutores o 
 
 ### CAPÍTULO III. Del Trabajo y la Capacitación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 44.
 
-Las autoridades competentes establecerán entre otras, las siguientes medidas:
+La Secretaría del Trabajo y demás autoridades competentes establecerán entre otras, las siguientes medidas:
 
 I. Promover el establecimiento de políticas en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad; en ningún caso la discapacidad será motivo de discriminación para el otorgamiento de un empleo;
 
@@ -573,9 +665,21 @@ III. Diseñar, ejecutar y evaluar un programa estatal y municipal de trabajo y c
 
 IV. Formular y ejecutar programas específicos de incorporación de personas con discapacidad como servidores públicos;
 
-V. Instrumentar el programa estatal de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica, becas económicas temporales; y
+V. Instrumentar el programa estatal de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica, becas económicas temporales; y (sic)
 
 VI. Asistir en materia técnica a los sectores social y privado, en materia de discapacidad, cuando lo soliciten.
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VII.- Fomentar la capacitación y sensibilización del personal que trabaje con personas con discapacidad en el sector público y privado;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VIII.- Promover medidas a efecto de que las obligaciones laborales no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+IX.- Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 45.
 
@@ -633,9 +737,11 @@ VIII. La promoción del establecimiento de centros de trabajo o talleres protegi
 
 ### CAPÍTULO IV. De la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 49.
 
-La educación que imparta y regule el Estado deberá contribuir al desarrollo integral de las personas con discapacidad, para lo cual realizará entre otras, las siguientes acciones:
+La Secretaría de Educación se encargará de contribuir al desarrollo integral de las personas con discapacidad a través de la educación que se imparta y regule en el Estado, para lo cual realizará entre otras, las siguientes acciones:
 
 I.- Elaborar y fortalecer los programas de educación especial e integración educativa para las personas con discapacidad;
 
@@ -645,7 +751,9 @@ III.- Formar, actualizar, capacitar y profesionalizar a los docentes y personal 
 
 IV.- Establecer en los programas educativos que se transmiten por televisión, estenografía proyectada e intérpretes de lengua de señas mexicana, de conformidad con lo estipulado con la normatividad federal;
 
-V.- Proporcionar a los estudiantes con discapacidad materiales que apoyen su rendimiento académico;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+V.- Proporcionar a los estudiantes con discapacidad, materiales didácticos y técnicos para garantizar un mayor desarrollo educativo que apoyen su rendimiento académico;
 
 VI.- Garantizar el acceso de la población con discapacidad auditiva a la educación pública obligatoria y bilingüe, que comprenda la enseñanza del idioma español y la lengua de señas mexicana. El uso suplementario de otras lenguas se promoverá cuando las circunstancias regionales así lo requieran;
 
@@ -655,9 +763,21 @@ VIII.- Impulsar toda forma de comunicación escrita que facilite al discapacitad
 
 IX.- Impulsar programas de investigación, preservación y desarrollo de la lengua de señas, de las personas con discapacidad auditiva, y de las formas de comunicación de las personas con discapacidad visual, aunado al impulso del Sistema de escritura braile mediante los equipos de computo respectivos, ampliadores y lectores de texto;
 
-X.- Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje; y
+X.- Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje; y (sic)
 
 XI.- Fomentar las actividades deportivas, culturales y recreativas para las personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XII.- Establecer mecanismos a fin de que las niñas y los niños con discapacidad gocen de derecho a la admisión gratuita y obligatoria así como la atención especializada, en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIII.- Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la lengua de señas mexicana; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+XIV.- Las demás que se (sic) dispongan otros ordenamientos.
 
 ###### Artículo 50.
 
@@ -701,9 +821,11 @@ El Instituto del Deporte y Cultura Física, ejecutará las políticas públicas 
 
 Las autoridades competentes formularán y aplicarán programas y acciones que otorguen las facilidades administrativas y las ayudas técnicas, humanas y financieras requeridos para la práctica de actividades físicas y deportivas a la población con discapacidad, en sus niveles de desarrollo nacional e internacional.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 57.
 
-El Instituto de Cultura del Estado de Morelos, ejecutará las políticas públicas tendientes a impulsar las actividades artísticas de las personas con discapacidad y otorgar las facilidades necesarias para el acceso a los servicios culturales que preste.
+La Secretaria de Cultura, ejecutará las políticas públicas tendientes a impulsar las actividades artísticas de las personas con discapacidad y otorgar las facilidades necesarias para el acceso a los servicios culturales que preste.
 
 ###### Artículo 58.
 
@@ -717,19 +839,41 @@ III.- Promover la realización de las adecuaciones arquitectónicas necesarias p
 
 IV.- Difundir las actividades culturales;
 
-V.- Impulsar la capacitación de recursos humanos en el uso de materiales y tecnología a fin de lograr la integración de las personas con discapacidad en las actividades culturales; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VII.- Fomentar la elaboración de materiales de lectura especiales para personas con discapacidad.
+V.- Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la Lengua de Señas Mexicana y la Cultura de los sordos;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VI.- Impulsar la capacitación de recursos humanos en el uso de materiales y tecnología a fin de lograr la integración de las personas con discapacidad en las actividades culturales;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VII.- Fomentar la elaboración de materiales de lectura especiales para personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
+
+VIII.- Las demás que dispongan otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
 ###### Artículo 59.
 
-La Secretaría de Turismo del Estado de Morelos, formulará y aplicará programas de turismo que incluyan facilidades de acceso y descuentos para las personas con discapacidad.
+La Secretaría de Turismo del Estado de Morelos, formulará y aplicará programas de turismo que incluyan facilidades de acceso y descuentos para las personas con discapacidad. Para tales efectos deberá realizar las siguientes acciones:
+
+I. Establecer programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio del Estado de Morelos, cuente con facilidades de accesibilidad;
+
+II. Establecer programas para la promoción turística dirigida a las personas con discapacidad; y
+
+III. Las demás que dispongan otros ordenamientos.
 
 ### CAPÍTULO VI. Del Transporte Público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+
 ###### Artículo 60.
 
-Las autoridades del transporte realizarán entre otras acciones, las siguientes:
+La Secretaría de Movilidad y Transporte realizará entre otras acciones, las siguientes:
 
 I. Impulsar programas que permitan la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público aéreo, terrestre y marítimo y medios de comunicación a las personas con discapacidad;
 
@@ -902,3 +1046,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2013.
+
+Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero.- Las Dependencias involucradas contarán con un plazo hasta de 60 días hábiles para que realicen las adecuaciones correspondientes a su normatividad.
+
+Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto
