@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ingresos-y-presupuesto-de-ingresos-del-ayuntamiento-9131
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE HERMOSILLO, SONORA, PARA EL EJERCICIO FISCAL DE 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL B. O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE HERMOSILLO, SONORA, PARA EL EJERCICIO FISCAL DE 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 24 DE ENERO DE 2013.</small>
 
 Ley publicada en la Sección V del Boletín Oficial del Estado de Sonora, el lunes 31 de diciembre de 2012.
 
@@ -3889,7 +3889,7 @@ La Tesorería Municipal instrumentará un programa integral de fiscalización pa
 
 ###### Artículo 161.
 
-Las sanciones pecuniarias o restituitorias (sic) que en su caso pudieran cuantificar el Órgano de Control y Evaluación Municipal o el Instituto Superior de Auditoría y Fiscalización, se equipararán a créditos fiscales, teniendo la obligación la Tesorería Municipal de hacerlas efectivas.
+Las sanciones pecuniarias o restituitorias que en su caso pudieran cuantificar el Órgano de Control y Evaluación Municipal o el Instituto Superior de Auditoría y Fiscalización, se equipararán a créditos fiscales, teniendo la obligación la Tesorería Municipal de hacerlas efectivas.
 
 ###### Artículo 162.
 
@@ -3898,8 +3898,6 @@ Los recursos que sean recaudados por las autoridades municipales por mandato exp
 ###### Artículo 163.
 
 Con la finalidad de cuidar la economía familiar, se aplicará la reducción correspondiente en el impuesto predial del ejercicio 2013 en aquellos casos en que como consecuencia de la actualización de los valores catastrales el importe a cargo resultara mayor al 10% del causado en el ejercicio 2012.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL B. O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 T R A N S I T O R I O S
 
@@ -3984,6 +3982,108 @@ Sustitución de tomas domiciliarias $18,000,000.00
 Programas de Ahorro de Energía $5,153,544.95
 
 Artículo Sexto.- El Organismo Operador deberá presentar al Cabildo Municipal una propuesta de tarifas y cuotas para el cobro de los servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales, aplicables para el ejercicio fiscal de 2014, debidamente actualizadas conforme al procedimiento establecido en el artículo 164 de la Ley de Agua del Estado de Sonora; de tal forma que el efecto inflacionario y los incrementos en los costos asociados a la prestación de los servicios correspondientes, no mermen la capacidad de las tarifas y cuotas referidas, para hacer frente a los gastos y costos necesarios para la prestación de tales servicios.
+
+> <small>(F. DE E., B.O. 24 DE ENERO DE 2013)</small>
+
+Artículo Séptimo.- Se autoriza al Municipio de Hermosillo, Sonora, para que, por conducto del Presidente y el Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, en representación del Ayuntamiento, contraten financiamientos con una o varias instituciones de crédito o financieras que ofrezcan las mejores condiciones en cuanto a los aspectos jurídicos, financieros y de disponibilidad de recursos en las circunstancias actuales, hasta por $1,270'000,000.00 (UN MIL DOSCIENTOS SETENTA MILLONES DE PESOS 00/100 M.N.), más intereses, reservas, gastos, comisiones y demás accesorios financieros de la contratación. El plazo máximo de vencimiento de las obligaciones que se contraten conforme al presente párrafo no podrá exceder de 20 años.
+
+La autorización anterior incluye la de contratar un financiamiento puente hasta por la cantidad de $500'000,000.00 (quinientos millones de pesos 00/100 M.N.), más intereses, reservas, gastos, comisiones y demás accesorios financieros de la contratación; en cuyo caso dicho monto estaría incluido en el autorizado en el párrafo anterior y regido por las condiciones autorizadas para el mismo, hasta que se obtenga el financiamiento definitivo. De ser este el caso, en el monto total del párrafo anterior se deberá considerar el pago del financiamiento puente.
+
+En cualquier caso, las obligaciones deberán contratarse con personas físicas o morales de nacionalidad mexicana, ser pagaderas en moneda de curso legal en los Estados Unidos Mexicanos, dentro del Territorio Nacional y prever expresamente la prohibición de su cesión a extranjeros.
+
+Las cantidades que disponga el Ayuntamiento de Hermosillo en el ejercicio de la presente autorización, causarán intereses normales y moratorios a las tasas que se negocien con las instituciones financieras mexicanas que ofrezcan las mejores condiciones, en cuanto a los aspectos jurídicos, financieros y de disponibilidad de recursos. Estas tasas de interés podrán revisarse y ajustarse cuando así se precise en el o los contratos de crédito respectivos. Del mismo modo, en cualquiera de las operaciones que se celebren al amparo de las autorizaciones concedidas por este artículo podrán pactarse períodos de gracia para el pago de capital, hasta por veinticuatro meses.
+
+El o los financiamientos que se contraten en términos de este artículo, deberán destinarse a:
+
+1. El pago total de las deudas contraídas por el Municipio que a continuación se enuncian:
+
+a) La deuda de largo plazo hasta por la cantidad de $498'404,125.42 (cuatrocientos noventa y ocho millones cuatrocientos cuatro mil ciento veinticinco pesos 42/100 M.N.), ó el importe equivalente al saldo insoluto vigente al momento del refinanciamiento o la reestructuración conforme a los dispuesto en este artículo, respecto del contrato de apertura de crédito simple celebrado el 22 de febrero de 2007 con Banco Mercantil del Norte, Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Banorte.
+
+b) La deuda de corto plazo, hasta por la cantidad de $ 529'000,000.00 (quinientos veintinueve millones de pesos 00/100 M.N.).
+
+II. Inversión pública, por la cantidad de hasta $242'595,874.58 (doscientos cuarenta y dos millones quinientos noventa y cinco mil ochocientos setenta y cuatro pesos 58/100 M.N.), en materia de:
+
+a) Infraestructura de la Ciudad para garantizar e impulsar el desarrollo:
+
+1.- Introducción de la red de alcantarillado sanitario en la localidad de Bahía de Kino Viejo.
+
+2.- Construcción de planta tratadora de aguas negras en la localidad de Bahía de Kino Viejo.
+
+3.- Introducción de la red de alcantarillado sanitario en la localidad de La Victoria.
+
+4.- Construcción de planta tratadora de aguas negras en la localidad de La Victoria.
+
+5.- Ampliación de la red de alcantarillado sanitario en la colonia San José de las Minítas.
+
+6.- Primera etapa de construcción de canal, revestimiento y embovedamiento para desvío de arroyo el Buey.
+
+7.- II Etapa de embovedado del Blvd. López Portillo al poniente de la ciudad de Hermosillo.
+
+8.- Mantenimiento y rehabilitación de las redes hidráulicas en el Municipio de Hermosillo.
+
+b) Equipamiento Municipal:
+
+1.- Adquisición de equipo pesado para trabajos de mantenimiento de caminos rurales y pavimentaciones.
+
+c) Rehabilitación de la Infraestructura Urbana:
+
+1.- Dignificación de colonias populares mediante la rehabilitación de infraestructura básica (alumbrado, pavimentación, parques, etc.).
+
+2.- Construcción de banquetas y rampas para el mejoramiento de colonias populares de la periferia de la Ciudad.
+
+d) Desarrollo Urbano y Tránsito:
+
+1.- Puentes peatonales en Blvd. Encinas (frente al Hospital General), en calle Reforma/Navarrete y Blvd. Colosio, en Blvd. Vildosola y Ave. De la Cultura, IMSS (Juárez y Seguro Social) y en Ave. Rosales (frente a la Universidad de Sonora), en la Ciudad de Hermosillo.
+
+2.- Puente inferior en intersección vial Blvd. Navarrete y Blvd. Luis Encinas.
+
+3.- Modificación del sistema de circulación vial para agregar carril de ciclo vías en diversas avenidas.
+
+4.- Adquisición de reservas territoriales.
+
+e) Acciones para mejorar la calidad de vida del ciudadano.
+
+Desarrollo Social:
+
+1. III Etapa de construcción de Unidad Deportiva "Cárcamo", área para personas con capacidades diferentes en Hermosillo.
+
+2. Construcción de parque recreativo social para seguridad pública en Hermosillo.
+
+3. Diseño e Implementación de un Plan de Forestación del Municipio de Hermosillo.
+
+III. A cubrir las erogaciones requeridas por la formalización de contratos de cobertura, la constitución de fondos de reserva, el pago de comisiones y en general por todos aquellos gastos relacionados con la instrumentación del o los financiamientos mencionados.
+
+En el supuesto de que no se concretase el refinanciamiento o reestructuración conforme el siguiente párrafo de este Artículo, de la deuda referida en la fracción I de este Artículo, el monto de endeudamiento total autorizado en este Artículo, se disminuirá hasta por el saldo no reestructurado o refinanciado.
+
+Si a partir de las negociaciones de financiamiento resulta más conveniente para el Municipio la reestructuración del empréstito referido en el numeral I inciso a) de este artículo, se autoriza al Presidente y al Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, a reestructurar dicha operación, facultándoseles para negociar, modificar y aprobar las condiciones de dicho financiamiento; en cuyo caso, el monto de endeudamiento total autorizado en el primer párrafo de este Artículo deberá tenerse por disminuido en la cantidad que haya dejado de aplicarse para refinanciar este empréstito, sin perjuicio de los gastos que se originen por la reestructuración.
+
+En este supuesto, las condiciones de la reestructuración no podrán exceder las autorizaciones del monto y plazo establecidas en el primer párrafo de este Artículo.
+
+Se autoriza al Presidente y al Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, para que:
+
+Como fuente de pago o como garantía de cumplimiento de las obligaciones que se contraten conforme a lo dispuesto en el presente Artículo, se afecte un porcentaje suficiente y necesario de los ingresos futuros y el derecho a recibirlos por el Municipio, provenientes del Fondo General de Participaciones que de los ingresos federales le correspondan al mismo de conformidad con el Artículo 2° de la Ley de Coordinación Fiscal, o cualesquiera otras disposiciones que sustituyan o complementen dicho Fondo; atendiendo a lo establecido en el Artículo 9° de la Ley de Coordinación Fiscal y en el Reglamento del artículo 9° de la Ley de Coordinación Fiscal.
+
+La afectación de dichas participaciones podrán formalizarse a través de alguno o algunos de los fideicomisos ya constituidos para tal efecto, o mediante la constitución de un nuevo fideicomiso irrevocable, con institución con facultades para fungir como fiduciaria. Dicha afectación en fideicomiso podrá hacerse desde la constitución de aquél y deberá permanecer hasta que los financiamientos hayan quedado íntegramente liquidados.
+
+Con el mismo fin, en su caso, celebren con la institución fiduciaria correspondiente el contrato irrevocable de fideicomiso que servirá como medio de pago o garantía de las obligaciones contraídas.
+
+En ese caso y en cualquiera que se requiera, deberá notificarse a la Secretaría de Hacienda del Gobierno del Estado de Sonora y/o a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, instruyéndola(s) irrevocablemente a que respecto de cada ministración o entrega de participaciones que corresponda al Municipio, abone al fideicomiso los flujos correspondientes a las participaciones fideicomitidas, hasta el pago total de los financiamientos contratados.
+
+El Municipio podrá asumir la obligación de responder de los compromisos derivados del fideicomiso, hasta su cumplimiento total.
+
+Se autoriza al Presidente y al Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, para celebrar operaciones financieras de cobertura relativa al o los financiamientos, como contratos de cobertura de tasa de interés de los denominados Caps, los cuales, en su caso, podrán tener la misma fuente de pago que dichos financiamientos.
+
+Se autoriza al Presidente y al Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, para realizar y solicitar, respectivamente, la inscripción del o los financiamientos, o en su caso de la reestructuración también autorizada:
+
+A) En la Tesorería del Municipio de Hermosillo, en el Registro de Deuda Pública Municipal,
+
+B) A la Secretaría de Hacienda del Ejecutivo estatal, en el Registro Estatal de Deuda Pública; y
+
+C) A la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios.
+
+Se autoriza al Presidente y al Tesorero municipales, bajo refrendo de firma del Secretario del Ayuntamiento, para que negocien, acuerden y suscriban todas las bases, condiciones, términos y modalidades convenientes o necesarios en los contratos, convenios y demás documentos relativos, así como para efectuar los actos que se requieran para hacer efectivas las autorizaciones concedidas en el presente artículo.
+
+En todo caso podrán pactarse modalidades a los lineamientos establecidos en este artículo, siempre que las mismas no contravengan el sentido o contexto original de dichos lineamientos.
 
 Comuníquese al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado.
 
