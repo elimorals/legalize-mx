@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-01-01"
+last_updated: "2013-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 24 DE ENERO DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1161,8 +1161,6 @@ Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal 
 
 Tratándose de fianza otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se estará a lo dispuesto por la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 41.
 
 Son responsables solidarios del pago de créditos fiscales:
@@ -1294,6 +1292,8 @@ XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, pe
 En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -3481,8 +3481,6 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 #### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
 
 #### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE AGUA Y OBRA PUBLICA
@@ -3713,8 +3711,6 @@ SUBSECCION TERCERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION CIVIL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 (REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 #### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
@@ -3829,7 +3825,7 @@ H). Industrias químicas de transformación. $3,012
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
 
 I). Almacén para la compra-venta de pólvoras
 
@@ -3837,7 +3833,7 @@ deportivas, fulminantes y demás proyectiles
 
 impulsados por deflagración de pólvora,
 
-así como clubes y campos de tiro y cacería. $2,604
+así como clubes y campos de tiro y cacería. $2,485
 
 J). Reparación de armas de fuego y gas. $1,991
 
@@ -3876,8 +3872,6 @@ por guía. $1,072
 SUBSECCION CUARTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 (REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -3947,9 +3941,11 @@ $269,857 y hasta de $323,828. $7,260
 
 $323,828 y hasta de $377,800. $10,163
 
+> <small>(F. DE E., G.G. 24 DE ENERO DE 2013)</small>
+
 5. Cuando el valor de los actos a inscribir sea de más de
 
-$377,800 y hasta de $431,773. $13,068
+$377,800 y hasta de $431,773. $13,096
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
@@ -3997,9 +3993,9 @@ Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada, pa
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
 
-Por la inscripción de la división de hipoteca se pagarán $1,451 por cada inmueble.
+Por la inscripción de la división de hipoteca se pagarán $1,385 por cada inmueble.
 
 Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $792.
 
@@ -4007,9 +4003,9 @@ Por la inscripción de hipotecas para garantizar el crédito principal y refinan
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,203, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $60, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,148, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $60, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervengan el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
@@ -4351,8 +4347,6 @@ Por cotejo de documentos no autentificados que deban destinarse al apéndice, se
 
 (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 87.
@@ -4361,9 +4355,9 @@ Cuando un mismo título o documento origine dos o más inscripciones, los derech
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
 
-Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $380, por cada una de ellas.
+Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $363, por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
@@ -5127,6 +5121,10 @@ I. Por la supervisión de las obras de urbanización, infraestructura y equipami
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
+> <small>(F. DE E., 24 DE ENERO DE 2013)</small>
+
+Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+
 II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
 TARIFA
@@ -5145,11 +5143,7 @@ por el usuario. $109
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
 
-III. Por la expedición de nombramientos de peritos responsables de obras, se pagarán derechos equivalentes a $1,340.
-
-Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
-
-Por la reposición de la credencial de perito responsable en obra que se encuentre vigente, se pagará el 50% de la tarifa establecida.
+III. (DEROGADA, G.G. 22 DE AGOSTO DE 2012) (F. DE E., 24 DE ENERO DE 2013)
 
 IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,351.
 
@@ -5323,9 +5317,7 @@ La Comisión del Agua del Estado de México, para efectos de las solicitudes de 
 
 En caso de que la Comisión Nacional del Agua considere que existe alguna diferencia entre los volúmenes suministrados o adeudos informados, lo hará del conocimiento de la Comisión del Agua del Estado de México a fin de que en su caso se lleven al cabo los ajustes correspondientes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2012)</small>
+(ADICIONADO, G.G. 22 DE AGOSTO DE 2012) (F. DE E., G.G. 24 DE ENERO DE 2013)
 
 ###### Artículo 95 Ter.
 
