@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-01-15"
+last_updated: "2013-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -3490,19 +3490,29 @@ Para los efectos de esta Ley, se entiende por proceso el conjunto de actividades
 
 La Secretaría ejercerá las facultades relacionadas con el conjunto de actividades que en el ejercicio de su desempeño desarrollan los establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal para consumo humano, sin perjuicio de las atribuciones que correspondan a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación conforme a lo dispuesto por la Ley Federal de Sanidad Animal.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 198.
 
-Únicamente requieren autorización sanitaria los establecimientos dedicados a:
+Requieren autorización sanitaria los establecimientos dedicados a:
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
 I.- El proceso de los medicamentos que contengan estupefacientes y psicotrópicos; vacunas; toxoides; sueros y antitoxinas de origen animal, y hemoderivados;
 
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
 II.- La elaboración, fabricación o preparación de medicamentos, plaguicidas, nutrientes vegetales o sustancias tóxicas o peligrosas;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
 III.- La aplicación de plaguicidas;
 
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
 IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y (sic)
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
 V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos;
 
@@ -3510,7 +3520,11 @@ V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos;
 
 VI.- Centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 La solicitud de autorización sanitaria deberá presentarse ante la autoridad sanitaria, previamente al inicio de sus actividades.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 Cuando así se determine por acuerdo del Secretario, los establecimientos en que se realice el proceso de los productos a que se refiere el artículo 194 de esta ley y su transporte deberán sujetarse a las normas de funcionamiento y seguridad que al respecto se emitan.
 
@@ -5278,6 +5292,10 @@ Para efectos de este título se entiende por:
 
 I. Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
 
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+I Bis. Células progenitoras o troncales, aquellas capaces de autoreplicarse y diferenciarse hacia diversos linajes celulares especializados;
+
 > <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2005)</small>
 
 II. Cadáver, el cuerpo humano en el que se haya comprobado la pérdida de la vida;
@@ -5386,11 +5404,9 @@ XXV. Preservación, a la utilización de agentes químicos y/o modificación de 
 
 XXVI. Procuración, al proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos y tejidos en cualquier momento desde la donación, y en su caso hasta el trasplante.
+XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tejidos y sus componentes, y células, en cualquier momento desde la donación, y en su caso, hasta el trasplante o la transfusión.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5428,9 +5444,17 @@ I. La extracción, análisis, conservación, preparación y suministro de órgan
 
 II. Los trasplantes de órganos y tejidos;
 
-III. Los bancos de órganos, tejidos y células, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-IV. Los bancos de sangre y servicios de transfusión.
+III. Los bancos de órganos, tejidos y células;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+IV. Los bancos de sangre y servicios de transfusión, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+V. La disposición de células progenitoras o troncales.
 
 La Secretaría otorgará la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables.
 
@@ -5451,6 +5475,22 @@ A su vez, los establecimientos que realicen actos de trasplantes, deberán conta
 El Comité Interno de Trasplantes deberá coordinarse con el comité de bioética de la institución en los asuntos de su competencia.
 
 Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+Los establecimientos de atención médica que transfundan sangre y sus componentes deberán contar con un Comité de Medicina Transfusional.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+Los establecimientos de atención médica que utilicen células progenitoras o troncales para regeneración de tejidos deberán contar con el Comité Interno de Trasplantes a que se refiere el artículo 316 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+En caso de que el establecimiento cuente con la autorización sanitaria para hacer trasplante de órganos y tejidos a que se refiere el artículo 315, fracción I de esta Ley, se deberá conformar un subcomité que deberá presentar los casos al Comité Interno de Trasplantes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+Los comités y subcomités a que se refiere este artículo se integrarán y sujetarán a las disposiciones que para tal efecto emita la Secretaría.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5492,13 +5532,13 @@ X. Lo que le atribuya esta Ley y las demás disposiciones aplicables.
 
 Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley deberán contar con el apoyo, a través de un convenio, de bancos de sangre externos, cuando el establecimiento no tuviere uno propio, para garantizar la disponibilidad oportuna de dicho tejido en aquellos casos en que éste se llegara a requerir.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 317.
 
-Los órganos, tejidos y células no podrán ser sacados del territorio nacional.
+Los órganos no podrán ser sacados del territorio nacional.
 
-Los permisos para que los tejidos puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de urgencia.
+Los permisos para que los tejidos y sus componentes, así como las células puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de urgencia.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2008)</small>
 
@@ -5545,6 +5585,12 @@ Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, 
 ###### ARTICULO 321.
 
 La donación en materia de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+###### ARTICULO 321 Bis.
+
+La Secretaría de Salud promoverá que en todo establecimiento de atención obstétrica, se solicite sistemáticamente a toda mujer embarazada su consentimiento para donar de manera voluntaria y altruista la sangre placentaria para obtener de ella células troncales o progenitoras para usos terapéuticos o de investigación, por medio de una carta de consentimiento informado, garantizándole en todo momento su plena voluntad, libertad y confidencialidad, de conformidad con las demás disposiciones jurídicas aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5627,6 +5673,10 @@ II. El expreso otorgado por una mujer embarazada sólo será admisible si el rec
 ###### ARTICULO 327.
 
 Está prohibido el comercio de órganos, tejidos y células. La donación de éstos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos, incluyendo la sangre y sus componentes, y células progenitoras o troncales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5830,7 +5880,9 @@ II. Los cirujanos de trasplantes responsables de la extracción y trasplantes, y
 
 III. Los datos de las donaciones de las personas fallecidas;
 
-IV. Los datos de los trasplantes con excepción de los autotrasplantes;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+IV. Los datos de los trasplantes con excepción de los autotrasplantes y los relativos a células progenitoras o troncales;
 
 V. Los datos de los receptores considerados candidatos a recibir el trasplante de un órgano o tejido, integrados en bases de datos hospitalarias, institucionales, estatales y nacional, y
 
@@ -5838,15 +5890,19 @@ VI. Los casos de muerte encefálica en los que se haya concretado la donación, 
 
 En los términos que precisen las disposiciones reglamentarias, los establecimientos de salud referidos en el artículo 315 de esta Ley, a través del responsable sanitario en coordinación con los Comités internos señalados en el artículo 316 del mismo ordenamiento legal citado, deberán proporcionar la información relativa a las fracciones II, III, IV Y V de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+El registro de los trasplantes de células progenitoras o troncales estará a cargo del Centro Nacional de la Transfusión Sanguínea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 339.
 
-La distribución y asignación de órganos, tejidos y células en el territorio nacional, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios previstos en la presente Ley y los emitidos por la Secretaría de Salud, mediante disposiciones de carácter general que deberán publicarse en el Diario Oficial de la Federación.
+La distribución y asignación en el territorio nacional de órganos, tejidos y células, con excepción de las progenitoras o troncales, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios previstos en la presente Ley y los emitidos por la Secretaría de Salud, mediante disposiciones de carácter general que deberán publicarse en el Diario Oficial de la Federación.
 
-La asignación y la distribución de órganos, tejidos y células en el territorio nacional, se realizará por los Comités Internos de Trasplantes y por los Comités Internos de Coordinación para la donación de órganos y tejidos, de conformidad con lo previsto en la presente Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+La asignación y la distribución en el territorio nacional de órganos, tejidos y células, con excepción de las progenitoras o troncales, se realizará por los comités internos de trasplantes y por los comités internos de coordinación para la donación de órganos y tejidos, de conformidad con lo previsto en la presente Ley.
 
 La coordinación para la asignación y distribución de órganos y tejidos de donador con pérdida de la vida para trasplante estará a cargo del Centro Nacional de Trasplantes, por conducto del Registro Nacional de Trasplantes, el cual se podrá apoyar en los Centros Estatales de Trasplantes, conforme a lo previsto en la presente Ley y en las disposiciones reglamentarias que al efecto se emitan.
 
@@ -7929,3 +7985,7 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENE
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Ejecutivo Federal, a través de la Secretaría de Salud, contará con un plazo de 180 días naturales, a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones administrativas necesarias para su aplicación.
+
+D.O.F. 24 DE ENERO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
