@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-bibliotecas-del-estado-de-jalisco-89148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2012-08-23"
+last_updated: "2013-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 23 de agosto de 2012.
 
@@ -47,19 +47,25 @@ Ley de Bibliotecas del Estado de Jalisco
 
 ### Capítulo I. Disposiciones generales
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 1°.
 
 Esta ley es de observancia general en el estado de Jalisco; sus disposiciones son de orden público e interés social, y tendrá, en concordancia con la Ley General de Bibliotecas, los siguientes objetivos.
 
-La distribución de competencias y estrategias de coordinación entre el Gobierno del Estado y los municipios de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-I. El señalamiento de las normas básicas para la configuración de la Red Estatal de Bibliotecas Públicas;
+I. La distribución de competencias y estrategias de coordinación entre el Gobierno del Estado y los municipios de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas;
 
-II. El establecimiento de las bases y directrices para la integración y el desarrollo de un Sistema Estatal de Bibliotecas, y
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-III. La determinación de lineamientos para llevar a cabo la concertación con los sectores social y privado en esta materia en la entidad.
+II. El señalamiento de las normas básicas para la configuración de la Red Estatal de Bibliotecas Públicas;
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+III. El establecimiento de las bases y directrices para la integración y el desarrollo de un Sistema Estatal de Bibliotecas, y
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+IV. La determinación de lineamientos para llevar a cabo la concertación con los sectores social y privado en esta materia en la entidad.
 
 ###### Artículo 2°.
 
