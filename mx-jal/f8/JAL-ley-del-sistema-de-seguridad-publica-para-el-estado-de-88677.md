@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2012-07-21"
+last_updated: "2013-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -75,7 +75,7 @@ VI. Procurar la seguridad pública mediante la prevención, investigación, pers
 
 VII. Detectar y combatir los factores que genere la comisión de delitos y conductas antisociales, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 ###### Artículo 3.
 
@@ -98,30 +98,6 @@ VII. Comisario General: el titular de la Comisaría General de Seguridad Públic
 VIII. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
 IX. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social;
-
-X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
-
-XI. Elementos operativos: los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5.° de esta ley;
-
-XII. Instituciones de seguridad pública: instituciones policiales, de procuración de justicia, del sistema penitenciario y peritos del Instituto Jalisciense de Ciencias Forenses, encargadas de la seguridad Pública a nivel estatal y municipal;
-
-XIII. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
-
-XIV. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
-
-XV. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
-
-XVI. Procuraduría: la Procuraduría General de Justicia del Estado;
-
-XVII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
-
-XVIII. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
-
-XIX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
-
-XX. Secretaría: la Secretaría de Seguridad Pública, Prevención y Reinserción Social;
-
-IX. (sic) Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social;
 
 X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
@@ -213,8 +189,6 @@ Cuando las acciones conjuntas sean para perseguir delitos se cumplirán, sin exc
 
 ### Capítulo II. De la coordinación entre el Estado y los municipios
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 14.
 
 Las autoridades competentes en materia de seguridad pública del Estado y de los municipios se coordinarán para:
@@ -229,9 +203,13 @@ IV. Establecer, supervisar, utilizar y mantener actualizados todos los instrumen
 
 V. Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo;
 
-VI. Tomar medidas y realizar acciones y operativos conjuntos;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-VII. En los municipios del estado se podrán formalizar los convenios de colaboración respectivos para brindar los servicios de seguridad pública que se estimen pertinentes, bajo la coordinación del titular del Poder Ejecutivo del Estado;
+VI. Tomar medidas y realizar acciones y operativos conjuntos; y
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+VII. En los municipios del estado se podrán formalizar los convenios de colaboración respectivos para brindar los servicios de seguridad pública que se estimen pertinentes, bajo la coordinación del titular del Poder Ejecutivo del Estado.
 
 Las instituciones de seguridad pública tanto del Estado como de los municipios deberán coordinarse para cumplir los objetivos de la seguridad pública.
 
@@ -269,8 +247,6 @@ Las acciones en materia de prevención del delito, infracciones y conductas anti
 
 ### Capítulo III. De las instancias de coordinación
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 17.
 
 El Consejo Estatal será la instancia superior de coordinación del Sistema Estatal de Seguridad Pública, y estará integrado por:
@@ -299,21 +275,37 @@ b) El Presidente del Supremo Tribunal de Justicia del Estado.
 
 IV. Los presidentes municipales de la zona metropolitana de Guadalajara, así como de cada una de las sedes de las regiones en que se integran los municipios del estado;
 
-IV (SIC). Los comandantes de la Región Militar y de la Zona Militar que correspondan a la entidad;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-V. El Comandante de la Fuerza Naval del Pacífico;
+V. Los comandantes de la Región Militar y de la Zona Militar que correspondan a la entidad;
 
-VI. El Delegado Estatal de la Procuraduría General de la República;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-VII. El Delegado Estatal del Centro de Investigación y Seguridad Nacional;
+VI. El Comandante de la Fuerza Naval del Pacífico;
 
-VIII. El coordinador de la Policía Federal en el estado;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-IX. Dos miembros de la sociedad civil o de la comunidad, de conformidad con el reglamento;
+VII. El Delegado Estatal de la Procuraduría General de la República;
 
-X. Un Secretario Ejecutivo, y
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
-XI. A quienes el pleno del Consejo Estatal decida invitar a participar y que por sus funciones estén vinculados con los fines de la seguridad pública.
+VIII. El Delegado Estatal del Centro de Investigación y Seguridad Nacional;
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+IX. El coordinador de la Policía Federal en el estado;
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+X. Dos miembros de la sociedad civil o de la comunidad, de conformidad con el reglamento;
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+XI. Un Secretario Ejecutivo, y
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+XII. A quienes el pleno del Consejo Estatal decida invitar a participar y que por sus funciones estén vinculados con los fines de la seguridad pública.
 
 El cargo de consejero será honorífico y, por lo tanto, no remunerado, a excepción de su Secretario Ejecutivo.
 
@@ -447,8 +439,6 @@ III. El Procurador General de Justicia del Estado;
 
 Se exceptúa de lo dispuesto en este artículo a los cuerpos municipales de seguridad pública, que estarán bajo el mando del Presidente Municipal en los términos del reglamento correspondiente, quienes de conformidad con lo dispuesto en la Constitución Política del Estado deberán acatar las órdenes que el Gobernador les transmita en aquellos casos que éste juzgue como de fuerza mayor o de alteración grave del orden público, previo acuerdo que publique en el Periódico Oficial el Gobernador del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 26.
 
 Los cuerpos de seguridad pública de Jalisco son:
@@ -463,7 +453,9 @@ II. Los cuerpos operativos de la Procuraduría, con todas las unidades, division
 
 III. Los cuerpos operativos de la Secretaría de Vialidad y Transporte del Estado de conformidad con su ley y su reglamento;
 
-IV. Los cuerpos de seguridad pública municipales, con todas las unidades y agrupamientos que señale su reglamento;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+IV. Los cuerpos de seguridad pública municipales, con todas las unidades y agrupamientos que señale su reglamento; y
 
 V. Los demás que en el futuro se constituyan con estricto respeto de esta ley.
 
@@ -843,11 +835,11 @@ El informe debe ser completo, y los hechos deben describirse con continuidad, cr
 
 ### Capítulo IV. Del sistema complementario de seguridad social y reconocimientos
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 ###### Artículo 65.
 
-Los elementos operativos de las instituciones de seguridad pública recibirán las prestaciones de seguridad social que prevé la Ley para los Servidores Públicos del Estado de Jalisco.
+Los elementos operativos de las instituciones de seguridad pública recibirán las prestaciones de seguridad social que prevé la Ley para los Servidores Públicos del Estado de Jalisco y sus municipios.
 
 Las autoridades estatales y municipales instrumentarán de acuerdo con sus necesidades y con cargo a sus presupuestos, tanto en su beneficio como en el de sus familiares o dependientes económicos, un sistema de seguridad social complementario, de conformidad con el reglamento correspondiente y, en su caso, con el fideicomiso respectivo.
 
@@ -1259,11 +1251,11 @@ III. Perjuicios originados al servicio.
 
 La disciplina es la base de la integración, funcionamiento y organización del servicio profesional de carrera de los elementos de las instituciones de seguridad pública.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 ###### Artículo 93.
 
-La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, la carencia de vicios, entendidos éstos como la falta de rectitud o defecto moral en las acciones, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes, reglamentos y disposiciones administrativas, así como lo relativo al ceremonial y protocolo demanda respeto y consideración mutua entre quien detente una jerarquía y sus subordinados.
+La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, la carencia de vicios, entendidos éstos como la falta de rectitud o defecto moral en las acciones, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes, reglamentos y disposiciones administrativas, así como lo relativo al ceremonial y protocolo que demanda respeto y consideración mutua entre quien detente una jerarquía y sus subordinados.
 
 Primera sección
 
@@ -1513,9 +1505,11 @@ Remoción con inhabilitación
 
 Además de la remoción señalada en el artículo que antecede, se sancionara al elemento operativo con inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA SECCIÓN, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 Quinta Sección
+
+Improcedencia de Recursos
 
 ###### Artículo 116.
 
@@ -1577,13 +1571,13 @@ Si el servidor público suspendido o reubicado provisionalmente no resultare res
 
 El elemento operativo en su escrito inicial de contestación expresará los hechos en que funde su defensa, debiendo acompañar las pruebas que considere pertinentes, para sustentar su defensa.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 123.
 
 La institución de seguridad pública, dentro de los tres días hábiles, contados a partir del momento en que reciba el escrito, dictará acuerdo, en el que admitirá o desechará pruebas, y además señalará día y hora para la celebración de la audiencia para el desahogo de pruebas, así como para la formulación de alegatos, que deberá efectuarse dentro de los veinte días siguientes al en que se haya recibido el escrito de contestación del elemento operativo.
 
-En el mismo acuerdo se ordenará se notifique personalmente al elemento operativo, cuando menos cinco días de anticipación a la audiencia, con el apercibimiento de tenerlo por cierto los hechos que se le atribuye y por perdido el derecho del desahogo pruebas admitidas, si no concurre a la audiencia sin causa justificada a juicio de la autoridad instructora.
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+En el mismo acuerdo se ordenará se notifique personalmente al elemento operativo, cuando menos cinco días de anticipación a la audiencia, con el apercibimiento de tener por cierto los hechos que se le atribuyen y por perdido el derecho del desahogo de pruebas admitidas, si no concurre a la audiencia sin causa justificada a juicio de la autoridad instructora.
 
 La autoridad instructora ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o persona ajena al procedimiento y que haya solicitado el oferente, con los apercibimientos señalados en el cuerpo de leyes supletorio, y dictará las medidas que sean necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido, en caso de que no se reciba la documentación o información solicitada, antes del desahogo de la audiencia, se diferirá hasta en tanto se reciba la documentación solicitada, y la autoridad instructora girara oficios recordatorios respecto del requerimiento de la información.
 
@@ -1719,8 +1713,6 @@ Si el tribunal de control constitucional a través del juicio correspondiente re
 
 La suspensión por causas imputables del elemento operativo, es la interrupción de la relación jurídica administrativa existente entre el elemento operativo probable infractor y la institución de seguridad pública sin responsabilidad para esta última.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 143.
 
 Serán causas de suspensión imputables del elemento operativo el incurrir en alguno de los supuestos siguientes:
@@ -1729,7 +1721,9 @@ I. El arresto dictado por autoridad competente;
 
 II. Cuando se encuentre en calidad de detenido a disposición del agente del Ministerio Público, a excepción de cuando se haya encontrado en ejercicio de sus funciones y no sea un hecho delictuoso doloso atribuible al propio elemento operativo;
 
-III. Por que se le dicte por la autoridad competente orden de arraigo en su contra;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+III. Porque se le dicte por la autoridad competente orden de arraigo en su contra;
 
 IV. Se encuentre sujeto a procedimiento de extradición;
 
@@ -1739,11 +1733,11 @@ VI. Cualquier otra causa que impida el ejercicio de su función.
 
 La autoridad ante quien se encuentre a disposición el elemento operativo, dará aviso a la institución de seguridad pública en la que éste se encuentre adscrito, de manera inmediata.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 ###### Artículo 144.
 
-Concluida la causa de la suspensión, el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito dicha circunstancia en un plazo improrrogable dos días hábiles, contados a partir de que tenga conocimiento de que cesaron las causas de la suspensión.
+Concluida la causa de la suspensión, el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito dicha circunstancia en un plazo improrrogable de dos días hábiles, contados a partir de que tenga conocimiento de que cesaron las causas de la suspensión.
 
 En el caso de que al elemento operativo se le reincorpore al servicio, no procederá el pago de salarios caídos correspondientes al tiempo que haya durado la suspensión, por las causas señaladas en las fracciones III y IV del artículo anterior.
 
@@ -1833,11 +1827,15 @@ Serán objeto del registro aquellos aspirantes que hayan sido rechazados y los a
 
 Las instituciones de seguridad pública del Estado y los municipios suministrarán, intercambiarán y sistematizarán de forma periódica, integral y permanente, en coordinación con la Secretaría Ejecutiva, la información sobre seguridad pública mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere este título.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
 ###### Artículo 153.
 
-La consulta del registro será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública estatal y municipal, así como de los prestadores del servicio de seguridad privada. Para soporte legal de esta disposición deberá agregarse al expediente respectivo la respuesta que se reciba por la Secretaría Ejecutiva del Consejo Estatal. Con los resultados obtenidos, la autoridad procederá de conformidad con las normas conducentes.
+La consulta del registro será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública estatal y municipal, así como de los prestadores del servicio de seguridad privada.
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+Para soporte legal de esta disposición deberá agregarse al expediente respectivo la respuesta que se reciba por la Secretaría Ejecutiva del Consejo Estatal. Con los resultados obtenidos, la autoridad procederá de conformidad con las normas conducentes.
 
 Las órdenes de detención o aprehensión se agregarán al registro cuando no pongan en riesgo la investigación o la causa penal.
 
@@ -1905,8 +1903,6 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 Existirá en el estado un Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social, y en cada institución de seguridad pública de los municipios podrá haber también un Consejo de Participación Ciudadana, con el carácter de órgano colegiado consultivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 161.
 
 El Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social se conformará de la siguiente manera:
@@ -1941,11 +1937,15 @@ VI. Un representante de las cámaras industriales de la entidad;
 
 VII. Un representante de la Cámara Nacional de Comercio y Servicios de Guadalajara;
 
-VIII. Un representante de Coparmex Jalisco, y (sic)
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+VIII. Un representante de Coparmex Jalisco;
 
 IX. Un representante de la Universidad de Guadalajara;
 
-X. Previa invitación del Consejo, un representante de instituciones de educación superior privada de la entidad.
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+
+X. Previa invitación del Consejo, un representante de instituciones de educación superior privada de la entidad; y
 
 XI. Cualquier otra institución que el Consejo apruebe invitar.
 
