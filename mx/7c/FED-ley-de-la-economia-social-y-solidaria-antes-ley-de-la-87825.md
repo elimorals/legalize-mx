@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-economia-social-y-solidaria-antes-ley-de-la-87825"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-23"
-last_updated: "2012-05-23"
+last_updated: "2013-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-22"
 
 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO SÉPTIMO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -657,7 +657,9 @@ El Instituto podrá imponer sanciones administrativas, en los términos previsto
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. La convocatoria y asuntos relativos a la celebración de las asambleas regionales de los Organismos del Sector, será efectuada por la Secretaría a través de sus delegaciones estatales en un plazo no mayor de seis meses después de la publicación de la presente Ley en el Diario Oficial de la Federación. Una vez realizadas las asambleas regionales, la Secretaría deberá convocar a la Instalación del Congreso Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+SEGUNDO. La convocatoria y asuntos relativos a la celebración de las asambleas regionales de los Organismos del Sector, será efectuada por la Secretaría, a través del Instituto, en un plazo no mayor de dieciocho meses después de la publicación de la presente Ley en el Diario Oficial de la Federación. Una vez realizadas las asambleas regionales, la Secretaría, a través del Instituto, deberá convocar a la instalación del Congreso Nacional.
 
 El Congreso Nacional Constituyente deberá elegir tan pronto como se instituya, a sus Representantes permanentes ante el Consejo Consultivo del Instituto, así como elaborar su plan de trabajo y su reglamento interno en un plazo no mayor a seis meses después de haber quedado legalmente constituido.
 
@@ -669,11 +671,19 @@ El personal que, en virtud de esta Ley pase de la Coordinación General del Prog
 
 Los asuntos que a la entrada en vigor de la presente Ley se encuentren pendientes de trámite por parte de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad seguirán a cargo del Instituto hasta su total conclusión.
 
-En tanto se modifique el Reglamento Interior de la Secretaria de Economía para la reglamentación del Instituto, se continuará aplicando el Reglamento vigente y Acuerdo que regula la organización y funcionamiento interno de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, publicado en el Diario Oficial de la Federación el 20 de octubre de 2009, en lo que no se oponga a esta Ley; y, en lo no previsto, se estará a lo que resuelva la Secretaría.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+En tanto se reforma el Reglamento Interior de la Secretaría de Economía y se expida el Reglamento Interior del Instituto, se continuará aplicando el Acuerdo que regula la organización y el funcionamiento interno de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, publicado en el Diario Oficial de la Federación el 20 de octubre de 2009, en lo que no se oponga a esta Ley; y en lo no previsto, se estará a lo que resuelva la Secretaría.
 
 Las facultades, funciones y atribuciones que desempeña actualmente la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, deberán ser concedidas íntegramente al Instituto y reconocidas por el Reglamento Interior de la Secretaría de Economía, así como en todas las disposiciones legales que al efecto se emitan o modifiquen.
 
-CUARTO. Las normas que regulen al Registro y al Programa, respectivamente, deberán ser expedidas por la Secretaría en un plazo no mayor a ciento ochenta días naturales, posteriores a la fecha de su instalación.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
+
+CUARTO.- Las normas que regulen al Registro deberán ser expedidas por la Secretaría en un plazo no mayor a ciento ochenta días naturales, posteriores a la fecha de su instalación.
+
+Las normas que regulen al Programa deberán ser expedidas por la Secretaría durante el año 2013 y entrarán en vigor a partir del ejercicio fiscal 2014, por lo que durante el ejercicio fiscal 2013 las solicitudes de apoyo que se presenten, se tramitarán hasta su conclusión conforme a las Reglas de Operación del Fondo Nacional de Apoyos para Empresas en Solidaridad (FONAES) para el ejercicio fiscal 2012, publicadas en el Diario Oficial de la Federación el 24 de diciembre de 2011, en lo que no se oponga a esta Ley; y en lo no previsto, la Secretaría expedirá los criterios aplicables transitoriamente para el ejercicio fiscal 2013.
+
+Para efectos de lo dispuesto en el artículo 37 de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, durante el ejercicio fiscal 2013, no será exigible la obligación de estar inscrito en el Registro de los Organismos del Sector única y exclusivamente en lo que se refiere a la solicitud y entrega de apoyos del Programa.
 
 QUINTO. En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
 
@@ -682,3 +692,9 @@ SEXTO. Los apoyos cuyo trámite se haya iniciado conforme a las disposiciones ju
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Martín García Avilés, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE ENERO DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
