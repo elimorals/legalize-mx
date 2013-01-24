@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2012-10-11"
+last_updated: "2013-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-01-20"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -43,15 +43,25 @@ Al frente de la Secretaría de Educación Pública estará el Secretario del Des
 
 A.- Unidades administrativas:
 
-I. Subsecretaría de Educación Superior;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-II. Subsecretaría de Educación Media Superior;
+I. Subsecretaría de Planeación y Evaluación de Políticas Educativas;
 
-III. Subsecretaría de Educación Básica;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-IV. Oficialía Mayor;
+II. Subsecretaría de Educación Superior;
 
-V. Unidad de Planeación y Evaluación de Políticas Educativas;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+III. Subsecretaría de Educación Media Superior;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+IV. Subsecretaría de Educación Básica;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+V. Oficialía Mayor;
 
 > <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
@@ -223,9 +233,9 @@ XI. Expedir el manual de organización general de la Secretaría que deberá pub
 
 XII. Expedir, con sujeción a lo dispuesto por la Ley de la materia y su Reglamento, los nombramientos de directores generales y titulares de las unidades administrativas de la Secretaría y emitir los lineamientos conforme a los cuales deberán expedirse los nombramientos relativos a los demás rangos del Sistema de Servicio Profesional de Carrera;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-XIII. Acordar con los Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
+XIII. Acordar con los Subsecretarios, Oficial Mayor, Titular de la Unidad de Asuntos Jurídicos y Titular de la Unidad de Coordinación Ejecutiva, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
 
 XIV. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados y, en su caso, las modificaciones a éstos, así como dar su conformidad a los de las entidades paraestatales del sector coordinado por ella;
 
@@ -277,9 +287,9 @@ IX. Suscribir los documentos relativos al ejercicio de las facultades que le hay
 
 X. Expedir copias certificadas de las constancias que obren en los archivos de las unidades administrativas a su cargo, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-XI. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
+XI. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, Titular de la Unidad de Asuntos Jurídicos y Titular de la Unidad de Coordinación Ejecutiva, así como con las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
 
 XII. Adscribir al personal de las unidades administrativas de su responsabilidad y decidir sobre sus movimientos dentro de tales unidades;
 
@@ -379,81 +389,19 @@ XXX. Someter al Secretario para su aprobación el anteproyecto de presupuesto de
 
 XXXI. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
-### CAPÍTULO V. DE LA UNIDAD DE PLANEACIÓN Y EVALUACIÓN DE POLÍTICAS EDUCATIVAS
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+### CAPÍTULO V
 
 ###### ARTÍCULO 8.
 
-Al frente de la Unidad de Planeación y Evaluación de Políticas Educativas habrá un Titular, a quien corresponderá el ejercicio de las siguientes facultades:
+(DEROGADO, D.O.F. 24 DE ENERO DE 2013)
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
-
-I. Realizar, previo acuerdo con el Secretario, las acciones inherentes a la planeación global del Sistema Educativo Nacional, así como a la evaluación de dicha planeación;
-
-II. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
-
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
-
-III. Desarrollar, integrar y difundir la información necesaria para la planeación y evaluación del sector educativo y establecer los indicadores respectivos;
-
-IV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
-
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-V. Coordinar, en consulta con las unidades administrativas y órganos desconcentrados de la Secretaría, así como de las entidades del sector educativo, la planeación y evaluación de políticas y programas de carácter estratégico, incluyendo aquellas dirigidas a los educandos y docentes;
-
-VI. Desarrollar y coordinar el Sistema Nacional de Evaluación Educativa en consulta con las entidades federativas, así como con las entidades especializadas y las unidades administrativas competentes;
-
-VII. Planear, programar, organizar, dirigir y evaluar las actividades de las unidades administrativas adscritas a la Unidad, conforme a las instrucciones del Secretario;
-
-VIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
-
-IX. Auxiliar al Secretario en la coordinación de las acciones de radiodifusión y televisión educativa, así como en lo relativo a la coordinación de las entidades dedicadas a dichas actividades;
-
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
-
-X. Evaluar el ejercicio del presupuesto, en coordinación con la Dirección General de Presupuesto y Recursos Financieros, en lo referente a la ejecución de los programas y políticas educativas;
-
-XI. Proponer al Secretario los anteproyectos de tratados, acuerdos interinstitucionales, acuerdos y bases de coordinación con las entidades federativas y municipios, así como de convenios con los sectores social y privado, en los asuntos de su competencia;
-
-XII. Proponer al Secretario la delegación de facultades en funcionarios subalternos en asuntos de su competencia;
-
-XIII. Proporcionar la información, datos y cooperación técnica que sean solicitados por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las instrucciones del Secretario;
-
-XIV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
-
-XV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
-
-XVI. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o le correspondan por suplencia;
-
-XVII. Proponer los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones en asuntos de su competencia;
-
-XVIII. Acordar con los titulares de las unidades administrativas adscritos a la Unidad;
-
-XIX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
-
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XX. Regular, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, el padrón nacional de alumnos, docentes, instituciones y centros escolares, así como regular, coordinar y operar el registro nacional de emisión, validación e inscripción de documentos académicos;
-
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XXI. Establecer, con la participación de las entidades federativas, las instancias especializadas competentes, las unidades administrativas y los órganos desconcentrados de la Secretaría, el Sistema Nacional de Información Educativa;
-
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XXII. Definir, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, los mecanismos de ingreso y promoción al servicio docente y de administración escolar;
-
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XXIII. Coordinar, con las unidades administrativas y órganos desconcentrados de la Secretaría, así como con las entidades paraestatales competentes, la planeación y evaluación de políticas y programas en materia de equidad de género, no violencia e inclusión de personas con discapacidad en el sistema educativo nacional, y
-
-XXIV. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
 ### CAPÍTULO VI. DE LA UNIDAD DE COORDINACIÓN EJECUTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 9.
 
@@ -571,7 +519,7 @@ XI. Diseñar y producir materiales informativos y de difusión para radio, telev
 
 XII. Gestionar, promover y regular la transmisión por radio y televisión de materiales informativos y de difusión de la Secretaría, de los órganos desconcentrados y de las entidades paraestatales que lo requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
@@ -749,7 +697,9 @@ f) Desarrollar formas alternativas de gestión escolar educativa con la particip
 
 VII. Asesorar y proponer los proyectos de normas y criterios para garantizar que los servicios educativos para toda la población, reconozcan la diversidad étnica, lingüística y cultural de la Nación, se eduque para el desarrollo intercultural, se fomenten los valores vinculados con la equidad y se propicie la participación social en todos los tipos, niveles y modalidades educativos, y
 
-VIII. Asesorar y proponer, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas y demás unidades administrativas competentes, los proyectos de normas y criterios para la evaluación y certificación de estudios realizados en el marco de programas educativos orientados al fortalecimiento de la equidad, el desarrollo intercultural y la participación social.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+VIII. Asesorar y proponer, en coordinación con la Subsecretaría de Planeación y Evaluación de Políticas Educativas y demás unidades administrativas competentes, los proyectos de normas y criterios para la evaluación y certificación de estudios realizados en el marco de programas educativos orientados al fortalecimiento de la equidad, el desarrollo intercultural y la participación social.
 
 ###### ARTÍCULO 17.
 
@@ -757,9 +707,13 @@ Corresponde a la Dirección General de Relaciones Internacionales el ejercicio d
 
 I. Fomentar, en coordinación con las dependencias y entidades de la Administración Pública Federal que sean competentes, las relaciones en materia educativa y cultural con otros países, así como participar e intervenir, en su caso, en la formulación de programas de cooperación internacional, políticas y estrategias de financiamiento internacional en la materia;
 
-II. Proponer, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas y las demás dependencias y entidades de la Administración Pública Federal, iniciativas conducentes al desarrollo de políticas y estrategias encaminadas al logro de una posición competitiva de las instituciones mexicanas de educación media superior y superior dentro del ámbito internacional;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-III. Proponer, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas y las demás dependencias y entidades de la Administración Pública Federal, políticas y estrategias, así como planes de mediano y largo plazo, para fortalecer la participación nacional en los programas internacionales de cooperación técnica y financiera para el desarrollo educativo;
+II. Proponer, en coordinación con la Subsecretaría de Planeación y Evaluación de Políticas Educativas y las demás dependencias y entidades de la Administración Pública Federal, iniciativas conducentes al desarrollo de políticas y estrategias encaminadas al logro de una posición competitiva de las instituciones mexicanas de educación media superior y superior dentro del ámbito internacional;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+III. Proponer, en coordinación con la Subsecretaría de Planeación y Evaluación de Políticas Educativas y las demás dependencias y entidades de la Administración Pública Federal, políticas y estrategias, así como planes de mediano y largo plazo, para fortalecer la participación nacional en los programas internacionales de cooperación técnica y financiera para el desarrollo educativo;
 
 IV. Representar a la Secretaría en el cumplimiento de los compromisos que se deriven de los programas de carácter internacional a que se refiere este artículo;
 
@@ -1309,7 +1263,9 @@ VIII. Contribuir al desarrollo de capacidades técnicas de equipos estatales par
 
 IX. Analizar y resolver las solicitudes de autorización para el uso de libros de texto y otros materiales educativos destinados a la educación básica;
 
-X. Efectuar la distribución de los libros de texto gratuitos, así como de los acervos para bibliotecas escolares y de aula y otros materiales educativos para la formación de lectores en las escuelas de educación básica y normal en coordinación con las autoridades educativas locales;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+
+X. Determinar, en coordinación con las autoridades educativas locales, los criterios que deberán observarse para garantizar la distribución oportuna, completa y eficiente de los libros de texto gratuitos, así como de los acervos para bibliotecas escolares y de aula y otros materiales educativos para la formación de lectores en las escuelas de educación básica y normal;
 
 XI. Colaborar, en coordinación con las autoridades educativas locales y unidades administrativas competentes de la Secretaría, así como las demás dependencias y entidades de la Administración Pública Federal, en la implementación, seguimiento y evaluación de estrategias para atender necesidades educativas de los grupos vulnerables o en rezago educativo;
 
@@ -1483,7 +1439,7 @@ XXII. Instrumentar el Sistema del Servicio Profesional de Carrera en la Secretar
 
 XXIII. Instrumentar, operar, controlar y evaluar los sistemas de desarrollo profesional de carrera del personal de apoyo y asistencia a la educación que se establezcan en la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 35.
 
@@ -1555,9 +1511,9 @@ XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público, la aprobac
 
 XIX. Proponer a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades paraestatales agrupadas en el sector educativo, criterios y prioridades para la orientación del gasto público en los diferentes tipos, niveles y modalidades del servicio educativo, y
 
-> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-XX. Evaluar el ejercicio del presupuesto, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas, en lo referente a la ejecución de los programas y políticas educativas.
+XX. Evaluar el ejercicio del presupuesto, en coordinación con la Subsecretaría de Planeación y Evaluación de Políticas Educativas, en lo referente a la ejecución de los programas y políticas educativas.
 
 ###### ARTÍCULO 36.
 
@@ -1971,11 +1927,11 @@ Al frente de cada uno de los órganos internos de control que se mencionan en el
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 52.
 
-El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado.
+El Secretario será suplido en sus ausencias por los subsecretarios de Planeación y Evaluación de Políticas Educativas, Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado.
 
 ###### ARTÍCULO 53.
 
@@ -2017,7 +1973,7 @@ OCTAVO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 11 DE OCTUBRE DE 2006.
 
@@ -2080,3 +2036,19 @@ QUINTO.- Las reformas y adiciones contenidas en el presente Decreto no implican 
 SEXTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 SÉPTIMO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen a la Unidad de Planeación y Evaluación de Políticas Educativas en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Subsecretaría de Planeación y Evaluación de Políticas Educativas.
+
+TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto y que conforme al mismo deban pasar de la Unidad de Planeación y Evaluación de Políticas Educativas a la Subsecretaría de Planeación y Evaluación de Políticas Educativas continuarán su trámite y serán resueltos por esta última.
+
+CUARTO.- La Oficialía Mayor de la Secretaría de Educación Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales de la Unidad de Planeación y Evaluación de Políticas Educativas sean reasignados a la Subsecretaría de Planeación y Evaluación de Políticas Educativas, de conformidad con las disposiciones jurídicas aplicables.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el Presupuesto de Egresos de la Federación 2013, por lo que no se requerirán de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+QUINTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
