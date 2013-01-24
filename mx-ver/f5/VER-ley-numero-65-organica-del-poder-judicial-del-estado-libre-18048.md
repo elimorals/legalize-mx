@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2011-08-29"
+last_updated: "2013-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚM. 65 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -617,9 +617,23 @@ XXII. Nombrar, mediante votación secreta, a tres magistrados para que formen pa
 
 XXIII. (DEROGADA, G.O. 17 DE JULIO DE 2009)
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 24 DE ENERO DE 2013)</small>
 
-XXIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
+XXIV. Fijar las bases a las que habrá de sujetarse el sistema de pensiones complementarias y haber de retiro de los magistrados del Poder Judicial del Estado, atendiendo a la disponibilidad presupuestal y los lineamientos siguientes:
+
+A. Se otorgará a partir de la fecha que surta efectos su jubilación, aparezca alguna incapacidad de carácter permanente o acontezca el fallecimiento del magistrado en activo;
+
+B. En ningún caso será menor al setenta por ciento del total de las percepciones que reciba un magistrado en activo;
+
+C. Al fallecimiento del magistrado en activo, jubilado o incapacitado, se transmitirá al cónyuge, concubina o concubinario supérstite, siempre y cuando no contraiga nuevo matrimonio o dependa económicamente de otra persona;
+
+D. Este sistema será independiente de las cantidades que en su caso, perciba el magistrado o sus beneficiarios por parte del instituto de pensiones del estado; y
+
+E. Los magistrados cuya antigüedad laboral en el Poder Judicial del Estado sea menor a veinte años, recibirán un haber de retiro en los términos y montos que establezca el Pleno, que no podrá ser mayor al cincuenta por ciento del total de las percepciones que reciba un magistrado en activo.
+
+> <small>(ADICIONADA, G.O. 24 DE ENERO DE 2013)</small>
+
+XXV. Conocer de los demás asuntos que expresamente establezcan la constitución y demás leyes del estado.
 
 ### CAPÍTULO III. De su Presidente
 
@@ -2806,3 +2820,9 @@ G.O. 29 DE AGOSTO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE ENERO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Artículo segundo. El Pleno del Tribunal Superior de Justicia, al hacer la distribución por concepto de gasto en el presupuesto de egresos del año dos mil trece, reservará una cantidad suficiente para el establecimiento del sistema de pensiones complementarias.
