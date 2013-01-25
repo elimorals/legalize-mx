@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-01-24"
+last_updated: "2013-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1100,19 +1100,21 @@ La atención materno-infantil tiene carácter prioritario y comprende, entre otr
 
 I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
-III.- La promoción de la integración y del bienestar familiar;
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+III.- La revisión de retina y tamiz auditivo al prematuro;
 
-IV.- La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento, y
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
 
-V.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas.
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
+
+V.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
 
@@ -7989,3 +7991,7 @@ SEGUNDO. El Ejecutivo Federal, a través de la Secretaría de Salud, contará co
 D.O.F. 24 DE ENERO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ENERO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
