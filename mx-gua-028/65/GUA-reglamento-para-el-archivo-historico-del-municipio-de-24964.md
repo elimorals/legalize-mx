@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-archivo-historico-del-municipio-de-24964"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-17"
-last_updated: "2002-05-17"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL ARCHIVO HISTORICO DEL MUNICIPIO DE SALVATIERRA, GUANAJUATO
 
-REGLAMENTO PARA EL ARCHIVO HISTORICO DEL MUNICIPIO DE SALVATIERRA, GTO.
+REGLAMENTO PARA EL ARCHIVO HISTÓRICO DEL MUNICIPIO DE SALVATIERRA, GTO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE SALVATIERRA, GTO., PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 17 de mayo de 2002.
 
@@ -242,3 +244,11 @@ SE ABROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS MUNICIPALES EMITIDAS CON ANTE
 POR LO TANTO, CON FUNDAMENTO EN LOS ARTÍCULOS 70, FRACCIÓN VI Y 2005 DE LA LEY ORGÁNICA MUNICIPAL, MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL AYUNTAMIENTO, EN LA CIUDAD DE SALVATIERRA, ESTADO DE GUANAJUATO, A LOS 28 DÍAS DEL MES DE ENERO DEL AÑO 2002.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2013.
+
+Artículo primero.- El presente Reglamento entrará en vigor al cuarto día siguiente de su publicación en el periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo.- Se abroga el Reglamento para el Archivo Histórico «Luis Castillo Pérez», del Municipio de Salvatierra, Gto., publicado en el periódico Oficial del Gobierno del Estado de Guanajuato, numero 148, de fecha 17 de Mayo del 2002.
