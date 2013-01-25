@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-ciencias-forenses-del-estado-de-baja-90586
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-30"
-last_updated: "2012-11-30"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CIENCIAS FORENSES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NUMERO 408, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección III del Periódico Oficial, del Estado de Baja California, el viernes 30 de noviembre de 2012.
 
@@ -1012,3 +1014,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Los dictámenes, certificaciones y constancias periciales y demás actuaciones que se hayan realizado con anterioridad a la abrogación de la presente Ley en auxilio y apoyo técnico del Instituto de Ciencias Forenses del Estado, tendrán plena validez jurídica.
