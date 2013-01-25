@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2012-04-25"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y SUCESIVA DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y CUARTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -4043,7 +4045,7 @@ EL SUBSECRETARIO "A" DE GOBIERNO ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE GOB
 
 LIC. RICARDO AGUILASOCHO RUBIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE JUNIO DE 1991.
 
@@ -4109,19 +4111,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 9 DE AGOSTO DE 2002.
 
-DECRETO No. 118
+DECRETO No. 118 POR EL QUE SE ADICIONAN CUATRO PÁRRAFOS AL ARTÍCULO 150 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 9 DE AGOSTO DE 2002.
 
-DECRETO No. 154
+DECRETO No. 154 POR EL QUE SE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 9 DE AGOSTO DE 2002.
 
-DECRETO No. 155
+DECRETO No. 155 POR EL QUE SE REFORMA EL ULTIMO PÁRRAFO DEL ARTÍCULO 388 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
@@ -4137,13 +4139,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 2 DE ENERO DE 2004.
 
-DECRETO No. 452.
+DECRETO No. 452 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPITULO VI DEL TÍTULO UNDÉCIMO, LOS ARTÍCULOS 547; 548; 549; 550; 551 Y 555 PRIMER PÁRRAFO Y SUS FRACCIONES I, II, III Y IV; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 Artículo Único. El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 2 DE ENERO DE 2004.
 
-DECRETO No. 453.
+DECRETO No. 453 POR EL QUE SE REFORMAN LOS ARTÍCULOS 6; 7; 528; 540 Y 543; Y SE DEROGAN LOS ARTÍCULOS 511; 512; 513; 514; 515; 516; 517; 518; 519; 520; 521; 522; 523; 524; 525; 526; 527; 529; 530; 531 Y 532 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4193,7 +4195,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 5 DE OCTUBRE DE 2007.
 
-DECRETO No. 650.
+DECRETO No. 650 POR EL QUE SE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4201,7 +4203,7 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 
 P.O. 5 DE OCTUBRE DE 2007.
 
-DECRETO No. 664.
+DECRETO No. 664 POR EL QUE SE REFORMAN LOS ARTÍCULOS 17; 186; 446, FRACCIÓN I; 511; 512; 513; 514; Y, 546; SE ADICIONA CON UN SEGUNDO PÁRRAFO AL ARTÍCULO 151; SE DEROGA EL PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SIGUIENTES, DEL ARTÍCULO 150, TODOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4232,3 +4234,49 @@ P.O. 25 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO. El Código de Procedimientos Penales contenido en el presente Decreto entrará en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil trece, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito y Salvador Alvarado.
+
+II. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Guasave y Sinaloa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+V. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+SEGUNDO. El presente Código se aplicará en las fechas y ámbitos espaciales y temporales de validez que se determinan en el artículo primero transitorio del presente Decreto, y sus disposiciones sólo se aplicarán a los procesos por delitos cometidos a partir de su entrada en vigor.
+
+TERCERO. Los procesos penales iniciados con anterioridad a la entrada en vigor del presente Código o que se estén substanciando, se tramitarán hasta su conclusión y en su caso, ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO. Se abroga el Código de Procedimientos Penales para el Estado de Sinaloa publicado en el Periódico Oficial "El Estado de Sinaloa" No. 126, Tercera Sección de fecha veintiséis de septiembre de mil novecientos ochenta y seis, conforme este Código entre en vigor sucesiva y territorialmente por regiones o Circuito Judicial. Asimismo, se deroga cualquier disposición que se oponga o contradiga lo preceptuado en este Código.
+
+QUINTO. Los delitos permanentes y continuados que inicien su comisión en la vigencia del Código de Procedimientos Penales que se abroga, se investigarán, procesarán y juzgarán conforme a dicho ordenamiento aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente Código.
+
+SEXTO. No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando alguno de ellos deba tramitarse conforme al presente Código y otro conforme al Código de Procedimientos Penales para el Estado de Sinaloa publicado en el Periódico Oficial "El Estado de Sinaloa" No. 126, Tercera Sección de fecha veintiséis de septiembre de mil novecientos ochenta y seis.
+
+SÉPTIMO. En el curso del proceso penal regido por el Código de Procedimientos Penales para el Estado de Sinaloa publicado en el Periódico Oficial "El Estado de Sinaloa" No. 126, Tercera Sección de fecha veintiséis de septiembre de mil novecientos ochenta y seis podrán aplicarse, previa solicitud del Ministerio Público, las disposiciones del presente Código que se refieran a:
+
+I. La facultad de abstenerse de investigar o determinar el archivo temporal;
+
+II. La facultad de aplicar los criterios de oportunidad;
+
+III. La suspensión condicional del proceso y el proceso abreviado, los cuales podrán decretarse hasta antes de la celebración de la audiencia de vista;
+
+IV. El proceso simplificado, el cual podrá decretarse hasta antes del cierre de la instrucción, o
+
+V. Los procesos especiales.
+
+OCTAVO. Cuando una autoridad penal reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+
+NOVENO. Durante la vacatio legis del presente Código, en un lapso que no podrá exceder de junio del dos mil trece, el Congreso del Estado deberá reformar las leyes que regulen la competencia y estructura de los Órganos Jurisdiccionales del Poder Judicial del Estado, de la Defensoría de Oficio, del Ministerio Público, de la Policía y las demás disposiciones legales aplicables, lapso durante el cual deberán también hacerse las adecuaciones normativas de naturaleza administrativa de las referidas instituciones.
+
+DÉCIMO. En términos del Transitorio Octavo del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el dieciocho de junio de dos mil ocho, el Poder Judicial del Estado, la Procuraduría General de Justicia del Estado, la Defensoría de Oficio y toda Dependencia a la que impacte la entrada en vigor de este Código, deberán elaborar y ejecutar los programas necesarios para su oportuna, adecuada y correcta implementación.
+
+DÉCIMO PRIMERO. El Congreso del Estado deberá expedir la declaratoria a que se refiere el último párrafo del artículo Segundo Transitorio de la reforma constitucional publicada el dieciocho de junio de dos mil ocho en el Diario Oficial de la Federación.
+
+DÉCIMO SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
