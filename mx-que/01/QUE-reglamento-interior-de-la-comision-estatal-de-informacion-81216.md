@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-informacion-81216
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 1 de abril de 2011.
 
@@ -636,3 +638,15 @@ Javier Rascado Pérez
 Comisionado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Información Gubernamental del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 1 de abril de 2011.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto. El Órgano Interno de Control entrará en funciones hasta en tanto el presupuesto asignado a la Comisión permita su inclusión a las estructura orgánica y realizar la erogación presupuestaria y salarial correspondiente. Hasta en tanto eso ocurra, las atribuciones referidas en el artículo 31 del presente Reglamento se desempeñarán por parte del encargado del despacho del Órgano Interno de Control que determine el Presidente quien sólo percibirá la remuneración que a su cargo original corresponda.
