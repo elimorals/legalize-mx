@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bebidas-alcoholicas-para-el-municipio-de-48397"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-30"
-last_updated: "2006-01-30"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE BEBIDAS ALCOHÓLICAS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE BEBIDAS ALCOHÓLICAS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de enero de 2006.
 
@@ -1644,3 +1646,17 @@ RUBRICA
 C. LUIS ENRIQUE SANTILLÁN CHÁVEZ
 
 SINDICO SEGUNDO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta del Municipio. Lo anterior de conformidad con lo establecido en el artículo 27 fracción IV, y artículo 167 de la Ley Orgánica de la Administración Pública Municipal, así como el capítulo V, artículo 76 del Reglamento Interior del Ayuntamiento del Municipio.
+
+SEGUNDO.- Se abroga el Reglamento para Regular la Venta y/o Consumo de Bebidas Alcohólicas y/o Cerveza en Allende N.L. aprobado en la Sesión del R. Ayuntamiento de fecha 27 de Enero del año 2006 y publicado en el Periódico Oficial el 30 de Enero del 2006.
+
+TERCERO.- Quienes cuenten con licencia para la operación de cualquier giro comercial en el cual se expenda y/o consuman bebidas alcohólicas y/o cerveza, deberán acudir a la Secretaría de Finanzas y Tesorería General del Estado en un plazo de 60 días naturales a partir de la entrada en vigor de este Reglamento a fin de obtener la licencia estatal.
+
+CUARTO.- La Tesorería Municipal está obligada a conservar los registros de las licencias otorgadas con anterioridad a la entrada en vigor de este Reglamento.
+
+QUINTO.- Los establecimientos cuyas licencias fueron otorgadas con anterioridad a la entrada en vigor de este Reglamento conservarán los derechos de las licencias así otorgadas; pero se sujetarán a las disposiciones de este Reglamento.
