@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2012-11-23"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -53,39 +53,39 @@ La Procuraduría, dependiente del Sistema, será la autoridad administrativa res
 
 Serán sujetos de esta ley los menores que se encuentren en estado de vulnerabilidad y la Familia.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta ley, se entiende por:
 
-I.- CONSEJO: El Consejo de Adopciones encargado de apoyar y asesorar a la Procuraduría, para la definición de políticas y acciones en materia de adopción de menores y hogares substitutos.
+I.- Acreedor alimentario: Aquella persona que es sujeta de derecho a una pensión alimenticia generada por parentesco o por disposición de la Ley.
 
-II.- DIRECTOR: El Director del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California.
+II.- Consejo: El consejo de adopciones encargado de apoyar y asesorar a la procuraduría, para la definición de políticas y acciones en materia de adopción de menores y hogares substitutos.
 
-III.- FAMILIA: El grupo fundamental de la sociedad y medio natural para el crecimiento y el bienestar de todos sus miembros.
+III.- Director: El Director del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California.
 
-IV.- LEY: Ley para la Protección y Defensa de los Menores y la Familia en el Estado de Baja California.
+IV.- Familia: El grupo fundamental de la sociedad y medio natural para el crecimiento y el bienestar de todos sus miembros.
 
-V.- MENOR(ES): Toda persona menor de dieciocho años de edad.
+V.- Ley: Ley para la Protección y Defensa de los Menores y la Familia en el Estado de Baja California.
 
-VI.- PLAN SOCIAL: Es el programa diseñado por la Procuraduría, que deberán cumplir los padres, familiares o quienes ejerzan la patria potestad del menor en estado de vulnerabilidad, para efectos de lograr su reintegración familiar.
+VI.- Menor(es): Toda persona menor de dieciocho años de edad.
 
-VII.- PROCURADOR: El Procurador para la Defensa de los Menores y la Familia en el Estado.
+VII.- Plan social: Es el programa diseñado por la Procuraduría, que deberán cumplir los padres, familiares o quienes ejerzan la patria potestad del menor en estado de vulnerabilidad, para efectos de lograr su reintegración familiar.
 
-VIII.- PROCURADURIA: La Procuraduría para la Defensa de los Menores y la Familia en el Estado.
+VIII.- Procurador: El Procurador para la Defensa de los Menores y la Familia en el Estado.
 
-IX.- REGLAMENTO: El Reglamento de la Ley para la Protección y Defensa de los Menores y la Familia en el Estado de Baja California.
+IX.- Procuraduría: La Procuraduría para la Defensa de los Menores y la Familia en el Estado.
 
-X.- SISTEMA: El Sistema Estatal para el Desarrollo Integral de la Familia de Baja California.
+X.- Reglamento: El Reglamento de la Ley para la Protección y Defensa de los Menores y la Familia en el Estado de Baja California.
 
-XI.- SUBPROCURADOR: El Titular de la Subprocuraduría para la Defensa de los Menores y la Familia.
+XI.- Sistema: El Sistema Estatal para el Desarrollo Integral de la Familia de Baja California.
 
-XII.- SUBPROCURADURIA: Subprocuraduría para Defensa de los Menores y la Familia.
+XII.- Subprocurador: El titular de la Subprocuraduría para la Defensa de los Menores y la Familia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIII.- Subprocuraduría: Subprocuraduría para Defensa de los Menores y la Familia.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
-
-XIII.- VULNERABILIDAD: Cualquier conducta o circunstancia que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de los menores o personas que no tengan capacidad para comprender el significado del hecho o adultos mayores de sesenta años de edad, aun cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal.
+XIV.- Vulnerabilidad: Cualquier conducta o circunstancia que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de los menores o personas que no tengan capacidad para comprender el significado del hecho, aun cuando esos hechos o conductas no cayeren bajo la sanción de la ley penal.
 
 ### CAPÍTULO II. DE LOS DERECHOS MINIMOS DEL MENOR
 
@@ -289,11 +289,13 @@ XX.- Solicitar a otras instancias públicas o privadas ya sean federales, estata
 
 XXI.- Otorgar asesoría o representación jurídica a los adultos mayores de sesenta años de edad, que así lo soliciten, en la demanda de alimentos que establece el Código Civil del Estado; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2012)</small>
+XXII. Presentar ante la autoridad competente, las solicitudes de aseguramiento de alimentos a favor del acreedor alimentario, cuando lo sea requerido, así como vigilar de manera activa el cumplimiento del derecho a una pensión alimentaria por parte del deudor alimentario; y,
 
-XXII.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2013)</small>
+
+XXIII. Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
@@ -309,7 +311,13 @@ III.- Coordinación de Asistencia Privada;
 
 IV.- Coordinación de Albergues y Módulos temporales; y,
 
-V.- Las demás que sean necesarias para el cumplimiento de sus atribuciones que señalen la presente Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+V.- Coordinación de Asistencia a Acreedores Alimentarios; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2013)</small>
+
+VI.- Las demás que sean necesarias para el cumplimiento de sus atribuciones que señalen la presente ley y demás disposiciones legales aplicables.
 
 Las Áreas referidas en el presente artículo dependerán directamente del Procurador.
 
@@ -447,11 +455,19 @@ IX.- Ordenar la comparecencia, mediante citatorios, de las personas involucradas
 
 X.- Concluidas las actuaciones del día y agregados los documentos recibidos, vigilar que estos sean foliados y que el sello de la Procuraduría esté colocado en el fondo del expediente físico, de manera que abarque las dos caras;
 
-XI.-Ser coadyuvante del Ministerio Público y aportar las pruebas con que cuente, cuando en el ejercicio de sus funciones haya tenido conocimiento de hechos presuntamente constitutivos de un delito en contra de menores;
+XI.- Ser coadyuvante del Ministerio Público y aportar las pruebas con que cuente, cuando en el ejercicio de sus funciones haya tenido conocimiento de hechos presuntamente constitutivos de un delito en contra de menores;
 
-XII.- Autorizar las diligencias y actuaciones que se practiquen; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-XIII.- Las demás que le sean encomendadas legalmente por el Procurador o el Subprocurador en su caso, o le señalen las disposiciones legales aplicables.
+XII.- Autorizar las diligencias y actuaciones que se practiquen;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+XIII.- Apoyar a la Coordinación de Asistencia a Acreedores Alimentarios en la solicitud de aseguramiento de alimentos a favor del acreedor alimentario solicitante; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2013)</small>
+
+XIV.- Las demás que le sean encomendadas legalmente por el Procurador o el Subprocurador en su caso, o le señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 30.
 
@@ -564,6 +580,26 @@ IX.- Planear y coordinar las actividades inherentes a su cargo en las que debe p
 X.- Solicitar a las Subprocuradurías, la reubicación de menores a casas hogar o instituciones de asistencia privada cuando su atención así lo requiera, y,
 
 XI.- En general todas aquellas que legalmente le sean encomendadas por el Procurador, o le señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+ARTÍCULO 37 BIS.- Compete a la Coordinación de Asistencia a Acreedores Alimentarios, lo siguiente:
+
+I. Otorgar asesoría, a quienes lo soliciten, sobre el derecho de pensión alimenticia;
+
+II. Orientar a los acreedores alimentarios sobre como solicitar la pensión alimenticia, y en el caso que sea necesario, coadyuvarlo para poder hacer la presentación de dicha solicitud ante la autoridad correspondiente;
+
+III. Integrar debidamente los expedientes a su cargo tanto física como electrónicamente;
+
+IV. Canalizar apropiadamente al acreedor alimentario a la Defensoría Pública en el caso de que requiera representación legal para adquirir los beneficios de la pensión alimenticia;
+
+V. Al tener conocimiento de la comisión de un delito a raíz del incumplimiento del pago de pensión alimenticia a un acreedor alimentario, inmediatamente hacerle del conocimiento al Ministerio Público para que se proceda debidamente;
+
+VI. Por medio de las áreas jurídicas de las Subprocuradurías, solicitar a la autoridad correspondiente el aseguramiento de alimentos a favor del acreedor alimentario que lo haya gestionado, aportando lo necesario para que se pueda realizar dicha acción;
+
+VII. Promover el derecho de pensión alimenticia, mediante campañas informativas permanentes; y
+
+VIII. Mantener una base de datos de acreedores alimentarios asistidos y darle seguimiento oportuno a cada uno de los casos atendidos.
 
 ###### ARTÍCULO 38.
 
@@ -796,3 +832,9 @@ P.O. 23 DE NOVIEMBRE DE 2012.
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Congreso del Estado realizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo a las presentes Reformas de Ley.
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede un plazo de 60 días, a partir de la entrada en vigor del presente Decreto, para que se realicen las adecuaciones reglamentarias y materiales para su cumplimiento.
