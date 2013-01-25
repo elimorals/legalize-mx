@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2012-10-23"
+last_updated: "2013-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -417,9 +417,11 @@ La Dirección y el H. Ayuntamiento promoverán la participación ciudadana para 
 
 #### SECCIÓN PRIMERA. DEL H. AYUNTAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2013)</small>
+
 ###### Artículo 10.
 
-El H. Ayuntamiento, en materia de Desarrollo Urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley y el Reglamento Interior del H. Ayuntamiento, tendrá las siguientes:
+El H. Ayuntamiento, en materia de desarrollo urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley y el Reglamento Interior del H. Ayuntamiento, tendrá las siguientes:
 
 I. Controlar y vigilar, a través de la Dirección, la zonificación y los usos del suelo que se deriven de los planes de desarrollo urbano;
 
@@ -442,6 +444,14 @@ IX. Autorizar la celebración de convenios con personas físicas o morales para 
 X. Acordar en los términos del presente Código, la Ley de Desarrollo Urbano y demás normativa, las adecuaciones que en su caso sean procedentes realizar al POTE y los que de éste deriven, previa revisión y evaluación realizada, con el auxilio del IMPLAN;
 
 XI. Autorizar aquellos asuntos que por su naturaleza pudieran contrastar o generar problemas en zonas ya consolidadas;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2013)</small>
+
+XI A. Autorizar los usos y actividades especiales relativos a estaciones de servicio de gasolina y/o diesel; establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2013)</small>
+
+XI B. Emitir la opinión sobre la instalación de los espacios para apuestas, que le sea solicitada en los términos de la Ley Federal de Juegos y Sorteos, su Reglamento, así como del presente Código;
 
 XII. Resolver los casos no previstos en el presente ordenamiento, previo dictamen técnico de la dependencia o entidad municipal competente; y,
 
@@ -475,9 +485,11 @@ III. Las demás que se deriven del presente Código y de otras disposiciones leg
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2013)</small>
+
 ###### Artículo 13.
 
-La Dirección General de Desarrollo Urbano, en materia de Desarrollo Urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley, el Reglamento Interior de la Administración, tendrá las siguientes:
+La Dirección General de Desarrollo Urbano, en materia de desarrollo urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley, el Reglamento Interior de la Administración, tendrá las siguientes:
 
 En materia de Licencias, Permisos y Autorizaciones:
 
@@ -517,11 +529,11 @@ XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predio
 
 XVI. Aplicar en el ámbito de su competencia las diferentes restricciones que marquen las Leyes y Reglamentos aplicables, así como las especificaciones técnicas y normativas que dicten la Comisión Nacional del Agua, la CFE, el SAPAL y todos los demás aplicables, para evitar el mal uso del suelo;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-XVII. Clasificar y reclasificar las vías colectoras, locales y las vialidades que conforman el sistema vial primario del Municipio, de acuerdo a la sección de las mismas, previa opinión del IMPLAN y al planteamiento de proyecto de los desarrollos; así como coadyuvar con dicho instituto en las propuestas de usos del suelo.
+XVII. Clasificar y reclasificar las vías colectoras y locales, previa opinión del IMPLAN y en base al planteamiento del proyecto de los desarrollos; así como coadyuvar con dicho instituto en las propuestas de usos del suelo.
 
-En el caso de la clasificación y reclasificación de las vialidades que se actualice al amparo de esta fracción, deberán integrarse al plano de zonificación del Municipio y los que de éste se deriven.
+En el caso de la clasificación y reclasificación de las vialidades que se actualice al amparo de esta fracción, deberán integrarse al plano de zonificación del Municipio y los que de éste se deriven;
 
 XVIII. Resolver auxiliados por el IMPLAN, las compatibilidades de uso de suelo que presenten problemática de incompatibilidad aparente, a partir de estudios de compatibilidad urbanística, siempre y cuando no impliquen modificación al POTE, al Plano de Zonificación y los que de estos deriven, en tal caso, corresponderá al H. Ayuntamiento su autorización;
 
@@ -529,13 +541,15 @@ XIX. Crear el sistema de información sobre uso del suelo y Banco de Datos para 
 
 XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XXII (sic) establecido en el presente Código;
 
-XXI. Autorizar los usos o actividades con normas particulares, en los términos del presente Código, del Manual Técnico de Usos del Suelo, Manual Técnico de las Construcciones y demás normativa aplicable;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-En materia de Fraccionamientos y Desarrollos en Condominio:
+XXI. Autorizar los usos y actividades especiales de intensidad media y alta relativos a la venta o consumo de bebidas alcohólicas. Así como autorizar los usos y actividades especiales que se encuentren clasificados como servicios carreteros, tenerías, antenas de telefonía celular, bancos de material, espacios para apuestas. Todo lo anterior en los términos del presente Código, del Manual Técnico de Usos del Suelo, Manual Técnico de las Construcciones y demás normativa aplicable.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+Tratándose de los espacios para apuestas la Dirección procederá a su autorización, una vez que se cuente con la opinión favorable emitida por el H. Ayuntamiento en los términos de la Ley Federal de Juegos y Sorteos, su Reglamento y los requisitos previstos por el presente Código con respecto a este uso;
 
-XXI - A. Emitir la opinión, a través de la información de uso de suelo, sobre la instalación de los espacios para apuestas, que le sea solicitada en los términos de la Ley Federal de Juegos y Sorteos, del Reglamento de la Ley Federal de Juegos y Sorteos, así como del presente Código;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+XXI A. Someter a la consideración de la Comisión de Desarrollo Urbano la opinión que deba rendirse para la instalación de los espacios para apuestas en el Municipio, en los términos de la normativa aplicable;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -1153,19 +1167,21 @@ De igual forma tratándose de cualquier solicitud que implique el nuevo desarrol
 
 Para la Instalación de cualquier uso comercial, de servicios o industrial que contemple dos ó más locales individuales, el predio en su conjunto habrá de reunir las normas de intensidad, dimensiones y parámetros para el servicio de carga y descarga, que estatuye el presente Código para cada grupo de uso del suelo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2013)</small>
 
-### CAPÍTULO III. USOS DE SUELO ESPECIALES
+### CAPÍTULO III. USOS Y ACTIVIDADES ESPECIALES
 
 ###### Artículo 52.
 
 (DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### Artículo 53.
 
-Los usos especiales se encuentran regulados en el Manual Técnico de Usos del Suelo, y serán autorizados por la Dirección, a través de las licencias de construcción y de uso del suelo, según corresponda, para lo cual, además de observarse lo dispuesto por el presente Código para la expedición de dichas licencias, se estará a lo que estatuyen las NOM, las disposiciones o especificaciones técnicas que una autoridad o ente normativo en la materia determinen, así como a lo que señala el Manual Técnico de las Construcciones y el mencionado Manual Técnico de Usos del Suelo.
+Los usos especiales se encuentran regulados en el Manual Técnico de Usos del Suelo y para su autorización deberá observarse además de lo dispuesto por el presente Código, lo que estatuyen las NOM, las disposiciones o especificaciones técnicas que una autoridad o ente normativo en la materia determinen, así como lo que señala el Manual Técnico de las Construcciones y el mencionado Manual Técnico de Usos del Suelo.
+
+Tratándose de los usos y actividades especiales relativos a estaciones de servicio de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel, previo a la expedición de la licencia de construcción o de uso del suelo, deberá obtenerse la autorización del H. Ayuntamiento; y en el caso de los espacios para apuestas, la opinión favorable que prevén los ordenamientos federales aplicables.
 
 ### CAPÍTULO IV. DE LAS NORMAS TÉCNICAS DE ZONIFICACIÓN MUNICIPAL
 
@@ -1853,23 +1869,45 @@ Una vez que se presenten todos los requisitos, para esta licencia, la Dirección
 
 El uso de suelo que ampare la licencia deberá estar a la vista del público, excepto en los inmuebles destinados a casa habitación y deberá mostrarse cuando así lo solicite cualquier autoridad competente.
 
-#### SECCIÓN SEPTIMA. DE LA LICENCIA CONDICIONADA DE USO DEL SUELO
+#### SECCIÓN SEXTA - BIS. DE LA LICENCIA DE USO DEL SUELO PARA USOS Y ACTIVIDADES ESPECIALES RESERVADAS AL H. AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 129 B. En caso de inmuebles que concluyeron un proceso de construcción y que en su momento fueron autorizados para edificaciones con destino diferente al de un uso de suelo especial, se requerirá la aprobación del H. Ayuntamiento únicamente cuando los interesados pretendan un uso de suelo relativo a estaciones de servicio de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel, para ello la Dirección someterá el expediente respectivo a la consideración de la Comisión de Desarrollo Urbano.
+
+Para efectos de lo anterior, la Dirección será la encargada de recibir y analizar la información necesaria para la integración del mencionado expediente, por lo que los interesados deberán presentar a esa unidad administrativa los requisitos siguientes:
+
+I. Información de uso de suelo, indicando todos los usos que se encuentren dentro del predio;
+
+II. Estudio de compatibilidad urbanística;
+
+III. Proyecto arquitectónico y dos fotografías impresas donde se observen los usos dentro del inmueble, así como los cajones de estacionamiento y el proyecto de adecuaciones propuestas al inmueble;
+
+IV. Copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio; o en su caso, copia del instrumento que acredite la legal posesión del inmueble o en su defecto anuencia del propietario donde manifieste su conformidad para el trámite solicitado;
+
+V. Para el caso de estaciones de servicio de gasolina y/o diesel deberá presentar un proyecto básico definitivo aprobado por Pemex Refinación; y,
+
+VI. Tratándose de las estaciones de Gas L.P., se requerirá además el visto bueno emitido por parte de la Secretaria de Energía.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 129 C. Cuando los solicitantes no reúnan la totalidad de los requisitos que establece el artículo anterior, o carezcan de algún elemento que determine la Dirección, ésta requerirá al solicitante a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
+
+Una vez que se presenten todos los requisitos, la Dirección procederá a realizar el análisis técnico del expediente conformado y una vez concluido éste, deberá gestionar su agenda en la sesión más próxima de la Comisión de Desarrollo Urbano, a efecto de que ésta realice el estudio, discusión y en su caso dictaminación de conformidad con la normativa aplicable, para que con posterioridad se someta a la consideración del pleno del H. Ayuntamiento.
+
+De resultar favorable la determinación del H. Ayuntamiento, corresponderá a la Dirección continuar con el trámite de la licencia de uso del suelo a petición expresa de los interesados, para lo cual se habrá de seguir el procedimiento previsto en el presente Código.
 
 ###### Artículo 129.
 
 En las zonas de preservación, sólo se autorizarán los usos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+Artículo 129 A. (DEROGADO, P.O. 25 DE ENERO DE 2013)
 
-###### Artículo 129.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2013)</small>
 
-A.- Tratándose de Espacios para Apuestas deberá observarse lo dispuesto por la Ley Federal de Juegos y Sorteos, su Reglamento, además de lo previsto en el Manual Técnico de Usos del Suelo del presente Código en el apartado de usos especiales.
+#### SECCIÓN SEPTIMA. DE LA LICENCIA CONDICIONADA DE USO DEL SUELO
 
 #### SECCIÓN OCTAVA. DE LAS FUSIONES Y DIVISIONES
-
-#### SECCIÓN PRIMERA. DE LOS FRACCIONAMIENTOS RESIDENCIALES
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 130.
 
@@ -1923,7 +1961,7 @@ El costo de esta Licencia será igual al que generaría la licencia de uso del s
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 5 días hábiles; dentro de dicho término, la Dirección expedirá la licencia correspondiente o, en su caso, notificará al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-#### SECCIÓN SEGUNDA. DE LOS FRACCIONAMIENTOS DE HABITACION POPULAR, DE INTERÉS SOCIAL O DENSIDAD ALTA
+#### SECCIÓN PRIMERA. DE LOS FRACCIONAMIENTOS RESIDENCIALES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -2375,7 +2413,7 @@ La aprobación que emitan las dependencias y entidades públicas con respecto a 
 
 ### CAPÍTULO II. DE LOS FRACCIONAMIENTOS
 
-#### SECCIÓN TERCERA. DE LOS FRACCIONAMIENTOS INDUSTRIALES
+#### SECCIÓN SEGUNDA. DE LOS FRACCIONAMIENTOS DE HABITACION POPULAR, DE INTERÉS SOCIAL O DENSIDAD ALTA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -2395,7 +2433,9 @@ Los lotes de los fraccionamientos residenciales urbanos tipo B habitacional de d
 
 Los lotes de los fraccionamientos residenciales urbanos tipo C habitacional de densidad media (H4, H5 y H6), deberán tener un frente no menor de 8 metros y una superficie no menor de 140 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
 
-#### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
+#### SECCIÓN TERCERA. DE LOS FRACCIONAMIENTOS INDUSTRIALES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 181.
 
@@ -2415,7 +2455,7 @@ Conjuntamente con el permiso de venta, y previo pago del impuesto de división p
 
 Cuando se pretenda realizar este tipo de fraccionamientos bajo el proceso constructivo de urbanización progresiva, los desarrolladores deberán coordinarse con el IMUVI.
 
-#### SECCIÓN QUINTA. DE LOS FRACCIONAMIENTOS AGROPECUARIOS
+#### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
 ###### Artículo 184.
 
@@ -2453,7 +2493,7 @@ V. Deben realizarse las obras establecidas en las Normas Oficiales Mexicanas cor
 
 VI. Las demás que determinen otras disposiciones legales.
 
-#### SECCIÓN SEXTA. DE LOS FRACCIONAMIENTOS TURÍSTICO, RECREATIVO - DEPORTIVOS
+#### SECCIÓN QUINTA. DE LOS FRACCIONAMIENTOS AGROPECUARIOS
 
 ###### Artículo 189.
 
@@ -2507,7 +2547,7 @@ XI. Demás disposiciones previstas en el POTE.
 
 Podrán ser consideradas también como fraccionamientos campestres de tipo rústico, aquellos nuevos desarrollos que por sus características de ubicación, diseño y urbanización sean similares a lo preceptuado en el presente artículo, excepción hecha del tipo y dimensiones de los lotes, dado que estos deberán de ser las que señalan por el presente Código para los fraccionamientos campestres de tipo residencial.
 
-#### SECCIÓN SÉPTIMA. DE LOS FRACCIONAMIENTOS COMERCIALES
+#### SECCIÓN SEXTA. DE LOS FRACCIONAMIENTOS TURÍSTICO, RECREATIVO - DEPORTIVOS
 
 ###### Artículo 191.
 
@@ -2535,7 +2575,7 @@ X. Arbolado y jardinería en áreas de calles, glorietas y demás lugares destin
 
 XI. Demás disposiciones previstas en el POTE.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
+#### SECCIÓN SÉPTIMA. DE LOS FRACCIONAMIENTOS COMERCIALES
 
 ###### Artículo 192.
 
@@ -2545,7 +2585,7 @@ I. Áreas necesarias para el adecuado desplazamiento peatonal y vehicular que pe
 
 II. La distribución de las calles internas será de conformidad con la MIV y, las áreas de estacionamiento, deberán cumplir con la norma de dotación especificada en el Título de Zonificación y usos del suelo de este ordenamiento.
 
-#### SECCIÓN SEGUNDA. DE LAS MESAS DE TRABAJO
+#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
 ###### Artículo 193.
 
@@ -2685,7 +2725,7 @@ Para los desarrollos mixtos se aplicarán las disposiciones particulares para ca
 
 ### CAPÍTULO V. DE LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN SEGUNDA. DE LAS MESAS DE TRABAJO
 
 ###### Artículo 208.
 
@@ -2747,9 +2787,7 @@ Para tal efecto, el desarrollador deberá presentar un peritaje sobre las condic
 
 El diseño de los fraccionamientos o desarrollos en condominio, deberán autorizarse previa responsiva de un perito urbano, quien debe verificar el cumplimiento de todas y cada una de las especificaciones técnicas que establezcan las entidades y dependencias públicas y las que se deriven de la Ley de Fraccionamientos su reglamento y el presente ordenamiento.
 
-#### SECCIÓN SEGUNDA. DEL PERITO URBANO EN DISEÑO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 215.
 
@@ -3359,9 +3397,9 @@ XVI. Las demás que se establezcan en los ordenamientos legales aplicables en la
 
 ### CAPÍTULO XV. DEL PERITO URBANO
 
-#### SECCIÓN TERCERA. DEL PERITO URBANO EN EJECUCIÓN DE OBRAS DE URBANIZACIÓN
+#### SECCIÓN SEGUNDA. DEL PERITO URBANO EN DISEÑO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 272.
 
@@ -3449,7 +3487,9 @@ El término de las funciones de los peritos urbanos no les exime de la responsab
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DEL PERITO URBANO EN EJECUCIÓN DE OBRAS DE URBANIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 282.
 
@@ -3499,9 +3539,7 @@ VIII. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN PARA OBRAS NUEVAS
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 284.
 
@@ -3733,7 +3771,9 @@ En los proyectos de construcción que presenten los DRO sobre cualquier tipo de 
 
 ### CAPÍTULO II. DE LA LICENCIA DE CONSTRUCCIÓN
 
-#### SECCIÓN TERCERA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIONES
+#### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN PARA OBRAS NUEVAS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 291.
 
@@ -3863,7 +3903,7 @@ Al otorgar autorización para las obras anteriormente descritas, la Dirección d
 
 Los propietarios o poseedores estarán obligados a efectuar las reparaciones correspondientes a satisfacción de la Dirección de Obra o el pago de su importe cuando esta última las realice.
 
-#### SECCIÓN CUARTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA RECONSTRUCCIONES
+#### SECCIÓN TERCERA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIONES
 
 ###### Artículo 299.
 
@@ -3893,9 +3933,7 @@ II. Original y copia de las resoluciones positivas, oficio y/o plano, solicitada
 
 III.- Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo de licencias según la tabla de requerimientos de Corresponsables, DRO y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el corresponsable registrado ante la Dirección, en su caso.
 
-#### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA REESTRUCTURACIONES
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN CUARTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA RECONSTRUCCIONES
 
 ###### Artículo 302.
 
@@ -3947,7 +3985,9 @@ III. Si se cambia el uso de suelo autorizado de la construcción y este cambio o
 
 IV. En muros medianeros.
 
-#### SECCIÓN SEXTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA RESTAURACIONES DE INMUEBLES CATALOGADOS Y SUS COLINDANTES
+#### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA REESTRUCTURACIONES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 305.
 
@@ -3955,9 +3995,7 @@ La Reconstrucción es la construcción que se realiza posterior a una demolició
 
 Para la autorización de las reconstrucciones, se requerirá cubrir los requisitos comunes que señala el presente Código para las Licencias de Construcción en cualquiera de sus modalidades.
 
-#### SECCIÓN SEPTIMA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AUTOCONSTRUCCIÓN
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN SEXTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA RESTAURACIONES DE INMUEBLES CATALOGADOS Y SUS COLINDANTES
 
 ###### Artículo 306.
 
@@ -3973,7 +4011,9 @@ Para efectuar obras de reestructuración de edificaciones peligrosas o ruinosas,
 
 En el caso de usos habitacionales se atenderá a lo que dispone el artículo 306. En el entendido de cuando se requiera DRO, la responsiva que éste otorgue, abarcará la validación de la parte estructural, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
 
-#### SECCIÓN OCTAVA. DE LA LICENCIA DE CONSTRUCCIÓN PARA DEMOLICIONES
+#### SECCIÓN SEPTIMA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AUTOCONSTRUCCIÓN
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 308.
 
@@ -3983,7 +4023,7 @@ La Restauración de inmuebles catalogados y sus colindantes, constituyen el conj
 
 Para las restauraciones de bienes inmuebles referidos en el artículo anterior, deberá estarse, además de lo dispuesto por el presente Código, a la autorización de la Autoridad Federal competente, así como a los requisitos y formalidades que exija la normativa aplicable.
 
-#### SECCIÓN NOVENA. DE LA LICENCIA DE CONSTRUCCIÓN ESPECIAL
+#### SECCIÓN OCTAVA. DE LA LICENCIA DE CONSTRUCCIÓN PARA DEMOLICIONES
 
 ###### Artículo 310.
 
@@ -4017,7 +4057,7 @@ La Licencia de Construcción en la modalidad de autoconstrucción, será gratuit
 
 En las autoconstrucciones que cumplan con los requisitos señalados en el artículo 310 del presente ordenamiento, la responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados.
 
-#### SECCIÓN DECIMA. DE SU EXPEDICIÓN, VIGENCIA Y REFRENDO
+#### SECCIÓN NOVENA. DE LA LICENCIA DE CONSTRUCCIÓN ESPECIAL
 
 ###### Artículo 314.
 
@@ -4043,9 +4083,37 @@ Para efectuar obras de demolición de edificaciones peligrosas o ruinosas, adjun
 
 Para los grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
 
-#### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
+#### SECCIÓN NOVENA - BIS. DE LA LICENCIA DE CONSTRUCCIÓN DE USOS Y ACTIVIDADES ESPECIALES
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2012)</small>
+RESERVADAS AL H. AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 325 A. Corresponde al H. Ayuntamiento autorizar los usos y actividades especiales, relativos a estaciones de servicios de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y bases de encierro con abastecimiento de diesel, y para ello la Dirección someterá el expediente respectivo a la consideración de la Comisión de Desarrollo Urbano.
+
+Para efectos de lo anterior, la Dirección será la encargada de recibir y analizar la información necesaria para la integración del mencionado expediente, por lo que los interesados deberán presentar a esa unidad administrativa, los requisitos siguientes:
+
+I. Original y copia de la información de uso de suelo;
+
+II. Copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio; o en su caso, copia del instrumento que acredite la legal posesión del inmueble o en su defecto anuencia del propietario donde manifieste su conformidad para el trámite solicitado;
+
+III. Tres copias del proyecto firmado por el propietario y/o poseedor, así como por los corresponsables en su caso;
+
+IV. Estudio de compatibilidad urbanística;
+
+V. Para el caso de estaciones de servicio de gasolina y/o diesel deberá presentar un proyecto básico definitivo aprobado por Pemex Refinación; y,
+
+VI. Tratándose de las estaciones de Gas L.P., se requerirá además el visto bueno emitido por parte de la Secretaria de Energía.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 325 B. Cuando los solicitantes no reúnan la totalidad de los requisitos que establece el artículo anterior, o carezcan de algún elemento que determine la Dirección, ésta requerirá al solicitante a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
+
+Una vez que se presenten todos los requisitos, la Dirección procederá a realizar el análisis técnico del expediente conformado y una vez concluido éste, deberá gestionar su agenda en la sesión más próxima de la Comisión de Desarrollo Urbano, a efecto de que ésta realice el estudio, discusión y en su caso dictaminación de conformidad con la normativa aplicable, para que con posterioridad se someta a la consideración del pleno del H. Ayuntamiento.
+
+De resultar favorable la determinación del H. Ayuntamiento, corresponderá a la Dirección continuar con el trámite de la licencia de construcción a petición expresa de los interesados, para lo cual se habrá de seguir el procedimiento previsto en el presente Código.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### Artículo 316.
 
@@ -4093,9 +4161,11 @@ II. Plano de sembrado indicando la ubicación de los unidades con proyecto tipo 
 
 Previo a la obtención de la Licencia de Construcción Especial, se podrá solicitar la Licencia para realización de Trabajos Preliminares y de Cimentación, la cual consiste en la autorización de todas aquellas actividades que comprendan la limpieza de terreno, movimiento de tierras, trazo, excavación, relleno, nivelación, compactación y cualquier procedimiento de cimentación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2013)</small>
+
 ###### Artículo 321.
 
-Se podrá autorizar la Licencia para realización de Trabajos Preliminares y de Cimentación, siempre y cuando se actualicen la totalidad de los supuestos siguientes:
+Se podrá autorizar la licencia para realización de trabajos preliminares y de Cimentación, siempre y cuando se actualicen la totalidad de los supuestos siguientes:
 
 I. Que se trate edificaciones nuevas;
 
@@ -4105,7 +4175,9 @@ III. Que la construcción tenga una superficie mayor a los 60 metros cuadrados y
 
 IV. Que el uso sea predominante o compatible con la zona en que se ubique; y,
 
-V. Que no se trate de usos con normas particulares.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+V. Que no se trate de usos y actividades especiales.
 
 ###### Artículo 322.
 
@@ -4143,11 +4215,47 @@ Esta autorización en ningún caso se considerará una Licencia de Construcción
 
 En caso de que el solicitante no obtenga la Licencia de Construcción en el tiempo determinado por la Dirección, podrá otorgarse prórroga por una sola ocasión de la licencia para la realización de trabajos preliminares, tratándose de construcciones que excedan los 500 metros cuadrados de construcción.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2013)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
+#### SECCIÓN NOVENA - TER. DE LA LICENCIA DE CONSTRUCCIÓN PARA ESPACIOS DE APUESTAS
 
-#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 325 C. Tratándose de los espacios para apuestas, es competencia del H. Ayuntamiento emitir la opinión favorable en los términos de la Ley Federal de Juegos y Sorteos y su Reglamento y para tales efectos, la Dirección someterá el expediente respectivo a la consideración de la Comisión de Desarrollo Urbano.
+
+Para efectos de lo anterior, la Dirección será la encargada de recibir la información necesaria para la integración del mencionado expediente, por lo que los interesados deberán presentar los siguientes requisitos:
+
+I. Original y copia de la información de uso de suelo;
+
+II. Estudio de compatibilidad urbanística;
+
+III. Copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio; o en su caso, copia del instrumento que acredite la legal posesión del inmueble o en su defecto anuencia del propietario donde manifieste su conformidad para el trámite solicitado;
+
+IV. Copia de la autorización vigente por parte de la Secretaría de Gobernación, así como el original o copia certificada para cotejo de la misma; y,
+
+V. Tres copias del proyecto firmado por el propietario y/o poseedor, así como por los corresponsables en su caso.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 325 D. El análisis y dictaminación del expediente integrado se efectuará de conformidad con el procedimiento que se describe en el artículo 325 - B de este instrumento.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+Artículo 325 E. Para la obtención de la licencia de construcción, además de los requisitos comunes que señala el presente Código, los interesados deberán presentar a la Dirección los siguientes requisitos:
+
+I. Opinión favorable del H. Ayuntamiento, en los términos de la normativa federal aplicable;
+
+II. Cumplir con un cajón de estacionamiento por cada 20 metros cuadrados del área;
+
+III. Manifiesto de impacto vial, manifiesto de impacto ambiental y visto bueno de la Dirección de Fiscalización y Control, así como los estudios, dictámenes e información que le requiera la Dirección para esta clasificación; y,
+
+IV. Los demás requisitos que establezca la normativa federal aplicable para su funcionamiento.
+
+#### SECCIÓN DECIMA. DE SU EXPEDICIÓN, VIGENCIA Y REFRENDO
+
+#### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 326.
 
@@ -4203,7 +4311,7 @@ En caso de que los planos infrinjan los requisitos solicitados en las normas té
 
 Lo anterior independientemente de las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse.
 
-#### SECCIÓN CUARTA. DE LAS LICENCIAS
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 333.
 
@@ -5173,7 +5281,7 @@ Cualquier tipo de anuncio no podrá invadir ni prolongarse sobre las propiedades
 
 ### CAPÍTULO IX. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES PARA FIJAR, INSTALAR O MODIFICAR ANUNCIOS
 
-#### SECCIÓN QUINTA. DE LOS PERMISOS
+#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
 
 ###### Artículo 422.
 
@@ -5231,9 +5339,7 @@ Cuando haya sido necesario retirar un anuncio, la Dirección no dará trámite p
 
 En el supuesto de que alguna empresa promotora de anuncios, a la que se haya tenido que retirar tres o más anuncios, además de la sanción a la que se haga acreedor cada anuncio individual, se le restringirá la autorización para instalar nuevos anuncios en el Municipio por un plazo mínimo de dos años.
 
-#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 ###### Artículo 432.
 
@@ -5319,7 +5425,7 @@ Tratándose de daños a los anuncios que hayan sido ocasionados por casos fortui
 
 El retiro de los anuncios, no exime de responsabilidad al Especialista Estructural, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse por la actividad para la cual haya otorgado su responsiva.
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
+#### SECCIÓN CUARTA. DE LAS LICENCIAS
 
 ###### Artículo 443.
 
@@ -5377,7 +5483,7 @@ Recibida la solicitud con la información y documentación completa, la Direcci�
 
 Cuando se soliciten anuncios adosados o autosoportados denominativos en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio.
 
-#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
+#### SECCIÓN QUINTA. DE LOS PERMISOS
 
 ###### Artículo 449.
 
@@ -5435,7 +5541,9 @@ II. Colocar en lugar visible del anuncio el nombre, denominación o razón socia
 
 III. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio.
 
-#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
+#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 453.
 
@@ -5467,7 +5575,7 @@ Los permisos tendrán una vigencia de hasta 120 días, excepto en los casos a qu
 
 La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
 
-#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
 
 ###### Artículo 456.
 
@@ -5489,7 +5597,7 @@ La solicitud de la autorización respectiva, deberá reunir los requisitos comun
 
 La vigencia máxima de la autorización será de 60 días a partir de la fecha señalada para la instalación, prorrogable por el periodo que determine la Dirección.
 
-#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
+#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
 
 ###### Artículo 459.
 
@@ -5499,7 +5607,7 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que en su caso haya cubierto el Municipio a cargo del infractor, con motivo del retiro de sus anuncios.
 
-#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
+#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
 
 ###### Artículo 460.
 
@@ -5535,7 +5643,7 @@ Con el objeto de facilitar la aplicación del presente Código, y como materia c
 
 ### CAPÍTULO I. DE LA NOMENCLATURA
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
+#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
 
 ###### Artículo 462.
 
@@ -5573,7 +5681,7 @@ VIII. Que la nomenclatura no tenga palabras confusas, ofensivas, injuriosas o co
 
 Para los asentamientos irregulares, la Dirección asignará nomenclatura, siempre y cuando se encuentre en proceso de regularización.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
+#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
 
 ###### Artículo 467.
 
@@ -5689,7 +5797,7 @@ Como único caso y por la antigüedad e importancia de la nomenclatura "Hermanos
 
 Del mismo modo, la Dirección podrá determinar que permanezca nomenclatura distinta en todo lo largo de los cauces correspondientes a las vialidades, aún y cuando de conformidad a lo señalado en el artículo 465 fracción III de este ordenamiento deban de corresponderle una sola nomenclatura, esto por el arraigo con la que cuenta la misma y por su trascendencia en cuanto a tradiciones, eventos y fechas históricas.
 
-#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
+#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
 
 ###### Artículo 482.
 
@@ -5751,7 +5859,7 @@ Una vez que la Dirección tenga conocimiento que algún bien de uso común desti
 
 Corresponderá a los desarrolladores de fraccionamientos o desarrollos en condominio, la instalación de las placas de nomenclatura, de acuerdo a las especificaciones que la propia Dirección le señale.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
 ###### Artículo 493.
 
@@ -5937,7 +6045,7 @@ Para los requisitos, formalidades, seguimiento y culminación en la atención de
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
 
 ###### Artículo 523.
 
@@ -5969,7 +6077,7 @@ Corresponde a la Dirección imponer, por delegación expresa que el Presidente M
 
 La Dirección hará del conocimiento de la Dirección General de Verificación Normativa los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 527.
 
@@ -5997,7 +6105,7 @@ Corresponde a la Dirección General de Verificación Normativa imponer, por dele
 
 La Dirección General de Verificación Normativa hará del conocimiento de la Dirección los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 531.
 
@@ -6015,7 +6123,7 @@ Las dependencias y entidades municipales que ostenten el carácter de autoridade
 
 ### CAPÍTULO V. MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ###### Artículo 534.
 
@@ -6029,7 +6137,7 @@ Para los efectos del artículo anterior, se considerarán medidas de seguridad, 
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán de conformidad con el presente Código y el Código del Procedimiento Administrativo, ello sin perjuicio de las sanciones que en su caso correspondan.
 
-#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 537.
 
@@ -6087,9 +6195,7 @@ Para el caso de la clausura temporal, o suspensión temporal o definitiva, parci
 
 La diligencia de levantamiento de sellos de clausura o suspensión, cuando procedan, sólo podrá realizarse mediante orden escrita de la Dirección General de Verificación Normativa.
 
-#### SECCIÓN SÉPTIMA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE TERRAZAS MÓVILES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
 
 ###### Artículo 543.
 
@@ -6111,7 +6217,7 @@ VI. Las demás que se encuentren previstas en la Ley de Fraccionamientos y el C�
 
 Transcurrido el plazo señalado para el cumplimiento de las acciones o medidas ordenadas, el desarrollador dará aviso a la Dirección, según sea el caso para que ésta proceda a inspeccionar su cumplimiento.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
 
 ###### Artículo 545.
 
@@ -6175,7 +6281,7 @@ Si vencido el plazo no se cumpliera la orden, la Dirección General de Verificac
 
 Asimismo, la Dirección General de Verificación Normativa podrá clausurar cualquier construcción que se haya ejecutado o se esté ejecutando que contravenga lo establecido en el POTE, el Plano de Zonificación y los que de éstos deriven.
 
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 551.
 
@@ -6211,7 +6317,9 @@ I. Por haber modificado las especificaciones establecidas por la Dirección; y,
 
 II. Por impedir u obstaculizar a los inspectores de la Dirección y de la Dirección General de Verificación Normativa, el cumplimiento de sus funciones.
 
-#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+#### SECCIÓN SÉPTIMA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 554.
 
@@ -6219,17 +6327,17 @@ La Dirección podrá imponer las medidas de seguridad previstas en el Código de
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
 
-#### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 554 - A.
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
-#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
 
-#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 555.
 
@@ -6255,9 +6363,7 @@ La imposición de cualquiera de las sanciones administrativas contenidas en este
 
 Para la aplicación, determinación, imposición y caducidad de las sanciones previstas en este Código, se estará a lo dispuesto por el Código del Procedimiento Administrativo.
 
-#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
 
 ###### Artículo 561.
 
@@ -6307,7 +6413,7 @@ IV. Por haberse otorgado con violación a lo dispuesto por este Código y demás
 
 V. Cuando el interesado incumpla las condiciones impuestas en la licencia otorgada, o se actualicen los supuestos a los que la misma se haya sujetado.
 
-#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
 
 ###### Artículo 567.
 
@@ -6346,6 +6452,8 @@ III. Por estar privado de su libertad, ya sea por estar sujeto a proceso o por h
 ###### Artículo 570.
 
 Para los efectos del artículo precedente, se considera reincidente a aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código y de la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa en la materia.
+
+#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 571.
 
@@ -6424,6 +6532,10 @@ En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por
 ###### Artículo 579 - A.
 
 Será aplicable en lo conducente la presente sección, a los peritos topógrafos que intervengan en la materia de las construcciones, siempre y cuando no guarde relación con el apartado de fraccionamientos y desarrollos en condominio.
+
+#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 580.
 
@@ -6577,15 +6689,15 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73.</small>
 
 > <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201.</small>
 
-> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 52 A LA 53.</small>
+> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74.</small>
 
 > <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70.</small>
 
-> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 54 A LA 55.</small>
+> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75.</small>
 
 > <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75.</small>
 
@@ -6702,6 +6814,12 @@ P.O. 23 DE OCTUBRE DE 2012.
 PRIMERO.- Las presentes modificaciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones normativas municipales que se opongan a la presente modificación.
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO.- Las presentes modificaciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
