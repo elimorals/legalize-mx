@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-prestacion-de-7660
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-25"
-last_updated: "2010-08-25"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de agosto de 2010.
 
@@ -179,25 +179,101 @@ Es obligación de las dependencias municipales usuarias, formular sus requerimie
 
 El Comité de Adquisiciones tiene por objeto el coadyuvar como instancia administrativa de carácter consultivo y toma de opinión en el procedimiento de adquisiciones, arrendamientos y contratación de servicios que realiza la Secretaría de Administración, mismo que se crea con el propósito de auxiliar a instancia y solicitud de la misma Secretaría, apoyando asimismo a esta Dependencia a determinar las acciones que permitan optimizar los recursos que se destinen a las operaciones reguladas por el presente. En los casos de excepción, en sus distintas etapas, la opinión del Comité tendrá carácter de Dictamen definitivo, que será la base y autorización para la adquisición o contratación respectiva, la cual será instrumentada por la misma Secretaría de Administración.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-El Comité de Adquisiciones se integrará con los titulares de las dependencias que se indican a continuación:
+El Comité de Adquisiciones se integrará con los titulares de las dependencias, y ciudadanos que se indican a continuación:
 
-I.- Secretario de Administración como Presidente;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-II.- Director de Adquisiciones como Secretario;
+I.- Secretario de Administración como Presidente, con derecho a voz y voto;
 
-III.- Secretario de Ayuntamiento como Vocal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-IV.- Secretario de Finanzas y Tesorería como Vocal;
+II.- Director de Adquisiciones como Secretario, con derecho a voz y voto;
 
-V.- Síndico Primero del R. Ayuntamiento como Vocal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-VI.- Contralor Municipal con derecho a voz, y
+III.- Secretario de Ayuntamiento como Vocal con derecho a voz y voto;
 
-VII.- Titular del Departamento solicitante, con derecho a voz.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+IV.- Secretario de Finanzas y Tesorería como Vocal, con derecho a voz y voto;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+V.- Síndico Primero del R. Ayuntamiento como Vocal, con derecho a voz y voto;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+VI.- Contralor Municipal con derecho a voz;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+
+VII.- Titular del Departamento solicitante, con derecho a voz, y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2013)</small>
+
+VIII.- Tres ciudadanos con derecho a voz y voto.
 
 El titular de cada Dependencia podrá designar por oficio ante la Secretaría de Administración a alguna persona que lo represente ya sea como integrante del Comité de Adquisiciones o para las Sesiones correspondientes a que fuere convocado en cualquiera de los tramites que menciona este Reglamento, siendo facultad exclusiva del titular de cada dependencia designar y revocar a su respectivo representante o suplente por medio de un acuerdo delegatorio otorgando facultades para acudir en su representación. Se podrán entender con el representante o suplente designado todas y cada una de las notificaciones o invitaciones necesarias, empleando para ello cualquier medio como envío de oficios, notificación personal por comparecencia, vía teléfono o electrónica; levantándose la constancia respectiva en estos últimos casos. La notificación realizada al representante se entiende como realizada al titular.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+ARTÍCULO 14 BIS.- La designación de los ciudadanos a que se refiere la fracción VIII del artículo anterior se realizara a través del Presidente Municipal, previa convocatoria pública, debiéndose cumplir con los siguientes requisitos:
+
+I. Ser mexicano, en pleno goce de sus derechos, con una residencia no menor a cinco años en el Municipio de San Nicolás de los Garza, Nuevo León;
+
+II. Tener por lo menos veinticinco años de edad;
+
+III. No haber desempeñado en el periodo de seis años anteriores a su designación, ningún cargo público en la Federación, las Entidades Federativas, Municipios u Organismos Descentralizados, excepto aquellas relacionadas con la docencia;
+
+IV. En caso de haber desempeñado un cargo público, no haber sido inhabilitado para el ejercicio del servicio público.
+
+V. No haber sido condenado por delito intencional mediante sentencia ejecutoria;
+
+VI. No ser ni haber sido miembro de algún Partido Político o Asociación Política en el periodo de cinco años anteriores a la fecha de su designación.
+
+VII. No ser ministro o dirigente de algún culto o asociación religiosa; y
+
+VIII. No tener algún lazo de parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo con el Presidente Municipal, los integrantes del R. Ayuntamiento, los titulares de las Dependencias o Entidades Municipales.
+
+El cargo de los Ciudadanos como integrante del Comité de Adquisiciones, será honorífico y no recibirán remuneración alguna. La duración del cargo será por el periodo de tres años.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+ARTÍCULO 14 BIS 1.- Son causa de remoción de los Ciudadanos integrantes del Comité de Adquisiciones, las siguientes:
+
+I. Faltar en tres ocasiones consecutivas o en cinco ocasiones dentro de un periodo de treinta días sin justificación a las sesiones que se convoquen debidamente para los trabajos del Comité de Adquisiciones;
+
+II. Aceptar el desempeño de algún cargo público remunerado en la Federación, las Entidades Federativas, Municipios u Organismos descentralizados, excepto aquellas relacionadas con la docencia;
+
+III. Ser condenado por delito intencional mediante sentencia ejecutoria;
+
+IV. Inscribirse como miembro algún Partido Político o Asociación Política, durante el desempeño de sus funciones en el Comité;
+
+V. Aceptar el cargo de ministro o dirigente de algún culto o asociación religiosa, durante el desempeño de sus funciones en el Comité; y
+
+VI. Adquirir algún lazo de parentesco durante el desempeño de sus funciones en el Comité, con respecto del Presidente Municipal, los integrantes del R. Ayuntamiento, los titulares de las Dependencias o Entidades Municipales.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+ARTÍCULO 14 BIS 2.- Son causa de terminación del cargo de los Ciudadanos integrantes del Comité de Adquisiciones, las siguientes:
+
+I. La manifestación expresa de los Ciudadanos integrantes del Comité de Adquisiciones para dejar de participar definitivamente en él;
+
+II. La incapacidad física o mental debidamente acreditada;
+
+III. La conclusión del periodo para el cual fueron designados, y
+
+IV. La muerte.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
+
+ARTÍCULO 14 BIS 3.- En caso de remoción o terminación del cargo de los Ciudadanos integrantes del Comité de Adquisiciones, el Presidente Municipal hará una nueva designación previo cumplimiento de los requisitos señalados en el artículo 14 BIS del presente Reglamento.
+
+La falta de nuevas designaciones de Ciudadanos integrantes del Comité de Adquisiciones, no afectará el funcionamiento del mismo y se sujetará a lo dispuesto por el artículo 16 del presente Reglamento.
 
 ###### ARTÍCULO 15.
 
@@ -245,9 +321,11 @@ VI.- Firmar las actas de las sesiones a las que haya asistido, y;
 
 VII.- Ejecutar las demás funciones que le encomiende el Comité en pleno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde a los Vocales del Comité:
+Corresponde a los Vocales y a los miembros Ciudadanos del Comité:
 
 I.- Analizar los puntos que deberán desahogarse en la reunión, contenidos en el orden del día;
 
@@ -750,3 +828,13 @@ LIC. ALEJANDRO LUIS SANDOVAL
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León a los 11-once días del mes de Agosto del 2010 dos mil diez.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESION ORDINARIA DE FECHA 17 DE ENERO DE 2013, POR EL QUE SE REFORMA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS PARA EL GOBIERNO DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
+
+PRIMERO.- Las reformas por modificación y adición al presente Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+SEGUNDO.- Gírense las instrucciones al C. Presidente Municipal para el exacto cumplimiento del presente acuerdo.
