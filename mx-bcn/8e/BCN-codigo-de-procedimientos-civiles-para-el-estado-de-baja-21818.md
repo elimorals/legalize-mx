@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-11-30"
+last_updated: "2013-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1007,7 +1007,7 @@ X.- (DEROGADA, P.O. 10 DE AGOSTO DE 1987)
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
-XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
+XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2469,13 +2469,17 @@ ART. 347.- En caso de ser desechada la recusación, se impondrá al recusante un
 
 ART. 348.- El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
+
+En los asuntos concernientes a alimentos, el pago de honorarios correrá a cargo del Estado cuando la parte interesada no cuente con los recursos económicos requeridos para cumplir con el pago de los mismos. Para que la parte interesada pueda acceder a dicha prestación requiere demostrar al Juez su incapacidad para poder solventar dichos honorarios, mediante la exhibición de documentos o demás medios que el Juez determine necesarios y suficientes para demostrar lo dicho.
+
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ART. 348 BIS.- En las acciones de investigación de paternidad o maternidad, cuando estas se nieguen o se ponga en duda las mismas, podrá pedirse y decretarse la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, también denominada ADN que se practicará conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado, o bien, se podrá designar a un Perito del Instituto de Ciencias Forenses del Estado de Baja California;
+I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado;
 
 II.- El Juez con la presencia de las partes interesadas, sus representantes legales, del Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores e (sic) Dieciocho Años de Edad y la Familia en su caso, y del perito designado, presidirá la diligencia en la cual se tomarán las muestras físicas del presunto progenitor.
 
@@ -3369,13 +3373,13 @@ II.- Las partes y, en su caso, los acreedores diversos, tendrán derecho de exhi
 
 III.- En el caso de que alguna de las partes, o de que los acreedores diversos, dejen de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo o avalúos que se hayan exhibido;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-IV.- En el supuesto de que ninguna de las partes o los acreedores diversos exhiba el avalúo dentro del plazo señalado en la fracción II de este artículo, el Juez, de oficio nombrará un perito autorizado por el Consejo de la Judicatura o el Instituto de Ciencias Forenses del Estado de Baja California;
+IV.- En el supuesto de que ninguna de las partes o los acreedores diversos exhiba el avalúo dentro del plazo señalado en la fracción II de este artículo, el Juez, de oficio nombrará un perito autorizado por el Consejo de la Judicatura.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-V.- Si las partes y los acreedores diversos, exhibieren los avalúos en el plazo a que se refiere la fracción II de este Artículo, y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de los avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por corredor público, Institución Bancaria, o por perito autorizado por el Instituto de Ciencias Forenses del Estado de Baja California; el cual se emitirá dentro de los cinco días siguientes a la aceptación del cargo. El juzgador deberá analizar todos los dictámenes rendidos, para determinar el valor del inmueble hipotecado;
+V.- Si las partes y los acreedores diversos, exhibieren los avalúos en el plazo a que se refiere la fracción II de este Artículo, y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de los avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por corredor público, Institución Bancaria, o por perito autorizado por el Consejo de la Judicatura; el cual se emitirá dentro de los cinco días siguientes a la aceptación del cargo. El juzgador deberá analizar todos los dictámenes rendidos, para determinar el valor del inmueble hipotecado.
 
 VI.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores, aplicando el índice nacional de precios al consumidor que se publique en el Diario Oficial de la Federación o el que en el futuro lo substituya, a menos que conforme al criterio prudente del juzgador, debido a circunstancias imprevistas y extraordinarias, requiera nuevo avalúo; y
 
@@ -4147,7 +4151,7 @@ La apelación se substanciará sumariamente.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 594.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
+ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6251,9 +6255,9 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
-ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas proporcionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, debiendo razonar y sustentar la medida decretada.
+ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas proporcionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor y de las personas con discapacidad, debiendo razonar y sustentar la medida decretada.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6932,3 +6936,19 @@ Tercero.- Se derogan todas las disposiciones que se opongan o contradigan a lo c
 Cuarto.- El Titular del Ejecutivo del Estado, deberá emitir en un plazo que no exceda los 30 días hábiles contados a partir de que entren en vigor las reformas planteadas, un Decreto por el que se modifica el Acuerdo PUBLICADO EL 22 DE ENERO DE 1999 EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, RELACIONADO CON EL CONSEJO DE ADOPCIONES, a fin de que se contemple una descripción de los tiempos de desahogo del procedimiento de adopción los cuales deberán ajustarse para que en conjunto sean acordes a los nueve meses señalados en el mencionado artículo 908 BIS del Código de Procedimientos Civiles y así también en dicho Acuerdo, quede asentada la nueva conformación del Consejo de Adopciones.
 
 Quinto.- De igual forma, el Titular del Ejecutivo Estatal, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes a las presentes reformas, dentro del plazo de treinta días hábiles a partir de su entrada en vigor.
+
+P.O. 25 DE ENERO DE 2013
+
+DECRETO No. 403 POR LO QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 348 Y 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede un plazo de 60 días, a partir de la entrada en vigor del presente Decreto, para que se realicen las adecuaciones reglamentarias y materiales para su cumplimiento.
+
+P.O. 25 DE ENERO DE 2013.
+
+DECRETO No. 408 POR LO QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 348 BIS FRACCIÓN I Y 469 FRACCIONES IV Y V DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los dictámenes, certificaciones y constancias periciales y demás actuaciones que se hayan realizado con anterioridad a la abrogación de la Ley del Instituto de Ciencias Forenses del Estado de Baja California en auxilio y apoyo técnico del Instituto de Ciencias Forenses del Estado, tendrán plena validez jurídica.
