@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2012-12-21"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -247,11 +247,11 @@ En lo que se refiere a los procedimientos previstos por esta Ley, se aplicará s
 
 La Procuraduría estará a cargo del Procurador, quien será titular de la institución del Ministerio Público, y ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 11.
 
-El Procurador emitirá las circulares, instructivos, manuales de organización y de procedimientos, y demás disposiciones que rijan la actuación de los órganos que integran a la Procuraduría, de los agentes del Ministerio Público, agentes de la Policía Ministerial y el resto de sus servidores públicos.
+El Procurador emitirá las circulares, instructivos, manuales de organización y de procedimientos, y demás disposiciones que rijan la actuación de los órganos que integran a la Procuraduría, de los agentes del Ministerio Público, agentes de la Policía Ministerial y peritos, así como del resto de sus servidores públicos.
 
 ###### ARTÍCULO 12.
 
@@ -403,13 +403,13 @@ Los titulares de los órganos que se señalan en el artículo 12 excepto los est
 
 El Reglamento determinará los requisitos que deberán satisfacer los titulares de los órganos de la Procuraduría que no se encuentren bajo el supuesto establecido en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 23.
 
 Los Subprocuradores, el Visitador General y los servidores públicos que tengan bajo su mando a agentes del Ministerio Público en términos del Reglamento, tendrán carácter de agente del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Los Subprocuradores, el Visitador General y los servidores públicos que tengan bajo su mando a agentes del Ministerio Público podrán participar en los programas de capacitación, actualización y especialización dirigidos a los agentes del Ministerio Público, pero no serán miembros del servicio de carrera y para efectos laborales serán considerados trabajadores de confianza.
+Los Subprocuradores, el Visitador General y los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o peritos, podrán participar en los programas de capacitación, actualización y especialización dirigidos a los agentes del Ministerio Público, o en su caso, a peritos, pero no serán miembros del servicio de carrera y para efectos laborales serán considerados trabajadores de confianza.
 
 ###### ARTÍCULO 24.
 
@@ -461,15 +461,25 @@ g) Cumplir las órdenes de rotación; y
 
 h) Cumplir con los requisitos y demás obligaciones que les impongan las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
+Para ingresar y permanecer como perito de carrera, se estará a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+I.- El ingreso se hará por convocatoria pública bajo estos requisitos:
+
+a) Cumplir con los requisitos que señalan los incisos a), e), f), g), h), i), j), k) y l) de la fracción I del artículo anterior, y
+
+b) Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
+
+II.- Para permanecer, deberá satisfacer los requisitos a que se refiere la fracción II del artículo anterior.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Los aspirantes a ingresar como agentes del Ministerio Público deberán contar con el Certificado y registro correspondientes, de conformidad con las disposiciones legales aplicables.
+Los aspirantes a ingresar como agentes del Ministerio Público o Perito, deberán contar con el Certificado y registro correspondientes, de conformidad con las disposiciones legales aplicables.
 
 Ninguna de estas personas podrá ingresar o permanecer en la Procuraduría sin contar con el Certificado y registro vigentes.
 
@@ -479,17 +489,17 @@ El Centro de Evaluación y Control de Confianza del Estado emitirá los certific
 
 El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
-Previo al ingreso como agente del Ministerio Público será obligatorio que la Procuraduría consulte los antecedentes de la persona respectiva en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública en los términos previstos en las disposiciones legales aplicables.
+Previo al ingreso como agente del Ministerio Público o perito, será obligatorio que la Procuraduría consulte los antecedentes de la persona respectiva en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública en los términos previstos en las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 29.
 
-Los agentes del Ministerio Público serán nombrados y removidos de conformidad con esta Ley y demás disposiciones aplicables.
+Los agentes del Ministerio Público y peritos, serán nombrados y removidos de conformidad con esta Ley y demás disposiciones aplicables.
 
 El nombramiento, remoción y el servicio de carrera de los agentes de la Policía Ministerial se sujetará a lo previsto en las disposiciones legales y reglamentarias aplicables.
 
@@ -501,11 +511,11 @@ Los servidores públicos de la Procuraduría serán suplidos en sus ausencias en
 
 ### CAPÍTULO V. SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 31.
 
-El servicio de carrera de procuración de justicia comprende lo relativo a agentes del Ministerio Público.
+El servicio de carrera de procuración de justicia comprende lo relativo a agentes del Ministerio Público y peritos.
 
 ###### ARTÍCULO 32.
 
@@ -697,11 +707,11 @@ Contra la resolución de la Visitaduría General procederá el recurso de inconf
 
 Cuando se resuelva la remoción se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-Cuando la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los agentes del Ministerio Público fue injustificada, éstos sólo tendrán derecho a recibir el pago de una indemnización, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+Cuando la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los agentes del Ministerio Público o peritos fue injustificada, éstos sólo tendrán derecho a recibir el pago de una indemnización, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 La indemnización consistirá en la cantidad equivalente a tres meses de la remuneración que gozaba hasta antes de su separación, remoción, baja, cese o cualquier otra forma de terminación del servicio.
 
@@ -782,3 +792,9 @@ P.O. 30 DE NOVIEMBRE DE 2012.
 P.O. 21 DE DICIEMBRE DE 2012.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE ENERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los dictámenes, certificaciones y constancias periciales y demás actuaciones que se hayan realizado con anterioridad a la abrogación de la Ley del Instituto de Ciencias Forenses del Estado de Baja California en auxilio y apoyo técnico del Instituto de Ciencias Forenses del Estado, tendrán plena validez jurídica.
