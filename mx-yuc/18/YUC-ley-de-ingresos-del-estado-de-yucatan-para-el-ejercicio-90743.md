@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-90743"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 2013.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2012.
 
@@ -221,9 +221,13 @@ El Gobierno del Estado, a través de la Secretaría de Administración y Finanza
 
 PESOS
 
-INGRESOS EXTRAORDINARIOS $ 3,529,490,670.00
+> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
 
-I. Empréstitos $ 389,332,202.00
+INGRESOS EXTRAORDINARIOS $ 3,846'759,281.00
+
+> <small>(REFORMADA, D.O. 25 DE ENERO DE 2013)</small>
+
+I. Empréstitos $ 706'600,813.00
 
 II. Por convenios de entidades paraestatales
 
@@ -237,7 +241,9 @@ IV. Otros ingresos no especificados
 
 Federalizado) $ 5,631,839.00
 
-El Poder Ejecutivo del Estado contratará empréstitos hasta por $389,332,202.00, en los términos establecidos en el Decreto 346 publicado en el Diario Oficial del Gobierno del Estado de Yucatán en fecha 15 de diciembre de 2010.
+> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
+
+El Poder Ejecutivo del Estado contratará empréstitos hasta por $706'600,813.00, en los términos establecidos en las disposiciones normativas y legales vigentes.
 
 Se autoriza al Poder Ejecutivo del Estado para participar de los recursos que aporten los fondos, programas, ramos y cualquier otra partida o concepto que se establezca en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013; así como remanentes de los fondos establecidos en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012.
 
@@ -389,9 +395,11 @@ Ingresos propios del sector paraestatal
 
 y órganos autónomos $ 3,101,466,113.00
 
+> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
+
 ###### Artículo 12.
 
-El total de ingresos para el Ejercicio Fiscal 2013 del Gobierno del Estado de Yucatán, será de: $28,859,915,615.00.
+El total de ingresos para el Ejercicio Fiscal 2013 del Gobierno del Estado de Yucatán, será de $ 29,177'184,226.00.
 
 ###### Artículo 13.
 
@@ -534,3 +542,27 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 25 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Gobierno del Estado de Yucatán, con base en la presente autorización y a efecto de prever el monto y/o partidas para el servicio de la deuda que contraiga al contratar el crédito autorizado, deberá realizar las adecuaciones presupuestales de conformidad con las disposiciones establecidas en la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas deberá asignar los $317'268,611.00 (Trescientos diecisiete millones, doscientos sesenta y ocho mil, seiscientos once pesos 00/100 M.N), objeto de la autorización a que se refiere este Decreto, a las dependencias que presenten y ejecuten los proyectos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Administración y Finanzas deberá incorporar a los informes trimestrales de las finanzas públicas, un mecanismo en el que se informe sobre la aplicación y destino de los recursos objeto de la autorización a que se refiere este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos de este Decreto, se deroga todo aquello que, conforme a la normativa estatal, se oponga al mismo.
