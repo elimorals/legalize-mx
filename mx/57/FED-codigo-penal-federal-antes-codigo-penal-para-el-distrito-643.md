@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2012-06-14"
+last_updated: "2013-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2013.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -5151,15 +5151,15 @@ XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archiv
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
+XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-XVI. Cuando se cometa en caminos o carreteras, y
+XVI.- Cuando se cometa en caminos o carreteras, y
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
-XVII. Cuando el objeto de apoderamiento sea en vías o equipo ferroviario.
+XVII.- Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -6794,3 +6794,7 @@ DECRETO QUE REFORMA LOS ARTÍCULOS 30, 31, 31-BIS, 85, 93, 107 BIS, 225, 260, 26
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+D.O.F. 25 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
