@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2011-11-10"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1295,6 +1295,10 @@ CUARTO. El Estado y los ayuntamientos expedirán la reglamentación en materia d
 
 QUINTO. En los casos de los convenios para el otorgamiento de permisos a que se refiere el artículo 20 de esta Ley, los ayuntamientos, y la Secretaría de Seguridad Pública, contarán con un plazo de noventa días a partir de la publicación de esta Ley, para su celebración.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+
+SEXTO. Los requisitos establecidos en las fracciones III y IV del artículo 24 de esta Ley, serán obligatorios a partir del uno de enero del año 2014.
+
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
 D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el veinte de octubre de dos mil once.
@@ -1316,3 +1320,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ENERO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
