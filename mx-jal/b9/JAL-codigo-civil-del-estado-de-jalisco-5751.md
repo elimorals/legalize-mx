@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2012-10-16"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -8473,15 +8473,25 @@ El incapaz que cause daño, debe repararlo; salvo que la responsabilidad recaiga
 
 Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemnizarlo si se demuestra que el derecho sólo se ejercitó a fin de causar el daño, sin utilidad para el titular del derecho.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
 ###### Art. 1390.
 
 La reparación del daño consistirá a elección del ofendido en el restablecimiento de la situación anterior cuando sea posible o en el pago de daños y perjuicios.
 
-Cuando el daño causado a las personas produzca la muerte o cualquier tipo de incapacidad, el grado de reparación del daño se determinará atendiendo lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base cinco tantos del salario mínimo general diario vigente en la zona donde se causó el daño y se extenderá al número de días de la incapacidad.
+Cuando el daño causado a las personas produzca la muerte o cualquier tipo de incapacidad, el grado de reparación del daño se determinará atendiendo lo dispuesto por la Ley Federal del Trabajo.
 
-En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+Para calcular la indemnización se estará a lo siguiente:
 
-Los créditos por indemnización o reparación del daño son intransferibles y se cubrirán preferentemente en una sola exhibición. Salvo el caso de la subrogación por pago.
+I. En el caso de cualquier incapacidad física, se tomarán como base cinco tantos del salario mínimo general vigente, y
+
+II. En el caso de muerte, se estará a lo previsto en el artículo 502 de la Ley Federal del Trabajo.
+
+En los casos de las dos fracciones que anteceden, será la base el salario mínimo general diario vigente en la zona geográfica donde se causó el daño y se extenderá al número de días de la incapacidad.
+
+En caso de muerte, la indemnización corresponderá a los herederos de la víctima.
+
+Los créditos por indemnización o reparación del daño son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo el caso de la subrogación por pago.
 
 ###### Art. 1391.
 
@@ -18158,5 +18168,9 @@ P.O. 13 DE OCTUBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 16 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE ENERO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
