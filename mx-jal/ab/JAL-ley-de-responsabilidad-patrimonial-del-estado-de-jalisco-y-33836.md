@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidad-patrimonial-del-estado-de-jalisco-y-3383
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-11"
-last_updated: "2010-11-20"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 11 de septiembre de 2003.
 
@@ -103,23 +103,31 @@ El monto de la indemnización por daños y perjuicios materiales se calculará d
 
 Los montos de las indemnizaciones se calcularán de la siguiente forma:
 
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
+
 I. En el caso de daños a la integridad física o muerte:
 
-a) A los reclamantes o causahabientes corresponderá una indemnización equivalente a cinco veces la que fijen las disposiciones conducentes de la Ley Federal del Trabajo para riesgos de trabajo;
+a) A los reclamantes en el caso de daños a la integridad física, corresponderá la indemnización equivalente a cinco veces la que fijen las disposiciones conducentes de la Ley Federal del Trabajo para riesgos de trabajo;
 
-b) Además de la indemnización prevista en la fracción anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos comprobables que en su caso se eroguen, de conformidad con la propia Ley Federal del Trabajo en lo que se refiere a riesgos de trabajo.
+b) En el caso del fallecimiento del afectado, corresponderá a los causahabientes la indemnización fijada en el artículo 502 de la Ley Federal del Trabajo;
 
-Los gastos médicos serán considerados sólo en los casos en que el reclamante no tenga derecho a su atención en las instituciones estatales o federales de seguridad social; lo anterior, no aplica si la autoridad tiene contratado seguro de responsabilidad civil a terceros que cubra dichos gastos o se trate de gastos médicos de emergencia; y
+c) Además de la indemnización prevista en los dos incisos anteriores, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos comprobables que, en su caso, se eroguen, de conformidad con la propia Ley Federal del Trabajo en lo que se refiere a riesgos de trabajo.
 
-c) El pago del salario o percepción comprobable, que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, que no excederá del monto de cinco salarios mínimos diarios vigentes en la Zona Metropolitana de Guadalajara, será considerado sólo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social.
+Los gastos médicos serán considerados sólo en los casos en que el reclamante no tenga derecho a su atención en las instituciones estatales o federales de seguridad social; lo anterior no aplica si la autoridad tiene contratado seguro de responsabilidad civil a terceros que cubra dichos gastos o se trata de gastos médicos de emergencia; y
 
-En el caso que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta tres salarios mínimos diarios vigentes en la Zona Metropolitana de Guadalajara;
+d) El pago del salario o percepción comprobable, que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, que no excederá del monto de cinco salarios mínimos diarios vigentes en la zona geográfica que corresponda, será considerado sólo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social.
 
-II. En el caso de daño moral, la autoridad calculará el monto de la indemnización de acuerdo a los criterios establecidos por el Código Civil del Estado de Jalisco, tomando igualmente la magnitud del daño.
+En el caso de que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta tres salarios mínimos diarios vigentes en la zona geográfica que corresponda;
 
-La indemnización por daño moral que las entidades estén obligadas a cubrir no excederá del equivalente de tres mil seiscientos cincuenta salarios mínimos vigentes en la Zona Metropolitana de Guadalajara, por cada reclamante afectado; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
 
-III. En el caso de perjuicios debidamente comprobados, causados a personas con actividades empresariales, industriales, agropecuarias, comerciales, de servicios o concesionarios del Estado o de los municipios, el monto máximo de la indemnización será de veinte mil días de salarios mínimos vigentes en la Zona Metropolitana de Guadalajara, por todo el tiempo que dure el perjuicio, por cada reclamante afectado.
+II. En el caso de daño moral, la autoridad calculará el monto de la indemnización de acuerdo con los criterios establecidos por el Código Civil del Estado de Jalisco, tomando igualmente la magnitud del daño.
+
+La indemnización por daño moral que las entidades estén obligadas a cubrir no excederá del equivalente de tres mil seiscientos cincuenta salarios mínimos vigentes en la zona geográfica que corresponda, por cada reclamante afectado, y
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
+
+III. En el caso de perjuicios debidamente comprobados, causados a personas con actividades empresariales, industriales, agropecuarias, comerciales, de servicios o concesionarios del Estado o de los municipios, el monto máximo de la indemnización será de veinte mil días de salarios mínimos vigentes en la zona geográfica que corresponda, por todo el tiempo que dure el perjuicio, por cada reclamante afectado.
 
 ###### Artículo 12.
 
@@ -374,5 +382,9 @@ P.O. 22 DE FEBRERO DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE ENERO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
