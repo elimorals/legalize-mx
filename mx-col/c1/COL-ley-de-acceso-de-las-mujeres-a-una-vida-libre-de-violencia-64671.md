@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2011-10-15"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 356 PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2011.</small>
-
-Ley publicada en el Suplemento No.2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
+Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
 DEL GOBIERNO DEL ESTADO
 
@@ -393,7 +391,31 @@ d).- La verificación de los hechos y la publicidad de la verdad.
 
 #### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+
+ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social del Estado:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+IX. Promover acciones para prevenir, atender y erradicar el hostigamiento sexual en el ámbito laboral; y
+
+X. Las demás previstas para el cumplimiento de la presente ley.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -513,9 +535,17 @@ a).- General de Gobierno
 
 b).- Desarrollo Social;
 
-c).- Educación; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
 
-d).- Salud y Bienestar Social;
+c).- Educación;
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+d).- Salud y Bienestar Social; y
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+
+e).- Del Trabajo y Previsión Social.
 
 III.- El Secretario Ejecutivo del Consejo de Seguridad Pública;
 
@@ -673,7 +703,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
-#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 55.
 
@@ -719,9 +749,9 @@ XVII.- Celebrar convenios de cooperación, coordinación y concertación con los
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO
+#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
-#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
+#### SECCIÓN OCTAVA. DEL INSTITUTO
 
 ###### ARTÍCULO 57.
 
@@ -759,7 +789,7 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA. DEL CEPAVI
+#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 58.
 
@@ -783,7 +813,7 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
+#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 59.
 
@@ -823,7 +853,7 @@ XVI.- Notificar en su calidad de garante en materia de violencia de género, a l
 
 XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 60.
 
@@ -871,13 +901,15 @@ XV.- Establecer programas temáticos sobre discriminación y violencia de géner
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+
 #### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 #### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 #### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
-
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 61.
 
@@ -935,7 +967,7 @@ XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género e
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 62.
 
@@ -972,6 +1004,8 @@ XIV.- Implementar programas de capacitación que forme el apego a los principios
 XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia de género, violencia, discriminación y derechos humanos de las mujeres; y
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 63.
 
@@ -1373,8 +1407,12 @@ Dado en Palacio de Gobierno, al día 26 del mes de noviembre del año dos mil oc
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
