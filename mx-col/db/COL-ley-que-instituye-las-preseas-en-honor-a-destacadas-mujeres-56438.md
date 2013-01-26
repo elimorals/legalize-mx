@@ -4,7 +4,7 @@ identifier: "COL-ley-que-instituye-las-preseas-en-honor-a-destacadas-mujeres-564
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2011-04-16"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -53,11 +53,11 @@ Es de aprobarse y se aprueba la Ley que Instituye las Preseas en Honor a Destaca
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 1°.
 
-EI Congreso del Estado, en reconocimiento a su trayectoria y merito ejemplar como mujeres destacadas en el ámbito político, social y cultural colimense, instituye las Preseas:
+El Congreso del Estado, en reconocimiento a su trayectoria y merito ejemplar como mujeres destacadas en el ámbito político, social y cultural colimense, instituye las Preseas:
 
 I. La Presea "Rafaela Suárez", será otorgada (sic) aquellas mujeres colimenses, que tengan una trayectoria destacada en la investigación histórica o en cualquiera de las Disciplinas Artísticas como pintura, teatro, danza, etc.;
 
@@ -85,11 +85,11 @@ VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres des
 
 La Presea tendrá el escudo del Estado, el logotipo del Congreso, el número de la Legislatura que la otorga, la inscripción del nombre de la presea que corresponda y el nombre de la persona condecorada.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 3°.
 
-La designación de las preseas que se mencionan en el artículo 1° de esta Ley, se llevará a cabo previa convocatoria que el Congreso del Estado publique anualmente, a más tardar el primero de febrero de cada año, a través de las Comisiones de Educación y Cultura, y de Promoción de la Equidad y Genero, con el objeto de que el Instituto Colimense de la Mujer, los Ayuntamientos de la Entidad, los sectores sociales, organizaciones civiles, empresariales y no gubernamentales, a partir de la publicación de la convocatoria y teniendo como fecha limite el día veinte de febrero de cada año, puedan hacer las propuestas de mujeres que consideren sean merecedoras de las mismas.
+La designación de las preseas que se mencionan en el artículo 1° de esta Ley, se realizará conforme a las bases establecidas en la convocatoria que el Congreso del Estado publicará anualmente, a más tardar el primero de febrero de cada año, en los dos periódicos de mayor circulación en el Estado de Colima; las Comisiones de Educación y Cultura, y de Equidad y Género y Jefas de Familia, tendrán a su cargo la máxima publicidad de la convocatoria, con el objeto de que el Instituto Colimense de las Mujeres, los Ayuntamientos de la entidad, los sectores sociales, organizaciones civiles, empresariales y no gubernamentales, así como la ciudadanía colimense puedan hacer las propuestas de mujeres que consideren sean merecedoras de dichas preseas, a partir de la publicación de la convocatoria y teniendo como fecha límite el día veinte de febrero de cada año.
 
 ###### ARTÍCULO 4°.
 
@@ -103,13 +103,17 @@ III. Descripción de los actos y actividades que fundamenten los méritos de la 
 
 IV. Toda aquella documentación que se considere necesaria para comprobar los actos o actividades a que se hace mención en la fracción anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2013)</small>
+
+###### ARTICULO 5°.
+
+Una vez vencido el plazo para la entrega de las propuestas, se conformará un jurado calificador que analizará las mismas y en un término de diez días hábiles deberá elegir a las mujeres que considere merecedoras de las preseas. El jurado calificador estará integrado por tres personas de la sociedad civil, nombradas una por la Comisión de Educación y Cultura, otra por la Comisión de Equidad y Género y Jefas de Familia y la última por el Instituto Colimense de las Mujeres.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+Concluido el plazo, el jurado calificador entregará a las Comisiones Legislativas correspondientes, la lista de las mujeres acreedoras a las preseas y éstas elaborarán un dictamen que será sometido a la aprobación del pleno del Congreso.
+
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTÍCULO 5°.
-
-Una vez vencido el plazo de la entrega de las propuestas, las Comisiones de Educación y Cultura, y de Promoción de la Equidad y Genero del Congreso del Estado, nombraran conjuntamente a las personas especializadas en la materia encargadas de analizar las propuestas hechas, las cuales en un término de cinco diez hábiles deberán elegir a las mujeres que consideren merecedoras a recibir las preseas.
-
-Concluido este plazo, el grupo calificador entregará a las Comisiones la lista de las mujeres acreedoras a las preseas y éstas elaborarán un dictamen que será sometido a la aprobación del pleno del Congreso.
 
 De ser aprobado por mayoría simple el dictamen, se emitirá el acuerdo respectivo, mismo que deberá darse a conocer tanto a las mujeres merecedoras como a los proponentes, invitando a las primeras a recibirlas en la fecha que al efecto convoque el Congreso del Estado.
 
@@ -149,12 +153,16 @@ Dado en Palacio de Gobierno, a los 17 días del mes de julio del año dos mil si
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.- EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA; Rúbrica.- EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO; Rúbrica.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 4 DE SEPTIEMBRE DE 2010.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-UNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 16 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
